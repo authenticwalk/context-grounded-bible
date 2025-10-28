@@ -52,30 +52,31 @@ BIBLE_VERSIONS = [
 
 # Model configurations for testing
 # Format: (model_id, provider, model_name, tier)
+# NOTE: Requesty.ai requires provider prefix in model_id (e.g., "google/gemini-2.0-flash-exp")
 MODELS_TO_TEST = [
     # Google
-    ("gemini-2.0-flash-exp", "google", "Gemini 2.0 Flash", "low"),
-    ("gemini-exp-1206", "google", "Gemini Experimental", "high"),
+    ("google/gemini-2.0-flash-exp", "google", "Gemini 2.0 Flash", "low"),
+    ("google/gemini-exp-1206", "google", "Gemini Experimental", "high"),
 
     # OpenAI
-    ("gpt-4o-mini", "openai", "GPT-4o Mini", "low"),
-    ("gpt-4o", "openai", "GPT-4o", "high"),
+    ("openai/gpt-4o-mini", "openai", "GPT-4o Mini", "low"),
+    ("openai/gpt-4o", "openai", "GPT-4o", "high"),
 
     # Anthropic Claude
-    ("claude-3-5-haiku-20241022", "anthropic", "Claude 3.5 Haiku", "low"),
-    ("claude-3-5-sonnet-20241022", "anthropic", "Claude 3.5 Sonnet", "high"),
+    ("anthropic/claude-3-5-haiku-20241022", "anthropic", "Claude 3.5 Haiku", "low"),
+    ("anthropic/claude-3-5-sonnet-20241022", "anthropic", "Claude 3.5 Sonnet", "high"),
 
     # Qwen
-    ("qwen-2.5-7b-instruct", "qwen", "Qwen 2.5 7B", "low"),
-    ("qwen-max", "qwen", "Qwen Max", "high"),
+    ("qwen/qwen-2.5-7b-instruct", "qwen", "Qwen 2.5 7B", "low"),
+    ("qwen/qwen-max", "qwen", "Qwen Max", "high"),
 
     # DeepSeek
-    ("deepseek-chat", "deepseek", "DeepSeek Chat", "low"),
-    ("deepseek-reasoner", "deepseek", "DeepSeek Reasoner", "high"),
+    ("deepseek/deepseek-chat", "deepseek", "DeepSeek Chat", "low"),
+    ("deepseek/deepseek-reasoner", "deepseek", "DeepSeek Reasoner", "high"),
 
     # Meta Llama
-    ("llama-3.1-8b-instruct", "meta", "Llama 3.1 8B", "low"),
-    ("llama-3.1-70b-instruct", "meta", "Llama 3.1 70B", "high"),
+    ("meta-llama/llama-3.1-8b-instruct", "meta", "Llama 3.1 8B", "low"),
+    ("meta-llama/llama-3.1-70b-instruct", "meta", "Llama 3.1 70B", "high"),
 ]
 
 def get_versions_by_rarity(min_rarity=1, max_rarity=10):

@@ -9,10 +9,15 @@ import sys
 import os
 import json
 import time
-import requests
 from pathlib import Path
 from typing import Dict, Any, Optional, List
 from datetime import datetime
+
+try:
+    from openai import OpenAI
+except ImportError:
+    print("Error: openai package not installed. Run: pip install openai")
+    sys.exit(1)
 
 # Add parent directory to path for imports
 sys.path.insert(0, str(Path(__file__).parent))
@@ -23,16 +28,15 @@ from database import BibleQuoteDatabase
 
 
 class RequestyAIClient:
-    """Client for interacting with requesty.ai API."""
+    """Client for interacting with requesty.ai API using OpenAI SDK."""
 
     def __init__(self, api_key: str):
         """Initialize the client with API key."""
         self.api_key = api_key
-        self.base_url = "https://api.requesty.ai/v1"  # Adjust if different
-        self.headers = {
-            "Authorization": f"Bearer {api_key}",
-            "Content-Type": "application/json"
-        }
+        self.client = OpenAI(
+            api_key=api_key,
+            base_url="https://router.requesty.ai/v1"
+        )
 
     def query_model(self, model_id: str, prompt: str,
                    max_tokens: int = 500) -> Dict[str, Any]:
@@ -40,7 +44,7 @@ class RequestyAIClient:
         Query a specific model with a prompt.
 
         Args:
-            model_id: The model identifier (e.g., 'gpt-4o', 'claude-3-5-sonnet-20241022')
+            model_id: The model identifier with provider prefix (e.g., 'openai/gpt-4o')
             prompt: The prompt to send to the model
             max_tokens: Maximum tokens in response
 
@@ -50,30 +54,21 @@ class RequestyAIClient:
         start_time = time.time()
 
         try:
-            # Adjust endpoint and payload based on actual requesty.ai API
-            payload = {
-                "model": model_id,
-                "messages": [
+            response = self.client.chat.completions.create(
+                model=model_id,
+                messages=[
                     {"role": "user", "content": prompt}
                 ],
-                "max_tokens": max_tokens,
-                "temperature": 0.1  # Low temperature for accuracy
-            }
-
-            response = requests.post(
-                f"{self.base_url}/chat/completions",
-                headers=self.headers,
-                json=payload,
-                timeout=30
+                max_tokens=max_tokens,
+                temperature=0.1  # Low temperature for accuracy
             )
 
             response_time_ms = (time.time() - start_time) * 1000
 
-            if response.status_code == 200:
-                data = response.json()
+            if response.choices and len(response.choices) > 0:
                 return {
                     "success": True,
-                    "text": data.get("choices", [{}])[0].get("message", {}).get("content", ""),
+                    "text": response.choices[0].message.content,
                     "response_time_ms": response_time_ms,
                     "error": None
                 }
@@ -82,7 +77,7 @@ class RequestyAIClient:
                     "success": False,
                     "text": None,
                     "response_time_ms": response_time_ms,
-                    "error": f"HTTP {response.status_code}: {response.text}"
+                    "error": "No response choices found"
                 }
 
         except Exception as e:
