@@ -1,0 +1,35 @@
+tool_name: test-word-meanings
+experiment: initial-experiment
+revision: 1
+phase: review
+status: pending
+started_at: '2025-10-28T00:52:25.079927Z'
+last_activity: '2025-10-28T00:52:25.149929Z'
+verses:
+- reference: John 1:1
+  book: JHN
+  chapter: 1
+  verse: 1
+  status: complete
+  yaml_file: rev1/JHN-1-1.yaml
+  started_at: '2025-10-28T00:52:25.106383Z'
+  completed_at: '2025-10-28T00:52:25.114376Z'
+- reference: Matthew 5:3
+  book: MAT
+  chapter: 5
+  verse: 3
+  status: complete
+  yaml_file: rev1/MAT-5-3.yaml
+  started_at: '2025-10-28T00:52:25.118697Z'
+  completed_at: '2025-10-28T00:52:25.126763Z'
+- reference: Job 38:36
+  book: JOB
+  chapter: 38
+  verse: 36
+  status: complete
+  yaml_file: rev1/JOB-38-36.yaml
+  started_at: '2025-10-28T00:52:25.131101Z'
+  completed_at: '2025-10-28T00:52:25.139107Z'
+errors: []
+warnings: []
+completed_at: '2025-10-28T00:52:25.095457Z'
