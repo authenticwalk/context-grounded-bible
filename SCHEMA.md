@@ -1276,5 +1276,65 @@ Beyond the basics, `words` entries can include:
 
 ---
 
-**Last Updated:** 2025-10-23
-**Version:** 1.1
+## Cross-Referencing Standards
+
+### Word References
+
+When referencing words across files, use the full directory path format from STANDARDIZATION.md:
+
+**Format:** `{lang}/{word-root}/{word-inflected}`
+
+**Examples:**
+```yaml
+# In a word file
+related_words:
+  - grc/αγαπη/αγαπη      # Greek agape (root form)
+  - heb/אהב/אהב          # Hebrew ahav (root form)
+  - eng/love/love        # English love (base form)
+  - grc/λογος/λογου      # Greek logos (genitive inflection)
+```
+
+**Benefits:**
+- Unambiguous: Full path identifies exact file
+- Language-aware: Language code makes target clear
+- Inflection-aware: Can reference specific forms
+- Bidirectional: Easy to trace relationships
+
+### Topic References
+
+Topics may overlap or reference each other. Use `@` prefix to indicate an alias/reference to another topic file.
+
+**Format:** `{lcc-code}/{slug}` - LCC code + slug for precision and readability
+
+**Examples:**
+```yaml
+# In /bible/topics/BT750/justification/justification.yaml
+related_topics:
+  - BT750/sanctification          # Sibling topic
+  - BT198/atonement               # Different category
+  - @BV4627/sin                   # Alias to practical theology
+
+# If this topic is primarily defined elsewhere
+primary_topic: "@BT750/soteriology"
+see_also:
+  - "@BS1199/covenant"            # Cross-reference to biblical studies
+```
+
+**Common LCC Codes** (for human reference):
+```
+BS1199: Biblical Topics    BT109: Trinity          BT130: Divine Attributes
+BT198:  Christology        BT695: Creation & Fall  BT750: Soteriology
+BT819:  Eschatology        BV210: Worship & Prayer BV4627: Sins & Virtues
+BV4909: Suffering          BX:    Denominations
+```
+
+**Use Cases:**
+- **Aliases** (`@`): When same concept appears in multiple LCC categories
+- **See-also**: Cross-references to related but distinct topics
+- **Hierarchies**: Parent-child relationships between topics
+- **Redirects**: Deprecated or alternate topic names
+
+---
+
+**Last Updated:** 2025-10-28
+**Version:** 1.2
