@@ -348,36 +348,80 @@ spa-rv-1960: "Reina Valera 1960"
 
 ---
 
-## Migration from Previous Format
+### 5. Citation Standards (Inline Source Format)
 
-### Changed Elements:
+**Format:** Inline citations immediately after content: `content {source}`
 
-| Element | Old Format | New Format | Example |
-|---------|-----------|------------|---------|
-| Book code | `mt` (2 letters, lowercase) | `MAT` (3 letters, uppercase) | Matthew |
-| Verse reference | `mt-5-3` | `MAT.5.3` | Matthew 5:3 |
-| Directory | `/bible/mt/5/` | `/bible/MAT/5/` | Matthew chapter 5 |
-| Filename | `MAT.5.003-translations.yaml` | `MAT.5.3-translations.yaml` | Verse data |
-| Semantic clusters | `MAT.5.003-semantic-clusters.yaml` | `MAT.5.3-semantic-clusters.yaml` | Cluster data |
+**Principles:**
+1. Every translation, fact, or analysis must cite its source
+2. Citations appear inline, not as separate fields or lists
+3. No fabricated examples - only cite what exists in data files
+4. Use standardized source codes from `source-abbreviations.yaml`
 
-### Unchanged Elements:
+**Citation Format by Content Type:**
 
-- Language codes: Already using ISO-639-3 ✅
-- Translation key format: Already detailed ✅
-- YAML structure: No changes needed ✅
-- Citation system: No changes needed ✅
+```yaml
+# AI-generated analysis or insights
+rationale: "This demonstrates theological emphasis" {llm-cs45}
+
+# Translation citations in examples
+- example: "Blessed are the poor in spirit"
+  sources: [eng-NIV-2011, eng-ESV]
+
+# Cultural or linguistic notes
+cultural_note: "Sino-Tibetan languages use emptiness concept" {llm-cs45}
+
+# Greek/Hebrew source text
+source_text: "μακάριοι οἱ πτωχοὶ τῷ πνεύματι" {grc-NA28}
+```
+
+**Source Code Structure:**
+
+Incremental format: `{lang}-{version}` → `{lang}-{version}-{year}`
+
+Components:
+- `lang`: ISO-639-3 code (3 letters, lowercase) - **REQUIRED**
+- `version`: Translation abbreviation (UPPERCASE: NIV, ESV, NA28, etc.)
+- `year`: Publication/revision year (4 digits) - **only when multiple editions exist**
+
+**Common Examples:**
+```yaml
+grc-NA28                   # Greek: Nestle-Aland 28th edition (single edition)
+eng-NIV-1984               # English: NIV 1984 (multiple editions exist)
+eng-NIV-2011               # English: NIV 2011
+eng-ESV                    # English: ESV (single primary edition)
+spa-RV-1960                # Spanish: Reina Valera 1960 (multiple editions exist)
+llm-cs45                   # AI analysis: Claude Sonnet 4.5
+```
+
+**Rules:**
+- ✅ Inline format: `content {source}` (curly braces)
+- ✅ Immediate placement: Citation directly after the content it supports
+- ✅ Array format for multiple sources: `sources: [source1, source2, source3]`
+- ❌ NO separate `source:` fields
+- ❌ NO newline citations
+- ❌ NO fabricated translations
+- ❌ NO citations without actual data verification
+
+**Source Authority Levels:**
+
+Per `source-abbreviations.yaml`:
+- **High authority**: Biblical text editions (NA28, UBS5, Biblia Hebraica), established translations (NIV, ESV, NASB)
+- **Medium authority**: Digital platforms (BibleHub, eBible, Bible Gateway)
+- **Low authority**: LLM-generated content (llm-cs45, llm-gpt4) - ALWAYS requires human review
+
+**Rationale:**
+- Enables full traceability of all claims
+- Prevents fabrication or hallucination
+- Maintains academic rigor in analysis
+- Clear distinction between authoritative sources and AI-generated content
+- Inline format keeps content and citations together
+- Incremental specificity (only add year when needed for disambiguation)
+
+**Reference:** See `/source-abbreviations.yaml` for complete version lookup table.
 
 ---
 
-## Benefits
-
-1. **Interoperability:** Compatible with eBible corpus and other Bible NLP tools
-2. **Clarity:** USFM 3.0 codes are unambiguous (MAT vs mt vs Matt vs Matthew)
-3. **Standard compliance:** Aligns with existing biblical scholarship infrastructure
-4. **Future-proofing:** Easy integration with external Bible text sources
-5. **Professional consistency:** Matches established open-source Bible projects
-
----
 
 ## References
 
@@ -392,15 +436,4 @@ spa-rv-1960: "Reina Valera 1960"
 - **BISAC Subject Headings (Religion):** https://www.bisg.org/religion
 - **Index Theologicus (IxTheo):** https://ixtheo.de/Content/IxTheoClassification
 
----
 
-## Implementation Status
-
-- ✅ Standardization documented
-- ✅ Directory structure migrated
-- ✅ Translation files updated
-- ✅ Semantic cluster files updated
-- ✅ Planning documents updated
-- ✅ Source abbreviations updated
-
-**Date implemented:** 2025-10-04
