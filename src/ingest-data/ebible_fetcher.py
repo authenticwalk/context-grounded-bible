@@ -18,8 +18,72 @@ class EbibleFetchError(Exception):
     pass
 
 
+def _fetch_and_structure_verse(book: str, chapter: int, verse: int) -> Dict:
+    """
+    Fetch verse from eBible and structure it according to SCHEMA.md.
+    
+    This is an internal function that adds metadata (verse ref, sources, license)
+    to the raw translations data before caching.
+    
+    Args:
+        book: USFM book code (e.g., "MAT")
+        chapter: Chapter number
+        verse: Verse number
+        
+    Returns:
+        Dictionary with SCHEMA.md structure including verse, translations, sources, license
+    """
+    # Fetch raw translations
+    translations = fetch_verse_from_ebible(book, chapter, verse)
+    
+    # Detect verse ranges and create appropriate notes
+    verse_range_translations = []
+    processed_translations = {}
+    
+    for trans_id, text in translations.items():
+        if text == '<range>':
+            # This verse is part of a range - text is in previous verse
+            verse_range_translations.append(trans_id)
+            # Format the note according to cross-referencing standards
+            prev_verse = verse - 1
+            if prev_verse > 0:
+                processed_translations[trans_id] = f"@see-verse:{book}.{chapter:03d}.{prev_verse:03d}"
+            else:
+                # Edge case: verse 1 marked as range (shouldn't happen but handle it)
+                processed_translations[trans_id] = '<range>'
+        else:
+            processed_translations[trans_id] = text
+    
+    # Build the YAML structure
+    verse_data = {
+        'verse': f"{book}.{chapter:03d}.{verse:03d}",
+        'translations': processed_translations,
+        'sources': [
+            {
+                'url': 'https://github.com/BibleNLP/ebible/tree/main',
+                'description': 'eBible corpus - 1000+ Bible translations'
+            }
+        ],
+        'license': [
+            {
+                'url': 'https://github.com/BibleNLP/ebible/tree/main/metadata/licenses',
+                'note': 'Individual translation licenses vary - see metadata'
+            }
+        ]
+    }
+    
+    # Add metadata note if verse ranges detected
+    if verse_range_translations:
+        verse_data['metadata'] = {
+            'verse_range_translations': verse_range_translations,
+            'note': f"{len(verse_range_translations)} translation(s) use verse ranges - text appears in previous verse"
+        }
+    
+    return verse_data
+
+
 def fetch_verses_from_ebible(book: str, chapter: int, verse: int,
-                use_cache: bool = True) -> Dict[str, str]:
+                use_cache: bool = True) -> Dict:
     """
     Fetch verse from eBible with caching support.
 
@@ -32,20 +96,20 @@ def fetch_verses_from_ebible(book: str, chapter: int, verse: int,
         use_cache: Whether to use cache (default: True)
 
     Returns:
-        Dictionary mapping translation codes to verse text
+        Dictionary containing verse data following SCHEMA.md structure
 
     Example:
-        >>> translations = fetch_verse_from_ebible_cached("MAT", 5, 3)
-        >>> print(f"Found {len(translations)} translations")
+        >>> verse_data = fetch_verses_from_ebible("MAT", 5, 3)
+        >>> print(f"Found {len(verse_data['translations'])} translations")
         Found 1079 translations
     """
 
     # Check cache first if enabled
     if use_cache:
-        return fetch_verse_from_cache(book, chapter, verse, suffix="ebible", onMissing=fetch_verse_from_ebible, cache_root=CACHE_ROOT) 
+        return fetch_verse_from_cache(book, chapter, verse, suffix="translations-ebible", onMissing=_fetch_and_structure_verse, cache_root=CACHE_ROOT) 
 
     else:
-        return fetch_verse_from_ebible(book, chapter, verse)
+        return _fetch_and_structure_verse(book, chapter, verse)
 
 def get_ebible_dir() -> Optional[Path]:
     """
@@ -263,9 +327,9 @@ def main():
             continue
         print(f"Fetching {book} {chapter}:{verse_num} from eBible...")
         try:
-            result = fetch_verses_from_ebible(book, chapter, verse_num)
-            print(f"  Found {len(result)} translations.")
-            exit(0)
+            verse_data = fetch_verses_from_ebible(book, chapter, verse_num)
+            translations_count = len(verse_data.get('translations', {}))
+            print(f"  Found {translations_count} translations.")
         except EbibleFetchError as e:
             print(f"  Error fetching {book} {chapter}:{verse_num}: {e}")
 
