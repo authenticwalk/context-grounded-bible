@@ -1,8 +1,8 @@
 {
   "permissions": {
-    "additionalDirectories": ["./.claude/skills/bible-study-tool-creator/"],
+    "additionalDirectories": ["./.claude/skills/**"],
     "allow": [
-      "Edit(/.claude/skills/bible-study-tool-creator/)",
+      "Edit(/.claude/skills/**)",
       "Edit(/bible-study-tools/)",
       "Edit(/bible/)",
       "Edit(/plan/)",
