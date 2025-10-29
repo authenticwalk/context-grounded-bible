@@ -45,6 +45,19 @@ Examples:
 - Language codes follow (ISO-639-3)
 - This is an open-source project under MIT License
 
+## Writing Style for This Project
+
+**Be Concise:** Trust AI agents to figure out details. Over-explanation increases confusion and token cost.
+- ❌ "You must track tokens. Use the API response. Include all phases: research, generation, review. This is CRITICAL."
+- ✅ "Track tokens_used from API response"
+
+**No One-Off Summaries:** Don't create summary files like `CHANGES-SUMMARY.md` in root. Instead:
+- Create plans in `/plan` directory
+- Update plans with learnings as work progresses
+- Plans evolve, summaries pollute
+
+**Inline Relevant Content:** Don't create separate QUICK reference files. Put relevant parts directly in tool READMEs.
+
 ## Citations
 
 Bible Verses: **Format:** Incremental specificity as needed: `{lang}` → `{lang}-{version}` → `{lang}-{version}-{year}`
