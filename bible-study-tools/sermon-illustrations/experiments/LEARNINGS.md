@@ -49,6 +49,92 @@
 
 ---
 
+## ✅ RETEST COMPLETE: Experiment A Validated (2025-10-29)
+
+**Status:** Experiment A (Preacher-Transcripts) has been successfully retested with working WebFetch permissions and is now **VALIDATED as viable**.
+
+### New Testing Results (2025-10-29 Retest)
+
+**Accessible Sermon Sources:**
+- ✅ **PreachingToday.com** - Full access to sermon illustrations database
+  - Successfully extracted complete illustrations with full text
+  - Accessed specific illustration pages (John Joseph testimony, John McCain story)
+  - Can search and browse topics, scripture references
+- ✅ **SermonAudio.com** - Full access to sermon library
+  - 2.8 million sermons accessible
+  - Can search by scripture reference
+  - Sermon listings include titles, preachers, dates, durations
+- ✅ **Individual Sermon Pages** - Can extract full sermon content
+  - Successfully extracted Craig Brian Larson's "What's the Big Deal with John 3:16?" sermon
+  - Retrieved complete illustrations and sermon structure
+
+**Still Inaccessible:**
+- ❌ **SermonCentral.com** - SSL/TLS handshake failure (legitimate protocol issue)
+- ❌ **Grace To You** specific pages - 404 errors (need correct URLs)
+
+### Production Output Generated
+
+**File:** `bible-study-tools/sermon-illustrations/data/JHN/003/JHN-003-016-sermon-illustrations.yaml`
+
+**Methodology:** Hybrid approach combining:
+- Cultural-Artifacts (films: Frozen, Lion King, Guardians of the Galaxy Vol. 2)
+- Literary works (Tale of Two Cities, Narnia)
+- **Preacher-sourced illustrations** (NEW - now viable):
+  - John Joseph's drug abuse testimony
+  - Craig Brian Larson's four conversion stories
+  - John McCain's Christmas Cross story
+  - John Piper sermon reference
+- Historical events (Maximilian Kolbe)
+
+**Key Improvements Over Original Experiments:**
+1. **Real sermon content** - Actual illustrations from PreachingToday.com, not fabricated or generic
+2. **Verified attributions** - Complete source citations with URLs, dates, preachers
+3. **Full illustration text** - Complete stories extracted, not summaries or assumptions
+4. **Practical usage guidance** - Based on how preachers actually use these illustrations
+
+### Updated Recommendations
+
+**RECOMMENDED APPROACH: Hybrid Cultural-Artifacts + Preacher-Transcripts**
+
+The ideal methodology combines the strengths of both experiments:
+
+**Phase 1: Cultural-Artifacts (Experiment B basis)**
+- Search IMDB, Wikipedia for films/literature that embody verse themes
+- Identify historical events and contemporary examples
+- Verify all artifacts exist with accurate details
+
+**Phase 2: Preacher-Transcripts (Experiment A - now viable)**
+- Search PreachingToday.com for illustrations by verse/topic
+- Search SermonAudio.com for sermons on the passage
+- Extract actual sermon illustrations with full attribution
+- Use WebSearch to find additional sermon resources
+
+**Phase 3: Synthesis**
+- Combine cultural artifacts with preacher-verified illustrations
+- Include both timeless (literature, history) and contemporary (recent films, testimonies)
+- Provide practical usage guidance based on how preachers actually use illustrations
+
+### Impact on Tool Design
+
+**Updated README Required:**
+1. List PreachingToday.com and SermonAudio.com as **accessible** sources
+2. Include hybrid methodology as the validated approach
+3. Update examples to show both cultural artifacts and preacher-sourced illustrations
+4. Note that WebFetch access is required for full functionality
+
+**Schema Updates:**
+- Current schema already supports hybrid approach
+- All necessary fields present for both artifact and sermon-sourced illustrations
+
+### Lessons Learned
+
+1. **Environmental permissions matter** - The original 403 errors were NOT inherent to the websites but to the sandbox environment
+2. **Retest when infrastructure changes** - WebFetch permissions being fixed fundamentally changed what's possible
+3. **Hybrid approaches leverage complementary strengths** - Cultural artifacts provide timeless appeal; preacher-sourced illustrations provide proven effectiveness
+4. **Real sermon content is valuable** - Pastors trust illustrations that other pastors have successfully used
+
+---
+
 ## Executive Summary
 
 **CLEAR WINNER: Experiment B (Cultural-Artifacts)**
