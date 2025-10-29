@@ -1,0 +1,238 @@
+# === METADATA ===
+verse:
+  reference: "Habakkuk 3:9"
+  book: "Habakkuk"
+  chapter: 3
+  verse: 9
+  text: "You uncovered your bow, you called for many arrows. You split the earth with rivers." # {eng-NIV}
+  text_esv: "You stripped the sheath from your bow, calling for many arrows. Selah You split the earth with rivers." # {eng-ESV}
+  text_kjv: "Thy bow was made quite naked, according to the oaths of the tribes, even thy word. Selah. Thou didst cleave the earth with rivers." # {eng-KJV}
+
+tool:
+  name: "sermon-illustrations"
+  experiment: "preacher-transcripts"
+  version: "rev1"
+  generated_date: "2025-10-29"
+
+# === EXPERIMENT STATUS ===
+experiment_status:
+  transcript_extraction_successful: false
+  critical_blocker: "Automated access (403 errors) prevented extraction of sermon transcripts from all major sources"
+  data_quality: "INCOMPLETE - Source metadata only, no actual transcript data extracted"
+  methodology_compliance: "FAILED - Unable to extract REAL sermon content as required by experiment design"
+
+# === CORE THEME (from limited search results analysis) ===
+core_theme:
+  primary_truth: "God as divine warrior preparing for battle on behalf of His people, demonstrating His power and faithfulness to His covenant promises" # {llm-cs45 based on search results, NOT sermon transcripts}
+  common_applications:
+    - "Trust in God's sovereign power during times of uncertainty"
+    - "Remember God's past faithfulness as basis for present faith"
+    - "Recognize that God actively fights for His people"
+  # {llm-cs45 inferred from verse context, NOT from actual sermon analysis}
+  preaching_angles: "Most sermons appear to focus on the broader context of Habakkuk 3:17-19 (faith in hardship) rather than verse 9 specifically. Verse 9 is typically treated as part of the theophany description (vv. 3-15) rather than as a standalone preaching text." # {llm-cs45}
+
+# === SERMON SOURCES (IDENTIFIED BUT NOT ACCESSED) ===
+sermon_sources:
+  - preacher: "John MacArthur"
+    church_or_ministry: "Grace to You / Grace Community Church"
+    sermon_title: "Praise the Lord Anyhow" # {source: search results}
+    sermon_reference: "Habakkuk 3:1-19"
+    date: "Unknown"
+    source_url: "https://www.gty.org/library/sermons-library/1501B/praise-the-lord-anyhow"
+    view_count: null
+    transcript_available: true # (claimed but access blocked)
+    access_status: "BLOCKED - 403 Forbidden error when attempting automated extraction"
+    notes: "MacArthur also has sermon on Hab 3:17-19 titled 'The sovereign Lord is my strength'"
+
+  - preacher: "John Piper"
+    church_or_ministry: "Desiring God / Bethlehem Baptist Church"
+    sermon_title: "Unknown (references to Habakkuk 1:1, 2:4, 3:19)" # {source: search results}
+    date: "1982-10-31" # {source: search results}
+    source_url: "https://www.desiringgod.org/scripture/habakkuk/3/messages"
+    view_count: null
+    transcript_available: "Unknown"
+    access_status: "BLOCKED - 403 Forbidden error"
+    notes: "Also referenced preaching on Hab 3:17-18 at early Passion conference"
+
+  - preacher: "Matt Chandler"
+    church_or_ministry: "The Village Church"
+    sermon_title: "A Deep Yearning" # {source: search results}
+    sermon_reference: "Habakkuk 3"
+    date: "2011-04-10 (series date)" # {source: search results}
+    source_url: "https://www.thevillagechurch.net/resources/series/habakkuk-2"
+    view_count: null
+    transcript_available: "Unknown"
+    access_status: "BLOCKED - 403 Forbidden error"
+    notes: "Part of full Habakkuk series at The Village Church"
+
+  - preacher: "David Platt"
+    church_or_ministry: "Radical"
+    sermon_title: "Multiple 'Pray the Word' episodes on Habakkuk 3:17-18" # {source: search results}
+    podcast_episodes:
+      - "Joy in Hardship (Habakkuk 3:17-18)" # June 2025
+      - "Yet I Will Rejoice in the Lord (Habakkuk 3:17-18)" # July 2022
+      - "Rejoicing in Despair (Habakkuk 3:17-18)" # December 2022
+    date: "2022-2025 (multiple episodes)"
+    source_url: "https://radical.net/podcasts/pray-the-word/"
+    view_count: null
+    transcript_available: false # (podcast format)
+    access_status: "BLOCKED - 403 Forbidden and SSL/TLS errors"
+    notes: "Focus on verses 17-18, not verse 9 specifically"
+
+  - preacher: "Unknown"
+    church_or_ministry: "SermonAudio.com contributor"
+    sermon_title: "The Prophet's Petitions and Praise" # {source: search results}
+    sermon_reference: "Habakkuk 3:1-9"
+    date: "Unknown"
+    source_url: "https://cloud.sermonaudio.com/media/pdf/high/214211625326473.pdf"
+    format: "PDF manuscript"
+    transcript_available: true
+    access_status: "BLOCKED - 403 Forbidden error"
+    notes: "This is the ONLY source found that specifically covers verse 9 (through v. 1-9)"
+
+  - preacher: "Unknown"
+    church_or_ministry: "Grace Still Amazes Blog"
+    sermon_title: "When Bad Gets Worse" # {source: search results}
+    sermon_reference: "Habakkuk 3:16-19"
+    date: "2020-03-29"
+    source_url: "https://gracestillamazes.blog/2020/03/31/when-bad-gets-worse-habakkuk-316-19/"
+    transcript_available: "Partial (blog post format)"
+    access_status: "BLOCKED - SSL/TLS handshake failure"
+
+# === EXTRACTED ILLUSTRATIONS ===
+illustrations:
+  - id: "ill-none"
+    note: "NO ILLUSTRATIONS EXTRACTED - Unable to access any sermon transcripts due to automated access restrictions. This experiment requires actual transcript data which could not be obtained." # {llm-cs45}
+
+# === CONVERGENCE ANALYSIS ===
+convergence_patterns:
+  - pattern: "Insufficient data - unable to perform convergence analysis without access to actual sermon content" # {llm-cs45}
+    sermons_using: []
+    variations: "N/A"
+
+# === UNIQUE APPROACHES ===
+unique_approaches:
+  - preacher: "N/A"
+    approach: "Unable to identify unique approaches without transcript access"
+    why_notable: "N/A"
+
+# === USAGE GUIDANCE ===
+usage_guidance:
+  most_common_structure: "Unable to determine - no transcript data available" # {llm-cs45}
+  illustration_placement: "Unable to determine - no transcript data available" # {llm-cs45}
+  pastoral_framing: "Unable to determine - no transcript data available" # {llm-cs45}
+
+  # What CAN be said from search results:
+  observed_from_search_results: |
+    Most preachers appear to focus on Habakkuk 3:17-19 as the climactic
+    conclusion of the chapter rather than verse 9 specifically. Verse 9
+    is typically included as part of the theophany description (vv. 3-15)
+    showing God's power and past acts of deliverance. The word "Selah"
+    appears in verse 9, indicating this was meant to be sung with a
+    triumphal tone.
+  # {llm-cs45 based on search metadata only}
+
+# === EXEGETICAL INSIGHTS (from accessible commentaries) ===
+exegetical_insights:
+  verse_meaning:
+    warrior_imagery: "The bow represents God as divine warrior. 'Uncovered' or 'stripped the sheath' indicates God removing His bow from its protective case, preparing for battle" # {source: multiple commentaries via search}
+    covenant_connection: "The KJV phrase 'according to the oaths of the tribes' connects this to God's covenant promises to Abraham, Isaac, Jacob, and the Israelites" # {source: commentary via search}
+    judgment_symbolism: "The bow represents the threat of God's vengeance - the longer delayed, the more severe the eventual judgment" # {source: commentary via search}
+    nature_imagery: "'Split the earth with rivers' may refer to torrential downpours causing streams to swell to river-like proportions, part of the storm theophany" # {source: commentary via search}
+
+  literary_context:
+    structure: "Part of Habakkuk's prayer/song (3:1-19), specifically within the theophany description (vv. 3-15)"
+    selah_marker: "Verse 9 includes 'Selah' (also in vv. 3, 13), indicating pause for musical/liturgical reflection"
+    historical_reference: "Recalls God's past acts of deliverance, particularly the Exodus and conquest of Canaan"
+
+# === KEY INSIGHTS ===
+key_insights:
+  - insight: "METHODOLOGICAL INSIGHT: This experiment faces a critical infrastructure challenge - automated access to sermon transcripts is blocked by nearly all major sermon websites (403 errors)" # {llm-cs45}
+    rationale: "The experiment design requires extracting REAL sermon data, but modern web security prevents automated extraction. Manual access or API partnerships would be required for this methodology to succeed." # {llm-cs45}
+
+  - insight: "HOMILETICAL INSIGHT: Habakkuk 3:9 appears to be rarely preached as a standalone text. Most sermons focus on 3:17-19 or treat chapter 3 as a whole." # {llm-cs45 based on search patterns}
+    rationale: "Verse 9 is rich in imagery but functions as part of a longer poetic description. Its value may be more in scholarly study than in standalone sermon application, which explains why preachers typically include it within broader chapter expositions." # {llm-cs45}
+
+  - insight: "TEXTUAL INSIGHT: The verse contains powerful warrior imagery that connects God's present action to His covenant faithfulness and past deliverance" # {source: commentary analysis}
+    rationale: "This imagery would be valuable for sermons on God's sovereignty, His faithfulness to promises, or His active intervention on behalf of His people. The connection to covenant oaths provides theological depth beyond the vivid imagery." # {llm-cs45}
+
+# === RESEARCH CHALLENGES DOCUMENTED ===
+research_challenges:
+  access_blockers:
+    - site: "gty.org (Grace to You)"
+      error: "403 Forbidden"
+      attempted_resources: "John MacArthur sermon transcripts"
+
+    - site: "thevillagechurch.net"
+      error: "403 Forbidden"
+      attempted_resources: "Matt Chandler Habakkuk series"
+
+    - site: "radical.net"
+      error: "403 Forbidden"
+      attempted_resources: "David Platt podcast transcripts"
+
+    - site: "desiringgod.org"
+      error: "403 Forbidden"
+      attempted_resources: "John Piper sermon messages"
+
+    - site: "sermonaudio.com"
+      error: "403 Forbidden"
+      attempted_resources: "PDF sermon manuscripts"
+
+    - site: "Multiple blog sites"
+      error: "403 Forbidden / SSL handshake failures"
+      attempted_resources: "Various sermon posts and manuscripts"
+
+    - site: "enduringword.com, bibleref.com, etc."
+      error: "403 Forbidden"
+      attempted_resources: "Commentary and exposition resources"
+
+  search_limitations:
+    - "YouTube-specific searches did not return direct video IDs or transcript links"
+    - "SermonAudio PDF resources blocked despite being listed as public"
+    - "Most search results provided metadata but not actual transcript content"
+    - "Site-specific searches (site:youtube.com) returned no results"
+
+  methodology_gaps:
+    - "Experiment design assumes automated access to public sermon resources"
+    - "No provision for API access or authenticated data retrieval"
+    - "Web scraping protections on most sermon sites prevent automated extraction"
+    - "YouTube transcript extraction would require authenticated API access"
+
+# === RECOMMENDATIONS FOR FUTURE ITERATIONS ===
+recommendations:
+  technical:
+    - "Establish API partnerships with sermon websites (SermonAudio, YouTube, Desiring God, etc.)"
+    - "Develop authenticated access methods rather than web scraping"
+    - "Consider manual curation of sermon sources with copy-paste extraction"
+    - "Build relationships with churches/ministries for direct transcript access"
+
+  methodological:
+    - "For obscure verses, acknowledge when sermon data is scarce rather than forcing extraction"
+    - "Consider focusing on popular preaching texts where sermon data is more abundant"
+    - "Supplement sermon extraction with published sermon illustration books (which may have better access)"
+    - "Use commentary and exegetical resources as backup when transcripts unavailable"
+
+  scope:
+    - "This experiment may work better for well-known texts (Lord's Prayer, Psalm 23, John 3:16) where sermon content is abundant and sometimes published in books/articles"
+    - "Minor prophets like Habakkuk may require different research approaches"
+    - "Consider a hybrid model: sermon extraction for popular texts, exegetical analysis for obscure verses"
+
+# === METADATA TAGS ===
+tags:
+  - habakkuk
+  - minor-prophets
+  - theophany
+  - divine-warrior
+  - covenant-faithfulness
+  - gods-power
+  - incomplete-extraction
+  - methodology-challenge
+  - access-blocked
+
+quality_assessment:
+  completeness: "10% - Only metadata and search results captured, no actual sermon content"
+  accuracy: "High for what was captured (sermon titles, dates, sources), but represents <5% of intended data"
+  verifiability: "Sermon sources are verifiable (URLs exist), but content could not be extracted"
+  usefulness: "Low for end users - insufficient data for practical sermon illustration use"
+  experiment_success: "FAILED - Core requirement (transcript extraction) could not be completed"

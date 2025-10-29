@@ -1,0 +1,360 @@
+# === METADATA ===
+verse:
+  reference: "John 3:16"
+  book: "John"
+  chapter: 3
+  verse: 16
+  text: "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life." # {eng-NIV}
+
+tool:
+  name: "sermon-illustrations"
+  experiment: "preacher-transcripts"
+  version: "rev1"
+  generated_date: "2025-10-29"
+
+# === CRITICAL LIMITATION ===
+experiment_challenges:
+  primary_issue: "Unable to access sermon transcripts due to 403 access restrictions"
+  technical_details: |
+    Attempted to extract actual sermon transcripts from multiple sources but encountered
+    403 Forbidden errors on all major sermon websites including:
+    - SermonCentral.com
+    - DesiringGod.org (John Piper sermons)
+    - TheGospelCoalition.org (D.A. Carson sermons)
+    - Archive.org sermon collections
+    - PreachingToday.com
+    - SermonAudio.com
+    - Individual church websites
+
+    This prevented extraction of actual sermon transcripts with verifiable timestamps,
+    which is the core requirement of this experiment.
+
+  data_quality_impact: |
+    HIGH IMPACT - The experiment requires ACTUAL sermon transcripts with timestamps.
+    Without access to transcripts, this output contains only:
+    1. Sermon sources identified through web search (but not accessed)
+    2. Illustration summaries from secondary sources (not primary transcripts)
+    3. No verifiable timestamps or direct quotes from actual sermons
+
+    This output does NOT meet the experiment's quality standards and should be
+    considered a FAILED attempt that documents the access limitations encountered.
+
+  methodology_compliance: |
+    Per README guidance: "If you cannot find sermon transcripts for a verse, document
+    that challenge rather than fabricating content."
+
+    This file documents the challenge. No sermon content was fabricated.
+    All information below is marked with source type to distinguish between:
+    - {search-summary} = Information from web search result summaries
+    - {sermon-identified-not-accessed} = Sermon exists but transcript not accessible
+    - {llm-cs45} = Analysis/synthesis by Claude Sonnet 4.5
+
+# === CORE THEME (from limited secondary sources) ===
+core_theme:
+  primary_truth: "God's love for humanity demonstrated through the sacrificial gift of His Son, offering eternal life to all who believe" # {llm-cs45 based on search-summary}
+  common_applications: # {search-summary}
+    - "Understanding the magnitude of God's love ('so loved')"
+    - "The universal scope of salvation ('the world')"
+    - "The nature of saving faith ('whoever believes')"
+    - "The stakes of belief vs. unbelief (eternal life vs. perish)"
+  preaching_angles: "Preachers commonly emphasize different aspects: some focus on God's love, others on the gift of Jesus, others on the call to belief, and still others on the cosmic implications of eternal life vs. perishing" # {llm-cs45 based on search-summary}
+
+# === SERMON SOURCES (IDENTIFIED BUT NOT ACCESSED) ===
+sermon_sources:
+  - preacher: "John Piper"
+    church_or_ministry: "Bethlehem Baptist Church / Desiring God"
+    sermon_title: "God So Loved the World (Part 1-4)" # {search-summary}
+    date: "1994-12-04, 12-11, 12-18, 12-25"
+    source_url: "https://www.desiringgod.org/messages/god-so-loved-the-world-part-1"
+    view_count: null
+    transcript_available: true # {sermon-identified-not-accessed}
+    access_status: "403 Forbidden - could not extract transcript"
+    notes: "Four-part sermon series on John 3:16, referenced as '4 D's of John 3:16' covering danger, design, and other aspects" # {search-summary}
+
+  - preacher: "D.A. Carson"
+    church_or_ministry: "The Gospel Coalition"
+    sermon_title: "The God Who Loves" # {search-summary}
+    date: null
+    source_url: "https://www.thegospelcoalition.org/sermon/the-god-who-is-there-part-9-the-god-who-loves/"
+    view_count: null
+    transcript_available: true # {sermon-identified-not-accessed}
+    access_status: "403 Forbidden - could not extract transcript"
+    notes: "Part 9 of 'The God Who Is There' series, covering John 3:16-21" # {search-summary}
+
+  - preacher: "Tim Keller"
+    church_or_ministry: "Redeemer Presbyterian Church"
+    sermon_title: "You Must Be Born Again" # {search-summary}
+    date: "2019-04-02"
+    source_url: "https://www.thegospelcoalition.org/conference_media/you-must-be-born-again/"
+    view_count: null
+    transcript_available: true # {sermon-identified-not-accessed}
+    access_status: "403 Forbidden - could not extract transcript"
+    notes: "Message from John 3:1-21 at The Gospel Coalition 2019 National Conference in Indianapolis" # {search-summary}
+
+  - preacher: "Tim Keller"
+    church_or_ministry: "Redeemer Presbyterian Church"
+    sermon_title: "Unknown title"
+    date: "1991-01-06"
+    source_url: "https://gospelinlife.com/book-of-the-bible/john-3/"
+    view_count: null
+    transcript_available: true # {sermon-identified-not-accessed}
+    access_status: "403 Forbidden - could not extract transcript"
+    notes: "Sermon on John 3:16-36 from Gospel in Life sermon archive" # {search-summary}
+
+  - preacher: "Paul Tripp"
+    church_or_ministry: "Paul Tripp Ministries"
+    sermon_title: "Divine Generosity (John 3:16-21)" # {search-summary}
+    date: null
+    source_url: "https://www.paultripp.com/john/posts/018-diving-generosity-john-316-21"
+    view_count: null
+    transcript_available: true # {sermon-identified-not-accessed}
+    access_status: "403 Forbidden - could not extract transcript"
+    notes: "Part of weekly 5-minute Bible study series on Gospel of John" # {search-summary}
+
+  - preacher: "Dr. John Pappas"
+    church_or_ministry: "Unknown"
+    sermon_title: "John 3:16-36"
+    date: null
+    source_url: "https://archive.org/details/Dr.JohnPappasJohn3_16-36"
+    view_count: null
+    transcript_available: false # Audio only
+    access_status: "403 Forbidden - could not access details"
+    notes: "Audio sermon archived on Archive.org" # {search-summary}
+
+  - preacher: "Pastor Adam Hill"
+    church_or_ministry: "McCormick's Creek Church"
+    sermon_title: "The Greatest Lie Ever Told - John 3:16" # {search-summary}
+    date: null
+    source_url: "https://archive.org/details/podcast_mccormicks-creek-church-podca_the-greatest-lie-ever-told-j_1000400274586"
+    view_count: null
+    transcript_available: false # Podcast audio
+    access_status: "403 Forbidden - could not access details"
+    notes: "Podcast episode archived on Archive.org" # {search-summary}
+
+  - preacher: "Charles McCall"
+    church_or_ministry: "Unknown"
+    sermon_title: "Four Interesting Points Of John 3:16" # {search-summary}
+    date: null
+    source_url: "https://sermoncentral.com/sermons/four-interesting-points-of-john-3-16-charles-mccall-sermon-on-salvation-149191"
+    view_count: null
+    transcript_available: true # {sermon-identified-not-accessed}
+    access_status: "403 Forbidden - could not extract transcript"
+    notes: "SermonCentral sermon on salvation" # {search-summary}
+
+# === EXTRACTED ILLUSTRATIONS (FROM SECONDARY SOURCES ONLY) ===
+# WARNING: None of these are from actual sermon transcripts. All are from web search summaries.
+# They do not meet the experiment's requirements for verifiable, timestamped sermon content.
+
+illustrations:
+  - id: "ill-1-orphan-boy"
+    source_sermon: "Unknown preacher(s), Unknown date" # {search-summary}
+    source_url: "https://sermoncentral.com/sermon-illustrations/74713/what-an-orphan-boy-learned-about-john-3-16-on-by-sermon-central"
+    timestamp: "N/A - transcript not accessed"
+    type: "story"
+    access_status: "403 Forbidden - could not extract full story"
+
+    illustration_text: |
+      [SUMMARY FROM SEARCH RESULTS - NOT ACTUAL TRANSCRIPT]
+      A young orphaned boy selling papers on a cold Christmas Eve was told by a
+      policeman to go to a mission and say "John 3, verse 16" as the password to
+      get inside. After being warmed by a fireplace, the boy said, "I don't know
+      what John 3, verse 16, means, but it sure will get a cold boy warm."
+      {search-summary}
+
+    setup: "Unknown - transcript not accessed" # {sermon-identified-not-accessed}
+    connection_to_verse: "The story illustrates how John 3:16 provides warmth, shelter, and welcome to those in need, mirroring how God's love in Christ provides spiritual refuge" # {llm-cs45}
+    application: "Unknown - transcript not accessed" # {sermon-identified-not-accessed}
+    delivery_notes: "Unknown - transcript not accessed" # {sermon-identified-not-accessed}
+
+    effectiveness_indicators:
+      - "Story widely circulated on sermon illustration websites, suggesting it has resonated with preachers" # {llm-cs45}
+      - "Emotionally evocative imagery (cold child, Christmas Eve, finding warmth)" # {llm-cs45}
+
+    quality_warning: "This illustration is from a search result summary, not an actual sermon transcript. Cannot verify accuracy, original preacher, or actual usage context."
+
+  - id: "ill-2-tim-tebow"
+    source_sermon: "Multiple preachers, circa 2012-present" # {search-summary}
+    source_url: "https://www.preachingtoday.com/sermons/sermons/2013/february/whats-big-deal.html"
+    timestamp: "N/A - transcript not accessed"
+    type: "historical/contemporary"
+    access_status: "403 Forbidden - could not extract full sermon"
+
+    illustration_text: |
+      [SUMMARY FROM SEARCH RESULTS - NOT ACTUAL TRANSCRIPT]
+      In 2009, college quarterback Tim Tebow wrote "John 3:16" on his eye black
+      during the BCS National Championship Game. Three years later in an NFL playoff
+      game (January 8, 2012), Tebow passed for 316 yards with an average of 31.6
+      yards per completion, and the game's TV rating was 31.6. During and after
+      the game, "John 3:16" became the most searched term on Google, with over
+      90 million searches. This "coincidence" drew massive attention to the verse.
+      {search-summary}
+
+    setup: "Preachers typically introduce this as a remarkable 'coincidence' or example of God's providence in drawing attention to His word" # {llm-cs45}
+    connection_to_verse: "Demonstrates how God can use cultural moments to draw attention to the gospel message of John 3:16; shows the verse's widespread cultural recognition" # {llm-cs45}
+    application: "Unknown specific applications - transcript not accessed, but likely used to show God's sovereignty, cultural impact of Christian witness, or the power of bold faith" # {llm-cs45}
+    delivery_notes: "Unknown - transcript not accessed" # {sermon-identified-not-accessed}
+
+    effectiveness_indicators:
+      - "Contemporary illustration with verifiable facts and statistics" # {llm-cs45}
+      - "Appeals to sports fans and younger audiences" # {llm-cs45}
+      - "Multiple preachers have used this illustration based on search results" # {llm-cs45}
+
+    quality_warning: "This illustration summary is from search results. Cannot verify how specific preachers used it, their setup, or their applications without actual sermon transcripts."
+
+  - id: "ill-3-dl-moody-moorehouse"
+    source_sermon: "Historical account referenced in multiple sermons" # {search-summary}
+    source_url: "Multiple sources reference this story"
+    timestamp: "N/A - historical account"
+    type: "historical"
+    access_status: "Historical story found in search results but not from specific sermon transcript"
+
+    illustration_text: |
+      [SUMMARY FROM SEARCH RESULTS - NOT ACTUAL TRANSCRIPT]
+      A young English preacher named Henry Moorehouse came to Chicago to preach
+      at D.L. Moody's church. Moorehouse preached seven consecutive sermons on
+      John 3:16, emphasizing "that God loves them" each night. This approach
+      initially surprised D.L. Moody but transformed his understanding of God's
+      love and his preaching ministry.
+      {search-summary}
+
+    setup: "Preachers typically use this as a historical illustration of the power of preaching on God's love" # {llm-cs45}
+    connection_to_verse: "Demonstrates the transformative power of deeply meditating on John 3:16 and the central theme of God's love" # {llm-cs45}
+    application: "Unknown specific applications - but likely emphasizes the importance of God's love in preaching and the depth available in this single verse" # {llm-cs45}
+    delivery_notes: "Unknown - no actual sermon transcript accessed" # {sermon-identified-not-accessed}
+
+    effectiveness_indicators:
+      - "Historical credibility - D.L. Moody is a well-known evangelist" # {llm-cs45}
+      - "Shows the verse's enduring power across generations" # {llm-cs45}
+      - "Meta-illustration about preaching itself" # {llm-cs45}
+
+    quality_warning: "This is a historical account found in search results, not from a specific contemporary sermon transcript with verifiable timestamp."
+
+  - id: "ill-4-luther-quote"
+    source_sermon: "Commonly cited in multiple sermons" # {search-summary}
+    source_url: "N/A - historical quote"
+    timestamp: "N/A"
+    type: "quote"
+    access_status: "Historical quote found in search results"
+
+    illustration_text: |
+      [QUOTE FROM SEARCH RESULTS]
+      Martin Luther called John 3:16 "the heart of the Bible, the Gospel in miniature."
+      {search-summary}
+
+    setup: "Preachers typically cite this when introducing John 3:16 to establish its significance" # {llm-cs45}
+    connection_to_verse: "Establishes the verse's theological importance and centrality to Christian faith" # {llm-cs45}
+    application: "Frames the verse as containing the essence of the gospel message" # {llm-cs45}
+    delivery_notes: "Unknown - no specific sermon accessed" # {sermon-identified-not-accessed}
+
+    effectiveness_indicators:
+      - "Authority of Luther's theological reputation" # {llm-cs45}
+      - "Concise and memorable phrasing" # {llm-cs45}
+
+    quality_warning: "Historical quote, not from a specific sermon transcript."
+
+# === CONVERGENCE ANALYSIS ===
+# Based on limited secondary sources only
+convergence_patterns:
+  - pattern: "Emphasis on the magnitude of God's love" # {llm-cs45}
+    sermons_using:
+      - "John Piper (referenced '4 D's' including God's design of love)"
+      - "D.A. Carson (sermon titled 'The God Who Loves')"
+      - "Paul Tripp (titled 'Divine Generosity')"
+    variations: "Cannot determine variations without actual transcripts - would need to see how each preacher uniquely frames God's love" # {sermon-identified-not-accessed}
+    quality_note: "This pattern is inferred from sermon titles and descriptions only, not from actual content analysis"
+
+  - pattern: "Breaking down the verse into components" # {llm-cs45}
+    sermons_using:
+      - "John Piper ('4 D's of John 3:16')"
+      - "Charles McCall ('Four Interesting Points')"
+    variations: "Cannot determine without transcripts" # {sermon-identified-not-accessed}
+    quality_note: "Pattern inferred from sermon titles only"
+
+# === UNIQUE APPROACHES ===
+# Cannot determine without actual sermon transcripts
+unique_approaches:
+  - preacher: "Cannot determine"
+    approach: "Without access to actual sermon transcripts, cannot identify unique approaches or particularly effective methods"
+    why_notable: "This would require comparative analysis of actual sermon content" # {sermon-identified-not-accessed}
+
+# === USAGE GUIDANCE ===
+# Severely limited without actual sermon transcripts
+usage_guidance:
+  most_common_structure: "Cannot determine without access to actual sermon transcripts and timestamps" # {sermon-identified-not-accessed}
+  illustration_placement: "Cannot determine without access to actual sermon transcripts and timestamps" # {sermon-identified-not-accessed}
+  pastoral_framing: "Based on sermon titles only, preachers appear to frame John 3:16 around themes of God's love, divine generosity, and the necessity of belief, but specific framing cannot be determined without transcripts" # {llm-cs45 based on search-summary}
+
+# === KEY INSIGHTS ===
+key_insights:
+  - insight: "John 3:16 is one of the most preached verses in Scripture with abundant sermon content available" # {llm-cs45}
+    rationale: "Web searches revealed dozens of sermons by prominent preachers, suggesting this verse is central to Christian preaching"
+    limitation: "However, this abundance of content is inaccessible due to technical barriers (403 errors), preventing the core experiment objective"
+
+  - insight: "The experiment design requires direct access to sermon transcripts, which is technically challenging" # {llm-cs45}
+    rationale: "Major sermon websites implement access restrictions that prevent automated transcript extraction"
+    implication: "This experiment may need an alternative methodology such as: (1) manual transcript procurement with permission, (2) focus on open-access platforms, (3) partnership with sermon archives, or (4) using sermon books/published transcripts"
+
+  - insight: "Even without transcript access, evidence suggests John 3:16 sermons use diverse illustration types" # {llm-cs45 based on search-summary}
+    rationale: "Search results reference historical stories (D.L. Moody), contemporary events (Tim Tebow), personal testimonies, and theological quotes (Luther)"
+    limitation: "Cannot verify how preachers actually used these illustrations without seeing actual transcripts"
+
+  - insight: "The verse's familiarity creates both opportunities and challenges for preachers" # {llm-cs45}
+    rationale: "Multiple search results referenced how John 3:16 is 'the most famous verse' - preachers must find fresh angles on familiar content"
+    limitation: "Cannot analyze how specific preachers addressed this challenge without transcript access"
+
+# === EXPERIMENT EVALUATION ===
+experiment_evaluation:
+  success_level: "FAILED"
+  success_criteria_met:
+    - "5-10 actual sermon sources identified and extracted": false
+    - "At least 3-5 concrete illustrations extracted from transcripts": false
+    - "All illustrations traceable to specific timestamps in actual sermons": false
+    - "Evidence of diverse preaching styles and contexts": false
+    - "Clear demonstration of how preachers used each illustration": false
+
+  key_validation_failures:
+    - "Cannot provide working URLs with accessible transcripts"
+    - "Cannot provide timestamps for verification"
+    - "Cannot provide direct quotes from actual sermons"
+    - "Cannot verify illustration usage in context"
+
+  lessons_learned: |
+    This experiment requires either:
+    1. Manual transcript procurement (purchasing, requesting permission, or personal attendance)
+    2. Focus on genuinely open-access platforms (public domain sermons, Creative Commons content)
+    3. Partnership agreements with sermon archives
+    4. YouTube transcripts via direct API access (not web scraping)
+    5. Published sermon books as alternative to online transcripts
+
+    The current approach of web-based automated extraction is not viable due to
+    widespread 403 access restrictions across sermon websites.
+
+  recommendation: |
+    For future iterations:
+    - Consider focusing on YouTube sermons where transcript API might be available
+    - Focus on public domain historical sermons (19th century evangelists)
+    - Partner with churches that explicitly make transcripts available
+    - Use published sermon collections (books) as sources
+    - Consider podcasts with show notes that include detailed content summaries
+
+    OR: Pivot experiment to focus on sermon illustration DATABASES (like
+    SermonCentral's illustration section) which are designed for sharing and may
+    have different access policies than full sermon transcripts.
+
+# === METADATA TAGS ===
+# All content tagged to show source quality
+tagging_legend:
+  "{eng-NIV}": "English NIV Bible translation"
+  "{search-summary}": "Information extracted from web search result summaries"
+  "{sermon-identified-not-accessed}": "Sermon exists but transcript was not accessible"
+  "{llm-cs45}": "Analysis or synthesis by Claude Sonnet 4.5 based on available information"
+
+data_integrity_assessment: |
+  LOW - This output does not meet experiment requirements.
+  - No actual sermon transcripts were accessed
+  - No direct quotes from preachers (except historical Luther quote)
+  - No verifiable timestamps
+  - Illustrations are summaries from secondary sources, not primary sermon content
+
+  This file serves as documentation of the technical barriers encountered, not as
+  a successful implementation of the experiment methodology.
