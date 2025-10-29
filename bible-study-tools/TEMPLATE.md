@@ -64,11 +64,19 @@ examples but you can expand this and it must be made relevant to the task, eg. n
 - Verify all translations exist in extracted data files
 - Mark AI-generated insights with `{llm-cs45}` or appropriate model tag
 
+**Attribution Requirements:**
+- [ ] All new sources added to [ATTRIBUTION.md](../../ATTRIBUTION.md) with complete copyright notices
+- [ ] Citation format codes match ATTRIBUTION.md entries
+- [ ] Public domain/open license/fair use designation specified
+- [ ] Purchase or access links included for copyrighted works
+- [ ] Update `source-abbreviations.yaml` if new citation codes needed
+
 **Verification Checklist:**
 - [ ] All translations verified against data files
 - [ ] No fabricated examples
 - [ ] Cross-references checked for accuracy
 - [ ] Strong's numbers validated (if applicable)
+- [ ] All sources exist in ATTRIBUTION.md
 
 ---
 
@@ -190,6 +198,8 @@ All outputs must pass universal validation from [REVIEW-GUIDELINES.md](../../REV
 - ✅ No number predictions
 - ✅ Data file grounding
 - ✅ Follows core principles from CLAUDE.md
+- ✅ Copyright and fair use compliance
+- ✅ New sources added to ATTRIBUTION.md
 
 **Action if Failed:** REJECT - Regenerate with strict adherence
 
@@ -420,6 +430,7 @@ Before generating any output, ensure:
 
 - [ ] Extract data FIRST, analyze SECOND
 - [ ] Cite every fact with inline `{source}` tags
+- [ ] Add new sources to ATTRIBUTION.md immediately
 - [ ] Stay within defined schema structure
 - [ ] Focus on target audience needs
 - [ ] Avoid fabrication - only use extracted data
@@ -443,6 +454,7 @@ Review from these perspectives:
 **Source Reliability:**
 - [ ] Are citations from authoritative sources?
 - [ ] Can every claim be traced?
+- [ ] Are all sources documented in ATTRIBUTION.md?
 
 **Theological Balance:**
 - [ ] Are multiple interpretive traditions represented fairly?
