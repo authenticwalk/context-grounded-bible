@@ -1,12 +1,13 @@
 {
   "permissions": {
-    "additionalDirectories": ["./.claude/skills/bible-study-tool-creator/"],
+    "additionalDirectories": ["./.claude/skills/**"],
     "allow": [
-      "Edit(/.claude/skills/bible-study-tool-creator/)",
+      "Edit(/.claude/skills/**)",
       "Edit(/bible-study-tools/)",
       "Edit(/bible/)",
       "Read(/)",
       "WebFetch",
+      "WebSearch",
       "Deny(./.env)",
       "Deny(./secrets/**)"
       // You can also add other tools you want to allow, e.g., "Bash", "Read", "Write"
