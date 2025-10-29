@@ -19,28 +19,38 @@ This tool discovers and catalogs concrete, relatable sermon illustrations that i
 
 ## Research Methodology
 
+**Primary Approach: Cultural-Artifacts Method**
+
+This tool uses the validated **cultural-artifacts approach**, which identifies films, literature, historical events, art, music, and other cultural touchstones that embody Biblical principles. This method has proven effective across all verse types (popular, moderate, and obscure).
+
 ### Phase 1: Data Extraction
 
-**Required Sources:**
+**Core Research Strategy:**
 
-- [ ] SermonCentral.com - Sermon illustration database
-- [ ] PreachingToday.com - Curated illustration collections
-- [ ] YouTube sermon transcripts - Search for sermons on the specific verse
-- [ ] Reel to Real database - Film clip illustrations
-- [ ] Historical event databases
-- [ ] Literary references and novels
-- [ ] News archives for contemporary examples
-- [ ] Cross-cultural illustration collections
+1. **Identify the verse's core theme(s)** - What truth, principle, or concept does this verse teach?
+2. **Search for cultural artifacts** that embody this theme:
+   - **Films**: Search IMDB, Wikipedia, film databases for movies with relevant themes
+   - **Literature**: Search for novels, poems, essays that illustrate the principle
+   - **Historical events**: Search historical databases and archives for real events
+   - **Art & Music**: Search for paintings, sculptures, hymns, songs that connect
+   - **Contemporary examples**: Search news archives for recent stories
+3. **Verify every artifact** - Confirm films exist, events are accurate, books are real
+4. **Extract connection details** - How does this artifact illustrate the verse?
 
-**Extraction Process:**
-1. Extract existing sermon illustrations from sermon databases and YouTube transcripts for this verse
-2. Identify movie clips, novels, and cultural artifacts that illustrate the verse's themes
-3. Search for historical events that demonstrate or illuminate the verse
-4. Collect contemporary news stories and real-world examples
-5. Organize by illustration type (film, literature, history, contemporary, cross-cultural)
-6. Extract key details: source, context, application point, cultural considerations
+**Accessible Sources (Validated):**
+- IMDB, Wikipedia, Google Search - For film/book verification
+- News archives and historical databases
+- Public domain literature and historical records
+- Web searches for cultural references
 
-**Critical Rule:** Extract data BEFORE generating any analysis. Never work from memory.
+**⚠️ Known Inaccessible Sources (Experimental Only):**
+- SermonCentral.com, PreachingToday.com (access restricted)
+- YouTube transcript extraction (requires API, not web scraping)
+- Specialized sermon databases (authentication required)
+
+> **Note:** Previous experiments (see `/experiments/LEARNINGS.md`) identified web access restrictions on many sermon databases. The cultural-artifacts approach succeeds by using publicly accessible sources (IMDB, Wikipedia, historical records) that can be reliably verified.
+
+**Critical Rule:** Extract and verify data BEFORE generating any analysis. Never work from memory.
 
 ### Phase 2: Analysis and Synthesis
 

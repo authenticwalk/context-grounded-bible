@@ -26,6 +26,29 @@
 
 ---
 
+## ✅ UPDATE: WebFetch Permissions Fixed (2025-10-29)
+
+**Status:** WebFetch permissions have been verified as working in the current environment.
+
+**Testing Results (2025-10-29):**
+- ✅ BibleGateway.com - Successfully fetched
+- ✅ GitHub.com - Successfully fetched
+- ✅ Wikipedia.org - Successfully fetched
+- ❌ docs.claude.com - 503 error (legitimate server error, not permission issue)
+- ❌ example.com - Network domain verification issue (not a permission issue)
+
+**Implications:**
+1. **Experiment A (Preacher-Transcripts) should be retested** - The 403 errors that caused failure were environmental, not inherent to the approach
+2. **README.md has been updated** to reflect:
+   - Cultural-artifacts as the primary validated approach
+   - Known inaccessible sources marked as experimental
+   - Proper research strategy that avoids the original poor assumptions
+3. **Future tool designs** should verify WebFetch access before assuming sources are blocked
+
+**Recommendation:** While WebFetch is now working, Cultural-Artifacts (Experiment B) remains the recommended primary approach due to its proven success and use of reliably accessible public sources (IMDB, Wikipedia, historical records). Experiment A could be valuable as a complementary approach if sermon databases prove accessible with the fixed permissions.
+
+---
+
 ## Executive Summary
 
 **CLEAR WINNER: Experiment B (Cultural-Artifacts)**
