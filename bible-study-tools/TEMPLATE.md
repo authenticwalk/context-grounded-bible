@@ -145,6 +145,23 @@ cross_references:
   - ref: "{BOOK}.{chapter:03d}.{verse:03d}"
     connection: "[How this verse relates]" {llm-cs45}
 
+# Which data did you **use** so future researchers can reproduce it
+sources:
+  websites:
+    # - url: "https://example.com"
+
+  skills:
+    # - name: "linguistics"
+    #   prompt: "In review, what specific criteria should be checked for this skill domain?"
+
+  mcp:
+    # - id: "MCP-001"
+    #   prompt: "What is the core question or output a reviewer must confirm is present for this MCP?"
+
+metadata:
+  date_time: 2025-11-29 18:32:05
+  tokens_used: 10000
+  errors_fixed: 0   # How many errors did the review committee or your validation find and then you had to fix
 ```
 
 ### Schema Guidelines
