@@ -21,14 +21,15 @@
 
 ## Solution Strategy
 
-### Phase 1: Quick Wins
-- [ ] Add web resources to ATTRIBUTION.md with calling formats
-- [ ] Track tokens_used in metadata
-- [ ] Update TEMPLATE.md: inline relevant validation/schema in tool READMEs
-- [ ] Simplify bible-researcher.md
-- [ ] Update CLAUDE.md with conciseness policy
+### Phase 1: Quick Wins (COMPLETED 2025-10-29)
+- [x] Add web resources to ATTRIBUTION.md with calling formats
+- [x] Track tokens_used in metadata (simplified bible-researcher.md)
+- [x] Update TEMPLATE.md: inline relevant validation/schema in tool READMEs
+- [x] Simplify bible-researcher.md (removed verbosity)
+- [x] Update CLAUDE.md with conciseness policy
 
 **Expected:** 15-25% reduction
+**Status:** Infrastructure in place, need to measure actual impact
 
 ### Phase 2: Documentation Refactor
 - [ ] Refactor existing tool READMEs (500 line max, relevant parts inline)
@@ -59,11 +60,28 @@
 - Optimizing researcher instead of experiment phase
 
 **Course correction:**
-- Put web resources in ATTRIBUTION.md with URL formats
-- Inline relevant schema/validation in each tool README
-- Keep bible-researcher.md simple
-- Add conciseness policy to CLAUDE.md
-- Experiments optimize URLs → researcher uses them
+- Put web resources in ATTRIBUTION.md with URL formats ✅
+- Inline relevant schema/validation in each tool README ✅
+- Keep bible-researcher.md simple ✅
+- Add conciseness policy to CLAUDE.md ✅
+- Experiments optimize URLs → researcher uses them ✅
+
+**Changes Made (Commit 5c2bad9):**
+1. **ATTRIBUTION.md**: Added web resources section with URL patterns for BibleHub, Blue Letter Bible, ESV.org, Bible Gateway
+2. **CLAUDE.md**: Added "Writing Style" section with conciseness policy and no one-off summaries rule
+3. **bible-researcher.md**: Simplified metadata section (5 lines vs 13 verbose lines)
+4. **TEMPLATE.md**:
+   - Added token efficiency note (≤500/150 line limits)
+   - Inline relevant validation (not separate files)
+   - Reference ATTRIBUTION.md for URL patterns
+   - Note that experiments optimize URLs
+5. **plan/token-optimization.md**: This living plan (not one-off summary)
+
+**Files Removed from Original Attempt:**
+- ❌ CHANGES-SUMMARY.md (in root - pollution)
+- ❌ web-resources.md (redundant with ATTRIBUTION.md)
+- ❌ REVIEW-GUIDELINES-QUICK.md (separate file - should be inline)
+- ❌ SCHEMA-QUICK.md (separate file - should be inline)
 
 ---
 
