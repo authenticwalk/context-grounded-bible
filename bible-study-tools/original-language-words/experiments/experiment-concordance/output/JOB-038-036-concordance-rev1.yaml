@@ -1,0 +1,104 @@
+# === METADATA ===
+verse:
+  reference: "Job 38:36"
+  book: "JOB"
+  chapter: 38
+  verse: 36
+
+tool:
+  name: "original-language-words"
+  version: "1.0.0"
+  experiment: "concordance"
+  revision: 1
+  generated_date: "2025-10-28"
+
+# === SOURCE TEXT ===
+source_text:
+  language: "heb"
+  text: "מִי־שָׁת בַּטֻּחוֹת חָכְמָה או מִֽי־נָתַן לַשֶּׂכְוִי בִינָֽה" {heb-WLC}
+  transliteration: "mî-šāṯ baṭ-ṭu-ḥō-wṯ ḥāḵ-māh ʾōw mî-nā-ṯan laś-śeḵ-wî ḇî-nāh" {biblehub}
+
+# === WORDS (CONCORDANCE FORMAT) ===
+words:
+  - position: 1
+    strongs: "H4310" {biblehub}
+    original: "מִי" {heb-WLC}
+    transliteration: "mî" {biblehub}
+    gloss: "who" {blueletterbible}
+    lexical_form: "מִי" {blueletterbible}
+    word_type: "interrogative pronoun" {blueletterbible}
+
+  - position: 2
+    strongs: "H7896" {biblehub}
+    original: "שָׁת" {heb-WLC}
+    transliteration: "šāṯ" {biblehub}
+    gloss: "to put, to place" {blueletterbible}
+    lexical_form: "שִׁית" {blueletterbible}
+    word_type: "verb" {blueletterbible}
+
+  - position: 3
+    strongs: "H2910" {biblehub}
+    original: "בַּטֻּחוֹת" {heb-WLC}
+    transliteration: "baṭ-ṭu-ḥō-wṯ" {biblehub}
+    gloss: "inward parts" {blueletterbible}
+    lexical_form: "טֻחָה" {blueletterbible}
+    word_type: "noun" {blueletterbible}
+
+  - position: 4
+    strongs: "H2451" {biblehub}
+    original: "חָכְמָה" {heb-WLC}
+    transliteration: "ḥāḵ-māh" {biblehub}
+    gloss: "wisdom" {blueletterbible}
+    lexical_form: "חׇכְמָה" {blueletterbible}
+    word_type: "noun" {blueletterbible}
+
+  - position: 5
+    strongs: "H176" {biblehub}
+    original: "או" {heb-WLC}
+    transliteration: "ʾōw" {biblehub}
+    gloss: "or" {blueletterbible}
+    lexical_form: "אוֹ" {blueletterbible}
+    word_type: "conjunction" {blueletterbible}
+
+  - position: 6
+    strongs: "H4310" {biblehub}
+    original: "מִֽי" {heb-WLC}
+    transliteration: "mî" {biblehub}
+    gloss: "who" {blueletterbible}
+    lexical_form: "מִי" {blueletterbible}
+    word_type: "interrogative pronoun" {blueletterbible}
+
+  - position: 7
+    strongs: "H5414" {biblehub}
+    original: "נָתַן" {heb-WLC}
+    transliteration: "nā-ṯan" {biblehub}
+    gloss: "to give" {blueletterbible}
+    lexical_form: "נָתַן" {blueletterbible}
+    word_type: "verb" {blueletterbible}
+
+  - position: 8
+    strongs: "H7907" {biblehub}
+    original: "לַשֶּׂכְוִי" {heb-WLC}
+    transliteration: "laś-śeḵ-wî" {biblehub}
+    gloss: "heart, mind" {blueletterbible}
+    lexical_form: "שֶׂכְוִי" {blueletterbible}
+    word_type: "noun" {blueletterbible}
+
+  - position: 9
+    strongs: "H998" {biblehub}
+    original: "בִינָֽה" {heb-WLC}
+    transliteration: "ḇî-nāh" {biblehub}
+    gloss: "understanding" {blueletterbible}
+    lexical_form: "בִּינָה" {blueletterbible}
+    word_type: "noun" {blueletterbible}
+
+# === NOTES (minimal) ===
+notes:
+  - note: "H7907 (שֶׂכְוִי) is a hapax legomenon (appears only once in Scripture, in this verse). Meaning is uncertain - traditionally translated 'heart' or 'mind', but some scholars suggest it may refer to a celestial or meteorological phenomenon." {llm-cs45}
+  - note: "H2910 (בַּטֻּחוֹת) literally means 'inward parts' or 'hidden recesses', often associated with the kidneys as the seat of wisdom and emotion in Hebrew thought." {llm-cs45}
+  - note: "The verse exhibits classic Hebrew poetic parallelism: 'Who put wisdom in X? / Who gave understanding to Y?' - two parallel questions with synonymous structure." {llm-cs45}
+
+# === STATISTICS ===
+word_count: 9
+unique_strongs: 8
+repeated_words: ["H4310"]
