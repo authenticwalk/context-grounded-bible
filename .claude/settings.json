@@ -5,12 +5,19 @@
       "Edit(/.claude/skills/**)",
       "Edit(/bible-study-tools/)",
       "Edit(/bible/)",
+      "Edit(/plan/)",
       "Read(/)",
+      "Write(/bible-study-tools/)",
+      "Write(/plan/)",
       "WebFetch",
       "WebSearch",
+      "Bash",
+      "Glob",
+      "Grep",
+      "Task",
+      "TodoWrite",
       "Deny(./.env)",
       "Deny(./secrets/**)"
-      // You can also add other tools you want to allow, e.g., "Bash", "Read", "Write"
     ]
   }
 }

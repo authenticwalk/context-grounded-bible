@@ -1,0 +1,488 @@
+# Sermon Illustrations
+
+**Version:** 1.0.0
+**Status:** experimental
+**Created:** 2025-10-29
+**Last Updated:** 2025-10-29
+
+---
+
+## Purpose
+
+This tool discovers and catalogs concrete, relatable sermon illustrations that illuminate Biblical truths, including movie clips, historical events, stories, novels, and real-world examples that make abstract theological concepts tangible and memorable.
+
+**Target Audience:** Pastors, Bible teachers, seminary students, small group leaders
+
+**Primary Use Case:** Finding culturally relevant, memorable illustrations for sermons and Bible studies. While AI can generate generic examples, this tool grounds responses in actual proven illustrations used by experienced preachers, real cultural artifacts (films, novels, historical events), and cross-cultural stories that resonate across diverse audiences.
+
+---
+
+## Research Methodology
+
+### Phase 1: Data Extraction
+
+**Required Sources:**
+
+- [ ] SermonCentral.com - Sermon illustration database
+- [ ] PreachingToday.com - Curated illustration collections
+- [ ] YouTube sermon transcripts - Search for sermons on the specific verse
+- [ ] Reel to Real database - Film clip illustrations
+- [ ] Historical event databases
+- [ ] Literary references and novels
+- [ ] News archives for contemporary examples
+- [ ] Cross-cultural illustration collections
+
+**Extraction Process:**
+1. Extract existing sermon illustrations from sermon databases and YouTube transcripts for this verse
+2. Identify movie clips, novels, and cultural artifacts that illustrate the verse's themes
+3. Search for historical events that demonstrate or illuminate the verse
+4. Collect contemporary news stories and real-world examples
+5. Organize by illustration type (film, literature, history, contemporary, cross-cultural)
+6. Extract key details: source, context, application point, cultural considerations
+
+**Critical Rule:** Extract data BEFORE generating any analysis. Never work from memory.
+
+### Phase 2: Analysis and Synthesis
+
+**Analysis Framework:**
+1. What is the core truth or principle in this verse that needs illustration?
+2. What illustrations have proven effective for experienced preachers?
+3. What cultural artifacts (films, books, events) embody this principle?
+4. What cross-cultural examples demonstrate universality or cultural specificity?
+5. What contemporary relevance can be demonstrated?
+
+**Synthesis Guidelines:**
+- Focus on concrete, specific illustrations rather than generic examples
+- Identify both universal and culturally-specific applications
+- Note practical usage guidance (sermon intro, main point, closing application)
+- Highlight any cultural sensitivity considerations
+- Provide enough detail for the illustration to be retold effectively
+
+### Phase 3: Citation and Verification
+
+**Citation Requirements:**
+- Every illustration must have a source citation: `content {source}`
+- Use source codes from `/source-abbreviations.yaml`
+- For films: Include title, year, scene description
+- For books: Include title, author, chapter/page if available
+- For historical events: Include date, primary source
+- Mark AI-generated connections with `{llm-cs45}` or appropriate model tag
+
+**Verification Checklist:**
+- [ ] All illustrations verified against actual sources
+- [ ] No fabricated examples or "this reminds me of" without actual source
+- [ ] Film scenes verified to exist with correct details
+- [ ] Historical events fact-checked
+- [ ] Sermon sources properly attributed
+
+---
+
+## Output Schema
+
+### Filename Format
+
+```
+bible-study-tools/sermon-illustrations/data/{BOOK}/{chapter:03d}/{BOOK}-{chapter:03d}-{verse:03d}-sermon-illustrations.yaml
+```
+
+**Components:**
+- `{BOOK}`: USFM 3.0 three-letter book code (MAT, JHN, GEN, etc.)
+- `{chapter:03d}`: Zero-padded chapter number (001, 005, 038)
+- `{verse:03d}`: Zero-padded verse number (001, 016, etc.)
+
+**Examples:**
+- `MAT-005-003-sermon-illustrations.yaml` (Matthew 5:3)
+- `JHN-003-016-sermon-illustrations.yaml` (John 3:16)
+- `GEN-001-001-sermon-illustrations.yaml` (Genesis 1:1)
+
+### YAML Structure
+
+```yaml
+# === METADATA ===
+verse:
+  reference: "{BOOK} {chapter}:{verse}"
+  book: "{BOOK}"
+  chapter: {chapter}
+  verse: {verse}
+  text: "verse text here" {eng-NIV}
+
+tool:
+  name: "sermon-illustrations"
+  version: "1.0.0"
+  generated_date: "YYYY-MM-DD"
+
+# === CORE THEME ===
+core_theme:
+  primary_truth: "The main theological or practical truth in this verse" {llm-cs45}
+  key_concepts: ["concept1", "concept2", "concept3"]
+  emotional_tone: "tone of the passage (e.g., hope, warning, comfort)" {llm-cs45}
+
+# === FILM ILLUSTRATIONS ===
+film_illustrations:
+  - title: "Film Title" {source}
+    year: YYYY
+    scene_description: "Detailed description of the specific scene" {source}
+    timestamp: "HH:MM:SS - HH:MM:SS" (if available)
+    connection_point: "How this scene illustrates the verse" {llm-cs45}
+    application: "How to use this in a sermon" {llm-cs45}
+    cultural_considerations: "Any cultural sensitivities to note" {llm-cs45}
+    rating: "Film rating (G, PG, PG-13, R, etc.)"
+
+# === LITERARY ILLUSTRATIONS ===
+literary_illustrations:
+  - title: "Book/Story Title" {source}
+    author: "Author Name"
+    type: "novel|short story|poem|essay"
+    excerpt_or_summary: "Key passage or plot summary relevant to verse" {source}
+    connection_point: "How this illustrates the verse" {llm-cs45}
+    application: "How to use this in teaching" {llm-cs45}
+
+# === HISTORICAL ILLUSTRATIONS ===
+historical_illustrations:
+  - event: "Name of historical event" {source}
+    date: "Date or time period"
+    description: "Detailed description of the event" {source}
+    primary_sources: ["source1", "source2"]
+    connection_point: "How this event illustrates the verse" {llm-cs45}
+    application: "How to use this example" {llm-cs45}
+
+# === CONTEMPORARY ILLUSTRATIONS ===
+contemporary_illustrations:
+  - title: "Headline or description" {source}
+    date: "YYYY-MM-DD"
+    source_publication: "News source or publication"
+    summary: "Summary of the event/story" {source}
+    connection_point: "How this illustrates the verse" {llm-cs45}
+    application: "How to apply this in teaching" {llm-cs45}
+    cultural_relevance: "Why this resonates with current audiences" {llm-cs45}
+
+# === SERMON EXAMPLES ===
+sermon_examples:
+  - preacher: "Preacher name" {source}
+    sermon_title: "Sermon title"
+    source: "Church/Conference name, date"
+    illustration_used: "The specific illustration they used" {source}
+    effectiveness_note: "Why this worked well" {source or llm-cs45}
+    video_link: "URL if available"
+    transcript_excerpt: "Relevant excerpt from sermon" {source}
+
+# === CROSS-CULTURAL ILLUSTRATIONS ===
+cross_cultural_illustrations:
+  - culture: "Specific culture or people group" {source}
+    story_or_practice: "Description of cultural story, practice, or wisdom" {source}
+    connection_point: "How this illustrates the verse" {llm-cs45}
+    application: "How to use this cross-culturally" {llm-cs45}
+    cultural_note: "Important cultural context or sensitivities" {llm-cs45}
+
+# === USAGE GUIDANCE ===
+usage_guidance:
+  sermon_intro_options:
+    - "Illustration ID and brief note on using as sermon intro" {llm-cs45}
+  main_point_options:
+    - "Illustration ID and how to use for main point" {llm-cs45}
+  closing_application_options:
+    - "Illustration ID and how to use for closing" {llm-cs45}
+  small_group_discussion:
+    - "Illustration ID and discussion questions" {llm-cs45}
+
+# === KEY INSIGHTS ===
+key_insights:
+  - insight: "Pattern or theme across illustrations" {llm-cs45}
+    rationale: "Why this matters for preaching this verse" {llm-cs45}
+
+# === WARNINGS ===
+warnings:
+  - concern: "Any illustration that requires cultural sensitivity or could be misused" {llm-cs45}
+    guidance: "How to use appropriately" {llm-cs45}
+
+```
+
+### Schema Guidelines
+
+**Illustration-Specific Fields:**
+- Include enough detail for the illustration to be retold effectively
+- Provide specific timestamps, page numbers, or dates when possible
+- Always note cultural considerations and sensitivities
+- Include practical application guidance for each illustration
+- Cite all sources using inline format
+
+**Citation Format:**
+- Inline: `"content {source}"`
+- Multiple sources: `sources: [source1, source2, source3]`
+- Film format: `{film-TitleYear}` e.g., `{film-Shawshank1994}`
+- Book format: `{book-Title-Author}` e.g., `{book-1984-Orwell}`
+
+---
+
+## Output Validation
+
+### Level 1: CRITICAL Requirements (Must Pass 100%)
+
+All outputs must pass universal validation from [REVIEW-GUIDELINES.md](../../REVIEW-GUIDELINES.md) Level 1:
+
+- ✅ No fabricated illustrations
+- ✅ Inline citations present for all illustrations
+- ✅ All film scenes, books, and events verified to exist
+- ✅ Data extraction grounding (not working from memory)
+- ✅ Follows core principles from CLAUDE.md
+
+**Action if Failed:** REJECT - Regenerate with strict adherence
+
+### Level 2: HIGH PRIORITY Requirements (80%+ to Pass)
+
+#### Structural Requirements
+- 3-7 total illustrations per verse from diverse categories
+- At least 2 different illustration types (film, literature, history, contemporary, sermon example)
+- Each illustration must have: source, description, connection point, application
+
+#### Content Scope
+- Illustrations must be concrete and specific (not generic "imagine a person who...")
+- Mix of timeless and contemporary examples
+- Cross-cultural awareness demonstrated where applicable
+- Practical usage guidance included
+
+#### Quality Thresholds
+- Would a pastor use this in sermon preparation?
+- Are the illustrations memorable and relatable?
+- Is enough detail provided to retell the illustration?
+- Are cultural sensitivities appropriately noted?
+
+#### Target Audience Fit
+- Does it serve pastors, teachers, and students effectively?
+- Is the application guidance practical and clear?
+- Are there options for different sermon structures (intro, main point, closing)?
+
+### Level 3: MEDIUM PRIORITY Requirements (60%+ to Pass)
+
+- ✅ Cross-cultural illustrations where relevant
+- ✅ Contemporary examples that demonstrate current relevance
+- ✅ Sermon examples from experienced preachers
+- ✅ Cultural and historical context for illustrations
+
+---
+
+## Quality Metrics
+
+### Optimal Ranges
+
+**Quantitative Metrics:**
+- Illustration count: 3-7 total illustrations per verse (varies by verse familiarity)
+  - Well-known verses (John 3:16): 5-7 illustrations
+  - Moderate verses: 3-5 illustrations
+  - Obscure verses: 2-4 illustrations (may require more creative connections)
+- Illustration diversity: 2-4 different types (film, literature, history, contemporary)
+- Token range: 1500-3000 per verse
+
+**Qualitative Metrics:**
+- Concrete specificity: No generic "imagine" examples
+- Cultural awareness: At least one cross-cultural consideration noted
+- Practical applicability: Clear usage guidance for each illustration
+- Source reliability: Verifiable sources for all illustrations
+
+### Effective Patterns
+
+- Mixing timeless (historical, literary) with contemporary (recent films, current events)
+- Providing specific scene descriptions or plot points, not just titles
+- Including both universal and culturally-specific applications
+- Offering illustrations for different sermon structures
+- Noting which illustrations work best for intro vs. main point vs. closing
+
+### Anti-Patterns
+
+- Generic "imagine a person who..." examples without specific sources
+- Fabricated film scenes or historical events
+- Illustrations without clear connection to the verse
+- Missing cultural sensitivity warnings where needed
+- Too many illustrations of the same type
+- Vague descriptions that can't be retold
+
+---
+
+## Relevant Review Personas
+
+### Required Personas
+
+**👤 Pastor/Preacher**
+- **Why Required:** Primary end user of sermon illustrations
+- **Focus Areas:** Practical usability, memorability, cultural appropriateness, retellability
+
+**👤 Cross-Cultural Ministry Worker**
+- **Why Required:** Ensures illustrations work across cultures
+- **Focus Areas:** Cultural sensitivity, universal vs. culture-specific applications, appropriate cross-cultural examples
+
+### Recommended Personas
+
+**👤 Seminary Student**
+- **When Valuable:** For learning effective illustration techniques
+- **Focus Areas:** Pedagogical value, academic rigor, practical application
+
+**👤 Film/Literature Scholar**
+- **When Valuable:** When film or literary illustrations are prominent
+- **Focus Areas:** Accuracy of film/book descriptions, thematic connections, cultural impact
+
+---
+
+## Examples of Stellar Outputs
+
+### Example 1: [To be added after experiments]
+
+**What Made This Excellent:**
+[To be filled in after experimentation phase]
+
+**Key Elements:**
+- [Element 1]
+- [Element 2]
+- [Element 3]
+
+**File Location:** `path/to/example/file.yaml`
+
+---
+
+## Common Challenges and Solutions
+
+### Challenge 1: Fabricated Illustrations
+
+**Problem:** AI may generate plausible-sounding film scenes or historical events that don't actually exist
+
+**Solution:** Always extract from actual sources first. Search for the film/book/event and verify details before including
+
+**Prevention:** Follow Phase 1 extraction rigorously. Never rely on memory or general knowledge
+
+---
+
+### Challenge 2: Generic Examples
+
+**Problem:** Creating vague "imagine a person who..." examples instead of specific illustrations
+
+**Solution:** Every illustration must have a verifiable source (film title, book, historical event, news article)
+
+**Prevention:** Require source citations for all illustrations in the schema
+
+---
+
+### Challenge 3: Cultural Insensitivity
+
+**Problem:** Using illustrations that may offend or confuse certain cultural contexts
+
+**Solution:** Include cultural_considerations field for each illustration and cross-cultural review
+
+**Prevention:** Always consider cross-cultural implications during extraction and synthesis
+
+---
+
+## How to Use This Tool's Outputs
+
+### For Pastors and Teachers
+
+Use these illustrations to make Biblical truths concrete and memorable in your preaching and teaching.
+
+**Workflow:**
+1. Read the core_theme section to understand the verse's primary truth
+2. Review illustration options across different categories
+3. Select illustrations that fit your sermon structure and audience
+4. Use the application guidance to integrate into your message
+5. Note cultural considerations if preaching to diverse audiences
+
+---
+
+### For Seminary Students
+
+Use these as examples of effective illustration techniques and to build your illustration library.
+
+**Workflow:**
+1. Study how different illustration types connect to Biblical truth
+2. Analyze what makes each illustration effective
+3. Practice retelling illustrations based on the details provided
+4. Build your own illustration file using similar patterns
+
+---
+
+## Research Guidelines for Bible-Researcher Agent
+
+### Pre-Generation Checklist
+
+Before generating any output, ensure:
+
+- [ ] Tool README fully read and understood
+- [ ] Verse reference standardized to USFM 3.0 format
+- [ ] All required data sources identified
+- [ ] Illustration extraction strategy planned (search sermon databases, film databases, etc.)
+- [ ] Schema structure internalized
+
+### During Generation
+
+- [ ] Extract illustrations FIRST from actual sources, analyze SECOND
+- [ ] Verify every film scene, book reference, historical event exists
+- [ ] Cite every illustration with inline `{source}` tags
+- [ ] Stay within defined schema structure
+- [ ] Focus on concrete, specific examples
+- [ ] Note cultural considerations for each illustration
+
+### Post-Generation Quality Control
+
+Review from these perspectives:
+
+**Source Verification:**
+- [ ] Every film scene verified to exist with correct details
+- [ ] Every book/novel reference checked
+- [ ] Every historical event fact-checked
+- [ ] Every sermon example properly attributed
+
+**Practical Usability:**
+- [ ] Enough detail provided to retell each illustration
+- [ ] Clear connection between illustration and verse
+- [ ] Application guidance is practical and specific
+- [ ] Options for different sermon structures provided
+
+**Cultural Sensitivity:**
+- [ ] Cross-cultural considerations noted
+- [ ] Potential sensitivities flagged
+- [ ] Diverse illustration types included
+
+**AI Grounding Value:**
+- [ ] Will this help AI provide concrete examples?
+- [ ] Are the illustrations specific enough to be memorable?
+- [ ] Is the YAML structure machine-readable?
+
+---
+
+## Version History
+
+### Version 1.0.0 (2025-10-29)
+- Initial creation
+- Experimental phase - structure subject to refinement based on testing
+
+---
+
+## Related Tools
+
+- [To be filled in as other tools are developed]
+
+---
+
+## References
+
+**Sermon Illustration Resources:**
+- SermonCentral.com - Illustration database
+- PreachingToday.com - Curated illustrations
+- YouTube sermons - Real-world usage examples
+
+**Film and Literature Resources:**
+- Reel to Real - Film clip database for ministry
+- IMDB - Film verification
+- Google Books - Literary references
+
+**Historical Resources:**
+- Historical archives and databases
+- Primary source collections
+
+**Technical Standards:**
+- [STANDARDIZATION.md](../../STANDARDIZATION.md) - Project formatting standards
+- [REVIEW-GUIDELINES.md](../../REVIEW-GUIDELINES.md) - Universal validation framework
+- [CLAUDE.md](../../CLAUDE.md) - Core principles and practices
+
+---
+
+**Template Version:** 1.0.0
+**Last Updated:** 2025-10-29
+**Maintained By:** Context-Grounded Bible Project
