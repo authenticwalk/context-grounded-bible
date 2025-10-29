@@ -42,11 +42,10 @@ This hybrid approach has proven effective across all verse types (popular, moder
 - **Art & Music**: Search for paintings, sculptures, hymns, songs that connect
 - **Contemporary examples**: Search news archives for recent stories
 
-**Step 3: Search for preacher-sourced illustrations** (NEW - validated 2025-10-29):
-- **PreachingToday.com**: Search for sermon illustrations by verse or topic
-- **SermonAudio.com**: Search for sermons on the passage (2.8M+ sermons)
-- **Individual sermon pages**: Extract illustrations from actual sermons
-- **WebSearch**: Use targeted searches for additional sermon resources
+**Step 3: Search for preacher-sourced illustrations**:
+- **PreachingToday.com** - 14,000+ sermon illustrations by verse/topic
+- **SermonAudio.com** - 2.8M+ sermons with searchable transcripts
+- **Individual sermon pages** - Extract illustrations from actual sermons
 
 **Step 4: Verify every source:**
 - Confirm films exist with accurate years, scenes, and details
@@ -58,18 +57,15 @@ This hybrid approach has proven effective across all verse types (popular, moder
 - How does this artifact or illustration connect to the verse?
 - What makes it effective for preaching or teaching?
 
-**Accessible Sources (Validated):**
-- ✅ **IMDB, Wikipedia, Google Search** - Film/book verification, cultural artifacts
-- ✅ **PreachingToday.com** - Sermon illustrations database with 14,000+ illustrations
-- ✅ **SermonAudio.com** - 2.8 million sermons with searchable transcripts
-- ✅ **News archives and historical databases** - Contemporary and historical examples
-- ✅ **Public domain literature and historical records** - Literary and historical illustrations
+**Key Sources:**
+- **PreachingToday.com** - 14,000+ sermon illustrations
+- **SermonAudio.com** - 2.8M+ sermons
+- **IMDB, Wikipedia** - Film/book verification
+- **News archives, historical databases** - Contemporary and historical examples
 
-**⚠️ Known Inaccessible Sources:**
-- ❌ **SermonCentral.com** - SSL/TLS handshake failures (technical protocol issue)
-- ❌ YouTube transcript extraction - Requires API access, not web scraping
+**Inaccessible:** SermonCentral.com (SSL issues), YouTube transcripts (requires API)
 
-> **Note:** See `/experiments/LEARNINGS.md` for full testing documentation. WebFetch permissions were fixed on 2025-10-29, enabling access to PreachingToday.com and SermonAudio.com. The hybrid approach validated through retesting combines the best of both cultural artifacts (timeless appeal) and preacher-sourced illustrations (proven effectiveness).
+> See `/experiments/LEARNINGS.md` for validation testing.
 
 **Critical Rule:** Extract and verify data BEFORE generating any analysis. Never work from memory.
 
