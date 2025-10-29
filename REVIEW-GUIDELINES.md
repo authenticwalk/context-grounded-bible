@@ -2,7 +2,7 @@
 
 **Purpose**: Universal validation framework for all Bible study tool outputs
 
-**Version**: 2.0  
+**Version**: 2.2  
 **Scope**: All Bible study tools (semantic clusters, word studies, topical research, commentary, etc.)
 
 ---
@@ -171,6 +171,72 @@ These are **universal requirements** for all Bible study tools, regardless of ty
 6. Practical utility over academic completeness
 
 **Action if Failed**: **REJECT** - Fix violations
+
+---
+
+### ✅ 6. Copyright and Fair Use Compliance
+
+**Question**: Does the output comply with fair use principles for copyrighted Bible translations?
+
+**Applies To**: All tools that reference copyrighted translations (NIV, ESV, NASB, etc.)
+
+**Fair Use Methodology**:
+1. **Source-language anchored**: Greek/Hebrew text is primary; translations are derivative evidence
+2. **Convergence grouping**: When translations agree, list them collectively without individual quotation
+3. **Divergence analysis**: Quote copyrighted translations only in comparative scholarly context
+4. **Transformative purpose**: Focus is translation pattern analysis, not text distribution
+
+**How to Check**:
+- Verify Greek/Hebrew source text is present and primary
+- Confirm copyrighted translations appear in convergence groups or comparative analysis, not standalone
+- Check that data structure prevents programmatic reconstruction of any single translation
+- Ensure work is complementary to Bible ownership (requires Bibles for full utility)
+
+**Red Flags**:
+- Copyrighted translation text in simple key-value format (e.g., `niv: "verse text"`)
+- Standalone translation fields without comparative analysis context
+- Structure allows easy `forEach/map/reduce` extraction of single translation
+- Work could substitute for purchasing Bible translations
+
+**Action if Failed**: **REJECT** - Restructure to ensure source-language primary, comparative analysis focus
+
+**See Also**: [Fair Use Policy](../../plan/policy/fair-use.md) for detailed methodology
+
+---
+
+### ✅ 7. New Sources Added to ATTRIBUTION.md
+
+**Question**: Have all new sources been added to ATTRIBUTION.md with proper copyright notices?
+
+**Applies To**: All tools that introduce sources not already documented
+
+**How to Check**:
+- Review all `{source}` citations in the output
+- Verify each source exists in [ATTRIBUTION.md](../../ATTRIBUTION.md)
+- Confirm new sources have complete copyright notices
+- Check that citation format codes match ATTRIBUTION.md entries
+
+**Required Information for New Sources**:
+1. **Full copyright notice** with year and copyright holder
+2. **Citation format code** used in inline citations
+3. **Public domain/open license/fair use designation**
+4. **Purchase or access link** when available
+5. **Source type category** (translation, commentary, lexicon, etc.)
+
+**Red Flags**:
+- Citations using sources not in ATTRIBUTION.md
+- New translations without copyright notices
+- Missing purchase links for copyrighted works
+- Incomplete attribution information
+
+**Action if Failed**: **REJECT** - Add complete attribution to ATTRIBUTION.md before accepting output
+
+**Process for Adding New Sources**:
+1. Identify all unique sources used in output
+2. Add to appropriate section in ATTRIBUTION.md
+3. Include all required attribution information
+4. Update source-abbreviations.yaml if new citation code needed
+5. Verify citation format consistency
 
 ---
 
@@ -820,6 +886,8 @@ validation:
     no_numbers: [PASS/FAIL]
     data_file_only: [PASS/FAIL]
     follows_core_principles: [PASS/FAIL]
+    copyright_compliance: [PASS/FAIL/NA]
+    new_sources_attributed: [PASS/FAIL/NA]
   
   high_priority_checks:
     # Add tool-specific checks from tool's README
@@ -886,6 +954,8 @@ validation:
 | Fabricated data | CRITICAL | Remove, cite only from data files |
 | No data extraction performed | CRITICAL | Extract data BEFORE generating content |
 | Used percentages/predictions | CRITICAL | Replace with qualitative terms |
+| Copyright violation (standalone translations) | CRITICAL | Restructure: source-language primary, convergence grouping |
+| New source not in ATTRIBUTION.md | CRITICAL | Add complete attribution to ATTRIBUTION.md |
 | Generic "some cultures" | HIGH | Specify language family/tradition or remove |
 | Single tradition dominance | HIGH | Add 1-2 other perspectives when relevant |
 | No practical value | HIGH | Focus on actionable insights for target audience |
@@ -897,9 +967,9 @@ validation:
 
 ---
 
-**Version**: 2.0  
+**Version**: 2.2  
 **Status**: Production-ready (Universal framework)  
-**Last Updated**: 2025-10-28  
+**Last Updated**: 2025-10-29  
 **Scope**: All Bible study tools (semantic clusters, topical research, word studies, commentary, etc.)  
 **Originally Based On**: Semantic cluster experiments Phase 1 & 2, generalized for all tool types
 
