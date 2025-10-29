@@ -1,0 +1,320 @@
+# === METADATA ===
+verse:
+  reference: "John 1:1"
+  book: "JHN"
+  chapter: 1
+  verse: 1
+
+tool:
+  name: "original-language-words"
+  version: "1.0.0"
+  experiment: "morphology"
+  revision: 1
+  generated_date: "2025-10-28"
+
+# === SOURCE TEXT ===
+source_text:
+  language: "grc"
+  text: "Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος." {grc-SBLGNT}
+  transliteration: "En archē ēn ho logos, kai ho logos ēn pros ton theon, kai theos ēn ho logos." {biblehub-interlinear}
+
+# === WORDS (MORPHOLOGICAL FORMAT) ===
+# Organized by syntactical units
+
+words:
+  # === CLAUSE 1: "In the beginning was the Word" ===
+
+  - position: 1
+    original: "Ἐν" {biblehub-interlinear}
+    transliteration: "En" {biblehub-interlinear}
+    lemma: "ἐν" {biblehub-interlinear}
+    strongs: "G1722" {biblehub-interlinear}
+    parsing:
+      part_of_speech: "preposition" {biblehub-interlinear}
+    gloss: "in" {biblehub-interlinear}
+    syntactical_function: "prepositional phrase introducing temporal/locative context" {llm-cs45}
+
+  - position: 2
+    original: "ἀρχῇ" {biblehub-interlinear}
+    transliteration: "archē" {biblehub-interlinear}
+    lemma: "ἀρχή" {biblehub-g746}
+    strongs: "G746" {biblehub-interlinear}
+    parsing:
+      part_of_speech: "noun" {biblehub-interlinear}
+      case: "dative" {biblehub-interlinear}
+      gender: "feminine" {biblehub-interlinear}
+      number: "singular" {biblehub-interlinear}
+    gloss: "beginning" {biblehub-interlinear}
+    syntactical_function: "object of preposition ἐν (dative required by preposition)" {llm-cs45}
+
+  - position: 3
+    original: "ἦν" {biblehub-interlinear}
+    transliteration: "ēn" {biblehub-interlinear}
+    lemma: "εἰμί" {biblehub-g1510}
+    strongs: "G1510" {biblehub-interlinear}
+    parsing:
+      part_of_speech: "verb" {biblehub-interlinear}
+      tense: "imperfect" {biblehub-interlinear}
+      voice: "active" {biblehub-interlinear}
+      mood: "indicative" {biblehub-interlinear}
+      person: "3rd" {biblehub-interlinear}
+      number: "singular" {biblehub-interlinear}
+    gloss: "was" {biblehub-interlinear}
+    syntactical_function: "main verb of clause 1 (existential/copulative)" {llm-cs45}
+
+  - position: 4
+    original: "ὁ" {biblehub-interlinear}
+    transliteration: "ho" {biblehub-interlinear}
+    lemma: "ὁ" {biblehub-interlinear}
+    strongs: "G3588" {biblehub-interlinear}
+    parsing:
+      part_of_speech: "article" {biblehub-interlinear}
+      case: "nominative" {biblehub-interlinear}
+      gender: "masculine" {biblehub-interlinear}
+      number: "singular" {biblehub-interlinear}
+    gloss: "the" {biblehub-interlinear}
+    syntactical_function: "definite article modifying λόγος (subject marker)" {llm-cs45}
+
+  - position: 5
+    original: "λόγος" {biblehub-interlinear}
+    transliteration: "logos" {biblehub-interlinear}
+    lemma: "λόγος" {biblehub-g3056}
+    strongs: "G3056" {biblehub-interlinear}
+    parsing:
+      part_of_speech: "noun" {biblehub-interlinear}
+      case: "nominative" {biblehub-interlinear}
+      gender: "masculine" {biblehub-interlinear}
+      number: "singular" {biblehub-interlinear}
+    gloss: "Word" {biblehub-interlinear}
+    syntactical_function: "subject of clause 1" {llm-cs45}
+
+  # === CLAUSE 2: "and the Word was with God" ===
+
+  - position: 6
+    original: "καὶ" {biblehub-interlinear}
+    transliteration: "kai" {biblehub-interlinear}
+    lemma: "καί" {biblehub-interlinear}
+    strongs: "G2532" {biblehub-interlinear}
+    parsing:
+      part_of_speech: "conjunction" {biblehub-interlinear}
+    gloss: "and" {biblehub-interlinear}
+    syntactical_function: "coordinating conjunction linking clause 1 and clause 2" {llm-cs45}
+
+  - position: 7
+    original: "ὁ" {biblehub-interlinear}
+    transliteration: "ho" {biblehub-interlinear}
+    lemma: "ὁ" {biblehub-interlinear}
+    strongs: "G3588" {biblehub-interlinear}
+    parsing:
+      part_of_speech: "article" {biblehub-interlinear}
+      case: "nominative" {biblehub-interlinear}
+      gender: "masculine" {biblehub-interlinear}
+      number: "singular" {biblehub-interlinear}
+    gloss: "the" {biblehub-interlinear}
+    syntactical_function: "definite article modifying λόγος (subject marker)" {llm-cs45}
+
+  - position: 8
+    original: "λόγος" {biblehub-interlinear}
+    transliteration: "logos" {biblehub-interlinear}
+    lemma: "λόγος" {biblehub-g3056}
+    strongs: "G3056" {biblehub-interlinear}
+    parsing:
+      part_of_speech: "noun" {biblehub-interlinear}
+      case: "nominative" {biblehub-interlinear}
+      gender: "masculine" {biblehub-interlinear}
+      number: "singular" {biblehub-interlinear}
+    gloss: "Word" {biblehub-interlinear}
+    syntactical_function: "subject of clause 2" {llm-cs45}
+
+  - position: 9
+    original: "ἦν" {biblehub-interlinear}
+    transliteration: "ēn" {biblehub-interlinear}
+    lemma: "εἰμί" {biblehub-g1510}
+    strongs: "G1510" {biblehub-interlinear}
+    parsing:
+      part_of_speech: "verb" {biblehub-interlinear}
+      tense: "imperfect" {biblehub-interlinear}
+      voice: "active" {biblehub-interlinear}
+      mood: "indicative" {biblehub-interlinear}
+      person: "3rd" {biblehub-interlinear}
+      number: "singular" {biblehub-interlinear}
+    gloss: "was" {biblehub-interlinear}
+    syntactical_function: "main verb of clause 2 (existential/copulative)" {llm-cs45}
+
+  - position: 10
+    original: "πρὸς" {biblehub-interlinear}
+    transliteration: "pros" {biblehub-interlinear}
+    lemma: "πρός" {biblehub-interlinear}
+    strongs: "G4314" {biblehub-interlinear}
+    parsing:
+      part_of_speech: "preposition" {biblehub-interlinear}
+    gloss: "with" {biblehub-interlinear}
+    syntactical_function: "preposition governing accusative (indicates relationship/proximity)" {llm-cs45}
+
+  - position: 11
+    original: "τὸν" {biblehub-interlinear}
+    transliteration: "ton" {biblehub-interlinear}
+    lemma: "ὁ" {biblehub-interlinear}
+    strongs: "G3588" {biblehub-interlinear}
+    parsing:
+      part_of_speech: "article" {biblehub-interlinear}
+      case: "accusative" {biblehub-interlinear}
+      gender: "masculine" {biblehub-interlinear}
+      number: "singular" {biblehub-interlinear}
+    gloss: "the" {biblehub-interlinear}
+    syntactical_function: "definite article modifying θεόν (object marker)" {llm-cs45}
+
+  - position: 12
+    original: "θεόν" {biblehub-interlinear}
+    transliteration: "theon" {biblehub-interlinear}
+    lemma: "θεός" {biblehub-g2316}
+    strongs: "G2316" {biblehub-interlinear}
+    parsing:
+      part_of_speech: "noun" {biblehub-interlinear}
+      case: "accusative" {biblehub-interlinear}
+      gender: "masculine" {biblehub-interlinear}
+      number: "singular" {biblehub-interlinear}
+    gloss: "God" {biblehub-interlinear}
+    syntactical_function: "object of preposition πρός (accusative required by preposition)" {llm-cs45}
+
+  # === CLAUSE 3: "and God was the Word" (or "the Word was God") ===
+
+  - position: 13
+    original: "καὶ" {biblehub-interlinear}
+    transliteration: "kai" {biblehub-interlinear}
+    lemma: "καί" {biblehub-interlinear}
+    strongs: "G2532" {biblehub-interlinear}
+    parsing:
+      part_of_speech: "conjunction" {biblehub-interlinear}
+    gloss: "and" {biblehub-interlinear}
+    syntactical_function: "coordinating conjunction linking clause 2 and clause 3" {llm-cs45}
+
+  - position: 14
+    original: "θεὸς" {biblehub-interlinear}
+    transliteration: "theos" {biblehub-interlinear}
+    lemma: "θεός" {biblehub-g2316}
+    strongs: "G2316" {biblehub-interlinear}
+    parsing:
+      part_of_speech: "noun" {biblehub-interlinear}
+      case: "nominative" {biblehub-interlinear}
+      gender: "masculine" {biblehub-interlinear}
+      number: "singular" {biblehub-interlinear}
+    gloss: "God" {biblehub-interlinear}
+    syntactical_function: "predicate nominative (anarthrous, qualitative emphasis - expressing nature/essence)" {llm-cs45}
+
+  - position: 15
+    original: "ἦν" {biblehub-interlinear}
+    transliteration: "ēn" {biblehub-interlinear}
+    lemma: "εἰμί" {biblehub-g1510}
+    strongs: "G1510" {biblehub-interlinear}
+    parsing:
+      part_of_speech: "verb" {biblehub-interlinear}
+      tense: "imperfect" {biblehub-interlinear}
+      voice: "active" {biblehub-interlinear}
+      mood: "indicative" {biblehub-interlinear}
+      person: "3rd" {biblehub-interlinear}
+      number: "singular" {biblehub-interlinear}
+    gloss: "was" {biblehub-interlinear}
+    syntactical_function: "main verb of clause 3 (copulative/equative)" {llm-cs45}
+
+  - position: 16
+    original: "ὁ" {biblehub-interlinear}
+    transliteration: "ho" {biblehub-interlinear}
+    lemma: "ὁ" {biblehub-interlinear}
+    strongs: "G3588" {biblehub-interlinear}
+    parsing:
+      part_of_speech: "article" {biblehub-interlinear}
+      case: "nominative" {biblehub-interlinear}
+      gender: "masculine" {biblehub-interlinear}
+      number: "singular" {biblehub-interlinear}
+    gloss: "the" {biblehub-interlinear}
+    syntactical_function: "definite article modifying λόγος (subject marker)" {llm-cs45}
+
+  - position: 17
+    original: "λόγος" {biblehub-interlinear}
+    transliteration: "logos" {biblehub-interlinear}
+    lemma: "λόγος" {biblehub-g3056}
+    strongs: "G3056" {biblehub-interlinear}
+    parsing:
+      part_of_speech: "noun" {biblehub-interlinear}
+      case: "nominative" {biblehub-interlinear}
+      gender: "masculine" {biblehub-interlinear}
+      number: "singular" {biblehub-interlinear}
+    gloss: "Word" {biblehub-interlinear}
+    syntactical_function: "subject of clause 3 (articular, definite - the specific Logos)" {llm-cs45}
+
+# === GRAMMATICAL ANALYSIS ===
+grammatical_notes:
+  - category: "verb"
+    observation: "The verb ἦν (imperfect indicative of εἰμί) appears three times, consistently in 3rd person singular. The imperfect tense emphasizes continuous existence in past time - the Word's eternal pre-existence." {llm-cs45}
+    significance: "The imperfect tense indicates ongoing, continuous action in the past without specified beginning or end. This grammatical choice underscores the eternal, pre-temporal nature of the Logos - the Word was already existing 'in the beginning' and continued to exist. This is not a simple past tense stating 'came into existence' but rather 'was already in existence.'" {llm-cs45}
+
+  - category: "article"
+    observation: "The article ὁ appears with λόγος in all three clauses (positions 4, 7, 16), making it articular and definite. However, θεός in position 14 is anarthrous (without article) while θεόν in position 12 has the article τὸν." {llm-cs45}
+    significance: "The presence of the article with λόγος identifies it as a specific, definite entity - THE Word, not 'a word.' The absence of the article before θεὸς in clause 3 (predicate nominative position) is grammatically significant - it emphasizes the qualitative nature rather than identity. The Word possesses the nature/quality of deity, while remaining distinct from 'the God' (τὸν θεόν) mentioned in clause 2. This is Colwell's Rule in action: definite predicate nominatives preceding the verb typically lack the article." {llm-cs45}
+
+  - category: "preposition"
+    observation: "The preposition πρὸς (pros) with accusative case (τὸν θεόν) indicates relationship and direction." {biblehub-interlinear}
+    significance: "πρὸς + accusative conveys more than simple accompaniment (which would be μετά). It suggests active relationship, face-to-face communion, movement toward. The Word was not merely 'beside' God but in active, dynamic relationship 'with/toward' God. This preposition choice emphasizes both distinction (two persons) and intimate relationship." {llm-cs45}
+
+  - category: "noun-case"
+    observation: "θεός appears in two different cases: accusative θεόν (position 12, object of preposition) and nominative θεὸς (position 14, predicate nominative)." {biblehub-interlinear}
+    significance: "The case variation reflects different syntactical functions. In clause 2, θεόν is accusative as the object of πρὸς, indicating the Word's relationship was 'toward God.' In clause 3, θεὸς is nominative in predicate position, asserting the divine nature of the Word. Same lexeme, different grammatical functions, profound theological implications." {llm-cs45}
+
+  - category: "word-order"
+    observation: "In clause 3, the word order is θεὸς ἦν ὁ λόγος (God was the Word) rather than ὁ λόγος ἦν θεὸς (the Word was God)." {biblehub-interlinear}
+    significance: "Greek word order is flexible and used for emphasis. Placing θεὸς before the verb ἦν emphasizes the predicate - what the Word WAS. The anarthrous θεὸς in fronted position stresses the qualitative nature (divine essence) rather than personal identity. If John meant 'the Word was identical to the Father,' he would have written ὁ λόγος ἦν ὁ θεός. The actual construction affirms deity while maintaining personal distinction." {llm-cs45}
+
+  - category: "syntax"
+    observation: "The verse consists of three coordinated independent clauses, each with καί connecting them in parallel structure. Each clause contains a form of εἰμί as the main verb." {llm-cs45}
+    significance: "The parallel structure with repeated ἦν creates a rhythmic, emphatic progression: (1) eternal pre-existence, (2) relational distinction, (3) essential deity. The progression is not accidental but carefully crafted to present three complementary truths about the Logos in logical sequence. This triplet structure is characteristic of Johannine style and theological emphasis." {llm-cs45}
+
+# === SYNTACTICAL STRUCTURE ===
+syntax:
+  main_verb: "ἦν (position 3, 9, 15) - εἰμί in imperfect indicative active, 3rd singular" {llm-cs45}
+
+  clause_1:
+    subject: "ὁ λόγος (positions 4-5) - nominative, articular, definite" {llm-cs45}
+    predicate: "ἦν (position 3) with prepositional phrase Ἐν ἀρχῇ (positions 1-2)" {llm-cs45}
+    structure: "Temporal prepositional phrase + copulative verb + definite subject" {llm-cs45}
+
+  clause_2:
+    subject: "ὁ λόγος (positions 7-8) - nominative, articular, definite" {llm-cs45}
+    predicate: "ἦν (position 9) with prepositional phrase πρὸς τὸν θεόν (positions 10-12)" {llm-cs45}
+    structure: "Subject + copulative verb + relational prepositional phrase" {llm-cs45}
+
+  clause_3:
+    subject: "ὁ λόγος (positions 16-17) - nominative, articular, definite" {llm-cs45}
+    predicate: "ἦν (position 15) with predicate nominative θεὸς (position 14)" {llm-cs45}
+    structure: "Fronted predicate nominative (anarthrous) + copulative verb + definite subject" {llm-cs45}
+
+  prepositional_phrases:
+    - phrase: "Ἐν ἀρχῇ (positions 1-2)"
+      function: "temporal/locative adverbial modifier of ἦν (clause 1)" {llm-cs45}
+      case_governance: "ἐν governs dative case (ἀρχῇ)" {llm-cs45}
+
+    - phrase: "πρὸς τὸν θεόν (positions 10-12)"
+      function: "relational adverbial modifier of ἦν (clause 2)" {llm-cs45}
+      case_governance: "πρὸς governs accusative case (θεόν)" {llm-cs45}
+
+  modifiers:
+    - modifier: "ὁ (positions 4, 7, 16)"
+      modifies: "λόγος (positions 5, 8, 17)"
+      type: "definite article, establishes definiteness and specificity" {llm-cs45}
+
+    - modifier: "τὸν (position 11)"
+      modifies: "θεόν (position 12)"
+      type: "definite article, marks object of preposition" {llm-cs45}
+
+  coordinating_elements:
+    - conjunction: "καί (positions 6, 13)"
+      function: "coordinates three independent clauses of equal weight" {llm-cs45}
+      semantic_relationship: "additive/progressive - each clause builds on the previous" {llm-cs45}
+
+# === STATISTICS ===
+word_count: 17
+verb_count: 3
+noun_count: 6
+article_count: 5
+preposition_count: 2
+conjunction_count: 2

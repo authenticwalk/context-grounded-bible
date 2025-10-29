@@ -1,0 +1,253 @@
+# === METADATA ===
+verse:
+  reference: "Matthew 5:3"
+  book: "MAT"
+  chapter: 5
+  verse: 3
+
+tool:
+  name: "original-language-words"
+  version: "1.0.0"
+  experiment: "morphology"
+  revision: 1
+  generated_date: "2025-10-28"
+
+# === SOURCE TEXT ===
+source_text:
+  language: "grc"
+  text: "Μακάριοι οἱ πτωχοὶ τῷ πνεύματι, ὅτι αὐτῶν ἐστιν ἡ βασιλεία τῶν οὐρανῶν." {grc-Nestle1904}
+  transliteration: "Makarioi hoi ptōchoi tō pneumati, hoti autōn estin hē basileia tōn ouranōn." {grc-Nestle1904}
+
+# === WORDS (MORPHOLOGICAL FORMAT) ===
+# Organized by syntactical units
+
+words:
+  # === FIRST CLAUSE: BEATITUDE PRONOUNCEMENT ===
+  - position: 1
+    original: "Μακάριοι" {grc-Nestle1904}
+    transliteration: "Makarioi" {grc-Nestle1904}
+    lemma: "μακάριος" {BibleHub-G3107}
+    strongs: "G3107" {BibleHub-G3107}
+    parsing:
+      part_of_speech: "adjective" {BibleHub-G3107}
+      case: "nominative" {BibleHub-Interlinear-MAT5.3}
+      gender: "masculine" {BibleHub-Interlinear-MAT5.3}
+      number: "plural" {BibleHub-Interlinear-MAT5.3}
+      declension: "first/second declension, three-termination" {BibleHub-G3107}
+    gloss: "blessed, happy, fortunate" {BibleHub-G3107}
+    syntactical_function: "predicate adjective - describes the spiritual state of the subject" {llm-cs45}
+
+  - position: 2
+    original: "οἱ" {grc-Nestle1904}
+    transliteration: "hoi" {grc-Nestle1904}
+    lemma: "ὁ" {BibleHub-Interlinear-MAT5.3}
+    strongs: "G3588" {BibleHub-Interlinear-MAT5.3}
+    parsing:
+      part_of_speech: "article" {BibleHub-Interlinear-MAT5.3}
+      case: "nominative" {BibleHub-Interlinear-MAT5.3}
+      gender: "masculine" {BibleHub-Interlinear-MAT5.3}
+      number: "plural" {BibleHub-Interlinear-MAT5.3}
+    gloss: "the" {BibleHub-Interlinear-MAT5.3}
+    syntactical_function: "definite article - substantivizes the following adjective to create a noun phrase" {llm-cs45}
+
+  - position: 3
+    original: "πτωχοὶ" {grc-Nestle1904}
+    transliteration: "ptōchoi" {grc-Nestle1904}
+    lemma: "πτωχός" {BibleHub-G4434}
+    strongs: "G4434" {BibleHub-G4434}
+    parsing:
+      part_of_speech: "adjective (substantivized)" {BibleHub-G4434}
+      case: "nominative" {BibleHub-Interlinear-MAT5.3}
+      gender: "masculine" {BibleHub-Interlinear-MAT5.3}
+      number: "plural" {BibleHub-Interlinear-MAT5.3}
+      declension: "three-termination" {BibleHub-G4434}
+    gloss: "poor, beggar, one dependent on charity" {BibleHub-G4434}
+    syntactical_function: "subject of implied copula - those who are characterized by poverty" {llm-cs45}
+
+  # === PREPOSITIONAL PHRASE: SPHERE/MANNER QUALIFIER ===
+  - position: 4
+    original: "τῷ" {grc-Nestle1904}
+    transliteration: "tō" {grc-Nestle1904}
+    lemma: "ὁ" {BibleHub-Interlinear-MAT5.3}
+    strongs: "G3588" {BibleHub-Interlinear-MAT5.3}
+    parsing:
+      part_of_speech: "article" {BibleHub-Interlinear-MAT5.3}
+      case: "dative" {BibleHub-Interlinear-MAT5.3}
+      gender: "neuter" {BibleHub-Interlinear-MAT5.3}
+      number: "singular" {BibleHub-Interlinear-MAT5.3}
+    gloss: "the" {BibleHub-Interlinear-MAT5.3}
+    syntactical_function: "definite article - marks the dative of sphere/respect" {llm-cs45}
+
+  - position: 5
+    original: "πνεύματι" {grc-Nestle1904}
+    transliteration: "pneumati" {grc-Nestle1904}
+    lemma: "πνεῦμα" {BibleHub-G4151}
+    strongs: "G4151" {BibleHub-G4151}
+    parsing:
+      part_of_speech: "noun" {BibleHub-G4151}
+      case: "dative" {BibleHub-Interlinear-MAT5.3}
+      gender: "neuter" {BibleHub-Interlinear-MAT5.3}
+      number: "singular" {BibleHub-Interlinear-MAT5.3}
+      declension: "third declension neuter" {BibleHub-G4151}
+    gloss: "spirit, breath, inner life" {BibleHub-G4151}
+    syntactical_function: "dative of sphere/respect - specifies the realm in which poverty is experienced (spiritual rather than material)" {llm-cs45}
+
+  # === SECOND CLAUSE: CAUSAL EXPLANATION ===
+  - position: 6
+    original: "ὅτι" {grc-Nestle1904}
+    transliteration: "hoti" {grc-Nestle1904}
+    lemma: "ὅτι" {BibleHub-G3754}
+    strongs: "G3754" {BibleHub-G3754}
+    parsing:
+      part_of_speech: "conjunction" {BibleHub-G3754}
+      function: "causal" {BibleHub-G3754}
+    gloss: "because, for, that" {BibleHub-G3754}
+    syntactical_function: "causal conjunction - introduces the explanatory reason for the blessedness" {llm-cs45}
+
+  - position: 7
+    original: "αὐτῶν" {grc-Nestle1904}
+    transliteration: "autōn" {grc-Nestle1904}
+    lemma: "αὐτός" {BibleHub-G846}
+    strongs: "G846" {BibleHub-G846}
+    parsing:
+      part_of_speech: "personal pronoun" {BibleHub-G846}
+      case: "genitive" {BibleHub-Interlinear-MAT5.3}
+      gender: "masculine" {BibleHub-Interlinear-MAT5.3}
+      number: "plural" {BibleHub-Interlinear-MAT5.3}
+      person: "3rd" {BibleHub-G846}
+    gloss: "theirs, of them" {BibleHub-G846}
+    syntactical_function: "possessive genitive - indicates ownership/belonging relationship with the kingdom" {llm-cs45}
+
+  - position: 8
+    original: "ἐστιν" {grc-Nestle1904}
+    transliteration: "estin" {grc-Nestle1904}
+    lemma: "εἰμί" {BibleHub-G1510}
+    strongs: "G1510" {BibleHub-G1510}
+    parsing:
+      part_of_speech: "verb" {BibleHub-G1510}
+      tense: "present" {BibleHub-Interlinear-MAT5.3}
+      voice: "active" {BibleHub-Interlinear-MAT5.3}
+      mood: "indicative" {BibleHub-Interlinear-MAT5.3}
+      person: "3rd" {BibleHub-G1510}
+      number: "singular" {BibleHub-Interlinear-MAT5.3}
+    gloss: "is, exists" {BibleHub-G1510}
+    syntactical_function: "main verb - copula linking subject (kingdom) to predicate (theirs)" {llm-cs45}
+
+  - position: 9
+    original: "ἡ" {grc-Nestle1904}
+    transliteration: "hē" {grc-Nestle1904}
+    lemma: "ὁ" {BibleHub-Interlinear-MAT5.3}
+    strongs: "G3588" {BibleHub-Interlinear-MAT5.3}
+    parsing:
+      part_of_speech: "article" {BibleHub-Interlinear-MAT5.3}
+      case: "nominative" {BibleHub-Interlinear-MAT5.3}
+      gender: "feminine" {BibleHub-Interlinear-MAT5.3}
+      number: "singular" {BibleHub-Interlinear-MAT5.3}
+    gloss: "the" {BibleHub-Interlinear-MAT5.3}
+    syntactical_function: "definite article - marks the subject of the copula verb" {llm-cs45}
+
+  - position: 10
+    original: "βασιλεία" {grc-Nestle1904}
+    transliteration: "basileia" {grc-Nestle1904}
+    lemma: "βασιλεία" {BibleHub-G932}
+    strongs: "G932" {BibleHub-G932}
+    parsing:
+      part_of_speech: "noun" {BibleHub-G932}
+      case: "nominative" {BibleHub-Interlinear-MAT5.3}
+      gender: "feminine" {BibleHub-Interlinear-MAT5.3}
+      number: "singular" {BibleHub-Interlinear-MAT5.3}
+      declension: "first declension feminine" {BibleHub-G932}
+    gloss: "kingdom, royal authority, realm" {BibleHub-G932}
+    syntactical_function: "subject of copula verb - the reality that belongs to the poor in spirit" {llm-cs45}
+
+  - position: 11
+    original: "τῶν" {grc-Nestle1904}
+    transliteration: "tōn" {grc-Nestle1904}
+    lemma: "ὁ" {BibleHub-Interlinear-MAT5.3}
+    strongs: "G3588" {BibleHub-Interlinear-MAT5.3}
+    parsing:
+      part_of_speech: "article" {BibleHub-Interlinear-MAT5.3}
+      case: "genitive" {BibleHub-Interlinear-MAT5.3}
+      gender: "masculine" {BibleHub-Interlinear-MAT5.3}
+      number: "plural" {BibleHub-Interlinear-MAT5.3}
+    gloss: "of the" {BibleHub-Interlinear-MAT5.3}
+    syntactical_function: "definite article - marks the genitive modifier of kingdom" {llm-cs45}
+
+  - position: 12
+    original: "οὐρανῶν" {grc-Nestle1904}
+    transliteration: "ouranōn" {grc-Nestle1904}
+    lemma: "οὐρανός" {BibleHub-G3772}
+    strongs: "G3772" {BibleHub-G3772}
+    parsing:
+      part_of_speech: "noun" {BibleHub-G3772}
+      case: "genitive" {BibleHub-Interlinear-MAT5.3}
+      gender: "masculine" {BibleHub-Interlinear-MAT5.3}
+      number: "plural" {BibleHub-Interlinear-MAT5.3}
+      declension: "second declension masculine" {BibleHub-G3772}
+    gloss: "heavens, sky, transcendent realm" {BibleHub-G3772}
+    syntactical_function: "genitive modifier - specifies the nature/source of the kingdom (heavenly rather than earthly)" {llm-cs45}
+
+# === GRAMMATICAL ANALYSIS ===
+grammatical_notes:
+  - category: "verb"
+    observation: "The main verb ἐστιν (estin) is present tense indicative, expressing current reality rather than future promise. This indicates that possession of the kingdom is a present reality for the poor in spirit, not merely a future hope." {llm-cs45}
+    significance: "The present tense establishes realized eschatology - the kingdom is already operative in the lives of the spiritually humble, even though its full manifestation awaits the future. This grounds Christian hope in present experience." {llm-cs45}
+
+  - category: "case-usage"
+    observation: "The dative case in τῷ πνεύματι (tō pneumati) functions as a dative of sphere or respect, not instrumental or locative. This specifies the realm in which poverty is experienced." {llm-cs45}
+    significance: "The grammatical construction distinguishes spiritual poverty from material poverty. The poverty that results in blessedness is specifically poverty 'in the realm of spirit' - a recognition of spiritual bankruptcy and dependence on God, not merely economic destitution." {llm-cs45}
+
+  - category: "word-order"
+    observation: "The genitive pronoun αὐτῶν (autōn) appears in emphatic front position before the verb ἐστιν (estin), creating the word order 'theirs is' rather than 'is theirs'." {llm-cs45}
+    significance: "This fronting emphasizes the exclusive possession - the kingdom belongs to them specifically, to the poor in spirit. The emphatic word order underscores the reversal of worldly values where the spiritually impoverished possess the greatest treasure." {llm-cs45}
+
+  - category: "adjective-substantivization"
+    observation: "The adjective πτωχοί (ptōchoi) is substantivized by the article οἱ (hoi), transforming it from 'poor ones' to a definite class 'the poor'. Similarly, μακάριοι (makarioi) functions predicatively without an article." {llm-cs45}
+    significance: "The substantivization creates a defined social-spiritual class. These are not merely individuals who happen to be poor in spirit, but a recognizable category of people characterized by this spiritual posture. The articular construction implies a known and identifiable group within the community." {llm-cs45}
+
+  - category: "syntax"
+    observation: "The verse employs a bipartite beatitude structure: predicate adjective + substantivized subject + prepositional qualifier, followed by causal clause (ὅτι) explaining the reason for blessedness." {llm-cs45}
+    significance: "This grammatical pattern is the standard beatitude formula used throughout Matthew 5:3-11. The ὅτι clause provides theological grounding for the pronouncement, making this not merely wishful thinking but a statement of divine reality with an explanatory foundation." {llm-cs45}
+
+  - category: "number"
+    observation: "All nouns and adjectives referring to the blessed ones are plural (μακάριοι, οἱ πτωχοί, αὐτῶν), while the kingdom is singular (ἡ βασιλεία)." {llm-cs45}
+    significance: "The plural forms indicate this is a corporate blessing, not individualistic. Multiple persons together comprise the poor in spirit who collectively possess the one kingdom. This underscores the communal nature of discipleship and kingdom participation." {llm-cs45}
+
+  - category: "genitive-construction"
+    observation: "The phrase ἡ βασιλεία τῶν οὐρανῶν (hē basileia tōn ouranōn) uses a genitive of source/origin. The plural 'heavens' (οὐρανῶν) is characteristic of Jewish/Matthean usage." {llm-cs45}
+    significance: "The genitive construction indicates that this kingdom has its origin and character from the heavens (God's realm), distinguishing it from earthly kingdoms. Matthew's use of the Jewish circumlocution 'kingdom of the heavens' rather than 'kingdom of God' reflects sensitivity to Jewish readers avoiding direct use of the divine name." {llm-cs45}
+
+# === SYNTACTICAL STRUCTURE ===
+syntax:
+  main_verb: "Position 8: ἐστιν (estin) - present indicative active, 3rd person singular" {llm-cs45}
+  subject: "Position 10: ἡ βασιλεία (hē basileia) - the kingdom, modified by genitive τῶν οὐρανῶν" {llm-cs45}
+  predicate: "Predicate adjective: μακάριοι (makarioi) - blessed, describing the poor in spirit" {llm-cs45}
+  prepositional_phrases:
+    - phrase: "τῷ πνεύματι (tō pneumati)" {llm-cs45}
+      function: "dative of sphere/respect qualifying πτωχοί" {llm-cs45}
+      translation: "with respect to the spirit, in spirit" {llm-cs45}
+  modifiers:
+    - modifier: "οἱ (hoi) - article" {llm-cs45}
+      modifies: "πτωχοί (ptōchoi) - substantivizes the adjective" {llm-cs45}
+    - modifier: "τῶν οὐρανῶν (tōn ouranōn) - genitive phrase" {llm-cs45}
+      modifies: "βασιλεία (basileia) - specifies the kingdom's nature/origin" {llm-cs45}
+    - modifier: "αὐτῶν (autōn) - possessive genitive pronoun" {llm-cs45}
+      modifies: "implied predicate relationship with βασιλεία" {llm-cs45}
+  clauses:
+    - type: "main clause (clause 1)" {llm-cs45}
+      content: "Μακάριοι οἱ πτωχοὶ τῷ πνεύματι" {llm-cs45}
+      structure: "predicate adjective + article + substantivized adjective + dative qualifier" {llm-cs45}
+      function: "pronouncement of blessing" {llm-cs45}
+    - type: "dependent causal clause (clause 2)" {llm-cs45}
+      content: "ὅτι αὐτῶν ἐστιν ἡ βασιλεία τῶν οὐρανῶν" {llm-cs45}
+      structure: "causal conjunction + genitive pronoun + copula verb + subject + genitive modifier" {llm-cs45}
+      function: "provides theological basis for the blessing" {llm-cs45}
+
+# === STATISTICS ===
+word_count: 12
+verb_count: 1
+noun_count: 2
+adjective_count: 2
+article_count: 5
+pronoun_count: 1
+conjunction_count: 1

@@ -1,0 +1,194 @@
+# === METADATA ===
+verse:
+  reference: "John 1:1"
+  book: "JHN"
+  chapter: 1
+  verse: 1
+
+tool:
+  name: "original-language-words"
+  version: "1.0.0"
+  experiment: "concordance"
+  revision: 1
+  generated_date: "2025-10-28"
+
+# === SOURCE TEXT ===
+source_text:
+  language: "grc"
+  text: "Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος. {grc-NA28}"
+  transliteration: "En archē ēn ho Logos, kai ho Logos ēn pros ton Theon, kai Theos ēn ho Logos. {biblehub}"
+
+# === WORDS (CONCORDANCE FORMAT) ===
+words:
+  - position: 1
+    strongs: "G1722"
+    original: "Ἐν"
+    transliteration: "En"
+    gloss: "in"
+    lexical_form: "ἐν"
+    word_type: "preposition"
+    sources: [biblehub, strongs]
+
+  - position: 2
+    strongs: "G746"
+    original: "ἀρχῇ"
+    transliteration: "archē"
+    gloss: "beginning"
+    lexical_form: "ἀρχή"
+    word_type: "noun"
+    sources: [biblehub, strongs]
+
+  - position: 3
+    strongs: "G1510"
+    original: "ἦν"
+    transliteration: "ēn"
+    gloss: "was"
+    lexical_form: "εἰμί"
+    word_type: "verb"
+    sources: [biblehub, strongs]
+
+  - position: 4
+    strongs: "G3588"
+    original: "ὁ"
+    transliteration: "ho"
+    gloss: "the"
+    lexical_form: "ὁ"
+    word_type: "article"
+    sources: [biblehub, strongs]
+
+  - position: 5
+    strongs: "G3056"
+    original: "λόγος"
+    transliteration: "logos"
+    gloss: "Word"
+    lexical_form: "λόγος"
+    word_type: "noun"
+    sources: [biblehub, strongs]
+
+  - position: 6
+    strongs: "G2532"
+    original: "καὶ"
+    transliteration: "kai"
+    gloss: "and"
+    lexical_form: "καί"
+    word_type: "conjunction"
+    sources: [biblehub, strongs]
+
+  - position: 7
+    strongs: "G3588"
+    original: "ὁ"
+    transliteration: "ho"
+    gloss: "the"
+    lexical_form: "ὁ"
+    word_type: "article"
+    sources: [biblehub, strongs]
+
+  - position: 8
+    strongs: "G3056"
+    original: "λόγος"
+    transliteration: "logos"
+    gloss: "Word"
+    lexical_form: "λόγος"
+    word_type: "noun"
+    sources: [biblehub, strongs]
+
+  - position: 9
+    strongs: "G1510"
+    original: "ἦν"
+    transliteration: "ēn"
+    gloss: "was"
+    lexical_form: "εἰμί"
+    word_type: "verb"
+    sources: [biblehub, strongs]
+
+  - position: 10
+    strongs: "G4314"
+    original: "πρὸς"
+    transliteration: "pros"
+    gloss: "with"
+    lexical_form: "πρός"
+    word_type: "preposition"
+    sources: [biblehub, strongs]
+
+  - position: 11
+    strongs: "G3588"
+    original: "τὸν"
+    transliteration: "ton"
+    gloss: "the"
+    lexical_form: "ὁ"
+    word_type: "article"
+    sources: [biblehub, strongs]
+
+  - position: 12
+    strongs: "G2316"
+    original: "θεόν"
+    transliteration: "theon"
+    gloss: "God"
+    lexical_form: "θεός"
+    word_type: "noun"
+    sources: [biblehub, strongs]
+
+  - position: 13
+    strongs: "G2532"
+    original: "καὶ"
+    transliteration: "kai"
+    gloss: "and"
+    lexical_form: "καί"
+    word_type: "conjunction"
+    sources: [biblehub, strongs]
+
+  - position: 14
+    strongs: "G2316"
+    original: "θεὸς"
+    transliteration: "theos"
+    gloss: "God"
+    lexical_form: "θεός"
+    word_type: "noun"
+    sources: [biblehub, strongs]
+
+  - position: 15
+    strongs: "G1510"
+    original: "ἦν"
+    transliteration: "ēn"
+    gloss: "was"
+    lexical_form: "εἰμί"
+    word_type: "verb"
+    sources: [biblehub, strongs]
+
+  - position: 16
+    strongs: "G3588"
+    original: "ὁ"
+    transliteration: "ho"
+    gloss: "the"
+    lexical_form: "ὁ"
+    word_type: "article"
+    sources: [biblehub, strongs]
+
+  - position: 17
+    strongs: "G3056"
+    original: "λόγος"
+    transliteration: "logos"
+    gloss: "Word"
+    lexical_form: "λόγος"
+    word_type: "noun"
+    sources: [biblehub, strongs]
+
+# === NOTES (minimal) ===
+notes:
+  - note: "Blue Letter Bible uses G2258 for ἦν (imperfect tense form), but G1510 (εἰμί - lexical form) is used here for concordance consistency"
+    source: llm-cs45
+  - note: "G3588 (article ὁ) appears 4 times in this verse (positions 4, 7, 11, 16)"
+    source: llm-cs45
+  - note: "G3056 (λόγος - Word) appears 3 times in this verse (positions 5, 8, 17)"
+    source: llm-cs45
+  - note: "G2316 (θεός - God) appears 2 times in this verse (positions 12, 14) with different inflections"
+    source: llm-cs45
+  - note: "G2532 (καί - and) appears 2 times as conjunction (positions 6, 13)"
+    source: llm-cs45
+  - note: "G1510 (εἰμί - was) appears 3 times as verb (positions 3, 9, 15)"
+    source: llm-cs45
+
+# === STATISTICS ===
+word_count: 17
+unique_strongs: 8
+repeated_words: [G3588, G3056, G1510, G2316, G2532]

@@ -1,0 +1,503 @@
+# === METADATA ===
+verse:
+  reference: "John 1:1"
+  book: "JHN"
+  chapter: 1
+  verse: 1
+
+tool:
+  name: "original-language-words"
+  version: "1.0.0"
+  experiment: "semantic"
+  revision: 1
+  generated_date: "2025-10-28"
+
+methodology_note: "Louw-Nida domain numbers were inferred from online sources and semantic domain descriptions, as complete domain data is not freely available. Domain numbers should be verified against the complete Louw-Nida Greek-English Lexicon. Semantic analysis and contextual insights are AI-generated (llm-cs45) based on grammatical, lexical, and theological research from authoritative sources." {llm-cs45}
+
+# === SOURCE TEXT ===
+source_text:
+  language: "grc"
+  text: "Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος." {grc-NA28}
+  transliteration: "En archē ēn ho logos, kai ho logos ēn pros ton theon, kai theos ēn ho logos." {grc-NA28}
+
+# === WORDS (SEMANTIC FORMAT) ===
+# Organized by semantic contribution to the verse
+
+words:
+  - position: 1
+    original: "Ἐν" {grc-NA28}
+    transliteration: "En" {grc-NA28}
+    lemma: "ἐν" {grc-NA28}
+    strongs: "G1722" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "83.13" {llm-cs45}
+      domain_name: "Spacial Positions" {llm-cs45}
+      subdomain: "Among, Between, In, Inside" {llm-cs45}
+
+      semantic_range:
+        - sense: "in, inside (spatial location)" {biblehub}
+        - sense: "in, within (temporal location)" {biblehub}
+        - sense: "by means of (instrumental)" {biblehub}
+        - sense: "in the sphere of (abstract location)" {biblehub}
+
+      contextual_meaning: "within, at the point of (temporal-metaphysical)" {llm-cs45}
+      why_this_sense: "The temporal sense is activated by ἀρχῇ (beginning), but this is not merely chronological time - it indicates the metaphysical sphere of absolute origin. The preposition establishes the setting for the existence of the Logos before time itself." {llm-cs45}
+
+      semantic_field: "Location and Position" {llm-cs45}
+      related_words: ["ἐπί (upon)", "παρά (beside)", "πρός (toward)"] {llm-cs45}
+
+    gloss: "in" {biblehub}
+
+  - position: 2
+    original: "ἀρχῇ" {grc-NA28}
+    transliteration: "archē" {grc-NA28}
+    lemma: "ἀρχή" {grc-NA28}
+    strongs: "G746" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "67.65" {llm-cs45}
+      domain_name: "Time" {llm-cs45}
+      subdomain: "A Point of Time with Reference to Duration: Beginning, End" {llm-cs45}
+
+      semantic_range:
+        - sense: "beginning, origin (temporal)" {biblehub}
+        - sense: "first place, eminence (positional)" {biblehub}
+        - sense: "ruler, authority, power (governmental)" {biblehub}
+        - sense: "first principle, element (philosophical)" {billmounce}
+
+      contextual_meaning: "the absolute beginning, primordial origin before creation" {llm-cs45}
+      why_this_sense: "This echoes Genesis 1:1 (LXX: ἐν ἀρχῇ) but John elevates it beyond the beginning of creation to absolute precedence before time. The dative case (ἀρχῇ) with ἐν creates a locative of sphere - not when the Word began, but the sphere in which He already existed. The imperfect ἦν confirms continuous existence without origin." {llm-cs45}
+
+      semantic_field: "Temporal Boundaries and Origins" {llm-cs45}
+      related_words: ["τέλος (end)", "πρῶτος (first)", "γένεσις (origin, birth)"] {llm-cs45}
+
+    gloss: "beginning" {biblehub}
+
+  - position: 3
+    original: "ἦν" {grc-NA28}
+    transliteration: "ēn" {grc-NA28}
+    lemma: "εἰμί" {grc-NA28}
+    strongs: "G1510" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "13.1" {llm-cs45}
+      domain_name: "Be, Become, Exist, Happen" {llm-cs45}
+      subdomain: "State" {llm-cs45}
+
+      semantic_range:
+        - sense: "to be, exist (essential existence)" {biblehub}
+        - sense: "to be present (locational)" {biblehub}
+        - sense: "to happen, occur (eventive)" {biblehub}
+        - sense: "to remain, continue (durative)" {biblehub}
+
+      contextual_meaning: "was existing continuously, eternal pre-existence" {llm-cs45}
+      why_this_sense: "The imperfect tense (ἦν) is crucial - it indicates continuous, ongoing existence in the past without reference to a beginning point. This contrasts with aorist (ἐγένετο 'came to be') used for creation in v. 3. The choice of imperfect emphasizes the Logos did not come into being but already existed continuously." {llm-cs45}
+
+      semantic_field: "Existence and Being" {llm-cs45}
+      related_words: ["γίνομαι (become, come into being)", "ὑπάρχω (exist, be in reality)"] {llm-cs45}
+
+    gloss: "was" {biblehub}
+
+  - position: 4
+    original: "ὁ" {grc-NA28}
+    transliteration: "ho" {grc-NA28}
+    lemma: "ὁ" {grc-NA28}
+    strongs: "G3588" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "92.24" {llm-cs45}
+      domain_name: "Discourse Referentials" {llm-cs45}
+      subdomain: "Specification" {llm-cs45}
+
+      semantic_range:
+        - sense: "the (definite article)" {biblehub}
+        - sense: "this/that (demonstrative force)" {biblehub}
+        - sense: "who/which (relative force)" {biblehub}
+
+      contextual_meaning: "the (definite, specific identification)" {llm-cs45}
+      why_this_sense: "The article before λόγος identifies a specific, definite entity. This is not 'a word' but 'the Word' - a title of unique identification. The repetition of ὁ λόγος three times in the verse creates anaphoric reference, building theological emphasis on this specific divine person." {llm-cs45}
+
+      semantic_field: "Determination and Definiteness" {llm-cs45}
+      related_words: ["οὗτος (this)", "ἐκεῖνος (that)"] {llm-cs45}
+
+    gloss: "the" {biblehub}
+
+  - position: 5
+    original: "λόγος" {grc-NA28}
+    transliteration: "logos" {grc-NA28}
+    lemma: "λόγος" {grc-NA28}
+    strongs: "G3056" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "33.98" {llm-cs45}
+      domain_name: "Communication" {llm-cs45}
+      subdomain: "Speak, Talk" {llm-cs45}
+
+      semantic_range:
+        - sense: "word, utterance, speech (spoken communication)" {biblehub}
+        - sense: "saying, statement, message (content of speech)" {biblehub}
+        - sense: "account, reckoning, reason (logical discourse)" {billmounce}
+        - sense: "subject, matter, thing (topic of discourse)" {biblehub}
+        - sense: "divine Word, Logos (theological: divine reason/revelation)" {biblehub}
+
+      contextual_meaning: "the Word - divine self-expression and ultimate revelation of God" {llm-cs45}
+      why_this_sense: "John uses λόγος as a title (with article) for Christ, not merely as 'a word' or 'speech.' This draws on both Jewish (דָּבָר - God's creative word in Gen 1; Psalm 33:6) and Greek philosophical backgrounds (Stoic Logos as divine reason). However, John radically personalizes it - the Logos is not an abstract principle but a person in eternal relationship with God who became incarnate (v. 14). The threefold repetition in v. 1 emphasizes the centrality of the Logos to creation, relationship with God, and divine identity." {llm-cs45}
+
+      semantic_field: "Communication and Expression" {llm-cs45}
+      related_words: ["ῥῆμα (spoken word, utterance)", "λαλιά (speech, dialect)", "λέγω (to say, speak)"] {llm-cs45}
+
+    gloss: "Word" {biblehub}
+
+  - position: 6
+    original: "καὶ" {grc-NA28}
+    transliteration: "kai" {grc-NA28}
+    lemma: "καί" {grc-NA28}
+    strongs: "G2532" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "89.87" {llm-cs45}
+      domain_name: "Relations" {llm-cs45}
+      subdomain: "Additive: And, Also, Even" {llm-cs45}
+
+      semantic_range:
+        - sense: "and (coordinate conjunction)" {biblehub}
+        - sense: "also, even (additive)" {biblehub}
+        - sense: "but, yet (adversative)" {biblehub}
+        - sense: "namely, that is (explanatory)" {biblehub}
+
+      contextual_meaning: "and (coordinate, progressive connection)" {llm-cs45}
+      why_this_sense: "The repetition of καὶ creates three parallel clauses that build theological progression: (1) temporal priority, (2) relational distinction, (3) ontological identity. Each καὶ adds a new facet of truth about the Logos without contradiction - coordinating rather than contrasting the statements." {llm-cs45}
+
+      semantic_field: "Logical Connection" {llm-cs45}
+      related_words: ["δέ (but, and)", "ἀλλά (but, rather)", "τε (and, both)"] {llm-cs45}
+
+    gloss: "and" {biblehub}
+
+  - position: 7
+    original: "ὁ" {grc-NA28}
+    transliteration: "ho" {grc-NA28}
+    lemma: "ὁ" {grc-NA28}
+    strongs: "G3588" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "92.24" {llm-cs45}
+      domain_name: "Discourse Referentials" {llm-cs45}
+      subdomain: "Specification" {llm-cs45}
+
+      semantic_range:
+        - sense: "the (definite article)" {biblehub}
+        - sense: "this/that (demonstrative force)" {biblehub}
+
+      contextual_meaning: "the (anaphoric reference back to previously mentioned Logos)" {llm-cs45}
+      why_this_sense: "Second occurrence of the article with λόγος - anaphoric reference pointing back to the same Word just mentioned. This maintains focus on the specific divine person being described throughout the progression of clauses." {llm-cs45}
+
+      semantic_field: "Determination and Definiteness" {llm-cs45}
+      related_words: ["οὗτος (this)", "αὐτός (he, same)"] {llm-cs45}
+
+    gloss: "the" {biblehub}
+
+  - position: 8
+    original: "λόγος" {grc-NA28}
+    transliteration: "logos" {grc-NA28}
+    lemma: "λόγος" {grc-NA28}
+    strongs: "G3056" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "33.98" {llm-cs45}
+      domain_name: "Communication" {llm-cs45}
+      subdomain: "Speak, Talk" {llm-cs45}
+
+      semantic_range:
+        - sense: "word, utterance, speech (spoken communication)" {biblehub}
+        - sense: "divine Word, Logos (theological)" {biblehub}
+
+      contextual_meaning: "the Word (same divine person, now in relational context)" {llm-cs45}
+      why_this_sense: "Second occurrence emphasizes continuity of identity - the same Word who existed in the beginning now described in relationship πρὸς τὸν θεόν. This prepares for the paradox of the third clause where this same Word is identified as θεός." {llm-cs45}
+
+      semantic_field: "Communication and Expression" {llm-cs45}
+      related_words: ["ῥῆμα (spoken word)", "λέγω (to say)"] {llm-cs45}
+
+    gloss: "Word" {biblehub}
+
+  - position: 9
+    original: "ἦν" {grc-NA28}
+    transliteration: "ēn" {grc-NA28}
+    lemma: "εἰμί" {grc-NA28}
+    strongs: "G1510" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "13.1" {llm-cs45}
+      domain_name: "Be, Become, Exist, Happen" {llm-cs45}
+      subdomain: "State" {llm-cs45}
+
+      semantic_range:
+        - sense: "to be, exist (essential existence)" {biblehub}
+        - sense: "to be present (locational)" {biblehub}
+
+      contextual_meaning: "was existing (continuous relational existence)" {llm-cs45}
+      why_this_sense: "Second occurrence of imperfect ἦν - continues the emphasis on eternal, ongoing existence, now applied to the relational aspect. The Word was continuously in relationship with God, not at some point entering into relationship." {llm-cs45}
+
+      semantic_field: "Existence and Being" {llm-cs45}
+      related_words: ["γίνομαι (become)", "ὑπάρχω (exist in reality)"] {llm-cs45}
+
+    gloss: "was" {biblehub}
+
+  - position: 10
+    original: "πρὸς" {grc-NA28}
+    transliteration: "pros" {grc-NA28}
+    lemma: "πρός" {grc-NA28}
+    strongs: "G4314" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "83.40" {llm-cs45}
+      domain_name: "Spacial Positions" {llm-cs45}
+      subdomain: "Toward, To, With Reference To" {llm-cs45}
+
+      semantic_range:
+        - sense: "toward, to (direction of motion)" {biblehub}
+        - sense: "with, in the presence of (association)" {biblehub}
+        - sense: "against, toward (hostile orientation)" {biblehub}
+        - sense: "with reference to, concerning (topic)" {biblehub}
+        - sense: "face-to-face with (intimate relationship)" {llm-cs45}
+
+      contextual_meaning: "with, in intimate face-to-face relationship with" {llm-cs45}
+      why_this_sense: "The choice of πρὸς (with accusative) rather than σύν or μετά is theologically significant. Πρὸς indicates not mere spatial proximity but dynamic, face-to-face relationship - orientation toward another person. This suggests the eternal communion and intimate fellowship between the Word and God, implying both distinction of persons and unity of relationship. The directional nuance hints at the Word's orientation toward the Father." {llm-cs45}
+
+      semantic_field: "Spacial and Relational Orientation" {llm-cs45}
+      related_words: ["μετά (with, in company with)", "σύν (together with)", "παρά (beside, with)"] {llm-cs45}
+
+    gloss: "with" {biblehub}
+
+  - position: 11
+    original: "τὸν" {grc-NA28}
+    transliteration: "ton" {grc-NA28}
+    lemma: "ὁ" {grc-NA28}
+    strongs: "G3588" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "92.24" {llm-cs45}
+      domain_name: "Discourse Referentials" {llm-cs45}
+      subdomain: "Specification" {llm-cs45}
+
+      semantic_range:
+        - sense: "the (definite article, accusative)" {biblehub}
+
+      contextual_meaning: "the (definite article marking θεόν as definite, specific God)" {llm-cs45}
+      why_this_sense: "Accusative article with θεόν after πρός. The presence of the article here (τὸν θεόν) contrasts with its absence in the third clause (θεὸς ἦν ὁ λόγος). This definiteness emphasizes the Word was with 'the God' - the one true God, distinguished as a person in relationship with the Word." {llm-cs45}
+
+      semantic_field: "Determination and Definiteness" {llm-cs45}
+      related_words: ["αὐτός (he, same)"] {llm-cs45}
+
+    gloss: "the" {biblehub}
+
+  - position: 12
+    original: "θεόν" {grc-NA28}
+    transliteration: "theon" {grc-NA28}
+    lemma: "θεός" {grc-NA28}
+    strongs: "G2316" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "12.1" {llm-cs45}
+      domain_name: "Supernatural Beings and Powers" {llm-cs45}
+      subdomain: "Supernatural Beings" {llm-cs45}
+
+      semantic_range:
+        - sense: "God, the one true God (with article)" {biblehub}
+        - sense: "a god, deity (without article or plural)" {biblehub}
+        - sense: "divine, godlike (qualitative)" {biblehub}
+        - sense: "the divine being possessing true godhead" {biblehub}
+
+      contextual_meaning: "God (the specific person of the Father, in relationship with the Word)" {llm-cs45}
+      why_this_sense: "With the article (τὸν θεόν), this refers to 'the God' - the Father as a distinct person from the Word, yet in eternal relationship with Him. The accusative case follows πρός to indicate the direction/orientation of relationship. This establishes personal distinction - the Word and God are not identical persons, yet the Word was in face-to-face communion with God from eternity." {llm-cs45}
+
+      semantic_field: "Deity and Divinity" {llm-cs45}
+      related_words: ["κύριος (Lord)", "θεῖος (divine)", "θειότης (deity, divinity)"] {llm-cs45}
+
+    gloss: "God" {biblehub}
+
+  - position: 13
+    original: "καὶ" {grc-NA28}
+    transliteration: "kai" {grc-NA28}
+    lemma: "καί" {grc-NA28}
+    strongs: "G2532" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "89.87" {llm-cs45}
+      domain_name: "Relations" {llm-cs45}
+      subdomain: "Additive: And, Also, Even" {llm-cs45}
+
+      semantic_range:
+        - sense: "and (coordinate conjunction)" {biblehub}
+        - sense: "also, even (additive/emphatic)" {biblehub}
+
+      contextual_meaning: "and (coordinate, adding climactic statement)" {llm-cs45}
+      why_this_sense: "Third καὶ introduces the climactic statement - after establishing temporal priority and relational distinction, now comes ontological identity. This καὶ connects the relational statement to the identity statement without contradiction. Some see emphatic force: 'and indeed' or 'what's more.'" {llm-cs45}
+
+      semantic_field: "Logical Connection" {llm-cs45}
+      related_words: ["δέ (but, and)", "τε (and, both)"] {llm-cs45}
+
+    gloss: "and" {biblehub}
+
+  - position: 14
+    original: "θεὸς" {grc-NA28}
+    transliteration: "theos" {grc-NA28}
+    lemma: "θεός" {grc-NA28}
+    strongs: "G2316" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "12.1" {llm-cs45}
+      domain_name: "Supernatural Beings and Powers" {llm-cs45}
+      subdomain: "Supernatural Beings" {llm-cs45}
+
+      semantic_range:
+        - sense: "God, the one true God (with article)" {biblehub}
+        - sense: "divine nature, deity (qualitative without article)" {biblehub}
+        - sense: "a god (indefinite)" {biblehub}
+
+      contextual_meaning: "God in nature/essence (qualitative - possessing full divine nature)" {llm-cs45}
+      why_this_sense: "The absence of the article (θεὸς not ὁ θεός) in predicate position is grammatically significant in Greek. This is neither indefinite ('a god') nor simply definite ('the God' = Father). Rather, it is qualitative/categorical - emphasizing the nature or essence of what the Word is. Colwell's Rule observes that definite predicate nouns preceding the verb often lack the article. The sense is: 'the Word was deity in nature' or 'the Word possessed the very nature of God.' This affirms full divinity while the previous clause affirms personal distinction. Word order (θεὸς ἦν ὁ λόγος) emphasizes the predicate - what the Word WAS is stressed." {llm-cs45}
+
+      semantic_field: "Deity and Divine Nature" {llm-cs45}
+      related_words: ["θεῖος (divine)", "θειότης (deity)", "θεότης (godhead)"] {llm-cs45}
+
+    gloss: "God" {biblehub}
+
+  - position: 15
+    original: "ἦν" {grc-NA28}
+    transliteration: "ēn" {grc-NA28}
+    lemma: "εἰμί" {grc-NA28}
+    strongs: "G1510" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "13.1" {llm-cs45}
+      domain_name: "Be, Become, Exist, Happen" {llm-cs45}
+      subdomain: "State" {llm-cs45}
+
+      semantic_range:
+        - sense: "to be, exist (essential existence)" {biblehub}
+        - sense: "to have the quality of (qualitative)" {biblehub}
+
+      contextual_meaning: "was in essence/nature (ontological identity)" {llm-cs45}
+      why_this_sense: "Third occurrence of imperfect ἦν - the Word continuously possessed divine nature from eternity. Not 'became God' (which would require γίνομαι) but eternally WAS God in nature. The threefold repetition of ἦν creates a rhythmic emphasis: eternal existence (clause 1), eternal relationship (clause 2), eternal divine essence (clause 3)." {llm-cs45}
+
+      semantic_field: "Existence and Being" {llm-cs45}
+      related_words: ["ὑπάρχω (exist in reality)", "γίνομαι (become, come to be)"] {llm-cs45}
+
+    gloss: "was" {biblehub}
+
+  - position: 16
+    original: "ὁ" {grc-NA28}
+    transliteration: "ho" {grc-NA28}
+    lemma: "ὁ" {grc-NA28}
+    strongs: "G3588" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "92.24" {llm-cs45}
+      domain_name: "Discourse Referentials" {llm-cs45}
+      subdomain: "Specification" {llm-cs45}
+
+      semantic_range:
+        - sense: "the (definite article)" {biblehub}
+
+      contextual_meaning: "the (anaphoric reference, identifying subject as the previously mentioned Word)" {llm-cs45}
+      why_this_sense: "Third occurrence of the article with λόγος. Anaphoric reference maintaining identity - the same Word throughout all three clauses. The article in subject position (ὁ λόγος) after the predicate θεὸς grammatically identifies the subject, preventing the reading that 'God was the Word' (which would collapse the distinction). Word order matters: θεὸς ἦν ὁ λόγος emphasizes the predicate quality." {llm-cs45}
+
+      semantic_field: "Determination and Definiteness" {llm-cs45}
+      related_words: ["οὗτος (this)", "αὐτός (he, same)"] {llm-cs45}
+
+    gloss: "the" {biblehub}
+
+  - position: 17
+    original: "λόγος" {grc-NA28}
+    transliteration: "logos" {grc-NA28}
+    lemma: "λόγος" {grc-NA28}
+    strongs: "G3056" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "33.98" {llm-cs45}
+      domain_name: "Communication" {llm-cs45}
+      subdomain: "Speak, Talk" {llm-cs45}
+
+      semantic_range:
+        - sense: "word, divine communication" {biblehub}
+        - sense: "divine Word, Logos (theological title)" {biblehub}
+
+      contextual_meaning: "the Word (divine person possessing full divine nature)" {llm-cs45}
+      why_this_sense: "Third and climactic occurrence of λόγος. After establishing the Word's eternal existence and relational distinction from God, John now affirms the Word's divine essence. The threefold repetition creates emphasis and progression. The title 'Word' itself is now seen in full theological light - this is not merely God's speech or message, but a divine person who is the ultimate self-expression and self-revelation of God." {llm-cs45}
+
+      semantic_field: "Communication and Divine Revelation" {llm-cs45}
+      related_words: ["ῥῆμα (spoken word)", "λέγω (to say)"] {llm-cs45}
+
+    gloss: "Word" {biblehub}
+
+# === SEMANTIC ANALYSIS ===
+semantic_structure:
+  - theme: "Temporal Priority and Eternal Pre-existence" {llm-cs45}
+    words_involved: [1, 2, 3] {llm-cs45}
+    significance: "The opening phrase ἐν ἀρχῇ ἦν establishes absolute temporal priority - the Word's existence precedes creation and time itself. The imperfect tense ἦν contrasts with γίνομαι (become) used for creation, emphasizing uncreated, continuous existence. This echoes Genesis 1:1 but transcends it - not just present at creation's beginning, but existing before the beginning." {llm-cs45}
+
+  - theme: "Relational Distinction within Unity" {llm-cs45}
+    words_involved: [7, 8, 9, 10, 11, 12] {llm-cs45}
+    significance: "The phrase πρὸς τὸν θεόν establishes both distinction and relationship. The Word and God (Father) are distinct persons (not modalism), yet in eternal, intimate, face-to-face communion. The preposition πρός (rather than μετά or σύν) emphasizes dynamic, oriented relationship. The presence of the article (τὸν θεόν) contrasts with its absence in clause 3, setting up the distinction between person (Father) and nature (deity)." {llm-cs45}
+
+  - theme: "Ontological Divine Identity" {llm-cs45}
+    words_involved: [14, 15, 16, 17] {llm-cs45}
+    significance: "The climactic clause θεὸς ἦν ὁ λόγος affirms the Word's full divine nature. The anarthrous predicate θεός is qualitative - the Word possesses the complete nature and essence of deity. This is not 'a god' (polytheism) or 'the God' (collapsing distinction with Father), but deity by nature. The word order emphasizes the predicate - WHAT the Word is receives focus." {llm-cs45}
+
+  - theme: "Communication as Divine Self-Revelation" {llm-cs45}
+    words_involved: [5, 8, 17] {llm-cs45}
+    significance: "The threefold repetition of λόγος as title emphasizes its centrality. Drawing on both Jewish (God's creative דָּבָר) and Greek (philosophical Logos) backgrounds, John radically personalizes the concept - the Word is not abstract communication or reason, but a divine person who is God's ultimate self-expression. The Word is both God's communication TO humanity and the very nature OF God." {llm-cs45}
+
+semantic_relationships:
+  - relationship_type: "parallel" {llm-cs45}
+    word_1: "Position 1-2: ἐν ἀρχῇ" {llm-cs45}
+    word_2: "Genesis 1:1 LXX: ἐν ἀρχῇ" {llm-cs45}
+    explanation: "Direct verbal parallel with Genesis 1:1 (Septuagint) creates intertextual echo. Both begin with creation context, but John's usage transcends it - Genesis describes when creation began; John describes the Word's pre-existence before that beginning. The parallel invites readers to see the Word as the agent of Genesis creation (confirmed in v. 3)." {llm-cs45}
+
+  - relationship_type: "contrast" {llm-cs45}
+    word_1: "Position 3, 9, 15: ἦν (imperfect)" {llm-cs45}
+    word_2: "John 1:3: ἐγένετο (aorist 'came into being')" {llm-cs45}
+    explanation: "The threefold imperfect ἦν (was existing continuously) contrasts with aorist ἐγένετο (came into being) used for creation in v. 3. This grammatical distinction is theologically loaded - the Word eternally existed without origin, while all created things came into existence at a point in time. The repetition emphasizes the Word's uncreated nature." {llm-cs45}
+
+  - relationship_type: "article_presence_contrast" {llm-cs45}
+    word_1: "Position 11-12: τὸν θεόν (with article)" {llm-cs45}
+    word_2: "Position 14: θεὸς (without article)" {llm-cs45}
+    explanation: "Presence of article with θεόν (clause 2) vs. absence with θεός (clause 3) creates crucial distinction. Τὸν θεόν identifies the Father as distinct person; anarthrous θεός describes the Word's divine nature/essence. This grammatical feature solves the apparent paradox - the Word is both with God (distinct person) and is God (shares divine nature). Not two Gods (polytheism) nor same person (modalism), but two persons sharing one divine essence." {llm-cs45}
+
+  - relationship_type: "progression" {llm-cs45}
+    word_1: "Clause 1: Temporal setting" {llm-cs45}
+    word_2: "Clause 3: Ontological identity" {llm-cs45}
+    explanation: "The three clauses connected by καί create theological progression, not mere addition. Movement from WHERE (in the beginning) to WITH WHOM (with God) to WHAT (was God). Each clause builds on the previous: (1) eternal pre-existence, (2) relational distinction, (3) essential deity. The structure prevents misunderstanding - establishing both unity and distinction before affirming divinity." {llm-cs45}
+
+  - relationship_type: "semantic_field_overlap" {llm-cs45}
+    word_1: "Position 5: λόγος (Communication domain)" {llm-cs45}
+    word_2: "Position 12, 14: θεός (Supernatural Beings domain)" {llm-cs45}
+    explanation: "λόγος brings Communication semantic domain while θεός brings Supernatural Being domain. The intersection is profound - the Word is the means by which the infinite, transcendent God communicates Himself to creation. This bridges the gap between an unknowable deity and revealed truth. The Word is both divine (θεός) and revelatory (λόγος) - God's self-communication in person." {llm-cs45}
+
+# === CONTEXTUAL INSIGHTS ===
+contextual_notes:
+  - word: "λόγος" {llm-cs45}
+    observation: "The choice of λόγος as christological title is strategic and multivalent. For Jewish readers, it echoes God's creative word (Genesis 1:3 'God said'), the Word of the Lord to prophets, and wisdom personified (Proverbs 8). For Greek readers, it resonates with Stoic philosophy (Logos as divine reason ordering cosmos) and Philo's intermediary Logos. John transcends both backgrounds by personalizing and incarnating the Logos (v. 14) - making abstract concept into concrete person." {llm-cs45}
+    cross_references: ["Genesis 1:3", "Psalm 33:6", "Proverbs 8:22-31", "John 1:14"] {llm-cs45}
+
+  - word: "ἦν (imperfect tense)" {llm-cs45}
+    observation: "The threefold repetition of imperfect ἦν is theologically intentional. Imperfect tense in Greek indicates continuous or repeated action in past time without specifying beginning or end. This grammatical choice undermines Arian theology (which claims the Son had a beginning) and affirms eternal, uncreated existence. The contrast with aorist ἐγένετο (came into being) in v. 3 for creation makes this distinction unmistakable." {llm-cs45}
+    cross_references: ["John 1:3", "John 8:58", "Colossians 1:17", "Hebrews 13:8"] {llm-cs45}
+
+  - word: "πρός with accusative" {llm-cs45}
+    observation: "The preposition choice πρὸς τὸν θεόν (rather than μετά or σύν or παρά) is exegetically significant. Πρός with accusative suggests motion toward, orientation to, or face-to-face position. Early church fathers saw Trinitarian implications - the Word eternally 'facing' the Father in communion, suggesting both distinction of persons and intimacy of relationship. This counters modalism (Father and Son are same person) and subordinationism (Son is lesser being), pointing toward orthodox Trinitarianism." {llm-cs45}
+    cross_references: ["John 17:5", "John 17:24", "1 John 1:2"] {llm-cs45}
+
+  - word: "θεός without article (anarthrous)" {llm-cs45}
+    observation: "The absence of article before θεός in the predicate position (θεὸς ἦν ὁ λόγος) has generated enormous theological discussion. Jehovah's Witnesses translate 'the Word was a god' (indefinite), suggesting lesser deity. However, Colwell's Rule and Greek grammar demonstrate this is qualitative - 'the Word was deity in nature' or 'possessed divine essence.' The word order (predicate before verb) emphasizes WHAT the Word was. Had John written ὁ θεός ἦν ὁ λόγος, it would suggest Father and Word are identical person (modalism). Had he written ὁ λόγος ἦν θεός τις, it would suggest a lesser god (polytheism). The actual construction affirms full divinity while maintaining personal distinction from the Father." {llm-cs45}
+    cross_references: ["John 20:28", "Titus 2:13", "2 Peter 1:1", "1 John 5:20"] {llm-cs45}
+
+  - word: "ἀρχή (beginning)" {llm-cs45}
+    observation: "The temporal semantic of ἀρχή connects with Genesis 1:1 (בְּרֵאשִׁית / ἐν ἀρχῇ in LXX), but John elevates the meaning. While Genesis marks the beginning of creation, John points to what existed BEFORE that beginning. The Word didn't come into being at creation's start but already existed 'in the beginning' - implying pre-temporal, eternal existence. This reading is confirmed by 'all things came into being through him' (v. 3) - the Word cannot be part of 'all things' that came into being." {llm-cs45}
+    cross_references: ["Genesis 1:1", "Proverbs 8:23", "John 17:24", "Colossians 1:15-17"] {llm-cs45}
+
+# === STATISTICS ===
+word_count: 17
+semantic_domains: ["12.1 - Supernatural Beings", "13.1 - Be, Become, Exist", "33.98 - Communication", "67.65 - Time: Beginning", "83.13 - Spacial Position: In", "83.40 - Spacial Position: Toward", "89.87 - Relations: And", "92.24 - Discourse Referentials"]
+dominant_themes: ["Divine Identity and Nature", "Eternal Pre-existence", "Personal Distinction within Godhead", "Divine Self-Revelation through the Word"] {llm-cs45}

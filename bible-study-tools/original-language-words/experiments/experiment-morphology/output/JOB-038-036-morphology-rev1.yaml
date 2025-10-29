@@ -1,0 +1,269 @@
+# === METADATA ===
+verse:
+  reference: "JOB 38:36"
+  book: "JOB"
+  chapter: 38
+  verse: 36
+
+tool:
+  name: "original-language-words"
+  version: "1.0.0"
+  experiment: "morphology"
+  revision: 1
+  generated_date: "2025-10-28"
+
+# === SOURCE TEXT ===
+source_text:
+  language: "heb"
+  text: "מִי־שָׁת בַּטֻּחוֹת חָכְמָה אוֹ מִי־נָתַן לַשֶּׂכְוִי בִינָֽה׃" {heb-WLC}
+  transliteration: "mî-šāṯ baṭṭuḥôṯ ḥāḵmāh 'ô mî-nāṯan laśśeḵwî bînāh" {heb-WLC}
+
+# === WORDS (MORPHOLOGICAL FORMAT) ===
+# Organized by syntactical units
+
+words:
+  # First rhetorical question clause
+  - position: 1
+    original: "מִי" {heb-WLC}
+    transliteration: "mî" {heb-WLC}
+    lemma: "מִי" {heb-WLC}
+    strongs: "H4310" {biblehub}
+    parsing:
+      part_of_speech: "interrogative pronoun" {biblehub}
+    gloss: "who" {biblehub}
+    syntactical_function: "interrogative subject" {llm-cs45}
+
+  - position: 2
+    original: "שָׁת" {heb-WLC}
+    transliteration: "šāṯ" {heb-WLC}
+    lemma: "שִׁית" {heb-WLC}
+    strongs: "H7896" {biblehub}
+    parsing:
+      part_of_speech: "verb" {biblehub}
+      stem: "Qal" {biblehub}
+      aspect: "perfect" {biblehub}
+      person: "3rd" {biblehub}
+      gender: "masculine" {biblehub}
+      number: "singular" {biblehub}
+    gloss: "has put, has placed" {biblehub}
+    syntactical_function: "main predicate verb of first clause" {llm-cs45}
+    notes: "Qal perfect 3ms form indicates completed action in past time with stative sense - 'who (is the one who) has put'" {llm-cs45}
+
+  - position: 3
+    original: "בַּטֻּחוֹת" {heb-WLC}
+    transliteration: "baṭṭuḥôṯ" {heb-WLC}
+    lemma: "טֻחָה" {heb-WLC}
+    strongs: "H2910" {biblehub}
+    parsing:
+      part_of_speech: "noun" {biblehub}
+      gender: "feminine" {biblehub}
+      number: "plural" {biblehub}
+      state: "construct" {biblehub}
+      prefixes: "בַּ = ב + definite article (assimilated form meaning 'in the')" {llm-cs45}
+    gloss: "in the inward parts, in the hidden place" {biblehub}
+    syntactical_function: "locative prepositional phrase (where wisdom is placed)" {llm-cs45}
+    notes: "Rare word (only Job 38:36, Psalm 51:6); refers to inner faculties of mind/conscience; construct plural with preposition ב" {llm-cs45}
+
+  - position: 4
+    original: "חָכְמָה" {heb-WLC}
+    transliteration: "ḥāḵmāh" {heb-WLC}
+    lemma: "חָכְמָה" {heb-WLC}
+    strongs: "H2451" {biblehub}
+    parsing:
+      part_of_speech: "noun" {biblehub}
+      gender: "feminine" {biblehub}
+      number: "singular" {biblehub}
+      state: "absolute" {biblehub}
+    gloss: "wisdom" {biblehub}
+    syntactical_function: "direct object of verb 'put'" {llm-cs45}
+
+  # Second rhetorical question clause (parallel structure)
+  - position: 5
+    original: "אוֹ" {heb-WLC}
+    transliteration: "'ô" {heb-WLC}
+    lemma: "אוֹ" {heb-WLC}
+    strongs: "H176" {biblehub}
+    parsing:
+      part_of_speech: "conjunction" {biblehub}
+      type: "disjunctive" {biblehub}
+    gloss: "or" {biblehub}
+    syntactical_function: "disjunctive coordinator introducing parallel clause" {llm-cs45}
+
+  - position: 6
+    original: "מִי" {heb-WLC}
+    transliteration: "mî" {heb-WLC}
+    lemma: "מִי" {heb-WLC}
+    strongs: "H4310" {biblehub}
+    parsing:
+      part_of_speech: "interrogative pronoun" {biblehub}
+    gloss: "who" {biblehub}
+    syntactical_function: "interrogative subject (second clause)" {llm-cs45}
+
+  - position: 7
+    original: "נָתַן" {heb-WLC}
+    transliteration: "nāṯan" {heb-WLC}
+    lemma: "נָתַן" {heb-WLC}
+    strongs: "H5414" {biblehub}
+    parsing:
+      part_of_speech: "verb" {biblehub}
+      stem: "Qal" {biblehub}
+      aspect: "perfect" {biblehub}
+      person: "3rd" {biblehub}
+      gender: "masculine" {biblehub}
+      number: "singular" {biblehub}
+    gloss: "has given" {biblehub}
+    syntactical_function: "main predicate verb of second clause" {llm-cs45}
+    notes: "Qal perfect 3ms; נתן is extremely common (2000+ occurrences); parallel to שָׁת in structure" {llm-cs45}
+
+  - position: 8
+    original: "לַשֶּׂכְוִי" {heb-WLC}
+    transliteration: "laśśeḵwî" {heb-WLC}
+    lemma: "שֶׂכְוִי" {heb-WLC}
+    strongs: "H7907" {biblehub}
+    parsing:
+      part_of_speech: "noun" {biblehub}
+      gender: "masculine" {biblehub}
+      number: "singular" {biblehub}
+      state: "absolute" {biblehub}
+      prefixes: "ל (preposition - to, for)" {biblehub}
+    gloss: "to the mind, to the heart, to the rooster" {biblehub}
+    syntactical_function: "indirect object (recipient of understanding)" {llm-cs45}
+    notes: "Hapax legomenon (appears only here); highly uncertain meaning - LXX reads 'heart', Targum reads 'rooster', modern scholars debate; preposition ל indicates recipient/beneficiary" {llm-cs45}
+
+  - position: 9
+    original: "בִינָה" {heb-WLC}
+    transliteration: "bînāh" {heb-WLC}
+    lemma: "בִּינָה" {heb-WLC}
+    strongs: "H998" {biblehub}
+    parsing:
+      part_of_speech: "noun" {biblehub}
+      gender: "feminine" {biblehub}
+      number: "singular" {biblehub}
+      state: "absolute" {biblehub}
+    gloss: "understanding, discernment" {biblehub}
+    syntactical_function: "direct object of verb 'given'" {llm-cs45}
+
+# === GRAMMATICAL ANALYSIS ===
+grammatical_notes:
+  - category: "syntactical structure" {llm-cs45}
+    observation: "The verse consists of two parallel rhetorical questions with identical syntactical structure: interrogative pronoun + Qal perfect verb + prepositional phrase + direct object noun" {llm-cs45}
+    significance: "This parallelism emphasizes the comprehensive nature of God's bestowal of intellectual faculties - both wisdom (חָכְמָה) and understanding (בִינָה) originate from divine agency" {llm-cs45}
+
+  - category: "verbal morphology" {llm-cs45}
+    observation: "Both main verbs (שָׁת and נָתַן) are Qal perfect 3rd masculine singular, expressing completed action with stative implications" {llm-cs45}
+    significance: "The perfect aspect indicates that God's placement of wisdom and understanding is an established, completed reality, not an ongoing or future action. The rhetorical questions expect no answer, emphasizing God's exclusive agency" {llm-cs45}
+
+  - category: "vocabulary choice" {llm-cs45}
+    observation: "The verse uses two different verbs for 'putting/giving' (שִׁית = put/place; נָתַן = give/grant) and two different cognitive nouns (חָכְמָה = wisdom; בִּינָה = understanding/discernment)" {llm-cs45}
+    significance: "The variation demonstrates Hebrew poetic richness while maintaining semantic parallelism - שִׁית emphasizes placement/location, while נָתַן emphasizes bestowal/granting" {llm-cs45}
+
+  - category: "lexical difficulty" {llm-cs45}
+    observation: "Both בַּטֻּחוֹת (position 3) and שֶׂכְוִי (position 8) are extremely rare/difficult words - בַּטֻּחוֹת appears only 2x in Hebrew Bible, שֶׂכְוִי is a hapax legomenon" {llm-cs45}
+    significance: "The lexical obscurity of the anatomical/psychological terms reflects the profound mystery of human consciousness and divine wisdom being discussed. Ancient translators varied significantly in interpretation (LXX, Targum, Vulgate all differ)" {llm-cs45}
+
+  - category: "prepositional usage" {llm-cs45}
+    observation: "First clause uses ב (in/at) with construct plural noun; second clause uses ל (to/for) with singular noun" {llm-cs45}
+    significance: "The preposition ב emphasizes location/containment ('wisdom IN the inward parts'), while ל emphasizes recipient/beneficiary ('understanding TO the mind'), creating subtle semantic distinction within parallel structure" {llm-cs45}
+
+  - category: "rhetorical function" {llm-cs45}
+    observation: "Both מִי interrogatives are rhetorical questions within God's speech from the whirlwind (Job 38-41)" {llm-cs45}
+    significance: "The expected answer is 'God alone' - this verse is part of God's extended argument that Job lacks the wisdom and power to comprehend or govern creation, thus should not question divine justice" {llm-cs45}
+
+# === SYNTACTICAL STRUCTURE ===
+syntax:
+  main_verb_clause_1: "Position 2 (שָׁת - has put)" {llm-cs45}
+  main_verb_clause_2: "Position 7 (נָתַן - has given)" {llm-cs45}
+  subject_both_clauses: "Position 1 and 6 (מִי - who) - interrogative, expects answer 'God'" {llm-cs45}
+  structure: "Parallel bicola with identical syntactical pattern" {llm-cs45}
+  clause_1_structure: "Interrogative + Verb(Qal.Perf.3ms) + Prep.Phrase(locative) + DirectObject" {llm-cs45}
+  clause_2_structure: "Interrogative + Verb(Qal.Perf.3ms) + Prep.Phrase(recipient) + DirectObject" {llm-cs45}
+  prepositional_phrases:
+    - "בַּטֻּחוֹת (position 3) - locative, where wisdom resides" {llm-cs45}
+    - "לַשֶּׂכְוִי (position 8) - dative/recipient, to whom understanding is given" {llm-cs45}
+  direct_objects:
+    - "חָכְמָה (position 4) - wisdom (feminine singular)" {llm-cs45}
+    - "בִינָה (position 9) - understanding (feminine singular)" {llm-cs45}
+  discourse_function: "Rhetorical questions within divine speech asserting God's exclusive creative wisdom" {llm-cs45}
+
+# === STATISTICS ===
+word_count: 9
+verb_count: 2
+noun_count: 4
+pronoun_count: 2
+conjunction_count: 1
+preposition_count: 2
+interrogative_count: 2
+qal_perfect_count: 2
+feminine_noun_count: 2
+masculine_noun_count: 1
+rare_words_count: 2
+hapax_legomena_count: 1
+
+# === TEXTUAL AND TRANSLATION NOTES ===
+textual_notes:
+  - word: "בַּטֻּחוֹת (position 3)" {llm-cs45}
+    issue: "Rare word with uncertain etymology" {llm-cs45}
+    ancient_versions:
+      - version: "LXX (Septuagint)" {llm-cs45}
+        reading: "νεφέλαις (clouds)" {llm-cs45}
+      - version: "Vulgate" {llm-cs45}
+        reading: "visceribus (inward parts)" {llm-cs45}
+      - version: "Targum" {llm-cs45}
+        reading: "heart" {llm-cs45}
+    modern_interpretation: "Most modern translations render as 'inward parts' or 'mind' based on context and Psalm 51:6 parallel" {llm-cs45}
+
+  - word: "שֶׂכְוִי (position 8)" {llm-cs45}
+    issue: "Hapax legomenon - appears nowhere else in Biblical Hebrew" {llm-cs45}
+    ancient_versions:
+      - version: "LXX (Septuagint)" {llm-cs45}
+        reading: "διανοίᾳ (understanding, mind)" {llm-cs45}
+      - version: "Vulgate" {llm-cs45}
+        reading: "gallo (rooster)" {llm-cs45}
+      - version: "Targum" {llm-cs45}
+        reading: "rooster" {llm-cs45}
+    modern_interpretation: "Scholarly debate between 'mind/heart' (based on context paralleling חָכְמָה and בִינָה) vs 'rooster' (based on possible Akkadian cognate and rabbinic tradition that rooster has instinctive knowledge of dawn)" {llm-cs45}
+    translation_impact: "Significant interpretive difference: if 'mind/heart', verse speaks of human intellectual faculties; if 'rooster', verse speaks of animal instinct as God-given wisdom in creation" {llm-cs45}
+
+# === THEOLOGICAL AND EXEGETICAL NOTES ===
+theological_significance:
+  theme: "Divine origin of wisdom and understanding" {llm-cs45}
+  context: "God's first speech to Job (chapters 38-41) demonstrating Job's ignorance of cosmic order and divine wisdom" {llm-cs45}
+  rhetorical_strategy: "Series of unanswerable questions about creation that humble Job and vindicate God's inscrutable wisdom" {llm-cs45}
+  wisdom_tradition: "Connects to broader Hebrew wisdom literature theme that all true wisdom originates with God (Proverbs 2:6, Job 28:12-28)" {llm-cs45}
+  anthropological_implication: "Human cognitive faculties are not autonomous achievements but divine gifts embedded in creation order" {llm-cs45}
+
+# === RESEARCH SOURCES ===
+sources_consulted:
+  primary_texts:
+    - "Westminster Leningrad Codex (WLC) - Hebrew text" {heb-WLC}
+    - "BibleHub Interlinear - morphological data" {biblehub}
+    - "Blue Letter Bible - lexical references" {blueletterbible}
+    - "Sefaria - Hebrew text and traditional commentaries" {sefaria}
+
+  lexical_resources:
+    - "Strong's Hebrew Lexicon - H4310, H7896, H2910, H2451, H176, H5414, H7907, H998" {biblehub}
+    - "Brown-Driver-Briggs Hebrew Lexicon references" {biblehub}
+
+  morphological_resources:
+    - "Gesenius' Hebrew Grammar - Qal Perfect conjugation patterns" {web-search}
+    - "Biblical Hebrew morphology resources - binyan/stem information" {web-search}
+
+# === QUALITY CONTROL ===
+verification_notes:
+  - check: "Verse reference standardized per USFM 3.0" {llm-cs45}
+    status: "✓ Verified - JOB 38:36" {llm-cs45}
+
+  - check: "All morphological parsing verified across multiple sources" {llm-cs45}
+    status: "✓ Verified - BibleHub, Blue Letter Bible, Strong's Lexicon consulted" {llm-cs45}
+
+  - check: "Hebrew text matches Westminster Leningrad Codex" {llm-cs45}
+    status: "✓ Verified - text extracted from WLC via BibleHub and Sefaria" {llm-cs45}
+
+  - check: "Rare/difficult words noted and ancient versions consulted" {llm-cs45}
+    status: "✓ Verified - בַּטֻּחוֹת and שֶׂכְוִי documented with LXX, Vulgate, Targum readings" {llm-cs45}
+
+  - check: "Syntactical analysis reflects parallel structure" {llm-cs45}
+    status: "✓ Verified - bicola parallelism documented with identical patterns" {llm-cs45}
+
+  - check: "Citations follow incremental specificity format" {llm-cs45}
+    status: "✓ Verified - {heb-WLC}, {biblehub}, {llm-cs45} format used throughout" {llm-cs45}

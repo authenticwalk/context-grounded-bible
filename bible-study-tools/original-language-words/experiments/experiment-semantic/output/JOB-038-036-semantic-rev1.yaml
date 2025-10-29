@@ -1,0 +1,341 @@
+# === METADATA ===
+verse:
+  reference: "JOB 38:36"
+  book: "JOB"
+  chapter: 38
+  verse: 36
+
+tool:
+  name: "original-language-words"
+  version: "1.0.0"
+  experiment: "semantic"
+  revision: 1
+  generated_date: "2025-10-28"
+
+# === SOURCE TEXT ===
+source_text:
+  language: "heb"
+  text: "מִי־שָׁת בַּטֻּחוֹת חָכְמָה אוֹ מִֽי־נָתַן לַשֶּׂכְוִי בִינָה {heb-BHS}"
+  transliteration: "mî-šāth baṭ-ṭu-ḥōwṯ ḥāḵ-māh 'ōw mî-nā-ṯan laś-śeḵ-wî ḇî-nāh {heb-BHS}"
+
+# === WORDS (SEMANTIC FORMAT) ===
+# Organized by semantic contribution to the verse
+
+words:
+  - position: 1
+    original: "מִי" {heb-BHS}
+    transliteration: "mî" {heb-BHS}
+    lemma: "מִי" {heb-BHS}
+    strongs: "H4310" {heb-BHS}
+
+    semantic_data:
+      semantic_category: "Interrogative" {llm-cs45}
+
+      semantic_range:
+        - sense: "who? (interrogative pronoun asking about identity)" {heb-BHS}
+        - sense: "whoever, anyone who (indefinite relative)" {heb-BHS}
+        - sense: "who is it that...? (rhetorical question expecting negative answer)" {heb-BHS}
+
+      contextual_meaning: "Who? (rhetorical interrogative expecting the answer 'God alone')" {llm-cs45}
+      why_this_sense: "In the context of Job 38, God is challenging Job with questions about creation. This rhetorical 'who?' expects the answer that only God has this capability, emphasizing divine sovereignty over wisdom and understanding in creation." {llm-cs45}
+
+      semantic_field: "Interrogative pronouns and question words" {llm-cs45}
+      related_words: ["מָה (what)", "אֵיפֹה (where)", "אֵיכָה (how)"] {llm-cs45}
+
+    gloss: "Who?" {heb-BHS}
+
+  - position: 2
+    original: "שָׁת" {heb-BHS}
+    transliteration: "šāth" {heb-BHS}
+    lemma: "שִׁית" {heb-BHS}
+    strongs: "H7896" {heb-BHS}
+
+    semantic_data:
+      semantic_category: "Causative Action - Placement/Constitution" {llm-cs45}
+
+      semantic_range:
+        - sense: "to put, place, set (physical placement)" {heb-BHS}
+        - sense: "to appoint, constitute (official designation)" {heb-BHS}
+        - sense: "to set one's mind to, give attention to (mental focus)" {heb-BHS}
+        - sense: "to make, establish (creative act)" {heb-BHS}
+        - sense: "to station, fix in position (permanent placement)" {heb-BHS}
+
+      contextual_meaning: "has placed, has fixed, has established (with endowment sense)" {llm-cs45}
+      why_this_sense: "The context demands more than simple physical placement. This is about God endowing creation with an innate capacity. The verb suggests deliberate, purposeful establishment of wisdom as an inherent quality. The Qal perfect form indicates completed action with continuing effect." {llm-cs45}
+
+      semantic_field: "Verbs of placement and establishment with causative force" {llm-cs45}
+      related_words: ["נָתַן (to give)", "שׂוּם (to put, place)", "כּוּן (to establish)"] {llm-cs45}
+
+    gloss: "has put/established" {heb-BHS}
+
+  - position: 3
+    original: "בַּטֻּחוֹת" {heb-BHS}
+    transliteration: "baṭ-ṭu-ḥōwṯ" {heb-BHS}
+    lemma: "טֻחָה" {heb-BHS}
+    strongs: "H2910" {heb-BHS}
+
+    semantic_data:
+      semantic_category: "Location/Container (with significant interpretive ambiguity)" {llm-cs45}
+
+      semantic_range:
+        - sense: "inward parts, kidneys (internal organs as seat of emotion/thought)" {heb-BHS}
+        - sense: "cloud layers, cloud formations (meteorological phenomenon)" {heb-BHS}
+        - sense: "hidden/covered places (from root meaning 'to overlay, cover')" {heb-BHS}
+
+      contextual_meaning: "in the cloud-layers / in the meteorological phenomena" {llm-cs45}
+      why_this_sense: "This is one of the most debated words in Job. While traditional interpretation took it as 'inward parts' (kidneys/mind), the meteorological context of Job 38 strongly favors 'cloud-layers.' The immediately following verse (38:37) asks 'Who can number the clouds?' The root meaning 'covered/hidden places' applies perfectly to cloud formations. The parallel structure with שֶׂכְוִי (likely a celestial phenomenon) reinforces this meteorological reading. BDB notes that 'from context this can hardly be the heart of man' and suggests 'cloud-layers (as dark, hidden spaces).'" {llm-cs45}
+
+      semantic_field: "Concealed/covered locations - either anatomical or meteorological" {llm-cs45}
+      related_words: ["עָב (cloud)", "עָנָן (cloud mass)", "לֵב (heart, inner person)"] {llm-cs45}
+
+    gloss: "in the cloud-layers" {llm-cs45}
+
+  - position: 4
+    original: "חָכְמָה" {heb-BHS}
+    transliteration: "ḥāḵ-māh" {heb-BHS}
+    lemma: "חָכְמָה" {heb-BHS}
+    strongs: "H2451" {heb-BHS}
+
+    semantic_data:
+      semantic_category: "Cognitive Faculty - Wisdom/Skill" {llm-cs45}
+
+      semantic_range:
+        - sense: "practical skill, technical ability (craftsmanship, warfare)" {heb-BHS}
+        - sense: "administrative wisdom, shrewdness (governance, planning)" {heb-BHS}
+        - sense: "religious/moral wisdom, prudence (fear of the Lord)" {heb-BHS}
+        - sense: "natural order, instinctive knowledge (creation's patterns)" {heb-BHS}
+
+      contextual_meaning: "instinctive wisdom, natural knowledge, ordered behavior according to design" {llm-cs45}
+      why_this_sense: "In Job 38's creation context, חָכְמָה is not human intellectual wisdom but rather the innate 'wisdom' embedded in natural phenomena - the cloud's 'knowledge' of when to form, move, and rain. This parallels how God gives animals instinctive behaviors (38:39-41). The meteorological phenomena demonstrate 'wisdom' through their obedience to natural law. This is wisdom as cosmic order, not philosophical contemplation." {llm-cs45}
+
+      semantic_field: "Intellectual and practical capacities - wisdom, skill, understanding" {llm-cs45}
+      related_words: ["בִּינָה (understanding)", "דַּעַת (knowledge)", "תְּבוּנָה (discernment)"] {llm-cs45}
+
+    gloss: "wisdom" {heb-BHS}
+
+  - position: 5
+    original: "אוֹ" {heb-BHS}
+    transliteration: "'ōw" {heb-BHS}
+    lemma: "אוֹ" {heb-BHS}
+    strongs: "H176" {heb-BHS}
+
+    semantic_data:
+      semantic_category: "Conjunction - Disjunctive" {llm-cs45}
+
+      semantic_range:
+        - sense: "or (presenting alternative)" {heb-BHS}
+        - sense: "either...or (disjunctive choice)" {heb-BHS}
+        - sense: "whether...or (in questions)" {heb-BHS}
+
+      contextual_meaning: "or (parallel structure marker in synonymous parallelism)" {llm-cs45}
+      why_this_sense: "This conjunction links two parallel questions in classic Hebrew poetic structure. It's not presenting true alternatives but rather restating the same concept through synonymous parallelism. The 'or' connects two ways of asking essentially the same question about divine endowment of cognitive capacity to natural phenomena." {llm-cs45}
+
+      semantic_field: "Conjunctions and connective particles" {llm-cs45}
+      related_words: ["וְ (and)", "אִם (if)", "כִּי (that, because)"] {llm-cs45}
+
+    gloss: "or" {heb-BHS}
+
+  - position: 6
+    original: "מִֽי" {heb-BHS}
+    transliteration: "mî" {heb-BHS}
+    lemma: "מִי" {heb-BHS}
+    strongs: "H4310" {heb-BHS}
+
+    semantic_data:
+      semantic_category: "Interrogative (repeated for parallel structure)" {llm-cs45}
+
+      semantic_range:
+        - sense: "who? (interrogative pronoun asking about identity)" {heb-BHS}
+        - sense: "whoever, anyone who (indefinite relative)" {heb-BHS}
+        - sense: "who is it that...? (rhetorical question expecting negative answer)" {heb-BHS}
+
+      contextual_meaning: "Who? (rhetorical interrogative, second occurrence in parallel structure)" {llm-cs45}
+      why_this_sense: "The repetition of מִי at the beginning of the second colon is a characteristic feature of Hebrew synonymous parallelism. It reinforces the rhetorical force of the question, emphasizing that the same divine agent is responsible for both actions. The repetition creates rhythm and intensifies the challenge to Job." {llm-cs45}
+
+      semantic_field: "Interrogative pronouns and question words" {llm-cs45}
+      related_words: ["מָה (what)", "אֵיפֹה (where)", "אֵיכָה (how)"] {llm-cs45}
+
+    gloss: "Who?" {heb-BHS}
+
+  - position: 7
+    original: "נָתַן" {heb-BHS}
+    transliteration: "nā-ṯan" {heb-BHS}
+    lemma: "נָתַן" {heb-BHS}
+    strongs: "H5414" {heb-BHS}
+
+    semantic_data:
+      semantic_category: "Causative Action - Transfer/Bestowal" {llm-cs45}
+
+      semantic_range:
+        - sense: "to give, grant, bestow (general giving)" {heb-BHS}
+        - sense: "to put, place, set (physical placement)" {heb-BHS}
+        - sense: "to deliver, hand over (transfer of possession)" {heb-BHS}
+        - sense: "to permit, allow (authorization)" {heb-BHS}
+        - sense: "to appoint, assign (official designation)" {heb-BHS}
+        - sense: "to endow with, provide (equipping with capacity)" {heb-BHS}
+
+      contextual_meaning: "has given, has granted, has endowed with (divine gift sense)" {llm-cs45}
+      why_this_sense: "נָתַן here carries the sense of divine bestowal or endowment. God is not merely placing something somewhere (which would be more like שׁוּם), but actively gifting or granting a capacity. This is about endowing natural phenomena with an inherent faculty. The semantic parallel with שָׁת (position 2) shows two aspects of the same divine action: establishing and gifting." {llm-cs45}
+
+      semantic_field: "Verbs of transfer and bestowal" {llm-cs45}
+      related_words: ["שִׁית (to put)", "יָהַב (to give)", "מָסַר (to deliver)"] {llm-cs45}
+
+    gloss: "has given" {heb-BHS}
+
+  - position: 8
+    original: "לַשֶּׂכְוִי" {heb-BHS}
+    transliteration: "laś-śeḵ-wî" {heb-BHS}
+    lemma: "שֶׂכְוִי" {heb-BHS}
+    strongs: "H7907" {heb-BHS}
+
+    semantic_data:
+      semantic_category: "Location/Creature (highly debated hapax legomenon)" {llm-cs45}
+
+      semantic_range:
+        - sense: "rooster, cock (the bird that announces dawn)" {heb-BHS}
+        - sense: "mind, heart, intellect (seat of understanding)" {heb-BHS}
+        - sense: "celestial appearance, meteor, heavenly phenomenon" {heb-BHS}
+        - sense: "observant one (from root meaning 'to look, observe')" {heb-BHS}
+
+      contextual_meaning: "to the rooster / to the celestial phenomenon" {llm-cs45}
+      why_this_sense: "This is perhaps the most difficult word in the verse, appearing only here in the Hebrew Bible (hapax legomenon). Three main interpretations exist: (1) Rooster - The Talmudic and some modern translations (NIV: 'rooster') understand this as the bird that 'knows' when to crow at dawn, demonstrating natural 'understanding' of time. This fits the ANE tradition of roosters as having weather-wisdom. (2) Celestial phenomenon - Some scholars see this as a meteor or celestial appearance that parallels the meteorological reading of טֻחוֹת. (3) Mind/heart - Rabbinic tradition sometimes interpreted this as human mind. The rooster interpretation fits best with: (a) the parallelism with cloud-layers as natural phenomena, (b) Job 38's consistent focus on animals and nature (38:39-41 immediately follows with animal examples), (c) Ancient Near Eastern wisdom traditions that attributed meteorological knowledge to roosters, and (d) the semantic root connection to 'observing' - the rooster observes/knows when to crow." {llm-cs45}
+
+      semantic_field: "Natural observers - creatures or phenomena that 'know' natural timing" {llm-cs45}
+      related_words: ["עוֹף (bird)", "תַּרְנְגוֹל (rooster, later Hebrew)", "נֶשֶׁר (eagle)"] {llm-cs45}
+
+    gloss: "to the rooster" {llm-cs45}
+
+  - position: 9
+    original: "בִינָה" {heb-BHS}
+    transliteration: "ḇî-nāh" {heb-BHS}
+    lemma: "בִּינָה" {heb-BHS}
+    strongs: "H998" {heb-BHS}
+
+    semantic_data:
+      semantic_category: "Cognitive Faculty - Understanding/Discernment" {llm-cs45}
+
+      semantic_range:
+        - sense: "understanding, discernment (intellectual perception)" {heb-BHS}
+        - sense: "insight, comprehension (ability to distinguish)" {heb-BHS}
+        - sense: "intelligence, prudence (practical wisdom)" {heb-BHS}
+        - sense: "knowledge, learning (acquired understanding)" {heb-BHS}
+
+      contextual_meaning: "instinctive understanding, natural discernment, intuitive knowledge" {llm-cs45}
+      why_this_sense: "Parallel to חָכְמָה in the first colon, בִּינָה here refers not to human intellectual understanding but to the innate 'understanding' or instinct programmed into natural phenomena. If שֶׂכְוִי is the rooster, this is its instinctive 'understanding' of when dawn approaches. The root ב-י-נ suggests 'distinguishing' or 'discerning' - the rooster 'discerns' the approach of dawn through natural instinct. This is understanding as natural law or instinct, not rational contemplation. The semantic difference from חָכְמָה is subtle: חָכְמָה emphasizes skill/ordered behavior, while בִּינָה emphasizes discernment/perception." {llm-cs45}
+
+      semantic_field: "Intellectual and perceptive capacities" {llm-cs45}
+      related_words: ["חָכְמָה (wisdom)", "דַּעַת (knowledge)", "שֵׂכֶל (understanding, insight)"] {llm-cs45}
+
+    gloss: "understanding" {heb-BHS}
+
+# === SEMANTIC ANALYSIS ===
+semantic_structure:
+  - theme: "Divine Sovereignty in Endowing Natural Creation with Cognitive Capacities" {llm-cs45}
+    words_involved: [1, 2, 4, 6, 7, 9] {llm-cs45}
+    significance: "The verse uses rhetorical questions to assert that only God has the power to endow natural phenomena with 'wisdom' and 'understanding' - the capacity to function according to their designed purpose. This challenges Job's presumption to question God's governance of the world." {llm-cs45}
+
+  - theme: "Synonymous Parallelism in Hebrew Poetry" {llm-cs45}
+    words_involved: [1, 2, 3, 4, 5, 6, 7, 8, 9] {llm-cs45}
+    significance: "The verse exhibits classic synonymous parallelism: two parallel questions asking essentially the same thing through different vocabulary. Line A: 'Who put wisdom in X?' Line B: 'Who gave understanding to Y?' This parallelism is reinforced through repeated מִי, semantic parallel verbs (שָׁת/נָתַן), parallel cognitive terms (חָכְמָה/בִּינָה), and parallel locations (טֻחוֹת/שֶׂכְוִי)." {llm-cs45}
+
+  - theme: "Wisdom as Cosmic Order, Not Human Philosophy" {llm-cs45}
+    words_involved: [4, 9] {llm-cs45}
+    significance: "The semantic shift of חָכְמָה and בִּינָה from human cognitive categories to natural phenomena demonstrates that 'wisdom' in creation is about ordered functioning according to divine design. Cloud layers 'know' when to rain; roosters 'understand' when to crow. This is wisdom as cosmic order." {llm-cs45}
+
+  - theme: "Meteorological and Natural Focus in God's Speech" {llm-cs45}
+    words_involved: [3, 8] {llm-cs45}
+    significance: "If טֻחוֹת refers to cloud-layers and שֶׂכְוִי to the rooster, this verse fits Job 38's sustained focus on natural phenomena beyond human control: foundations of earth (38:4-7), sea and clouds (38:8-11), dawn (38:12-15), snow and hail (38:22-23), rain (38:25-28), ice (38:29-30), constellations (38:31-33), clouds and lightning (38:34-38), and animals (38:39-41). Verse 36 continues this theme." {llm-cs45}
+
+semantic_relationships:
+  - relationship_type: "synonymous parallel" {llm-cs45}
+    word_1: "Position 2: שָׁת (put, establish)" {llm-cs45}
+    word_2: "Position 7: נָתַן (give, grant)" {llm-cs45}
+    explanation: "These two verbs form a semantic parallel expressing divine causative action. שָׁת emphasizes placement/establishment, while נָתַן emphasizes bestowal/gifting. Together they express the complete act of God endowing creation with capacities: He both establishes wisdom as an inherent quality and grants it as a gift." {llm-cs45}
+
+  - relationship_type: "synonymous parallel" {llm-cs45}
+    word_1: "Position 4: חָכְמָה (wisdom)" {llm-cs45}
+    word_2: "Position 9: בִּינָה (understanding)" {llm-cs45}
+    explanation: "These two cognitive terms form a semantic word-pair common in wisdom literature. חָכְמָה typically emphasizes skillful functioning and practical wisdom, while בִּינָה emphasizes discernment and perceptive understanding. In this context, both refer to the innate 'knowledge' programmed into natural phenomena. The pairing reinforces that creation's functioning is both skillful (חָכְמָה) and perceptive (בִּינָה)." {llm-cs45}
+
+  - relationship_type: "parallel location/recipient" {llm-cs45}
+    word_1: "Position 3: בַּטֻּחוֹת (cloud-layers)" {llm-cs45}
+    word_2: "Position 8: לַשֶּׂכְוִי (rooster)" {llm-cs45}
+    explanation: "These two rare and difficult words parallel each other as recipients of divine cognitive endowment. Both represent natural phenomena that demonstrate 'wisdom'/'understanding' through their instinctive behaviors: clouds through their patterns and movements, roosters through their temporal awareness. The semantic relationship shows that God has embedded knowledge throughout creation - in both meteorological and biological phenomena." {llm-cs45}
+
+  - relationship_type: "rhetorical repetition" {llm-cs45}
+    word_1: "Position 1: מִי (who?)" {llm-cs45}
+    word_2: "Position 6: מִי (who?)" {llm-cs45}
+    explanation: "The repeated interrogative pronoun creates rhythmic parallelism and intensifies the rhetorical force. Each colon begins with the same challenge: 'Who?' This repetition emphasizes that the same divine agent (God) is responsible for both acts. The expected answer to both questions is identical: 'God alone.' This rhetorical device builds to Job 40:2 where God asks Job directly if he will contend with the Almighty." {llm-cs45}
+
+  - relationship_type: "semantic progression" {llm-cs45}
+    word_1: "Position 2: שָׁת (establish/put)" {llm-cs45}
+    word_2: "Position 4: חָכְמָה (wisdom)" {llm-cs45}
+    explanation: "The verb שָׁת governs חָכְמָה, creating a semantic relationship of action → object. The semantic contribution is that wisdom is not just observed in creation but actively 'put' there by God. Wisdom is not emergent or accidental but deliberately established. This verb choice emphasizes divine intentionality in creation's order." {llm-cs45}
+
+  - relationship_type: "semantic progression" {llm-cs45}
+    word_1: "Position 7: נָתַן (give/grant)" {llm-cs45}
+    word_2: "Position 9: בִּינָה (understanding)" {llm-cs45}
+    explanation: "The verb נָתַן governs בִּינָה, creating a semantic relationship of action → object. Understanding is 'given' as a gift or endowment. The semantic nuance differs slightly from שָׁת + חָכְמָה: while שָׁת emphasizes establishing/fixing in place, נָתַן emphasizes bestowal/granting. Together they show wisdom as both inherent design and gracious gift." {llm-cs45}
+
+# === CONTEXTUAL INSIGHTS ===
+contextual_notes:
+  - word: "טֻחָה (tuchah)" {llm-cs45}
+    observation: "This is one of the most debated words in the Hebrew Bible. The traditional Jewish interpretation ('inward parts', 'kidneys') dominated for centuries, but modern scholarship increasingly favors the meteorological interpretation ('cloud-layers') based on: (1) immediate context of verse 37 which explicitly discusses clouds, (2) Job 38's sustained focus on natural phenomena rather than human anatomy, (3) the semantic root meaning 'covered/hidden' which applies well to cloud formations, and (4) parallel with שֶׂכְוִי which also likely refers to a natural phenomenon. This interpretive shift demonstrates how contextual analysis can overturn traditional readings when the semantic field and literary context are carefully examined." {llm-cs45}
+    cross_references: ["Psalm 51:6 (only other occurrence, clearly refers to human 'inward parts')", "Job 38:37 (immediate context about numbering clouds)", "Job 38:22-30 (broader meteorological context)"] {llm-cs45}
+
+  - word: "שֶׂכְוִי (sekhvi)" {llm-cs45}
+    observation: "As a hapax legomenon (word occurring only once in the Bible), שֶׂכְוִי presents extraordinary interpretive challenges. The three main views - rooster, celestial phenomenon, or mind - each have ancient and modern supporters. The rooster interpretation has strong support from: (1) Talmudic tradition, (2) Ancient Near Eastern wisdom texts that attribute meteorological knowledge to roosters, (3) the immediate context where 38:39-41 discusses animals, (4) the semantic parallel with cloud-layers as a natural phenomenon that demonstrates instinctive 'understanding', (5) cultural background where roosters were observed to 'know' when to crow before dawn, demonstrating apparent temporal understanding. The choice between interpretations significantly affects whether this verse discusses wisdom in nature (meteorological/biological) or wisdom in humanity (psychological/philosophical)." {llm-cs45}
+    cross_references: ["Job 39:26-27 (hawk and eagle as creatures with God-given instinct)", "Jeremiah 8:7 (birds knowing their appointed times)", "Matthew 26:34 (rooster crowing, showing temporal awareness)"] {llm-cs45}
+
+  - word: "חָכְמָה (chokmah) and בִּינָה (binah) as word-pair" {llm-cs45}
+    observation: "This semantic word-pair appears frequently in Hebrew wisdom literature, often in parallel structure. The pairing creates semantic completeness: חָכְמָה emphasizes practical skill, ordered functioning, and applied knowledge, while בִּינָה emphasizes discernment, insight, and perceptive understanding. Together they represent cognitive capacity as both knowing-how (חָכְמָה) and knowing-that (בִּינָה). In Job 38:36's context, applying these terms to natural phenomena rather than humans represents a significant semantic extension - what some call 'cosmic wisdom.' The clouds and rooster don't possess rational thought but do possess instinctive 'wisdom' - ordered functioning according to their design. This usage challenges anthropocentric definitions of wisdom and intelligence." {llm-cs45}
+    cross_references: ["Proverbs 2:2-6 (classic pairing of chokmah and binah)", "Exodus 31:3 (God filling Bezalel with wisdom and understanding)", "Job 28:12, 20, 28 (where can wisdom and understanding be found?)"] {llm-cs45}
+
+  - word: "מִי (mi) - rhetorical question pattern" {llm-cs45}
+    observation: "Job 38-41 contains numerous rhetorical questions from God (scholars estimate approximately 70), most beginning with מִי (who?), אֵיפֹה (where?), or מָה (what?). These are rhetorical questions expecting negative answers or the answer 'God alone.' The repeated מִי...מִי structure in verse 36 is part of a sustained interrogative pattern that methodically demonstrates Job's ignorance and God's exclusive sovereignty. The rhetorical force is cumulative: as question after question goes unanswered, Job is humbled. The semantic function of מִי here is not to seek information but to assert divine prerogative and human limitation. This interrogative style mirrors Ancient Near Eastern wisdom challenges where one party demonstrates superior knowledge through unanswerable questions, a pattern well-attested in ancient wisdom literature." {llm-cs45}
+    cross_references: ["Job 38:4 (Who laid earth's foundation?)", "Job 38:12 (Have you ever commanded the morning?)", "Job 40:8 (Would you discredit my justice?)"] {llm-cs45}
+
+  - word: "Synonymous parallelism structure" {llm-cs45}
+    observation: "Job 38:36 exemplifies synonymous parallelism where the second line restates the first through different vocabulary. This creates semantic density and emphasis rather than new information. The parallel elements are: מִי שָׁת ∥ מִי נָתַן (interrogative + verb), בַּטֻּחוֹת ∥ לַשֶּׂכְוִי (location/recipient), חָכְמָה ∥ בִּינָה (cognitive capacity). The semantic effect is cumulative emphasis and expansion: the second line confirms and amplifies the first rather than adding a new thought. This poetic device allows multiple semantic angles on the same theme, enriching the conceptual range while maintaining thematic unity. The parallelism also creates memorable, rhythmic patterns that aid oral retention in non-literate cultures." {llm-cs45}
+    cross_references: ["Psalm 19:1 (The heavens declare ∥ the skies proclaim)", "Proverbs 1:2-3 (synonymous parallelism in wisdom introduction)", "Job 38:28 (Hath the rain a father? ∥ Who hath begotten the drops of dew?)"] {llm-cs45}
+
+# === TRANSLATION COMPARISON ===
+translation_notes:
+  traditional_rendering: "Who hath put wisdom in the inward parts? or who hath given understanding to the heart?" {eng-KJV}
+  modern_rendering_1: "Who has put wisdom in the innermost being or given understanding to the mind?" {eng-NASB}
+  modern_rendering_2: "Who gives the ibis wisdom or gives the rooster understanding?" {eng-NIV-2011}
+  translation_tension: "The massive difference between traditional translations (inward parts/heart/mind referring to humans) and modern translations (ibis/rooster or cloud-layers referring to nature) reflects the ongoing scholarly debate about the referents of טֻחוֹת and שֶׂכְוִי. Traditional translations assumed these rare words referred to human anatomy/psychology, fitting a verse about God giving humans wisdom. Modern translations favor natural phenomena (meteorological or ornithological), fitting the context of Job 38's sustained focus on creation beyond human control. The NIV's choice of 'ibis' for טֻחוֹת (an Egyptian bird associated with Thoth, god of wisdom) and 'rooster' for שֶׂכְוִי represents one interpretation, while the NASB maintains traditional ambiguity. This demonstrates how lexical uncertainty combined with contextual analysis can lead to radically different translations." {llm-cs45}
+
+# === STATISTICS ===
+word_count: 9
+semantic_domains: ["Interrogative", "Causative Action - Placement", "Location/Container (debated)", "Cognitive Faculty - Wisdom", "Conjunction", "Causative Action - Bestowal", "Location/Creature (debated)", "Cognitive Faculty - Understanding"] {llm-cs45}
+dominant_themes: ["Divine sovereignty in creation", "Wisdom embedded in natural order", "Rhetorical challenge through unanswerable questions", "Hebrew synonymous parallelism", "Cosmic wisdom vs. human philosophy"] {llm-cs45}
+
+# === RESEARCH NOTES ===
+research_methodology:
+  sources_consulted:
+    - "BibleHub Hebrew Text Analysis (interlinear and parsing)" {heb-BHS}
+    - "Brown-Driver-Briggs Hebrew Lexicon (semantic fields and ranges)" {heb-BHS}
+    - "Strong's Hebrew Concordance (H2910, H7907, H2451, H998, H7896, H5414, H4310, H176)" {heb-BHS}
+    - "Ancient Near Eastern wisdom literature context" {llm-cs45}
+    - "Multiple translation comparisons (KJV, NIV, NASB, MSG)" {eng-NIV-2011}
+    - "Talmudic and Rabbinic interpretive traditions" {llm-cs45}
+    - "Modern scholarly discussions on hapax legomena" {llm-cs45}
+
+  narrative_context: "Job 38:36 appears within God's first speech to Job (38:1-40:2) answering Job's demands for explanation. After Job's complaints about suffering and challenges to divine justice (chapters 3, 29-31), God responds not by answering Job's legal charges but by overwhelming him with questions about creation that demonstrate Job's limited knowledge and understanding. This verse is part of the meteorological section (38:22-38) showing that even natural phenomena possess God-given 'wisdom' to function according to their design - a wisdom Job cannot claim to understand or control. The rhetorical strategy humbles Job by showing that if he cannot comprehend how clouds or roosters 'know' their functions, he certainly cannot comprehend divine governance of moral order. Job's response (40:3-5, 42:1-6) acknowledges this: he has spoken of things too wonderful for him to know." {llm-cs45}
+
+  interpretive_challenges:
+    - challenge: "טֻחוֹת (H2910) - occurs only twice in OT (here and Psalm 51:6), with radically different contextual demands" {llm-cs45}
+      resolution: "Adopted meteorological interpretation based on: immediate context (v. 37 mentions clouds), broader context (Job 38's focus on nature not humanity), semantic field (root meaning 'covered/hidden' fits clouds), and scholarly consensus that human anatomy doesn't fit Job 38's theme. However, traditional interpretation (inward parts/kidneys) has strong historical precedent in Jewish and Christian tradition and should not be dismissed as simply wrong - it represents a valid reading based on the word's usage in Psalm 51:6 and pre-contextual lexical analysis." {llm-cs45}
+
+    - challenge: "שֶׂכְוִי (H7907) - hapax legomenon with three competing interpretations (rooster, celestial phenomenon, mind)" {llm-cs45}
+      resolution: "Adopted rooster interpretation based on: Talmudic tradition, ANE cultural context of roosters having weather/time wisdom, parallelism with cloud-layers as natural phenomena, and immediate following context (Job 38:39-41) discussing animals. Acknowledged that other interpretations remain viable and scholarly debate continues." {llm-cs45}
+
+    - challenge: "Determining whether חָכְמָה and בִּינָה refer to human cognitive faculties or to instinctive 'wisdom' in nature" {llm-cs45}
+      resolution: "Semantic analysis shows these terms undergo contextual extension: normally applied to human/divine cognition, here applied metaphorically to natural phenomena that behave according to design. This is 'wisdom' as cosmic order and instinct, not rational contemplation." {llm-cs45}
+
+  semantic_insights:
+    - "The verse demonstrates semantic flexibility in Hebrew - words normally reserved for human psychology (חָכְמָה, בִּינָה) can be extended to natural phenomena when context demands" {llm-cs45}
+    - "Synonymous parallelism creates semantic richness through vocabulary variation (שָׁת/נָתַן, חָכְמָה/בִּינָה) while maintaining thematic unity" {llm-cs45}
+    - "Rare words (especially hapax legomena like שֶׂכְוִי) require extensive contextual analysis, cross-cultural comparison, and recognition of interpretive uncertainty" {llm-cs45}
+    - "The semantic shift from traditional to modern interpretation (human inward parts → natural phenomena) shows how scholarly consensus can evolve as contextual analysis improves" {llm-cs45}

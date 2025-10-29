@@ -1,0 +1,195 @@
+# Source Abbreviation Lookup Table
+# Format: {languageCode}-{version}-{revision}-{source}
+
+sources:
+  # ===== BIBLICAL TEXT PUBLISHERS (AUTHORITATIVE) =====
+
+  dbs:
+    name: "Deutsche Bibelgesellschaft"
+    authority: high
+    notes: "Publishers of NA28 Greek NT, authoritative critical text"
+    url: "https://www.bibelwissenschaft.de/"
+
+  ubs:
+    name: "United Bible Societies"
+    authority: high
+    notes: "Global federation of Bible Societies, UBS5 Greek NT"
+    url: "https://www.unitedbiblesocieties.org/"
+
+  biblica:
+    name: "Biblica (International Bible Society)"
+    authority: high
+    notes: "Publishers of NIV"
+    url: "https://www.biblica.com/"
+
+  crossway:
+    name: "Crossway Publishing"
+    authority: high
+    notes: "Publishers of ESV"
+    url: "https://www.crossway.org/"
+
+  lockman:
+    name: "Lockman Foundation"
+    authority: high
+    notes: "Publishers of NASB"
+    url: "https://www.lockman.org/"
+
+  tyndale:
+    name: "Tyndale House Publishers"
+    authority: high
+    notes: "Publishers of NLT"
+    url: "https://www.tyndale.com/"
+
+  apb:
+    name: "Authorized/Pure Cambridge Edition"
+    authority: high
+    notes: "Standard KJV text (1769 Blayney revision)"
+    url: "https://www.cambridge.org/"
+
+  navpress:
+    name: "NavPress / Tyndale"
+    authority: high
+    notes: "Publishers of The Message paraphrase"
+    url: "https://www.navpress.com/"
+
+  # ===== ACADEMIC & SCHOLARLY (AUTHORITATIVE) =====
+
+  sbl:
+    name: "Society of Biblical Literature"
+    authority: high
+    notes: "Academic biblical scholarship, SBLGNT"
+    url: "https://www.sbl-site.org/"
+
+  bdag:
+    name: "BDAG Greek Lexicon (3rd ed, 2000)"
+    authority: high
+    notes: "Standard NT Greek lexicon (Bauer-Danker-Arndt-Gingrich)"
+    url: "https://www.press.uchicago.edu/"
+
+  halot:
+    name: "Hebrew and Aramaic Lexicon of the OT"
+    authority: high
+    notes: "Standard OT Hebrew/Aramaic lexicon"
+    url: "https://www.brill.com/"
+
+  strongs:
+    name: "Strong's Exhaustive Concordance"
+    authority: medium
+    notes: "Classic concordance (1890), dated definitions but useful for word tracing"
+    url: "Public domain"
+
+  lxx:
+    name: "Septuagint (Rahlfs-Hanhart)"
+    authority: high
+    notes: "Standard critical edition of Greek OT"
+    url: "https://www.bibelwissenschaft.de/"
+
+  # ===== REGIONAL BIBLE SOCIETIES (AUTHORITATIVE for local languages) =====
+
+  bsn:
+    name: "Bible Society of Nigeria"
+    authority: high
+    notes: "Authoritative for Hausa, Yoruba, Igbo translations"
+    url: "https://www.biblesociety-nigeria.org/"
+
+  bsg:
+    name: "Bible Society of Ghana"
+    authority: high
+    notes: "Authoritative for Akan, Ewe translations"
+    url: "https://www.biblesociety.gh/"
+
+  bsk:
+    name: "Bible Society of Kenya"
+    authority: high
+    notes: "Authoritative for Swahili, Kikuyu translations"
+    url: "https://www.biblesociety.or.ke/"
+
+  sbb:
+    name: "Sociedades Bíblicas Unidas (Latin America)"
+    authority: high
+    notes: "Spanish translations (Reina Valera, etc.)"
+    url: "https://www.sbu.org.mx/"
+
+  kbs:
+    name: "Korean Bible Society"
+    authority: high
+    notes: "Authoritative for Korean translations"
+    url: "https://www.bskorea.or.kr/"
+
+  # ===== DIGITAL PLATFORMS (RELIABLE) =====
+
+  biblegateway:
+    name: "Bible Gateway"
+    authority: medium
+    notes: "Popular digital Bible platform, reliable but check original publisher"
+    url: "https://www.biblegateway.com/"
+
+  youversion:
+    name: "YouVersion Bible App"
+    authority: medium
+    notes: "Most popular Bible app, partners with publishers"
+    url: "https://www.youversion.com/"
+
+  ebible:
+    name: "eBible.org"
+    authority: medium
+    notes: "Free Bible translations repository, open-access focus"
+    url: "https://ebible.org/"
+
+  biblehub:
+    name: "Bible Hub"
+    authority: medium
+    notes: "Bible study tools, interlinear texts"
+    url: "https://biblehub.com/"
+
+  # ===== LLM SOURCES (LOW AUTHORITY - USE WITH CAUTION) =====
+
+  llm-cs45:
+    name: "Claude Sonnet 4.5 (Anthropic)"
+    authority: low
+    notes: "AI-generated from training data. ALWAYS mark requires_human_review"
+    url: "https://www.anthropic.com/"
+    requires_validation: true
+    training_cutoff: "2025-01"
+
+  llm-cs40:
+    name: "Claude Sonnet 4.0 (Anthropic)"
+    authority: low
+    notes: "AI-generated from training data. ALWAYS mark requires_human_review"
+    url: "https://www.anthropic.com/"
+    requires_validation: true
+    training_cutoff: "2024-10"
+
+  llm-gpt4:
+    name: "GPT-4 (OpenAI)"
+    authority: low
+    notes: "AI-generated from training data. ALWAYS mark requires_human_review"
+    url: "https://openai.com/"
+    requires_validation: true
+    training_cutoff: "2023-04"
+
+  llm-gpt4t:
+    name: "GPT-4 Turbo (OpenAI)"
+    authority: low
+    notes: "AI-generated from training data. ALWAYS mark requires_human_review"
+    url: "https://openai.com/"
+    requires_validation: true
+    training_cutoff: "2023-12"
+
+  # ===== DEFAULTS =====
+
+default: llm-cs45  # When source unknown, assume LLM-generated
+
+# ===== VALIDATION RULES (enforced by code) =====
+
+validation_rules:
+  auto_approved:
+    - "All sources have authority: high"
+    - "No LLM sources present"
+
+  requires_human_review:
+    - "ANY source has requires_validation: true"
+    - "ANY source has authority: low"
+    - "Cultural adaptation noted"
+    - "Theological debate present"
+    - "Textual variant with significant impact"

@@ -1,0 +1,128 @@
+# === METADATA ===
+verse:
+  reference: "Matthew 5:3"
+  book: "MAT"
+  chapter: 5
+  verse: 3
+
+tool:
+  name: "original-language-words"
+  version: "1.0.0"
+  experiment: "concordance"
+  revision: 1
+  generated_date: "2025-10-28"
+
+# === SOURCE TEXT ===
+source_text:
+  language: "grc"
+  text: "Μακάριοι οἱ πτωχοὶ τῷ πνεύματι, ὅτι αὐτῶν ἐστιν ἡ βασιλεία τῶν οὐρανῶν." {grc-Nestle1904}
+  transliteration: "Makarioi hoi ptōchoi tō pneumati, hoti autōn estin hē basileia tōn ouranōn." {grc-Nestle1904}
+
+# === WORDS (CONCORDANCE FORMAT) ===
+words:
+  - position: 1
+    strongs: "G3107" {biblehub}
+    original: "Μακάριοι" {grc-Nestle1904}
+    transliteration: "Makarioi" {biblehub}
+    gloss: "blessed, happy" {biblehub}
+    lexical_form: "μακάριος" {biblehub}
+    word_type: "adjective" {biblehub}
+
+  - position: 2
+    strongs: "G3588" {biblehub}
+    original: "οἱ" {grc-Nestle1904}
+    transliteration: "hoi" {biblehub}
+    gloss: "the" {biblehub}
+    lexical_form: "ὁ" {biblehub}
+    word_type: "article" {biblehub}
+
+  - position: 3
+    strongs: "G4434" {biblehub}
+    original: "πτωχοὶ" {grc-Nestle1904}
+    transliteration: "ptōchoi" {biblehub}
+    gloss: "poor, destitute" {biblehub}
+    lexical_form: "πτωχός" {biblehub}
+    word_type: "adjective" {biblehub}
+
+  - position: 4
+    strongs: "G3588" {biblehub}
+    original: "τῷ" {grc-Nestle1904}
+    transliteration: "tō" {biblehub}
+    gloss: "the" {biblehub}
+    lexical_form: "ὁ" {biblehub}
+    word_type: "article" {biblehub}
+
+  - position: 5
+    strongs: "G4151" {biblehub}
+    original: "πνεύματι" {grc-Nestle1904}
+    transliteration: "pneumati" {biblehub}
+    gloss: "spirit, wind, breath" {biblehub}
+    lexical_form: "πνεῦμα" {biblehub}
+    word_type: "noun" {biblehub}
+
+  - position: 6
+    strongs: "G3754" {biblehub}
+    original: "ὅτι" {grc-Nestle1904}
+    transliteration: "hoti" {biblehub}
+    gloss: "that, because, for" {biblehub}
+    lexical_form: "ὅτι" {biblehub}
+    word_type: "conjunction" {biblehub}
+
+  - position: 7
+    strongs: "G846" {biblehub}
+    original: "αὐτῶν" {grc-Nestle1904}
+    transliteration: "autōn" {biblehub}
+    gloss: "of them, theirs" {biblehub}
+    lexical_form: "αὐτός" {biblehub}
+    word_type: "pronoun" {biblehub}
+
+  - position: 8
+    strongs: "G1510" {biblehub}
+    original: "ἐστιν" {grc-Nestle1904}
+    transliteration: "estin" {biblehub}
+    gloss: "is" {biblehub}
+    lexical_form: "εἰμί" {biblehub}
+    word_type: "verb" {biblehub}
+
+  - position: 9
+    strongs: "G3588" {biblehub}
+    original: "ἡ" {grc-Nestle1904}
+    transliteration: "hē" {biblehub}
+    gloss: "the" {biblehub}
+    lexical_form: "ὁ" {biblehub}
+    word_type: "article" {biblehub}
+
+  - position: 10
+    strongs: "G932" {biblehub}
+    original: "βασιλεία" {grc-Nestle1904}
+    transliteration: "basileia" {biblehub}
+    gloss: "kingdom" {biblehub}
+    lexical_form: "βασιλεία" {biblehub}
+    word_type: "noun" {biblehub}
+
+  - position: 11
+    strongs: "G3588" {biblehub}
+    original: "τῶν" {grc-Nestle1904}
+    transliteration: "tōn" {biblehub}
+    gloss: "of the" {biblehub}
+    lexical_form: "ὁ" {biblehub}
+    word_type: "article" {biblehub}
+
+  - position: 12
+    strongs: "G3772" {biblehub}
+    original: "οὐρανῶν" {grc-Nestle1904}
+    transliteration: "ouranōn" {biblehub}
+    gloss: "heavens" {biblehub}
+    lexical_form: "οὐρανός" {biblehub}
+    word_type: "noun" {biblehub}
+
+# === NOTES (minimal) ===
+notes:
+  - note: "The article (G3588) appears four times in this verse (positions 2, 4, 9, 11), reflecting standard Greek grammar for noun phrases and prepositional phrases." {llm-cs45}
+  - note: "πτωχοὶ (G4434) literally means those who crouch/cower, denoting absolute poverty and dependency, not merely being financially poor." {llm-cs45}
+  - note: "οὐρανῶν (heavens) appears in genitive plural form, following Matthew's characteristic phrase 'kingdom of the heavens' rather than 'kingdom of God' used in other gospels." {llm-cs45}
+
+# === STATISTICS ===
+word_count: 12
+unique_strongs: 9
+repeated_words: ["G3588"]

@@ -1,0 +1,368 @@
+# === METADATA ===
+verse:
+  reference: "Matthew 5:3"
+  book: "MAT"
+  chapter: 5
+  verse: 3
+
+tool:
+  name: "original-language-words"
+  version: "1.0.0"
+  experiment: "semantic"
+  revision: 1
+  generated_date: "2025-10-28"
+
+# === SOURCE TEXT ===
+source_text:
+  language: "grc"
+  text: "Μακάριοι οἱ πτωχοὶ τῷ πνεύματι, ὅτι αὐτῶν ἐστιν ἡ βασιλεία τῶν οὐρανῶν." {grc-NA28}
+  transliteration: "Makarioi hoi ptōchoi tō pneumati, hoti autōn estin hē basileia tōn ouranōn." {grc-NA28}
+
+# === WORDS (SEMANTIC FORMAT) ===
+# Organized by semantic contribution to the verse
+
+words:
+  - position: 1
+    original: "Μακάριοι" {grc-NA28}
+    transliteration: "Makarioi" {grc-NA28}
+    lemma: "μακάριος" {grc-NA28}
+    strongs: "G3107" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "25.119" {llm-cs45}
+      domain_name: "Attitudes and Emotions" {llm-cs45}
+      subdomain: "Happy, Blessed, Fortunate, Favorable Circumstances" {llm-cs45}
+
+      semantic_range:
+        - sense: "supremely blessed - describing a state of divine favor" {biblehub}
+        - sense: "happy, fortunate - pertaining to advantageous circumstances" {biblehub}
+        - sense: "applied to God's self-sufficiency (Pastoral Epistles)" {biblehub}
+
+      contextual_meaning: "Experiencing divine favor and approval from God; a state of spiritual well-being conferred by God's grace upon those who meet the specified condition" {llm-cs45}
+      why_this_sense: "This is the opening of Jesus' Beatitudes, establishing a pattern of divine pronouncement. The context indicates not circumstantial happiness but God's declaration of favor upon a specific spiritual posture. The term announces grace rather than rewarding merit, operating in an already-not-yet tension where present blessing anticipates future fulfillment in God's kingdom." {llm-cs45}
+
+      semantic_field: "Divine blessing and favor" {llm-cs45}
+      related_words: ["εὐλογέω (eulogeō) - spoken praise", "χαρά (chara) - joy", "εὐδοκία (eudokia) - good pleasure"] {llm-cs45}
+
+    gloss: "Blessed" {biblehub}
+
+  - position: 2
+    original: "οἱ" {grc-NA28}
+    transliteration: "hoi" {grc-NA28}
+    lemma: "ὁ" {grc-NA28}
+    strongs: "G3588" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "92.24" {llm-cs45}
+      domain_name: "Discourse Referentials" {llm-cs45}
+      subdomain: "Definite Article" {llm-cs45}
+
+      semantic_range:
+        - sense: "the - definite article marking specific reference" {biblehub}
+        - sense: "who, which - relative function" {biblehub}
+
+      contextual_meaning: "Definite article identifying a specific class of people - those characterized by the following description" {llm-cs45}
+      why_this_sense: "The article particularizes the following adjective 'poor', marking this as a distinct identifiable group rather than a generic statement about poverty. It signals that Jesus is addressing a specific spiritual category." {llm-cs45}
+
+      semantic_field: "Grammatical markers of definiteness" {llm-cs45}
+      related_words: [] {llm-cs45}
+
+    gloss: "the" {biblehub}
+
+  - position: 3
+    original: "πτωχοὶ" {grc-NA28}
+    transliteration: "ptōchoi" {grc-NA28}
+    lemma: "πτωχός" {grc-NA28}
+    strongs: "G4434" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "57.53" {llm-cs45}
+      domain_name: "Possess, Transfer, Exchange" {llm-cs45}
+      subdomain: "Poor, Lacking, Destitute" {llm-cs45}
+
+      semantic_range:
+        - sense: "beggar - one reduced to public mendicancy, crouching in destitution" {biblehub}
+        - sense: "materially poor - lacking financial resources and basic necessities" {biblehub}
+        - sense: "spiritually poor - conscious of spiritual need and humbly dependent on God" {biblehub}
+
+      contextual_meaning: "Those who are utterly destitute in spiritual resources, recognizing complete dependence on God; spiritually bankrupt and aware of their need" {llm-cs45}
+      why_this_sense: "The qualifier 'in spirit' (τῷ πνεύματι) that immediately follows indicates this is metaphorical rather than literal poverty. The word πτωχός carries connotations of crouching and cowering from its etymology (from ptōssō 'to crouch'), emphasizing not mere lack but helpless dependence. This contrasts with πένης (G3993) which indicates general financial constraint without the extremity of public begging." {llm-cs45}
+
+      semantic_field: "Economic and spiritual deprivation" {llm-cs45}
+      related_words: ["πένης (penēs) - one who lacks resources", "ταπεινός (tapeinos) - humble, lowly", "ἔνδεης (endeēs) - in want, lacking"] {llm-cs45}
+
+    gloss: "poor" {biblehub}
+
+  - position: 4
+    original: "τῷ" {grc-NA28}
+    transliteration: "tō" {grc-NA28}
+    lemma: "ὁ" {grc-NA28}
+    strongs: "G3588" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "92.24" {llm-cs45}
+      domain_name: "Discourse Referentials" {llm-cs45}
+      subdomain: "Definite Article (Dative)" {llm-cs45}
+
+      semantic_range:
+        - sense: "the - definite article in dative case" {biblehub}
+
+      contextual_meaning: "Grammatical marker indicating dative of reference or sphere - specifying the domain in which the poverty exists" {llm-cs45}
+      why_this_sense: "The dative case here functions as a 'dative of reference' or 'respect', indicating the sphere in which the poverty is experienced. This grammatical construction clarifies that the poverty is not material but spiritual, similar to 'pure in heart' (Matt 5:8) where the purity pertains to the heart specifically." {llm-cs45}
+
+      semantic_field: "Grammatical case markers" {llm-cs45}
+      related_words: [] {llm-cs45}
+
+    gloss: "in the" {biblehub}
+
+  - position: 5
+    original: "πνεύματι" {grc-NA28}
+    transliteration: "pneumati" {grc-NA28}
+    lemma: "πνεῦμα" {grc-NA28}
+    strongs: "G4151" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "26.9" {llm-cs45}
+      domain_name: "Psychological Faculties" {llm-cs45}
+      subdomain: "Spirit, Inner Self, Disposition" {llm-cs45}
+
+      semantic_range:
+        - sense: "physical phenomena - wind, breath, air current" {biblehub}
+        - sense: "human spirit - the rational soul or vital principle animating the body" {biblehub}
+        - sense: "disposition - spiritual state, state of mind, attitude" {biblehub}
+        - sense: "supernatural beings - angels, demons, non-material entities" {biblehub}
+        - sense: "divine reality - Holy Spirit, God's essence" {biblehub}
+
+      contextual_meaning: "The human spirit - the immaterial, psychological core of personhood; one's inner spiritual disposition and self-awareness before God" {llm-cs45}
+      why_this_sense: "Context determines which sense of πνεῦμα applies. Here, without the attributive adjective 'holy', and in construction with 'poor', it refers to the human spirit or disposition. The phrase 'poor in spirit' describes an internal spiritual state - humility of heart, recognition of spiritual bankruptcy, and awareness of need for God. This interpretation is confirmed by the dative of reference construction and parallels with Isaiah 61:1's 'humble people' whom God addresses." {llm-cs45}
+
+      semantic_field: "Human psychological and spiritual faculties" {llm-cs45}
+      related_words: ["ψυχή (psychē) - soul, life", "καρδία (kardia) - heart", "νοῦς (nous) - mind", "διάνοια (dianoia) - understanding"] {llm-cs45}
+
+    gloss: "spirit" {biblehub}
+
+  - position: 6
+    original: "ὅτι" {grc-NA28}
+    transliteration: "hoti" {grc-NA28}
+    lemma: "ὅτι" {grc-NA28}
+    strongs: "G3754" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "89.23" {llm-cs45}
+      domain_name: "Relations" {llm-cs45}
+      subdomain: "Cause and/or Reason" {llm-cs45}
+
+      semantic_range:
+        - sense: "that - introduces content/indirect discourse" {biblehub}
+        - sense: "because, for, since - introduces causal/explanatory clause" {biblehub}
+
+      contextual_meaning: "Causal conjunction introducing the reason or basis for the blessing pronounced in the first clause" {llm-cs45}
+      why_this_sense: "This ὅτι functions as a causal conjunction (translated 'for' or 'because') rather than introducing indirect discourse. It explains why the poor in spirit are blessed - providing the theological rationale. This pattern is consistent across all the Beatitudes (Matt 5:3-10), where each ὅτι clause functions as an adjunct giving the causal basis for the blessing." {llm-cs45}
+
+      semantic_field: "Causal and explanatory discourse markers" {llm-cs45}
+      related_words: ["γάρ (gar) - for, because", "διότι (dioti) - because, therefore", "ἐπεί (epei) - since, because"] {llm-cs45}
+
+    gloss: "for" {biblehub}
+
+  - position: 7
+    original: "αὐτῶν" {grc-NA28}
+    transliteration: "autōn" {grc-NA28}
+    lemma: "αὐτός" {grc-NA28}
+    strongs: "G846" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "92.11" {llm-cs45}
+      domain_name: "Discourse Referentials" {llm-cs45}
+      subdomain: "Personal Pronouns" {llm-cs45}
+
+      semantic_range:
+        - sense: "self - intensive pronoun emphasizing identity" {biblehub}
+        - sense: "he, she, it, they - third person personal pronoun" {biblehub}
+        - sense: "same - indicating identity or equivalence" {biblehub}
+
+      contextual_meaning: "Third person genitive plural pronoun referring back to 'the poor in spirit', indicating possession or belonging" {llm-cs45}
+      why_this_sense: "The genitive case indicates possession - the kingdom belongs to them. The pronoun creates cohesion by linking back to the subject of the blessing (οἱ πτωχοὶ τῷ πνεύματι). The emphatic placement before the verb ἐστιν stresses the exclusive nature of this possession - theirs and theirs alone is the kingdom." {llm-cs45}
+
+      semantic_field: "Referential pronouns" {llm-cs45}
+      related_words: ["ἐγώ (egō) - I", "σύ (sy) - you", "ἡμεῖς (hēmeis) - we"] {llm-cs45}
+
+    gloss: "theirs" {biblehub}
+
+  - position: 8
+    original: "ἐστιν" {grc-NA28}
+    transliteration: "estin" {grc-NA28}
+    lemma: "εἰμί" {grc-NA28}
+    strongs: "G1510" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "13.1" {llm-cs45}
+      domain_name: "Be" {llm-cs45}
+      subdomain: "State, Existence, Identity" {llm-cs45}
+
+      semantic_range:
+        - sense: "to be - expressing existence" {biblehub}
+        - sense: "to be - copula linking subject and predicate" {biblehub}
+        - sense: "to be - expressing identity or equivalence" {biblehub}
+
+      contextual_meaning: "Copula verb linking the possessive pronoun 'theirs' with the predicate 'the kingdom of the heavens', asserting present possession or belonging" {llm-cs45}
+      why_this_sense: "The present tense indicative form indicates current reality, not future promise. This creates theological significance - the kingdom is already theirs in present possession, not merely a future inheritance. The verb functions as a pure copula, establishing the relationship between the poor in spirit and the kingdom without adding semantic content beyond the assertion of this state." {llm-cs45}
+
+      semantic_field: "Existence and state of being" {llm-cs45}
+      related_words: ["γίνομαι (ginomai) - to become, to be", "ὑπάρχω (hyparchō) - to exist, to be"] {llm-cs45}
+
+    gloss: "is" {biblehub}
+
+  - position: 9
+    original: "ἡ" {grc-NA28}
+    transliteration: "hē" {grc-NA28}
+    lemma: "ὁ" {grc-NA28}
+    strongs: "G3588" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "92.24" {llm-cs45}
+      domain_name: "Discourse Referentials" {llm-cs45}
+      subdomain: "Definite Article (Nominative Feminine)" {llm-cs45}
+
+      semantic_range:
+        - sense: "the - definite article marking specific reference" {biblehub}
+
+      contextual_meaning: "Definite article indicating the specific, known kingdom - not just any kingdom but the particular kingdom Jesus is proclaiming" {llm-cs45}
+      why_this_sense: "The article signals that both speaker and audience understand which kingdom is meant. In Matthew's Gospel, 'the kingdom of the heavens' is a technical term referring to God's royal rule and reign. The definiteness implies shared knowledge of this concept from Jesus' preaching and Jewish eschatological expectation." {llm-cs45}
+
+      semantic_field: "Grammatical markers of definiteness" {llm-cs45}
+      related_words: [] {llm-cs45}
+
+    gloss: "the" {biblehub}
+
+  - position: 10
+    original: "βασιλεία" {grc-NA28}
+    transliteration: "basileia" {grc-NA28}
+    lemma: "βασιλεία" {grc-NA28}
+    strongs: "G932" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "37.64" {llm-cs45}
+      domain_name: "Control, Rule" {llm-cs45}
+      subdomain: "Kingdom, Royal Power, Sovereignty" {llm-cs45}
+
+      semantic_range:
+        - sense: "kingdom - realm or territory under a king's rule" {biblehub}
+        - sense: "kingship - royal power, sovereignty, the act of ruling" {biblehub}
+        - sense: "reign - the process or period of ruling" {biblehub}
+
+      contextual_meaning: "God's sovereign rule and realm - both the dynamic activity of God reigning and the sphere in which His reign is recognized and experienced" {llm-cs45}
+      why_this_sense: "In Jesus' teaching, βασιλεία emphasizes the dynamic process of God's reign rather than merely a spatial territory. The kingdom is both present reality (breaking into the world through Jesus) and future consummation. For the poor in spirit, the kingdom is theirs now - they currently experience God's reign and belong to His realm because their spiritual poverty positions them to receive divine rule." {llm-cs45}
+
+      semantic_field: "Royal authority and divine rule" {llm-cs45}
+      related_words: ["βασιλεύς (basileus) - king", "ἐξουσία (exousia) - authority", "κυριότης (kyriotēs) - dominion"] {llm-cs45}
+
+    gloss: "kingdom" {biblehub}
+
+  - position: 11
+    original: "τῶν" {grc-NA28}
+    transliteration: "tōn" {grc-NA28}
+    lemma: "ὁ" {grc-NA28}
+    strongs: "G3588" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "92.24" {llm-cs45}
+      domain_name: "Discourse Referentials" {llm-cs45}
+      subdomain: "Definite Article (Genitive Plural)" {llm-cs45}
+
+      semantic_range:
+        - sense: "the - definite article in genitive case" {biblehub}
+
+      contextual_meaning: "Grammatical marker linking the kingdom with 'the heavens' in a possessive or attributive relationship" {llm-cs45}
+      why_this_sense: "The genitive construction 'of the heavens' (τῶν οὐρανῶν) modifies 'kingdom' to specify which kingdom - the one that originates from, belongs to, or is characterized by heaven (i.e., God's realm). This is Matthew's preferred circumlocution for the divine name, avoiding direct use of 'God' out of Jewish piety while clearly indicating the divine nature of this kingdom." {llm-cs45}
+
+      semantic_field: "Grammatical case markers" {llm-cs45}
+      related_words: [] {llm-cs45}
+
+    gloss: "of the" {biblehub}
+
+  - position: 12
+    original: "οὐρανῶν" {grc-NA28}
+    transliteration: "ouranōn" {grc-NA28}
+    lemma: "οὐρανός" {grc-NA28}
+    strongs: "G3772" {biblehub}
+
+    semantic_data:
+      louw_nida_domain: "1.11" {llm-cs45}
+      domain_name: "Geographical Objects and Features" {llm-cs45}
+      subdomain: "Sky, Heavens, Firmament" {llm-cs45}
+
+      semantic_range:
+        - sense: "sky - the physical expanse visible above earth" {biblehub}
+        - sense: "heaven - God's dwelling place and realm of divine presence" {biblehub}
+        - sense: "heavens - plural emphasizing totality or majesty" {biblehub}
+
+      contextual_meaning: "The divine realm; God's sphere of authority and presence; used as a reverent circumlocution for God Himself" {llm-cs45}
+      why_this_sense: "In the phrase 'kingdom of the heavens' (unique to Matthew's Gospel), οὐρανός functions as a Jewish circumlocution to avoid pronouncing the divine name directly. The plural form οὐρανῶν may reflect Hebrew shamayim (always plural) and adds solemnity. This is functionally equivalent to 'kingdom of God' in Mark and Luke, but reflects Matthew's concern for Jewish sensibilities regarding direct use of God's name. The genitive indicates source, origin, or character - this is the kingdom that comes from heaven, belongs to the heavenly realm, and manifests God's rule." {llm-cs45}
+
+      semantic_field: "Divine realm and cosmic geography" {llm-cs45}
+      related_words: ["θεός (theos) - God", "γῆ (gē) - earth", "οὐρανός (ouranos singular) - heaven"] {llm-cs45}
+
+    gloss: "heavens" {biblehub}
+
+# === SEMANTIC ANALYSIS ===
+semantic_structure:
+  - theme: "Divine Pronouncement of Blessing" {llm-cs45}
+    words_involved: [1, 2, 3, 4, 5] {llm-cs45}
+    significance: "The opening Beatitude establishes Jesus' authority to pronounce divine blessing (Μακάριοι). This is not merely Jesus' opinion but a declaration of God's favor - the passive voice of blessing implies divine agency. The structure identifies a specific spiritual condition (poverty of spirit) as the criterion for receiving God's favor, inverting worldly values where strength and self-sufficiency are prized." {llm-cs45}
+
+  - theme: "Present Possession of Future Reality" {llm-cs45}
+    words_involved: [6, 7, 8, 9, 10, 11, 12] {llm-cs45}
+    significance: "The ὅτι clause introduces the reason for the blessing using present tense (ἐστιν) rather than future, indicating the kingdom already belongs to the poor in spirit. This creates eschatological tension - the kingdom is both present reality and future consummation. The poor in spirit currently possess what others strive for, because their spiritual poverty positions them to receive what only grace can give." {llm-cs45}
+
+  - theme: "Spiritual Inversion and Paradox" {llm-cs45}
+    words_involved: [3, 4, 5, 10] {llm-cs45}
+    significance: "The pairing of πτωχοί (extreme poverty/begging) with βασιλεία (royal kingdom) creates deliberate paradox. Those who are utterly destitute in spirit possess the kingdom - this is Jesus' radical inversion of human values. The semantic contrast between abject poverty and royal dominion emphasizes that kingdom citizenship comes through recognition of need, not accumulation of merit or spiritual wealth." {llm-cs45}
+
+semantic_relationships:
+  - relationship_type: "contrast" {llm-cs45}
+    word_1: "Position 3 - πτωχοί (poor/beggars)" {llm-cs45}
+    word_2: "Position 10 - βασιλεία (kingdom/royal rule)" {llm-cs45}
+    explanation: "The semantic contrast between poverty and royalty creates the beatitude's central paradox. πτωχός denotes the lowest social status (beggars who crouch), while βασιλεία represents supreme authority and wealth. This juxtaposition inverts worldly expectations - those at the bottom of human social hierarchy occupy the highest position in God's kingdom. The contrast emphasizes grace: kingdom possession comes not through spiritual achievement but through acknowledged need." {llm-cs45}
+
+  - relationship_type: "specification" {llm-cs45}
+    word_1: "Position 3 - πτωχοί (poor)" {llm-cs45}
+    word_2: "Position 5 - πνεύματι (spirit)" {llm-cs45}
+    explanation: "The dative πνεύματι specifies the domain of poverty, moving from literal to metaphorical meaning. Without this qualifier, πτωχοί would naturally indicate material destitution. The addition of 'in spirit' redirects the poverty to the inner person - spiritual awareness rather than economic circumstance. This specification is crucial for Jesus' teaching: the blessing is pronounced on spiritual posture (humility, dependence, awareness of need before God) not material condition." {llm-cs45}
+
+  - relationship_type: "cause-effect" {llm-cs45}
+    word_1: "Position 1 - Μακάριοι (blessed)" {llm-cs45}
+    word_2: "Position 6 - ὅτι (for/because)" {llm-cs45}
+    explanation: "The causal conjunction ὅτι explicitly connects the blessing (Μακάριοι) with its basis - possession of the kingdom. This is not arbitrary favor but has theological logic: the poor in spirit are blessed because the kingdom is theirs. The relationship shows that blessedness flows from kingdom possession, and kingdom possession flows from spiritual poverty. The causal link reveals that entrance to the kingdom requires exactly the disposition Jesus describes." {llm-cs45}
+
+  - relationship_type: "possession" {llm-cs45}
+    word_1: "Position 7 - αὐτῶν (theirs)" {llm-cs45}
+    word_2: "Position 10 - βασιλεία (kingdom)" {llm-cs45}
+    explanation: "The genitive pronoun αὐτῶν establishes an exclusive possessive relationship - the kingdom belongs to them (the poor in spirit) specifically. The emphatic word order (αὐτῶν before ἐστιν) stresses this exclusive possession. This creates a stark either-or: the kingdom belongs to those who recognize spiritual poverty, implicitly excluding those who think themselves spiritually rich or self-sufficient." {llm-cs45}
+
+  - relationship_type: "synonymous circumlocution" {llm-cs45}
+    word_1: "Position 11-12 - τῶν οὐρανῶν (of the heavens)" {llm-cs45}
+    word_2: "Position 10 - βασιλεία (kingdom)" {llm-cs45}
+    explanation: "The phrase 'of the heavens' (τῶν οὐρανῶν) serves as Matthew's characteristic way of indicating divine origin and authority without directly using God's name. This is functionally equivalent to 'kingdom of God' in other Gospels, but reflects Jewish reverence for the divine name. The semantic relationship indicates that this kingdom originates from God's realm, carries His authority, and manifests His rule on earth. The genitive indicates source, character, and belonging - it is heaven's kingdom entering the earthly sphere." {llm-cs45}
+
+# === CONTEXTUAL INSIGHTS ===
+contextual_notes:
+  - word: "μακάριος" {llm-cs45}
+    observation: "Jesus' choice of μακάριος to open the Beatitudes is significant because this term appears throughout the Psalms and Wisdom literature (via Septuagint ἀσρεῖ/ashrei) as a pronouncement of divine favor. By using this word, Jesus positions Himself in the prophetic tradition of announcing who receives God's blessing. Crucially, μακάριος never rewards merit but announces grace - it declares a status conferred by God, not earned by humans. The term creates an 'already-not-yet' tension: the blessed state is both present reality and future fulfillment." {llm-cs45}
+    cross_references: ["Psalm 1:1 (LXX) - blessed is the man who walks not in the counsel of the wicked", "Psalm 32:1 (LXX) - blessed is the one whose transgression is forgiven", "Psalm 119:1 - blessed are those whose way is blameless", "Matthew 11:6 - blessed is the one who is not offended by me", "Luke 11:28 - blessed are those who hear the word of God and keep it", "Revelation 1:3 - blessed is the one who reads aloud the words of this prophecy"] {llm-cs45}
+
+  - word: "πτωχός" {llm-cs45}
+    observation: "The choice of πτωχός rather than πένης is deliberate and significant. πτωχός indicates absolute destitution and public begging (one who 'crouches' or 'cowers'), not merely financial constraint. This extreme word for poverty amplifies the metaphor - spiritual poverty means complete bankruptcy before God, total inability to help oneself, utter dependence on divine mercy. The word's etymology (from πτώσσω 'to crouch') evokes the posture of a beggar, which becomes the spiritual posture Jesus commends: humble, lowly, dependent, aware of need. This connects to Hebrew ʿănāwîm tradition (humble/afflicted ones) seen in Isaiah 61:1 and Dead Sea Scrolls." {llm-cs45}
+    cross_references: ["Luke 4:18 - good news to the poor (quoting Isaiah 61:1)", "Luke 6:20 - Blessed are you who are poor, for yours is the kingdom of God", "James 2:5 - Has not God chosen those who are poor in the world to be rich in faith?", "Revelation 3:17 - You say 'I am rich'... not realizing you are wretched, pitiable, poor, blind, and naked", "Isaiah 66:2 (LXX) - this is the one to whom I will look: he who is humble and contrite in spirit", "2 Corinthians 8:9 - though he was rich, yet for your sake he became poor"] {llm-cs45}
+
+  - word: "πνεῦμα" {llm-cs45}
+    observation: "The qualifier τῷ πνεύματι is essential because it transforms literal poverty into spiritual metaphor. Without it, this beatitude would bless material destitution. The dative of reference/respect construction parallels Matthew 5:8 ('pure in heart') and indicates the sphere where poverty exists - the inner person, one's spiritual self-assessment before God. πνεῦμα here means human spirit (not Holy Spirit - no attributive 'holy'), referring to the immaterial core of personhood, one's disposition and self-awareness. 'Poor in spirit' describes those who recognize their spiritual bankruptcy, who know they have nothing to offer God, who depend entirely on divine grace rather than human merit." {llm-cs45}
+    cross_references: ["Isaiah 57:15 - I dwell in the high and holy place, and also with him who is of a contrite and lowly spirit", "Psalm 51:17 - a broken and contrite heart, O God, you will not despise", "Matthew 5:8 - Blessed are the pure in heart (parallel dative construction)", "Luke 18:13-14 - tax collector: 'God, be merciful to me, a sinner!' This man went down justified", "Romans 7:18 - For I know that nothing good dwells in me, that is, in my flesh", "Matthew 18:3-4 - unless you turn and become like children... whoever humbles himself is greatest"] {llm-cs45}
+
+  - word: "βασιλεία τῶν οὐρανῶν" {llm-cs45}
+    observation: "The phrase 'kingdom of the heavens' appears 32 times in Matthew and is unique to this Gospel. It is Matthew's Jewish-sensitive equivalent to 'kingdom of God' in Mark/Luke, using 'heavens' as a circumlocution for the divine name. The plural οὐρανῶν reflects Hebrew shamayim (always plural) and adds solemnity. Semantically, βασιλεία emphasizes the dynamic reality of God's reign (His ruling activity) more than a static territory. The present tense ἐστιν is theologically crucial - the kingdom already belongs to the poor in spirit (present possession), not merely promised for the future. This indicates the kingdom has already broken into the present through Jesus' ministry, though its full consummation awaits. The poor in spirit currently experience and participate in God's reign because their posture of dependence opens them to receive what grace gives." {llm-cs45}
+    cross_references: ["Matthew 3:2 - Repent, for the kingdom of heaven is at hand", "Matthew 6:10 - Your kingdom come, your will be done, on earth as it is in heaven", "Matthew 13:11 - To you has been given to know the secrets of the kingdom of heaven", "Mark 10:15 - Whoever does not receive the kingdom of God like a child shall not enter it", "Luke 17:21 - the kingdom of God is in the midst of you", "Colossians 1:13 - He has delivered us from the domain of darkness and transferred us to the kingdom of his beloved Son"] {llm-cs45}
+
+# === STATISTICS ===
+word_count: 12
+semantic_domains: ["25.119 - Happy/Blessed", "92.24 - Definite Article", "57.53 - Poor/Destitute", "26.9 - Spirit/Psychological Faculty", "89.23 - Cause/Reason", "92.11 - Personal Pronouns", "13.1 - State of Being", "37.64 - Kingdom/Rule", "1.11 - Sky/Heaven"] {llm-cs45}
+dominant_themes: ["Divine blessing through spiritual poverty", "Kingdom possession via grace not merit", "Inversion of worldly values", "Present possession of eschatological reality", "Dependence and humility as entry to God's reign"] {llm-cs45}
