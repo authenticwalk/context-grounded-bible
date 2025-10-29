@@ -6,6 +6,26 @@
 
 ---
 
+## ⚠️ CRITICAL CORRECTION
+
+**Original Diagnosis:** The 403 errors were caused by websites blocking automated access.
+
+**ACTUAL ROOT CAUSE:** The 403 errors were caused by **missing WebFetch permissions in the sandbox environment**, NOT by website blocking.
+
+**Reasoning Error:** When 100% of WebFetch attempts failed (including major sites like Wikipedia and IMDB), the correct diagnostic approach should have been:
+1. ❌ **What I concluded:** "All these websites block bots" (unlikely)
+2. ✅ **What I should have checked:** "Is WebFetch permitted in my environment?" (more likely)
+
+**Impact on Recommendations:**
+- Issue #1 "Web Access Restrictions" may be partially/fully incorrect
+- Experiment A (Preacher-Transcripts) may work with proper WebFetch permissions
+- The "pre-validation" fix is still valuable but for different reasons (detect permission issues, not just website blocking)
+- WebSearch workaround may have been unnecessary if WebFetch was properly enabled
+
+**Status:** Recommendations below are preserved for reference, but should be re-evaluated after testing WebFetch with updated permissions.
+
+---
+
 ## Executive Summary
 
 The sermon-illustrations experiments revealed **5 critical issues** that reduce experiment effectiveness:

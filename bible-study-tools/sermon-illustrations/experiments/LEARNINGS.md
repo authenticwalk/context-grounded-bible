@@ -9,6 +9,23 @@
 
 ---
 
+## ⚠️ CRITICAL CORRECTION (Added Post-Experiment)
+
+**Original Conclusion:** Experiment A failed due to websites blocking automated access (403 errors).
+
+**CORRECTED DIAGNOSIS:** The 403 errors were caused by **missing WebFetch permissions in the sandbox environment**, NOT by website restrictions.
+
+**Diagnostic Error:** When testing revealed 100% WebFetch failure across all websites (including Wikipedia, IMDB, BibleHub, etc.), the logical conclusion should have been "my sandbox is blocking WebFetch," not "all these major websites block bots."
+
+**Impact on Results:**
+- Experiment A (Preacher-Transcripts) failure may be **reversible** with proper WebFetch permissions
+- The "infrastructure barriers" mentioned may have been self-imposed, not external
+- Cultural-Artifacts (Experiment B) remains the winner based on data quality, but Experiment A deserves retesting
+
+**Next Steps:** Retest Experiment A with WebFetch permissions enabled to determine true viability.
+
+---
+
 ## Executive Summary
 
 **CLEAR WINNER: Experiment B (Cultural-Artifacts)**
