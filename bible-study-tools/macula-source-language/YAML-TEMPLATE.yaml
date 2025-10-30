@@ -1,0 +1,164 @@
+# === METADATA ===
+verse:
+  reference: "{BOOK} {CHAPTER}:{VERSE}"  # e.g., "John 1:1" or "Genesis 1:1"
+  book_code: "{BBB}"  # USFM 3.0 code: JHN, GEN, MAT, etc.
+  chapter: {C}
+  verse: {V}
+  testament: "{OT|NT}"
+
+tool:
+  name: "macula-source-language"
+  version: "1.0.0"
+  generated_date: "{YYYY-MM-DD}"
+
+# === SOURCE DATA ===
+source:
+  dataset: "MACULA {Hebrew|Greek} Linguistic Datasets"
+  url: "https://github.com/Clear-Bible/{macula-hebrew|macula-greek}"
+  license: "CC BY 4.0"
+  copyright: "Biblica, Inc (2022-2024)"
+  citation: 'MACULA {Hebrew|Greek} Linguistic Datasets, available at https://github.com/Clear-Bible/{macula-hebrew|macula-greek}/'
+  definitions: "./MACULA-FIELD-DEFINITIONS.md"
+  base_text: "{Westminster Leningrad Codex|Nestle1904}"
+
+# === SOURCE TEXT ===
+source_text:
+  language: "{heb|grc}"  # ISO 639-3
+  unicode: "{Hebrew or Greek text}"
+  transliteration: "{Romanized text}"
+  english: "{English gloss}"
+
+# === SYNTAX ===
+syntax:
+  word_order: "{rule}"  # e.g., PP-V-S-O, S-VC-P
+  structure: "{description}"
+  note: "{Syntactic observations}"
+
+# === WORDS ===
+words:
+  # === HEBREW WORD TEMPLATE ===
+  - position: {N}
+
+    # --- Core Identification ---
+    ref: "{BBB} {C}:{V}!{N}"
+    xml_id: "{xml:id}"
+
+    # --- Text ---
+    unicode: "{Hebrew text}"
+    lemma: "{Dictionary form}"
+    transliteration: "{Romanized}"
+
+    # --- Part of Speech ---
+    class: "{prep|noun|verb|adj|adv|conj|particle|pronoun}"
+    pos: "{Full POS description}"
+
+    # --- Morphology ---
+    morph: "{Morphological code}"  # e.g., Ncfsa, Vqp3ms
+    gender: "{masculine|feminine|both}"
+    number: "{singular|plural|dual}"
+    person: "{first|second|third}"
+    state: "{absolute|construct|determined}"  # CRITICAL for nouns
+    stem: "{qal|niphal|piel|pual|hiphil|hophal|hithpael}"  # CRITICAL for verbs
+    type: "{common|proper|qatal|yiqtol|wayyiqtol|participle|infinitive|etc}"
+
+    # --- English ---
+    english: "{English gloss}"
+    mandarin: "{Mandarin translation}"
+    gloss: "{Short gloss}"
+
+    # --- Lexical References ---
+    stronglemma: "{Strong's lemma}"
+    strongnumberx: "{Extended Strong's number}"
+
+    # --- Semantic Domains (CRITICAL) ---
+    sdbh: "{SDBH ID}"  # Array if multiple values
+    lexdomain: "{Lexical domain code}"  # Array if multiple
+    coredomain: "{Core domain(s)}"  # Array if multiple
+    sensenumber: "{N}"  # For polysemous words
+
+    # --- Greek Cross-Reference (CRITICAL for rare words) ---
+    greek: "{Greek equivalent}"
+    greekstrong: "{Greek Strong's number}"
+
+    # --- Syntactic Role ---
+    role: "{v|s|o|p|pp|etc}"
+    frame: "{Semantic frame}"  # e.g., A0:...; A1:...;
+
+    # --- Translation Notes ---
+    rarity: "{common|rare|hapax}"
+    uncertainty_level: "{low|medium|high}"
+    scholarly_positions: []  # Array of interpretations if uncertain
+    translation_note: "{Key insights for translators}"
+    theological_note: "{Theological significance}"
+
+  # === GREEK WORD TEMPLATE ===
+  - position: {N}
+
+    # --- Core Identification ---
+    ref: "{BBB} {C}:{V}!{N}"
+    xml_id: "{xml:id}"
+
+    # --- Text ---
+    unicode: "{Greek text}"
+    lemma: "{Dictionary form}"
+    normalized: "{Normalized form}"
+    transliteration: "{Romanized}"
+
+    # --- Part of Speech ---
+    class: "{prep|noun|verb|adj|adv|conj|det|pronoun|particle}"
+    pos: "{Full POS description}"
+
+    # --- Morphology ---
+    morph: "{Morphological code}"  # e.g., PREP, N-DSF, V-IAI-3S
+    gender: "{masculine|feminine|neuter}"
+    number: "{singular|plural}"
+    person: "{first|second|third}"
+    case: "{nominative|genitive|dative|accusative|vocative}"  # CRITICAL
+    tense: "{present|imperfect|future|aorist|perfect|pluperfect}"  # CRITICAL for verbs
+    voice: "{active|middle|passive}"
+    mood: "{indicative|subjunctive|optative|imperative|infinitive|participle}"
+
+    # --- Article (CRITICAL) ---
+    has_article: {true|false}  # Definiteness
+    definiteness: "{definite|indefinite|qualitative}"
+
+    # --- English ---
+    gloss: "{English gloss}"
+
+    # --- Lexical References ---
+    strong: "{Strong's number}"
+
+    # --- Semantic Domains (CRITICAL) ---
+    domain: "{Louw-Nida domain code}"
+    ln: "{Louw-Nida number}"  # MOST CRITICAL for Greek
+
+    # --- Syntactic Role ---
+    role: "{s|p|v|o|vc|etc}"
+    position_in_clause: {N}
+    fronted: {true|false}  # Word order emphasis
+    emphatic: {true|false}
+
+    # --- Word Group ---
+    word_group:
+      class: "{cl|pp|np|vp|etc}"
+      rule: "{Grammar rule}"
+      articular: {true|false}
+
+    # --- Translation Notes ---
+    translation_note: "{Key insights for translators}"
+    theological_note: "{Theological significance}"
+    preaching_points: []  # Array of preaching insights
+
+# === GRAMMATICAL ANALYSIS ===
+grammatical_notes:
+  - category: "{verb|article|preposition|noun-case|word-order|syntax}"
+    observation: "{Description of grammatical feature}"
+    significance: "{Why this matters for interpretation}"
+
+# === STATISTICS ===
+statistics:
+  word_count: {N}
+  verb_count: {N}
+  noun_count: {N}
+  rare_words: {N}
+  hapax_legomena: {N}
