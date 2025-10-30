@@ -1,6 +1,6 @@
 ---
 name: get-source-languages
-description: Fetch source language (Greek/Hebrew) word data for Bible verses. Use this when users want to study Greek or Hebrew words, understand original language meanings, or analyze source text morphology. The skill retrieves Macula source language data and merges it with Strong's dictionary entries to provide comprehensive linguistic information.
+description: Fetch source language (Greek/Hebrew) word data for Bible verses. Use this when users want to study Greek or Hebrew words, understand original language meanings, or analyze source text morphology. The skill retrieves Macula source language data and merges it with Strong's dictionary entries to provide comprehensive linguistic information. Also supports direct Strong's number lookups and English word searches across all Greek/Hebrew lexicon entries.
 ---
 
 # Get Source Languages
@@ -8,6 +8,8 @@ description: Fetch source language (Greek/Hebrew) word data for Bible verses. Us
 ## Overview
 
 Retrieve detailed source language (Greek/Hebrew) data for Bible verses, including original text, morphology, Strong's dictionary entries, and semantic information. This skill combines Macula linguistic datasets with Strong's dictionary to provide comprehensive word-level analysis.
+
+**New:** Also supports direct Strong's number lookups and searching for English words to find all Greek and Hebrew variants (e.g., search "love" to find G0025, G5368, H0157).
 
 ## When to Use
 
@@ -17,6 +19,8 @@ Use this skill when:
 - User needs morphological analysis (tense, case, gender, etc.)
 - User is doing word studies or comparative analysis
 - User mentions "Greek", "Hebrew", "original language", "source text", or "Strong's"
+- User asks about a Strong's number directly (e.g., "What is G0025?")
+- User asks about English words and their Greek/Hebrew equivalents (e.g., "Greek words for love")
 
 Do NOT use this skill when:
 - User only wants English translations (use quote-bible skill)
@@ -25,13 +29,19 @@ Do NOT use this skill when:
 
 ## How to Use
 
-### Step 1: Parse the Bible Reference
+There are two main modes: **verse-based lookup** and **Strong's number/word lookup**.
+
+### Mode A: Verse-Based Lookup
+
+Use when analyzing a specific Bible verse.
+
+#### Step 1: Parse the Bible Reference
 
 Extract the Bible reference from the user's request. The reference must use USFM 3.0 three-letter codes:
 - **Book code**: Use USFM 3.0 (e.g., "JHN", "GEN", "MAT")
 - **Chapter:Verse format**: "JHN 3:16", "GEN 1:1"
 
-### Step 2: Execute the Source Languages Fetcher
+#### Step 2: Execute the Source Languages Fetcher
 
 Use the Bash tool to execute the fetcher script:
 
@@ -44,7 +54,7 @@ Where `<reference>` is the verse reference:
 - "GEN 1:1" (Genesis 1:1)
 - "ROM 8:28" (Romans 8:28)
 
-### Step 3: Display Results
+#### Step 3: Display Results
 
 The script returns YAML data containing:
 - **verse**: Verse reference
@@ -65,16 +75,82 @@ Present the information clearly to the user, highlighting:
 - Morphological information relevant to their question
 - English glosses for understanding
 
-### Step 4: Options
+#### Options
 
 Optional flags:
 - `--output <file>`: Save results to a YAML file
 - `--json`: Output as JSON instead of YAML
 - `--no-generate`: Don't auto-generate Macula data if missing
 
+### Mode B: Strong's Number/Word Lookup
+
+Use when studying specific Strong's numbers or English words.
+
+#### Step 1: Execute get_strongs.py
+
+Use the Bash tool to execute:
+
+**Lookup by Strong's numbers:**
+```bash
+python3 /home/user/context-grounded-bible/src/lib/get_strongs.py G0025 G5368 H0157
+```
+
+**Search by English word:**
+```bash
+python3 /home/user/context-grounded-bible/src/lib/get_strongs.py --word love
+```
+
+**Search multiple words:**
+```bash
+python3 /home/user/context-grounded-bible/src/lib/get_strongs.py --word love --word beloved
+```
+
+**Combined:**
+```bash
+python3 /home/user/context-grounded-bible/src/lib/get_strongs.py G0025 --word love
+```
+
+#### Step 2: Display Results
+
+The script returns YAML data structured as:
+```yaml
+words:
+  G0025:
+    strongs_number: G0025
+    language: greek
+    lemma: ἀγαπάω
+    transliteration: agapáō
+    definition: to love (in a social or moral sense)
+    kjv_usage: (be-)love(-ed)
+    derivation: ...
+  G5368:
+    strongs_number: G5368
+    ...
+metadata:
+  total_entries: 3
+  greek_entries: 2
+  hebrew_entries: 1
+  search_words: [love]
+```
+
+Present the information clearly, highlighting:
+- All Greek and Hebrew variants found
+- Differences in meaning between similar words
+- KJV usage patterns
+- Etymological relationships
+
+#### Options
+
+Optional flags:
+- `--output <file>`: Save results to a YAML file
+- `--json`: Output as JSON instead of YAML
+- `--case-sensitive`: Make word search case-sensitive
+
 ## Examples
 
-### Example 1: Study Greek Words in John 3:16
+### Verse-Based Examples
+
+#### Example 1: Study Greek Words in John 3:16
 
 **User:** "What are the Greek words in John 3:16?"
 
@@ -85,7 +161,7 @@ python3 /home/user/context-grounded-bible/src/lib/source_languages_fetcher.py "J
 
 **Expected behavior:** Display each Greek word with lemma, morphology, and Strong's definition
 
-### Example 2: Hebrew Word Study
+#### Example 2: Hebrew Word Study
 
 **User:** "I want to study the Hebrew words in Genesis 1:1"
 
@@ -96,7 +172,7 @@ python3 /home/user/context-grounded-bible/src/lib/source_languages_fetcher.py "G
 
 **Expected behavior:** Display Hebrew text with transliteration, morphology, and Strong's entries
 
-### Example 3: Strong's Number Lookup
+#### Example 3: Verse Analysis
 
 **User:** "What does the Greek word in Romans 8:28 mean?"
 
@@ -106,6 +182,52 @@ python3 /home/user/context-grounded-bible/src/lib/source_languages_fetcher.py "R
 ```
 
 **Expected behavior:** Display all Greek words with Strong's definitions and usage information
+
+### Strong's Lookup Examples
+
+#### Example 4: Look Up Specific Strong's Numbers
+
+**User:** "What is G0025?"
+
+**Action:** Execute:
+```bash
+python3 /home/user/context-grounded-bible/src/lib/get_strongs.py G0025
+```
+
+**Expected behavior:** Display full Strong's entry for G0025 (ἀγαπάω - agape love)
+
+#### Example 5: Compare Greek Words for Love
+
+**User:** "What are the different Greek words for love?"
+
+**Action:** Execute:
+```bash
+python3 /home/user/context-grounded-bible/src/lib/get_strongs.py --word love
+```
+
+**Expected behavior:** Display all Greek and Hebrew Strong's entries containing "love", showing G0025 (ἀγαπάω), G5368 (φιλέω), H0157 (אָהַב), etc. with their distinct meanings
+
+#### Example 6: Study Word Family
+
+**User:** "Show me the Greek words for believe and faith"
+
+**Action:** Execute:
+```bash
+python3 /home/user/context-grounded-bible/src/lib/get_strongs.py --word believe --word faith
+```
+
+**Expected behavior:** Display entries like G4100 (πιστεύω - believe), G4102 (πίστις - faith), showing etymological relationships
+
+#### Example 7: Combined Lookup
+
+**User:** "I want to study agape love specifically, plus see all love words"
+
+**Action:** Execute:
+```bash
+python3 /home/user/context-grounded-bible/src/lib/get_strongs.py G0025 --word love
+```
+
+**Expected behavior:** Display G0025 and all other love-related entries from both Greek and Hebrew
 
 ## Technical Details
 
