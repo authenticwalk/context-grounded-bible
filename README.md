@@ -19,7 +19,83 @@ well.  It was given a phrase like "in the beginning was " and it had to predict 
 
 So if you ask AI about something common like John 3:16 it has seen a lot and appears to answer accurately.  If you get other texts it is still fairly good with NIV, KJV, etc because those appear on the Internet so many times.  If you move to lesser quoted texts like the minor prophets or numbers you get lesser results.  If you use those same texts in rare languages you begin to get words strung together that look good but may be "lossy" (to use the compression analogy).  This begins to get dangerous as it sounds just as confident about the things it actually knows a lot about and if users fail to fact-check the sources they will clumbsily be mislead or mislead.
 
-So we fix this by providing extensive context so it is grounded in truth.  
+So we fix this by providing extensive context so it is grounded in truth.
+
+# Repository Size and Setup
+
+**Important:** This repository contains extensive Bible commentary data (currently 2.6GB, 63,000+ files). Full clones can take several minutes and consume significant disk space.
+
+## Recommended Setup: Sparse Checkout
+
+For most users, we recommend using **sparse checkout** to download only what you need:
+
+### Quick Start (Recommended)
+
+```bash
+# Clone with minimal data (fastest)
+git clone --filter=blob:none --sparse https://github.com/authenticwalk/context-grounded-bible
+cd context-grounded-bible
+
+# Setup default working files (tools, scripts, docs)
+./setup-sparse-checkout.sh
+```
+
+This reduces your working directory from **2.6GB → ~100MB** (97% reduction).
+
+### What Gets Included by Default
+
+The sparse checkout includes:
+- `.claude/` - Claude Code configuration
+- `bible-study-tools/` - Bible study tool scripts
+- `src/` - Source code
+- All documentation files (README, CLAUDE.md, SCHEMA.md, etc.)
+- Core scripts (strongs-fetcher.py, main.py, etc.)
+
+### Adding Specific Bible Books
+
+```bash
+# Add individual books as needed
+git sparse-checkout add bible/MAT    # Matthew
+git sparse-checkout add bible/JHN    # John
+git sparse-checkout add bible/PHP    # Philippians
+
+# Add all lexicon/word data
+git sparse-checkout add bible/words
+```
+
+### For Claude Code Web Users
+
+**Note:** Claude Code web (claude.ai/code) performs full clones automatically. After the repository loads, you can manually run the sparse checkout setup to reduce disk usage:
+
+```bash
+# In the Claude Code terminal
+./setup-sparse-checkout.sh
+```
+
+This won't speed up the initial clone but will reduce working directory size and improve Git operations.
+
+### Full Clone (Not Recommended)
+
+Only use a full clone if you need all Bible commentary data at once:
+
+```bash
+git clone https://github.com/authenticwalk/context-grounded-bible
+```
+
+**Warning:** Full clone downloads 2.6GB and takes several minutes.
+
+### Managing Your Checkout
+
+```bash
+# See what you have checked out
+git sparse-checkout list
+
+# Add more directories
+git sparse-checkout add bible/ROM bible/GAL
+
+# Reset to full repository
+git sparse-checkout disable
+```
 
 # Structure
 
