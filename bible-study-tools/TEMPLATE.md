@@ -1,9 +1,11 @@
 # [Tool Name]
 
-**Version:** 1.0.0  
-**Status:** [experimental/active/deprecated]  
-**Created:** YYYY-MM-DD  
+**Version:** 1.0.0
+**Status:** [experimental/active/deprecated]
+**Created:** YYYY-MM-DD
 **Last Updated:** YYYY-MM-DD
+
+**Token Efficiency:** Keep main README ≤500 lines, experiments ≤150 lines. Inline only what's relevant to THIS tool.
 
 ---
 
@@ -23,13 +25,14 @@
 
 **Required Sources:**
 
-[Sources may be websites or tools and skills we have.  Be sure to look at all the skills we have like
-quote-bible and see if that will help.]
+Check ATTRIBUTION.md for web resources with URL patterns (saves tokens vs searching).
 
-- [ ] Source 1 (e.g., BibleHub for translation comparisons)
-- [ ] Source 2 (e.g., Strong's Concordance for lexical data)
-- [ ] Source 3 (e.g., BDAG for Greek semantic ranges)
+- [ ] Source 1 (e.g., BibleHub interlinear - see ATTRIBUTION.md for URL format)
+- [ ] Source 2 (e.g., Strong's via BibleHub - URL pattern in ATTRIBUTION.md)
+- [ ] Source 3
 - [ ] ... (up to 12 sources)
+
+**Note:** During experiments, test and document optimal URLs. Researcher uses your optimized results.
 
 **Extraction Process:**
 1. [Step 1 - What to extract and from where]
@@ -55,28 +58,17 @@ quote-bible and see if that will help.]
 
 ### Phase 3: Citation and Verification
 
-[Carefully look at REVIEW-GUIDELINES.md to pull our criteria that match this task, the following are
-examples but you can expand this and it must be made relevant to the task, eg. not all tasks need Strongs or quote verses]
+**Critical validation** (from REVIEW-GUIDELINES.md Level 1 - must pass 100%):
+- [ ] No fabricated data - all sources verified
+- [ ] Inline citations: `content {source}` (not separate fields)
+- [ ] No percentages or predictions (use "most", "many", "some")
+- [ ] Data extracted BEFORE analysis (not from memory)
+- [ ] All new sources in ATTRIBUTION.md
 
-**Citation Requirements:**
-- Every fact must have an inline citation: `content {source}`
-- Use source codes from `/source-abbreviations.yaml`
-- Verify all translations exist in extracted data files
-- Mark AI-generated insights with `{llm-cs45}` or appropriate model tag
+**Tool-specific validation** (define your Level 2 requirements):
+[List 3-5 requirements specific to THIS tool type]
 
-**Attribution Requirements:**
-- [ ] All new sources added to [ATTRIBUTION.md](../../ATTRIBUTION.md) with complete copyright notices
-- [ ] Citation format codes match ATTRIBUTION.md entries
-- [ ] Public domain/open license/fair use designation specified
-- [ ] Purchase or access links included for copyrighted works
-- [ ] Update `source-abbreviations.yaml` if new citation codes needed
-
-**Verification Checklist:**
-- [ ] All translations verified against data files
-- [ ] No fabricated examples
-- [ ] Cross-references checked for accuracy
-- [ ] Strong's numbers validated (if applicable)
-- [ ] All sources exist in ATTRIBUTION.md
+See REVIEW-GUIDELINES.md for full details if needed.
 
 ---
 
@@ -104,7 +96,18 @@ examples but you can expand this and it must be made relevant to the task, eg. n
 - `GEN-001-001.yaml` (Genesis 1:1)
 
 ### YAML Structure
-[ Carefully read SCHEMA.md for how to structure this schema so we have consistent naming and structure allowing us to merge filterable documents together.  The fields are semi-structured where common fields are named the same ]
+
+**Required fields** (from SCHEMA.md):
+- `verse: BOOK.chapter.verse` (USFM 3.0, zero-padded: MAT.005.003)
+- Inline citations: `"content {source}"` immediately after every fact
+- `metadata.tokens_used`: populate from API response
+
+**Optional standard fields** (use only if relevant to this tool):
+- `source.language/text` - if analyzing original language
+- `words[].pos/word/strongs` - if doing word-level analysis
+- `clusters[].id/positions/text` - if semantic grouping
+
+See SCHEMA.md for additional optional fields. Only include what THIS tool needs.
 
 ```yaml
 # === METADATA ===
@@ -167,9 +170,10 @@ sources:
     #   prompt: "What is the core question or output a reviewer must confirm is present for this MCP?"
 
 metadata:
-  date_time: 2025-11-29 18:32:05
-  tokens_used: 10000
-  errors_fixed: 0   # How many errors did the review committee or your validation find and then you had to fix
+  date_time: "2025-10-29 18:32:05"
+  tool_version: "{tool-name}-v1.0"
+  tokens_used: 15000  # From API response
+  errors_fixed: 2
 ```
 
 ### Schema Guidelines
@@ -191,17 +195,14 @@ metadata:
 
 ### Level 1: CRITICAL Requirements (Must Pass 100%)
 
-All outputs must pass universal validation from [REVIEW-GUIDELINES.md](../../REVIEW-GUIDELINES.md) Level 1:
-
+From REVIEW-GUIDELINES.md Level 1:
 - ✅ No fabricated data
-- ✅ Inline citations present
-- ✅ No number predictions
-- ✅ Data file grounding
-- ✅ Follows core principles from CLAUDE.md
-- ✅ Copyright and fair use compliance
-- ✅ New sources added to ATTRIBUTION.md
+- ✅ Inline citations: `content {source}`
+- ✅ No percentages (use qualitative)
+- ✅ Extract data FIRST
+- ✅ New sources in ATTRIBUTION.md
 
-**Action if Failed:** REJECT - Regenerate with strict adherence
+**Action if Failed:** REJECT
 
 ### Level 2: HIGH PRIORITY Requirements (80%+ to Pass)
 
