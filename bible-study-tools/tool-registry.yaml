@@ -1,0 +1,130 @@
+# Bible Study Tools Registry
+#
+# Central registry of all Bible study tools with metadata for filtering and organization.
+# Used by scripture-study skill to determine which files to include at each depth level.
+#
+# Format:
+#   tool-suffix:
+#     name: Human-readable tool name
+#     summary: Very brief description (max 20 words)
+#     complexity: low|medium|high (determines file size and processing requirements)
+#     depth: light|medium|full|all (minimum depth level required to include this tool)
+#     category: lexical|theological|practical|historical|linguistic|topical
+#
+# Complexity Levels:
+#   - low: Small files, quick to process, essential data (~1-50 KB)
+#   - medium: Moderate files, standard processing (~50-500 KB)
+#   - high: Large files, intensive processing, comprehensive data (>500 KB)
+#
+# Depth Levels:
+#   - light: Included in light, medium, and full depth queries
+#   - medium: Included in medium and full depth queries (default)
+#   - full: Included only in full depth queries
+#   - all: Included at all depth levels
+#
+# Categories:
+#   - lexical: Word meanings, etymology, source languages
+#   - theological: Doctrine, theology, biblical themes
+#   - practical: Application, sermon illustrations, devotional insights
+#   - historical: Cultural context, historical background, archaeology
+#   - linguistic: Translation analysis, semantic clusters, language patterns
+#   - topical: Topic cross-references, thematic connections
+
+tools:
+  # === LEXICAL TOOLS ===
+
+  original-language-words:
+    name: Original Language Words
+    summary: Greek and Hebrew source words with morphology and Strong's definitions
+    complexity: medium
+    depth: medium
+    category: lexical
+
+  # === LINGUISTIC TOOLS ===
+
+  translations-ebible:
+    name: eBible Translations
+    summary: Comprehensive translation database from eBible corpus (1000+ translations)
+    complexity: high
+    depth: full
+    category: linguistic
+    note: Very large files, include only at full depth
+
+  semantic-clusters:
+    name: Semantic Clusters
+    summary: Groupings of semantically related translation patterns across languages
+    complexity: medium
+    depth: medium
+    category: linguistic
+
+  # === PRACTICAL TOOLS ===
+
+  sermon-illustrations:
+    name: Sermon Illustrations
+    summary: Concrete examples from films, literature, history for preaching and teaching
+    complexity: low
+    depth: light
+    category: practical
+
+  # === FUTURE TOOLS (commented out until implemented) ===
+
+  # cross-references:
+  #   name: Cross References
+  #   summary: Related verses and thematic connections throughout Scripture
+  #   complexity: low
+  #   depth: light
+  #   category: topical
+
+  # historical-context:
+  #   name: Historical Context
+  #   summary: Cultural, geographical, and historical background information
+  #   complexity: medium
+  #   depth: medium
+  #   category: historical
+
+  # theological-themes:
+  #   name: Theological Themes
+  #   summary: Doctrinal analysis and systematic theology connections
+  #   complexity: medium
+  #   depth: medium
+  #   category: theological
+
+  # application-insights:
+  #   name: Application Insights
+  #   summary: Practical life application and devotional reflections
+  #   complexity: low
+  #   depth: light
+  #   category: practical
+
+  # word-studies:
+  #   name: Word Studies
+  #   summary: Deep lexical analysis with usage patterns across Scripture
+  #   complexity: medium
+  #   depth: medium
+  #   category: lexical
+
+  # quotations-allusions:
+  #   name: Quotations and Allusions
+  #   summary: Old Testament quotes and allusions in New Testament
+  #   complexity: low
+  #   depth: medium
+  #   category: topical
+
+  # syntax-analysis:
+  #   name: Syntax Analysis
+  #   summary: Grammatical structure and discourse analysis
+  #   complexity: medium
+  #   depth: full
+  #   category: linguistic
+
+  # textual-variants:
+  #   name: Textual Variants
+  #   summary: Manuscript differences and textual critical notes
+  #   complexity: medium
+  #   depth: full
+  #   category: historical
+
+# Metadata
+registry_version: 1.0.0
+last_updated: 2025-10-30
+maintained_by: Context-Grounded Bible Project
