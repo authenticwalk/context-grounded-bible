@@ -225,6 +225,18 @@ class MaculaParser:
                 ref = self.get_strongs_ref(f"H{strong}")
                 ref.add_word(verse_ref, word, gloss, sense, domain, '', morph, grammar)
 
+    def get_strongs_ref(self, strongs_num: str) -> StrongsReference:
+        """Get or create a StrongsReference object"""
+        # Ensure 4-digit zero-padding (G0025 format)
+        if strongs_num.startswith('G') or strongs_num.startswith('H'):
+            prefix = strongs_num[0]
+            number = strongs_num[1:]
+            strongs_num = f"{prefix}{int(number):04d}"
+
+        if self.strongs_data[strongs_num] is None:
+            self.strongs_data[strongs_num] = StrongsReference(strongs_num)
+        return self.strongs_data[strongs_num]
+
     def write_yaml_files(self, output_base_dir: str):
         """Write YAML files for each Strong's number"""
         print(f"\nWriting YAML files to {output_base_dir}...")
@@ -236,7 +248,7 @@ class MaculaParser:
             dir_path = os.path.join(output_base_dir, strongs_num)
             os.makedirs(dir_path, exist_ok=True)
 
-            file_path = os.path.join(dir_path, f"{strongs_num}-references.yaml")
+            file_path = os.path.join(dir_path, f"{strongs_num}.references.yaml")
             with open(file_path, 'w', encoding='utf-8') as f:
                 yaml.dump(ref_obj.to_dict(), f, allow_unicode=True, default_flow_style=False, sort_keys=False)
 
