@@ -107,16 +107,51 @@ See `references/book_codes.md` for complete list.
 - `scripts/parsing_codes.py` - Morphological parsing code definitions
 - `references/book_codes.md` - USFM 3.0 book code reference
 
+## Features Implemented
+
+- ✅ Strong's concordance numbers (G### for Greek, H### for Hebrew)
+- ✅ Original language text with transliterations
+- ✅ Lexical definitions and glosses
+- ✅ Etymology and root words
+- ✅ Morphological parsing (case, gender, number, tense, voice, mood)
+- ✅ Textual variants from 8+ Greek manuscript traditions
+- ✅ Local caching for improved performance
+
+## Usage with Advanced Features
+
+### Include Textual Variants
+
+```bash
+python3 scripts/lexicon_fetcher.py "JHN 3:16" --with-variants
+```
+
+Shows the verse in:
+- Nestle 1904
+- Westcott and Hort 1881
+- RP Byzantine Majority Text 2005
+- Tischendorf 8th Edition
+- Scrivener's Textus Receptus 1894
+- Stephanus Textus Receptus 1550
+- Greek Orthodox Church
+- Hebrew Bible (for NT)
+- Peshitta (Aramaic)
+
+### Bypass Cache
+
+```bash
+python3 scripts/lexicon_fetcher.py "MAT 5:3" --no-cache
+```
+
 ## Future Enhancements
 
 Potential additions:
 - [ ] Support for verse ranges
-- [ ] Morphological parsing extraction (case, gender, number, tense, voice, mood)
-- [ ] Textual variants from multiple Greek manuscripts
 - [ ] Additional lexicon sources (Blue Letter Bible, STEPBible)
-- [ ] Semantic domain information
-- [ ] Word frequency analysis
-- [ ] Local caching of lexical data
+- [ ] Semantic domain information:
+  - **Greek**: Louw-Nida lexicon (commercial, not freely available)
+  - **Hebrew**: Semantic Dictionary of Biblical Hebrew (SDBH) - freely available at semanticdictionary.org under CC BY-SA 4.0 license
+- [ ] Cross-reference integration
+- [ ] Cognate analysis
 
 ## Related Skills
 

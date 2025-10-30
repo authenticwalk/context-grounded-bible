@@ -198,10 +198,12 @@ Examples:
 ## Technical Notes
 
 - Script uses BibleHub as primary data source
-- Data is cached locally to reduce web requests
+- Data is cached locally in `.cache/lexicon/` to reduce web requests
 - YAML format enables both human and AI readability
 - Manuscript variants are preserved for textual criticism
 - Parsing codes follow standard grammatical abbreviations
+- Morphological parsing extracted from KJV Lexicon section
+- Supports both Greek (NT) and Hebrew (OT) texts
 
 ## Resources
 

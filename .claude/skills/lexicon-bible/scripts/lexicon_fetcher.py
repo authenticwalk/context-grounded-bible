@@ -23,6 +23,7 @@ script_dir = Path(__file__).parent
 sys.path.insert(0, str(script_dir))
 
 from biblehub_lexicon import fetch_lexicon_data, LexiconFetchError
+from biblehub_text import fetch_text_variants, TextFetchError
 from book_codes import parse_reference as parse_usfm_reference, USFM_TO_NAME
 
 
@@ -47,7 +48,7 @@ def determine_testament(book_code: str) -> str:
     return 'NT' if book_code in nt_books else 'OT'
 
 
-def format_output_yaml(book: str, chapter: int, verse: int, words: List[Dict]) -> str:
+def format_output_yaml(book: str, chapter: int, verse: int, words: List[Dict], variants: Optional[List[Dict]] = None) -> str:
     """
     Format lexical data as YAML.
 
@@ -56,6 +57,7 @@ def format_output_yaml(book: str, chapter: int, verse: int, words: List[Dict]) -
         chapter: Chapter number
         verse: Verse number
         words: List of word data dictionaries
+        variants: Optional list of textual variants
 
     Returns:
         YAML formatted string
@@ -70,10 +72,13 @@ def format_output_yaml(book: str, chapter: int, verse: int, words: List[Dict]) -
         'words': words
     }
 
+    if variants:
+        data['manuscripts'] = variants
+
     return yaml.dump(data, allow_unicode=True, sort_keys=False, default_flow_style=False)
 
 
-def format_output_text(book: str, chapter: int, verse: int, words: List[Dict]) -> str:
+def format_output_text(book: str, chapter: int, verse: int, words: List[Dict], variants: Optional[List[Dict]] = None) -> str:
     """
     Format lexical data as human-readable text.
 
@@ -82,12 +87,11 @@ def format_output_text(book: str, chapter: int, verse: int, words: List[Dict]) -
         chapter: Chapter number
         verse: Verse number
         words: List of word data dictionaries
+        variants: Optional list of textual variants
 
     Returns:
         Formatted text string
     """
-    from parsing_codes import format_parsing_display
-
     testament = determine_testament(book)
     language = 'Greek' if testament == 'NT' else 'Hebrew'
 
@@ -109,24 +113,56 @@ def format_output_text(book: str, chapter: int, verse: int, words: List[Dict]) -
         if 'strongs' in word:
             lines.append(f"  Strong's: {word['strongs']}")
 
-        if 'parsing_code' in word:
-            lines.append(f"  Parsing Code: {word['parsing_code']}")
+        if 'morphology' in word:
+            lines.append(f"  Morphology: {word['morphology']}")
 
         if 'parsing' in word and word['parsing']:
-            grammar = format_parsing_display(word['parsing'])
-            if grammar:
-                lines.append(f"  Grammar: {grammar}")
+            parsed_parts = []
+            parsing = word['parsing']
+            if 'pos' in parsing:
+                parsed_parts.append(f"POS: {parsing['pos']}")
+            if 'case' in parsing:
+                parsed_parts.append(f"case: {parsing['case']}")
+            if 'gender' in parsing:
+                parsed_parts.append(f"gender: {parsing['gender']}")
+            if 'number' in parsing:
+                parsed_parts.append(f"number: {parsing['number']}")
+            if 'tense' in parsing:
+                parsed_parts.append(f"tense: {parsing['tense']}")
+            if 'voice' in parsing:
+                parsed_parts.append(f"voice: {parsing['voice']}")
+            if 'mood' in parsing:
+                parsed_parts.append(f"mood: {parsing['mood']}")
+            if 'person' in parsing:
+                parsed_parts.append(f"person: {parsing['person']}")
+            if parsed_parts:
+                lines.append(f"  Parsing: {', '.join(parsed_parts)}")
 
         if 'gloss' in word:
             lines.append(f"  Gloss: {word['gloss']}")
-
-        if 'definition' in word:
-            lines.append(f"  Definition: {word['definition']}")
 
         if 'root' in word:
             lines.append(f"  Root: {word['root']}")
 
         lines.append("")
+
+    # Add manuscript variants if available
+    if variants and len(variants) > 0:
+        lines.append("=" * 80)
+        lines.append(f"Manuscript Traditions ({len(variants)} found)")
+        lines.append("=" * 80)
+        lines.append("")
+
+        for variant in variants:
+            lines.append(f"{variant['name']}:")
+            text = variant['text']
+            # Wrap long text
+            if len(text) > 76:
+                lines.append(f"  {text[:76]}")
+                lines.append(f"  {text[76:]}")
+            else:
+                lines.append(f"  {text}")
+            lines.append("")
 
     return '\n'.join(lines)
 
@@ -163,6 +199,12 @@ Examples:
         help='Bypass cache and fetch fresh data'
     )
 
+    parser.add_argument(
+        '--with-variants',
+        action='store_true',
+        help='Include textual variants from multiple manuscript traditions'
+    )
+
     args = parser.parse_args()
 
     try:
@@ -173,11 +215,19 @@ Examples:
         # Fetch lexicon data
         words = fetch_lexicon_data(book, chapter, verse)
 
+        # Optionally fetch textual variants
+        variants = None
+        if args.with_variants:
+            try:
+                variants = fetch_text_variants(book, chapter, verse)
+            except TextFetchError as e:
+                print(f"Warning: Could not fetch variants: {e}", file=sys.stderr)
+
         # Format output
         if args.format == 'yaml':
-            output = format_output_yaml(book, chapter, verse, words)
+            output = format_output_yaml(book, chapter, verse, words, variants)
         else:
-            output = format_output_text(book, chapter, verse, words)
+            output = format_output_text(book, chapter, verse, words, variants)
 
         print(output)
 
