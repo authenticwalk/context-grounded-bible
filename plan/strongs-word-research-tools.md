@@ -264,10 +264,13 @@ Based on user requirements, we need to research multiple areas for each Strong's
 - Rationale: Better UX (one file per word), token efficient (one README), authority separation via schema sections
 
 ### Data Source Quality
-- **BibleHub is primary source** - most comprehensive, best structure
-- **StudyLight for depth** - additional lexicons (LSJ, Abbott-Smith)
-- **Blue Letter Bible for TDNT** - theological dictionary references
-- **Stack Exchange for controversies** - community discussions reveal common errors
+- **Base Strong's file is starting point** - Read `{number}.strongs.yaml` FIRST (contains pre-imported BDB, Thayer's, unfoldingWord, LSJ)
+- **Web search discovers resources** - Generic searches find scholarly articles citing Strong's numbers
+- **Academic articles for depth** - Journal papers, dissertations, seminary research (site:.edu, filetype:pdf)
+- **BibleHub for overview** - Comprehensive but check against base file to avoid duplication
+- **StudyLight for unique lexicons** - Abbott-Smith, Vocabulary of Greek NT not in base file
+- **Blue Letter Bible for TDNT** - Theological dictionary references
+- **Stack Exchange for controversies** - Community discussions reveal common errors
 
 ### Controversy Documentation Critical
 - **Example: dunamis ≠ dynamite** - Found widespread pastoral error with scholarly refutation

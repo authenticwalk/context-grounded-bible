@@ -25,39 +25,76 @@ This tool provides comprehensive research on each Strong's Concordance word (14,
 
 **Required Sources:**
 
-Check ATTRIBUTION.md for established URL patterns. Primary sources:
+**ALWAYS start with:**
+- [x] Base Strong's file: `./bible/words/strongs/{number}/{number}.strongs.yaml`
+  - Contains pre-imported open-licensed data (BDB, Thayer's, unfoldingWord, LSJ)
+  - Foundation for all research - read this FIRST
 
-- [x] BibleHub Greek Lexicon: `https://biblehub.com/greek/{number}.htm`
-- [x] BibleHub Hebrew Lexicon: `https://biblehub.com/hebrew/{number}.htm`
+**Web search for scholarly resources:**
+- [ ] Generic web search: `"Strong's {number}"`, `"{transliteration} Greek etymology"`
+- [ ] Academic search: `"{transliteration} {gloss} biblical" site:.edu`
+- [ ] PDF search: `"{transliteration} New Testament" filetype:pdf`
+- [ ] Commentary search: `"Strong's {number}" commentary analysis`
+
+**Established lexicon sites** (check ATTRIBUTION.md for URL patterns):
+- [x] BibleHub: `https://biblehub.com/greek/{number}.htm`
 - [x] Blue Letter Bible: `https://www.blueletterbible.org/lexicon/g{number}/kjv/tr/0-1/`
 - [x] StudyLight.org: `https://www.studylight.org/lexicons/eng/greek/{number}.html`
-- [ ] Biblical Hermeneutics Stack Exchange (for controversies): search `{number}` or transliteration
-- [ ] Scholarly articles/commentaries mentioning Strong's number (as discovered)
+
+**Controversy and discussion sources:**
+- [ ] Biblical Hermeneutics Stack Exchange: search `{number}` or transliteration
+- [ ] Theological blogs: search `"{transliteration} misconception"` or `"{transliteration} controversy"`
+- [ ] Academic discussions: journals, seminary websites
+
+**Note:** Many additional resources will be discovered through web searches. Document all sources used in the output file.
 
 **Extraction Process:**
 
-1. **Primary extraction from BibleHub** - Start here for comprehensive overview
-   - Etymology and derivation
-   - Multiple lexicon definitions (Strong's, Thayer's, HELPS, Vine's for Greek; Strong's, BDB for Hebrew)
-   - Usage statistics (frequency, distribution)
-   - Related words and synonyms
+1. **Read base Strong's file FIRST** - Always start here
+   - File: `./bible/words/strongs/{number}/{number}.strongs.yaml`
+   - Contains: strongs_number, language, lemma, transliteration, definition, kjv_usage, derivation
+   - This includes imported open-licensed data (BDB, Thayer's, unfoldingWord, LSJ)
+   - Use this as foundation - do NOT re-extract what's already there
 
-2. **Cross-reference StudyLight** - Additional lexicons for comparison
-   - LSJ (Liddell-Scott-Jones) for Classical Greek usage
-   - Abbott-Smith for NT-specific analysis
-   - Mounce's for modern pedagogical perspective
+2. **Generic web search** - Discover additional scholarly resources
+   - Search: `"Strong's {number}"` or `"Strong's G{number}"` or `"Strong's H{number}"`
+   - Search: `"{transliteration} Greek etymology"` or `"{transliteration} Hebrew etymology"`
+   - Look for: Academic articles, theological journals, biblical language blogs
+   - Note: Many scholarly articles cite Strong's numbers in their analysis
 
-3. **Check Blue Letter Bible** - Synonym analysis and theological dictionaries
-   - TDNT (Theological Dictionary of the New Testament) references
-   - Trench's synonym distinctions
-   - Translation count distributions
+3. **Scholarly article search** - Find academic analysis
+   - Search: `"{transliteration} {gloss} biblical Greek" site:.edu`
+   - Search: `"{transliteration} New Testament usage" filetype:pdf`
+   - Search: `"Strong's {number}" commentary analysis`
+   - Target: Journal articles, seminary papers, linguistic dissertations
+   - Note any analysis that uses this Strong's number in context
 
-4. **Search for controversies** - Stack Exchange, scholarly blogs
-   - Common misconceptions (e.g., dunamis/dynamite)
-   - Scholarly debates about meaning
-   - Diachronic shifts in usage
+4. **BibleHub extraction** - Comprehensive lexicon overview
+   - URL: `https://biblehub.com/greek/{number}.htm` or `https://biblehub.com/hebrew/{number}.htm`
+   - Extract: Etymology, usage statistics, related words, topical analysis
+   - Cross-reference with base file to avoid duplication
 
-**Critical Rule:** Extract data BEFORE generating any analysis. Never work from memory.
+5. **StudyLight cross-reference** - Additional lexicon perspectives
+   - URL: `https://www.studylight.org/lexicons/eng/greek/{number}.html`
+   - Look for: Abbott-Smith, Vocabulary of Greek NT, Mounce's (not in base file)
+   - Focus on: Papyri examples, non-biblical usage patterns
+
+6. **Blue Letter Bible** - Synonym analysis and TDNT
+   - URL: `https://www.blueletterbible.org/lexicon/g{number}/kjv/tr/0-1/`
+   - Extract: TDNT references, Trench's synonym distinctions
+   - Comparative analysis with related words
+
+7. **Search for controversies and discussions**
+   - Biblical Hermeneutics Stack Exchange: search by number or transliteration
+   - Theological blogs: search `"{transliteration} misconception"` or `"{transliteration} controversy"`
+   - Common teaching errors (like dunamis/dynamite)
+   - Scholarly debates about meaning or usage
+
+**Critical Rules:**
+- Extract data BEFORE generating any analysis. Never work from memory.
+- Read base Strong's file FIRST - avoid re-extracting imported data
+- Cast wide net with web searches - many resources cite Strong's numbers
+- Document ALL sources used, even if not explicitly listed above
 
 ### Phase 2: Analysis and Synthesis
 
@@ -155,11 +192,19 @@ tool:
   version: "1.0.0"
   generated_date: "YYYY-MM-DD"
 
-# === BASIC DEFINITION (from original Strong's data) ===
-basic_definition:
-  strongs_gloss: "{original Strong's definition}" {strongs}
-  kjv_usage: "{KJV usage notes}" {strongs}
-  derivation: "{derivation notes}" {strongs}
+# === BASE DATA (from ./bible/words/strongs/{number}/{number}.strongs.yaml) ===
+# This section copied from pre-imported base file
+base_data:
+  strongs_number: "{number}"
+  language: "{greek|hebrew}"
+  lemma: "{lexical_form}"
+  transliteration: "{romanized}"
+  definition: "{base definition}" {strongs}
+  kjv_usage: "{KJV usage}" {strongs}
+  derivation: "{derivation}" {strongs}
+  # Additional fields from base file (BDB, Thayer's, unfoldingWord, LSJ if present)
+  imported_lexicon_data: |
+    {Any additional data from open-licensed imports in base file}
 
 # === ETYMOLOGY ===
 etymology:
@@ -516,16 +561,19 @@ Before generating any output, ensure:
 
 - [ ] Tool README fully read and understood
 - [ ] Strong's number verified (G#### or H####)
-- [ ] Primary sources identified (BibleHub, BLB, StudyLight)
-- [ ] Data extraction strategy planned
+- [ ] **Base Strong's file read FIRST**: `./bible/words/strongs/{number}/{number}.strongs.yaml`
+- [ ] Generic web searches planned for scholarly articles
+- [ ] Data extraction strategy planned (web search → lexicons → discussions)
 - [ ] Schema structure internalized
 
 ### During Generation
 
-- [ ] Extract data FIRST from BibleHub, analyze SECOND
+- [ ] **Read base Strong's file FIRST** - Start with pre-imported data
+- [ ] Cast wide net with web searches - discover scholarly articles
+- [ ] Extract data from sources, analyze SECOND
 - [ ] Cite every fact with inline `{source}` tags
 - [ ] Add new sources to ATTRIBUTION.md immediately
-- [ ] Mark authority levels clearly (lexicon > web > community)
+- [ ] Mark authority levels clearly (lexicon > scholarly article > web > community)
 - [ ] Stay within defined schema structure
 - [ ] Focus on translator/student needs
 
