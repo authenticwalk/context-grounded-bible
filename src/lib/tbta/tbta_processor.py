@@ -41,8 +41,12 @@ OUTPUT_DIR = Path("./bible/commentaries")
 # Book name to USFM code mapping
 BOOK_NAME_MAP = {
     "Genesis": "GEN", "Exodus": "EXO", "Leviticus": "LEV", "Numbers": "NUM", "Deuteronomy": "DEU",
-    "Joshua": "JOS", "Judges": "JDG", "Ruth": "RUT", "1Samuel": "1SA", "2Samuel": "2SA",
-    "1Kings": "1KI", "2Kings": "2KI", "1Chronicles": "1CH", "2Chronicles": "2CH",
+    "Joshua": "JOS", "Judges": "JDG", "Ruth": "RUT",
+    "1Samuel": "1SA", "1_Samuel": "1SA",  # TBTA uses underscores
+    "2Samuel": "2SA", "2_Samuel": "2SA",  # TBTA uses underscores
+    "1Kings": "1KI", "1_Kings": "1KI",    # TBTA uses underscores
+    "2Kings": "2KI", "2_Kings": "2KI",    # TBTA uses underscores
+    "1Chronicles": "1CH", "2Chronicles": "2CH",
     "Ezra": "EZR", "Nehemiah": "NEH", "Esther": "EST", "Job": "JOB", "Psalms": "PSA",
     "Proverbs": "PRO", "Ecclesiastes": "ECC", "SongofSongs": "SNG", "Isaiah": "ISA",
     "Jeremiah": "JER", "Lamentations": "LAM", "Ezekiel": "EZK", "Daniel": "DAN",
@@ -52,10 +56,13 @@ BOOK_NAME_MAP = {
     "Matthew": "MAT", "Mark": "MRK", "Luke": "LUK", "John": "JHN", "Acts": "ACT",
     "Romans": "ROM", "1Corinthians": "1CO", "2Corinthians": "2CO", "Galatians": "GAL",
     "Ephesians": "EPH", "Philippians": "PHP", "Colossians": "COL",
-    "1Thessalonians": "1TH", "2Thessalonians": "2TH", "1Timothy": "1TI",
-    "2Timothy": "2TI", "Titus": "TIT", "Philemon": "PHM", "Hebrews": "HEB",
-    "James": "JAS", "1Peter": "1PE", "2Peter": "2PE", "1John": "1JN",
-    "2John": "2JN", "3John": "3JN", "Jude": "JUD", "Revelation": "REV"
+    "1Thessalonians": "1TH", "1_Thessalonians": "1TH",  # TBTA uses underscores
+    "2Thessalonians": "2TH", "2_Thessalonians": "2TH",  # TBTA uses underscores
+    "1Timothy": "1TI", "2Timothy": "2TI", "Titus": "TIT", "Philemon": "PHM", "Hebrews": "HEB",
+    "James": "JAS", "1Peter": "1PE", "2Peter": "2PE",
+    "1John": "1JN", "2John": "2JN", "2_John": "2JN",  # TBTA uses underscores
+    "3John": "3JN", "Jude": "JUD",
+    "Revelation": "REV", "Revelations": "REV"  # TBTA has typo - "Revelations"
 }
 
 # USFM code to book name (for reverse lookup)
