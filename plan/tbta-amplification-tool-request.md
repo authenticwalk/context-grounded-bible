@@ -15,6 +15,40 @@ In PR #17 (`claude/analyze-tbta-db-export-011CUdx3npbcZbrxN3g6FCMh`), we success
 3. Mapping TBTA features to specific languages that need them
 4. Leveraging the eBible corpus (1000+ translations) to identify real-world usage patterns
 
+## Comprehensive Research Completed
+
+**NEW:** Extensive linguistic research has been completed and documented in `/plan/tbta-languages/`:
+
+1. **`comprehensive-language-research.md`** (28KB, ~800 lines)
+   - Detailed language examples for EVERY TBTA feature
+   - Trial number: 7 languages documented (Larike, Marshallese, etc.)
+   - Dual number: 6 languages (Slovene, Arabic, Hebrew, Fijian, etc.)
+   - Inclusive/Exclusive: 7+ languages with specific examples
+   - Demonstratives: 15+ languages with 3-way systems
+   - Honorifics: 8 languages with grammatical systems
+   - Switch-reference: Comprehensive coverage
+   - **PLUS:** Features TBTA doesn't have (evidentiality, classifiers, possession types)
+
+2. **`blind-discovery-test.md`** (794 lines)
+   - Independent discovery using ONLY eBible corpus + web research
+   - Discovered 10 major feature categories without seeing TBTA
+   - Validates that features can be reverse-engineered
+   - Provides replication methodology
+
+3. **`blind-test-comparison.md`**
+   - Compares blind discovery with actual TBTA data
+   - Score: 8.2/10 match rate
+   - Identifies what TBTA has, what's missing, what should be added
+   - Validates discovery process works
+
+**Key Findings:**
+- ✅ Core TBTA features can be discovered through eBible analysis
+- ✅ Blind discovery found: clusivity, dual, trial, entity tracking, demonstratives, speaker demographics
+- ✅ TBTA has MORE detail: 20+ time categories, 9 participant states, exhaustive pragmatic markup
+- ✅ Valid additions identified: evidentiality, classifiers, possession types
+
+**Ready for Implementation:** All research needed to build the tool is complete.
+
 ## The Opportunity
 
 We have TWO complementary data sources:
