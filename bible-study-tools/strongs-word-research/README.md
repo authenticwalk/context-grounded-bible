@@ -54,13 +54,26 @@ This tool provides comprehensive research on each Strong's Concordance word (14,
    - File: `./bible/words/strongs/{number}/{number}.strongs.yaml`
    - Contains: strongs_number, language, lemma, transliteration, definition, kjv_usage, derivation
    - This includes imported open-licensed data (BDB, Thayer's, unfoldingWord, LSJ)
+   - **Cross-reference codes:** May include references to other lexicon systems (see below)
    - Use this as foundation - do NOT re-extract what's already there
+
+   **Cross-Reference Codes (will grow over time):**
+   - When present in base file, use these for additional searches
+   - Common systems that may be added: BDB, BDAG, Louw-Nida, TDNT, GK, TWOT, LSJ
+   - Example searches: `"BDAG {code}"`, `"Louw-Nida {domain}"`, `"TDNT {reference}"`
 
 2. **Generic web search** - Discover additional scholarly resources
    - Search: `"Strong's {number}"` or `"Strong's G{number}"` or `"Strong's H{number}"`
    - Search: `"{transliteration} Greek etymology"` or `"{transliteration} Hebrew etymology"`
+   - **If cross-reference codes present:** Search by those too
+     - `"BDAG {code}"` (Greek lexicon)
+     - `"BDB {code}"` (Hebrew lexicon)
+     - `"Louw-Nida {domain}"` (semantic domains)
+     - `"TDNT {reference}"` (theological dictionary)
+     - `"GK {number}"` or `"Goodrick-Kohlenberger {number}"`
+     - `"TWOT {code}"` (Hebrew theology)
    - Look for: Academic articles, theological journals, biblical language blogs
-   - Note: Many scholarly articles cite Strong's numbers in their analysis
+   - Note: Many scholarly articles cite multiple numbering systems
 
 3. **Scholarly article search** - Find academic analysis
    - Search: `"{transliteration} {gloss} biblical Greek" site:.edu`
@@ -93,7 +106,8 @@ This tool provides comprehensive research on each Strong's Concordance word (14,
 **Critical Rules:**
 - Extract data BEFORE generating any analysis. Never work from memory.
 - Read base Strong's file FIRST - avoid re-extracting imported data
-- Cast wide net with web searches - many resources cite Strong's numbers
+- **Check for cross-reference codes** - Search by BDB, BDAG, Louw-Nida, etc. when present
+- Cast wide net with web searches - many resources cite multiple numbering systems
 - Document ALL sources used, even if not explicitly listed above
 
 ### Phase 2: Analysis and Synthesis
@@ -202,7 +216,18 @@ base_data:
   definition: "{base definition}" {strongs}
   kjv_usage: "{KJV usage}" {strongs}
   derivation: "{derivation}" {strongs}
-  # Additional fields from base file (BDB, Thayer's, unfoldingWord, LSJ if present)
+
+  # Cross-reference codes to other lexicon systems (when present in base file)
+  cross_references:
+    bdb: "{code}"           # Brown-Driver-Briggs (Hebrew)
+    bdag: "{code}"          # Bauer-Danker-Arndt-Gingrich (Greek)
+    louw_nida: "{domain}"   # Louw-Nida semantic domain
+    tdnt: "{reference}"     # Theological Dictionary of NT
+    gk: "{number}"          # Goodrick-Kohlenberger
+    twot: "{code}"          # Theological Wordbook of OT (Hebrew)
+    lsj: "{code}"           # Liddell-Scott-Jones (Classical Greek)
+
+  # Additional fields from base file (imported lexicon data)
   imported_lexicon_data: |
     {Any additional data from open-licensed imports in base file}
 
@@ -562,14 +587,16 @@ Before generating any output, ensure:
 - [ ] Tool README fully read and understood
 - [ ] Strong's number verified (G#### or H####)
 - [ ] **Base Strong's file read FIRST**: `./bible/words/strongs/{number}/{number}.strongs.yaml`
-- [ ] Generic web searches planned for scholarly articles
-- [ ] Data extraction strategy planned (web search → lexicons → discussions)
+- [ ] Cross-reference codes noted (BDB, BDAG, Louw-Nida, etc.) for additional searches
+- [ ] Generic web searches planned (Strong's + any cross-reference codes)
+- [ ] Data extraction strategy planned (base file → web search → lexicons → discussions)
 - [ ] Schema structure internalized
 
 ### During Generation
 
 - [ ] **Read base Strong's file FIRST** - Start with pre-imported data
-- [ ] Cast wide net with web searches - discover scholarly articles
+- [ ] **Note cross-reference codes** - Use for additional searches (BDB, BDAG, Louw-Nida, etc.)
+- [ ] Cast wide net with web searches - use Strong's number AND cross-reference codes
 - [ ] Extract data from sources, analyze SECOND
 - [ ] Cite every fact with inline `{source}` tags
 - [ ] Add new sources to ATTRIBUTION.md immediately

@@ -160,6 +160,12 @@ Based on user requirements, we need to research multiple areas for each Strong's
    - 2,326+ occurrences
    - Multiple usage categories: ordinary gods, supreme God, magistrates, superlative uses
 
+**Cross-Reference Codes:**
+- Base Strong's files will include cross-references to other lexicon systems
+- Common systems: BDB, BDAG, Louw-Nida, TDNT, GK (Goodrick-Kohlenberger), TWOT, LSJ
+- These codes enable broader scholarly article discovery
+- Many academic papers cite multiple numbering systems
+
 **Key Controversy Documented:**
 
 **Dunamis ≠ Dynamite:**
@@ -264,9 +270,13 @@ Based on user requirements, we need to research multiple areas for each Strong's
 - Rationale: Better UX (one file per word), token efficient (one README), authority separation via schema sections
 
 ### Data Source Quality
-- **Base Strong's file is starting point** - Read `{number}.strongs.yaml` FIRST (contains pre-imported BDB, Thayer's, unfoldingWord, LSJ)
-- **Web search discovers resources** - Generic searches find scholarly articles citing Strong's numbers
+- **Base Strong's file is starting point** - Read `{number}.strongs.yaml` FIRST
+  - Contains pre-imported lexicon data (BDB, Thayer's, unfoldingWord, LSJ)
+  - **Cross-reference codes** - Will include BDB, BDAG, Louw-Nida, TDNT, GK, TWOT, LSJ codes
+  - Use these codes for additional scholarly article searches
+- **Web search discovers resources** - Generic searches find scholarly articles citing Strong's + other codes
 - **Academic articles for depth** - Journal papers, dissertations, seminary research (site:.edu, filetype:pdf)
+  - Many cite multiple numbering systems (Strong's, BDAG, Louw-Nida, etc.)
 - **BibleHub for overview** - Comprehensive but check against base file to avoid duplication
 - **StudyLight for unique lexicons** - Abbott-Smith, Vocabulary of Greek NT not in base file
 - **Blue Letter Bible for TDNT** - Theological dictionary references
