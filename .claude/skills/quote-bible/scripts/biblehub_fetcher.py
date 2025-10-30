@@ -33,6 +33,15 @@ if str(project_root) not in sys.path:
 
 from src.util.cache import fetch_verse_from_cache
 
+# Import VERSION_NAME_PREFIXES if it exists
+try:
+    from version_codes import VERSION_NAME_PREFIXES
+except ImportError:
+    try:
+        from .version_codes import VERSION_NAME_PREFIXES
+    except ImportError:
+        VERSION_NAME_PREFIXES = {}
+
 CACHE_ROOT = Path('bible/commentary')
 # IMPORTANT: you must keep the .cache suffix as this is copyrighted works and .gitignore will skip adding it to source
 SUFFIX = "translations-biblehub.cache"
@@ -199,7 +208,83 @@ def normalize_version_name(version_name: str) -> str:
     return version_name.strip()
 
 
-def map_version_to_code(version_name: str) -> str:
+def map_url_abbrev_to_code(url_abbrev: str) -> str:
+    """
+    Map BibleHub URL abbreviation to standardized language code.
+    
+    BibleHub uses short codes in URLs like /niv/, /kjv/, /shu/, etc.
+    This function maps these to our standardized {lang}-{VERSION} format.
+    
+    Args:
+        url_abbrev: The abbreviation from BibleHub URL (e.g., "niv", "kjv", "shu")
+        
+    Returns:
+        Standardized version code (e.g., "eng-NIV", "jiv-NT")
+    """
+    # Map common English versions
+    if url_abbrev in ('niv', 'bsb', 'esv', 'nasb', 'kjv', 'nkjv', 'nlt'):
+        return f'eng-{url_abbrev.upper()}'
+    if url_abbrev in ('asv', 'akjv', 'web', 'ylt', 'dbt', 'drb', 'erv', 'wbt'):
+        return f'eng-{url_abbrev.upper()}'
+    if url_abbrev in ('hcsb', 'isv', 'net', 'gwt', 'jub', 'kj2000'):
+        return f'eng-{url_abbrev.upper()}'
+    
+    # Map non-English versions by URL code
+    url_to_lang = {
+        # Major languages
+        'ara': 'ara',  # Arabic
+        'chi': 'zho',  # Chinese
+        'fre': 'fra',  # French
+        'ger': 'deu',  # German
+        'gre': 'grc',  # Greek
+        'heb': 'heb',  # Hebrew
+        'ita': 'ita',  # Italian
+        'lat': 'lat',  # Latin
+        'por': 'por',  # Portuguese
+        'rus': 'rus',  # Russian
+        'spa': 'spa',  # Spanish
+        
+        # Other languages (NT mostly)
+        'shu': 'jiv',  # Shuar
+        'ukr': 'ukr',  # Ukrainian
+        'kby': 'kab',  # Kabyle
+        'lav': 'lav',  # Latvian
+        'arm': 'hye',  # Armenian
+        'bas': 'eus',  # Basque
+        'taw': 'ttq',  # Tawallammat Tamajaq
+        'uma': 'ppk',  # Uma
+        'swa': 'swa',  # Swahili
+    }
+    
+    if url_abbrev in url_to_lang:
+        return f'{url_to_lang[url_abbrev]}-{url_abbrev.upper()}'
+    
+    # If unknown, return as-is with unk prefix
+    return f'url-{url_abbrev}'
+
+
+def map_version_to_code_with_url(url_abbrev: str, version_name: str, debug: bool = False) -> str:
+    """
+    Map version to code using URL abbreviation (preferred) or version name (fallback).
+    
+    Args:
+        url_abbrev: BibleHub URL abbreviation (e.g., "niv", "shu")
+        version_name: Full version name from HTML
+        debug: If True, print debug info for unmapped versions
+        
+    Returns:
+        Standardized version code
+    """
+    # Try URL abbreviation first (cleaner and more reliable)
+    url_code = map_url_abbrev_to_code(url_abbrev)
+    if not url_code.startswith('url-'):
+        return url_code
+    
+    # Fallback to version name mapping
+    return map_version_to_code(version_name, debug=debug)
+
+
+def map_version_to_code(version_name: str, debug: bool = False) -> str:
     """
     Map version name to standardized code (incremental lang-version format).
 
@@ -208,6 +293,7 @@ def map_version_to_code(version_name: str) -> str:
 
     Args:
         version_name: Version name to map (will be normalized first)
+        debug: If True, print normalized name when creating unknown code
 
     Returns:
         Standardized version code
@@ -224,6 +310,12 @@ def map_version_to_code(version_name: str) -> str:
     if normalized in ALL_VERSION_MAPPINGS:
         return ALL_VERSION_MAPPINGS[normalized]
 
+    # Try special prefix patterns (e.g., version names with embedded verse references)
+    if VERSION_NAME_PREFIXES:
+        for prefix, code in VERSION_NAME_PREFIXES.items():
+            if normalized.startswith(prefix):
+                return code
+
     # Try language pattern matching for non-English
     for lang_name, lang_code in LANGUAGE_PATTERNS.items():
         if lang_name in normalized:
@@ -232,6 +324,8 @@ def map_version_to_code(version_name: str) -> str:
     # Fallback: create generic code
     # Remove non-alphanumeric, convert to lowercase, take first 10 chars
     clean_name = re.sub(r'[^a-z0-9]', '', normalized.lower())[:10]
+    if debug:
+        print(f"  DEBUG: Creating unk code for: '{normalized}' -> 'unk-{clean_name}'")
     return f'unk-{clean_name}'
 
 
@@ -261,17 +355,18 @@ def parse_biblehub_html(html_content: Union[str, bytes]) -> Dict[str, str]:
 
     translations = {}
 
-    # Pattern 1: Find version entries with <span class="versiontext"><a ...>VERSION_NAME</a>
-    # The version name is in the link text, and the verse follows after <br> or directly
-    # Non-greedy match to avoid capturing too much
-    version_pattern = r'<span class="versiontext"><a[^>]*>([^<]+)</a>(?:</span>)?(?:<br\s*/?>)?\s*(.*?)(?=<span class="versiontext">|<p><span class="versiontext">|<div |$)'
+    # Pattern: Find version entries with <span class="versiontext"><a href="...">VERSION_NAME</a>
+    # Extract both the href (which contains version abbreviation) and version name
+    # The verse text follows after <br> or directly
+    version_pattern = r'<span class="versiontext"><a[^>]*href="[^"]*?/([a-z0-9]+)/[^"]*"[^>]*>([^<]+)</a>(?:</span>)?(?:<br\s*/?>)?\s*(.*?)(?=<span class="versiontext">|<p><span class="versiontext">|<div |$)'
 
     matches = re.finditer(version_pattern, decoded, re.DOTALL | re.IGNORECASE)
 
     for match in matches:
-        version_name = match.group(1).strip()
-        # Group 2 contains the verse text (may have some HTML tags mixed in)
-        raw_text = match.group(2)
+        url_abbrev = match.group(1).strip()  # e.g., "shu", "niv", "kjv"
+        version_name = match.group(2).strip()  # e.g., "New International Version"
+        # Group 3 contains the verse text (may have some HTML tags mixed in)
+        raw_text = match.group(3)
 
         # Extract text from potential span wrappers
         # Handle language-specific spans like <span class="chi">...</span>, <span class="spa">...</span>, etc.
@@ -290,8 +385,8 @@ def parse_biblehub_html(html_content: Union[str, bytes]) -> Dict[str, str]:
         if not verse_text or verse_text.startswith('<'):
             continue
 
-        # Map to standardized code
-        version_code = map_version_to_code(version_name)
+        # Map to standardized code using URL abbreviation and version name
+        version_code = map_version_to_code_with_url(url_abbrev, version_name, debug=False)
         translations[version_code] = verse_text
 
     return translations
@@ -348,14 +443,14 @@ def main():
         print("-" * 80)
         
         try:
-            # Fetch translations (will use cache if available)
-            translations = fetch_verses_from_biblehub(book, chapter, verse, use_cache=True)
+            # Fetch translations (force fresh fetch to test current mapping logic)
+            translations = fetch_verses_from_biblehub(book, chapter, verse, use_cache=False)
             all_results[f"{book}.{chapter}.{verse}"] = translations
             
             # Analyze translations
-            unknown_codes = [k for k in translations.keys() if k.startswith('unk-')]
+            unknown_codes = [k for k in translations.keys() if k.startswith('unk-') or k.startswith('url-')]
             english_codes = [k for k in translations.keys() if k.startswith('eng-')]
-            other_codes = [k for k in translations.keys() if not k.startswith('eng-') and not k.startswith('unk-')]
+            other_codes = [k for k in translations.keys() if not k.startswith('eng-') and not k.startswith('unk-') and not k.startswith('url-')]
             
             # Show summary
             print(f"✓ Total translations: {len(translations)}")
@@ -399,9 +494,9 @@ def main():
     
     if all_results:
         for ref, translations in all_results.items():
-            unknown = len([k for k in translations.keys() if k.startswith('unk-')])
+            unknown = len([k for k in translations.keys() if k.startswith('unk-') or k.startswith('url-')])
             english = len([k for k in translations.keys() if k.startswith('eng-')])
-            other = len([k for k in translations.keys() if not k.startswith('eng-') and not k.startswith('unk-')])
+            other = len([k for k in translations.keys() if not k.startswith('eng-') and not k.startswith('unk-') and not k.startswith('url-')])
             total = len(translations)
             
             print(f"{ref:15} Total: {total:3}  English: {english:2}  Non-Eng: {other:2}  Unknown: {unknown:2}")
