@@ -77,6 +77,13 @@ lat: Latin
 /bible/words/{ISO-639-3}/{word-root}/{word-inflected}.yaml
 ```
 
+**Strong's Concordance:**
+```
+/bible/words/strongs/{strongs-number}/{strongs-number}.strongs.yaml
+```
+
+See [strongs-format.md](strongs-format.md) for complete Strong's Concordance format specification.
+
 **Rationale (Directory Structure):**
 - Book code visible in filename (easier to identify files out of context)
 - Period separators for chapter.verse (standard in biblical references)
@@ -164,7 +171,8 @@ verses: [JHN.1.1]
 
 - **Hebrew:** Brown-Driver-Briggs (BDB) Lexicon, Strong's Concordance
 - **Greek:** BDAG Lexicon, Strong's Concordance, Thayer's Greek Lexicon
-- **Strong's Numbers:** Use as cross-reference (e.g., H157 for אָהַב, G26 for ἀγάπη)
+- **Strong's Numbers:** Use as cross-reference (e.g., H0157 for אָהַב, G0026 for ἀγάπη)
+- **Strong's Format:** See [strongs-format.md](strongs-format.md) for complete specification
 
 ### 5. Theological Topic Taxonomy
 
