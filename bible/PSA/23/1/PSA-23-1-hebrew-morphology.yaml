@@ -1,0 +1,101 @@
+reference: PSA 23:1
+book: PSA
+chapter: 23
+verse: 1
+testament: OT
+language: hebrew
+text: מִזְמ֥וֹר לְ/דָוִ֑ד יְהוָ֥ה רֹ֝עִ֗/י לֹ֣א אֶחְסָֽר
+source: morphhb (Westminster Leningrad Codex)
+license: CC BY 4.0
+words:
+- position: 1
+  text: מִזְמ֥וֹר
+  id: 19eip
+  lemma: '4210'
+  strongs:
+    strongs: H4210
+  morph_code: HNcmsa
+  morphology:
+    pos: noun
+    type: common
+    gender: masculine
+    number: singular
+    state: absolute
+    language: hebrew
+  morphology_display: 'Noun: Common masculine singular (absolute)'
+- position: 2
+  text: לְ/דָוִ֑ד
+  id: 19jhu
+  lemma: l/1732
+  strongs:
+    components:
+    - prefix: l
+      meaning: to, for (preposition)
+    - strongs: H1732
+  morph_code: HR/Np
+  morphology:
+    language: hebrew
+    components:
+    - pos: preposition
+    - pos: noun
+      type: proper
+  morphology_display: 'Preposition + Noun: Proper'
+- position: 3
+  text: יְהוָ֥ה
+  id: 192fr
+  lemma: '3068'
+  strongs:
+    strongs: H3068
+  morph_code: HNp
+  morphology:
+    pos: noun
+    type: proper
+    language: hebrew
+  morphology_display: 'Noun: Proper'
+- position: 4
+  text: רֹ֝עִ֗/י
+  id: 195Aa
+  lemma: 7462 b
+  strongs:
+    strongs: H7462b
+  morph_code: HVqrmsc/Sp1cs
+  morphology:
+    language: hebrew
+    components:
+    - pos: verb
+      stem: qal
+      tense: participle active
+    - pos: suffix
+      type: pronominal
+      person: first
+      gender: common
+      number: singular
+  morphology_display: 'Verb: Qal Participle active + Suffix: Pronominal first-person
+    common singular'
+- position: 5
+  text: לֹ֣א
+  id: 19zuz
+  lemma: '3808'
+  strongs:
+    strongs: H3808
+  morph_code: HTn
+  morphology:
+    pos: particle
+    language: hebrew
+  morphology_display: Particle
+- position: 6
+  text: אֶחְסָֽר
+  id: 19BTS
+  lemma: '2637'
+  strongs:
+    strongs: H2637
+  morph_code: HVqi1cs
+  morphology:
+    pos: verb
+    stem: qal
+    tense: imperfect
+    person: first
+    gender: common
+    number: singular
+    language: hebrew
+  morphology_display: 'Verb: Qal Imperfect , first-person common singular'
