@@ -214,70 +214,9 @@ Based on user requirements, we need to research multiple areas for each Strong's
 
 ---
 
-## Open-Licensed Resources to Note (For Future Scripts)
+## Open-Licensed Resources
 
-**DO NOT import now - just document for later:**
-
-### 1. OpenScriptures Resources (CC-BY-SA)
-
-**Strong's Dictionaries:**
-- **Repository:** github.com/openscriptures/strongs
-- **Format:** XML
-- **Content:** James Strong's (1890) Hebrew and Greek dictionaries
-- **Note:** Already partially imported - we have basic Strong's data, but could enhance with XML parsing
-
-**Hebrew Lexicon (BDB):**
-- **Repository:** github.com/openscriptures/HebrewLexicon
-- **Files:** BrownDriverBriggs.xml, HebrewStrong.xml, LexicalIndex.xml
-- **Content:** Complete BDB lexicon with Strong's links
-- **Import Priority:** HIGH - BDB is public domain and comprehensive
-
-**Greek Resources:**
-- **Website:** openscriptures.github.io/GreekResources/
-- **Content:** Greek words, roots, Strong's numbers
-- **Import Priority:** MEDIUM
-
-### 2. unfoldingWord Resources (CC-BY-SA 4.0)
-
-**Translation Words:**
-- **Repository:** github.com/unfoldingWord/translationWords
-- **Content:** Clear, concise definitions for all key biblical terms
-- **Import Priority:** HIGH - designed for translators
-
-**Unlocked Hebrew/Aramaic Lexicon:**
-- **Website:** door43.org/u/unfoldingWord/en_uhal/master/index.html
-- **Content:** Basic Hebrew lexicon with translation helps
-- **Import Priority:** MEDIUM
-
-### 3. Public Domain Lexicons
-
-**Thayer's Greek-English Lexicon:**
-- **Status:** Public domain (pre-1895)
-- **Available:** Multiple online sources, XML formats
-- **Note:** Already available via web scraping, but direct import would be cleaner
-- **Import Priority:** MEDIUM
-
-**Brown-Driver-Briggs (BDB):**
-- **Status:** Public domain
-- **Source:** Internet Archive, OpenScriptures
-- **Import Priority:** HIGH
-
-### 4. Other Open Resources
-
-**eBible Linguistic Data:**
-- **Repository:** github.com/BibleNLP/ebible
-- **Content:** Linguistic annotations, translations
-- **Import Priority:** LOW - may not have lexicon data
-
-**Future Script Development:**
-
-Create import scripts in `./src/ingest-data/strongs-enhancements/`:
-1. `import-openscriptures-bdb.py` - Import BDB lexicon
-2. `import-unfoldingword-tw.py` - Import Translation Words
-3. `import-thayers-public.py` - Import public domain Thayer's
-4. `enhance-strong-entries.py` - Merge all open data into Strong's files
-
-**Action:** Document in LEARNINGS.md for future development
+**Note:** Open-licensed resources (OpenScriptures BDB, unfoldingWord Translation Words, Thayer's XML, LSJ) are being handled in a separate PR for import script development.
 
 ---
 
@@ -289,14 +228,14 @@ Create import scripts in `./src/ingest-data/strongs-enhancements/`:
 3. ✅ Design schema (comprehensive YAML structure)
 4. ✅ Create tool README (strongs-word-research)
 5. ✅ Document URL patterns in ATTRIBUTION.md
-6. ✅ Open-licensed resources documented for future import
 
 ### Future Work (Not in this session)
 1. **Experiment with tool** - Use tool-experimenter skill to test on 5-10 sample words
 2. **Generate stellar examples** - Create 3-5 exemplary outputs (G1411, G26, H430, etc.)
 3. **Refine based on learnings** - Adjust schema and methodology based on real usage
-4. **Import open-licensed data** - Create scripts to import BDB, unfoldingWord, etc.
-5. **Scale to all 14,197 words** - Batch processing considerations
+4. **Scale to all 14,197 words** - Batch processing considerations
+
+**Note:** Open-licensed resource import (BDB, unfoldingWord, Thayer's, LSJ) is being handled in separate PR.
 
 ---
 
@@ -307,7 +246,6 @@ Create import scripts in `./src/ingest-data/strongs-enhancements/`:
 - ✅ Clear extraction methodology documented
 - ✅ URL patterns in ATTRIBUTION.md
 - ✅ Fair use compliance built into methodology
-- ✅ Open-licensed resources documented for future import
 - ✅ Schema designed with authority-level separation
 - ✅ Dunamis/dynamite controversy documented as exemplar
 
@@ -342,10 +280,8 @@ Create import scripts in `./src/ingest-data/strongs-enhancements/`:
 - **Public domain priority** - Thayer's, BDB, LSJ abridged are freely available
 - **Authority levels** - Clearly mark high/medium/low authority sources
 
-### Open-Licensed Resources Available
-- **High priority imports:** OpenScriptures BDB, unfoldingWord Translation Words
-- Creating import scripts would significantly enhance base Strong's data
-- Should be separate task after tool is validated
+### Open-Licensed Resources
+- Being handled in separate PR for import script development
 
 ### Schema Design
 - **Authority-separated sections** - Lexical > Scholarly > Web > Community
