@@ -164,17 +164,19 @@ Demonstrative distinctions:
 TBTA data is **manually created** and has been filtered for usability:
 
 ### What We Filter Out
-- **Nullish values**: "Not Applicable", "Unspecified", "No" (when used as boolean-like)
-- **Structural noise**: "Space" and "Period" parts
+- **Nullish values**: "Not Applicable", "Unspecified"
+- **Empty placeholders**: "." (just a dot by itself)
 - **Empty strings**: Trimmed empty values
 
-### What We Preserve
-- **Meaningful semantic markers**: "Not in a Sequence", "First Coordinate", etc.
+### What We Preserve (All Meaningful Data)
+- **Boolean values**: "No" (e.g., "Implicit: No" vs field absent)
+- **Structural markers**: "Space" and "Period" (show rendering structure not in original Greek)
+- **Semantic markers**: "Not in a Sequence", "First Coordinate", etc.
 - **Discourse features**: Speaker, Listener, Illocutionary Force
 - **Cross-linguistic features**: Trial number, First Inclusive person, etc.
 - **Participant tracking**: Routine, Generic, Frame Inferable
 
-This filtering reduces file size by ~35% while preserving all meaningful data.
+This filtering reduces file size by ~27% (filtering only true nullish values) while preserving all meaningful data.
 
 ## Comparison with Macula
 
@@ -218,7 +220,7 @@ TBTA data is **manually created** by linguistic experts:
 - ✅ Carefully analyzed discourse structure
 - ⚠️ May contain some errors (human-created)
 - ⚠️ Not all linguistic features coded in all verses
-- ✅ Filtered to remove ~35% nullish/noise data while preserving meaning
+- ✅ Filtered to remove ~27% true nullish data (preserves all meaningful values including "No", Space, Period)
 
 ## Requirements
 

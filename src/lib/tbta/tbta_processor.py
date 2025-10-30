@@ -97,15 +97,14 @@ def parse_verse_ref(ref_str):
 NULLISH_VALUES = {
     "Not Applicable",
     "Unspecified",
-    "No",  # When used as a boolean-like value
-    ".",   # Empty placeholder in TBTA codes
+    # NOTE: "No" is meaningful (e.g., "Implicit: No" vs field absent)
+    # NOTE: "Space" and "Period" mark structural elements not in original Greek - keep them
+    ".",   # Empty placeholder in TBTA codes (just a dot by itself)
 }
 
-# Parts that are just structural noise
-SKIP_PARTS = {
-    "Space",
-    "Period",
-}
+# Parts that are structural markers - KEEP THESE (not noise, meaningful)
+# Space/Period show where these appear in rendering (not in original Greek)
+SKIP_PARTS = set()  # Don't skip anything now
 
 
 def is_nullish(value):
@@ -130,10 +129,6 @@ def extract_clause_data(clause_elem):
         # Skip if value is nullish
         if is_nullish(value):
             continue
-
-        # Skip structural noise elements
-        if key == "Part" and value in SKIP_PARTS:
-            return None  # Signal to skip this entire element
 
         if key == "Children" and isinstance(value, list):
             # Recursively process children and filter out None values
