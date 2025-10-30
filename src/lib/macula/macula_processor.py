@@ -76,55 +76,88 @@ def extract_hebrew_word(word_elem, position):
     word_data = {
         "position": position,
         "ref": word_elem.get("ref", ""),
-        "xml_id": word_elem.get("{http://www.w3.org/XML/1998/namespace}id", ""),
-        "unicode": word_elem.text or "",
+        "text": word_elem.text or "",
         "lemma": word_elem.get("lemma", ""),
         "transliteration": word_elem.get("transliteration", ""),
+    }
+
+    # Translation
+    translation = {}
+    if word_elem.get("english"):
+        translation["english"] = word_elem.get("english")
+    if word_elem.get("mandarin"):
+        translation["mandarin"] = word_elem.get("mandarin")
+    if word_elem.get("gloss"):
+        translation["gloss"] = word_elem.get("gloss")
+    if translation:
+        word_data["translation"] = translation
+
+    # Morphology
+    morphology = {
         "class": word_elem.get("class", ""),
         "pos": word_elem.get("pos", ""),
         "morph": word_elem.get("morph", ""),
-        "english": word_elem.get("english", ""),
-        "mandarin": word_elem.get("mandarin", ""),
-        "gloss": word_elem.get("gloss", ""),
     }
-
-    # Morphological fields
     for field in ["gender", "number", "person", "state", "stem", "type"]:
         if word_elem.get(field):
-            word_data[field] = word_elem.get(field)
+            morphology[field] = word_elem.get(field)
+    word_data["morphology"] = morphology
 
     # Lexical references
-    for field in ["stronglemma", "strongnumberx"]:
-        if word_elem.get(field):
-            word_data[field] = word_elem.get(field)
+    lexical = {}
+    if word_elem.get("stronglemma"):
+        lexical["stronglemma"] = word_elem.get("stronglemma")
+    if word_elem.get("strongnumberx"):
+        lexical["strong"] = word_elem.get("strongnumberx")
+    if lexical:
+        word_data["lexical"] = lexical
 
     # Semantic domains
+    semantic = {}
     sdbh = word_elem.get("sdbh", "")
     if sdbh:
-        word_data["sdbh"] = sdbh.split() if " " in sdbh else sdbh
+        semantic["sdbh"] = sdbh.split() if " " in sdbh else [sdbh]
 
     lexdomain = word_elem.get("lexdomain", "")
     if lexdomain:
-        word_data["lexdomain"] = lexdomain.split() if " " in lexdomain else lexdomain
+        semantic["lexdomain"] = lexdomain.split() if " " in lexdomain else [lexdomain]
 
     coredomain = word_elem.get("coredomain", "")
     if coredomain:
-        word_data["coredomain"] = coredomain.split() if " " in coredomain else coredomain
+        semantic["coredomain"] = coredomain.split() if " " in coredomain else [coredomain]
 
     if word_elem.get("sensenumber"):
-        word_data["sensenumber"] = word_elem.get("sensenumber")
+        semantic["sense"] = word_elem.get("sensenumber")
 
-    # Greek cross-reference
-    if word_elem.get("greek"):
-        word_data["greek"] = word_elem.get("greek")
-    if word_elem.get("greekstrong"):
-        word_data["greekstrong"] = word_elem.get("greekstrong")
+    if semantic:
+        word_data["semantic"] = semantic
 
-    # Syntactic role
+    # Greek cross-reference (LXX)
+    if word_elem.get("greek") or word_elem.get("greekstrong"):
+        lxx = {}
+        if word_elem.get("greek"):
+            lxx["text"] = word_elem.get("greek")
+        if word_elem.get("greekstrong"):
+            lxx["strong"] = word_elem.get("greekstrong")
+        word_data["lxx"] = lxx
+
+    # Syntax
+    syntax = {}
     if word_elem.get("role"):
-        word_data["role"] = word_elem.get("role")
+        syntax["role"] = word_elem.get("role")
     if word_elem.get("frame"):
-        word_data["frame"] = word_elem.get("frame")
+        syntax["frame"] = word_elem.get("frame")
+    if syntax:
+        word_data["syntax"] = syntax
+
+    # Discourse (participant/subject tracking)
+    discourse = {}
+    if word_elem.get("participantref"):
+        discourse["participant"] = word_elem.get("participantref")
+    if word_elem.get("subjref"):
+        discourse["subject"] = word_elem.get("subjref")
+    if discourse:
+        word_data["discourse"] = discourse
 
     return word_data
 
@@ -134,37 +167,70 @@ def extract_greek_word(word_elem, position):
     word_data = {
         "position": position,
         "ref": word_elem.get("ref", ""),
-        "xml_id": word_elem.get("{http://www.w3.org/XML/1998/namespace}id", ""),
-        "unicode": word_elem.text or "",
+        "text": word_elem.text or "",
         "lemma": word_elem.get("lemma", ""),
         "normalized": word_elem.get("normalized", ""),
-        "class": word_elem.get("class", ""),
-        "morph": word_elem.get("morph", ""),
-        "gloss": word_elem.get("gloss", ""),
     }
 
-    # Morphological fields
-    for field in ["gender", "number", "person", "case", "tense", "voice", "mood"]:
+    # Translation
+    translation = {}
+    if word_elem.get("gloss"):
+        translation["gloss"] = word_elem.get("gloss")
+    if translation:
+        word_data["translation"] = translation
+
+    # Morphology
+    morphology = {
+        "class": word_elem.get("class", ""),
+        "morph": word_elem.get("morph", ""),
+    }
+    for field in ["gender", "number", "person", "case", "tense", "voice", "mood", "type", "degree"]:
         if word_elem.get(field):
-            word_data[field] = word_elem.get(field)
+            morphology[field] = word_elem.get(field)
 
     # Article detection
     if word_elem.get("class") == "det":
-        word_data["has_article"] = True
+        morphology["has_article"] = True
+
+    word_data["morphology"] = morphology
 
     # Lexical references
+    lexical = {}
     if word_elem.get("strong"):
-        word_data["strong"] = word_elem.get("strong")
+        lexical["strong"] = word_elem.get("strong")
+    if lexical:
+        word_data["lexical"] = lexical
 
     # Semantic domains
+    semantic = {}
     if word_elem.get("domain"):
-        word_data["domain"] = word_elem.get("domain")
+        semantic["domain"] = word_elem.get("domain")
     if word_elem.get("ln"):
-        word_data["ln"] = word_elem.get("ln")
+        semantic["ln"] = word_elem.get("ln")
+    if semantic:
+        word_data["semantic"] = semantic
 
-    # Syntactic role
+    # Syntax
+    syntax = {}
     if word_elem.get("role"):
-        word_data["role"] = word_elem.get("role")
+        syntax["role"] = word_elem.get("role")
+    if word_elem.get("frame"):
+        syntax["frame"] = word_elem.get("frame")
+    if word_elem.get("discontinuous"):
+        syntax["discontinuous"] = word_elem.get("discontinuous")
+    if word_elem.get("junction"):
+        syntax["junction"] = word_elem.get("junction")
+    if syntax:
+        word_data["syntax"] = syntax
+
+    # Discourse (referent/subject tracking)
+    discourse = {}
+    if word_elem.get("referent"):
+        discourse["referent"] = word_elem.get("referent")
+    if word_elem.get("subjref"):
+        discourse["subject"] = word_elem.get("subjref")
+    if discourse:
+        word_data["discourse"] = discourse
 
     return word_data
 
@@ -174,30 +240,11 @@ def process_hebrew_verse(chapter_elem, verse_ref):
     book, chapter, verse = parse_verse_ref(verse_ref)
 
     verse_data = {
-        "verse": {
-            "reference": f"{book} {chapter}:{verse}",
-            "book_code": book,
-            "chapter": chapter,
-            "verse": verse,
-            "testament": "OT"
-        },
-        "tool": {
-            "name": "macula-source-language",
-            "version": "1.0.0",
-            "generated_date": datetime.now().strftime("%Y-%m-%d")
-        },
-        "source": {
-            "dataset": "MACULA Hebrew Linguistic Datasets",
-            "url": "https://github.com/Clear-Bible/macula-hebrew",
-            "license": "CC BY 4.0",
-            "copyright": "Biblica, Inc (2022-2024)",
-            "citation": "MACULA Hebrew Linguistic Datasets, available at https://github.com/Clear-Bible/macula-hebrew/",
-            "definitions": "./MACULA-FIELD-DEFINITIONS.md",
-            "base_text": "Westminster Leningrad Codex"
-        },
-        "source_text": {
-            "language": "heb"
-        },
+        "source": "macula-hebrew",
+        "version": "1.0.0",
+        "language": "heb",
+        "verse": f"{book} {chapter}:{verse}",
+        "text": "",
         "words": []
     }
 
@@ -210,21 +257,15 @@ def process_hebrew_verse(chapter_elem, verse_ref):
                 verse_text = "".join(p_elem.itertext()).strip()
                 # Remove the verse reference prefix
                 verse_text = re.sub(r'^[A-Z]+\s+\d+:\d+\s+', '', verse_text)
-                verse_data["source_text"]["unicode"] = verse_text
+                verse_data["text"] = verse_text
 
             # Extract words
             position = 1
             for word in sentence.findall(".//w"):
                 word_data = extract_hebrew_word(word, position)
-                if word_data["unicode"]:  # Only add if has text
+                if word_data["text"]:  # Only add if has text
                     verse_data["words"].append(word_data)
                     position += 1
-
-            # Extract syntax rule if available
-            for wg in sentence.findall(".//wg[@rule]"):
-                if wg.get("head") == "true":
-                    verse_data["syntax"] = {"word_order": wg.get("rule")}
-                    break
 
             break
 
@@ -236,30 +277,11 @@ def process_greek_verse(book_elem, verse_ref):
     book, chapter, verse = parse_verse_ref(verse_ref)
 
     verse_data = {
-        "verse": {
-            "reference": f"{book} {chapter}:{verse}",
-            "book_code": book,
-            "chapter": chapter,
-            "verse": verse,
-            "testament": "NT"
-        },
-        "tool": {
-            "name": "macula-source-language",
-            "version": "1.0.0",
-            "generated_date": datetime.now().strftime("%Y-%m-%d")
-        },
-        "source": {
-            "dataset": "MACULA Greek Linguistic Datasets",
-            "url": "https://github.com/Clear-Bible/macula-greek",
-            "license": "CC BY 4.0",
-            "copyright": "Biblica, Inc (2022-2024)",
-            "citation": "MACULA Greek Linguistic Datasets, available at https://github.com/Clear-Bible/macula-greek/",
-            "definitions": "./MACULA-FIELD-DEFINITIONS.md",
-            "base_text": "Nestle1904"
-        },
-        "source_text": {
-            "language": "grc"
-        },
+        "source": "macula-greek",
+        "version": "1.0.0",
+        "language": "grc",
+        "verse": f"{book} {chapter}:{verse}",
+        "text": "",
         "words": []
     }
 
@@ -273,21 +295,15 @@ def process_greek_verse(book_elem, verse_ref):
                 verse_text = "".join(p_elem.itertext()).strip()
                 # Remove the verse reference prefix
                 verse_text = re.sub(r'^[A-Z]+\s+\d+:\d+\s+', '', verse_text)
-                verse_data["source_text"]["unicode"] = verse_text
+                verse_data["text"] = verse_text
 
             # Extract words
             position = 1
             for word in sentence.findall(".//w"):
                 word_data = extract_greek_word(word, position)
-                if word_data["unicode"]:  # Only add if has text
+                if word_data["text"]:  # Only add if has text
                     verse_data["words"].append(word_data)
                     position += 1
-
-            # Extract syntax rule if available
-            for wg in sentence.findall(".//wg[@rule]"):
-                if wg.get("class") == "cl":
-                    verse_data["syntax"] = {"word_order": wg.get("rule")}
-                    break
 
             break
 
@@ -296,9 +312,9 @@ def process_greek_verse(book_elem, verse_ref):
 
 def save_verse_yaml(verse_data, output_dir):
     """Save verse data as YAML file."""
-    book = verse_data["verse"]["book_code"]
-    chapter = verse_data["verse"]["chapter"]
-    verse = verse_data["verse"]["verse"]
+    # Parse verse reference
+    verse_ref = verse_data["verse"]
+    book, chapter, verse = parse_verse_ref(verse_ref)
 
     # Create directory structure
     verse_dir = output_dir / book / f"{chapter:03d}" / f"{verse:03d}"
