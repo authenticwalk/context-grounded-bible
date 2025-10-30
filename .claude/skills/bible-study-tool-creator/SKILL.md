@@ -158,18 +158,23 @@ Update `/bible-study-tools/tool-registry.yaml` to register the new tool:
 
 **Ask the user these questions:**
 
-1. **Complexity level** - How large/intensive are the generated files?
-   - `low`: Small files, essential data (1-50 KB) - e.g., sermon illustrations, cross-references
-   - `medium`: Moderate files, standard processing (50-500 KB) - e.g., word studies, historical context
-   - `high`: Large files, comprehensive data (>500 KB) - e.g., all translations, full lexical database
+1. **Scope** - What level of detail and data size does this tool provide?
+   - `core`: Essential data, always included regardless of query depth
+     - Size: Small files (~1-50 KB)
+     - Examples: sermon illustrations, cross-references, basic commentary
+     - Use when: Tool provides must-have foundational data for any verse study
 
-2. **Depth level** - At what depth should this tool be included?
-   - `light`: Core data, included in quick overviews - Use for essential, lightweight tools
-   - `medium`: Standard research depth - Use for most tools (default)
-   - `full`: Comprehensive analysis only - Use for large reference data or specialized analysis
-   - `all`: Always include regardless of depth - Use sparingly for truly essential data
+   - `standard`: Standard research depth, typical scholarly analysis
+     - Size: Moderate files (~50-500 KB)
+     - Examples: word studies, historical context, semantic clusters
+     - Use when: Tool provides valuable research data for deeper study (most tools)
 
-3. **Category** - What type of data does this tool provide?
+   - `comprehensive`: Exhaustive reference data, complete collections
+     - Size: Large files (>500 KB)
+     - Examples: all translations (1000+), complete lexicon entries, full concordances
+     - Use when: Tool provides comprehensive reference that's only needed for exhaustive analysis
+
+2. **Category** - What type of data does this tool provide?
    - `lexical`: Word meanings, etymology, source languages
    - `theological`: Doctrine, theology, biblical themes
    - `practical`: Application, sermon illustrations, devotional insights
@@ -183,17 +188,20 @@ Update `/bible-study-tools/tool-registry.yaml` to register the new tool:
 {tool-suffix}:
   name: {Tool Name}
   summary: {Brief description - max 20 words}
-  complexity: {low|medium|high}
-  depth: {light|medium|full|all}
+  scope: {core|standard|comprehensive}
   category: {lexical|theological|practical|historical|linguistic|topical}
 ```
 
 **Registry Guidelines:**
 - The tool suffix must match the filename suffix (e.g., `sermon-illustrations` for `MAT-5-3-sermon-illustrations.yaml`)
 - Summary should explain what the tool does and why it's valuable (max 20 words)
-- Complexity determines file size expectations and processing requirements
-- Depth determines when this tool is included in scripture-study queries
+- Scope determines BOTH when to include AND expected file size
 - Category helps users understand the tool's purpose
+
+**Query Depth Mapping:**
+- Light queries (quick overview) → Include `core` tools only
+- Medium queries (standard study) → Include `core` + `standard` tools
+- Full queries (comprehensive) → Include `core` + `standard` + `comprehensive` tools
 
 ### Step 10: Update Related Tools (if applicable)
 

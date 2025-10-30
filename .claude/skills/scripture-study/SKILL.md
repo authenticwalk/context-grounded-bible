@@ -206,28 +206,32 @@ The skill aggregates data from:
 ### Depth Filtering
 
 **Light depth includes:**
-- Core commentary files marked as complexity: low
-- Translations (limited set)
-- Basic semantic data
+- Tools with scope: core
+- Essential data only (~1-50 KB per verse)
+- Examples: sermon-illustrations, cross-references
 
 **Medium depth includes:**
-- All light depth content
-- Verse-level tool outputs
-- Moderate complexity files
+- Tools with scope: core + standard
+- Standard research depth (~50-500 KB per verse)
+- Examples: core tools + word-studies, historical-context, semantic-clusters
 
 **Full depth includes:**
-- All medium depth content
-- Chapter-level context files
-- Book-level overview files
-- High complexity files (all translations, comprehensive lexical data)
+- Tools with scope: core + standard + comprehensive
+- Exhaustive reference data (>500 KB per verse)
+- Examples: medium tools + all-translations, complete-lexicon
 
 ### Tool Registry
 
 The script reads from `bible-study-tools/tool-registry.yaml` to determine:
 - Available tool types
 - Tool file suffixes
-- Complexity levels
-- Whether tools should be included at each depth level
+- Scope levels (core/standard/comprehensive)
+- Which tools should be included at each depth level
+
+**Scope Mapping:**
+- `core`: Always included (light, medium, full queries)
+- `standard`: Included in medium and full queries only
+- `comprehensive`: Included in full queries only
 
 ### Data Merging
 
@@ -251,15 +255,18 @@ If the script fails:
 
 When creating new Bible study tools with `bible-study-tool-creator`:
 - Register your tool in `bible-study-tools/tool-registry.yaml`
-- Specify complexity level (low/medium/high)
-- Set appropriate depth inclusion (light/medium/full)
-- Use standard file naming: `{BOOK}.{chapter:03d}.{verse:03d}-{tool-suffix}.yaml`
+- Specify scope level:
+  - `core`: Essential data, always included (<50 KB)
+  - `standard`: Standard research depth (50-500 KB) - most tools
+  - `comprehensive`: Exhaustive reference (>500 KB)
+- Use standard file naming: `{BOOK}_{chapter}_{verse:03d}.{tool-suffix}.yaml`
 
 ### For Tool Experimenters
 
 When using `tool-experimenter` to improve tools:
 - Consider how your tool fits into the depth hierarchy
-- Test output size to determine appropriate complexity level
+- Test output size to determine appropriate scope level
+- Update tool registry with final scope after experimentation
 - Ensure YAML structure is compatible with merging
 
 ## Notes

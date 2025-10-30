@@ -165,19 +165,20 @@ def get_commentary_files(
         if excludes and tool_suffix in excludes:
             continue
 
-        # Check depth level
+        # Check scope level based on query depth
         if tool_suffix in tool_registry:
             tool_info = tool_registry[tool_suffix]
-            tool_depth = tool_info.get('depth', 'medium')
-            tool_complexity = tool_info.get('complexity', 'medium')
+            tool_scope = tool_info.get('scope', 'standard')
 
-            # Filter by depth
-            if depth == 'light' and tool_complexity == 'high':
+            # Filter by scope based on query depth
+            # light queries: core only
+            # medium queries: core + standard
+            # full queries: core + standard + comprehensive
+            if depth == 'light' and tool_scope not in ['core']:
                 continue
-            if depth == 'light' and tool_depth not in ['light', 'all']:
+            if depth == 'medium' and tool_scope not in ['core', 'standard']:
                 continue
-            if depth == 'medium' and tool_depth == 'full':
-                continue
+            # full depth includes all scopes
 
         files.append(file_path)
 
