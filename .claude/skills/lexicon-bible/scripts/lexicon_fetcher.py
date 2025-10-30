@@ -26,6 +26,13 @@ from biblehub_lexicon import fetch_lexicon_data, LexiconFetchError
 from biblehub_text import fetch_text_variants, TextFetchError
 from book_codes import parse_reference as parse_usfm_reference, USFM_TO_NAME
 
+# Try to import morphhb extractor (may not be available)
+try:
+    from morphhb_extractor import extract_verse_data, MorphhbError
+    MORPHHB_AVAILABLE = True
+except ImportError:
+    MORPHHB_AVAILABLE = False
+
 
 def determine_testament(book_code: str) -> str:
     """
@@ -46,6 +53,115 @@ def determine_testament(book_code: str) -> str:
     }
 
     return 'NT' if book_code in nt_books else 'OT'
+
+
+def merge_morphhb_data(biblehub_words: List[Dict], morphhb_data: Optional[Dict]) -> List[Dict]:
+    """
+    Merge morphhb data into BibleHub lexical data.
+
+    morphhb provides superior morphological data for Hebrew, so we prefer it
+    over BibleHub when both are available.
+
+    Args:
+        biblehub_words: Word list from BibleHub
+        morphhb_data: Verse data from morphhb (None if not available)
+
+    Returns:
+        Merged word list with morphhb enhancements
+    """
+    if not morphhb_data or 'words' not in morphhb_data:
+        return biblehub_words
+
+    morphhb_words = morphhb_data['words']
+
+    # If word counts match, merge by position (ideal case)
+    if len(biblehub_words) == len(morphhb_words):
+        merged = []
+        for bh_word, mhb_word in zip(biblehub_words, morphhb_words):
+            word = bh_word.copy()
+
+            # Add morphhb-specific data
+            if 'id' in mhb_word:
+                word['morphhb_id'] = mhb_word['id']
+
+            # Prefer morphhb morphology (more accurate)
+            if 'morphology' in mhb_word:
+                word['morphhb_morphology'] = mhb_word['morphology']
+                word['morphhb_morph_code'] = mhb_word.get('morph_code', '')
+                word['morphhb_display'] = mhb_word.get('morphology_display', '')
+
+            # Prefer morphhb Strong's (includes prefixes)
+            if 'strongs' in mhb_word:
+                word['morphhb_strongs'] = mhb_word['strongs']
+                word['morphhb_lemma'] = mhb_word.get('lemma', '')
+
+            # Add Hebrew text from morphhb
+            if 'text' in mhb_word:
+                word['morphhb_text'] = mhb_word['text']
+
+            merged.append(word)
+
+        return merged
+
+    # If word counts don't match, use morphhb as primary data source
+    # since it has more accurate word segmentation
+    # But keep BibleHub glosses as they're in English
+
+    # Create mapping of Strong's numbers from BibleHub for quick lookup
+    biblehub_glosses = {}
+    for bh_word in biblehub_words:
+        if 'strongs' in bh_word:
+            # Extract base Strong's number (remove prefixes/suffixes)
+            strongs = bh_word['strongs'].replace('H', '').replace('h', '')
+            # Remove letter suffixes like 'a', 'b'
+            base_strongs = strongs.rstrip('abcdefghijklmnopqrstuvwxyz')
+            biblehub_glosses[base_strongs] = {
+                'gloss': bh_word.get('gloss', ''),
+                'nasb': bh_word.get('nasb', ''),
+                'transliteration': bh_word.get('transliteration', ''),
+                'origin': bh_word.get('origin', '')
+            }
+
+    # Build result from morphhb words, enhanced with BibleHub glosses where available
+    merged = []
+    for mhb_word in morphhb_words:
+        word = {
+            'position': mhb_word['position'],
+            'original': mhb_word.get('text', ''),
+            'morphhb_text': mhb_word.get('text', ''),
+        }
+
+        # Add morphhb word ID
+        if 'id' in mhb_word:
+            word['morphhb_id'] = mhb_word['id']
+
+        # Add morphhb morphology
+        if 'morphology' in mhb_word:
+            word['morphhb_morphology'] = mhb_word['morphology']
+            word['morphhb_morph_code'] = mhb_word.get('morph_code', '')
+            word['morphhb_display'] = mhb_word.get('morphology_display', '')
+
+        # Add morphhb Strong's (with prefixes)
+        if 'strongs' in mhb_word:
+            word['morphhb_strongs'] = mhb_word['strongs']
+            word['morphhb_lemma'] = mhb_word.get('lemma', '')
+
+            # Try to find matching BibleHub gloss
+            # Extract base Strong's number from morphhb data
+            lemma = mhb_word.get('lemma', '')
+            if lemma:
+                # Handle compound lemmas like "b/7225"
+                parts = lemma.split('/')
+                for part in parts:
+                    part = part.replace(' ', '')
+                    base_num = part.rstrip('abcdefghijklmnopqrstuvwxyz')
+                    if base_num and base_num in biblehub_glosses:
+                        word.update(biblehub_glosses[base_num])
+                        break
+
+        merged.append(word)
+
+    return merged
 
 
 def format_output_yaml(book: str, chapter: int, verse: int, words: List[Dict], variants: Optional[List[Dict]] = None) -> str:
@@ -144,6 +260,27 @@ def format_output_text(book: str, chapter: int, verse: int, words: List[Dict], v
         if 'root' in word:
             lines.append(f"  Root: {word['root']}")
 
+        # Display morphhb data if available (for OT verses)
+        if 'morphhb_display' in word:
+            lines.append(f"  morphhb Morphology: {word['morphhb_display']}")
+
+        if 'morphhb_strongs' in word:
+            strongs = word['morphhb_strongs']
+            if 'components' in strongs:
+                # Compound (prefix + word)
+                parts = []
+                for comp in strongs['components']:
+                    if 'prefix' in comp:
+                        parts.append(f"{comp['prefix']} ({comp['meaning']})")
+                    elif 'strongs' in comp:
+                        parts.append(comp['strongs'])
+                lines.append(f"  morphhb Strong's: {' + '.join(parts)}")
+            elif 'strongs' in strongs:
+                lines.append(f"  morphhb Strong's: {strongs['strongs']}")
+
+        if 'morphhb_id' in word:
+            lines.append(f"  morphhb Word ID: {word['morphhb_id']}")
+
         lines.append("")
 
     # Add manuscript variants if available
@@ -205,6 +342,12 @@ Examples:
         help='Include textual variants from multiple manuscript traditions'
     )
 
+    parser.add_argument(
+        '--quiet',
+        action='store_true',
+        help='Suppress informational messages'
+    )
+
     args = parser.parse_args()
 
     try:
@@ -212,8 +355,24 @@ Examples:
         # It accepts formats like "MAT 5:3" or "MAT.5.3"
         book, chapter, verse = parse_usfm_reference(args.reference)
 
-        # Fetch lexicon data
-        words = fetch_lexicon_data(book, chapter, verse)
+        # Fetch lexicon data from BibleHub
+        use_cache = not args.no_cache
+        words = fetch_lexicon_data(book, chapter, verse, use_cache=use_cache)
+
+        # For OT verses, try to enhance with morphhb data
+        testament = determine_testament(book)
+        if MORPHHB_AVAILABLE and testament == 'OT':
+            try:
+                morphhb_data = extract_verse_data(book, chapter, verse)
+                words = merge_morphhb_data(words, morphhb_data)
+                if not args.quiet:
+                    print(f"Note: Enhanced with morphhb morphological data", file=sys.stderr)
+            except MorphhbError as e:
+                if not args.quiet:
+                    print(f"Note: morphhb data not available ({e})", file=sys.stderr)
+            except Exception as e:
+                if not args.quiet:
+                    print(f"Warning: Could not fetch morphhb data: {e}", file=sys.stderr)
 
         # Optionally fetch textual variants
         variants = None
