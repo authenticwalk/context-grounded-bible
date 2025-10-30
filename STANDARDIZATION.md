@@ -77,6 +77,23 @@ lat: Latin
 /bible/words/{ISO-639-3}/{word-root}/{word-inflected}.yaml
 ```
 
+**Strong's Concordance:**
+```
+/bible/words/strongs/{strongs-number}/{strongs-number}.strongs.yaml
+```
+
+Strong's numbers use 4-digit zero-padded format:
+- Greek: `G0001` through `G5624` (5,523 entries)
+- Hebrew: `H0001` through `H8674` (8,674 entries)
+
+Examples:
+```
+/bible/words/strongs/G0001/G0001.strongs.yaml    # Greek: Α (Alpha)
+/bible/words/strongs/G0025/G0025.strongs.yaml    # Greek: ἀγαπάω (agapáō - to love)
+/bible/words/strongs/H0157/H0157.strongs.yaml    # Hebrew: אָהַב (ahab - to love)
+/bible/words/strongs/G5368/G5368.strongs.yaml    # Greek: φιλέω (philéō - brotherly love)
+```
+
 **Rationale (Directory Structure):**
 - Book code visible in filename (easier to identify files out of context)
 - Period separators for chapter.verse (standard in biblical references)
@@ -164,7 +181,70 @@ verses: [JHN.1.1]
 
 - **Hebrew:** Brown-Driver-Briggs (BDB) Lexicon, Strong's Concordance
 - **Greek:** BDAG Lexicon, Strong's Concordance, Thayer's Greek Lexicon
-- **Strong's Numbers:** Use as cross-reference (e.g., H157 for אָהַב, G26 for ἀγάπη)
+- **Strong's Numbers:** Use as cross-reference (e.g., H0157 for אָהַב, G0026 for ἀγάπη)
+
+### 4a. Strong's Concordance Format
+
+**Purpose:** Standardized reference database for every Hebrew and Greek word in the Bible
+
+**Path:** `/bible/words/strongs/{strongs-number}/{strongs-number}.strongs.yaml`
+
+**Number Format:** 4-digit zero-padded with language prefix
+- Greek: `G0001` through `G5624` (prefix `G`)
+- Hebrew: `H0001` through `H8674` (prefix `H`)
+
+**YAML Structure:**
+```yaml
+strongs_number: G0025
+language: greek
+lemma: ἀγαπάω
+transliteration: agapáō
+pronunciation: ag-ap-ah'-o         # Hebrew only
+definition: to love (in a social or moral sense)
+kjv_usage: (be-)love(-ed)
+derivation: perhaps from (much) (or compare G5689);
+source: openscriptures/strongs
+license: CC-BY-SA
+```
+
+**Field Descriptions:**
+- `strongs_number`: Zero-padded identifier (G0001-G5624 or H0001-H8674)
+- `language`: Either `greek` or `hebrew`
+- `lemma`: Original language word in native script
+- `transliteration`: Romanized version of the word
+- `pronunciation`: Phonetic pronunciation guide (Hebrew entries only)
+- `definition`: Strong's original definition
+- `kjv_usage`: How the word appears in King James Version
+- `derivation`: Etymological origin and related Strong's numbers
+- `source`: Data source (openscriptures/strongs)
+- `license`: CC-BY-SA (Creative Commons Attribution-ShareAlike)
+
+**Examples:**
+```
+/bible/words/strongs/G0001/G0001.strongs.yaml    # Α (Alpha) - first letter
+/bible/words/strongs/G0025/G0025.strongs.yaml    # ἀγαπάω (agapáō) - divine love
+/bible/words/strongs/G0026/G0026.strongs.yaml    # ἀγάπη (agápē) - love (noun)
+/bible/words/strongs/G5368/G5368.strongs.yaml    # φιλέω (philéō) - brotherly love
+/bible/words/strongs/H0001/H0001.strongs.yaml    # אָב (ab) - father
+/bible/words/strongs/H0157/H0157.strongs.yaml    # אָהַב (ahab) - to love
+```
+
+**Cross-referencing with Word Files:**
+```yaml
+# In /bible/words/grc/αγαπη/αγαπη.yaml
+strongs: G0026                      # Reference to Strong's entry
+
+# In /bible/words/heb/אהב/אהב.yaml
+strongs: H0157                      # Reference to Strong's entry
+```
+
+**Data Source:** https://github.com/openscriptures/strongs (CC-BY-SA license)
+
+**Why Zero-Padding:**
+- Consistent string length for sorting and display
+- Aligns with digital Bible tools and reference software
+- Prevents ambiguity (G1 vs G0001 both valid, but G0001 is standard)
+- Easier programmatic handling and file system organization
 
 ### 5. Theological Topic Taxonomy
 
