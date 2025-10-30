@@ -45,6 +45,53 @@ Examples:
 - Language codes follow (ISO-639-3)
 - This is an open-source project under MIT License
 
+## Working Preferences
+
+### File Organization
+- **NO summary files in root directory** - Do not create CHANGES-SUMMARY.md, COMPLETION-SUMMARY.md, PR-DESCRIPTION.md, or similar files in the project root
+- **Use `/plan` directory** - For planning and tracking work, create files in `/plan/{task-name}.md` and update them as you learn and progress
+- **Keep root clean** - Root should only contain permanent project documentation
+
+### Documentation Philosophy
+- **Prefer concise over comprehensive** - Simple instructions let AI figure things out; verbose explanations create confusion
+- **Don't over-explain mechanics** - Avoid detailed explanations of "how to use tokens" or basic processes unless solving a specific issue
+- **Inline key info, reference details** - Summarize essential standards in tool READMEs; link to full docs for edge cases with "see {doc} for details"
+- **Avoid redundancy** - Don't create "-quick" versions of docs; extract relevant parts directly into tool READMEs
+
+### Tool Development Process
+- **Experiments optimize, researchers execute** - Tool experimentation phase should test sources and optimize lookups; researchers should use the optimized approach directly
+- **Document sources, not tools** - In tool READMEs, list helpful webpages, not the obvious fact that WebSearch/WebFetch exist
+- **Tailored standards** - Tools dealing with words need word standards; tools without words don't need them. Include only relevant standards.
+
+## Git Commit Guidelines
+
+When committing changes to this repository, follow these guidelines:
+
+### Separate Data and Code Commits
+
+**IMPORTANT:** Data files must be committed separately from code files. This allows for easier cherry-picking and repository management.
+
+**Two-commit workflow:**
+1. **First commit:** Code/script files only (e.g., Python scripts, configuration files)
+2. **Second commit:** Data files only (all generated YAML files in `./bible/` directory)
+
+**Example:**
+```bash
+# Commit 1: Code changes
+git add strongs-fetcher.py
+git commit -m "feat: add Strong's dictionary fetcher script"
+
+# Commit 2: Generated data
+git add bible/words/strongs
+git commit -m "data: add Strong's dictionary entries (14,197 files)"
+```
+
+**Why this matters:**
+- Enables cherry-picking data updates without code changes
+- Keeps git history clean and organized
+- Makes it easier to revert data without affecting code
+- Reduces merge conflicts between data and code changes
+
 ## Citations
 
 Bible Verses: **Format:** Incremental specificity as needed: `{lang}` → `{lang}-{version}` → `{lang}-{version}-{year}`
