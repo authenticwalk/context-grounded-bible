@@ -44,7 +44,7 @@ When this skill is invoked:
 
 4. **Process the verse**
    - Run: `python bible-study-tools/macula-source-language/macula_processor.py --verse "{BOOK} {C}:{V}"`
-   - This generates: `./bible/commentaries/{BBB}/{CCC}/{VVV}/{BBB}-{CCC}-{VVV}-source-language.yaml`
+   - This generates: `./bible/commentaries/{BBB}/{CCC}/{VVV}/{BBB}-{CCC}-{VVV}-macula.yaml`
 
 5. **Read and present the data**
    - Read the generated YAML file
@@ -146,12 +146,12 @@ This skill uses the following files:
 
 Generated files follow the project structure:
 ```
-./bible/commentaries/{BOOK}/{CHAPTER}/{VERSE}/{BOOK}-{CHAPTER}-{VERSE}-source-language.yaml
+./bible/commentaries/{BOOK}/{CHAPTER}/{VERSE}/{BOOK}-{CHAPTER}-{VERSE}-macula.yaml
 ```
 
 Examples:
-- `./bible/commentaries/JHN/001/001/JHN-001-001-source-language.yaml`
-- `./bible/commentaries/GEN/001/001/GEN-001-001-source-language.yaml`
+- `./bible/commentaries/JHN/001/001/JHN-001-001-macula.yaml`
+- `./bible/commentaries/GEN/001/001/GEN-001-001-macula.yaml`
 
 ## Error Handling
 

@@ -80,6 +80,8 @@ Process a testament:
 
 ```bash
 python bible-study-tools/macula-source-language/macula_processor.py --testament NT
+# Or use the shortcut:
+python bible-study-tools/macula-source-language/macula_processor.py --nt
 ```
 
 Process all verses (takes 30-60 minutes):
@@ -106,13 +108,13 @@ Claude will automatically:
 Generated files follow the project convention:
 
 ```
-./bible/commentaries/{BOOK}/{CHAPTER}/{VERSE}/{BOOK}-{CHAPTER}-{VERSE}-source-language.yaml
+./bible/commentaries/{BOOK}/{CHAPTER}/{VERSE}/{BOOK}-{CHAPTER}-{VERSE}-macula.yaml
 ```
 
 Examples:
-- `./bible/commentaries/JHN/001/001/JHN-001-001-source-language.yaml`
-- `./bible/commentaries/GEN/001/001/GEN-001-001-source-language.yaml`
-- `./bible/commentaries/JOB/038/036/JOB-038-036-source-language.yaml`
+- `./bible/commentaries/JHN/001/001/JHN-001-001-macula.yaml`
+- `./bible/commentaries/GEN/001/001/GEN-001-001-macula.yaml`
+- `./bible/commentaries/JOB/038/036/JOB-038-036-macula.yaml`
 
 ## Output Format
 

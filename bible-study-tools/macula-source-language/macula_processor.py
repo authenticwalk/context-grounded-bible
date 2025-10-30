@@ -305,7 +305,7 @@ def save_verse_yaml(verse_data, output_dir):
     verse_dir.mkdir(parents=True, exist_ok=True)
 
     # Generate filename
-    filename = f"{book}-{chapter:03d}-{verse:03d}-source-language.yaml"
+    filename = f"{book}-{chapter:03d}-{verse:03d}-macula.yaml"
     filepath = verse_dir / filename
 
     # Save YAML
@@ -372,12 +372,17 @@ def main():
     )
     parser.add_argument("--all", action="store_true", help="Process all verses")
     parser.add_argument("--testament", choices=["OT", "NT"], help="Process testament")
+    parser.add_argument("--nt", action="store_true", help="Process New Testament (shortcut for --testament NT)")
     parser.add_argument("--book", help="Process single book (e.g., JHN, GEN)")
     parser.add_argument("--verse", help="Process single verse (e.g., 'JHN 1:1')")
     parser.add_argument("--output", default=OUTPUT_DIR, help="Output directory")
     parser.add_argument("--dry-run", action="store_true", help="Test without writing files")
 
     args = parser.parse_args()
+
+    # Handle --nt shortcut
+    if args.nt:
+        args.testament = "NT"
 
     if not CACHE_DIR.exists():
         log("ERROR: Macula cache not found. Run macula_fetcher.py first.")
@@ -449,6 +454,56 @@ def main():
 
         if total_verses == 0:
             log(f"WARNING: Verse '{args.verse}' not found in dataset")
+
+    # Handle book processing
+    elif args.book:
+        book_code = args.book.upper()
+
+        # Determine if OT or NT
+        is_ot = book_code in ["GEN", "EXO", "LEV", "NUM", "DEU", "JOS", "JDG", "RUT",
+                              "1SA", "2SA", "1KI", "2KI", "1CH", "2CH", "EZR", "NEH",
+                              "EST", "JOB", "PSA", "PRO", "ECC", "SNG", "ISA", "JER",
+                              "LAM", "EZK", "DAN", "HOS", "JOL", "AMO", "OBA", "JON",
+                              "MIC", "NAM", "HAB", "ZEP", "HAG", "ZEC", "MAL"]
+
+        if is_ot:
+            log(f"Processing Hebrew book: {book_code}")
+            if HEBREW_LOWFAT.exists():
+                # Find matching Hebrew files
+                for xml_file in sorted(HEBREW_LOWFAT.glob("*.xml")):
+                    # Check if this file is for the requested book
+                    tree = ET.parse(xml_file)
+                    root = tree.getroot()
+                    chapter_id = root.get("id", "")
+                    if chapter_id.startswith(book_code):
+                        if not args.dry_run:
+                            total_verses += process_hebrew_file(xml_file, output_dir)
+        else:
+            log(f"Processing Greek book: {book_code}")
+            if GREEK_LOWFAT.exists():
+                # Map book code to filename
+                book_file_map = {
+                    "MAT": "01-matthew.xml", "MRK": "02-mark.xml", "LUK": "03-luke.xml",
+                    "JHN": "04-john.xml", "ACT": "05-acts.xml", "ROM": "06-romans.xml",
+                    "1CO": "07-1corinthians.xml", "2CO": "08-2corinthians.xml",
+                    "GAL": "09-galatians.xml", "EPH": "10-ephesians.xml",
+                    "PHP": "11-philippians.xml", "COL": "12-colossians.xml",
+                    "1TH": "13-1thessalonians.xml", "2TH": "14-2thessalonians.xml",
+                    "1TI": "15-1timothy.xml", "2TI": "16-2timothy.xml",
+                    "TIT": "17-titus.xml", "PHM": "18-philemon.xml",
+                    "HEB": "19-hebrews.xml", "JAS": "20-james.xml",
+                    "1PE": "21-1peter.xml", "2PE": "22-2peter.xml",
+                    "1JN": "23-1john.xml", "2JN": "24-2john.xml",
+                    "3JN": "25-3john.xml", "JUD": "26-jude.xml",
+                    "REV": "27-revelation.xml"
+                }
+
+                if book_code in book_file_map:
+                    xml_file = GREEK_LOWFAT / book_file_map[book_code]
+                    if xml_file.exists() and not args.dry_run:
+                        total_verses += process_greek_file(xml_file, output_dir)
+                else:
+                    log(f"ERROR: Unknown book code '{book_code}'")
 
     # Handle bulk processing
     elif args.testament == "OT" or args.all:
