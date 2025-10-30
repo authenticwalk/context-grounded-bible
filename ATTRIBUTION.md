@@ -127,8 +127,15 @@ This document provides attribution for all sources used in the Context-Grounded 
 - Citation format: `{bdb}`
 
 **Thayer's Greek-English Lexicon**
-- Public domain
+- Public domain (first published pre-1895)
+- Available via: BibleHub, Blue Letter Bible, StudyLight
 - Citation format: `{thayer}`
+
+**Liddell-Scott-Jones Greek-English Lexicon (LSJ)**
+- Public domain (abridged version)
+- Available via: StudyLight
+- Citation format: `{lsj}` or `{lsj-abridged}`
+- Note: Classical Greek lexicon, useful for etymology and diachronic analysis
 
 ### Copyrighted Resources (Fair Use)
 
@@ -163,9 +170,48 @@ This document provides attribution for all sources used in the Context-Grounded 
 - **Website:** https://www.blueletterbible.org
 - **License:** Free access for research
 - **URL Patterns:**
-  - Lexicon: `https://www.blueletterbible.org/lexicon/{strongs_lower}/kjv/tr/0-1/`
+  - Greek Lexicon: `https://www.blueletterbible.org/lexicon/g{number}/kjv/tr/0-1/`
+  - Hebrew Lexicon: `https://www.blueletterbible.org/lexicon/h{number}/kjv/tr/0-1/`
 - **Citation format:** `{blb-lexicon}`
-- **Note:** Strong's numbers lowercase with prefix (g3056, h157)
+- **Note:** Strong's numbers without leading zeros (g1411, h430)
+- **Available Lexicons:** Strong's, Thayer's, TDNT references, Trench's Synonyms
+
+### StudyLight.org
+- **Website:** https://www.studylight.org
+- **License:** Free access for research
+- **URL Patterns:**
+  - Greek Lexicon: `https://www.studylight.org/lexicons/eng/greek/{number}.html`
+  - Hebrew Lexicon: `https://www.studylight.org/lexicons/eng/hebrew/{number}.html`
+- **Citation format:** `{studylight-lexicon}`
+- **Available Lexicons:** Thayer's, Strong's, Mounce's, LSJ (Liddell-Scott-Jones), Abbott-Smith, Vocabulary of Greek NT
+
+### Biblical Hermeneutics Stack Exchange
+- **Website:** https://hermeneutics.stackexchange.com
+- **License:** Creative Commons (user content)
+- **URL Pattern:** Search by Strong's number or word transliteration
+- **Citation format:** `{bhse-discussion}`
+- **Authority Level:** Community discussion (lower authority than published lexicons)
+- **Use:** Document controversies, common questions, scholarly debates
+
+### Scholarly Blogs and Articles
+
+**GotQuestions.org**
+- **Website:** https://www.gotquestions.org
+- **License:** Fair use for quotation
+- **Citation format:** `{gotquestions}`
+- **Authority Level:** Medium (theological Q&A site)
+
+**Word Study Tools**
+- **Website:** https://wordstudytools.com
+- **License:** Fair use for quotation
+- **Citation format:** `{wordstudytools}`
+- **Authority Level:** Medium (biblical language resources)
+
+**Scribal Cafe**
+- **Website:** https://scribalcafe.wordpress.com
+- **License:** Fair use for quotation
+- **Citation format:** `{scribalcafe}`
+- **Authority Level:** Medium (biblical languages blog)
 
 ### ESV.org
 - **Website:** https://www.esv.org
