@@ -63,6 +63,35 @@ Examples:
 - **Document sources, not tools** - In tool READMEs, list helpful webpages, not the obvious fact that WebSearch/WebFetch exist
 - **Tailored standards** - Tools dealing with words need word standards; tools without words don't need them. Include only relevant standards.
 
+## Git Commit Guidelines
+
+When committing changes to this repository, follow these guidelines:
+
+### Separate Data and Code Commits
+
+**IMPORTANT:** Data files must be committed separately from code files. This allows for easier cherry-picking and repository management.
+
+**Two-commit workflow:**
+1. **First commit:** Code/script files only (e.g., Python scripts, configuration files)
+2. **Second commit:** Data files only (all generated YAML files in `./bible/` directory)
+
+**Example:**
+```bash
+# Commit 1: Code changes
+git add strongs-fetcher.py
+git commit -m "feat: add Strong's dictionary fetcher script"
+
+# Commit 2: Generated data
+git add bible/words/strongs
+git commit -m "data: add Strong's dictionary entries (14,197 files)"
+```
+
+**Why this matters:**
+- Enables cherry-picking data updates without code changes
+- Keeps git history clean and organized
+- Makes it easier to revert data without affecting code
+- Reduces merge conflicts between data and code changes
+
 ## Citations
 
 Bible Verses: **Format:** Incremental specificity as needed: `{lang}` → `{lang}-{version}` → `{lang}-{version}-{year}`
