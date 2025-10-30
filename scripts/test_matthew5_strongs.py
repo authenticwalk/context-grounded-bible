@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Test version: Build Strong's dictionary reference files from Matthew 5 only.
+Build Strong's dictionary reference files from Matthew 5 with improved structure.
 """
 
 import xml.etree.ElementTree as ET
@@ -8,7 +8,7 @@ import requests
 import yaml
 import os
 from collections import defaultdict
-from typing import Dict
+from typing import Dict, List
 
 
 class StrongsReference:
@@ -16,12 +16,35 @@ class StrongsReference:
 
     def __init__(self, strongs_num: str):
         self.strongs_num = strongs_num
-        self.meanings = defaultdict(lambda: defaultdict(list))
-        self.forms = defaultdict(lambda: defaultdict(lambda: None))
+        self.lemma = None  # Will be set from first occurrence
+        # senses[sense_key] = {'gloss': str, 'references': [verse_refs]}
+        self.senses = defaultdict(lambda: {'gloss': '', 'references': []})
+        # forms[form_desc] = [{'verse': ref, 'word': actual_word}]
+        self.forms = defaultdict(list)
 
-    def add_word(self, verse_ref: str, gloss: str, sense: str, morph: str, grammar: Dict[str, str]):
+    def add_word(self, verse_ref: str, word: str, gloss: str, sense: str,
+                 domain: str, ln: str, morph: str, grammar: Dict[str, str]):
         """Add a word occurrence to this Strong's number"""
-        meaning_key = sense if sense else gloss
+
+        # Set lemma if not already set
+        if self.lemma is None and grammar.get('lemma'):
+            self.lemma = grammar['lemma']
+
+        # Determine sense key (prefer domain/ln for Greek, sense number for Hebrew)
+        if domain:
+            sense_key = domain
+        elif ln:
+            sense_key = ln
+        elif sense:
+            sense_key = sense
+        else:
+            sense_key = gloss if gloss else 'unknown'
+
+        # Add to senses
+        if not self.senses[sense_key]['gloss']:
+            self.senses[sense_key]['gloss'] = gloss
+        if verse_ref not in self.senses[sense_key]['references']:
+            self.senses[sense_key]['references'].append(verse_ref)
 
         # Build form description from grammatical attributes
         form_parts = []
@@ -37,32 +60,44 @@ class StrongsReference:
             form_parts.append(grammar['number'])
         if 'case' in grammar and grammar['case']:
             form_parts.append(grammar['case'])
+        if 'stem' in grammar and grammar['stem']:
+            form_parts.append(grammar['stem'])
+        if 'state' in grammar and grammar['state']:
+            form_parts.append(grammar['state'])
+        if 'person' in grammar and grammar['person']:
+            form_parts.append(grammar['person'])
 
         form_desc = '/'.join(form_parts) if form_parts else morph
 
-        # Add to meanings
-        self.meanings[meaning_key][verse_ref].append({
-            'morph': morph,
-            'form': form_desc,
-            'grammar': grammar
-        })
-
-        # Add to forms
-        self.forms[form_desc][verse_ref] = None
+        # Add to forms with the actual word
+        form_entry = {'verse': verse_ref, 'word': word}
+        # Avoid duplicates
+        if form_entry not in self.forms[form_desc]:
+            self.forms[form_desc].append(form_entry)
 
     def to_dict(self):
         """Convert to dictionary for YAML output"""
         result = {
             'strongs_number': self.strongs_num,
-            'meanings': {},
-            'forms': {}
         }
 
-        for meaning, verses in sorted(self.meanings.items()):
-            result['meanings'][meaning] = sorted(verses.keys())
+        if self.lemma:
+            result['lemma'] = self.lemma
 
-        for form, verses in sorted(self.forms.items()):
-            result['forms'][form] = sorted(verses.keys())
+        # Convert senses
+        senses_dict = {}
+        for sense_key, sense_data in sorted(self.senses.items()):
+            senses_dict[sense_key] = {
+                'gloss': sense_data['gloss'],
+                'references': sorted(sense_data['references'])
+            }
+        result['senses'] = senses_dict
+
+        # Convert forms
+        forms_dict = {}
+        for form, entries in sorted(self.forms.items()):
+            forms_dict[form] = sorted(entries, key=lambda x: x['verse'])
+        result['forms'] = forms_dict
 
         return result
 
@@ -95,7 +130,6 @@ class MaculaParser:
                 if verse_id:
                     # Check if we're in the right chapter
                     if chapter_filter is not None:
-                        # verse_id format: "MAT 5:1"
                         parts = verse_id.split()
                         if len(parts) == 2:
                             ch_verse = parts[1].split(':')
@@ -117,9 +151,15 @@ class MaculaParser:
                     continue
 
                 verse_ref = current_verses[-1] if current_verses else 'UNKNOWN'
+
+                # Get the actual Greek word
+                word = elem.text if elem.text else ''
+
                 gloss = elem.get('gloss', elem.get('english', ''))
                 lemma = elem.get('lemma', '')
                 morph = elem.get('morph', '')
+                domain = elem.get('domain', '')
+                ln = elem.get('ln', '')
 
                 grammar = {
                     'lemma': lemma,
@@ -133,9 +173,53 @@ class MaculaParser:
                 }
 
                 ref = self.get_strongs_ref(f"G{strong}")
-                ref.add_word(verse_ref, gloss, '', morph, grammar)
+                ref.add_word(verse_ref, word, gloss, '', domain, ln, morph, grammar)
 
         print(f"  Parsed Matthew 5")
+
+    def parse_hebrew_file(self, url: str):
+        """Parse a Hebrew OT XML file"""
+        print(f"Fetching {url}...")
+        response = requests.get(url)
+        response.raise_for_status()
+
+        root = ET.fromstring(response.content)
+        current_verse = None
+
+        for elem in root.iter():
+            if elem.tag == 'milestone' and elem.get('unit') == 'verse':
+                verse_id = elem.get('id')
+                if verse_id:
+                    current_verse = verse_id
+
+            if elem.tag == 'w':
+                strong = elem.get('strongnumberx')
+                if not strong:
+                    continue
+
+                verse_ref = current_verse if current_verse else 'UNKNOWN'
+
+                # Get the actual Hebrew word
+                word = elem.get('unicode', elem.text if elem.text else '')
+
+                gloss = elem.get('english', elem.get('mandarin', ''))
+                lemma = elem.get('lemma', '')
+                morph = elem.get('morph', '')
+                sense = elem.get('sensenumber', '')
+                domain = elem.get('lexdomain', '')
+
+                grammar = {
+                    'lemma': lemma,
+                    'gender': elem.get('gender', ''),
+                    'number': elem.get('number', ''),
+                    'stem': elem.get('stem', ''),
+                    'person': elem.get('person', ''),
+                    'state': elem.get('state', ''),
+                    'pos': elem.get('pos', ''),
+                }
+
+                ref = self.get_strongs_ref(f"H{strong}")
+                ref.add_word(verse_ref, word, gloss, sense, domain, '', morph, grammar)
 
     def write_yaml_files(self, output_base_dir: str):
         """Write YAML files for each Strong's number"""
@@ -160,7 +244,7 @@ def main():
     parser = MaculaParser()
 
     print("=" * 70)
-    print("Testing Strong's Dictionary References Builder - Matthew 5 Only")
+    print("Building Strong's Dictionary References - Matthew 5")
     print("=" * 70)
 
     # Parse Matthew, chapter 5 only
@@ -174,7 +258,7 @@ def main():
     parser.write_yaml_files(output_dir)
 
     print("\n" + "=" * 70)
-    print(f"Test Complete! Processed {len(parser.strongs_data)} Strong's numbers from Matthew 5")
+    print(f"Complete! Processed {len(parser.strongs_data)} Strong's numbers from Matthew 5")
     print("=" * 70)
 
 
