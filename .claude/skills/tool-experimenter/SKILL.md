@@ -111,6 +111,24 @@ For each of the 3 initial experiments:
    - Review agent feedback (Top 3 Insights, Challenges, Quality Metrics)
    - Identify major blockers or fundamental issues for each experiment
    - Create initial comparison: which experiments show promise, which have critical blockers?
+
+   **Source/Method Optimization Analysis (Critical for Early Phases):**
+   - For each experiment, identify the primary data access method:
+     - **Web Tools (WebFetch):** Does the source have predictable URL schemas or params?
+       - ✅ GOOD: `https://example.com/verse/{book}/{chapter}/{verse}` (can be templated)
+       - ✅ GOOD: `https://example.com/search?ref={book}+{chapter}:{verse}` (clear params)
+       - ❌ POOR: Requires complex navigation or search-then-click workflows
+       - ❌ POOR: Inconsistent URL structures that can't be predicted
+     - **WebSearch:** Document which search query patterns work best
+     - **MCP/Skills/Scripts:** Evaluate if custom tooling would be more efficient
+   - **Decision Criteria:** Prioritize experiments that use predictable, scalable access methods
+   - **Documentation:** In LEARNINGS-round1.md, create table:
+     | Experiment | Access Method | URL Pattern | Predictability | Scalability |
+     |------------|---------------|-------------|----------------|-------------|
+     | Exp A | WebFetch | example.com/verse/{ref} | High | Excellent |
+     | Exp B | WebSearch | Various queries | Medium | Good |
+     | Exp C | Manual navigation | N/A | Low | Poor |
+
    - Document in: `./bible-study-tools/{tool-name}/experiments/LEARNINGS-round1.md`
    - Commit with: `chore: round 1 initial experiments`
 
@@ -178,6 +196,25 @@ For each of the 3 experiments independently, iterate until the approach is solid
    - Update `./bible-study-tools/{tool-name}/experiments/LEARNINGS-round{N}.md` for each major round
    - Note what changed, why, and impact on quality
    - Track revision history and rationale
+
+   **Review Committee Tracking (Rounds 2-5):**
+   - In early rounds (2-3), use **broad review committee** with many reviewers asking many questions:
+     - Example reviewers: Scholarly Accuracy Reviewer, Translation Sensitivity Reviewer, Contextual Completeness Reviewer, Source Reliability Reviewer, Theological Balance Reviewer, AI Usability Reviewer, Practical Application Reviewer, Cultural Context Reviewer, etc.
+     - Each asks 5-10 questions covering their domain
+     - Goal: Cast wide net to catch all types of issues
+   - **Document which reviewers found which issues:**
+     ```markdown
+     ## Review Committee Results - Round 2
+
+     | Reviewer | Question | Issue Found | Fixed? | Impact |
+     |----------|----------|-------------|--------|--------|
+     | Scholarly Accuracy | "Are all dates verified?" | Found unverified claim about 586 BC | Yes | Medium |
+     | Source Reliability | "Can all sources be accessed?" | Found 3 broken URLs | Yes | High |
+     | AI Usability | "Is citation format consistent?" | Found 12 inconsistent citations | Yes | Low |
+     | Practical Application | "Would pastors use this?" | N/A - no issues | N/A | N/A |
+     | Cultural Context | "Are non-Western perspectives included?" | Limited to Western sources | No | Low |
+     ```
+   - Track effectiveness: Which reviewers consistently find real issues? Which questions catch problems?
    - Commit after each round: `chore: round {N} refinements for {experiment-name}`
 
 **Expected Completion:** Each experiment should have 4-6 revisions tested on 6-12 verses total
@@ -282,10 +319,52 @@ Now that the strategic direction is clear, focus exclusively on making it excell
      - Outputs are immediately usable
      - No surprising failures or edge cases
 
+6. **Review Committee Optimization (Rounds 7-8)**
+
+   Based on learnings from Rounds 2-5, optimize the review committee:
+
+   **Analysis:**
+   - Review all "Review Committee Results" tables from previous rounds
+   - Calculate effectiveness metrics:
+     ```
+     Reviewer Effectiveness = (Issues Found / Questions Asked) × Average Impact
+     Question Effectiveness = (Times It Found Issues / Times It Was Asked)
+     ```
+
+   **Optimization:**
+   - **Remove low-value reviewers:** Those who found 0 issues across multiple rounds
+   - **Remove redundant questions:** Questions that never caught issues
+   - **Keep high-value reviewers:** Those who consistently find medium/high impact issues
+   - **Refine questions:** Make questions more targeted based on what actually caught problems
+
+   **Example Optimization:**
+   ```markdown
+   ## Optimized Review Committee - Rounds 7-8
+
+   **Removed (0 issues found across 4 rounds):**
+   - Practical Application Reviewer (all outputs were practical)
+   - Readability Reviewer (never found issues)
+
+   **Kept and Refined:**
+   - Source Reliability Reviewer → Focus on 2 key questions that caught 80% of issues:
+     1. "Can all URLs be accessed programmatically?"
+     2. "Are all factual claims traceable to sources?"
+   - Scholarly Accuracy Reviewer → Focus on 3 questions that found real problems:
+     1. "Are all historical dates verified?"
+     2. "Are theological claims balanced?"
+     3. "Are language-specific claims checked against lexicons?"
+
+   **Result:** 8 reviewers → 3 reviewers, 64 questions → 12 focused questions
+   ```
+
+   - Document optimization rationale in LEARNINGS-round{N}.md
+   - Goal: **Least reviewers with most focused questions that catch most problems**
+
 **Stopping Criteria:**
 - Quality is consistently excellent (8.5+/10)
 - Agent feedback shows confidence and satisfaction
 - Outputs meet all project standards
+- Optimized review committee catches issues efficiently
 - Diminishing returns reached (improvements < 3% between iterations)
 
 **Expected Completion:** Winner has been tested on 20-30 total verses with final schema/methodology
@@ -382,6 +461,110 @@ This phase determines what can be removed or simplified without losing quality:
    - ✅ Stellar examples are included in README
    - ✅ No unresolved critical issues
    - ✅ Tool is scalable (can be applied to all 31,000 verses without modification)
+
+5. **Final Comprehensive Validation**
+
+   **Goal:** Go back over ALL key files and validate EVERY requirement was met
+
+   This is the final review before production deployment. Be thorough and systematic.
+
+   **Step 1: Validate Tool README.md**
+   - [ ] Purpose statement is clear and compelling
+   - [ ] Target audience is explicitly defined (pastors, translators, students, etc.)
+   - [ ] Research methodology is documented with specific steps
+   - [ ] All required sources are listed with access methods
+   - [ ] Schema is complete with all required fields documented
+   - [ ] **Source access method is optimized:**
+     - [ ] If WebFetch: URL pattern is predictable and templatable
+     - [ ] If WebSearch: Query patterns are documented
+     - [ ] If MCP/Script: Integration is documented
+   - [ ] 3-5 stellar examples are included from experiments
+   - [ ] Examples cover diverse verse types (well-known, moderate, obscure)
+   - [ ] Citation format follows @STANDARDIZATION.md
+   - [ ] Quality standards are defined (what makes output excellent?)
+   - [ ] Troubleshooting section based on experiment challenges
+   - [ ] File is 150-250 lines (concise but complete)
+
+   **Step 2: Validate LEARNINGS.md**
+   - [ ] Concise summary format (100-150 lines)
+   - [ ] All rounds are summarized briefly
+   - [ ] "What Worked Well" section lists specific techniques/sources
+   - [ ] "What Worked Poorly" section documents failures
+   - [ ] Key insights are clearly articulated
+   - [ ] **Source/method optimization is documented:**
+     - [ ] Table showing access methods and predictability
+     - [ ] Rationale for chosen approach
+   - [ ] **Review committee evolution is documented:**
+     - [ ] Starting committee composition and question count
+     - [ ] Ending committee composition and question count
+     - [ ] Rationale for optimization (which reviewers/questions were effective)
+   - [ ] Stellar examples are highlighted
+   - [ ] Next steps for future improvements are listed
+   - [ ] References to detailed LEARNINGS-round{N}.md files
+
+   **Step 3: Validate Detailed Round Files (LEARNINGS-round{N}.md)**
+   - [ ] Each round file documents what changed and why
+   - [ ] Quality improvements are quantified (scores, metrics)
+   - [ ] **Review Committee Results tables are present:**
+     - [ ] Documents which reviewers found which issues
+     - [ ] Documents which questions caught problems
+     - [ ] Tracks effectiveness over rounds
+   - [ ] Agent feedback is preserved (Top 3 Insights, Challenges, Quality Metrics)
+   - [ ] Blockers and solutions are documented
+   - [ ] Files are preserved for audit trail
+
+   **Step 4: Validate Experiment README Files**
+   - [ ] Each experiment's thesis is clearly stated
+   - [ ] README-rev1 through README-revN show evolution
+   - [ ] Final revision represents optimized approach
+   - [ ] Schema changes are documented with rationale
+   - [ ] Instruction changes are documented with impact
+   - [ ] Files demonstrate iterative improvement
+
+   **Step 5: Validate Output Files**
+   - [ ] Sample outputs from multiple rounds are preserved
+   - [ ] Naming convention is consistent: `{BOOK}-{CH:03d}-{VS:03d}-{experiment-name}-rev{N}.yaml`
+   - [ ] Final outputs demonstrate quality improvement over rev1
+   - [ ] At least 3 stellar examples are identified for README
+   - [ ] Outputs follow @STANDARDIZATION.md citation format
+   - [ ] YAML is valid and parseable
+
+   **Step 6: Validate Against Original Requirements**
+
+   Go back to the original tool request and verify:
+   - [ ] Tool addresses the original problem statement
+   - [ ] Scope is appropriate (not too narrow, not too broad)
+   - [ ] Output format meets user needs
+   - [ ] Data quality enables AI grounding
+   - [ ] Tool is practical for target audience
+   - [ ] Scalability to 31,000 verses is feasible
+
+   **Step 7: Validate Optimization Completeness**
+   - [ ] **Source/Method:** Chosen approach is most efficient (predictable URLs > search > manual)
+   - [ ] **Review Committee:** Optimized to minimum effective reviewers and questions
+   - [ ] **Schema:** No unnecessary fields (tested removal in Round 9)
+   - [ ] **Instructions:** As concise as possible while maintaining quality
+   - [ ] **Performance:** No wasted tool calls or redundant steps
+
+   **Step 8: Final Quality Spot Check**
+
+   Run the optimized tool on 3 random verses (not previously tested):
+   - [ ] Quality scores are 8.5+/10
+   - [ ] Optimized review committee catches any issues
+   - [ ] Outputs are immediately usable
+   - [ ] Process is efficient (no wasted steps)
+   - [ ] Agent reports confidence and satisfaction
+
+   **If any items fail validation:**
+   - Document the gap
+   - Create targeted fix
+   - Re-test affected areas
+   - Update relevant files
+   - Re-run validation
+
+   **When all validation passes:**
+   - Tool is production-ready
+   - Proceed to Step 6 (Commit and Create PR)
 
 5. **Commit and Create PR**
    - Commit with comprehensive message documenting experimentation journey

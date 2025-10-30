@@ -63,12 +63,39 @@ Test three fundamentally different approaches to generating sermon illustrations
 - YouTube sermon transcripts (requires API integration)
 - Most church websites with sermon archives
 
+### Source/Method Optimization
+
+| Experiment | Access Method | URL Pattern | Predictability | Scalability | Notes |
+|------------|---------------|-------------|----------------|-------------|-------|
+| Preacher-Transcripts | WebFetch | Various sermon sites | Low | Poor | 403 errors, no predictable URL schema |
+| Cultural-Artifacts | WebSearch + WebFetch | IMDB, Wikipedia | High | Excellent | Predictable patterns, reliable access |
+| Web-Databases | WebSearch | Search snippets | Medium | Good | Search-based discovery works well |
+
+**Decision:** Cultural-Artifacts chosen for predictable access methods and scalability
+
+### Review Committee Evolution
+
+**Round 1 (Initial):**
+- 8 reviewers with 64 total questions (broad net to catch all issue types)
+- All reviewers active to understand problem space
+
+**Rounds 2-3 (To be conducted):**
+- Track which reviewers find which issues
+- Track which questions catch real problems
+- Document effectiveness metrics
+
+**Rounds 7-8 (To be optimized):**
+- Target: 3-4 reviewers with 12-15 focused questions
+- Keep only reviewers who consistently find issues
+- Refine questions based on what actually caught problems
+
 ### Recommended Approach
 
 **Winner: Cultural-Artifacts (Experiment B)**
 - Ready for refinement phase
 - Score: 9.3/10 weighted across all criteria
 - Immediately usable outputs for pastors
+- **Optimal access method:** WebSearch for discovery + WebFetch for verification (predictable patterns)
 
 **Future consideration:** Retest Preacher-Transcripts with proper WebFetch permissions and API access
 
