@@ -36,7 +36,7 @@ Represents syntactic constituents (phrases, clauses)
 
 | Field | Description | Example (Hebrew) | Example (Greek) |
 |-------|-------------|------------------|-----------------|
-| `xml:id` | Unique identifier | `o010010010011` | `n43001001001` |
+| `wordID` | Unique word identifier. Aligns with morphhb (Westminster Leningrad Codex), ACAI (BibleAquifer entities), and Clear-Bible Alignments for cross-referencing with other datasets and translation projects. | `o010010010011` | `n43001001001` |
 | `ref` | Verse reference with word position | `GEN 1:1!1` | `JHN 1:1!1` |
 | `class` | Word class | `prep`, `noun`, `verb` | `prep`, `noun`, `verb` |
 | `pos` | Part of speech | `preposition`, `noun`, `verb`, `conjunction`, `particle` | `preposition`, `noun`, `verb`, `conjunction`, `article` |
@@ -105,7 +105,7 @@ Represents syntactic constituents (phrases, clauses)
 
 | Field | Description | Example |
 |-------|-------------|---------|
-| `domain` | Louw-Nida semantic domain | `067002` |
+| `semanticDomain` | Louw-Nida semantic domain | `067002` |
 | `ln` | Louw-Nida number | `67.33` |
 
 ### Cross-Reference Fields

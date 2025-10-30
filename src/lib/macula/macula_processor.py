@@ -56,8 +56,7 @@ GREEK_BOOK_MAP = {
 
 def log(message):
     """Print timestamped log message."""
-    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    print(f"[{timestamp}] {message}")
+    logger.info(message)
 
 
 def parse_verse_ref(ref_str):
@@ -75,11 +74,22 @@ def extract_hebrew_word(word_elem, position):
     """Extract data from Hebrew word element."""
     word_data = {
         "position": position,
-        "ref": word_elem.get("ref", ""),
         "text": word_elem.text or "",
         "lemma": word_elem.get("lemma", ""),
         "transliteration": word_elem.get("transliteration", ""),
     }
+
+    # IDs - for cross-referencing with other datasets
+    ids = {}
+    if word_elem.get("ref"):
+        ids["ref"] = word_elem.get("ref")
+
+    xml_id = word_elem.get("{http://www.w3.org/XML/1998/namespace}id")
+    if xml_id:
+        ids["wordID"] = xml_id
+
+    if ids:
+        word_data["ids"] = ids
 
     # Translation
     translation = {}
@@ -166,11 +176,22 @@ def extract_greek_word(word_elem, position):
     """Extract data from Greek word element."""
     word_data = {
         "position": position,
-        "ref": word_elem.get("ref", ""),
         "text": word_elem.text or "",
         "lemma": word_elem.get("lemma", ""),
         "normalized": word_elem.get("normalized", ""),
     }
+
+    # IDs - for cross-referencing with other datasets
+    ids = {}
+    if word_elem.get("ref"):
+        ids["ref"] = word_elem.get("ref")
+
+    xml_id = word_elem.get("{http://www.w3.org/XML/1998/namespace}id")
+    if xml_id:
+        ids["wordID"] = xml_id
+
+    if ids:
+        word_data["ids"] = ids
 
     # Translation
     translation = {}
@@ -204,7 +225,7 @@ def extract_greek_word(word_elem, position):
     # Semantic domains
     semantic = {}
     if word_elem.get("domain"):
-        semantic["domain"] = word_elem.get("domain")
+        semantic["semanticDomain"] = word_elem.get("domain")
     if word_elem.get("ln"):
         semantic["ln"] = word_elem.get("ln")
     if semantic:
