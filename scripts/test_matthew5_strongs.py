@@ -17,10 +17,10 @@ class StrongsReference:
     def __init__(self, strongs_num: str):
         self.strongs_num = strongs_num
         self.lemma = None  # Will be set from first occurrence
-        # senses[sense_key] = {'gloss': str, 'references': [verse_refs]}
-        self.senses = defaultdict(lambda: {'gloss': '', 'references': []})
-        # forms[form_desc] = [{'verse': ref, 'word': actual_word}]
-        self.forms = defaultdict(list)
+        # senses[sense_key] = {'gloss': str, 'verses': [verse_refs]}
+        self.senses = defaultdict(lambda: {'gloss': '', 'verses': []})
+        # forms[form_desc] = {'word': actual_word, 'verses': [refs]}
+        self.forms = defaultdict(lambda: {'word': None, 'verses': []})
 
     def add_word(self, verse_ref: str, word: str, gloss: str, sense: str,
                  domain: str, ln: str, morph: str, grammar: Dict[str, str]):
@@ -43,8 +43,8 @@ class StrongsReference:
         # Add to senses
         if not self.senses[sense_key]['gloss']:
             self.senses[sense_key]['gloss'] = gloss
-        if verse_ref not in self.senses[sense_key]['references']:
-            self.senses[sense_key]['references'].append(verse_ref)
+        if verse_ref not in self.senses[sense_key]['verses']:
+            self.senses[sense_key]['verses'].append(verse_ref)
 
         # Build form description from grammatical attributes
         form_parts = []
@@ -69,11 +69,12 @@ class StrongsReference:
 
         form_desc = '/'.join(form_parts) if form_parts else morph
 
-        # Add to forms with the actual word
-        form_entry = {'verse': verse_ref, 'word': word}
-        # Avoid duplicates
-        if form_entry not in self.forms[form_desc]:
-            self.forms[form_desc].append(form_entry)
+        # Add to forms - store word once and collect verses
+        if self.forms[form_desc]['word'] is None:
+            self.forms[form_desc]['word'] = word
+        # Add verse if not already present
+        if verse_ref not in self.forms[form_desc]['verses']:
+            self.forms[form_desc]['verses'].append(verse_ref)
 
     def to_dict(self):
         """Convert to dictionary for YAML output"""
@@ -89,14 +90,17 @@ class StrongsReference:
         for sense_key, sense_data in sorted(self.senses.items()):
             senses_dict[sense_key] = {
                 'gloss': sense_data['gloss'],
-                'references': sorted(sense_data['references'])
+                'verses': sorted(sense_data['verses'])
             }
         result['senses'] = senses_dict
 
         # Convert forms
         forms_dict = {}
-        for form, entries in sorted(self.forms.items()):
-            forms_dict[form] = sorted(entries, key=lambda x: x['verse'])
+        for form, form_data in sorted(self.forms.items()):
+            forms_dict[form] = {
+                'word': form_data['word'],
+                'verses': sorted(form_data['verses'])
+            }
         result['forms'] = forms_dict
 
         return result
