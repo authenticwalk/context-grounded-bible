@@ -59,10 +59,6 @@ words:
     lemma: φιλέω
     transliteration: philéō
     definition: ...
-metadata:
-  total_entries: 2
-  greek_entries: 2
-  hebrew_entries: 0
 ```
 
 ## Data Sources

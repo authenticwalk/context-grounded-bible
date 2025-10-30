@@ -186,11 +186,6 @@ def fetch_strongs_entries(
             "words": {
                 "G0025": {...},
                 "H0157": {...}
-            },
-            "metadata": {
-                "total_entries": 3,
-                "greek_entries": 2,
-                "hebrew_entries": 1
             }
         }
     """
@@ -221,35 +216,16 @@ def fetch_strongs_entries(
 
     # Fetch all entries
     entries = {}
-    greek_count = 0
-    hebrew_count = 0
 
     for strongs_num in sorted(all_numbers):
         entry = load_strongs_entry(strongs_num)
         if entry:
             entries[strongs_num] = entry
 
-            if strongs_num.startswith('G'):
-                greek_count += 1
-            elif strongs_num.startswith('H'):
-                hebrew_count += 1
-
     # Build result
     result = {
-        "words": entries,
-        "metadata": {
-            "total_entries": len(entries),
-            "greek_entries": greek_count,
-            "hebrew_entries": hebrew_count
-        }
+        "words": entries
     }
-
-    # Add search info if applicable
-    if words:
-        result["metadata"]["search_words"] = words
-
-    if numbers:
-        result["metadata"]["requested_numbers"] = sorted(all_numbers)
 
     return result
 

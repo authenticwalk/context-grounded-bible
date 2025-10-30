@@ -126,11 +126,6 @@ words:
   G5368:
     strongs_number: G5368
     ...
-metadata:
-  total_entries: 3
-  greek_entries: 2
-  hebrew_entries: 1
-  search_words: [love]
 ```
 
 Present the information clearly, highlighting:
