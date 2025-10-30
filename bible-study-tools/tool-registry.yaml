@@ -1,0 +1,119 @@
+# Bible Study Tools Registry
+#
+# Central registry of all Bible study tools with metadata for filtering and organization.
+# Used by scripture-study skill to determine which files to include at each depth level.
+#
+# Format:
+#   tool-suffix:
+#     name: Human-readable tool name
+#     summary: Very brief description (max 20 words)
+#     scope: core|standard|comprehensive (determines inclusion and indicates file size)
+#     category: lexical|theological|practical|historical|linguistic|topical
+#
+# Scope Levels:
+#   - core: Essential data, always included, small files (~1-50 KB)
+#     Query inclusion: light, medium, full
+#     Examples: sermon-illustrations, cross-references
+#
+#   - standard: Standard research depth, moderate files (~50-500 KB)
+#     Query inclusion: medium, full
+#     Examples: word-studies, historical-context, semantic-clusters
+#
+#   - comprehensive: Exhaustive reference data, large files (>500 KB)
+#     Query inclusion: full only
+#     Examples: all-translations, complete-lexicon
+#
+# Categories:
+#   - lexical: Word meanings, etymology, source languages
+#   - theological: Doctrine, theology, biblical themes
+#   - practical: Application, sermon illustrations, devotional insights
+#   - historical: Cultural context, historical background, archaeology
+#   - linguistic: Translation analysis, semantic clusters, language patterns
+#   - topical: Topic cross-references, thematic connections
+
+tools:
+  # === LEXICAL TOOLS ===
+
+  original-language-words:
+    name: Original Language Words
+    summary: Greek and Hebrew source words with morphology and Strong's definitions
+    scope: standard
+    category: lexical
+
+  # === LINGUISTIC TOOLS ===
+
+  translations-ebible:
+    name: eBible Translations
+    summary: Comprehensive translation database from eBible corpus (1000+ translations)
+    scope: comprehensive
+    category: linguistic
+    note: Very large files, include only at full depth queries
+
+  semantic-clusters:
+    name: Semantic Clusters
+    summary: Groupings of semantically related translation patterns across languages
+    scope: standard
+    category: linguistic
+
+  # === PRACTICAL TOOLS ===
+
+  sermon-illustrations:
+    name: Sermon Illustrations
+    summary: Concrete examples from films, literature, history for preaching and teaching
+    scope: core
+    category: practical
+
+  # === FUTURE TOOLS (commented out until implemented) ===
+
+  # cross-references:
+  #   name: Cross References
+  #   summary: Related verses and thematic connections throughout Scripture
+  #   scope: core
+  #   category: topical
+
+  # historical-context:
+  #   name: Historical Context
+  #   summary: Cultural, geographical, and historical background information
+  #   scope: standard
+  #   category: historical
+
+  # theological-themes:
+  #   name: Theological Themes
+  #   summary: Doctrinal analysis and systematic theology connections
+  #   scope: standard
+  #   category: theological
+
+  # application-insights:
+  #   name: Application Insights
+  #   summary: Practical life application and devotional reflections
+  #   scope: core
+  #   category: practical
+
+  # word-studies:
+  #   name: Word Studies
+  #   summary: Deep lexical analysis with usage patterns across Scripture
+  #   scope: standard
+  #   category: lexical
+
+  # quotations-allusions:
+  #   name: Quotations and Allusions
+  #   summary: Old Testament quotes and allusions in New Testament
+  #   scope: standard
+  #   category: topical
+
+  # syntax-analysis:
+  #   name: Syntax Analysis
+  #   summary: Grammatical structure and discourse analysis
+  #   scope: comprehensive
+  #   category: linguistic
+
+  # textual-variants:
+  #   name: Textual Variants
+  #   summary: Manuscript differences and textual critical notes
+  #   scope: comprehensive
+  #   category: historical
+
+# Metadata
+registry_version: 1.0.0
+last_updated: 2025-10-30
+maintained_by: Context-Grounded Bible Project

@@ -417,7 +417,25 @@ This phase determines what can be removed or simplified without losing quality:
    - Include troubleshooting guidance based on challenges documented
    - Target: 150-250 lines (concise but complete)
 
-2. **Consolidate LEARNINGS.md**
+2. **Update Tool Registry**
+   - Register or update the tool in `/bible-study-tools/tool-registry.yaml`
+   - Based on experimentation results, determine appropriate metadata:
+     - **Scope:** Based on final optimized file sizes
+       - `core`: If files are consistently small (<50 KB) and essential for all queries
+       - `standard`: If files are moderate (50-500 KB) and valuable for typical study
+       - `comprehensive`: If files are large (>500 KB) or only needed for exhaustive analysis
+     - **Category:** lexical|theological|practical|historical|linguistic|topical
+     - **Summary:** Concise description (max 20 words) of what the tool provides
+   - Example registry entry:
+     ```yaml
+     {tool-suffix}:
+       name: {Tool Name}
+       summary: {Brief description from experimentation}
+       scope: {core|standard|comprehensive}
+       category: {appropriate category}
+     ```
+
+3. **Consolidate LEARNINGS.md**
    - Synthesize learnings from all experiment rounds into concise summary
    - Create `./bible-study-tools/{tool-name}/LEARNINGS.md` with format:
      - **Round Summary:** Brief overview of each round
@@ -429,7 +447,7 @@ This phase determines what can be removed or simplified without losing quality:
    - Preserve detailed round documentation in `LEARNINGS-round{N}.md` files for reference
    - Target: LEARNINGS.md = 100-150 lines; detailed round files can be longer
 
-3. **Preserve Experiment History**
+4. **Preserve Experiment History**
    - Keep all experiment folders for future reference
    - Maintain audit trail of tool's evolution
    - Structure:
@@ -450,7 +468,7 @@ This phase determines what can be removed or simplified without losing quality:
        └── ...
      ```
 
-4. **Production Readiness Checklist**
+5. **Production Readiness Checklist**
 
    Before declaring tool production-ready, verify:
    - ✅ Tested on 25+ diverse verses
@@ -462,13 +480,23 @@ This phase determines what can be removed or simplified without losing quality:
    - ✅ No unresolved critical issues
    - ✅ Tool is scalable (can be applied to all 31,000 verses without modification)
 
-5. **Final Comprehensive Validation**
+6. **Final Comprehensive Validation**
 
    **Goal:** Go back over ALL key files and validate EVERY requirement was met
 
    This is the final review before production deployment. Be thorough and systematic.
 
-   **Step 1: Validate Tool README.md**
+   **Step 1: Validate Tool Registry Entry**
+   - [ ] Tool is registered in `/bible-study-tools/tool-registry.yaml`
+   - [ ] Scope is appropriate based on file sizes:
+     - [ ] `core` if files <50 KB and essential for all queries
+     - [ ] `standard` if files 50-500 KB and useful for typical study
+     - [ ] `comprehensive` if files >500 KB or only for exhaustive analysis
+   - [ ] Category accurately reflects tool's purpose
+   - [ ] Summary is concise (max 20 words) and describes value
+   - [ ] Tool suffix matches filename pattern used in outputs
+
+   **Step 2: Validate Tool README.md**
    - [ ] Purpose statement is clear and compelling
    - [ ] Target audience is explicitly defined (pastors, translators, students, etc.)
    - [ ] Research methodology is documented with specific steps
@@ -485,7 +513,7 @@ This phase determines what can be removed or simplified without losing quality:
    - [ ] Troubleshooting section based on experiment challenges
    - [ ] File is 150-250 lines (concise but complete)
 
-   **Step 2: Validate LEARNINGS.md**
+   **Step 3: Validate LEARNINGS.md**
    - [ ] Concise summary format (100-150 lines)
    - [ ] All rounds are summarized briefly
    - [ ] "What Worked Well" section lists specific techniques/sources
@@ -502,7 +530,7 @@ This phase determines what can be removed or simplified without losing quality:
    - [ ] Next steps for future improvements are listed
    - [ ] References to detailed LEARNINGS-round{N}.md files
 
-   **Step 3: Validate Detailed Round Files (LEARNINGS-round{N}.md)**
+   **Step 4: Validate Detailed Round Files (LEARNINGS-round{N}.md)**
    - [ ] Each round file documents what changed and why
    - [ ] Quality improvements are quantified (scores, metrics)
    - [ ] **Review Committee Results tables are present:**
@@ -513,7 +541,7 @@ This phase determines what can be removed or simplified without losing quality:
    - [ ] Blockers and solutions are documented
    - [ ] Files are preserved for audit trail
 
-   **Step 4: Validate Experiment README Files**
+   **Step 5: Validate Experiment README Files**
    - [ ] Each experiment's thesis is clearly stated
    - [ ] README-rev1 through README-revN show evolution
    - [ ] Final revision represents optimized approach
@@ -521,7 +549,7 @@ This phase determines what can be removed or simplified without losing quality:
    - [ ] Instruction changes are documented with impact
    - [ ] Files demonstrate iterative improvement
 
-   **Step 5: Validate Output Files**
+   **Step 6: Validate Output Files**
    - [ ] Sample outputs from multiple rounds are preserved
    - [ ] Naming convention is consistent: `{BOOK}-{CH:03d}-{VS:03d}-{experiment-name}-rev{N}.yaml`
    - [ ] Final outputs demonstrate quality improvement over rev1
@@ -529,7 +557,7 @@ This phase determines what can be removed or simplified without losing quality:
    - [ ] Outputs follow @STANDARDIZATION.md citation format
    - [ ] YAML is valid and parseable
 
-   **Step 6: Validate Against Original Requirements**
+   **Step 7: Validate Against Original Requirements**
 
    Go back to the original tool request and verify:
    - [ ] Tool addresses the original problem statement
@@ -539,14 +567,14 @@ This phase determines what can be removed or simplified without losing quality:
    - [ ] Tool is practical for target audience
    - [ ] Scalability to 31,000 verses is feasible
 
-   **Step 7: Validate Optimization Completeness**
+   **Step 8: Validate Optimization Completeness**
    - [ ] **Source/Method:** Chosen approach is most efficient (predictable URLs > search > manual)
    - [ ] **Review Committee:** Optimized to minimum effective reviewers and questions
    - [ ] **Schema:** No unnecessary fields (tested removal in Round 9)
    - [ ] **Instructions:** As concise as possible while maintaining quality
    - [ ] **Performance:** No wasted tool calls or redundant steps
 
-   **Step 8: Final Quality Spot Check**
+   **Step 9: Final Quality Spot Check**
 
    Run the optimized tool on 3 random verses (not previously tested):
    - [ ] Quality scores are 8.5+/10
@@ -566,7 +594,7 @@ This phase determines what can be removed or simplified without losing quality:
    - Tool is production-ready
    - Proceed to Step 6 (Commit and Create PR)
 
-5. **Commit and Create PR**
+7. **Commit and Create PR**
    - Commit with comprehensive message documenting experimentation journey
    - Example:
      ```

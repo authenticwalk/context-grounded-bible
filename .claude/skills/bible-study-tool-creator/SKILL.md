@@ -152,11 +152,62 @@ The script creates this structure in `/bible-study-tools/{tool-name}/`:
 - `{tool-name}-template.md` - Agent prompt template
 - `tests/README.md` - Test framework documentation
 
-### Step 9: Update Related Tools (if applicable)
+### Step 9: Register Tool in Tool Registry
+
+Update `/bible-study-tools/tool-registry.yaml` to register the new tool:
+
+**Ask the user these questions:**
+
+1. **Scope** - What level of detail and data size does this tool provide?
+   - `core`: Essential data, always included regardless of query depth
+     - Size: Small files (~1-50 KB)
+     - Examples: sermon illustrations, cross-references, basic commentary
+     - Use when: Tool provides must-have foundational data for any verse study
+
+   - `standard`: Standard research depth, typical scholarly analysis
+     - Size: Moderate files (~50-500 KB)
+     - Examples: word studies, historical context, semantic clusters
+     - Use when: Tool provides valuable research data for deeper study (most tools)
+
+   - `comprehensive`: Exhaustive reference data, complete collections
+     - Size: Large files (>500 KB)
+     - Examples: all translations (1000+), complete lexicon entries, full concordances
+     - Use when: Tool provides comprehensive reference that's only needed for exhaustive analysis
+
+2. **Category** - What type of data does this tool provide?
+   - `lexical`: Word meanings, etymology, source languages
+   - `theological`: Doctrine, theology, biblical themes
+   - `practical`: Application, sermon illustrations, devotional insights
+   - `historical`: Cultural context, historical background, archaeology
+   - `linguistic`: Translation analysis, semantic clusters, language patterns
+   - `topical`: Topic cross-references, thematic connections
+
+**Then add an entry to the registry:**
+
+```yaml
+{tool-suffix}:
+  name: {Tool Name}
+  summary: {Brief description - max 20 words}
+  scope: {core|standard|comprehensive}
+  category: {lexical|theological|practical|historical|linguistic|topical}
+```
+
+**Registry Guidelines:**
+- The tool suffix must match the filename suffix (e.g., `sermon-illustrations` for `MAT-5-3-sermon-illustrations.yaml`)
+- Summary should explain what the tool does and why it's valuable (max 20 words)
+- Scope determines BOTH when to include AND expected file size
+- Category helps users understand the tool's purpose
+
+**Query Depth Mapping:**
+- Light queries (quick overview) → Include `core` tools only
+- Medium queries (standard study) → Include `core` + `standard` tools
+- Full queries (comprehensive) → Include `core` + `standard` + `comprehensive` tools
+
+### Step 10: Update Related Tools (if applicable)
 
 If this tool is a variant of or related to existing tools, update those tools' README.md files to cross-reference the new tool. Also summarize key learnings from related tools' LEARNING.md files.
 
-### Step 10: Confirm Creation
+### Step 11: Confirm Creation
 
 Show the user a concise summary:
 
@@ -169,11 +220,15 @@ Created files in /bible-study-tools/{tool-name}/:
 - {tool-name}-template.md (agent prompt template)
 - tests/README.md (test framework)
 
+Updated:
+- /bible-study-tools/tool-registry.yaml (registered tool for scripture-study integration)
+
 Next steps:
 1. Review generated files
 2. Customize {tool-name}-template.md with specific instructions
 3. Run first test on {test_verse}
 4. Document learnings and iterate
+5. Test integration with scripture-study skill
 ```
 
 ## Best Practices
