@@ -93,24 +93,67 @@ def parse_verse_ref(ref_str):
     return None, None, None
 
 
+# Nullish values to filter out
+NULLISH_VALUES = {
+    "Not Applicable",
+    "Unspecified",
+    "No",  # When used as a boolean-like value
+    ".",   # Empty placeholder in TBTA codes
+}
+
+# Parts that are just structural noise
+SKIP_PARTS = {
+    "Space",
+    "Period",
+}
+
+
+def is_nullish(value):
+    """Check if a value is nullish and should be filtered."""
+    # Only check string values against NULLISH_VALUES set
+    if isinstance(value, str):
+        if value in NULLISH_VALUES:
+            return True
+        if value.strip() == "":
+            return True
+    return False
+
+
 def extract_clause_data(clause_elem):
-    """Recursively extract data from a clause element."""
+    """Recursively extract data from a clause element, filtering nullish values."""
     if not isinstance(clause_elem, dict):
         return clause_elem
 
-    # Extract all fields, recursively processing children
+    # Extract all fields, recursively processing children and filtering nullish
     result = {}
     for key, value in clause_elem.items():
+        # Skip if value is nullish
+        if is_nullish(value):
+            continue
+
+        # Skip structural noise elements
+        if key == "Part" and value in SKIP_PARTS:
+            return None  # Signal to skip this entire element
+
         if key == "Children" and isinstance(value, list):
-            result["children"] = [extract_clause_data(child) for child in value]
+            # Recursively process children and filter out None values
+            children = [extract_clause_data(child) for child in value]
+            children = [c for c in children if c is not None]
+            if children:  # Only add if there are non-null children
+                result["children"] = children
         elif isinstance(value, dict):
-            result[key] = extract_clause_data(value)
+            extracted = extract_clause_data(value)
+            if extracted:  # Only add if not empty
+                result[key] = extracted
         elif isinstance(value, list):
-            result[key] = [extract_clause_data(item) if isinstance(item, dict) else item for item in value]
+            items = [extract_clause_data(item) if isinstance(item, dict) else item for item in value]
+            items = [i for i in items if i is not None and not is_nullish(i)]
+            if items:  # Only add if not empty
+                result[key] = items
         else:
             result[key] = value
 
-    return result
+    return result if result else None
 
 
 def process_tbta_verse(json_file):
@@ -134,9 +177,9 @@ def process_tbta_verse(json_file):
         return None
 
     verse_data = {
+        "verse": f"{book_code}.{chapter:03d}.{verse:03d}",
         "source": "tbta",
         "version": "1.0.0",
-        "verse": f"{book_code} {chapter}:{verse}",
         "clauses": []
     }
 
@@ -144,9 +187,12 @@ def process_tbta_verse(json_file):
     if isinstance(tbta_data, list):
         for clause in tbta_data:
             clause_data = extract_clause_data(clause)
-            verse_data["clauses"].append(clause_data)
+            if clause_data:  # Only add if not None/empty
+                verse_data["clauses"].append(clause_data)
     elif isinstance(tbta_data, dict):
-        verse_data["clauses"].append(extract_clause_data(tbta_data))
+        clause_data = extract_clause_data(tbta_data)
+        if clause_data:
+            verse_data["clauses"].append(clause_data)
 
     return verse_data, book_code, chapter, verse
 

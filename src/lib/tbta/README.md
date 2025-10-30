@@ -61,9 +61,9 @@ Generated files follow this structure:
 ## Output Structure
 
 ```yaml
+verse: GEN.001.026  # SCHEMA.md format: BOOK.chapter.verse (zero-padded)
 source: tbta
 version: 1.0.0
-verse: GEN 1:26
 clauses:
   - children:
       - Constituent: God
@@ -159,16 +159,48 @@ Demonstrative distinctions:
 6. **Social register/honorifics** (Japanese, Korean, Javanese)
    - Age and relationship determine required verb forms
 
+## Data Quality & Filtering
+
+TBTA data is **manually created** and has been filtered for usability:
+
+### What We Filter Out
+- **Nullish values**: "Not Applicable", "Unspecified", "No" (when used as boolean-like)
+- **Structural noise**: "Space" and "Period" parts
+- **Empty strings**: Trimmed empty values
+
+### What We Preserve
+- **Meaningful semantic markers**: "Not in a Sequence", "First Coordinate", etc.
+- **Discourse features**: Speaker, Listener, Illocutionary Force
+- **Cross-linguistic features**: Trial number, First Inclusive person, etc.
+- **Participant tracking**: Routine, Generic, Frame Inferable
+
+This filtering reduces file size by ~35% while preserving all meaningful data.
+
 ## Comparison with Macula
 
-TBTA and Macula are **complementary**:
+TBTA and Macula are **complementary but structurally different**:
 
 | Feature | Macula | TBTA |
 |---------|--------|------|
 | **Focus** | Source text linguistics | Cross-linguistic translation |
-| **Strength** | Morphology, syntax, semantics | Translation edge cases |
-| **Data** | Strong's, Louw-Nida, SDBH | Number/person systems, discourse |
+| **Structure** | Word-level (flat list) | Clause-level (hierarchical tree) |
+| **Strength** | Morphology, syntax, semantics | Translation edge cases, discourse |
+| **Data** | Strong's, Louw-Nida, SDBH | Number/person systems, participant tracking |
 | **Question** | "What does Greek/Hebrew say?" | "How to render in language X?" |
+| **Granularity** | Per word | Per clause |
+
+### Can They Be Merged?
+
+**Not at word level** - they have fundamentally different structures:
+- Macula: `words: [{position: 1, text: "οὖν", lemma: "οὖν", ...}]`
+- TBTA: `clauses: [{children: [{Constituent: "God", Part: "Noun", ...}]}]`
+
+**Yes at verse level** - a verse file could have both:
+```yaml
+verse: GEN.001.026
+words: [...]     # From macula (word-by-word)
+clauses: [...]   # From TBTA (clause-by-clause)
+```
 
 **Use both together** for comprehensive AI-grounded translation support.
 
@@ -179,13 +211,14 @@ TBTA and Macula are **complementary**:
 - **Entire book**: Seconds to minutes
 - **Full Bible**: Several minutes
 
-## Data Quality
+## Data Source Quality
 
 TBTA data is **manually created** by linguistic experts:
 - ✅ High quality semantic/pragmatic annotation
 - ✅ Carefully analyzed discourse structure
 - ⚠️ May contain some errors (human-created)
 - ⚠️ Not all linguistic features coded in all verses
+- ✅ Filtered to remove ~35% nullish/noise data while preserving meaning
 
 ## Requirements
 
@@ -196,7 +229,7 @@ TBTA data is **manually created** by linguistic experts:
 ## Example: Genesis 1:26 - Trinity as Trial Number
 
 ```yaml
-verse: GEN 1:26
+verse: GEN.001.026  # SCHEMA.md compliant format
 clauses:
   - children:
       - Constituent: God
