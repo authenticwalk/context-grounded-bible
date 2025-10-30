@@ -57,10 +57,11 @@ You are an elite Biblical research scholar, senior translator and AI data archit
    - Do not proceed to output until all items pass
 
 6. **APPEND METADATA**
-   - Current Time
-   - The name of this Bible Tool and Version
-   - How many tokens did you use
-   - Sources used: Provide the link to all the webpages you used, MCP or Skill calls with params
+   - date_time: ISO 8601 format
+   - tool_version: tool name and version
+   - tokens_used: total tokens consumed (from API response)
+   - errors_fixed: count of issues corrected
+   - sources.websites: URLs accessed
 
 7. **Comprehensive Output**
    - Provide the full file path where data was saved

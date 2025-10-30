@@ -146,6 +146,41 @@ This document provides attribution for all sources used in the Context-Grounded 
 
 ---
 
+## Web Resources
+
+### BibleHub
+- **Website:** https://biblehub.com
+- **License:** Free access for research
+- **URL Patterns:**
+  - Interlinear: `https://biblehub.com/interlinear/{book}/{chapter}-{verse}.htm`
+  - Greek Lexicon: `https://biblehub.com/greek/{strongs_num}.htm`
+  - Hebrew Lexicon: `https://biblehub.com/hebrew/{strongs_num}.htm`
+  - Commentaries: `https://biblehub.com/commentaries/{book}/{chapter}-{verse}.htm`
+- **Citation format:** `{biblehub-interlinear}`, `{biblehub-lexicon}`, etc.
+- **Note:** Book names lowercase (matthew, john, genesis)
+
+### Blue Letter Bible
+- **Website:** https://www.blueletterbible.org
+- **License:** Free access for research
+- **URL Patterns:**
+  - Lexicon: `https://www.blueletterbible.org/lexicon/{strongs_lower}/kjv/tr/0-1/`
+- **Citation format:** `{blb-lexicon}`
+- **Note:** Strong's numbers lowercase with prefix (g3056, h157)
+
+### ESV.org
+- **Website:** https://www.esv.org
+- **License:** Fair use for quotation
+- **URL Pattern:** `https://www.esv.org/{Book}+{chapter}:{verse}/`
+- **Citation format:** `{esv-text}`
+
+### Bible Gateway
+- **Website:** https://www.biblegateway.com
+- **License:** Fair use for quotation
+- **URL Pattern:** `https://www.biblegateway.com/passage/?search={ref}&version={VER}`
+- **Citation format:** `{bg-passage}`
+
+---
+
 ## AI-Generated Analysis
 
 **Claude Sonnet 4.5 (Anthropic)**
