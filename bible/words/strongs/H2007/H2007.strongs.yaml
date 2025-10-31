@@ -7,44 +7,47 @@ definition: themselves (often used emphatic for the copula, also in indirect rel
 kjv_usage: '[idiom] in, [idiom] such (and such things), their, (into) them, thence,
   therein, these, they (had), on this side, whose, wherein.'
 derivation: prolongation for H2004 (הֵן);
-extended_definition:
-  gloss: they(fem.)
-  definition: they, these, the same, who<BR>A grammatical form of <i>hu</i> (הוּא
-    "he/she/it" H1931)
-  morphology: H:RelP
-  source: STEPBible/BDB
+extended_definition: 'they, these, the same, who
+
+  A grammatical form of hu (הוּא "he/she/it" H1931) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2050b
-    proximity: 0.83
+    proximity: 0.83 {macula-proximity}
   - strongs: H5105a
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
   - strongs: H3509b
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
   - strongs: A3660
-    proximity: 0.8254
+    proximity: 0.8254 {macula-proximity}
   - strongs: H3641b
-    proximity: 0.815
+    proximity: 0.815 {macula-proximity}
   - strongs: A1768
-    proximity: 0.809
+    proximity: 0.809 {macula-proximity}
   cross_language:
   - strongs: G1782
-    proximity: 0.8271
+    lemma: ἐντεῦθεν
+    gloss: hence {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G5209
-    proximity: 0.8261
+    lemma: ὑμᾶς
+    gloss: you {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: greek
   - strongs: G2277
-    proximity: 0.822
+    lemma: ἤτω
+    gloss: let him  be {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
     language: greek
   - strongs: G3704
-    proximity: 0.8116
+    lemma: ὅπως
+    gloss: what how {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
     language: greek
   - strongs: G2071
-    proximity: 0.8095
+    lemma: ἔσομαι
+    gloss: will be {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

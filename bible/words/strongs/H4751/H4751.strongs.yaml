@@ -8,49 +8,76 @@ definition: bitter (literally or figuratively); also (as noun) bitterness, or (a
 kjv_usage: '[phrase] angry, bitter(-ly, -ness), chafed, discontented, [idiom] great,
   heavy.'
 derivation: or (feminine) מָרָה; from H4843 (מָרַר);
-extended_definition:
-  gloss: bitter
-  definition: adj<br>1) bitter, bitterness<br>1a) of water or food<br>1b) of harlot's
-    end, end of wickedness, cry (fig.)<br>1c) of pain (subst)<br>adv<br>2) bitterly
-  morphology: H:A-M
-  source: STEPBible/BDB
+extended_definition: 'adj
+
+  1) bitter, bitterness
+
+  1a) of water or food
+
+  1b) of harlot''s end, end of wickedness, cry (fig.)
+
+  1c) of pain (subst)
+
+  adv
+
+  2) bitterly {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4164
-    proximity: 0.8284
+    lemma: מוּצַק
+    gloss: narrowness {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H1059
-    proximity: 0.8283
+    lemma: בֶּכֶה
+    gloss: a weeping {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H395
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
   - strongs: H7115
-    proximity: 0.8248
+    lemma: קֹצֶר
+    gloss: shortness {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: H3510
-    proximity: 0.8247
+    lemma: כָּאַב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H7451
-    proximity: 0.8243
+    lemma: רַע
+    gloss: bad or  evil {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: H7879
-    proximity: 0.8236
+    lemma: שִׂיחַ
+    gloss: a contemplation {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
   - strongs: H6862
-    proximity: 0.8204
+    lemma: צַר
+    gloss: narrow {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
   - strongs: H5204
-    proximity: 0.8166
+    lemma: נִי
+    gloss: lamentation {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
   - strongs: H8424
-    proximity: 0.8126
+    lemma: תּוּגָה
+    gloss: depression {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
   cross_language:
   - strongs: G5604
-    proximity: 0.8239
+    lemma: ὠδίν
+    gloss: a pang or throe {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G2553
-    proximity: 0.819
+    lemma: κακοπαθέω
+    gloss: to undergo hardship {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
     language: greek
   - strongs: G928
-    proximity: 0.8137
+    proximity: 0.8137 {macula-proximity}
     language: greek
   - strongs: G3600
-    proximity: 0.8127
+    lemma: ὀδυνάω
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

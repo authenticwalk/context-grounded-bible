@@ -6,45 +6,47 @@ definition: intransitively, to become a pupil; transitively, to disciple, i.e. e
   as scholar
 kjv_usage: be disciple, instruct, teach
 derivation: from G3101 (μαθητής);
-extended_definition:
-  gloss: to disciple
-  definition: '<b>μαθητεύω</b><BR /> (μαθητής), <BR />__1. intrans. (as prop. vb.
-    in -εύω, and so Plut., mor. 837 with and elsew.), <b>to be a disciple</b>: with
-    dative, <ref=''Mat.27.57''>Mat.27:57</ref> (Rec., WH, mg.). <BR /> __2. Trans.,
-    <b>to make a disciple</b>: with accusative, <ref=''Mat.28.19''>Mat.28:19</ref>,
-    <ref=''Act.14.21''>Act.14:21</ref>; pass., before dative, τ. Ἰησοῦ, <ref=''Mat.27.57''>Mat.27:57</ref>
-    (WH, R); τ. βασιλείᾳ, <ref=''Mat.13.52.''>Mat.13:52.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> μᾰθητ-εύω</b>, <br /> <b>to be pupil</b>, τινι <b>to</b> one,
-    [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus
-    2.832c. ">Refs 1st c.AD+</a>]<br /><Level2><b>__II</b></Level2> <i>transitive</i>,
-    <b>make a disciple of, instruct</b>, πάντα τὰ ἔθνη [<a href="javascript:void(0)"
-    title=" NT.Matt.28.19, cf. NT.Act.14.21 ">NT</a>]:—<i>passive</i>, [<a href="javascript:void(0)"
-    title=" NT.Matt.13.52. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'μαθητεύω
+
+  (μαθητής),
+
+  __1. intrans. (as prop. vb. in -εύω, and so Plut., mor. 837 with and elsew.), to
+  be a disciple: with dative, Mat.27:57 (Rec., WH, mg.).
+
+  __2. Trans., to make a disciple: with accusative, Mat.28:19, Act.14:21; pass., before
+  dative, τ. Ἰησοῦ, Mat.27:57 (WH, R); τ. βασιλείᾳ, Mat.13:52.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'μᾰθητ-εύω,
+
+  to be pupil, τινι to one, [Refs 1st c.AD+]
+
+  __II transitive, make a disciple of, instruct, πάντα τὰ ἔθνη [NT]:—passive, [NT]
+  {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2525
-    proximity: 0.8279
+    lemma: καθίστημι
+    gloss: to place down {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: G1096
-    proximity: 0.8238
+    lemma: γίνομαι
+    gloss: to cause to be {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: A7739
-    proximity: 0.7948
+    proximity: 0.7948 {macula-proximity}
   cross_language:
   - strongs: H6466
-    proximity: 0.8245
+    lemma: פָּעַל
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
     language: hebrew
   - strongs: H4427
-    proximity: 0.8044
+    lemma: מָלַךְ
+    gloss: to reign {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
     language: hebrew
   - strongs: H3823a
-    proximity: 0.7898
+    proximity: 0.7898 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

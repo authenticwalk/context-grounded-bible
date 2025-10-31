@@ -6,37 +6,45 @@ pronunciation: ab-dooth'
 definition: servitude
 kjv_usage: bondage.
 derivation: from H5647 (עָבַד);
-extended_definition:
-  gloss: slavery
-  definition: servitude, bondage
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: servitude, bondage {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5656
-    proximity: 0.8156
+    lemma: עֲבֹדָה
+    gloss: work of any kind {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
   - strongs: H4522
-    proximity: 0.7895
+    lemma: מַס
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7895 {macula-proximity}
   - strongs: H6014a
-    proximity: 0.7834
+    proximity: 0.7834 {macula-proximity}
   - strongs: H7980
-    proximity: 0.7743
+    lemma: שָׁלַט
+    gloss: to dominate {openscriptures-strongs}
+    proximity: 0.7743 {macula-proximity}
   - strongs: H5657
-    proximity: 0.7728
+    lemma: עֲבֻדָּה
+    gloss: something wrought {openscriptures-strongs}
+    proximity: 0.7728 {macula-proximity}
   - strongs: H5650
-    proximity: 0.7384
+    lemma: עֶבֶד
+    gloss: a servant {openscriptures-strongs}
+    proximity: 0.7384 {macula-proximity}
   cross_language:
   - strongs: G2961
-    proximity: 0.8106
+    lemma: κυριεύω
+    gloss: to rule {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: greek
   - strongs: G1398
-    proximity: 0.756
+    lemma: δουλεύω
+    gloss: to be a slave to (literal or figurative {openscriptures-strongs}
+    proximity: 0.756 {macula-proximity}
     language: greek
   - strongs: G1401
-    proximity: 0.7255
+    lemma: δοῦλος
+    gloss: a slave (literal or figurative {openscriptures-strongs}
+    proximity: 0.7255 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

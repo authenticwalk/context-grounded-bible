@@ -9,45 +9,55 @@ kjv_usage: be ashamed, be confounded, be brought to confusion (unto shame), come
   put to) shame, bring reproach.
 derivation: a primitive root (perhaps rather the same as H2658 (חָפַר) through the
   idea of detection);
-extended_definition:
-  gloss: be ashamed
-  definition: 1) to be ashamed, be confounded, be abashed, feel abashed<br>1a) (Qal)
-    to be ashamed, be abashed<br>1b) (Hiphil) to display shame, demonstrate shame,
-    cause embarrassment
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be ashamed, be confounded, be abashed, feel abashed
+
+  1a) (Qal) to be ashamed, be abashed
+
+  1b) (Hiphil) to display shame, demonstrate shame, cause embarrassment {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5844
-    proximity: 0.8119
+    lemma: עָטָה
+    gloss: to wrap {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: H5034a
-    proximity: 0.8057
+    proximity: 0.8057 {macula-proximity}
   - strongs: H2617a
-    proximity: 0.7828
+    proximity: 0.7828 {macula-proximity}
   - strongs: H3640
-    proximity: 0.7636
+    lemma: כְּלִמּוּת
+    gloss: disgrace {openscriptures-strongs}
+    proximity: 0.7636 {macula-proximity}
   - strongs: H2781
-    proximity: 0.7419
+    lemma: חֶרְפָּה
+    gloss: contumely {openscriptures-strongs}
+    proximity: 0.7419 {macula-proximity}
   - strongs: H7022
-    proximity: 0.7151
+    lemma: קִיקָלוֹן
+    gloss: intense disgrace {openscriptures-strongs}
+    proximity: 0.7151 {macula-proximity}
   cross_language:
   - strongs: G1165
-    proximity: 0.8133
+    lemma: δειγματίζω
+    gloss: to exhibit {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
     language: greek
   - strongs: G1870
-    proximity: 0.7897
+    lemma: ἐπαισχύνομαι
+    gloss: to feel shame for something {openscriptures-strongs}
+    proximity: 0.7897 {macula-proximity}
     language: greek
   - strongs: G3856
-    proximity: 0.784
+    lemma: παραδειγματίζω
+    gloss: to show alongside {openscriptures-strongs}
+    proximity: 0.784 {macula-proximity}
     language: greek
   - strongs: G808
-    proximity: 0.7776
+    proximity: 0.7776 {macula-proximity}
     language: greek
   - strongs: G3681
-    proximity: 0.7194
+    lemma: ὄνειδος
+    gloss: notoriety {openscriptures-strongs}
+    proximity: 0.7194 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

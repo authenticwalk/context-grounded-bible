@@ -5,43 +5,50 @@ transliteration: exérama
 definition: vomit, i.e. food disgorged
 kjv_usage: vomit
 derivation: from a comparative of G1537 (ἐκ) and a presumed (to spue);
-extended_definition:
-  gloss: vomit
-  definition: '<b>ἐξέραμα</b>, -τος, τό<BR /> (ἐξεράω, to evacuate, disgorge) <BR
-    /><b>a vomit</b>: <ref=''2Pe.2.22''>2Pe.2:22</ref> (LXX).†<BR /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ἐξέρ-ᾱμα</b>, ατος, τό, <br /> <b>vomit, thing vomited,</b>
-    [<a href="javascript:void(0)" title=" NT.2Pet.2.22. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ἐξέραμα, -τος, τό
+
+  (ἐξεράω, to evacuate, disgorge)
+
+  a vomit: 2Pe.2:22 (LXX).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐξέρ-ᾱμα, ατος, τό,
+
+  vomit, thing vomited, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5101
-    proximity: 0.8264
+    lemma: τίς
+    gloss: an interrogative pronoun {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: G5100
-    proximity: 0.8253
+    lemma: τὶς
+    gloss: some or any person or object {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
   - strongs: G18
-    proximity: 0.8223
+    proximity: 0.8223 {macula-proximity}
   cross_language:
   - strongs: H1697
-    proximity: 0.8292
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
     language: hebrew
   - strongs: H4639
-    proximity: 0.8287
+    lemma: מַעֲשֶׂה
+    gloss: an action {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: hebrew
   - strongs: H398
-    proximity: 0.8284
+    proximity: 0.8284 {macula-proximity}
     language: hebrew
   - strongs: H4399
-    proximity: 0.8272
+    lemma: מְלָאכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: hebrew
   - strongs: H3627
-    proximity: 0.8241
+    lemma: כְּלִי
+    gloss: something prepared {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

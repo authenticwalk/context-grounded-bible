@@ -6,34 +6,38 @@ pronunciation: yeb-oos'
 definition: Jebus, the original name of Jerusalem
 kjv_usage: Jebus.
 derivation: from H947 (בּוּס); trodden, i.e. threshing-place;
-extended_definition:
-  gloss: Jebus
-  definition: Jebus = "threshing place"<br> an early name for Jerusalem, the city
-    of the Jebusites; also 'Jebusi'<BR>Another name of <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם,
-    יְרוּשְׁלֵם "Jerusalem" H3389)
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: 'Jebus = "threshing place"
+
+  an early name for Jerusalem, the city of the Jebusites; also ''Jebusi''
+
+  Another name of ye.ru.sha.laim (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם "Jerusalem" H3389) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3157a
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
   - strongs: H3157
-    proximity: 0.8192
+    lemma: יִזְרְעֵאל
+    gloss: Jizreel {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: H3263
-    proximity: 0.8157
+    lemma: יְעוּץ
+    gloss: Jeuts {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: H5021
-    proximity: 0.8094
+    lemma: נְבוּשַׁזְבָּן
+    gloss: Nebushazban {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
   - strongs: H938
-    proximity: 0.7632
+    proximity: 0.7632 {macula-proximity}
   cross_language:
   - strongs: G2103
-    proximity: 0.8298
+    lemma: Εὔβουλος
+    gloss: good-willer {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G4227
-    proximity: 0.8262
+    lemma: Πούδης
+    gloss: modest {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

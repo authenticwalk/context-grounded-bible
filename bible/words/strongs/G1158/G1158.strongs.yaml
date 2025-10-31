@@ -5,26 +5,21 @@ transliteration: Daniḗl
 definition: Daniel, an Israelite
 kjv_usage: Daniel
 derivation: of Hebrew origin (H01840);
-extended_definition:
-  gloss: Daniel
-  definition: '<b>Δανιήλ</b>, ὁ, indecl. (Heb. דָּנִיֵּאל, <i>God is my Judge</i>),
-    <BR /> <b>Daniel</b>, <b>the prophet</b>: <ref=''Mat.24.15.''>Mat.24:15.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Δανιήλ</b>, ὁ, indecl. (Heb. דָּנִיֵּאל, <i>God is my Judge</i>),
-    <BR /> <b>Daniel</b>, <b>the prophet</b>: <ref=''Mat.24.15.''>Mat.24:15.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Δανιήλ, ὁ, indecl. (Heb. דָּנִיֵּאל, God is my Judge),
+
+  Daniel, the prophet: Mat.24:15.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Δανιήλ, ὁ, indecl. (Heb. דָּנִיֵּאל, God is my Judge),
+
+  Daniel, the prophet: Mat.24:15.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H1835
-    proximity: 0.8207
+    lemma: דָּן
+    gloss: Dan {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,46 +6,57 @@ pronunciation: law-ag'
 definition: to deride; by implication (as if imitating a foreigner) to speak unintelligibly
 kjv_usage: have in derision, laugh (to scorn), mock (on), stammering.
 derivation: a primitive root;
-extended_definition:
-  gloss: to mock
-  definition: 1) to mock, deride, ridicule<br>1a) (Qal) to mock, deride, have in derision<br>1b)
-    (Niphal) to stammer<br>1c) (Hiphil) to mock, deride
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to mock, deride, ridicule
+
+  1a) (Qal) to mock, deride, have in derision
+
+  1b) (Niphal) to stammer
+
+  1c) (Hiphil) to mock, deride {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2048a
-    proximity: 0.8211
+    proximity: 0.8211 {macula-proximity}
   - strongs: H937
-    proximity: 0.8172
+    proximity: 0.8172 {macula-proximity}
   - strongs: H4912
-    proximity: 0.8166
+    lemma: מָשָׁל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
   - strongs: H2616a
-    proximity: 0.803
+    proximity: 0.803 {macula-proximity}
   - strongs: H1422
-    proximity: 0.7938
+    lemma: גְּדוּפָה
+    gloss: a revilement {openscriptures-strongs}
+    proximity: 0.7938 {macula-proximity}
   - strongs: H939
-    proximity: 0.7821
+    proximity: 0.7821 {macula-proximity}
   - strongs: H8292
-    proximity: 0.7596
+    lemma: שְׁרוּקָה
+    gloss: a whistling {openscriptures-strongs}
+    proximity: 0.7596 {macula-proximity}
   - strongs: H1696a
-    proximity: 0.7448
+    proximity: 0.7448 {macula-proximity}
   - strongs: H7590a
-    proximity: 0.7412
+    proximity: 0.7412 {macula-proximity}
   - strongs: H1421
-    proximity: 0.7365
+    lemma: גִּדּוּף
+    gloss: vilification {openscriptures-strongs}
+    proximity: 0.7365 {macula-proximity}
   cross_language:
   - strongs: G1070
-    proximity: 0.7818
+    lemma: γελάω
+    gloss: to laugh {openscriptures-strongs}
+    proximity: 0.7818 {macula-proximity}
     language: greek
   - strongs: G1701
-    proximity: 0.7814
+    lemma: ἐμπαιγμός
+    gloss: derision {openscriptures-strongs}
+    proximity: 0.7814 {macula-proximity}
     language: greek
   - strongs: G3456
-    proximity: 0.7492
+    lemma: μυκτηρίζω
+    gloss: to make mouths at {openscriptures-strongs}
+    proximity: 0.7492 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

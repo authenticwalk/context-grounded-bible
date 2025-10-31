@@ -8,46 +8,59 @@ kjv_usage: '[phrase] eleven(-th).'
 derivation: apparently masculine plural construction of H6247 (עֶשֶׁת) in the sense
   of an afterthought (used only in connection with H6240 (עָשָׂר) in lieu of H259
   (אֶחָד))
-extended_definition:
-  gloss: eleven
-  definition: 1) one, eleven, eleventh<br>1a) one as combined with ten ( <i>a.sar</i>
-    (עָשָׂר "ten" H6240))
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: '1) one, eleven, eleventh
+
+  1a) one as combined with ten ( a.sar (עָשָׂר "ten" H6240)) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H965
-    proximity: 0.8297
+    proximity: 0.8297 {macula-proximity}
   - strongs: H8671
-    proximity: 0.8261
+    lemma: תְּשִׁיעִי
+    gloss: ninth {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: H7223
-    proximity: 0.8259
+    lemma: רִאשׁוֹן
+    gloss: first {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: A6933
-    proximity: 0.821
+    proximity: 0.821 {macula-proximity}
   - strongs: H7992
-    proximity: 0.82
+    lemma: שְׁלִישִׁי
+    gloss: third {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
   - strongs: H7239
-    proximity: 0.8196
+    lemma: רִבּוֹ
+    gloss: a myriad {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: H2549
-    proximity: 0.8196
+    lemma: חֲמִישִׁי
+    gloss: fifth {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   cross_language:
   - strongs: G1537
-    proximity: 0.8299
+    lemma: ἐκ
+    gloss: literal or figurative {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G5596
-    proximity: 0.8285
+    lemma: ψωμίον
+    gloss: a crumb or morsel {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G1183
-    proximity: 0.8269
+    lemma: δεκατόω
+    gloss: to tithe {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
     language: greek
   - strongs: G5140
-    proximity: 0.8235
+    lemma: τρεῖς
+    gloss: '"three" {openscriptures-strongs}'
+    proximity: 0.8235 {macula-proximity}
     language: greek
   - strongs: G5507
-    proximity: 0.8227
+    lemma: χίλιοι
+    gloss: a thousand {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

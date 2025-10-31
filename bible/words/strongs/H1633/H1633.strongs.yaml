@@ -10,39 +10,60 @@ derivation: a primitive root; to be spare or skeleton-like; used only as a denom
 related_words:
   synonyms:
   - strongs: H4790
-    proximity: 0.8281
+    lemma: מְרוֹחַ
+    gloss: bruised {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H7492
-    proximity: 0.8277
+    lemma: רָעַץ
+    gloss: to break in pieces {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H6626
-    proximity: 0.8221
+    lemma: פָּתַת
+    gloss: to open {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H1219a
-    proximity: 0.8155
+    proximity: 0.8155 {macula-proximity}
   - strongs: H7833
-    proximity: 0.8155
+    lemma: שָׁחַק
+    gloss: to comminate {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H1104
-    proximity: 0.8154
+    lemma: בָּלַע
+    gloss: to make away with {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: H1572
-    proximity: 0.8105
+    lemma: גָּמָא
+    gloss: to absorb {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
   - strongs: A2827
-    proximity: 0.8097
+    proximity: 0.8097 {macula-proximity}
   - strongs: H7667
-    proximity: 0.7992
+    lemma: שֶׁבֶר
+    gloss: a fracture {openscriptures-strongs}
+    proximity: 0.7992 {macula-proximity}
   - strongs: H1795
-    proximity: 0.7965
+    lemma: דַּכָּה
+    gloss: mutilated {openscriptures-strongs}
+    proximity: 0.7965 {macula-proximity}
   cross_language:
   - strongs: G2666
-    proximity: 0.817
+    lemma: καταπίνω
+    gloss: to drink down {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
     language: greek
   - strongs: G2806
-    proximity: 0.8019
+    lemma: κλάω
+    gloss: to break (specially {openscriptures-strongs}
+    proximity: 0.8019 {macula-proximity}
     language: greek
   - strongs: G2622
-    proximity: 0.7941
+    lemma: κατακλάω
+    gloss: to break down {openscriptures-strongs}
+    proximity: 0.7941 {macula-proximity}
     language: greek
   - strongs: G2800
-    proximity: 0.7941
+    lemma: κλάσις
+    gloss: fracture {openscriptures-strongs}
+    proximity: 0.7941 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

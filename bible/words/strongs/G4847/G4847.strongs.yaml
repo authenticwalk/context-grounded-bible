@@ -5,54 +5,62 @@ transliteration: sympolítēs
 definition: a native of the same town, i.e. (figuratively) co-religionist (fellow-Christian)
 kjv_usage: fellow- citizen
 derivation: from G4862 (σύν) and G4177 (πολίτης);
-extended_definition:
-  gloss: fellow citizen
-  definition: '<b>συν-πολίτης</b> (Rec. σνμπ-), -ου, ὁ <BR /> <b>a fellow-citizen</b>:
-    pl., σ. τ. ἁγίων, opposite to ξένοι κ. πάροικοι, <ref=''Eph.2.19''>Eph.2:19</ref>
-    (Eur.; C.I., 6446; condemned by Atticists; see Rutherford, <i>NPhr.</i>, 255 f.).†<BR
-    /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συμπολῑτ-ης</b>, ου, ὁ, <br /> <b>fellow-citizen</b>, [<a href="javascript:void(0)"
-    title=" 5th c.BC: Euripides Tragicus “Heraclidae” 826, 1st c.AD: Josephus Historicus
-    “Antiquitates Judaicae” 19.2.2, “IG” 14.1878 (from Rome); condemned by 2nd c.AD:
-    Phrynichus Atticista 150">Refs 5th c.BC+</a>]: <i>feminine</i> <b>συμπολῑτ-ῖτις</b>,
-    [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus 34
-    / 5.2.16, 12th c.AD: Eustathius Episcopus Thessalonicensis 119.6. ">Refs 1st c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συν-πολίτης (Rec. σνμπ-), -ου, ὁ
+
+  a fellow-citizen: pl., σ. τ. ἁγίων, opposite to ξένοι κ. πάροικοι, Eph.2:19 (Eur.;
+  C.I., 6446; condemned by Atticists; see Rutherford, NPhr., 255 f.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συμπολῑτ-ης, ου, ὁ,
+
+  fellow-citizen, [Refs 5th c.BC+]: feminine συμπολῑτ-ῖτις, [Refs 1st c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4791
-    proximity: 0.8286
+    lemma: συγκοινωνός
+    gloss: a co-participant {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: G4955a
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
   - strongs: G932
-    proximity: 0.8268
+    proximity: 0.8268 {macula-proximity}
   - strongs: G4174
-    proximity: 0.826
+    lemma: πολιτεία
+    gloss: citizenship {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
   - strongs: G4830
-    proximity: 0.8235
+    lemma: συμμέτοχος
+    gloss: a co-participant {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: G4776
-    proximity: 0.8226
+    lemma: συγκαθίζω
+    gloss: to give  a seat in company with {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: G4827
-    proximity: 0.8155
+    lemma: συμμαθητής
+    gloss: a co-learner {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: G4789
-    proximity: 0.7957
+    lemma: συγκληρονόμος
+    gloss: a co-heir {openscriptures-strongs}
+    proximity: 0.7957 {macula-proximity}
   - strongs: G4954
-    proximity: 0.7897
+    lemma: σύσσωμος
+    gloss: of a joint body {openscriptures-strongs}
+    proximity: 0.7897 {macula-proximity}
   - strongs: G4850
-    proximity: 0.7746
+    lemma: συμπρεσβύτερος
+    gloss: a co-presbyter {openscriptures-strongs}
+    proximity: 0.7746 {macula-proximity}
   cross_language:
   - strongs: H7255
-    proximity: 0.8254
+    lemma: רֹבַע
+    gloss: a quarter {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: hebrew
   - strongs: H5971
-    proximity: 0.8096
+    lemma: עַם
+    gloss: a people {openscriptures-strongs}
+    proximity: 0.8096 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

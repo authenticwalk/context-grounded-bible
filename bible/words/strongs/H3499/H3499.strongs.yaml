@@ -11,32 +11,43 @@ derivation: from H3498 (יָתַר);
 related_words:
   synonyms:
   - strongs: H312
-    proximity: 0.8138
+    proximity: 0.8138 {macula-proximity}
   - strongs: H4771
-    proximity: 0.8074
+    lemma: מַרְגּוֹעַ
+    gloss: a resting place {openscriptures-strongs}
+    proximity: 0.8074 {macula-proximity}
   - strongs: H6413
-    proximity: 0.7667
+    lemma: פְּלֵיטָה
+    gloss: deliverance {openscriptures-strongs}
+    proximity: 0.7667 {macula-proximity}
   - strongs: H1995
-    proximity: 0.7454
+    lemma: הָמוֹן
+    gloss: a noise {openscriptures-strongs}
+    proximity: 0.7454 {macula-proximity}
   - strongs: H5736
-    proximity: 0.7436
+    lemma: עֲדַף
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7436 {macula-proximity}
   cross_language:
   - strongs: G4052
-    proximity: 0.8229
+    lemma: περισσεύω
+    gloss: to superabound {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G840
-    proximity: 0.8169
+    proximity: 0.8169 {macula-proximity}
     language: greek
   - strongs: G3064
-    proximity: 0.8155
+    lemma: λοιποῦ
+    gloss: remaining time {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
     language: greek
   - strongs: G977
-    proximity: 0.8093
+    proximity: 0.8093 {macula-proximity}
     language: greek
   - strongs: G2663
-    proximity: 0.8035
+    lemma: κατάπαυσις
+    gloss: reposing down {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

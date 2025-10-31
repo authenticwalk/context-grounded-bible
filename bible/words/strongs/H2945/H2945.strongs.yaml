@@ -6,49 +6,67 @@ pronunciation: taf
 definition: a family (mostly used collectively in the singular)
 kjv_usage: (little) children (ones), families.
 derivation: from H2952 (טָפַף) (perhaps referring to the tripping gait of children);
-extended_definition:
-  gloss: child
-  definition: children, little children, little ones
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: children, little children, little ones {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H376
-    proximity: 0.8287
+    proximity: 0.8287 {macula-proximity}
   - strongs: H6995
-    proximity: 0.8276
+    lemma: קֹטֶן
+    gloss: a pettiness {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: H7921
-    proximity: 0.8177
+    lemma: שָׁכֹל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
   - strongs: H7908
-    proximity: 0.8116
+    lemma: שְׁכוֹל
+    gloss: bereavement {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   - strongs: H1482
-    proximity: 0.7953
+    lemma: גּוּר
+    gloss: a cub {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
   - strongs: H5959
-    proximity: 0.7831
+    lemma: עַלְמָה
+    gloss: a lass {openscriptures-strongs}
+    proximity: 0.7831 {macula-proximity}
   - strongs: H5291
-    proximity: 0.7822
+    lemma: נַעֲרָה
+    gloss: a girl {openscriptures-strongs}
+    proximity: 0.7822 {macula-proximity}
   - strongs: H3329
-    proximity: 0.776
+    lemma: יָצִיא
+    gloss: issue {openscriptures-strongs}
+    proximity: 0.776 {macula-proximity}
   - strongs: H8586
-    proximity: 0.7719
+    lemma: תַּעֲלוּל
+    gloss: caprice {openscriptures-strongs}
+    proximity: 0.7719 {macula-proximity}
   cross_language:
   - strongs: G5388
-    proximity: 0.81
+    lemma: φιλότεκνος
+    gloss: fond of one's children {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
     language: greek
   - strongs: G3541
-    proximity: 0.8054
+    lemma: νόθος
+    gloss: a spurious or illegitimate son {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
     language: greek
   - strongs: G1135
-    proximity: 0.7901
+    lemma: γυνή
+    gloss: a woman {openscriptures-strongs}
+    proximity: 0.7901 {macula-proximity}
     language: greek
   - strongs: G3812
-    proximity: 0.7822
+    lemma: παιδιόθεν
+    gloss: from infancy {openscriptures-strongs}
+    proximity: 0.7822 {macula-proximity}
     language: greek
   - strongs: G5207
-    proximity: 0.7815
+    lemma: υἱός
+    gloss: a "son" {openscriptures-strongs}
+    proximity: 0.7815 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

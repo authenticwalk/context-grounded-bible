@@ -6,27 +6,27 @@ pronunciation: gay-haw'
 definition: a cure
 kjv_usage: medicine.
 derivation: from H1455 (גָּהָה);
-extended_definition:
-  gloss: cure
-  definition: a cure, a healing
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: a cure, a healing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8585a
-    proximity: 0.7308
+    proximity: 0.7308 {macula-proximity}
   - strongs: H7500
-    proximity: 0.7157
+    lemma: רִפְאוּת
+    gloss: a cure {openscriptures-strongs}
+    proximity: 0.7157 {macula-proximity}
   - strongs: H1455
-    proximity: 0.7087
+    lemma: גָּהָה
+    gloss: to remove (a bandage from a wound {openscriptures-strongs}
+    proximity: 0.7087 {macula-proximity}
   - strongs: H3545
-    proximity: 0.7017
+    lemma: כֵּהָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7017 {macula-proximity}
   cross_language:
   - strongs: G2322
-    proximity: 0.7695
+    lemma: θεραπεία
+    gloss: attendance (specially {openscriptures-strongs}
+    proximity: 0.7695 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

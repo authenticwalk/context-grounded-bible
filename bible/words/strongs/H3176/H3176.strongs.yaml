@@ -6,53 +6,71 @@ pronunciation: yaw-chal'
 definition: to wait; by implication, to be patient, hope
 kjv_usage: (cause to, have, make to) hope, be pained, stay, tarry, trust, wait.
 derivation: a primitive root;
-extended_definition:
-  gloss: 'to wait: hope'
-  definition: ': hope/trust<br>1) to wait, hope, expect<br>1a) (Niphal) to wait<br>1b)
-    (Piel)<br>1b1) to wait, await, tarry<br>1b2) to wait for, hope for<br>1c) (Hiphil)
-    to wait, tarry, wait for, hope for'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': hope/trust
+
+  1) to wait, hope, expect
+
+  1a) (Niphal) to wait
+
+  1b) (Piel)
+
+  1b1) to wait, await, tarry
+
+  1b2) to wait for, hope for
+
+  1c) (Hiphil) to wait, tarry, wait for, hope for {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8245
-    proximity: 0.8258
+    lemma: שָׁקַד
+    gloss: to be alert {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H539
-    proximity: 0.8248
+    proximity: 0.8248 {macula-proximity}
   - strongs: H3993
-    proximity: 0.8171
+    lemma: מַאֲרָב
+    gloss: an ambuscade {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: H695
-    proximity: 0.8112
+    proximity: 0.8112 {macula-proximity}
   - strongs: H1747
-    proximity: 0.8089
+    lemma: דּוּמִיָּה
+    gloss: stillness {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: H4102
-    proximity: 0.7969
+    lemma: מָהַהּ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7969 {macula-proximity}
   - strongs: H985
-    proximity: 0.7948
+    proximity: 0.7948 {macula-proximity}
   - strongs: A7365
-    proximity: 0.7913
+    proximity: 0.7913 {macula-proximity}
   - strongs: H4180a
-    proximity: 0.7799
+    proximity: 0.7799 {macula-proximity}
   - strongs: H4009
-    proximity: 0.7416
+    lemma: מִבְטָח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7416 {macula-proximity}
   cross_language:
   - strongs: G3114
-    proximity: 0.8151
+    lemma: μακροθυμέω
+    gloss: to be long-spirited {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
     language: greek
   - strongs: G2192
-    proximity: 0.8021
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
     language: greek
   - strongs: G603
-    proximity: 0.729
+    proximity: 0.729 {macula-proximity}
     language: greek
   - strongs: G4276
-    proximity: 0.7208
+    lemma: προελπίζω
+    gloss: to hope in advance of other confirmation {openscriptures-strongs}
+    proximity: 0.7208 {macula-proximity}
     language: greek
   - strongs: G362
-    proximity: 0.7206
+    proximity: 0.7206 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

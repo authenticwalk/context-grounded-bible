@@ -6,31 +6,33 @@ pronunciation: noo-maw'
 definition: sleepiness
 kjv_usage: drowsiness.
 derivation: from H5123 (נוּם);
-extended_definition:
-  gloss: drowsiness
-  definition: drowsiness, somnolence, indolence (fig.)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: drowsiness, somnolence, indolence (fig.) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A8139
-    proximity: 0.804
+    proximity: 0.804 {macula-proximity}
   - strongs: H8142
-    proximity: 0.785
+    lemma: שֵׁנָה
+    gloss: sleep {openscriptures-strongs}
+    proximity: 0.785 {macula-proximity}
   - strongs: H5123
-    proximity: 0.7709
+    lemma: נוּם
+    gloss: to slumber {openscriptures-strongs}
+    proximity: 0.7709 {macula-proximity}
   - strongs: H3463
-    proximity: 0.7682
+    lemma: יָשֵׁן
+    gloss: sleepy {openscriptures-strongs}
+    proximity: 0.7682 {macula-proximity}
   - strongs: H8142a
-    proximity: 0.7621
+    proximity: 0.7621 {macula-proximity}
   - strongs: H3462
-    proximity: 0.7504
+    lemma: יָשֵׁן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7504 {macula-proximity}
   cross_language:
   - strongs: G2837
-    proximity: 0.7826
+    lemma: κοιμάω
+    gloss: to put to sleep {openscriptures-strongs}
+    proximity: 0.7826 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

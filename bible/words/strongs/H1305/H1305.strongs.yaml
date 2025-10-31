@@ -7,48 +7,78 @@ definition: to clarify (i.e. brighten), examine, select
 kjv_usage: make bright, choice, chosen, cleanse (be clean), clearly, polished, (shew
   self) pure(-ify), purge (out).
 derivation: a primitive root;
-extended_definition:
-  gloss: to purify
-  definition: 1) to purify, select, polish, choose, purge, cleanse or make bright,
-    test or prove<br>1a) (Qal)<br>1a1) to purge, purge out, purify<br>1a2) to choose,
-    select<br>1a3) to cleanse, make shining, polish<br>1a4) to test, prove<br>1b)
-    (Niphal) to purify oneself<br>1c) (Piel) to purify<br>1d) (Hiphil)<br>1d1) to
-    purify<br>1d2) to polish arrows<br>1e) (Hithpael)<br>1e1) to purify oneself<br>1e2)
-    to show oneself pure, just, kind
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to purify, select, polish, choose, purge, cleanse or make
+  bright, test or prove
+
+  1a) (Qal)
+
+  1a1) to purge, purge out, purify
+
+  1a2) to choose, select
+
+  1a3) to cleanse, make shining, polish
+
+  1a4) to test, prove
+
+  1b) (Niphal) to purify oneself
+
+  1c) (Piel) to purify
+
+  1d) (Hiphil)
+
+  1d1) to purify
+
+  1d2) to polish arrows
+
+  1e) (Hithpael)
+
+  1e1) to purify oneself
+
+  1e2) to show oneself pure, just, kind {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4357
-    proximity: 0.8279
+    lemma: מִכְלָה
+    gloss: completion (in plural concrete adverbial {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: H6884
-    proximity: 0.827
+    lemma: צָרַף
+    gloss: to fuse {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H4005
-    proximity: 0.818
+    lemma: מִבְחָר
+    gloss: select {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: H972
-    proximity: 0.814
+    proximity: 0.814 {macula-proximity}
   - strongs: H8562
-    proximity: 0.8124
+    lemma: תַּמְרוּק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: H1252
-    proximity: 0.7997
+    lemma: בֹּר
+    gloss: purify {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
   cross_language:
   - strongs: G1245
-    proximity: 0.824
+    lemma: διακαθαρίζω
+    gloss: to cleanse perfectly {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: greek
   - strongs: G1245a
-    proximity: 0.824
+    proximity: 0.824 {macula-proximity}
     language: greek
   - strongs: G185
-    proximity: 0.8206
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G3985
-    proximity: 0.8182
+    lemma: πειράζω
+    gloss: to test {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: greek
   - strongs: G3986
-    proximity: 0.8135
+    lemma: πειρασμός
+    gloss: a putting to proof {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

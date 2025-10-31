@@ -6,23 +6,19 @@ pronunciation: ghiz-bawr'
 definition: treasurer
 kjv_usage: treasurer.
 derivation: of foreign derivation;
-extended_definition:
-  gloss: treasurer
-  definition: treasurer
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: treasurer {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4378
-    proximity: 0.8167
+    lemma: מַכָּר
+    gloss: an acquaintance {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: A7261
-    proximity: 0.76
+    proximity: 0.76 {macula-proximity}
   cross_language:
   - strongs: G3623
-    proximity: 0.7368
+    lemma: οἰκονόμος
+    gloss: a house-distributor {openscriptures-strongs}
+    proximity: 0.7368 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

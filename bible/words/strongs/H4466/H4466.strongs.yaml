@@ -6,33 +6,33 @@ pronunciation: mim-keh'-reth
 definition: a sale
 kjv_usage: '[phrase] sold as.'
 derivation: feminine of H4465 (מִמְכָּר);
-extended_definition:
-  gloss: sale
-  definition: sale
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: sale {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7411a
-    proximity: 0.8203
+    proximity: 0.8203 {macula-proximity}
   cross_language:
   - strongs: G2624
-    proximity: 0.8206
+    lemma: κατακληροδοτέω
+    gloss: to be a giver of lots to each {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G5179a
-    proximity: 0.8133
+    proximity: 0.8133 {macula-proximity}
     language: greek
   - strongs: G1895
-    proximity: 0.8042
+    lemma: ἐπειδήπερ
+    gloss: since indeed {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
     language: greek
   - strongs: G3860
-    proximity: 0.8021
+    lemma: παραδίδωμι
+    gloss: to surrender {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
     language: greek
   - strongs: G4453
-    proximity: 0.7797
+    lemma: πωλέω
+    gloss: to barter {openscriptures-strongs}
+    proximity: 0.7797 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

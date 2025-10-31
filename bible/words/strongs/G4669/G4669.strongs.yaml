@@ -5,51 +5,64 @@ transliteration: smyrnízō
 definition: to tincture with myrrh, i.e. embitter (as a narcotic)
 kjv_usage: mingle with myrrh
 derivation: from G4667 (Σμύρνα);
-extended_definition:
-  gloss: to mix with myrrh
-  definition: '<b>σμυρνίζω</b><BR /> (σιύρνα), <BR />__1. intrans., to be like myrrh
-    (Diosc., i, 79). <BR /> __2. Trans., <b>to mingle or drug with myrrh</b>: pass.,
-    <ref=''Mrk.15.23.''>Mrk.15:23.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> σμυρν-ίζω</b>, <br /> <b>flavour</b> or <b>drug with myrrh</b>,
-    ἐσμυρνισμένος οἶνος [<a href="javascript:void(0)" title=" NT.Mark.15.23. ">NT</a>]<br
-    /><Level3><b>__2</b></Level3> <i>intransitive</i>, <b>to be like myrrh</b>, [<a
-    href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus
-    1.66. ">Refs 1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'σμυρνίζω
+
+  (σιύρνα),
+
+  __1. intrans., to be like myrrh (Diosc., i, 79).
+
+  __2. Trans., to mingle or drug with myrrh: pass., Mrk.15:23.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'σμυρν-ίζω,
+
+  flavour or drug with myrrh, ἐσμυρνισμένος οἶνος [NT]
+
+  __2 intransitive, to be like myrrh, [Refs 1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4926
-    proximity: 0.8281
+    lemma: συνομιλέω
+    gloss: to converse mutually {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: G3326
-    proximity: 0.8193
+    lemma: μετά
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: G4862
-    proximity: 0.8001
+    lemma: σύν
+    gloss: with or together  or G3844 ) {openscriptures-strongs}
+    proximity: 0.8001 {macula-proximity}
   - strongs: G2767
-    proximity: 0.7587
+    lemma: κεράννυμι
+    gloss: to mingle {openscriptures-strongs}
+    proximity: 0.7587 {macula-proximity}
   - strongs: G3396
-    proximity: 0.7429
+    lemma: μίγνυμι
+    gloss: to mix {openscriptures-strongs}
+    proximity: 0.7429 {macula-proximity}
   cross_language:
   - strongs: H5973
-    proximity: 0.8245
+    lemma: עִם
+    gloss: adverb or preposition {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
     language: hebrew
   - strongs: H4414a
-    proximity: 0.7898
+    proximity: 0.7898 {macula-proximity}
     language: hebrew
   - strongs: H4197
-    proximity: 0.7812
+    lemma: מֶזֶג
+    gloss: tempered wine {openscriptures-strongs}
+    proximity: 0.7812 {macula-proximity}
     language: hebrew
   - strongs: H7450
-    proximity: 0.7778
+    lemma: רָסַס
+    gloss: to moisten {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
     language: hebrew
   - strongs: H4469
-    proximity: 0.7716
+    lemma: מַמְסָךְ
+    gloss: mixture {openscriptures-strongs}
+    proximity: 0.7716 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

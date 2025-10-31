@@ -5,46 +5,50 @@ transliteration: Hierichṓ
 definition: Jericho, a place in Palestine
 kjv_usage: Jericho
 derivation: of Hebrew origin (H03405);
-extended_definition:
-  gloss: Jericho
-  definition: '<b>Ἰερειχώ</b> (T, Ἱερ-; Rec. Ἱεριχώ; cf. Bl., § 3, 4, 4; WH, <i>App.</i>,
-    155), ἡ indecl. (Heb. יְרִיחוֹ), <BR /> <b>Jericho</b>: <ref=''Mat.20.29''>Mat.20:29</ref>,
-    <ref=''Mrk.10.46''>Mrk.10:46</ref>, <ref=''Luk.10.30; 18.35; 19.1''>Luk.10:30
-    18:35 19:1</ref>, <ref=''Heb.11.30''>Heb.11:30</ref>.†<BR /> (AS)'
-  morphology: N:N--L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἰερειχώ</b> (T, Ἱερ-; Rec. Ἱεριχώ; cf. Bl., § 3, 4, 4; WH, <i>App.</i>,
-    155), ἡ indecl. (Heb. יְרִיחוֹ), <BR /> <b>Jericho</b>: <ref=''Mat.20.29''>Mat.20:29</ref>,
-    <ref=''Mrk.10.46''>Mrk.10:46</ref>, <ref=''Luk.10.30; 18.35; 19.1''>Luk.10:30
-    18:35 19:1</ref>, <ref=''Heb.11.30''>Heb.11:30</ref>.†<BR />  (From Abbott-Smith.
-    LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἰερειχώ (T, Ἱερ-; Rec. Ἱεριχώ; cf. Bl., § 3, 4, 4; WH, App.,
+  155), ἡ indecl. (Heb. יְרִיחוֹ),
+
+  Jericho: Mat.20:29, Mrk.10:46, Luk.10:30 18:35 19:1, Heb.11:30.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἰερειχώ (T, Ἱερ-; Rec. Ἱεριχώ; cf. Bl., § 3, 4, 4; WH, App., 155), ἡ indecl.
+  (Heb. יְרִיחוֹ),
+
+  Jericho: Mat.20:29, Mrk.10:46, Luk.10:30 18:35 19:1, Heb.11:30.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3533
-    proximity: 0.827
+    lemma: Νικόπολις
+    gloss: victorious city {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: G1056
-    proximity: 0.825
+    lemma: Γαλιλαία
+    gloss: Galilæa {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   cross_language:
   - strongs: H3414a
-    proximity: 0.8289
+    proximity: 0.8289 {macula-proximity}
     language: hebrew
   - strongs: H1555
-    proximity: 0.8286
+    lemma: גׇּלְיַת
+    gloss: Goljath {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: hebrew
   - strongs: H3153
-    proximity: 0.828
+    lemma: יְזַנְיָה
+    gloss: Jezanjah {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: hebrew
   - strongs: H3659
-    proximity: 0.8255
+    lemma: כׇּנְיָהוּ
+    gloss: Conjah {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
     language: hebrew
   - strongs: H3094
-    proximity: 0.8225
+    lemma: יְהַלֶּלְאֵל
+    gloss: Jehallelel {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

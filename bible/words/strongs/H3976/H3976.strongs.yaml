@@ -6,28 +6,31 @@ pronunciation: mo-zane'
 definition: (only in the dual) a pair of scales
 kjv_usage: balances.
 derivation: from H239 (אָזַן);
-extended_definition:
-  gloss: balance
-  definition: 'scales, balances<BR>Aramaic equivalent: <i>mo.zen</i> (מֹאזֵנְיָא "scale"
-    H3977)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'scales, balances
+
+  Aramaic equivalent: mo.zen (מֹאזֵנְיָא "scale" H3977) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7193
-    proximity: 0.8065
+    lemma: קַשְׂקֶשֶׂת
+    gloss: a scale {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
   - strongs: H2329
-    proximity: 0.7856
+    lemma: חוּג
+    gloss: a circle {openscriptures-strongs}
+    proximity: 0.7856 {macula-proximity}
   - strongs: H4657
-    proximity: 0.7612
+    lemma: מִפְלָשׂ
+    gloss: a poising {openscriptures-strongs}
+    proximity: 0.7612 {macula-proximity}
   - strongs: H4948
-    proximity: 0.7131
+    lemma: מִשְׁקָל
+    gloss: weight {openscriptures-strongs}
+    proximity: 0.7131 {macula-proximity}
   cross_language:
   - strongs: G3013
-    proximity: 0.7633
+    lemma: λεπίς
+    gloss: a flake {openscriptures-strongs}
+    proximity: 0.7633 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

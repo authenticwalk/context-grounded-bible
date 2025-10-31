@@ -6,34 +6,41 @@ pronunciation: nay-kawr'
 definition: foreign, or (concretely) a foreigner, or (abstractly) heathendom
 kjv_usage: alien, strange ([phrase] -er).
 derivation: ''' from H5234 (נָכַר);'
-extended_definition:
-  gloss: foreign
-  definition: 1) foreign, alien, foreignness, that which is foreign<br>1a) foreignness,
-    foreign gods<br>1b) alien, foreigner<br>1c) foreign (vanities)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) foreign, alien, foreignness, that which is foreign
+
+  1a) foreignness, foreign gods
+
+  1b) alien, foreigner
+
+  1c) foreign (vanities) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4464
-    proximity: 0.7437
+    lemma: מַמְזֵר
+    gloss: a mongrel {openscriptures-strongs}
+    proximity: 0.7437 {macula-proximity}
   - strongs: H628
-    proximity: 0.738
+    proximity: 0.738 {macula-proximity}
   - strongs: H1471
-    proximity: 0.7127
+    lemma: גּוֹי
+    gloss: a foreign nation {openscriptures-strongs}
+    proximity: 0.7127 {macula-proximity}
   - strongs: H312
-    proximity: 0.7121
+    proximity: 0.7121 {macula-proximity}
   cross_language:
   - strongs: G1672
-    proximity: 0.7694
+    lemma: Ἕλλην
+    gloss: a Hellen  or inhabitant of Hellas {openscriptures-strongs}
+    proximity: 0.7694 {macula-proximity}
     language: greek
   - strongs: G1674
-    proximity: 0.766
+    lemma: Ἑλληνίς
+    gloss: a Grecian  woman {openscriptures-strongs}
+    proximity: 0.766 {macula-proximity}
     language: greek
   - strongs: G1483
-    proximity: 0.7056
+    lemma: ἐθνικῶς
+    gloss: as a Gentile {openscriptures-strongs}
+    proximity: 0.7056 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

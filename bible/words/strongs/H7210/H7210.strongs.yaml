@@ -6,48 +6,69 @@ pronunciation: ro-ee'
 definition: sight, whether abstractly (vision) or concretely (a spectacle)
 kjv_usage: gazingstock, look to, (that) see(-th).
 derivation: from H7200 (רָאָה);
-extended_definition:
-  gloss: sight
-  definition: 1) looking, appearance, seeing, sight<br>1a) seeing<br>1b) appearance<br>1c)
-    sight, spectacle
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) looking, appearance, seeing, sight
+
+  1a) seeing
+
+  1b) appearance
+
+  1c) sight, spectacle {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7805
-    proximity: 0.8264
+    lemma: שָׁזַף
+    gloss: to tan {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H5234
-    proximity: 0.8228
+    lemma: נָכַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
   - strongs: H8389
-    proximity: 0.8156
+    lemma: תֹּאַר
+    gloss: outline {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
   - strongs: H7207
-    proximity: 0.7908
+    lemma: רַאֲוָה
+    gloss: sight {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
   - strongs: H7789
-    proximity: 0.7737
+    lemma: שׁוּר
+    gloss: to spy out {openscriptures-strongs}
+    proximity: 0.7737 {macula-proximity}
   - strongs: H5869
-    proximity: 0.7715
+    lemma: עַיִן
+    gloss: an eye {openscriptures-strongs}
+    proximity: 0.7715 {macula-proximity}
   - strongs: A7299
-    proximity: 0.7715
+    proximity: 0.7715 {macula-proximity}
   - strongs: H5027
-    proximity: 0.766
+    lemma: נָבַט
+    gloss: to scan {openscriptures-strongs}
+    proximity: 0.766 {macula-proximity}
   cross_language:
   - strongs: G2657
-    proximity: 0.8246
+    lemma: κατανοέω
+    gloss: to observe fully {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
     language: greek
   - strongs: G4383
-    proximity: 0.817
+    lemma: πρόσωπον
+    gloss: the front {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
     language: greek
   - strongs: G2396
-    proximity: 0.8169
+    lemma: ἴδε
+    gloss: used as an interjection to denote surprise {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
     language: greek
   - strongs: G1980
-    proximity: 0.8089
+    lemma: ἐπισκέπτομαι
+    gloss: to inspect {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
     language: greek
   - strongs: G3907
-    proximity: 0.7974
+    lemma: παρατήρησις
+    gloss: inspection {openscriptures-strongs}
+    proximity: 0.7974 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

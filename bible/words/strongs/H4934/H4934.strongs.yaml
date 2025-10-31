@@ -6,30 +6,32 @@ pronunciation: mish-ole'
 definition: a hollow, i.e. a narrow passage
 kjv_usage: path.
 derivation: from the same as H8168 (שֹׁעַל);
-extended_definition:
-  gloss: passage
-  definition: 1) hollow way, narrow way<br>1a) of a road shut in between vineyards
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) hollow way, narrow way
+
+  1a) of a road shut in between vineyards {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H734
-    proximity: 0.7847
+    proximity: 0.7847 {macula-proximity}
   - strongs: H7635
-    proximity: 0.7667
+    lemma: שָׁבִיל
+    gloss: a track or passage-way {openscriptures-strongs}
+    proximity: 0.7667 {macula-proximity}
   - strongs: H4570a
-    proximity: 0.7588
+    proximity: 0.7588 {macula-proximity}
   - strongs: H5410
-    proximity: 0.7127
+    lemma: נָתִיב
+    gloss: a  track {openscriptures-strongs}
+    proximity: 0.7127 {macula-proximity}
   cross_language:
   - strongs: G3598
-    proximity: 0.8148
+    lemma: ὁδός
+    gloss: a road {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
     language: greek
   - strongs: G4728
-    proximity: 0.7319
+    lemma: στενός
+    gloss: narrow {openscriptures-strongs}
+    proximity: 0.7319 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

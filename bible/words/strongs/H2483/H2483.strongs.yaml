@@ -6,49 +6,61 @@ pronunciation: khol-ee'
 definition: malady, anxiety, calamity
 kjv_usage: disease, grief, (is) sick(-ness).
 derivation: from H2470 (חָלָה);
-extended_definition:
-  gloss: sickness
-  definition: sickness
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: sickness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6090a
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
   - strongs: H7451b
-    proximity: 0.8241
+    proximity: 0.8241 {macula-proximity}
   - strongs: H4470
-    proximity: 0.8195
+    lemma: מֶמֶר
+    gloss: sorrow {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H4691
-    proximity: 0.8128
+    lemma: מְצוּקָה
+    gloss: narrowness {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
   - strongs: H6039
-    proximity: 0.801
+    lemma: עֱנוּת
+    gloss: affliction {openscriptures-strongs}
+    proximity: 0.801 {macula-proximity}
   - strongs: H7451
-    proximity: 0.7977
+    lemma: רַע
+    gloss: bad or  evil {openscriptures-strongs}
+    proximity: 0.7977 {macula-proximity}
   - strongs: H4251
-    proximity: 0.7952
+    lemma: מַחְלֻי
+    gloss: a disease {openscriptures-strongs}
+    proximity: 0.7952 {macula-proximity}
   - strongs: H5061
-    proximity: 0.795
+    lemma: נֶגַע
+    gloss: a blow (figuratively {openscriptures-strongs}
+    proximity: 0.795 {macula-proximity}
   - strongs: H4273
-    proximity: 0.776
+    lemma: מַחַץ
+    gloss: a contusion {openscriptures-strongs}
+    proximity: 0.776 {macula-proximity}
   cross_language:
   - strongs: G772
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
     language: greek
   - strongs: G3804
-    proximity: 0.8195
+    lemma: πάθημα
+    gloss: something undergone {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
     language: greek
   - strongs: G3077
-    proximity: 0.8099
+    lemma: λύπη
+    gloss: sadness {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
     language: greek
   - strongs: G74
-    proximity: 0.8009
+    proximity: 0.8009 {macula-proximity}
     language: greek
   - strongs: G2347
-    proximity: 0.7995
+    lemma: θλῖψις
+    gloss: pressure {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

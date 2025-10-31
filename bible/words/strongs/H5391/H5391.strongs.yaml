@@ -10,14 +10,17 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H4964
-    proximity: 0.7991
+    lemma: מֶתֶג
+    gloss: a bit {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: H6207
-    proximity: 0.7034
+    lemma: עָרַק
+    gloss: to gnaw {openscriptures-strongs}
+    proximity: 0.7034 {macula-proximity}
   cross_language:
   - strongs: G5469
-    proximity: 0.7926
+    lemma: χαλινός
+    gloss: a curb or head-stall {openscriptures-strongs}
+    proximity: 0.7926 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

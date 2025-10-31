@@ -6,32 +6,55 @@ pronunciation: baw-shal'
 definition: properly, to boil up; hence, to be done in cooking; figuratively to ripen
 kjv_usage: bake, boil, bring forth, roast, seethe, sod (be sodden).
 derivation: a primitive root;
-extended_definition:
-  gloss: to boil
-  definition: 1) to boil, cook, bake, roast, ripen, grow ripe<br>1a) (Qal)<br>1a1)
-    to boil, cook<br>1a2) to grow ripe, ripen<br>1b) (Piel)<br>1b1) to boil<br>1b2)
-    to cook<br>1c) (Pual)<br>1c1) to be boiled<br>1c2) to be sodden<br>1d) (Hiphil)<br>1d1)
-    to ripen<br>1d2) ripen, brought to ripeness
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to boil, cook, bake, roast, ripen, grow ripe
+
+  1a) (Qal)
+
+  1a1) to boil, cook
+
+  1a2) to grow ripe, ripen
+
+  1b) (Piel)
+
+  1b1) to boil
+
+  1b2) to cook
+
+  1c) (Pual)
+
+  1c1) to be boiled
+
+  1c2) to be sodden
+
+  1d) (Hiphil)
+
+  1d1) to ripen
+
+  1d2) ripen, brought to ripeness {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7570
-    proximity: 0.8173
+    lemma: רָתַח
+    gloss: to boil {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
   - strongs: H5746
-    proximity: 0.8135
+    lemma: עוּג
+    gloss: to bake {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: H6740
-    proximity: 0.8077
+    lemma: צָלָה
+    gloss: to roast {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
   - strongs: H1311
-    proximity: 0.8019
+    lemma: בָּשֵׁל
+    gloss: boiled {openscriptures-strongs}
+    proximity: 0.8019 {macula-proximity}
   - strongs: H644
-    proximity: 0.7009
+    proximity: 0.7009 {macula-proximity}
   cross_language:
   - strongs: G5047
-    proximity: 0.8014
+    lemma: τελειότης
+    gloss: completeness {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

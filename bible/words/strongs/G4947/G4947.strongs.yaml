@@ -5,49 +5,48 @@ transliteration: Syría
 definition: Syria (i.e. Tsyria or Tyre), a region of Asia
 kjv_usage: Syria
 derivation: probably of Hebrew origin (H06865);
-extended_definition:
-  gloss: Syria
-  definition: '<b>Συρία</b>, -''ιό, ή <BR /> <b>Syria</b>: <ref=''Mat.4.24''>Mat.4:24</ref>,
-    <ref=''Luk.2.2''>Luk.2:2</ref>, <ref=''Act.15.23, 41; 18.18; 20.3; 21.3''>Act.15:23,
-    41 18:18 20:3 21:3</ref>, <ref=''Gal.1.21''>Gal.1:21</ref>.†<BR /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '(i.e. γῆ); <b>Syria </b>, [<a href="javascript:void(0)" title="Herdotus
-    Historicus">Refs 5th c.BC</a>], etc.: Σ. ἡ Παλαιστίνη <b>Palestine </b>, [<a href="javascript:void(0)"
-    title="Herdotus Historicus">Refs 5th c.BC</a>]: Κοίλη Σ. the district between
-    Libanus and Anti-libanus, [<a href="javascript:void(0)" title="Strabo Geographus">Refs
-    1st c.BC</a>]  (Middle Liddel)'
-  source: STEPBible/LSJ
+extended_definition: 'Συρία, -''ιό, ή
+
+  Syria: Mat.4:24, Luk.2:2, Act.15:23, 41 18:18 20:3 21:3, Gal.1:21.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: '(i.e. γῆ); Syria , [Refs 5th c.BC], etc.: Σ. ἡ Παλαιστίνη Palestine ,
+  [Refs 5th c.BC]: Κοίλη Σ. the district between Libanus and Anti-libanus, [Refs 1st
+  c.BC]  (Middle Liddel) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3588
-    proximity: 0.8292
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: G1056
-    proximity: 0.8258
+    lemma: Γαλιλαία
+    gloss: Galilæa {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: A8115
-    proximity: 0.8208
+    proximity: 0.8208 {macula-proximity}
   - strongs: G3137
-    proximity: 0.819
+    lemma: Μαρία
+    gloss: Maria or Mariam {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   cross_language:
   - strongs: H3153
-    proximity: 0.8266
+    lemma: יְזַנְיָה
+    gloss: Jezanjah {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
     language: hebrew
   - strongs: H39
-    proximity: 0.8261
+    proximity: 0.8261 {macula-proximity}
     language: hebrew
   - strongs: H740
-    proximity: 0.8256
+    proximity: 0.8256 {macula-proximity}
     language: hebrew
   - strongs: H448
-    proximity: 0.8246
+    proximity: 0.8246 {macula-proximity}
     language: hebrew
   - strongs: H8118
-    proximity: 0.8237
+    lemma: שֹׁמרֹנִי
+    gloss: a Shomeronite  or inhabitants of Shomeron {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

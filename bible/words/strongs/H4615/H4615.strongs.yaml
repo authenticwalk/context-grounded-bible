@@ -6,38 +6,40 @@ pronunciation: mah-am-awk'
 definition: a deep
 kjv_usage: deep, depth.
 derivation: from H6009 (עָמַק);
-extended_definition:
-  gloss: deep
-  definition: depths
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: depths {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H650
-    proximity: 0.8267
+    proximity: 0.8267 {macula-proximity}
   - strongs: H2714
-    proximity: 0.8258
+    lemma: חֵקֶר
+    gloss: examination {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H4113
-    proximity: 0.7785
+    lemma: מַהֲמֹרָה
+    gloss: perhaps an abyss {openscriptures-strongs}
+    proximity: 0.7785 {macula-proximity}
   - strongs: H4325
-    proximity: 0.7689
+    lemma: מַיִם
+    gloss: water {openscriptures-strongs}
+    proximity: 0.7689 {macula-proximity}
   - strongs: A5994
-    proximity: 0.7319
+    proximity: 0.7319 {macula-proximity}
   - strongs: H5033
-    proximity: 0.7261
+    lemma: נֵבֶךְ
+    gloss: a fountain {openscriptures-strongs}
+    proximity: 0.7261 {macula-proximity}
   - strongs: H3411
-    proximity: 0.7221
+    lemma: יְרֵכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7221 {macula-proximity}
   - strongs: H380a
-    proximity: 0.7214
+    proximity: 0.7214 {macula-proximity}
   cross_language:
   - strongs: G901
-    proximity: 0.7584
+    proximity: 0.7584 {macula-proximity}
     language: greek
   - strongs: G900
-    proximity: 0.7248
+    proximity: 0.7248 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

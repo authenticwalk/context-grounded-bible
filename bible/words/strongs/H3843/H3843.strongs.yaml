@@ -6,22 +6,27 @@ pronunciation: leb-ay-naw'
 definition: a brick (from the whiteness of the clay)
 kjv_usage: (altar of) brick, tile.
 derivation: from H3835 (לָבַן);
-extended_definition:
-  gloss: brick
-  definition: '1) tile, brick<br>1a) brick<br>1b) tile<br>1c) pavement<BR>Also spelled:
-    <i>liv.nah</i> (לִבְנָה "brick" H3840)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) tile, brick
+
+  1a) brick
+
+  1b) tile
+
+  1c) pavement
+
+  Also spelled: liv.nah (לִבְנָה "brick" H3840) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7172
-    proximity: 0.8247
+    lemma: קַרְקַע
+    gloss: floor {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H7531
-    proximity: 0.8227
+    lemma: רִצְפָּה
+    gloss: a hot stone {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H4404
-    proximity: 0.723
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: מַלְבֵּן
+    gloss: a brickkiln {openscriptures-strongs}
+    proximity: 0.723 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

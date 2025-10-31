@@ -6,37 +6,45 @@ pronunciation: kuw-maw'
 definition: something that rises, i.e. a stalk of grain
 kjv_usage: (standing) corn, grown up, stalk.
 derivation: feminine of active participle of H6965 (קוּם);
-extended_definition:
-  gloss: standing grain
-  definition: standing grain
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: standing grain {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7668
-    proximity: 0.8117
+    lemma: שֶׁבֶר
+    gloss: grain {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
   - strongs: H5995
-    proximity: 0.8043
+    lemma: עָמִיר
+    gloss: a bunch of grain {openscriptures-strongs}
+    proximity: 0.8043 {macula-proximity}
   - strongs: H7105
-    proximity: 0.7803
+    lemma: קָצִיר
+    gloss: severed {openscriptures-strongs}
+    proximity: 0.7803 {macula-proximity}
   - strongs: H1098
-    proximity: 0.7773
+    lemma: בְּלִיל
+    gloss: mixed {openscriptures-strongs}
+    proximity: 0.7773 {macula-proximity}
   - strongs: H3954
-    proximity: 0.742
+    lemma: לֶקֶשׁ
+    gloss: the after crop {openscriptures-strongs}
+    proximity: 0.742 {macula-proximity}
   - strongs: H4098
-    proximity: 0.7382
+    lemma: מְדֻשָּׁה
+    gloss: a threshing {openscriptures-strongs}
+    proximity: 0.7382 {macula-proximity}
   cross_language:
   - strongs: G658
-    proximity: 0.7941
+    proximity: 0.7941 {macula-proximity}
     language: greek
   - strongs: G4702
-    proximity: 0.7652
+    lemma: σπόριμος
+    gloss: sown {openscriptures-strongs}
+    proximity: 0.7652 {macula-proximity}
     language: greek
   - strongs: G2326
-    proximity: 0.716
+    lemma: θερισμός
+    gloss: reaping {openscriptures-strongs}
+    proximity: 0.716 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

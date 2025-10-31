@@ -6,43 +6,52 @@ pronunciation: aw-thake'
 definition: antique, i.e. valued
 kjv_usage: durable.
 derivation: from H6275 (עָתַק);
-extended_definition:
-  gloss: surpassing
-  definition: handed forward, advanced, enduring, durable, valuable, eminent, surpassing
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: handed forward, advanced, enduring, durable, valuable, eminent,
+  surpassing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3807a
-    proximity: 0.821
+    proximity: 0.821 {macula-proximity}
   - strongs: H386
-    proximity: 0.8203
+    proximity: 0.8203 {macula-proximity}
   - strongs: H5331
-    proximity: 0.8004
+    lemma: נֶצַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
   - strongs: H5703
-    proximity: 0.7756
+    lemma: עַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7756 {macula-proximity}
   - strongs: H5769
-    proximity: 0.7515
+    lemma: עוֹלָם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7515 {macula-proximity}
   - strongs: H6783
-    proximity: 0.7298
+    lemma: צְמִיתֻת
+    gloss: excision {openscriptures-strongs}
+    proximity: 0.7298 {macula-proximity}
   cross_language:
   - strongs: G5297
-    proximity: 0.8292
+    lemma: ὑποφέρω
+    gloss: to bear from underneath {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
     language: greek
   - strongs: G5278
-    proximity: 0.8265
+    lemma: ὑπομένω
+    gloss: to stay under {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
     language: greek
   - strongs: G2594
-    proximity: 0.8167
+    lemma: καρτερέω
+    gloss: to be strong {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G166
-    proximity: 0.7784
+    proximity: 0.7784 {macula-proximity}
     language: greek
   - strongs: G2078
-    proximity: 0.7557
+    lemma: ἔσχατος
+    gloss: farthest {openscriptures-strongs}
+    proximity: 0.7557 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

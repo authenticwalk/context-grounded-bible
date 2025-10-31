@@ -7,49 +7,68 @@ definition: to drag off roughly; by implication, to bring up the cud (i.e. rumin
   by analogy, to saw
 kjv_usage: catch, chew, [idiom] continuing, destroy, saw.
 derivation: a primitive root;
-extended_definition:
-  gloss: to drag/chew/saw
-  definition: 1) to drag, drag away<br>1a) (Qal) to drag away<br>1b) (Niphal) to chew
-    the cud<br>1c) (Poal) sawn (participle)<br>1d) (Hithpoel) roaring (participle)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to drag, drag away
+
+  1a) (Qal) to drag away
+
+  1b) (Niphal) to chew the cud
+
+  1c) (Poal) sawn (participle)
+
+  1d) (Hithpoel) roaring (participle) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6899
-    proximity: 0.8287
+    lemma: קִבּוּץ
+    gloss: a throng {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H5500
-    proximity: 0.8284
+    lemma: סָחָה
+    gloss: to sweep away {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H6910
-    proximity: 0.8261
+    lemma: קְבֻצָה
+    gloss: a hoard {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: H3664
-    proximity: 0.8222
+    lemma: כָּנַס
+    gloss: to collect {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H5486
-    proximity: 0.8188
+    lemma: סוּף
+    gloss: to snatch away {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
   - strongs: A7284
-    proximity: 0.8136
+    proximity: 0.8136 {macula-proximity}
   - strongs: H626
-    proximity: 0.8101
+    proximity: 0.8101 {macula-proximity}
   - strongs: H8045
-    proximity: 0.8061
+    lemma: שָׁמַד
+    gloss: to desolate {openscriptures-strongs}
+    proximity: 0.8061 {macula-proximity}
   - strongs: A3673
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
   - strongs: H622
-    proximity: 0.7943
+    proximity: 0.7943 {macula-proximity}
   cross_language:
   - strongs: G4867
-    proximity: 0.8132
+    lemma: συναθροίζω
+    gloss: to convene {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
     language: greek
   - strongs: G4848
-    proximity: 0.8123
+    lemma: συμπορεύομαι
+    gloss: to journey together {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
     language: greek
   - strongs: G4836
-    proximity: 0.8049
+    lemma: συμπαραγίνομαι
+    gloss: to be present together {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
     language: greek
   - strongs: G1997
-    proximity: 0.7802
+    lemma: ἐπισυναγωγή
+    gloss: a complete collection {openscriptures-strongs}
+    proximity: 0.7802 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

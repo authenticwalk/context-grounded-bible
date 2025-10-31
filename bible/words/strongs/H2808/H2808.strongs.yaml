@@ -6,41 +6,45 @@ pronunciation: khesh-bone'
 definition: properly, contrivance; by implication, intelligence
 kjv_usage: account, device, reason.
 derivation: from H2803 (חָשַׁב);
-extended_definition:
-  gloss: explanation
-  definition: account, reasoning, reckoning
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: account, reasoning, reckoning {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2161
-    proximity: 0.8237
+    lemma: זָמַם
+    gloss: to plan {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: A1701
-    proximity: 0.8048
+    proximity: 0.8048 {macula-proximity}
   - strongs: H1900
-    proximity: 0.7964
+    lemma: הָגוּת
+    gloss: musing {openscriptures-strongs}
+    proximity: 0.7964 {macula-proximity}
   - strongs: H7881
-    proximity: 0.78
+    lemma: שִׂיחָה
+    gloss: reflection {openscriptures-strongs}
+    proximity: 0.78 {macula-proximity}
   - strongs: H6098a
-    proximity: 0.7753
+    proximity: 0.7753 {macula-proximity}
   cross_language:
   - strongs: G1011
-    proximity: 0.8284
+    lemma: βουλεύω
+    gloss: to advise {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: greek
   - strongs: G1760a
-    proximity: 0.8259
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G156
-    proximity: 0.8208
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G4307
-    proximity: 0.8179
+    lemma: πρόνοια
+    gloss: forethought {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
     language: greek
   - strongs: G1260
-    proximity: 0.8153
+    lemma: διαλογίζομαι
+    gloss: to reckon thoroughly {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

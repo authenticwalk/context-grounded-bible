@@ -5,58 +5,78 @@ transliteration: hyperpleonázō
 definition: to superabound
 kjv_usage: be exceeding abundant
 derivation: from G5228 (ὑπέρ) and G4121 (πλεονάζω);
-extended_definition:
-  gloss: to abound
-  definition: '<b>ὑπερ-πλεονάζω </b><BR /> <b>to abound exceedingly</b>: <ref=''1Ti.1.14''>1Ti.1:14</ref>
-    (<ref=''Pss.5.19''>Ps Sol 5:19;</ref> Herm., Mand., v, 2, 5).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὑπερπλεονάζω</b>, <br /> <b>abound exceedingly,</b> [<a href="javascript:void(0)"
-    title=" NT.1Tim.1.14, Vett. Val. 85.17; ὁ -άζων ἀήρ 2nd-1st c.BC(?): Hero Mechanicus
-    “(Spiritalia) Pneumatica” 1.10. ">NT+2nd c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ὑπερ-πλεονάζω
+
+  to abound exceedingly: 1Ti.1:14 (Ps Sol 5:19; Herm., Mand., v, 2, 5).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὑπερπλεονάζω,
+
+  abound exceedingly, [NT+2nd c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4323
-    proximity: 0.8236
+    lemma: προσανατίθημι
+    gloss: to lay up in addition {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
   - strongs: G1393
-    proximity: 0.8234
+    lemma: Δορκάς
+    gloss: gazelle {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
   - strongs: G4055
-    proximity: 0.8164
+    lemma: περισσότερος
+    gloss: more superabundant (in number {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
   - strongs: G4180
-    proximity: 0.8139
+    lemma: πολυλογία
+    gloss: loquacity {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: G4149
-    proximity: 0.8088
+    lemma: πλοῦτος
+    gloss: wealth {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
   - strongs: G4118
-    proximity: 0.8054
+    lemma: πλεῖστος
+    gloss: the largest number or very large {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
   - strongs: G2260
-    proximity: 0.8
+    lemma: ἤπερ
+    gloss: than at all (or than perhaps {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: G4119
-    proximity: 0.7997
+    lemma: πλείων
+    gloss: more in quantity {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
   - strongs: G4369
-    proximity: 0.7903
+    lemma: προστίθημι
+    gloss: to place additionally {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
   - strongs: G100
-    proximity: 0.7844
+    proximity: 0.7844 {macula-proximity}
   cross_language:
   - strongs: H1879
-    proximity: 0.8282
+    lemma: דָּשֵׁן
+    gloss: fat {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: hebrew
   - strongs: H6451
-    proximity: 0.82
+    lemma: פִּסָּה
+    gloss: expansion {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: hebrew
   - strongs: H7685
-    proximity: 0.7899
+    lemma: שָׂגָה
+    gloss: to enlarge (especially upward {openscriptures-strongs}
+    proximity: 0.7899 {macula-proximity}
     language: hebrew
   - strongs: H3254
-    proximity: 0.7856
+    lemma: יָסַף
+    gloss: to add or augment (often adverbial {openscriptures-strongs}
+    proximity: 0.7856 {macula-proximity}
     language: hebrew
   - strongs: H6105
-    proximity: 0.7724
+    lemma: עָצַם
+    gloss: to bind fast {openscriptures-strongs}
+    proximity: 0.7724 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

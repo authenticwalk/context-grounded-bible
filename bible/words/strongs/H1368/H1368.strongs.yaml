@@ -7,49 +7,62 @@ definition: powerful; by implication, warrior, tyrant
 kjv_usage: champion, chief, [idiom] excel, giant, man, mighty (man, one), strong (man),
   valiant man.
 derivation: or גִּבֹּר; (shortened) intensive from the same as H1397 (גֶּבֶר);
-extended_definition:
-  gloss: mighty man
-  definition: adj<br>1) strong, mighty<br>n m<br>2) strong man, brave man, mighty
-    man
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: 'adj
+
+  1) strong, mighty
+
+  n m
+
+  2) strong man, brave man, mighty man {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6105
-    proximity: 0.8276
+    lemma: עָצַם
+    gloss: to bind fast {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: H2393
-    proximity: 0.8267
+    lemma: חֶזְקָה
+    gloss: prevailing power {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
   - strongs: H554
-    proximity: 0.8252
+    proximity: 0.8252 {macula-proximity}
   - strongs: H555
-    proximity: 0.8195
+    proximity: 0.8195 {macula-proximity}
   - strongs: H6635
-    proximity: 0.8174
+    lemma: צָבָא
+    gloss: a mass of persons (or figuratively {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
   - strongs: H5794
-    proximity: 0.8114
+    lemma: עַז
+    gloss: strong {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
   - strongs: H120
-    proximity: 0.809
+    proximity: 0.809 {macula-proximity}
   - strongs: A2429
-    proximity: 0.8055
+    proximity: 0.8055 {macula-proximity}
   - strongs: H7218
-    proximity: 0.8021
+    lemma: רֹאשׁ
+    gloss: the head {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
   - strongs: H2502a
-    proximity: 0.797
+    proximity: 0.797 {macula-proximity}
   cross_language:
   - strongs: G4753
-    proximity: 0.8286
+    lemma: στράτευμα
+    gloss: an armament {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G4760
-    proximity: 0.8253
+    lemma: στρατόπεδον
+    gloss: a camping-ground {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
     language: greek
   - strongs: G2904
-    proximity: 0.7984
+    lemma: κράτος
+    gloss: vigor {openscriptures-strongs}
+    proximity: 0.7984 {macula-proximity}
     language: greek
   - strongs: G444
-    proximity: 0.7921
+    proximity: 0.7921 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

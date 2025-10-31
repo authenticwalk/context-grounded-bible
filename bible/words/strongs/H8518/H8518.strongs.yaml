@@ -6,31 +6,37 @@ pronunciation: taw-law'
 definition: to suspend (especially to gibbet)
 kjv_usage: hang (up).
 derivation: a primitive root;
-extended_definition:
-  gloss: to hang
-  definition: 1) to hang<br>1a) (Qal)<br>1a1) to hang<br>1a1a) to hang up (any object)<br>1a1b)
-    to put to death by hanging<br>1b) (Niphal) to be hanged<br>1c) (Piel) to hang,
-    hang up (for display)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to hang
+
+  1a) (Qal)
+
+  1a1) to hang
+
+  1a1a) to hang up (any object)
+
+  1a1b) to put to death by hanging
+
+  1b) (Niphal) to be hanged
+
+  1c) (Piel) to hang, hang up (for display) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A4223
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
   - strongs: H5628a
-    proximity: 0.816
+    proximity: 0.816 {macula-proximity}
   cross_language:
   - strongs: G507
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G4029
-    proximity: 0.8086
+    lemma: περίκειμαι
+    gloss: to lie all around {openscriptures-strongs}
+    proximity: 0.8086 {macula-proximity}
     language: greek
   - strongs: G1582
-    proximity: 0.8047
+    lemma: ἐκκρέμαμαι
+    gloss: to hang upon the lips of a speaker {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

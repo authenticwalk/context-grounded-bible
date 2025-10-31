@@ -6,49 +6,65 @@ pronunciation: tesh-oo-raw'
 definition: a gift
 kjv_usage: present.
 derivation: from H7788 (שׁוּר) in the sense of arrival;
-extended_definition:
-  gloss: present
-  definition: gift, present
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: gift, present {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A5260
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
   - strongs: H3627
-    proximity: 0.816
+    lemma: כְּלִי
+    gloss: something prepared {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
   - strongs: H2598
-    proximity: 0.8159
+    lemma: חֲנֻכָּה
+    gloss: initiation {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H6944
-    proximity: 0.8117
+    lemma: קֹדֶשׁ
+    gloss: a sacred place or thing {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
   - strongs: H6162
-    proximity: 0.8112
+    lemma: עֲרָבוֹן
+    gloss: a pawn {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
   - strongs: H1860
-    proximity: 0.809
+    lemma: דְּרָאוֹן
+    gloss: an object of aversion {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
   - strongs: H8641
-    proximity: 0.7882
+    lemma: תְּרוּמָה
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.7882 {macula-proximity}
   - strongs: H7133
-    proximity: 0.7758
+    lemma: קׇרְבָּן
+    gloss: something brought near the altar {openscriptures-strongs}
+    proximity: 0.7758 {macula-proximity}
   - strongs: H1293
-    proximity: 0.7717
+    lemma: בְּרָכָה
+    gloss: benediction {openscriptures-strongs}
+    proximity: 0.7717 {macula-proximity}
   cross_language:
   - strongs: G1764
-    proximity: 0.827
+    lemma: ἐνίστημι
+    gloss: to place on hand {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: greek
   - strongs: G3873
-    proximity: 0.8095
+    lemma: παράκειμαι
+    gloss: to lie near {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
     language: greek
   - strongs: G4632
-    proximity: 0.8074
+    lemma: σκεῦος
+    gloss: a vessel {openscriptures-strongs}
+    proximity: 0.8074 {macula-proximity}
     language: greek
   - strongs: G776
-    proximity: 0.8059
+    proximity: 0.8059 {macula-proximity}
     language: greek
   - strongs: G5486
-    proximity: 0.7923
+    lemma: χάρισμα
+    gloss: a  gratuity {openscriptures-strongs}
+    proximity: 0.7923 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

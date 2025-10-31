@@ -6,41 +6,52 @@ pronunciation: ay'-ker
 definition: figuratively, a transplanted person, i.e. naturalized citizen
 kjv_usage: stock.
 derivation: from H6131 (עָקַר);
-extended_definition:
-  gloss: descendant
-  definition: 'member, offspring, offshoot<BR>Aramaic equivalent: <i>iq.qar</i> (עִקַּר
-    "root" H6136)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'member, offspring, offshoot
+
+  Aramaic equivalent: iq.qar (עִקַּר "root" H6136) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3338
-    proximity: 0.8245
+    lemma: יָצֻר
+    gloss: structure {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H1121
-    proximity: 0.8221
+    lemma: בֵּן
+    gloss: a son {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H319
-    proximity: 0.8198
+    proximity: 0.8198 {macula-proximity}
   - strongs: H1755
-    proximity: 0.7737
+    lemma: דּוֹר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7737 {macula-proximity}
   - strongs: H2233
-    proximity: 0.7471
+    lemma: זֶרַע
+    gloss: seed {openscriptures-strongs}
+    proximity: 0.7471 {macula-proximity}
   - strongs: H6631
-    proximity: 0.727
+    lemma: צֶאֱצָא
+    gloss: issue {openscriptures-strongs}
+    proximity: 0.727 {macula-proximity}
   cross_language:
   - strongs: G1074
-    proximity: 0.8282
+    lemma: γενεά
+    gloss: a generation {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: greek
   - strongs: G3196
-    proximity: 0.8279
+    lemma: μέλος
+    gloss: a limb or part of the body {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G4690
-    proximity: 0.8159
+    lemma: σπέρμα
+    gloss: something sown {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
     language: greek
   - strongs: G1010
-    proximity: 0.8155
+    lemma: βουλευτής
+    gloss: an adviser {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

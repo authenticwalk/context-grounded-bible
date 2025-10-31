@@ -6,43 +6,51 @@ pronunciation: ash-tooth'
 definition: cogitation
 kjv_usage: thought.
 derivation: from H6245 (עָשַׁת);
-extended_definition:
-  gloss: thought
-  definition: thought, idea
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: thought, idea {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8176
-    proximity: 0.8245
+    lemma: שָׁעַר
+    gloss: to act as gatekeeper {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H2803
-    proximity: 0.8157
+    lemma: חָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: A2031
-    proximity: 0.8097
+    proximity: 0.8097 {macula-proximity}
   - strongs: H5587a
-    proximity: 0.8
+    proximity: 0.8 {macula-proximity}
   - strongs: H4284
-    proximity: 0.7957
+    lemma: מַחֲשָׁבָה
+    gloss: a contrivance {openscriptures-strongs}
+    proximity: 0.7957 {macula-proximity}
   - strongs: H4180a
-    proximity: 0.7885
+    proximity: 0.7885 {macula-proximity}
   cross_language:
   - strongs: G1271
-    proximity: 0.8293
+    lemma: διάνοια
+    gloss: deep thought {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G1380
-    proximity: 0.8148
+    lemma: δοκέω
+    gloss: compare the base of G1166 ) of the same meaning {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
     language: greek
   - strongs: G3543
-    proximity: 0.8125
+    lemma: νομίζω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G3633
-    proximity: 0.8028
+    lemma: οἴομαι
+    gloss: to make like {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
     language: greek
   - strongs: G3540
-    proximity: 0.8021
+    lemma: νόημα
+    gloss: a perception {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

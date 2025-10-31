@@ -6,35 +6,39 @@ pronunciation: shaw-kay'-akh
 definition: oblivious
 kjv_usage: forget.
 derivation: from H7911 (שָׁכַח);
-extended_definition:
-  gloss: forgetful
-  definition: forgetting, forgetful, forget
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: forgetting, forgetful, forget {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3808
-    proximity: 0.8287
+    lemma: לֹא
+    gloss: not {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H2142
-    proximity: 0.8287
+    lemma: זָכַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H2310
-    proximity: 0.8227
+    lemma: חָדֵל
+    gloss: vacant {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: A1799
-    proximity: 0.8051
+    proximity: 0.8051 {macula-proximity}
   - strongs: H3987
-    proximity: 0.7097
+    lemma: מֵאֵן
+    gloss: refractory {openscriptures-strongs}
+    proximity: 0.7097 {macula-proximity}
   cross_language:
   - strongs: G114
-    proximity: 0.8231
+    proximity: 0.8231 {macula-proximity}
     language: greek
   - strongs: G3868
-    proximity: 0.7908
+    lemma: παραιτέομαι
+    gloss: to beg off {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
     language: greek
   - strongs: G2990
-    proximity: 0.7596
+    lemma: λανθάνω
+    gloss: to lie hid {openscriptures-strongs}
+    proximity: 0.7596 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

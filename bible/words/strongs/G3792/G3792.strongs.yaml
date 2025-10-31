@@ -5,33 +5,32 @@ transliteration: ochlopoiéō
 definition: to make a crowd, i.e. raise a public disturbance
 kjv_usage: gather a company
 derivation: from G3793 (ὄχλος) and G4160 (ποιέω);
-extended_definition:
-  gloss: to riot
-  definition: '<b>ὀχλο-ποιέω</b>, -ῶ <BR /> <b>to gather a crowd, make a riot</b>:
-    <ref=''Act.17.5''>Act.17:5</ref> (not elsewhere).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ὀχλο-ποιέω</b>, <br /> <b>make a riot,</b> [<a href="javascript:void(0)"
-    title=" NT.Acts.17.5. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ὀχλο-ποιέω, -ῶ
+
+  to gather a crowd, make a riot: Act.17:5 (not elsewhere).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὀχλο-ποιέω,
+
+  make a riot, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3444
-    proximity: 0.75
+    lemma: μορφή
+    gloss: shape {openscriptures-strongs}
+    proximity: 0.75 {macula-proximity}
   cross_language:
   - strongs: H2271
-    proximity: 0.8139
+    lemma: חַבָּר
+    gloss: a partner {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: hebrew
   - strongs: H2590a
-    proximity: 0.8123
+    proximity: 0.8123 {macula-proximity}
     language: hebrew
   - strongs: H8244
-    proximity: 0.8052
+    lemma: שָׂקַד
+    gloss: to fasten {openscriptures-strongs}
+    proximity: 0.8052 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

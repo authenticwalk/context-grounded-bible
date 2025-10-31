@@ -5,64 +5,75 @@ transliteration: syneisérchomai
 definition: to enter in company with
 kjv_usage: go in with, go with into
 derivation: from G4862 (σύν) and G1525 (εἰσέρχομαι);
-extended_definition:
-  gloss: to enter with
-  definition: '<b>συν-εισ-έρχομαι </b><BR /> [in LXX: <ref=''Job.22.4''>Job.22:4</ref>
-    (עִם בּוֹא), etc. ;] <BR /><b>to enter together</b>: with dative of person(s),
-    before εἰς, with accusative loc., <ref=''Jhn.6.22; 18.15''>Jhn.6:22 18:15</ref>.†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συνεισ-έρχομαι</b>, <br /> <b>enter along with</b> or <b>together</b>,
-    σοὶ δόμους [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus
-    “Helena” 327 ">Refs 5th c.BC+</a>]; ἐς οἴκους τινί[<a href="javascript:void(0)"
-    title=" [prev. work] 1083; ἐς τὸ τεῖχος 5th c.BC: Thucydides Historicus 4.57;
-    οἴκαδε 5th-6th c.BC: Andocides Orator 4.17 ">Refs 5th c.BC+</a>]; εἰς τὴν οἰκίαν
-    Mitteis [<a href="javascript:void(0)" title=" “Chr.” 91 ii 26 (2nd c.AD, probably)
-    ">Refs 2nd c.AD+</a>]; of things, [<a href="javascript:void(0)" title=" 2nd c.AD:
-    Sextus Empiricus Philosophus “Πυρρώνειοι ὑποτυπώσεις” 1.10, 2nd c.AD: Galenus
-    Medicus “de Usu Partium” 8.7, 4th c.AD: Libanius Sophista “Orationes” 64.12, etc.
-    ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συν-εισ-έρχομαι
+
+  [in LXX: Job.22:4 (עִם בּוֹא), etc. ;]
+
+  to enter together: with dative of person(s), before εἰς, with accusative loc., Jhn.6:22
+  18:15.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συνεισ-έρχομαι,
+
+  enter along with or together, σοὶ δόμους [Refs 5th c.BC+]; ἐς οἴκους τινί[Refs 5th
+  c.BC+]; εἰς τὴν οἰκίαν Mitteis [Refs 2nd c.AD+]; of things, [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4916
-    proximity: 0.8292
+    lemma: συνθάπτω
+    gloss: to inter in company with {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: G4905
-    proximity: 0.8289
+    lemma: συνέρχομαι
+    gloss: to convene {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: G2086
-    proximity: 0.8275
+    lemma: ἑτεροζυγέω
+    gloss: to yoke up differently {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: G4922
-    proximity: 0.8266
+    lemma: συνοδεύω
+    gloss: to travel in company with {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: G2628
-    proximity: 0.8248
+    lemma: κατακολουθέω
+    gloss: to accompany closely {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: G1519
-    proximity: 0.8244
+    lemma: εἰς
+    gloss: to or into {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: G4901
-    proximity: 0.8229
+    lemma: συνεπιμαρτυρέω
+    gloss: to testify further jointly {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: G4800
-    proximity: 0.8229
+    lemma: συζάω
+    gloss: to continue to live in common with {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: G4910
-    proximity: 0.8229
+    lemma: συνευωχέω
+    gloss: to entertain sumptuously in company with {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: G1529
-    proximity: 0.8216
+    lemma: εἴσοδος
+    gloss: an entrance {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   cross_language:
   - strongs: H7285
-    proximity: 0.8293
+    lemma: רֶגֶשׁ
+    gloss: a tumultuous crowd {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: hebrew
   - strongs: H413
-    proximity: 0.8268
+    proximity: 0.8268 {macula-proximity}
     language: hebrew
   - strongs: H871a
-    proximity: 0.8262
+    proximity: 0.8262 {macula-proximity}
     language: hebrew
   - strongs: H6776
-    proximity: 0.8213
+    lemma: צֶמֶד
+    gloss: hence {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

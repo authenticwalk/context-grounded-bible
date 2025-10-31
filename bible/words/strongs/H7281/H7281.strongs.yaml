@@ -6,48 +6,61 @@ pronunciation: reh'-gah
 definition: a wink (of the eyes), i.e. a very short space of time
 kjv_usage: instant, moment, space, suddenly.
 derivation: from H7280 (רָגַע).
-extended_definition:
-  gloss: moment
-  definition: 1) a moment<br>adv<br>2) for a moment, at one moment...at another moment<br>with
-    prep<br>3) in a moment
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) a moment
+
+  adv
+
+  2) for a moment, at one moment...at another moment
+
+  with prep
+
+  3) in a moment {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6471
-    proximity: 0.8278
+    lemma: פַּעַם
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: A2298
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
   - strongs: H4970
-    proximity: 0.8236
+    lemma: מָתַי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
   - strongs: A5732
-    proximity: 0.8206
+    proximity: 0.8206 {macula-proximity}
   - strongs: A4479
-    proximity: 0.8058
+    proximity: 0.8058 {macula-proximity}
   - strongs: H4478a
-    proximity: 0.8058
+    proximity: 0.8058 {macula-proximity}
   - strongs: H2191
-    proximity: 0.8029
+    lemma: זְעֵיר
+    gloss: small {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
   - strongs: A871b
-    proximity: 0.8013
+    proximity: 0.8013 {macula-proximity}
   cross_language:
   - strongs: G3752
-    proximity: 0.8249
+    lemma: ὅταν
+    gloss: whenever {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: greek
   - strongs: G4169
-    proximity: 0.8242
+    lemma: ποῖος
+    gloss: individualizing interrogative  what sort of {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
     language: greek
   - strongs: G5550
-    proximity: 0.8045
+    lemma: χρόνος
+    gloss: a space of time (in general {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
     language: greek
   - strongs: G3641
-    proximity: 0.8037
+    lemma: ὀλίγος
+    gloss: puny (in extent {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
     language: greek
   - strongs: G240
-    proximity: 0.8014
+    proximity: 0.8014 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

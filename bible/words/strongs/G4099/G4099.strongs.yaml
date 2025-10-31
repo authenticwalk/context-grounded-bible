@@ -5,37 +5,42 @@ transliteration: Pisidía
 definition: Pisidia, a region of Asia Minor
 kjv_usage: Pisidia
 derivation: probably of foreign origin;
-extended_definition:
-  gloss: Pisidia
-  definition: '<b>Πισιδία</b>, -ας, ι <BR /> <b>Pisidia, a region of Asia Minor</b>:
-    <ref=''Act.14.24''>Act.14:24</ref> <BR /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Πισιδία</b>, -ας, ι <BR /> <b>Pisidia, a region of Asia Minor</b>:
-    <ref=''Act.14.24''>Act.14:24</ref> <BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Πισιδία, -ας, ι
+
+  Pisidia, a region of Asia Minor: Act.14:24
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Πισιδία, -ας, ι
+
+  Pisidia, a region of Asia Minor: Act.14:24
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3070
-    proximity: 0.8297
+    lemma: Λυδία
+    gloss: Lydia {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: G2502
-    proximity: 0.8225
+    lemma: Ἰωσίας
+    gloss: Josias {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: G2993
-    proximity: 0.818
+    lemma: Λαοδίκεια
+    gloss: Laodicia {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: G2994
-    proximity: 0.8031
+    lemma: Λαοδικεύς
+    gloss: a Laodicean {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
   - strongs: G78
-    proximity: 0.7927
+    proximity: 0.7927 {macula-proximity}
   - strongs: G773
-    proximity: 0.7883
+    proximity: 0.7883 {macula-proximity}
   cross_language:
   - strongs: H6645
-    proximity: 0.8146
+    lemma: צִבְיָּה
+    gloss: Tsibjah {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

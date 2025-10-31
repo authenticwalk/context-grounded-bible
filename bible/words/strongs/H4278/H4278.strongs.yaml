@@ -6,31 +6,35 @@ pronunciation: mekh-kawr'
 definition: properly, scrutinized, i.e. (by implication) a recess
 kjv_usage: deep place.
 derivation: from H2713 (חָקַר);
-extended_definition:
-  gloss: range
-  definition: range, space, field
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: range, space, field {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6877
-    proximity: 0.7816
+    lemma: צְרִיחַ
+    gloss: a citadel {openscriptures-strongs}
+    proximity: 0.7816 {macula-proximity}
   - strongs: H3411
-    proximity: 0.7545
+    lemma: יְרֵכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7545 {macula-proximity}
   - strongs: H5033
-    proximity: 0.7217
+    lemma: נֵבֶךְ
+    gloss: a fountain {openscriptures-strongs}
+    proximity: 0.7217 {macula-proximity}
   cross_language:
   - strongs: G3692
-    proximity: 0.8139
+    lemma: ὀπή
+    gloss: a hole {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: greek
   - strongs: G3989
-    proximity: 0.7632
+    lemma: πέλαγος
+    gloss: deep or open sea {openscriptures-strongs}
+    proximity: 0.7632 {macula-proximity}
     language: greek
   - strongs: G5490
-    proximity: 0.7108
+    lemma: χάσμα
+    gloss: a "chasm" or vacancy {openscriptures-strongs}
+    proximity: 0.7108 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

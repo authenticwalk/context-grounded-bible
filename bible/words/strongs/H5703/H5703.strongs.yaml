@@ -9,50 +9,60 @@ definition: properly, a (peremptory) terminus, i.e. (by implication) duration, i
 kjv_usage: eternity, ever(-lasting, -more), old, perpetually, [phrase] world without
   end.
 derivation: from H5710 (עָדָה);
-extended_definition:
-  gloss: perpetuity
-  definition: 1) perpetuity, for ever, continuing future<br>1a) ancient (of past time)<br>1b)
-    for ever (of future time)<br>1b1) of continuous existence<br>1c) for ever (of
-    God's existence)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) perpetuity, for ever, continuing future
+
+  1a) ancient (of past time)
+
+  1b) for ever (of future time)
+
+  1b1) of continuous existence
+
+  1c) for ever (of God''s existence) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2050b
-    proximity: 0.8271
+    proximity: 0.8271 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.8263
+    proximity: 0.8263 {macula-proximity}
   - strongs: A4481
-    proximity: 0.8141
+    proximity: 0.8141 {macula-proximity}
   - strongs: A3118
-    proximity: 0.8137
+    proximity: 0.8137 {macula-proximity}
   - strongs: H3117
-    proximity: 0.8116
+    lemma: יוֹם
+    gloss: a day {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   - strongs: H5704
-    proximity: 0.8016
+    lemma: עַד
+    gloss: as far (or long {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
   - strongs: H6276
-    proximity: 0.7756
+    lemma: עָתֵק
+    gloss: antique {openscriptures-strongs}
+    proximity: 0.7756 {macula-proximity}
   - strongs: A6268
-    proximity: 0.7729
+    proximity: 0.7729 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.7686
+    proximity: 0.7686 {macula-proximity}
   - strongs: A3807b
-    proximity: 0.7334
+    proximity: 0.7334 {macula-proximity}
   cross_language:
   - strongs: G104
-    proximity: 0.8127
+    proximity: 0.8127 {macula-proximity}
     language: greek
   - strongs: G3763
-    proximity: 0.7546
+    lemma: οὐδέποτε
+    gloss: not even at any time {openscriptures-strongs}
+    proximity: 0.7546 {macula-proximity}
     language: greek
   - strongs: G3956
-    proximity: 0.7542
+    lemma: πᾶς
+    gloss: all {openscriptures-strongs}
+    proximity: 0.7542 {macula-proximity}
     language: greek
   - strongs: G3842
-    proximity: 0.7234
+    lemma: πάντοτε
+    gloss: every when {openscriptures-strongs}
+    proximity: 0.7234 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

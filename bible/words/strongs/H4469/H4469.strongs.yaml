@@ -6,47 +6,65 @@ pronunciation: mam-sawk'
 definition: mixture, i.e. (specifically) wine mixed (with water or spices)
 kjv_usage: drink-offering, mixed wine.
 derivation: from H4537 (מָסַךְ);
-extended_definition:
-  gloss: mixed drink
-  definition: mixed drink, mixed wine, drink-offering
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: mixed drink, mixed wine, drink-offering {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1660
-    proximity: 0.8257
+    lemma: גַּת
+    gloss: a wine-press {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H7941
-    proximity: 0.8179
+    lemma: שֵׁכָר
+    gloss: an intoxicant {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
   - strongs: H7450
-    proximity: 0.7915
+    lemma: רָסַס
+    gloss: to moisten {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
   - strongs: H8105
-    proximity: 0.7784
+    lemma: שֶׁמֶר
+    gloss: something preserved {openscriptures-strongs}
+    proximity: 0.7784 {macula-proximity}
   - strongs: H4538
-    proximity: 0.7749
+    lemma: מֶסֶךְ
+    gloss: a mixture {openscriptures-strongs}
+    proximity: 0.7749 {macula-proximity}
   - strongs: H5435
-    proximity: 0.769
+    lemma: סֹבֶא
+    gloss: potation {openscriptures-strongs}
+    proximity: 0.769 {macula-proximity}
   - strongs: H7246
-    proximity: 0.7576
+    lemma: רָבַךְ
+    gloss: to soak {openscriptures-strongs}
+    proximity: 0.7576 {macula-proximity}
   - strongs: H4537
-    proximity: 0.7408
+    lemma: מָסַךְ
+    gloss: to mix {openscriptures-strongs}
+    proximity: 0.7408 {macula-proximity}
   cross_language:
   - strongs: G4608
-    proximity: 0.8066
+    lemma: σίκερα
+    gloss: an intoxicant {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
     language: greek
   - strongs: G3690
-    proximity: 0.7883
+    lemma: ὄξος
+    gloss: vinegar {openscriptures-strongs}
+    proximity: 0.7883 {macula-proximity}
     language: greek
   - strongs: G1098
-    proximity: 0.7876
+    lemma: γλεῦκος
+    gloss: sweet wine {openscriptures-strongs}
+    proximity: 0.7876 {macula-proximity}
     language: greek
   - strongs: G4669
-    proximity: 0.7716
+    lemma: σμυρνίζω
+    gloss: to tincture with myrrh {openscriptures-strongs}
+    proximity: 0.7716 {macula-proximity}
     language: greek
   - strongs: G3396
-    proximity: 0.7544
+    lemma: μίγνυμι
+    gloss: to mix {openscriptures-strongs}
+    proximity: 0.7544 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

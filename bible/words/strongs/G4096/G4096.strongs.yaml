@@ -6,50 +6,58 @@ definition: perhaps akin to the alternate of G4095 (πίνω) through the idea o
   plumpness, i.e. (by implication) richness (oiliness)
 kjv_usage: fatness
 derivation: from (fat;
-extended_definition:
-  gloss: richness
-  definition: '<b>πιότης</b>, -ητος, ἡ<BR /> (πίων, fat), [in LXX chiefly for דֶּשֶׁן
-    ;] <BR /><b>fatness</b>: <ref=''Rom.11.17.''>Rom.11:17.</ref>†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> πῑότης</b>, ητος, ἡ, <br /> <b>fattiness</b>, τῆς σαρκός [<a
-    href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “Aër.” 21,compare
-    4th c.BC: Aristoteles Philosophus “Historia Animalium” 520a23, “PA” 651b9, 4th-3rd
-    c.BC: Theophrastus Philosophus “Historia Plantarum” 9.1.3. ">Refs 5th c.BC+</a>]<br
-    /><Level2><b>__II</b></Level2> <i>metaphorically</i>, <b>wealth, prosperity</b>,
-    [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.299, 12th c.AD:
-    Eustathius Episcopus Thessalonicensis 1146.10. ">Refs 1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'πιότης, -ητος, ἡ
+
+  (πίων, fat), [in LXX chiefly for דֶּשֶׁן ;]
+
+  fatness: Rom.11:17.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'πῑότης, ητος, ἡ,
+
+  fattiness, τῆς σαρκός [Refs 5th c.BC+]
+
+  __II metaphorically, wealth, prosperity, [Refs 1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4618
-    proximity: 0.7991
+    lemma: σιτευτός
+    gloss: grain-fed {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: G4148
-    proximity: 0.7872
+    lemma: πλουτίζω
+    gloss: to make wealthy {openscriptures-strongs}
+    proximity: 0.7872 {macula-proximity}
   - strongs: G4146
-    proximity: 0.7856
+    lemma: πλουσίως
+    gloss: copiously {openscriptures-strongs}
+    proximity: 0.7856 {macula-proximity}
   - strongs: G4147
-    proximity: 0.7017
+    lemma: πλουτέω
+    gloss: to be  wealthy {openscriptures-strongs}
+    proximity: 0.7017 {macula-proximity}
   cross_language:
   - strongs: H1880
-    proximity: 0.8124
+    lemma: דֶּשֶׁן
+    gloss: the fat {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
     language: hebrew
   - strongs: H7771
-    proximity: 0.8108
+    lemma: שׁוֹעַ
+    gloss: a noble {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
     language: hebrew
   - strongs: H1879
-    proximity: 0.7913
+    lemma: דָּשֵׁן
+    gloss: fat {openscriptures-strongs}
+    proximity: 0.7913 {macula-proximity}
     language: hebrew
   - strongs: H4924b
-    proximity: 0.7751
+    proximity: 0.7751 {macula-proximity}
     language: hebrew
   - strongs: H4220
-    proximity: 0.7645
+    lemma: מֵחַ
+    gloss: fat {openscriptures-strongs}
+    proximity: 0.7645 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

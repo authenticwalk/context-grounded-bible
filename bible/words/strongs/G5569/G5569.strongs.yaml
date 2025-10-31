@@ -5,48 +5,57 @@ transliteration: pseudádelphos
 definition: a spurious brother, i.e. pretended associate
 kjv_usage: false brethren
 derivation: from G5571 (ψευδής) and G80 (ἀδελφός);
-extended_definition:
-  gloss: false brother
-  definition: '<b>ψευδ-άδελφος</b>, -ου, ὁ <BR /> <b>a false brother</b>: of professing
-    Christians, <ref=''2Co.11.26''>2Co.11:26</ref>, <ref=''Gal.2.4''>Gal.2:4</ref>.†<BR
-    /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ψευδ-άδελφος</b> [ᾰ], ὁ, <br /> <b>false brother, pretended
-    Christian,</b> [<a href="javascript:void(0)" title=" NT.2Cor.11.26, NT.Gal.2.4,
-    “Corpus Glossariorum Latinorum” ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ψευδ-άδελφος, -ου, ὁ
+
+  a false brother: of professing Christians, 2Co.11:26, Gal.2:4.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ψευδ-άδελφος [ᾰ], ὁ,
+
+  false brother, pretended Christian, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5361
-    proximity: 0.8263
+    lemma: φιλάδελφος
+    gloss: fond of brethren {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: G5577
-    proximity: 0.8187
+    lemma: ψευδομαρτυρία
+    gloss: untrue testimony {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
   - strongs: G5575a
-    proximity: 0.8186
+    proximity: 0.8186 {macula-proximity}
   - strongs: G5580
-    proximity: 0.8047
+    lemma: ψευδόχριστος
+    gloss: a spurious Messiah {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
   - strongs: G5572
-    proximity: 0.7927
+    lemma: ψευδοδιδάσκαλος
+    gloss: a spurious teacher {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
   - strongs: G5570
-    proximity: 0.7857
+    lemma: ψευδαπόστολος
+    gloss: a spurious apostle {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
   - strongs: G5578
-    proximity: 0.7852
+    lemma: ψευδοπροφήτης
+    gloss: a spurious prophet {openscriptures-strongs}
+    proximity: 0.7852 {macula-proximity}
   - strongs: G5571
-    proximity: 0.7703
+    lemma: ψευδής
+    gloss: untrue {openscriptures-strongs}
+    proximity: 0.7703 {macula-proximity}
   - strongs: G5360
-    proximity: 0.7589
+    lemma: φιλαδελφία
+    gloss: fraternal affection {openscriptures-strongs}
+    proximity: 0.7589 {macula-proximity}
   cross_language:
   - strongs: H2992
-    proximity: 0.786
+    lemma: יָבַם
+    gloss: to marry a  brother's widow {openscriptures-strongs}
+    proximity: 0.786 {macula-proximity}
     language: hebrew
   - strongs: H253
-    proximity: 0.7493
+    proximity: 0.7493 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

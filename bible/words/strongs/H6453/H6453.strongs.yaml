@@ -7,49 +7,65 @@ definition: a pretermission, i.e. exemption; used only techically of the Jewish 
   (the festival or the victim)
 kjv_usage: passover (offering).
 derivation: from H6452 (פָּסַח);
-extended_definition:
-  gloss: Passover
-  definition: 'Passover, <br>1a) sacrifice of passover<br>1b) animal victim of the
-    passover<br>1c) festival of the passover<br><BR>Also named: <i>pascha</i> (πάσχα
-    "Passover lamb" G3957) <BR>'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'Passover,
+
+  1a) sacrifice of passover
+
+  1b) animal victim of the passover
+
+  1c) festival of the passover
+
+  Also named: pascha (πάσχα "Passover lamb" G3957) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2924
-    proximity: 0.8205
+    lemma: טָלֶה
+    gloss: a lamb {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: H3776
-    proximity: 0.8201
+    lemma: כִּשְׂבָּה
+    gloss: a young ewe {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: H7133
-    proximity: 0.8047
+    lemma: קׇרְבָּן
+    gloss: something brought near the altar {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
   - strongs: A563
-    proximity: 0.8002
+    proximity: 0.8002 {macula-proximity}
   - strongs: H5930
-    proximity: 0.7938
+    lemma: עֹלָה
+    gloss: a step or (collectively {openscriptures-strongs}
+    proximity: 0.7938 {macula-proximity}
   - strongs: H3532
-    proximity: 0.7466
+    lemma: כֶּבֶשׂ
+    gloss: a ram {openscriptures-strongs}
+    proximity: 0.7466 {macula-proximity}
   - strongs: H2282
-    proximity: 0.737
+    lemma: חַג
+    gloss: a festival {openscriptures-strongs}
+    proximity: 0.737 {macula-proximity}
   - strongs: H2077
-    proximity: 0.7014
+    lemma: זֶבַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7014 {macula-proximity}
   cross_language:
   - strongs: G704
-    proximity: 0.7926
+    proximity: 0.7926 {macula-proximity}
     language: greek
   - strongs: G2378
-    proximity: 0.7885
+    lemma: θυσία
+    gloss: sacrifice (the act or the victim {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
     language: greek
   - strongs: G4968
-    proximity: 0.7862
+    lemma: σφάγιον
+    gloss: a victim {openscriptures-strongs}
+    proximity: 0.7862 {macula-proximity}
     language: greek
   - strongs: G286
-    proximity: 0.7808
+    proximity: 0.7808 {macula-proximity}
     language: greek
   - strongs: G721
-    proximity: 0.7511
+    proximity: 0.7511 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

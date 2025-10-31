@@ -14,34 +14,47 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H5360
-    proximity: 0.8297
+    lemma: נְקָמָה
+    gloss: avengement {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: H8002
-    proximity: 0.8276
+    lemma: שֶׁלֶם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: H7760
-    proximity: 0.8235
+    lemma: שׂוּם
+    gloss: to put (used in a great variety of applications {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: H6468
-    proximity: 0.8127
+    lemma: פְּעֻלָּה
+    gloss: work {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
   - strongs: A3319
-    proximity: 0.7976
+    proximity: 0.7976 {macula-proximity}
   - strongs: H3615
-    proximity: 0.7922
+    lemma: כָּלָה
+    gloss: to end {openscriptures-strongs}
+    proximity: 0.7922 {macula-proximity}
   cross_language:
   - strongs: G15
-    proximity: 0.8244
+    proximity: 0.8244 {macula-proximity}
     language: greek
   - strongs: G1274
-    proximity: 0.8225
+    lemma: διανύω
+    gloss: to accomplish thoroughly {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
   - strongs: G600
-    proximity: 0.8158
+    proximity: 0.8158 {macula-proximity}
     language: greek
   - strongs: G1363
-    proximity: 0.8116
+    lemma: διπλόω
+    gloss: to render two-fold {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
     language: greek
   - strongs: G4160
-    proximity: 0.808
+    lemma: ποιέω
+    gloss: to make or do (in a very wide application {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -8,47 +8,73 @@ kjv_usage: adjure, charge (by an oath, with an oath), feed to the full (by mista
   for H7646 (שָׂבַע)), take an oath, [idiom] straitly, (cause to, make to) swear.
 derivation: a primitive root; properly to be complete, but used only as a denominative
   from H7651 (שֶׁבַע);
-extended_definition:
-  gloss: to swear
-  definition: 1) to swear, adjure<br>1a) (Qal) sworn (participle)<br>1b) (Niphal)<br>1b1)
-    to swear, take an oath<br>1b2) to swear (of Jehovah by Himself)<br>1b3) to curse<br>1c)
-    (Hiphil)<br>1c1) to cause to take an oath<br>1c2) to adjure
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to swear, adjure
+
+  1a) (Qal) sworn (participle)
+
+  1b) (Niphal)
+
+  1b1) to swear, take an oath
+
+  1b2) to swear (of Jehovah by Himself)
+
+  1b3) to curse
+
+  1c) (Hiphil)
+
+  1c1) to cause to take an oath
+
+  1c2) to adjure {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H779
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
   - strongs: H3994
-    proximity: 0.8244
+    lemma: מְאֵרָה
+    gloss: an execration {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: H6895
-    proximity: 0.8235
+    lemma: קָבַב
+    gloss: to scoop out {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: H7723
-    proximity: 0.8231
+    lemma: שָׁוְא
+    gloss: evil {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H5414
-    proximity: 0.8193
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H7311
-    proximity: 0.8167
+    lemma: רוּם
+    gloss: to be high actively {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H8267
-    proximity: 0.8005
+    lemma: שֶׁקֶר
+    gloss: an untruth {openscriptures-strongs}
+    proximity: 0.8005 {macula-proximity}
   cross_language:
   - strongs: G1944
-    proximity: 0.8266
+    lemma: ἐπικατάρατος
+    gloss: imprecated {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
     language: greek
   - strongs: G1861
-    proximity: 0.8246
+    lemma: ἐπαγγέλλω
+    gloss: to announce upon {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
     language: greek
   - strongs: G1962
-    proximity: 0.8222
+    lemma: ἐπινεύω
+    gloss: to nod at {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
     language: greek
   - strongs: G1944a
-    proximity: 0.8215
+    proximity: 0.8215 {macula-proximity}
     language: greek
   - strongs: G2428
-    proximity: 0.8172
+    lemma: ἱκετηρία
+    gloss: intreaty {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

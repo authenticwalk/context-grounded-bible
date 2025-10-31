@@ -5,62 +5,77 @@ transliteration: tetraplóos
 definition: quadruple
 kjv_usage: fourfold
 derivation: from G5064 (τέσσαρες) and a derivative of the base of G4118 (πλεῖστος);
-extended_definition:
-  gloss: fourfold
-  definition: '<b>τετρα-πλόος</b>, -η, -ον (-οῦς, -ῆ, -οῦν) <BR /> <b>fourfold</b>:
-    <ref=''Luk.19.8.''>Luk.19:8.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> τετρᾰ-πλόος</b>, η, ον, <br /> <i>contraction</i> <b>τετρᾰ-πλοῦς</b>,
-    ῆ, οῦν, <b>fourfold</b>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus
-    Biographus et Philosophus “Lucullus” 2; τοῦ τετραπλοῦ μισθοῦ “PSI” 9.1055.13 (3rd
-    c.AD)">Refs 1st c.AD+</a>]; τὸ τ., ={τετραμοιρία}, [<a href="javascript:void(0)"
-    title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 7.6.7; ἀποδίδωμι τετραπλοῦν
-    NT.Luke.19.8 ">NT+5th c.BC+</a>]. <i>adverb</i> <b>-πλῶς</b>[<a href="javascript:void(0)"
-    title=" LXX.3Ki.6.31(33). (Cf. ἁπλόος.) ">LXX</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'τετρα-πλόος, -η, -ον (-οῦς, -ῆ, -οῦν)
+
+  fourfold: Luk.19:8.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'τετρᾰ-πλόος, η, ον,
+
+  contraction τετρᾰ-πλοῦς, ῆ, οῦν, fourfold, [Refs 1st c.AD+]; τὸ τ., ={τετραμοιρία},
+  [NT+5th c.BC+]. adverb -πλῶς[LXX] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A2166
-    proximity: 0.8204
+    proximity: 0.8204 {macula-proximity}
   - strongs: G3589
-    proximity: 0.7976
+    lemma: ὀγδοήκοντα
+    gloss: ten times eight {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: G5069
-    proximity: 0.7941
+    lemma: τετράδιον
+    gloss: from G5064 ) {openscriptures-strongs}
+    proximity: 0.7941 {macula-proximity}
   - strongs: G5071
-    proximity: 0.7915
+    lemma: τετρακόσιοι
+    gloss: four hundred {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
   - strongs: G1542
-    proximity: 0.7846
+    lemma: ἑκατονταπλασίων
+    gloss: a hundred times {openscriptures-strongs}
+    proximity: 0.7846 {macula-proximity}
   - strongs: G4179
-    proximity: 0.7833
+    lemma: πολλαπλασίων
+    gloss: manifold {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
   - strongs: G5067
-    proximity: 0.7765
+    lemma: τέταρτος
+    gloss: fourth {openscriptures-strongs}
+    proximity: 0.7765 {macula-proximity}
   - strongs: G5070
-    proximity: 0.7694
+    lemma: τετρακισχίλιοι
+    gloss: four times a thousand {openscriptures-strongs}
+    proximity: 0.7694 {macula-proximity}
   - strongs: G5072
-    proximity: 0.7543
+    lemma: τετράμηνον
+    gloss: a four months' space {openscriptures-strongs}
+    proximity: 0.7543 {macula-proximity}
   - strongs: G5066
-    proximity: 0.753
+    lemma: τεταρταῖος
+    gloss: pertaining to the fourth day {openscriptures-strongs}
+    proximity: 0.753 {macula-proximity}
   cross_language:
   - strongs: H6256
-    proximity: 0.8237
+    lemma: עֵת
+    gloss: time {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
     language: hebrew
   - strongs: H6471
-    proximity: 0.7856
+    lemma: פַּעַם
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.7856 {macula-proximity}
     language: hebrew
   - strongs: H7659
-    proximity: 0.7741
+    lemma: שִׁבְעָתַיִם
+    gloss: seven-times {openscriptures-strongs}
+    proximity: 0.7741 {macula-proximity}
     language: hebrew
   - strongs: H702
-    proximity: 0.7511
+    proximity: 0.7511 {macula-proximity}
     language: hebrew
   - strongs: H8180
-    proximity: 0.7033
+    lemma: שַׁעַר
+    gloss: a measure {openscriptures-strongs}
+    proximity: 0.7033 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

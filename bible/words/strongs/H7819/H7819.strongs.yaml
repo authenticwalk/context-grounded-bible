@@ -9,36 +9,53 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: A1685
-    proximity: 0.8253
+    proximity: 0.8253 {macula-proximity}
   - strongs: H4347
-    proximity: 0.8196
+    lemma: מַכָּה
+    gloss: a wound {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: H4463
-    proximity: 0.8147
+    lemma: מָמוֹת
+    gloss: a mortal disease {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: H5930
-    proximity: 0.8083
+    lemma: עֹלָה
+    gloss: a step or (collectively {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
   - strongs: H7524
-    proximity: 0.7934
+    lemma: רֶצַח
+    gloss: a crushing {openscriptures-strongs}
+    proximity: 0.7934 {macula-proximity}
   - strongs: H4194
-    proximity: 0.7907
+    lemma: מָוֶת
+    gloss: death {openscriptures-strongs}
+    proximity: 0.7907 {macula-proximity}
   - strongs: H7133
-    proximity: 0.7825
+    lemma: קׇרְבָּן
+    gloss: something brought near the altar {openscriptures-strongs}
+    proximity: 0.7825 {macula-proximity}
   cross_language:
   - strongs: G5406
-    proximity: 0.8238
+    lemma: φονεύς
+    gloss: a murderer  homicide {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
     language: greek
   - strongs: G3498
-    proximity: 0.8154
+    lemma: νεκρός
+    gloss: dead (literally or figuratively {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
     language: greek
   - strongs: G2378
-    proximity: 0.8116
+    lemma: θυσία
+    gloss: sacrifice (the act or the victim {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
     language: greek
   - strongs: G336
-    proximity: 0.8061
+    proximity: 0.8061 {macula-proximity}
     language: greek
   - strongs: G4374
-    proximity: 0.8046
+    lemma: προσφέρω
+    gloss: to bear towards {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

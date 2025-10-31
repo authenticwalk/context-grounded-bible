@@ -5,25 +5,21 @@ transliteration: Gallíōn
 definition: Gallion (i.e. Gallio), a Roman officer
 kjv_usage: Gallio
 derivation: of Latin origin;
-extended_definition:
-  gloss: Gallio
-  definition: '<b>Γαλλίων</b>, -ωνος, ὁ, <BR /> <b>Gallio</b>, proconsul of Achaia:
-    <ref=''Act.18.12, 14, 17''>Act.18:12, 14 17</ref>.†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Γαλλίων</b>, -ωνος, ὁ, <BR /> <b>Gallio</b>, proconsul of Achaia:
-    <ref=''Act.18.12, 14, 17''>Act.18:12, 14 17</ref>.†<BR />  (From Abbott-Smith.
-    LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Γαλλίων, -ωνος, ὁ,
+
+  Gallio, proconsul of Achaia: Act.18:12, 14 17.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Γαλλίων, -ωνος, ὁ,
+
+  Gallio, proconsul of Achaia: Act.18:12, 14 17.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H1056
-    proximity: 0.8259
+    lemma: בָּכָא
+    gloss: Baca {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

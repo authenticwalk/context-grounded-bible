@@ -6,38 +6,44 @@ pronunciation: rif-yone'
 definition: slackness
 kjv_usage: feebleness.
 derivation: from H7503 (רָפָה);
-extended_definition:
-  gloss: feebleness
-  definition: sinking
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: sinking {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2489
-    proximity: 0.8223
+    lemma: חֵלְכָא
+    gloss: a wretch {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
   - strongs: H410a
-    proximity: 0.8148
+    proximity: 0.8148 {macula-proximity}
   - strongs: H3027
-    proximity: 0.8119
+    lemma: יָד
+    gloss: a hand (the open one (indicating power {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: A2783
-    proximity: 0.8097
+    proximity: 0.8097 {macula-proximity}
   - strongs: H353
-    proximity: 0.8042
+    proximity: 0.8042 {macula-proximity}
   - strongs: H2638
-    proximity: 0.7982
+    lemma: חָסֵר
+    gloss: lacking {openscriptures-strongs}
+    proximity: 0.7982 {macula-proximity}
   - strongs: H7503
-    proximity: 0.783
+    lemma: רָפָה
+    gloss: to slacken (in many applications {openscriptures-strongs}
+    proximity: 0.783 {macula-proximity}
   - strongs: H7504
-    proximity: 0.7157
+    lemma: רָפֶה
+    gloss: slack {openscriptures-strongs}
+    proximity: 0.7157 {macula-proximity}
   cross_language:
   - strongs: G3935
-    proximity: 0.8095
+    lemma: παρίημι
+    gloss: to let by {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
     language: greek
   - strongs: G3007
-    proximity: 0.7758
+    lemma: λείπω
+    gloss: to leave {openscriptures-strongs}
+    proximity: 0.7758 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,45 +6,53 @@ pronunciation: leh-ome'
 definition: a community
 kjv_usage: nation, people.
 derivation: or לְאוֹם; from an unused root meaning to gather;
-extended_definition:
-  gloss: people
-  definition: a people, nation
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: a people, nation {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5712
-    proximity: 0.83
+    lemma: עֵדָה
+    gloss: a stated assemblage (specifically {openscriptures-strongs}
+    proximity: 0.83 {macula-proximity}
   - strongs: H6951
-    proximity: 0.8248
+    lemma: קָהָל
+    gloss: assemblage {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: H1167
-    proximity: 0.8237
+    lemma: בַּעַל
+    gloss: a master {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: A5962
-    proximity: 0.8204
+    proximity: 0.8204 {macula-proximity}
   - strongs: H776
-    proximity: 0.8117
+    proximity: 0.8117 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7939
+    proximity: 0.7939 {macula-proximity}
   - strongs: A1753
-    proximity: 0.7924
+    proximity: 0.7924 {macula-proximity}
   cross_language:
   - strongs: G2937
-    proximity: 0.8274
+    lemma: κτίσις
+    gloss: original formation (properly {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
     language: greek
   - strongs: G3060
-    proximity: 0.8272
+    lemma: λοίδορος
+    gloss: abusive {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G2415
-    proximity: 0.8235
+    lemma: Ἱεροσολυμίτης
+    gloss: a Hierosolymite {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: greek
   - strongs: G1786
-    proximity: 0.8202
+    lemma: ἐντόπιος
+    gloss: a resident {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
     language: greek
   - strongs: G3536
-    proximity: 0.813
+    lemma: Νινευΐτης
+    gloss: a Ninevite {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

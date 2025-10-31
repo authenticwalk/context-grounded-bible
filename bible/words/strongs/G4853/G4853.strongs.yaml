@@ -5,61 +5,73 @@ transliteration: symphylétēs
 definition: a co-tribesman, i.e. native of the same country
 kjv_usage: countryman
 derivation: from G4862 (σύν) and a derivative of G5443 (φυλή);
-extended_definition:
-  gloss: fellow countryman
-  definition: '<b>συμ-φυλέτης</b>, -ου, ὁ<BR /> (σύν, φυλή; cf. σύμφυλος, Aq.: <ref=''Zec.13.7''>Zec.13:7;</ref>
-    and see Rutherford, <i>NPhr.</i>, 255 f.) <BR /><b>a fellow-tribesman, fellow-countryman</b>:
-    <ref=''1Th.2.14''>1Th.2:14</ref> (see M, <i>Th.</i>, in l, and <i>Intr.</i> liii).
-    Not found elsewhere.†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συμφῡλ-έτης</b>, ου, ὁ, <br /> <b>of the same</b> φυλή, [<a
-    href="javascript:void(0)" title=" “IG” 12(2).505.18 (from Methymna)">Refs</a>]:
-    generally, <b>fellow-countryman</b>, [<a href="javascript:void(0)" title=" NT.1Thes.2.14.
-    ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συμ-φυλέτης, -ου, ὁ
+
+  (σύν, φυλή; cf. σύμφυλος, Aq.: Zec.13:7; and see Rutherford, NPhr., 255 f.)
+
+  a fellow-tribesman, fellow-countryman: 1Th.2:14 (see M, Th., in l, and Intr. liii).
+  Not found elsewhere.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συμφῡλ-έτης, ου, ὁ,
+
+  of the same φυλή, [Refs]: generally, fellow-countryman, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A2234
-    proximity: 0.8207
+    proximity: 0.8207 {macula-proximity}
   - strongs: G3536
-    proximity: 0.8194
+    lemma: Νινευΐτης
+    gloss: a Ninevite {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: G2415
-    proximity: 0.808
+    lemma: Ἱεροσολυμίτης
+    gloss: a Hierosolymite {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
   - strongs: G5561
-    proximity: 0.8041
+    lemma: χώρα
+    gloss: room {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
   - strongs: A5962
-    proximity: 0.7987
+    proximity: 0.7987 {macula-proximity}
   - strongs: G3968
-    proximity: 0.7953
+    lemma: πατρίς
+    gloss: a father-land {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
   - strongs: G1484
-    proximity: 0.7871
+    lemma: ἔθνος
+    gloss: a race {openscriptures-strongs}
+    proximity: 0.7871 {macula-proximity}
   - strongs: G4193
-    proximity: 0.7671
+    lemma: Ποντικός
+    gloss: a Pontican {openscriptures-strongs}
+    proximity: 0.7671 {macula-proximity}
   - strongs: G1786
-    proximity: 0.7624
+    lemma: ἐντόπιος
+    gloss: a resident {openscriptures-strongs}
+    proximity: 0.7624 {macula-proximity}
   - strongs: G2992
-    proximity: 0.7417
+    lemma: λαός
+    gloss: a people (in general {openscriptures-strongs}
+    proximity: 0.7417 {macula-proximity}
   cross_language:
   - strongs: H6154a
-    proximity: 0.8073
+    proximity: 0.8073 {macula-proximity}
     language: hebrew
   - strongs: H251
-    proximity: 0.8064
+    proximity: 0.8064 {macula-proximity}
     language: hebrew
   - strongs: H776
-    proximity: 0.7997
+    proximity: 0.7997 {macula-proximity}
     language: hebrew
   - strongs: H3816
-    proximity: 0.7896
+    lemma: לְאֹם
+    gloss: a community {openscriptures-strongs}
+    proximity: 0.7896 {macula-proximity}
     language: hebrew
   - strongs: H5997
-    proximity: 0.7436
+    lemma: עָמִית
+    gloss: companionship {openscriptures-strongs}
+    proximity: 0.7436 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

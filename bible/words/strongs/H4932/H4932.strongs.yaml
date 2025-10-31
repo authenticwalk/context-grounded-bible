@@ -7,51 +7,73 @@ definition: properly, a repetition, i.e. a duplicate (copy of a document), or a 
   (in amount); by implication, a second (in order, rank, age, quality or location)
 kjv_usage: college, copy, double, fatlings, next, second (order), twice as much.
 derivation: from H8138 (שָׁנָה);
-extended_definition:
-  gloss: second
-  definition: 1) double, copy, second, repetition<br>1a) double<br>1b) copy (of law)<br>1c)
-    second (in order)<br>1c1) second rank<br>1c2) second in age<br>1d) second quarter
-    or district
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) double, copy, second, repetition
+
+  1a) double
+
+  1b) copy (of law)
+
+  1c) second (in order)
+
+  1c1) second rank
+
+  1c2) second in age
+
+  1d) second quarter or district {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4283
-    proximity: 0.8297
+    lemma: מׇחֳרָת
+    gloss: the morrow or  tomorrow {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: H6471
-    proximity: 0.8218
+    lemma: פַּעַם
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H8147
-    proximity: 0.8142
+    lemma: שְׁנַיִם
+    gloss: two {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: H8138a
-    proximity: 0.8116
+    proximity: 0.8116 {macula-proximity}
   - strongs: H3548
-    proximity: 0.8027
+    lemma: כֹּהֵן
+    gloss: literally one officiating {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
   - strongs: A8579
-    proximity: 0.7901
+    proximity: 0.7901 {macula-proximity}
   - strongs: H6572
-    proximity: 0.7835
+    lemma: פַּרְשֶׁגֶן
+    gloss: a transcript {openscriptures-strongs}
+    proximity: 0.7835 {macula-proximity}
   - strongs: A8648
-    proximity: 0.7761
+    proximity: 0.7761 {macula-proximity}
   - strongs: H3718
-    proximity: 0.7419
+    lemma: כֶּפֶל
+    gloss: a duplicate {openscriptures-strongs}
+    proximity: 0.7419 {macula-proximity}
   cross_language:
   - strongs: G2409
-    proximity: 0.8208
+    lemma: ἱερεύς
+    gloss: a priest {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G1966a
-    proximity: 0.8127
+    proximity: 0.8127 {macula-proximity}
     language: greek
   - strongs: G1206
-    proximity: 0.8084
+    lemma: δευτεραῖος
+    gloss: secondary {openscriptures-strongs}
+    proximity: 0.8084 {macula-proximity}
     language: greek
   - strongs: G1363
-    proximity: 0.7798
+    lemma: διπλόω
+    gloss: to render two-fold {openscriptures-strongs}
+    proximity: 0.7798 {macula-proximity}
     language: greek
   - strongs: G1887
-    proximity: 0.7776
+    lemma: ἐπαύριον
+    gloss: occurring on the succeeding day {openscriptures-strongs}
+    proximity: 0.7776 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

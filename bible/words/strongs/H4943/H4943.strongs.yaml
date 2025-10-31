@@ -6,33 +6,35 @@ pronunciation: meh'-shek
 definition: possession
 kjv_usage: '[phrase] steward.'
 derivation: from an unused root meaning to hold;
-extended_definition:
-  gloss: acquisition
-  definition: acquisition, possession, son of possession, heir
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: acquisition, possession, son of possession, heir {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1121
-    proximity: 0.8097
+    lemma: בֵּן
+    gloss: a son {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: H5220
-    proximity: 0.8089
+    lemma: נֶכֶד
+    gloss: offspring {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: A6902
-    proximity: 0.7988
+    proximity: 0.7988 {macula-proximity}
   - strongs: A2631
-    proximity: 0.7975
+    proximity: 0.7975 {macula-proximity}
   cross_language:
   - strongs: G2697
-    proximity: 0.8266
+    lemma: κατάσχεσις
+    gloss: a holding down {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
     language: greek
   - strongs: G2820
-    proximity: 0.7909
+    lemma: κληρόω
+    gloss: to allot {openscriptures-strongs}
+    proximity: 0.7909 {macula-proximity}
     language: greek
   - strongs: G5297
-    proximity: 0.7653
+    lemma: ὑποφέρω
+    gloss: to bear from underneath {openscriptures-strongs}
+    proximity: 0.7653 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

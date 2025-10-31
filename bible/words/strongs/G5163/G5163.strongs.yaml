@@ -5,48 +5,47 @@ transliteration: trochiá
 definition: a track (as a wheel-rut), i.e. (figuratively) a course of conduct
 kjv_usage: path
 derivation: from G5164 (τροχός);
-extended_definition:
-  gloss: track
-  definition: '<b>τροχιά</b>, -ᾶς, ἡ<BR /> (τροχός), [in LXX: <ref=''Pro.2.15; 4.11,
-    26-27; 5.6, 21''>Pro.2:15 4:11, 26-27 5:6, 21</ref> (מַעְגָּל), <ref=''Ezk.27.19''>Eze.27:19</ref>
-    A* ;] <BR /><b>the track of a wheel, hence, a track, path</b>: figuratively, <ref=''Heb.12.13''>Heb.12:13</ref>
-    (LXX) †<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> τροχιά</b>, ἡ, <br /> <b>wheel-track, rut,</b> [<a href="javascript:void(0)"
-    title=" 5th c.AD(?): Hesychius Legal icographus, 9th c.AD: Photius Legal icographus,
-    etc., etc. ">Refs 5th c.AD+</a>]<br /><Level2><b>__II</b></Level2> <b>the round
-    of a wheel,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 7.478
-    (1st c.AD: Leonidas Alexandrinus Epigrammaticus), 9.418 (Antip.), 2nd c.BC: Nicander
-    Epicus “Theriaca” 816. ">Refs 2nd c.BC+</a>]<br /><Level2><b>__III</b></Level2>
-    <b>path,</b> [<a href="javascript:void(0)" title=" LXX.Pro.4.26 (= NT.Heb.12.13).
-    ">LXX+NT</a>]<br /><Level2><b>__IV</b></Level2> <b>elastic strand in the</b> τόνος
-    <b>of a torsion-engine,</b> [<a href="javascript:void(0)" title=" 3rd-2nd c.BC:
-    Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik - Ath. Berl. Akad.”
-    54.41, probably to be read instead of τριχέα in 2nd-1st c.BC(?): Hero Mechanicus
-    “Belopoeica” 108.3. ">Refs 3rd c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'τροχιά, -ᾶς, ἡ
+
+  (τροχός), [in LXX: Pro.2:15 4:11, 26-27 5:6, 21 (מַעְגָּל), Eze.27:19 A* ;]
+
+  the track of a wheel, hence, a track, path: figuratively, Heb.12:13 (LXX) †
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'τροχιά, ἡ,
+
+  wheel-track, rut, [Refs 5th c.AD+]
+
+  __II the round of a wheel, [Refs 2nd c.BC+]
+
+  __III path, [LXX+NT]
+
+  __IV elastic strand in the τόνος of a torsion-engine, [Refs 3rd c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2600
-    proximity: 0.7889
+    lemma: κατάβασις
+    gloss: a declivity {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
   cross_language:
   - strongs: H6806
-    proximity: 0.8255
+    lemma: צַעַד
+    gloss: a pace or regular step {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
     language: hebrew
   - strongs: H1979
-    proximity: 0.825
+    lemma: הֲלִיכָה
+    gloss: a walking {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
     language: hebrew
   - strongs: H1978
-    proximity: 0.7828
+    lemma: הָלִיךְ
+    gloss: a walk {openscriptures-strongs}
+    proximity: 0.7828 {macula-proximity}
     language: hebrew
   - strongs: H4547
-    proximity: 0.7753
+    lemma: מַסְלוּל
+    gloss: a thoroughfare {openscriptures-strongs}
+    proximity: 0.7753 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,43 +6,57 @@ pronunciation: naw-kawm'
 definition: revenge
 kjv_usage: '[phrase] avenged, quarrel, vengeance.'
 derivation: from H5358 (נָקַם);
-extended_definition:
-  gloss: vengeance
-  definition: 1) vengeance<br>1a) vengeance (by God, by Samson, by enemies of Judah)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) vengeance
+
+  1a) vengeance (by God, by Samson, by enemies of Judah) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5414
-    proximity: 0.8221
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H6213
-    proximity: 0.808
+    lemma: עָשָׂה
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
   - strongs: H3947
-    proximity: 0.7952
+    lemma: לָקַח
+    gloss: to take {openscriptures-strongs}
+    proximity: 0.7952 {macula-proximity}
   - strongs: H7999
-    proximity: 0.7605
+    lemma: שָׁלַם
+    gloss: to be safe (in mind {openscriptures-strongs}
+    proximity: 0.7605 {macula-proximity}
   - strongs: H7589
-    proximity: 0.745
+    lemma: שְׁאָט
+    gloss: contempt {openscriptures-strongs}
+    proximity: 0.745 {macula-proximity}
   - strongs: H8011
-    proximity: 0.7034
+    lemma: שִׁלֻּמָה
+    gloss: retribution {openscriptures-strongs}
+    proximity: 0.7034 {macula-proximity}
   cross_language:
   - strongs: G468
-    proximity: 0.8283
+    proximity: 0.8283 {macula-proximity}
     language: greek
   - strongs: G1362
-    proximity: 0.828
+    lemma: διπλοῦς
+    gloss: two-fold {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G1349
-    proximity: 0.8274
+    lemma: δίκη
+    gloss: right {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
     language: greek
   - strongs: G1558
-    proximity: 0.8093
+    lemma: ἔκδικος
+    gloss: carrying justice out {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
     language: greek
   - strongs: G1556
-    proximity: 0.749
+    lemma: ἐκδικέω
+    gloss: to vindicate {openscriptures-strongs}
+    proximity: 0.749 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,39 +6,45 @@ pronunciation: saw-hade'
 definition: a witness
 kjv_usage: record.
 derivation: from an unused root meaning to testify;
-extended_definition:
-  gloss: advocate
-  definition: witness
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: witness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3887c
-    proximity: 0.8094
+    proximity: 0.8094 {macula-proximity}
   - strongs: H6161
-    proximity: 0.8085
+    lemma: עֲרֻבָּה
+    gloss: something given as security {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
   - strongs: H5713
-    proximity: 0.8031
+    lemma: עֵדָה
+    gloss: testimony {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
   - strongs: A4449
-    proximity: 0.772
+    proximity: 0.772 {macula-proximity}
   cross_language:
   - strongs: G4814
-    proximity: 0.8175
+    lemma: συλλαλέω
+    gloss: to talk together {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: greek
   - strongs: G4487
-    proximity: 0.8168
+    lemma: ῥῆμα
+    gloss: an utterance (individually {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
     language: greek
   - strongs: G3142
-    proximity: 0.8136
+    lemma: μαρτύριον
+    gloss: something evidential {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
     language: greek
   - strongs: G1730
-    proximity: 0.8035
+    lemma: ἔνδειγμα
+    gloss: an indication {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
     language: greek
   - strongs: G3143
-    proximity: 0.8027
+    lemma: μαρτύρομαι
+    gloss: to be adduced as a witness {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

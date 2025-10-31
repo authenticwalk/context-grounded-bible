@@ -6,46 +6,58 @@ pronunciation: reer
 definition: saliva; by resemblance, broth
 kjv_usage: spittle, white (of an egg).
 derivation: from H7325 (רוּר);
-extended_definition:
-  gloss: spittle
-  definition: slime juice or liquid, spittle
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: slime juice or liquid, spittle {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2355a
-    proximity: 0.8105
+    proximity: 0.8105 {macula-proximity}
   - strongs: H3835
-    proximity: 0.797
+    lemma: לָבַן
+    gloss: to be  white {openscriptures-strongs}
+    proximity: 0.797 {macula-proximity}
   - strongs: A5343
-    proximity: 0.7937
+    proximity: 0.7937 {macula-proximity}
   - strongs: H7556
-    proximity: 0.7885
+    lemma: רָקַק
+    gloss: to spit {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
   - strongs: H2751
-    proximity: 0.7787
+    lemma: חֹרִי
+    gloss: white bread {openscriptures-strongs}
+    proximity: 0.7787 {macula-proximity}
   - strongs: H8611
-    proximity: 0.7626
+    lemma: תֹּפֶת
+    gloss: a smiting {openscriptures-strongs}
+    proximity: 0.7626 {macula-proximity}
   - strongs: H3417
-    proximity: 0.7305
+    lemma: יָרָק
+    gloss: to spit {openscriptures-strongs}
+    proximity: 0.7305 {macula-proximity}
   - strongs: H6715
-    proximity: 0.7177
+    lemma: צָחֹר
+    gloss: white {openscriptures-strongs}
+    proximity: 0.7177 {macula-proximity}
   - strongs: H6705
-    proximity: 0.7071
+    lemma: צָחַח
+    gloss: to glare {openscriptures-strongs}
+    proximity: 0.7071 {macula-proximity}
   cross_language:
   - strongs: G875
-    proximity: 0.8136
+    proximity: 0.8136 {macula-proximity}
     language: greek
   - strongs: G3021
-    proximity: 0.8099
+    lemma: λευκαίνω
+    gloss: to whiten {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
     language: greek
   - strongs: G4429
-    proximity: 0.7444
+    lemma: πτύω
+    gloss: to spit {openscriptures-strongs}
+    proximity: 0.7444 {macula-proximity}
     language: greek
   - strongs: G1716
-    proximity: 0.7339
+    lemma: ἐμπτύω
+    gloss: to spit at or on {openscriptures-strongs}
+    proximity: 0.7339 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

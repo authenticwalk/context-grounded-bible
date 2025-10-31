@@ -5,43 +5,51 @@ transliteration: isángelos
 definition: like an angel, i.e. angelic
 kjv_usage: equal unto the angels
 derivation: from G2470 (ἴσος) and G32 (ἄγγελος);
-extended_definition:
-  gloss: like an angel
-  definition: '<b>ἰσάγγελος -ον</b><BR /> (ἴσος, ἄγγελος), <BR /><b>like or equal
-    to angels</b>: <ref=''Luk.20.36.''>Luk.20:36.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἰσ-άγγελος</b>, ον, <br /> <b>like an angel,</b> [<a href="javascript:void(0)"
-    title="NT.Luke.20.36, 5th c.AD: Hierocles Platonicus Philosophus “in Carmen Aureum
-    - FPG” 4p.425M. ">NT+5th c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἰσάγγελος -ον
+
+  (ἴσος, ἄγγελος),
+
+  like or equal to angels: Luk.20:36.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἰσ-άγγελος, ον,
+
+  like an angel, [NT+5th c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3663
-    proximity: 0.8264
+    lemma: ὁμοιοπαθής
+    gloss: similarly affected {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: G743
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
   - strongs: G3667
-    proximity: 0.7949
+    lemma: ὁμοίωμα
+    gloss: a form {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
   - strongs: G3664
-    proximity: 0.793
+    lemma: ὅμοιος
+    gloss: similar {openscriptures-strongs}
+    proximity: 0.793 {macula-proximity}
   - strongs: G3945
-    proximity: 0.7889
+    lemma: παρομοιάζω
+    gloss: to resemble {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
   - strongs: G1503a
-    proximity: 0.7698
+    proximity: 0.7698 {macula-proximity}
   - strongs: G3665
-    proximity: 0.7551
+    lemma: ὁμοιότης
+    gloss: resemblance {openscriptures-strongs}
+    proximity: 0.7551 {macula-proximity}
   cross_language:
   - strongs: H3644
-    proximity: 0.7634
+    lemma: כְּמוֹ
+    gloss: a form of the prefix 'k-' {openscriptures-strongs}
+    proximity: 0.7634 {macula-proximity}
     language: hebrew
   - strongs: H4397
-    proximity: 0.7436
+    lemma: מֲלְאָךְ
+    gloss: a messenger {openscriptures-strongs}
+    proximity: 0.7436 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

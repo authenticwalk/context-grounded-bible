@@ -6,48 +6,66 @@ pronunciation: khar-tsoob-baw'
 definition: a fetter; figuratively, a pain
 kjv_usage: band.
 derivation: of uncertain derivation;
-extended_definition:
-  gloss: bond
-  definition: 1) bond, fetter, pang, hands<br>1a) bonds<br>1b) pangs
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) bond, fetter, pang, hands
+
+  1a) bonds
+
+  1b) pangs {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6001a
-    proximity: 0.8222
+    proximity: 0.8222 {macula-proximity}
   - strongs: H4815
-    proximity: 0.8131
+    lemma: מְרִירִי
+    gloss: bitter {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
   - strongs: H6234
-    proximity: 0.8126
+    lemma: עׇשְׁקָה
+    gloss: anguish {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
   - strongs: H4562
-    proximity: 0.8111
+    lemma: מָסֹרֶת
+    gloss: a band {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: H6060
-    proximity: 0.8068
+    lemma: עָנָק
+    gloss: a necklace {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
   - strongs: H2256b
-    proximity: 0.8012
+    proximity: 0.8012 {macula-proximity}
   - strongs: H6040
-    proximity: 0.8
+    lemma: עֳנִי
+    gloss: depression {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: H6089a
-    proximity: 0.7967
+    proximity: 0.7967 {macula-proximity}
   - strongs: H5204
-    proximity: 0.7903
+    lemma: נִי
+    gloss: lamentation {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
   - strongs: H6094
-    proximity: 0.786
+    lemma: עַצֶּבֶת
+    gloss: a idol {openscriptures-strongs}
+    proximity: 0.786 {macula-proximity}
   cross_language:
   - strongs: G3600
-    proximity: 0.8277
+    lemma: ὀδυνάω
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: greek
   - strongs: G5605
-    proximity: 0.824
+    lemma: ὠδίνω
+    gloss: to experience the pains of parturition {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: greek
   - strongs: G4928
-    proximity: 0.8185
+    lemma: συνοχή
+    gloss: restraint {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
     language: greek
   - strongs: G3804
-    proximity: 0.8177
+    lemma: πάθημα
+    gloss: something undergone {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

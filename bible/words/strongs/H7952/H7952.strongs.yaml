@@ -7,42 +7,57 @@ definition: to mislead
 kjv_usage: deceive, be negligent.
 derivation: a primitive root (probably identical with H7953 (שָׁלָה) through the idea
   of educing);
-extended_definition:
-  gloss: to neglect
-  definition: '1) (Niphal) to be negligent<br>2) (Hiphil) to mislead<BR>Aramaic equivalent:
-    <i>sha.lah</i> (שָׁלָה "error" H7955)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Niphal) to be negligent
+
+  2) (Hiphil) to mislead
+
+  Aramaic equivalent: sha.lah (שָׁלָה "error" H7955) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7664
-    proximity: 0.8155
+    lemma: שֵׂבֶר
+    gloss: expectation {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H6117
-    proximity: 0.799
+    lemma: עָקַב
+    gloss: to seize by the heel {openscriptures-strongs}
+    proximity: 0.799 {macula-proximity}
   - strongs: H8431
-    proximity: 0.789
+    lemma: תּוֹחֶלֶת
+    gloss: expectation {openscriptures-strongs}
+    proximity: 0.789 {macula-proximity}
   - strongs: H4723
-    proximity: 0.7414
+    lemma: מִקְוֶה
+    gloss: something waited for {openscriptures-strongs}
+    proximity: 0.7414 {macula-proximity}
   - strongs: H8615
-    proximity: 0.717
+    lemma: תִּקְוָה
+    gloss: literally a cord {openscriptures-strongs}
+    proximity: 0.717 {macula-proximity}
   cross_language:
   - strongs: G1387
-    proximity: 0.8201
+    lemma: δολιόω
+    gloss: to be guileful {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G4105
-    proximity: 0.8043
+    lemma: πλανάω
+    gloss: to (properly {openscriptures-strongs}
+    proximity: 0.8043 {macula-proximity}
     language: greek
   - strongs: G1679
-    proximity: 0.784
+    lemma: ἐλπίζω
+    gloss: to expect or confide {openscriptures-strongs}
+    proximity: 0.784 {macula-proximity}
     language: greek
   - strongs: G5423
-    proximity: 0.7811
+    lemma: φρεναπάτης
+    gloss: a mind-misleader {openscriptures-strongs}
+    proximity: 0.7811 {macula-proximity}
     language: greek
   - strongs: G1680
-    proximity: 0.7332
+    lemma: ἐλπίς
+    gloss: expectation  or confidence {openscriptures-strongs}
+    proximity: 0.7332 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

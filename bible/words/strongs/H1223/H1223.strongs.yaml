@@ -6,28 +6,26 @@ pronunciation: bots-raw'
 definition: an enclosure, i.e. sheep fold
 kjv_usage: Bozrah.
 derivation: feminine from H1219 (בָּצַר);
-extended_definition:
-  gloss: enclosure
-  definition: enclosure, fold, sheepfold (AV-Bozrah)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: enclosure, fold, sheepfold (AV-Bozrah) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5842
-    proximity: 0.8214
+    lemma: עֵט
+    gloss: a stylus or marking stick {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: A6540
-    proximity: 0.7985
+    proximity: 0.7985 {macula-proximity}
   - strongs: H6539
-    proximity: 0.7637
+    lemma: פָּרַס
+    gloss: Paras {openscriptures-strongs}
+    proximity: 0.7637 {macula-proximity}
   cross_language:
   - strongs: G4263
-    proximity: 0.7818
+    lemma: πρόβατον
+    gloss: something that walks forward {openscriptures-strongs}
+    proximity: 0.7818 {macula-proximity}
     language: greek
   - strongs: G833
-    proximity: 0.7257
+    proximity: 0.7257 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

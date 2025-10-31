@@ -7,47 +7,69 @@ definition: properly, to weigh out; by implication, to allot or constitute offic
   also to enumerate or enroll
 kjv_usage: appoint, count, number, prepare, set, tell.
 derivation: a primitive root;
-extended_definition:
-  gloss: to count
-  definition: '1) to count, reckon, number, assign, tell, appoint, prepare<br>1a)
-    (Qal)<br>1a1) to count, number<br>1a2) reckon, assign, appoint<br>1b) (Niphal)<br>1b1)
-    to be counted, be numbered<br>1b2) to be reckoned, be assigned<br>1c) (Piel) to
-    appoint, ordain<br>1d) (Pual) appointed (participle)<BR>Aramaic equivalent: <i>me.nah</i>
-    (מְנָה "to reckon/appoint" H4483)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to count, reckon, number, assign, tell, appoint, prepare
+
+  1a) (Qal)
+
+  1a1) to count, number
+
+  1a2) reckon, assign, appoint
+
+  1b) (Niphal)
+
+  1b1) to be counted, be numbered
+
+  1b2) to be reckoned, be assigned
+
+  1c) (Piel) to appoint, ordain
+
+  1d) (Pual) appointed (participle)
+
+  Aramaic equivalent: me.nah (מְנָה "to reckon/appoint" H4483) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4152
-    proximity: 0.8096
+    lemma: מוּעָדָה
+    gloss: an appointed place {openscriptures-strongs}
+    proximity: 0.8096 {macula-proximity}
   - strongs: H2163
-    proximity: 0.8067
+    lemma: זָמַן
+    gloss: to fix {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   - strongs: H2852
-    proximity: 0.8007
+    lemma: חָתַךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: A4510
-    proximity: 0.7944
+    proximity: 0.7944 {macula-proximity}
   - strongs: H6261
-    proximity: 0.7922
+    lemma: עִתִּי
+    gloss: timely {openscriptures-strongs}
+    proximity: 0.7922 {macula-proximity}
   - strongs: H7760
-    proximity: 0.7881
+    lemma: שׂוּם
+    gloss: to put (used in a great variety of applications {openscriptures-strongs}
+    proximity: 0.7881 {macula-proximity}
   cross_language:
   - strongs: G5002
-    proximity: 0.8265
+    lemma: τακτός
+    gloss: arranged {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
     language: greek
   - strongs: G4265
-    proximity: 0.8147
+    lemma: προβλέπω
+    gloss: to look out beforehand {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
     language: greek
   - strongs: G322
-    proximity: 0.8018
+    proximity: 0.8018 {macula-proximity}
     language: greek
   - strongs: G382
-    proximity: 0.8005
+    proximity: 0.8005 {macula-proximity}
     language: greek
   - strongs: G4860
-    proximity: 0.7992
+    lemma: συμψηφίζω
+    gloss: to compute jointly {openscriptures-strongs}
+    proximity: 0.7992 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

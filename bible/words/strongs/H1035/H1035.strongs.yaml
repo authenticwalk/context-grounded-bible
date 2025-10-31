@@ -6,25 +6,29 @@ pronunciation: bayth leh'-khem
 definition: Beth-Lechem, a place in Palestine
 kjv_usage: Bethlehem.
 derivation: from H1004 (בַּיִת) and H3899 (לֶחֶם); house of bread;
-extended_definition:
-  gloss: Bethlehem
-  definition: <BR> § Beth-lehem = "house of bread (food)"<br>  a place in Zebulun
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Beth-lehem = "house of bread (food)"
+
+  a place in Zebulun {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3881
-    proximity: 0.8244
+    lemma: לֵוִיִּי
+    gloss: a Levite or descendant of Levi {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: H1034
-    proximity: 0.8002
+    lemma: בֵּית לְבָאוֹת
+    gloss: Beth-Lebaoth {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: H1017
-    proximity: 0.7911
+    lemma: בֵּית הָאֱלִי
+    gloss: a Beth-elite {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
   - strongs: H1008
-    proximity: 0.7616
+    lemma: בֵּית־אֵל
+    gloss: Beth-El {openscriptures-strongs}
+    proximity: 0.7616 {macula-proximity}
   - strongs: H1050
-    proximity: 0.7012
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: בֵּית רְחוֹב
+    gloss: Beth-Rechob {openscriptures-strongs}
+    proximity: 0.7012 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

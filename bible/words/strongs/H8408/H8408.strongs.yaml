@@ -6,39 +6,44 @@ pronunciation: tag-mool'
 definition: a bestowment
 kjv_usage: benefit.
 derivation: from H1580 (גָּמַל);
-extended_definition:
-  gloss: benefit
-  definition: benefit, act of grace
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: benefit, act of grace {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4315
-    proximity: 0.7938
+    lemma: מֵיטָב
+    gloss: the best part {openscriptures-strongs}
+    proximity: 0.7938 {macula-proximity}
   - strongs: H2898
-    proximity: 0.7859
+    lemma: טוּב
+    gloss: good {openscriptures-strongs}
+    proximity: 0.7859 {macula-proximity}
   - strongs: H2896
-    proximity: 0.7859
+    lemma: טוֹב
+    gloss: good  in the widest sense {openscriptures-strongs}
+    proximity: 0.7859 {macula-proximity}
   - strongs: H2896b
-    proximity: 0.781
+    proximity: 0.781 {macula-proximity}
   cross_language:
   - strongs: G2108
-    proximity: 0.8278
+    lemma: εὐεργεσία
+    gloss: beneficence {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G5543
-    proximity: 0.8206
+    lemma: χρηστός
+    gloss: employed {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G3786
-    proximity: 0.8151
+    lemma: ὄφελος
+    gloss: gain {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
     language: greek
   - strongs: G2570
-    proximity: 0.8147
+    lemma: καλός
+    proximity: 0.8147 {macula-proximity}
     language: greek
   - strongs: G18
-    proximity: 0.81
+    proximity: 0.81 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,52 +5,60 @@ transliteration: panoikí
 definition: with the whole family
 kjv_usage: with all his house
 derivation: adverb from G3956 (πᾶς) and G3624 (οἶκος);
-extended_definition:
-  gloss: with all the house
-  definition: '<b>πανοικεί</b> (Rec., LTr., -κί), adv. <BR /> (πᾶς, οἶκος), a word
-    rejected by strict Atticists, though found once in Plat. (Eryx., 392c); [in LXX:
-    <ref=''Exo.1.1''>Exo.1:1</ref> (בַּיִת), <ref=''3Ma.3.27''>3Ma.3:27</ref> (where
-    A in each case reads -κίᾳ, the Attic form, cf. <ref=''Gen.50.8''>Gen.50:8</ref>,
-    al.)* ;] <BR /><b>with all the household</b>: <ref=''Act.16.34.''>Act.16:34.</ref>†<BR
-    /> (AS)'
-  morphology: G:ADV
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> πᾰνοικ-ί</b> <br /> or <b>πᾰνοικ-εί</b>, = {πανοικεσίᾳ}, [<a
-    href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Eryxias” 392c,
-    1st c.BC-1st c.AD: Strabo Geographus 16.4.13, NT.Act.16.34, etc., variant in LXX.Exo.1.1.
-    (Written -εί in “PGiss.” 75.10 (2nd c.AD), “POxy.” 935.30 (3rd c.AD), etc.)">NT+5th
-    c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'πανοικεί (Rec., LTr., -κί), adv.
+
+  (πᾶς, οἶκος), a word rejected by strict Atticists, though found once in Plat. (Eryx.,
+  392c); [in LXX: Exo.1:1 (בַּיִת), 3Ma.3:27 (where A in each case reads -κίᾳ, the
+  Attic form, cf. Gen.50:8, al.)* ;]
+
+  with all the household: Act.16:34.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'πᾰνοικ-ί
+
+  or πᾰνοικ-εί, = {πανοικεσίᾳ}, [NT+5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3648
-    proximity: 0.8276
+    lemma: ὁλόκληρος
+    gloss: complete in every part {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: G2676
-    proximity: 0.8259
+    lemma: κατάρτισις
+    gloss: thorough equipment {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: G537
-    proximity: 0.816
+    proximity: 0.816 {macula-proximity}
   - strongs: G3617
-    proximity: 0.8153
+    lemma: οἰκοδεσπότης
+    gloss: the head of a family {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
   - strongs: G2322
-    proximity: 0.8116
+    lemma: θεραπεία
+    gloss: attendance (specially {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   - strongs: G3614
-    proximity: 0.8024
+    lemma: οἰκία
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: G4772
-    proximity: 0.8014
+    lemma: συγγένεια
+    gloss: relationship {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
   - strongs: G4862
-    proximity: 0.779
+    lemma: σύν
+    gloss: with or together  or G3844 ) {openscriptures-strongs}
+    proximity: 0.779 {macula-proximity}
   - strongs: G3610
-    proximity: 0.7729
+    lemma: οἰκέτης
+    gloss: a fellow resident {openscriptures-strongs}
+    proximity: 0.7729 {macula-proximity}
   - strongs: G3624
-    proximity: 0.7642
+    lemma: οἶκος
+    gloss: a dwelling (more or less extensive {openscriptures-strongs}
+    proximity: 0.7642 {macula-proximity}
   cross_language:
   - strongs: H2050c
-    proximity: 0.7946
+    proximity: 0.7946 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -10,17 +10,20 @@ derivation: from H8239 (שָׁפַת);
 related_words:
   synonyms:
   - strongs: H6629
-    proximity: 0.7582
+    lemma: צֹאן
+    gloss: a collective name for a flock {openscriptures-strongs}
+    proximity: 0.7582 {macula-proximity}
   - strongs: H5116
-    proximity: 0.7276
+    lemma: נָוֶה
+    gloss: at home {openscriptures-strongs}
+    proximity: 0.7276 {macula-proximity}
   cross_language:
   - strongs: G833
-    proximity: 0.8008
+    proximity: 0.8008 {macula-proximity}
     language: greek
   - strongs: G4263
-    proximity: 0.7014
+    lemma: πρόβατον
+    gloss: something that walks forward {openscriptures-strongs}
+    proximity: 0.7014 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -18,38 +18,53 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H7737a
-    proximity: 0.8291
+    proximity: 0.8291 {macula-proximity}
   - strongs: A2987
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
   - strongs: H1697
-    proximity: 0.8282
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: A6263
-    proximity: 0.8276
+    proximity: 0.8276 {macula-proximity}
   - strongs: H6264
-    proximity: 0.8273
+    lemma: עָתִיד
+    gloss: prepared {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
   - strongs: H2554
-    proximity: 0.8272
+    lemma: חָמַס
+    gloss: to be violent {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: H4011
-    proximity: 0.8272
+    lemma: מִבְנֶה
+    gloss: a building {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: H4480
-    proximity: 0.8268
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   cross_language:
   - strongs: G264
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G5219
-    proximity: 0.8279
+    lemma: ὑπακούω
+    gloss: to hear under {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G5442
-    proximity: 0.8275
+    lemma: φυλάσσω
+    gloss: to watch {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
     language: greek
   - strongs: G4198
-    proximity: 0.8268
+    lemma: πορεύομαι
+    gloss: to traverse {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: greek
   - strongs: G3000
-    proximity: 0.8266
+    lemma: λατρεύω
+    gloss: to minister {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

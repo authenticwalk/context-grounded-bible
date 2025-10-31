@@ -5,51 +5,63 @@ transliteration: láthra
 definition: privately
 kjv_usage: privily, secretly
 derivation: adverb from G2990 (λανθάνω);
-extended_definition:
-  gloss: quietly
-  definition: '<b>λάθρᾳ</b> (Att..; in Hom., -ρῃ, Rec. -ρα), <BR /> <i>adv.</i>, [in
-    LXX chiefly for ‎סֵתֶר ;] <BR /><b>secretly</b>: <ref=''Mat.1.19; 2.7''>Mat.1:19
-    2:7</ref>, <ref=''Mrk.5.33''>Mrk.5:33</ref> (WH, mg.), <ref=''Jhn.11.28''>Jhn.11:28</ref>,
-    <ref=''Act.16.37''>Act.16:37</ref>.†<BR /> (AS)'
-  morphology: G:ADV
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> λάθρα·</b> αἱ δίκαι <br /> (from Elean), [<a href="javascript:void(0)"
-    title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>] <b>λάθρα</b>,
-    <b>λάθρᾳ</b>, see at {λάθρῃ}.'
-  source: STEPBible/LSJ
+extended_definition: 'λάθρᾳ (Att..; in Hom., -ρῃ, Rec. -ρα),
+
+  adv., [in LXX chiefly for ‎סֵתֶר ;]
+
+  secretly: Mat.1:19 2:7, Mrk.5:33 (WH, mg.), Jhn.11:28, Act.16:37.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'λάθρα· αἱ δίκαι
+
+  (from Elean), [Refs 5th c.AD+] λάθρα, λάθρᾳ, see at {λάθρῃ}. {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5260
-    proximity: 0.8286
+    lemma: ὑποβάλλω
+    gloss: to throw in stealthily {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: G4655
-    proximity: 0.8265
+    lemma: σκότος
+    gloss: shadiness {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: G2596
-    proximity: 0.8245
+    lemma: κατά
+    gloss: down {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: G2928
-    proximity: 0.8219
+    lemma: κρύπτω
+    gloss: to conceal (properly {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: G4653
-    proximity: 0.8007
+    lemma: σκοτία
+    gloss: dimness {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: A871b
-    proximity: 0.8007
+    proximity: 0.8007 {macula-proximity}
   - strongs: G2398
-    proximity: 0.7954
+    lemma: ἴδιος
+    gloss: pertaining to self {openscriptures-strongs}
+    proximity: 0.7954 {macula-proximity}
   - strongs: G2927
-    proximity: 0.7798
+    lemma: κρυπτός
+    gloss: concealed {openscriptures-strongs}
+    proximity: 0.7798 {macula-proximity}
   - strongs: G3919
-    proximity: 0.7762
+    lemma: παρεισάγω
+    gloss: to lead in aside {openscriptures-strongs}
+    proximity: 0.7762 {macula-proximity}
   - strongs: G3922
-    proximity: 0.7625
+    lemma: παρεισέρχομαι
+    gloss: to come in alongside {openscriptures-strongs}
+    proximity: 0.7625 {macula-proximity}
   cross_language:
   - strongs: H4285
-    proximity: 0.8124
+    lemma: מַחְשָׁךְ
+    gloss: darkness {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
     language: hebrew
   - strongs: H1886a
-    proximity: 0.804
+    proximity: 0.804 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

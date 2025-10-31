@@ -6,43 +6,53 @@ pronunciation: paw-sas'
 definition: probably to disperse, i.e. (intransitive) disappear
 kjv_usage: cease.
 derivation: a primitive root;
-extended_definition:
-  gloss: to disappear
-  definition: 1) to disappear, vanish, cease, fail<br>1a) (Qal) to vanish
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to disappear, vanish, cease, fail
+
+  1a) (Qal) to vanish {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3615
-    proximity: 0.8254
+    lemma: כָּלָה
+    gloss: to end {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: H235
-    proximity: 0.8214
+    proximity: 0.8214 {macula-proximity}
   - strongs: H7673
-    proximity: 0.8169
+    lemma: שָׁבַת
+    gloss: to repose {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: H6
-    proximity: 0.8152
+    proximity: 0.8152 {macula-proximity}
   - strongs: H1115
-    proximity: 0.8132
+    lemma: בִּלְתִּי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
   - strongs: H1097
-    proximity: 0.8051
+    lemma: בְּלִי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
   cross_language:
   - strongs: G429
-    proximity: 0.8293
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G3500
-    proximity: 0.8274
+    lemma: νέκρωσις
+    gloss: decease {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
     language: greek
   - strongs: G3380
-    proximity: 0.8249
+    lemma: μήπω
+    gloss: not yet {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: greek
   - strongs: G3777
-    proximity: 0.8248
+    lemma: οὔτε
+    gloss: not too {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: greek
   - strongs: G1587
-    proximity: 0.8217
+    lemma: ἐκλείπω
+    gloss: to omit {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

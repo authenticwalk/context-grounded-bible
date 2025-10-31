@@ -6,41 +6,49 @@ pronunciation: mo-raw'
 definition: bitterness, i.e. (figuratively) trouble
 kjv_usage: grief.
 derivation: from H4843 (מָרַר);
-extended_definition:
-  gloss: bitterness
-  definition: bitterness, grief
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: bitterness, grief {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4787
-    proximity: 0.8207
+    lemma: מׇרָּה
+    gloss: trouble {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H6087a
-    proximity: 0.8105
+    proximity: 0.8105 {macula-proximity}
   - strongs: H3512
-    proximity: 0.8035
+    lemma: כָּאָה
+    gloss: to despond {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
   - strongs: H1669
-    proximity: 0.7979
+    lemma: דָּאַב
+    gloss: to pine {openscriptures-strongs}
+    proximity: 0.7979 {macula-proximity}
   - strongs: H6040
-    proximity: 0.7974
+    lemma: עֳנִי
+    gloss: depression {openscriptures-strongs}
+    proximity: 0.7974 {macula-proximity}
   cross_language:
   - strongs: G4088
-    proximity: 0.829
+    lemma: πικρία
+    gloss: acridity {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G2552
-    proximity: 0.8239
+    lemma: κακοπάθεια
+    gloss: hardship {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G5182a
-    proximity: 0.8229
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G2553
-    proximity: 0.8216
+    lemma: κακοπαθέω
+    gloss: to undergo hardship {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
     language: greek
   - strongs: G5003
-    proximity: 0.8168
+    lemma: ταλαιπωρέω
+    gloss: to be wretched {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

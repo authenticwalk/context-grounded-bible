@@ -6,37 +6,42 @@ pronunciation: heh'-fek
 definition: a turn, i.e. the reverse
 kjv_usage: contrary.
 derivation: ; or הֵפֶךְ; from H2015 (הָפַךְ);
-extended_definition:
-  gloss: contrariness
-  definition: contrary, opposite, a difference, reversed, contrariness, perversity
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: contrary, opposite, a difference, reversed, contrariness, perversity
+  {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5765
-    proximity: 0.8285
+    lemma: עֲוַל
+    gloss: to distort {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: H8138
-    proximity: 0.7759
+    lemma: שָׁנָה
+    gloss: to fold {openscriptures-strongs}
+    proximity: 0.7759 {macula-proximity}
   - strongs: A8133
-    proximity: 0.7499
+    proximity: 0.7499 {macula-proximity}
   cross_language:
   - strongs: G4762
-    proximity: 0.8236
+    lemma: στρέφω
+    gloss: to twist {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
     language: greek
   - strongs: G1313
-    proximity: 0.815
+    lemma: διάφορος
+    gloss: varying {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
     language: greek
   - strongs: G495
-    proximity: 0.8145
+    proximity: 0.8145 {macula-proximity}
     language: greek
   - strongs: G3780
-    proximity: 0.8041
+    lemma: οὐχί
+    gloss: not indeed {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
     language: greek
   - strongs: G5121
-    proximity: 0.7625
+    lemma: τοὐναντίον
+    gloss: on the contrary {openscriptures-strongs}
+    proximity: 0.7625 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

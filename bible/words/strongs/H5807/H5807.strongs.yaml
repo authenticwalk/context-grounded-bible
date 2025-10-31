@@ -6,51 +6,65 @@ pronunciation: ez-ooz'
 definition: forcibleness
 kjv_usage: might, strength.
 derivation: from H5810 (עָזַז);
-extended_definition:
-  gloss: strength
-  definition: strength, fierceness, might
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: strength, fierceness, might {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3893
-    proximity: 0.8294
+    lemma: לֵחַ
+    gloss: freshness {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: H193
-    proximity: 0.8193
+    proximity: 0.8193 {macula-proximity}
   - strongs: H4991
-    proximity: 0.815
+    lemma: מַתָּת
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: H360
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
   - strongs: H1679
-    proximity: 0.8101
+    lemma: דֹּבֶא
+    gloss: quiet {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
   - strongs: A5326
-    proximity: 0.8039
+    proximity: 0.8039 {macula-proximity}
   - strongs: H7983
-    proximity: 0.8038
+    lemma: שִׁלְטוֹן
+    gloss: '{power.} {openscriptures-strongs}'
+    proximity: 0.8038 {macula-proximity}
   - strongs: H3524
-    proximity: 0.7991
+    lemma: כַּבִּיר
+    gloss: vast {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: H5794
-    proximity: 0.7966
+    lemma: עַז
+    gloss: strong {openscriptures-strongs}
+    proximity: 0.7966 {macula-proximity}
   - strongs: H1419
-    proximity: 0.7953
+    lemma: גָּדוֹל
+    gloss: great {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
   cross_language:
   - strongs: G1849
-    proximity: 0.8223
+    lemma: ἐξουσία
+    gloss: privilege {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G972
-    proximity: 0.8205
+    proximity: 0.8205 {macula-proximity}
     language: greek
   - strongs: G2478
-    proximity: 0.8146
+    lemma: ἰσχυρός
+    gloss: forcible {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
     language: greek
   - strongs: G1412
-    proximity: 0.8052
+    lemma: δυναμόω
+    gloss: to enable {openscriptures-strongs}
+    proximity: 0.8052 {macula-proximity}
     language: greek
   - strongs: G1840
-    proximity: 0.8029
+    lemma: ἐξισχύω
+    gloss: to have full strength {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,35 +6,45 @@ pronunciation: iz-zaw-bone'
 definition: trade, i.e. the place (mart) or the payment (revenue)
 kjv_usage: fair, ware.
 derivation: from H5800 (עָזַב) in the sense of letting go (for a price, i.e. selling);
-extended_definition:
-  gloss: ware
-  definition: wares, goods
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: wares, goods {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7402
-    proximity: 0.8291
+    lemma: רָכַל
+    gloss: to travel for trading {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: H8545
-    proximity: 0.8261
+    lemma: תְּמוּרָה
+    gloss: barter {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: H3666
-    proximity: 0.8139
+    lemma: כִּנְעָה
+    gloss: a package {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H3739
-    proximity: 0.7976
+    lemma: כָּרָה
+    gloss: to purchase {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: H8667
-    proximity: 0.7658
+    lemma: תְּשׂוּמֶת
+    gloss: a deposit {openscriptures-strongs}
+    proximity: 0.7658 {macula-proximity}
   - strongs: H4536
-    proximity: 0.7249
+    lemma: מִסְחָר
+    gloss: trade {openscriptures-strongs}
+    proximity: 0.7249 {macula-proximity}
   - strongs: H4465
-    proximity: 0.7183
+    lemma: מִמְכָּר
+    gloss: merchandise {openscriptures-strongs}
+    proximity: 0.7183 {macula-proximity}
   - strongs: H4360
-    proximity: 0.7042
+    lemma: מִכְלֻל
+    gloss: something perfect {openscriptures-strongs}
+    proximity: 0.7042 {macula-proximity}
   cross_language:
   - strongs: G5413
-    proximity: 0.7291
+    lemma: φορτίον
+    gloss: an invoice {openscriptures-strongs}
+    proximity: 0.7291 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

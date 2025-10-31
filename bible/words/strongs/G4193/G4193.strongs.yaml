@@ -5,46 +5,44 @@ transliteration: Pontikós
 definition: a Pontican, i.e. native of Pontus
 kjv_usage: born in Pontus
 derivation: from G4195 (Πόντος);
-extended_definition:
-  gloss: of Pontus
-  definition: <b>from Pontus, Pontic </b>, (Iliad by Homer) δένδρεον, probably, <b>the
-    bird-cherry </b>, (Herdotus Historicus) (ML)
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b>from Pontus, Pontic </b>, [<a href="javascript:void(0)" title="Iliad
-    by Homer">8th/7th c.BC</a>] δένδρεον, probably, <b>the bird-cherry </b>, [<a href="javascript:void(0)"
-    title="Herdotus Historicus">Refs 5th c.BC</a>]  (Middle Liddel)
-  source: STEPBible/LSJ
+extended_definition: from Pontus, Pontic , (Iliad by Homer) δένδρεον, probably, the
+  bird-cherry , (Herdotus Historicus) (ML) {STEPBible-TBESG}
+etymology: from Pontus, Pontic , [8th/7th c.BC] δένδρεον, probably, the bird-cherry
+  , [Refs 5th c.BC]  (Middle Liddel) {STEPBible-TFLSJ}
 related_words:
   synonyms:
   - strongs: A999
-    proximity: 0.8295
+    proximity: 0.8295 {macula-proximity}
   - strongs: G774
-    proximity: 0.828
+    proximity: 0.828 {macula-proximity}
   - strongs: G5069
-    proximity: 0.8259
+    lemma: τετράδιον
+    gloss: from G5064 ) {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: G981
-    proximity: 0.8246
+    proximity: 0.8246 {macula-proximity}
   - strongs: A5962
-    proximity: 0.8239
+    proximity: 0.8239 {macula-proximity}
   - strongs: G117
-    proximity: 0.8198
+    proximity: 0.8198 {macula-proximity}
   - strongs: G1190
-    proximity: 0.8185
+    lemma: Δερβαῖος
+    gloss: a Derbæan or inhabitant of Derbe {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: G3615
-    proximity: 0.815
+    lemma: οἰκιακός
+    gloss: familiar {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: G961
-    proximity: 0.8017
+    proximity: 0.8017 {macula-proximity}
   - strongs: G4853
-    proximity: 0.7671
+    lemma: συμφυλέτης
+    gloss: a co-tribesman {openscriptures-strongs}
+    proximity: 0.7671 {macula-proximity}
   cross_language:
   - strongs: H3912
-    proximity: 0.8132
+    lemma: לְטוּשִׁם
+    gloss: Letushim {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

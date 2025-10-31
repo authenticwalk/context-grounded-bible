@@ -7,39 +7,54 @@ definition: to rend, literally or figuratively (revile, paint the eyes, as if en
   them)
 kjv_usage: cut out, rend, [idiom] surely, tear.
 derivation: a primitive root;
-extended_definition:
-  gloss: to tear
-  definition: 1) to tear, tear in pieces<br>1a) (Qal)<br>1a1) to tear, rend<br>1a2)
-    to tear away or out<br>1a3) to tear, rend asunder<br>1a3a) to make wide or large
-    (of eyes)<br>1a3b) to rend open (of heavens)<br>1a4) to tear, rend (of wild beasts)<br>1b)
-    (Niphal) to be rent, be split asunder
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to tear, tear in pieces
+
+  1a) (Qal)
+
+  1a1) to tear, rend
+
+  1a2) to tear away or out
+
+  1a3) to tear, rend asunder
+
+  1a3a) to make wide or large (of eyes)
+
+  1a3b) to rend open (of heavens)
+
+  1a4) to tear, rend (of wild beasts)
+
+  1b) (Niphal) to be rent, be split asunder {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5422
-    proximity: 0.8171
+    lemma: נָתַץ
+    gloss: to tear down {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: H6555
-    proximity: 0.8168
+    lemma: פָּרַץ
+    gloss: to break out (in many applications {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: A6386
-    proximity: 0.8162
+    proximity: 0.8162 {macula-proximity}
   - strongs: A4804
-    proximity: 0.8113
+    proximity: 0.8113 {macula-proximity}
   cross_language:
   - strongs: G1288
-    proximity: 0.8171
+    lemma: διασπάω
+    gloss: to draw apart {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
     language: greek
   - strongs: G142
-    proximity: 0.8065
+    proximity: 0.8065 {macula-proximity}
     language: greek
   - strongs: G4978
-    proximity: 0.7539
+    lemma: σχίσμα
+    gloss: a split or gap {openscriptures-strongs}
+    proximity: 0.7539 {macula-proximity}
     language: greek
   - strongs: G4048
-    proximity: 0.7325
+    lemma: περιῤῥήγνυμι
+    gloss: to tear all around {openscriptures-strongs}
+    proximity: 0.7325 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,38 +6,48 @@ pronunciation: khaf
 definition: pure
 kjv_usage: innocent.
 derivation: from H2653 (חׇפַף) (in the moral sense of covered from soil);
-extended_definition:
-  gloss: clean
-  definition: innocent, pure, clean
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: innocent, pure, clean {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6663
-    proximity: 0.8274
+    lemma: צָדַק
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H5352
-    proximity: 0.8212
+    lemma: נָקָה
+    gloss: to be  clean {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   - strongs: H8535
-    proximity: 0.8177
+    lemma: תָּם
+    gloss: complete {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
   - strongs: H8537
-    proximity: 0.7899
+    lemma: תֹּם
+    gloss: completeness {openscriptures-strongs}
+    proximity: 0.7899 {macula-proximity}
   - strongs: H2134
-    proximity: 0.7599
+    lemma: זַךְ
+    gloss: clear {openscriptures-strongs}
+    proximity: 0.7599 {macula-proximity}
   - strongs: H2600
-    proximity: 0.7541
+    lemma: חִנָּם
+    gloss: gratis {openscriptures-strongs}
+    proximity: 0.7541 {macula-proximity}
   - strongs: H1249
-    proximity: 0.7393
+    lemma: בַּר
+    gloss: beloved {openscriptures-strongs}
+    proximity: 0.7393 {macula-proximity}
   - strongs: H2889
-    proximity: 0.7267
+    lemma: טָהוֹר
+    gloss: pure (in a physical {openscriptures-strongs}
+    proximity: 0.7267 {macula-proximity}
   cross_language:
   - strongs: G1432
-    proximity: 0.8164
+    lemma: δωρεάν
+    gloss: gratuitously {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
     language: greek
   - strongs: G185
-    proximity: 0.8015
+    proximity: 0.8015 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

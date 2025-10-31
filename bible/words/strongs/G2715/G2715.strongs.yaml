@@ -5,45 +5,52 @@ transliteration: katexousiázō
 definition: to have (wield) full privilege over
 kjv_usage: exercise authority
 derivation: from G2596 (κατά) and G1850 (ἐξουσιάζω);
-extended_definition:
-  gloss: to rule
-  definition: '<b>κατ-εξουσιάζω </b><BR /> <b>to exercise authority over</b>: with
-    genitive of person(s), <ref=''Mat.20.25''>Mat.20:25</ref>, <ref=''Mrk.10.42''>Mrk.10:42</ref>.†<BR
-    /> <b>SYN</b>: (κατακυριεύω) (see Swete, <i>Mk.</i>, l.with) <BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κατεξ-ουσιάζω</b>, <br /> <b>exercise authority over</b>, τινος
-    [<a href="javascript:void(0)" title=" NT.Matt.20.25, NT.Mark.10.42; τῶν ὅλων 4th
-    c.AD: Julianus Imperator “contra Galilaeos” 100c. ">NT+4th c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κατ-εξουσιάζω
+
+  to exercise authority over: with genitive of person(s), Mat.20:25, Mrk.10:42.†
+
+  SYN: (κατακυριεύω) (see Swete, Mk., l.with)
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κατεξ-ουσιάζω,
+
+  exercise authority over, τινος [NT+4th c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1411
-    proximity: 0.8266
+    lemma: δύναμις
+    gloss: force {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: A7981
-    proximity: 0.8093
+    proximity: 0.8093 {macula-proximity}
   - strongs: G2961
-    proximity: 0.7992
+    lemma: κυριεύω
+    gloss: to rule {openscriptures-strongs}
+    proximity: 0.7992 {macula-proximity}
   cross_language:
   - strongs: H8592
-    proximity: 0.8296
+    lemma: תַּעֲצֻמָה
+    gloss: might {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: hebrew
   - strongs: H4915
-    proximity: 0.8142
+    lemma: מֹשֶׁל
+    gloss: empire {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
     language: hebrew
   - strongs: H7286
-    proximity: 0.8132
+    lemma: רָדַד
+    gloss: to tread in pieces {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
     language: hebrew
   - strongs: H7983
-    proximity: 0.8128
+    lemma: שִׁלְטוֹן
+    gloss: '{power.} {openscriptures-strongs}'
+    proximity: 0.8128 {macula-proximity}
     language: hebrew
   - strongs: H4896
-    proximity: 0.8128
+    lemma: מִשְׁטָר
+    gloss: jurisdiction {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

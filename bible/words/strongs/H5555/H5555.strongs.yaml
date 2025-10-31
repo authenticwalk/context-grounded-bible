@@ -7,53 +7,71 @@ definition: Sela-ham-Machlekoth, a place in Palestine
 kjv_usage: Sela-hammalekoth.
 derivation: from H5553 (סֶלַע) and the plural of H4256 (מַחֲלֹקֶת) with the article
   interposed; rock of the divisions;
-extended_definition:
-  gloss: Rock of Escape
-  definition: <BR> § Sela-hammahlekoth = "the cliff of escapes" or "the cliff of divisions"<br>
-    a rock or cliff in the wilderness of Maon, southeast of Hebron, the scene of an
-    escape of David from Saul<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Sela-hammahlekoth = "the cliff of escapes" or "the cliff of
+  divisions"
+
+  a rock or cliff in the wilderness of Maon, southeast of Hebron, the scene of an
+  escape of David from Saul {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5554
-    proximity: 0.8217
+    lemma: סֶלַע
+    gloss: Sela {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
   - strongs: H4785
-    proximity: 0.8215
+    lemma: מָרָה
+    gloss: Marah {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H5516
-    proximity: 0.8174
+    lemma: סִיסְרָא
+    gloss: Sisera {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
   - strongs: H3819
-    proximity: 0.8166
+    lemma: לֹא רֻחָמָה
+    gloss: Lo-Ruchamah {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
   - strongs: H4244
-    proximity: 0.8125
+    lemma: מַחְלָה
+    gloss: Machlah {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8118
+    proximity: 0.8118 {macula-proximity}
   - strongs: H6697
-    proximity: 0.8097
+    lemma: צוּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: H2800a
-    proximity: 0.8095
+    proximity: 0.8095 {macula-proximity}
   - strongs: H4258
-    proximity: 0.8073
+    lemma: מַחֲלַת
+    gloss: Machalath {openscriptures-strongs}
+    proximity: 0.8073 {macula-proximity}
   - strongs: H4265
-    proximity: 0.8023
+    lemma: מַחֲנֵה־דָן
+    gloss: Machaneh-Dan {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
   cross_language:
   - strongs: G4609
-    proximity: 0.8264
+    lemma: Σίλας
+    gloss: Silas {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G4610
-    proximity: 0.8264
+    lemma: Σιλουανός
+    gloss: '"silvan" {openscriptures-strongs}'
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G1628
-    proximity: 0.8263
+    lemma: ἐκφεύγω
+    gloss: to flee out {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
     language: greek
   - strongs: G668
-    proximity: 0.8168
+    proximity: 0.8168 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.8041
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

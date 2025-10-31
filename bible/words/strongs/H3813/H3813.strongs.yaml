@@ -6,48 +6,67 @@ pronunciation: law-at'
 definition: to muffle
 kjv_usage: cover.
 derivation: a primitive root;
-extended_definition:
-  gloss: to cover
-  definition: (Qal) to cover
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to cover {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5921
-    proximity: 0.8265
+    lemma: עַל
+    gloss: above {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H7760
-    proximity: 0.8247
+    lemma: שׂוּם
+    gloss: to put (used in a great variety of applications {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H5259
-    proximity: 0.8245
+    lemma: נָסַךְ
+    gloss: to interweave {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H7234
-    proximity: 0.8241
+    lemma: רָבַד
+    gloss: to spread {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H6781a
-    proximity: 0.8106
+    proximity: 0.8106 {macula-proximity}
   - strongs: H2926
-    proximity: 0.8
+    lemma: טָלַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: H5844
-    proximity: 0.7975
+    lemma: עָטָה
+    gloss: to wrap {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
   - strongs: H3682
-    proximity: 0.7879
+    lemma: כְּסוּת
+    gloss: a cover {openscriptures-strongs}
+    proximity: 0.7879 {macula-proximity}
   - strongs: H5526
-    proximity: 0.7842
+    lemma: סָכַךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7842 {macula-proximity}
   - strongs: H4540
-    proximity: 0.7833
+    lemma: מְסֻכָּה
+    gloss: a covering {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
   cross_language:
   - strongs: G4018
-    proximity: 0.8221
+    lemma: περιβόλαιον
+    gloss: something thrown around one {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
     language: greek
   - strongs: G2619
-    proximity: 0.8071
+    lemma: κατακαλύπτω
+    gloss: to cover wholly {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
     language: greek
   - strongs: G4629
-    proximity: 0.8056
+    lemma: σκέπασμα
+    gloss: perhaps akin to the base of G4649  through the idea of noticeableness)
+      {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
     language: greek
   - strongs: G4028
-    proximity: 0.7888
+    lemma: περικαλύπτω
+    gloss: to cover all around {openscriptures-strongs}
+    proximity: 0.7888 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

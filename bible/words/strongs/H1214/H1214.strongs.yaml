@@ -7,48 +7,74 @@ definition: figuratively, to finish, or (intransitively) stop
 kjv_usage: (be) covet(-ous), cut (off), finish, fulfill, gain (greedily), get, be
   given to (covetousness), greedy, perform, be wounded.
 derivation: a primitive root to break off, i.e. (usually) plunder;
-extended_definition:
-  gloss: 'to cut off: to gain'
-  definition: ': to end<br>1) to cut off, break off, gain by unrighteous violence,
-    get, finish, be covetous, be greedy<br>1a) (Qal)<br>1a1) to cut off<br>1a2) to
-    stop<br>1a3) to gain wrongfully or by violence<br>1b) (Piel)<br>1b1) to cut off,
-    sever<br>1b2) to finish, complete, accomplish<br>1b3) to violently make gain of'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': to end
+
+  1) to cut off, break off, gain by unrighteous violence, get, finish, be covetous,
+  be greedy
+
+  1a) (Qal)
+
+  1a1) to cut off
+
+  1a2) to stop
+
+  1a3) to gain wrongfully or by violence
+
+  1b) (Piel)
+
+  1b1) to cut off, sever
+
+  1b2) to finish, complete, accomplish
+
+  1b3) to violently make gain of {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5689
-    proximity: 0.8291
+    lemma: עֲגַב
+    gloss: to breathe after {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: H4135a
-    proximity: 0.828
+    proximity: 0.828 {macula-proximity}
   - strongs: H7094
-    proximity: 0.8278
+    lemma: קָצַב
+    gloss: to clip {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H7408
-    proximity: 0.8142
+    lemma: רָכַשׁ
+    gloss: to lay up {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: H3615
-    proximity: 0.8108
+    lemma: כָּלָה
+    gloss: to end {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
   - strongs: A7113
-    proximity: 0.8107
+    proximity: 0.8107 {macula-proximity}
   - strongs: H1494
-    proximity: 0.8103
+    lemma: גַּזָז
+    gloss: to cut off {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   cross_language:
   - strongs: G4124
-    proximity: 0.8268
+    lemma: πλεονεξία
+    gloss: avarice {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: greek
   - strongs: G1937
-    proximity: 0.825
+    lemma: ἐπιθυμέω
+    gloss: to set the heart upon {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G5365
-    proximity: 0.8242
+    lemma: φιλαργυρία
+    gloss: avarice {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
     language: greek
   - strongs: G658
-    proximity: 0.8204
+    proximity: 0.8204 {macula-proximity}
     language: greek
   - strongs: G1581
-    proximity: 0.8154
+    lemma: ἐκκόπτω
+    gloss: to exscind {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

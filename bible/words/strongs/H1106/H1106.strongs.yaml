@@ -9,30 +9,37 @@ derivation: the same as H1105 (בֶּלַע);
 related_words:
   synonyms:
   - strongs: H6085b
-    proximity: 0.8291
+    proximity: 0.8291 {macula-proximity}
   - strongs: H7498a
-    proximity: 0.8244
+    proximity: 0.8244 {macula-proximity}
   - strongs: H893
-    proximity: 0.8225
+    proximity: 0.8225 {macula-proximity}
   - strongs: H6553
-    proximity: 0.8207
+    lemma: פִּרְעָתוֹנִי
+    gloss: a Pirathonite or inhabitant of Pirathon {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H1255
-    proximity: 0.8201
+    lemma: בְּרֹאדַךְ בַּלְאֲדָן
+    gloss: Berodak-Baladan {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: H62
-    proximity: 0.8136
+    proximity: 0.8136 {macula-proximity}
   - strongs: H1051
-    proximity: 0.8109
+    lemma: בֵּית רָפָא
+    gloss: Beth-Rapha {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
   - strongs: H4375
-    proximity: 0.8098
+    lemma: מַכְפֵּלָה
+    gloss: Makpelah {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
   - strongs: H1203
-    proximity: 0.8093
+    lemma: בְּעֶשְׁתְּרָה
+    gloss: Beeshterah {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
   - strongs: H6411a
-    proximity: 0.8069
+    proximity: 0.8069 {macula-proximity}
   cross_language:
   - strongs: G1a
-    proximity: 0.8259
+    proximity: 0.8259 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

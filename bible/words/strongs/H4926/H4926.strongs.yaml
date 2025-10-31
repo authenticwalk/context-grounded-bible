@@ -6,34 +6,32 @@ pronunciation: mish-maw'
 definition: a report
 kjv_usage: hearing.
 derivation: from H8085 (שָׁמַע);
-extended_definition:
-  gloss: hearing
-  definition: thing heard, rumour
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: thing heard, rumour {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A4479
-    proximity: 0.7917
+    proximity: 0.7917 {macula-proximity}
   - strongs: H238
-    proximity: 0.7409
+    proximity: 0.7409 {macula-proximity}
   - strongs: H241
-    proximity: 0.7175
+    proximity: 0.7175 {macula-proximity}
   cross_language:
   - strongs: G3878
-    proximity: 0.8124
+    lemma: παρακούω
+    gloss: to mishear {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
     language: greek
   - strongs: G917
-    proximity: 0.7607
+    proximity: 0.7607 {macula-proximity}
     language: greek
   - strongs: G4257
-    proximity: 0.7574
+    lemma: προακούω
+    gloss: to hear already {openscriptures-strongs}
+    proximity: 0.7574 {macula-proximity}
     language: greek
   - strongs: G1251
-    proximity: 0.7427
+    lemma: διακούομαι
+    gloss: to hear throughout {openscriptures-strongs}
+    proximity: 0.7427 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

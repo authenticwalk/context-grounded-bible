@@ -6,43 +6,57 @@ pronunciation: aw-sak
 definition: to press upon, i.e. quarrel
 kjv_usage: strive with.
 derivation: a primitive root (identical with H6231 (עָשַׁק));
-extended_definition:
-  gloss: to contend
-  definition: (Hithpael) to strive, contend, quarrel
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Hithpael) to strive, contend, quarrel {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6617
-    proximity: 0.8023
+    lemma: פָּתַל
+    gloss: to twine {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
   - strongs: H1624
-    proximity: 0.7941
+    lemma: גָּרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7941 {macula-proximity}
   - strongs: H4695
-    proximity: 0.7922
+    lemma: מַצּוּת
+    gloss: a quarrel {openscriptures-strongs}
+    proximity: 0.7922 {macula-proximity}
   - strongs: H4683
-    proximity: 0.7838
+    lemma: מַצָּה
+    gloss: a quarrel {openscriptures-strongs}
+    proximity: 0.7838 {macula-proximity}
   - strongs: H4079
-    proximity: 0.7714
+    lemma: מִדְיָן
+    gloss: '{a contest or quarrel} {openscriptures-strongs}'
+    proximity: 0.7714 {macula-proximity}
   - strongs: H3250
-    proximity: 0.7651
+    lemma: יִסּוֹר
+    gloss: a reprover {openscriptures-strongs}
+    proximity: 0.7651 {macula-proximity}
   cross_language:
   - strongs: G4802
-    proximity: 0.8277
+    lemma: συζητέω
+    gloss: to investigate jointly {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: greek
   - strongs: G1252
-    proximity: 0.8152
+    lemma: διακρίνω
+    gloss: to separate thoroughly {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
     language: greek
   - strongs: G1264
-    proximity: 0.8056
+    lemma: διαμάχομαι
+    gloss: to fight fiercely {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
     language: greek
   - strongs: G1253
-    proximity: 0.7898
+    lemma: διάκρισις
+    gloss: judicial estimation {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
     language: greek
   - strongs: G1864
-    proximity: 0.7728
+    lemma: ἐπαγωνίζομαι
+    gloss: to struggle for {openscriptures-strongs}
+    proximity: 0.7728 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

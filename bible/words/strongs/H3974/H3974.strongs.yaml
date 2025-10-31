@@ -7,49 +7,59 @@ definition: properly, a luminous body or luminary, i.e. (abstractly) light (as a
   element); figuratively, brightness, i.e.cheerfulness; specifically, a chandelier
 kjv_usage: bright, light.
 derivation: or מָאֹר; also (in plural) feminine מְאוֹרָה; or מְאֹרָה; from H215 (אוֹר);
-extended_definition:
-  gloss: light
-  definition: light, luminary
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: light, luminary {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H217
-    proximity: 0.8255
+    proximity: 0.8255 {macula-proximity}
   - strongs: H3556
-    proximity: 0.8219
+    lemma: כּוֹכָב
+    gloss: a star {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: H5575
-    proximity: 0.8193
+    lemma: סַנְוֵר
+    gloss: blindness {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H1984
-    proximity: 0.8139
+    lemma: הָלַל
+    gloss: to be clear (orig. of sound {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: A5053
-    proximity: 0.7833
+    proximity: 0.7833 {macula-proximity}
   - strongs: H6919
-    proximity: 0.783
+    lemma: קָדַח
+    gloss: to inflame {openscriptures-strongs}
+    proximity: 0.783 {macula-proximity}
   - strongs: H7160
-    proximity: 0.7814
+    lemma: קָרַן
+    gloss: to shoot out horns {openscriptures-strongs}
+    proximity: 0.7814 {macula-proximity}
   - strongs: H166
-    proximity: 0.7781
+    proximity: 0.7781 {macula-proximity}
   - strongs: H925
-    proximity: 0.7717
+    proximity: 0.7717 {macula-proximity}
   cross_language:
   - strongs: G5316
-    proximity: 0.8285
+    lemma: φαίνω
+    gloss: to lighten {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G2986
-    proximity: 0.8221
+    lemma: λαμπρός
+    gloss: radiant {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
     language: greek
   - strongs: G796
-    proximity: 0.8068
+    proximity: 0.8068 {macula-proximity}
     language: greek
   - strongs: G1584
-    proximity: 0.7882
+    lemma: ἐκλάμπω
+    gloss: to be resplendent {openscriptures-strongs}
+    proximity: 0.7882 {macula-proximity}
     language: greek
   - strongs: G2545
-    proximity: 0.7867
+    lemma: καίω
+    gloss: to set on fire {openscriptures-strongs}
+    proximity: 0.7867 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

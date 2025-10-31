@@ -6,49 +6,63 @@ pronunciation: yaw-shawn'
 definition: old
 kjv_usage: old.
 derivation: from H3462 (יָשֵׁן);
-extended_definition:
-  gloss: old
-  definition: old, store, storage
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: old, store, storage {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H865
-    proximity: 0.8155
+    proximity: 0.8155 {macula-proximity}
   - strongs: H8393
-    proximity: 0.8019
+    lemma: תְּבוּאָה
+    gloss: income {openscriptures-strongs}
+    proximity: 0.8019 {macula-proximity}
   - strongs: H3453
-    proximity: 0.7917
+    lemma: יָשִׁישׁ
+    gloss: an old man {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: H2208
-    proximity: 0.7889
+    lemma: זָקֻן
+    gloss: old age {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
   - strongs: H2209
-    proximity: 0.7762
+    lemma: זִקְנָה
+    gloss: old age {openscriptures-strongs}
+    proximity: 0.7762 {macula-proximity}
   - strongs: H1067
-    proximity: 0.7745
+    lemma: בְּכִירָה
+    gloss: the eldest daughter {openscriptures-strongs}
+    proximity: 0.7745 {macula-proximity}
   - strongs: H3466a
-    proximity: 0.773
+    proximity: 0.773 {macula-proximity}
   - strongs: H1087
-    proximity: 0.7715
+    lemma: בָּלֶה
+    gloss: worn out {openscriptures-strongs}
+    proximity: 0.7715 {macula-proximity}
   - strongs: H2204
-    proximity: 0.7607
+    lemma: זָקֵן
+    gloss: to be old {openscriptures-strongs}
+    proximity: 0.7607 {macula-proximity}
   cross_language:
   - strongs: G3819
-    proximity: 0.8229
+    lemma: πάλαι
+    gloss: formerly {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G744
-    proximity: 0.794
+    proximity: 0.794 {macula-proximity}
     language: greek
   - strongs: G4246
-    proximity: 0.7847
+    lemma: πρεσβύτης
+    gloss: an old man {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
     language: greek
   - strongs: G1597
-    proximity: 0.778
+    lemma: ἔκπαλαι
+    gloss: long ago {openscriptures-strongs}
+    proximity: 0.778 {macula-proximity}
     language: greek
   - strongs: G3822
-    proximity: 0.7688
+    lemma: παλαιόω
+    gloss: to make (passively {openscriptures-strongs}
+    proximity: 0.7688 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

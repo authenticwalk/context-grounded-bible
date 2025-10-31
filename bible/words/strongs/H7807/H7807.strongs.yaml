@@ -6,32 +6,36 @@ pronunciation: shakh
 definition: sunk, i.e. downcast
 kjv_usage: '[phrase] humble.'
 derivation: from H7817 (שָׁחַח);
-extended_definition:
-  gloss: lowly
-  definition: low, lowly
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: low, lowly {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8216
-    proximity: 0.7629
+    lemma: שֶׁפֶל
+    gloss: an humble rank {openscriptures-strongs}
+    proximity: 0.7629 {macula-proximity}
   - strongs: H7515
-    proximity: 0.7155
+    lemma: רָפַשׂ
+    gloss: to trample {openscriptures-strongs}
+    proximity: 0.7155 {macula-proximity}
   - strongs: H8213
-    proximity: 0.7154
+    lemma: שָׁפֵל
+    gloss: to depress or sink (expectation figuratively {openscriptures-strongs}
+    proximity: 0.7154 {macula-proximity}
   - strongs: H3665
-    proximity: 0.7137
+    lemma: כָּנַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7137 {macula-proximity}
   - strongs: H6035
-    proximity: 0.7101
+    lemma: עָנָו
+    gloss: depressed {openscriptures-strongs}
+    proximity: 0.7101 {macula-proximity}
   cross_language:
   - strongs: G858
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G4239
-    proximity: 0.7864
+    lemma: πραΰς
+    gloss: mild {openscriptures-strongs}
+    proximity: 0.7864 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

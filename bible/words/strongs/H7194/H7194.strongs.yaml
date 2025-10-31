@@ -7,46 +7,70 @@ definition: to tie, physically (gird, confine, compact) or mentally (in love, le
 kjv_usage: bind (up), (make a) conspire(-acy, -ator), join together, knit, stronger,
   work (treason).
 derivation: a primitive root;
-extended_definition:
-  gloss: to conspire
-  definition: 1) to bind, tie, bind together, league together, conspire<br>1a) (Qal)<br>1a1)
-    to bind, confine<br>1a2) to league together, conspire<br>1b) (Niphal) to be bound,
-    be bound up<br>1c) (Piel)<br>1c1) to bind on<br>1c2) to bind fast<br>1c3) to bind,
-    tie<br>1c4) to bind to oneself<br>1d) (Pual) robust, vigorous (participle)<br>1e)
-    (Hithpael) to conspire
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to bind, tie, bind together, league together, conspire
+
+  1a) (Qal)
+
+  1a1) to bind, confine
+
+  1a2) to league together, conspire
+
+  1b) (Niphal) to be bound, be bound up
+
+  1c) (Piel)
+
+  1c1) to bind on
+
+  1c2) to bind fast
+
+  1c3) to bind, tie
+
+  1c4) to bind to oneself
+
+  1d) (Pual) robust, vigorous (participle)
+
+  1e) (Hithpael) to conspire {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5627a
-    proximity: 0.8235
+    proximity: 0.8235 {macula-proximity}
   - strongs: H631
-    proximity: 0.8208
+    proximity: 0.8208 {macula-proximity}
   - strongs: A5376
-    proximity: 0.8202
+    proximity: 0.8202 {macula-proximity}
   - strongs: H820
-    proximity: 0.8197
+    proximity: 0.8197 {macula-proximity}
   - strongs: H2162
-    proximity: 0.8163
+    lemma: זָמָם
+    gloss: a plot {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
   - strongs: H2266
-    proximity: 0.8162
+    lemma: חָבַר
+    gloss: to join {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H8618
-    proximity: 0.8159
+    lemma: תְּקוֹמֵם
+    gloss: an opponent {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H2296
-    proximity: 0.8157
+    lemma: חָגַר
+    gloss: to gird on (as a belt {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: H2665
-    proximity: 0.8128
+    lemma: חֵפֶשׂ
+    gloss: something covert {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
   - strongs: A4776
-    proximity: 0.8085
+    proximity: 0.8085 {macula-proximity}
   cross_language:
   - strongs: G1241
-    proximity: 0.8095
+    lemma: διαζώννυμι
+    gloss: to gird tightly {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
     language: greek
   - strongs: G4945
-    proximity: 0.7762
+    lemma: συνωμοσία
+    gloss: a swearing together {openscriptures-strongs}
+    proximity: 0.7762 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

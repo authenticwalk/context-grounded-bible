@@ -6,48 +6,58 @@ pronunciation: tsav
 definition: an injunction
 kjv_usage: commandment, precept.
 derivation: or צָו; from H6680 (צָוָה);
-extended_definition:
-  gloss: command
-  definition: 1) command, ordinance, oracle (meaning uncertain)<br>1a) used in mocking
-    mimicry of Isaiah's words and thus not a true divine command
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) command, ordinance, oracle (meaning uncertain)
+
+  1a) used in mocking mimicry of Isaiah''s words and thus not a true divine command
+  {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A4406
-    proximity: 0.8217
+    proximity: 0.8217 {macula-proximity}
   - strongs: H659
-    proximity: 0.8152
+    proximity: 0.8152 {macula-proximity}
   - strongs: H1544
-    proximity: 0.8128
+    lemma: גִּלּוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
   - strongs: H6599
-    proximity: 0.8111
+    lemma: פִּתְגָּם
+    gloss: a  sentence {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: H562
-    proximity: 0.8076
+    proximity: 0.8076 {macula-proximity}
   - strongs: H8451
-    proximity: 0.7831
+    lemma: תּוֹרָה
+    gloss: a precept or statute {openscriptures-strongs}
+    proximity: 0.7831 {macula-proximity}
   - strongs: A7010
-    proximity: 0.7819
+    proximity: 0.7819 {macula-proximity}
   - strongs: A6600
-    proximity: 0.7787
+    proximity: 0.7787 {macula-proximity}
   cross_language:
   - strongs: G3853
-    proximity: 0.8201
+    lemma: παραγγέλλω
+    gloss: to transmit a message {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G1299
-    proximity: 0.8081
+    lemma: διατάσσω
+    gloss: to arrange thoroughly {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
     language: greek
   - strongs: G1497
-    proximity: 0.8045
+    lemma: εἴδωλον
+    gloss: an image {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
     language: greek
   - strongs: G1378
-    proximity: 0.7897
+    lemma: δόγμα
+    gloss: a law (civil {openscriptures-strongs}
+    proximity: 0.7897 {macula-proximity}
     language: greek
   - strongs: G1781
-    proximity: 0.7894
+    lemma: ἐντέλλομαι
+    gloss: to enjoin {openscriptures-strongs}
+    proximity: 0.7894 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

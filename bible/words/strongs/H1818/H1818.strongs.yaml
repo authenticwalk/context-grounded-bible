@@ -8,51 +8,67 @@ definition: blood (as that which when shed causes death) of man or an animal; by
   drops of blood)
 kjv_usage: blood(-y, -guiltiness, (-thirsty), [phrase] innocent.
 derivation: from H1826 (דָּמַם) (compare H119 (אָדַם));
-extended_definition:
-  gloss: blood
-  definition: 1) blood<br>1a) of wine (fig.)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) blood
+
+  1a) of wine (fig.) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2054
-    proximity: 0.8245
+    lemma: וָזָר
+    gloss: crime {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H1320
-    proximity: 0.8232
+    lemma: בָּשָׂר
+    gloss: flesh {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H8210
-    proximity: 0.8231
+    lemma: שָׁפַךְ
+    gloss: to spill forth (blood {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H7821a
-    proximity: 0.817
+    proximity: 0.817 {macula-proximity}
   - strongs: H5315
-    proximity: 0.8077
+    lemma: נֶפֶשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
   - strongs: H6991
-    proximity: 0.8066
+    lemma: קָטַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
   - strongs: H4194
-    proximity: 0.8064
+    lemma: מָוֶת
+    gloss: death {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
   - strongs: H4191
-    proximity: 0.7844
+    lemma: מוּת
+    gloss: to die {openscriptures-strongs}
+    proximity: 0.7844 {macula-proximity}
   - strongs: H7607
-    proximity: 0.7615
+    lemma: שְׁאֵר
+    gloss: flesh {openscriptures-strongs}
+    proximity: 0.7615 {macula-proximity}
   - strongs: H2027
-    proximity: 0.7577
+    lemma: הֶרֶג
+    gloss: slaughter {openscriptures-strongs}
+    proximity: 0.7577 {macula-proximity}
   cross_language:
   - strongs: G1632
-    proximity: 0.8273
+    lemma: ἐκχέω
+    gloss: to pour forth {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G1315
-    proximity: 0.8215
+    lemma: διαχειρίζομαι
+    gloss: to handle thoroughly {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
     language: greek
   - strongs: G1632a
-    proximity: 0.8103
+    proximity: 0.8103 {macula-proximity}
     language: greek
   - strongs: G615
-    proximity: 0.8081
+    proximity: 0.8081 {macula-proximity}
     language: greek
   - strongs: G336
-    proximity: 0.8018
+    proximity: 0.8018 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

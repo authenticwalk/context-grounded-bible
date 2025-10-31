@@ -6,51 +6,67 @@ pronunciation: aw-mal'
 definition: to toil, i.e. work severely and with irksomeness
 kjv_usage: (take) labour (in).
 derivation: a primitive root;
-extended_definition:
-  gloss: to toil
-  definition: 1) to labour, toil<br>1a) (Qal) to labour
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to labour, toil
+
+  1a) (Qal) to labour {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A5673
-    proximity: 0.8221
+    proximity: 0.8221 {macula-proximity}
   - strongs: H8362
-    proximity: 0.8217
+    lemma: שָׁתַל
+    gloss: to transplant {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
   - strongs: H2254b
-    proximity: 0.8048
+    proximity: 0.8048 {macula-proximity}
   - strongs: H5652
-    proximity: 0.8047
+    lemma: עֲבָד
+    gloss: a deed {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
   - strongs: H5450
-    proximity: 0.7898
+    lemma: סְבָלָה
+    gloss: porterage {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
   - strongs: H5193
-    proximity: 0.7846
+    lemma: נָטַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7846 {macula-proximity}
   - strongs: H4522
-    proximity: 0.7805
+    lemma: מַס
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7805 {macula-proximity}
   - strongs: H5647
-    proximity: 0.7614
+    lemma: עָבַד
+    gloss: to work {openscriptures-strongs}
+    proximity: 0.7614 {macula-proximity}
   - strongs: H6001
-    proximity: 0.7577
+    lemma: עָמֵל
+    gloss: toiling {openscriptures-strongs}
+    proximity: 0.7577 {macula-proximity}
   - strongs: H3286
-    proximity: 0.7293
+    lemma: יָעַף
+    gloss: to tire {openscriptures-strongs}
+    proximity: 0.7293 {macula-proximity}
   cross_language:
   - strongs: G922
-    proximity: 0.8242
+    proximity: 0.8242 {macula-proximity}
     language: greek
   - strongs: G5452
-    proximity: 0.8071
+    lemma: φυτεύω
+    gloss: to set out in the earth {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
     language: greek
   - strongs: G4903
-    proximity: 0.8067
+    lemma: συνεργέω
+    gloss: to be a fellow-worker {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
     language: greek
   - strongs: G916
-    proximity: 0.7768
+    proximity: 0.7768 {macula-proximity}
     language: greek
   - strongs: G4866
-    proximity: 0.7404
+    lemma: συναθλέω
+    gloss: to wrestle in company with {openscriptures-strongs}
+    proximity: 0.7404 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

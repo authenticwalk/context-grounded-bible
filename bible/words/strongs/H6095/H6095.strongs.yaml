@@ -6,26 +6,24 @@ pronunciation: aw-tsaw'
 definition: properly, to fasten (or make firm), i.e. to close (the eyes)
 kjv_usage: shut.
 derivation: a primitive root;
-extended_definition:
-  gloss: to shut
-  definition: (Qal) to shut
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to shut {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8265
-    proximity: 0.7882
+    lemma: שָׂקַר
+    gloss: to ogle {openscriptures-strongs}
+    proximity: 0.7882 {macula-proximity}
   - strongs: H6105a
-    proximity: 0.7678
+    proximity: 0.7678 {macula-proximity}
   cross_language:
   - strongs: G4728
-    proximity: 0.8088
+    lemma: στενός
+    gloss: narrow {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
     language: greek
   - strongs: G4493
-    proximity: 0.7859
+    lemma: ῥιπή
+    gloss: a jerk (of the eye {openscriptures-strongs}
+    proximity: 0.7859 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

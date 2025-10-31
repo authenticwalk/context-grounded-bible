@@ -7,43 +7,60 @@ definition: a bone (as the skeleton of the body); hence, self, i.e. (figurativel
   very
 kjv_usage: bone, strong, top.
 derivation: from H1633 (גָּרַם);
-extended_definition:
-  gloss: bone
-  definition: '1) bone, strength, bare?, self?<br>1a) bone<br>1b) strength, strong-boned<br>1c)
-    self?, bare? (of stairs)<BR>Aramaic equivalent: <i>ge.rem</i> (גְּרַם "bone" H1635)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) bone, strength, bare?, self?
+
+  1a) bone
+
+  1b) strength, strong-boned
+
+  1c) self?, bare? (of stairs)
+
+  Aramaic equivalent: ge.rem (גְּרַם "bone" H1635) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6105
-    proximity: 0.8293
+    lemma: עָצַם
+    gloss: to bind fast {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: H5945
-    proximity: 0.8277
+    lemma: עֶלְיוֹן
+    gloss: an elevation {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H5794
-    proximity: 0.8272
+    lemma: עַז
+    gloss: strong {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: H2389
-    proximity: 0.8262
+    lemma: חָזָק
+    gloss: strong (usu. in a bad sense {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: H5666
-    proximity: 0.8187
+    lemma: עָבָה
+    gloss: to be dense {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
   - strongs: H555
-    proximity: 0.8123
+    proximity: 0.8123 {macula-proximity}
   - strongs: H6099
-    proximity: 0.7983
+    lemma: עָצוּם
+    gloss: powerful (specifically {openscriptures-strongs}
+    proximity: 0.7983 {macula-proximity}
   - strongs: H6108a
-    proximity: 0.7927
+    proximity: 0.7927 {macula-proximity}
   - strongs: H5324a
-    proximity: 0.7926
+    proximity: 0.7926 {macula-proximity}
   - strongs: H2390
-    proximity: 0.7856
+    lemma: חָזֵק
+    gloss: powerful {openscriptures-strongs}
+    proximity: 0.7856 {macula-proximity}
   cross_language:
   - strongs: G4732
-    proximity: 0.7926
+    lemma: στερεόω
+    gloss: to solidify {openscriptures-strongs}
+    proximity: 0.7926 {macula-proximity}
     language: greek
   - strongs: G2478
-    proximity: 0.7673
+    lemma: ἰσχυρός
+    gloss: forcible {openscriptures-strongs}
+    proximity: 0.7673 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

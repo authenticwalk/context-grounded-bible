@@ -7,34 +7,37 @@ definition: '{dominion, i.e. (abstractly) the estate (rule) or (concretely) the 
   (realm)}'
 kjv_usage: kingdom, reign.
 derivation: a form of H4467 (מַמְלָכָה) and equiv. to it
-extended_definition:
-  gloss: kingdom
-  definition: 1) kingdom, dominion, reign, sovereignty<br>1a) kingdom<br>1b) dominion,
-    royal power<br>1c) reign
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) kingdom, dominion, reign, sovereignty
+
+  1a) kingdom
+
+  1b) dominion, royal power
+
+  1c) reign {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8642
-    proximity: 0.8228
+    lemma: תְּרוּמִיָּה
+    gloss: a sacrificial offering {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
   - strongs: A3764
-    proximity: 0.8215
+    proximity: 0.8215 {macula-proximity}
   - strongs: H4428
-    proximity: 0.7862
+    lemma: מֶלֶךְ
+    gloss: a king {openscriptures-strongs}
+    proximity: 0.7862 {macula-proximity}
   - strongs: H776
-    proximity: 0.7769
+    proximity: 0.7769 {macula-proximity}
   - strongs: H4427
-    proximity: 0.7762
+    lemma: מָלַךְ
+    gloss: to reign {openscriptures-strongs}
+    proximity: 0.7762 {macula-proximity}
   - strongs: H127
-    proximity: 0.7605
+    proximity: 0.7605 {macula-proximity}
   - strongs: H327
-    proximity: 0.7348
+    proximity: 0.7348 {macula-proximity}
   cross_language:
   - strongs: G936
-    proximity: 0.7811
+    proximity: 0.7811 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,56 +5,64 @@ transliteration: katṓteros
 definition: inferior (locally, of Hades)
 kjv_usage: lower
 derivation: comparative from G2736 (κάτω);
-extended_definition:
-  gloss: lower
-  definition: '<b>κατώτερος</b>, -έρα, -ερον<BR /> (κάτω), [in LXX for תַּחְתּוֹן,
-    תַּחְתִּי ;] <BR /><b>lower</b>; τὰ. κ. τῆς γῆς (see AR, <i>Eph.</i>, l.with;
-    for rendering this lower earth, see <i>ICC</i>, Eph, l.with), the lower parts
-    of the earth (cf. <ref=''Psa.139.15''>Psa.139:15;</ref> cf. also M<i>Gr.</i>,
-    ἡ κάτου γῆ, the underworld, Thumb, MGV, 334): <ref=''Eph.4.9.''>Eph.4:9.</ref>†<BR
-    /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κατώτερος</b>, α, ον, <br /> <i>comparative</i> <i>adjective</i>
-    from κάτω, <b>lower</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates
-    Medicus “περὶ ἀγμῶν” 31, LXX.3Ki.9.17, etc.; τὰ κ. μέρη τῆς NT.Eph.4.9 ">NT+5th
-    c.BC+</a>]; <b>more southerly</b>, [<a href="javascript:void(0)" title="Vett.
-    Val. 34.21. ">Refs</a>]<br /><Level3><b>__2</b></Level3> of Time, <b>later, younger</b>,
-    [<a href="javascript:void(0)" title=" 3rd c.BC: Callimachus Epicus “Hymnus in
-    Cererem” 131. ">Refs 3rd c.BC+</a>] <i>adverb</i> κατωτέρω, see at {κάτω}.'
-  source: STEPBible/LSJ
+extended_definition: 'κατώτερος, -έρα, -ερον
+
+  (κάτω), [in LXX for תַּחְתּוֹן, תַּחְתִּי ;]
+
+  lower; τὰ. κ. τῆς γῆς (see AR, Eph., l.with; for rendering this lower earth, see
+  ICC, Eph, l.with), the lower parts of the earth (cf. Psa.139:15; cf. also MGr.,
+  ἡ κάτου γῆ, the underworld, Thumb, MGV, 334): Eph.4:9.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κατώτερος, α, ον,
+
+  comparative adjective from κάτω, lower, [NT+5th c.BC+]; more southerly, [Refs]
+
+  __2 of Time, later, younger, [Refs 3rd c.BC+] adverb κατωτέρω, see at {κάτω}. {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5259
-    proximity: 0.8243
+    lemma: ὑπό
+    gloss: under {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: G2693
-    proximity: 0.8
+    lemma: καταστρώννυμι
+    gloss: to strew down {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: G2709
-    proximity: 0.7917
+    lemma: καταχθόνιος
+    gloss: subterranean {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: A8215
-    proximity: 0.7639
+    proximity: 0.7639 {macula-proximity}
   - strongs: G1642
-    proximity: 0.7531
+    lemma: ἐλαττόω
+    gloss: to lessen {openscriptures-strongs}
+    proximity: 0.7531 {macula-proximity}
   cross_language:
   - strongs: H7817
-    proximity: 0.8293
+    lemma: שָׁחַח
+    gloss: to sink or depress {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: hebrew
   - strongs: H8213
-    proximity: 0.8249
+    lemma: שָׁפֵל
+    gloss: to depress or sink (expectation figuratively {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: hebrew
   - strongs: H8218
-    proximity: 0.8119
+    lemma: שִׁפְלָה
+    gloss: depression {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
     language: hebrew
   - strongs: H3766
-    proximity: 0.8082
+    lemma: כָּרַע
+    gloss: to bend the knee {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
     language: hebrew
   - strongs: H6915
-    proximity: 0.792
+    lemma: קָדַד
+    gloss: to shrivel up {openscriptures-strongs}
+    proximity: 0.792 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,52 +5,55 @@ transliteration: rhabdízō
 definition: to strike with a stick, i.e. bastinado
 kjv_usage: beat (with rods)
 derivation: from G4464 (ῥάβδος);
-extended_definition:
-  gloss: to beat with a rod
-  definition: '<b>ῥαβδίζω</b><BR /> (ῥάβδος), [in LXX: <ref=''Jdg.6.11''>Jdg.6:11</ref>
-    <ref=''Rut.2.17''>Rut.2:17</ref> (חָבַט) * ;] <BR /><b>to beat with a rod</b>:
-    <ref=''Act.16.22''>Act.16:22</ref>, <ref=''2Co.11.25''>2Co.11:25</ref>.†<BR />
-    (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ῥαβδ-ίζω</b>, <br /> <b>beat with a rod</b> or <b>stick, cudgel</b>,
-    [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Lysistrata”
-    587, 5th c.BC: Pherecrates Comicus 50, NT.2Cor.11.25 (_passive_)">NT+5th c.BC+</a>];
-    ῥ. δένδρα <b>thresh</b> trees, to bring down the fruit, [<a href="javascript:void(0)"
-    title=" 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 1.19.4 (_passive_),compare
-    “PRyl.” 148.20 (1st c.AD)">Refs 4th c.BC+</a>]; ἐλάας [<a href="javascript:void(0)"
-    title=" 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 5.4.2 ">Refs
-    4th c.BC+</a>]; ῥ. [κριθάς] <b>thresh out</b> barley, [<a href="javascript:void(0)"
-    title=" LXX.Ruth.2.17 ">LXX</a>]; σῖτον[<a href="javascript:void(0)" title="LXX.Judg.6.11.
-    ">LXX</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ῥαβδίζω
+
+  (ῥάβδος), [in LXX: Jdg.6:11 Rut.2:17 (חָבַט) * ;]
+
+  to beat with a rod: Act.16:22, 2Co.11:25.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ῥαβδ-ίζω,
+
+  beat with a rod or stick, cudgel, [NT+5th c.BC+]; ῥ. δένδρα thresh trees, to bring
+  down the fruit, [Refs 4th c.BC+]; ἐλάας [Refs 4th c.BC+]; ῥ. [κριθάς] thresh out
+  barley, [LXX]; σῖτον[LXX] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4862
-    proximity: 0.8288
+    lemma: σύν
+    gloss: with or together  or G3844 ) {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: G5180
-    proximity: 0.7897
+    lemma: τύπτω
+    gloss: to "thump" {openscriptures-strongs}
+    proximity: 0.7897 {macula-proximity}
   - strongs: G1194
-    proximity: 0.7336
+    lemma: δέρω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7336 {macula-proximity}
   - strongs: G2852
-    proximity: 0.707
+    lemma: κολαφίζω
+    gloss: to rap with the fist {openscriptures-strongs}
+    proximity: 0.707 {macula-proximity}
   cross_language:
   - strongs: H2415
-    proximity: 0.8273
+    lemma: חֹטֵר
+    gloss: a twig {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
     language: hebrew
   - strongs: H7820
-    proximity: 0.8152
+    lemma: שָׁחַט
+    gloss: to hammer out {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
     language: hebrew
   - strongs: H4300
-    proximity: 0.7771
+    lemma: מְטִיל
+    gloss: an iron bar {openscriptures-strongs}
+    proximity: 0.7771 {macula-proximity}
     language: hebrew
   - strongs: H5363
-    proximity: 0.7274
+    lemma: נֹקֶף
+    gloss: a threshing {openscriptures-strongs}
+    proximity: 0.7274 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

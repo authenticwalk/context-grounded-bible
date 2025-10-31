@@ -5,54 +5,53 @@ transliteration: diïknéomai
 definition: to reach through, i.e. penetrate
 kjv_usage: pierce
 derivation: from G1223 (διά) and the base of G2425 (ἱκανός);
-extended_definition:
-  gloss: to penetrate
-  definition: '<b>δι-ικνέομαι</b> (Rec. διϊκ-), <b>-οῦμαι</b>, <BR /> [in LXX for
-    בָּרַח hi., <ref=''Exo.26.28''>Exo.26:28</ref> * ;] <BR /><b>to go through, penetrate</b>:
-    <ref=''Heb.4.12.''>Heb.4:12.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> διϊκνέομαι</b>, <br /> <i>future</i> -ίξομαι: <i>aorist</i>
-    -ικόμην:— <b>go through, penetrate,</b> ποτὶ τὰν ψυχάν δι᾽ ὤτων [<a href="javascript:void(0)"
-    title=" 5th-4th c.BC: Timaeus Locrus Philosophus 101a; ἐφ᾽ ὅσον -εῖται τὸ ὕδωρ
-    4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 3.20.4; διῖκτο ἡ
-    δόξα μέχρι βασιλέως 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Demosthenes”
-    20, compare 1st-2nd c.AD: Dio Chrysostomus Sophista 12.35 ">Refs 5th c.BC+</a>];
-    <b>reach,</b> with missiles, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides
-    Historicus 7.79; βραδέως τοῦ παραγγέλματος διικνουμένου 1st-2nd c.AD: Plutarchus
-    Biographus et Philosophus “Nicias” 27. ">Refs 5th c.BC+</a>]<br /><Level3><b>__2</b></Level3>
-    in speaking, <b>go through, tell of,</b> πάντα δ. [<a href="javascript:void(0)"
-    title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 9.61, 19.186, 3rd c.BC: Apollonius
-    Rhodius Epicus 2.411. ">Refs 8th c.BC+</a>]<br /><Level3><b>__3</b></Level3> of
-    Time, <b>intervene,</b> διετοῦς χρόνου διικνουμένου [<a href="javascript:void(0)"
-    title=" 3rd c.AD(?): Longus Scriptor Eroticus 1.4. ">Refs 3rd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δι-ικνέομαι (Rec. διϊκ-), -οῦμαι,
+
+  [in LXX for בָּרַח hi., Exo.26:28 * ;]
+
+  to go through, penetrate: Heb.4:12.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'διϊκνέομαι,
+
+  future -ίξομαι: aorist -ικόμην:— go through, penetrate, ποτὶ τὰν ψυχάν δι᾽ ὤτων
+  [Refs 5th c.BC+]; reach, with missiles, [Refs 5th c.BC+]
+
+  __2 in speaking, go through, tell of, πάντα δ. [Refs 8th c.BC+]
+
+  __3 of Time, intervene, διετοῦς χρόνου διικνουμένου [Refs 3rd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1330
-    proximity: 0.8292
+    lemma: διέρχομαι
+    gloss: to traverse {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: G2660
-    proximity: 0.7639
+    lemma: κατανύσσω
+    gloss: to pierce thoroughly {openscriptures-strongs}
+    proximity: 0.7639 {macula-proximity}
   cross_language:
   - strongs: H8628
-    proximity: 0.8032
+    lemma: תָּקַע
+    gloss: to clatter {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
     language: hebrew
   - strongs: H4272
-    proximity: 0.7979
+    lemma: מָחַץ
+    gloss: to dash asunder {openscriptures-strongs}
+    proximity: 0.7979 {macula-proximity}
     language: hebrew
   - strongs: H5181
-    proximity: 0.7945
+    lemma: נָחַת
+    gloss: to sink {openscriptures-strongs}
+    proximity: 0.7945 {macula-proximity}
     language: hebrew
   - strongs: H935
-    proximity: 0.7772
+    proximity: 0.7772 {macula-proximity}
     language: hebrew
   - strongs: H1333
-    proximity: 0.7744
+    lemma: בָּתַק
+    gloss: to cut in pieces {openscriptures-strongs}
+    proximity: 0.7744 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

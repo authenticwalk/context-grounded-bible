@@ -6,26 +6,30 @@ pronunciation: shay'-yit
 definition: an oar; a scourge (figuratively)
 kjv_usage: oar, scourge.
 derivation: from H7751 (שׁוּט); also compare H7752 (שׁוֹט)
-extended_definition:
-  gloss: oar
-  definition: 1) rowing<br>1a) rowing<br>1b) scourge (fig)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) rowing
+
+  1a) rowing
+
+  1b) scourge (fig) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2905
-    proximity: 0.8141
+    lemma: טוּר
+    gloss: a row {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: H2864
-    proximity: 0.8065
+    lemma: חָתַר
+    gloss: to force a passage {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
   cross_language:
   - strongs: G4979
-    proximity: 0.8135
+    lemma: σχοινίον
+    gloss: of uncertain derivation) {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
     language: greek
   - strongs: G1643
-    proximity: 0.7128
+    lemma: ἐλαύνω
+    gloss: to push (as wind {openscriptures-strongs}
+    proximity: 0.7128 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

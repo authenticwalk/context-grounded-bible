@@ -5,48 +5,56 @@ transliteration: Lýdda
 definition: Lydda (i.e. Lod), a place in Palestine
 kjv_usage: Lydda
 derivation: of Hebrew origin (H03850);
-extended_definition:
-  gloss: Lydda
-  definition: '<b>λύδδα</b>, -ας (<ref=''Act.9.38''>Act.9:38</ref>, -ης Rec.), ἡ and
-    λύδδα, -ων, τά (<ref=''Act.9.32, 35''>Act.9:32, 35</ref>; -αν, Rec.), (Heb. לֹד),
-    <BR /> <b>Lydda </b>(modern Ludd): Ac, ll. with†<BR /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>λύδδα</b>, -ας (<ref=''Act.9.38''>Act.9:38</ref>, -ης Rec.),
-    ἡ and λύδδα, -ων, τά (<ref=''Act.9.32, 35''>Act.9:32, 35</ref>; -αν, Rec.), (Heb.
-    לֹד), <BR /> <b>Lydda </b>(modern Ludd): Ac, ll. with†<BR />  (From Abbott-Smith.
-    LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'λύδδα, -ας (Act.9:38, -ης Rec.), ἡ and λύδδα, -ων, τά (Act.9:32,
+  35; -αν, Rec.), (Heb. לֹד),
+
+  Lydda (modern Ludd): Ac, ll. with†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'λύδδα, -ας (Act.9:38, -ης Rec.), ἡ and λύδδα, -ων, τά (Act.9:32, 35; -αν,
+  Rec.), (Heb. לֹד),
+
+  Lydda (modern Ludd): Ac, ll. with†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1056
-    proximity: 0.8294
+    lemma: Γαλιλαία
+    gloss: Galilæa {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: G2483
-    proximity: 0.8241
+    lemma: Ἰταλικός
+    gloss: Italic {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: A1868
-    proximity: 0.8203
+    proximity: 0.8203 {macula-proximity}
   - strongs: G2482
-    proximity: 0.8148
+    lemma: Ἰταλία
+    gloss: Italia {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   cross_language:
   - strongs: H1867
-    proximity: 0.8241
+    lemma: דָּֽרְיָוֵשׁ
+    gloss: Darejavesh {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: hebrew
   - strongs: H450
-    proximity: 0.8229
+    proximity: 0.8229 {macula-proximity}
     language: hebrew
   - strongs: H3012
-    proximity: 0.8218
+    lemma: יִגְדַּלְיָהוּ
+    gloss: Jigdaljah {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
     language: hebrew
   - strongs: H3047
-    proximity: 0.8194
+    lemma: יָדָע
+    gloss: Jada {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: hebrew
   - strongs: H1182
-    proximity: 0.8167
+    lemma: בְּעֶלְיָדָע
+    gloss: Beeljada {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,38 +5,42 @@ transliteration: Rhebékka
 definition: Rebecca (i.e. Ribkah), the wife of Isaac
 kjv_usage: Rebecca
 derivation: of Hebrew origin (H07259);
-extended_definition:
-  gloss: Rebekah
-  definition: '<b>Ῥεβέκκα</b>, -ας (see Bl., § 7, 2), ἡ, (Heb. רִבְקָה), <BR /> <b>Rebecca</b>:
-    <ref=''Rom.9.10.''>Rom.9:10.</ref>†<BR /> (AS)'
-  morphology: N:N-F-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ῥεβέκκα</b>, -ας (see Bl., § 7, 2), ἡ, (Heb. רִבְקָה), <BR />
-    <b>Rebecca</b>: <ref=''Rom.9.10.''>Rom.9:10.</ref>†<BR />  (From Abbott-Smith.
-    LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ῥεβέκκα, -ας (see Bl., § 7, 2), ἡ, (Heb. רִבְקָה),
+
+  Rebecca: Rom.9:10.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ῥεβέκκα, -ας (see Bl., § 7, 2), ἡ, (Heb. רִבְקָה),
+
+  Rebecca: Rom.9:10.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1043
-    proximity: 0.813
+    lemma: Γαβριήλ
+    gloss: Gabriel {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
   - strongs: G1057
-    proximity: 0.789
+    lemma: Γαλιλαῖος
+    gloss: Galilean or belonging to Galilea {openscriptures-strongs}
+    proximity: 0.789 {macula-proximity}
   - strongs: G1056
-    proximity: 0.7235
+    lemma: Γαλιλαία
+    gloss: Galilæa {openscriptures-strongs}
+    proximity: 0.7235 {macula-proximity}
   cross_language:
   - strongs: H470
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
     language: hebrew
   - strongs: H7143
-    proximity: 0.8078
+    lemma: קָרֵחַ
+    gloss: Kareach {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
     language: hebrew
   - strongs: H1551
-    proximity: 0.8031
+    lemma: גָּלִיל
+    gloss: Galil  in the North of Palestine {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

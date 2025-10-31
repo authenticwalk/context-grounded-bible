@@ -6,43 +6,52 @@ pronunciation: shik-koo'-ee
 definition: a beverage; moisture, i.e. (figuratively) refreshment
 kjv_usage: drink, marrow.
 derivation: from H8248 (שָׁקָה);
-extended_definition:
-  gloss: drink
-  definition: 'drink, refreshment<BR>Also means: <i>shiq.quv</i> (שִׁקֻּו "drink"
-    H8249)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'drink, refreshment
+
+  Also means: shiq.quv (שִׁקֻּו "drink" H8249) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3216a
-    proximity: 0.8131
+    proximity: 0.8131 {macula-proximity}
   - strongs: H7301
-    proximity: 0.8042
+    lemma: רָוָה
+    gloss: to slake the thirst {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: H8248
-    proximity: 0.7852
+    lemma: שָׁקָה
+    gloss: to quaff {openscriptures-strongs}
+    proximity: 0.7852 {macula-proximity}
   - strongs: H3384a
-    proximity: 0.7694
+    proximity: 0.7694 {macula-proximity}
   - strongs: A8355
-    proximity: 0.7449
+    proximity: 0.7449 {macula-proximity}
   - strongs: H8354
-    proximity: 0.7058
+    lemma: שָׁתָה
+    gloss: to imbibe {openscriptures-strongs}
+    proximity: 0.7058 {macula-proximity}
   - strongs: H2222
-    proximity: 0.7048
+    lemma: זַרְזִיף
+    gloss: a pouring rain {openscriptures-strongs}
+    proximity: 0.7048 {macula-proximity}
   cross_language:
   - strongs: G4844
-    proximity: 0.8125
+    lemma: συμπίνω
+    gloss: to partake a beverage in company {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G4095
-    proximity: 0.7888
+    lemma: πίνω
+    gloss: to imbibe {openscriptures-strongs}
+    proximity: 0.7888 {macula-proximity}
     language: greek
   - strongs: G4224
-    proximity: 0.7676
+    lemma: πότος
+    gloss: a drinking-bout or carousal {openscriptures-strongs}
+    proximity: 0.7676 {macula-proximity}
     language: greek
   - strongs: G2429
-    proximity: 0.7042
+    lemma: ἱκμάς
+    gloss: dampness {openscriptures-strongs}
+    proximity: 0.7042 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

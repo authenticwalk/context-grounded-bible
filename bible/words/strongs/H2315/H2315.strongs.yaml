@@ -7,45 +7,61 @@ definition: an apartment (usually literal)
 kjv_usage: ((bed) inner) chamber, innermost(-ward) part, parlour, [phrase] south,
   [idiom] within.
 derivation: from H2314 (חָדַר);
-extended_definition:
-  gloss: chamber
-  definition: chamber, room, parlour, innermost or inward part, within
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: chamber, room, parlour, innermost or inward part, within {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4904
-    proximity: 0.8226
+    lemma: מִשְׁכָּב
+    gloss: a bed (figuratively {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: H4578
-    proximity: 0.8198
+    lemma: מֵעֶה
+    gloss: used only in plural the intestines {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
   - strongs: H7130
-    proximity: 0.8181
+    lemma: קֶרֶב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
   - strongs: H2570
-    proximity: 0.818
+    lemma: חֹמֶשׁ
+    gloss: the abdomen {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: H3770
-    proximity: 0.8148
+    lemma: כְּרֵשׂ
+    gloss: the paunch or belly {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: H8372
-    proximity: 0.8145
+    lemma: תָּא
+    gloss: a room {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
   - strongs: H3629
-    proximity: 0.8138
+    lemma: כִּלְיָה
+    gloss: a kidney {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
   - strongs: H5944
-    proximity: 0.8098
+    lemma: עֲלִיָּה
+    gloss: something lofty {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
   - strongs: H2910
-    proximity: 0.8056
+    lemma: טֻחָה
+    gloss: the kidneys {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H4296
-    proximity: 0.7951
+    lemma: מִטָּה
+    gloss: a bed  forsleeping or eating {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
   cross_language:
   - strongs: G508a
-    proximity: 0.8219
+    proximity: 0.8219 {macula-proximity}
     language: greek
   - strongs: G2082
-    proximity: 0.8162
+    lemma: ἐσώτερος
+    gloss: interior {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
     language: greek
   - strongs: G3612
-    proximity: 0.7972
+    lemma: οἴκημα
+    gloss: a tenement {openscriptures-strongs}
+    proximity: 0.7972 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

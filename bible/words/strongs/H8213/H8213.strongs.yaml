@@ -8,50 +8,76 @@ definition: to depress or sink (expectation figuratively, to humiliate, intransi
 kjv_usage: abase, bring (cast, put) down, debase, humble (self), be (bring, lay, make,
   put) low(-er).
 derivation: a primitive root;
-extended_definition:
-  gloss: to abase
-  definition: 1) to be or become low, sink, be humbled, be abased<br>1a) (Qal) to
-    be or become low<br>1b) (Hiphil)<br>1b1) to lay or bring low, humiliate<br>1b2)
-    to set in a lower place, show abasement<br>1b3) to make low, sit down
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be or become low, sink, be humbled, be abased
+
+  1a) (Qal) to be or become low
+
+  1b) (Hiphil)
+
+  1b1) to lay or bring low, humiliate
+
+  1b2) to set in a lower place, show abasement
+
+  1b3) to make low, sit down {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3766
-    proximity: 0.827
+    lemma: כָּרַע
+    gloss: to bend the knee {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H6038
-    proximity: 0.8265
+    lemma: עֲנָוָה
+    gloss: condescension {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H8481
-    proximity: 0.8206
+    lemma: תַּחְתּוֹן
+    gloss: bottommost {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: H7515
-    proximity: 0.8189
+    lemma: רָפַשׂ
+    gloss: to trample {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H5557
-    proximity: 0.8154
+    lemma: סָלַף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: H6795
-    proximity: 0.8153
+    lemma: צָנַח
+    gloss: to alight {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
   - strongs: H6915
-    proximity: 0.8147
+    lemma: קָדַד
+    gloss: to shrivel up {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: A5182
-    proximity: 0.8141
+    proximity: 0.8141 {macula-proximity}
   - strongs: H4048
-    proximity: 0.8117
+    lemma: מָגַר
+    gloss: to yield up {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
   - strongs: H5307
-    proximity: 0.8114
+    lemma: נָפַל
+    gloss: to fall {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
   cross_language:
   - strongs: G2737
-    proximity: 0.8249
+    lemma: κατώτερος
+    gloss: inferior (locally {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: greek
   - strongs: G1642
-    proximity: 0.8225
+    lemma: ἐλαττόω
+    gloss: to lessen {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
   - strongs: G3856
-    proximity: 0.8136
+    lemma: παραδειγματίζω
+    gloss: to show alongside {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
     language: greek
   - strongs: G5012
-    proximity: 0.813
+    lemma: ταπεινοφροσύνη
+    gloss: humiliation of mind {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

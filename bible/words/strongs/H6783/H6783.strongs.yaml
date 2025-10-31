@@ -7,49 +7,55 @@ definition: excision, i.e. destruction; used only (adverbially) with preposition
   prefix to extinction, i.e. perpetually
 kjv_usage: ever.
 derivation: or צְמִתֻת; from H6789 (צָמַת);
-extended_definition:
-  gloss: finality
-  definition: completion, finality, in perpetuity
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: completion, finality, in perpetuity {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5459
-    proximity: 0.8299
+    lemma: סְגֻלָּה
+    gloss: wealth {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
   - strongs: H1646
-    proximity: 0.8224
+    lemma: גְרֻשָׁה
+    gloss: dispossession {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
   - strongs: H272
-    proximity: 0.8177
+    proximity: 0.8177 {macula-proximity}
   - strongs: H3424
-    proximity: 0.8085
+    lemma: יְרֵשָׁה
+    gloss: occupancy {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
   - strongs: H4521
-    proximity: 0.8006
+    lemma: מְנָת
+    gloss: an allotment (by courtesy {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.799
+    proximity: 0.799 {macula-proximity}
   - strongs: A5491
-    proximity: 0.7847
+    proximity: 0.7847 {macula-proximity}
   - strongs: A5957
-    proximity: 0.7585
+    proximity: 0.7585 {macula-proximity}
   - strongs: H4180
-    proximity: 0.7569
+    lemma: מוֹרָשׁ
+    gloss: a possession {openscriptures-strongs}
+    proximity: 0.7569 {macula-proximity}
   cross_language:
   - strongs: G2820
-    proximity: 0.8128
+    lemma: κληρόω
+    gloss: to allot {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
     language: greek
   - strongs: G165
-    proximity: 0.7941
+    proximity: 0.7941 {macula-proximity}
     language: greek
   - strongs: G5223
-    proximity: 0.7887
+    lemma: ὕπαρξις
+    gloss: existency or proprietorship {openscriptures-strongs}
+    proximity: 0.7887 {macula-proximity}
     language: greek
   - strongs: G531
-    proximity: 0.7791
+    proximity: 0.7791 {macula-proximity}
     language: greek
   - strongs: G166
-    proximity: 0.7751
+    proximity: 0.7751 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

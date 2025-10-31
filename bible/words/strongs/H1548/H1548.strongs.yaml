@@ -7,51 +7,67 @@ definition: properly, to be bald, i.e. (causatively) to shave; figuratively to l
   waste
 kjv_usage: poll, shave (off).
 derivation: a primitive root;
-extended_definition:
-  gloss: to shave
-  definition: 1) to poll, shave, shave off, be bald<br>1a) (Piel)<br>1a1) to shave<br>1a2)
-    to shave off<br>1a3) (fig. of devastation)<br>1b)(Pual) to be shaven<br>1c) (Hithpael)
-    to shave oneself
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to poll, shave, shave off, be bald
+
+  1a) (Piel)
+
+  1a1) to shave
+
+  1a2) to shave off
+
+  1a3) (fig. of devastation)
+
+  1b)(Pual) to be shaven
+
+  1c) (Hithpael) to shave oneself {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1629
-    proximity: 0.828
+    lemma: גָּרַז
+    gloss: to cut off {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
   - strongs: H4448b
-    proximity: 0.8251
+    proximity: 0.8251 {macula-proximity}
   - strongs: H4135a
-    proximity: 0.8182
+    proximity: 0.8182 {macula-proximity}
   - strongs: H3697
-    proximity: 0.8121
+    lemma: כָּסַם
+    gloss: to shear {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H7096
-    proximity: 0.8058
+    lemma: קָצָה
+    gloss: to cut off {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: H3772
-    proximity: 0.7991
+    lemma: כָּרַת
+    gloss: to cut (off {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: H8185
-    proximity: 0.7935
+    lemma: שַׂעֲרָה
+    gloss: hairiness {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
   - strongs: H8456
-    proximity: 0.7903
+    lemma: תָּזַז
+    gloss: to lop off {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
   - strongs: H5596b
-    proximity: 0.7579
+    proximity: 0.7579 {macula-proximity}
   cross_language:
   - strongs: G609
-    proximity: 0.8237
+    proximity: 0.8237 {macula-proximity}
     language: greek
   - strongs: G631
-    proximity: 0.8234
+    proximity: 0.8234 {macula-proximity}
     language: greek
   - strongs: G555
-    proximity: 0.7989
+    proximity: 0.7989 {macula-proximity}
     language: greek
   - strongs: G2776
-    proximity: 0.7973
+    lemma: κεφαλή
+    gloss: the head {openscriptures-strongs}
+    proximity: 0.7973 {macula-proximity}
     language: greek
   - strongs: G851
-    proximity: 0.7791
+    proximity: 0.7791 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

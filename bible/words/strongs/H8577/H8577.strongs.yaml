@@ -9,26 +9,37 @@ derivation: or תַּנִּים; (Ezekiel 29:3), intensive from the same as H856
 related_words:
   synonyms:
   - strongs: H8314
-    proximity: 0.8183
+    lemma: שָׂרָף
+    gloss: burning {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: H6620
-    proximity: 0.8162
+    lemma: פֶּתֶן
+    gloss: an asp {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H3220
-    proximity: 0.7731
+    lemma: יָם
+    gloss: a sea  or large body of water {openscriptures-strongs}
+    proximity: 0.7731 {macula-proximity}
   - strongs: H3882
-    proximity: 0.7552
+    lemma: לִוְיָתָן
+    gloss: a wreathed animal {openscriptures-strongs}
+    proximity: 0.7552 {macula-proximity}
   - strongs: A3221
-    proximity: 0.7539
+    proximity: 0.7539 {macula-proximity}
   cross_language:
   - strongs: G2486
-    proximity: 0.7865
+    lemma: ἰχθύς
+    gloss: a fish {openscriptures-strongs}
+    proximity: 0.7865 {macula-proximity}
     language: greek
   - strongs: G2281
-    proximity: 0.7712
+    lemma: θάλασσα
+    gloss: the sea {openscriptures-strongs}
+    proximity: 0.7712 {macula-proximity}
     language: greek
   - strongs: G3789
-    proximity: 0.7547
+    lemma: ὄφις
+    gloss: a snake {openscriptures-strongs}
+    proximity: 0.7547 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

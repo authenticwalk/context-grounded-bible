@@ -12,33 +12,46 @@ derivation: a primitive root; to cover (with wings or obscurity); hence (as deno
 related_words:
   synonyms:
   - strongs: H5559a
-    proximity: 0.8265
+    proximity: 0.8265 {macula-proximity}
   - strongs: H3852
-    proximity: 0.8115
+    lemma: לֶהָבָה
+    gloss: '{a flash {openscriptures-strongs}'
+    proximity: 0.8115 {macula-proximity}
   - strongs: H3827
-    proximity: 0.8003
+    lemma: לַבָּה
+    gloss: flame {openscriptures-strongs}
+    proximity: 0.8003 {macula-proximity}
   - strongs: H3858
-    proximity: 0.7975
+    lemma: לַהַט
+    gloss: a blaze {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
   - strongs: H2070
-    proximity: 0.7934
+    lemma: זְבוּב
+    gloss: a fly {openscriptures-strongs}
+    proximity: 0.7934 {macula-proximity}
   - strongs: H3288a
-    proximity: 0.7923
+    proximity: 0.7923 {macula-proximity}
   - strongs: H7477
-    proximity: 0.7897
+    lemma: רָעַל
+    gloss: to reel {openscriptures-strongs}
+    proximity: 0.7897 {macula-proximity}
   - strongs: A7631
-    proximity: 0.7866
+    proximity: 0.7866 {macula-proximity}
   - strongs: H7363
-    proximity: 0.7846
+    lemma: רָחַף
+    gloss: to brood {openscriptures-strongs}
+    proximity: 0.7846 {macula-proximity}
   - strongs: H3288
-    proximity: 0.7135
+    lemma: יְעָף
+    gloss: fatigue (adverb {openscriptures-strongs}
+    proximity: 0.7135 {macula-proximity}
   cross_language:
   - strongs: G5395
-    proximity: 0.8173
+    lemma: φλόξ
+    gloss: a blaze {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
     language: greek
   - strongs: G956
-    proximity: 0.7207
+    proximity: 0.7207 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

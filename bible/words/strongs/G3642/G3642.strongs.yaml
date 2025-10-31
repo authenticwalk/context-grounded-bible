@@ -5,43 +5,50 @@ transliteration: oligópsychos
 definition: little-spirited, i.e. faint-hearted
 kjv_usage: feebleminded
 derivation: from G3641 (ὀλίγος) and G6590;
-extended_definition:
-  gloss: fainthearted
-  definition: '<b>ὀλιγόφυχος</b>, -ον<BR /> [in LXX: <ref=''Isa.35.4''>Isa.35:4</ref>
-    (מָהַר ni.), etc. ;] <BR /><b>faint-hearted</b>: <ref=''1Th.5.14.''>1Th.5:14.</ref>†<BR
-    /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὀλῐγόψῡχ-ος</b>, ον, <br /> <b>faint-hearted, feeble-minded,</b>[<a
-    href="javascript:void(0)" title="LXX.Isa.35.4, 54.6, NT.1Thes.5.14, 2nd c.AD:
-    Artemidorus Daldianus Onirocriticus 3.5. ">LXX+NT+2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ὀλιγόφυχος, -ον
+
+  [in LXX: Isa.35:4 (מָהַר ni.), etc. ;]
+
+  faint-hearted: 1Th.5:14.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὀλῐγόψῡχ-ος, ον,
+
+  faint-hearted, feeble-minded,[LXX+NT+2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1168
-    proximity: 0.7616
+    lemma: δειλιάω
+    gloss: to be timid {openscriptures-strongs}
+    proximity: 0.7616 {macula-proximity}
   - strongs: G1590
-    proximity: 0.7225
+    lemma: ἐκλύω
+    gloss: to relax {openscriptures-strongs}
+    proximity: 0.7225 {macula-proximity}
   cross_language:
   - strongs: H2865
-    proximity: 0.8262
+    lemma: חָתַת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
     language: hebrew
   - strongs: H3512
-    proximity: 0.8152
+    lemma: כָּאָה
+    gloss: to despond {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
     language: hebrew
   - strongs: H3820
-    proximity: 0.7749
+    lemma: לֵב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.7749 {macula-proximity}
     language: hebrew
   - strongs: H3824
-    proximity: 0.7676
+    lemma: לֵבָב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.7676 {macula-proximity}
     language: hebrew
   - strongs: H4816
-    proximity: 0.7569
+    lemma: מֹרֶךְ
+    gloss: softness {openscriptures-strongs}
+    proximity: 0.7569 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

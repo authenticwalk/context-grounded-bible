@@ -6,46 +6,59 @@ pronunciation: gaw-bawh'
 definition: lofty (literally or figuratively)
 kjv_usage: high, proud.
 derivation: from H1361 (גָּבַהּ);
-extended_definition:
-  gloss: high
-  definition: 1) high, proud<br>1a) high, lofty, tall<br>1b) exalted in station<br>1c)
-    haughty, proud
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) high, proud
+
+  1a) high, lofty, tall
+
+  1b) exalted in station
+
+  1c) haughty, proud {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1431
-    proximity: 0.8298
+    lemma: גָּדַל
+    gloss: to be  large (in various senses {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: H1984b
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
   - strongs: A5943
-    proximity: 0.8243
+    proximity: 0.8243 {macula-proximity}
   - strongs: H7315
-    proximity: 0.8242
+    lemma: רוֹם
+    gloss: elevation {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H6580
-    proximity: 0.824
+    lemma: פַּשׁ
+    gloss: stupidity {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: H1433
-    proximity: 0.8237
+    lemma: גֹּדֶל
+    gloss: magnitude {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: A5946
-    proximity: 0.8207
+    proximity: 0.8207 {macula-proximity}
   - strongs: H8524a
-    proximity: 0.815
+    proximity: 0.815 {macula-proximity}
   - strongs: H7419
-    proximity: 0.8139
+    lemma: רָמוּת
+    gloss: a heap {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H6075
-    proximity: 0.8137
+    lemma: עָפַל
+    gloss: to swell {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   cross_language:
   - strongs: G5448
-    proximity: 0.8228
+    lemma: φυσιόω
+    gloss: to inflate {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
     language: greek
   - strongs: G5310
-    proximity: 0.8163
+    lemma: ὕψιστος
+    gloss: highest {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
     language: greek
   - strongs: G2802a
-    proximity: 0.7997
+    proximity: 0.7997 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

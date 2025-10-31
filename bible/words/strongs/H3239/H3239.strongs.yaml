@@ -9,30 +9,39 @@ derivation: from H3240 (יָנַח); quiet;
 related_words:
   synonyms:
   - strongs: H3309a
-    proximity: 0.83
+    proximity: 0.83 {macula-proximity}
   - strongs: H281
-    proximity: 0.8283
+    proximity: 0.8283 {macula-proximity}
   - strongs: H2585
-    proximity: 0.8253
+    lemma: חֲנוֹךְ
+    gloss: Chanok {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
   - strongs: H2736
-    proximity: 0.823
+    lemma: חַרְהֲיָה
+    gloss: Charhajah {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: H2293
-    proximity: 0.8221
+    lemma: חַגִּיָּה
+    gloss: Chaggijah {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H2446
-    proximity: 0.8188
+    lemma: חֲכַלְיָה
+    gloss: Chakaljah {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
   - strongs: H3309
-    proximity: 0.8179
+    lemma: יָפִיעַ
+    gloss: Japhia {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
   - strongs: H2252
-    proximity: 0.8177
+    lemma: חֲבַיָּה
+    gloss: Chabajah {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
   - strongs: H2182a
-    proximity: 0.8087
+    proximity: 0.8087 {macula-proximity}
   - strongs: H274a
-    proximity: 0.8031
+    proximity: 0.8031 {macula-proximity}
   cross_language:
   - strongs: G7
-    proximity: 0.8228
+    proximity: 0.8228 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

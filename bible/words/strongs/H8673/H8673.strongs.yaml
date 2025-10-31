@@ -6,43 +6,49 @@ pronunciation: tish-eem'
 definition: ninety
 kjv_usage: ninety.
 derivation: multiple from H8672 (תֵּשַׁע);
-extended_definition:
-  gloss: ninety
-  definition: ninety
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: ninety {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6235
-    proximity: 0.8212
+    lemma: עֶשֶׂר
+    gloss: ten {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   - strongs: A8361
-    proximity: 0.8203
+    proximity: 0.8203 {macula-proximity}
   - strongs: A3969
-    proximity: 0.8111
+    proximity: 0.8111 {macula-proximity}
   - strongs: H7651
-    proximity: 0.8048
+    lemma: שֶׁבַע
+    gloss: seven {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
   - strongs: A6243
-    proximity: 0.8044
+    proximity: 0.8044 {macula-proximity}
   - strongs: H702
-    proximity: 0.8039
+    proximity: 0.8039 {macula-proximity}
   cross_language:
   - strongs: G3638
-    proximity: 0.8208
+    lemma: ὀκτώ
+    gloss: '"eight" {openscriptures-strongs}'
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G1178
-    proximity: 0.8154
+    lemma: δεκαπέντε
+    gloss: ten and five {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
     language: greek
   - strongs: G5144
-    proximity: 0.8112
+    lemma: τριάκοντα
+    gloss: thirty {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
     language: greek
   - strongs: G5071
-    proximity: 0.8108
+    lemma: τετρακόσιοι
+    gloss: four hundred {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
     language: greek
   - strongs: G5505
-    proximity: 0.8075
+    lemma: χιλιάς
+    gloss: one thousand {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

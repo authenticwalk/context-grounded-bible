@@ -6,39 +6,45 @@ pronunciation: khaw-lee'-law
 definition: literal fora profaned thing; used (interj.) far be it!
 kjv_usage: be far, ([idiom] God) forbid.
 derivation: or חָלִלָה; a directive from H2490 (חָלַל);
-extended_definition:
-  gloss: forbid
-  definition: far be it (from me), God forbid that, let it not be
-  morphology: H:Intj
-  source: STEPBible/BDB
+extended_definition: far be it (from me), God forbid that, let it not be {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H194
-    proximity: 0.81
+    proximity: 0.81 {macula-proximity}
   - strongs: H1107
-    proximity: 0.8017
+    lemma: בִּלְעֲדֵי
+    gloss: except {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
   - strongs: H6461
-    proximity: 0.7967
+    lemma: פָּסַס
+    gloss: probably to disperse {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
   - strongs: H518
-    proximity: 0.7857
+    proximity: 0.7857 {macula-proximity}
   cross_language:
   - strongs: G2527
-    proximity: 0.8202
+    lemma: καθόλου
+    gloss: on the whole {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
     language: greek
   - strongs: G2252
-    proximity: 0.8159
+    lemma: ἤμην
+    gloss: I was {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
     language: greek
   - strongs: G3368
-    proximity: 0.8148
+    lemma: μηδέποτε
+    gloss: not even ever {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
     language: greek
   - strongs: G4455
-    proximity: 0.8128
+    lemma: πώποτε
+    gloss: at any time {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
     language: greek
   - strongs: G1510
-    proximity: 0.8088
+    lemma: εἰμί
+    gloss: I exist {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

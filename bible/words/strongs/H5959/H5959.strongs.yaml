@@ -6,49 +6,68 @@ pronunciation: al-maw'
 definition: a lass (as veiled or private)
 kjv_usage: damsel, maid, virgin.
 derivation: feminine of H5958 (עֶלֶם);
-extended_definition:
-  gloss: maiden
-  definition: 1) virgin, young woman<br>1a) of marriageable age<br>1b) maid or newly
-    married
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) virgin, young woman
+
+  1a) of marriageable age
+
+  1b) maid or newly married {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5958
-    proximity: 0.8296
+    lemma: עֶלֶם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H8198
-    proximity: 0.8227
+    lemma: שִׁפְחָה
+    gloss: a female slave {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H970
-    proximity: 0.8226
+    proximity: 0.8226 {macula-proximity}
   - strongs: H1121
-    proximity: 0.8213
+    lemma: בֵּן
+    gloss: a son {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
   - strongs: H2145
-    proximity: 0.8068
+    lemma: זָכָר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
   - strongs: H1331
-    proximity: 0.8049
+    lemma: בְּתוּלִים
+    gloss: virginity {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H5768
-    proximity: 0.8046
+    lemma: עוֹלֵל
+    gloss: a suckling {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
   - strongs: H5288
-    proximity: 0.7999
+    lemma: נַעַר
+    gloss: a boy {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
   - strongs: H6996a
-    proximity: 0.7988
+    proximity: 0.7988 {macula-proximity}
   - strongs: H2945
-    proximity: 0.7831
+    lemma: טַף
+    gloss: a family {openscriptures-strongs}
+    proximity: 0.7831 {macula-proximity}
   cross_language:
   - strongs: G3816
-    proximity: 0.8175
+    lemma: παῖς
+    gloss: a boy {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: greek
   - strongs: G1134
-    proximity: 0.8101
+    lemma: γυναικεῖος
+    gloss: feminine {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
     language: greek
   - strongs: G3814
-    proximity: 0.8098
+    lemma: παιδίσκη
+    gloss: a girl {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
     language: greek
   - strongs: G2338
-    proximity: 0.7886
+    lemma: θῆλυς
+    gloss: female {openscriptures-strongs}
+    proximity: 0.7886 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,40 +6,45 @@ pronunciation: raw-af'
 definition: to drip
 kjv_usage: distil, drop (down).
 derivation: a primitive root;
-extended_definition:
-  gloss: to drip
-  definition: 1) to trickle, drip<br>1a) (Qal) to trickle, drip<br>1b) (Hiphil) to
-    trickle
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to trickle, drip
+
+  1a) (Qal) to trickle, drip
+
+  1b) (Hiphil) to trickle {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3381
-    proximity: 0.8097
+    lemma: יָרַד
+    gloss: to descend (literally {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: A5308
-    proximity: 0.7876
+    proximity: 0.7876 {macula-proximity}
   - strongs: H2229a
-    proximity: 0.7774
+    proximity: 0.7774 {macula-proximity}
   - strongs: H5198a
-    proximity: 0.7694
+    proximity: 0.7694 {macula-proximity}
   - strongs: H3384a
-    proximity: 0.7675
+    proximity: 0.7675 {macula-proximity}
   - strongs: A5182
-    proximity: 0.7658
+    proximity: 0.7658 {macula-proximity}
   - strongs: H4305
-    proximity: 0.702
+    lemma: מָטַר
+    gloss: to rain {openscriptures-strongs}
+    proximity: 0.702 {macula-proximity}
   cross_language:
   - strongs: G1026
-    proximity: 0.7834
+    lemma: βρέχω
+    gloss: to moisten {openscriptures-strongs}
+    proximity: 0.7834 {macula-proximity}
     language: greek
   - strongs: G2597
-    proximity: 0.7748
+    lemma: καταβαίνω
+    gloss: to descend {openscriptures-strongs}
+    proximity: 0.7748 {macula-proximity}
     language: greek
   - strongs: G2361
-    proximity: 0.7103
+    lemma: θρόμβος
+    gloss: a clot {openscriptures-strongs}
+    proximity: 0.7103 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -8,47 +8,67 @@ definition: evil (as destructive), literally (ruin) or morally (especially guile
   also adverbially, in vain)
 kjv_usage: false(-ly), lie, lying, vain, vanity.
 derivation: or שַׁו; from the same as H7722 (שׁוֹא) in the sense of desolating;
-extended_definition:
-  gloss: 'vanity: vain'
-  definition: ': vain/empty/worthless<br>1) emptiness, vanity, falsehood<br>1a) emptiness,
-    nothingness, vanity<br>1b) emptiness of speech, lying<br>1c) worthlessness (of
-    conduct)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': vain/empty/worthless
+
+  1) emptiness, vanity, falsehood
+
+  1a) emptiness, nothingness, vanity
+
+  1b) emptiness of speech, lying
+
+  1c) worthlessness (of conduct) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8399
-    proximity: 0.8242
+    lemma: תַּבְלִית
+    gloss: consumption {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H7650
-    proximity: 0.8231
+    lemma: שָׁבַע
+    gloss: to seven oneself {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H1891
-    proximity: 0.8199
+    lemma: הָבַל
+    gloss: to be vain in act {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H2600
-    proximity: 0.8163
+    lemma: חִנָּם
+    gloss: gratis {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
   - strongs: H6459
-    proximity: 0.8063
+    lemma: פֶּסֶל
+    gloss: an idol {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
   - strongs: H4123
-    proximity: 0.8029
+    lemma: מַהֲתַלָּה
+    gloss: a delusion {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
   - strongs: H3445
-    proximity: 0.7932
+    lemma: יֶשַׁח
+    gloss: hunger {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
   - strongs: H922
-    proximity: 0.7925
+    proximity: 0.7925 {macula-proximity}
   - strongs: H3585
-    proximity: 0.7892
+    lemma: כַּחַשׁ
+    gloss: literally a failure of flesh {openscriptures-strongs}
+    proximity: 0.7892 {macula-proximity}
   - strongs: H7386
-    proximity: 0.7888
+    lemma: רֵיק
+    gloss: empty {openscriptures-strongs}
+    proximity: 0.7888 {macula-proximity}
   cross_language:
   - strongs: G2761
-    proximity: 0.8029
+    lemma: κενῶς
+    gloss: vainly {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
     language: greek
   - strongs: G1500
-    proximity: 0.7753
+    lemma: εἰκῆ
+    gloss: idly {openscriptures-strongs}
+    proximity: 0.7753 {macula-proximity}
     language: greek
   - strongs: G893
-    proximity: 0.7667
+    proximity: 0.7667 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

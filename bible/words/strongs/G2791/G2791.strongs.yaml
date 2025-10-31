@@ -5,42 +5,44 @@ transliteration: Kilikía
 definition: Cilicia, a region of Asia Minor
 kjv_usage: Cilicia
 derivation: probably of foreign origin;
-extended_definition:
-  gloss: Cilicia
-  definition: '<b>Κιλικία</b>, -ας, ἡ <BR /> <b>Cilicia, a province of Asia Minor</b>:
-    <ref=''Act.6.9; 15.23, 41; 21.39; 22.3; 23.34; 27.5''>Act.6:9 15:23, 41 21:39
-    22:3 23:34 27:5</ref>, <ref=''Gal.1.21''>Gal.1:21</ref>.†<BR /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Κιλικία</b>, -ας, ἡ <BR /> <b>Cilicia, a province of Asia Minor</b>:
-    <ref=''Act.6.9; 15.23, 41; 21.39; 22.3; 23.34; 27.5''>Act.6:9 15:23, 41 21:39
-    22:3 23:34 27:5</ref>, <ref=''Gal.1.21''>Gal.1:21</ref>.†<BR />  (From Abbott-Smith.
-    LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Κιλικία, -ας, ἡ
+
+  Cilicia, a province of Asia Minor: Act.6:9 15:23, 41 21:39 22:3 23:34 27:5, Gal.1:21.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Κιλικία, -ας, ἡ
+
+  Cilicia, a province of Asia Minor: Act.6:9 15:23, 41 21:39 22:3 23:34 27:5, Gal.1:21.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3073
-    proximity: 0.8086
+    lemma: Λυκία
+    gloss: Lycia {openscriptures-strongs}
+    proximity: 0.8086 {macula-proximity}
   cross_language:
   - strongs: H3798
-    proximity: 0.8274
+    lemma: כִּתְלִישׁ
+    gloss: Kithlish {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
     language: hebrew
   - strongs: H7042
-    proximity: 0.8267
+    lemma: קְלִיטָא
+    gloss: Kelita {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
     language: hebrew
   - strongs: H1533
-    proximity: 0.8243
+    lemma: גִּלְבֹּעַ
+    gloss: Gilboa {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: hebrew
   - strongs: H1582
-    proximity: 0.8199
+    lemma: גְּמַלִּי
+    gloss: Gemalli {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
     language: hebrew
   - strongs: H452
-    proximity: 0.8175
+    proximity: 0.8175 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

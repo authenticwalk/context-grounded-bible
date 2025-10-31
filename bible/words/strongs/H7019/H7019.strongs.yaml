@@ -7,50 +7,69 @@ definition: harvest (as the crop), whether the product (grain or fruit) or the (
   season
 kjv_usage: summer (fruit, house).
 derivation: from H6972 (קוּץ);
-extended_definition:
-  gloss: summer
-  definition: '1) summer, summer-fruit<br>1a) summer<br>1b) summer-fruit<BR>Aramaic
-    equivalent: <i>qa.yit</i> (קַ֫יִט "summer" H7007)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) summer, summer-fruit
+
+  1a) summer
+
+  1b) summer-fruit
+
+  Aramaic equivalent: qa.yit (קַ֫יִט "summer" H7007) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6291
-    proximity: 0.8298
+    lemma: פַּג
+    gloss: crude {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: H4395
-    proximity: 0.8281
+    lemma: מְלֵאָה
+    gloss: something fulfilled {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H7105
-    proximity: 0.817
+    lemma: קָצִיר
+    gloss: severed {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: H625
-    proximity: 0.8136
+    proximity: 0.8136 {macula-proximity}
   - strongs: H1063
-    proximity: 0.8046
+    lemma: בִּכּוּרָה
+    gloss: the early fig {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
   - strongs: H2981
-    proximity: 0.7948
+    lemma: יְבוּל
+    gloss: produce {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
   - strongs: H5108
-    proximity: 0.7904
+    lemma: נוֹב
+    gloss: produce {openscriptures-strongs}
+    proximity: 0.7904 {macula-proximity}
   - strongs: H2779
-    proximity: 0.7641
+    lemma: חֹרֶף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7641 {macula-proximity}
   - strongs: H8393
-    proximity: 0.7308
+    lemma: תְּבוּאָה
+    gloss: income {openscriptures-strongs}
+    proximity: 0.7308 {macula-proximity}
   cross_language:
   - strongs: G175
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G2326
-    proximity: 0.8255
+    lemma: θερισμός
+    gloss: reaping {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
     language: greek
   - strongs: G2592
-    proximity: 0.7668
+    lemma: καρποφορέω
+    gloss: to be fertile {openscriptures-strongs}
+    proximity: 0.7668 {macula-proximity}
     language: greek
   - strongs: G536
-    proximity: 0.7523
+    proximity: 0.7523 {macula-proximity}
     language: greek
   - strongs: G1009
-    proximity: 0.7307
+    lemma: βότρυς
+    gloss: a bunch {openscriptures-strongs}
+    proximity: 0.7307 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

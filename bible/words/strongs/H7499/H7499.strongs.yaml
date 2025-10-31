@@ -6,23 +6,17 @@ pronunciation: ref-oo-aw'
 definition: a medicament
 kjv_usage: heal(-ed), medicine.
 derivation: feminine passive participle of H7495 (רָפָא);
-extended_definition:
-  gloss: remedy
-  definition: remedy, medicine
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: remedy, medicine {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H605a
-    proximity: 0.803
+    proximity: 0.803 {macula-proximity}
   - strongs: H724
-    proximity: 0.7918
+    proximity: 0.7918 {macula-proximity}
   cross_language:
   - strongs: G2386
-    proximity: 0.7086
+    lemma: ἴαμα
+    gloss: a cure {openscriptures-strongs}
+    proximity: 0.7086 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -10,27 +10,36 @@ derivation: from H1802 (דָּלָה);
 related_words:
   synonyms:
   - strongs: H707
-    proximity: 0.8155
+    proximity: 0.8155 {macula-proximity}
   - strongs: H4748
-    proximity: 0.8142
+    lemma: מִקְשֶׁה
+    gloss: something turned {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: H6734
-    proximity: 0.7389
+    lemma: צִיצִת
+    gloss: a floral or wing-like projection {openscriptures-strongs}
+    proximity: 0.7389 {macula-proximity}
   - strongs: H708
-    proximity: 0.7164
+    proximity: 0.7164 {macula-proximity}
   cross_language:
   - strongs: G5155
-    proximity: 0.8268
+    lemma: τρίχινος
+    gloss: hairy {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: greek
   - strongs: G4117
-    proximity: 0.8253
+    lemma: πλέγμα
+    gloss: a plait {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
     language: greek
   - strongs: G2751
-    proximity: 0.8099
+    lemma: κείρω
+    gloss: to shear {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
     language: greek
   - strongs: G2863
-    proximity: 0.7761
+    lemma: κομάω
+    gloss: to wear tresses of hair {openscriptures-strongs}
+    proximity: 0.7761 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

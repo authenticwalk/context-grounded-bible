@@ -6,43 +6,56 @@ pronunciation: neh-hee'
 definition: an elegy
 kjv_usage: lamentation, wailing.
 derivation: from H5091 (נָהָה);
-extended_definition:
-  gloss: wailing
-  definition: 1) wailing, lamentation, mourning song<br>1a) wailing<br>1b) mourning
-    song
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) wailing, lamentation, mourning song
+
+  1a) wailing
+
+  1b) mourning song {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H603
-    proximity: 0.8279
+    proximity: 0.8279 {macula-proximity}
   - strongs: H6963
-    proximity: 0.8253
+    lemma: קוֹל
+    gloss: a voice or sound {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
   - strongs: H56a
-    proximity: 0.8201
+    proximity: 0.8201 {macula-proximity}
   - strongs: H8563
-    proximity: 0.8166
+    lemma: תַּמְרוּר
+    gloss: bitterness {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
   - strongs: H6937
-    proximity: 0.816
+    lemma: קָדַר
+    gloss: to be ashy {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
   - strongs: H6476
-    proximity: 0.807
+    lemma: פָּצַח
+    gloss: to break out {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
   - strongs: H7452
-    proximity: 0.783
+    lemma: רֵעַ
+    gloss: a crash {openscriptures-strongs}
+    proximity: 0.783 {macula-proximity}
   - strongs: H1058
-    proximity: 0.7812
+    lemma: בָּכָה
+    gloss: to weep {openscriptures-strongs}
+    proximity: 0.7812 {macula-proximity}
   - strongs: H6873
-    proximity: 0.7791
+    lemma: צָרַח
+    gloss: to be clear (in tone {openscriptures-strongs}
+    proximity: 0.7791 {macula-proximity}
   - strongs: A7032
-    proximity: 0.7762
+    proximity: 0.7762 {macula-proximity}
   cross_language:
   - strongs: G3997
-    proximity: 0.7986
+    lemma: πένθος
+    gloss: grief {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
     language: greek
   - strongs: G3996
-    proximity: 0.7775
+    lemma: πενθέω
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.7775 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,38 +6,42 @@ pronunciation: kaw-lawl'
 definition: brightened (as if sharpened)
 kjv_usage: burnished, polished.
 derivation: from H7043 (קָלַל);
-extended_definition:
-  gloss: burnished
-  definition: burnished, polished
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: burnished, polished {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3842
-    proximity: 0.8278
+    lemma: לְבָנָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H5051
-    proximity: 0.7967
+    lemma: נֹגַהּ
+    gloss: brilliancy {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
   - strongs: H166
-    proximity: 0.7956
+    proximity: 0.7956 {macula-proximity}
   - strongs: A5094b
-    proximity: 0.7599
+    proximity: 0.7599 {macula-proximity}
   - strongs: H216
-    proximity: 0.7247
+    proximity: 0.7247 {macula-proximity}
   cross_language:
   - strongs: G2017
-    proximity: 0.8278
+    lemma: ἐπιφαύω
+    gloss: to illuminate {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G2986
-    proximity: 0.7455
+    lemma: λαμπρός
+    gloss: radiant {openscriptures-strongs}
+    proximity: 0.7455 {macula-proximity}
     language: greek
   - strongs: G2987
-    proximity: 0.7444
+    lemma: λαμπρότης
+    gloss: brilliancy {openscriptures-strongs}
+    proximity: 0.7444 {macula-proximity}
     language: greek
   - strongs: G5474
-    proximity: 0.7005
+    lemma: χαλκολίβανον
+    gloss: burnished copper {openscriptures-strongs}
+    proximity: 0.7005 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

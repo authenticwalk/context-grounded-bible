@@ -5,53 +5,59 @@ transliteration: kakouchéō
 definition: to maltreat
 kjv_usage: which suffer adversity, torment
 derivation: from a presumed compound of G2556 (κακός) and G2192 (ἔχω);
-extended_definition:
-  gloss: to torment
-  definition: '<b>κακουχέω</b>, -ῶ<BR /> (κακόν, ἔχω), [in LXX: <ref=''3Ki.2.26 11:39''>3Ki.2:26
-    11:39</ref> (עָנָה pi., hith.)* ;] <BR /><b>to ill-treat, hurt, torment</b>: pass.
-    ptcp., <ref=''Heb.11.37; 13.3''>Heb.11:37 13:3</ref>.†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κᾰκουχ-έω</b>, <br /> (ἔχω) <b>wrong, injure</b>, αὑτόν Telesp.34H.;
-    <b>maltreat</b>, especially a wife, Mitteis[<a href="javascript:void(0)" title="
-    “Chr.” 284.6 (2nd c.BC), “POxy.” 281.17 (1st c.AD)">Refs 2nd c.BC+</a>], etc.:—
-    <i>passive</i>, <b>to be afflicted</b> or <b>injured</b>, [<a href="javascript:void(0)"
-    title=" LXX.3Ki.2.26; ὑπὸ τοῦ δηγμοῦ 1st c.BC: Diodorus Siculus Historicus 3.23;
-    κακουχουμένους τελευτῆσαι τὸν βίον 1st-2nd c.AD: Plutarchus Biographus et Philosophus
-    2.114e. ">LXX+1st c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κακουχέω, -ῶ
+
+  (κακόν, ἔχω), [in LXX: 3Ki.2:26 11:39 (עָנָה pi., hith.)* ;]
+
+  to ill-treat, hurt, torment: pass. ptcp., Heb.11:37 13:3.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κᾰκουχ-έω,
+
+  (ἔχω) wrong, injure, αὑτόν Telesp.34H.; maltreat, especially a wife, Mitteis[Refs
+  2nd c.BC+], etc.:— passive, to be afflicted or injured, [LXX+1st c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A6033
-    proximity: 0.8293
+    proximity: 0.8293 {macula-proximity}
   - strongs: G857
-    proximity: 0.8206
+    proximity: 0.8206 {macula-proximity}
   - strongs: G1908
-    proximity: 0.8083
+    lemma: ἐπηρεάζω
+    gloss: to insult {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
   - strongs: G5195
-    proximity: 0.7907
+    lemma: ὑβρίζω
+    gloss: to exercise violence {openscriptures-strongs}
+    proximity: 0.7907 {macula-proximity}
   - strongs: G3958
-    proximity: 0.7329
+    lemma: πάσχω
+    gloss: to experience a sensation or impression {openscriptures-strongs}
+    proximity: 0.7329 {macula-proximity}
   cross_language:
   - strongs: H6531
-    proximity: 0.8218
+    lemma: פֶּרֶךְ
+    gloss: fracture {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
     language: hebrew
   - strongs: H3238
-    proximity: 0.8184
+    lemma: יָנָה
+    gloss: to rage or be violent {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
     language: hebrew
   - strongs: H1766
-    proximity: 0.8161
+    lemma: דָּחַק
+    gloss: to press {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
     language: hebrew
   - strongs: H6231
-    proximity: 0.8148
+    lemma: עָשַׁק
+    gloss: to press upon {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
     language: hebrew
   - strongs: H5450
-    proximity: 0.8139
+    lemma: סְבָלָה
+    gloss: porterage {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

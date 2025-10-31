@@ -5,64 +5,78 @@ transliteration: dialaléō
 definition: to talk throughout a company, i.e. converse or (genitive case) publish
 kjv_usage: commune, noise abroad
 derivation: from G1223 (διά) and G2980 (λαλέω);
-extended_definition:
-  gloss: to discuss
-  definition: '<b>δια-λαλέω</b>, -ῶ <BR /> [in Sm.: <ref=''Psa.51.16''>Ps 50(51):16</ref>,
-    and al. ;] <BR />__1. <b>to talk with</b>: πρός, <ref=''Luk.6.11.''>Luk.6:11.</ref>
-    <BR /> __2. <b>to talk over</b>: pass., <ref=''Luk.1.65.''>Luk.1:65.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> διαλᾰλ-έω</b>, <br /> <b>talk with,</b> τινὶ περί τινος [<a
-    href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 1.85.2, compare
-    “POxy.” 1417.24 (4th c.AD)">Refs 2nd c.BC+</a>]; ἐν ἑαυτοῖς ὑπέρ τινος [<a href="javascript:void(0)"
-    title=" 2nd c.BC: Polybius Historicus 9.32.1; κατὰ συμμορίας 1st c.BC: Dionysius
-    Halicarnassensis 6.57; πρὸς ἀλλήλους τί ἂν ποιήσειαν NT.Luke.6.11; αὐτὴν ἐν αὑτῇ
-    δ. 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.141d. ">NT+2nd c.BC+</a>]<br
-    /><Level2><b>__II</b></Level2> δ. τινί τι <b>talk over</b> a thing <b>with</b>
-    another, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Cyclops”
-    175 ">Refs 5th c.BC+</a>]:—<i>passive</i>, <b>to be much talked of,</b> [<a href="javascript:void(0)"
-    title="NT.Luke.1.65. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δια-λαλέω, -ῶ
+
+  [in Sm.: Ps 50(51):16, and al. ;]
+
+  __1. to talk with: πρός, Luk.6:11.
+
+  __2. to talk over: pass., Luk.1:65.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'διαλᾰλ-έω,
+
+  talk with, τινὶ περί τινος [Refs 2nd c.BC+]; ἐν ἑαυτοῖς ὑπέρ τινος [NT+2nd c.BC+]
+
+  __II δ. τινί τι talk over a thing with another, [Refs 5th c.BC+]:—passive, to be
+  much talked of, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4012
-    proximity: 0.829
+    lemma: περί
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: G1256
-    proximity: 0.8232
+    lemma: διαλέγομαι
+    gloss: to say thoroughly {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: G4820
-    proximity: 0.8215
+    lemma: συμβάλλω
+    gloss: to combine {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: G4934
-    proximity: 0.8163
+    lemma: συντίθεμαι
+    gloss: to place jointly {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
   - strongs: G2980
-    proximity: 0.807
+    lemma: λαλέω
+    gloss: to talk {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
   - strongs: G4323
-    proximity: 0.7996
+    lemma: προσανατίθημι
+    gloss: to lay up in addition {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
   - strongs: G4926
-    proximity: 0.7889
+    lemma: συνομιλέω
+    gloss: to converse mutually {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
   - strongs: G1310
-    proximity: 0.7886
+    lemma: διαφημίζω
+    gloss: to report thoroughly {openscriptures-strongs}
+    proximity: 0.7886 {macula-proximity}
   - strongs: G474
-    proximity: 0.786
+    proximity: 0.786 {macula-proximity}
   - strongs: G4354
-    proximity: 0.7737
+    lemma: προσλαλέω
+    gloss: to talk to {openscriptures-strongs}
+    proximity: 0.7737 {macula-proximity}
   cross_language:
   - strongs: H3289
-    proximity: 0.8203
+    lemma: יָעַץ
+    gloss: to advise {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
     language: hebrew
   - strongs: H1696
-    proximity: 0.8115
+    lemma: דָבַר
+    gloss: perhaps properly {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
     language: hebrew
   - strongs: H3245a
-    proximity: 0.8001
+    proximity: 0.8001 {macula-proximity}
     language: hebrew
   - strongs: H5608
-    proximity: 0.7892
+    lemma: סָפַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7892 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,21 +6,15 @@ pronunciation: roke
 definition: spittle
 kjv_usage: spit(-ting, -tle).
 derivation: from H7556 (רָקַק);
-extended_definition:
-  gloss: spittle
-  definition: spittle
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: spittle {STEPBible-TBESH}
 related_words:
   cross_language:
   - strongs: G875
-    proximity: 0.7811
+    proximity: 0.7811 {macula-proximity}
     language: greek
   - strongs: G1692
-    proximity: 0.7375
+    lemma: ἐμέω
+    gloss: to vomit {openscriptures-strongs}
+    proximity: 0.7375 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

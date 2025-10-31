@@ -6,24 +6,22 @@ pronunciation: tsaw-eef'
 definition: a veil
 kjv_usage: vail.
 derivation: from an unused root meaning to wrap over;
-extended_definition:
-  gloss: shawl
-  definition: wrapper, shawl, veil
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: wrapper, shawl, veil {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4044
-    proximity: 0.7389
+    lemma: מְגִנָּה
+    gloss: a covering {openscriptures-strongs}
+    proximity: 0.7389 {macula-proximity}
   cross_language:
   - strongs: G2572
-    proximity: 0.8161
+    lemma: καλύπτω
+    gloss: to cover up {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
     language: greek
   - strongs: G4612
-    proximity: 0.8153
+    lemma: σιμικίνθιον
+    gloss: a semicinctium or half-girding {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,23 +6,21 @@ pronunciation: mas-veh'
 definition: a veil
 kjv_usage: vail.
 derivation: apparently from an unused root meaning to cover;
-extended_definition:
-  gloss: veil
-  definition: veil
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: veil {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4539
-    proximity: 0.82
+    lemma: מָסָךְ
+    gloss: a cover {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
   - strongs: H4044
-    proximity: 0.7389
+    lemma: מְגִנָּה
+    gloss: a covering {openscriptures-strongs}
+    proximity: 0.7389 {macula-proximity}
   cross_language:
   - strongs: G2572
-    proximity: 0.8161
+    lemma: καλύπτω
+    gloss: to cover up {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

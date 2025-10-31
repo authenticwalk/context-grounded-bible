@@ -7,30 +7,37 @@ definition: Jishmajah, the name of two Israelites
 kjv_usage: Ishmaiah.
 derivation: or יִשְׁמַעְיָהוּlemma יְשְׁמַעְיָהוּ first vowel, corrected to יִשְׁמַעְיָהוּ;
   from H8085 (שָׁמַע) and H3050 (יָהּ); Jah will hear;
-extended_definition:
-  gloss: Ishmaiah
-  definition: 'A man living at the time of Divided Monarchy, only mentioned at 1Ch.27.19;
-    <br> son of: Obadiah (H5662M)<BR> § Ishmaiah = "Jehovah will hear"<br>1) a Gibeonite
-    and one of David''s mighty warriors<br>2) a son of Obadiah and the ruler of the
-    tribe of Zebulun in the time of king David'
-  morphology: N:N-M-P
-  source: STEPBible/BDB
+extended_definition: 'A man living at the time of Divided Monarchy, only mentioned
+  at 1Ch.27.19;
+
+  son of: Obadiah (H5662M)
+
+  § Ishmaiah = "Jehovah will hear"
+
+  1) a Gibeonite and one of David''s mighty warriors
+
+  2) a son of Obadiah and the ruler of the tribe of Zebulun in the time of king David
+  {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H847
-    proximity: 0.8271
+    proximity: 0.8271 {macula-proximity}
   - strongs: H8098
-    proximity: 0.8259
+    lemma: שְׁמַעְיָה
+    gloss: Shemajah {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: H385
-    proximity: 0.8204
+    proximity: 0.8204 {macula-proximity}
   - strongs: H3181
-    proximity: 0.817
+    lemma: יַחְמַי
+    gloss: Jachmai {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: H3459
-    proximity: 0.7878
+    lemma: יִשְׁמָעֵאלִי
+    gloss: a Jishmaelite or descendant of Jishmael {openscriptures-strongs}
+    proximity: 0.7878 {macula-proximity}
   - strongs: H3458
-    proximity: 0.7567
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: יִשְׁמָעֵאל
+    gloss: Jishmael {openscriptures-strongs}
+    proximity: 0.7567 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

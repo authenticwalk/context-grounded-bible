@@ -5,61 +5,66 @@ transliteration: prosdéomai
 definition: to require additionally, i.e. want further
 kjv_usage: need
 derivation: from G4314 (πρός) and G1189 (δέομαι);
-extended_definition:
-  gloss: to need
-  definition: '<b>προσ-δέομαι </b><BR /> [in LXX: <ref=''Pro.12.9''>Pro.12:9</ref>
-    חָסֵר חָסֵר <ref=''Sir.6.1-37''>Sir.6:1-37</ref> * ;] <BR /><b>to want further,
-    need in addition</b>: <ref=''Act.17.25.''>Act.17:25.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> προσδέω</b>, <br /> <br /><Level1><b>__A</b></Level1> <b>bind
-    on</b> or <b>to</b>, πρὸς ὕπερον τὸ ξύλον [<a href="javascript:void(0)" title="
-    5th c.BC: Hippocrates Medicus “περὶ ἀγμῶν” 13; αὐλίσκον πρὸς κύστιν [prev. author]
-    “Nat.Puer.” 17; χρυσαῖς σειραῖς τὸ τοῦ Ἀπόλλωνος ξόανον τῇ βάσει 1st c.BC: Diodorus
-    Siculus Historicus 17.41 ">Refs 5th c.BC+</a>]:—<i>middle</i>, σιδήριον ὀξὺ -δησάμενος
-    πρὸς τὸν δάκτυλον [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates
-    Medicus “περὶ νούσων” 2.28 ">Refs 5th c.BC+</a>]:—<i>passive</i>, ἥμισυ ἀσκοῦ
-    οἱ προσδέδεται [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus
-    6.119; κύνας προσδεδέσθαι νυκτερεύοντας 4th c.BC: Aeneas Tacticus 22.14: _metaphorically_,
-    ἡδονῇ π. 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 5.2.7. ">Refs 5th
-    c.BC+</a>]<br /><Level3><b>__A.2</b></Level3> with <i>accusative</i> only, <b>attach</b>,
-    τοὺς κάλους [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus
-    2.36; ἐπ᾽ ἄκρῳ μυρσίνην [prev. author] 4.195. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'προσ-δέομαι
+
+  [in LXX: Pro.12:9 חָסֵר חָסֵר Sir.6:1-37 * ;]
+
+  to want further, need in addition: Act.17:25.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'προσδέω,
+
+  __A bind on or to, πρὸς ὕπερον τὸ ξύλον [Refs 5th c.BC+]:—middle, σιδήριον ὀξὺ -δησάμενος
+  πρὸς τὸν δάκτυλον [Refs 5th c.BC+]:—passive, ἥμισυ ἀσκοῦ οἱ προσδέδεται [Refs 5th
+  c.BC+]
+
+  __A.2 with accusative only, attach, τοὺς κάλους [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5303
-    proximity: 0.8066
+    lemma: ὑστέρημα
+    gloss: a deficit {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
   - strongs: G3945
-    proximity: 0.8059
+    lemma: παρομοιάζω
+    gloss: to resemble {openscriptures-strongs}
+    proximity: 0.8059 {macula-proximity}
   - strongs: G2006
-    proximity: 0.7673
+    lemma: ἐπιτήδειος
+    gloss: serviceable {openscriptures-strongs}
+    proximity: 0.7673 {macula-proximity}
   - strongs: A2819
-    proximity: 0.7381
+    proximity: 0.7381 {macula-proximity}
   - strongs: G3007
-    proximity: 0.7352
+    lemma: λείπω
+    gloss: to leave {openscriptures-strongs}
+    proximity: 0.7352 {macula-proximity}
   - strongs: A2818a
-    proximity: 0.7039
+    proximity: 0.7039 {macula-proximity}
   cross_language:
   - strongs: H2638
-    proximity: 0.7936
+    lemma: חָסֵר
+    gloss: lacking {openscriptures-strongs}
+    proximity: 0.7936 {macula-proximity}
     language: hebrew
   - strongs: H7038
-    proximity: 0.762
+    lemma: קָלַט
+    gloss: to maim {openscriptures-strongs}
+    proximity: 0.762 {macula-proximity}
     language: hebrew
   - strongs: H2637
-    proximity: 0.7397
+    lemma: חָסֵר
+    gloss: to lack {openscriptures-strongs}
+    proximity: 0.7397 {macula-proximity}
     language: hebrew
   - strongs: H4270
-    proximity: 0.7317
+    lemma: מַחְסוֹר
+    gloss: deficiency {openscriptures-strongs}
+    proximity: 0.7317 {macula-proximity}
     language: hebrew
   - strongs: H2642
-    proximity: 0.7243
+    lemma: חֶסְרוֹן
+    gloss: deficiency {openscriptures-strongs}
+    proximity: 0.7243 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

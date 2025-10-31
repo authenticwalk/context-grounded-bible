@@ -6,45 +6,57 @@ pronunciation: khaw-bayth'
 definition: something fried, probably a griddle-cake
 kjv_usage: pan.
 derivation: from an unused root probably meaning to cook (compare H4227 (מַחֲבַת));
-extended_definition:
-  gloss: flatbread
-  definition: flat cakes, bread wafers
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: flat cakes, bread wafers {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H801
-    proximity: 0.8242
+    proximity: 0.8242 {macula-proximity}
   - strongs: H3561
-    proximity: 0.8222
+    lemma: כַּוָּן
+    gloss: something prepared {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H2077
-    proximity: 0.8071
+    lemma: זֶבַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
   - strongs: H2076
-    proximity: 0.8055
+    lemma: זָבַח
+    gloss: to slaughter an animal {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
   - strongs: H1890
-    proximity: 0.8042
+    lemma: הַבְהָב
+    gloss: gift {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: H3834
-    proximity: 0.7989
+    lemma: לָבִיבָה
+    gloss: a cake {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
   - strongs: H2751
-    proximity: 0.7798
+    lemma: חֹרִי
+    gloss: white bread {openscriptures-strongs}
+    proximity: 0.7798 {macula-proximity}
   - strongs: H6745
-    proximity: 0.7796
+    lemma: צֵלָחָה
+    gloss: something protracted or flattened out {openscriptures-strongs}
+    proximity: 0.7796 {macula-proximity}
   - strongs: H644
-    proximity: 0.7753
+    proximity: 0.7753 {macula-proximity}
   - strongs: H3899
-    proximity: 0.7695
+    lemma: לֶחֶם
+    gloss: food {openscriptures-strongs}
+    proximity: 0.7695 {macula-proximity}
   cross_language:
   - strongs: G4376
-    proximity: 0.7872
+    lemma: προσφορά
+    gloss: presentation {openscriptures-strongs}
+    proximity: 0.7872 {macula-proximity}
     language: greek
   - strongs: G1435
-    proximity: 0.784
+    lemma: δῶρον
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.784 {macula-proximity}
     language: greek
   - strongs: G740
-    proximity: 0.7423
+    proximity: 0.7423 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

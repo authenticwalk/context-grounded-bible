@@ -6,31 +6,35 @@ pronunciation: mik-reh'
 definition: a pit (for salt)
 kjv_usage: (salt-) pit.
 derivation: from H3738 (כָּרָה);
-extended_definition:
-  gloss: pit
-  definition: 1) pit, salt pit<br>1a) meaning uncertain
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) pit, salt pit
+
+  1a) meaning uncertain {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H875
-    proximity: 0.8255
+    proximity: 0.8255 {macula-proximity}
   - strongs: H2352
-    proximity: 0.816
+    lemma: חוּר
+    gloss: the crevice of a serpent {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
   - strongs: H7816
-    proximity: 0.7722
+    lemma: שְׁחוּת
+    gloss: pit {openscriptures-strongs}
+    proximity: 0.7722 {macula-proximity}
   - strongs: H953
-    proximity: 0.7598
+    proximity: 0.7598 {macula-proximity}
   - strongs: H7825
-    proximity: 0.7279
+    lemma: שְׁחִית
+    gloss: a pit-fall {openscriptures-strongs}
+    proximity: 0.7279 {macula-proximity}
   - strongs: H4417
-    proximity: 0.7105
+    lemma: מֶלַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7105 {macula-proximity}
   cross_language:
   - strongs: G5421
-    proximity: 0.7007
+    lemma: φρέαρ
+    gloss: a hole in the ground {openscriptures-strongs}
+    proximity: 0.7007 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

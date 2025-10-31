@@ -5,51 +5,62 @@ transliteration: koímēsis
 definition: sleeping, i.e. (by implication) repose
 kjv_usage: taking of rest
 derivation: from G2837 (κοιμάω);
-extended_definition:
-  gloss: sleep
-  definition: '<b>κοίμησις</b>, -εως, ἡ <BR /> [in LXX: <ref=''Sir.46.19; 48.13''>Sir.46:19
-    48:13</ref> * ;] <BR /><b>a reclining, resting</b>: <ref=''Jhn.11.13.''>Jhn.11:13.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κοίμ-ησις</b>, εως, ἡ, <br /> <b>lying down to sleep</b>, κοιμήσεις
-    ἐπὶ θύραις [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus
-    “Symposium” 183a; ἡ κ. τοῦ ὕπνου NT.John.11.13. ">NT+5th c.BC+</a>]<br /><Level2><b>__II</b></Level2>
-    the <b>sleep of death</b>, [<a href="javascript:void(0)" title=" LXX.Sir.46.19,
-    48.13, “Tab.Defix.Aud.” 242.30 (Carthage, 3rd c.AD). ">LXX+3rd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κοίμησις, -εως, ἡ
+
+  [in LXX: Sir.46:19 48:13 * ;]
+
+  a reclining, resting: Jhn.11:13.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κοίμ-ησις, εως, ἡ,
+
+  lying down to sleep, κοιμήσεις ἐπὶ θύραις [NT+5th c.BC+]
+
+  __II the sleep of death, [LXX+3rd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5591
-    proximity: 0.8292
+    lemma: ψυχικός
+    gloss: sensitive {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: G4875
-    proximity: 0.8272
+    lemma: συναναπαύομαι
+    gloss: to recruit oneself in company with {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: G2664
-    proximity: 0.815
+    lemma: καταπαύω
+    gloss: to settle down {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: G4520
-    proximity: 0.806
+    lemma: σαββατισμός
+    gloss: a "sabbatism" {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
   - strongs: G2837
-    proximity: 0.7641
+    lemma: κοιμάω
+    gloss: to put to sleep {openscriptures-strongs}
+    proximity: 0.7641 {macula-proximity}
   cross_language:
   - strongs: H7280
-    proximity: 0.8266
+    lemma: רָגַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
     language: hebrew
   - strongs: H7290
-    proximity: 0.8184
+    lemma: רָדַם
+    gloss: to stun {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
     language: hebrew
   - strongs: H5118
-    proximity: 0.815
+    lemma: נוּחַ
+    gloss: quiet {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
     language: hebrew
   - strongs: H8252
-    proximity: 0.8102
+    lemma: שָׁקַט
+    gloss: to repose {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
     language: hebrew
   - strongs: H5183a
-    proximity: 0.8047
+    proximity: 0.8047 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

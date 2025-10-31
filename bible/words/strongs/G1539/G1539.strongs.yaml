@@ -5,61 +5,73 @@ transliteration: hekástote
 definition: at every time
 kjv_usage: always
 derivation: as if from G1538 (ἕκαστος) and G5119 (τότε);
-extended_definition:
-  gloss: always
-  definition: '<b>ἑκάστοτε </b><BR /> <i>adv.</i>, <BR /><b>each time, always</b>:
-    <ref=''2Pe.1.15.''>2Pe.1:15.</ref>†<BR /> (AS)'
-  morphology: G:ADV
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἑκάστοτε</b>, <br /> <i>adverb</i> <b>each time, on each occasion,</b>
-    [<a href="javascript:void(0)" title=" 4th-5th c.BC: Parmenides Poeta Philosophus
-    16.1, 5th c.BC: Herodotus Historicus 1.90, 5th c.BC: Antipho Orator 6.13, 5th-6th
-    c.BC: Xenophon Historicus “Anabasis” 2.4.10, 5th-6th c.BC: Plato Philosophus “Respublica”
-    393b; ἀεὶ..ἑ. 5th-6th c.BC: Aristophanes Comicus “Nubes” 1280; ἑ. πολλάκις 5th-6th
-    c.BC: Plato Philosophus “Philebus” 58a ">Refs 5th c.BC+</a>]; ἵνα ἑ. wherever
-    <b>on each occasion,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus
-    Historicus 8.115. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἑκάστοτε
+
+  adv.,
+
+  each time, always: 2Pe.1:15.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἑκάστοτε,
+
+  adverb each time, on each occasion, [Refs 5th c.BC+]; ἵνα ἑ. wherever on each occasion,
+  [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2121
-    proximity: 0.8228
+    lemma: εὔκαιρος
+    gloss: well-timed {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
   - strongs: G3838
-    proximity: 0.8194
+    lemma: παντελής
+    gloss: full-ended {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: G5551
-    proximity: 0.8029
+    lemma: χρονοτριβέω
+    gloss: to be a time-wearer {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
   - strongs: G5610
-    proximity: 0.7991
+    lemma: ὥρα
+    gloss: an "hour" {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: G4181
-    proximity: 0.7955
+    lemma: πολυμερῶς
+    gloss: in many portions {openscriptures-strongs}
+    proximity: 0.7955 {macula-proximity}
   - strongs: G2122
-    proximity: 0.7911
+    lemma: εὐκαίρως
+    gloss: opportunely {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
   - strongs: G3956
-    proximity: 0.7798
+    lemma: πᾶς
+    gloss: all {openscriptures-strongs}
+    proximity: 0.7798 {macula-proximity}
   - strongs: G1223
-    proximity: 0.7797
+    lemma: διά
+    gloss: through (in very wide applications {openscriptures-strongs}
+    proximity: 0.7797 {macula-proximity}
   - strongs: G260
-    proximity: 0.7669
+    proximity: 0.7669 {macula-proximity}
   cross_language:
   - strongs: H5769
-    proximity: 0.7782
+    lemma: עוֹלָם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7782 {macula-proximity}
     language: hebrew
   - strongs: H2165
-    proximity: 0.7697
+    lemma: זְמָן
+    gloss: an appointed occasion {openscriptures-strongs}
+    proximity: 0.7697 {macula-proximity}
     language: hebrew
   - strongs: H3807a
-    proximity: 0.7676
+    proximity: 0.7676 {macula-proximity}
     language: hebrew
   - strongs: H1886a
-    proximity: 0.765
+    proximity: 0.765 {macula-proximity}
     language: hebrew
   - strongs: H6471
-    proximity: 0.7641
+    lemma: פַּעַם
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.7641 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

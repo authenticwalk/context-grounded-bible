@@ -6,45 +6,63 @@ pronunciation: meh-eel'
 definition: a robe (i.e. upper and outer garment)
 kjv_usage: cloke, coat, mantle, robe.
 derivation: from H4603 (מָעַל) in the sense of covering;
-extended_definition:
-  gloss: robe
-  definition: 1) robe<br>1a) a garment worn over a tunic by men of rank<br>1b) a long
-    garment worn by David's daughters<br>1c) a garment of the high priest<br>1d) (fig.)
-    of attributes
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) robe
+
+  1a) a garment worn over a tunic by men of rank
+
+  1b) a long garment worn by David''s daughters
+
+  1c) a garment of the high priest
+
+  1d) (fig.) of attributes {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4594
-    proximity: 0.8291
+    lemma: מַעֲטֶה
+    gloss: a vestment {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: H5466
-    proximity: 0.8167
+    lemma: סָדִין
+    gloss: a wrapper {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H4304
-    proximity: 0.7915
+    lemma: מִטְפַּחַת
+    gloss: a wide cloak {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
   - strongs: H4595
-    proximity: 0.7837
+    lemma: מַעֲטָפָה
+    gloss: a cloak {openscriptures-strongs}
+    proximity: 0.7837 {macula-proximity}
   - strongs: A6361
-    proximity: 0.765
+    proximity: 0.765 {macula-proximity}
   - strongs: H2684
-    proximity: 0.7614
+    lemma: חֹצֶן
+    gloss: '{the bosom } {openscriptures-strongs}'
+    proximity: 0.7614 {macula-proximity}
   - strongs: H4254
-    proximity: 0.7381
+    lemma: מַחֲלָצָה
+    gloss: a mantle {openscriptures-strongs}
+    proximity: 0.7381 {macula-proximity}
   - strongs: A3831
-    proximity: 0.7242
+    proximity: 0.7242 {macula-proximity}
   - strongs: H4403
-    proximity: 0.7027
+    lemma: מַלְבּוּשׁ
+    gloss: a garment {openscriptures-strongs}
+    proximity: 0.7027 {macula-proximity}
   cross_language:
   - strongs: G4016
-    proximity: 0.8256
+    lemma: περιβάλλω
+    gloss: to throw all around {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
     language: greek
   - strongs: G1742
-    proximity: 0.8197
+    lemma: ἔνδυμα
+    gloss: apparel {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
     language: greek
   - strongs: G1903
-    proximity: 0.7747
+    lemma: ἐπενδύτης
+    gloss: a wrapper {openscriptures-strongs}
+    proximity: 0.7747 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

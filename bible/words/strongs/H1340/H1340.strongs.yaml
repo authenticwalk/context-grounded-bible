@@ -7,52 +7,76 @@ definition: Bath-shua,
 kjv_usage: Bath-shua.
 derivation: from H1323 (בַּת) and H7771 (שׁוֹעַ); daughter of wealth;  the same as
   H1339 (בַּת־שֶׁבַע)
-extended_definition:
-  gloss: Bath-shua
-  definition: 'A woman living at the time of United Monarchy, first mentioned at 2Sa.11.3;
-    <br> daughter of: Eliam (H0463); married to David (H1732) and Uriah (H0223A);
-    <br> mother of: Shammua (H8051H), Shobab (H7727), Nathan (H5416) and Solomon (H8010);
-    also called Bath-shua at 1Ch.3.5; <BR>Another spelling of <i>bat-she.va</i> (בַּת־שֶׁ֫בַע
-    "Bathsheba" H1339) <BR> § Bath-shua = "daughter of wealth"<br>1) the wife of Uriah
-    whom David had murdered, having had adulterous relations with her; subsequently
-    wife of David and mother of Solomon, Shimea, Shobab, and Nathan (alternate spelling
-    to ''Bathsheba'')<br>2) wife of Judah<br>'
-  morphology: N:N-F-P
-  source: STEPBible/BDB
+extended_definition: 'A woman living at the time of United Monarchy, first mentioned
+  at 2Sa.11.3;
+
+  daughter of: Eliam (H0463); married to David (H1732) and Uriah (H0223A);
+
+  mother of: Shammua (H8051H), Shobab (H7727), Nathan (H5416) and Solomon (H8010);
+  also called Bath-shua at 1Ch.3.5;
+
+  Another spelling of bat-she.va (בַּת־שֶׁ֫בַע "Bathsheba" H1339)
+
+  § Bath-shua = "daughter of wealth"
+
+  1) the wife of Uriah whom David had murdered, having had adulterous relations with
+  her; subsequently wife of David and mother of Solomon, Shimea, Shobab, and Nathan
+  (alternate spelling to ''Bathsheba'')
+
+  2) wife of Judah {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7774
-    proximity: 0.8295
+    lemma: שׁוּעָא
+    gloss: Shua {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: A3443
-    proximity: 0.8233
+    proximity: 0.8233 {macula-proximity}
   - strongs: H3442a
-    proximity: 0.8233
+    proximity: 0.8233 {macula-proximity}
   - strongs: H3442
-    proximity: 0.8197
+    lemma: יֵשׁוּעַ
+    gloss: Jeshua {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
   - strongs: H7652
-    proximity: 0.815
+    lemma: שֶׁבַע
+    gloss: Sheba {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: H7747
-    proximity: 0.813
+    lemma: שׁוּחִי
+    gloss: a Shuchite or descendant of Shuach {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
   - strongs: H7614
-    proximity: 0.8104
+    lemma: שְׁבָא
+    gloss: Sheba {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
   - strongs: H7744
-    proximity: 0.8017
+    lemma: שׁוּחַ
+    gloss: Shuach {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
   - strongs: H7770
-    proximity: 0.7785
+    lemma: שׁוּעַ
+    gloss: Shua {openscriptures-strongs}
+    proximity: 0.7785 {macula-proximity}
   - strongs: H1323
-    proximity: 0.7665
+    lemma: בַּת
+    gloss: a daughter (used in the same wide sense as other terms of relationship
+      {openscriptures-strongs}
+    proximity: 0.7665 {macula-proximity}
   cross_language:
   - strongs: G5043
-    proximity: 0.8246
+    lemma: τέκνον
+    gloss: a child {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
     language: greek
   - strongs: G2365
-    proximity: 0.8002
+    lemma: θυγάτριον
+    gloss: a daughterling {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
     language: greek
   - strongs: G2364
-    proximity: 0.7022
+    lemma: θυγάτηρ
+    gloss: a female child {openscriptures-strongs}
+    proximity: 0.7022 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

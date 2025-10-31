@@ -6,33 +6,37 @@ pronunciation: maw-off'
 definition: darkness
 kjv_usage: dimness.
 derivation: from H5774 (עוּף) in the sense of covering with shade (compare H4155 (מוּעָף));
-extended_definition:
-  gloss: gloom
-  definition: gloom
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: gloom {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3650
-    proximity: 0.8015
+    lemma: כִּמְרִיר
+    gloss: obscuration (as if from shrinkage of light {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
   - strongs: A2816
-    proximity: 0.75
+    proximity: 0.75 {macula-proximity}
   - strongs: H2821
-    proximity: 0.7328
+    lemma: חָשַׁךְ
+    gloss: to be dark {openscriptures-strongs}
+    proximity: 0.7328 {macula-proximity}
   - strongs: H6757
-    proximity: 0.7175
+    lemma: צַלְמָוֶת
+    gloss: shade of death {openscriptures-strongs}
+    proximity: 0.7175 {macula-proximity}
   cross_language:
   - strongs: G4654
-    proximity: 0.7992
+    lemma: σκοτίζω
+    gloss: to obscure {openscriptures-strongs}
+    proximity: 0.7992 {macula-proximity}
     language: greek
   - strongs: G2726
-    proximity: 0.7269
+    lemma: κατήφεια
+    gloss: demureness {openscriptures-strongs}
+    proximity: 0.7269 {macula-proximity}
     language: greek
   - strongs: G4656
-    proximity: 0.7026
+    lemma: σκοτόω
+    gloss: to obscure or blind {openscriptures-strongs}
+    proximity: 0.7026 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

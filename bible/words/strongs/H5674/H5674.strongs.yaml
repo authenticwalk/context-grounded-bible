@@ -19,38 +19,55 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H1272
-    proximity: 0.8299
+    lemma: בָּרַח
+    gloss: to bolt {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
   - strongs: A2987
-    proximity: 0.8297
+    proximity: 0.8297 {macula-proximity}
   - strongs: H4109
-    proximity: 0.8294
+    lemma: מַהֲלָךְ
+    gloss: a walk {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: H1468
-    proximity: 0.8287
+    lemma: גּוּז
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H5647
-    proximity: 0.8282
+    lemma: עָבַד
+    gloss: to work {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H235
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
   - strongs: H6824
-    proximity: 0.8268
+    lemma: צָפָה
+    gloss: an inundation {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: H7760
-    proximity: 0.8267
+    lemma: שׂוּם
+    gloss: to put (used in a great variety of applications {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
   cross_language:
   - strongs: G1660
-    proximity: 0.8296
+    lemma: ἔλευσις
+    gloss: an advent {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G1762
-    proximity: 0.8293
+    lemma: ἔνι
+    gloss: impersonally {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G1309
-    proximity: 0.8292
+    lemma: διαφεύγω
+    gloss: to flee through {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
     language: greek
   - strongs: G634
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G3346
-    proximity: 0.8273
+    lemma: μετατίθημι
+    gloss: to transfer {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

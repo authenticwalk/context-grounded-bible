@@ -7,50 +7,75 @@ definition: properly, to flinch, i.e. (by implication) to go back, literally (to
   or figuratively (to apostatize)
 kjv_usage: backslider, drive, go back, turn (away, back).
 derivation: a primitive root;
-extended_definition:
-  gloss: to turn
-  definition: '1) to move, go, turn back, move away, backslide<br>1a) (Qal) to backslide,
-    prove recreant to<br>1b) (Niphal)<br>1b1) to turn oneself away, turn back<br>1b2)
-    to be turned or driven back, be repulsed<BR>Also means: <i>sug</i> (שׂוּג "to
-    turn back" H7734)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to move, go, turn back, move away, backslide
+
+  1a) (Qal) to backslide, prove recreant to
+
+  1b) (Niphal)
+
+  1b1) to turn oneself away, turn back
+
+  1b2) to be turned or driven back, be repulsed
+
+  Also means: sug (שׂוּג "to turn back" H7734) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2015
-    proximity: 0.7936
+    lemma: הָפַךְ
+    gloss: to turn about or over {openscriptures-strongs}
+    proximity: 0.7936 {macula-proximity}
   - strongs: H1460
-    proximity: 0.7878
+    lemma: גֵּו
+    gloss: the back {openscriptures-strongs}
+    proximity: 0.7878 {macula-proximity}
   - strongs: H6275
-    proximity: 0.7871
+    lemma: עָתַק
+    gloss: to remove  figuratively {openscriptures-strongs}
+    proximity: 0.7871 {macula-proximity}
   - strongs: H4131
-    proximity: 0.7831
+    lemma: מוֹט
+    gloss: to waver {openscriptures-strongs}
+    proximity: 0.7831 {macula-proximity}
   - strongs: H6203
-    proximity: 0.7806
+    lemma: עֹרֶף
+    gloss: the nape or back of the neck {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
   - strongs: H2114
-    proximity: 0.7776
+    lemma: זוּר
+    gloss: to turn aside {openscriptures-strongs}
+    proximity: 0.7776 {macula-proximity}
   - strongs: H7750
-    proximity: 0.7728
+    lemma: שׂוּט
+    gloss: to detrude {openscriptures-strongs}
+    proximity: 0.7728 {macula-proximity}
   - strongs: H7725
-    proximity: 0.7697
+    lemma: שׁוּב
+    gloss: to turn back (hence {openscriptures-strongs}
+    proximity: 0.7697 {macula-proximity}
   cross_language:
   - strongs: G1294
-    proximity: 0.7977
+    lemma: διαστρέφω
+    gloss: to distort {openscriptures-strongs}
+    proximity: 0.7977 {macula-proximity}
     language: greek
   - strongs: G1624
-    proximity: 0.7942
+    lemma: ἐκτρέπω
+    gloss: to deflect {openscriptures-strongs}
+    proximity: 0.7942 {macula-proximity}
     language: greek
   - strongs: G2795
-    proximity: 0.7922
+    lemma: κινέω
+    gloss: to stir {openscriptures-strongs}
+    proximity: 0.7922 {macula-proximity}
     language: greek
   - strongs: G3895
-    proximity: 0.7853
+    lemma: παραπίπτω
+    gloss: to fall aside {openscriptures-strongs}
+    proximity: 0.7853 {macula-proximity}
     language: greek
   - strongs: G1578
-    proximity: 0.766
+    lemma: ἐκκλίνω
+    gloss: to deviate {openscriptures-strongs}
+    proximity: 0.766 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

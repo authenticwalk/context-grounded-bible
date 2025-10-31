@@ -5,59 +5,63 @@ transliteration: themelióō
 definition: to lay a basis for, i.e. (literally) erect, or (figuratively) consolidate
 kjv_usage: (lay the) found(- ation), ground, settle
 derivation: from G2310 (θεμέλιος);
-extended_definition:
-  gloss: to found
-  definition: '<b>θεμελιόω</b>, -ῶ <BR /> [in LXX chiefly for יָסַד ;] <BR /><b>to
-    lay the foundation of, to found</b>: with accusative, τ. γῆν, <ref=''Heb.1.10''>Heb.1:10</ref>
-    (LXX); pass., <ref=''Mat.7.25''>Mat.7:25</ref>, <ref=''Luk.6.48''>Luk.6:48</ref>;
-    metaphorically, <ref=''1Pe.5.10''>1Pe.5:10</ref> (R, mg., settle); pass., <ref=''Eph.3.18''>Eph.3:18</ref>,
-    <ref=''Col.1.23''>Col.1:23</ref>.†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> θεμελῐ-όω</b>, <br /> <b>to lay the foundation of, found firmly</b>,
-    πύργους.. φοίνιξι θεμελιώσας [<a href="javascript:void(0)" title=" 5th-6th c.BC:
-    Xenophon Historicus “Institutio Cyri (Cyropaedia)” 7.5.11, compare “IG” 12(2).11.26
-    (Mytil.), LXX.Josh.6.25 (26), NT.Heb.1.10, etc.">NT+5th c.BC+</a>]:—<i>passive</i>,
-    <b>have the foundations laid,</b> [<a href="javascript:void(0)" title=" Inscriptiones
-    Graecae 22.1343.15 (1st c.BC)">Refs 1st c.BC+</a>]; ἐπὶ τὴν πέτραν [<a href="javascript:void(0)"
-    title=" NT.Matt.7.25: _metaphorically_, βασιλεία καλῶς θεμελιωθεῖσα 1st c.BC:
-    Diodorus Siculus Historicus 11.68; ἡγεμονία κάλλιστα τεθεμελιωμένη [prev. author]
-    15.1 ">NT+1st c.BC+</a>]; ἐν ἀγάπῃ τεθ. [<a href="javascript:void(0)" title="
-    NT.Eph.3.18; τῇ πίστει NT.Col.1.23. ">NT</a>]<br /><Level2><b>__II</b></Level2>
-    <b>destroy utterly</b>, in <i>passive</i>, -ωθέντα (θεμειλωθ- codex)· ἐκ ῥιζῶν
-    ἀρθέντα, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus
-    ">Refs 5th c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'θεμελιόω, -ῶ
+
+  [in LXX chiefly for יָסַד ;]
+
+  to lay the foundation of, to found: with accusative, τ. γῆν, Heb.1:10 (LXX); pass.,
+  Mat.7:25, Luk.6:48; metaphorically, 1Pe.5:10 (R, mg., settle); pass., Eph.3:18,
+  Col.1:23.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'θεμελῐ-όω,
+
+  to lay the foundation of, found firmly, πύργους.. φοίνιξι θεμελιώσας [NT+5th c.BC+]:—passive,
+  have the foundations laid, [Refs 1st c.BC+]; ἐπὶ τὴν πέτραν [NT+1st c.BC+]; ἐν ἀγάπῃ
+  τεθ. [NT]
+
+  __II destroy utterly, in passive, -ωθέντα (θεμειλωθ- codex)· ἐκ ῥιζῶν ἀρθέντα, [Refs
+  5th c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1476
-    proximity: 0.816
+    lemma: ἑδραῖος
+    gloss: sedentary {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
   - strongs: G2602
-    proximity: 0.8142
+    lemma: καταβολή
+    gloss: a deposition {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: G950
-    proximity: 0.8086
+    proximity: 0.8086 {macula-proximity}
   - strongs: G4741
-    proximity: 0.7948
+    lemma: στηρίζω
+    gloss: to set fast {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
   cross_language:
   - strongs: H4011
-    proximity: 0.823
+    lemma: מִבְנֶה
+    gloss: a building {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
     language: hebrew
   - strongs: H4349
-    proximity: 0.7973
+    lemma: מָכוֹן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7973 {macula-proximity}
     language: hebrew
   - strongs: H3559
-    proximity: 0.7893
+    lemma: כּוּן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7893 {macula-proximity}
     language: hebrew
   - strongs: H7095
-    proximity: 0.7829
+    lemma: קֶצֶב
+    gloss: shape {openscriptures-strongs}
+    proximity: 0.7829 {macula-proximity}
     language: hebrew
   - strongs: H3246
-    proximity: 0.782
+    lemma: יְסֻד
+    gloss: a foundation (figuratively {openscriptures-strongs}
+    proximity: 0.782 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

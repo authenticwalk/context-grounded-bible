@@ -6,42 +6,54 @@ pronunciation: hade
 definition: a shout
 kjv_usage: sounding again.
 derivation: for H1959 (הֵידָד);
-extended_definition:
-  gloss: shout
-  definition: a shout of joy, shout
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: a shout of joy, shout {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7452
-    proximity: 0.8237
+    lemma: רֵעַ
+    gloss: a crash {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: H6682
-    proximity: 0.8121
+    lemma: צְוָחָה
+    gloss: a screech {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H8055
-    proximity: 0.809
+    lemma: שָׂמַח
+    gloss: probably to brighten up {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
   - strongs: H7775
-    proximity: 0.8075
+    lemma: שַׁוְעָה
+    gloss: a hallooing {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
   - strongs: H4885
-    proximity: 0.8024
+    lemma: מָשׂוֹשׂ
+    gloss: delight {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: H2201
-    proximity: 0.8017
+    lemma: זַעַק
+    gloss: a shriek or outcry {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
   - strongs: H7442a
-    proximity: 0.8004
+    proximity: 0.8004 {macula-proximity}
   - strongs: H6476
-    proximity: 0.7994
+    lemma: פָּצַח
+    gloss: to break out {openscriptures-strongs}
+    proximity: 0.7994 {macula-proximity}
   - strongs: H1523
-    proximity: 0.7993
+    lemma: גִּיל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
   - strongs: H1998
-    proximity: 0.7924
+    lemma: הֶמְיָה
+    gloss: sound {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
   cross_language:
   - strongs: G20
-    proximity: 0.8171
+    proximity: 0.8171 {macula-proximity}
     language: greek
   - strongs: G2019
-    proximity: 0.8067
+    lemma: ἐπιφωνέω
+    gloss: to call at something {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,50 +5,62 @@ transliteration: theomáchos
 definition: an opponent of deity
 kjv_usage: to fight against God
 derivation: from G2316 (θεός) and G3164 (μάχομαι);
-extended_definition:
-  gloss: opposing God
-  definition: '<b>θεομάχος</b>, -ον <BR /> [in Sm.: <ref=''Job.26.5''>Job.26:5</ref>,
-    <ref=''Pro.9.18; 21.16''>Pro.9:18 21:16</ref> * ;] <BR /><b>fighting against God</b>:
-    <ref=''Act.5.39.''>Act.5:39.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> θεομά?~Xχ-ος</b>, ον, <br /> <b>fighting against God</b>, Γίγαντες
-    [<a href="javascript:void(0)" title=" 2nd c.BC: Scymnus Geographus 637, cf. NT.Act.5.39,
-    2nd c.AD: Lucianus Sophista “JTr.” 45, 2nd c.AD: Vettius Valens Astrologus 331.12.
-    ">NT+2nd c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'θεομάχος, -ον
+
+  [in Sm.: Job.26:5, Pro.9:18 21:16 * ;]
+
+  fighting against God: Act.5:39.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'θεομά?~Xχ-ος, ον,
+
+  fighting against God, Γίγαντες [NT+2nd c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1727
-    proximity: 0.8155
+    lemma: ἐναντίος
+    gloss: opposite {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: G2312
-    proximity: 0.8081
+    lemma: θεοδίδακτος
+    gloss: divinely instructed {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
   - strongs: G2315
-    proximity: 0.7916
+    lemma: θεόπνευστος
+    gloss: divinely breathed in {openscriptures-strongs}
+    proximity: 0.7916 {macula-proximity}
   - strongs: G2319
-    proximity: 0.7881
+    lemma: θεοστυγής
+    gloss: hateful to God {openscriptures-strongs}
+    proximity: 0.7881 {macula-proximity}
   - strongs: G2721
-    proximity: 0.779
+    lemma: κατεφίστημι
+    gloss: to stand over against {openscriptures-strongs}
+    proximity: 0.779 {macula-proximity}
   - strongs: G2317
-    proximity: 0.7668
+    lemma: θεοσέβεια
+    gloss: devoutness {openscriptures-strongs}
+    proximity: 0.7668 {macula-proximity}
   - strongs: G112
-    proximity: 0.7496
+    proximity: 0.7496 {macula-proximity}
   - strongs: G5377
-    proximity: 0.7476
+    lemma: φιλόθεος
+    gloss: fond of God {openscriptures-strongs}
+    proximity: 0.7476 {macula-proximity}
   cross_language:
   - strongs: H3069
-    proximity: 0.798
+    lemma: יְהֹוִה
+    gloss: '{YHWH} {openscriptures-strongs}'
+    proximity: 0.798 {macula-proximity}
     language: hebrew
   - strongs: H8618
-    proximity: 0.7782
+    lemma: תְּקוֹמֵם
+    gloss: an opponent {openscriptures-strongs}
+    proximity: 0.7782 {macula-proximity}
     language: hebrew
   - strongs: H3898
-    proximity: 0.7657
+    lemma: לָחַם
+    gloss: to feed on {openscriptures-strongs}
+    proximity: 0.7657 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,43 +6,54 @@ pronunciation: bee-raw'
 definition: a castle or palace
 kjv_usage: palace.
 derivation: of foreign origin;
-extended_definition:
-  gloss: palace
-  definition: '1) palace, castle<br>2) temple<BR>Aramaic equivalent: <i>bi.ra</i>
-    (בִּירְתָא "citadel" H1001)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) palace, castle
+
+  2) temple
+
+  Aramaic equivalent: bi.ra (בִּירְתָא "citadel" H1001) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4686c
-    proximity: 0.822
+    proximity: 0.822 {macula-proximity}
   - strongs: H4674
-    proximity: 0.8188
+    lemma: מֻצָּב
+    gloss: a station {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
   - strongs: H4581
-    proximity: 0.8122
+    lemma: מָעוֹז
+    gloss: a fortified place {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
   - strongs: H4869
-    proximity: 0.8083
+    lemma: מִשְׂגָּב
+    gloss: defence {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
   - strongs: H1055
-    proximity: 0.8051
+    lemma: בִּיתָן
+    gloss: a palace {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
   - strongs: H5892
-    proximity: 0.8031
+    lemma: עִיר
+    gloss: a city  in the widest sense {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
   - strongs: H6076a
-    proximity: 0.8018
+    proximity: 0.8018 {macula-proximity}
   - strongs: H643
-    proximity: 0.798
+    proximity: 0.798 {macula-proximity}
   - strongs: H803a
-    proximity: 0.7932
+    proximity: 0.7932 {macula-proximity}
   - strongs: H4694
-    proximity: 0.7827
+    lemma: מְצוּרָה
+    gloss: a hemming in {openscriptures-strongs}
+    proximity: 0.7827 {macula-proximity}
   cross_language:
   - strongs: G3925
-    proximity: 0.7931
+    lemma: παρεμβολή
+    gloss: a throwing in beside {openscriptures-strongs}
+    proximity: 0.7931 {macula-proximity}
     language: greek
   - strongs: G2411
-    proximity: 0.7662
+    lemma: ἱερόν
+    gloss: a sacred place {openscriptures-strongs}
+    proximity: 0.7662 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

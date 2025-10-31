@@ -7,53 +7,79 @@ definition: to soil or (figuratively) desecrate
 kjv_usage: defile, pollute, stain.
 derivation: a primitive root, (rather identified with H1350 (גָּאַל), through the
   idea of freeing, i.e. repudiating);
-extended_definition:
-  gloss: to defile
-  definition: 1) to defile, pollute, desecrate<br>1a) (Niphal) to be defiled, be polluted<br>1b)
-    (Piel) to pollute, desecrate<br>1c)(Pual) to be desecrated (of removal from priesthood)<br>1d)
-    (Hiphil) to pollute, stain<br>1e) (Hithpael) to defile oneself
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to defile, pollute, desecrate
+
+  1a) (Niphal) to be defiled, be polluted
+
+  1b) (Piel) to pollute, desecrate
+
+  1c)(Pual) to be desecrated (of removal from priesthood)
+
+  1d) (Hiphil) to pollute, stain
+
+  1e) (Hithpael) to defile oneself {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2889
-    proximity: 0.8229
+    lemma: טָהוֹר
+    gloss: pure (in a physical {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: H2891
-    proximity: 0.8148
+    lemma: טָהֵר
+    gloss: to be pure (physical sound {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: H5501
-    proximity: 0.8146
+    lemma: סְחִי
+    gloss: refuse {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
   - strongs: H6292
-    proximity: 0.8093
+    lemma: פִּגּוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
   - strongs: H1738
-    proximity: 0.804
+    lemma: דָּוָה
+    gloss: to be sick {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   - strongs: H5178a
-    proximity: 0.7934
+    proximity: 0.7934 {macula-proximity}
   - strongs: H7516
-    proximity: 0.7874
+    lemma: רֶפֶשׁ
+    gloss: mud {openscriptures-strongs}
+    proximity: 0.7874 {macula-proximity}
   - strongs: H6121
-    proximity: 0.7852
+    lemma: עָקֹב
+    gloss: fraudulent or  tracked {openscriptures-strongs}
+    proximity: 0.7852 {macula-proximity}
   - strongs: H2933
-    proximity: 0.776
+    lemma: טָמָה
+    gloss: to be impure in a religious sense {openscriptures-strongs}
+    proximity: 0.776 {macula-proximity}
   - strongs: H6674
-    proximity: 0.7462
+    lemma: צוֹא
+    gloss: soiled {openscriptures-strongs}
+    proximity: 0.7462 {macula-proximity}
   cross_language:
   - strongs: G4508
-    proximity: 0.8037
+    lemma: ῥυπαρός
+    gloss: dirty {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
     language: greek
   - strongs: G4696
-    proximity: 0.7912
+    lemma: σπίλος
+    gloss: a stain or blemish {openscriptures-strongs}
+    proximity: 0.7912 {macula-proximity}
     language: greek
   - strongs: G2839
-    proximity: 0.7883
+    lemma: κοινός
+    gloss: common {openscriptures-strongs}
+    proximity: 0.7883 {macula-proximity}
     language: greek
   - strongs: G4510a
-    proximity: 0.7787
+    proximity: 0.7787 {macula-proximity}
     language: greek
   - strongs: G4027
-    proximity: 0.7626
+    lemma: περικάθαρμα
+    gloss: something cleaned off all around {openscriptures-strongs}
+    proximity: 0.7626 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

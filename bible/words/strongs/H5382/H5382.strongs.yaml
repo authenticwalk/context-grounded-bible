@@ -6,22 +6,23 @@ pronunciation: naw-shaw'
 definition: to forget; figuratively, to neglect; causatively, to remit, remove
 kjv_usage: forget, deprive, exact.
 derivation: a primitive root;
-extended_definition:
-  gloss: to forget
-  definition: 1) to forget, deprive<br>1a) (Qal) to forget<br>1b) (Niphal) to be forgotten<br>1c)
-    (Piel) to cause to forget<br>1d) (Hiphil) to cause to forget, allow to be forgotten
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to forget, deprive
+
+  1a) (Qal) to forget
+
+  1b) (Niphal) to be forgotten
+
+  1c) (Piel) to cause to forget
+
+  1d) (Hiphil) to cause to forget, allow to be forgotten {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1799
-    proximity: 0.7886
+    proximity: 0.7886 {macula-proximity}
   cross_language:
   - strongs: G2990
-    proximity: 0.7105
+    lemma: λανθάνω
+    gloss: to lie hid {openscriptures-strongs}
+    proximity: 0.7105 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,65 +5,80 @@ transliteration: proetoimázō
 definition: to fit up in advance (literally or figuratively)
 kjv_usage: ordain before, prepare afore
 derivation: from G4253 (πρό) and G2090 (ἑτοιμάζω);
-extended_definition:
-  gloss: to prepare
-  definition: '<b>προ-ετοιμάζω </b><BR /> [in LXX: <ref=''Isa.28.24''>Isa.28:24</ref>
-    B, <ref=''Wis.9.8''>Wis.9:8</ref> * ;] <BR /><b>to prepare before</b>: with accusative
-    of thing(s), <ref=''Rom.9.23''>Rom.9:23</ref> (οἱς for ἅ by attraction), <ref=''Eph.2.10.''>Eph.2:10.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> προετοιμ-άζω</b>, <br /> <b>get ready beforehand,</b> [<a href="javascript:void(0)"
-    title=" 4th c.BC: Aeneas Tacticus 18.6 ">Refs 4th c.BC+</a>]:—<i>middle</i>, <b>prepare
-    for one''s own use</b> or <b>purpose,</b> [<a href="javascript:void(0)" title="
-    5th c.BC: Herodotus Historicus 8.24 ">Refs 5th c.BC+</a>]:—<i>passive</i>, [<a
-    href="javascript:void(0)" title=" [prev. author] 7.22, 1st c.AD: Philo Judaeus
-    2.252, +others, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 17.5.6,
-    1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.230e, 3rd c.AD: Philumenus
-    Medicus cited in 4th c.AD: Oribasius Medicus 8.45.7. ">Refs 1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'προ-ετοιμάζω
+
+  [in LXX: Isa.28:24 B, Wis.9:8 * ;]
+
+  to prepare before: with accusative of thing(s), Rom.9:23 (οἱς for ἅ by attraction),
+  Eph.2:10.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'προετοιμ-άζω,
+
+  get ready beforehand, [Refs 4th c.BC+]:—middle, prepare for one''s own use or purpose,
+  [Refs 5th c.BC+]:—passive, [Refs 1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4300
-    proximity: 0.8288
+    lemma: προκυρόω
+    gloss: to ratify previously {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: G4287
-    proximity: 0.827
+    lemma: προθέσμιος
+    gloss: fixed beforehand {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: G4388
-    proximity: 0.8241
+    lemma: προτίθεμαι
+    gloss: to place before {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: G4307
-    proximity: 0.8235
+    lemma: πρόνοια
+    gloss: forethought {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: G4309
-    proximity: 0.8231
+    lemma: προορίζω
+    gloss: to limit in advance {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: G5550
-    proximity: 0.8228
+    lemma: χρόνος
+    gloss: a space of time (in general {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
   - strongs: G4296
-    proximity: 0.8203
+    lemma: προκηρύσσω
+    gloss: to herald  in advance {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: G4401
-    proximity: 0.8165
+    lemma: προχειροτονέω
+    gloss: to elect in advance {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: A2164
-    proximity: 0.7949
+    proximity: 0.7949 {macula-proximity}
   - strongs: G2675
-    proximity: 0.7787
+    lemma: καταρτίζω
+    gloss: to complete thoroughly {openscriptures-strongs}
+    proximity: 0.7787 {macula-proximity}
   cross_language:
   - strongs: H6261
-    proximity: 0.8297
+    lemma: עִתִּי
+    gloss: timely {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: hebrew
   - strongs: H6256
-    proximity: 0.8252
+    lemma: עֵת
+    gloss: time {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: hebrew
   - strongs: H6718b
-    proximity: 0.8203
+    proximity: 0.8203 {macula-proximity}
     language: hebrew
   - strongs: H4487
-    proximity: 0.7905
+    lemma: מָנָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7905 {macula-proximity}
     language: hebrew
   - strongs: H6259
-    proximity: 0.7767
+    lemma: עָתוּד
+    gloss: prepared {openscriptures-strongs}
+    proximity: 0.7767 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,64 +5,78 @@ transliteration: ekrizóō
 definition: to uproot
 kjv_usage: pluck up by the root, root up
 derivation: from G1537 (ἐκ) and G4492 (ῥιζόω);
-extended_definition:
-  gloss: to uproot
-  definition: '<b>ἐκ-ριζόω</b>, -ῶ <BR /> [in LXX: <ref=''Jdg.5.14''>Jdg.5:14</ref>
-    (שֶׁרֶשׁ), <ref=''Jer.1.10''>Jer.1:10</ref> (נָתַשׁ), <ref=''Zep.2.4''>Zep.2:4</ref>
-    (גָּרַשׁ A, עָקַר BS), <ref=''Dan.7.8''>Dan.7:8</ref> (עָקַר), Dan LXX 4:11, 23,
-    <ref=''Wis.4.4''>Wis.4:4</ref>, <ref=''Sir.3.9; 49.7''>Sir.3:9 49:7</ref>, <ref=''1Ma.5.51''>1Ma.5:51</ref>,
-    <ref=''2Ma.12.7''>2Ma.12:7</ref> * ;] <BR /><b>to root out, pluck up by the roots</b>:
-    with accusative of thing(s), <ref=''Mat.13.29; 15.13''>Mat.13:29 15:13</ref> <ref=''Luk.17.6''>Luk.17:6</ref>,
-    <ref=''Jude.12''>Ju 12</ref>.†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐκρῑζ-όω</b>, <br /> <b>root out,</b> [<a href="javascript:void(0)"
-    title=" LXX.Jer.1.10, +others, 5th-4th c.BC: Aesopus Fabularum Scriptor 179, NT.Matt.13.29
-    ">LXX+5th c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)" title=" LXX.Wis.4.4,
-    2nd c.AD: Babrius Fabularum Scriptor 36.8, etc.; ἁρπασθεῖσα ὑπὸ τοῦ δαίμονος ἐξεριζώθη
-    “IG” 12(7).405.24 (from Amorgos); in a form of execration, ἐκριζωθήσεται πανγενεί
-    [prev. work]3.1424. ">LXX+2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐκ-ριζόω, -ῶ
+
+  [in LXX: Jdg.5:14 (שֶׁרֶשׁ), Jer.1:10 (נָתַשׁ), Zep.2:4 (גָּרַשׁ A, עָקַר BS), Dan.7:8
+  (עָקַר), Dan LXX 4:11, 23, Wis.4:4, Sir.3:9 49:7, 1Ma.5:51, 2Ma.12:7 * ;]
+
+  to root out, pluck up by the roots: with accusative of thing(s), Mat.13:29 15:13
+  Luk.17:6, Ju 12.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐκρῑζ-όω,
+
+  root out, [LXX+5th c.BC+]:—passive, [LXX+2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4492
-    proximity: 0.8295
+    lemma: ῥιζόω
+    gloss: to root (figuratively {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: G1607
-    proximity: 0.8211
+    lemma: ἐκπορεύομαι
+    gloss: to depart {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
   - strongs: G1806
-    proximity: 0.8119
+    lemma: ἐξάγω
+    gloss: to lead forth {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: G1831
-    proximity: 0.8109
+    lemma: ἐξέρχομαι
+    gloss: to issue {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
   - strongs: G4911
-    proximity: 0.8097
+    lemma: συνεφίστημι
+    gloss: to stand up together {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: G3588
-    proximity: 0.7988
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   - strongs: G4816
-    proximity: 0.7975
+    lemma: συλλέγω
+    gloss: to collect {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
   - strongs: G1807
-    proximity: 0.7969
+    lemma: ἐξαιρέω
+    gloss: actively {openscriptures-strongs}
+    proximity: 0.7969 {macula-proximity}
   - strongs: A1b
-    proximity: 0.7861
+    proximity: 0.7861 {macula-proximity}
   cross_language:
   - strongs: H6965
-    proximity: 0.8251
+    lemma: קוּם
+    gloss: to rise (in various applications {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
     language: hebrew
   - strongs: H4871
-    proximity: 0.8022
+    lemma: מָשָׁה
+    gloss: to pull out {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
     language: hebrew
   - strongs: H5265
-    proximity: 0.802
+    lemma: נָסַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
     language: hebrew
   - strongs: H6131
-    proximity: 0.7928
+    lemma: עָקַר
+    gloss: to pluck up {openscriptures-strongs}
+    proximity: 0.7928 {macula-proximity}
     language: hebrew
   - strongs: H3318
-    proximity: 0.7915
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

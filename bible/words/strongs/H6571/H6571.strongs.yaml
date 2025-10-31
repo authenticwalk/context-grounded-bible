@@ -10,21 +10,30 @@ derivation: from H6567 (פָּרָשׁ); (compare H5483 (סוּס))
 related_words:
   synonyms:
   - strongs: H7396
-    proximity: 0.822
+    lemma: רִכְבָּה
+    gloss: a chariot {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
   - strongs: H4421
-    proximity: 0.8133
+    lemma: מִלְחָמָה
+    gloss: a battle {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   - strongs: H4818
-    proximity: 0.8004
+    lemma: מֶרְכָּבָה
+    gloss: a chariot {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
   - strongs: H7409
-    proximity: 0.7032
+    lemma: רֶכֶשׁ
+    gloss: a relay of animals on a post-route {openscriptures-strongs}
+    proximity: 0.7032 {macula-proximity}
   cross_language:
   - strongs: G4753
-    proximity: 0.8111
+    lemma: στράτευμα
+    gloss: an armament {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
     language: greek
   - strongs: G2521
-    proximity: 0.784
+    lemma: κάθημαι
+    gloss: and (to sit {openscriptures-strongs}
+    proximity: 0.784 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

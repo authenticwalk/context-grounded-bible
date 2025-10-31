@@ -7,49 +7,79 @@ definition: to run (for whatever reason, especially to rush)
 kjv_usage: break down, divide speedily, footman, guard, bring hastily, (make) run
   (away, through), post.
 derivation: a primitive root;
-extended_definition:
-  gloss: 'to run: pieces'
-  definition: ': pieces<br>1) to run<br>1a) (Qal)<br>1a1) to run<br>1a2) runners (participle
-    as subst)<br>1b) (Polel) to run swiftly, dart<br>1c) (Hiphil)<br>1c1) to bring
-    or move quickly, hurry<br>1c2) to drive away from, cause to run away'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': pieces
+
+  1) to run
+
+  1a) (Qal)
+
+  1a1) to run
+
+  1a2) runners (participle as subst)
+
+  1b) (Polel) to run swiftly, dart
+
+  1c) (Hiphil)
+
+  1c1) to bring or move quickly, hurry
+
+  1c2) to drive away from, cause to run away {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8108
-    proximity: 0.8284
+    lemma: שׇׁמְרָה
+    gloss: watchfulness {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H5323
-    proximity: 0.8252
+    lemma: נָצָא
+    gloss: to go away {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
   - strongs: H7751
-    proximity: 0.8215
+    lemma: שׁוּט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H7971
-    proximity: 0.8215
+    lemma: שָׁלַח
+    gloss: to send away {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H4307
-    proximity: 0.8207
+    lemma: מַטָּרָא
+    gloss: a jail {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H1725
-    proximity: 0.8183
+    lemma: דָּהַר
+    gloss: to curvet or move irregularly {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: H4116
-    proximity: 0.8124
+    lemma: מָהַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: H6735a
-    proximity: 0.8119
+    proximity: 0.8119 {macula-proximity}
   cross_language:
   - strongs: G4334
-    proximity: 0.8283
+    lemma: προσέρχομαι
+    gloss: to approach {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
     language: greek
   - strongs: G4692
-    proximity: 0.8279
+    lemma: σπεύδω
+    gloss: to "speed" {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G4688
-    proximity: 0.8208
+    lemma: σπεκουλάτωρ
+    gloss: a speculator {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G5217
-    proximity: 0.8182
+    lemma: ὑπάγω
+    gloss: to lead  under {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: greek
   - strongs: G5441
-    proximity: 0.8153
+    lemma: φύλαξ
+    gloss: a watcher or sentry {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

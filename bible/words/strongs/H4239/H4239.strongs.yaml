@@ -6,25 +6,25 @@ pronunciation: mekh-ee'
 definition: a stroke, i.e. battering-ram
 kjv_usage: engines.
 derivation: from H4229 (מָחָה);
-extended_definition:
-  gloss: blow
-  definition: stroke (of a battering ram)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: stroke (of a battering ram) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8409
-    proximity: 0.8093
+    lemma: תִּגְרָה
+    gloss: strife {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
   - strongs: H6315
-    proximity: 0.8067
+    lemma: פּוּחַ
+    gloss: to puff {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   - strongs: H5398
-    proximity: 0.7181
+    lemma: נָשַׁף
+    gloss: to breeze {openscriptures-strongs}
+    proximity: 0.7181 {macula-proximity}
   cross_language:
   - strongs: G4154
-    proximity: 0.7738
+    lemma: πνέω
+    gloss: to breathe hard {openscriptures-strongs}
+    proximity: 0.7738 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

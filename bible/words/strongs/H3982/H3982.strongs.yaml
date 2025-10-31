@@ -6,43 +6,48 @@ pronunciation: mah-am-ar'
 definition: something (authoritatively) said, i.e. an edict
 kjv_usage: commandment, decree.
 derivation: from H559 (אָמַר);
-extended_definition:
-  gloss: command
-  definition: 'word, command<BR>Aramaic equivalent: <i>me.mar</i> (מֵאמַר "command"
-    H3983)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'word, command
+
+  Aramaic equivalent: me.mar (מֵאמַר "command" H3983) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2852
-    proximity: 0.8248
+    lemma: חָתַךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: H4662
-    proximity: 0.8153
+    lemma: מִפְקָד
+    gloss: an appointment {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
   - strongs: H1696
-    proximity: 0.8
+    lemma: דָבַר
+    gloss: perhaps properly {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: H4931
-    proximity: 0.794
+    lemma: מִשְׁמֶרֶת
+    gloss: watch {openscriptures-strongs}
+    proximity: 0.794 {macula-proximity}
   - strongs: A6600
-    proximity: 0.7903
+    proximity: 0.7903 {macula-proximity}
   - strongs: H562
-    proximity: 0.7884
+    proximity: 0.7884 {macula-proximity}
   - strongs: A7010
-    proximity: 0.7882
+    proximity: 0.7882 {macula-proximity}
   - strongs: A633
-    proximity: 0.7806
+    proximity: 0.7806 {macula-proximity}
   - strongs: A1510
-    proximity: 0.7794
+    proximity: 0.7794 {macula-proximity}
   - strongs: H559
-    proximity: 0.7767
+    proximity: 0.7767 {macula-proximity}
   cross_language:
   - strongs: G5010
-    proximity: 0.8295
+    lemma: τάξις
+    gloss: regular arrangement {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G4309
-    proximity: 0.8252
+    lemma: προορίζω
+    gloss: to limit in advance {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

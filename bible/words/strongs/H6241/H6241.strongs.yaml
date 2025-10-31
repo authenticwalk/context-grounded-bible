@@ -6,45 +6,61 @@ pronunciation: is-saw-rone'
 definition: (fractional) a tenth part
 kjv_usage: tenth deal.
 derivation: or עִשָּׂרֹן; from H6235 (עֶשֶׂר);
-extended_definition:
-  gloss: tenth
-  definition: tenth part, tithe
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: tenth part, tithe {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A6243
-    proximity: 0.8224
+    proximity: 0.8224 {macula-proximity}
   - strongs: H2572
-    proximity: 0.8218
+    lemma: חֲמִשִּׁים
+    gloss: fifty {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H6240
-    proximity: 0.8213
+    lemma: עָשָׂר
+    gloss: ten {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
   - strongs: H2567
-    proximity: 0.8173
+    lemma: חָמַשׁ
+    gloss: to tax a fifth {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
   - strongs: H6242
-    proximity: 0.8147
+    lemma: עֶשְׂרִים
+    gloss: twenty {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: H7255
-    proximity: 0.8138
+    lemma: רֹבַע
+    gloss: a quarter {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
   - strongs: H6218
-    proximity: 0.8118
+    lemma: עָשׂוֹר
+    gloss: ten {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
   - strongs: H7970
-    proximity: 0.8106
+    lemma: שְׁלוֹשִׁים
+    gloss: thirty {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
   - strongs: H2549
-    proximity: 0.8055
+    lemma: חֲמִישִׁי
+    gloss: fifth {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
   - strongs: H6283
-    proximity: 0.8053
+    lemma: עֲתֶרֶת
+    gloss: copiousness {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   cross_language:
   - strongs: G3046
-    proximity: 0.8291
+    lemma: λίτρα
+    gloss: a pound in weight {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
     language: greek
   - strongs: G1501
-    proximity: 0.8178
+    lemma: εἴκοσι
+    gloss: a score {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
     language: greek
   - strongs: G1427
-    proximity: 0.8052
+    lemma: δώδεκα
+    gloss: two and ten {openscriptures-strongs}
+    proximity: 0.8052 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

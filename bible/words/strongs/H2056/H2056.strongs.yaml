@@ -6,48 +6,64 @@ pronunciation: vaw-lawd'
 definition: a boy
 kjv_usage: child.
 derivation: for H3206 (יֶלֶד);
-extended_definition:
-  gloss: child
-  definition: child, offspring
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: child, offspring {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H376
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
   - strongs: H3211
-    proximity: 0.8197
+    lemma: יָלִיד
+    gloss: born {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
   - strongs: H1129
-    proximity: 0.8078
+    lemma: בָּנָה
+    gloss: to build {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   - strongs: H5291
-    proximity: 0.7988
+    lemma: נַעֲרָה
+    gloss: a girl {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   - strongs: H7361
-    proximity: 0.7851
+    lemma: רַחֲמָה
+    gloss: a maiden {openscriptures-strongs}
+    proximity: 0.7851 {macula-proximity}
   - strongs: H3173
-    proximity: 0.7834
+    lemma: יָחִיד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7834 {macula-proximity}
   - strongs: H5959
-    proximity: 0.779
+    lemma: עַלְמָה
+    gloss: a lass {openscriptures-strongs}
+    proximity: 0.779 {macula-proximity}
   - strongs: H2145
-    proximity: 0.7678
+    lemma: זָכָר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7678 {macula-proximity}
   - strongs: H6529
-    proximity: 0.7621
+    lemma: פְּרִי
+    gloss: fruit {openscriptures-strongs}
+    proximity: 0.7621 {macula-proximity}
   - strongs: H3207
-    proximity: 0.7589
+    lemma: יַלְדָּה
+    gloss: a lass {openscriptures-strongs}
+    proximity: 0.7589 {macula-proximity}
   cross_language:
   - strongs: G730a
-    proximity: 0.8247
+    proximity: 0.8247 {macula-proximity}
     language: greek
   - strongs: G1549
-    proximity: 0.8223
+    lemma: ἔκγονον
+    gloss: a descendant {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G5207
-    proximity: 0.7833
+    lemma: υἱός
+    gloss: a "son" {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
     language: greek
   - strongs: G1471
-    proximity: 0.7677
+    lemma: ἔγκυος
+    gloss: swelling inside {openscriptures-strongs}
+    proximity: 0.7677 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

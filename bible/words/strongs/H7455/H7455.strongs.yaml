@@ -7,46 +7,67 @@ definition: badness (as marring), physically or morally
 kjv_usage: '[idiom] be so bad, badness, ([idiom] be so) evil, naughtiness, sadness,
   sorrow, wickedness.'
 derivation: from H7489 (רָעַע);
-extended_definition:
-  gloss: evil
-  definition: 1) badness, evil<br>1a) badness, bad quality<br>1b) wilfulness<br>1c)
-    evil, badness (ethical)<br>1d) sadness
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) badness, evil
+
+  1a) badness, bad quality
+
+  1b) wilfulness
+
+  1c) evil, badness (ethical)
+
+  1d) sadness {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1942a
-    proximity: 0.8276
+    proximity: 0.8276 {macula-proximity}
   - strongs: H1942
-    proximity: 0.823
+    lemma: הַוָּה
+    gloss: by implication {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: H1681
-    proximity: 0.8208
+    lemma: דִּבָּה
+    gloss: slander {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   - strongs: H5558
-    proximity: 0.82
+    lemma: סֶלֶף
+    gloss: distortion {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
   - strongs: H3015
-    proximity: 0.8185
+    lemma: יָגוֹן
+    gloss: affliction {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: H5949
-    proximity: 0.8185
+    lemma: עֲלִילָה
+    gloss: an exploit {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: H2254a
-    proximity: 0.8034
+    proximity: 0.8034 {macula-proximity}
   - strongs: H1100
-    proximity: 0.7939
+    lemma: בְּלִיַּעַל
+    gloss: without profit {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
   - strongs: H5999
-    proximity: 0.7883
+    lemma: עָמָל
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.7883 {macula-proximity}
   - strongs: H5932
-    proximity: 0.7853
+    lemma: עַלְוָה
+    gloss: moral perverseness {openscriptures-strongs}
+    proximity: 0.7853 {macula-proximity}
   cross_language:
   - strongs: G5501
-    proximity: 0.8227
+    lemma: χείρων
+    gloss: from an obsolete equivalent {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
     language: greek
   - strongs: G4238
-    proximity: 0.8034
+    lemma: πράσσω
+    gloss: to "practise" {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
     language: greek
   - strongs: G4234
-    proximity: 0.7871
+    lemma: πρᾶξις
+    gloss: practice {openscriptures-strongs}
+    proximity: 0.7871 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

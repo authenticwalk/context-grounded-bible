@@ -6,23 +6,19 @@ pronunciation: sar
 definition: peevish
 kjv_usage: heavy, sad.
 derivation: contracted from H5637 (סָרַר);
-extended_definition:
-  gloss: stubborn
-  definition: stubborn, implacable, rebellious, resentful, sullen
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: stubborn, implacable, rebellious, resentful, sullen {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7743
-    proximity: 0.7972
+    lemma: שׁוּחַ
+    gloss: to sink {openscriptures-strongs}
+    proximity: 0.7972 {macula-proximity}
   - strongs: H7817a
-    proximity: 0.775
+    proximity: 0.775 {macula-proximity}
   cross_language:
   - strongs: G2726
-    proximity: 0.7751
+    lemma: κατήφεια
+    gloss: demureness {openscriptures-strongs}
+    proximity: 0.7751 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

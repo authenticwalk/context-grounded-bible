@@ -6,45 +6,57 @@ pronunciation: ay-tsaw'
 definition: advice; by implication, plan; also prudence
 kjv_usage: advice, advisement, counsel(l-(or)), purpose.
 derivation: from H3289 (יָעַץ);
-extended_definition:
-  gloss: counsel
-  definition: counsel, advice, purpose
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: counsel, advice, purpose {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6122
-    proximity: 0.8225
+    lemma: עׇקְבָה
+    gloss: trickery {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: H1819
-    proximity: 0.8156
+    lemma: דָּמָה
+    gloss: to compare {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
   - strongs: H1697
-    proximity: 0.8109
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
   - strongs: H2454
-    proximity: 0.8105
+    lemma: חׇכְמוֹת
+    gloss: wisdom {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
   - strongs: A3272
-    proximity: 0.7995
+    proximity: 0.7995 {macula-proximity}
   - strongs: H3245a
-    proximity: 0.7983
+    proximity: 0.7983 {macula-proximity}
   - strongs: H4633
-    proximity: 0.7782
+    lemma: מַעֲרָךְ
+    gloss: an arrangement {openscriptures-strongs}
+    proximity: 0.7782 {macula-proximity}
   cross_language:
   - strongs: G3053
-    proximity: 0.817
+    lemma: λογισμός
+    gloss: computation {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
     language: greek
   - strongs: G4388
-    proximity: 0.8162
+    lemma: προτίθεμαι
+    gloss: to place before {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
     language: greek
   - strongs: G4825
-    proximity: 0.8126
+    lemma: σύμβουλος
+    gloss: a consultor {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
     language: greek
   - strongs: G4945
-    proximity: 0.805
+    lemma: συνωμοσία
+    gloss: a swearing together {openscriptures-strongs}
+    proximity: 0.805 {macula-proximity}
     language: greek
   - strongs: G1014
-    proximity: 0.8008
+    lemma: βούλομαι
+    gloss: to "will {openscriptures-strongs}
+    proximity: 0.8008 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

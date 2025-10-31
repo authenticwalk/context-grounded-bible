@@ -6,35 +6,41 @@ pronunciation: man-am'
 definition: a delicacy
 kjv_usage: dainty.
 derivation: from H5276 (נָעֵם);
-extended_definition:
-  gloss: delicacy
-  definition: delicacies, dainties
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: delicacies, dainties {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4022
-    proximity: 0.829
+    lemma: מֶגֶד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: A3900
-    proximity: 0.8109
+    proximity: 0.8109 {macula-proximity}
   - strongs: H3978
-    proximity: 0.8013
+    lemma: מַאֲכָל
+    gloss: an eatable (includ. provender {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
   - strongs: H3740
-    proximity: 0.7948
+    lemma: כֵּרָה
+    gloss: a purchase {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
   - strongs: H4960
-    proximity: 0.7575
+    lemma: מִשְׁתֶּה
+    gloss: drink {openscriptures-strongs}
+    proximity: 0.7575 {macula-proximity}
   cross_language:
   - strongs: G5132
-    proximity: 0.8179
+    lemma: τράπεζα
+    gloss: a table or stool {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
     language: greek
   - strongs: G1173
-    proximity: 0.805
+    lemma: δεῖπνον
+    gloss: dinner {openscriptures-strongs}
+    proximity: 0.805 {macula-proximity}
     language: greek
   - strongs: G1403
-    proximity: 0.7837
+    lemma: δοχή
+    gloss: a reception {openscriptures-strongs}
+    proximity: 0.7837 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,54 +6,64 @@ definition: advisement; specially, a deliberative body, i.e. the provincial asse
   or lay-court
 kjv_usage: consultation, counsel, council
 derivation: neuter of a presumed derivative of G4825 (σύμβουλος);
-extended_definition:
-  gloss: counsel/council
-  definition: '<b>συμβούλιον</b>, -ου, τό<BR /> (σύμβουλος), [in LXX: <ref=''4Ma.17.17''>4Ma.17:17</ref>
-    א * ;] <BR />a word of the Græco-Roman period (of. Lat. consilium, and see Deiss.,
-    BS, 238) = cl. συμβουλία (Arist., Xen.), <BR /> __1. <b>counsel</b>: σ. λαμβάνειν,
-    <ref=''Mat.12.14; 22.15; 27.7; 28.12''>Mat.12:14 22:15 27:7 28:12</ref>; διδόναι,
-    <ref=''Mrk.3.6''>Mrk.3:6</ref> (ποιεῖν, Rec.); ποιεῖν, <ref=''Mrk.15.1''>Mrk.15:1</ref>
-    (ἑτοιμάζειν, WH, mg.). <BR /> __2. By meton., <b>a council </b>(4Mac, l.with א;
-    συνέδριον, AR): <ref=''Act.25.12''>Act.25:12</ref> (see MM, xxiv).†<BR /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συμβούλ-ιον</b>, τό, <br /> <b>advice, counsel</b>, especially
-    with purposes of evil, [<a href="javascript:void(0)" title=" NT.Matt.12.14, NT.Mark.3.6.
-    ">NT</a>]<br /><Level2><b>__II</b></Level2> <b>a council</b> of advisors or assessors,
-    [<a href="javascript:void(0)" title=" “PTeb.” 286.15 (2nd c.AD), 1st-2nd c.AD:
-    Plutarchus Biographus et Philosophus “Lucullus” 26 ">Refs 1st c.AD+</a>]; especially
-    frequently of the <b>consilium</b> of a Roman magistrate, governor, etc., [<a
-    href="javascript:void(0)" title=" “SIG” 684.11 (Dyme, 2nd c.BC), +others, “Supp.epigram”
-    2.265 (Delph., 2nd c.BC), NT.Act.25.12, 1st-2nd c.AD: Plutarchus Biographus et
-    Philosophus “Romulus” 14, 2.196e, etc. ">NT+2nd c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συμβούλιον, -ου, τό
+
+  (σύμβουλος), [in LXX: 4Ma.17:17 א * ;]
+
+  a word of the Græco-Roman period (of. Lat. consilium, and see Deiss., BS, 238) =
+  cl. συμβουλία (Arist., Xen.),
+
+  __1. counsel: σ. λαμβάνειν, Mat.12:14 22:15 27:7 28:12; διδόναι, Mrk.3:6 (ποιεῖν,
+  Rec.); ποιεῖν, Mrk.15:1 (ἑτοιμάζειν, WH, mg.).
+
+  __2. By meton., a council (4Mac, l.with א; συνέδριον, AR): Act.25:12 (see MM, xxiv).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συμβούλ-ιον, τό,
+
+  advice, counsel, especially with purposes of evil, [NT]
+
+  __II a council of advisors or assessors, [Refs 1st c.AD+]; especially frequently
+  of the consilium of a Roman magistrate, governor, etc., [NT+2nd c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1010
-    proximity: 0.8124
+    lemma: βουλευτής
+    gloss: an adviser {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: G1087
-    proximity: 0.8045
+    lemma: γερουσία
+    gloss: the eldership {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
   - strongs: G4323
-    proximity: 0.7939
+    lemma: προσανατίθημι
+    gloss: to lay up in addition {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
   - strongs: G4244
-    proximity: 0.7577
+    lemma: πρεσβυτέριον
+    gloss: the order of elders {openscriptures-strongs}
+    proximity: 0.7577 {macula-proximity}
   - strongs: G4814
-    proximity: 0.7512
+    lemma: συλλαλέω
+    gloss: to talk together {openscriptures-strongs}
+    proximity: 0.7512 {macula-proximity}
   - strongs: G1260
-    proximity: 0.751
+    lemma: διαλογίζομαι
+    gloss: to reckon thoroughly {openscriptures-strongs}
+    proximity: 0.751 {macula-proximity}
   - strongs: G4934
-    proximity: 0.7044
+    lemma: συντίθεμαι
+    gloss: to place jointly {openscriptures-strongs}
+    proximity: 0.7044 {macula-proximity}
   cross_language:
   - strongs: H6098
-    proximity: 0.78
+    lemma: עֵצָה
+    gloss: advice {openscriptures-strongs}
+    proximity: 0.78 {macula-proximity}
     language: hebrew
   - strongs: H5475
-    proximity: 0.7074
+    lemma: סוֹד
+    gloss: a session {openscriptures-strongs}
+    proximity: 0.7074 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

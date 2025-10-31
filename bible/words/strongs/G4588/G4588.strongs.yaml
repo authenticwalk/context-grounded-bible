@@ -5,23 +5,20 @@ transliteration: Sérgios
 definition: Sergius, a Roman
 kjv_usage: Sergius
 derivation: of Latin origin;
-extended_definition:
-  gloss: Sergius
-  definition: '<b>Σέργιος</b>, -ου, ὁ <BR /> <b>Sergius, surnamed Paulus</b>: <ref=''Act.13.7.''>Act.13:7.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Σέργιος</b>, -ου, ὁ <BR /> <b>Sergius, surnamed Paulus</b>:
-    <ref=''Act.13.7.''>Act.13:7.</ref>†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Σέργιος, -ου, ὁ
+
+  Sergius, surnamed Paulus: Act.13:7.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Σέργιος, -ου, ὁ
+
+  Sergius, surnamed Paulus: Act.13:7.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3972
-    proximity: 0.7329
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: Παῦλος
+    gloss: (little {openscriptures-strongs}
+    proximity: 0.7329 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

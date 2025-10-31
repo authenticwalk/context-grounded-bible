@@ -5,52 +5,66 @@ transliteration: syndoxázō
 definition: to exalt to dignity in company (i.e. similarly) with
 kjv_usage: glorify together
 derivation: from G4862 (σύν) and G1392 (δοξάζω);
-extended_definition:
-  gloss: to glory with
-  definition: '<b>συν-δοξάζω </b><BR /> __1. to join in approving (Arist.). <BR />
-    __2. <b>In NT only, to glorify together</b>: pass., <ref=''Rom.8.17.''>Rom.8:17.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συνδοξάζω</b>, <br /> <b>join in approving</b>, νόμοι συνδεδοξασμένοι
-    ὑπὸ πάντων [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus
-    “Politica” 1310a15. ">Refs 4th c.BC+</a>]<br /><Level3><b>__2</b></Level3> <b>agree
-    with</b>, τῷ σώματι [<a href="javascript:void(0)" title=" 3rd c.AD: Plotinus Philosophus
-    1.2.3, 3rd c.AD: Porphyrius Tyrius Philosophus cited in 5th c.AD: Stobaeus, Joannes
-    3.1.123, 5th-6th c.AD: Marinus Biographus “Procl.” 21. ">Refs 3rd c.AD+</a>]<br
-    /><Level2><b>__II</b></Level2> <b>glorify</b> or <b>extol jointly</b>, in <i>passive</i>,
-    [<a href="javascript:void(0)" title=" NT.Rom.8.17. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συν-δοξάζω
+
+  __1. to join in approving (Arist.).
+
+  __2. In NT only, to glorify together: pass., Rom.8:17.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συνδοξάζω,
+
+  join in approving, νόμοι συνδεδοξασμένοι ὑπὸ πάντων [Refs 4th c.BC+]
+
+  __2 agree with, τῷ σώματι [Refs 3rd c.AD+]
+
+  __II glorify or extol jointly, in passive, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4926
-    proximity: 0.8294
+    lemma: συνομιλέω
+    gloss: to converse mutually {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: G4936
-    proximity: 0.8284
+    lemma: συντρέχω
+    gloss: to rush together  or headlong {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: G2341
-    proximity: 0.8259
+    lemma: θηριομαχέω
+    gloss: to be a beast-fighter {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: G4848
-    proximity: 0.8244
+    lemma: συμπορεύομαι
+    gloss: to journey together {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: G1391
-    proximity: 0.8239
+    lemma: δόξα
+    gloss: glory {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: G4899
-    proximity: 0.812
+    lemma: συνεκλεκτός
+    gloss: chosen in company with {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: G4828
-    proximity: 0.8102
+    lemma: συμμαρτυρέω
+    gloss: to testify jointly {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
   - strongs: G2086
-    proximity: 0.8095
+    lemma: ἑτεροζυγέω
+    gloss: to yoke up differently {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
   - strongs: G4784
-    proximity: 0.8079
+    lemma: συγκατατίθεμαι
+    gloss: to deposit  in company with {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
   - strongs: G4854
-    proximity: 0.8074
+    lemma: σύμφυτος
+    gloss: grown along with {openscriptures-strongs}
+    proximity: 0.8074 {macula-proximity}
   cross_language:
   - strongs: H5978
-    proximity: 0.8011
+    lemma: עִמָּד
+    gloss: along with {openscriptures-strongs}
+    proximity: 0.8011 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,41 +5,42 @@ transliteration: Hōsēé
 definition: Hosee (i.e. Hoshea), an Israelite
 kjv_usage: Osee
 derivation: of Hebrew origin (H01954);
-extended_definition:
-  gloss: Hosea
-  definition: '<b>Ὠσηέ (Tr.</b>, Ὁσ-), ὁ (Heb. הוֹשֵׁעַ), <BR /> <b>Hosea</b>: <ref=''Rom.9.25.''>Rom.9:25.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ὠσηέ (Tr.</b>, Ὁσ-), ὁ (Heb. הוֹשֵׁעַ), <BR /> <b>Hosea</b>:
-    <ref=''Rom.9.25.''>Rom.9:25.</ref>†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ὠσηέ (Tr., Ὁσ-), ὁ (Heb. הוֹשֵׁעַ),
+
+  Hosea: Rom.9:25.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ὠσηέ (Tr., Ὁσ-), ὁ (Heb. הוֹשֵׁעַ),
+
+  Hosea: Rom.9:25.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2502
-    proximity: 0.8282
+    lemma: Ἰωσίας
+    gloss: Josias {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: G773
-    proximity: 0.7896
+    proximity: 0.7896 {macula-proximity}
   cross_language:
   - strongs: H4590
-    proximity: 0.8289
+    lemma: מַעַזְיָה
+    gloss: Maazjah {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: hebrew
   - strongs: H4590a
-    proximity: 0.8246
+    proximity: 0.8246 {macula-proximity}
     language: hebrew
   - strongs: H621
-    proximity: 0.8224
+    proximity: 0.8224 {macula-proximity}
     language: hebrew
   - strongs: H7770
-    proximity: 0.8191
+    lemma: שׁוּעַ
+    gloss: Shua {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
     language: hebrew
   - strongs: H50
-    proximity: 0.8176
+    proximity: 0.8176 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

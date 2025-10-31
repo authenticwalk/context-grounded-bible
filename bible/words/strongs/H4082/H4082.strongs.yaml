@@ -7,50 +7,59 @@ definition: properly, a judgeship, i.e. jurisdiction; by implication, a district
   ruled by a judge); generally, a region
 kjv_usage: ([idiom] every) province.
 derivation: from H1777 (דִּין);
-extended_definition:
-  gloss: province
-  definition: '1) province, district<br>1a) district<br>1b) province<BR>Aramaic equivalent:
-    <i>me.di.nah</i> (מְדִינָה "province" H4083)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) province, district
+
+  1a) district
+
+  1b) province
+
+  Aramaic equivalent: me.di.nah (מְדִינָה "province" H4083) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2177
-    proximity: 0.8225
+    lemma: זַן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: H2050b
-    proximity: 0.8221
+    proximity: 0.8221 {macula-proximity}
   - strongs: A5675
-    proximity: 0.8221
+    proximity: 0.8221 {macula-proximity}
   - strongs: A324
-    proximity: 0.8072
+    proximity: 0.8072 {macula-proximity}
   - strongs: A6347
-    proximity: 0.8035
+    proximity: 0.8035 {macula-proximity}
   - strongs: A5460
-    proximity: 0.8026
+    proximity: 0.8026 {macula-proximity}
   - strongs: A1b
-    proximity: 0.801
+    proximity: 0.801 {macula-proximity}
   - strongs: A1169
-    proximity: 0.7495
+    proximity: 0.7495 {macula-proximity}
   - strongs: H6346
-    proximity: 0.7228
+    lemma: פֶּחָה
+    gloss: a prefect {openscriptures-strongs}
+    proximity: 0.7228 {macula-proximity}
   cross_language:
   - strongs: G2532
-    proximity: 0.8093
+    lemma: καί
+    gloss: and {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.7977
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7977 {macula-proximity}
     language: greek
   - strongs: G1538
-    proximity: 0.7873
+    lemma: ἕκαστος
+    gloss: each or every {openscriptures-strongs}
+    proximity: 0.7873 {macula-proximity}
     language: greek
   - strongs: G1885
-    proximity: 0.7715
+    lemma: ἐπαρχία
+    gloss: a special region of government {openscriptures-strongs}
+    proximity: 0.7715 {macula-proximity}
     language: greek
   - strongs: G446
-    proximity: 0.7479
+    proximity: 0.7479 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

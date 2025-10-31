@@ -5,55 +5,62 @@ transliteration: episkēnóō
 definition: to tent upon, i.e. (figuratively) abide with
 kjv_usage: rest upon
 derivation: from G1909 (ἐπί) and G4637 (σκηνόω);
-extended_definition:
-  gloss: to rest upon/dwell
-  definition: '<b>ἐπι-σκηνόω</b>, -ῶ <BR /> <b>to tent upon, spread a tabernacle over</b>:
-    metaphorically, before ἐπ᾽ ἐμέ (RV, rest upon, cover), <ref=''2Co.12.9.''>2Co.12:9.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐπισκην-όω</b>, <br /> <b>to be quartered in</b>, ταῖς οἰκίαις
-    [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 4.72.1; ἐπὶ
-    τὰς οἰκίας [prev. work] 18.8 ">Refs 2nd c.BC+</a>]: <i>metaphorically</i>, <b>dwell
-    upon</b>, ἡ δύναμις ἐ. ἐπί τινα [<a href="javascript:void(0)" title=" NT.2Cor.12.9.
-    ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐπι-σκηνόω, -ῶ
+
+  to tent upon, spread a tabernacle over: metaphorically, before ἐπ᾽ ἐμέ (RV, rest
+  upon, cover), 2Co.12:9.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐπισκην-όω,
+
+  to be quartered in, ταῖς οἰκίαις [Refs 2nd c.BC+]: metaphorically, dwell upon, ἡ
+  δύναμις ἐ. ἐπί τινα [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2658
-    proximity: 0.8248
+    lemma: καταντάω
+    gloss: to meet against {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: G1863
-    proximity: 0.7858
+    lemma: ἐπάγω
+    gloss: to superinduce {openscriptures-strongs}
+    proximity: 0.7858 {macula-proximity}
   - strongs: G1879
-    proximity: 0.7808
+    lemma: ἐπαναπαύομαι
+    gloss: to settle on {openscriptures-strongs}
+    proximity: 0.7808 {macula-proximity}
   - strongs: G2240
-    proximity: 0.7803
+    lemma: ἥκω
+    gloss: to arrive {openscriptures-strongs}
+    proximity: 0.7803 {macula-proximity}
   - strongs: A4291
-    proximity: 0.7777
+    proximity: 0.7777 {macula-proximity}
   - strongs: G1942
-    proximity: 0.7755
+    lemma: ἐπικάλυμα
+    gloss: a covering {openscriptures-strongs}
+    proximity: 0.7755 {macula-proximity}
   - strongs: A4907
-    proximity: 0.7698
+    proximity: 0.7698 {macula-proximity}
   cross_language:
   - strongs: H5080a
-    proximity: 0.8257
+    proximity: 0.8257 {macula-proximity}
     language: hebrew
   - strongs: H5743
-    proximity: 0.8243
+    lemma: עוּב
+    gloss: to be dense or dark {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: hebrew
   - strongs: H1752a
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
     language: hebrew
   - strongs: H5526
-    proximity: 0.8078
+    lemma: סָכַךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
     language: hebrew
   - strongs: H3680
-    proximity: 0.771
+    lemma: כָּסָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.771 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

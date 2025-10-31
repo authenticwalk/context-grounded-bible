@@ -6,45 +6,53 @@ pronunciation: par-tam'
 definition: a grandee
 kjv_usage: (most) noble, prince.
 derivation: of Persian origin;
-extended_definition:
-  gloss: noble
-  definition: noble, nobleman
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: noble, nobleman {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3366
-    proximity: 0.8197
+    lemma: יְקָר
+    gloss: value {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
   - strongs: A7261
-    proximity: 0.8185
+    proximity: 0.8185 {macula-proximity}
   - strongs: H441
-    proximity: 0.8071
+    proximity: 0.8071 {macula-proximity}
   - strongs: H7336
-    proximity: 0.8052
+    lemma: רָזַן
+    gloss: probably to be heavy {openscriptures-strongs}
+    proximity: 0.8052 {macula-proximity}
   - strongs: A1169
-    proximity: 0.7794
+    proximity: 0.7794 {macula-proximity}
   - strongs: H8269
-    proximity: 0.7751
+    lemma: שַׂר
+    gloss: a head person {openscriptures-strongs}
+    proximity: 0.7751 {macula-proximity}
   - strongs: H5993
-    proximity: 0.741
+    lemma: עַמִּי נָדִיב
+    gloss: Ammi-Nadib {openscriptures-strongs}
+    proximity: 0.741 {macula-proximity}
   cross_language:
   - strongs: G4080
-    proximity: 0.8013
+    lemma: πηλίκος
+    gloss: how much {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
     language: greek
   - strongs: G1784
-    proximity: 0.7998
+    lemma: ἔντιμος
+    gloss: valued {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
     language: greek
   - strongs: G5092
-    proximity: 0.7891
+    lemma: τιμή
+    gloss: a value {openscriptures-strongs}
+    proximity: 0.7891 {macula-proximity}
     language: greek
   - strongs: G2158
-    proximity: 0.7845
+    lemma: εὐσχήμων
+    gloss: well-formed {openscriptures-strongs}
+    proximity: 0.7845 {macula-proximity}
     language: greek
   - strongs: G446
-    proximity: 0.7724
+    proximity: 0.7724 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

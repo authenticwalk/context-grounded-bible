@@ -6,48 +6,69 @@ pronunciation: mik-neh'
 definition: something bought, i.e. property, but only livestock; abstractly, acquisition
 kjv_usage: cattle, flock, herd, possession, purchase, substance.
 derivation: from H7069 (קָנָה);
-extended_definition:
-  gloss: livestock
-  definition: 1) cattle, livestock<br>1a) cattle, livestock<br>1a1) in general of
-    a purchasable domestic animal<br>1b) cows, sheep, goats (in herds and flocks)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) cattle, livestock
+
+  1a) cattle, livestock
+
+  1a1) in general of a purchasable domestic animal
+
+  1b) cows, sheep, goats (in herds and flocks) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2416c
-    proximity: 0.8287
+    proximity: 0.8287 {macula-proximity}
   - strongs: H4399
-    proximity: 0.8255
+    lemma: מְלָאכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: H4830
-    proximity: 0.8215
+    lemma: מִרְעִית
+    gloss: pasturage {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H7716
-    proximity: 0.8151
+    lemma: שֶׂה
+    gloss: a member of a flock {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
   - strongs: H4806
-    proximity: 0.8099
+    lemma: מְרִיא
+    gloss: stall-fed {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
   - strongs: H7794
-    proximity: 0.7883
+    lemma: שׁוֹר
+    gloss: a bullock {openscriptures-strongs}
+    proximity: 0.7883 {macula-proximity}
   - strongs: H7473
-    proximity: 0.7523
+    lemma: רֹעִי
+    gloss: pastoral {openscriptures-strongs}
+    proximity: 0.7523 {macula-proximity}
   - strongs: H6792
-    proximity: 0.7047
+    lemma: צֹנֵא
+    gloss: a flock {openscriptures-strongs}
+    proximity: 0.7047 {macula-proximity}
   cross_language:
   - strongs: G5608
-    proximity: 0.8296
+    lemma: ὠνέομαι
+    gloss: to purchase ) {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G2935
-    proximity: 0.8118
+    lemma: κτήτωρ
+    gloss: an owner {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
     language: greek
   - strongs: G4166
-    proximity: 0.8027
+    lemma: ποιμήν
+    gloss: a shepherd {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
     language: greek
   - strongs: G1016
-    proximity: 0.7935
+    lemma: βοῦς
+    gloss: an ox {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
     language: greek
   - strongs: G4168
-    proximity: 0.7225
+    lemma: ποίμνιον
+    gloss: a flock {openscriptures-strongs}
+    proximity: 0.7225 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

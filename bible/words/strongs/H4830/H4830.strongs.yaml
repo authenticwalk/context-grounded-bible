@@ -6,28 +6,35 @@ pronunciation: meer-eeth'
 definition: pasturage; concretely, a flock
 kjv_usage: flock, pasture.
 derivation: from H7462 (רָעָה) in the sense of feeding;
-extended_definition:
-  gloss: pasturing
-  definition: 1) pasturing, pasturage, shepherding<br>1a) pasturing, shepherding<br>1b)
-    pasturage<br>1c) flock (meton)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) pasturing, pasturage, shepherding
+
+  1a) pasturing, shepherding
+
+  1b) pasturage
+
+  1c) flock (meton) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4735
-    proximity: 0.8215
+    lemma: מִקְנֶה
+    gloss: something bought {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H4769
-    proximity: 0.8139
+    lemma: מַרְבֵּץ
+    gloss: a reclining place {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H4800
-    proximity: 0.8049
+    lemma: מֶרְחָב
+    gloss: enlargement {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H7716
-    proximity: 0.7939
+    lemma: שֶׂה
+    gloss: a member of a flock {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
   cross_language:
   - strongs: G4165
-    proximity: 0.7602
+    lemma: ποιμαίνω
+    gloss: to tend as a shepherd of (figuratively {openscriptures-strongs}
+    proximity: 0.7602 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

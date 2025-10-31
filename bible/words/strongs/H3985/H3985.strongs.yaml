@@ -6,42 +6,54 @@ pronunciation: maw-ane'
 definition: to refuse
 kjv_usage: refuse, [idiom] utterly.
 derivation: a primitive root;
-extended_definition:
-  gloss: to refuse
-  definition: (Piel) to refuse
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Piel) to refuse {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H830
-    proximity: 0.8293
+    proximity: 0.8293 {macula-proximity}
   - strongs: H3808
-    proximity: 0.8258
+    lemma: לֹא
+    gloss: not {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: A5122
-    proximity: 0.8178
+    proximity: 0.8178 {macula-proximity}
   - strongs: H1115
-    proximity: 0.8154
+    lemma: בִּלְתִּי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: H6569
-    proximity: 0.8137
+    lemma: פֶּרֶשׁ
+    gloss: excrement {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   - strongs: H1561
-    proximity: 0.8131
+    lemma: גֵּלֶל
+    gloss: dung {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
   - strongs: H1639
-    proximity: 0.8125
+    lemma: גָּרַע
+    gloss: to scrape off {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: H4651
-    proximity: 0.8049
+    lemma: מַפָּל
+    gloss: a falling off {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H6627
-    proximity: 0.7996
+    lemma: צָאָה
+    gloss: issue {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
   - strongs: H1828
-    proximity: 0.7989
+    lemma: דֹּמֶן
+    gloss: manure {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
   cross_language:
   - strongs: G5219
-    proximity: 0.8094
+    lemma: ὑπακούω
+    gloss: to hear under {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
     language: greek
   - strongs: G2967
-    proximity: 0.7915
+    lemma: κωλύω
+    gloss: to estop {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

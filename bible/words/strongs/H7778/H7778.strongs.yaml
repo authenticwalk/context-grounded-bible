@@ -7,45 +7,59 @@ definition: a janitor
 kjv_usage: doorkeeper, porter.
 derivation: or שֹׁעֵר active participle of H8176 (שָׁעַר) (as denominative from H8179
   (שַׁעַר));
-extended_definition:
-  gloss: gatekeeper
-  definition: gatekeeper, porter
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: gatekeeper, porter {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5341
-    proximity: 0.8252
+    lemma: נָצַר
+    gloss: to guard {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
   - strongs: H5201
-    proximity: 0.8247
+    lemma: נָטַר
+    gloss: to guard {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.8155
+    proximity: 0.8155 {macula-proximity}
   - strongs: H6488
-    proximity: 0.8041
+    lemma: פְּקִדֻת
+    gloss: supervision {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
   - strongs: H8108
-    proximity: 0.765
+    lemma: שׇׁמְרָה
+    gloss: watchfulness {openscriptures-strongs}
+    proximity: 0.765 {macula-proximity}
   - strongs: H8104
-    proximity: 0.7573
+    lemma: שָׁמַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7573 {macula-proximity}
   - strongs: H8179
-    proximity: 0.7206
+    lemma: שַׁעַר
+    gloss: an opening {openscriptures-strongs}
+    proximity: 0.7206 {macula-proximity}
   cross_language:
   - strongs: G5441
-    proximity: 0.8296
+    lemma: φύλαξ
+    gloss: a watcher or sentry {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G3511
-    proximity: 0.7975
+    lemma: νεωκόρος
+    gloss: a temple-servant {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
     language: greek
   - strongs: G4755
-    proximity: 0.7911
+    lemma: στρατηγός
+    gloss: a general {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
     language: greek
   - strongs: G2892
-    proximity: 0.776
+    lemma: κουστωδία
+    gloss: '"custody" {openscriptures-strongs}'
+    proximity: 0.776 {macula-proximity}
     language: greek
   - strongs: G5432
-    proximity: 0.7587
+    lemma: φρουρέω
+    gloss: to be a watcher in advance {openscriptures-strongs}
+    proximity: 0.7587 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,43 +5,50 @@ transliteration: chrēsteúomai
 definition: to show oneself useful, i.e. act benevolently
 kjv_usage: be kind
 derivation: middle voice from G5543 (χρηστός);
-extended_definition:
-  gloss: be kind
-  definition: '<b>χρηστεύομαι</b><BR /> (χρηστός), <BR /><b>to be kind</b>: <ref=''1Co.13.4''>1Co.13:4</ref>
-    (eccl.).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> χρηστεύομαι</b>, <br /> <b>to be kind</b> or <b>merciful,</b>
-    [<a href="javascript:void(0)" title=" NT.1Cor.13.4. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'χρηστεύομαι
+
+  (χρηστός),
+
+  to be kind: 1Co.13:4 (eccl.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'χρηστεύομαι,
+
+  to be kind or merciful, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2472
-    proximity: 0.8214
+    lemma: ἰσότιμος
+    gloss: of equal value or honor {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: A2604
-    proximity: 0.7894
+    proximity: 0.7894 {macula-proximity}
   - strongs: G2261
-    proximity: 0.7778
+    lemma: ἤπιος
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   cross_language:
   - strongs: H4938
-    proximity: 0.8259
+    lemma: מִשְׁעֵנָה
+    gloss: support {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: hebrew
   - strongs: H7349
-    proximity: 0.8236
+    lemma: רַחוּם
+    gloss: compassionate {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
     language: hebrew
   - strongs: H2623
-    proximity: 0.8203
+    lemma: חָסִיד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
     language: hebrew
   - strongs: H4937a
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
     language: hebrew
   - strongs: H2177
-    proximity: 0.813
+    lemma: זַן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

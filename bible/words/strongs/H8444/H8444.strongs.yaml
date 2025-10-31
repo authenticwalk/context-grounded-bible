@@ -7,46 +7,65 @@ definition: (only in plural collective) exit, i.e. (geographical) boundary, or (
   deliverance, (actively) source
 kjv_usage: border(-s), going(-s) forth (out), issues, outgoings.
 derivation: or תֹּצָאָה; from H3318 (יָצָא);
-extended_definition:
-  gloss: outgoing
-  definition: 1) outgoing, border, a going out, extremity, end, source, escape<br>1a)
-    outgoing, extremity (of border)<br>1b) source (of life)<br>1c) escape (from death)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) outgoing, border, a going out, extremity, end, source, escape
+
+  1a) outgoing, extremity (of border)
+
+  1b) source (of life)
+
+  1c) escape (from death) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4617a
-    proximity: 0.8279
+    proximity: 0.8279 {macula-proximity}
   - strongs: A5705
-    proximity: 0.8274
+    proximity: 0.8274 {macula-proximity}
   - strongs: H8503
-    proximity: 0.826
+    lemma: תַּכְלִית
+    gloss: completion {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
   - strongs: H1379
-    proximity: 0.8214
+    lemma: גָּבַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H4161
-    proximity: 0.8092
+    lemma: מוֹצָא
+    gloss: a going forth {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: H4726
-    proximity: 0.8089
+    lemma: מָקוֹר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: H2014
-    proximity: 0.798
+    lemma: הֲפֻגָה
+    gloss: relaxation {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
   - strongs: H4599
-    proximity: 0.7907
+    lemma: מַעְיָן
+    gloss: a fountain {openscriptures-strongs}
+    proximity: 0.7907 {macula-proximity}
   - strongs: H6413
-    proximity: 0.7889
+    lemma: פְּלֵיטָה
+    gloss: deliverance {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
   - strongs: H7078
-    proximity: 0.7872
+    lemma: קֶנֶץ
+    gloss: perversion {openscriptures-strongs}
+    proximity: 0.7872 {macula-proximity}
   cross_language:
   - strongs: G5343
-    proximity: 0.8283
+    lemma: φεύγω
+    gloss: to run away {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
     language: greek
   - strongs: G4009
-    proximity: 0.7766
+    lemma: πέρας
+    gloss: an extremity {openscriptures-strongs}
+    proximity: 0.7766 {macula-proximity}
     language: greek
   - strongs: G4930
-    proximity: 0.7738
+    lemma: συντέλεια
+    gloss: entire completion {openscriptures-strongs}
+    proximity: 0.7738 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

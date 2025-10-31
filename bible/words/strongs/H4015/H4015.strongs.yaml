@@ -6,42 +6,50 @@ pronunciation: mib-rawkh'
 definition: a refugee
 kjv_usage: fugitive.
 derivation: from H1272 (בָּרַח);
-extended_definition:
-  gloss: fugitive
-  definition: fugitive, flight
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: fugitive, flight {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4005
-    proximity: 0.8273
+    lemma: מִבְחָר
+    gloss: select {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
   - strongs: H2648
-    proximity: 0.8231
+    lemma: חָפַז
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H120
-    proximity: 0.8228
+    proximity: 0.8228 {macula-proximity}
   - strongs: H970
-    proximity: 0.8138
+    proximity: 0.8138 {macula-proximity}
   - strongs: H582
-    proximity: 0.8122
+    proximity: 0.8122 {macula-proximity}
   - strongs: H5074
-    proximity: 0.8048
+    lemma: נָדַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
   - strongs: H1397
-    proximity: 0.7997
+    lemma: גֶּבֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
   - strongs: H4421
-    proximity: 0.7989
+    lemma: מִלְחָמָה
+    gloss: a battle {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
   - strongs: H2593
-    proximity: 0.7752
+    lemma: חָנִיךְ
+    gloss: initiated {openscriptures-strongs}
+    proximity: 0.7752 {macula-proximity}
   - strongs: H1368
-    proximity: 0.7613
+    lemma: גִּבּוֹר
+    gloss: powerful {openscriptures-strongs}
+    proximity: 0.7613 {macula-proximity}
   cross_language:
   - strongs: G444
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G5343
-    proximity: 0.7683
+    lemma: φεύγω
+    gloss: to run away {openscriptures-strongs}
+    proximity: 0.7683 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

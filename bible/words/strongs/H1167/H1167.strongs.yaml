@@ -11,50 +11,68 @@ kjv_usage: '[phrase] archer, [phrase] babbler, [phrase] bird, captain, chief man
   hath it, have, [phrase] horseman, husband, lord, man, [phrase] married, master,
   person, [phrase] sworn, they of.'
 derivation: from H1166 (בָּעַל);
-extended_definition:
-  gloss: 'master: [master of]'
-  definition: ': [master_of](DESCRIPTOR)<br>1) owner, husband, lord<br>1a) owner<br>1b)
-    a husband<br>1c) citizens, inhabitants<br>1d) rulers, lords<br>1e) (noun of relationship
-    used to characterise-ie, master of dreams)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': [master_of](DESCRIPTOR)
+
+  1) owner, husband, lord
+
+  1a) owner
+
+  1b) a husband
+
+  1c) citizens, inhabitants
+
+  1d) rulers, lords
+
+  1e) (noun of relationship used to characterise-ie, master of dreams) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1172
-    proximity: 0.8281
+    lemma: בַּעֲלָה
+    gloss: a mistress {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H3816
-    proximity: 0.8237
+    lemma: לְאֹם
+    gloss: a community {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: H7199
-    proximity: 0.8232
+    lemma: קַשָּׁת
+    gloss: a bowman {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H3384c
-    proximity: 0.822
+    proximity: 0.822 {macula-proximity}
   - strongs: A5776
-    proximity: 0.8174
+    proximity: 0.8174 {macula-proximity}
   - strongs: H249
-    proximity: 0.8153
+    proximity: 0.8153 {macula-proximity}
   - strongs: H582
-    proximity: 0.812
+    proximity: 0.812 {macula-proximity}
   - strongs: H2492a
-    proximity: 0.8118
+    proximity: 0.8118 {macula-proximity}
   - strongs: H136
-    proximity: 0.8111
+    proximity: 0.8111 {macula-proximity}
   - strongs: H7228
-    proximity: 0.8085
+    lemma: רַב
+    gloss: an archer {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
   cross_language:
   - strongs: G3732
-    proximity: 0.8206
+    lemma: ὄρνεον
+    gloss: a birdling {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G2519
-    proximity: 0.8137
+    lemma: καθηγητής
+    gloss: a guide {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
     language: greek
   - strongs: G5220
-    proximity: 0.8005
+    lemma: ὕπανδρος
+    gloss: in subjection under a man {openscriptures-strongs}
+    proximity: 0.8005 {macula-proximity}
     language: greek
   - strongs: G3793
-    proximity: 0.7921
+    lemma: ὄχλος
+    gloss: a throng {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,25 +6,25 @@ pronunciation: dah'-mah
 definition: a tear; figuratively, juice
 kjv_usage: liquor.
 derivation: from H1830 (דָּמַע);
-extended_definition:
-  gloss: juice
-  definition: juice
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: juice {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4952
-    proximity: 0.7958
+    lemma: מִשְׁרָה
+    gloss: maceration {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
   - strongs: H3342
-    proximity: 0.7714
+    lemma: יֶקֶב
+    gloss: a trough {openscriptures-strongs}
+    proximity: 0.7714 {macula-proximity}
   - strongs: H6071
-    proximity: 0.7019
+    lemma: עָסִיס
+    gloss: must or fresh grape-juice {openscriptures-strongs}
+    proximity: 0.7019 {macula-proximity}
   cross_language:
   - strongs: G5276
-    proximity: 0.8043
+    lemma: ὑπολήνιον
+    gloss: vessel or receptacle under the press {openscriptures-strongs}
+    proximity: 0.8043 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

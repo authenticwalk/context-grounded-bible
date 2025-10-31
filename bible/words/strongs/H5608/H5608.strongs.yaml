@@ -11,38 +11,55 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H6610
-    proximity: 0.8198
+    lemma: פִּתְחוֹן
+    gloss: opening {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
   - strongs: A4449
-    proximity: 0.8157
+    proximity: 0.8157 {macula-proximity}
   - strongs: H5042
-    proximity: 0.8149
+    lemma: נָבַע
+    gloss: to gush forth {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
   - strongs: H5002
-    proximity: 0.8147
+    lemma: נְאֻם
+    gloss: an oracle {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: H5610
-    proximity: 0.8106
+    lemma: סְפָר
+    gloss: a census {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
   - strongs: H6485
-    proximity: 0.8051
+    lemma: פָּקַד
+    gloss: to visit {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
   - strongs: A3046
-    proximity: 0.7952
+    proximity: 0.7952 {macula-proximity}
   - strongs: H2330
-    proximity: 0.7936
+    lemma: חוּד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7936 {macula-proximity}
   cross_language:
   - strongs: G133
-    proximity: 0.8234
+    proximity: 0.8234 {macula-proximity}
     language: greek
   - strongs: G3377
-    proximity: 0.8135
+    lemma: μηνύω
+    gloss: to disclose {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
     language: greek
   - strongs: G4814
-    proximity: 0.8133
+    lemma: συλλαλέω
+    gloss: to talk together {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
     language: greek
   - strongs: G5346
-    proximity: 0.8119
+    lemma: φημί
+    gloss: to show or make known one's thoughts {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
     language: greek
   - strongs: G2097
-    proximity: 0.8099
+    lemma: εὐαγγελίζω
+    gloss: to announce good news  especially the gospel {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

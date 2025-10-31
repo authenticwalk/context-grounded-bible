@@ -7,50 +7,65 @@ definition: to come in contact with, whether by accident or violence; figurative
   to concur
 kjv_usage: meet (with, together).
 derivation: a primitive root;
-extended_definition:
-  gloss: to meet
-  definition: 1) to meet, join, encounter<br>1a) (Qal) to meet, encounter<br>1b) (Niphal)
-    to meet together, meet each other<br>1c) (Piel) to meet, encounter
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to meet, join, encounter
+
+  1a) (Qal) to meet, encounter
+
+  1b) (Niphal) to meet together, meet each other
+
+  1c) (Piel) to meet, encounter {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3807a
-    proximity: 0.8262
+    proximity: 0.8262 {macula-proximity}
   - strongs: H871a
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
   - strongs: H2050a
-    proximity: 0.8151
+    proximity: 0.8151 {macula-proximity}
   - strongs: H3162a
-    proximity: 0.8081
+    proximity: 0.8081 {macula-proximity}
   - strongs: H4150
-    proximity: 0.7965
+    lemma: מוֹעֵד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7965 {macula-proximity}
   - strongs: H4672
-    proximity: 0.7783
+    lemma: מָצָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7783 {macula-proximity}
   - strongs: A7912
-    proximity: 0.7783
+    proximity: 0.7783 {macula-proximity}
   - strongs: H6923
-    proximity: 0.7613
+    lemma: קָדַם
+    gloss: to project {openscriptures-strongs}
+    proximity: 0.7613 {macula-proximity}
   - strongs: H3259
-    proximity: 0.7409
+    lemma: יָעַד
+    gloss: to fix upon {openscriptures-strongs}
+    proximity: 0.7409 {macula-proximity}
   cross_language:
   - strongs: G2147
-    proximity: 0.8271
+    lemma: εὑρίσκω
+    gloss: to find {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G1722
-    proximity: 0.8267
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.8267 {macula-proximity}
     language: greek
   - strongs: G2192
-    proximity: 0.794
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.794 {macula-proximity}
     language: greek
   - strongs: G4045
-    proximity: 0.7726
+    lemma: περιπίπτω
+    gloss: to fall into something that is all around {openscriptures-strongs}
+    proximity: 0.7726 {macula-proximity}
     language: greek
   - strongs: G4820
-    proximity: 0.7576
+    lemma: συμβάλλω
+    gloss: to combine {openscriptures-strongs}
+    proximity: 0.7576 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

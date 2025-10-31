@@ -7,30 +7,34 @@ definition: an unclean (acquatic) bird; probably the heron (perhaps from its blo
   cry, or because the nightheron is meant ))
 kjv_usage: (great) owl.s
 derivation: or יַנְשׁוֹף; apparently from H5398 (נָשַׁף); (compare H5399 (נֶשֶׁף))
-extended_definition:
-  gloss: owl
-  definition: 1) great owl, eared owl<br>1a) an unclean animal
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) great owl, eared owl
+
+  1a) an unclean animal {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3377
-    proximity: 0.8298
+    lemma: יָרֵב
+    gloss: Jareb {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: H8580a
-    proximity: 0.8146
+    proximity: 0.8146 {macula-proximity}
   - strongs: H1419
-    proximity: 0.7854
+    lemma: גָּדוֹל
+    gloss: great {openscriptures-strongs}
+    proximity: 0.7854 {macula-proximity}
   - strongs: H6538
-    proximity: 0.7211
+    lemma: פֶּרֶס
+    gloss: a claw {openscriptures-strongs}
+    proximity: 0.7211 {macula-proximity}
   cross_language:
   - strongs: G3173
-    proximity: 0.7911
+    lemma: μέγας
+    gloss: big (literally or figuratively {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
     language: greek
   - strongs: G3187
-    proximity: 0.7528
+    lemma: μείζων
+    gloss: larger (literally or figuratively {openscriptures-strongs}
+    proximity: 0.7528 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -8,49 +8,65 @@ kjv_usage: churlish, cruel, grievous, hard((-hearted), thing), heavy, [phrase] i
   obstinate, prevailed, rough(-ly), sore, sorrowful, stiff(necked), stubborn, [phrase]
   in trouble.
 derivation: from H7185 (קָשָׁה);
-extended_definition:
-  gloss: severe
-  definition: 1) hard, cruel, severe, obstinate<br>1a) hard, difficult<br>1b) severe<br>1c)
-    fierce, intense, vehement<br>1d) stubborn, stiff of neck, stiff-necked<br>1e)
-    rigorous (of battle)
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) hard, cruel, severe, obstinate
+
+  1a) hard, difficult
+
+  1b) severe
+
+  1c) fierce, intense, vehement
+
+  1d) stubborn, stiff of neck, stiff-necked
+
+  1e) rigorous (of battle) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2394
-    proximity: 0.8287
+    lemma: חׇזְקָה
+    gloss: vehemence {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H393
-    proximity: 0.813
+    proximity: 0.813 {macula-proximity}
   - strongs: H7188
-    proximity: 0.803
+    lemma: קָשַׁח
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
   - strongs: H5794
-    proximity: 0.7972
+    lemma: עַז
+    gloss: strong {openscriptures-strongs}
+    proximity: 0.7972 {macula-proximity}
   - strongs: H6089a
-    proximity: 0.7644
+    proximity: 0.7644 {macula-proximity}
   - strongs: H5637
-    proximity: 0.7626
+    lemma: סָרַר
+    gloss: to turn away {openscriptures-strongs}
+    proximity: 0.7626 {macula-proximity}
   - strongs: H7190
-    proximity: 0.7602
+    lemma: קְשִׁי
+    gloss: obstinacy {openscriptures-strongs}
+    proximity: 0.7602 {macula-proximity}
   - strongs: H6695a
-    proximity: 0.7509
+    proximity: 0.7509 {macula-proximity}
   cross_language:
   - strongs: G663
-    proximity: 0.8139
+    proximity: 0.8139 {macula-proximity}
     language: greek
   - strongs: G2478
-    proximity: 0.8069
+    lemma: ἰσχυρός
+    gloss: forcible {openscriptures-strongs}
+    proximity: 0.8069 {macula-proximity}
     language: greek
   - strongs: G926
-    proximity: 0.7988
+    proximity: 0.7988 {macula-proximity}
     language: greek
   - strongs: G4457
-    proximity: 0.7959
+    lemma: πώρωσις
+    gloss: stupidity or callousness {openscriptures-strongs}
+    proximity: 0.7959 {macula-proximity}
     language: greek
   - strongs: G5467
-    proximity: 0.7601
+    lemma: χαλεπός
+    gloss: difficult {openscriptures-strongs}
+    proximity: 0.7601 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

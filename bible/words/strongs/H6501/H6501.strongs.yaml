@@ -7,51 +7,61 @@ definition: the onager
 kjv_usage: wild (ass).
 derivation: or פֶּרֶה; (Jeremiah 2:24), from H6500 (פָּרָא) in the secondary sense
   of running wild;
-extended_definition:
-  gloss: wild donkey
-  definition: wild ass
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: wild ass {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7704a
-    proximity: 0.8079
+    proximity: 0.8079 {macula-proximity}
   - strongs: H6506
-    proximity: 0.7728
+    lemma: פִּרְדָּה
+    gloss: a she-mule {openscriptures-strongs}
+    proximity: 0.7728 {macula-proximity}
   - strongs: H5895
-    proximity: 0.7705
+    lemma: עַיִר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7705 {macula-proximity}
   - strongs: H3277
-    proximity: 0.7676
+    lemma: יָעֵל
+    gloss: an ibex {openscriptures-strongs}
+    proximity: 0.7676 {macula-proximity}
   - strongs: H7214
-    proximity: 0.7651
+    lemma: רְאֵם
+    gloss: a wild bull {openscriptures-strongs}
+    proximity: 0.7651 {macula-proximity}
   - strongs: H1250a
-    proximity: 0.7624
+    proximity: 0.7624 {macula-proximity}
   - strongs: H689
-    proximity: 0.7601
+    proximity: 0.7601 {macula-proximity}
   - strongs: H6171
-    proximity: 0.7575
+    lemma: עָרוֹד
+    gloss: an onager {openscriptures-strongs}
+    proximity: 0.7575 {macula-proximity}
   - strongs: A1251
-    proximity: 0.7558
+    proximity: 0.7558 {macula-proximity}
   - strongs: H355
-    proximity: 0.7405
+    proximity: 0.7405 {macula-proximity}
   cross_language:
   - strongs: G2341
-    proximity: 0.7978
+    lemma: θηριομαχέω
+    gloss: to be a beast-fighter {openscriptures-strongs}
+    proximity: 0.7978 {macula-proximity}
     language: greek
   - strongs: G65
-    proximity: 0.7939
+    proximity: 0.7939 {macula-proximity}
     language: greek
   - strongs: G4454
-    proximity: 0.7674
+    lemma: πῶλος
+    gloss: a "foal" or "filly" {openscriptures-strongs}
+    proximity: 0.7674 {macula-proximity}
     language: greek
   - strongs: G3678
-    proximity: 0.7527
+    lemma: ὀνάριον
+    gloss: a little ass {openscriptures-strongs}
+    proximity: 0.7527 {macula-proximity}
     language: greek
   - strongs: G3684
-    proximity: 0.7213
+    lemma: ὀνικός
+    gloss: belonging to a ass {openscriptures-strongs}
+    proximity: 0.7213 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

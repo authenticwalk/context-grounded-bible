@@ -10,21 +10,26 @@ derivation: from H3722 (כָּפַר);
 related_words:
   synonyms:
   - strongs: H2050b
-    proximity: 0.798
+    proximity: 0.798 {macula-proximity}
   - strongs: H6745
-    proximity: 0.7917
+    lemma: צֵלָחָה
+    gloss: something protracted or flattened out {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: H4219
-    proximity: 0.7828
+    lemma: מִזְרָק
+    gloss: a bowl {openscriptures-strongs}
+    proximity: 0.7828 {macula-proximity}
   - strongs: H101
-    proximity: 0.7523
+    proximity: 0.7523 {macula-proximity}
   cross_language:
   - strongs: G1538
-    proximity: 0.8075
+    lemma: ἕκαστος
+    gloss: each or every {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
     language: greek
   - strongs: G5165
-    proximity: 0.802
+    lemma: τρύβλιον
+    gloss: a bowl {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

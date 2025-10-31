@@ -6,47 +6,69 @@ pronunciation: kaw-tsats'
 definition: to chop off (literally or figuratively)
 kjv_usage: cut (asunder, in pieces, in sunder, off), [idiom] utmost.
 derivation: a primitive root;
-extended_definition:
-  gloss: to cut
-  definition: '1) to cut off<br>1a) (Qal) to cut off<br>1b) (Piel) to cut or hew off,
-    cut in two, cut in pieces<br>1c) (Pual) to be cut or hewn off<BR>Aramaic equivalent:
-    <i>qe.tsats</i> (קְצַץ "to cut" H7113)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to cut off
+
+  1a) (Qal) to cut off
+
+  1b) (Piel) to cut or hew off, cut in two, cut in pieces
+
+  1c) (Pual) to be cut or hewn off
+
+  Aramaic equivalent: qe.tsats (קְצַץ "to cut" H7113) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5586
-    proximity: 0.8252
+    lemma: סָעַף
+    gloss: to disbranch {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
   - strongs: H7843
-    proximity: 0.8237
+    lemma: שָׁחַת
+    gloss: to decay {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: H3697
-    proximity: 0.8211
+    lemma: כָּסַם
+    gloss: to shear {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
   - strongs: H3034a
-    proximity: 0.8197
+    proximity: 0.8197 {macula-proximity}
   - strongs: H1629
-    proximity: 0.8173
+    lemma: גָּרַז
+    gloss: to cut off {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
   - strongs: H6977
-    proximity: 0.8166
+    lemma: קְוֻצָּה
+    gloss: a forelock {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
   - strongs: H5422
-    proximity: 0.8141
+    lemma: נָתַץ
+    gloss: to tear down {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: H7591
-    proximity: 0.8138
+    lemma: שְׁאִיָּה
+    gloss: desolation {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
   - strongs: H5408
-    proximity: 0.8081
+    lemma: נָתַח
+    gloss: to dismember {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
   - strongs: H1333
-    proximity: 0.7987
+    lemma: בָּתַק
+    gloss: to cut in pieces {openscriptures-strongs}
+    proximity: 0.7987 {macula-proximity}
   cross_language:
   - strongs: G1371
-    proximity: 0.8237
+    lemma: διχοτομέω
+    gloss: to bisect {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.8221
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
     language: greek
   - strongs: G3587
-    proximity: 0.7858
+    lemma: ξυράω
+    gloss: to shave or "shear" the hair {openscriptures-strongs}
+    proximity: 0.7858 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

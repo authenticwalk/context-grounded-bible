@@ -6,49 +6,67 @@ pronunciation: to'-kef
 definition: might or (figuratively) positiveness
 kjv_usage: authority, power, strength.
 derivation: from H8630 (תָּקַף);
-extended_definition:
-  gloss: power
-  definition: authority, power, strength, energy
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: authority, power, strength, energy {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A7229
-    proximity: 0.8288
+    proximity: 0.8288 {macula-proximity}
   - strongs: H2389
-    proximity: 0.8275
+    lemma: חָזָק
+    gloss: strong (usu. in a bad sense {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H7689
-    proximity: 0.8235
+    lemma: שַׂגִּיא
+    gloss: mighty {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: H4768
-    proximity: 0.823
+    lemma: מַרְבִּית
+    gloss: a multitude {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: H3027
-    proximity: 0.8204
+    lemma: יָד
+    gloss: a hand (the open one (indicating power {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
   - strongs: H2393
-    proximity: 0.8204
+    lemma: חֶזְקָה
+    gloss: prevailing power {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
   - strongs: H5808
-    proximity: 0.8203
+    lemma: עִזּוּז
+    gloss: forcible {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: H7989
-    proximity: 0.8078
+    lemma: שַׁלִּיט
+    gloss: potent {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   - strongs: H3955
-    proximity: 0.8021
+    lemma: לְשַׁד
+    gloss: vigor {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
   cross_language:
   - strongs: G1743
-    proximity: 0.8289
+    lemma: ἐνδυναμόω
+    gloss: to empower {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: greek
   - strongs: G1415
-    proximity: 0.8189
+    lemma: δυνατός
+    gloss: powerful or capable {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
     language: greek
   - strongs: G5247
-    proximity: 0.803
+    lemma: ὑπεροχή
+    gloss: prominence {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
     language: greek
   - strongs: G4080
-    proximity: 0.7993
+    lemma: πηλίκος
+    gloss: how much {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
     language: greek
   - strongs: G2715
-    proximity: 0.7965
+    lemma: κατεξουσιάζω
+    gloss: to have  full privilege over {openscriptures-strongs}
+    proximity: 0.7965 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

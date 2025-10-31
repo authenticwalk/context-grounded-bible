@@ -6,35 +6,43 @@ pronunciation: maw-tawr'
 definition: rain
 kjv_usage: rain.
 derivation: from H4305 (מָטַר);
-extended_definition:
-  gloss: rain
-  definition: rain
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: rain {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7858
-    proximity: 0.819
+    lemma: שֶׁטֶף
+    gloss: a deluge {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   - strongs: H8663a
-    proximity: 0.8185
+    proximity: 0.8185 {macula-proximity}
   - strongs: H4325
-    proximity: 0.7984
+    lemma: מַיִם
+    gloss: water {openscriptures-strongs}
+    proximity: 0.7984 {macula-proximity}
   - strongs: H2385
-    proximity: 0.7821
+    lemma: חֲזִיז
+    gloss: a flash of lightning {openscriptures-strongs}
+    proximity: 0.7821 {macula-proximity}
   - strongs: H5492
-    proximity: 0.7678
+    lemma: סוּפָה
+    gloss: a hurricane {openscriptures-strongs}
+    proximity: 0.7678 {macula-proximity}
   - strongs: H5591
-    proximity: 0.7519
+    lemma: סַעַר
+    gloss: a hurricane {openscriptures-strongs}
+    proximity: 0.7519 {macula-proximity}
   - strongs: H8183
-    proximity: 0.7454
+    lemma: שְׂעָרָה
+    gloss: a hurricane {openscriptures-strongs}
+    proximity: 0.7454 {macula-proximity}
   - strongs: H5584
-    proximity: 0.7224
+    lemma: סָעָה
+    gloss: to rush {openscriptures-strongs}
+    proximity: 0.7224 {macula-proximity}
   cross_language:
   - strongs: G3655
-    proximity: 0.7165
+    lemma: ὄμβρος
+    gloss: a thunder storm {openscriptures-strongs}
+    proximity: 0.7165 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

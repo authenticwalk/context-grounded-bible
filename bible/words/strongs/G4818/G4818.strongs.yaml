@@ -5,55 +5,58 @@ transliteration: syllypéō
 definition: to afflict jointly, i.e. (passive) sorrow at (on account of) someone
 kjv_usage: be grieved
 derivation: from G4862 (σύν) and G3076 (λυπέω);
-extended_definition:
-  gloss: be grieved
-  definition: '<b>συν-λυπέω</b><BR /> (Rec. συλλ-), -ῶ, [in LXX: <ref=''Psa.69.20''>Psa.69:20</ref>,
-    <ref=''Isa.51.19''>Isa.51:19</ref> (נוּד) * ;] <BR />to make to grieve with (Arist.).
-    Pass., <b>to be moved to grief by sympathy</b>: before ἐπί, with dative, <ref=''Mrk.3.5.''>Mrk.3:5.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συλλῡπέω</b>, <br /> <b>hurt</b> or <b>mortify together</b>,
-    σ. τινὰς αὑτοῖς <b>make</b> them <b>share</b> their <b>grief</b>, [<a href="javascript:void(0)"
-    title=" 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea” 1171b7. ">Refs 4th
-    c.BC+</a>]<br /><Level2><b>__II</b></Level2> <i>passive</i>, with <i>future</i>
-    <b>-λυπηθήσομαι</b>[<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus
-    6.39">Refs 5th c.BC+</a>], also <b>-λυπήσομαι</b> [<a href="javascript:void(0)"
-    title="5th-6th c.BC: Plato Philosophus “Respublica” 462e ">Refs 5th c.BC+</a>]:—<b>share
-    in grief, sympathize</b> or <b>condole</b>, [<a href="javascript:void(0)" title="
-    5th c.BC: Herodotus Historicus [same place], 5th c.BC: Antipho Orator 3.2.8; τῷ
-    πάθεϊ 5th c.BC: Herodotus Historicus 9.94: with _dative_ _person_, 4th-3rd c.BC:
-    Theophrastus Philosophus “Characteres” 1.2 ">Refs 5th c.BC+</a>]; τίς σοι -ηθήσετα;
-    [<a href="javascript:void(0)" title=" LXX.Isa.51.19. ">LXX</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συν-λυπέω
+
+  (Rec. συλλ-), -ῶ, [in LXX: Psa.69:20, Isa.51:19 (נוּד) * ;]
+
+  to make to grieve with (Arist.). Pass., to be moved to grief by sympathy: before
+  ἐπί, with dative, Mrk.3:5.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συλλῡπέω,
+
+  hurt or mortify together, σ. τινὰς αὑτοῖς make them share their grief, [Refs 4th
+  c.BC+]
+
+  __II passive, with future -λυπηθήσομαι[Refs 5th c.BC+], also -λυπήσομαι [Refs 5th
+  c.BC+]:—share in grief, sympathize or condole, [Refs 5th c.BC+]; τίς σοι -ηθήσετα;
+  [LXX] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5015
-    proximity: 0.8167
+    lemma: ταράσσω
+    gloss: to stir or agitate {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: G3601
-    proximity: 0.7857
+    lemma: ὀδύνη
+    gloss: grief {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
   - strongs: A888
-    proximity: 0.7606
+    proximity: 0.7606 {macula-proximity}
   cross_language:
   - strongs: H6862
-    proximity: 0.8299
+    lemma: צַר
+    gloss: narrow {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: hebrew
   - strongs: H3510
-    proximity: 0.8223
+    lemma: כָּאַב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: hebrew
   - strongs: H1672
-    proximity: 0.8209
+    lemma: דָּאַג
+    gloss: be anxious {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
     language: hebrew
   - strongs: H3708
-    proximity: 0.7929
+    lemma: כַּעַס
+    gloss: vexation {openscriptures-strongs}
+    proximity: 0.7929 {macula-proximity}
     language: hebrew
   - strongs: H8589
-    proximity: 0.7808
+    lemma: תַּעֲנִית
+    gloss: affliction {openscriptures-strongs}
+    proximity: 0.7808 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

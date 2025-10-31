@@ -5,57 +5,67 @@ transliteration: parakoḗ
 definition: inattention, i.e. (by implication) disobedience
 kjv_usage: disobedience
 derivation: from G3878 (παρακούω);
-extended_definition:
-  gloss: disobedience
-  definition: '<b>παρ-ακοή</b>, -ῆς, ἡ <BR /> __1. <b>a hearing amiss </b>(Flat.)<BR
-    /> __2. <b>Later, as following inattention, disobedience</b>: <ref=''Rom.5.19''>Rom.5:19</ref>,
-    <ref=''2Co.10.6''>2Co.10:6</ref>, <ref=''Heb.2.2''>Heb.2:2</ref> (cf. παρακούω,
-    and see Tr., <i>Syn.</i>, § lxvi).†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> παρᾰκοή</b>, ἡ, <br /> <b>that which has been heard imperfectly,
-    hearsay</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus
-    “Epistulae” 341b. ">Refs 5th c.BC+</a>]<br /><Level3><b>__2</b></Level3> <b>misunderstanding</b>,
-    [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 4.764, 8.629.
-    ">Refs 2nd c.AD+</a>]<br /><Level2><b>__II</b></Level2> <b>defect of hearing</b>,
-    [<a href="javascript:void(0)" title=" [prev. author] 7.108. ">Refs</a>]<br /><Level2><b>__III</b></Level2>
-    <b>unwillingness to hear, disobedience, contumacy,</b> [<a href="javascript:void(0)"
-    title="NT.Rom.5.19, NT.2Cor.10.6. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'παρ-ακοή, -ῆς, ἡ
+
+  __1. a hearing amiss (Flat.)
+
+  __2. Later, as following inattention, disobedience: Rom.5:19, 2Co.10:6, Heb.2:2
+  (cf. παρακούω, and see Tr., Syn., § lxvi).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'παρᾰκοή, ἡ,
+
+  that which has been heard imperfectly, hearsay, [Refs 5th c.BC+]
+
+  __2 misunderstanding, [Refs 2nd c.AD+]
+
+  __II defect of hearing, [Refs]
+
+  __III unwillingness to hear, disobedience, contumacy, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1522
-    proximity: 0.8233
+    lemma: εἰσακούω
+    gloss: to listen to {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: G3982
-    proximity: 0.8173
+    lemma: πείθω
+    gloss: to convince (by argument {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
   - strongs: A849
-    proximity: 0.8105
+    proximity: 0.8105 {macula-proximity}
   - strongs: G3894
-    proximity: 0.798
+    lemma: παραπικρασμός
+    gloss: irritation {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
   - strongs: G1396
-    proximity: 0.7975
+    lemma: δουλαγωγέω
+    gloss: to be a slave-driver {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
   - strongs: G3893
-    proximity: 0.7893
+    lemma: παραπικραίνω
+    gloss: to embitter alongside {openscriptures-strongs}
+    proximity: 0.7893 {macula-proximity}
   cross_language:
   - strongs: H5627a
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
     language: hebrew
   - strongs: H7181
-    proximity: 0.8281
+    lemma: קָשַׁב
+    gloss: to prick up the ears {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: hebrew
   - strongs: H5637
-    proximity: 0.8273
+    lemma: סָרַר
+    gloss: to turn away {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
     language: hebrew
   - strongs: H4928
-    proximity: 0.8265
+    lemma: מִשְׁמַעַת
+    gloss: audience {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
     language: hebrew
   - strongs: H7750a
-    proximity: 0.8255
+    proximity: 0.8255 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

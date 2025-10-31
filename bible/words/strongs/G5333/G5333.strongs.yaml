@@ -4,36 +4,36 @@ lemma: φάρμακος
 transliteration: phármakos
 kjv_usage: sorcerer
 derivation: the same as 5332
-extended_definition:
-  gloss: sorcerer
-  definition: '<b>φαρμακός</b>, -ή, -όν <BR /> [in LXX for כָּשַׁף, etc. ;] <BR />devoted
-    to magical arts. As subst., ὁ φ. = φαρμακεύς, <b>a magician, sorcerer</b>: <ref=''Rev.21.8;
-    22.15''>Rev.21:8 22:15</ref>.†<BR /> (AS)'
-  morphology: G:N-M/N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> φάρμᾰκος</b> <br /> (on the accent see Hdn.Gr.1.150), ὁ, ἡ,
-    <b>poisoner, sorcerer, magician,</b> [<a href="javascript:void(0)" title=" LXX.Exo.7.11
-    (_masculine_), LXX.Mal.3.5 (_feminine_), NT.Rev.21.8, 22.15. ">LXX+NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'φαρμακός, -ή, -όν
+
+  [in LXX for כָּשַׁף, etc. ;]
+
+  devoted to magical arts. As subst., ὁ φ. = φαρμακεύς, a magician, sorcerer: Rev.21:8
+  22:15.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'φάρμᾰκος
+
+  (on the accent see Hdn.Gr.1.150), ὁ, ἡ, poisoner, sorcerer, magician, [LXX+NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3095
-    proximity: 0.7607
+    lemma: μαγεία
+    gloss: '"magic" {openscriptures-strongs}'
+    proximity: 0.7607 {macula-proximity}
   - strongs: G3097
-    proximity: 0.7404
+    lemma: μάγος
+    gloss: a Magian {openscriptures-strongs}
+    proximity: 0.7404 {macula-proximity}
   - strongs: G5331a
-    proximity: 0.7278
+    proximity: 0.7278 {macula-proximity}
   cross_language:
   - strongs: H3858a
-    proximity: 0.7978
+    proximity: 0.7978 {macula-proximity}
     language: hebrew
   - strongs: H3785
-    proximity: 0.7766
+    lemma: כֶּשֶׁף
+    gloss: magic {openscriptures-strongs}
+    proximity: 0.7766 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

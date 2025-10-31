@@ -6,37 +6,41 @@ pronunciation: hashmaw-ooth'
 definition: announcement
 kjv_usage: to cause to hear.
 derivation: from H8085 (שָׁמַע);
-extended_definition:
-  gloss: report
-  definition: a causing to hear, a report, a communication
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: a causing to hear, a report, a communication {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H854
-    proximity: 0.8289
+    proximity: 0.8289 {macula-proximity}
   - strongs: H241
-    proximity: 0.8271
+    proximity: 0.8271 {macula-proximity}
   - strongs: H8085
-    proximity: 0.7572
+    lemma: שָׁמַע
+    gloss: to hear intelligently (often with implication of attention {openscriptures-strongs}
+    proximity: 0.7572 {macula-proximity}
   cross_language:
   - strongs: G5334
-    proximity: 0.8259
+    lemma: φάσις
+    gloss: a saying {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G4862
-    proximity: 0.8155
+    lemma: σύν
+    gloss: with or together  or G3844 ) {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
     language: greek
   - strongs: G3878
-    proximity: 0.8124
+    lemma: παρακούω
+    gloss: to mishear {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
     language: greek
   - strongs: G1335
-    proximity: 0.8035
+    lemma: διήγεσις
+    gloss: a recital {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
     language: greek
   - strongs: G4257
-    proximity: 0.7556
+    lemma: προακούω
+    gloss: to hear already {openscriptures-strongs}
+    proximity: 0.7556 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

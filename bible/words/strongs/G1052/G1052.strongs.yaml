@@ -5,47 +5,60 @@ transliteration: Galátēs
 definition: a Galatian or inhabitant of Galatia
 kjv_usage: Galatian
 derivation: from G1053 (Γαλατία);
-extended_definition:
-  gloss: Galatian
-  definition: '<b>Γαλάτης</b>, -ου, ὁ (originally syn. with cl. Κέλτης; cf. <ref=''1Ma.8.2''>1Ma.8:2</ref>,
-    and see next word), <BR /> <b>a Galatian</b>: <ref=''Gal.3.1.''>Gal.3:1.</ref>†<BR
-    /> (AS)'
-  morphology: N:N--LG
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Γαλάτης</b>, -ου, ὁ (originally syn. with cl. Κέλτης; cf. <ref=''1Ma.8.2''>1Ma.8:2</ref>,
-    and see next word), <BR /> <b>a Galatian</b>: <ref=''Gal.3.1.''>Gal.3:1.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Γαλάτης, -ου, ὁ (originally syn. with cl. Κέλτης; cf. 1Ma.8:2,
+  and see next word),
+
+  a Galatian: Gal.3:1.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Γαλάτης, -ου, ὁ (originally syn. with cl. Κέλτης; cf. 1Ma.8:2, and see
+  next word),
+
+  a Galatian: Gal.3:1.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2453
-    proximity: 0.8256
+    lemma: Ἰουδαῖος
+    gloss: Judæan {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: G1057
-    proximity: 0.8231
+    lemma: Γαλιλαῖος
+    gloss: Galilean or belonging to Galilea {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: G2959
-    proximity: 0.813
+    lemma: Κυρία
+    gloss: Cyria {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
   - strongs: G2451
-    proximity: 0.8096
+    lemma: Ἰουδαϊκός
+    gloss: Judaïc {openscriptures-strongs}
+    proximity: 0.8096 {macula-proximity}
   - strongs: G914
-    proximity: 0.8047
+    proximity: 0.8047 {macula-proximity}
   - strongs: G2469
-    proximity: 0.795
+    lemma: Ἰσκαριώτης
+    gloss: inhabitant of Kerioth {openscriptures-strongs}
+    proximity: 0.795 {macula-proximity}
   - strongs: G1046
-    proximity: 0.7774
+    lemma: Γαδαρηνός
+    gloss: a Gadarene or inhabitant of Gadara {openscriptures-strongs}
+    proximity: 0.7774 {macula-proximity}
   cross_language:
   - strongs: H7435
-    proximity: 0.8287
+    lemma: רָמָתִי
+    gloss: a Ramathite or inhabitant of Ramah {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: hebrew
   - strongs: H1559
-    proximity: 0.8132
+    lemma: גָּלָל
+    gloss: Galal {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
     language: hebrew
   - strongs: H3625
-    proximity: 0.8106
+    lemma: כֶּלַח
+    gloss: Kelach {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

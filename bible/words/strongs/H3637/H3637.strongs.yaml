@@ -7,46 +7,62 @@ definition: properly, to wound; but only figuratively, to taunt or insult
 kjv_usage: be (make) ashamed, blush, be confounded, be put to confusion, hurt, reproach,
   (do, put to) shame.
 derivation: a primitive root;
-extended_definition:
-  gloss: be humiliated
-  definition: 1) to insult, shame, humiliate, blush, be ashamed, be put to shame,
-    be reproached, be put to confusion, be humiliated<br>1a) (Niphal)<br>1a1) to be
-    humiliated, be ashamed<br>1a2) to be put to shame, be dishonoured, be confounded<br>1b)
-    (Hiphil)<br>1b1) to put to shame, insult, humiliate, cause shame to<br>1b2) to
-    exhibit shame<br>1c) (Hophal)<br>1c1) to be insulted, be humiliated<br>1c2) to
-    be put to shame, be dishonoured, be confounded
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to insult, shame, humiliate, blush, be ashamed, be put to
+  shame, be reproached, be put to confusion, be humiliated
+
+  1a) (Niphal)
+
+  1a1) to be humiliated, be ashamed
+
+  1a2) to be put to shame, be dishonoured, be confounded
+
+  1b) (Hiphil)
+
+  1b1) to put to shame, insult, humiliate, cause shame to
+
+  1b2) to exhibit shame
+
+  1c) (Hophal)
+
+  1c1) to be insulted, be humiliated
+
+  1c2) to be put to shame, be dishonoured, be confounded {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5007
-    proximity: 0.8232
+    lemma: נְאָצָה
+    gloss: scorn {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H5844
-    proximity: 0.8202
+    lemma: עָטָה
+    gloss: to wrap {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   - strongs: H937
-    proximity: 0.8066
+    proximity: 0.8066 {macula-proximity}
   - strongs: H5034a
-    proximity: 0.7872
+    proximity: 0.7872 {macula-proximity}
   - strongs: H2616a
-    proximity: 0.7789
+    proximity: 0.7789 {macula-proximity}
   cross_language:
   - strongs: G1796
-    proximity: 0.8215
+    lemma: ἐνυβρίζω
+    gloss: to insult {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
     language: greek
   - strongs: G5013
-    proximity: 0.8074
+    lemma: ταπεινόω
+    gloss: to depress {openscriptures-strongs}
+    proximity: 0.8074 {macula-proximity}
     language: greek
   - strongs: G808
-    proximity: 0.7899
+    proximity: 0.7899 {macula-proximity}
     language: greek
   - strongs: G150
-    proximity: 0.7749
+    proximity: 0.7749 {macula-proximity}
     language: greek
   - strongs: G1165
-    proximity: 0.7584
+    lemma: δειγματίζω
+    gloss: to exhibit {openscriptures-strongs}
+    proximity: 0.7584 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

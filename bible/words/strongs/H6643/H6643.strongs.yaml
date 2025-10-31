@@ -9,40 +9,58 @@ derivation: from H6638 (צָבָה) in the sense of prominence;
 related_words:
   synonyms:
   - strongs: H5089
-    proximity: 0.8236
+    lemma: נֹהַּ
+    gloss: lamentation {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
   - strongs: A1922
-    proximity: 0.8147
+    proximity: 0.8147 {macula-proximity}
   - strongs: H5716
-    proximity: 0.8099
+    lemma: עֲדִי
+    gloss: finery {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
   - strongs: H3368
-    proximity: 0.7951
+    lemma: יָקָר
+    gloss: valuable {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
   - strongs: H5051
-    proximity: 0.7915
+    lemma: נֹגַהּ
+    gloss: brilliancy {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
   - strongs: H3366
-    proximity: 0.7904
+    lemma: יְקָר
+    gloss: value {openscriptures-strongs}
+    proximity: 0.7904 {macula-proximity}
   - strongs: H5000
-    proximity: 0.7841
+    lemma: נָאוֶה
+    gloss: suitable {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
   - strongs: H8231
-    proximity: 0.7784
+    lemma: שָׁפַר
+    gloss: to glisten {openscriptures-strongs}
+    proximity: 0.7784 {macula-proximity}
   - strongs: H3513
-    proximity: 0.7775
+    lemma: כָּבַד
+    gloss: to be heavy {openscriptures-strongs}
+    proximity: 0.7775 {macula-proximity}
   cross_language:
   - strongs: G2811
-    proximity: 0.817
+    lemma: κλέος
+    gloss: renown {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
     language: greek
   - strongs: G2570
-    proximity: 0.8131
+    lemma: καλός
+    proximity: 0.8131 {macula-proximity}
     language: greek
   - strongs: G1740
-    proximity: 0.8022
+    lemma: ἐνδοξάζω
+    gloss: to glorify {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
     language: greek
   - strongs: G791
-    proximity: 0.7993
+    proximity: 0.7993 {macula-proximity}
     language: greek
   - strongs: G541
-    proximity: 0.7885
+    proximity: 0.7885 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

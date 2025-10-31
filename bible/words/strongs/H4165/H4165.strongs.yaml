@@ -7,44 +7,52 @@ definition: properly, fusion, i.e. literally, a casting (of metal); figuratively
   a mass (of clay)
 kjv_usage: casting, hardness.
 derivation: from H5694 (עָגִיל);
-extended_definition:
-  gloss: casting
-  definition: a casting
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: a casting {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2213
-    proximity: 0.8162
+    lemma: זֵר
+    gloss: a chaplet {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H5262a
-    proximity: 0.8112
+    proximity: 0.8112 {macula-proximity}
   - strongs: H4568
-    proximity: 0.7915
+    lemma: מַעֲבֶה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
   - strongs: H3332
-    proximity: 0.7801
+    lemma: יָצַק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7801 {macula-proximity}
   - strongs: H3032
-    proximity: 0.7746
+    lemma: יָדַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7746 {macula-proximity}
   - strongs: H1208
-    proximity: 0.7538
+    lemma: בָּצוֹר
+    gloss: inaccessible {openscriptures-strongs}
+    proximity: 0.7538 {macula-proximity}
   - strongs: H4541
-    proximity: 0.7537
+    lemma: מַסֵּכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7537 {macula-proximity}
   - strongs: H6696b
-    proximity: 0.7424
+    proximity: 0.7424 {macula-proximity}
   cross_language:
   - strongs: G950
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
     language: greek
   - strongs: G4733
-    proximity: 0.8181
+    lemma: στερέωμα
+    gloss: something established {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
     language: greek
   - strongs: G4731
-    proximity: 0.7922
+    lemma: στερεός
+    gloss: stiff {openscriptures-strongs}
+    proximity: 0.7922 {macula-proximity}
     language: greek
   - strongs: G793
-    proximity: 0.7897
+    proximity: 0.7897 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

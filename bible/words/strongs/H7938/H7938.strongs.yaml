@@ -6,45 +6,59 @@ pronunciation: seh'-ker
 definition: wages
 kjv_usage: reward, sluices.
 derivation: from H7936 (שָׂכַר);
-extended_definition:
-  gloss: hire
-  definition: hire, wages
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: hire, wages {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6001
-    proximity: 0.8287
+    lemma: עָמֵל
+    gloss: toiling {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H6118
-    proximity: 0.8235
+    lemma: עֵקֶב
+    gloss: a heel {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: H2796
-    proximity: 0.8065
+    lemma: חָרָשׁ
+    gloss: a fabricator or any material {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
   - strongs: H7810
-    proximity: 0.8056
+    lemma: שַׁחַד
+    gloss: a donation {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H4991
-    proximity: 0.8013
+    lemma: מַתָּת
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
   - strongs: H8011
-    proximity: 0.781
+    lemma: שִׁלֻּמָה
+    gloss: retribution {openscriptures-strongs}
+    proximity: 0.781 {macula-proximity}
   - strongs: H1578
-    proximity: 0.7533
+    lemma: גְּמוּלָה
+    gloss: meaning the same {openscriptures-strongs}
+    proximity: 0.7533 {macula-proximity}
   cross_language:
   - strongs: G1434
-    proximity: 0.8101
+    lemma: δώρημα
+    gloss: a bestowment {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
     language: greek
   - strongs: G3618a
-    proximity: 0.808
+    proximity: 0.808 {macula-proximity}
     language: greek
   - strongs: G1431
-    proximity: 0.8069
+    lemma: δωρεά
+    gloss: a gratuity {openscriptures-strongs}
+    proximity: 0.8069 {macula-proximity}
     language: greek
   - strongs: G3411
-    proximity: 0.7659
+    lemma: μισθωτός
+    gloss: a wage-worker {openscriptures-strongs}
+    proximity: 0.7659 {macula-proximity}
     language: greek
   - strongs: G1017
-    proximity: 0.7516
+    lemma: βραβεῖον
+    gloss: an award {openscriptures-strongs}
+    proximity: 0.7516 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

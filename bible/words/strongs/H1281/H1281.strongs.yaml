@@ -7,31 +7,41 @@ definition: a fugitive, i.e. the serpent (as fleeing), and the constellation by 
   name
 kjv_usage: crooked, noble, piercing.
 derivation: or בָּרִחַ; (shortened) from H1272 (בָּרַח);
-extended_definition:
-  gloss: fleeing
-  definition: adj<br>1) fleeing<br>subst<br>2) fugitive
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'adj
+
+  1) fleeing
+
+  subst
+
+  2) fugitive {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7031
-    proximity: 0.8263
+    lemma: קַל
+    gloss: light {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: A5111
-    proximity: 0.8111
+    proximity: 0.8111 {macula-proximity}
   - strongs: H6412
-    proximity: 0.7458
+    lemma: פָּלִיט
+    gloss: a refugee {openscriptures-strongs}
+    proximity: 0.7458 {macula-proximity}
   - strongs: H1272
-    proximity: 0.7378
+    lemma: בָּרַח
+    gloss: to bolt {openscriptures-strongs}
+    proximity: 0.7378 {macula-proximity}
   - strongs: H4498
-    proximity: 0.7341
+    lemma: מָנוֹס
+    gloss: a retreat {openscriptures-strongs}
+    proximity: 0.7341 {macula-proximity}
   - strongs: H4015
-    proximity: 0.7238
+    lemma: מִבְרָח
+    gloss: a refugee {openscriptures-strongs}
+    proximity: 0.7238 {macula-proximity}
   cross_language:
   - strongs: G1628
-    proximity: 0.8097
+    lemma: ἐκφεύγω
+    gloss: to flee out {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -8,52 +8,65 @@ definition: properly (abstractly) spontaneity, or (adjectively) spontaneous; als
 kjv_usage: free(-will) offering, freely, plentiful, voluntary(-ily, offering), willing(-ly),
   offering).
 derivation: from H5068 (נָדַב);
-extended_definition:
-  gloss: voluntariness
-  definition: 1) voluntariness, free-will offering<br>1a) voluntariness<br>1b) freewill,
-    voluntary, offering
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) voluntariness, free-will offering
+
+  1a) voluntariness
+
+  1b) freewill, voluntary, offering {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4976
-    proximity: 0.8288
+    lemma: מַתָּן
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: H801
-    proximity: 0.8283
+    proximity: 0.8283 {macula-proximity}
   - strongs: H5081
-    proximity: 0.8231
+    lemma: נָדִיב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H7133a
-    proximity: 0.822
+    proximity: 0.822 {macula-proximity}
   - strongs: H817
-    proximity: 0.8202
+    proximity: 0.8202 {macula-proximity}
   - strongs: H5262
-    proximity: 0.8116
+    lemma: נֶסֶךְ
+    gloss: a libation {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   - strongs: H2598
-    proximity: 0.8071
+    lemma: חֲנֻכָּה
+    gloss: initiation {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
   - strongs: H5930
-    proximity: 0.8056
+    lemma: עֹלָה
+    gloss: a step or (collectively {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H8416
-    proximity: 0.7985
+    lemma: תְּהִלָּה
+    gloss: laudation {openscriptures-strongs}
+    proximity: 0.7985 {macula-proximity}
   - strongs: A4504
-    proximity: 0.7896
+    proximity: 0.7896 {macula-proximity}
   cross_language:
   - strongs: G399
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G4968
-    proximity: 0.8165
+    lemma: σφάγιον
+    gloss: a victim {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G4374
-    proximity: 0.8164
+    lemma: προσφέρω
+    gloss: to bear towards {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
     language: greek
   - strongs: G2133
-    proximity: 0.7932
+    lemma: εὔνοια
+    gloss: kindness {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
     language: greek
   - strongs: G830
-    proximity: 0.7872
+    proximity: 0.7872 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,42 +6,56 @@ pronunciation: ay'-der
 definition: an arrangement, i.e. muster (of animals)
 kjv_usage: drove, flock, herd.
 derivation: from H5737 (עֲדַר);
-extended_definition:
-  gloss: flock
-  definition: 1) flock, herd<br>1a) flock<br>1b) herds, flocks and herds
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) flock, herd
+
+  1a) flock
+
+  1b) herds, flocks and herds {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5519
-    proximity: 0.8258
+    lemma: סָךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H7285
-    proximity: 0.8121
+    lemma: רֶגֶשׁ
+    gloss: a tumultuous crowd {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H4220
-    proximity: 0.8048
+    lemma: מֵחַ
+    gloss: fat {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
   - strongs: H7794
-    proximity: 0.7668
+    lemma: שׁוֹר
+    gloss: a bullock {openscriptures-strongs}
+    proximity: 0.7668 {macula-proximity}
   - strongs: H220
-    proximity: 0.7312
+    proximity: 0.7312 {macula-proximity}
   - strongs: H2835
-    proximity: 0.722
+    lemma: חָשִׂף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.722 {macula-proximity}
   - strongs: H504
-    proximity: 0.7185
+    proximity: 0.7185 {macula-proximity}
   cross_language:
   - strongs: G1975
-    proximity: 0.8215
+    lemma: ἐπιπορεύομαι
+    gloss: to journey further {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
     language: greek
   - strongs: G3793
-    proximity: 0.817
+    lemma: ὄχλος
+    gloss: a throng {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
     language: greek
   - strongs: G4237
-    proximity: 0.8127
+    lemma: πρασιά
+    gloss: a garden plot {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
     language: greek
   - strongs: G2353
-    proximity: 0.7731
+    lemma: θρέμμα
+    gloss: stock {openscriptures-strongs}
+    proximity: 0.7731 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

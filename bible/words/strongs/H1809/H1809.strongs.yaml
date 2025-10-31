@@ -7,44 +7,64 @@ definition: to slacken or be feeble; figuratively, to be oppressed
 kjv_usage: bring low, dry up, be emptied, be not equal, fail, be impoverished, be
   made thin.
 derivation: a primitive root (compare H1802 (דָּלָה));
-extended_definition:
-  gloss: to languish
-  definition: 1) to hang, languish, hang down, be low<br>1a) (Qal)<br>1a1) to hang
-    low<br>1a2) to be low<br>1a3) of distress (fig.)<br>1a4) to languish, look weakly
-    (of eyes)<br>1b) (Niphal) to be brought low, be laid low
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to hang, languish, hang down, be low
+
+  1a) (Qal)
+
+  1a1) to hang low
+
+  1a2) to be low
+
+  1a3) of distress (fig.)
+
+  1a4) to languish, look weakly (of eyes)
+
+  1b) (Niphal) to be brought low, be laid low {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1639
-    proximity: 0.8294
+    lemma: גָּרַע
+    gloss: to scrape off {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: H4134
-    proximity: 0.8248
+    lemma: מוּךְ
+    gloss: to become thin {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: H5889
-    proximity: 0.8237
+    lemma: עָיֵף
+    gloss: languid {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: H5533b
-    proximity: 0.8205
+    proximity: 0.8205 {macula-proximity}
   - strongs: H535
-    proximity: 0.8112
+    proximity: 0.8112 {macula-proximity}
   - strongs: H3286
-    proximity: 0.8053
+    lemma: יָעַף
+    gloss: to tire {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H7817
-    proximity: 0.7993
+    lemma: שָׁחַח
+    gloss: to sink or depress {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
   - strongs: H8481
-    proximity: 0.7935
+    lemma: תַּחְתּוֹן
+    gloss: bottommost {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
   - strongs: A8215
-    proximity: 0.7931
+    proximity: 0.7931 {macula-proximity}
   - strongs: H8213
-    proximity: 0.7911
+    lemma: שָׁפֵל
+    gloss: to depress or sink (expectation figuratively {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
   cross_language:
   - strongs: G5011
-    proximity: 0.7902
+    lemma: ταπεινός
+    gloss: depressed {openscriptures-strongs}
+    proximity: 0.7902 {macula-proximity}
     language: greek
   - strongs: G3133
-    proximity: 0.7751
+    lemma: μαραίνω
+    gloss: to extinguish {openscriptures-strongs}
+    proximity: 0.7751 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

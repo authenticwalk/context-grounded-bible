@@ -5,44 +5,45 @@ transliteration: kolymbḗthra
 definition: a diving-place, i.e. pond for bathing (or swimming)
 kjv_usage: pool
 derivation: from G2860 (κολυμβάω);
-extended_definition:
-  gloss: pool
-  definition: '<b>κολυμβήθρα</b>, -ας, ἡ<BR /> (κολνμβάω), [in LXX for בְּרֵכָה, <ref=''2Ki.18.27''>4Ki.18:27</ref>,
-    al. ;] <BR /><b>a swimming pool, pool</b>: <ref=''Jhn.5.2, 4; 5.7; 9.7''>Jhn.5:2,
-    4 5:7 9:7</ref>.†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κολυμβ-ήθρα</b>, ἡ, <br /> <b>place for diving, swimming-bath</b>,
-    [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Respublica”
-    453d, 1st c.BC: Diodorus Siculus Historicus 11.25; κ. μύρου 2nd c.AD: Alexander
-    Rhetor 300. ">Refs 5th c.BC+</a>]<br /><Level2><b>__II</b></Level2> <b>wine-vat,
-    tun</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus
-    13.83. ">Refs 1st c.BC+</a>]<br /><Level2><b>__III</b></Level2> <b>reservoir,
-    cistern</b>, [<a href="javascript:void(0)" title=" LXX.2Ki.18.17. ">LXX</a>]<br
-    /><Level2><b>__IV</b></Level2> <b>baptismal font,</b> [<a href="javascript:void(0)"
-    title=" POxy. 147 (6th c.AD). ">Refs 6th c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κολυμβήθρα, -ας, ἡ
+
+  (κολνμβάω), [in LXX for בְּרֵכָה, 4Ki.18:27, al. ;]
+
+  a swimming pool, pool: Jhn.5:2, 4 5:7 9:7.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κολυμβ-ήθρα, ἡ,
+
+  place for diving, swimming-bath, [Refs 5th c.BC+]
+
+  __II wine-vat, tun, [Refs 1st c.BC+]
+
+  __III reservoir, cistern, [LXX]
+
+  __IV baptismal font, [Refs 6th c.AD+] {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H3537
-    proximity: 0.8293
+    lemma: כַּד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: hebrew
   - strongs: H1207
-    proximity: 0.8149
+    lemma: בִּצָּה
+    gloss: a swamp {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
     language: hebrew
   - strongs: H1293
-    proximity: 0.7886
+    lemma: בְּרָכָה
+    gloss: benediction {openscriptures-strongs}
+    proximity: 0.7886 {macula-proximity}
     language: hebrew
   - strongs: H1360
-    proximity: 0.7778
+    lemma: גֶּבֶא
+    gloss: a reservoir {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
     language: hebrew
   - strongs: H953
-    proximity: 0.753
+    proximity: 0.753 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

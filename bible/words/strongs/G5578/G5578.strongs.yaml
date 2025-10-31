@@ -5,57 +5,69 @@ transliteration: pseudoprophḗtēs
 definition: a spurious prophet, i.e. pretended foreteller or religious impostor
 kjv_usage: false prophet
 derivation: from G5571 (ψευδής) and G4396 (προφήτης);
-extended_definition:
-  gloss: false prophet
-  definition: '<b>ψευδο-προφήτης</b>, -ου, ὁ <BR /> [in LXX: <ref=''Zec.13.2''>Zec.13:2</ref>,
-    <ref=''Jer.1.9''>Jer.1:9</ref> (<ref=''Jer.6.13''>Jer.6:13</ref>, al.) (נָבִיא)*
-    ;] <BR /><b>a false prophet </b>(= cl. ψευδόμαντις): <ref=''Mat.7.15; 24.11, 24''>Mat.7:15
-    24:11, 24</ref>, <ref=''Mrk.13.22''>Mrk.13:22</ref> (see Swete, in l), <ref=''Luk.6.26''>Luk.6:26</ref>,
-    <ref=''Act.13.6''>Act.13:6</ref>, <ref=''2Pe.2.1''>2Pe.2:1</ref>, <ref=''1Jn.4.1''>1Jn.4:1</ref>,
-    <ref=''Rev.16.13; 19.20; 20.10''>Rev.16:13 19:20 20:10</ref> †<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ψευδο-προφήτης</b>, ου, ὁ, <br /> <b>false, lying prophet,</b>
-    [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus “Antiquitates
-    Judaicae” 9.6.6, +others, NT.2Pet.2.1, 1st c.AD: Philo Judaeus 2.343, etc. ">NT+1st
-    c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ψευδο-προφήτης, -ου, ὁ
+
+  [in LXX: Zec.13:2, Jer.1:9 (Jer.6:13, al.) (נָבִיא)* ;]
+
+  a false prophet (= cl. ψευδόμαντις): Mat.7:15 24:11, 24, Mrk.13:22 (see Swete, in
+  l), Luk.6:26, Act.13:6, 2Pe.2:1, 1Jn.4:1, Rev.16:13 19:20 20:10 †
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ψευδο-προφήτης, ου, ὁ,
+
+  false, lying prophet, [NT+1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5576
-    proximity: 0.8273
+    lemma: ψευδομαρτυρέω
+    gloss: to be an untrue testifier {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
   - strongs: G1964
-    proximity: 0.8171
+    lemma: ἐπιορκέω
+    gloss: to commit perjury {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: G4267
-    proximity: 0.8148
+    lemma: προγινώσκω
+    gloss: to know beforehand {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: G5577
-    proximity: 0.8127
+    lemma: ψευδομαρτυρία
+    gloss: untrue testimony {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
   - strongs: G5575a
-    proximity: 0.8115
+    proximity: 0.8115 {macula-proximity}
   - strongs: G4268
-    proximity: 0.8042
+    lemma: πρόγνωσις
+    gloss: forethought {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: G5580
-    proximity: 0.8035
+    lemma: ψευδόχριστος
+    gloss: a spurious Messiah {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
   - strongs: G5572
-    proximity: 0.7921
+    lemma: ψευδοδιδάσκαλος
+    gloss: a spurious teacher {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
   - strongs: G4398
-    proximity: 0.7898
+    lemma: προφῆτις
+    gloss: a female foreteller or an inspired woman {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
   - strongs: G5569
-    proximity: 0.7852
+    lemma: ψευδάδελφος
+    gloss: a spurious brother {openscriptures-strongs}
+    proximity: 0.7852 {macula-proximity}
   cross_language:
   - strongs: H2219a
-    proximity: 0.8257
+    proximity: 0.8257 {macula-proximity}
     language: hebrew
   - strongs: H5016
-    proximity: 0.8143
+    lemma: נְבוּאָה
+    gloss: a prediction {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
     language: hebrew
   - strongs: H5031
-    proximity: 0.7742
+    lemma: נְבִיאָה
+    gloss: a prophetess or  inspired woman {openscriptures-strongs}
+    proximity: 0.7742 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

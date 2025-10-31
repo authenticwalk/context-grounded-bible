@@ -7,33 +7,39 @@ definition: a cake of pressed figs
 kjv_usage: cake (lump) of figs.
 derivation: from an unused root (akin to H2082 (זָבַל)) probably meaning to press
   together;
-extended_definition:
-  gloss: fig cake
-  definition: fig cake, lump of pressed figs
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: fig cake, lump of pressed figs {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H829
-    proximity: 0.8265
+    proximity: 0.8265 {macula-proximity}
   - strongs: H4682
-    proximity: 0.8245
+    lemma: מַצָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H7550
-    proximity: 0.8009
+    lemma: רָקִיק
+    gloss: a thin cake {openscriptures-strongs}
+    proximity: 0.8009 {macula-proximity}
   - strongs: H3834
-    proximity: 0.7998
+    lemma: לָבִיבָה
+    gloss: a cake {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
   - strongs: H3561
-    proximity: 0.792
+    lemma: כַּוָּן
+    gloss: something prepared {openscriptures-strongs}
+    proximity: 0.792 {macula-proximity}
   - strongs: H8256
-    proximity: 0.7751
+    lemma: שִׁקְמָה
+    gloss: a sycamore {openscriptures-strongs}
+    proximity: 0.7751 {macula-proximity}
   - strongs: H1063
-    proximity: 0.7423
+    lemma: בִּכּוּרָה
+    gloss: the early fig {openscriptures-strongs}
+    proximity: 0.7423 {macula-proximity}
   cross_language:
   - strongs: G4809
-    proximity: 0.7757
+    lemma: συκομωραία
+    gloss: the "sycamore"-fig tree {openscriptures-strongs}
+    proximity: 0.7757 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

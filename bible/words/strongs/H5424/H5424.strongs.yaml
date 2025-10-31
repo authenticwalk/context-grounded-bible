@@ -6,27 +6,29 @@ pronunciation: neh'-thek
 definition: scurf
 kjv_usage: (dry) scall.
 derivation: from H5423 (נָתַק);
-extended_definition:
-  gloss: scab
-  definition: scab, skin eruption, scall (of leprosy)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: scab, skin eruption, scall (of leprosy) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1618
-    proximity: 0.8268
+    lemma: גָּרָב
+    gloss: scurf {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: H4556
-    proximity: 0.8198
+    lemma: מִסְפַּחַת
+    gloss: scruf {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
   - strongs: H5597
-    proximity: 0.8185
+    lemma: סַפַּחַת
+    gloss: the mange {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: H3217
-    proximity: 0.7828
+    lemma: יַלֶּפֶת
+    gloss: scurf or tetter {openscriptures-strongs}
+    proximity: 0.7828 {macula-proximity}
   cross_language:
   - strongs: G1668
-    proximity: 0.7939
+    lemma: ἕλκος
+    gloss: an ulcer {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

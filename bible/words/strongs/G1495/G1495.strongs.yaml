@@ -5,43 +5,48 @@ transliteration: eidōlolatreía
 definition: image-worship (literally or figuratively)
 kjv_usage: idolatry
 derivation: from G1497 (εἴδωλον) and G2999 (λατρεία);
-extended_definition:
-  gloss: idolatry
-  definition: '<b>εἰδωλο-λατρία</b> (-εία, Rec.), -ας, ἡ <BR /> (εἴδωλον, λατρεία),
-    <BR /><b>idolatry</b>: <ref=''1Co.10.14''>1Co.10:14</ref>, <ref=''Gal.5.20''>Gal.5:20</ref>,
-    <ref=''Col.3.5''>Col.3:5</ref>; pl. (Bl, §32, 6), <ref=''1Pe.4.3''>1Pe.4:3</ref>
-    (Cremer, 390).†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> εἰδωλο-λατρία</b>, ἡ, <br /> <b>idolatry,</b> [<a href="javascript:void(0)"
-    title="NT.Gal.5.20, NT.1Cor.10.14. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'εἰδωλο-λατρία (-εία, Rec.), -ας, ἡ
+
+  (εἴδωλον, λατρεία),
+
+  idolatry: 1Co.10:14, Gal.5:20, Col.3:5; pl. (Bl, §32, 6), 1Pe.4:3 (Cremer, 390).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'εἰδωλο-λατρία, ἡ,
+
+  idolatry, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1493
-    proximity: 0.7866
+    lemma: εἰδωλεῖον
+    gloss: an image-fane {openscriptures-strongs}
+    proximity: 0.7866 {macula-proximity}
   - strongs: G1497
-    proximity: 0.7485
+    lemma: εἴδωλον
+    gloss: an image {openscriptures-strongs}
+    proximity: 0.7485 {macula-proximity}
   cross_language:
   - strongs: H6090
-    proximity: 0.8272
+    lemma: עֹצֶב
+    gloss: an idol {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: hebrew
   - strongs: H5566
-    proximity: 0.8242
+    lemma: סֶמֶל
+    gloss: a likeness {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
     language: hebrew
   - strongs: H4656
-    proximity: 0.8224
+    lemma: מִפְלֶצֶת
+    gloss: a terror {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
     language: hebrew
   - strongs: H6456
-    proximity: 0.8193
+    lemma: פְּסִיל
+    gloss: an idol {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
     language: hebrew
   - strongs: H5262a
-    proximity: 0.8186
+    proximity: 0.8186 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -12,34 +12,45 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H1718
-    proximity: 0.8236
+    lemma: דָּדָה
+    gloss: to walk gently {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
   - strongs: A2957
-    proximity: 0.8235
+    proximity: 0.8235 {macula-proximity}
   - strongs: H5394
-    proximity: 0.8158
+    lemma: נָשַׁל
+    gloss: to pluck off {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: H4900
-    proximity: 0.8116
+    lemma: מָשַׁךְ
+    gloss: to draw {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   - strongs: H2414
-    proximity: 0.8059
+    lemma: חָטַף
+    gloss: to clutch {openscriptures-strongs}
+    proximity: 0.8059 {macula-proximity}
   - strongs: H935
-    proximity: 0.7925
+    proximity: 0.7925 {macula-proximity}
   cross_language:
   - strongs: G2358
-    proximity: 0.8276
+    lemma: θριαμβεύω
+    gloss: and a derivative of G680  (meaning a noisy iambus {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: greek
   - strongs: G1856
-    proximity: 0.8254
+    lemma: ἐξωθέω
+    gloss: to expel {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: greek
   - strongs: G522
-    proximity: 0.8186
+    proximity: 0.8186 {macula-proximity}
     language: greek
   - strongs: G4043
-    proximity: 0.8159
+    lemma: περιπατέω
+    gloss: to tread all around {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
     language: greek
   - strongs: G556
-    proximity: 0.8066
+    proximity: 0.8066 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

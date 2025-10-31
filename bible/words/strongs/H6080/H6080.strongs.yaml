@@ -7,33 +7,35 @@ definition: to be dust
 kjv_usage: cast (dust).
 derivation: ; a primitive root; meaning either to be gray or perhaps rather to pulverize;
   used only as denominative from H6083 (עָפָר),
-extended_definition:
-  gloss: to throw
-  definition: (Piel) to dust, powder
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Piel) to dust, powder {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7263
-    proximity: 0.8266
+    lemma: רֶגֶב
+    gloss: a lump of clay {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: H80
-    proximity: 0.8203
+    proximity: 0.8203 {macula-proximity}
   - strongs: H6083
-    proximity: 0.7985
+    lemma: עָפָר
+    gloss: dust {openscriptures-strongs}
+    proximity: 0.7985 {macula-proximity}
   - strongs: H7241
-    proximity: 0.7912
+    lemma: רָבִיב
+    gloss: a rain {openscriptures-strongs}
+    proximity: 0.7912 {macula-proximity}
   cross_language:
   - strongs: G5517
-    proximity: 0.8061
+    lemma: χοϊκός
+    gloss: dusty or dirty {openscriptures-strongs}
+    proximity: 0.8061 {macula-proximity}
     language: greek
   - strongs: G2868
-    proximity: 0.7794
+    lemma: κονιορτός
+    gloss: pulverulence {openscriptures-strongs}
+    proximity: 0.7794 {macula-proximity}
     language: greek
   - strongs: G5522a
-    proximity: 0.7694
+    proximity: 0.7694 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

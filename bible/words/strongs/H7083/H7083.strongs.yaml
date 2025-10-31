@@ -6,32 +6,32 @@ pronunciation: keh'-seth
 definition: properly, a cup, i.e. an ink-stand
 kjv_usage: inkhorn.
 derivation: from the same as H3563 (כּוֹס) (or as H7185 (קָשָׁה));
-extended_definition:
-  gloss: pot
-  definition: pot (for ink), inkhorn, inkwell
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: pot (for ink), inkhorn, inkwell {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5608a
-    proximity: 0.83
+    proximity: 0.83 {macula-proximity}
   - strongs: H240
-    proximity: 0.7919
+    proximity: 0.7919 {macula-proximity}
   - strongs: H4385
-    proximity: 0.7871
+    lemma: מִכְתָּב
+    gloss: a thing written {openscriptures-strongs}
+    proximity: 0.7871 {macula-proximity}
   - strongs: H1773
-    proximity: 0.7608
+    lemma: דְּיוֹ
+    gloss: ink {openscriptures-strongs}
+    proximity: 0.7608 {macula-proximity}
   - strongs: A3790
-    proximity: 0.7414
+    proximity: 0.7414 {macula-proximity}
   cross_language:
   - strongs: G4093
-    proximity: 0.8099
+    lemma: πινακίδιον
+    gloss: a tablet {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
     language: greek
   - strongs: G3188
-    proximity: 0.8072
+    lemma: μέλαν
+    gloss: ink {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,64 +5,72 @@ transliteration: diēgéomai
 definition: to relate fully
 kjv_usage: declare, shew, tell
 derivation: from G1223 (διά) and G2233 (ἡγέομαι);
-extended_definition:
-  gloss: to relate fully
-  definition: '<b>δι-ηγέομαι</b>, -οῦμαι <BR /> [in LXX chiefly for סָפַר pi. ;] <BR
-    /><b>to set out in detail, recount, describe</b>: absol., <ref=''Heb.11.32''>Heb.11:32;</ref>
-    with accusative of thing(s), <ref=''Act.8.33''>Act.8:33;</ref> with dative of
-    person(s), before πῶς, <ref=''Mrk.5.16''>Mrk.5:16</ref>, <ref=''Act.9.27; 12.17''>Act.9:27
-    12:17</ref>; ἅ εἶδον, <ref=''Mrk.9.9''>Mrk.9:9;</ref> ὅσα ἐποίησε, -αν, <ref=''Luk.8.39;
-    9.10''>Luk.8:39 9:10</ref>.†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> διηγ-έομαι</b>, <br /> <b>set out in detail, describe,</b>
-    [ἔργα] [<a href="javascript:void(0)" title=" 1st c.AD(?): Heraclitus 1; πρᾶγμα
-    5th-6th c.BC: Aristophanes Comicus “Aves” 198; τὴν ἀλήθειαν περί τινος 5th c.BC:
-    Antipho Orator 1.13, compare 5th c.BC: Thucydides Historicus 6.54, 5th-6th c.BC:
-    Plato Philosophus “Protagoras” 310a, +others; περὶ ταύτης εἰπεῖν καὶ διηγήσασθαι
-    4th c.BC: Demosthenes Orator 21.77: with _accusative_ _person_, οἷον.. σὺ τοῦτον
-    διηγῇ">Refs 5th c.BC+</a>] such as you <b>describe</b> him, [<a href="javascript:void(0)"
-    title=" 5th-6th c.BC: Plato Philosophus “Theaetetus” 144c. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δι-ηγέομαι, -οῦμαι
+
+  [in LXX chiefly for סָפַר pi. ;]
+
+  to set out in detail, recount, describe: absol., Heb.11:32; with accusative of thing(s),
+  Act.8:33; with dative of person(s), before πῶς, Mrk.5:16, Act.9:27 12:17; ἅ εἶδον,
+  Mrk.9:9; ὅσα ἐποίησε, -αν, Luk.8:39 9:10.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'διηγ-έομαι,
+
+  set out in detail, describe, [ἔργα] [Refs 5th c.BC+] such as you describe him, [Refs
+  5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5263
-    proximity: 0.8046
+    lemma: ὑποδείκνυμι
+    gloss: to exhibit under the eyes {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
   - strongs: G4483
-    proximity: 0.7915
+    lemma: ῥέω
+    gloss: to utter {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
   - strongs: G1107
-    proximity: 0.7911
+    lemma: γνωρίζω
+    gloss: to make known {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
   - strongs: G1718
-    proximity: 0.7841
+    lemma: ἐμφανίζω
+    gloss: to exhibit  or disclose {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
   - strongs: G226
-    proximity: 0.7664
+    proximity: 0.7664 {macula-proximity}
   - strongs: G1213
-    proximity: 0.7658
+    lemma: δηλόω
+    gloss: to make plain {openscriptures-strongs}
+    proximity: 0.7658 {macula-proximity}
   - strongs: A3046
-    proximity: 0.7613
+    proximity: 0.7613 {macula-proximity}
   - strongs: G2980
-    proximity: 0.7563
+    lemma: λαλέω
+    gloss: to talk {openscriptures-strongs}
+    proximity: 0.7563 {macula-proximity}
   - strongs: G518a
-    proximity: 0.745
+    proximity: 0.745 {macula-proximity}
   - strongs: G1335
-    proximity: 0.7201
+    lemma: διήγεσις
+    gloss: a recital {openscriptures-strongs}
+    proximity: 0.7201 {macula-proximity}
   cross_language:
   - strongs: H1897
-    proximity: 0.8046
+    lemma: הָגָה
+    gloss: to murmur {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
     language: hebrew
   - strongs: H559
-    proximity: 0.7716
+    proximity: 0.7716 {macula-proximity}
     language: hebrew
   - strongs: H8567
-    proximity: 0.7399
+    lemma: תָּנָה
+    gloss: to ascribe {openscriptures-strongs}
+    proximity: 0.7399 {macula-proximity}
     language: hebrew
   - strongs: H1696
-    proximity: 0.7255
+    lemma: דָבַר
+    gloss: perhaps properly {openscriptures-strongs}
+    proximity: 0.7255 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

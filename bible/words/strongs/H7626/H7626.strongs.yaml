@@ -7,43 +7,59 @@ definition: a scion, i.e. (literally) a stick (for punishing, writing, fighting,
   walking, etc.) or (figuratively) a clan
 kjv_usage: '[idiom] correction, dart, rod, sceptre, staff, tribe.'
 derivation: from an unused root probably meaning to branch off;
-extended_definition:
-  gloss: 'tribe: ruler'
-  definition: ': ruler<br>1) rod, staff, branch, offshoot, club, sceptre, tribe<br>1a)
-    rod, staff<br>1b) shaft (of spear, dart)<br>1c) club (of shepherd''s implement)<br>1d)
-    truncheon, sceptre (mark of authority)<br>1e) clan, tribe'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': ruler
+
+  1) rod, staff, branch, offshoot, club, sceptre, tribe
+
+  1a) rod, staff
+
+  1b) shaft (of spear, dart)
+
+  1c) club (of shepherd''s implement)
+
+  1d) truncheon, sceptre (mark of authority)
+
+  1e) clan, tribe {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A5972
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
   - strongs: H441
-    proximity: 0.8142
+    proximity: 0.8142 {macula-proximity}
   - strongs: H1004
-    proximity: 0.806
+    lemma: בַּיִת
+    gloss: a house (in the greatest variation of applications {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
   - strongs: H505a
-    proximity: 0.7958
+    proximity: 0.7958 {macula-proximity}
   - strongs: H4731
-    proximity: 0.7708
+    lemma: מַקֵּל
+    gloss: a shoot {openscriptures-strongs}
+    proximity: 0.7708 {macula-proximity}
   - strongs: H8455
-    proximity: 0.7693
+    lemma: תּוֹתָח
+    gloss: a club {openscriptures-strongs}
+    proximity: 0.7693 {macula-proximity}
   - strongs: H523
-    proximity: 0.7406
+    proximity: 0.7406 {macula-proximity}
   - strongs: H5971
-    proximity: 0.7376
+    lemma: עַם
+    gloss: a people {openscriptures-strongs}
+    proximity: 0.7376 {macula-proximity}
   cross_language:
   - strongs: G2992
-    proximity: 0.8263
+    lemma: λαός
+    gloss: a people (in general {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
     language: greek
   - strongs: G3146
-    proximity: 0.8146
+    lemma: μαστιγόω
+    gloss: to flog {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
     language: greek
   - strongs: G4464
-    proximity: 0.7745
+    lemma: ῥάβδος
+    gloss: a stick or wand (as a cudgel {openscriptures-strongs}
+    proximity: 0.7745 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

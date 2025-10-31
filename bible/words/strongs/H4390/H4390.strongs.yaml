@@ -10,55 +10,97 @@ kjv_usage: accomplish, confirm, [phrase] consecrate, be at an end, be expired, b
   tale), (over-) flow, fulness, furnish, gather (selves, together), presume, replenish,
   satisfy, set, space, take a (hand-) full, [phrase] have wholly.
 derivation: or מָלָא; (Esther 7:5), a primitive root;
-extended_definition:
-  gloss: to fill
-  definition: '1) to fill, be full<br>1a) (Qal)<br>1a1) to be full<br>1a1a) fulness,
-    abundance (participle)<br>1a1b) to be full, be accomplished, be ended<br>1a2)
-    to consecrate, fill the hand<br>1b) (Niphal)<br>1b1) to be filled, be armed, be
-    satisfied<br>1b2) to be accomplished, be ended<br>1c) (Piel)<br>1c1) to fill<br>1c2)
-    to satisfy<br>1c3) to fulfil, accomplish, complete<br>1c4) to confirm<br>1d) (Pual)
-    to be filled<br>1e) (Hithpael) to mass themselves against<BR>Aramaic equivalent:
-    <i>me.la</i> (מְלָא "to fill" H4391)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to fill, be full
+
+  1a) (Qal)
+
+  1a1) to be full
+
+  1a1a) fulness, abundance (participle)
+
+  1a1b) to be full, be accomplished, be ended
+
+  1a2) to consecrate, fill the hand
+
+  1b) (Niphal)
+
+  1b1) to be filled, be armed, be satisfied
+
+  1b2) to be accomplished, be ended
+
+  1c) (Piel)
+
+  1c1) to fill
+
+  1c2) to satisfy
+
+  1c3) to fulfil, accomplish, complete
+
+  1c4) to confirm
+
+  1d) (Pual) to be filled
+
+  1e) (Hithpael) to mass themselves against
+
+  Aramaic equivalent: me.la (מְלָא "to fill" H4391) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4394
-    proximity: 0.8268
+    lemma: מִלֻּא
+    gloss: a fulfilling {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: H7230
-    proximity: 0.8243
+    lemma: רֹב
+    gloss: abundance {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: H1752
-    proximity: 0.8213
+    lemma: דּוּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
   - strongs: H3615
-    proximity: 0.8154
+    lemma: כָּלָה
+    gloss: to end {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: H2943
-    proximity: 0.8152
+    lemma: טָעַן
+    gloss: to load a beast {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: H6965
-    proximity: 0.8125
+    lemma: קוּם
+    gloss: to rise (in various applications {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: H2480
-    proximity: 0.8108
+    lemma: חָלַט
+    gloss: to snatch at {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
   - strongs: H5927
-    proximity: 0.8107
+    lemma: עָלָה
+    gloss: to ascend {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
   - strongs: H3947
-    proximity: 0.8016
+    lemma: לָקַח
+    gloss: to take {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
   cross_language:
   - strongs: G1952
-    proximity: 0.829
+    lemma: ἐπιλείπω
+    gloss: to leave upon {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G842
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G1237
-    proximity: 0.8234
+    lemma: διαδέχομαι
+    gloss: to receive in turn {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
     language: greek
   - strongs: G310
-    proximity: 0.8108
+    proximity: 0.8108 {macula-proximity}
     language: greek
   - strongs: G3118
-    proximity: 0.8068
+    lemma: μακροχρόνιος
+    gloss: long-timed {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

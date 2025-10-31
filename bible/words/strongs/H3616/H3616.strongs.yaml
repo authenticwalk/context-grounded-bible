@@ -6,34 +6,42 @@ pronunciation: kaw-leh'
 definition: pining
 kjv_usage: fail.
 derivation: from H3615 (כָּלָה);
-extended_definition:
-  gloss: longing
-  definition: failing with desire, longing, longing for
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: failing with desire, longing, longing for {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3023
-    proximity: 0.8265
+    lemma: יָגֵעַ
+    gloss: tired {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H3543
-    proximity: 0.7848
+    lemma: כָּהָה
+    gloss: to be weak {openscriptures-strongs}
+    proximity: 0.7848 {macula-proximity}
   - strongs: H3615
-    proximity: 0.7624
+    lemma: כָּלָה
+    gloss: to end {openscriptures-strongs}
+    proximity: 0.7624 {macula-proximity}
   - strongs: H3019
-    proximity: 0.7615
+    lemma: יָגִיעַ
+    gloss: tired {openscriptures-strongs}
+    proximity: 0.7615 {macula-proximity}
   - strongs: H5405
-    proximity: 0.7607
+    lemma: נָשַׁת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7607 {macula-proximity}
   - strongs: H3631
-    proximity: 0.7107
+    lemma: כִּלָּיוֹן
+    gloss: pining {openscriptures-strongs}
+    proximity: 0.7107 {macula-proximity}
   cross_language:
   - strongs: G1587
-    proximity: 0.8017
+    lemma: ἐκλείπω
+    gloss: to omit {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
     language: greek
   - strongs: G1952
-    proximity: 0.7917
+    lemma: ἐπιλείπω
+    gloss: to leave upon {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

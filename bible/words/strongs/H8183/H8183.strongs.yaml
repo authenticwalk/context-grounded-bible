@@ -6,32 +6,36 @@ pronunciation: seh-aw-raw'
 definition: a hurricane
 kjv_usage: storm, tempest.
 derivation: feminine of H8178 (שַׂעַר);
-extended_definition:
-  gloss: storm
-  definition: storm
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: storm {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5502
-    proximity: 0.829
+    lemma: סָחַף
+    gloss: to scrape off {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: H5868
-    proximity: 0.7917
+    lemma: עֲיָם
+    gloss: probably meaning strength {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: H7307
-    proximity: 0.7626
+    lemma: רוּחַ
+    gloss: wind {openscriptures-strongs}
+    proximity: 0.7626 {macula-proximity}
   - strongs: H4306
-    proximity: 0.7454
+    lemma: מָטַר
+    gloss: rain {openscriptures-strongs}
+    proximity: 0.7454 {macula-proximity}
   - strongs: H7722a
-    proximity: 0.7226
+    proximity: 0.7226 {macula-proximity}
   cross_language:
   - strongs: G4578
-    proximity: 0.8143
+    lemma: σεισμός
+    gloss: a commotion {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
     language: greek
   - strongs: G3655
-    proximity: 0.7791
+    lemma: ὄμβρος
+    gloss: a thunder storm {openscriptures-strongs}
+    proximity: 0.7791 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,25 +6,24 @@ pronunciation: raw-aw'
 definition: a bird of prey (probably the vulture, from its sharp sight)
 kjv_usage: glede. Compare H1676 (דָּאָה).
 derivation: from H7200 (רָאָה);
-extended_definition:
-  gloss: glede
-  definition: 1) bird of prey<br>1a) perhaps kite or hawk
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) bird of prey
+
+  1a) perhaps kite or hawk {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H122
-    proximity: 0.8141
+    proximity: 0.8141 {macula-proximity}
   - strongs: H1772
-    proximity: 0.7998
+    lemma: דַּיָּה
+    gloss: a falcon {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
   - strongs: H5404
-    proximity: 0.708
+    lemma: נֶשֶׁר
+    gloss: the eagle {openscriptures-strongs}
+    proximity: 0.708 {macula-proximity}
   cross_language:
   - strongs: G2063
-    proximity: 0.7743
+    lemma: ἐρυθρός
+    proximity: 0.7743 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

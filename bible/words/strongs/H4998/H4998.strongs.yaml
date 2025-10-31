@@ -7,46 +7,69 @@ definition: properly, to be at home, i.e. (by implication) to be pleasant (or su
   i.e. beautiful
 kjv_usage: be beautiful, become, be comely.
 derivation: a primitive root;
-extended_definition:
-  gloss: be lovely
-  definition: 1) to be comely, be beautiful, be befitting<br>1a) (Pilpel)<br>1a1)
-    to be comely<br>1a2) to be befitting
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be comely, be beautiful, be befitting
+
+  1a) (Pilpel)
+
+  1a1) to be comely
+
+  1a2) to be befitting {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1925
-    proximity: 0.8294
+    lemma: הֶדֶר
+    gloss: honour {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: H6287
-    proximity: 0.8172
+    lemma: פְּאֵר
+    gloss: an embellishment {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
   - strongs: H8389
-    proximity: 0.8075
+    lemma: תֹּאַר
+    gloss: outline {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
   - strongs: H3520
-    proximity: 0.7853
+    lemma: כְּבוּדָּה
+    gloss: weightiness {openscriptures-strongs}
+    proximity: 0.7853 {macula-proximity}
   - strongs: H8597
-    proximity: 0.7745
+    lemma: תִּפְאָרָה
+    gloss: ornament (abstractly or concretely {openscriptures-strongs}
+    proximity: 0.7745 {macula-proximity}
   - strongs: H2532
-    proximity: 0.7711
+    lemma: חֶמְדָּה
+    gloss: delight {openscriptures-strongs}
+    proximity: 0.7711 {macula-proximity}
   - strongs: H1264
-    proximity: 0.7707
+    lemma: בְּרוֹם
+    gloss: damask {openscriptures-strongs}
+    proximity: 0.7707 {macula-proximity}
   - strongs: H8231
-    proximity: 0.7699
+    lemma: שָׁפַר
+    gloss: to glisten {openscriptures-strongs}
+    proximity: 0.7699 {macula-proximity}
   - strongs: H4004
-    proximity: 0.7666
+    lemma: מִבְחוֹר
+    gloss: select {openscriptures-strongs}
+    proximity: 0.7666 {macula-proximity}
   - strongs: H8235
-    proximity: 0.7516
+    lemma: שִׁפְרָה
+    gloss: brightness {openscriptures-strongs}
+    proximity: 0.7516 {macula-proximity}
   cross_language:
   - strongs: G4241
-    proximity: 0.8277
+    lemma: πρέπω
+    gloss: to tower up {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: greek
   - strongs: G2986
-    proximity: 0.807
+    lemma: λαμπρός
+    gloss: radiant {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
     language: greek
   - strongs: G2568
-    proximity: 0.7688
+    lemma: Καλοὶ Λιμένες
+    gloss: Good Harbors {openscriptures-strongs}
+    proximity: 0.7688 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

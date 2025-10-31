@@ -5,39 +5,46 @@ transliteration: hedraíōma
 definition: a support, i.e. (figuratively) basis
 kjv_usage: ground
 derivation: from a derivative of G1476 (ἑδραῖος);
-extended_definition:
-  gloss: foundation
-  definition: '<b>ἑδραίωμα</b>, -τος, τό <BR /> (ἑδραῖος), <BR /><b>a support, bulwark,
-    stay</b> (Vg. fermamentum): <ref=''1Ti.3.15''>1Ti.3:15</ref> (eccl.).†<BR /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ἑδραί-ωμα</b>, ατος, τό, <br /> <b>stay, support</b>, τῆς ἀληθείας
-    [<a href="javascript:void(0)" title=" NT.1Tim.3.15. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ἑδραίωμα, -τος, τό
+
+  (ἑδραῖος),
+
+  a support, bulwark, stay (Vg. fermamentum): 1Ti.3:15 (eccl.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἑδραί-ωμα, ατος, τό,
+
+  stay, support, τῆς ἀληθείας [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2602
-    proximity: 0.8085
+    lemma: καταβολή
+    gloss: a deposition {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
   cross_language:
   - strongs: H8328
-    proximity: 0.8011
+    lemma: שֶׁרֶשׁ
+    gloss: a root {openscriptures-strongs}
+    proximity: 0.8011 {macula-proximity}
     language: hebrew
   - strongs: H4350
-    proximity: 0.7999
+    lemma: מְכוֹנָה
+    gloss: a pedestal {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
     language: hebrew
   - strongs: H3245
-    proximity: 0.7413
+    lemma: יָסַד
+    gloss: to set {openscriptures-strongs}
+    proximity: 0.7413 {macula-proximity}
     language: hebrew
   - strongs: H4349
-    proximity: 0.732
+    lemma: מָכוֹן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.732 {macula-proximity}
     language: hebrew
   - strongs: H3246
-    proximity: 0.7159
+    lemma: יְסֻד
+    gloss: a foundation (figuratively {openscriptures-strongs}
+    proximity: 0.7159 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

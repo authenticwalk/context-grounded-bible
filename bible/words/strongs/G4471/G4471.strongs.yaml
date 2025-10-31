@@ -5,40 +5,46 @@ transliteration: Rhamâ
 definition: Rama (i.e. Ramah), a place in Palestine
 kjv_usage: Rama
 derivation: of Hebrew origin (H07414);
-extended_definition:
-  gloss: Ramah
-  definition: '<b>Ῥαμά</b> (Rec. -ᾶ), ἡ, indecl. (Heb. רָמָה), <BR /> <b>Ramah</b>:
-    <ref=''Mat.2.18''>Mat.2:18</ref> (LXX).†<BR /> (AS)'
-  morphology: N:N--L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ῥαμά</b> (Rec. -ᾶ), ἡ, indecl. (Heb. רָמָה), <BR /> <b>Ramah</b>:
-    <ref=''Mat.2.18''>Mat.2:18</ref> (LXX).†<BR />  (From Abbott-Smith. LSJ has no
-    entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ῥαμά (Rec. -ᾶ), ἡ, indecl. (Heb. רָמָה),
+
+  Ramah: Mat.2:18 (LXX).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ῥαμά (Rec. -ᾶ), ἡ, indecl. (Heb. רָמָה),
+
+  Ramah: Mat.2:18 (LXX).†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3103
-    proximity: 0.7639
+    lemma: Μαθουσάλα
+    gloss: Mathusala {openscriptures-strongs}
+    proximity: 0.7639 {macula-proximity}
   cross_language:
   - strongs: H4375
-    proximity: 0.8252
+    lemma: מַכְפֵּלָה
+    gloss: Makpelah {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: hebrew
   - strongs: H4111
-    proximity: 0.8207
+    lemma: מַהֲלַלְאֵל
+    gloss: Mahalalel {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
     language: hebrew
   - strongs: H4968
-    proximity: 0.8106
+    lemma: מְתוּשֶׁלַח
+    gloss: Methushelach {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: hebrew
   - strongs: H3903
-    proximity: 0.7679
+    lemma: לַחְמָס
+    gloss: Lachmam or Lachmas {openscriptures-strongs}
+    proximity: 0.7679 {macula-proximity}
     language: hebrew
   - strongs: H4258
-    proximity: 0.7565
+    lemma: מַחֲלַת
+    gloss: Machalath {openscriptures-strongs}
+    proximity: 0.7565 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,45 +5,52 @@ transliteration: Ebér
 definition: Eber, a patriarch
 kjv_usage: Eber
 derivation: of Hebrew origin (H05677);
-extended_definition:
-  gloss: Eber
-  definition: '<b>Ἔβερ</b> (Rec. Ἐβέρ), ὁ, indecl. (Heb. עֵבֶר, <ref=''Gen.10.24''>Gen.10:24</ref>),
-    <BR /> <b>Eber</b> (OT, <i>Heber</i>): <ref=''Luk.3.35.''>Luk.3:35.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἔβερ</b> (Rec. Ἐβέρ), ὁ, indecl. (Heb. עֵבֶר, <ref=''Gen.10.24''>Gen.10:24</ref>),
-    <BR /> <b>Eber</b> (OT, <i>Heber</i>): <ref=''Luk.3.35.''>Luk.3:35.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἔβερ (Rec. Ἐβέρ), ὁ, indecl. (Heb. עֵבֶר, Gen.10:24),
+
+  Eber (OT, Heber): Luk.3:35.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἔβερ (Rec. Ἐβέρ), ὁ, indecl. (Heb. עֵבֶר, Gen.10:24),
+
+  Eber (OT, Heber): Luk.3:35.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1445
-    proximity: 0.8104
+    lemma: Ἑβραῖος
+    gloss: a Hebræan  or Jew {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
   - strongs: G1447
-    proximity: 0.8091
+    lemma: Ἑβραϊστί
+    gloss: Hebraistically or in the Jewish  language {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
   - strongs: G1446
-    proximity: 0.7703
+    lemma: Ἑβραΐς
+    gloss: the Hebraistic  or Jewish  language {openscriptures-strongs}
+    proximity: 0.7703 {macula-proximity}
   cross_language:
   - strongs: H5453
-    proximity: 0.8039
+    lemma: סִבְרַיִם
+    gloss: Sibrajim {openscriptures-strongs}
+    proximity: 0.8039 {macula-proximity}
     language: hebrew
   - strongs: H2275
-    proximity: 0.803
+    lemma: חֶבְרוֹן
+    gloss: Chebron {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
     language: hebrew
   - strongs: H2276
-    proximity: 0.8029
+    lemma: חֶבְרוֹנִי
+    gloss: Chebronite {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
     language: hebrew
   - strongs: H5680
-    proximity: 0.8014
+    lemma: עִבְרִי
+    gloss: an Eberite  or descendant of Eber {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
     language: hebrew
   - strongs: H2275a
-    proximity: 0.7962
+    proximity: 0.7962 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

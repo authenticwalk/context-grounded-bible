@@ -6,43 +6,51 @@ pronunciation: node
 definition: exile
 kjv_usage: wandering.
 derivation: (only defective נֹד ); from H5110 (נוּד);
-extended_definition:
-  gloss: wandering
-  definition: wandering (of aimless fugitive)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: wandering (of aimless fugitive) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H56
-    proximity: 0.8277
+    proximity: 0.8277 {macula-proximity}
   - strongs: H17
-    proximity: 0.8147
+    proximity: 0.8147 {macula-proximity}
   - strongs: H4788
-    proximity: 0.8113
+    lemma: מָרוּד
+    gloss: an outcast {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
   - strongs: H6428
-    proximity: 0.8092
+    lemma: פָּלַשׁ
+    gloss: to roll {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: H6039
-    proximity: 0.7988
+    lemma: עֱנוּת
+    gloss: affliction {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   - strongs: H8513
-    proximity: 0.7935
+    lemma: תְּלָאָה
+    gloss: distress {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
   - strongs: H578
-    proximity: 0.792
+    proximity: 0.792 {macula-proximity}
   - strongs: H592
-    proximity: 0.7754
+    proximity: 0.7754 {macula-proximity}
   - strongs: H6040
-    proximity: 0.7636
+    lemma: עֳנִי
+    gloss: depression {openscriptures-strongs}
+    proximity: 0.7636 {macula-proximity}
   cross_language:
   - strongs: G2347
-    proximity: 0.8114
+    lemma: θλῖψις
+    gloss: pressure {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
     language: greek
   - strongs: G3804
-    proximity: 0.7841
+    lemma: πάθημα
+    gloss: something undergone {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
     language: greek
   - strongs: G5003
-    proximity: 0.7694
+    lemma: ταλαιπωρέω
+    gloss: to be wretched {openscriptures-strongs}
+    proximity: 0.7694 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,27 +6,27 @@ pronunciation: yaw-rawk'
 definition: properly, green; concretely, a vegetable
 kjv_usage: green, herbs.
 derivation: from the same as H3418 (יֶרֶק);
-extended_definition:
-  gloss: herb
-  definition: herbs, herbage, vegetables, garden greens
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: herbs, herbage, vegetables, garden greens {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1588
-    proximity: 0.827
+    lemma: גַּן
+    gloss: a garden {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H4844
-    proximity: 0.8018
+    lemma: מְרֹר
+    gloss: a bitter herb {openscriptures-strongs}
+    proximity: 0.8018 {macula-proximity}
   - strongs: H737
-    proximity: 0.7272
+    proximity: 0.7272 {macula-proximity}
   - strongs: H6212
-    proximity: 0.7244
+    lemma: עֶשֶׂב
+    gloss: grass {openscriptures-strongs}
+    proximity: 0.7244 {macula-proximity}
   cross_language:
   - strongs: G1008
-    proximity: 0.7466
+    lemma: βοτάνη
+    gloss: herbage {openscriptures-strongs}
+    proximity: 0.7466 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

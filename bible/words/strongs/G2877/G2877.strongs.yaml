@@ -5,61 +5,74 @@ transliteration: korásion
 definition: a (little) girl
 kjv_usage: damsel, maid
 derivation: neuter of a presumed derivative of (a maiden);
-extended_definition:
-  gloss: girl
-  definition: '<b>κοράσιον</b>, -ου, τό <BR /> (dimin. of κόρη), [in LXX chiefly for
-    נַעֲרָה, <ref=''Rut.2.8''>Rut.2:8</ref>, al.; in <ref=''Jol.4.3''>Joel 4:3</ref>,
-    <ref=''Zec.8.5''>Zec.8:5</ref> for יַלְדָּה ;] <BR />a colloquial word which survives
-    in M<i>Gr.</i> (Kennedy, Sourcs, e154), <b>girl, maiden</b>: <ref=''Mat.9.24-25;
-    14.11''>Mat.9:24-25 14:11</ref>, <ref=''Mrk.5.41-42; 6.22, 28''>Mrk.5:41-42 6:22,
-    28</ref>.†<BR /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κορᾱσ-ιον</b>, τό, <br /> in later Gr., <i>diminutive</i> of
-    κόρη, <b>little girl, maiden</b>, [<a href="javascript:void(0)" title=" 4th-3rd
-    c.BC: Philippides Comicus 36, “Anthologia Graeca” 9.39 (Musicius Epigrammaticus),
-    “IG” 7.3325 (from Chaeronea), “GDI” 1705, +others (Delph.), “PStrassb.” 79.2 (1st
-    c.BC), LXX.Ruth.2.8, NT.Matt.9.24, etc. [ᾱ, “Anthologia Graeca” [where cited]]
-    ">NT+4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κοράσιον, -ου, τό
+
+  (dimin. of κόρη), [in LXX chiefly for נַעֲרָה, Rut.2:8, al.; in Joel 4:3, Zec.8:5
+  for יַלְדָּה ;]
+
+  a colloquial word which survives in MGr. (Kennedy, Sourcs, e154), girl, maiden:
+  Mat.9:24-25 14:11, Mrk.5:41-42 6:22, 28.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κορᾱσ-ιον, τό,
+
+  in later Gr., diminutive of κόρη, little girl, maiden, [NT+4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3516
-    proximity: 0.8133
+    lemma: νήπιος
+    gloss: not speaking {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   - strongs: G3808
-    proximity: 0.8119
+    lemma: παιδάριον
+    gloss: a little boy {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: G3398
-    proximity: 0.799
+    lemma: μικρός
+    gloss: small (in size {openscriptures-strongs}
+    proximity: 0.799 {macula-proximity}
   - strongs: G3814
-    proximity: 0.7974
+    lemma: παιδίσκη
+    gloss: a girl {openscriptures-strongs}
+    proximity: 0.7974 {macula-proximity}
   - strongs: G5043
-    proximity: 0.7944
+    lemma: τέκνον
+    gloss: a child {openscriptures-strongs}
+    proximity: 0.7944 {macula-proximity}
   - strongs: G1646
-    proximity: 0.7938
+    lemma: ἐλάχιστος
+    gloss: used as equivalent to G3398 {openscriptures-strongs}
+    proximity: 0.7938 {macula-proximity}
   - strongs: G3816
-    proximity: 0.7864
+    lemma: παῖς
+    gloss: a boy {openscriptures-strongs}
+    proximity: 0.7864 {macula-proximity}
   - strongs: G5044
-    proximity: 0.7857
+    lemma: τεκνοτροφέω
+    gloss: to be a childrearer {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
   cross_language:
   - strongs: H2191
-    proximity: 0.8198
+    lemma: זְעֵיר
+    gloss: small {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
     language: hebrew
   - strongs: H1330
-    proximity: 0.8077
+    lemma: בְּתוּלָה
+    gloss: a virgin {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
     language: hebrew
   - strongs: H5209
-    proximity: 0.8045
+    lemma: נִין
+    gloss: progeny {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
     language: hebrew
   - strongs: H802
-    proximity: 0.8037
+    proximity: 0.8037 {macula-proximity}
     language: hebrew
   - strongs: H6996
-    proximity: 0.7997
+    lemma: קָטָן
+    gloss: abbreviated {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

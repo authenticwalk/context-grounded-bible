@@ -5,41 +5,43 @@ transliteration: Messías
 definition: the Messias (i.e. Mashiach), or Christ
 kjv_usage: Messias
 derivation: of Hebrew origin (H04899);
-extended_definition:
-  gloss: Messiah
-  definition: '<b>Μεσσίας</b>, -ου, ὁ (Aram. מְשִׁיחָא = <i>Heb.</i> מָשִׁיחַ = Χριστός,
-    which see), <BR /> <b>Messiah</b>: <ref=''Jhn.1.42; 4.22''>Jhn.1:42 4:22</ref>.†<BR
-    /> (AS)'
-  morphology: N:N--T
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Μεσσίας</b>, -ου, ὁ (Aram. מְשִׁיחָא = <i>Heb.</i> מָשִׁיחַ
-    = Χριστός, which see), <BR /> <b>Messiah</b>: <ref=''Jhn.1.42; 4.22''>Jhn.1:42
-    4:22</ref>.†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Μεσσίας, -ου, ὁ (Aram. מְשִׁיחָא = Heb. מָשִׁיחַ = Χριστός,
+  which see),
+
+  Messiah: Jhn.1:42 4:22.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Μεσσίας, -ου, ὁ (Aram. מְשִׁיחָא = Heb. מָשִׁיחַ = Χριστός, which see),
+
+  Messiah: Jhn.1:42 4:22.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2268
-    proximity: 0.8012
+    lemma: Ἡσαΐας
+    gloss: Hesaias {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
   cross_language:
   - strongs: H2382
-    proximity: 0.8299
+    lemma: חֲזָיָה
+    gloss: Chazajah {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: hebrew
   - strongs: H6023
-    proximity: 0.8208
+    lemma: עֲמַשְׁסַי
+    gloss: Amashsay {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: hebrew
   - strongs: H6022
-    proximity: 0.8146
+    lemma: עֲמָשַׂי
+    gloss: Amasai {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
     language: hebrew
   - strongs: H273
-    proximity: 0.813
+    proximity: 0.813 {macula-proximity}
     language: hebrew
   - strongs: H747
-    proximity: 0.8035
+    proximity: 0.8035 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

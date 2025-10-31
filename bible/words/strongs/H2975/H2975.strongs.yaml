@@ -8,35 +8,51 @@ definition: a channel, e.g. a fosse, canal, shaft; specifically the Nile, as the
   river of Assyria
 kjv_usage: brook, flood, river, stream.
 derivation: of Egyptian origin;
-extended_definition:
-  gloss: stream
-  definition: 1) river, stream, canal, Nile, Nile-canal<br>1a) stream, river (Nile)<br>1b)
-    Nile-arms, Nile-canals<br>1c) watercourses<br>1d) shafts (mining)<br>1e) river
-    (in general)
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '1) river, stream, canal, Nile, Nile-canal
+
+  1a) stream, river (Nile)
+
+  1b) Nile-arms, Nile-canals
+
+  1c) watercourses
+
+  1d) shafts (mining)
+
+  1e) river (in general) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3999
-    proximity: 0.8214
+    lemma: מַבּוּל
+    gloss: a deluge {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H8585
-    proximity: 0.8202
+    lemma: תְּעָלָה
+    gloss: a channel {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   - strongs: H1415
-    proximity: 0.8152
+    lemma: גָּדָה
+    gloss: a border of a river {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: H6390
-    proximity: 0.8013
+    lemma: פְּלַגָּה
+    gloss: a runlet {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
   - strongs: H4325
-    proximity: 0.7792
+    lemma: מַיִם
+    gloss: water {openscriptures-strongs}
+    proximity: 0.7792 {macula-proximity}
   - strongs: H4323
-    proximity: 0.7768
+    lemma: מִיכָל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7768 {macula-proximity}
   - strongs: H2988
-    proximity: 0.7713
+    lemma: יָבָל
+    gloss: a stream {openscriptures-strongs}
+    proximity: 0.7713 {macula-proximity}
   cross_language:
   - strongs: G4132
-    proximity: 0.8216
+    lemma: πλήμμυρα
+    gloss: flood-tide {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,57 +7,98 @@ definition: to tear off
 kjv_usage: break (off), burst, draw (away), lift up, pluck (away, off), pull (out),
   root out.
 derivation: a primitive root;
-extended_definition:
-  gloss: to tear
-  definition: 1) to pull or tear or draw off or away or apart, draw out, pluck up,
-    break, lift, root out<br>1a) (Qal)<br>1a1) to draw away<br>1a2) to draw or pull
-    off<br>1a3) to pull or tear away<br>1b) (Niphal)<br>1b1) to be drawn away, be
-    drawn out<br>1b2) to be torn apart or in two, be snapped<br>1b3) to be separated<br>1c)
-    (Piel)<br>1c1) to tear apart, snap<br>1c2) to tear out, tear up, tear away<br>1d)
-    (Hiphil)<br>1d1) to draw away<br>1d2) to drag away<br>1e) (Hophal) to be drawn
-    away
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to pull or tear or draw off or away or apart, draw out, pluck
+  up, break, lift, root out
+
+  1a) (Qal)
+
+  1a1) to draw away
+
+  1a2) to draw or pull off
+
+  1a3) to pull or tear away
+
+  1b) (Niphal)
+
+  1b1) to be drawn away, be drawn out
+
+  1b2) to be torn apart or in two, be snapped
+
+  1b3) to be separated
+
+  1c) (Piel)
+
+  1c1) to tear apart, snap
+
+  1c2) to tear out, tear up, tear away
+
+  1d) (Hiphil)
+
+  1d1) to draw away
+
+  1d2) to drag away
+
+  1e) (Hophal) to be drawn away {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6990b
-    proximity: 0.8274
+    proximity: 0.8274 {macula-proximity}
   - strongs: H6555
-    proximity: 0.8272
+    lemma: פָּרַץ
+    gloss: to break out (in many applications {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: H7111
-    proximity: 0.8262
+    lemma: קְצָפָה
+    gloss: a fragment {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: H6504
-    proximity: 0.8232
+    lemma: פָּרַד
+    gloss: to break through {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H1792
-    proximity: 0.8228
+    lemma: דָּכָא
+    gloss: to crumble {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
   - strongs: H6131
-    proximity: 0.8219
+    lemma: עָקַר
+    gloss: to pluck up {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: A1855
-    proximity: 0.8174
+    proximity: 0.8174 {macula-proximity}
   - strongs: H5420
-    proximity: 0.8169
+    lemma: נָתָס
+    gloss: to tear up {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: H4272
-    proximity: 0.8139
+    lemma: מָחַץ
+    gloss: to dash asunder {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H3807
-    proximity: 0.8104
+    lemma: כָּתַת
+    gloss: to bruise or violently strike {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
   cross_language:
   - strongs: G2806
-    proximity: 0.8273
+    lemma: κλάω
+    gloss: to break (specially {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G3089
-    proximity: 0.8217
+    lemma: λύω
+    gloss: to "loosen" {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
     language: greek
   - strongs: G501
-    proximity: 0.8159
+    proximity: 0.8159 {macula-proximity}
     language: greek
   - strongs: G5563
-    proximity: 0.8122
+    lemma: χωρίζω
+    gloss: to place room between {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
     language: greek
   - strongs: G4977
-    proximity: 0.8103
+    lemma: σχίζω
+    gloss: to split or sever {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

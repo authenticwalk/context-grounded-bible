@@ -9,55 +9,110 @@ kjv_usage: he, [idiom] hence, [idiom] here, it(-self), [idiom] now, [idiom] of h
   (a one) that, these, this (hath, man), on this side...on that side, [idiom] thus,
   very, which. Compare H2063 (זֹאת), H2090 (זֹה), H2097 (זוֹ), H2098 (זוּ).
 derivation: a primitive word;
-extended_definition:
-  gloss: this
-  definition: 1) this, this one, here, which, this...that, the one...the other, another,
-    such<br>1a) (alone)<br>1a1) this one<br>1a2) this...that, the one...the other,
-    another<br>1b) (appos to subst)<br>1b1) this<br>1c) (as predicate)<br>1c1) this,
-    such<br>1d) (enclitically)<br>1d1) then<br>1d2) who, whom<br>1d3) how now, what
-    now<br>1d4) what now<br>1d5) wherefore now<br>1d6) behold here<br>1d7) just now<br>1d8)
-    now, now already<br>1e) (poetry)<br>1e1) wherein, which, those who<br>1f) (with
-    prefixes)<br>1f1) in this (place) here, then<br>1f2) on these conditions, herewith,
-    thus provided, by, through this, for this cause, in this matter<br>1f3) thus and
-    thus<br>1f4) as follows, things such as these, accordingly, to that effect, in
-    like manner, thus and thus<br>1f5) from here, hence, on one side...on the other
-    side<br>1f6) on this account<br>1f7) in spite of this, which, whence, how
-  morphology: H:DemP
-  source: STEPBible/BDB
+extended_definition: '1) this, this one, here, which, this...that, the one...the other,
+  another, such
+
+  1a) (alone)
+
+  1a1) this one
+
+  1a2) this...that, the one...the other, another
+
+  1b) (appos to subst)
+
+  1b1) this
+
+  1c) (as predicate)
+
+  1c1) this, such
+
+  1d) (enclitically)
+
+  1d1) then
+
+  1d2) who, whom
+
+  1d3) how now, what now
+
+  1d4) what now
+
+  1d5) wherefore now
+
+  1d6) behold here
+
+  1d7) just now
+
+  1d8) now, now already
+
+  1e) (poetry)
+
+  1e1) wherein, which, those who
+
+  1f) (with prefixes)
+
+  1f1) in this (place) here, then
+
+  1f2) on these conditions, herewith, thus provided, by, through this, for this cause,
+  in this matter
+
+  1f3) thus and thus
+
+  1f4) as follows, things such as these, accordingly, to that effect, in like manner,
+  thus and thus
+
+  1f5) from here, hence, on one side...on the other side
+
+  1f6) on this account
+
+  1f7) in spite of this, which, whence, how {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5668
-    proximity: 0.8287
+    lemma: עָבוּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H4725
-    proximity: 0.8285
+    lemma: מָקוֹם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: H349a
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
   - strongs: H5676
-    proximity: 0.8238
+    lemma: עֵבֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: A3509d
-    proximity: 0.8202
+    proximity: 0.8202 {macula-proximity}
   - strongs: H5973
-    proximity: 0.8195
+    lemma: עִם
+    gloss: adverb or preposition {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H3605
-    proximity: 0.8176
+    lemma: כֹּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   cross_language:
   - strongs: G4226
-    proximity: 0.829
+    lemma: ποῦ
+    gloss: as adverb of place {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G4133
-    proximity: 0.8286
+    lemma: πλήν
+    gloss: moreover {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G3754
-    proximity: 0.8236
+    lemma: ὅτι
+    gloss: demonstrative {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
     language: greek
   - strongs: G4159
-    proximity: 0.8231
+    lemma: πόθεν
+    gloss: from which  or what  place {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
     language: greek
   - strongs: G473
-    proximity: 0.8221
+    proximity: 0.8221 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

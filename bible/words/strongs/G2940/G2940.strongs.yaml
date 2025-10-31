@@ -5,45 +5,48 @@ transliteration: kybeía
 definition: gambling, i.e. (figuratively) artifice or fraud
 kjv_usage: sleight
 derivation: from (a "cube", i.e. die for playing);
-extended_definition:
-  gloss: cunning
-  definition: '<b>κυβία</b> (Mt. -εία, and so Rec.), -ας, ἡ <BR /> (κύβος, a cube,
-    a die), <BR /><b>dice-playing</b>; metaphorically, <b>trickery, sleight</b>: <ref=''Eph.4.14.''>Eph.4:14.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κῠβεία</b>, ἡ, <br /> <b>dice-playing</b>, [<a href="javascript:void(0)"
-    title=" 5th-6th c.BC: Plato Philosophus “Phaedrus” 274d, X “Mem.” 1.3.2, 4th c.BC:
-    Aeneas Tacticus 5.2, 4th-3rd c.BC: Menander Comicus 481.10 (_plural_), etc.: _metaphorically_,
-    ἐν τῇ κ. τῶν ἀνθρώπων">Refs 5th c.BC+</a>] by the <b>trickery</b> of men, [<a
-    href="javascript:void(0)" title=" NT.Eph.4.14. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κυβία (Mt. -εία, and so Rec.), -ας, ἡ
+
+  (κύβος, a cube, a die),
+
+  dice-playing; metaphorically, trickery, sleight: Eph.4:14.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κῠβεία, ἡ,
+
+  dice-playing, [Refs 5th c.BC+] by the trickery of men, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1386
-    proximity: 0.7932
+    lemma: δόλιος
+    gloss: guileful {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
   - strongs: G1388
-    proximity: 0.7163
+    lemma: δόλος
+    gloss: compare G1185 ) {openscriptures-strongs}
+    proximity: 0.7163 {macula-proximity}
   cross_language:
   - strongs: H3908
-    proximity: 0.8228
+    lemma: לַחַשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
     language: hebrew
   - strongs: H900
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
     language: hebrew
   - strongs: H3785
-    proximity: 0.8079
+    lemma: כֶּשֶׁף
+    gloss: magic {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
     language: hebrew
   - strongs: H4156
-    proximity: 0.8043
+    lemma: מוֹעֵצָה
+    gloss: a purpose {openscriptures-strongs}
+    proximity: 0.8043 {macula-proximity}
     language: hebrew
   - strongs: H6193
-    proximity: 0.7968
+    lemma: עֹרֶם
+    gloss: a stratagem {openscriptures-strongs}
+    proximity: 0.7968 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

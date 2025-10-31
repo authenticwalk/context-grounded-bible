@@ -6,37 +6,43 @@ pronunciation: ad-en'
 definition: till now
 kjv_usage: yet.
 derivation: or עֲדֶנָּה; from H5704 (עַד) and H2004 (הֵן);
-extended_definition:
-  gloss: still
-  definition: hitherto, still, yet
-  morphology: H:Adv
-  source: STEPBible/BDB
+extended_definition: hitherto, still, yet {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3808
-    proximity: 0.8248
+    lemma: לֹא
+    gloss: not {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: H1077
-    proximity: 0.8088
+    lemma: בַּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
   - strongs: H2962
-    proximity: 0.7379
+    lemma: טֶרֶם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7379 {macula-proximity}
   cross_language:
   - strongs: G3756
-    proximity: 0.8251
+    lemma: οὐ
+    gloss: the absolute negative ) adverb {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
     language: greek
   - strongs: G3762
-    proximity: 0.8239
+    lemma: οὐδείς
+    gloss: not even one (man {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G2089
-    proximity: 0.8161
+    lemma: ἔτι
+    gloss: '"yet {openscriptures-strongs}'
+    proximity: 0.8161 {macula-proximity}
     language: greek
   - strongs: G3380
-    proximity: 0.7913
+    lemma: μήπω
+    gloss: not yet {openscriptures-strongs}
+    proximity: 0.7913 {macula-proximity}
     language: greek
   - strongs: G188
-    proximity: 0.7679
+    proximity: 0.7679 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

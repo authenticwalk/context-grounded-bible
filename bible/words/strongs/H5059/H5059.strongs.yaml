@@ -8,41 +8,54 @@ definition: properly, to thrum, i.e. beat atune with the fingers; expectation. t
 kjv_usage: player on instruments, sing to the stringed instruments, melody, ministrel,
   play(-er, -ing).
 derivation: a primitive root;
-extended_definition:
-  gloss: to play
-  definition: 1) to play or strike strings, play a stringed instrument<br>1a) (Qal)<br>1a1)
-    player (participle)<br>1b) (Piel)<br>1b1) to play<br>1b1a) player, minstrel (participle)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to play or strike strings, play a stringed instrument
+
+  1a) (Qal)
+
+  1a1) player (participle)
+
+  1b) (Piel)
+
+  1b1) to play
+
+  1b1a) player, minstrel (participle) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1b
-    proximity: 0.8201
+    proximity: 0.8201 {macula-proximity}
   - strongs: H2167
-    proximity: 0.8175
+    lemma: זָמַר
+    gloss: play upon it {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
   - strongs: H2490b
-    proximity: 0.8129
+    proximity: 0.8129 {macula-proximity}
   - strongs: H6527
-    proximity: 0.7988
+    lemma: פָּרַט
+    gloss: to scatter words {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   - strongs: H4482
-    proximity: 0.7988
+    lemma: מֵן
+    gloss: a musical chord {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7565
+    proximity: 0.7565 {macula-proximity}
   cross_language:
   - strongs: G4858
-    proximity: 0.8252
+    lemma: συμφωνία
+    gloss: unison of sound {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.8228
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
     language: greek
   - strongs: G832
-    proximity: 0.8219
+    proximity: 0.8219 {macula-proximity}
     language: greek
   - strongs: G3815
-    proximity: 0.7747
+    lemma: παίζω
+    gloss: to sport {openscriptures-strongs}
+    proximity: 0.7747 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

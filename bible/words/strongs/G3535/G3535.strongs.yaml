@@ -5,36 +5,37 @@ transliteration: Nineuḯ
 definition: Ninevi (i.e. Nineveh), the capital of Assyria
 kjv_usage: Nineve
 derivation: of Hebrew origin (H05210);
-extended_definition:
-  gloss: Nineveh
-  definition: '<b>Νινευΐ</b>, η (Heb. נִינְוֵה), <BR /> <b>Nineveh</b>: <ref=''Luk.11.32''>Luk.11:32</ref>,
-    Rec.†<BR /> (AS)'
-  morphology: N:N--L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Νινευΐ</b>, η (Heb. נִינְוֵה), <BR /> <b>Nineveh</b>: <ref=''Luk.11.32''>Luk.11:32</ref>,
-    Rec.†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Νινευΐ, η (Heb. נִינְוֵה),
+
+  Nineveh: Luk.11:32, Rec.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Νινευΐ, η (Heb. נִינְוֵה),
+
+  Nineveh: Luk.11:32, Rec.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H244a
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
     language: hebrew
   - strongs: H6935
-    proximity: 0.8241
+    lemma: קַדְמֹנִי
+    gloss: Kadmonite {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: hebrew
   - strongs: H4981
-    proximity: 0.8226
+    lemma: מִתְנִי
+    gloss: a Mithnite {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
     language: hebrew
   - strongs: H7014a
-    proximity: 0.8163
+    proximity: 0.8163 {macula-proximity}
     language: hebrew
   - strongs: H3846
-    proximity: 0.8111
+    lemma: לִבְנִי
+    gloss: a Libnite or descendants of Libni {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,39 +6,54 @@ pronunciation: math-ko'-neth
 definition: proportion (in size, number or ingredients)
 kjv_usage: composition, measure, state, tale.
 derivation: or מַתְכֻנֶת; from H8505 (תָּכַן) in the transferred sense of measuring;
-extended_definition:
-  gloss: tally
-  definition: 1) measurement, proportion, tale<br>1a) tale, tally (of bricks)<br>1b)
-    measurement, proportion
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) measurement, proportion, tale
+
+  1a) tale, tally (of bricks)
+
+  1b) measurement, proportion {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5610
-    proximity: 0.8009
+    lemma: סְפָר
+    gloss: a census {openscriptures-strongs}
+    proximity: 0.8009 {macula-proximity}
   - strongs: H4461
-    proximity: 0.7967
+    lemma: מֵמַד
+    gloss: a measure {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
   - strongs: H4948
-    proximity: 0.7959
+    lemma: מִשְׁקָל
+    gloss: weight {openscriptures-strongs}
+    proximity: 0.7959 {macula-proximity}
   - strongs: H8506
-    proximity: 0.7898
+    lemma: תֹּכֶן
+    gloss: a fixed quantity {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
   - strongs: H4946
-    proximity: 0.7553
+    lemma: מִשְׁקוֹל
+    gloss: weight {openscriptures-strongs}
+    proximity: 0.7553 {macula-proximity}
   - strongs: H4058
-    proximity: 0.7488
+    lemma: מָדַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7488 {macula-proximity}
   - strongs: H4884
-    proximity: 0.7449
+    lemma: מְשׂוּרָה
+    gloss: a measure {openscriptures-strongs}
+    proximity: 0.7449 {macula-proximity}
   - strongs: H5615
-    proximity: 0.7269
+    lemma: סְפֹרָה
+    gloss: a numeration {openscriptures-strongs}
+    proximity: 0.7269 {macula-proximity}
   cross_language:
   - strongs: G3354
-    proximity: 0.7587
+    lemma: μετρέω
+    gloss: to measure {openscriptures-strongs}
+    proximity: 0.7587 {macula-proximity}
     language: greek
   - strongs: G3358
-    proximity: 0.7332
+    lemma: μέτρον
+    gloss: a measure {openscriptures-strongs}
+    proximity: 0.7332 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

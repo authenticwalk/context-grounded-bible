@@ -7,23 +7,21 @@ definition: the external abdomen, belly (as the source of the faetus )
 kjv_usage: belly.
 derivation: probably from H1518 (גִּיחַ)lemma גּיחַ missing vowel, corrected to גִּיחַ;
   (compare H1521 (גִּיחוֹן))
-extended_definition:
-  gloss: belly
-  definition: belly (of reptiles)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: belly (of reptiles) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2504
-    proximity: 0.7763
+    lemma: חָלָץ
+    gloss: the loins {openscriptures-strongs}
+    proximity: 0.7763 {macula-proximity}
   - strongs: H4578
-    proximity: 0.7103
+    lemma: מֵעֶה
+    gloss: used only in plural the intestines {openscriptures-strongs}
+    proximity: 0.7103 {macula-proximity}
   cross_language:
   - strongs: G3523
-    proximity: 0.806
+    lemma: νῆστις
+    gloss: not eating {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -11,40 +11,61 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H6566
-    proximity: 0.8291
+    lemma: פָּרַשׂ
+    gloss: to break apart {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: H6358
-    proximity: 0.8179
+    lemma: פָּטוּר
+    gloss: opened {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
   - strongs: H2224
-    proximity: 0.8104
+    lemma: זָרַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
   - strongs: H5322
-    proximity: 0.8049
+    lemma: נֵץ
+    gloss: a flower {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H5328
-    proximity: 0.8026
+    lemma: נִצָּה
+    gloss: a blossom {openscriptures-strongs}
+    proximity: 0.8026 {macula-proximity}
   - strongs: H7488
-    proximity: 0.8003
+    lemma: רַעֲנָן
+    gloss: verdant {openscriptures-strongs}
+    proximity: 0.8003 {macula-proximity}
   - strongs: H6780
-    proximity: 0.783
+    lemma: צֶמַח
+    gloss: a sprout {openscriptures-strongs}
+    proximity: 0.783 {macula-proximity}
   - strongs: H1299
-    proximity: 0.7773
+    lemma: בָּרַק
+    gloss: to lighten {openscriptures-strongs}
+    proximity: 0.7773 {macula-proximity}
   - strongs: H6509
-    proximity: 0.7695
+    lemma: פָּרָה
+    gloss: to bear fruit {openscriptures-strongs}
+    proximity: 0.7695 {macula-proximity}
   cross_language:
   - strongs: G450
-    proximity: 0.8279
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G527
-    proximity: 0.8253
+    proximity: 0.8253 {macula-proximity}
     language: greek
   - strongs: G4261
-    proximity: 0.8239
+    lemma: προβάλλω
+    gloss: to throw forward {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G1607
-    proximity: 0.8201
+    lemma: ἐκπορεύομαι
+    gloss: to depart {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G1831
-    proximity: 0.7943
+    lemma: ἐξέρχομαι
+    gloss: to issue {openscriptures-strongs}
+    proximity: 0.7943 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

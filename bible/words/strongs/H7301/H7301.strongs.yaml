@@ -7,50 +7,73 @@ definition: to slake the thirst (occasionally of other appetites)
 kjv_usage: bathe, make drunk, (take the) fill, satiate, (abundantly) satisfy, soak,
   water (abundantly).
 derivation: a primitive root;
-extended_definition:
-  gloss: to quench
-  definition: 1) to be satiated or saturated, have or drink one's fill<br>1a) (Qal)
-    to take one's fill<br>1b) (Piel)<br>1b1) to be drunk, be intoxicated<br>1b2) to
-    drench, water abundantly, saturate<br>1c) (Hiphil) to saturate, water, cause to
-    drink
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be satiated or saturated, have or drink one''s fill
+
+  1a) (Qal) to take one''s fill
+
+  1b) (Piel)
+
+  1b1) to be drunk, be intoxicated
+
+  1b2) to drench, water abundantly, saturate
+
+  1c) (Hiphil) to saturate, water, cause to drink {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8360
-    proximity: 0.8246
+    lemma: שְׁתִיָּה
+    gloss: potation {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: H4392
-    proximity: 0.8215
+    lemma: מָלֵא
+    gloss: full  or filling {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H7937
-    proximity: 0.8205
+    lemma: שָׁכַר
+    gloss: to become tipsy {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: H5433
-    proximity: 0.8199
+    lemma: סָבָא
+    gloss: to quaff to satiety {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H8250
-    proximity: 0.8042
+    lemma: שִׁקּוּי
+    gloss: a beverage {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: H7302
-    proximity: 0.8015
+    lemma: רָוֶה
+    gloss: sated {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
   - strongs: H3780
-    proximity: 0.8012
+    lemma: כָּשָׂה
+    gloss: to grow fat {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
   - strongs: A8355
-    proximity: 0.7988
+    proximity: 0.7988 {macula-proximity}
   cross_language:
   - strongs: G4188
-    proximity: 0.8264
+    lemma: πόμα
+    gloss: a beverage {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G4222
-    proximity: 0.8239
+    lemma: ποτίζω
+    gloss: to furnish drink {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G1604
-    proximity: 0.8239
+    lemma: ἐκπλήρωσις
+    gloss: completion {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G4213
-    proximity: 0.819
+    lemma: πόσις
+    gloss: a drinking {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
     language: greek
   - strongs: G5204
-    proximity: 0.8128
+    lemma: ὕδωρ
+    gloss: water  literally or figuratively {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

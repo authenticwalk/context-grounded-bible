@@ -5,36 +5,39 @@ transliteration: Iōsaphát
 definition: Josaphat (i.e. Jehoshaphat), an Israelite
 kjv_usage: Josaphat
 derivation: of Hebrew origin (H03092);
-extended_definition:
-  gloss: Jehoshaphat
-  definition: '<b>Ἰωσαφάτ</b>, ὁ indecl. (Heb. יְהוֹשָׁפָט), <BR /> <b>Jehoshaphat</b>:
-    <ref=''Mat.1.8.''>Mat.1:8.</ref>† <BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἰωσαφάτ</b>, ὁ indecl. (Heb. יְהוֹשָׁפָט), <BR /> <b>Jehoshaphat</b>:
-    <ref=''Mat.1.8.''>Mat.1:8.</ref>† <BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἰωσαφάτ, ὁ indecl. (Heb. יְהוֹשָׁפָט),
+
+  Jehoshaphat: Mat.1:8.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἰωσαφάτ, ὁ indecl. (Heb. יְהוֹשָׁפָט),
+
+  Jehoshaphat: Mat.1:8.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H478
-    proximity: 0.8226
+    proximity: 0.8226 {macula-proximity}
     language: hebrew
   - strongs: H7724
-    proximity: 0.82
+    lemma: שְׁוָא
+    gloss: Sheva {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: hebrew
   - strongs: H3145
-    proximity: 0.8123
+    lemma: יוֹשַׁוְיָה
+    gloss: Joshavjah {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
     language: hebrew
   - strongs: H8202
-    proximity: 0.7453
+    lemma: שָׁפָט
+    gloss: Shaphat {openscriptures-strongs}
+    proximity: 0.7453 {macula-proximity}
     language: hebrew
   - strongs: H3144
-    proximity: 0.7341
+    lemma: יוֹשָׁה
+    gloss: Joshah {openscriptures-strongs}
+    proximity: 0.7341 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

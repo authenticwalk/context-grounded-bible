@@ -6,30 +6,30 @@ pronunciation: ghen-ay-baw'
 definition: stealing, i.e. (concretely) something stolen
 kjv_usage: theft.
 derivation: from H1589 (גָּנַב);
-extended_definition:
-  gloss: theft
-  definition: thing stolen, theft
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: thing stolen, theft {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A2819
-    proximity: 0.8139
+    proximity: 0.8139 {macula-proximity}
   - strongs: H6892
-    proximity: 0.8067
+    lemma: קֵא
+    gloss: vomit {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   - strongs: H2557a
-    proximity: 0.796
+    proximity: 0.796 {macula-proximity}
   - strongs: H1589
-    proximity: 0.7411
+    lemma: גָּנַב
+    gloss: to thieve {openscriptures-strongs}
+    proximity: 0.7411 {macula-proximity}
   cross_language:
   - strongs: G4161
-    proximity: 0.823
+    lemma: ποίημα
+    gloss: a product {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
     language: greek
   - strongs: G4162
-    proximity: 0.8093
+    lemma: ποίησις
+    gloss: action {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,52 +5,64 @@ transliteration: dóma
 definition: a present
 kjv_usage: gift
 derivation: from the base of G1325 (δίδωμι);
-extended_definition:
-  gloss: gift
-  definition: '<b>δόμα</b>, -τος, τό<BR /> (δίδωμι), [in LXX for מַתָּנָה, etc. ;]
-    <BR /><b>a gift</b>: <ref=''Mat.7.11''>Mat.7:11</ref>, <ref=''Luk.11.13''>Luk.11:13</ref>,
-    <ref=''Eph.4.8''>Eph.4:8</ref>" (LXX), <ref=''Php.4.17.''>Php.4:17.</ref>†<BR
-    /> <re><i>SYN.</i>: δόσις, δῶρον, δωρεά, δώρημα </re> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> δόμα</b>, ατος, τό, <br /> <br /><Level1><b>__B</b></Level1>
-    ={δῶμα}, [<a href="javascript:void(0)" title=" 1st c.BC(?): Maximus Astrologus
-    448, ={τειχίον}, 5th c.AD(?): Hesychius Legal icographus ">Refs 1st c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δόμα, -τος, τό
+
+  (δίδωμι), [in LXX for מַתָּנָה, etc. ;]
+
+  a gift: Mat.7:11, Luk.11:13, Eph.4:8" (LXX), Php.4:17.†
+
+  SYN.: δόσις, δῶρον, δωρεά, δώρημα  (AS) {STEPBible-TBESG}'
+etymology: 'δόμα, ατος, τό,
+
+  __B ={δῶμα}, [Refs 1st c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4376
-    proximity: 0.8257
+    lemma: προσφορά
+    gloss: presentation {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: G2023
-    proximity: 0.822
+    lemma: ἐπιχορηγέω
+    gloss: to furnish besides {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
   - strongs: A5023
-    proximity: 0.8191
+    proximity: 0.8191 {macula-proximity}
   - strongs: G2129
-    proximity: 0.8132
+    lemma: εὐλογία
+    gloss: fine speaking {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
   - strongs: G3405
-    proximity: 0.8061
+    lemma: μισθαποδοσία
+    gloss: requital {openscriptures-strongs}
+    proximity: 0.8061 {macula-proximity}
   - strongs: G1394
-    proximity: 0.7947
+    lemma: δόσις
+    gloss: a giving {openscriptures-strongs}
+    proximity: 0.7947 {macula-proximity}
   cross_language:
   - strongs: H1500
-    proximity: 0.8289
+    lemma: גְּזֵלָה
+    gloss: '{robbery {openscriptures-strongs}'
+    proximity: 0.8289 {macula-proximity}
     language: hebrew
   - strongs: H3387
-    proximity: 0.8281
+    lemma: יָרוֹק
+    gloss: green {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: hebrew
   - strongs: H1293
-    proximity: 0.8269
+    lemma: בְּרָכָה
+    gloss: benediction {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
     language: hebrew
   - strongs: H2580
-    proximity: 0.8173
+    lemma: חֵן
+    gloss: graciousness {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
     language: hebrew
   - strongs: H2214
-    proximity: 0.8144
+    lemma: זָרָא
+    gloss: disgust {openscriptures-strongs}
+    proximity: 0.8144 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

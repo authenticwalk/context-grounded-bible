@@ -6,38 +6,49 @@ pronunciation: mal-koshe'
 definition: the spring rain; figuratively, eloquence
 kjv_usage: latter rain.
 derivation: from H3953 (לָקַשׁ); (compare H3954 (לֶקֶשׁ))
-extended_definition:
-  gloss: spring rain
-  definition: 1) latter rain, spring rain<br>1a) the March and April rains which mature
-    the crops of Palestine
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) latter rain, spring rain
+
+  1a) the March and April rains which mature the crops of Palestine {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5464
-    proximity: 0.8291
+    lemma: סַגְרִיד
+    gloss: a pouring rain {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: H4305
-    proximity: 0.8145
+    lemma: מָטַר
+    gloss: to rain {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
   - strongs: H1652
-    proximity: 0.8056
+    lemma: גָּשַׁם
+    gloss: to shower violently {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H1656
-    proximity: 0.7857
+    lemma: גֹּשֶׁם
+    gloss: '{a shower} {openscriptures-strongs}'
+    proximity: 0.7857 {macula-proximity}
   - strongs: H8164
-    proximity: 0.7855
+    lemma: שָׂעִיר
+    gloss: a shower {openscriptures-strongs}
+    proximity: 0.7855 {macula-proximity}
   - strongs: H7241
-    proximity: 0.7337
+    lemma: רָבִיב
+    gloss: a rain {openscriptures-strongs}
+    proximity: 0.7337 {macula-proximity}
   cross_language:
   - strongs: G2532
-    proximity: 0.8288
+    lemma: καί
+    gloss: and {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
     language: greek
   - strongs: G1026
-    proximity: 0.8152
+    lemma: βρέχω
+    gloss: to moisten {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
     language: greek
   - strongs: G5205
-    proximity: 0.7238
+    lemma: ὑετός
+    gloss: rain {openscriptures-strongs}
+    proximity: 0.7238 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

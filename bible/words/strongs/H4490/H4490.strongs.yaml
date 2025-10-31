@@ -7,51 +7,67 @@ definition: properly, something weighed out, i.e. (generally) a division; specif
   (of food) a ration; also a lot
 kjv_usage: such things as belonged, part, portion.
 derivation: from H4487 (מָנָה);
-extended_definition:
-  gloss: portion
-  definition: part, portion
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: part, portion {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7133
-    proximity: 0.8209
+    lemma: קׇרְבָּן
+    gloss: something brought near the altar {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: A4481
-    proximity: 0.8179
+    proximity: 0.8179 {macula-proximity}
   - strongs: H4503
-    proximity: 0.8092
+    lemma: מִנְחָה
+    gloss: a donation {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: H4241
-    proximity: 0.8072
+    lemma: מִחְיָה
+    gloss: preservation of life {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
   - strongs: H6595
-    proximity: 0.7916
+    lemma: פַּת
+    gloss: a bit {openscriptures-strongs}
+    proximity: 0.7916 {macula-proximity}
   - strongs: H2513
-    proximity: 0.7909
+    lemma: חֶלְקָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7909 {macula-proximity}
   - strongs: A4504
-    proximity: 0.7899
+    proximity: 0.7899 {macula-proximity}
   - strongs: H4303
-    proximity: 0.7857
+    lemma: מַטְעַם
+    gloss: a delicacy {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
   - strongs: H4888a
-    proximity: 0.7819
+    proximity: 0.7819 {macula-proximity}
   - strongs: H2964
-    proximity: 0.7802
+    lemma: טֶרֶף
+    gloss: something torn {openscriptures-strongs}
+    proximity: 0.7802 {macula-proximity}
   cross_language:
   - strongs: G1431
-    proximity: 0.8276
+    lemma: δωρεά
+    gloss: a gratuity {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: greek
   - strongs: G4829
-    proximity: 0.8267
+    lemma: συμμερίζομαι
+    gloss: to share jointly {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
     language: greek
   - strongs: G3310
-    proximity: 0.8236
+    lemma: μερίς
+    gloss: a portion {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
     language: greek
   - strongs: G5527
-    proximity: 0.8157
+    lemma: χόρτασμα
+    gloss: forage {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
     language: greek
   - strongs: G4376
-    proximity: 0.811
+    lemma: προσφορά
+    gloss: presentation {openscriptures-strongs}
+    proximity: 0.811 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

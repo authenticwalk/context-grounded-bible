@@ -6,27 +6,29 @@ pronunciation: taw-ko'-ah
 definition: a trumpet
 kjv_usage: trumpet.
 derivation: from H8628 (תָּקַע) (in the musical sense);
-extended_definition:
-  gloss: trumpet
-  definition: a blast-(wind)-instrument, trumpet
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: a blast-(wind)-instrument, trumpet {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8643
-    proximity: 0.8007
+    lemma: תְּרוּעָה
+    gloss: clamor {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: H8628
-    proximity: 0.7923
+    lemma: תָּקַע
+    gloss: to clatter {openscriptures-strongs}
+    proximity: 0.7923 {macula-proximity}
   - strongs: H3104
-    proximity: 0.7853
+    lemma: יוֹבֵל
+    gloss: the blast of a horn {openscriptures-strongs}
+    proximity: 0.7853 {macula-proximity}
   - strongs: H8629
-    proximity: 0.7192
+    lemma: תֵּקַע
+    gloss: a blast of a trumpet {openscriptures-strongs}
+    proximity: 0.7192 {macula-proximity}
   cross_language:
   - strongs: G4538
-    proximity: 0.8056
+    lemma: σαλπιστής
+    gloss: a trumpeter {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

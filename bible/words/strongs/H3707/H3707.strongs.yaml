@@ -7,52 +7,76 @@ definition: to trouble; by implication, to grieve, rage, be indignant
 kjv_usage: be angry, be grieved, take indignation, provoke (to anger, unto wrath),
   have sorrow, vex, be wroth.
 derivation: a primitive root;
-extended_definition:
-  gloss: to provoke
-  definition: 1) to be angry, be vexed, be indignant, be wroth, be grieved, provoke
-    to anger and wrath<br>1a) (Qal)<br>1a1) to be vexed, be indignant<br>1a2) to be
-    angry<br>1b) (Piel) to provoke to anger<br>1c) (Hiphil)<br>1c1) to vex<br>1c2)
-    to vex, provoke to anger
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be angry, be vexed, be indignant, be wroth, be grieved,
+  provoke to anger and wrath
+
+  1a) (Qal)
+
+  1a1) to be vexed, be indignant
+
+  1a2) to be angry
+
+  1b) (Piel) to provoke to anger
+
+  1c) (Hiphil)
+
+  1c1) to vex
+
+  1c2) to vex, provoke to anger {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2198
-    proximity: 0.826
+    lemma: זָעֵף
+    gloss: angry {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
   - strongs: H7116
-    proximity: 0.8143
+    lemma: קָצֵר
+    gloss: short (whether in size {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
   - strongs: H2534a
-    proximity: 0.8104
+    proximity: 0.8104 {macula-proximity}
   - strongs: H6225
-    proximity: 0.8042
+    lemma: עָשַׁן
+    gloss: to smoke {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: A2528
-    proximity: 0.7888
+    proximity: 0.7888 {macula-proximity}
   - strongs: A7109
-    proximity: 0.7739
+    proximity: 0.7739 {macula-proximity}
   - strongs: H2740
-    proximity: 0.7703
+    lemma: חָרוֹן
+    gloss: a burning of anger {openscriptures-strongs}
+    proximity: 0.7703 {macula-proximity}
   - strongs: H5201
-    proximity: 0.7584
+    lemma: נָטַר
+    gloss: to guard {openscriptures-strongs}
+    proximity: 0.7584 {macula-proximity}
   - strongs: H4843
-    proximity: 0.7543
+    lemma: מָרַר
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7543 {macula-proximity}
   cross_language:
   - strongs: G3863
-    proximity: 0.7873
+    lemma: παραζηλόω
+    gloss: to stimulate alongside {openscriptures-strongs}
+    proximity: 0.7873 {macula-proximity}
     language: greek
   - strongs: G3893
-    proximity: 0.7559
+    lemma: παραπικραίνω
+    gloss: to embitter alongside {openscriptures-strongs}
+    proximity: 0.7559 {macula-proximity}
     language: greek
   - strongs: G23
-    proximity: 0.7496
+    proximity: 0.7496 {macula-proximity}
     language: greek
   - strongs: G1282
-    proximity: 0.7489
+    lemma: διαπρίω
+    gloss: to saw asunder {openscriptures-strongs}
+    proximity: 0.7489 {macula-proximity}
     language: greek
   - strongs: G3894
-    proximity: 0.7487
+    lemma: παραπικρασμός
+    gloss: irritation {openscriptures-strongs}
+    proximity: 0.7487 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

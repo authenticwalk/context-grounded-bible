@@ -6,42 +6,52 @@ pronunciation: so'-leth
 definition: flour (as chipped off)
 kjv_usage: (fine) flour, meal.
 derivation: from an unused root meaning to strip;
-extended_definition:
-  gloss: fine flour
-  definition: fine flour
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: fine flour {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1854
-    proximity: 0.8274
+    lemma: דָּקַק
+    gloss: to crush  crumble {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H1851
-    proximity: 0.8265
+    lemma: דַּק
+    gloss: crushed {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H8336
-    proximity: 0.8171
+    lemma: שֵׁשׁ
+    gloss: bleached stuff {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: H6266
-    proximity: 0.8162
+    lemma: עָתִיק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H948
-    proximity: 0.812
+    proximity: 0.812 {macula-proximity}
   - strongs: H1217
-    proximity: 0.7687
+    lemma: בָּצֵק
+    gloss: dough {openscriptures-strongs}
+    proximity: 0.7687 {macula-proximity}
   - strongs: H2471
-    proximity: 0.7573
+    lemma: חַלָּה
+    gloss: a cake {openscriptures-strongs}
+    proximity: 0.7573 {macula-proximity}
   cross_language:
   - strongs: G4616
-    proximity: 0.8175
+    lemma: σινδών
+    gloss: byssos {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: greek
   - strongs: G1039
-    proximity: 0.8065
+    lemma: βύσσινος
+    gloss: made of linen {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
     language: greek
   - strongs: G1040
-    proximity: 0.7917
+    lemma: βύσσος
+    gloss: white linen {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: greek
   - strongs: G224
-    proximity: 0.7395
+    proximity: 0.7395 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

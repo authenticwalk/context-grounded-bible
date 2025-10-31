@@ -6,45 +6,55 @@ pronunciation: zan
 definition: properly, nourished (or fully developed), i.e. a form or sort
 kjv_usage: divers kinds, [idiom] all manner of store.
 derivation: from H2109 (זוּן);
-extended_definition:
-  gloss: kind
-  definition: 'kind, sort<BR>Aramaic equivalent: <i>zan</i> (זַן "kind" H2178)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'kind, sort
+
+  Aramaic equivalent: zan (זַן "kind" H2178) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4082
-    proximity: 0.8225
+    lemma: מְדִינָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: H2050b
-    proximity: 0.8218
+    proximity: 0.8218 {macula-proximity}
   - strongs: H413
-    proximity: 0.8182
+    proximity: 0.8182 {macula-proximity}
   - strongs: H4938
-    proximity: 0.8058
+    lemma: מִשְׁעֵנָה
+    gloss: support {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: H4937a
-    proximity: 0.8017
+    proximity: 0.8017 {macula-proximity}
   - strongs: A1983
-    proximity: 0.7895
+    proximity: 0.7895 {macula-proximity}
   - strongs: H4480
-    proximity: 0.782
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.782 {macula-proximity}
   cross_language:
   - strongs: G3840
-    proximity: 0.8265
+    lemma: πάντοθεν
+    gloss: from  all sides {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
     language: greek
   - strongs: G3667
-    proximity: 0.8259
+    lemma: ὁμοίωμα
+    gloss: a form {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G5108
-    proximity: 0.822
+    lemma: τοιοῦτος
+    gloss: truly this {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
     language: greek
   - strongs: G3665
-    proximity: 0.8191
+    lemma: ὁμοιότης
+    gloss: resemblance {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
     language: greek
   - strongs: G4217
-    proximity: 0.8133
+    lemma: ποταπός
+    gloss: interrogatively {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

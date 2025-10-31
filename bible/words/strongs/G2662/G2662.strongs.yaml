@@ -5,51 +5,46 @@ transliteration: katapatéō
 definition: to trample down; figuratively, to reject with disdain
 kjv_usage: trample, tread (down, underfoot)
 derivation: from G2596 (κατά) and G3961 (πατέω);
-extended_definition:
-  gloss: to trample
-  definition: '<b>κατα-πατέω</b>, -ῶ <BR /> [in LXX for דָּרַךְ, רָמַס, שָׁאַף, etc.
-    ;] <BR /><b>to tread down, trample under foot</b>: <ref=''Mat.7.6''>Mat.7:6</ref>,
-    <ref=''Luk.12.1''>Luk.12:1</ref>; pass., <ref=''Mat.5.13''>Mat.5:13</ref>, <ref=''Luk.8.5''>Luk.8:5</ref>.
-    Metaphorical, τ. υἱὸν τ. θεοῦ, <ref=''Heb.10.29.''>Heb.10:29.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> καταπᾰτ-έω</b>, <br /> <b>trample under foot</b>, [<a href="javascript:void(0)"
-    title=" 5th c.BC: Thucydides Historicus 7.84, etc.; ὑσὶ τὸ σπέρμα κ">Refs 5th
-    c.BC+</a>]. <b>trample down</b> the seed (i.e. <i>have</i> it <i>trampled down</i>)
-    by swine, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus
-    2.14:">Refs 5th c.BC+</a>] —<i>passive</i>, [<a href="javascript:void(0)" title="
-    [prev\. author] 7.173, 223, 5th c.BC: Thucydides Historicus 5.72, 4th c.BC: Demosthenes
-    Orator 34.37; τὸν ἐγκέφαλον ἐν ταῖς πτέρναις -πεπατημένον φορεῖν [prev\. author]
-    7.45 ">Refs 5th c.BC+</a>]. <br /><Level3><b>__2</b></Level3> <i>metaphorically</i>,
-    [<a href="javascript:void(0)" title=" κατὰ δ᾽ ὅρκια πιστὰ πάτησαν 8th c.BC: Ilias
-    Homerus Epicus “Illiad” 4.157; κ. τοὺς νόμους Plato Philosophus [{5-6th c.BC}]
-    “Leges” 714a; τὰ γράμματα [prev\. author] “Grg.” 484a; τὸν υἱὸν τοῦ θεοῦ NT.Heb.10.29;
-    ὅρκον 4th c.AD: Libanius Sophista “Epistulae” 14.1 ">NT+8th c.BC+</a>].'
-  source: STEPBible/LSJ
+extended_definition: 'κατα-πατέω, -ῶ
+
+  [in LXX for דָּרַךְ, רָמַס, שָׁאַף, etc. ;]
+
+  to tread down, trample under foot: Mat.7:6, Luk.12:1; pass., Mat.5:13, Luk.8:5.
+  Metaphorical, τ. υἱὸν τ. θεοῦ, Heb.10:29.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'καταπᾰτ-έω,
+
+  trample under foot, [Refs 5th c.BC+]. trample down the seed (i.e. have it trampled
+  down) by swine, [Refs 5th c.BC+] —passive, [Refs 5th c.BC+].
+
+  __2 metaphorically, [NT+8th c.BC+]. {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4228
-    proximity: 0.8055
+    lemma: πούς
+    gloss: a "foot" {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
   cross_language:
   - strongs: H204
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
     language: hebrew
   - strongs: H935
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
     language: hebrew
   - strongs: H2490
-    proximity: 0.8124
+    lemma: חָלַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
     language: hebrew
   - strongs: H1792
-    proximity: 0.7474
+    lemma: דָּכָא
+    gloss: to crumble {openscriptures-strongs}
+    proximity: 0.7474 {macula-proximity}
     language: hebrew
   - strongs: H7287
-    proximity: 0.7292
+    lemma: רָדָה
+    gloss: to tread down {openscriptures-strongs}
+    proximity: 0.7292 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -9,48 +9,75 @@ kjv_usage: act, art, [phrase] bakemeat, business, deed, do(-ing), labor, thing m
   ware of making, occupation, thing offered, operation, possession, [idiom] well,
   (handy-, needle-, net-) work(ing, -manship), wrought.
 derivation: from H6213 (עָשָׂה);
-extended_definition:
-  gloss: deed
-  definition: ': deed<br>1) deed, work<br>1a) deed, thing done, act<br>1b) work, labour<br>1c)
-    business, pursuit<br>1d) undertaking, enterprise<br>1e) achievement<br>1f) deeds,
-    works (of deliverance and judgment)<br>1g) work, thing made<br>1h) work (of God)<br>1i)
-    product'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': deed
+
+  1) deed, work
+
+  1a) deed, thing done, act
+
+  1b) work, labour
+
+  1c) business, pursuit
+
+  1d) undertaking, enterprise
+
+  1e) achievement
+
+  1f) deeds, works (of deliverance and judgment)
+
+  1g) work, thing made
+
+  1h) work (of God)
+
+  1i) product {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4284
-    proximity: 0.83
+    lemma: מַחֲשָׁבָה
+    gloss: a contrivance {openscriptures-strongs}
+    proximity: 0.83 {macula-proximity}
   - strongs: H3027
-    proximity: 0.8277
+    lemma: יָד
+    gloss: a hand (the open one (indicating power {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H5450
-    proximity: 0.8241
+    lemma: סְבָלָה
+    gloss: porterage {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H4728
-    proximity: 0.8219
+    lemma: מַקָּחָה
+    gloss: something received {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: H3335
-    proximity: 0.8185
+    lemma: יָצַר
+    gloss: to mould into a form {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: A8540
-    proximity: 0.8176
+    proximity: 0.8176 {macula-proximity}
   - strongs: H6696b
-    proximity: 0.8097
+    proximity: 0.8097 {macula-proximity}
   cross_language:
   - strongs: G72
-    proximity: 0.8295
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G1829
-    proximity: 0.8287
+    lemma: ἐξέραμα
+    gloss: vomit {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G2554
-    proximity: 0.8279
+    lemma: κακοποιέω
+    gloss: to be a bad-doer {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G2936
-    proximity: 0.8258
+    lemma: κτίζω
+    gloss: to fabricate {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G4192
-    proximity: 0.8254
+    lemma: πόνος
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

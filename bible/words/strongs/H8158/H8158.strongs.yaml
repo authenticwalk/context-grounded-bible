@@ -6,45 +6,57 @@ pronunciation: shaw-saf'
 definition: to cut in pieces, i.e. slaughter
 kjv_usage: hew in pieces.
 derivation: a primitive root;
-extended_definition:
-  gloss: to hew
-  definition: 1) (Piel) to hew in pieces, cut in pieces<br>1a) meaning uncertain
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Piel) to hew in pieces, cut in pieces
+
+  1a) meaning uncertain {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5221
-    proximity: 0.8291
+    lemma: נָכָה
+    gloss: to strike (lightly or severely {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: H8601
-    proximity: 0.8264
+    lemma: תֻּפִין
+    gloss: cookery {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H1506
-    proximity: 0.8203
+    lemma: גֶּזֶר
+    gloss: something cut off {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: H3807
-    proximity: 0.8189
+    lemma: כָּתַת
+    gloss: to bruise or violently strike {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H7591
-    proximity: 0.8173
+    lemma: שְׁאִיָּה
+    gloss: desolation {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
   - strongs: H915
-    proximity: 0.8075
+    proximity: 0.8075 {macula-proximity}
   - strongs: H5408
-    proximity: 0.8067
+    lemma: נָתַח
+    gloss: to dismember {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   - strongs: H6284
-    proximity: 0.8058
+    lemma: פָּאָה
+    gloss: to puff {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: H7821
-    proximity: 0.7996
+    lemma: שְׁחִיטָה
+    gloss: slaughter {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
   - strongs: H7447a
-    proximity: 0.7953
+    proximity: 0.7953 {macula-proximity}
   cross_language:
   - strongs: G336
-    proximity: 0.8174
+    proximity: 0.8174 {macula-proximity}
     language: greek
   - strongs: G5407
-    proximity: 0.8105
+    lemma: φονεύω
+    gloss: to be a murderer {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
     language: greek
   - strongs: G599
-    proximity: 0.8021
+    proximity: 0.8021 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

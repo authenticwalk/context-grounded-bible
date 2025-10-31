@@ -10,31 +10,48 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H2672
-    proximity: 0.8255
+    lemma: חָצַב
+    gloss: to cut or carve (wood {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: H2232
-    proximity: 0.8161
+    lemma: זָרַע
+    gloss: to sow {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H5193
-    proximity: 0.8021
+    lemma: נָטַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
   - strongs: H6979
-    proximity: 0.7737
+    lemma: קוּר
+    gloss: to trench {openscriptures-strongs}
+    proximity: 0.7737 {macula-proximity}
   - strongs: H2658
-    proximity: 0.7628
+    lemma: חָפַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7628 {macula-proximity}
   - strongs: H2758
-    proximity: 0.7606
+    lemma: חָרִישׁ
+    gloss: ploughing or its season {openscriptures-strongs}
+    proximity: 0.7606 {macula-proximity}
   - strongs: H7702
-    proximity: 0.7545
+    lemma: שָׂדַד
+    gloss: to abrade {openscriptures-strongs}
+    proximity: 0.7545 {macula-proximity}
   - strongs: H5214
-    proximity: 0.7363
+    lemma: נִיר
+    gloss: to till the soil {openscriptures-strongs}
+    proximity: 0.7363 {macula-proximity}
   - strongs: H5823
-    proximity: 0.7118
+    lemma: עָזַק
+    gloss: to grub over {openscriptures-strongs}
+    proximity: 0.7118 {macula-proximity}
   cross_language:
   - strongs: G722
-    proximity: 0.788
+    proximity: 0.788 {macula-proximity}
     language: greek
   - strongs: G5452
-    proximity: 0.7036
+    lemma: φυτεύω
+    gloss: to set out in the earth {openscriptures-strongs}
+    proximity: 0.7036 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

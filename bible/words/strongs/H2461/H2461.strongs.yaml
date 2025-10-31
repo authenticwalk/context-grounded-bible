@@ -6,26 +6,31 @@ pronunciation: khaw-lawb'
 definition: milk (as the richness of kine)
 kjv_usage: '[phrase] cheese, milk, sucking.'
 derivation: from the same as H2459 (חֶלֶב);
-extended_definition:
-  gloss: milk
-  definition: 1) milk, sour milk, cheese<br>1a) milk<br>1b) abundance of the land
-    (metaph.)<br>1c) white (as milk)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) milk, sour milk, cheese
+
+  1a) milk
+
+  1b) abundance of the land (metaph.)
+
+  1c) white (as milk) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3126
-    proximity: 0.8287
+    lemma: יוֹנֵק
+    gloss: a sucker {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H2529
-    proximity: 0.7424
+    lemma: חֶמְאָה
+    gloss: curdled milk or cheese {openscriptures-strongs}
+    proximity: 0.7424 {macula-proximity}
   - strongs: H5763
-    proximity: 0.7224
+    lemma: עוּל
+    gloss: to suckle {openscriptures-strongs}
+    proximity: 0.7224 {macula-proximity}
   cross_language:
   - strongs: G2337
-    proximity: 0.7872
+    lemma: θηλάζω
+    gloss: to suckle {openscriptures-strongs}
+    proximity: 0.7872 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

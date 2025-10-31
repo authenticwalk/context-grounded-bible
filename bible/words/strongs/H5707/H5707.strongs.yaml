@@ -7,42 +7,53 @@ definition: concretely, a witness; abstractly, testimony; specifically, a record
   i.e. prince
 kjv_usage: witness.
 derivation: contracted from H5749 (עוּד);
-extended_definition:
-  gloss: witness
-  definition: 1) witness<br>1a) witness, testimony, evidence (of things)<br>1b) witness
-    (of people)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) witness
+
+  1a) witness, testimony, evidence (of things)
+
+  1b) witness (of people) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7121
-    proximity: 0.8274
+    lemma: קָרָא
+    gloss: to call out to (i.e. properly {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H6148
-    proximity: 0.826
+    lemma: עָרַב
+    gloss: to braid {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
   - strongs: H5706
-    proximity: 0.8186
+    lemma: עַד
+    gloss: booty {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: H1331
-    proximity: 0.8158
+    lemma: בְּתוּלִים
+    gloss: virginity {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: H6161
-    proximity: 0.7976
+    lemma: עֲרֻבָּה
+    gloss: something given as security {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   cross_language:
   - strongs: G585
-    proximity: 0.8238
+    proximity: 0.8238 {macula-proximity}
     language: greek
   - strongs: G3670
-    proximity: 0.7913
+    lemma: ὁμολογέω
+    gloss: to assent {openscriptures-strongs}
+    proximity: 0.7913 {macula-proximity}
     language: greek
   - strongs: G3671
-    proximity: 0.7833
+    lemma: ὁμολογία
+    gloss: acknowledgment {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
     language: greek
   - strongs: G1732
-    proximity: 0.7811
+    lemma: ἔνδειξις
+    gloss: indication {openscriptures-strongs}
+    proximity: 0.7811 {macula-proximity}
     language: greek
   - strongs: G951
-    proximity: 0.7748
+    proximity: 0.7748 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

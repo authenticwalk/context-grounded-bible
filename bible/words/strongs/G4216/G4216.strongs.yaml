@@ -5,57 +5,68 @@ transliteration: potamophórētos
 definition: river-borne, i.e. overwhelmed by a stream
 kjv_usage: carried away of the flood
 derivation: from G4215 (ποταμός) and a derivative of G5409 (φορέω);
-extended_definition:
-  gloss: flooded
-  definition: '<b>ποταμο-φόρητος</b>, -ον <BR /> <b>carried away by a stream</b>:
-    <BR /> <ref=''Rev.12.15''>Rev.12:15</ref> (for two exx. in π., see MM, xxi).†<BR
-    /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ποτᾰμο-φόρητος</b>, ον, <br /> <b>carried away by a river,</b>
-    [<a href="javascript:void(0)" title=" NT.Rev. 12.15, “PMag.Par.” 1.876, 1st c.AD:
-    Cyranus 39; γῆ π. “PStrassb.” 5.10 (3rd c.AD). ">NT+1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ποταμο-φόρητος, -ον
+
+  carried away by a stream:
+
+  Rev.12:15 (for two exx. in π., see MM, xxi).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ποτᾰμο-φόρητος, ον,
+
+  carried away by a river, [NT+1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1722
-    proximity: 0.8265
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.8265 {macula-proximity}
   - strongs: G142
-    proximity: 0.8246
+    proximity: 0.8246 {macula-proximity}
   - strongs: G4951
-    proximity: 0.824
+    lemma: σύρω
+    gloss: to trail {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: G3326
-    proximity: 0.8233
+    lemma: μετά
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: A1b
-    proximity: 0.7914
+    proximity: 0.7914 {macula-proximity}
   - strongs: G3588
-    proximity: 0.7912
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7912 {macula-proximity}
   - strongs: G1530
-    proximity: 0.7901
+    lemma: εἰσπηδάω
+    gloss: to rush in {openscriptures-strongs}
+    proximity: 0.7901 {macula-proximity}
   - strongs: G2627
-    proximity: 0.7896
+    lemma: κατακλυσμός
+    gloss: an inundation {openscriptures-strongs}
+    proximity: 0.7896 {macula-proximity}
   - strongs: G4215
-    proximity: 0.7892
+    lemma: ποταμός
+    gloss: a current {openscriptures-strongs}
+    proximity: 0.7892 {macula-proximity}
   cross_language:
   - strongs: H7858
-    proximity: 0.8292
+    lemma: שֶׁטֶף
+    gloss: a deluge {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
     language: hebrew
   - strongs: H854
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
     language: hebrew
   - strongs: H7857
-    proximity: 0.8156
+    lemma: שָׁטַף
+    gloss: to gush {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
     language: hebrew
   - strongs: H871a
-    proximity: 0.8108
+    proximity: 0.8108 {macula-proximity}
     language: hebrew
   - strongs: H5140a
-    proximity: 0.8095
+    proximity: 0.8095 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

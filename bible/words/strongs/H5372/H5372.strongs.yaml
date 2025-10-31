@@ -6,31 +6,36 @@ pronunciation: neer-gawn'
 definition: a slanderer
 kjv_usage: talebearer, whisperer.
 derivation: from an unused root meaning to roll to pieces;
-extended_definition:
-  gloss: whisperer
-  definition: 1) to murmur, whisper<br>1a) murmurers<br>1b) backbite, slander, talebearer,
-    backbiter
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to murmur, whisper
+
+  1a) murmurers
+
+  1b) backbite, slander, talebearer, backbiter {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3956
-    proximity: 0.8101
+    lemma: לָשׁוֹן
+    gloss: the tongue {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
   cross_language:
   - strongs: G4487
-    proximity: 0.807
+    lemma: ῥῆμα
+    gloss: an utterance (individually {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
     language: greek
   - strongs: G5397
-    proximity: 0.7741
+    lemma: φλύαρος
+    gloss: a garrulous person {openscriptures-strongs}
+    proximity: 0.7741 {macula-proximity}
     language: greek
   - strongs: G5587
-    proximity: 0.7554
+    lemma: ψιθυρισμός
+    gloss: by implication {openscriptures-strongs}
+    proximity: 0.7554 {macula-proximity}
     language: greek
   - strongs: G5588
-    proximity: 0.7044
+    lemma: ψιθυριστής
+    gloss: a secret calumniator {openscriptures-strongs}
+    proximity: 0.7044 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

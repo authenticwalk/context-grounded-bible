@@ -6,39 +6,41 @@ pronunciation: mib-neh'
 definition: a building
 kjv_usage: frame.
 derivation: from H1129 (בָּנָה);
-extended_definition:
-  gloss: structure
-  definition: structure, building
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: structure, building {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1004
-    proximity: 0.8289
+    lemma: בַּיִת
+    gloss: a house (in the greatest variation of applications {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H6213
-    proximity: 0.8272
+    lemma: עָשָׂה
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: A2338
-    proximity: 0.8063
+    proximity: 0.8063 {macula-proximity}
   - strongs: A1124
-    proximity: 0.7664
+    proximity: 0.7664 {macula-proximity}
   cross_language:
   - strongs: G2311
-    proximity: 0.823
+    lemma: θεμελιόω
+    gloss: to lay a basis for {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
     language: greek
   - strongs: G3549
-    proximity: 0.8047
+    lemma: νομοθετέω
+    gloss: to legislate {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
     language: greek
   - strongs: G4016a
-    proximity: 0.8028
+    proximity: 0.8028 {macula-proximity}
     language: greek
   - strongs: G461
-    proximity: 0.8007
+    proximity: 0.8007 {macula-proximity}
     language: greek
   - strongs: G2026
-    proximity: 0.7982
+    lemma: ἐποικοδομέω
+    gloss: to build upon {openscriptures-strongs}
+    proximity: 0.7982 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

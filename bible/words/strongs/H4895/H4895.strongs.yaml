@@ -6,39 +6,43 @@ pronunciation: mas-tay-maw'
 definition: enmity
 kjv_usage: hatred.
 derivation: from the same as H7850 (שֹׁטֵט);
-extended_definition:
-  gloss: hatred
-  definition: animosity, enmity
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: animosity, enmity {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7852
-    proximity: 0.7629
+    lemma: שָׂטַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7629 {macula-proximity}
   - strongs: H341
-    proximity: 0.7554
+    proximity: 0.7554 {macula-proximity}
   - strongs: H8324
-    proximity: 0.7518
+    lemma: שָׁרַר
+    gloss: to be hostile {openscriptures-strongs}
+    proximity: 0.7518 {macula-proximity}
   - strongs: H6145
-    proximity: 0.742
+    lemma: עָר
+    gloss: a foe {openscriptures-strongs}
+    proximity: 0.742 {macula-proximity}
   - strongs: H6696a
-    proximity: 0.7415
+    proximity: 0.7415 {macula-proximity}
   - strongs: H6887a
-    proximity: 0.7203
+    proximity: 0.7203 {macula-proximity}
   - strongs: H8130
-    proximity: 0.7125
+    lemma: שָׂנֵא
+    gloss: to hate {openscriptures-strongs}
+    proximity: 0.7125 {macula-proximity}
   cross_language:
   - strongs: G5227
-    proximity: 0.8288
+    lemma: ὑπεναντίος
+    gloss: under  contrary to {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
     language: greek
   - strongs: G480
-    proximity: 0.8191
+    proximity: 0.8191 {macula-proximity}
     language: greek
   - strongs: G3404
-    proximity: 0.8071
+    lemma: μισέω
+    gloss: to detest {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

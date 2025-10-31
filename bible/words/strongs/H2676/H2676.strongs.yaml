@@ -6,28 +6,28 @@ pronunciation: khaw-tsoth'
 definition: the middle (of the night)
 kjv_usage: mid(-night).
 derivation: from H2673 (חָצָה)lemma חָעָה ayin, corrected to חָצָה;
-extended_definition:
-  gloss: middle
-  definition: middle, mid-, half, division
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: middle, mid-, half, division {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8432
-    proximity: 0.8255
+    lemma: תָּוֶךְ
+    gloss: a bisection {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7968
+    proximity: 0.7968 {macula-proximity}
   - strongs: H3915
-    proximity: 0.7104
+    lemma: לַיִל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7104 {macula-proximity}
   cross_language:
   - strongs: G3319
-    proximity: 0.7378
+    lemma: μέσος
+    gloss: middle  noun) {openscriptures-strongs}
+    proximity: 0.7378 {macula-proximity}
     language: greek
   - strongs: G3571
-    proximity: 0.7275
+    lemma: νύξ
+    gloss: '"night" {openscriptures-strongs}'
+    proximity: 0.7275 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

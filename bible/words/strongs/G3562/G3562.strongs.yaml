@@ -6,55 +6,56 @@ definition: in a mind-having way, i.e. prudently
 kjv_usage: discreetly
 derivation: adverb from a comparative of the accusative case of G3563 (νοῦς) and G2192
   (ἔχω);
-extended_definition:
-  gloss: wisely
-  definition: '<b>νουνεχῶς </b><BR /> <i>adv.</i> (νοῦς, ἔχω) <BR /><b>sensibly, discreetly</b>:
-    <ref=''Mrk.12.34.''>Mrk.12:34.</ref>†<BR /> (AS)'
-  morphology: G:ADV
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: 'Included with: <b> νουνεχ-ής</b>, ές, <br /> (ἔχω) <b>with understanding,
-    sensible, discreet,</b> Ps.-[<a href="javascript:void(0)" title=" 5th c.BC: Euripides
-    Tragicus “Fragmenta” 1132.48, 2nd c.BC: Polybius Historicus 6.48.8 (_superlative_)
-    ">Refs 5th c.BC+</a>]; λογισμός [<a href="javascript:void(0)" title=" [prev. author]
-    3.105.9, compare 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 164 ">Refs 2nd
-    c.AD+</a>]; τὸ νουνεχές, = {νουνέχεια}, [<a href="javascript:void(0)" title="
-    Anonymus cited in 10th c.AD: Suidas Legal icographus see {ἀνεῖτο}">Refs</a>].
-    <i>adverb</i> <b>-χῶς</b>[<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles
-    Philosophus “Rhetorica ad Alexandrum” 1436b33, 2nd c.BC: Polybius Historicus 1.83.3,
-    +others, 2nd c.BC: Agatharchides Geographus 63, NT.Mark.12.34, 2nd c.AD: Galenus
-    Medicus 10.267. ">NT+4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'νουνεχῶς
+
+  adv. (νοῦς, ἔχω)
+
+  sensibly, discreetly: Mrk.12:34.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Included with:  νουνεχ-ής, ές,
+
+  (ἔχω) with understanding, sensible, discreet, Ps.-[Refs 5th c.BC+]; λογισμός [Refs
+  2nd c.AD+]; τὸ νουνεχές, = {νουνέχεια}, [Refs]. adverb -χῶς[NT+4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G781
-    proximity: 0.8188
+    proximity: 0.8188 {macula-proximity}
   - strongs: G1014
-    proximity: 0.8031
+    lemma: βούλομαι
+    gloss: to "will {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
   - strongs: G4678
-    proximity: 0.7937
+    lemma: σοφία
+    gloss: wisdom (higher or lower {openscriptures-strongs}
+    proximity: 0.7937 {macula-proximity}
   - strongs: A6246
-    proximity: 0.7881
+    proximity: 0.7881 {macula-proximity}
   - strongs: A2452
-    proximity: 0.7761
+    proximity: 0.7761 {macula-proximity}
   - strongs: G4680
-    proximity: 0.738
+    lemma: σοφός
+    gloss: wise {openscriptures-strongs}
+    proximity: 0.738 {macula-proximity}
   cross_language:
   - strongs: H2450
-    proximity: 0.7782
+    lemma: חָכָם
+    gloss: wise {openscriptures-strongs}
+    proximity: 0.7782 {macula-proximity}
     language: hebrew
   - strongs: H7919
-    proximity: 0.7768
+    lemma: שָׂכַל
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7768 {macula-proximity}
     language: hebrew
   - strongs: H2451
-    proximity: 0.7456
+    lemma: חׇכְמָה
+    gloss: wisdom {openscriptures-strongs}
+    proximity: 0.7456 {macula-proximity}
     language: hebrew
   - strongs: H2454
-    proximity: 0.7304
+    lemma: חׇכְמוֹת
+    gloss: wisdom {openscriptures-strongs}
+    proximity: 0.7304 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

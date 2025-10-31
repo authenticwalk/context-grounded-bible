@@ -7,41 +7,61 @@ definition: to wrest
 kjv_usage: bow self, (make) crooked., falsifying, overthrow, deal perversely, pervert,
   subvert, turn upside down.
 derivation: a primitive root;
-extended_definition:
-  gloss: to pervert
-  definition: 1) to be bent, be crooked, bend, make crooked, pervert<br>1a)(Piel)<br>1a1)
-    to make crooked, falsify, pervert, subvert<br>1a2) to bend, make crooked<br>1b)
-    (Pual) thing bent (participle)<br>1c) (Hithpael) to bend oneself
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be bent, be crooked, bend, make crooked, pervert
+
+  1a)(Piel)
+
+  1a1) to make crooked, falsify, pervert, subvert
+
+  1a2) to bend, make crooked
+
+  1b) (Pual) thing bent (participle)
+
+  1c) (Hithpael) to bend oneself {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7164
-    proximity: 0.827
+    lemma: קָרַס
+    gloss: to hunch {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H3766
-    proximity: 0.8193
+    lemma: כָּרַע
+    gloss: to bend the knee {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H6617
-    proximity: 0.815
+    lemma: פָּתַל
+    gloss: to twine {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: H6128
-    proximity: 0.789
+    lemma: עֲקַלְקַל
+    gloss: winding {openscriptures-strongs}
+    proximity: 0.789 {macula-proximity}
   - strongs: H5792
-    proximity: 0.7743
+    lemma: עַוָּתָה
+    gloss: oppression {openscriptures-strongs}
+    proximity: 0.7743 {macula-proximity}
   - strongs: H2019
-    proximity: 0.7698
+    lemma: הֲפַכְפַּךְ
+    gloss: very perverse {openscriptures-strongs}
+    proximity: 0.7698 {macula-proximity}
   - strongs: H6141
-    proximity: 0.7252
+    lemma: עִקֵּשׁ
+    gloss: distorted {openscriptures-strongs}
+    proximity: 0.7252 {macula-proximity}
   cross_language:
   - strongs: G1294
-    proximity: 0.7973
+    lemma: διαστρέφω
+    gloss: to distort {openscriptures-strongs}
+    proximity: 0.7973 {macula-proximity}
     language: greek
   - strongs: G1612
-    proximity: 0.7906
+    lemma: ἐκστρέφω
+    gloss: to pervert {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
     language: greek
   - strongs: G4646
-    proximity: 0.7676
+    lemma: σκολιός
+    gloss: warped {openscriptures-strongs}
+    proximity: 0.7676 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

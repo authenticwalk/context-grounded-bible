@@ -7,25 +7,23 @@ definition: a kind of locust (from its destructiveness)
 kjv_usage: bald locust.
 derivation: apparently from the same as H5553 (סֶלַע) in the sense of crushing as
   with a rock, i.e. consuming;
-extended_definition:
-  gloss: locust
-  definition: 1) locust<br>1a) an edible winged locust
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) locust
+
+  1a) an edible winged locust {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H697
-    proximity: 0.826
+    proximity: 0.826 {macula-proximity}
   - strongs: H1357
-    proximity: 0.7933
+    lemma: גֵּב
+    gloss: a locust {openscriptures-strongs}
+    proximity: 0.7933 {macula-proximity}
   - strongs: H1501
-    proximity: 0.7424
+    lemma: גָּזָם
+    gloss: a kind of locust {openscriptures-strongs}
+    proximity: 0.7424 {macula-proximity}
   cross_language:
   - strongs: G200
-    proximity: 0.76
+    proximity: 0.76 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

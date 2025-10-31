@@ -8,41 +8,59 @@ definition: grease, especially liquid (as from the olive, often perfumed); figur
 kjv_usage: anointing, [idiom] fat (things), [idiom] fruitful, oil(-ed), ointment,
   olive, [phrase] pine.
 derivation: from H8080 (שָׁמַן);
-extended_definition:
-  gloss: oil
-  definition: 1) fat, oil<br>1a) fat, fatness<br>1b) oil, olive oil<br>1b1) as staple,
-    medicament or unguent<br>1b2) for anointing<br>1c) fat (of fruitful land, valleys)
-    (metaph)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) fat, oil
+
+  1a) fat, fatness
+
+  1b) oil, olive oil
+
+  1b1) as staple, medicament or unguent
+
+  1b2) for anointing
+
+  1c) fat (of fruitful land, valleys) (metaph) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1101
-    proximity: 0.8278
+    lemma: בָּלַל
+    gloss: to overflow {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H8080
-    proximity: 0.8251
+    lemma: שָׁמַן
+    gloss: to shine {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H4924b
-    proximity: 0.8136
+    proximity: 0.8136 {macula-proximity}
   - strongs: H8082
-    proximity: 0.8128
+    lemma: שָׁמֵן
+    gloss: greasy {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
   - strongs: H6309
-    proximity: 0.8105
+    lemma: פֶּדֶר
+    gloss: suet {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
   - strongs: H7547
-    proximity: 0.7991
+    lemma: רַקֻּחַ
+    gloss: a scented substance {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: H4841
-    proximity: 0.7809
+    lemma: מֶרְקָחָה
+    gloss: abstractly {openscriptures-strongs}
+    proximity: 0.7809 {macula-proximity}
   - strongs: H1620
-    proximity: 0.7716
+    lemma: גַּרְגַּר
+    gloss: a berry {openscriptures-strongs}
+    proximity: 0.7716 {macula-proximity}
   - strongs: H4924a
-    proximity: 0.7469
+    proximity: 0.7469 {macula-proximity}
   - strongs: H4842
-    proximity: 0.7388
+    lemma: מִרְקַחַת
+    gloss: an aromatic unguent {openscriptures-strongs}
+    proximity: 0.7388 {macula-proximity}
   cross_language:
   - strongs: G1636
-    proximity: 0.7414
+    lemma: ἐλαία
+    gloss: an olive {openscriptures-strongs}
+    proximity: 0.7414 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

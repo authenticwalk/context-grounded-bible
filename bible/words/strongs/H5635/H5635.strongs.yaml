@@ -7,49 +7,64 @@ definition: to cremate, i.e. to be (near) of kin (such being privileged to kindl
   the pyre)
 kjv_usage: burn.
 derivation: a primitive root;
-extended_definition:
-  gloss: to burn
-  definition: (Pael) burnt<BR>Another spelling of <i>sa.raph</i> (שָׂרַף "to burn"
-    H8313)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '(Pael) burnt
+
+  Another spelling of sa.raph (שָׂרַף "to burn" H8313) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4729a
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
   - strongs: H2734
-    proximity: 0.8237
+    lemma: חָרָה
+    gloss: to glow or grow warm {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: H1814
-    proximity: 0.8201
+    lemma: דָּלַק
+    gloss: to flame {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: H3554
-    proximity: 0.808
+    lemma: כָּוָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
   - strongs: H5327a
-    proximity: 0.7916
+    proximity: 0.7916 {macula-proximity}
   - strongs: H6866
-    proximity: 0.775
+    lemma: צָרַב
+    gloss: to burn {openscriptures-strongs}
+    proximity: 0.775 {macula-proximity}
   - strongs: H3555
-    proximity: 0.7569
+    lemma: כְּוִיָּה
+    gloss: a branding {openscriptures-strongs}
+    proximity: 0.7569 {macula-proximity}
   - strongs: H6919
-    proximity: 0.7514
+    lemma: קָדַח
+    gloss: to inflame {openscriptures-strongs}
+    proximity: 0.7514 {macula-proximity}
   - strongs: H3857
-    proximity: 0.7398
+    lemma: לָהַט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7398 {macula-proximity}
   - strongs: H3341
-    proximity: 0.7204
+    lemma: יָצַת
+    gloss: to burn or set on fire {openscriptures-strongs}
+    proximity: 0.7204 {macula-proximity}
   cross_language:
   - strongs: G2370
-    proximity: 0.7623
+    lemma: θυμιάω
+    gloss: to fumigate {openscriptures-strongs}
+    proximity: 0.7623 {macula-proximity}
     language: greek
   - strongs: G2545
-    proximity: 0.7498
+    lemma: καίω
+    gloss: to set on fire {openscriptures-strongs}
+    proximity: 0.7498 {macula-proximity}
     language: greek
   - strongs: G1572
-    proximity: 0.7462
+    lemma: ἐκκαίω
+    gloss: to inflame deeply {openscriptures-strongs}
+    proximity: 0.7462 {macula-proximity}
     language: greek
   - strongs: G1714a
-    proximity: 0.7229
+    proximity: 0.7229 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

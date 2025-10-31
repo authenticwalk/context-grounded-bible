@@ -6,25 +6,23 @@ pronunciation: kaw-haw'
 definition: to be dull
 kjv_usage: be set on edge, be blunt.
 derivation: a primitive root;
-extended_definition:
-  gloss: be blunt
-  definition: 1) to be blunt, be dull<br>1a) (Qal) to be blunt, be dull<br>1b) (Piel)
-    to be blunt
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be blunt, be dull
+
+  1a) (Qal) to be blunt, be dull
+
+  1b) (Piel) to be blunt {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H204
-    proximity: 0.8245
+    proximity: 0.8245 {macula-proximity}
   cross_language:
   - strongs: G2708
-    proximity: 0.8088
+    lemma: καταχέω
+    gloss: to pour down {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
     language: greek
   - strongs: G2022
-    proximity: 0.7939
+    lemma: ἐπιχέω
+    proximity: 0.7939 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

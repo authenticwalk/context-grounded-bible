@@ -6,21 +6,17 @@ pronunciation: tekh-one'
 definition: a hand mill; hence, a millstone
 kjv_usage: to grind.
 derivation: from H2912 (טָחַן);
-extended_definition:
-  gloss: grinding
-  definition: mill, grinding mill, hand mill
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: mill, grinding mill, hand mill {STEPBible-TBESH}
 related_words:
   cross_language:
   - strongs: G3037
-    proximity: 0.7466
+    lemma: λίθος
+    gloss: a stone {openscriptures-strongs}
+    proximity: 0.7466 {macula-proximity}
     language: greek
   - strongs: G3684
-    proximity: 0.7186
+    lemma: ὀνικός
+    gloss: belonging to a ass {openscriptures-strongs}
+    proximity: 0.7186 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

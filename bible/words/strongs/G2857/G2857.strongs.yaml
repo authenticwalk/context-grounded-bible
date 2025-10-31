@@ -5,34 +5,37 @@ transliteration: Kolossaí
 definition: Colossæ, a place in Asia Minor
 kjv_usage: Colosse
 derivation: apparently feminine plural of kolossos ("colossal");
-extended_definition:
-  gloss: Colossae
-  definition: '<b>Κολοσσαί</b><BR /> (so in cl.; -ασσαί, Rec., LTr.), -ῶν, αἰ <BR
-    /><b>Colossæ, a city on the Lycus in Phrygia</b>: <ref=''Col.1.2.''>Col.1:2.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Κολοσσαί</b><BR /> (so in cl.; -ασσαί, Rec., LTr.), -ῶν, αἰ
-    <BR /><b>Colossæ, a city on the Lycus in Phrygia</b>: <ref=''Col.1.2.''>Col.1:2.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Κολοσσαί
+
+  (so in cl.; -ασσαί, Rec., LTr.), -ῶν, αἰ
+
+  Colossæ, a city on the Lycus in Phrygia: Col.1:2.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Κολοσσαί
+
+  (so in cl.; -ασσαί, Rec., LTr.), -ῶν, αἰ
+
+  Colossæ, a city on the Lycus in Phrygia: Col.1:2.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4402
-    proximity: 0.8298
+    lemma: Πρόχορος
+    gloss: before the dance {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: G4611
-    proximity: 0.8208
+    lemma: Σιλωάμ
+    gloss: Siloam {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   cross_language:
   - strongs: H7975
-    proximity: 0.8221
+    lemma: שִׁלֹחַ
+    gloss: Shiloach {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
     language: hebrew
   - strongs: H7975a
-    proximity: 0.8106
+    proximity: 0.8106 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

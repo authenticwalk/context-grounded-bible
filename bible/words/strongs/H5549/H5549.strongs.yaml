@@ -7,47 +7,69 @@ definition: to mound up (especially a turnpike); figurative, to exalt; reflexive
   to oppose (as by a dam)
 kjv_usage: cast up, exalt (self), extol, make plain, raise up.
 derivation: a primitive root;
-extended_definition:
-  gloss: to build
-  definition: 1) to lift up, cast up, exalt<br>1a) (Qal)<br>1a1) to cast up a highway<br>1a2)
-    to cast up a way<br>1a3) to lift up (of song)<br>1b) (Pilpel) to exalt, esteem
-    highly, prize<br>1c) (Hithpoel) to exalt oneself
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to lift up, cast up, exalt
+
+  1a) (Qal)
+
+  1a1) to cast up a highway
+
+  1a2) to cast up a way
+
+  1a3) to lift up (of song)
+
+  1b) (Pilpel) to exalt, esteem highly, prize
+
+  1c) (Hithpoel) to exalt oneself {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1342
-    proximity: 0.8254
+    lemma: גָּאָה
+    gloss: to mount up {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: A3635
-    proximity: 0.8248
+    proximity: 0.8248 {macula-proximity}
   - strongs: H7312
-    proximity: 0.815
+    lemma: רוּם
+    gloss: elevation or  elation {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: A1147
-    proximity: 0.8106
+    proximity: 0.8106 {macula-proximity}
   - strongs: H1129
-    proximity: 0.8037
+    lemma: בָּנָה
+    gloss: to build {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
   - strongs: H6192
-    proximity: 0.7999
+    lemma: עָרַם
+    gloss: to pile up {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
   - strongs: H1443
-    proximity: 0.7859
+    lemma: גָּדַר
+    gloss: to wall in or around {openscriptures-strongs}
+    proximity: 0.7859 {macula-proximity}
   cross_language:
   - strongs: G2090
-    proximity: 0.8123
+    lemma: ἑτοιμάζω
+    gloss: to prepare {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
     language: greek
   - strongs: G3619
-    proximity: 0.8064
+    lemma: οἰκοδομή
+    gloss: architecture {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
     language: greek
   - strongs: G2026
-    proximity: 0.8057
+    lemma: ἐποικοδομέω
+    gloss: to build upon {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
     language: greek
   - strongs: G5309
-    proximity: 0.8036
+    lemma: ὑψηλοφρονέω
+    gloss: to be lofty in mind {openscriptures-strongs}
+    proximity: 0.8036 {macula-proximity}
     language: greek
   - strongs: G3618
-    proximity: 0.7961
+    lemma: οἰκοδομέω
+    gloss: to be a house-builder {openscriptures-strongs}
+    proximity: 0.7961 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

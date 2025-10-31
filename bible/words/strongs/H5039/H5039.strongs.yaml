@@ -7,49 +7,62 @@ definition: foolishness, i.e. (morally) wickedness; concretely, a crime; by exte
   punishment
 kjv_usage: folly, vile, villany.
 derivation: feminine of H5036 (נָבָל);
-extended_definition:
-  gloss: folly
-  definition: 1) senselessness, folly<br>1a) disgraceful folly<br>1a1) of immorality,
-    profane actions<br>1b) disgrace, contumely disgrace
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) senselessness, folly
+
+  1a) disgraceful folly
+
+  1a1) of immorality, profane actions
+
+  1b) disgrace, contumely disgrace {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3688
-    proximity: 0.8295
+    lemma: כָּסַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H1322
-    proximity: 0.8269
+    lemma: בֹּשֶׁת
+    gloss: shame (the feeling and the condition {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: H5034a
-    proximity: 0.8226
+    proximity: 0.8226 {macula-proximity}
   - strongs: H2154
-    proximity: 0.8223
+    lemma: זִמָּה
+    gloss: a plan {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
   - strongs: H2149
-    proximity: 0.8181
+    lemma: זֻלּוּת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
   - strongs: H3689a
-    proximity: 0.8124
+    proximity: 0.8124 {macula-proximity}
   - strongs: H5528
-    proximity: 0.8082
+    lemma: סָכַל
+    gloss: to be silly {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
   - strongs: H8186a
-    proximity: 0.8068
+    proximity: 0.8068 {macula-proximity}
   - strongs: H196
-    proximity: 0.8043
+    proximity: 0.8043 {macula-proximity}
   - strongs: H5529
-    proximity: 0.7885
+    lemma: סֶכֶל
+    gloss: silliness {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
   cross_language:
   - strongs: G454
-    proximity: 0.8157
+    proximity: 0.8157 {macula-proximity}
     language: greek
   - strongs: G3472
-    proximity: 0.8059
+    lemma: μωρία
+    gloss: silliness {openscriptures-strongs}
+    proximity: 0.8059 {macula-proximity}
     language: greek
   - strongs: G878
-    proximity: 0.8023
+    proximity: 0.8023 {macula-proximity}
     language: greek
   - strongs: G3681
-    proximity: 0.7847
+    lemma: ὄνειδος
+    gloss: notoriety {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

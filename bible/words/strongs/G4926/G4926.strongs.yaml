@@ -5,55 +5,71 @@ transliteration: synomiléō
 definition: to converse mutually
 kjv_usage: talk with
 derivation: from G4862 (σύν) and G3656 (ὁμιλέω);
-extended_definition:
-  gloss: to converse
-  definition: '<b>συν-ομιλέω</b>, -ῶ <BR /> <b>to converse with </b>(absol., FlJ,
-    Bl, v, 13, 1; before μετά, Cebes, 13): with dative of person(s), <ref=''Act.10.27.''>Act.10:27.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συνομῑλ-έω</b>, <br /> <b>converse with</b>, μετά τινος [<a
-    href="javascript:void(0)" title=" 1st c.AD: Cebes Philosophus 13 ">Refs 1st c.AD+</a>];
-    τινι [<a href="javascript:void(0)" title=" NT.Act.10.27. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συν-ομιλέω, -ῶ
+
+  to converse with (absol., FlJ, Bl, v, 13, 1; before μετά, Cebes, 13): with dative
+  of person(s), Act.10:27.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συνομῑλ-έω,
+
+  converse with, μετά τινος [Refs 1st c.AD+]; τινι [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4888
-    proximity: 0.8294
+    lemma: συνδοξάζω
+    gloss: to exalt to dignity in company  with {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: G4669
-    proximity: 0.8281
+    lemma: σμυρνίζω
+    gloss: to tincture with myrrh {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: G4922
-    proximity: 0.8244
+    lemma: συνοδεύω
+    gloss: to travel in company with {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: G4895
-    proximity: 0.8148
+    lemma: σύνειμι
+    gloss: to be in company with {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: G3056
-    proximity: 0.8122
+    lemma: λόγος
+    gloss: something said {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
   - strongs: G2981
-    proximity: 0.8067
+    lemma: λαλιά
+    gloss: talk {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   - strongs: G3473
-    proximity: 0.7995
+    lemma: μωρολογία
+    gloss: silly talk {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
   - strongs: G3326
-    proximity: 0.7938
+    lemma: μετά
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7938 {macula-proximity}
   cross_language:
   - strongs: H871a
-    proximity: 0.8154
+    proximity: 0.8154 {macula-proximity}
     language: hebrew
   - strongs: H1697
-    proximity: 0.8135
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
     language: hebrew
   - strongs: H5973
-    proximity: 0.8091
+    lemma: עִם
+    gloss: adverb or preposition {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
     language: hebrew
   - strongs: H1119
-    proximity: 0.8053
+    lemma: בְּמוֹ
+    gloss: in {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
     language: hebrew
   - strongs: H7878
-    proximity: 0.7989
+    lemma: שִׂיחַ
+    gloss: to ponder {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

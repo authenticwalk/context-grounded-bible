@@ -10,39 +10,54 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H5558
-    proximity: 0.8258
+    lemma: סֶלֶף
+    gloss: distortion {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H2402
-    proximity: 0.8244
+    lemma: חַטָּאָה
+    gloss: an offence {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: H4603
-    proximity: 0.8188
+    lemma: מָעַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
   - strongs: H2400a
-    proximity: 0.8177
+    proximity: 0.8177 {macula-proximity}
   - strongs: H6213
-    proximity: 0.8172
+    lemma: עָשָׂה
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
   - strongs: H7451
-    proximity: 0.8162
+    lemma: רַע
+    gloss: bad or  evil {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H5765
-    proximity: 0.8126
+    lemma: עֲוַל
+    gloss: to distort {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
   - strongs: H819
-    proximity: 0.8089
+    proximity: 0.8089 {macula-proximity}
   - strongs: H6586
-    proximity: 0.8082
+    lemma: פָּשַׁע
+    gloss: to break away {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
   - strongs: H7164
-    proximity: 0.8063
+    lemma: קָרַס
+    gloss: to hunch {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
   cross_language:
   - strongs: G92
-    proximity: 0.8129
+    proximity: 0.8129 {macula-proximity}
     language: greek
   - strongs: G2038
-    proximity: 0.8125
+    lemma: ἐργάζομαι
+    gloss: to toil (as a task {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G91
-    proximity: 0.81
+    proximity: 0.81 {macula-proximity}
     language: greek
   - strongs: G265
-    proximity: 0.8036
+    proximity: 0.8036 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,30 +6,32 @@ pronunciation: soo-gar'
 definition: an inclosure, i.e. cage (for an animal)
 kjv_usage: ward.
 derivation: from H5462 (סָגַר);
-extended_definition:
-  gloss: cage
-  definition: cage, prison, cage with hooks
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: cage, prison, cage with hooks {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7513
-    proximity: 0.8194
+    lemma: רַפְסֹדָה
+    gloss: a raft {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H1702
-    proximity: 0.8194
+    lemma: דֹּבְרָה
+    gloss: a raft {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H944a
-    proximity: 0.8139
+    proximity: 0.8139 {macula-proximity}
   - strongs: H4133
-    proximity: 0.7639
+    lemma: מוֹטָה
+    gloss: a pole {openscriptures-strongs}
+    proximity: 0.7639 {macula-proximity}
   cross_language:
   - strongs: G4548
-    proximity: 0.8056
+    lemma: σανίς
+    gloss: a plank {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
     language: greek
   - strongs: G3585
-    proximity: 0.7897
+    lemma: ξύλινος
+    gloss: wooden {openscriptures-strongs}
+    proximity: 0.7897 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

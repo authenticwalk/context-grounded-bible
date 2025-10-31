@@ -6,26 +6,22 @@ pronunciation: makh-ar-ay-shaw'
 definition: probably a pick-axe
 kjv_usage: mattock.
 derivation: from H2790 (חָרַשׁ);
-extended_definition:
-  gloss: plowshare
-  definition: plowshare
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: plowshare {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2770
-    proximity: 0.7958
+    lemma: חֶרְמֵשׁ
+    gloss: a sickle {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
   - strongs: H106
-    proximity: 0.7222
+    proximity: 0.7222 {macula-proximity}
   cross_language:
   - strongs: G722
-    proximity: 0.8246
+    proximity: 0.8246 {macula-proximity}
     language: greek
   - strongs: G1407
-    proximity: 0.7612
+    lemma: δρέπανον
+    gloss: a gathering hook {openscriptures-strongs}
+    proximity: 0.7612 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

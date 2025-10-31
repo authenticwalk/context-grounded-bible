@@ -6,43 +6,66 @@ pronunciation: paw-lakh'
 definition: to slice, i.e. break open or pierce
 kjv_usage: bring forth, cleave, cut, shred, strike through.
 derivation: a primitive root;
-extended_definition:
-  gloss: to cleave
-  definition: 1) to cleave, slice<br>1a) (Qal) to cleave, plow<br>1b) (Piel)<br>1b1)
-    to cleave open or through<br>1b2) to cause to cleave open<br>1b3) to slice, pierce
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to cleave, slice
+
+  1a) (Qal) to cleave, plow
+
+  1b) (Piel)
+
+  1b1) to cleave open or through
+
+  1b2) to cause to cleave open
+
+  1b3) to slice, pierce {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1234
-    proximity: 0.8278
+    lemma: בָּקַע
+    gloss: to cleave {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H7702
-    proximity: 0.8216
+    lemma: שָׂדַד
+    gloss: to abrade {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   - strongs: H4277
-    proximity: 0.7895
+    lemma: מָחַק
+    gloss: to crush {openscriptures-strongs}
+    proximity: 0.7895 {macula-proximity}
   - strongs: H2758
-    proximity: 0.7767
+    lemma: חָרִישׁ
+    gloss: ploughing or its season {openscriptures-strongs}
+    proximity: 0.7767 {macula-proximity}
   - strongs: H2790
-    proximity: 0.7623
+    lemma: חָרַשׁ
+    gloss: to scratch {openscriptures-strongs}
+    proximity: 0.7623 {macula-proximity}
   - strongs: H5408
-    proximity: 0.7591
+    lemma: נָתַח
+    gloss: to dismember {openscriptures-strongs}
+    proximity: 0.7591 {macula-proximity}
   - strongs: H7527
-    proximity: 0.7522
+    lemma: רָצַע
+    gloss: to pierce {openscriptures-strongs}
+    proximity: 0.7522 {macula-proximity}
   cross_language:
   - strongs: G4044
-    proximity: 0.8287
+    lemma: περιπείρω
+    gloss: to penetrate entirely {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G3572
-    proximity: 0.8254
+    lemma: νύσσω
+    gloss: to prick {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: greek
   - strongs: G1574
-    proximity: 0.8119
+    lemma: ἐκκεντέω
+    gloss: to transfix {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
     language: greek
   - strongs: G1079
-    proximity: 0.804
+    lemma: γενετή
+    gloss: birth {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,37 +7,46 @@ definition: properly, an envelope, i.e. darkness (or density, 2 Chronicles 4:17)
   specifically, a (scud) cloud; also a copse
 kjv_usage: clay, (thick) cloud, [idiom] thick, thicket. Compare H5672 (עֲבִי).
 derivation: (masculine and feminine); from H5743 (עוּב);
-extended_definition:
-  gloss: cloud
-  definition: 1) darkness, cloud, thicket<br>1a) dark cloud<br>1b) cloud mass<br>1c)
-    thicket (as refuge)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) darkness, cloud, thicket
+
+  1a) dark cloud
+
+  1b) cloud mass
+
+  1c) thicket (as refuge) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H108
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
   - strongs: H5442
-    proximity: 0.8252
+    lemma: סְבָךְ
+    gloss: a copse {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
   - strongs: H7255a
-    proximity: 0.8037
+    proximity: 0.8037 {macula-proximity}
   - strongs: H6227
-    proximity: 0.7689
+    lemma: עָשָׁן
+    gloss: smoke {openscriptures-strongs}
+    proximity: 0.7689 {macula-proximity}
   - strongs: H5441
-    proximity: 0.7666
+    lemma: סֹבֶךְ
+    gloss: a copse {openscriptures-strongs}
+    proximity: 0.7666 {macula-proximity}
   - strongs: H3293
-    proximity: 0.7588
+    lemma: יַעַר
+    gloss: a copse of bushes {openscriptures-strongs}
+    proximity: 0.7588 {macula-proximity}
   - strongs: H5743
-    proximity: 0.7444
+    lemma: עוּב
+    gloss: to be dense or dark {openscriptures-strongs}
+    proximity: 0.7444 {macula-proximity}
   cross_language:
   - strongs: G3507a
-    proximity: 0.8013
+    proximity: 0.8013 {macula-proximity}
     language: greek
   - strongs: G1105
-    proximity: 0.7788
+    lemma: γνόφος
+    gloss: gloom {openscriptures-strongs}
+    proximity: 0.7788 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

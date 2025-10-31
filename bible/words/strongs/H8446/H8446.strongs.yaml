@@ -7,52 +7,73 @@ definition: to meander (causatively, guide) about, especially fortrade or reconn
 kjv_usage: chap(-man), sent to descry, be excellent, merchant(-man), search (out),
   seek, (e-) spy (out).
 derivation: a primitive root;
-extended_definition:
-  gloss: to spy
-  definition: 1) to seek, search out, spy out, explore<br>1a) (Qal)<br>1a1) to seek
-    out, select, find out how to do something<br>1a2) to spy out, explore<br>1a2a)
-    explorers, spies (participle)<br>1a3) to go about<br>1a3a) merchant, trader (participle)<br>1b)
-    (Hiphil) to make a search, make a reconnaissance
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to seek, search out, spy out, explore
+
+  1a) (Qal)
+
+  1a1) to seek out, select, find out how to do something
+
+  1a2) to spy out, explore
+
+  1a2a) explorers, spies (participle)
+
+  1a3) to go about
+
+  1a3a) merchant, trader (participle)
+
+  1b) (Hiphil) to make a search, make a reconnaissance {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1980
-    proximity: 0.8272
+    lemma: הָלַךְ
+    gloss: to walk (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: A7912
-    proximity: 0.8235
+    proximity: 0.8235 {macula-proximity}
   - strongs: H3669a
-    proximity: 0.8222
+    proximity: 0.8222 {macula-proximity}
   - strongs: H7836
-    proximity: 0.8131
+    lemma: שָׁחַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
   - strongs: H4672
-    proximity: 0.7964
+    lemma: מָצָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7964 {macula-proximity}
   - strongs: H3667a
-    proximity: 0.7908
+    proximity: 0.7908 {macula-proximity}
   - strongs: H6692a
-    proximity: 0.7899
+    proximity: 0.7899 {macula-proximity}
   - strongs: H5148
-    proximity: 0.7888
+    lemma: נָחָה
+    gloss: to guide {openscriptures-strongs}
+    proximity: 0.7888 {macula-proximity}
   - strongs: H2714
-    proximity: 0.7749
+    lemma: חֵקֶר
+    gloss: examination {openscriptures-strongs}
+    proximity: 0.7749 {macula-proximity}
   cross_language:
   - strongs: G1934
-    proximity: 0.8284
+    lemma: ἐπιζητέω
+    gloss: to search  for {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: greek
   - strongs: G327
-    proximity: 0.8088
+    proximity: 0.8088 {macula-proximity}
     language: greek
   - strongs: G3879
-    proximity: 0.7863
+    lemma: παρακύπτω
+    gloss: to bend beside {openscriptures-strongs}
+    proximity: 0.7863 {macula-proximity}
     language: greek
   - strongs: G1833
-    proximity: 0.7853
+    lemma: ἐξετάζω
+    gloss: to test thoroughly {openscriptures-strongs}
+    proximity: 0.7853 {macula-proximity}
     language: greek
   - strongs: G1811
-    proximity: 0.7799
+    lemma: ἐξακολουθέω
+    gloss: to follow out {openscriptures-strongs}
+    proximity: 0.7799 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

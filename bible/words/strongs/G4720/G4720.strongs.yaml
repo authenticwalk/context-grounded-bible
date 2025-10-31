@@ -5,27 +5,26 @@ transliteration: Stáchys
 definition: Stachys, a Christian
 kjv_usage: Stachys
 derivation: the same as G4719 (στάχυς);
-extended_definition:
-  gloss: Stachys
-  definition: '<b>Στάχυς</b>, -υος, ὁ <BR /> <b>Stachys</b>: <ref=''Rom.16.9''>Rom.16:9</ref>
-    (see Lft., Phi., 174; MM, xxiii).†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Στάχυς</b>, -υος, ὁ <BR /> <b>Stachys</b>: <ref=''Rom.16.9''>Rom.16:9</ref>
-    (see Lft., Phi., 174; MM, xxiii).†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Στάχυς, -υος, ὁ
+
+  Stachys: Rom.16:9 (see Lft., Phi., 174; MM, xxiii).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Στάχυς, -υος, ὁ
+
+  Stachys: Rom.16:9 (see Lft., Phi., 174; MM, xxiii).†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5008
-    proximity: 0.8211
+    lemma: ταλιθά
+    gloss: the fresh {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
   cross_language:
   - strongs: H1862
-    proximity: 0.8287
+    lemma: דַּרְדַּע
+    gloss: Darda {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

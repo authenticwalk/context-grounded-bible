@@ -6,42 +6,48 @@ pronunciation: mish-tawr'
 definition: jurisdiction
 kjv_usage: dominion.
 derivation: from H7860 (שֹׁטֵר);
-extended_definition:
-  gloss: rule
-  definition: rule, authority
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: rule, authority {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A2632
-    proximity: 0.8181
+    proximity: 0.8181 {macula-proximity}
   - strongs: H7989
-    proximity: 0.8136
+    lemma: שַׁלִּיט
+    gloss: potent {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: H8633
-    proximity: 0.7962
+    lemma: תֹּקֶף
+    gloss: might or  positiveness {openscriptures-strongs}
+    proximity: 0.7962 {macula-proximity}
   - strongs: H7980
-    proximity: 0.7916
+    lemma: שָׁלַט
+    gloss: to dominate {openscriptures-strongs}
+    proximity: 0.7916 {macula-proximity}
   - strongs: H8323
-    proximity: 0.7789
+    lemma: שָׂרַר
+    gloss: to have (transitively {openscriptures-strongs}
+    proximity: 0.7789 {macula-proximity}
   - strongs: A7981
-    proximity: 0.7287
+    proximity: 0.7287 {macula-proximity}
   - strongs: A7990
-    proximity: 0.707
+    proximity: 0.707 {macula-proximity}
   cross_language:
   - strongs: G2715
-    proximity: 0.8128
+    lemma: κατεξουσιάζω
+    gloss: to have  full privilege over {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
     language: greek
   - strongs: G1850
-    proximity: 0.806
+    lemma: ἐξουσιάζω
+    gloss: to control {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
     language: greek
   - strongs: G2904
-    proximity: 0.8
+    lemma: κράτος
+    gloss: vigor {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
     language: greek
   - strongs: G757
-    proximity: 0.7479
+    proximity: 0.7479 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

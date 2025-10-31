@@ -5,47 +5,56 @@ transliteration: Sárrha
 definition: Sarra (i.e. Sarah), the wife of Abraham
 kjv_usage: Sara, Sarah
 derivation: of Hebrew origin (H08283);
-extended_definition:
-  gloss: Sarah
-  definition: '<b>Σάρρα</b>, -ας, ἡ (Heb. שָׂרָה, <ref=''Gen.17.15''>Gen.17:15</ref>),
-    <BR /> <b>Sarah</b>: <ref=''Rom.4.19; 9.9''>Rom.4:19 9:9</ref>, <ref=''Heb.11.11''>Heb.11:11</ref>,
-    <ref=''1Pe.3.6''>1Pe.3:6</ref>.†<BR /> (AS)'
-  morphology: N:N-F-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Σάρρα</b>, -ας, ἡ (Heb. שָׂרָה, <ref=''Gen.17.15''>Gen.17:15</ref>),
-    <BR /> <b>Sarah</b>: <ref=''Rom.4.19; 9.9''>Rom.4:19 9:9</ref>, <ref=''Heb.11.11''>Heb.11:11</ref>,
-    <ref=''1Pe.3.6''>1Pe.3:6</ref>.†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Σάρρα, -ας, ἡ (Heb. שָׂרָה, Gen.17:15),
+
+  Sarah: Rom.4:19 9:9, Heb.11:11, 1Pe.3:6.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Σάρρα, -ας, ἡ (Heb. שָׂרָה, Gen.17:15),
+
+  Sarah: Rom.4:19 9:9, Heb.11:11, 1Pe.3:6.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4543
-    proximity: 0.7681
+    lemma: Σαμοθρᾴκη
+    gloss: Samo-thrace {openscriptures-strongs}
+    proximity: 0.7681 {macula-proximity}
   - strongs: G4551
-    proximity: 0.7535
+    lemma: Σαπφείρη
+    gloss: Sapphire {openscriptures-strongs}
+    proximity: 0.7535 {macula-proximity}
   - strongs: A7598
-    proximity: 0.7476
+    proximity: 0.7476 {macula-proximity}
   - strongs: G4533
-    proximity: 0.744
+    lemma: Σαλμών
+    gloss: Salmon {openscriptures-strongs}
+    proximity: 0.744 {macula-proximity}
   cross_language:
   - strongs: H8314
-    proximity: 0.8242
+    lemma: שָׂרָף
+    gloss: burning {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
     language: hebrew
   - strongs: H6954
-    proximity: 0.8215
+    lemma: קְהֵלָתָה
+    gloss: Kehelathah {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
     language: hebrew
   - strongs: H7249
-    proximity: 0.8194
+    lemma: רַב־סָרִיס
+    gloss: Rab-Saris {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: hebrew
   - strongs: H6868
-    proximity: 0.8014
+    lemma: צְרֵדָה
+    gloss: Tseredah {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
     language: hebrew
   - strongs: H4968
-    proximity: 0.7974
+    lemma: מְתוּשֶׁלַח
+    gloss: Methushelach {openscriptures-strongs}
+    proximity: 0.7974 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

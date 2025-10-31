@@ -7,45 +7,57 @@ definition: a nestling (as being comparatively nude of feathers)
 kjv_usage: young (pigeon).
 derivation: or (shortened) גֹזָלlemma גזָל missing vowel, corrected to גֹזָל; from
   H1497 (גָּזַל);
-extended_definition:
-  gloss: young bird
-  definition: a nestling, young (of birds)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: a nestling, young (of birds) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3715
-    proximity: 0.8289
+    lemma: כְּפִיר
+    gloss: a village {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H5958
-    proximity: 0.8288
+    lemma: עֶלֶם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: H1072
-    proximity: 0.8282
+    lemma: בִּכְרָה
+    gloss: a young she-camel {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H1429
-    proximity: 0.8259
+    lemma: גְּדִיָּה
+    gloss: a young female goat {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: H738
-    proximity: 0.8096
+    proximity: 0.8096 {macula-proximity}
   - strongs: H5759
-    proximity: 0.8024
+    lemma: עֲוִיל
+    gloss: a babe {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: H6996
-    proximity: 0.7988
+    lemma: קָטָן
+    gloss: abbreviated {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   - strongs: H6996a
-    proximity: 0.7908
+    proximity: 0.7908 {macula-proximity}
   - strongs: H344
-    proximity: 0.7854
+    proximity: 0.7854 {macula-proximity}
   - strongs: H5404
-    proximity: 0.7732
+    lemma: נֶשֶׁר
+    gloss: the eagle {openscriptures-strongs}
+    proximity: 0.7732 {macula-proximity}
   cross_language:
   - strongs: G5040
-    proximity: 0.8272
+    lemma: τεκνίον
+    gloss: an infant {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G3678
-    proximity: 0.8107
+    lemma: ὀνάριον
+    gloss: a little ass {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
     language: greek
   - strongs: G3556
-    proximity: 0.7654
+    lemma: νοσσίον
+    gloss: a birdling {openscriptures-strongs}
+    proximity: 0.7654 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

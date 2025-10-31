@@ -6,33 +6,37 @@ pronunciation: kaw-thash'
 definition: to butt or pound
 kjv_usage: bray.
 derivation: a primitive root;
-extended_definition:
-  gloss: to pound
-  definition: (Qal) to pound, mix by pounding, pound fine, bray
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to pound, mix by pounding, pound fine, bray {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3807
-    proximity: 0.8183
+    lemma: כָּתַת
+    gloss: to bruise or violently strike {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: H2913
-    proximity: 0.7917
+    lemma: טַחֲנָה
+    gloss: a hand mill {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: H2912
-    proximity: 0.7629
+    lemma: טָחַן
+    gloss: to grind meal {openscriptures-strongs}
+    proximity: 0.7629 {macula-proximity}
   - strongs: H1854
-    proximity: 0.7016
+    lemma: דָּקַק
+    gloss: to crush  crumble {openscriptures-strongs}
+    proximity: 0.7016 {macula-proximity}
   cross_language:
   - strongs: G5149
-    proximity: 0.8167
+    lemma: τρίζω
+    gloss: to creak {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G229
-    proximity: 0.7722
+    proximity: 0.7722 {macula-proximity}
     language: greek
   - strongs: G3046
-    proximity: 0.7689
+    lemma: λίτρα
+    gloss: a pound in weight {openscriptures-strongs}
+    proximity: 0.7689 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

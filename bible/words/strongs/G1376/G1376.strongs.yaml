@@ -5,41 +5,46 @@ transliteration: diṓktēs
 definition: a persecutor
 kjv_usage: persecutor
 derivation: from G1377 (διώκω);
-extended_definition:
-  gloss: persecutor
-  definition: '<b>διώκτης</b>, -ου, ὁ<BR /> (διώκω), <BR /><b>a persecutor</b>: <ref=''1Ti.1.13.''>1Ti.1:13.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> διωκ-τήρ</b>, ῆρος, ὁ, <br /> <b>pursuer,</b> [<a href="javascript:void(0)"
-    title=" 2nd c.AD: Babrius Fabularum Scriptor 128.14. ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'διώκτης, -ου, ὁ
+
+  (διώκω),
+
+  a persecutor: 1Ti.1:13.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'διωκ-τήρ, ῆρος, ὁ,
+
+  pursuer, [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5407
-    proximity: 0.8216
+    lemma: φονεύω
+    gloss: to be a murderer {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   - strongs: A1080
-    proximity: 0.7916
+    proximity: 0.7916 {macula-proximity}
   cross_language:
   - strongs: H3906
-    proximity: 0.8285
+    lemma: לַחַץ
+    gloss: distress {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: hebrew
   - strongs: H8437
-    proximity: 0.8275
+    lemma: תּוֹלָל
+    gloss: causing to howl {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
     language: hebrew
   - strongs: H1766
-    proximity: 0.8258
+    lemma: דָּחַק
+    gloss: to press {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: hebrew
   - strongs: H6862a
-    proximity: 0.8162
+    proximity: 0.8162 {macula-proximity}
     language: hebrew
   - strongs: H7492
-    proximity: 0.8121
+    lemma: רָעַץ
+    gloss: to break in pieces {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

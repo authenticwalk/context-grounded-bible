@@ -5,52 +5,64 @@ transliteration: rhaidioúrgēma
 definition: easy-going behavior, i.e. (by extension) a crime
 kjv_usage: lewdness
 derivation: from a comparative of (easy, i.e. reckless) and G2041 (ἔργον);
-extended_definition:
-  gloss: crime
-  definition: '<b>ῥᾳδιούργημα</b>, -τος, τό<BR /> (ῥᾳδιουργέω, to act recklessly or
-    wrongly) <BR />__1. a reckless act. <BR /> __2. <b>crime, villany</b>: <ref=''Act.18.14.''>Act.18:14.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ῥᾳδιούργ-ημα</b>, ατος, τό, <br /> <b>misdeed, villany.</b>
-    [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 1.77,
-    NT.Act.18.14, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pyrrhus” 6.
-    ">NT+1st c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ῥᾳδιούργημα, -τος, τό
+
+  (ῥᾳδιουργέω, to act recklessly or wrongly)
+
+  __1. a reckless act.
+
+  __2. crime, villany: Act.18:14.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ῥᾳδιούργ-ημα, ατος, τό,
+
+  misdeed, villany. [NT+1st c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2555
-    proximity: 0.8042
+    lemma: κακοποιός
+    gloss: a bad-doer {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: G5337
-    proximity: 0.7963
+    lemma: φαῦλος
+    gloss: '"foul" or "flawy" {openscriptures-strongs}'
+    proximity: 0.7963 {macula-proximity}
   - strongs: G4191
-    proximity: 0.7906
+    lemma: πονηρότερος
+    gloss: more evil {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
   - strongs: G4189
-    proximity: 0.7811
+    lemma: πονηρία
+    gloss: depravity {openscriptures-strongs}
+    proximity: 0.7811 {macula-proximity}
   - strongs: G2549
-    proximity: 0.7765
+    lemma: κακία
+    gloss: badness {openscriptures-strongs}
+    proximity: 0.7765 {macula-proximity}
   - strongs: A873
-    proximity: 0.7523
+    proximity: 0.7523 {macula-proximity}
   cross_language:
   - strongs: H2402
-    proximity: 0.8243
+    lemma: חַטָּאָה
+    gloss: an offence {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: hebrew
   - strongs: H4827
-    proximity: 0.8034
+    lemma: מֵרַע
+    gloss: used as  noun {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
     language: hebrew
   - strongs: H5766a
-    proximity: 0.7932
+    proximity: 0.7932 {macula-proximity}
     language: hebrew
   - strongs: H7563
-    proximity: 0.7857
+    lemma: רָשָׁע
+    gloss: morally wrong {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
     language: hebrew
   - strongs: H2154
-    proximity: 0.7763
+    lemma: זִמָּה
+    gloss: a plan {openscriptures-strongs}
+    proximity: 0.7763 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

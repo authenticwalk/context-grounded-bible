@@ -6,29 +6,31 @@ pronunciation: ray-eh'
 definition: a (male) companion
 kjv_usage: friend.
 derivation: from H7462 (רָעָה);
-extended_definition:
-  gloss: friend
-  definition: friend, friend of the king (technical sense)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: friend, friend of the king (technical sense) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4962
-    proximity: 0.8236
+    lemma: מַת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
   - strongs: H7453
-    proximity: 0.7943
+    lemma: רֵעַ
+    gloss: an associate {openscriptures-strongs}
+    proximity: 0.7943 {macula-proximity}
   - strongs: H2270
-    proximity: 0.7853
+    lemma: חָבֵר
+    gloss: an associate {openscriptures-strongs}
+    proximity: 0.7853 {macula-proximity}
   - strongs: H7468
-    proximity: 0.7686
+    lemma: רְעוּת
+    gloss: a female associate {openscriptures-strongs}
+    proximity: 0.7686 {macula-proximity}
   - strongs: A1907
-    proximity: 0.7333
+    proximity: 0.7333 {macula-proximity}
   cross_language:
   - strongs: G4825
-    proximity: 0.7904
+    lemma: σύμβουλος
+    gloss: a consultor {openscriptures-strongs}
+    proximity: 0.7904 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

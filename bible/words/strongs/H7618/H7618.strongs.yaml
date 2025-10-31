@@ -8,33 +8,38 @@ kjv_usage: agate.
 derivation: from an unused root (probably identical with that of H7617 (שָׁבָה) through
   the idea of subdivision into flashes or streamers (compare H7632 (שָׁבִיב)) meaning
   to flame;
-extended_definition:
-  gloss: agate
-  definition: 1) a precious stone (in the high priest's breastplate)<br>1a) probably
-    an agate
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) a precious stone (in the high priest''s breastplate)
+
+  1a) probably an agate {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7718
-    proximity: 0.8198
+    lemma: שֹׁהַם
+    gloss: a gem {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
   - strongs: H3958
-    proximity: 0.8063
+    lemma: לֶשֶׁם
+    gloss: a gem {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
   cross_language:
   - strongs: G5191
-    proximity: 0.8065
+    lemma: ὑακίνθινος
+    gloss: '"hyacinthine" or "jacinthine" {openscriptures-strongs}'
+    proximity: 0.8065 {macula-proximity}
     language: greek
   - strongs: G4557
-    proximity: 0.8021
+    lemma: σαρδόνυξ
+    gloss: hence the "onyx" stone) {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
     language: greek
   - strongs: G5192
-    proximity: 0.7778
+    lemma: ὑάκινθος
+    gloss: the "hyacinth" or "jacinth" {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
     language: greek
   - strongs: G5472
-    proximity: 0.7732
+    lemma: χαλκηδών
+    gloss: copper-like {openscriptures-strongs}
+    proximity: 0.7732 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

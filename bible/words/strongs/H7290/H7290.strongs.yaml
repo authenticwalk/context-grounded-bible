@@ -6,38 +6,44 @@ pronunciation: raw-dam'
 definition: to stun, i.e. stupefy (with sleep or death)
 kjv_usage: (be fast a-, be in a deep, cast into a dead, that) sleep(-er, -eth).
 derivation: a primitive root;
-extended_definition:
-  gloss: to sleep
-  definition: (Niphal) to be asleep, be unconscious, be in heavy sleep, fall into
-    heavy sleep, be fast asleep
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Niphal) to be asleep, be unconscious, be in heavy sleep, fall
+  into heavy sleep, be fast asleep {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1933
-    proximity: 0.8271
+    lemma: הָוָא
+    gloss: to be {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: H6013
-    proximity: 0.8203
+    lemma: עָמֹק
+    gloss: deep {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: H5123
-    proximity: 0.8058
+    lemma: נוּם
+    gloss: to slumber {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: H5307
-    proximity: 0.7954
+    lemma: נָפַל
+    gloss: to fall {openscriptures-strongs}
+    proximity: 0.7954 {macula-proximity}
   - strongs: H8142a
-    proximity: 0.7129
+    proximity: 0.7129 {macula-proximity}
   - strongs: A8139
-    proximity: 0.7028
+    proximity: 0.7028 {macula-proximity}
   cross_language:
   - strongs: G2838
-    proximity: 0.8184
+    lemma: κοίμησις
+    gloss: sleeping {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
     language: greek
   - strongs: G3573
-    proximity: 0.8174
+    lemma: νυστάζω
+    gloss: to nod {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
     language: greek
   - strongs: G2837
-    proximity: 0.7024
+    lemma: κοιμάω
+    gloss: to put to sleep {openscriptures-strongs}
+    proximity: 0.7024 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,50 +6,69 @@ pronunciation: gaw-maw'
 definition: to absorb
 kjv_usage: swallow, drink.
 derivation: a primitive root (literally or figuratively) to absorb
-extended_definition:
-  gloss: to swallow
-  definition: 1) to swallow (liquids)<br>1a) (Piel) to swallow<br>1b) (Hiphil) to
-    drink
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to swallow (liquids)
+
+  1a) (Piel) to swallow
+
+  1b) (Hiphil) to drink {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A399
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
   - strongs: H8360
-    proximity: 0.8278
+    lemma: שְׁתִיָּה
+    gloss: potation {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H1633
-    proximity: 0.8105
+    lemma: גָּרַם
+    gloss: to bone {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
   - strongs: H8354
-    proximity: 0.8048
+    lemma: שָׁתָה
+    gloss: to imbibe {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
   - strongs: H1726
-    proximity: 0.7957
+    lemma: דַּהֲהַר
+    gloss: a gallop {openscriptures-strongs}
+    proximity: 0.7957 {macula-proximity}
   - strongs: H3216a
-    proximity: 0.7884
+    proximity: 0.7884 {macula-proximity}
   - strongs: H1725
-    proximity: 0.7653
+    lemma: דָּהַר
+    gloss: to curvet or move irregularly {openscriptures-strongs}
+    proximity: 0.7653 {macula-proximity}
   - strongs: H1104
-    proximity: 0.7642
+    lemma: בָּלַע
+    gloss: to make away with {openscriptures-strongs}
+    proximity: 0.7642 {macula-proximity}
   - strongs: H1105
-    proximity: 0.7444
+    lemma: בֶּלַע
+    gloss: a gulp {openscriptures-strongs}
+    proximity: 0.7444 {macula-proximity}
   cross_language:
   - strongs: G4188
-    proximity: 0.8078
+    lemma: πόμα
+    gloss: a beverage {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
     language: greek
   - strongs: G4095
-    proximity: 0.8019
+    lemma: πίνω
+    gloss: to imbibe {openscriptures-strongs}
+    proximity: 0.8019 {macula-proximity}
     language: greek
   - strongs: G4213
-    proximity: 0.7951
+    lemma: πόσις
+    gloss: a drinking {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
     language: greek
   - strongs: G2719
-    proximity: 0.7866
+    lemma: κατεσθίω
+    gloss: to eat down {openscriptures-strongs}
+    proximity: 0.7866 {macula-proximity}
     language: greek
   - strongs: G2666
-    proximity: 0.7283
+    lemma: καταπίνω
+    gloss: to drink down {openscriptures-strongs}
+    proximity: 0.7283 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,28 +6,30 @@ pronunciation: shook
 definition: a street (as run over)
 kjv_usage: street.
 derivation: from H7783 (שׁוּק);
-extended_definition:
-  gloss: street
-  definition: street
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: street {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5410
-    proximity: 0.776
+    lemma: נָתִיב
+    gloss: a  track {openscriptures-strongs}
+    proximity: 0.776 {macula-proximity}
   - strongs: H4546
-    proximity: 0.7706
+    lemma: מְסִלָּה
+    gloss: a thoroughfare {openscriptures-strongs}
+    proximity: 0.7706 {macula-proximity}
   - strongs: H1870
-    proximity: 0.7365
+    lemma: דֶּרֶךְ
+    gloss: a road {openscriptures-strongs}
+    proximity: 0.7365 {macula-proximity}
   cross_language:
   - strongs: G3588
-    proximity: 0.8297
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G3598
-    proximity: 0.7451
+    lemma: ὁδός
+    gloss: a road {openscriptures-strongs}
+    proximity: 0.7451 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,31 +7,38 @@ definition: mud or clay; figuratively, calamity
 kjv_usage: clay, dirt, mire.
 derivation: from an unused root meaning apparently to be sticky (rather perb. a demonstrative);
   from H2894 (טוּא), through the idea of dirt to be swept away);
-extended_definition:
-  gloss: mud
-  definition: '1) mud, clay, mire, damp dirt<br>1a) mud, mire<br>1b) clay (poetical)<BR>Aramaic
-    equivalent: <i>tin</i> (טִין "common" H2917)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) mud, clay, mire, damp dirt
+
+  1a) mud, mire
+
+  1b) clay (poetical)
+
+  Aramaic equivalent: tin (טִין "common" H2917) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1793
-    proximity: 0.8223
+    lemma: דַּכָּא
+    gloss: crushed (literally powder {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
   - strongs: H4568
-    proximity: 0.8021
+    lemma: מַעֲבֶה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
   - strongs: H7516
-    proximity: 0.7896
+    lemma: רֶפֶשׁ
+    gloss: mud {openscriptures-strongs}
+    proximity: 0.7896 {macula-proximity}
   - strongs: H4423
-    proximity: 0.7721
+    lemma: מֶלֶט
+    gloss: cement {openscriptures-strongs}
+    proximity: 0.7721 {macula-proximity}
   cross_language:
   - strongs: G2868
-    proximity: 0.8055
+    lemma: κονιορτός
+    gloss: pulverulence {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
     language: greek
   - strongs: G5522a
-    proximity: 0.8006
+    proximity: 0.8006 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

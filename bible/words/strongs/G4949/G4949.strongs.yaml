@@ -5,51 +5,62 @@ transliteration: Syrophoínissa
 definition: a Syro-phœnician woman, i.e. a female native of Phœnicia in Syria
 kjv_usage: Syrophenician
 derivation: feminine of a compound of G4948 (Σύρος) and the same as G5403 (Φοινίκη);
-extended_definition:
-  gloss: Syrophoenician
-  definition: '<b>Συροφοινίκισσα</b> (Rec. -φοίνισσα), -ης, ἡ <BR /> <b>a Syropænician
-    woman</b>: <ref=''Mrk.7.26''>Mrk.7:26</ref>, WH, txt., RV (cf. ἡ Φοινίκη Συρία,
-    Diod., 19, 93).†<BR /> (AS)'
-  morphology: N:N-F-LG
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Συροφοινίκισσα</b> (Rec. -φοίνισσα), -ης, ἡ <BR /> <b>a Syropænician
-    woman</b>: <ref=''Mrk.7.26''>Mrk.7:26</ref>, WH, txt., RV (cf. ἡ Φοινίκη Συρία,
-    Diod., 19, 93).†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Συροφοινίκισσα (Rec. -φοίνισσα), -ης, ἡ
+
+  a Syropænician woman: Mrk.7:26, WH, txt., RV (cf. ἡ Φοινίκη Συρία, Diod., 19, 93).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Συροφοινίκισσα (Rec. -φοίνισσα), -ης, ἡ
+
+  a Syropænician woman: Mrk.7:26, WH, txt., RV (cf. ἡ Φοινίκη Συρία, Diod., 19, 93).†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3828
-    proximity: 0.8247
+    lemma: Παμφυλία
+    gloss: every-tribal {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: G5405
-    proximity: 0.8195
+    lemma: Φοῖνιξ
+    gloss: Phœnix {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: G3518
-    proximity: 0.8102
+    lemma: Νηρί
+    gloss: Neri {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
   - strongs: G4948
-    proximity: 0.8094
+    lemma: Σύρος
+    gloss: a Syran {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
   - strongs: G3517
-    proximity: 0.7822
+    lemma: Νηρεύς
+    gloss: Nereus {openscriptures-strongs}
+    proximity: 0.7822 {macula-proximity}
   - strongs: G4947
-    proximity: 0.7384
+    lemma: Συρία
+    gloss: Syria {openscriptures-strongs}
+    proximity: 0.7384 {macula-proximity}
   cross_language:
   - strongs: H1533
-    proximity: 0.8299
+    lemma: גִּלְבֹּעַ
+    gloss: Gilboa {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: hebrew
   - strongs: H3812
-    proximity: 0.8254
+    lemma: לֵאָה
+    gloss: Leah {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: hebrew
   - strongs: H89
-    proximity: 0.8244
+    proximity: 0.8244 {macula-proximity}
     language: hebrew
   - strongs: H1520
-    proximity: 0.8193
+    lemma: גִּיחַ
+    gloss: Giach {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
     language: hebrew
   - strongs: H5374a
-    proximity: 0.8183
+    proximity: 0.8183 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

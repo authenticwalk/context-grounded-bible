@@ -6,29 +6,26 @@ definition: a dagger-man or assassin; a freebooter (Jewish fanatic outlawed by t
   Romans)
 kjv_usage: murderer
 derivation: of Latin origin;
-extended_definition:
-  gloss: assassin
-  definition: '<b>σικάριος</b>, -ου, ὁ<BR /> (Lat.; sica, a dagger carried under their
-    clothing by the Sicarii), <BR /><b>a bandit, assassin, one of the Sicarii </b>(FlJ,
-    B.J., ii, 17, 6, al.): <ref=''Act.21.38.''>Act.21:38.</ref>†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> σῑκάριος</b> [ᾱ], ὁ,<br /> = Latin <i>sicarius,</i> [<a href="javascript:void(0)"
-    title=" NT.Acts.21.38, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 20.8.10,
-    +others ">NT+1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'σικάριος, -ου, ὁ
+
+  (Lat.; sica, a dagger carried under their clothing by the Sicarii),
+
+  a bandit, assassin, one of the Sicarii (FlJ, B.J., ii, 17, 6, al.): Act.21:38.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'σῑκάριος [ᾱ], ὁ,
+
+  = Latin sicarius, [NT+1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G443
-    proximity: 0.7958
+    proximity: 0.7958 {macula-proximity}
   - strongs: G5408
-    proximity: 0.7952
+    lemma: φόνος
+    gloss: murder {openscriptures-strongs}
+    proximity: 0.7952 {macula-proximity}
   - strongs: G5406
-    proximity: 0.781
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: φονεύς
+    gloss: a murderer  homicide {openscriptures-strongs}
+    proximity: 0.781 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

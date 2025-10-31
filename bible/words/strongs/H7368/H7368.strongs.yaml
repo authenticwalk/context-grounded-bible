@@ -8,50 +8,73 @@ definition: to widen (in any direction), i.e. (intransitively) recede or (transi
 kjv_usage: (a-, be, cast, drive, get, go, keep (self), put, remove, be too, (wander),
   withdraw) far (away, off), loose, [idiom] refrain, very, (be) a good way (off).
 derivation: a primitive root;
-extended_definition:
-  gloss: to remove
-  definition: v<br>1) to be or become far, be or become distant, be removed, go far
-    away<br>1a) (Qal) to be far, be distant<br>1b) (Piel) to send far away, extend<br>1c)
-    (Hiphil)<br>1c1) to make or exhibit distance, be gone far<br>1c2) to remove, put
-    far away<br>2) (Niphal) loose<br>v inf (as adv)<br>3) at a distance
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: 'v
+
+  1) to be or become far, be or become distant, be removed, go far away
+
+  1a) (Qal) to be far, be distant
+
+  1b) (Piel) to send far away, extend
+
+  1c) (Hiphil)
+
+  1c1) to make or exhibit distance, be gone far
+
+  1c2) to remove, put far away
+
+  2) (Niphal) loose
+
+  v inf (as adv)
+
+  3) at a distance {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1556
-    proximity: 0.8289
+    lemma: גָּלַל
+    gloss: to roll {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H2186
-    proximity: 0.827
+    lemma: זָנַח
+    gloss: reject {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H3014
-    proximity: 0.8268
+    lemma: יָגָה
+    gloss: to push away {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: H2114
-    proximity: 0.8193
+    lemma: זוּר
+    gloss: to turn aside {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H1540
-    proximity: 0.8183
+    lemma: גָּלָה
+    gloss: to denude {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: A5709
-    proximity: 0.816
+    proximity: 0.816 {macula-proximity}
   - strongs: H1973
-    proximity: 0.8117
+    lemma: הָלְאָה
+    gloss: to the distance {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
   - strongs: H5077
-    proximity: 0.8078
+    lemma: נָדָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   cross_language:
   - strongs: G3911
-    proximity: 0.8278
+    lemma: παραφέρω
+    gloss: to bear along or aside {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G642
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G595
-    proximity: 0.8271
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G142
-    proximity: 0.8203
+    proximity: 0.8203 {macula-proximity}
     language: greek
   - strongs: G659
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

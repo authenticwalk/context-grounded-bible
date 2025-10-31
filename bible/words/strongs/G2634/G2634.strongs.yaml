@@ -5,63 +5,79 @@ transliteration: katakyrieúō
 definition: to lord against, i.e. control, subjugate
 kjv_usage: exercise dominion over (lordship), be lord over, overcome
 derivation: from G2596 (κατά) and G2961 (κυριεύω);
-extended_definition:
-  gloss: to master
-  definition: '<b>κατα-κυριεύω </b><BR /> [in LXX: <ref=''Gen.1.28''>Gen.1:28</ref>
-    (כָּבַשׁ), <ref=''Psa.110.2''>Psa.110:2</ref> <ref=''Sir.17.4''>Sir.17:4</ref>,
-    al. ;] <BR /><b>to gain or exercise dominion </b>(over); <BR /> __(a) absol. (Arist.);
-    <BR /> __(b) with genitive (Arist., al.): <ref=''Mat.20.25''>Mat.20:25</ref>,
-    <ref=''Mrk.10.42''>Mrk.10:42</ref>, <ref=''Act.19.16''>Act.19:16</ref>, <ref=''1Pe.5.3''>1Pe.5:3</ref>.†<BR
-    /> <re><i>SYN.</i>: (κατεξουσιάζω) (see Swete, <i>Mk.</i>, l.with) </re> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κατακῡριεύω</b>, <br /> <b>gain</b> or <b>exercise complete
-    dominion</b>, [<a href="javascript:void(0)" title=" LXX.Psa.71(72).8. ">LXX</a>]<br
-    /><Level3><b>__2</b></Level3> κ. τινός <b>gain dominion over, gain possession
-    of</b>,[<a href="javascript:void(0)" title="LXX.Psa.9.26(10.5), NT.1Pet.5.3 ">LXX+NT</a>];
-    [πλοίου] [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus Historicus
-    14.64. ">Refs 1st c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κατα-κυριεύω
+
+  [in LXX: Gen.1:28 (כָּבַשׁ), Psa.110:2 Sir.17:4, al. ;]
+
+  to gain or exercise dominion (over);
+
+  __(a) absol. (Arist.);
+
+  __(b) with genitive (Arist., al.): Mat.20:25, Mrk.10:42, Act.19:16, 1Pe.5:3.†
+
+  SYN.: (κατεξουσιάζω) (see Swete, Mk., l.with)  (AS) {STEPBible-TBESG}'
+etymology: 'κατακῡριεύω,
+
+  gain or exercise complete dominion, [LXX]
+
+  __2 κ. τινός gain dominion over, gain possession of,[LXX+NT]; [πλοίου] [Refs 1st
+  c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4987
-    proximity: 0.826
+    lemma: σωρεύω
+    gloss: to pile up {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
   - strongs: G1203
-    proximity: 0.823
+    lemma: δεσπότης
+    gloss: an absolute ruler {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: G4291
-    proximity: 0.8227
+    lemma: προΐστημι
+    gloss: to stand before {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: A5922
-    proximity: 0.822
+    proximity: 0.822 {macula-proximity}
   - strongs: G1850
-    proximity: 0.8143
+    lemma: ἐξουσιάζω
+    gloss: to control {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
   - strongs: G2352
-    proximity: 0.8141
+    lemma: θραύω
+    gloss: to crush {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: A4756
-    proximity: 0.8122
+    proximity: 0.8122 {macula-proximity}
   - strongs: G2615
-    proximity: 0.808
+    lemma: καταδουλόω
+    gloss: to enslave utterly {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
   - strongs: A7981
-    proximity: 0.8046
+    proximity: 0.8046 {macula-proximity}
   cross_language:
   - strongs: H3068
-    proximity: 0.8299
+    lemma: יְהֹוָה
+    gloss: Jehovah {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: hebrew
   - strongs: H5921
-    proximity: 0.829
+    lemma: עַל
+    gloss: above {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: hebrew
   - strongs: H4835
-    proximity: 0.828
+    lemma: מְרֻצָה
+    gloss: oppression {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: hebrew
   - strongs: H4965
-    proximity: 0.821
+    lemma: מֶתֶג הָאַמָּה
+    gloss: Metheg-ha-Ammah {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: hebrew
   - strongs: H7286
-    proximity: 0.8082
+    lemma: רָדַד
+    gloss: to tread in pieces {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,42 +7,59 @@ definition: fulness (literally or figuratively)
 kjv_usage: '[idiom] all along, [idiom] all that is (there-) in, fill, ([idiom] that
   whereof...was) full, fulness, (hand-) full, multitude.'
 derivation: rarely מְלוֹא; or מְלוֹ; (Ezekiel [41:8), from H4390 (מָלֵא);
-extended_definition:
-  gloss: fullness
-  definition: 1) fulness, that which fills<br>1a) fulness, handful<br>1b) mass, multitude<br>1c)
-    fulness, that which fills, entire contents<br>1d) full length, full line
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) fulness, that which fills
+
+  1a) fulness, handful
+
+  1b) mass, multitude
+
+  1c) fulness, that which fills, entire contents
+
+  1d) full length, full line {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6058
-    proximity: 0.8297
+    lemma: עָנֵף
+    gloss: branching {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: H6031a
-    proximity: 0.7897
+    proximity: 0.7897 {macula-proximity}
   - strongs: H7062
-    proximity: 0.77
+    lemma: קֹמֶץ
+    gloss: a grasp {openscriptures-strongs}
+    proximity: 0.77 {macula-proximity}
   - strongs: H7648
-    proximity: 0.749
+    lemma: שֹׂבַע
+    gloss: satisfaction  joy) {openscriptures-strongs}
+    proximity: 0.749 {macula-proximity}
   - strongs: H7649
-    proximity: 0.738
+    lemma: שָׂבֵעַ
+    gloss: satiated {openscriptures-strongs}
+    proximity: 0.738 {macula-proximity}
   cross_language:
   - strongs: G4184
-    proximity: 0.7948
+    lemma: πολύσπλαγχνος
+    gloss: extremely compassionate {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
     language: greek
   - strongs: G3650
-    proximity: 0.7662
+    lemma: ὅλος
+    gloss: '"whole" or "all" {openscriptures-strongs}'
+    proximity: 0.7662 {macula-proximity}
     language: greek
   - strongs: G1705
-    proximity: 0.7659
+    lemma: ἐμπίπλημι
+    gloss: to fill in {openscriptures-strongs}
+    proximity: 0.7659 {macula-proximity}
     language: greek
   - strongs: G3325
-    proximity: 0.7608
+    lemma: μεστόω
+    gloss: to replenish {openscriptures-strongs}
+    proximity: 0.7608 {macula-proximity}
     language: greek
   - strongs: G5248
-    proximity: 0.7512
+    lemma: ὑπερπερισσεύω
+    gloss: to super-abound {openscriptures-strongs}
+    proximity: 0.7512 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

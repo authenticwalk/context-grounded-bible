@@ -6,45 +6,57 @@ pronunciation: keem
 definition: an opponent (as rising against one), i.e. (collectively) enemies
 kjv_usage: substance.
 derivation: from H6965 (קוּם);
-extended_definition:
-  gloss: adversary
-  definition: adversary
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: adversary {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1481a
-    proximity: 0.8217
+    proximity: 0.8217 {macula-proximity}
   - strongs: H3593
-    proximity: 0.8189
+    lemma: כִּידוֹר
+    gloss: perhaps tumult {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H7790
-    proximity: 0.8058
+    lemma: שׁוּר
+    gloss: a foe {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: H3401
-    proximity: 0.7845
+    lemma: יָרִיב
+    gloss: literally he will contend {openscriptures-strongs}
+    proximity: 0.7845 {macula-proximity}
   - strongs: H6965
-    proximity: 0.7686
+    lemma: קוּם
+    gloss: to rise (in various applications {openscriptures-strongs}
+    proximity: 0.7686 {macula-proximity}
   - strongs: H5222
-    proximity: 0.766
+    lemma: נֵכֶה
+    gloss: a smiter {openscriptures-strongs}
+    proximity: 0.766 {macula-proximity}
   - strongs: H8618
-    proximity: 0.7596
+    lemma: תְּקוֹמֵם
+    gloss: an opponent {openscriptures-strongs}
+    proximity: 0.7596 {macula-proximity}
   - strongs: H7854
-    proximity: 0.7394
+    lemma: שָׂטָן
+    gloss: an opponent {openscriptures-strongs}
+    proximity: 0.7394 {macula-proximity}
   - strongs: H7853
-    proximity: 0.719
+    lemma: שָׂטַן
+    gloss: to attack {openscriptures-strongs}
+    proximity: 0.719 {macula-proximity}
   - strongs: H341
-    proximity: 0.7156
+    proximity: 0.7156 {macula-proximity}
   cross_language:
   - strongs: G475
-    proximity: 0.7875
+    proximity: 0.7875 {macula-proximity}
     language: greek
   - strongs: G2190
-    proximity: 0.7514
+    lemma: ἐχθρός
+    gloss: hateful (passively {openscriptures-strongs}
+    proximity: 0.7514 {macula-proximity}
     language: greek
   - strongs: G2721
-    proximity: 0.7365
+    lemma: κατεφίστημι
+    gloss: to stand over against {openscriptures-strongs}
+    proximity: 0.7365 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

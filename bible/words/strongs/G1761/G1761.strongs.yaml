@@ -5,66 +5,78 @@ transliteration: enthýmēsis
 definition: deliberation
 kjv_usage: device, thought
 derivation: from G1760 (ἐνθυμέομαι);
-extended_definition:
-  gloss: reflection
-  definition: '<b>ἐνθύμησις</b>, -εως, ἡ<BR /> (ἐνθυμέομαι), [in Sm.: <ref=''Job.21.27''>Job.21:27</ref>,
-    <ref=''Ezk.11.21''>Eze.11:21</ref> * ;] <BR /><b>consideration, pondering </b>(EV,
-    device): <ref=''Act.17.29''>Act.17:29;</ref> pl., <b>thoughts, feel­ings</b>:
-    <ref=''Mat.9.4; 12.25''>Mat.9:4 12:25</ref>, <ref=''Heb.4.12''>Heb.4:12</ref>.†<BR
-    /> <re><i>SYN.</i>: ἔννοια, the action of the reason; while ἐνθ. is rather that
-    of the affections (cf. Westc., <i>Heb.</i>, l.with) </re> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐνθῡμ-ησις</b>, εως, ἡ, <br /> <b>consideration, esteem,</b>
-    [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Fragmenta”
-    246. ">Refs 5th c.BC+</a>]<br /><Level2><b>__II</b></Level2> <b>consideration,
-    reflection,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus
-    1.132, NT.Matt.9.4 (_plural_), 2nd-3rd c.AD: Symmachus LXX.Job.21.27, Vett. Val.301.8,
-    etc. ">NT+5th c.BC+</a>]<br /><Level3><b>__II.2</b></Level3> <b>idea, conception,</b>
-    εἰς ἐ. ἐσθήτων ἦλθον [<a href="javascript:void(0)" title=" 4th c.BC: Diogenes
-    Cynicus Philosophus Oen.10; τὰς ἐ. ὀξύς 2nd c.AD: Lucianus Sophista “Salt.” 81.
-    ">Refs 4th c.BC+</a>]<br /><Level2><b>__III</b></Level2> <b>anxiety, worry,</b>
-    [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “παραγγελίαι”
-    4. ">Refs 5th c.BC+</a>]<br /><Level2><b>__IV</b></Level2> <b>resolution</b>,
-    [<a href="javascript:void(0)" title=" “BGU” 1024 iv 12 (4th c.AD). ">Refs 4th
-    c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐνθύμησις, -εως, ἡ
+
+  (ἐνθυμέομαι), [in Sm.: Job.21:27, Eze.11:21 * ;]
+
+  consideration, pondering (EV, device): Act.17:29; pl., thoughts, feel­ings: Mat.9:4
+  12:25, Heb.4:12.†
+
+  SYN.: ἔννοια, the action of the reason; while ἐνθ. is rather that of the affections
+  (cf. Westc., Heb., l.with)  (AS) {STEPBible-TBESG}'
+etymology: 'ἐνθῡμ-ησις, εως, ἡ,
+
+  consideration, esteem, [Refs 5th c.BC+]
+
+  __II consideration, reflection, [NT+5th c.BC+]
+
+  __II.2 idea, conception, εἰς ἐ. ἐσθήτων ἦλθον [Refs 4th c.BC+]
+
+  __III anxiety, worry, [Refs 5th c.BC+]
+
+  __IV resolution, [Refs 4th c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3049
-    proximity: 0.8157
+    lemma: λογίζομαι
+    gloss: to take an inventory {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: G2588
-    proximity: 0.8137
+    lemma: καρδία
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   - strongs: G1760a
-    proximity: 0.7953
+    proximity: 0.7953 {macula-proximity}
   - strongs: G1972
-    proximity: 0.7873
+    lemma: ἐπιπόθησις
+    gloss: a longing for {openscriptures-strongs}
+    proximity: 0.7873 {macula-proximity}
   - strongs: G1260
-    proximity: 0.7846
+    lemma: διαλογίζομαι
+    gloss: to reckon thoroughly {openscriptures-strongs}
+    proximity: 0.7846 {macula-proximity}
   - strongs: G4304
-    proximity: 0.7778
+    lemma: προμελετάω
+    gloss: to premeditate {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   - strongs: G1771
-    proximity: 0.7756
+    lemma: ἔννοια
+    gloss: thoughtfulness {openscriptures-strongs}
+    proximity: 0.7756 {macula-proximity}
   cross_language:
   - strongs: H2142
-    proximity: 0.8153
+    lemma: זָכַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
     language: hebrew
   - strongs: H2803
-    proximity: 0.7996
+    lemma: חָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
     language: hebrew
   - strongs: H4093
-    proximity: 0.7891
+    lemma: מַדָּע
+    gloss: intelligence or consciousness {openscriptures-strongs}
+    proximity: 0.7891 {macula-proximity}
     language: hebrew
   - strongs: H6250
-    proximity: 0.7847
+    lemma: עֶשְׁתֹּנָה
+    gloss: thinking {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
     language: hebrew
   - strongs: H2161
-    proximity: 0.7762
+    lemma: זָמַם
+    gloss: to plan {openscriptures-strongs}
+    proximity: 0.7762 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,32 +6,36 @@ pronunciation: sayte
 definition: a departure from right, i.e. sin
 kjv_usage: revolter, that turn aside.
 derivation: or סֵט; from H7750 (שׂוּט);
-extended_definition:
-  gloss: rebellion
-  definition: swerver, revolter, rebel, deeds that swerve
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: swerver, revolter, rebel, deeds that swerve {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4603
-    proximity: 0.8128
+    lemma: מָעַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
   - strongs: H4604
-    proximity: 0.809
+    lemma: מַעַל
+    gloss: treachery {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
   - strongs: H5753
-    proximity: 0.8024
+    lemma: עָוָה
+    gloss: to crook {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: H6588
-    proximity: 0.7915
+    lemma: פֶּשַׁע
+    gloss: a revolt (national {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
   - strongs: H5493
-    proximity: 0.7859
+    lemma: סוּר
+    gloss: to turn off {openscriptures-strongs}
+    proximity: 0.7859 {macula-proximity}
   cross_language:
   - strongs: G544
-    proximity: 0.7601
+    proximity: 0.7601 {macula-proximity}
     language: greek
   - strongs: G1881
-    proximity: 0.7156
+    lemma: ἐπανίσταμαι
+    gloss: to stand up on {openscriptures-strongs}
+    proximity: 0.7156 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

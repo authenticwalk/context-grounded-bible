@@ -6,51 +6,65 @@ pronunciation: naw-ar'
 definition: to reject
 kjv_usage: abhor, make void.
 derivation: a primitive root;
-extended_definition:
-  gloss: to disown
-  definition: (Piel) to abhor, spurn
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Piel) to abhor, spurn {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2603a
-    proximity: 0.8293
+    proximity: 0.8293 {macula-proximity}
   - strongs: H3973
-    proximity: 0.8231
+    lemma: מָאוֹס
+    gloss: refuse {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H2214
-    proximity: 0.8179
+    lemma: זָרָא
+    gloss: disgust {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
   - strongs: H8441
-    proximity: 0.8164
+    lemma: תּוֹעֵבַה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
   - strongs: H5800
-    proximity: 0.8086
+    lemma: עָזַב
+    gloss: to loosen {openscriptures-strongs}
+    proximity: 0.8086 {macula-proximity}
   - strongs: H8130
-    proximity: 0.8078
+    lemma: שָׂנֵא
+    gloss: to hate {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   - strongs: H2035
-    proximity: 0.7966
+    lemma: הֲרִיסוּת
+    gloss: demolition {openscriptures-strongs}
+    proximity: 0.7966 {macula-proximity}
   - strongs: H5006
-    proximity: 0.7842
+    lemma: נָאַץ
+    gloss: to scorn {openscriptures-strongs}
+    proximity: 0.7842 {macula-proximity}
   - strongs: H2114a
-    proximity: 0.7709
+    proximity: 0.7709 {macula-proximity}
   - strongs: H5361
-    proximity: 0.7494
+    lemma: נָקַע
+    gloss: to feel aversion {openscriptures-strongs}
+    proximity: 0.7494 {macula-proximity}
   cross_language:
   - strongs: G4360
-    proximity: 0.8292
+    lemma: προσοχθίζω
+    gloss: to feel indignant at {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
     language: greek
   - strongs: G114
-    proximity: 0.8139
+    proximity: 0.8139 {macula-proximity}
     language: greek
   - strongs: G3404
-    proximity: 0.8135
+    lemma: μισέω
+    gloss: to detest {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
     language: greek
   - strongs: G115
-    proximity: 0.801
+    proximity: 0.801 {macula-proximity}
     language: greek
   - strongs: G1609
-    proximity: 0.7725
+    lemma: ἐκπτύω
+    gloss: to spit out {openscriptures-strongs}
+    proximity: 0.7725 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

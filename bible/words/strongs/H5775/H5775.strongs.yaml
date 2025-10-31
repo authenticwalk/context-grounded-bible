@@ -7,24 +7,27 @@ definition: a bird (as covered with feathers, or rather as covering with wings),
   collectively
 kjv_usage: bird, that flieth, flying, fowl.
 derivation: from H5774 (עוּף);
-extended_definition:
-  gloss: bird
-  definition: '1) flying creatures, fowl, insects, birds<br>1a) fowl, birds<br>1b)
-    winged insects<BR>Aramaic equivalent: <i>oph</i> (עוֹף "bird" H5776)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) flying creatures, fowl, insects, birds
+
+  1a) fowl, birds
+
+  1b) winged insects
+
+  Aramaic equivalent: oph (עוֹף "bird" H5776) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3917
-    proximity: 0.8186
+    lemma: לִילִית
+    gloss: a night spectre {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: H2416c
-    proximity: 0.7798
+    proximity: 0.7798 {macula-proximity}
   - strongs: H1772
-    proximity: 0.7664
+    lemma: דַּיָּה
+    gloss: a falcon {openscriptures-strongs}
+    proximity: 0.7664 {macula-proximity}
   - strongs: H1167
-    proximity: 0.7077
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: בַּעַל
+    gloss: a master {openscriptures-strongs}
+    proximity: 0.7077 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

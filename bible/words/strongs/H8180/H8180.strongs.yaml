@@ -6,36 +6,44 @@ pronunciation: shah'-ar
 definition: a measure (as a section)
 kjv_usage: (hundred-) fold.
 derivation: from H8176 (שָׁעַר);
-extended_definition:
-  gloss: hundredfold
-  definition: 1) a unit of measure<br>1a) 100 measures = 100 for 1 = 100 fold
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) a unit of measure
+
+  1a) 100 measures = 100 for 1 = 100 fold {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6256
-    proximity: 0.8097
+    lemma: עֵת
+    gloss: time {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: A2166
-    proximity: 0.8036
+    proximity: 0.8036 {macula-proximity}
   - strongs: H7659
-    proximity: 0.7596
+    lemma: שִׁבְעָתַיִם
+    gloss: seven-times {openscriptures-strongs}
+    proximity: 0.7596 {macula-proximity}
   - strongs: H3967
-    proximity: 0.745
+    lemma: מֵאָה
+    gloss: a hundred {openscriptures-strongs}
+    proximity: 0.745 {macula-proximity}
   cross_language:
   - strongs: G5550
-    proximity: 0.8272
+    lemma: χρόνος
+    gloss: a space of time (in general {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G2540
-    proximity: 0.8182
+    lemma: καιρός
+    gloss: an occasion {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: greek
   - strongs: G1540
-    proximity: 0.7696
+    lemma: ἑκατόν
+    gloss: a hundred {openscriptures-strongs}
+    proximity: 0.7696 {macula-proximity}
     language: greek
   - strongs: G5073
-    proximity: 0.7033
+    lemma: τετραπλόος
+    gloss: quadruple {openscriptures-strongs}
+    proximity: 0.7033 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

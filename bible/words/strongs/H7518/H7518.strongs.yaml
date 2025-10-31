@@ -6,44 +6,56 @@ pronunciation: rats
 definition: a fragment
 kjv_usage: piece.
 derivation: contracted from H7533 (רָצַץ);
-extended_definition:
-  gloss: piece
-  definition: 1) piece, bar<br>1a) meaning uncertain
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) piece, bar
+
+  1a) meaning uncertain {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1280
-    proximity: 0.8182
+    lemma: בְּרִיחַ
+    gloss: a bolt {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
   - strongs: H7447a
-    proximity: 0.8106
+    proximity: 0.8106 {macula-proximity}
   - strongs: H7168
-    proximity: 0.7976
+    lemma: קֶרַע
+    gloss: a rag {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: H8158
-    proximity: 0.7698
+    lemma: שָׁסַף
+    gloss: to cut in pieces {openscriptures-strongs}
+    proximity: 0.7698 {macula-proximity}
   - strongs: H915
-    proximity: 0.75
+    proximity: 0.75 {macula-proximity}
   - strongs: H1506
-    proximity: 0.729
+    lemma: גֶּזֶר
+    gloss: something cut off {openscriptures-strongs}
+    proximity: 0.729 {macula-proximity}
   - strongs: H4386
-    proximity: 0.7118
+    lemma: מְכִתָּה
+    gloss: a fracture {openscriptures-strongs}
+    proximity: 0.7118 {macula-proximity}
   - strongs: H7192
-    proximity: 0.7114
+    lemma: קְשִׂיטָה
+    gloss: an ingot {openscriptures-strongs}
+    proximity: 0.7114 {macula-proximity}
   cross_language:
   - strongs: G5596
-    proximity: 0.7953
+    lemma: ψωμίον
+    gloss: a crumb or morsel {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
     language: greek
   - strongs: G694
-    proximity: 0.7844
+    proximity: 0.7844 {macula-proximity}
     language: greek
   - strongs: G2801
-    proximity: 0.7698
+    lemma: κλάσμα
+    gloss: a piece {openscriptures-strongs}
+    proximity: 0.7698 {macula-proximity}
     language: greek
   - strongs: G1915
-    proximity: 0.7516
+    lemma: ἐπίβλημα
+    gloss: a patch {openscriptures-strongs}
+    proximity: 0.7516 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

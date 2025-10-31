@@ -6,29 +6,31 @@ pronunciation: peth-ee-khaw'
 definition: something opened, i.e. a drawn sword
 kjv_usage: drawn sword.
 derivation: from H6605 (פָּתַח);
-extended_definition:
-  gloss: drawn sword
-  definition: drawn sword, sword
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: drawn sword, sword {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6864
-    proximity: 0.8295
+    lemma: צֹר
+    gloss: a stone {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H4593a
-    proximity: 0.8103
+    proximity: 0.8103 {macula-proximity}
   - strongs: H2299
-    proximity: 0.806
+    lemma: חַד
+    gloss: sharp {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
   - strongs: H4094
-    proximity: 0.7858
+    lemma: מַדְקָרָה
+    gloss: a wound {openscriptures-strongs}
+    proximity: 0.7858 {macula-proximity}
   - strongs: H8025
-    proximity: 0.7716
+    lemma: שָׁלַף
+    gloss: to pull out {openscriptures-strongs}
+    proximity: 0.7716 {macula-proximity}
   cross_language:
   - strongs: G3691
-    proximity: 0.823
+    lemma: ὀξύς
+    gloss: keen {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

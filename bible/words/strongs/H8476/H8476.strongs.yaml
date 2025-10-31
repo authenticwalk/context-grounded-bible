@@ -6,30 +6,32 @@ pronunciation: takh'-ash
 definition: a (clean) animal with fur, probably a species of antelope
 kjv_usage: badger.
 derivation: probably of foreign derivation;
-extended_definition:
-  gloss: leather
-  definition: 1) a kind of leather, skin, or animal hide<br>1a) perhaps the animal
-    yielding the skin<br>1a1) perhaps the badger or dugong, dolphin, or sheep, or
-    a now extinct animal
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) a kind of leather, skin, or animal hide
+
+  1a) perhaps the animal yielding the skin
+
+  1a1) perhaps the badger or dugong, dolphin, or sheep, or a now extinct animal {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2573
-    proximity: 0.8265
+    lemma: חֵמֶת
+    gloss: a skin bottle {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H2085
-    proximity: 0.7931
+    lemma: זָג
+    gloss: the skin of a grape {openscriptures-strongs}
+    proximity: 0.7931 {macula-proximity}
   - strongs: H1539
-    proximity: 0.7888
+    lemma: גֶּלֶד
+    gloss: the  skin {openscriptures-strongs}
+    proximity: 0.7888 {macula-proximity}
   cross_language:
   - strongs: G1193
-    proximity: 0.8132
+    lemma: δερμάτινος
+    gloss: made of hide {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
     language: greek
   - strongs: G779
-    proximity: 0.8076
+    proximity: 0.8076 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,48 +7,71 @@ definition: to drive (an animal, a workman, a debtor, an army); by implication, 
   tax, harass, tyrannize
 kjv_usage: distress, driver, exact(-or), oppress(-or), [idiom] raiser of taxes, taskmaster.
 derivation: a primitive root;
-extended_definition:
-  gloss: to oppress
-  definition: 1) to press, drive, oppress, exact, exert demanding pressure<br>1a)
-    (Qal)<br>1a1) to press, drive<br>1a2) to exact<br>1a3) driver, taskmaster, ruler,
-    oppressor, tyrant, lord, exactor of tribute (participle)<br>1b) (Niphal) to be
-    hard pressed
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to press, drive, oppress, exact, exert demanding pressure
+
+  1a) (Qal)
+
+  1a1) to press, drive
+
+  1a2) to exact
+
+  1a3) driver, taskmaster, ruler, oppressor, tyrant, lord, exactor of tribute (participle)
+
+  1b) (Niphal) to be hard pressed {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1318
-    proximity: 0.8155
+    lemma: בָּשַׁס
+    gloss: to trample down {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H6125
-    proximity: 0.8122
+    lemma: עָקָה
+    gloss: constraint {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
   - strongs: H6234
-    proximity: 0.7958
+    lemma: עׇשְׁקָה
+    gloss: anguish {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
   - strongs: H3721
-    proximity: 0.7856
+    lemma: כָּפַף
+    gloss: to curve {openscriptures-strongs}
+    proximity: 0.7856 {macula-proximity}
   - strongs: H6115
-    proximity: 0.7838
+    lemma: עֹצֶר
+    gloss: closure {openscriptures-strongs}
+    proximity: 0.7838 {macula-proximity}
   - strongs: H3906
-    proximity: 0.7765
+    lemma: לַחַץ
+    gloss: distress {openscriptures-strongs}
+    proximity: 0.7765 {macula-proximity}
   - strongs: H4689
-    proximity: 0.7754
+    lemma: מָצוֹק
+    gloss: a narrow place {openscriptures-strongs}
+    proximity: 0.7754 {macula-proximity}
   - strongs: H4642
-    proximity: 0.7434
+    lemma: מַעֲשַׁקָּה
+    gloss: oppression {openscriptures-strongs}
+    proximity: 0.7434 {macula-proximity}
   - strongs: H7533
-    proximity: 0.7407
+    lemma: רָצַץ
+    gloss: to crack in pieces {openscriptures-strongs}
+    proximity: 0.7407 {macula-proximity}
   - strongs: H4160a
-    proximity: 0.7343
+    proximity: 0.7343 {macula-proximity}
   cross_language:
   - strongs: G2352
-    proximity: 0.8079
+    lemma: θραύω
+    gloss: to crush {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
     language: greek
   - strongs: G2616
-    proximity: 0.7428
+    lemma: καταδυναστεύω
+    gloss: to exercise dominion against {openscriptures-strongs}
+    proximity: 0.7428 {macula-proximity}
     language: greek
   - strongs: G2669
-    proximity: 0.7021
+    lemma: καταπονέω
+    gloss: to labor down {openscriptures-strongs}
+    proximity: 0.7021 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

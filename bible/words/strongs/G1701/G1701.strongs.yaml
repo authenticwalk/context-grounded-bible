@@ -5,38 +5,42 @@ transliteration: empaigmós
 definition: derision
 kjv_usage: mocking
 derivation: from G1702 (ἐμπαίζω);
-extended_definition:
-  gloss: jeering
-  definition: '<b>ἐμ-παιγμός</b>, -οῦ, ὁ<BR /> (ἐμπαίζω, which see), [in LXX: <ref=''Ezk.22.4''>Eze.22:4</ref>
-    (קַלָּסָה), <ref=''Psa.38.7''>Ps  38:7</ref> B א1 קָלָה ni.), <ref=''Wis.12.2''>Wis.12:2</ref>,
-    <ref=''Sir.27.28''>Sir.27:28</ref>, <ref=''2Ma.7.7''>2Ma.7:7</ref>, <ref=''3Ma.5.22''>3Ma.5:22</ref>
-    * ;] <BR /><b>a mocking</b>: <ref=''Heb.11.36.''>Heb.11:36.</ref>†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ἐμπαιγ-μός</b>, ὁ, <br /> <b>mockery, mocking</b>, [<a href="javascript:void(0)"
-    title=" LXX.Sir.27.28, +others, NT.Heb.11.36 (_plural_). ">LXX+NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ἐμ-παιγμός, -οῦ, ὁ
+
+  (ἐμπαίζω, which see), [in LXX: Eze.22:4 (קַלָּסָה), Ps  38:7 B א1 קָלָה ni.), Wis.12:2,
+  Sir.27:28, 2Ma.7:7, 3Ma.5:22 * ;]
+
+  a mocking: Heb.11:36.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐμπαιγ-μός, ὁ,
+
+  mockery, mocking, [LXX+NT] {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H2781
-    proximity: 0.8181
+    lemma: חֶרְפָּה
+    gloss: contumely {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
     language: hebrew
   - strongs: H7832
-    proximity: 0.8037
+    lemma: שָׂחַק
+    gloss: to laugh {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
     language: hebrew
   - strongs: H2049
-    proximity: 0.7947
+    lemma: הָתֹל
+    gloss: a derision {openscriptures-strongs}
+    proximity: 0.7947 {macula-proximity}
     language: hebrew
   - strongs: H2048
-    proximity: 0.7917
+    lemma: הָתַל
+    gloss: to deride {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: hebrew
   - strongs: H3932
-    proximity: 0.7814
+    lemma: לָעַג
+    gloss: to deride {openscriptures-strongs}
+    proximity: 0.7814 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

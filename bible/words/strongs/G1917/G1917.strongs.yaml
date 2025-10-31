@@ -5,62 +5,72 @@ transliteration: epiboulḗ
 definition: a plan against someone, i.e. a plot
 kjv_usage: laying (lying) in wait
 derivation: from a presumed compound of G1909 (ἐπί) and G1014 (βούλομαι);
-extended_definition:
-  gloss: plot
-  definition: '<b>ἐπι-βουλή</b>, -ῆς, ἡ <BR /> [in LXX: <ref=''Est.2.22''>Est.2:22</ref>,
-    I <ref=''Est.5.73''>Est.5:73</ref>, <ref=''2Ma.5.7''>2Ma.5:7</ref>, al. ;] <BR
-    /><b>a plan against, a plot</b>: <ref=''Act.9.24; 20.3, 19; 23.30''>Act.9:24 20:3,
-    19 23:30</ref>.†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐπιβουλ-ή</b>, ἡ, <br /> <b>plan formed against</b> another,
-    <b>plot, scheme</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus
-    Historicus 1.12, 5th c.BC: Thucydides Historicus 4.77, 86, 5th-6th c.BC: Isocrates
-    Orator 4.148, etc.; ἐπιβουλὴν ἐπιβουλεύειν 5th c.BC: Lysias Orator 13.18 ">Refs
-    5th c.BC+</a>]; πρός τινα against one, [<a href="javascript:void(0)" title=" 5th-6th
-    c.BC: Xenophon Historicus “An.” 1.1.8; ἐξ ἐπιβουλῆς">Refs 5th c.BC+</a>] by <b>treachery,
-    treacherously</b>, ἐξ ἐ. ἀποθανεῖν, ἐξ ἐ. φονεὺς εἶναι, [<a href="javascript:void(0)"
-    title=" 5th c.BC: Antipho Orator 2.1.5, 1.3, compare 5th c.BC: Thucydides Historicus
-    8.92, 5th-6th c.BC: Xenophon Historicus “An.” 6.4.7, etc.; μετὰ ἐπιβουλῆς">Refs
-    5th c.BC+</a>] <b>designedly</b>, [<a href="javascript:void(0)" title=" 5th-6th
-    c.BC: Plato Philosophus “Lg.” 867a, +others ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐπι-βουλή, -ῆς, ἡ
+
+  [in LXX: Est.2:22, I Est.5:73, 2Ma.5:7, al. ;]
+
+  a plan against, a plot: Act.9:24 20:3, 19 23:30.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐπιβουλ-ή, ἡ,
+
+  plan formed against another, plot, scheme, [Refs 5th c.BC+]; πρός τινα against one,
+  [Refs 5th c.BC+] by treachery, treacherously, ἐξ ἐ. ἀποθανεῖν, ἐξ ἐ. φονεὺς εἶναι,
+  [Refs 5th c.BC+] designedly, [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1748
-    proximity: 0.816
+    lemma: ἐνεδρεύω
+    gloss: to lurk {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
   - strongs: G3053
-    proximity: 0.7885
+    lemma: λογισμός
+    gloss: computation {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
   - strongs: G4963
-    proximity: 0.7815
+    lemma: συστροφή
+    gloss: a twisting together {openscriptures-strongs}
+    proximity: 0.7815 {macula-proximity}
   - strongs: G1011
-    proximity: 0.7765
+    lemma: βουλεύω
+    gloss: to advise {openscriptures-strongs}
+    proximity: 0.7765 {macula-proximity}
   - strongs: G4823
-    proximity: 0.77
+    lemma: συμβουλεύω
+    gloss: to give  advice jointly {openscriptures-strongs}
+    proximity: 0.77 {macula-proximity}
   - strongs: G2686
-    proximity: 0.7624
+    lemma: κατασοφίζομαι
+    gloss: to be crafty against {openscriptures-strongs}
+    proximity: 0.7624 {macula-proximity}
   - strongs: G1747
-    proximity: 0.7333
+    lemma: ἐνέδρα
+    gloss: an ambuscade {openscriptures-strongs}
+    proximity: 0.7333 {macula-proximity}
   cross_language:
   - strongs: H1697
-    proximity: 0.8178
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
     language: hebrew
   - strongs: H6170
-    proximity: 0.8033
+    lemma: עֲרוּגָה
+    gloss: something piled up  raised by mental aspiration) {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
     language: hebrew
   - strongs: H3289
-    proximity: 0.7981
+    lemma: יָעַץ
+    gloss: to advise {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
     language: hebrew
   - strongs: H1819
-    proximity: 0.7812
+    lemma: דָּמָה
+    gloss: to compare {openscriptures-strongs}
+    proximity: 0.7812 {macula-proximity}
     language: hebrew
   - strongs: H2790
-    proximity: 0.7793
+    lemma: חָרַשׁ
+    gloss: to scratch {openscriptures-strongs}
+    proximity: 0.7793 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

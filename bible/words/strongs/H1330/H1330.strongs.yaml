@@ -7,47 +7,59 @@ definition: a virgin (from her privacy); sometimes (by continuation) a bride; al
   (figuratively) a city or state
 kjv_usage: maid, virgin.
 derivation: feminine passive participle of an unused root meaning to separate;
-extended_definition:
-  gloss: virgin
-  definition: virgin
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: virgin {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A1123
-    proximity: 0.8274
+    proximity: 0.8274 {macula-proximity}
   - strongs: H979
-    proximity: 0.8257
+    proximity: 0.8257 {macula-proximity}
   - strongs: H5961
-    proximity: 0.8185
+    lemma: עֲלָמוֹת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: H5759
-    proximity: 0.8072
+    lemma: עֲוִיל
+    gloss: a babe {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
   - strongs: H3427
-    proximity: 0.8068
+    lemma: יָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
   - strongs: H4904
-    proximity: 0.802
+    lemma: מִשְׁכָּב
+    gloss: a bed (figuratively {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
   - strongs: H6996
-    proximity: 0.7983
+    lemma: קָטָן
+    gloss: abbreviated {openscriptures-strongs}
+    proximity: 0.7983 {macula-proximity}
   - strongs: H6996a
-    proximity: 0.7946
+    proximity: 0.7946 {macula-proximity}
   cross_language:
   - strongs: G1134
-    proximity: 0.8254
+    lemma: γυναικεῖος
+    gloss: feminine {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: greek
   - strongs: G5043
-    proximity: 0.8212
+    lemma: τέκνον
+    gloss: a child {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
     language: greek
   - strongs: G5207
-    proximity: 0.8123
+    lemma: υἱός
+    gloss: a "son" {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
     language: greek
   - strongs: G3494
-    proximity: 0.8087
+    lemma: νεανίας
+    gloss: a youth {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
     language: greek
   - strongs: G2877
-    proximity: 0.8077
+    lemma: κοράσιον
+    gloss: a  girl {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

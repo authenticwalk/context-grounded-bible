@@ -9,42 +9,65 @@ derivation: from H8175 (שָׂעַר);
 related_words:
   synonyms:
   - strongs: H8074
-    proximity: 0.8298
+    lemma: שָׁמֵם
+    gloss: to stun (or intransitively {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: H2730
-    proximity: 0.8276
+    lemma: חָרֵד
+    gloss: fearful {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: H366
-    proximity: 0.8254
+    proximity: 0.8254 {macula-proximity}
   - strongs: H1161
-    proximity: 0.8221
+    lemma: בִּעוּתִים
+    gloss: alarms {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H7264
-    proximity: 0.8192
+    lemma: רָגַז
+    gloss: to quiver (with any violent emotion {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: H8606
-    proximity: 0.8155
+    lemma: תִּפְלֶצֶת
+    gloss: fearfulness {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H3998
-    proximity: 0.8107
+    lemma: מְבוּכָה
+    gloss: perplexity {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
   - strongs: H7297a
-    proximity: 0.8071
+    proximity: 0.8071 {macula-proximity}
   - strongs: H3373
-    proximity: 0.8033
+    lemma: יָרֵא
+    gloss: fearing {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
   - strongs: H3016
-    proximity: 0.7997
+    lemma: יָגוֹר
+    gloss: fearful {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
   cross_language:
   - strongs: G1630
-    proximity: 0.8116
+    lemma: ἔκφοβος
+    gloss: frightened out of one's wits {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
     language: greek
   - strongs: G4423
-    proximity: 0.8089
+    lemma: πτόησις
+    gloss: alarm {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
     language: greek
   - strongs: G2285
-    proximity: 0.8044
+    lemma: θάμβος
+    gloss: stupefaction {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
     language: greek
   - strongs: G5400
-    proximity: 0.8003
+    lemma: φόβητρον
+    gloss: a frightening thing {openscriptures-strongs}
+    proximity: 0.8003 {macula-proximity}
     language: greek
   - strongs: G1790
-    proximity: 0.793
+    lemma: ἔντρομος
+    gloss: terrified {openscriptures-strongs}
+    proximity: 0.793 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

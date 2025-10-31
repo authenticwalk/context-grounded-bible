@@ -8,39 +8,53 @@ definition: to become tipsy; in a qualified sense, to satiate with astimulating 
 kjv_usage: (be filled with) drink (abundantly), (be, make) drunk(-en), be merry. (Superlative
   of H8248 (שָׁקָה).)
 derivation: a primitive root;
-extended_definition:
-  gloss: be drunk
-  definition: 1) to be or become drunk or drunken, be intoxicated<br>1a) (Qal) to
-    become drunken<br>1b)(Piel) to make drunken, cause to be drunk<br>1c) (Hiphil)
-    to cause to be drunk<br>1d) (Hithpael) to make oneself drunk
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be or become drunk or drunken, be intoxicated
+
+  1a) (Qal) to become drunken
+
+  1b)(Piel) to make drunken, cause to be drunk
+
+  1c) (Hiphil) to cause to be drunk
+
+  1d) (Hithpael) to make oneself drunk {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7301
-    proximity: 0.8205
+    lemma: רָוָה
+    gloss: to slake the thirst {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: H8354
-    proximity: 0.778
+    lemma: שָׁתָה
+    gloss: to imbibe {openscriptures-strongs}
+    proximity: 0.778 {macula-proximity}
   - strongs: H8248
-    proximity: 0.7623
+    lemma: שָׁקָה
+    gloss: to quaff {openscriptures-strongs}
+    proximity: 0.7623 {macula-proximity}
   - strongs: H7478
-    proximity: 0.7524
+    lemma: רַעַל
+    gloss: a reeling {openscriptures-strongs}
+    proximity: 0.7524 {macula-proximity}
   - strongs: H8358
-    proximity: 0.7377
+    lemma: שְׁתִי
+    gloss: intoxicaion {openscriptures-strongs}
+    proximity: 0.7377 {macula-proximity}
   - strongs: A8355
-    proximity: 0.7052
+    proximity: 0.7052 {macula-proximity}
   cross_language:
   - strongs: G3631
-    proximity: 0.8273
+    lemma: οἶνος
+    gloss: '"wine" {openscriptures-strongs}'
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G3632
-    proximity: 0.7548
+    lemma: οἰνοφλυγία
+    gloss: an overflow  of wine {openscriptures-strongs}
+    proximity: 0.7548 {macula-proximity}
     language: greek
   - strongs: G3325
-    proximity: 0.7343
+    lemma: μεστόω
+    gloss: to replenish {openscriptures-strongs}
+    proximity: 0.7343 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

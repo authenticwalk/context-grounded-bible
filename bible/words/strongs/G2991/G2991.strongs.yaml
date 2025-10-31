@@ -6,52 +6,60 @@ definition: rock-quarried
 kjv_usage: hewn in stone
 derivation: from a compound of (a stone) and the base of G3584 (ξηρός) (in its original
   sense of scraping);
-extended_definition:
-  gloss: engraved
-  definition: '<b>λαξευτός</b>, -ή, όν<BR /> (λαξεύω; λᾶς, a stone, ξέω, to scrape),
-    [in LXX: <ref=''Deu.4.49''>Deu.4:49</ref> (פִּסְגָּה); in Aq.: <ref=''Num.21.20''>Num.21:20;</ref>
-    <i>Th.</i>: <ref=''Jdg.7.11''>Jdg.7:11</ref> * ;] <BR /><b>hewn </b>(in stone);
-    <ref=''Luk.23.53''>Luk.23:53</ref> (elsewhere κοινή writers use λατομητός, <ref=''2Ki.12.12''>4Ki.12:12</ref>,
-    al.; cf. λατομέω).†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> λαξ-ευτός</b>, ή, όν, <br /> <b>hewn out of the rock</b>, [<a
-    href="javascript:void(0)" title=" LXX.Deu.4.49, NT.Luke.23.53. ">LXX+NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'λαξευτός, -ή, όν
+
+  (λαξεύω; λᾶς, a stone, ξέω, to scrape), [in LXX: Deu.4:49 (פִּסְגָּה); in Aq.: Num.21:20;
+  Th.: Jdg.7:11 * ;]
+
+  hewn (in stone); Luk.23:53 (elsewhere κοινή writers use λατομητός, 4Ki.12:12, al.;
+  cf. λατομέω).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'λαξ-ευτός, ή, όν,
+
+  hewn out of the rock, [LXX+NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4075
-    proximity: 0.8238
+    lemma: πετρώδης
+    gloss: rock-like {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: G3037
-    proximity: 0.8178
+    lemma: λίθος
+    gloss: a stone {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   - strongs: G5138
-    proximity: 0.817
+    lemma: τραχύς
+    gloss: uneven {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: G3588
-    proximity: 0.7994
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7994 {macula-proximity}
   - strongs: A1b
-    proximity: 0.793
+    proximity: 0.793 {macula-proximity}
   - strongs: A69
-    proximity: 0.7436
+    proximity: 0.7436 {macula-proximity}
   cross_language:
   - strongs: H2672b
-    proximity: 0.8179
+    proximity: 0.8179 {macula-proximity}
     language: hebrew
   - strongs: H5408
-    proximity: 0.8141
+    lemma: נָתַח
+    gloss: to dismember {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
     language: hebrew
   - strongs: H6697a
-    proximity: 0.8085
+    proximity: 0.8085 {macula-proximity}
     language: hebrew
   - strongs: H6458
-    proximity: 0.7817
+    lemma: פָּסַל
+    gloss: to carve {openscriptures-strongs}
+    proximity: 0.7817 {macula-proximity}
     language: hebrew
   - strongs: H2672
-    proximity: 0.78
+    lemma: חָצַב
+    gloss: to cut or carve (wood {openscriptures-strongs}
+    proximity: 0.78 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

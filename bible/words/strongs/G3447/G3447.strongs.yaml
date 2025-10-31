@@ -5,34 +5,35 @@ transliteration: moschopoiéō
 definition: to fabricate the image of a bullock
 kjv_usage: make a calf
 derivation: from G3448 (μόσχος) and G4160 (ποιέω);
-extended_definition:
-  gloss: to make a calf
-  definition: '<b>μοσχο-ποιέω</b>, -ῶ <BR /> to make a calf (as an image) : <ref=''Act.7.41''>Act.7:41</ref>
-    (LXX, ἐποίησε μόσχον).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> μοσχο-ποιέω</b>, <br /> <b>make a calf,</b> [<a href="javascript:void(0)"
-    title=" NT.Acts.7.41. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'μοσχο-ποιέω, -ῶ
+
+  to make a calf (as an image) : Act.7:41 (LXX, ἐποίησε μόσχον).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'μοσχο-ποιέω,
+
+  make a calf, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1517
-    proximity: 0.8222
+    lemma: εἰρηνοποιέω
+    gloss: to be a peace-maker {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: A7739
-    proximity: 0.8106
+    proximity: 0.8106 {macula-proximity}
   - strongs: G5499
-    proximity: 0.8087
+    lemma: χειροποίητος
+    gloss: manufactured {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
   cross_language:
   - strongs: H7794
-    proximity: 0.8106
+    lemma: שׁוֹר
+    gloss: a bullock {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: hebrew
   - strongs: H5697
-    proximity: 0.7399
+    lemma: עֶגְלָה
+    gloss: a  calf {openscriptures-strongs}
+    proximity: 0.7399 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

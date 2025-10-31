@@ -7,44 +7,68 @@ definition: to melt, i.e. literally (to soften, flow down, disappear), or figura
   (to fear, faint)
 kjv_usage: consume, dissolve, (be) faint(-hearted), melt (away), make soft.
 derivation: a primitive root;
-extended_definition:
-  gloss: to melt
-  definition: 1) to melt, cause to melt<br>1a) (Qal)<br>1a1) to melt, faint<br>1a2)
-    to cause to melt<br>1b) (Niphal) to melt away<br>1c) (Polel) to soften, dissolve,
-    dissipate<br>1d) (Hithpolel) to melt, flow
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to melt, cause to melt
+
+  1a) (Qal)
+
+  1a1) to melt, faint
+
+  1a2) to cause to melt
+
+  1b) (Niphal) to melt away
+
+  1c) (Polel) to soften, dissolve, dissipate
+
+  1d) (Hithpolel) to melt, flow {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7374
-    proximity: 0.8293
+    lemma: רֶטֶט
+    gloss: terror {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: H1811
-    proximity: 0.8105
+    lemma: דָּלַף
+    gloss: to drip {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
   - strongs: H4131
-    proximity: 0.808
+    lemma: מוֹט
+    gloss: to waver {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
   - strongs: H1481b
-    proximity: 0.8034
+    proximity: 0.8034 {macula-proximity}
   - strongs: H2865
-    proximity: 0.8032
+    lemma: חָתַת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
   - strongs: H3025
-    proximity: 0.7991
+    lemma: יָגֹר
+    gloss: to fear {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: H2731
-    proximity: 0.7981
+    lemma: חֲרָדָה
+    gloss: fear {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
   - strongs: H4034
-    proximity: 0.7932
+    lemma: מְגוֹרַה
+    gloss: affright {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
   - strongs: H2729
-    proximity: 0.7908
+    lemma: חָרַד
+    gloss: to shudder with terror {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
   - strongs: H6342
-    proximity: 0.7868
+    lemma: פָּחַד
+    gloss: to be startled {openscriptures-strongs}
+    proximity: 0.7868 {macula-proximity}
   cross_language:
   - strongs: G5399
-    proximity: 0.8133
+    lemma: φοβέω
+    gloss: to frighten {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
     language: greek
   - strongs: G5401
-    proximity: 0.7967
+    lemma: φόβος
+    gloss: alarm or fright {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

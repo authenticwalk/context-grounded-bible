@@ -7,48 +7,66 @@ definition: a live coal; by analogy lightning; figuratively, an arrow, (as flash
   through the air); specifically, fever
 kjv_usage: arrow, (burning) coal, burning heat, [phrase] spark, hot thunderbolt.
 derivation: from H8313 (שָׂרַף);
-extended_definition:
-  gloss: flash
-  definition: 1) flame, firebolt, spark<br>1a) flame<br>1b) fire-bolt
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) flame, firebolt, spark
+
+  1a) flame
+
+  1b) fire-bolt {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3857
-    proximity: 0.8257
+    lemma: לָהַט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H2759
-    proximity: 0.8096
+    lemma: חֲרִישִׁי
+    gloss: quiet {openscriptures-strongs}
+    proximity: 0.8096 {macula-proximity}
   - strongs: H7335
-    proximity: 0.8079
+    lemma: רָזַם
+    gloss: to twinkle the eye {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
   - strongs: H2385
-    proximity: 0.7972
+    lemma: חֲזִיז
+    gloss: a flash of lightning {openscriptures-strongs}
+    proximity: 0.7972 {macula-proximity}
   - strongs: H3350
-    proximity: 0.7912
+    lemma: יְקוֹד
+    gloss: a burning {openscriptures-strongs}
+    proximity: 0.7912 {macula-proximity}
   - strongs: H3940
-    proximity: 0.7827
+    lemma: לַפִּיד
+    gloss: a flambeau {openscriptures-strongs}
+    proximity: 0.7827 {macula-proximity}
   - strongs: H6920
-    proximity: 0.7797
+    lemma: קַדַּחַת
+    gloss: inflammation {openscriptures-strongs}
+    proximity: 0.7797 {macula-proximity}
   - strongs: A1815
-    proximity: 0.7744
+    proximity: 0.7744 {macula-proximity}
   - strongs: A5135
-    proximity: 0.764
+    proximity: 0.764 {macula-proximity}
   - strongs: A3345
-    proximity: 0.7557
+    proximity: 0.7557 {macula-proximity}
   cross_language:
   - strongs: G2204
-    proximity: 0.8281
+    lemma: ζέω
+    gloss: to be hot (boil {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G4446
-    proximity: 0.8085
+    lemma: πυρετός
+    gloss: inflamed {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
     language: greek
   - strongs: G2738
-    proximity: 0.7928
+    lemma: καῦμα
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7928 {macula-proximity}
     language: greek
   - strongs: G4442
-    proximity: 0.7512
+    lemma: πῦρ
+    gloss: '"fire" (literally or figuratively {openscriptures-strongs}'
+    proximity: 0.7512 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

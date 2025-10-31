@@ -8,48 +8,57 @@ definition: the right (natural, moral or legal); also (abstractly) equity or (fi
 kjv_usage: '[idiom] even, ([idiom] that which is altogether) just(-ice), (un-)right(-eous)
   (cause, -ly, -ness).'
 derivation: from H6663 (צָדַק);
-extended_definition:
-  gloss: Righteousness
-  definition: This name means  justice, righteousness<BR>Another name of <i>ye.ho.vah</i>
-    (יהוה "LORD" H3068G)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'This name means  justice, righteousness
+
+  Another name of ye.ho.vah (יהוה "LORD" H3068G) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A7187
-    proximity: 0.8097
+    proximity: 0.8097 {macula-proximity}
   - strongs: H544
-    proximity: 0.8077
+    proximity: 0.8077 {macula-proximity}
   - strongs: H3476
-    proximity: 0.7951
+    lemma: יֹשֶׁר
+    gloss: the right {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
   - strongs: H5765
-    proximity: 0.7871
+    lemma: עֲוַל
+    gloss: to distort {openscriptures-strongs}
+    proximity: 0.7871 {macula-proximity}
   - strongs: H5228
-    proximity: 0.7831
+    lemma: נָכֹחַ
+    gloss: straightforward {openscriptures-strongs}
+    proximity: 0.7831 {macula-proximity}
   - strongs: H4334
-    proximity: 0.7753
+    lemma: מִישׁוֹר
+    gloss: a level {openscriptures-strongs}
+    proximity: 0.7753 {macula-proximity}
   - strongs: H3651a
-    proximity: 0.766
+    proximity: 0.766 {macula-proximity}
   - strongs: H5766a
-    proximity: 0.728
+    proximity: 0.728 {macula-proximity}
   cross_language:
   - strongs: G92
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
     language: greek
   - strongs: G2140
-    proximity: 0.8217
+    lemma: εὐποιΐα
+    gloss: well-doing {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
     language: greek
   - strongs: G2471
-    proximity: 0.8177
+    lemma: ἰσότης
+    gloss: likeness {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
     language: greek
   - strongs: G4160
-    proximity: 0.8138
+    lemma: ποιέω
+    gloss: to make or do (in a very wide application {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
     language: greek
   - strongs: G1344
-    proximity: 0.8007
+    lemma: δικαιόω
+    gloss: to render  just or innocent {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

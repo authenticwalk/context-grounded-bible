@@ -5,64 +5,78 @@ transliteration: synékdēmos
 definition: a co-absentee from home, i.e. fellow-traveller
 kjv_usage: companion in travel, travel with
 derivation: from G4862 (σύν) and the base of G1553 (ἐκδημέω);
-extended_definition:
-  gloss: companion
-  definition: '<b>συν-έκδημος</b>, -ου, ὁ<BR /> (ἔκδημος, abroad), <BR /><b>a fellow-traveller</b>:
-    <ref=''Act.19.29''>Act.19:29</ref>, <ref=''2Co.8.1''>2Co.8:1</ref>.†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συνέκδημ-ος</b>, ὁ, <br /> <b>fellow-traveller,</b> [<a href="javascript:void(0)"
-    title=" NT.Acts.19.29, 1st c.AD: Josephus Historicus “Vita” 14, 1st-2nd c.AD:
-    Plutarchus Biographus et Philosophus “Otho” 5, 4th c.AD: Palaephatus Paradoxographus
-    45 ">NT+1st c.AD+</a>]; = Latin <i>comes</i>, συνέγδημος Μεσσάλλα τοῦ ἀνθυπάτου
-    [<a href="javascript:void(0)" title=" “OGI” 494.13 (Milet., 2nd c.AD)">Refs 2nd
-    c.AD+</a>]: <i>Doric dialect</i> <i>nominative</i> <i>plural</i> <b>συνέγδᾱμοι</b>,
-    of private persons <b>accompanying</b> a public mission, [<a href="javascript:void(0)"
-    title=" “IG” 12(8).186.9 (Samothrace, 1st c.BC). ">Refs 1st c.BC+</a>]<br /><Level3><b>__2</b></Level3>
-    σ. συντάγματα <b>portable</b> handbooks, <b>vade-mecums</b>, [<a href="javascript:void(0)"
-    title=" 7th c.AD: Paulus Aegineta Medicus “Prooem.”; σ. κολλούριον 6th c.AD: Aëtius
-    Medicus 7.103. ">Refs 6th c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συν-έκδημος, -ου, ὁ
+
+  (ἔκδημος, abroad),
+
+  a fellow-traveller: Act.19:29, 2Co.8:1.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συνέκδημ-ος, ὁ,
+
+  fellow-traveller, [NT+1st c.AD+]; = Latin comes, συνέγδημος Μεσσάλλα τοῦ ἀνθυπάτου
+  [Refs 2nd c.AD+]: Doric dialect nominative plural συνέγδᾱμοι, of private persons
+  accompanying a public mission, [Refs 1st c.BC+]
+
+  __2 σ. συντάγματα portable handbooks, vade-mecums, [Refs 6th c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4855
-    proximity: 0.8164
+    lemma: συμφύω
+    gloss: passive {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
   - strongs: G4782
-    proximity: 0.8158
+    lemma: συγκαταβαίνω
+    gloss: to descend in company with {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: G4775
-    proximity: 0.8153
+    lemma: συγκάθημαι
+    gloss: to seat oneself in company with {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
   - strongs: G1488
-    proximity: 0.8136
+    lemma: εἶ
+    gloss: thou art {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: G2252
-    proximity: 0.8079
+    lemma: ἤμην
+    gloss: I was {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
   - strongs: A3675
-    proximity: 0.8038
+    proximity: 0.8038 {macula-proximity}
   - strongs: G3596
-    proximity: 0.7917
+    lemma: ὁδοιπορέω
+    gloss: to be a wayfarer {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: G4806
-    proximity: 0.7863
+    lemma: συζωοποιέω
+    gloss: to reanimate conjointly with {openscriptures-strongs}
+    proximity: 0.7863 {macula-proximity}
   - strongs: G3353
-    proximity: 0.7847
+    lemma: μέτοχος
+    gloss: participant {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
   cross_language:
   - strongs: H7285
-    proximity: 0.8237
+    lemma: רֶגֶשׁ
+    gloss: a tumultuous crowd {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
     language: hebrew
   - strongs: H3674
-    proximity: 0.8196
+    lemma: כְּנָת
+    gloss: a colleague {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
     language: hebrew
   - strongs: H4550
-    proximity: 0.8163
+    lemma: מַסַּע
+    gloss: a departure {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
     language: hebrew
   - strongs: H5978
-    proximity: 0.8161
+    lemma: עִמָּד
+    gloss: along with {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
     language: hebrew
   - strongs: H7462a
-    proximity: 0.8095
+    proximity: 0.8095 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,23 +6,19 @@ pronunciation: raf-so-daw'
 definition: a raft (as flat on the water)
 kjv_usage: flote.
 derivation: from H7511 (רָפַס);
-extended_definition:
-  gloss: raft
-  definition: raft
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: raft {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H944a
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
   - strongs: H5474
-    proximity: 0.8194
+    lemma: סוּגַר
+    gloss: an inclosure {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   cross_language:
   - strongs: G4548
-    proximity: 0.8194
+    lemma: σανίς
+    gloss: a plank {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

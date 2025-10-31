@@ -6,46 +6,63 @@ pronunciation: yaw-kad'
 definition: to burn
 kjv_usage: (be) burn(-ing), [idiom] from the hearth, kindle.
 derivation: a primitive root;
-extended_definition:
-  gloss: to burn
-  definition: '1) to burn, kindle, be kindled<br>1a) (Qal) to be kindled<br>1b) (Hophal)
-    to burn, be burning,<BR>Aramaic equivalent: <i>ye.qad</i> (יְקַד "to burn" H3345)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to burn, kindle, be kindled
+
+  1a) (Qal) to be kindled
+
+  1b) (Hophal) to burn, be burning,
+
+  Aramaic equivalent: ye.qad (יְקַד "to burn" H3345) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1815
-    proximity: 0.8235
+    proximity: 0.8235 {macula-proximity}
   - strongs: H181
-    proximity: 0.7965
+    proximity: 0.7965 {macula-proximity}
   - strongs: H784
-    proximity: 0.7891
+    proximity: 0.7891 {macula-proximity}
   - strongs: H7529
-    proximity: 0.7865
+    lemma: רֶצֶף
+    gloss: a red-hot stone {openscriptures-strongs}
+    proximity: 0.7865 {macula-proximity}
   - strongs: H2152
-    proximity: 0.7857
+    lemma: זַלְעָפָה
+    gloss: a glow {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
   - strongs: H2740
-    proximity: 0.7799
+    lemma: חָרוֹן
+    gloss: a burning of anger {openscriptures-strongs}
+    proximity: 0.7799 {macula-proximity}
   - strongs: H3555
-    proximity: 0.7702
+    lemma: כְּוִיָּה
+    gloss: a branding {openscriptures-strongs}
+    proximity: 0.7702 {macula-proximity}
   - strongs: H2746
-    proximity: 0.7589
+    lemma: חַרְחֻר
+    gloss: fever {openscriptures-strongs}
+    proximity: 0.7589 {macula-proximity}
   - strongs: H7033
-    proximity: 0.754
+    lemma: קָלָה
+    gloss: to toast {openscriptures-strongs}
+    proximity: 0.754 {macula-proximity}
   - strongs: H3554
-    proximity: 0.7514
+    lemma: כָּוָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7514 {macula-proximity}
   cross_language:
   - strongs: G4448
-    proximity: 0.7799
+    lemma: πυρόω
+    gloss: to kindle {openscriptures-strongs}
+    proximity: 0.7799 {macula-proximity}
     language: greek
   - strongs: G2739
-    proximity: 0.7609
+    lemma: καυματίζω
+    gloss: to burn {openscriptures-strongs}
+    proximity: 0.7609 {macula-proximity}
     language: greek
   - strongs: G2741
-    proximity: 0.7485
+    lemma: καυσόω
+    gloss: to set on fire {openscriptures-strongs}
+    proximity: 0.7485 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

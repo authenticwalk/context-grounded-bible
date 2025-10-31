@@ -7,51 +7,61 @@ definition: violence; by implication, wrong; by meton. unjust gain
 kjv_usage: cruel(-ty), damage, false, injustice, [idiom] oppressor, unrighteous, violence
   (against, done), violent (dealing), wrong.
 derivation: from H2554 (חָמַס);
-extended_definition:
-  gloss: violence
-  definition: violence, wrong, cruelty, injustice
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: violence, wrong, cruelty, injustice {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H47
-    proximity: 0.8221
+    proximity: 0.8221 {macula-proximity}
   - strongs: H6233
-    proximity: 0.8166
+    lemma: עֹשֶׁק
+    gloss: injury {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
   - strongs: H395
-    proximity: 0.8114
+    proximity: 0.8114 {macula-proximity}
   - strongs: H7562
-    proximity: 0.8077
+    lemma: רֶשַׁע
+    gloss: a wrong {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
   - strongs: H7451
-    proximity: 0.8065
+    lemma: רַע
+    gloss: bad or  evil {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
   - strongs: H7451b
-    proximity: 0.8034
+    proximity: 0.8034 {macula-proximity}
   - strongs: H393
-    proximity: 0.783
+    proximity: 0.783 {macula-proximity}
   - strongs: H7563
-    proximity: 0.7817
+    lemma: רָשָׁע
+    gloss: morally wrong {openscriptures-strongs}
+    proximity: 0.7817 {macula-proximity}
   - strongs: H5765
-    proximity: 0.781
+    lemma: עֲוַל
+    gloss: to distort {openscriptures-strongs}
+    proximity: 0.781 {macula-proximity}
   - strongs: H4939
-    proximity: 0.7755
+    lemma: מִשְׂפָּח
+    gloss: slaughter {openscriptures-strongs}
+    proximity: 0.7755 {macula-proximity}
   cross_language:
   - strongs: G926
-    proximity: 0.8265
+    proximity: 0.8265 {macula-proximity}
     language: greek
   - strongs: G4199
-    proximity: 0.8028
+    lemma: πορθέω
+    gloss: to ravage {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
     language: greek
   - strongs: G3075
-    proximity: 0.8022
+    lemma: λυμαίνομαι
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
     language: greek
   - strongs: G727
-    proximity: 0.7911
+    proximity: 0.7911 {macula-proximity}
     language: greek
   - strongs: G3731
-    proximity: 0.7888
+    lemma: ὅρμημα
+    gloss: an attack {openscriptures-strongs}
+    proximity: 0.7888 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,39 +7,51 @@ definition: a prophetess or (generally) inspired woman; by implication, a poetes
   by association a prophet's wife
 kjv_usage: prophetess.
 derivation: feminine of H5030 (נָבִיא);
-extended_definition:
-  gloss: prophetess
-  definition: 1) prophetess<br>1a) ancient type endowed with gift of song (Miriam)<br>1b)
-    later type consulted for a word (Huldah)<br>1c) false prophetess (Noadiah)<br>1d)
-    wife of Isaiah the prophet
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) prophetess
+
+  1a) ancient type endowed with gift of song (Miriam)
+
+  1b) later type consulted for a word (Huldah)
+
+  1c) false prophetess (Noadiah)
+
+  1d) wife of Isaiah the prophet {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5197
-    proximity: 0.8232
+    lemma: נָטַף
+    gloss: to ooze {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H2219a
-    proximity: 0.7312
+    proximity: 0.7312 {macula-proximity}
   - strongs: H5016
-    proximity: 0.7118
+    lemma: נְבוּאָה
+    gloss: a prediction {openscriptures-strongs}
+    proximity: 0.7118 {macula-proximity}
   cross_language:
   - strongs: G4394
-    proximity: 0.8176
+    lemma: προφητεία
+    gloss: prediction {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
     language: greek
   - strongs: G1133
-    proximity: 0.8148
+    lemma: γυναικάριον
+    gloss: a little  woman {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
     language: greek
   - strongs: G4267
-    proximity: 0.8125
+    lemma: προγινώσκω
+    gloss: to know beforehand {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G4268
-    proximity: 0.7985
+    lemma: πρόγνωσις
+    gloss: forethought {openscriptures-strongs}
+    proximity: 0.7985 {macula-proximity}
     language: greek
   - strongs: G5578
-    proximity: 0.7742
+    lemma: ψευδοπροφήτης
+    gloss: a spurious prophet {openscriptures-strongs}
+    proximity: 0.7742 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

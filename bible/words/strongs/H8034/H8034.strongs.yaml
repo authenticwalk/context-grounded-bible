@@ -8,49 +8,75 @@ definition: an appellation, as amark or memorial of individuality; by implicatio
 kjv_usage: '[phrase] base, (in-) fame(-ous), named(-d), renown, report.'
 derivation: a primitive word (perhaps rather from through the idea of definite and
   conspicuous position; compare H8064 (שָׁמַיִם));
-extended_definition:
-  gloss: name
-  definition: '1) name<br>1a) name<br>1b) reputation, fame, glory<br>1c) the Name
-    (as designation of God)<br>1d) memorial, monument<BR>Aramaic equivalent: <i>shum</i>
-    (שֻׁם "name" H8036)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) name
+
+  1a) name
+
+  1b) reputation, fame, glory
+
+  1c) the Name (as designation of God)
+
+  1d) memorial, monument
+
+  Aramaic equivalent: shum (שֻׁם "name" H8036) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8416
-    proximity: 0.8218
+    lemma: תְּהִלָּה
+    gloss: laudation {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H7922
-    proximity: 0.8152
+    lemma: שֶׂכֶל
+    gloss: intelligence {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: H8088
-    proximity: 0.8032
+    lemma: שֵׁמַע
+    gloss: something heard {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
   - strongs: H2142
-    proximity: 0.8007
+    lemma: זָכַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: H3519
-    proximity: 0.7823
+    lemma: כָּבוֹד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7823 {macula-proximity}
   - strongs: H7760
-    proximity: 0.753
+    lemma: שׂוּם
+    gloss: to put (used in a great variety of applications {openscriptures-strongs}
+    proximity: 0.753 {macula-proximity}
   - strongs: H5344
-    proximity: 0.7125
+    lemma: נָקַב
+    gloss: to puncture {openscriptures-strongs}
+    proximity: 0.7125 {macula-proximity}
   - strongs: H8089
-    proximity: 0.704
+    lemma: שֹׁמַע
+    gloss: a report {openscriptures-strongs}
+    proximity: 0.704 {macula-proximity}
   cross_language:
   - strongs: G2279
-    proximity: 0.8295
+    lemma: ἦχος
+    gloss: a loud or confused noise {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G2007
-    proximity: 0.8245
+    lemma: ἐπιτίθημι
+    gloss: to impose {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
     language: greek
   - strongs: G5102
-    proximity: 0.8238
+    lemma: τίτλος
+    gloss: a titulus or "title" {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
     language: greek
   - strongs: G5345
-    proximity: 0.7999
+    lemma: φήμη
+    gloss: a saying {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
     language: greek
   - strongs: G1426
-    proximity: 0.7816
+    lemma: δυσφημία
+    gloss: defamation {openscriptures-strongs}
+    proximity: 0.7816 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

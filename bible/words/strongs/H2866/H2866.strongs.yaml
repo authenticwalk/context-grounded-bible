@@ -6,48 +6,60 @@ pronunciation: khath-ath'
 definition: dismay
 kjv_usage: casting down.
 derivation: from H2865 (חָתַת);
-extended_definition:
-  gloss: terror
-  definition: terror
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: terror {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8186a
-    proximity: 0.8148
+    proximity: 0.8148 {macula-proximity}
   - strongs: H926
-    proximity: 0.8048
+    proximity: 0.8048 {macula-proximity}
   - strongs: H1204
-    proximity: 0.7974
+    lemma: בָּעַת
+    gloss: to fear {openscriptures-strongs}
+    proximity: 0.7974 {macula-proximity}
   - strongs: H1943
-    proximity: 0.7811
+    lemma: הֹוָה
+    gloss: ruin {openscriptures-strongs}
+    proximity: 0.7811 {macula-proximity}
   - strongs: H343
-    proximity: 0.7791
+    proximity: 0.7791 {macula-proximity}
   - strongs: H3372
-    proximity: 0.769
+    lemma: יָרֵא
+    gloss: to fear {openscriptures-strongs}
+    proximity: 0.769 {macula-proximity}
   - strongs: H4172
-    proximity: 0.7602
+    lemma: מוֹרָא
+    gloss: fear {openscriptures-strongs}
+    proximity: 0.7602 {macula-proximity}
   - strongs: H8186
-    proximity: 0.7429
+    lemma: שַׁעֲרוּרָה
+    gloss: something fearful {openscriptures-strongs}
+    proximity: 0.7429 {macula-proximity}
   - strongs: H2283
-    proximity: 0.7363
+    lemma: חָגָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7363 {macula-proximity}
   - strongs: A574a
-    proximity: 0.7254
+    proximity: 0.7254 {macula-proximity}
   cross_language:
   - strongs: G5604
-    proximity: 0.8276
+    lemma: ὠδίν
+    gloss: a pang or throe {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: greek
   - strongs: G5401
-    proximity: 0.8181
+    lemma: φόβος
+    gloss: alarm or fright {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
     language: greek
   - strongs: G5004
-    proximity: 0.7902
+    lemma: ταλαιπωρία
+    gloss: wretchedness {openscriptures-strongs}
+    proximity: 0.7902 {macula-proximity}
     language: greek
   - strongs: G4426
-    proximity: 0.7514
+    lemma: πτύρω
+    gloss: to frighten {openscriptures-strongs}
+    proximity: 0.7514 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

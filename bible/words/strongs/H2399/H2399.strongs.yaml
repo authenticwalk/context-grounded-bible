@@ -6,46 +6,65 @@ pronunciation: khate
 definition: a crime or its penalty
 kjv_usage: fault, [idiom] grievously, offence, (punishment of) sin.
 derivation: from H2398 (חָטָא);
-extended_definition:
-  gloss: sin
-  definition: '1) sin<br>1a) sin<br>1b) guilt for sin<br>1c) punishment for sin<BR>Aramaic
-    equivalent: <i>cha.ti</i> (חֲטָי "sin" H2408)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) sin
+
+  1a) sin
+
+  1b) guilt for sin
+
+  1c) punishment for sin
+
+  Aramaic equivalent: cha.ti (חֲטָי "sin" H2408) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8546
-    proximity: 0.8182
+    lemma: תְּמוּתָה
+    gloss: execution {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
   - strongs: H7563
-    proximity: 0.8066
+    lemma: רָשָׁע
+    gloss: morally wrong {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
   - strongs: H205
-    proximity: 0.7872
+    proximity: 0.7872 {macula-proximity}
   - strongs: H7564
-    proximity: 0.7824
+    lemma: רִשְׁעָה
+    gloss: wrong {openscriptures-strongs}
+    proximity: 0.7824 {macula-proximity}
   - strongs: H5753
-    proximity: 0.7713
+    lemma: עָוָה
+    gloss: to crook {openscriptures-strongs}
+    proximity: 0.7713 {macula-proximity}
   - strongs: H7561
-    proximity: 0.7702
+    lemma: רָשַׁע
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7702 {macula-proximity}
   - strongs: H7686
-    proximity: 0.7537
+    lemma: שָׁגָה
+    gloss: to stray (causatively {openscriptures-strongs}
+    proximity: 0.7537 {macula-proximity}
   cross_language:
   - strongs: G338
-    proximity: 0.8266
+    proximity: 0.8266 {macula-proximity}
     language: greek
   - strongs: G3900
-    proximity: 0.8241
+    lemma: παράπτωμα
+    gloss: a side-slip {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
   - strongs: G1777
-    proximity: 0.8205
+    lemma: ἔνοχος
+    gloss: liable to (a condition {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
     language: greek
   - strongs: G3783
-    proximity: 0.8096
+    lemma: ὀφείλημα
+    gloss: something owed {openscriptures-strongs}
+    proximity: 0.8096 {macula-proximity}
     language: greek
   - strongs: G4624
-    proximity: 0.8047
+    lemma: σκανδαλίζω
+    gloss: to entrap {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

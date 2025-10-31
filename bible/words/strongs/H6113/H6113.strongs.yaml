@@ -8,53 +8,70 @@ kjv_usage: '[idiom] be able, close up, detain, fast, keep (self close, still), p
   recover, refrain, [idiom] reign, restrain, retain, shut (up), slack, stay, stop,
   withhold (self).'
 derivation: a primitive root;
-extended_definition:
-  gloss: to restrain
-  definition: 1) to restrain, retain, close up, shut, withhold, refrain, stay, detain<br>1a)
-    (Qal)<br>1a1) to restrain, halt, stop<br>1a2) to retain<br>1b) (Niphal) to be
-    restrained, be stayed, be under restraint
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to restrain, retain, close up, shut, withhold, refrain, stay,
+  detain
+
+  1a) (Qal)
+
+  1a1) to restrain, halt, stop
+
+  1a2) to retain
+
+  1b) (Niphal) to be restrained, be stayed, be under restraint {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5462a
-    proximity: 0.826
+    proximity: 0.826 {macula-proximity}
   - strongs: H5640
-    proximity: 0.8252
+    lemma: סָתַם
+    gloss: to stop up {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
   - strongs: H410a
-    proximity: 0.8241
+    proximity: 0.8241 {macula-proximity}
   - strongs: H7078
-    proximity: 0.8238
+    lemma: קֶנֶץ
+    gloss: perversion {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H7604
-    proximity: 0.8227
+    lemma: שָׁאַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H6135
-    proximity: 0.8185
+    lemma: עָקָר
+    gloss: sterile {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: H332
-    proximity: 0.8152
+    proximity: 0.8152 {macula-proximity}
   - strongs: H3543a
-    proximity: 0.8096
+    proximity: 0.8096 {macula-proximity}
   - strongs: H331
-    proximity: 0.8095
+    proximity: 0.8095 {macula-proximity}
   - strongs: H7623a
-    proximity: 0.793
+    proximity: 0.793 {macula-proximity}
   cross_language:
   - strongs: G5083
-    proximity: 0.8244
+    lemma: τηρέω
+    gloss: perhaps akin to G2334 ) {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: greek
   - strongs: G2935
-    proximity: 0.817
+    lemma: κτήτωρ
+    gloss: an owner {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
     language: greek
   - strongs: G5277
-    proximity: 0.809
+    lemma: ὑπολιμπάνω
+    gloss: to leave behind {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
     language: greek
   - strongs: G2664
-    proximity: 0.7981
+    lemma: καταπαύω
+    gloss: to settle down {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
     language: greek
   - strongs: G4723
-    proximity: 0.7967
+    lemma: στείρος
+    gloss: '"sterile" {openscriptures-strongs}'
+    proximity: 0.7967 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

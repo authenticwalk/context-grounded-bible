@@ -5,48 +5,56 @@ transliteration: teknogonéō
 definition: to be a child-bearer, i.e. parent (mother)
 kjv_usage: bear children
 derivation: from a compound of G5043 (τέκνον) and the base of G1096 (γίνομαι);
-extended_definition:
-  gloss: to have children
-  definition: '<b>τεκνογονέω</b>, -ῶ <BR /> <b>to beget or bear children</b>: <ref=''1Ti.5.14''>1Ti.5:14</ref>
-    (Anthol.).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> τεκνογον-έω</b>, <br /> <b>bear young, bear children,</b> [<a
-    href="javascript:void(0)" title=" Anthologia Graeca 9.22 (1st c.AD: Philippus
-    Epigrammaticus), NT.1Tim.5.14. ">NT+1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'τεκνογονέω, -ῶ
+
+  to beget or bear children: 1Ti.5:14 (Anthol.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'τεκνογον-έω,
+
+  bear young, bear children, [NT+1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1625
-    proximity: 0.8278
+    lemma: ἐκτρέφω
+    gloss: to rear up to maturity {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: G2192
-    proximity: 0.8151
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
   - strongs: G2365
-    proximity: 0.8091
+    lemma: θυγάτριον
+    gloss: a daughterling {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
   - strongs: G815
-    proximity: 0.8013
+    proximity: 0.8013 {macula-proximity}
   - strongs: G2364
-    proximity: 0.7859
+    lemma: θυγάτηρ
+    gloss: a female child {openscriptures-strongs}
+    proximity: 0.7859 {macula-proximity}
   cross_language:
   - strongs: H8382
-    proximity: 0.8288
+    lemma: תָּאַם
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
     language: hebrew
   - strongs: H6211b
-    proximity: 0.8201
+    proximity: 0.8201 {macula-proximity}
     language: hebrew
   - strongs: H3206
-    proximity: 0.819
+    lemma: יֶלֶד
+    gloss: something born {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
     language: hebrew
   - strongs: H5759
-    proximity: 0.8185
+    lemma: עֲוִיל
+    gloss: a babe {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
     language: hebrew
   - strongs: H3211
-    proximity: 0.8184
+    lemma: יָלִיד
+    gloss: born {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

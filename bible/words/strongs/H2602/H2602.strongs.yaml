@@ -6,29 +6,32 @@ pronunciation: khan-aw-mawl'
 definition: perhaps the aphis or plantlouse
 kjv_usage: frost.
 derivation: of uncertain derivation;
-extended_definition:
-  gloss: frost
-  definition: 1) frost, flood, sleet (meaning uncertain)<br>1a) that which destroyed
-    the sycamore trees
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) frost, flood, sleet (meaning uncertain)
+
+  1a) that which destroyed the sycamore trees {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7858
-    proximity: 0.8283
+    lemma: שֶׁטֶף
+    gloss: a deluge {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H7135
-    proximity: 0.8194
+    lemma: קָרָה
+    gloss: coolness {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H3999
-    proximity: 0.7781
+    lemma: מַבּוּל
+    gloss: a deluge {openscriptures-strongs}
+    proximity: 0.7781 {macula-proximity}
   cross_language:
   - strongs: G4132
-    proximity: 0.798
+    lemma: πλήμμυρα
+    gloss: flood-tide {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
     language: greek
   - strongs: G2627
-    proximity: 0.7543
+    lemma: κατακλυσμός
+    gloss: an inundation {openscriptures-strongs}
+    proximity: 0.7543 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

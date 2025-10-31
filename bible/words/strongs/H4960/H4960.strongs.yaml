@@ -7,50 +7,69 @@ definition: drink, by implication, drinking (the act); also (by implication) a b
   or (generally) feast
 kjv_usage: banquet, drank, drink, feast((-ed), -ing).
 derivation: from H8354 (שָׁתָה);
-extended_definition:
-  gloss: feast
-  definition: '1) feast, drink, banquet<br>1a) feast, banquet<br>1b) drink<BR>Aramaic
-    equivalent: <i>mish.teh</i> (מִשְׁתֶּה "feast" H4961)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) feast, drink, banquet
+
+  1a) feast, banquet
+
+  1b) drink
+
+  Aramaic equivalent: mish.teh (מִשְׁתֶּה "feast" H4961) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2561
-    proximity: 0.8048
+    lemma: חֶמֶר
+    gloss: wine {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
   - strongs: H3899
-    proximity: 0.7868
+    lemma: לֶחֶם
+    gloss: food {openscriptures-strongs}
+    proximity: 0.7868 {macula-proximity}
   - strongs: H7979
-    proximity: 0.77
+    lemma: שֻׁלְחָן
+    gloss: a table {openscriptures-strongs}
+    proximity: 0.77 {macula-proximity}
   - strongs: H4516
-    proximity: 0.7575
+    lemma: מַנְעַם
+    gloss: a delicacy {openscriptures-strongs}
+    proximity: 0.7575 {macula-proximity}
   - strongs: A8355
-    proximity: 0.7473
+    proximity: 0.7473 {macula-proximity}
   - strongs: H8360
-    proximity: 0.7464
+    lemma: שְׁתִיָּה
+    gloss: potation {openscriptures-strongs}
+    proximity: 0.7464 {macula-proximity}
   - strongs: H1974
-    proximity: 0.7368
+    lemma: הִלּוּל
+    gloss: a celebration of thanksgiving for harvest {openscriptures-strongs}
+    proximity: 0.7368 {macula-proximity}
   - strongs: H3739a
-    proximity: 0.719
+    proximity: 0.719 {macula-proximity}
   - strongs: H3196
-    proximity: 0.7076
+    lemma: יַיִן
+    gloss: wine {openscriptures-strongs}
+    proximity: 0.7076 {macula-proximity}
   cross_language:
   - strongs: G755
-    proximity: 0.8075
+    proximity: 0.8075 {macula-proximity}
     language: greek
   - strongs: G5132
-    proximity: 0.8057
+    lemma: τράπεζα
+    gloss: a table or stool {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
     language: greek
   - strongs: G2897
-    proximity: 0.7953
+    lemma: κραιπάλη
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
     language: greek
   - strongs: G4095
-    proximity: 0.7566
+    lemma: πίνω
+    gloss: to imbibe {openscriptures-strongs}
+    proximity: 0.7566 {macula-proximity}
     language: greek
   - strongs: G4213
-    proximity: 0.7226
+    lemma: πόσις
+    gloss: a drinking {openscriptures-strongs}
+    proximity: 0.7226 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

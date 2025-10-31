@@ -5,44 +5,51 @@ transliteration: skōlēkóbrōtos
 definition: worm-eaten, i.e. diseased with maggots
 kjv_usage: eaten of worms
 derivation: from G4663 (σκώληξ) and a derivative of G977 (βιβρώσκω);
-extended_definition:
-  gloss: worm-eated
-  definition: '<b>σκωληκό-βρωτος</b>, -ον<BR /> (σκώληξ, βιβρώσκω), <BR /><b>eaten
-    of worms</b>: <ref=''Act.12.23''>Act.12:23</ref> (cf. <ref=''2Ma.9.9''>2Ma.9:9</ref>,
-    and see MM, xxiii) †<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> σκωληκό-βρωτος</b>, ον, <br /> <b>worm-eaten</b>, of a tree,[<a
-    href="javascript:void(0)" title=" [prev. work = 4th-3rd c.BC: Theophrastus Philosophus
-    “Historia Plantarum”] 3.12.6, “CP” 5.9.1; γῆ “PTeb.” 701.81 (3rd c.BC), “PSI”
-    5.490.14 (3rd c.BC). ">Refs 4th c.BC+</a>]<br /><Level3><b>__2</b></Level3> <b>eaten
-    of worms</b>, of a man, [<a href="javascript:void(0)" title=" NT.Act.12.23. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'σκωληκό-βρωτος, -ον
+
+  (σκώληξ, βιβρώσκω),
+
+  eaten of worms: Act.12:23 (cf. 2Ma.9:9, and see MM, xxiii) †
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'σκωληκό-βρωτος, ον,
+
+  worm-eaten, of a tree,[Refs 4th c.BC+]
+
+  __2 eaten of worms, of a man, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2068
-    proximity: 0.8232
+    lemma: ἐσθίω
+    gloss: used only in certain tenses {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: G4597
-    proximity: 0.8226
+    lemma: σής
+    gloss: a moth {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: G5259
-    proximity: 0.8142
+    lemma: ὑπό
+    gloss: under {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: G4906
-    proximity: 0.8139
+    lemma: συνεσθίω
+    gloss: to take food in company with {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: G5315
-    proximity: 0.8067
+    lemma: φάγω
+    gloss: to eat {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   - strongs: G4598
-    proximity: 0.7513
+    lemma: σητόβρωτος
+    gloss: moth-eaten {openscriptures-strongs}
+    proximity: 0.7513 {macula-proximity}
   cross_language:
   - strongs: H398
-    proximity: 0.8276
+    proximity: 0.8276 {macula-proximity}
     language: hebrew
   - strongs: H5580
-    proximity: 0.7364
+    lemma: סָס
+    gloss: a moth {openscriptures-strongs}
+    proximity: 0.7364 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

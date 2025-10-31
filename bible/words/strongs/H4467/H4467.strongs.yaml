@@ -7,52 +7,63 @@ definition: dominion, i.e. (abstractly) the estate (rule) or (concretely) the co
   (realm)
 kjv_usage: kingdom, king's, reign, royal.
 derivation: from H4427 (מָלַךְ);
-extended_definition:
-  gloss: kingdom
-  definition: 1) kingdom, dominion, reign, sovereignty<br>1a) kingdom, realm<br>1b)
-    sovereignty, dominion<br>1c) reign
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) kingdom, dominion, reign, sovereignty
+
+  1a) kingdom, realm
+
+  1b) sovereignty, dominion
+
+  1c) reign {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A7985
-    proximity: 0.8234
+    proximity: 0.8234 {macula-proximity}
   - strongs: H3678
-    proximity: 0.812
+    lemma: כִּסֵּא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: H4915
-    proximity: 0.8057
+    lemma: מֹשֶׁל
+    gloss: empire {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
   - strongs: A3764
-    proximity: 0.8032
+    proximity: 0.8032 {macula-proximity}
   - strongs: H327
-    proximity: 0.7639
+    proximity: 0.7639 {macula-proximity}
   - strongs: H4940
-    proximity: 0.7613
+    lemma: מִשְׁפָּחָה
+    gloss: a family {openscriptures-strongs}
+    proximity: 0.7613 {macula-proximity}
   - strongs: H4951
-    proximity: 0.76
+    lemma: מִשְׂרָה
+    gloss: empire {openscriptures-strongs}
+    proximity: 0.76 {macula-proximity}
   - strongs: A524
-    proximity: 0.7392
+    proximity: 0.7392 {macula-proximity}
   - strongs: H523
-    proximity: 0.736
+    proximity: 0.736 {macula-proximity}
   - strongs: H3816
-    proximity: 0.7151
+    lemma: לְאֹם
+    gloss: a community {openscriptures-strongs}
+    proximity: 0.7151 {macula-proximity}
   cross_language:
   - strongs: G934
-    proximity: 0.8203
+    proximity: 0.8203 {macula-proximity}
     language: greek
   - strongs: G936
-    proximity: 0.7829
+    proximity: 0.7829 {macula-proximity}
     language: greek
   - strongs: G2231
-    proximity: 0.7786
+    lemma: ἡγεμονία
+    gloss: government {openscriptures-strongs}
+    proximity: 0.7786 {macula-proximity}
     language: greek
   - strongs: G935
-    proximity: 0.741
+    proximity: 0.741 {macula-proximity}
     language: greek
   - strongs: G1484
-    proximity: 0.7373
+    lemma: ἔθνος
+    gloss: a race {openscriptures-strongs}
+    proximity: 0.7373 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -10,18 +10,26 @@ derivation: from H7768 (שָׁוַע) in the original sense of freedom;
 related_words:
   synonyms:
   - strongs: H4924
-    proximity: 0.8288
+    lemma: מַשְׁמָן
+    gloss: fat {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: H4220
-    proximity: 0.8184
+    lemma: מֵחַ
+    gloss: fat {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   - strongs: H6239
-    proximity: 0.8116
+    lemma: עֹשֶׁר
+    gloss: wealth {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   - strongs: H1879
-    proximity: 0.7963
+    lemma: דָּשֵׁן
+    gloss: fat {openscriptures-strongs}
+    proximity: 0.7963 {macula-proximity}
   cross_language:
   - strongs: G4096
-    proximity: 0.8108
+    lemma: πιότης
+    gloss: perhaps akin to the alternate of G4095  through the idea of repletion)
+      {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

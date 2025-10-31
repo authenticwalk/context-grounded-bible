@@ -7,54 +7,79 @@ definition: properly, an extension of the hand, i.e. (by implication) avowal, or
   adoration; specifically, a choir of worshippers
 kjv_usage: confession, (sacrifice of) praise, thanks(-giving, offering).
 derivation: from H3034 (יָדָה);
-extended_definition:
-  gloss: thanksgiving
-  definition: 1) confession, praise, thanksgiving<br>1a) give praise to God<br>1b)
-    thanksgiving in songs of liturgical worship, hymn of praise<br>1c) thanksgiving
-    choir or procession or line or company<br>1d) thank-offering, sacrifice of thanksgiving<br>1e)
-    confession
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) confession, praise, thanksgiving
+
+  1a) give praise to God
+
+  1b) thanksgiving in songs of liturgical worship, hymn of praise
+
+  1c) thanksgiving choir or procession or line or company
+
+  1d) thank-offering, sacrifice of thanksgiving
+
+  1e) confession {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7623
-    proximity: 0.8294
+    lemma: שָׁבַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: H7318
-    proximity: 0.8267
+    lemma: רוֹמָם
+    gloss: exaltation {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
   - strongs: H4503
-    proximity: 0.8233
+    lemma: מִנְחָה
+    gloss: a donation {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H2172
-    proximity: 0.8188
+    lemma: זִמְרָה
+    gloss: a musical piece or song to be accompanied by an instrument {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
   - strongs: H7133
-    proximity: 0.8091
+    lemma: קׇרְבָּן
+    gloss: something brought near the altar {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
   - strongs: H2076
-    proximity: 0.8051
+    lemma: זָבַח
+    gloss: to slaughter an animal {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
   - strongs: H7892
-    proximity: 0.8037
+    lemma: שִׁיר
+    gloss: a song {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
   - strongs: H1288
-    proximity: 0.8007
+    lemma: בָרַךְ
+    gloss: to kneel {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: H7892a
-    proximity: 0.7973
+    proximity: 0.7973 {macula-proximity}
   - strongs: H5115a
-    proximity: 0.731
+    proximity: 0.731 {macula-proximity}
   cross_language:
   - strongs: G4376
-    proximity: 0.8237
+    lemma: προσφορά
+    gloss: presentation {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
     language: greek
   - strongs: G5485
-    proximity: 0.7846
+    lemma: χάρις
+    gloss: graciousness {openscriptures-strongs}
+    proximity: 0.7846 {macula-proximity}
     language: greek
   - strongs: G2378
-    proximity: 0.7545
+    lemma: θυσία
+    gloss: sacrifice (the act or the victim {openscriptures-strongs}
+    proximity: 0.7545 {macula-proximity}
     language: greek
   - strongs: G5567
-    proximity: 0.7525
+    lemma: ψάλλω
+    gloss: compare G5597 ) {openscriptures-strongs}
+    proximity: 0.7525 {macula-proximity}
     language: greek
   - strongs: G1867
-    proximity: 0.7512
+    lemma: ἐπαινέω
+    gloss: to applaud {openscriptures-strongs}
+    proximity: 0.7512 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

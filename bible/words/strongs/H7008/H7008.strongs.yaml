@@ -6,33 +6,39 @@ pronunciation: kee-tore'
 definition: a fume, i.e. cloud
 kjv_usage: smoke, vapour.
 derivation: or קִיטֹר; from H6999 (קָטַר);
-extended_definition:
-  gloss: smoke
-  definition: thick smoke, smoke
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: thick smoke, smoke {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6205
-    proximity: 0.8269
+    lemma: עֲרָפֶל
+    gloss: gloom {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: H3514
-    proximity: 0.825
+    lemma: כֹּבֶד
+    gloss: weight {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: H7834
-    proximity: 0.8119
+    lemma: שַׁחַק
+    gloss: a powder {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: H6225
-    proximity: 0.7602
+    lemma: עָשַׁן
+    gloss: to smoke {openscriptures-strongs}
+    proximity: 0.7602 {macula-proximity}
   - strongs: H6226
-    proximity: 0.7498
+    lemma: עָשֵׁן
+    gloss: smoky {openscriptures-strongs}
+    proximity: 0.7498 {macula-proximity}
   - strongs: A6050
-    proximity: 0.7422
+    proximity: 0.7422 {macula-proximity}
   - strongs: H4864
-    proximity: 0.7388
+    lemma: מַשְׂאֵת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7388 {macula-proximity}
   cross_language:
   - strongs: G3509
-    proximity: 0.7242
+    lemma: νέφος
+    gloss: a cloud {openscriptures-strongs}
+    proximity: 0.7242 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,45 +6,53 @@ pronunciation: yer-oosh-shaw'
 definition: something occupied; a conquest; also a patrimony
 kjv_usage: heritage, inheritance, possession.
 derivation: from H3423 (יָרַשׁ);
-extended_definition:
-  gloss: possession
-  definition: possession, inheritance
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: possession, inheritance {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4256
-    proximity: 0.8285
+    lemma: מַחֲלֹקֶת
+    gloss: a section (of Levites {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: A2508
-    proximity: 0.8181
+    proximity: 0.8181 {macula-proximity}
   - strongs: H270
-    proximity: 0.8149
+    proximity: 0.8149 {macula-proximity}
   - strongs: H127
-    proximity: 0.8051
+    proximity: 0.8051 {macula-proximity}
   - strongs: H1486
-    proximity: 0.8006
+    lemma: גּוֹרָל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
   - strongs: A2631
-    proximity: 0.7962
+    proximity: 0.7962 {macula-proximity}
   - strongs: H2981
-    proximity: 0.7941
+    lemma: יְבוּל
+    gloss: produce {openscriptures-strongs}
+    proximity: 0.7941 {macula-proximity}
   - strongs: H7075
-    proximity: 0.7937
+    lemma: קִנְיָן
+    gloss: creation {openscriptures-strongs}
+    proximity: 0.7937 {macula-proximity}
   - strongs: H7399
-    proximity: 0.7436
+    lemma: רְכוּשׁ
+    gloss: property {openscriptures-strongs}
+    proximity: 0.7436 {macula-proximity}
   - strongs: H2513
-    proximity: 0.7347
+    lemma: חֶלְקָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7347 {macula-proximity}
   cross_language:
   - strongs: G4041
-    proximity: 0.8105
+    lemma: περιούσιος
+    gloss: being beyond usual {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
     language: greek
   - strongs: G979
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
     language: greek
   - strongs: G2624
-    proximity: 0.7398
+    lemma: κατακληροδοτέω
+    gloss: to be a giver of lots to each {openscriptures-strongs}
+    proximity: 0.7398 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

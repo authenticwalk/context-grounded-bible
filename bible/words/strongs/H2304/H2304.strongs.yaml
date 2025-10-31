@@ -6,52 +6,65 @@ pronunciation: khed-vaw'
 definition: rejoicing
 kjv_usage: gladness, joy.
 derivation: from H2302 (חָדָה);
-extended_definition:
-  gloss: joy
-  definition: 'joy, gladness<BR>Aramaic equivalent: <i>ched.vah</i> (חֶדְוָה "joy"
-    H2305)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: 'joy, gladness
+
+  Aramaic equivalent: ched.vah (חֶדְוָה "joy" H2305) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H871a
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
   - strongs: H7814
-    proximity: 0.8286
+    lemma: שְׂחוֹק
+    gloss: laughter {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: H5102a
-    proximity: 0.8234
+    proximity: 0.8234 {macula-proximity}
   - strongs: H1959
-    proximity: 0.8219
+    lemma: הֵידָד
+    gloss: acclamation {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: H7442a
-    proximity: 0.8204
+    proximity: 0.8204 {macula-proximity}
   - strongs: H5730a
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
   - strongs: H2656
-    proximity: 0.8175
+    lemma: חֵפֶץ
+    gloss: pleasure {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
   - strongs: H2655
-    proximity: 0.8172
+    lemma: חָפֵץ
+    gloss: pleased with {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
   - strongs: H2654
-    proximity: 0.8107
+    lemma: חָפֵץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
   - strongs: H2895
-    proximity: 0.8057
+    lemma: טוֹב
+    gloss: to be (transitively {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
   cross_language:
   - strongs: G2101
-    proximity: 0.8282
+    lemma: εὐάρεστος
+    gloss: fully agreeable {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: greek
   - strongs: G3108
-    proximity: 0.8247
+    lemma: μακαρισμός
+    gloss: beatification {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: greek
   - strongs: G4913
-    proximity: 0.8241
+    lemma: συνήδομαι
+    gloss: to rejoice in with oneself {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
   - strongs: G1071
-    proximity: 0.8241
+    lemma: γέλως
+    gloss: laughter {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
   - strongs: G699
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

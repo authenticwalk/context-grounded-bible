@@ -6,37 +6,44 @@ pronunciation: raw-sham'
 definition: to record
 kjv_usage: note.
 derivation: a primitive root;
-extended_definition:
-  gloss: to inscribe
-  definition: '1) to inscribe, note<br>1a) (Qal) that which is inscribed (participle)<BR>Aramaic
-    equivalent: <i>re.sham</i> (רְשַׁם "to sign" H7560)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to inscribe, note
+
+  1a) (Qal) that which is inscribed (participle)
+
+  Aramaic equivalent: re.sham (רְשַׁם "to sign" H7560) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1596
-    proximity: 0.8279
+    proximity: 0.8279 {macula-proximity}
   - strongs: H5612
-    proximity: 0.8188
+    lemma: סֵפֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
   - strongs: H3187
-    proximity: 0.8116
+    lemma: יָחַשׂ
+    gloss: to enroll by pedigree {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   - strongs: H1697
-    proximity: 0.803
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
   - strongs: H2710
-    proximity: 0.7978
+    lemma: חָקַק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7978 {macula-proximity}
   - strongs: H3791
-    proximity: 0.7614
+    lemma: כָּתָב
+    gloss: something written {openscriptures-strongs}
+    proximity: 0.7614 {macula-proximity}
   - strongs: H5612a
-    proximity: 0.7591
+    proximity: 0.7591 {macula-proximity}
   cross_language:
   - strongs: G583
-    proximity: 0.7207
+    proximity: 0.7207 {macula-proximity}
     language: greek
   - strongs: G1125
-    proximity: 0.7061
+    lemma: γράφω
+    gloss: to "grave" {openscriptures-strongs}
+    proximity: 0.7061 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

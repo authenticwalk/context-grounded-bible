@@ -7,54 +7,85 @@ definition: to swell up (literally or figuratively, active or passive); by impli
   to favor or honour, be high or proud
 kjv_usage: countenance, crooked place, glorious, honour, put forth.
 derivation: a primitive root;
-extended_definition:
-  gloss: to honor
-  definition: 1) to honour, adorn, glorify, be high<br>1a) (Qal)<br>1a1) to swell<br>1a1a)
-    swelling (pass participle)<br>1a2) to honour, pay honour to, show partiality<br>1a3)
-    to adorn<br>1a3a) adorned (pass participle)<br>1b) (Niphal) to be honoured<br>1c)
-    (Hithpael) to honour oneself, claim honour
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to honour, adorn, glorify, be high
+
+  1a) (Qal)
+
+  1a1) to swell
+
+  1a1a) swelling (pass participle)
+
+  1a2) to honour, pay honour to, show partiality
+
+  1a3) to adorn
+
+  1a3a) adorned (pass participle)
+
+  1b) (Niphal) to be honoured
+
+  1c) (Hithpael) to honour oneself, claim honour {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3308
-    proximity: 0.8275
+    lemma: יֳפִי
+    gloss: beauty {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H1926
-    proximity: 0.8241
+    lemma: הָדָר
+    gloss: magnificence {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H2580
-    proximity: 0.8218
+    lemma: חֵן
+    gloss: graciousness {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H1264
-    proximity: 0.817
+    lemma: בְּרוֹם
+    gloss: damask {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: A2103
-    proximity: 0.8134
+    proximity: 0.8134 {macula-proximity}
   - strongs: H3519
-    proximity: 0.7964
+    lemma: כָּבוֹד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7964 {macula-proximity}
   - strongs: H3366
-    proximity: 0.7914
+    lemma: יְקָר
+    gloss: value {openscriptures-strongs}
+    proximity: 0.7914 {macula-proximity}
   - strongs: H8597
-    proximity: 0.785
+    lemma: תִּפְאָרָה
+    gloss: ornament (abstractly or concretely {openscriptures-strongs}
+    proximity: 0.785 {macula-proximity}
   - strongs: H1925
-    proximity: 0.7695
+    lemma: הֶדֶר
+    gloss: honour {openscriptures-strongs}
+    proximity: 0.7695 {macula-proximity}
   - strongs: H3513
-    proximity: 0.7689
+    lemma: כָּבַד
+    gloss: to be heavy {openscriptures-strongs}
+    proximity: 0.7689 {macula-proximity}
   cross_language:
   - strongs: G5117
-    proximity: 0.8271
+    lemma: τόπος
+    gloss: a spot (general in space {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G5187
-    proximity: 0.8165
+    lemma: τυφόω
+    gloss: to envelop with smoke {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G1741
-    proximity: 0.7889
+    lemma: ἔνδοξος
+    gloss: in glory {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
     language: greek
   - strongs: G632
-    proximity: 0.7837
+    proximity: 0.7837 {macula-proximity}
     language: greek
   - strongs: G2986
-    proximity: 0.7665
+    lemma: λαμπρός
+    gloss: radiant {openscriptures-strongs}
+    proximity: 0.7665 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

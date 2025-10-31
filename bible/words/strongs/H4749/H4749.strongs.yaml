@@ -6,43 +6,56 @@ pronunciation: mik-shaw'
 definition: rounded work, i.e. moulded by hammering (repousse)
 kjv_usage: beaten (out of one piece, work), upright, whole piece.
 derivation: feminine of H4748 (מִקְשֶׁה);
-extended_definition:
-  gloss: beating
-  definition: hammered work, finely decorated cultic objects of gold or silver
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: hammered work, finely decorated cultic objects of gold or silver
+  {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6213
-    proximity: 0.8188
+    lemma: עָשָׂה
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
   - strongs: H3318
-    proximity: 0.8166
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
   - strongs: H4639
-    proximity: 0.7884
+    lemma: מַעֲשֶׂה
+    gloss: an action {openscriptures-strongs}
+    proximity: 0.7884 {macula-proximity}
   - strongs: H3597
-    proximity: 0.7744
+    lemma: כֵּילַף
+    gloss: a club or sledge-hammer {openscriptures-strongs}
+    proximity: 0.7744 {macula-proximity}
   - strongs: H4399
-    proximity: 0.7646
+    lemma: מְלָאכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7646 {macula-proximity}
   - strongs: H1989
-    proximity: 0.7299
+    lemma: הַלְמוּת
+    gloss: a hammer {openscriptures-strongs}
+    proximity: 0.7299 {macula-proximity}
   cross_language:
   - strongs: G1806
-    proximity: 0.8241
+    lemma: ἐξάγω
+    gloss: to lead forth {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
   - strongs: G2041
-    proximity: 0.8127
+    lemma: ἔργον
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
     language: greek
   - strongs: G1204
-    proximity: 0.8065
+    lemma: δεῦρο
+    gloss: here {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
     language: greek
   - strongs: G393
-    proximity: 0.8038
+    proximity: 0.8038 {macula-proximity}
     language: greek
   - strongs: G2038
-    proximity: 0.7989
+    lemma: ἐργάζομαι
+    gloss: to toil (as a task {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

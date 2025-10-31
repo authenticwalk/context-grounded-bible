@@ -6,32 +6,30 @@ pronunciation: pak-koo-aw'
 definition: the wild cucumber (from splitting open to shed its seeds)
 kjv_usage: gourd.
 derivation: from the same as H6497 (פֶּקַע);
-extended_definition:
-  gloss: gourd
-  definition: gourds
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: gourds {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H768
-    proximity: 0.8173
+    proximity: 0.8173 {macula-proximity}
   - strongs: A4
-    proximity: 0.7964
+    proximity: 0.7964 {macula-proximity}
   cross_language:
   - strongs: G3703
-    proximity: 0.8155
+    lemma: ὀπώρα
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
     language: greek
   - strongs: G2590
-    proximity: 0.8064
+    lemma: καρπός
+    gloss: fruit {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
     language: greek
   - strongs: G536
-    proximity: 0.8031
+    proximity: 0.8031 {macula-proximity}
     language: greek
   - strongs: G1009
-    proximity: 0.7873
+    lemma: βότρυς
+    gloss: a bunch {openscriptures-strongs}
+    proximity: 0.7873 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

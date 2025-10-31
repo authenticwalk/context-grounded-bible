@@ -7,48 +7,65 @@ definition: to diminish, i.e. be (causatively, make) diminutive or (figuratively
   of no account
 kjv_usage: be a (make) small (thing), be not worthy.
 derivation: a primitive root (rather denominative from H6996 (קָטָן));
-extended_definition:
-  gloss: be small
-  definition: 1) to be small, be insignificant<br>1a) (Qal) to be insignificant<br>1b)
-    (Hiphil) to make small, reduce significantly
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be small, be insignificant
+
+  1a) (Qal) to be insignificant
+
+  1b) (Hiphil) to make small, reduce significantly {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6995
-    proximity: 0.8295
+    lemma: קֹטֶן
+    gloss: a pettiness {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H6810
-    proximity: 0.8223
+    lemma: צָעִיר
+    gloss: little {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
   - strongs: H7114b
-    proximity: 0.8209
+    proximity: 0.8209 {macula-proximity}
   - strongs: H6819
-    proximity: 0.8193
+    lemma: צָעַר
+    gloss: to be small {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H4705
-    proximity: 0.8018
+    lemma: מִצְעָר
+    gloss: petty {openscriptures-strongs}
+    proximity: 0.8018 {macula-proximity}
   - strongs: H2191
-    proximity: 0.8016
+    lemma: זְעֵיר
+    gloss: small {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
   - strongs: H6996a
-    proximity: 0.7806
+    proximity: 0.7806 {macula-proximity}
   - strongs: H4592
-    proximity: 0.7735
+    lemma: מְעַט
+    gloss: a little or few {openscriptures-strongs}
+    proximity: 0.7735 {macula-proximity}
   cross_language:
   - strongs: G3397
-    proximity: 0.828
+    lemma: μικρόν
+    gloss: a small space of time or degree {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G2365
-    proximity: 0.82
+    lemma: θυγάτριον
+    gloss: a daughterling {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
   - strongs: G4142
-    proximity: 0.7997
+    lemma: πλοιάριον
+    gloss: a boat {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
     language: greek
   - strongs: G3780
-    proximity: 0.7928
+    lemma: οὐχί
+    gloss: not indeed {openscriptures-strongs}
+    proximity: 0.7928 {macula-proximity}
     language: greek
   - strongs: G2485
-    proximity: 0.7874
+    lemma: ἰχθύδιον
+    gloss: a petty fish {openscriptures-strongs}
+    proximity: 0.7874 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

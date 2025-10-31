@@ -8,44 +8,63 @@ definition: pleasure; hence (abstractly) desire; concretely, a valuable thing; h
 kjv_usage: acceptable, delight(-some), desire, things desired, matter, pleasant(-ure),
   purpose, willingly.
 derivation: from H2654 (חָפֵץ);
-extended_definition:
-  gloss: pleasure
-  definition: 1) delight, pleasure<br>1a) delight<br>1b) desire, longing<br>1c) the
-    good pleasure<br>1d) that in which one takes delight
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) delight, pleasure
+
+  1a) delight
+
+  1b) desire, longing
+
+  1c) the good pleasure
+
+  1d) that in which one takes delight {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2245
-    proximity: 0.8249
+    lemma: חָבַב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
   - strongs: H6443
-    proximity: 0.8228
+    lemma: פָּנִין
+    gloss: probably a pearl {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
   - strongs: H2304
-    proximity: 0.8175
+    lemma: חֶדְוָה
+    gloss: rejoicing {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
   - strongs: H5730
-    proximity: 0.8164
+    lemma: עֵדֶן
+    gloss: pleasure {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
   - strongs: H3190
-    proximity: 0.8155
+    lemma: יָטַב
+    gloss: to be  make well {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H7596a
-    proximity: 0.8132
+    proximity: 0.8132 {macula-proximity}
   cross_language:
   - strongs: G1070
-    proximity: 0.829
+    lemma: γελάω
+    gloss: to laugh {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G2144
-    proximity: 0.8288
+    lemma: εὐπρόσδεκτος
+    gloss: well-received {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
     language: greek
   - strongs: G5368
-    proximity: 0.8232
+    lemma: φιλέω
+    gloss: to be a friend to ) {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
     language: greek
   - strongs: G1974
-    proximity: 0.821
+    lemma: ἐπιποθία
+    gloss: intense longing {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: greek
   - strongs: G2432
-    proximity: 0.8186
+    lemma: ἱλαρότης
+    gloss: alacrity {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

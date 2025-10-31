@@ -6,29 +6,33 @@ pronunciation: ket-o-raw'
 definition: perfume
 kjv_usage: incense.
 derivation: from H6999 (קָטַר);
-extended_definition:
-  gloss: incense
-  definition: smoke of sacrifice, incense
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: smoke of sacrifice, incense {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1314
-    proximity: 0.7864
+    lemma: בֶּשֶׂם
+    gloss: fragrance {openscriptures-strongs}
+    proximity: 0.7864 {macula-proximity}
   - strongs: H5561
-    proximity: 0.7621
+    lemma: סַם
+    gloss: an aroma {openscriptures-strongs}
+    proximity: 0.7621 {macula-proximity}
   - strongs: H2553
-    proximity: 0.7406
+    lemma: חַמָּן
+    gloss: a sun-pillar {openscriptures-strongs}
+    proximity: 0.7406 {macula-proximity}
   - strongs: H7545
-    proximity: 0.7211
+    lemma: רֹקַח
+    gloss: an aromatic {openscriptures-strongs}
+    proximity: 0.7211 {macula-proximity}
   - strongs: H5207
-    proximity: 0.7042
+    lemma: נִיחוֹחַ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7042 {macula-proximity}
   cross_language:
   - strongs: G3744
-    proximity: 0.7529
+    lemma: ὀσμή
+    gloss: fragrance {openscriptures-strongs}
+    proximity: 0.7529 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

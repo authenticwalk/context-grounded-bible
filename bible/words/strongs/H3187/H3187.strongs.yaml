@@ -7,46 +7,50 @@ definition: to enroll by pedigree
 kjv_usage: (number after, number throughout the) genealogy (to be reckoned), be reckoned
   by genealogies.
 derivation: a primitive root; to sprout; used only as denominative from H3188 (יַחַשׂ);
-extended_definition:
-  gloss: to enroll
-  definition: (Hithpael) to reckon genealogically, enrol on a genealogy, enrol, be
-    enrolled
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Hithpael) to reckon genealogically, enrol on a genealogy, enrol,
+  be enrolled {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A1799
-    proximity: 0.8188
+    proximity: 0.8188 {macula-proximity}
   - strongs: H7559
-    proximity: 0.8116
+    lemma: רָשַׁם
+    gloss: to record {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   - strongs: A1799a
-    proximity: 0.8029
+    proximity: 0.8029 {macula-proximity}
   - strongs: H3789
-    proximity: 0.8013
+    lemma: כָּתַב
+    gloss: to grave {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
   - strongs: A1b
-    proximity: 0.7936
+    proximity: 0.7936 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7695
+    proximity: 0.7695 {macula-proximity}
   - strongs: H8435
-    proximity: 0.7364
+    lemma: תּוֹלְדָה
+    gloss: descent {openscriptures-strongs}
+    proximity: 0.7364 {macula-proximity}
   cross_language:
   - strongs: G1078
-    proximity: 0.8198
+    lemma: γένεσις
+    gloss: nativity {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
     language: greek
   - strongs: G1722
-    proximity: 0.8182
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.8182 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.8071
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
     language: greek
   - strongs: G976
-    proximity: 0.7911
+    proximity: 0.7911 {macula-proximity}
     language: greek
   - strongs: G583
-    proximity: 0.7484
+    proximity: 0.7484 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

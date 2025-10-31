@@ -5,50 +5,58 @@ transliteration: Ephésios
 definition: an Ephesian or inhabitant of Ephesus
 kjv_usage: Ephesian, of Ephesus
 derivation: from G2181 (Ἔφεσος);
-extended_definition:
-  gloss: Ephesian
-  definition: '<b>Ἐφέσιος</b>, -α, -ον <BR /> <b>Ephesian</b>: <ref=''Act.18.27; 19.28,
-    34-35; 21.29''>Act.18:27 19:28, 34-35 21:29</ref>.†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἐφέσιος</b>, -α, -ον <BR /> <b>Ephesian</b>: <ref=''Act.18.27;
-    19.28, 34-35; 21.29''>Act.18:27 19:28, 34-35 21:29</ref>.†<BR />  (From Abbott-Smith.
-    LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἐφέσιος, -α, -ον
+
+  Ephesian: Act.18:27 19:28, 34-35 21:29.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἐφέσιος, -α, -ον
+
+  Ephesian: Act.18:27 19:28, 34-35 21:29.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1352
-    proximity: 0.8221
+    lemma: διό
+    gloss: through which thing {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: G5105
-    proximity: 0.8214
+    lemma: τοιγαροῦν
+    gloss: truly for then {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: G435
-    proximity: 0.8204
+    proximity: 0.8204 {macula-proximity}
   - strongs: G3672
-    proximity: 0.8153
+    lemma: ὁμολογουμένως
+    gloss: confessedly {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
   - strongs: A5962
-    proximity: 0.7873
+    proximity: 0.7873 {macula-proximity}
   - strongs: G1355
-    proximity: 0.7734
+    lemma: διόπερ
+    gloss: on which very account {openscriptures-strongs}
+    proximity: 0.7734 {macula-proximity}
   cross_language:
   - strongs: H2130
-    proximity: 0.8273
+    lemma: זִיפִי
+    gloss: a Ziphite or inhabitant of Ziph {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
     language: hebrew
   - strongs: H130
-    proximity: 0.8249
+    proximity: 0.8249 {macula-proximity}
     language: hebrew
   - strongs: H6081
-    proximity: 0.821
+    lemma: עֵפֶר
+    gloss: Epher {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: hebrew
   - strongs: H6316
-    proximity: 0.8204
+    lemma: פּוּט
+    gloss: Put {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
     language: hebrew
   - strongs: H673
-    proximity: 0.818
+    proximity: 0.818 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

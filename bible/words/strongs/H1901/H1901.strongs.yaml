@@ -6,41 +6,57 @@ pronunciation: haw-gheeg'
 definition: properly, a murmur, i.e. complaint
 kjv_usage: meditation, musing.
 derivation: from an unused root akin to H1897 (הָגָה);
-extended_definition:
-  gloss: meditation
-  definition: 1) whisper, musing, murmuring<br>1a) murmuring<br>1b) musing
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) whisper, musing, murmuring
+
+  1a) murmuring
+
+  1b) musing {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3885
-    proximity: 0.8218
+    lemma: לוּן
+    gloss: to stop {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H5008
-    proximity: 0.8049
+    lemma: נָאַק
+    gloss: to groan {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H5098
-    proximity: 0.8
+    lemma: נָהַם
+    gloss: to growl {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: H8519
-    proximity: 0.7996
+    lemma: תְּלוּנָה
+    gloss: a grumbling {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
   - strongs: H1897
-    proximity: 0.7839
+    lemma: הָגָה
+    gloss: to murmur {openscriptures-strongs}
+    proximity: 0.7839 {macula-proximity}
   - strongs: H5009
-    proximity: 0.7812
+    lemma: נְאָקָה
+    gloss: a groan {openscriptures-strongs}
+    proximity: 0.7812 {macula-proximity}
   - strongs: H7879
-    proximity: 0.765
+    lemma: שִׂיחַ
+    gloss: a contemplation {openscriptures-strongs}
+    proximity: 0.765 {macula-proximity}
   - strongs: H602
-    proximity: 0.7234
+    proximity: 0.7234 {macula-proximity}
   cross_language:
   - strongs: G3053
-    proximity: 0.8238
+    lemma: λογισμός
+    gloss: computation {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
     language: greek
   - strongs: G1761
-    proximity: 0.7737
+    lemma: ἐνθύμησις
+    gloss: deliberation {openscriptures-strongs}
+    proximity: 0.7737 {macula-proximity}
     language: greek
   - strongs: G4959
-    proximity: 0.7549
+    lemma: συστενάζω
+    gloss: to moan jointly {openscriptures-strongs}
+    proximity: 0.7549 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

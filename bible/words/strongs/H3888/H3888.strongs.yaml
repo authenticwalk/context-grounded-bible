@@ -6,34 +6,34 @@ pronunciation: loosh
 definition: to knead
 kjv_usage: knead.
 derivation: a primitive root;
-extended_definition:
-  gloss: to knead
-  definition: (Qal) to knead (dough)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to knead (dough) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4414a
-    proximity: 0.8239
+    proximity: 0.8239 {macula-proximity}
   - strongs: H4537
-    proximity: 0.7884
+    lemma: מָסַךְ
+    gloss: to mix {openscriptures-strongs}
+    proximity: 0.7884 {macula-proximity}
   - strongs: H1101
-    proximity: 0.7055
+    lemma: בָּלַל
+    gloss: to overflow {openscriptures-strongs}
+    proximity: 0.7055 {macula-proximity}
   cross_language:
   - strongs: G3396
-    proximity: 0.8285
+    lemma: μίγνυμι
+    gloss: to mix {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G741
-    proximity: 0.7699
+    proximity: 0.7699 {macula-proximity}
     language: greek
   - strongs: G2643
-    proximity: 0.7295
+    lemma: καταλλαγή
+    gloss: exchange (figuratively {openscriptures-strongs}
+    proximity: 0.7295 {macula-proximity}
     language: greek
   - strongs: G604
-    proximity: 0.7042
+    proximity: 0.7042 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

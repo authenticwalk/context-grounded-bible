@@ -6,30 +6,31 @@ pronunciation: mer-kawb'
 definition: a chariot; also a seat (in a vehicle)
 kjv_usage: chariot, covering, saddle.
 derivation: from H7392 (רָכַב);
-extended_definition:
-  gloss: chariot
-  definition: 1) chariot, place to ride, riding seat<br>1a) chariot<br>1b) seat (of
-    a litter), saddle
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) chariot, place to ride, riding seat
+
+  1a) chariot
+
+  1b) seat (of a litter), saddle {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5699
-    proximity: 0.7721
+    lemma: עֲגָלָה
+    gloss: something revolving {openscriptures-strongs}
+    proximity: 0.7721 {macula-proximity}
   - strongs: H3733b
-    proximity: 0.7674
+    proximity: 0.7674 {macula-proximity}
   cross_language:
   - strongs: G3869a
-    proximity: 0.8091
+    proximity: 0.8091 {macula-proximity}
     language: greek
   - strongs: G2895
-    proximity: 0.8009
+    lemma: κράββατος
+    gloss: a mattress {openscriptures-strongs}
+    proximity: 0.8009 {macula-proximity}
     language: greek
   - strongs: G2515
-    proximity: 0.7623
+    lemma: καθέδρα
+    gloss: a bench {openscriptures-strongs}
+    proximity: 0.7623 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

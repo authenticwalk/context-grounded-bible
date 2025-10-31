@@ -6,29 +6,27 @@ pronunciation: khaw-meets'
 definition: seasoned, i.e. salt provender
 kjv_usage: clean.
 derivation: from H2556 (חָמֵץ);
-extended_definition:
-  gloss: salted
-  definition: seasoned
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: seasoned {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4420
-    proximity: 0.8002
+    lemma: מְלֵחָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: H1516c
-    proximity: 0.7885
+    proximity: 0.7885 {macula-proximity}
   - strongs: H4851
-    proximity: 0.7722
+    lemma: מַשׁ
+    gloss: Mash {openscriptures-strongs}
+    proximity: 0.7722 {macula-proximity}
   - strongs: A4416
-    proximity: 0.7402
+    proximity: 0.7402 {macula-proximity}
   - strongs: H4417
-    proximity: 0.7053
+    lemma: מֶלַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7053 {macula-proximity}
   cross_language:
   - strongs: G233
-    proximity: 0.8069
+    proximity: 0.8069 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

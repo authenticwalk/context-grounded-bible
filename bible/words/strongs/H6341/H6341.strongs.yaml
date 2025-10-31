@@ -10,26 +10,37 @@ derivation: from H6351 (פָּחַח);
 related_words:
   synonyms:
   - strongs: H3353
-    proximity: 0.761
+    lemma: יָקוּשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.761 {macula-proximity}
   - strongs: H6354
-    proximity: 0.7488
+    lemma: פַּחַת
+    gloss: a pit {openscriptures-strongs}
+    proximity: 0.7488 {macula-proximity}
   - strongs: H6983
-    proximity: 0.7471
+    lemma: קוֹשׁ
+    gloss: to set a trap {openscriptures-strongs}
+    proximity: 0.7471 {macula-proximity}
   - strongs: H4889
-    proximity: 0.7223
+    lemma: מַשְׁחִית
+    gloss: destructive {openscriptures-strongs}
+    proximity: 0.7223 {macula-proximity}
   - strongs: H6351
-    proximity: 0.7015
+    lemma: פָּחַח
+    gloss: to spread a net {openscriptures-strongs}
+    proximity: 0.7015 {macula-proximity}
   cross_language:
   - strongs: G4522
-    proximity: 0.8209
+    lemma: σαγήνη
+    gloss: a "seine" for fishing {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
     language: greek
   - strongs: G293
-    proximity: 0.7768
+    proximity: 0.7768 {macula-proximity}
     language: greek
   - strongs: G1350
-    proximity: 0.7463
+    lemma: δίκτυον
+    gloss: a seine {openscriptures-strongs}
+    proximity: 0.7463 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

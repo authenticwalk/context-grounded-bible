@@ -6,39 +6,45 @@ pronunciation: kaw-rabe'
 definition: near
 kjv_usage: approach, come (near, nigh), draw near.
 derivation: from H7126 (קָרַב);
-extended_definition:
-  gloss: approaching
-  definition: near, approaching
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: near, approaching {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1980
-    proximity: 0.823
+    lemma: הָלַךְ
+    gloss: to walk (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: H6923
-    proximity: 0.7944
+    lemma: קָדַם
+    gloss: to project {openscriptures-strongs}
+    proximity: 0.7944 {macula-proximity}
   - strongs: H857
-    proximity: 0.7866
+    proximity: 0.7866 {macula-proximity}
   - strongs: H5980
-    proximity: 0.7814
+    lemma: עֻמָּה
+    gloss: conjunction {openscriptures-strongs}
+    proximity: 0.7814 {macula-proximity}
   cross_language:
   - strongs: G1204
-    proximity: 0.82
+    lemma: δεῦρο
+    gloss: here {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
   - strongs: G33
-    proximity: 0.8087
+    proximity: 0.8087 {macula-proximity}
     language: greek
   - strongs: G1205
-    proximity: 0.7985
+    lemma: δεῦτε
+    gloss: come hither! {openscriptures-strongs}
+    proximity: 0.7985 {macula-proximity}
     language: greek
   - strongs: G4139
-    proximity: 0.7942
+    lemma: πλησίον
+    gloss: close by {openscriptures-strongs}
+    proximity: 0.7942 {macula-proximity}
     language: greek
   - strongs: G4927
-    proximity: 0.794
+    lemma: συνομορέω
+    gloss: to border together {openscriptures-strongs}
+    proximity: 0.794 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

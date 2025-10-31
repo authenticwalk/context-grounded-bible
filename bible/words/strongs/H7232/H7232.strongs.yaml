@@ -7,45 +7,55 @@ definition: to shoot an arrow
 kjv_usage: shoot.
 derivation: a primitive root (rather identical with H7231 (רָבַב) through the idea
   of projection);
-extended_definition:
-  gloss: to multiply ten thousand
-  definition: (Qal) to shoot
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to shoot {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2671
-    proximity: 0.829
+    lemma: חֵץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: H7231
-    proximity: 0.8193
+    lemma: רָבַב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H7227
-    proximity: 0.8193
+    lemma: רַב
+    gloss: abundant (in quantity {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H7235b
-    proximity: 0.8176
+    proximity: 0.8176 {macula-proximity}
   - strongs: H3384c
-    proximity: 0.8166
+    proximity: 0.8166 {macula-proximity}
   - strongs: H1419
-    proximity: 0.8109
+    lemma: גָּדוֹל
+    gloss: great {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
   - strongs: H8281
-    proximity: 0.8042
+    lemma: שָׁרָה
+    gloss: to free {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: H2590a
-    proximity: 0.8011
+    proximity: 0.8011 {macula-proximity}
   - strongs: A5047
-    proximity: 0.798
+    proximity: 0.798 {macula-proximity}
   - strongs: H4175
-    proximity: 0.7842
+    lemma: מוֹרֶה
+    gloss: an archer {openscriptures-strongs}
+    proximity: 0.7842 {macula-proximity}
   cross_language:
   - strongs: G3187
-    proximity: 0.7914
+    lemma: μείζων
+    gloss: larger (literally or figuratively {openscriptures-strongs}
+    proximity: 0.7914 {macula-proximity}
     language: greek
   - strongs: G1032
-    proximity: 0.7767
+    lemma: βρύω
+    gloss: to swell out {openscriptures-strongs}
+    proximity: 0.7767 {macula-proximity}
     language: greek
   - strongs: G5462
-    proximity: 0.7557
+    lemma: φωτισμός
+    gloss: illumination {openscriptures-strongs}
+    proximity: 0.7557 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

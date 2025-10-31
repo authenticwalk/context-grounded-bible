@@ -6,47 +6,57 @@ pronunciation: raw-eh'
 definition: seeing, i.e. experiencing
 kjv_usage: see.
 derivation: from H7200 (רָאָה);
-extended_definition:
-  gloss: to see
-  definition: (Qal) seeing
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) seeing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3807a
-    proximity: 0.8289
+    proximity: 0.8289 {macula-proximity}
   - strongs: H5234
-    proximity: 0.8272
+    lemma: נָכַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: H2219a
-    proximity: 0.8239
+    proximity: 0.8239 {macula-proximity}
   - strongs: H3045
-    proximity: 0.8124
+    lemma: יָדַע
+    gloss: to know (properly {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: H5027
-    proximity: 0.7976
+    lemma: נָבַט
+    gloss: to scan {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: H2005
-    proximity: 0.7901
+    lemma: הֵן
+    gloss: lo! {openscriptures-strongs}
+    proximity: 0.7901 {macula-proximity}
   - strongs: H2628
-    proximity: 0.7843
+    lemma: חָסַל
+    gloss: to eat off {openscriptures-strongs}
+    proximity: 0.7843 {macula-proximity}
   - strongs: H7789
-    proximity: 0.7767
+    lemma: שׁוּר
+    gloss: to spy out {openscriptures-strongs}
+    proximity: 0.7767 {macula-proximity}
   cross_language:
   - strongs: G1914
-    proximity: 0.8276
+    lemma: ἐπιβλέπω
+    gloss: to gaze at (with favor {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: greek
   - strongs: G872
-    proximity: 0.8238
+    proximity: 0.8238 {macula-proximity}
     language: greek
   - strongs: G3511
-    proximity: 0.8229
+    lemma: νεωκόρος
+    gloss: a temple-servant {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G4894b
-    proximity: 0.8205
+    proximity: 0.8205 {macula-proximity}
     language: greek
   - strongs: G2719
-    proximity: 0.8137
+    lemma: κατεσθίω
+    gloss: to eat down {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

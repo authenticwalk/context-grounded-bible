@@ -6,40 +6,46 @@ pronunciation: lap-peed'
 definition: a flambeau, lamp or flame
 kjv_usage: (fire-) brand, (burning) lamp, lightning, torch.
 derivation: or לַפִּד; from an unused root probably meaning to shine;
-extended_definition:
-  gloss: torch
-  definition: torch
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: torch {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A1815
-    proximity: 0.8287
+    proximity: 0.8287 {macula-proximity}
   - strongs: H2385
-    proximity: 0.8274
+    lemma: חֲזִיז
+    gloss: a flash of lightning {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H8313
-    proximity: 0.8222
+    lemma: שָׂרַף
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H216
-    proximity: 0.817
+    proximity: 0.817 {macula-proximity}
   - strongs: H7565
-    proximity: 0.7827
+    lemma: רֶשֶׁף
+    gloss: a live coal {openscriptures-strongs}
+    proximity: 0.7827 {macula-proximity}
   - strongs: H965
-    proximity: 0.7824
+    proximity: 0.7824 {macula-proximity}
   - strongs: H4348
-    proximity: 0.7646
+    lemma: מִכְוָה
+    gloss: a burn {openscriptures-strongs}
+    proximity: 0.7646 {macula-proximity}
   - strongs: H3852
-    proximity: 0.7547
+    lemma: לֶהָבָה
+    gloss: '{a flash {openscriptures-strongs}'
+    proximity: 0.7547 {macula-proximity}
   - strongs: H784
-    proximity: 0.7242
+    proximity: 0.7242 {macula-proximity}
   cross_language:
   - strongs: G2204
-    proximity: 0.8067
+    lemma: ζέω
+    gloss: to be hot (boil {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
     language: greek
   - strongs: G4442
-    proximity: 0.7969
+    lemma: πῦρ
+    gloss: '"fire" (literally or figuratively {openscriptures-strongs}'
+    proximity: 0.7969 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,47 +6,59 @@ pronunciation: lish-kaw'
 definition: a room in a building (whether for storage, eating, or lodging)
 kjv_usage: chamber, parlour. Compare H5393 (נִשְׁכָּה).
 derivation: from an unused root of uncertain meaning;
-extended_definition:
-  gloss: chamber
-  definition: room, chamber, hall, cell
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: room, chamber, hall, cell {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H214
-    proximity: 0.812
+    proximity: 0.812 {macula-proximity}
   - strongs: H618
-    proximity: 0.8119
+    proximity: 0.8119 {macula-proximity}
   - strongs: H4747
-    proximity: 0.8061
+    lemma: מְקֵרָה
+    gloss: a cooling off {openscriptures-strongs}
+    proximity: 0.8061 {macula-proximity}
   - strongs: A1005
-    proximity: 0.8054
+    proximity: 0.8054 {macula-proximity}
   - strongs: H4543
-    proximity: 0.804
+    lemma: מִסְכְּנָה
+    gloss: a magazine {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   - strongs: H7064
-    proximity: 0.781
+    lemma: קֵן
+    gloss: a nest {openscriptures-strongs}
+    proximity: 0.781 {macula-proximity}
   - strongs: H4746
-    proximity: 0.7781
+    lemma: מְקָרֶה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7781 {macula-proximity}
   - strongs: H8372
-    proximity: 0.7589
+    lemma: תָּא
+    gloss: a room {openscriptures-strongs}
+    proximity: 0.7589 {macula-proximity}
   cross_language:
   - strongs: G3578
-    proximity: 0.8253
+    lemma: ξενία
+    gloss: hospitality {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
     language: greek
   - strongs: G3613
-    proximity: 0.8214
+    lemma: οἰκητήριον
+    gloss: a residence {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
     language: greek
   - strongs: G2344
-    proximity: 0.8143
+    lemma: θησαυρός
+    gloss: a deposit {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
     language: greek
   - strongs: G3624
-    proximity: 0.8127
+    lemma: οἶκος
+    gloss: a dwelling (more or less extensive {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
     language: greek
   - strongs: G3410
-    proximity: 0.799
+    lemma: μίσθωμα
+    gloss: a rented building {openscriptures-strongs}
+    proximity: 0.799 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

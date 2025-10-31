@@ -7,43 +7,53 @@ definition: opening (of a dungeon), i.e. jail-delivery (figuratively, salvation 
   sin)
 kjv_usage: opening of the prison.
 derivation: from H6491 (פָּקַח) redoubled;
-extended_definition:
-  gloss: opening
-  definition: opening (of eyes), wide
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: opening (of eyes), wide {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3318
-    proximity: 0.8277
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H6362
-    proximity: 0.8263
+    lemma: פָּטַר
+    gloss: to cleave or burst through {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: H6308
-    proximity: 0.7904
+    lemma: פָּדַע
+    gloss: to retrieve {openscriptures-strongs}
+    proximity: 0.7904 {macula-proximity}
   - strongs: H6605
-    proximity: 0.7439
+    lemma: פָּתַח
+    gloss: to open wide {openscriptures-strongs}
+    proximity: 0.7439 {macula-proximity}
   - strongs: H8281
-    proximity: 0.7286
+    lemma: שָׁרָה
+    gloss: to free {openscriptures-strongs}
+    proximity: 0.7286 {macula-proximity}
   - strongs: H2666
-    proximity: 0.7251
+    lemma: חָפַשׁ
+    gloss: to spread loose {openscriptures-strongs}
+    proximity: 0.7251 {macula-proximity}
   cross_language:
   - strongs: G525
-    proximity: 0.7819
+    proximity: 0.7819 {macula-proximity}
     language: greek
   - strongs: G3084
-    proximity: 0.7757
+    lemma: λυτρόω
+    gloss: to ransom {openscriptures-strongs}
+    proximity: 0.7757 {macula-proximity}
     language: greek
   - strongs: G3086
-    proximity: 0.7714
+    lemma: λυτρωτής
+    gloss: a redeemer {openscriptures-strongs}
+    proximity: 0.7714 {macula-proximity}
     language: greek
   - strongs: G3089
-    proximity: 0.7586
+    lemma: λύω
+    gloss: to "loosen" {openscriptures-strongs}
+    proximity: 0.7586 {macula-proximity}
     language: greek
   - strongs: G629
-    proximity: 0.742
+    proximity: 0.742 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,50 +5,59 @@ transliteration: perioúsios
 definition: being beyond usual, i.e. special (one's own)
 kjv_usage: peculiar
 derivation: from the present participle feminine of a compound of 4012 and G1510 (εἰμί);
-extended_definition:
-  gloss: special
-  definition: '<b>περιούσιος</b>, -ον<BR /> (περίειμι, to be over and above), [in
-    LXX: <ref=''Exo.19.5; 23.22''>Exo.19:5 23:22</ref>, <ref=''Deu.7.6; 14.2; 26.18''>Deu.7:6
-    14:2 26:18</ref> (סְגֻלָּה, עַם)* ;] <BR /><b>one''s own, of one''s own possession</b>:
-    λαὸς π. (cf. LXX, ll. with), <ref=''Tit.2.14.''>Tit.2:14.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> περιούσι-ος</b>, ον, <br /> <b>having more than enough, wealthy</b>,
-    [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus;
-    uncertain meaning in “PGen.” 11.17 (4th c.AD). ">Refs 4th c.AD+</a>]<br /><Level2><b>__II</b></Level2>
-    <b>especial, peculiar</b>, λαός [<a href="javascript:void(0)" title=" LXX.Exo.19.5,
-    +others, NT.Tit.2.14. ">LXX+NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'περιούσιος, -ον
+
+  (περίειμι, to be over and above), [in LXX: Exo.19:5 23:22, Deu.7:6 14:2 26:18 (סְגֻלָּה,
+  עַם)* ;]
+
+  one''s own, of one''s own possession: λαὸς π. (cf. LXX, ll. with), Tit.2:14.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'περιούσι-ος, ον,
+
+  having more than enough, wealthy, [Refs 4th c.AD+]
+
+  __II especial, peculiar, λαός [LXX+NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2697
-    proximity: 0.828
+    lemma: κατάσχεσις
+    gloss: a holding down {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
   - strongs: G2933
-    proximity: 0.8182
+    lemma: κτῆμα
+    gloss: an acquirement {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
   - strongs: G5223
-    proximity: 0.7917
+    lemma: ὕπαρξις
+    gloss: existency or proprietorship {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: G5224
-    proximity: 0.7847
+    lemma: ὑπάρχοντα
+    gloss: things extant or in hand {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
   cross_language:
   - strongs: H4005
-    proximity: 0.8284
+    lemma: מִבְחָר
+    gloss: select {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: hebrew
   - strongs: H977
-    proximity: 0.8198
+    proximity: 0.8198 {macula-proximity}
     language: hebrew
   - strongs: H3425
-    proximity: 0.8105
+    lemma: יְרֻשָּׁה
+    gloss: something occupied {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
     language: hebrew
   - strongs: H3424
-    proximity: 0.8088
+    lemma: יְרֵשָׁה
+    gloss: occupancy {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
     language: hebrew
   - strongs: H4512
-    proximity: 0.8
+    lemma: מִנְלֶה
+    gloss: completion {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

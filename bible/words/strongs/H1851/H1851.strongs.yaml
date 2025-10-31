@@ -6,25 +6,27 @@ pronunciation: dak
 definition: crushed, i.e. (by implication) small or thin
 kjv_usage: dwarf, lean(-fleshed), very little thing, small, thin.
 derivation: from H1854 (דָּקַק);
-extended_definition:
-  gloss: thin
-  definition: 1) thin, small, fine, gaunt<br>1a) thin<br>1b) small, fine
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) thin, small, fine, gaunt
+
+  1a) thin
+
+  1b) small, fine {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H665
-    proximity: 0.8276
+    proximity: 0.8276 {macula-proximity}
   - strongs: H5560
-    proximity: 0.8265
+    lemma: סֹלֶת
+    gloss: flour {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H80
-    proximity: 0.8197
+    proximity: 0.8197 {macula-proximity}
   - strongs: H7330
-    proximity: 0.8169
+    lemma: רָזֶה
+    gloss: thin {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: H8102
-    proximity: 0.7897
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: שֶׁמֶץ
+    gloss: an inkling {openscriptures-strongs}
+    proximity: 0.7897 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

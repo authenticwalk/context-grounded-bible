@@ -5,64 +5,71 @@ transliteration: parathalássios
 definition: along the sea, i.e. maritime (lacustrine)
 kjv_usage: upon the sea coast
 derivation: from G3844 (παρά) and G2281 (θάλασσα);
-extended_definition:
-  gloss: seaside
-  definition: '<b>παρα-θαλάσσιος</b>, -α, -ον<BR /> (παρά, θάλασσα) [in LXX: <ref=''Jer.47.7''>Jer.47:7</ref>
-    (יָם חוֹף), etc. ;] <BR /><b>by the sea</b>: <ref=''Mat.4.13.''>Mat.4:13.</ref>†<BR
-    /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> παραθᾰλάσσ-ιος</b>, <br /> <i>Attic dialect</i> <b>παραθαλάττιος</b>,
-    α, ον (also ος, ον [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides
-    Historicus 4.56)">Refs 5th c.BC+</a>], <b>beside the sea</b>, τὰς πόλιας τὰς π.
-    [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.109; τὰς
-    π. κώμας [prev. author] 8.23; τὰ π. τῆς Ἑλλάδος [prev. author] 3.135; τὰ π. τῶν
-    καρπῶν [prev. author] 4.199 ">Refs 5th c.BC+</a>]; ἡ π. (i.e. γῆ) [<a href="javascript:void(0)"
-    title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 4.8.7.
-    ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'παρα-θαλάσσιος, -α, -ον
+
+  (παρά, θάλασσα) [in LXX: Jer.47:7 (יָם חוֹף), etc. ;]
+
+  by the sea: Mat.4:13.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'παραθᾰλάσσ-ιος,
+
+  Attic dialect παραθαλάττιος, α, ον (also ος, ον [Refs 5th c.BC+], beside the sea,
+  τὰς πόλιας τὰς π. [Refs 5th c.BC+]; ἡ π. (i.e. γῆ) [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5259
-    proximity: 0.8244
+    lemma: ὑπό
+    gloss: under {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: G5491
-    proximity: 0.8162
+    lemma: χεῖλος
+    gloss: a lip {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: G99
-    proximity: 0.8133
+    proximity: 0.8133 {macula-proximity}
   - strongs: A1886g
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
   - strongs: G788
-    proximity: 0.8036
+    proximity: 0.8036 {macula-proximity}
   - strongs: G3989
-    proximity: 0.7965
+    lemma: πέλαγος
+    gloss: deep or open sea {openscriptures-strongs}
+    proximity: 0.7965 {macula-proximity}
   - strongs: A1b
-    proximity: 0.7935
+    proximity: 0.7935 {macula-proximity}
   - strongs: G3844
-    proximity: 0.7813
+    lemma: παρά
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7813 {macula-proximity}
   - strongs: G1037
-    proximity: 0.7681
+    lemma: βυθός
+    gloss: depth {openscriptures-strongs}
+    proximity: 0.7681 {macula-proximity}
   - strongs: G3588
-    proximity: 0.7449
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7449 {macula-proximity}
   cross_language:
   - strongs: H2348
-    proximity: 0.8279
+    lemma: חוֹף
+    gloss: a cove {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: hebrew
   - strongs: H5980
-    proximity: 0.8247
+    lemma: עֻמָּה
+    gloss: conjunction {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: hebrew
   - strongs: H681
-    proximity: 0.8084
+    proximity: 0.8084 {macula-proximity}
     language: hebrew
   - strongs: H6683
-    proximity: 0.7865
+    lemma: צוּלָה
+    gloss: an abyss {openscriptures-strongs}
+    proximity: 0.7865 {macula-proximity}
     language: hebrew
   - strongs: H1886a
-    proximity: 0.7158
+    proximity: 0.7158 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

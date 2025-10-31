@@ -7,27 +7,29 @@ definition: a bed (as extended) forsleeping or eating; by analogy, a sofa, litte
   or bier
 kjv_usage: bed(-chamber), bier.
 derivation: from H5186 (נָטָה);
-extended_definition:
-  gloss: bed
-  definition: couch, bed, bier
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: couch, bed, bier {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2315
-    proximity: 0.7951
+    lemma: חֶדֶר
+    gloss: an apartment {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
   - strongs: H3331
-    proximity: 0.779
+    lemma: יַצַע
+    gloss: to strew as a surface {openscriptures-strongs}
+    proximity: 0.779 {macula-proximity}
   - strongs: H4765
-    proximity: 0.7614
+    lemma: מַרְבַד
+    gloss: a coverlet {openscriptures-strongs}
+    proximity: 0.7614 {macula-proximity}
   - strongs: H6170
-    proximity: 0.7533
+    lemma: עֲרוּגָה
+    gloss: something piled up  raised by mental aspiration) {openscriptures-strongs}
+    proximity: 0.7533 {macula-proximity}
   cross_language:
   - strongs: G2826
-    proximity: 0.7792
+    lemma: κλινίδιον
+    gloss: a pallet or little couch {openscriptures-strongs}
+    proximity: 0.7792 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

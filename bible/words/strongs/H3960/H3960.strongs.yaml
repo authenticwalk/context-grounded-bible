@@ -7,28 +7,31 @@ definition: to wag the tongue, i.e. to calumniate
 kjv_usage: accuse, slander.
 derivation: a primitive root; properly, to lick; but used only as a denominative from
   H3956 (לָשׁוֹן);
-extended_definition:
-  gloss: to slander
-  definition: 1) to use the tongue, slander<br>1a) (Poel) to slander<br>1b) (Piel)
-    to slander<br>1c) (Hiphil) to accuse
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to use the tongue, slander
+
+  1a) (Poel) to slander
+
+  1b) (Piel) to slander
+
+  1c) (Hiphil) to accuse {STEPBible-TBESH}'
 related_words:
   cross_language:
   - strongs: G988
-    proximity: 0.8245
+    proximity: 0.8245 {macula-proximity}
     language: greek
   - strongs: G2551
-    proximity: 0.8033
+    lemma: κακολογέω
+    gloss: to revile {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
     language: greek
   - strongs: G1426
-    proximity: 0.7847
+    lemma: δυσφημία
+    gloss: defamation {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
     language: greek
   - strongs: G2637
-    proximity: 0.7335
+    lemma: κατάλαλος
+    gloss: talkative against {openscriptures-strongs}
+    proximity: 0.7335 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

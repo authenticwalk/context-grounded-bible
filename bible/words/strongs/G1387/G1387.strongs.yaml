@@ -5,49 +5,54 @@ transliteration: dolióō
 definition: to be guileful
 kjv_usage: use deceit
 derivation: from G1386 (δόλιος);
-extended_definition:
-  gloss: to deceive
-  definition: '<b>δολιόω</b><BR /> (δόλιος), [in LXX: <ref=''Num.25.18''>Num.25:18</ref>,
-    <ref=''Psa.105.25''>Psa.105:25</ref> (נָכַל), <ref=''Psa.5.6''>Psa.5:6</ref> (חָלַק
-    hi.) * ;] <BR /><b>to deceive</b>: ἐδολιοῦσαν (-σαν, frequently in κοινή Gk. for
-    imperfect 3rd of person(s) pl.), <ref=''Rom.3.13''>Rom.3:13</ref> (LXX).†<BR />
-    (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> δολιόω</b>, <br /> <i>3rd.pers.</i> <i>plural</i> <i>imperfect</i>
-    ἐδολιοῦσαν, <b>deal treacherously with</b> one, [<a href="javascript:void(0)"
-    title=" LXX.Psa.5.10, +others">LXX</a>]: <i>absolutely</i>, <b>to be treacherous,</b>
-    [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Symmachus LXX.Pro.26.19. ">LXX+2nd
-    c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δολιόω
+
+  (δόλιος), [in LXX: Num.25:18, Psa.105:25 (נָכַל), Psa.5:6 (חָלַק hi.) * ;]
+
+  to deceive: ἐδολιοῦσαν (-σαν, frequently in κοινή Gk. for imperfect 3rd of person(s)
+  pl.), Rom.3:13 (LXX).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'δολιόω,
+
+  3rd.pers. plural imperfect ἐδολιοῦσαν, deal treacherously with one, [LXX]: absolutely,
+  to be treacherous, [LXX+2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4105
-    proximity: 0.8227
+    lemma: πλανάω
+    gloss: to (properly {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: G3884
-    proximity: 0.7398
+    lemma: παραλογίζομαι
+    gloss: to misreckon {openscriptures-strongs}
+    proximity: 0.7398 {macula-proximity}
   - strongs: G1388
-    proximity: 0.7376
+    lemma: δόλος
+    gloss: compare G1185 ) {openscriptures-strongs}
+    proximity: 0.7376 {macula-proximity}
   cross_language:
   - strongs: H6117
-    proximity: 0.8244
+    lemma: עָקַב
+    gloss: to seize by the heel {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: hebrew
   - strongs: H5230
-    proximity: 0.8207
+    lemma: נָכַל
+    gloss: to defraud {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
     language: hebrew
   - strongs: H7952
-    proximity: 0.8201
+    lemma: שָׁלָה
+    gloss: to mislead {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: hebrew
   - strongs: H7423a
-    proximity: 0.7653
+    proximity: 0.7653 {macula-proximity}
     language: hebrew
   - strongs: H4820
-    proximity: 0.752
+    lemma: מִרְמָה
+    gloss: fraud {openscriptures-strongs}
+    proximity: 0.752 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

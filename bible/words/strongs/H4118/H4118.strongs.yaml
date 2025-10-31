@@ -9,26 +9,33 @@ derivation: from H4116 (מָהַר);
 related_words:
   synonyms:
   - strongs: A924
-    proximity: 0.8174
+    proximity: 0.8174 {macula-proximity}
   - strongs: H973
-    proximity: 0.7864
+    proximity: 0.7864 {macula-proximity}
   - strongs: H2649
-    proximity: 0.7854
+    lemma: חִפָּזוֹן
+    gloss: hasty flight {openscriptures-strongs}
+    proximity: 0.7854 {macula-proximity}
   - strongs: H3288
-    proximity: 0.7726
+    lemma: יְעָף
+    gloss: fatigue (adverb {openscriptures-strongs}
+    proximity: 0.7726 {macula-proximity}
   - strongs: H926
-    proximity: 0.7665
+    proximity: 0.7665 {macula-proximity}
   cross_language:
   - strongs: G1810
-    proximity: 0.7897
+    lemma: ἐξαίφνης
+    gloss: of a sudden {openscriptures-strongs}
+    proximity: 0.7897 {macula-proximity}
     language: greek
   - strongs: G4708
-    proximity: 0.7848
+    lemma: σπουδαιοτέρως
+    gloss: more speedily {openscriptures-strongs}
+    proximity: 0.7848 {macula-proximity}
     language: greek
   - strongs: G2117
-    proximity: 0.7492
+    lemma: εὐθύς
+    gloss: straight {openscriptures-strongs}
+    proximity: 0.7492 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

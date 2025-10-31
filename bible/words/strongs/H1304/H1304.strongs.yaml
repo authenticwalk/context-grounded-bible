@@ -9,19 +9,22 @@ derivation: or בָּרְקַתxlit bârᵉkath corrected to bârᵉqath; from H
 related_words:
   synonyms:
   - strongs: H8658
-    proximity: 0.7744
+    lemma: תַּרְשִׁישׁ
+    gloss: a gem {openscriptures-strongs}
+    proximity: 0.7744 {macula-proximity}
   - strongs: H916
-    proximity: 0.7544
+    proximity: 0.7544 {macula-proximity}
   - strongs: H688
-    proximity: 0.7217
+    proximity: 0.7217 {macula-proximity}
   cross_language:
   - strongs: G4665
-    proximity: 0.7847
+    lemma: σμάραγδος
+    gloss: the emerald or green gem so called {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
     language: greek
   - strongs: G4664
-    proximity: 0.7847
+    lemma: σμαράγδινος
+    gloss: consisting of emerald {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

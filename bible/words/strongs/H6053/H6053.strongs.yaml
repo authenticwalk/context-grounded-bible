@@ -6,25 +6,21 @@ pronunciation: an-aw-naw'
 definition: cloudiness
 kjv_usage: cloud.
 derivation: feminine of H6051 (עָנָן);
-extended_definition:
-  gloss: cloud
-  definition: cloud, cloudy
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: cloud, cloudy {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7255a
-    proximity: 0.8028
+    proximity: 0.8028 {macula-proximity}
   - strongs: H6227
-    proximity: 0.7803
+    lemma: עָשָׁן
+    gloss: smoke {openscriptures-strongs}
+    proximity: 0.7803 {macula-proximity}
   - strongs: H5743
-    proximity: 0.7436
+    lemma: עוּב
+    gloss: to be dense or dark {openscriptures-strongs}
+    proximity: 0.7436 {macula-proximity}
   cross_language:
   - strongs: G822
-    proximity: 0.7193
+    proximity: 0.7193 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

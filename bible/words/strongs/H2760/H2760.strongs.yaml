@@ -6,28 +6,30 @@ pronunciation: khaw-rak'
 definition: to braid (i.e. to entangle or snare) or catch (game) in anet
 kjv_usage: roast.
 derivation: a primitive root;
-extended_definition:
-  gloss: to roast
-  definition: 1) (Qal) to set in motion, start<br>2) (CLBL) to roast
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Qal) to set in motion, start
+
+  2) (CLBL) to roast {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7039
-    proximity: 0.8277
+    lemma: קָלִי
+    gloss: roasted ears of grain {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H7033
-    proximity: 0.7569
+    lemma: קָלָה
+    gloss: to toast {openscriptures-strongs}
+    proximity: 0.7569 {macula-proximity}
   - strongs: H644
-    proximity: 0.7036
+    proximity: 0.7036 {macula-proximity}
   cross_language:
   - strongs: G3702
-    proximity: 0.7937
+    lemma: ὀπτός
+    gloss: cooked {openscriptures-strongs}
+    proximity: 0.7937 {macula-proximity}
     language: greek
   - strongs: G2739
-    proximity: 0.793
+    lemma: καυματίζω
+    gloss: to burn {openscriptures-strongs}
+    proximity: 0.793 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

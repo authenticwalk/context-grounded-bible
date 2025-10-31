@@ -6,39 +6,44 @@ definition: constant; Parmenas, a Christian
 kjv_usage: Parmenas
 derivation: probably by contraction for (a derivative of a compound of G3844 (παρά)
   and G3306 (μένω));
-extended_definition:
-  gloss: Parmenas
-  definition: '<b>Παρμενᾶς</b>, ᾶ, ὁ<BR /> <b>Parmenas</b>: <ref=''Act.6.5.''>Act.6:5.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Παρμενᾶς</b>, ᾶ, ὁ<BR /> <b>Parmenas</b>: <ref=''Act.6.5.''>Act.6:5.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Παρμενᾶς, ᾶ, ὁ
+
+  Parmenas: Act.6:5.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Παρμενᾶς, ᾶ, ὁ
+
+  Parmenas: Act.6:5.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G921
-    proximity: 0.7194
+    proximity: 0.7194 {macula-proximity}
   cross_language:
   - strongs: H6047
-    proximity: 0.8297
+    lemma: עֲנָמִים
+    gloss: Anamim {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: hebrew
   - strongs: H3124
-    proximity: 0.8295
+    lemma: יוֹנָה
+    gloss: Jonah {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: hebrew
   - strongs: H4708
-    proximity: 0.822
+    lemma: מִצְפֶּה
+    gloss: Mitspeh {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
     language: hebrew
   - strongs: H4558
-    proximity: 0.8201
+    lemma: מִסְפָּר
+    gloss: Mispar {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: hebrew
   - strongs: H5037
-    proximity: 0.8168
+    lemma: נָבָל
+    gloss: Nabal {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

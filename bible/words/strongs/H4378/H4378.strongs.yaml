@@ -6,47 +6,55 @@ pronunciation: mak-kawr'
 definition: an acquaintance
 kjv_usage: acquaintance.
 derivation: from H5234 (נָכַר);
-extended_definition:
-  gloss: acquaintance
-  definition: acquaintance, friend
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: acquaintance, friend {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1844
-    proximity: 0.8271
+    lemma: דֵּעָה
+    gloss: knowledge {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: A1490
-    proximity: 0.8271
+    proximity: 0.8271 {macula-proximity}
   - strongs: H4901
-    proximity: 0.8231
+    lemma: מֶשֶׁךְ
+    gloss: a sowing {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H1489
-    proximity: 0.8167
+    lemma: גִּזְבָּר
+    gloss: treasurer {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H1595
-    proximity: 0.8097
+    lemma: גֶּנֶז
+    gloss: treasure {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: A1411
-    proximity: 0.8083
+    proximity: 0.8083 {macula-proximity}
   - strongs: H614
-    proximity: 0.7983
+    proximity: 0.7983 {macula-proximity}
   - strongs: H4377
-    proximity: 0.7751
+    lemma: מֶכֶר
+    gloss: merchandise {openscriptures-strongs}
+    proximity: 0.7751 {macula-proximity}
   cross_language:
   - strongs: G1108
-    proximity: 0.8154
+    lemma: γνῶσις
+    gloss: knowing {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
     language: greek
   - strongs: G57
-    proximity: 0.7894
+    proximity: 0.7894 {macula-proximity}
     language: greek
   - strongs: G56
-    proximity: 0.7797
+    proximity: 0.7797 {macula-proximity}
     language: greek
   - strongs: G1109
-    proximity: 0.762
+    lemma: γνώστης
+    gloss: a knower {openscriptures-strongs}
+    proximity: 0.762 {macula-proximity}
     language: greek
   - strongs: G1110
-    proximity: 0.7212
+    lemma: γνωστός
+    gloss: well-known {openscriptures-strongs}
+    proximity: 0.7212 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

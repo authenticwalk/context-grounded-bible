@@ -5,33 +5,34 @@ transliteration: Nathán
 definition: Nathan, an Israelite
 kjv_usage: Nathan
 derivation: of Hebrew origin (H05416);
-extended_definition:
-  gloss: Nathan
-  definition: '<b>Ναθάμ</b> (Rec. Ναθάν), ὁ, indecl. (Heb. נָתַן), <BR /> <b>Nathan</b>:
-    <ref=''Luk.3.31.''>Luk.3:31.</ref>† <BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ναθάμ</b> (Rec. Ναθάν), ὁ, indecl. (Heb. נָתַן), <BR /> <b>Nathan</b>:
-    <ref=''Luk.3.31.''>Luk.3:31.</ref>† <BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ναθάμ (Rec. Ναθάν), ὁ, indecl. (Heb. נָתַן),
+
+  Nathan: Luk.3:31.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ναθάμ (Rec. Ναθάν), ὁ, indecl. (Heb. נָתַן),
+
+  Nathan: Luk.3:31.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H494
-    proximity: 0.8209
+    proximity: 0.8209 {macula-proximity}
     language: hebrew
   - strongs: H5419
-    proximity: 0.8138
+    lemma: נְתַן־מֶלֶךְ
+    gloss: Nethan-Melek {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
     language: hebrew
   - strongs: H3129
-    proximity: 0.8015
+    lemma: יוֹנָתָן
+    gloss: Jonathan {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
     language: hebrew
   - strongs: H3083
-    proximity: 0.7936
+    lemma: יְהוֹנָתָן
+    gloss: Jehonathan {openscriptures-strongs}
+    proximity: 0.7936 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

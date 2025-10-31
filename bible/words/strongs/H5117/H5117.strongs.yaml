@@ -9,53 +9,87 @@ definition: to rest, i.e. settle down; used in a great variety of applications, 
 kjv_usage: cease, be confederate, lay, let down, (be) quiet, remain, (cause to, be
   at, give, have, make to) rest, set down. Compare H3241 (יָנִים).
 derivation: a primitive root;
-extended_definition:
-  gloss: to rest
-  definition: '1) to rest<br>1a) (Qal)<br>1a1) to rest, settle down and remain<br>1a2)
-    to repose, have rest, be quiet<br>1b) (Hiph)<br>1b1) to cause to rest, give rest
-    to, make quiet<br>1b2) to cause to rest, cause to alight, set down<br>1b3) to
-    lay or set down, deposit, let lie, place<br>1b4) to let remain, leave<br>1b5)
-    to leave, depart from<br>1b6) to abandon<br>1b7) to permit<br>1c) (Hoph)<br>1c1)
-    to obtain rest, be granted rest<br>1c2) to be left, be placed<br>1c3) open space
-    (subst)<BR>Also means: <i>ya.nach</i> (יָנַח "to rest" H3240)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to rest
+
+  1a) (Qal)
+
+  1a1) to rest, settle down and remain
+
+  1a2) to repose, have rest, be quiet
+
+  1b) (Hiph)
+
+  1b1) to cause to rest, give rest to, make quiet
+
+  1b2) to cause to rest, cause to alight, set down
+
+  1b3) to lay or set down, deposit, let lie, place
+
+  1b4) to let remain, leave
+
+  1b5) to leave, depart from
+
+  1b6) to abandon
+
+  1b7) to permit
+
+  1c) (Hoph)
+
+  1c1) to obtain rest, be granted rest
+
+  1c2) to be left, be placed
+
+  1c3) open space (subst)
+
+  Also means: ya.nach (יָנַח "to rest" H3240) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A3488
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
   - strongs: H4480
-    proximity: 0.8269
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: H7918
-    proximity: 0.8242
+    lemma: שָׁכַךְ
+    gloss: to weave  a trap {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H1961
-    proximity: 0.8236
+    lemma: הָיָה
+    gloss: to exist {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
   - strongs: H5314
-    proximity: 0.8208
+    lemma: נָפַשׁ
+    gloss: to breathe {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   - strongs: H8367
-    proximity: 0.819
+    lemma: שָׁתַק
+    gloss: to subside {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   - strongs: H4672
-    proximity: 0.8173
+    lemma: מָצָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
   - strongs: H3885a
-    proximity: 0.8141
+    proximity: 0.8141 {macula-proximity}
   cross_language:
   - strongs: G2010
-    proximity: 0.8276
+    lemma: ἐπιτρέπω
+    gloss: to turn over {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: greek
   - strongs: G606
-    proximity: 0.8216
+    proximity: 0.8216 {macula-proximity}
     language: greek
   - strongs: G867
-    proximity: 0.8202
+    proximity: 0.8202 {macula-proximity}
     language: greek
   - strongs: G362
-    proximity: 0.8181
+    proximity: 0.8181 {macula-proximity}
     language: greek
   - strongs: G2645
-    proximity: 0.8151
+    lemma: κατάλοιπος
+    gloss: left down {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

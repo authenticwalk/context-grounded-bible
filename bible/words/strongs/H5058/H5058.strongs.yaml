@@ -7,46 +7,65 @@ definition: properly, instrumental music; by implication, a stringed instrument;
   extension, a poem set to music; specifically, an epigram
 kjv_usage: stringed instrument, musick, Neginoth (plural), song.
 derivation: or נְגִינַת; (Psalm 61:title), from H5059 (נָגַן);
-extended_definition:
-  gloss: music
-  definition: 1) music, song, taunt song<br>1a) music (of stringed instrument)<br>1b)
-    song<br>1b1) taunting or mocking song
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) music, song, taunt song
+
+  1a) music (of stringed instrument)
+
+  1b) song
+
+  1b1) taunting or mocking song {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7438
-    proximity: 0.827
+    lemma: רֹן
+    gloss: a shout {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H6218
-    proximity: 0.8201
+    lemma: עָשׂוֹר
+    gloss: ten {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: H2176
-    proximity: 0.807
+    lemma: זִמְרָת
+    gloss: instrumental music {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
   - strongs: H2158
-    proximity: 0.7879
+    lemma: זָמִיר
+    gloss: a song to be accompanied with instrumental music {openscriptures-strongs}
+    proximity: 0.7879 {macula-proximity}
   - strongs: H7891
-    proximity: 0.7681
+    lemma: שִׁיר
+    gloss: to sing {openscriptures-strongs}
+    proximity: 0.7681 {macula-proximity}
   - strongs: H5155
-    proximity: 0.7508
+    lemma: נְחִילָה
+    gloss: a flute {openscriptures-strongs}
+    proximity: 0.7508 {macula-proximity}
   - strongs: H7892a
-    proximity: 0.7331
+    proximity: 0.7331 {macula-proximity}
   - strongs: A1761
-    proximity: 0.7315
+    proximity: 0.7315 {macula-proximity}
   - strongs: H4485
-    proximity: 0.7169
+    lemma: מַנְגִּינָה
+    gloss: a satire {openscriptures-strongs}
+    proximity: 0.7169 {macula-proximity}
   - strongs: H2172
-    proximity: 0.7131
+    lemma: זִמְרָה
+    gloss: a musical piece or song to be accompanied by an instrument {openscriptures-strongs}
+    proximity: 0.7131 {macula-proximity}
   cross_language:
   - strongs: G3451
-    proximity: 0.8213
+    lemma: μουσικός
+    gloss: '"musical" {openscriptures-strongs}'
+    proximity: 0.8213 {macula-proximity}
     language: greek
   - strongs: G4858
-    proximity: 0.7925
+    lemma: συμφωνία
+    gloss: unison of sound {openscriptures-strongs}
+    proximity: 0.7925 {macula-proximity}
     language: greek
   - strongs: G5603
-    proximity: 0.7803
+    lemma: ᾠδή
+    gloss: a chant or "ode" (the general term for any words sung {openscriptures-strongs}
+    proximity: 0.7803 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

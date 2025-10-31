@@ -5,27 +5,26 @@ transliteration: Nikolaḯtēs
 definition: a Nicolaite, i.e. adherent of Nicolaus
 kjv_usage: Nicolaitane
 derivation: from G3532 (Νικόλαος);
-extended_definition:
-  gloss: Nicolaitan
-  definition: '<b>Νικολαΐτης</b>, -αυ, ὁ <BR /> <b>a Nicolaitan</b>: pl., <ref=''Rev.2.6,
-    15''>Rev.2:6, 15</ref>.†<BR /> (AS)'
-  morphology: N:N--LG
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Νικολαΐτης</b>, -αυ, ὁ <BR /> <b>a Nicolaitan</b>: pl., <ref=''Rev.2.6,
-    15''>Rev.2:6, 15</ref>.†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Νικολαΐτης, -αυ, ὁ
+
+  a Nicolaitan: pl., Rev.2:6, 15.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Νικολαΐτης, -αυ, ὁ
+
+  a Nicolaitan: pl., Rev.2:6, 15.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2883
-    proximity: 0.8106
+    lemma: Κορνήλιος
+    gloss: Cornelius {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
   cross_language:
   - strongs: H1476
-    proximity: 0.8252
+    lemma: גּוּנִי
+    gloss: Guni {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

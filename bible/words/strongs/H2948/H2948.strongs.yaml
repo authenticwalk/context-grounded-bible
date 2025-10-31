@@ -7,17 +7,11 @@ definition: '{a spread of the hand, i.e. a palm-breadth (not ''span'' of the fin
   architecturally, a corbel (as a supporting palm)}'
 kjv_usage: hand-breadth (broad).
 derivation: from H2946 (טָפַח) (the same as H2947 (טֵפַח))
-extended_definition:
-  gloss: handbreadth
-  definition: span, hand breadth
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: span, hand breadth {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8168
-    proximity: 0.8294
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: שֹׁעַל
+    gloss: the palm {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

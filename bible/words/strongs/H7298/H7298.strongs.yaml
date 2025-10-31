@@ -10,22 +10,29 @@ derivation: from an unused root apparently meaning to hollow out;
 related_words:
   synonyms:
   - strongs: H6333
-    proximity: 0.8046
+    lemma: פּוּרָה
+    gloss: a wine-press {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
   - strongs: H1356
-    proximity: 0.8016
+    lemma: גֵּב
+    gloss: a log {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
   - strongs: H4325
-    proximity: 0.7965
+    lemma: מַיִם
+    gloss: water {openscriptures-strongs}
+    proximity: 0.7965 {macula-proximity}
   - strongs: H650
-    proximity: 0.7813
+    proximity: 0.7813 {macula-proximity}
   - strongs: H18
-    proximity: 0.7492
+    proximity: 0.7492 {macula-proximity}
   - strongs: H6794
-    proximity: 0.7135
+    lemma: צִנּוּר
+    gloss: a culvert {openscriptures-strongs}
+    proximity: 0.7135 {macula-proximity}
   cross_language:
   - strongs: G5336
-    proximity: 0.7599
+    lemma: φάτνη
+    gloss: a crib {openscriptures-strongs}
+    proximity: 0.7599 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

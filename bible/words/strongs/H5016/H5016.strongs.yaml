@@ -6,45 +6,65 @@ pronunciation: neb-oo-aw'
 definition: a prediction (spoken or written)
 kjv_usage: prophecy.
 derivation: from H5012 (נָבָא);
-extended_definition:
-  gloss: prophecy
-  definition: '1) prophecy<br>1a) prophecy<br>1a1) specific and genuine<br>1a2) false<br>1b)
-    prophetic writing<BR>Aramaic equivalent: <i>ne.vu.ah</i> (נְבוּאָה "prophesying"
-    H5017)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) prophecy
+
+  1a) prophecy
+
+  1a1) specific and genuine
+
+  1a2) false
+
+  1b) prophetic writing
+
+  Aramaic equivalent: ne.vu.ah (נְבוּאָה "prophesying" H5017) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4853a
-    proximity: 0.7426
+    proximity: 0.7426 {macula-proximity}
   - strongs: H2374
-    proximity: 0.7371
+    lemma: חֹזֶה
+    gloss: a beholder in vision {openscriptures-strongs}
+    proximity: 0.7371 {macula-proximity}
   - strongs: H5197
-    proximity: 0.7179
+    lemma: נָטַף
+    gloss: to ooze {openscriptures-strongs}
+    proximity: 0.7179 {macula-proximity}
   - strongs: H5012
-    proximity: 0.7166
+    lemma: נָבָא
+    gloss: to prophesy {openscriptures-strongs}
+    proximity: 0.7166 {macula-proximity}
   - strongs: H5031
-    proximity: 0.7118
+    lemma: נְבִיאָה
+    gloss: a prophetess or  inspired woman {openscriptures-strongs}
+    proximity: 0.7118 {macula-proximity}
   - strongs: H4738
-    proximity: 0.7107
+    lemma: מִקְסָם
+    gloss: an augury {openscriptures-strongs}
+    proximity: 0.7107 {macula-proximity}
   cross_language:
   - strongs: G5578
-    proximity: 0.8143
+    lemma: ψευδοπροφήτης
+    gloss: a spurious prophet {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
     language: greek
   - strongs: G4267
-    proximity: 0.8071
+    lemma: προγινώσκω
+    gloss: to know beforehand {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
     language: greek
   - strongs: G4302
-    proximity: 0.8011
+    lemma: προλέγω
+    gloss: to say beforehand {openscriptures-strongs}
+    proximity: 0.8011 {macula-proximity}
     language: greek
   - strongs: G4398
-    proximity: 0.7624
+    lemma: προφῆτις
+    gloss: a female foreteller or an inspired woman {openscriptures-strongs}
+    proximity: 0.7624 {macula-proximity}
     language: greek
   - strongs: G4395
-    proximity: 0.7328
+    lemma: προφητεύω
+    gloss: to foretell events {openscriptures-strongs}
+    proximity: 0.7328 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

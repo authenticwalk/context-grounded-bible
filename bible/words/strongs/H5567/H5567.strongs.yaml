@@ -6,35 +6,39 @@ pronunciation: saw-man'
 definition: to designate
 kjv_usage: appointed.
 derivation: a primitive root;
-extended_definition:
-  gloss: to appoint
-  definition: 1) to mark off<br>1a) (Niphal) appointed, determined (participle)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to mark off
+
+  1a) (Niphal) appointed, determined (participle) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5344
-    proximity: 0.7995
+    lemma: נָקַב
+    gloss: to puncture {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
   - strongs: A3983
-    proximity: 0.7908
+    proximity: 0.7908 {macula-proximity}
   cross_language:
   - strongs: G1747
-    proximity: 0.8241
+    lemma: ἐνέδρα
+    gloss: an ambuscade {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
   - strongs: G4400
-    proximity: 0.7814
+    lemma: προχειρίζομαι
+    gloss: to handle for oneself in advance {openscriptures-strongs}
+    proximity: 0.7814 {macula-proximity}
     language: greek
   - strongs: G322
-    proximity: 0.7565
+    proximity: 0.7565 {macula-proximity}
     language: greek
   - strongs: G4945
-    proximity: 0.7292
+    lemma: συνωμοσία
+    gloss: a swearing together {openscriptures-strongs}
+    proximity: 0.7292 {macula-proximity}
     language: greek
   - strongs: G1917
-    proximity: 0.7171
+    lemma: ἐπιβουλή
+    gloss: a plan against someone {openscriptures-strongs}
+    proximity: 0.7171 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,26 +7,24 @@ definition: hetchelling (or combing flax), i.e. (concretely) tow (by extension, 
   cloth)
 kjv_usage: fine.
 derivation: from the same as H8321 (שֹׂרֵק) in the original sense of piercing;
-extended_definition:
-  gloss: combed
-  definition: carded, combed, fine (of flax)
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: carded, combed, fine (of flax) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H948
-    proximity: 0.8107
+    proximity: 0.8107 {macula-proximity}
   - strongs: H8336
-    proximity: 0.8028
+    lemma: שֵׁשׁ
+    gloss: bleached stuff {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
   cross_language:
   - strongs: G1039
-    proximity: 0.8085
+    lemma: βύσσινος
+    gloss: made of linen {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
     language: greek
   - strongs: G1040
-    proximity: 0.7936
+    lemma: βύσσος
+    gloss: white linen {openscriptures-strongs}
+    proximity: 0.7936 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,45 +7,59 @@ definition: to grieve
 kjv_usage: limit (by confusion with H8427 (תָּוָה)).
 derivation: a primitive root (or perhaps identical with H8427 (תָּוָה) through a similar
   idea from scraping to pieces);
-extended_definition:
-  gloss: to wound
-  definition: 1) (Hiphil) to pain, wound, trouble, cause pain<br>1a) meaning probable
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Hiphil) to pain, wound, trouble, cause pain
+
+  1a) meaning probable {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7036
-    proximity: 0.8212
+    lemma: קָלוֹן
+    gloss: disgrace {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   - strongs: H5218
-    proximity: 0.816
+    lemma: נָכֵא
+    gloss: smitten {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
   - strongs: H7292
-    proximity: 0.8051
+    lemma: רָהַב
+    gloss: to urge severely {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
   - strongs: H5007
-    proximity: 0.7988
+    lemma: נְאָצָה
+    gloss: scorn {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   - strongs: H5218a
-    proximity: 0.7987
+    proximity: 0.7987 {macula-proximity}
   - strongs: H5701
-    proximity: 0.7897
+    lemma: עָגַם
+    gloss: to be sad {openscriptures-strongs}
+    proximity: 0.7897 {macula-proximity}
   - strongs: H6087a
-    proximity: 0.7756
+    proximity: 0.7756 {macula-proximity}
   cross_language:
   - strongs: G2042
-    proximity: 0.8206
+    lemma: ἐρεθίζω
+    gloss: to stimulate {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G1796
-    proximity: 0.8036
+    lemma: ἐνυβρίζω
+    gloss: to insult {openscriptures-strongs}
+    proximity: 0.8036 {macula-proximity}
     language: greek
   - strongs: G3894
-    proximity: 0.7913
+    lemma: παραπικρασμός
+    gloss: irritation {openscriptures-strongs}
+    proximity: 0.7913 {macula-proximity}
     language: greek
   - strongs: G3893
-    proximity: 0.7908
+    lemma: παραπικραίνω
+    gloss: to embitter alongside {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
     language: greek
   - strongs: G5195
-    proximity: 0.7895
+    lemma: ὑβρίζω
+    gloss: to exercise violence {openscriptures-strongs}
+    proximity: 0.7895 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

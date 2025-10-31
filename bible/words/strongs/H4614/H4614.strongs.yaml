@@ -6,28 +6,26 @@ pronunciation: mah-am-aw-saw'
 definition: burdensomeness
 kjv_usage: burdensome.
 derivation: from H6006 (עָמַס);
-extended_definition:
-  gloss: burden
-  definition: load, burden
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: load, burden {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3513
-    proximity: 0.7801
+    lemma: כָּבַד
+    gloss: to be heavy {openscriptures-strongs}
+    proximity: 0.7801 {macula-proximity}
   - strongs: H7812
-    proximity: 0.7785
+    lemma: שָׁחָה
+    gloss: to depress {openscriptures-strongs}
+    proximity: 0.7785 {macula-proximity}
   - strongs: H3515
-    proximity: 0.7609
+    lemma: כָּבֵד
+    gloss: heavy {openscriptures-strongs}
+    proximity: 0.7609 {macula-proximity}
   cross_language:
   - strongs: G2599a
-    proximity: 0.7813
+    proximity: 0.7813 {macula-proximity}
     language: greek
   - strongs: G917
-    proximity: 0.7208
+    proximity: 0.7208 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

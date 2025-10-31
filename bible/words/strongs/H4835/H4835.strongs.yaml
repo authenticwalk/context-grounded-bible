@@ -6,49 +6,65 @@ pronunciation: mer-oo-tsaw'
 definition: oppression
 kjv_usage: violence. See also H4794 (מְרוּצָה).
 derivation: from H7533 (רָצַץ);
-extended_definition:
-  gloss: oppression
-  definition: crushing, oppression
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: crushing, oppression {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A7490
-    proximity: 0.8286
+    proximity: 0.8286 {macula-proximity}
   - strongs: H7722
-    proximity: 0.8264
+    lemma: שׁוֹא
+    gloss: a tempest {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H1646
-    proximity: 0.8232
+    lemma: גְרֻשָׁה
+    gloss: dispossession {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H7722b
-    proximity: 0.82
+    proximity: 0.82 {macula-proximity}
   - strongs: H7533
-    proximity: 0.8184
+    lemma: רָצַץ
+    gloss: to crack in pieces {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   - strongs: H7492
-    proximity: 0.8145
+    lemma: רָעַץ
+    gloss: to break in pieces {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
   - strongs: H6184
-    proximity: 0.8017
+    lemma: עָרִיץ
+    gloss: fearful {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
   - strongs: H6125
-    proximity: 0.797
+    lemma: עָקָה
+    gloss: constraint {openscriptures-strongs}
+    proximity: 0.797 {macula-proximity}
   - strongs: H4783
-    proximity: 0.7722
+    lemma: מֻרְדָּף
+    gloss: persecuted {openscriptures-strongs}
+    proximity: 0.7722 {macula-proximity}
   cross_language:
   - strongs: G2634
-    proximity: 0.828
+    lemma: κατακυριεύω
+    gloss: to lord against {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G4811
-    proximity: 0.8139
+    lemma: συκοφαντέω
+    gloss: to be a fig-informer {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: greek
   - strongs: G1376
-    proximity: 0.8055
+    lemma: διώκτης
+    gloss: a persecutor {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
     language: greek
   - strongs: G1377
-    proximity: 0.8038
+    lemma: διώκω
+    gloss: compare the base of G1169  and G1249 ) {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
     language: greek
   - strongs: G4987
-    proximity: 0.7958
+    lemma: σωρεύω
+    gloss: to pile up {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

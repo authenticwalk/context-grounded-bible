@@ -7,46 +7,67 @@ definition: emptiness or vanity; figuratively, something transitory and unsatisf
   often used as an adverb
 kjv_usage: '[idiom] altogether, vain, vanity.'
 derivation: or (rarely in the abs.) הֲבֵל; from H1891 (הָבַל);
-extended_definition:
-  gloss: vanity
-  definition: 1) vapour, breath<br>1a) breath, vapour<br>1b) vanity (fig.)<br>adv<br>2)
-    vainly
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) vapour, breath
+
+  1a) breath, vapour
+
+  1b) vanity (fig.)
+
+  adv
+
+  2) vainly {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2600
-    proximity: 0.8264
+    lemma: חִנָּם
+    gloss: gratis {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H4003
-    proximity: 0.8155
+    lemma: מְבוּקָה
+    gloss: emptiness {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H7307
-    proximity: 0.8075
+    lemma: רוּחַ
+    gloss: wind {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
   - strongs: H4123
-    proximity: 0.8053
+    lemma: מַהֲתַלָּה
+    gloss: a delusion {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H6459
-    proximity: 0.7926
+    lemma: פֶּסֶל
+    gloss: an idol {openscriptures-strongs}
+    proximity: 0.7926 {macula-proximity}
   - strongs: H5014a
-    proximity: 0.7894
+    proximity: 0.7894 {macula-proximity}
   - strongs: H6090
-    proximity: 0.776
+    lemma: עֹצֶב
+    gloss: an idol {openscriptures-strongs}
+    proximity: 0.776 {macula-proximity}
   - strongs: H1891
-    proximity: 0.771
+    lemma: הָבַל
+    gloss: to be vain in act {openscriptures-strongs}
+    proximity: 0.771 {macula-proximity}
   - strongs: H205
-    proximity: 0.7605
+    proximity: 0.7605 {macula-proximity}
   - strongs: H6091
-    proximity: 0.748
+    lemma: עָצָב
+    gloss: an  image {openscriptures-strongs}
+    proximity: 0.748 {macula-proximity}
   cross_language:
   - strongs: G1500
-    proximity: 0.8019
+    lemma: εἰκῆ
+    gloss: idly {openscriptures-strongs}
+    proximity: 0.8019 {macula-proximity}
     language: greek
   - strongs: G3150
-    proximity: 0.7697
+    lemma: ματαιολογία
+    gloss: random talk {openscriptures-strongs}
+    proximity: 0.7697 {macula-proximity}
     language: greek
   - strongs: G3151
-    proximity: 0.7661
+    lemma: ματαιολόγος
+    gloss: an idle  talker {openscriptures-strongs}
+    proximity: 0.7661 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,45 +7,51 @@ definition: properly, foot (as consumed); i.e. (by exten.) of cattle brutishness
   (concretely) stupid
 kjv_usage: brutish (person), foolish.
 derivation: from H1197 (בָּעַר);
-extended_definition:
-  gloss: stupid
-  definition: brutishness, stupidity, brutish (person)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: brutishness, stupidity, brutish (person) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5034a
-    proximity: 0.8189
+    proximity: 0.8189 {macula-proximity}
   - strongs: H2638
-    proximity: 0.8089
+    lemma: חָסֵר
+    gloss: lacking {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: H2954
-    proximity: 0.8064
+    lemma: טָפַשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
   - strongs: H8602a
-    proximity: 0.7967
+    proximity: 0.7967 {macula-proximity}
   - strongs: H5529
-    proximity: 0.7955
+    lemma: סֶכֶל
+    gloss: silliness {openscriptures-strongs}
+    proximity: 0.7955 {macula-proximity}
   - strongs: H6615
-    proximity: 0.7796
+    lemma: פְּתַיּוּת
+    gloss: silliness {openscriptures-strongs}
+    proximity: 0.7796 {macula-proximity}
   - strongs: H5528
-    proximity: 0.7721
+    lemma: סָכַל
+    gloss: to be silly {openscriptures-strongs}
+    proximity: 0.7721 {macula-proximity}
   - strongs: H3690
-    proximity: 0.7502
+    lemma: כִּסְלָה
+    gloss: in a good sense {openscriptures-strongs}
+    proximity: 0.7502 {macula-proximity}
   - strongs: H5014a
-    proximity: 0.7344
+    proximity: 0.7344 {macula-proximity}
   - strongs: H6612
-    proximity: 0.7087
+    lemma: פְּתִי
+    gloss: silly {openscriptures-strongs}
+    proximity: 0.7087 {macula-proximity}
   cross_language:
   - strongs: G521
-    proximity: 0.8135
+    proximity: 0.8135 {macula-proximity}
     language: greek
   - strongs: G877
-    proximity: 0.7701
+    proximity: 0.7701 {macula-proximity}
     language: greek
   - strongs: G52
-    proximity: 0.7508
+    proximity: 0.7508 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

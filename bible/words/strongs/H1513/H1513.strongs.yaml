@@ -6,36 +6,38 @@ pronunciation: geh'-khel
 definition: an ember
 kjv_usage: (burning) coal.
 derivation: or (feminine) גַּחֶלֶת; from an unused root meaning to glow or kindle;
-extended_definition:
-  gloss: coal
-  definition: coal, burning coal, coals of fire, hot coals
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: coal, burning coal, coals of fire, hot coals {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A3345
-    proximity: 0.8268
+    proximity: 0.8268 {macula-proximity}
   - strongs: A3346
-    proximity: 0.8262
+    proximity: 0.8262 {macula-proximity}
   - strongs: A1815
-    proximity: 0.8235
+    proximity: 0.8235 {macula-proximity}
   - strongs: H8313
-    proximity: 0.8223
+    lemma: שָׂרַף
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
   - strongs: H4348
-    proximity: 0.7672
+    lemma: מִכְוָה
+    gloss: a burn {openscriptures-strongs}
+    proximity: 0.7672 {macula-proximity}
   - strongs: H4168
-    proximity: 0.7593
+    lemma: מוֹקֵד
+    gloss: a fire or fuel {openscriptures-strongs}
+    proximity: 0.7593 {macula-proximity}
   - strongs: H784
-    proximity: 0.7564
+    proximity: 0.7564 {macula-proximity}
   cross_language:
   - strongs: G2204
-    proximity: 0.802
+    lemma: ζέω
+    gloss: to be hot (boil {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
     language: greek
   - strongs: G4442
-    proximity: 0.7383
+    lemma: πῦρ
+    gloss: '"fire" (literally or figuratively {openscriptures-strongs}'
+    proximity: 0.7383 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

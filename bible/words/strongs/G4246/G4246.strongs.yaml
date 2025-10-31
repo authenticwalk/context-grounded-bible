@@ -5,58 +5,67 @@ transliteration: presbýtēs
 definition: an old man
 kjv_usage: aged (man), old man
 derivation: from the same as G4245 (πρεσβύτερος);
-extended_definition:
-  gloss: old man
-  definition: '<b>πρεσβύτης</b>, -ου prose form of πρέσβυς, which see, <BR /> [in
-    LXX chiefly for זָקֵן, <ref=''Gen.25.8''>Gen.25:8</ref>, al.; also (= πρεσβευτής),
-    <ref=''2Ch.32.31''>2Ch.32:31</ref> Bl (לוּץ), <ref=''1Ma.14.22''>1Ma.14:22</ref>
-    S, al. (see Thackeray, <i>Gr.</i>, 97) ;] <BR />__1. <b>an old man</b>: <ref=''Luk.1.18''>Luk.1:18</ref>,
-    <ref=''Tit.2.2''>Tit.2:2</ref>, Phm 9 (R, txt., but see infr.). <BR /> __2. <b>As
-    in LXX, also = πρεσβευτής, an am­bassador</b>: Phm 9 (R, mg., see Lft. and <i>ICC</i>,
-    in l).†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> πρεσβύτης</b> [ῠ], ητος, <br /> <i>Doric dialect</i> <b>-ας</b>,
-    ατος, ἡ, <b>age, seniority,</b> [<a href="javascript:void(0)" title=" Test.Epict.
-    4.28, 6.29: opposed to νεότας,">Refs</a>] probably restoration in [<a href="javascript:void(0)"
-    title=" “IG” 5(1).1427.5 (from Messene). ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'πρεσβύτης, -ου prose form of πρέσβυς, which see,
+
+  [in LXX chiefly for זָקֵן, Gen.25:8, al.; also (= πρεσβευτής), 2Ch.32:31 Bl (לוּץ),
+  1Ma.14:22 S, al. (see Thackeray, Gr., 97) ;]
+
+  __1. an old man: Luk.1:18, Tit.2:2, Phm 9 (R, txt., but see infr.).
+
+  __2. As in LXX, also = πρεσβευτής, an am­bassador: Phm 9 (R, mg., see Lft. and ICC,
+  in l).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'πρεσβύτης [ῠ], ητος,
+
+  Doric dialect -ας, ατος, ἡ, age, seniority, [Refs] probably restoration in [Refs]
+  {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G442
-    proximity: 0.8083
+    proximity: 0.8083 {macula-proximity}
   - strongs: G3494
-    proximity: 0.7738
+    lemma: νεανίας
+    gloss: a youth {openscriptures-strongs}
+    proximity: 0.7738 {macula-proximity}
   - strongs: G1126
-    proximity: 0.7703
+    lemma: γραώδης
+    gloss: crone-like {openscriptures-strongs}
+    proximity: 0.7703 {macula-proximity}
   - strongs: A606
-    proximity: 0.7644
+    proximity: 0.7644 {macula-proximity}
   - strongs: G3495
-    proximity: 0.7571
+    lemma: νεανίσκος
+    gloss: a youth {openscriptures-strongs}
+    proximity: 0.7571 {macula-proximity}
   - strongs: G4245
-    proximity: 0.7501
+    lemma: πρεσβύτερος
+    gloss: older {openscriptures-strongs}
+    proximity: 0.7501 {macula-proximity}
   - strongs: G1088
-    proximity: 0.7338
+    lemma: γέρων
+    gloss: aged {openscriptures-strongs}
+    proximity: 0.7338 {macula-proximity}
   cross_language:
   - strongs: H5958
-    proximity: 0.8225
+    lemma: עֶלֶם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: hebrew
   - strongs: H7872
-    proximity: 0.8218
+    lemma: שֵׂיבָה
+    gloss: old age {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
     language: hebrew
   - strongs: H970
-    proximity: 0.7862
+    proximity: 0.7862 {macula-proximity}
     language: hebrew
   - strongs: H3465
-    proximity: 0.7847
+    lemma: יָשָׁן
+    gloss: old {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
     language: hebrew
   - strongs: H1524a
-    proximity: 0.7813
+    proximity: 0.7813 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

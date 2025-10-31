@@ -6,39 +6,41 @@ pronunciation: nag-gawkh'
 definition: butting, i.e. vicious
 kjv_usage: used (wont) to push.
 derivation: from H5055 (נָגַח);
-extended_definition:
-  gloss: goring
-  definition: addicted to goring, apt to gore
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: addicted to goring, apt to gore {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H871a
-    proximity: 0.8173
+    proximity: 0.8173 {macula-proximity}
   - strongs: H4191
-    proximity: 0.8166
+    lemma: מוּת
+    gloss: to die {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
   - strongs: A1b
-    proximity: 0.808
+    proximity: 0.808 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.753
+    proximity: 0.753 {macula-proximity}
   cross_language:
   - strongs: G961
-    proximity: 0.83
+    proximity: 0.83 {macula-proximity}
     language: greek
   - strongs: G3498
-    proximity: 0.7996
+    lemma: νεκρός
+    gloss: dead (literally or figuratively {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
     language: greek
   - strongs: G1722
-    proximity: 0.7957
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.7957 {macula-proximity}
     language: greek
   - strongs: G2348
-    proximity: 0.7868
+    lemma: θνήσκω
+    gloss: to die {openscriptures-strongs}
+    proximity: 0.7868 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.7706
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7706 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

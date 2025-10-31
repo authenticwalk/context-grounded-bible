@@ -5,52 +5,62 @@ transliteration: katephístēmi
 definition: to stand over against, i.e. rush upon (assault)
 kjv_usage: make insurrection against
 derivation: from G2596 (κατά) and G2186 (ἐφίστημι);
-extended_definition:
-  gloss: to attack
-  definition: '<b>κατ-εφ-ίστημι </b><BR /> <b>to rise up against</b>: <ref=''Act.18.12.''>Act.18:12.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> κατεφίσταμαι</b>, <br /> <b>rise up against</b>, in <i>aorist</i>
-    <i>active</i>, κατεπέστησαν τῷ Παύλῳ [<a href="javascript:void(0)" title=" NT.Act.18.12.
-    ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'κατ-εφ-ίστημι
+
+  to rise up against: Act.18:12.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κατεφίσταμαι,
+
+  rise up against, in aorist active, κατεπέστησαν τῷ Παύλῳ [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2852
-    proximity: 0.826
+    lemma: κολαφίζω
+    gloss: to rap with the fist {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
   - strongs: G4934a
-    proximity: 0.8249
+    proximity: 0.8249 {macula-proximity}
   - strongs: G1853
-    proximity: 0.8239
+    lemma: ἔξυπνος
+    gloss: awake {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: G5285
-    proximity: 0.8219
+    lemma: ὑποπνέω
+    gloss: to breathe gently {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: G1920
-    proximity: 0.8171
+    lemma: ἐπιγίνομαι
+    gloss: to arrive upon {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: G461
-    proximity: 0.8151
+    proximity: 0.8151 {macula-proximity}
   - strongs: G1326
-    proximity: 0.8121
+    lemma: διεγείρω
+    gloss: to wake fully {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   cross_language:
   - strongs: H3807a
-    proximity: 0.8284
+    proximity: 0.8284 {macula-proximity}
     language: hebrew
   - strongs: H4480
-    proximity: 0.8274
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
     language: hebrew
   - strongs: H6213
-    proximity: 0.8264
+    lemma: עָשָׂה
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: hebrew
   - strongs: H6293
-    proximity: 0.8228
+    lemma: פָּגַע
+    gloss: to impinge {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
     language: hebrew
   - strongs: H8630
-    proximity: 0.8218
+    lemma: תָּקַף
+    gloss: to overpower {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

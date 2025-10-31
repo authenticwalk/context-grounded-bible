@@ -6,43 +6,57 @@ pronunciation: tool
 definition: to pitch over or reel; hence (transitively) to cast down or out
 kjv_usage: carry away, (utterly) cast (down, forth, out), send out.
 derivation: a primitive root;
-extended_definition:
-  gloss: to cast
-  definition: 1) to hurl, cast<br>1a) (Pilpel) to throw away, carry away, hurl<br>1b)
-    (Hiphil) to throw, cast, cast out<br>1c)(Hophal)<br>1c1) to be hurled, hurled
-    down<br>1c2) to be cast, be thrown, be cast out, be thrown down
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to hurl, cast
+
+  1a) (Pilpel) to throw away, carry away, hurl
+
+  1b) (Hiphil) to throw, cast, cast out
+
+  1c)(Hophal)
+
+  1c1) to be hurled, hurled down
+
+  1c2) to be cast, be thrown, be cast out, be thrown down {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A2211
-    proximity: 0.8259
+    proximity: 0.8259 {macula-proximity}
   - strongs: H1486
-    proximity: 0.812
+    lemma: גּוֹרָל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: A7412
-    proximity: 0.8063
+    proximity: 0.8063 {macula-proximity}
   - strongs: H5380
-    proximity: 0.7935
+    lemma: נָשַׁב
+    gloss: to blow {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
   - strongs: H3384
-    proximity: 0.7561
+    lemma: יָרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7561 {macula-proximity}
   cross_language:
   - strongs: G4496
-    proximity: 0.8161
+    lemma: ῥίπτω
+    gloss: to fling (properly {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
     language: greek
   - strongs: G1573a
-    proximity: 0.8142
+    proximity: 0.8142 {macula-proximity}
     language: greek
   - strongs: G4248
-    proximity: 0.7935
+    lemma: πρηνής
+    gloss: leaning  forward {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
     language: greek
   - strongs: G2667
-    proximity: 0.7836
+    lemma: καταπίπτω
+    gloss: to fall down {openscriptures-strongs}
+    proximity: 0.7836 {macula-proximity}
     language: greek
   - strongs: G4098
-    proximity: 0.7695
+    lemma: πίπτω
+    gloss: to fall {openscriptures-strongs}
+    proximity: 0.7695 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

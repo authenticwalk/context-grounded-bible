@@ -7,44 +7,64 @@ definition: to be dumb or silent; hence, to fail or perish; trans. to destroy
 kjv_usage: cease, be cut down (off), destroy, be brought to silence, be undone, [idiom]
   utterly.
 derivation: a primitive root;
-extended_definition:
-  gloss: to cease
-  definition: 1) to cease, cause to cease, cut off, destroy, perish<br>1a) (Qal)<br>1a1)
-    to cease<br>1a2) to cause to cease, destroy<br>1b) (Niphal)<br>1b1) to be cut
-    off<br>1b2) to be undone, be cut off at sight of the theophany
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to cease, cause to cease, cut off, destroy, perish
+
+  1a) (Qal)
+
+  1a1) to cease
+
+  1a2) to cause to cease, destroy
+
+  1b) (Niphal)
+
+  1b1) to be cut off
+
+  1b2) to be undone, be cut off at sight of the theophany {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4185
-    proximity: 0.8298
+    lemma: מוּשׁ
+    gloss: to withdraw (both literally and figuratively {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: H7722a
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
   - strongs: H5627
-    proximity: 0.8258
+    lemma: סָרָה
+    gloss: apostasy {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H1584
-    proximity: 0.8251
+    lemma: גָּמַר
+    gloss: to end {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H1812
-    proximity: 0.8238
+    lemma: דֶּלֶף
+    gloss: a dripping {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H6789
-    proximity: 0.8208
+    lemma: צָמַת
+    gloss: to extirpate {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   - strongs: H11
-    proximity: 0.8132
+    proximity: 0.8132 {macula-proximity}
   - strongs: H8045
-    proximity: 0.8072
+    lemma: שָׁמַד
+    gloss: to desolate {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
   - strongs: H3582
-    proximity: 0.8039
+    lemma: כָּחַד
+    gloss: to secrete {openscriptures-strongs}
+    proximity: 0.8039 {macula-proximity}
   - strongs: H2014
-    proximity: 0.7948
+    lemma: הֲפֻגָה
+    gloss: relaxation {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
   cross_language:
   - strongs: G372
-    proximity: 0.8185
+    proximity: 0.8185 {macula-proximity}
     language: greek
   - strongs: G2869
-    proximity: 0.8022
+    lemma: κοπάζω
+    gloss: to tire {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

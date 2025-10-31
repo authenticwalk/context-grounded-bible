@@ -8,26 +8,29 @@ definition: '{a flag; also a sail; by implication, a flagstaff; generally a sign
 kjv_usage: sworn.
 derivation: apparently a contraction for H3678 (כִּסֵּא), but probably by erroneous
   transcription for H5251 (נֵס)
-extended_definition:
-  gloss: throne
-  definition: 'seat (of honour), throne, seat, stool<BR>Another spelling of <i>kis.se</i>
-    (כִּסֵּא ": throne" H3678)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'seat (of honour), throne, seat, stool
+
+  Another spelling of kis.se (כִּסֵּא ": throne" H3678) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3427
-    proximity: 0.8298
+    lemma: יָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: H4438
-    proximity: 0.8222
+    lemma: מַלְכוּת
+    gloss: a rule {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H8498
-    proximity: 0.7778
+    lemma: תְּכוּנָה
+    gloss: adjustment {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   - strongs: H4186
-    proximity: 0.7597
+    lemma: מוֹשָׁב
+    gloss: a seat {openscriptures-strongs}
+    proximity: 0.7597 {macula-proximity}
   - strongs: H7675
-    proximity: 0.7301
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: שֶׁבֶת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7301 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

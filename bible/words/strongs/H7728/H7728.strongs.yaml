@@ -6,48 +6,60 @@ pronunciation: sho-babe'
 definition: apostate, i.e. heathenish or (actually) heathen
 kjv_usage: backsliding.
 derivation: from H7725 (שׁוּב);
-extended_definition:
-  gloss: backsliding
-  definition: backturning, apostate, backsliding
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: backturning, apostate, backsliding {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A4779
-    proximity: 0.8223
+    proximity: 0.8223 {macula-proximity}
   - strongs: H7195
-    proximity: 0.8182
+    lemma: קֶשֶׁר
+    gloss: an  alliance {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
   - strongs: H5637
-    proximity: 0.7695
+    lemma: סָרַר
+    gloss: to turn away {openscriptures-strongs}
+    proximity: 0.7695 {macula-proximity}
   - strongs: H898
-    proximity: 0.7638
+    proximity: 0.7638 {macula-proximity}
   - strongs: H4780
-    proximity: 0.7544
+    lemma: מַרְדּוּת
+    gloss: rebelliousness {openscriptures-strongs}
+    proximity: 0.7544 {macula-proximity}
   - strongs: H4604
-    proximity: 0.7448
+    lemma: מַעַל
+    gloss: treachery {openscriptures-strongs}
+    proximity: 0.7448 {macula-proximity}
   - strongs: H6586
-    proximity: 0.7268
+    lemma: פָּשַׁע
+    gloss: to break away {openscriptures-strongs}
+    proximity: 0.7268 {macula-proximity}
   - strongs: H7750a
-    proximity: 0.7233
+    proximity: 0.7233 {macula-proximity}
   - strongs: H4784
-    proximity: 0.7214
+    lemma: מָרָה
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7214 {macula-proximity}
   - strongs: H4777
-    proximity: 0.7075
+    lemma: מֶרֶד
+    gloss: rebellion {openscriptures-strongs}
+    proximity: 0.7075 {macula-proximity}
   cross_language:
   - strongs: G3876
-    proximity: 0.8165
+    lemma: παρακοή
+    gloss: inattention {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G543
-    proximity: 0.8104
+    proximity: 0.8104 {macula-proximity}
     language: greek
   - strongs: G3893
-    proximity: 0.7686
+    lemma: παραπικραίνω
+    gloss: to embitter alongside {openscriptures-strongs}
+    proximity: 0.7686 {macula-proximity}
     language: greek
   - strongs: G3894
-    proximity: 0.759
+    lemma: παραπικρασμός
+    gloss: irritation {openscriptures-strongs}
+    proximity: 0.759 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

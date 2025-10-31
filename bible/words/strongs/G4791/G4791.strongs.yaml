@@ -5,62 +5,76 @@ transliteration: synkoinōnós
 definition: a co-participant
 kjv_usage: companion, partake(-r, -r with)
 derivation: from G4862 (σύν) and G2844 (κοινωνός);
-extended_definition:
-  gloss: sharer
-  definition: '<b>συν-κοινωνός</b> (Rec. συγκ-), όν, <BR /> <b>partaking jointly of</b>:
-    with genitive of thing(s), <ref=''Rom.11.17''>Rom.11:17</ref>, <ref=''1Co.9.23''>1Co.9:23</ref>;
-    id. with genitive of person(s), <ref=''Php.1.7''>Php.1:7;</ref> before ἐν, <ref=''Rev.1.9.''>Rev.1:9.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συγκοινων-ός</b>, όν, <br /> <b>partaking jointly of</b>, τῆς
-    ῥίζης [<a href="javascript:void(0)" title=" NT.Rom.11.17, cf. NT.1Cor.9.23; ἐν
-    τῇ θλίψει NT.Rev.1.9; τῆς βασιλείας μου 7th c.AD: Stephanus Medicus “in Hp.” 1.76D.
-    ">NT+7th c.AD+</a>]: <i>substantive</i>, <b>partner,</b> [<a href="javascript:void(0)"
-    title=" PMasp. 158.11 (6th c.AD). ">Refs 6th c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συν-κοινωνός (Rec. συγκ-), όν,
+
+  partaking jointly of: with genitive of thing(s), Rom.11:17, 1Co.9:23; id. with genitive
+  of person(s), Php.1:7; before ἐν, Rev.1:9.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συγκοινων-ός, όν,
+
+  partaking jointly of, τῆς ῥίζης [NT+7th c.AD+]: substantive, partner, [Refs 6th
+  c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4847
-    proximity: 0.8286
+    lemma: συμπολίτης
+    gloss: a native of the same town {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: G4889
-    proximity: 0.8258
+    lemma: σύνδουλος
+    gloss: a co-slave {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: G3663
-    proximity: 0.8222
+    lemma: ὁμοιοπαθής
+    gloss: similarly affected {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: G4838
-    proximity: 0.8177
+    lemma: συμπαραλαμβάνω
+    gloss: to take along in company {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
   - strongs: G3313
-    proximity: 0.8162
+    lemma: μέρος
+    gloss: a division or share (literally or figuratively {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: G4805
-    proximity: 0.8154
+    lemma: σύζυγος
+    gloss: co-yoked {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: G4844
-    proximity: 0.8153
+    lemma: συμπίνω
+    gloss: to partake a beverage in company {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
   - strongs: A5974
-    proximity: 0.8146
+    proximity: 0.8146 {macula-proximity}
   - strongs: G4775
-    proximity: 0.8049
+    lemma: συγκάθημαι
+    gloss: to seat oneself in company with {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: G3674
-    proximity: 0.7869
+    lemma: ὁμοῦ
+    gloss: akin to G260 ) as adverb {openscriptures-strongs}
+    proximity: 0.7869 {macula-proximity}
   cross_language:
   - strongs: H2270
-    proximity: 0.8293
+    lemma: חָבֵר
+    gloss: an associate {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: hebrew
   - strongs: H259
-    proximity: 0.8279
+    proximity: 0.8279 {macula-proximity}
     language: hebrew
   - strongs: H2505
-    proximity: 0.8035
+    lemma: חָלַק
+    gloss: to be smooth {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
     language: hebrew
   - strongs: H3162
-    proximity: 0.7966
+    lemma: יַחַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7966 {macula-proximity}
     language: hebrew
   - strongs: H3162a
-    proximity: 0.7871
+    proximity: 0.7871 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

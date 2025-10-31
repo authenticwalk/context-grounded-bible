@@ -6,37 +6,43 @@ pronunciation: zim-rawth'
 definition: instrumental music; by implication, praise
 kjv_usage: song.
 derivation: from H2167 (זָמַר);
-extended_definition:
-  gloss: song
-  definition: song of praise, song, music, melody
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: song of praise, song, music, melody {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H589
-    proximity: 0.8265
+    proximity: 0.8265 {macula-proximity}
   - strongs: A7624
-    proximity: 0.8262
+    proximity: 0.8262 {macula-proximity}
   - strongs: H7891
-    proximity: 0.8242
+    lemma: שִׁיר
+    gloss: to sing {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H5058
-    proximity: 0.807
+    lemma: נְגִינָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
   - strongs: H4905
-    proximity: 0.8012
+    lemma: מַשְׂכִּיל
+    gloss: instructive {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
   - strongs: H3574
-    proximity: 0.7346
+    lemma: כּוֹשָׁרָה
+    gloss: prosperity {openscriptures-strongs}
+    proximity: 0.7346 {macula-proximity}
   cross_language:
   - strongs: G5214
-    proximity: 0.7568
+    lemma: ὑμνέω
+    gloss: to hymn {openscriptures-strongs}
+    proximity: 0.7568 {macula-proximity}
     language: greek
   - strongs: G5567
-    proximity: 0.7204
+    lemma: ψάλλω
+    gloss: compare G5597 ) {openscriptures-strongs}
+    proximity: 0.7204 {macula-proximity}
     language: greek
   - strongs: G5568
-    proximity: 0.702
+    lemma: ψαλμός
+    gloss: a set piece of music {openscriptures-strongs}
+    proximity: 0.702 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

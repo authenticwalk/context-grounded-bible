@@ -5,57 +5,71 @@ transliteration: exṓteros
 definition: exterior
 kjv_usage: outer
 derivation: comparative of G1854 (ἔξω);
-extended_definition:
-  gloss: outer
-  definition: '<b>ἐξώτερος</b>, -α, -ον<BR /> (compar., from ἔξω; opposite to ἐσώτερος)
-    [in LXX chiefly for חִיצוֹן ;] <BR /><b>outer</b>: σκότος, <ref=''Mat.8.12''>Mat.8:12</ref>
-    <ref=''Mat.22.13''>Mat.22:13</ref> <ref=''Mat.25.30''>Mat.25:30</ref>.†<BR />
-    (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐξω-τέρω</b>, <br /> <i>adverb</i>, <i>comparative</i> of ἔξω,
-    <b>more outside,</b> δρόμου ἐ. [<a href="javascript:void(0)" title=" 4th-5th c.BC:
-    Aeschylus Tragicus “Choephori” 1023, compare 4th c.BC: Aristoteles Philosophus
-    “Metaphysica” 1055a25, LXX.Job.18.17, etc.">LXX+4th c.BC+</a>]:—hence later, <i>adjective</i>
-    <b>ἐξώτερος</b>, <b>outer,</b> [<a href="javascript:void(0)" title=" LXX.Exo.26.4,
-    etc., NT.Matt.8.12; ξυστός “POxy.” 896.14 (4th c.AD). ">LXX+NT+4th c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐξώτερος, -α, -ον
+
+  (compar., from ἔξω; opposite to ἐσώτερος) [in LXX chiefly for חִיצוֹן ;]
+
+  outer: σκότος, Mat.8:12 Mat.22:13 Mat.25:30.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐξω-τέρω,
+
+  adverb, comparative of ἔξω, more outside, δρόμου ἐ. [LXX+4th c.BC+]:—hence later,
+  adjective ἐξώτερος, outer, [LXX+NT+4th c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2081
-    proximity: 0.8272
+    lemma: ἔσωθεν
+    gloss: from inside {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: G3799
-    proximity: 0.8149
+    lemma: ὄψις
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
   - strongs: G1751
-    proximity: 0.8056
+    lemma: ἔνειμι
+    gloss: to be within {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: G1005
-    proximity: 0.8056
+    lemma: βοῤῥᾶς
+    gloss: the north (properly {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: G1900
-    proximity: 0.8016
+    lemma: ἐπέκεινα
+    gloss: upon those parts of {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
   - strongs: G3924
-    proximity: 0.7513
+    lemma: παρεκτός
+    gloss: near outside {openscriptures-strongs}
+    proximity: 0.7513 {macula-proximity}
   - strongs: G1622
-    proximity: 0.7215
+    lemma: ἐκτός
+    gloss: the exterior {openscriptures-strongs}
+    proximity: 0.7215 {macula-proximity}
   cross_language:
   - strongs: H4480
-    proximity: 0.8268
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: hebrew
   - strongs: H3227
-    proximity: 0.8194
+    lemma: יְמִינִי
+    gloss: right {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: hebrew
   - strongs: H6440
-    proximity: 0.8116
+    lemma: פָּנִים
+    gloss: the face {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
     language: hebrew
   - strongs: H7097
-    proximity: 0.8054
+    lemma: קָצֶה
+    gloss: an extremity {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
     language: hebrew
   - strongs: H1372
-    proximity: 0.7859
+    lemma: גַּבַּחַת
+    gloss: baldness in the forehead {openscriptures-strongs}
+    proximity: 0.7859 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

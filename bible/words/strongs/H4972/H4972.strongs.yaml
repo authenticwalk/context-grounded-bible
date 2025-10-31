@@ -6,41 +6,51 @@ pronunciation: mat-tel-aw-aw'
 definition: what a trouble!
 kjv_usage: what a weariness.
 derivation: from H4100 (מָה) and H8513 (תְּלָאָה);
-extended_definition:
-  gloss: weariness
-  definition: what a weariness, toil, hardship, weariness
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: what a weariness, toil, hardship, weariness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A4479
-    proximity: 0.8074
+    proximity: 0.8074 {macula-proximity}
   - strongs: H5923
-    proximity: 0.8068
+    lemma: עֹל
+    gloss: a yoke {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
   - strongs: H6006
-    proximity: 0.7768
+    lemma: עָמַס
+    gloss: to load {openscriptures-strongs}
+    proximity: 0.7768 {macula-proximity}
   - strongs: H4853
-    proximity: 0.7306
+    lemma: מַשָּׂא
+    gloss: a burden {openscriptures-strongs}
+    proximity: 0.7306 {macula-proximity}
   - strongs: H5450
-    proximity: 0.7085
+    lemma: סְבָלָה
+    gloss: porterage {openscriptures-strongs}
+    proximity: 0.7085 {macula-proximity}
   cross_language:
   - strongs: G3636
-    proximity: 0.8186
+    lemma: ὀκνηρός
+    gloss: tardy {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
     language: greek
   - strongs: G2348
-    proximity: 0.8125
+    lemma: θνήσκω
+    gloss: to die {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G4660
-    proximity: 0.8089
+    lemma: σκύλλω
+    gloss: to flay {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
     language: greek
   - strongs: G3498
-    proximity: 0.8033
+    lemma: νεκρός
+    gloss: dead (literally or figuratively {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
     language: greek
   - strongs: G5412
-    proximity: 0.7931
+    lemma: φορτίζω
+    gloss: to load up (properly {openscriptures-strongs}
+    proximity: 0.7931 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

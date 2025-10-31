@@ -7,45 +7,59 @@ definition: to break the neck; hence (figuratively) to destroy
 kjv_usage: that is beheaded, break down, break (cut off, strike off) neck.
 derivation: a primitive root (identical with through the idea of sloping); properly,
   to bend downward; but used only as a denominative from H6203 (עֹרֶף),
-extended_definition:
-  gloss: to break the neck
-  definition: (Qal) to break the neck (of an animal)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to break the neck (of an animal) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A2718
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
   - strongs: H1986
-    proximity: 0.8238
+    lemma: הָלַם
+    gloss: to strike down {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H6209
-    proximity: 0.813
+    lemma: עָרַר
+    gloss: to bare {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
   - strongs: H7567
-    proximity: 0.8086
+    lemma: רָשַׁשׁ
+    gloss: to demolish {openscriptures-strongs}
+    proximity: 0.8086 {macula-proximity}
   - strongs: H5423
-    proximity: 0.8073
+    lemma: נָתַק
+    gloss: to tear off {openscriptures-strongs}
+    proximity: 0.8073 {macula-proximity}
   - strongs: H1438
-    proximity: 0.7984
+    lemma: גָּדַע
+    gloss: to fell a tree {openscriptures-strongs}
+    proximity: 0.7984 {macula-proximity}
   - strongs: H1633
-    proximity: 0.7905
+    lemma: גָּרַם
+    gloss: to bone {openscriptures-strongs}
+    proximity: 0.7905 {macula-proximity}
   - strongs: H5421
-    proximity: 0.7654
+    lemma: נָתַע
+    gloss: to tear out {openscriptures-strongs}
+    proximity: 0.7654 {macula-proximity}
   - strongs: H6555
-    proximity: 0.7576
+    lemma: פָּרַץ
+    gloss: to break out (in many applications {openscriptures-strongs}
+    proximity: 0.7576 {macula-proximity}
   - strongs: H7489a
-    proximity: 0.7552
+    proximity: 0.7552 {macula-proximity}
   cross_language:
   - strongs: G2806
-    proximity: 0.828
+    lemma: κλάω
+    gloss: to break (specially {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G4937
-    proximity: 0.7701
+    lemma: συντρίβω
+    gloss: to crush completely {openscriptures-strongs}
+    proximity: 0.7701 {macula-proximity}
     language: greek
   - strongs: G2647
-    proximity: 0.7368
+    lemma: καταλύω
+    gloss: to loosen down {openscriptures-strongs}
+    proximity: 0.7368 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

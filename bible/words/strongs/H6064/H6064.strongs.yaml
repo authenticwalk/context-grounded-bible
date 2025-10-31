@@ -7,50 +7,65 @@ definition: properly, to urge; by implication, to inflict apenalty, specifically
   to fine
 kjv_usage: amerce, condemn, punish, [idiom] surely.
 derivation: a primitive root;
-extended_definition:
-  gloss: to fine
-  definition: 1) to fine, amerce, punish, condemn, mulct<br>1a) (Qal) to fine, punish<br>1b)
-    (Niphal) to be fined, be punished, be mulcted
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to fine, amerce, punish, condemn, mulct
+
+  1a) (Qal) to fine, punish
+
+  1b) (Niphal) to be fined, be punished, be mulcted {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H816
-    proximity: 0.8223
+    proximity: 0.8223 {macula-proximity}
   - strongs: A2257
-    proximity: 0.8211
+    proximity: 0.8211 {macula-proximity}
   - strongs: H3256
-    proximity: 0.8195
+    lemma: יָסַר
+    gloss: to chastise {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: A5142
-    proximity: 0.8172
+    proximity: 0.8172 {macula-proximity}
   - strongs: H3013
-    proximity: 0.8137
+    lemma: יָגָה
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   - strongs: H5358
-    proximity: 0.7957
+    lemma: נָקַם
+    gloss: to grudge {openscriptures-strongs}
+    proximity: 0.7957 {macula-proximity}
   - strongs: H6486
-    proximity: 0.7704
+    lemma: פְּקֻדָּה
+    gloss: visitation (in many senses {openscriptures-strongs}
+    proximity: 0.7704 {macula-proximity}
   - strongs: H8201
-    proximity: 0.7546
+    lemma: שֶׁפֶט
+    gloss: a sentence {openscriptures-strongs}
+    proximity: 0.7546 {macula-proximity}
   - strongs: H6485
-    proximity: 0.7522
+    lemma: פָּקַד
+    gloss: to visit {openscriptures-strongs}
+    proximity: 0.7522 {macula-proximity}
   cross_language:
   - strongs: G1371
-    proximity: 0.8156
+    lemma: διχοτομέω
+    gloss: to bisect {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
     language: greek
   - strongs: G2009
-    proximity: 0.8024
+    lemma: ἐπιτιμία
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
     language: greek
   - strongs: G2917
-    proximity: 0.7957
+    lemma: κρίμα
+    gloss: a decision (the function or the effect {openscriptures-strongs}
+    proximity: 0.7957 {macula-proximity}
     language: greek
   - strongs: G984
-    proximity: 0.7883
+    proximity: 0.7883 {macula-proximity}
     language: greek
   - strongs: G1556
-    proximity: 0.782
+    lemma: ἐκδικέω
+    gloss: to vindicate {openscriptures-strongs}
+    proximity: 0.782 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

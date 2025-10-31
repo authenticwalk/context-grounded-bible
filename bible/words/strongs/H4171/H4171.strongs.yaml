@@ -6,42 +6,53 @@ pronunciation: moor
 definition: to alter; by implication, to barter, to dispose of
 kjv_usage: '[idiom] at all, (ex-) change, remove.'
 derivation: a primitive root;
-extended_definition:
-  gloss: to change
-  definition: 1) to change, exchange<br>1a) (Niphal) to be changed<br>1b) (Hiphil)<br>1b1)
-    to change, alter<br>1b2) to exchange
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to change, exchange
+
+  1a) (Niphal) to be changed
+
+  1b) (Hiphil)
+
+  1b1) to change, alter
+
+  1b2) to exchange {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8478
-    proximity: 0.821
+    lemma: תַּחַת
+    gloss: the bottom {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
   - strongs: H4171a
-    proximity: 0.7922
+    proximity: 0.7922 {macula-proximity}
   - strongs: H5670a
-    proximity: 0.7886
+    proximity: 0.7886 {macula-proximity}
   - strongs: H8132
-    proximity: 0.7772
+    lemma: שָׁנָא
+    gloss: to alter {openscriptures-strongs}
+    proximity: 0.7772 {macula-proximity}
   - strongs: H8138
-    proximity: 0.7414
+    lemma: שָׁנָה
+    gloss: to fold {openscriptures-strongs}
+    proximity: 0.7414 {macula-proximity}
   cross_language:
   - strongs: G3338
-    proximity: 0.8297
+    lemma: μεταμέλλομαι
+    gloss: to care afterwards {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G3883
-    proximity: 0.8199
+    lemma: παραλλαγή
+    gloss: transmutation {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
     language: greek
   - strongs: G531
-    proximity: 0.8115
+    proximity: 0.8115 {macula-proximity}
     language: greek
   - strongs: G3346
-    proximity: 0.7323
+    lemma: μετατίθημι
+    gloss: to transfer {openscriptures-strongs}
+    proximity: 0.7323 {macula-proximity}
     language: greek
   - strongs: G3344a
-    proximity: 0.7155
+    proximity: 0.7155 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

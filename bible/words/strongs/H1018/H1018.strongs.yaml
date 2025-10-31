@@ -7,35 +7,43 @@ definition: Beth-ha-Etsel, a place in Palestine
 kjv_usage: Beth-ezel.
 derivation: from H1004 (בַּיִת) and H681 (אֵצֶל) with the article interposed; house
   of the side;
-extended_definition:
-  gloss: Beth-ezel
-  definition: <BR> § Beth-ezel = "house of narrowing"<br> a place in Judah<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Beth-ezel = "house of narrowing"
+
+  a place in Judah {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1019a
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
   - strongs: H1033
-    proximity: 0.8288
+    lemma: בֵּית כַּר
+    gloss: Beth-Car {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: H1014
-    proximity: 0.8265
+    lemma: בֵּית גָּמוּל
+    gloss: Beth-Gamul {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H123
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
   - strongs: H5663
-    proximity: 0.8251
+    lemma: עֶבֶד מֶלֶךְ
+    gloss: Ebed-Melek {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H1019
-    proximity: 0.8247
+    lemma: בֵּית הַגִּלְגָּל
+    gloss: Beth-hag-Gilgal {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H6909
-    proximity: 0.8243
+    lemma: קַבְצְאֵל
+    gloss: Kabtseel {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: H1030
-    proximity: 0.8234
+    lemma: בֵּית הַשִּׁמְשִׁי
+    gloss: a Beth-shimshite {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
   - strongs: H1049
-    proximity: 0.8203
+    lemma: בֵּית צוּר
+    gloss: Beth-Tsur {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: H130
-    proximity: 0.8135
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    proximity: 0.8135 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

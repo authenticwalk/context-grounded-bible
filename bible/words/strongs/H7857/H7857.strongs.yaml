@@ -7,51 +7,79 @@ definition: to gush; by implication, to inundate, cleanse; by analogy, to gallop
   conquer
 kjv_usage: drown, (over-) flow(-whelm, rinse, run, rush, (throughly) wash (away).
 derivation: a primitive root;
-extended_definition:
-  gloss: to overflow
-  definition: 1) to wash, rinse, overflow, engulf, rinse or wash off<br>1a) (Qal)<br>1a1)
-    to overflow<br>1a2) to flow, run<br>1a3) to rinse or wash off<br>1b) (Niphal)
-    to be swept away, be rinsed out<br>1c) (Pual) to be rinsed, be scoured and rinsed
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to wash, rinse, overflow, engulf, rinse or wash off
+
+  1a) (Qal)
+
+  1a1) to overflow
+
+  1a2) to flow, run
+
+  1a3) to rinse or wash off
+
+  1b) (Niphal) to be swept away, be rinsed out
+
+  1c) (Pual) to be rinsed, be scoured and rinsed {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2229
-    proximity: 0.8196
+    lemma: זָרַם
+    gloss: to gush {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: H1740
-    proximity: 0.8148
+    lemma: דּוּחַ
+    gloss: to thrust away {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: H3261
-    proximity: 0.8045
+    lemma: יָעָה
+    gloss: to brush aside {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
   - strongs: H5674
-    proximity: 0.8039
+    lemma: עָבַר
+    gloss: to cross over {openscriptures-strongs}
+    proximity: 0.8039 {macula-proximity}
   - strongs: H5599
-    proximity: 0.7908
+    lemma: סָפִיחַ
+    gloss: something  falling off {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
   - strongs: H1640
-    proximity: 0.7841
+    lemma: גָּרַף
+    gloss: to bear off violently {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
   - strongs: H5502
-    proximity: 0.7724
+    lemma: סָחַף
+    gloss: to scrape off {openscriptures-strongs}
+    proximity: 0.7724 {macula-proximity}
   - strongs: H2230
-    proximity: 0.7624
+    lemma: זֶרֶם
+    gloss: a gush of water {openscriptures-strongs}
+    proximity: 0.7624 {macula-proximity}
   - strongs: H7364
-    proximity: 0.7174
+    lemma: רָחַץ
+    gloss: to lave {openscriptures-strongs}
+    proximity: 0.7174 {macula-proximity}
   cross_language:
   - strongs: G3068
-    proximity: 0.8188
+    lemma: λούω
+    gloss: to bathe (the whole person {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
     language: greek
   - strongs: G4216
-    proximity: 0.8156
+    lemma: ποταμοφόρητος
+    gloss: river-borne {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
     language: greek
   - strongs: G2666
-    proximity: 0.7832
+    lemma: καταπίνω
+    gloss: to drink down {openscriptures-strongs}
+    proximity: 0.7832 {macula-proximity}
     language: greek
   - strongs: G4132
-    proximity: 0.7729
+    lemma: πλήμμυρα
+    gloss: flood-tide {openscriptures-strongs}
+    proximity: 0.7729 {macula-proximity}
     language: greek
   - strongs: G911
-    proximity: 0.7532
+    proximity: 0.7532 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

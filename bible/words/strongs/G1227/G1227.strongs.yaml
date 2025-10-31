@@ -5,61 +5,62 @@ transliteration: diablépō
 definition: to look through, i.e. recover full vision
 kjv_usage: see clearly
 derivation: from G1223 (διά) and G991 (βλέπω);
-extended_definition:
-  gloss: to see clearly
-  definition: '<b>δια-βλέπω </b><BR /> __1. <b>to took straight before one</b>. <BR
-    /> __2. <b>to see clearly</b>: <ref=''Mat.7.5''>Mat.7:5</ref>, <ref=''Mrk.8.25''>Mrk.8:25</ref>,
-    <ref=''Luk.6.42''>Luk.6:42</ref> (cf. διάβλεψις, Aq., <ref=''Isa.61.1''>Isa.61:1</ref>,
-    for LXX ἀνάβ-).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> διαβλέπω</b>, <br /> <b>stare with eyes wide open,</b> [<a
-    href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Phaedo” 86d,
-    4th c.BC: Aristoteles Philosophus “de Insomniis” 462a13 ">Refs 5th c.BC+</a>];
-    δ. εἴς τινα, πρός τινα, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus
-    Biographus et Philosophus “Alexander” 14, 2.548b. ">Refs 1st c.AD+</a>]<br /><Level3><b>__2</b></Level3>
-    <b>see clearly,</b> [<a href="javascript:void(0)" title=" 4th c.BC: Dionysius
-    Comicus 2.13; ἐν τοῖς σκοτεινοῖς 1st c.BC: Philodemus Gadarensis Epigrammaticus
-    “Rh.” 1.252S., compare 2nd c.AD: Lucianus Sophista “Merc. Cond.” 22">Refs 4th
-    c.BC+</a>]: with <i>infinitive</i>, διαβλέψεις ἐκβαλεῖν τὸ κάρφος [<a href="javascript:void(0)"
-    title=" NT.Matt.7.5. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δια-βλέπω
+
+  __1. to took straight before one.
+
+  __2. to see clearly: Mat.7:5, Mrk.8:25, Luk.6:42 (cf. διάβλεψις, Aq., Isa.61:1,
+  for LXX ἀνάβ-).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'διαβλέπω,
+
+  stare with eyes wide open, [Refs 5th c.BC+]; δ. εἴς τινα, πρός τινα, [Refs 1st c.AD+]
+
+  __2 see clearly, [Refs 4th c.BC+]: with infinitive, διαβλέψεις ἐκβαλεῖν τὸ κάρφος
+  [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G308
-    proximity: 0.8241
+    proximity: 0.8241 {macula-proximity}
   - strongs: A1888a
-    proximity: 0.815
+    proximity: 0.815 {macula-proximity}
   - strongs: A431
-    proximity: 0.8117
+    proximity: 0.8117 {macula-proximity}
   - strongs: G5320
-    proximity: 0.8017
+    lemma: φανερῶς
+    gloss: plainly {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
   - strongs: G4308
-    proximity: 0.8007
+    lemma: προοράω
+    gloss: to behold in advance {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: A718
-    proximity: 0.7879
+    proximity: 0.7879 {macula-proximity}
   - strongs: A6568
-    proximity: 0.781
+    proximity: 0.781 {macula-proximity}
   cross_language:
   - strongs: H6703
-    proximity: 0.8284
+    lemma: צַח
+    gloss: dazzling {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: hebrew
   - strongs: H2005
-    proximity: 0.8269
+    lemma: הֵן
+    gloss: lo! {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
     language: hebrew
   - strongs: H7207
-    proximity: 0.8002
+    lemma: רַאֲוָה
+    gloss: sight {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
     language: hebrew
   - strongs: H874
-    proximity: 0.7953
+    proximity: 0.7953 {macula-proximity}
     language: hebrew
   - strongs: H5027
-    proximity: 0.7801
+    lemma: נָבַט
+    gloss: to scan {openscriptures-strongs}
+    proximity: 0.7801 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

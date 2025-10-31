@@ -6,21 +6,17 @@ pronunciation: mad-ray-gaw'
 definition: properly, a step; by implication, a steep or inaccessible place
 kjv_usage: stair, steep place.
 derivation: from an unused root meaning to step;
-extended_definition:
-  gloss: steep
-  definition: steep place, steep
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: steep place, steep {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5553
-    proximity: 0.7468
+    lemma: סֶלַע
+    gloss: a craggy rock {openscriptures-strongs}
+    proximity: 0.7468 {macula-proximity}
   cross_language:
   - strongs: G2911
-    proximity: 0.789
+    lemma: κρημνός
+    gloss: overhanging {openscriptures-strongs}
+    proximity: 0.789 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

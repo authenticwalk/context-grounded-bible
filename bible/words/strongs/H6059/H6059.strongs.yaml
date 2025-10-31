@@ -7,48 +7,63 @@ definition: to collar, i.e. adorn with anecklace; figuratively, to fit out with 
 kjv_usage: compass about as a chain, furnish, liberally.
 derivation: a primitive root; properly, to choke; used only as denominative from H6060
   (עָנָק),
-extended_definition:
-  gloss: to ornament
-  definition: 1) to serve as a necklace, adorn with a neck ornament<br>1a) (Qal) to
-    serve as a necklace<br>1b) (Hiphil) to make a necklace
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to serve as a necklace, adorn with a neck ornament
+
+  1a) (Qal) to serve as a necklace
+
+  1b) (Hiphil) to make a necklace {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3051
-    proximity: 0.8253
+    lemma: יָהַב
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
   - strongs: H7133a
-    proximity: 0.8229
+    proximity: 0.8229 {macula-proximity}
   - strongs: H6468
-    proximity: 0.819
+    lemma: פְּעֻלָּה
+    gloss: work {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   - strongs: H4991
-    proximity: 0.8166
+    lemma: מַתָּת
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
   - strongs: H2064
-    proximity: 0.8157
+    lemma: זָבַד
+    gloss: to confer {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: A5415
-    proximity: 0.8078
+    proximity: 0.8078 {macula-proximity}
   - strongs: H866
-    proximity: 0.7883
+    proximity: 0.7883 {macula-proximity}
   - strongs: H7939
-    proximity: 0.7847
+    lemma: שָׂכָר
+    gloss: payment of contract {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
   cross_language:
   - strongs: G1929
-    proximity: 0.8126
+    lemma: ἐπιδίδωμι
+    gloss: to give over {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
     language: greek
   - strongs: G1431
-    proximity: 0.8041
+    lemma: δωρεά
+    gloss: a gratuity {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
     language: greek
   - strongs: G1434
-    proximity: 0.8033
+    lemma: δώρημα
+    gloss: a bestowment {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
     language: greek
   - strongs: G1433
-    proximity: 0.7981
+    lemma: δωρέομαι
+    gloss: to bestow gratuitously {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
     language: greek
   - strongs: G2023
-    proximity: 0.7894
+    lemma: ἐπιχορηγέω
+    gloss: to furnish besides {openscriptures-strongs}
+    proximity: 0.7894 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

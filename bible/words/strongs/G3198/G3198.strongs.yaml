@@ -5,32 +5,31 @@ transliteration: Melchisedék
 definition: Melchisedek (i.e. Malkitsedek), a patriarch
 kjv_usage: Melchisedec
 derivation: of Hebrew origin (H04442);
-extended_definition:
-  gloss: Melchizedek
-  definition: '<b>Μελχισεδέκ </b> indecl., ὁ (Heb. מַלְכִּי־צֶדֶק), <BR /> <b>Melchizedek</b>:
-    <ref=''Heb.5.6, 10; 6.20; 7.1, 10-11; 7.15, 17''>Heb.5:6, 10 6:20 7:1, 10-11 7:15,
-    17</ref>.†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Μελχισεδέκ </b> indecl., ὁ (Heb. מַלְכִּי־צֶדֶק), <BR /> <b>Melchizedek</b>:
-    <ref=''Heb.5.6, 10; 6.20; 7.1, 10-11; 7.15, 17''>Heb.5:6, 10 6:20 7:1, 10-11 7:15,
-    17</ref>.†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Μελχισεδέκ  indecl., ὁ (Heb. מַלְכִּי־צֶדֶק),
+
+  Melchizedek: Heb.5:6, 10 6:20 7:1, 10-11 7:15, 17.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Μελχισεδέκ  indecl., ὁ (Heb. מַלְכִּי־צֶדֶק),
+
+  Melchizedek: Heb.5:6, 10 6:20 7:1, 10-11 7:15, 17.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3197
-    proximity: 0.7824
+    lemma: Μελχί
+    gloss: Melchi {openscriptures-strongs}
+    proximity: 0.7824 {macula-proximity}
   cross_language:
   - strongs: H1439
-    proximity: 0.829
+    lemma: גִּדְעוֹן
+    gloss: Gidon {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: hebrew
   - strongs: H1445
-    proximity: 0.8281
+    lemma: גֶּדֶר
+    gloss: Geder {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

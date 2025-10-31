@@ -6,39 +6,49 @@ pronunciation: paw-tsah'
 definition: to split, i.e. wound
 kjv_usage: wound.
 derivation: a primitive root;
-extended_definition:
-  gloss: to wound
-  definition: 1) to bruise, wound, wound by bruising<br>1a) (Qal) to wound by crushing
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to bruise, wound, wound by bruising
+
+  1a) (Qal) to wound by crushing {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1855
-    proximity: 0.8233
+    proximity: 0.8233 {macula-proximity}
   - strongs: H1794
-    proximity: 0.8225
+    lemma: דָּכָה
+    gloss: to collapse {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: H1105a
-    proximity: 0.8221
+    proximity: 0.8221 {macula-proximity}
   - strongs: H7665a
-    proximity: 0.8218
+    proximity: 0.8218 {macula-proximity}
   - strongs: H3510
-    proximity: 0.8161
+    lemma: כָּאַב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H8295
-    proximity: 0.81
+    lemma: שָׂרַט
+    gloss: to gash {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
   - strongs: H7667
-    proximity: 0.806
+    lemma: שֶׁבֶר
+    gloss: a fracture {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
   - strongs: H7533
-    proximity: 0.8001
+    lemma: רָצַץ
+    gloss: to crack in pieces {openscriptures-strongs}
+    proximity: 0.8001 {macula-proximity}
   - strongs: H1795
-    proximity: 0.7986
+    lemma: דַּכָּה
+    gloss: mutilated {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
   - strongs: H4205
-    proximity: 0.7906
+    lemma: מָזוֹר
+    gloss: a bandage {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
   cross_language:
   - strongs: G5196
-    proximity: 0.7957
+    lemma: ὕβρις
+    gloss: insolence {openscriptures-strongs}
+    proximity: 0.7957 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

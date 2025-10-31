@@ -7,46 +7,69 @@ definition: '{arrogance or majesty; by implication, (concretely) ornament}'
 kjv_usage: excellent things, lifting up, majesty, pride, proudly, raging.
 derivation: from H1342 (גָּאָה); the same as H1346 (גַּאֲוָה)xlit gaʻăvâh corrected
   to gaʼăvâh
-extended_definition:
-  gloss: majesty
-  definition: 1) majesty<br>1a) a rising up (of column of smoke)<br>1b) a swelling
-    (of sea)<br>1c) majesty (of God)<br>1d) pride
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) majesty
+
+  1a) a rising up (of column of smoke)
+
+  1b) a swelling (of sea)
+
+  1c) majesty (of God)
+
+  1d) pride {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7600
-    proximity: 0.8221
+    lemma: שַׁאֲנָן
+    gloss: secure {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H6277
-    proximity: 0.8004
+    lemma: עָתָק
+    gloss: impudent {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
   - strongs: H4791
-    proximity: 0.7997
+    lemma: מָרוֹם
+    gloss: altitude {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
   - strongs: H1433
-    proximity: 0.7974
+    lemma: גֹּדֶל
+    gloss: magnitude {openscriptures-strongs}
+    proximity: 0.7974 {macula-proximity}
   - strongs: H1349
-    proximity: 0.7842
+    lemma: גַּאֲיוֹן
+    gloss: haughty {openscriptures-strongs}
+    proximity: 0.7842 {macula-proximity}
   - strongs: H7613
-    proximity: 0.7729
+    lemma: שְׂאֵת
+    gloss: an elevation or leprous scab {openscriptures-strongs}
+    proximity: 0.7729 {macula-proximity}
   - strongs: A2103
-    proximity: 0.7668
+    proximity: 0.7668 {macula-proximity}
   - strongs: H1364
-    proximity: 0.7599
+    lemma: גָּבֹהַּ
+    gloss: elevated {openscriptures-strongs}
+    proximity: 0.7599 {macula-proximity}
   - strongs: H1363
-    proximity: 0.7558
+    lemma: גֹּבַהּ
+    gloss: elation {openscriptures-strongs}
+    proximity: 0.7558 {macula-proximity}
   - strongs: H2086
-    proximity: 0.7483
+    lemma: זֵד
+    gloss: arrogant {openscriptures-strongs}
+    proximity: 0.7483 {macula-proximity}
   cross_language:
   - strongs: G5450
-    proximity: 0.766
+    lemma: φυσίωσις
+    gloss: inflation {openscriptures-strongs}
+    proximity: 0.766 {macula-proximity}
     language: greek
   - strongs: G3168
-    proximity: 0.7583
+    lemma: μεγαλειότης
+    gloss: superbness {openscriptures-strongs}
+    proximity: 0.7583 {macula-proximity}
     language: greek
   - strongs: G3169
-    proximity: 0.755
+    lemma: μεγαλοπρεπής
+    gloss: befitting greatness or magnificence {openscriptures-strongs}
+    proximity: 0.755 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

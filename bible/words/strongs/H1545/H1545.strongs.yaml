@@ -6,47 +6,57 @@ pronunciation: ghel-ome'
 definition: clothing (as wrapped)
 kjv_usage: clothes.
 derivation: from H1563 (גָּלַם);
-extended_definition:
-  gloss: garment
-  definition: wrapping, garment
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: wrapping, garment {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4304
-    proximity: 0.8192
+    lemma: מִטְפַּחַת
+    gloss: a wide cloak {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: H8509
-    proximity: 0.8182
+    lemma: תַּכְרִיךְ
+    gloss: a wrapper or robe {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
   - strongs: H3666
-    proximity: 0.7915
+    lemma: כִּנְעָה
+    gloss: a package {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
   - strongs: A5622
-    proximity: 0.7872
+    proximity: 0.7872 {macula-proximity}
   - strongs: H899
-    proximity: 0.7819
+    proximity: 0.7819 {macula-proximity}
   - strongs: H4063
-    proximity: 0.7808
+    lemma: מֶדֶו
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7808 {macula-proximity}
   - strongs: H8071
-    proximity: 0.7663
+    lemma: שִׂמְלָה
+    gloss: a dress {openscriptures-strongs}
+    proximity: 0.7663 {macula-proximity}
   - strongs: H155
-    proximity: 0.7553
+    proximity: 0.7553 {macula-proximity}
   cross_language:
   - strongs: G4018
-    proximity: 0.8242
+    lemma: περιβόλαιον
+    gloss: something thrown around one {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
     language: greek
   - strongs: G294a
-    proximity: 0.7639
+    proximity: 0.7639 {macula-proximity}
     language: greek
   - strongs: G4749
-    proximity: 0.7582
+    lemma: στολή
+    gloss: equipment {openscriptures-strongs}
+    proximity: 0.7582 {macula-proximity}
     language: greek
   - strongs: G2440
-    proximity: 0.734
+    lemma: ἱμάτιον
+    gloss: a dress {openscriptures-strongs}
+    proximity: 0.734 {macula-proximity}
     language: greek
   - strongs: G5511
-    proximity: 0.709
+    lemma: χλαμύς
+    gloss: a military cloak {openscriptures-strongs}
+    proximity: 0.709 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

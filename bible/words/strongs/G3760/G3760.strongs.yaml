@@ -5,58 +5,62 @@ transliteration: oudamōs
 definition: by no means
 kjv_usage: not
 derivation: adverb from (the feminine) of G3762 (οὐδείς);
-extended_definition:
-  gloss: by no means
-  definition: '<b>οὐδαμῶς</b><BR /> (οὐδαμός, not even one), <BR /> <i>adv.</i>, [in
-    LXX: 2-4Mac.8* ;] <BR /><b>in no wise, by no means</b>: <ref=''Mat.2.6''>Mat.2:6</ref>
-    (OT).†<BR /> (AS)'
-  morphology: G:ADV-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> οὐδᾰμ-ῶς</b>, <br /> <i>adverb</i> of οὐδαμός, <b>in no wise</b>,
-    [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.148, 173
-    ">Refs 5th c.BC+</a>]; ἄλλως οὐ. [<a href="javascript:void(0)" title=" [prev.
-    author] 1.123, etc.">Refs</a>]; οὐδέποτε οὐδαμῇ οὐ. [<a href="javascript:void(0)"
-    title=" 5th-6th c.BC: Plato Philosophus “Phaedo” 78d, compare “Phlb.” 29b ">Refs
-    5th c.BC+</a>]: frequently in answers, πότερα γὰρ.. πρέπε;—οὐ. [<a href="javascript:void(0)"
-    title=" 4th-5th c.BC: Aeschylus Tragicus “Persae” 240, compare 716; so οὐ. γ᾽
-    5th-6th c.BC: Aristophanes Comicus “Nubes” 688, “V.” 79, etc.">Refs 5th c.BC+</a>];
-    also <b>οὐθαμῶς</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus
-    Philosophus “Metaphysica” 7, etc.">Refs 4th c.BC+</a>] —Cf. μηδαμῶς.'
-  source: STEPBible/LSJ
+extended_definition: 'οὐδαμῶς
+
+  (οὐδαμός, not even one),
+
+  adv., [in LXX: 2-4Mac.8* ;]
+
+  in no wise, by no means: Mat.2:6 (OT).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'οὐδᾰμ-ῶς,
+
+  adverb of οὐδαμός, in no wise, [Refs 5th c.BC+]; ἄλλως οὐ. [Refs]; οὐδέποτε οὐδαμῇ
+  οὐ. [Refs 5th c.BC+]: frequently in answers, πότερα γὰρ.. πρέπε;—οὐ. [Refs 5th c.BC+];
+  also οὐθαμῶς, [Refs 4th c.BC+] —Cf. μηδαμῶς. {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3780
-    proximity: 0.8139
+    lemma: οὐχί
+    gloss: not indeed {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: G3761
-    proximity: 0.8054
+    lemma: οὐδέ
+    gloss: not however {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
   - strongs: G3765
-    proximity: 0.8051
+    lemma: οὐκέτι
+    gloss: not yet {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
   - strongs: A3809
-    proximity: 0.7966
+    proximity: 0.7966 {macula-proximity}
   - strongs: G3361
-    proximity: 0.7626
+    lemma: μή
+    gloss: not {openscriptures-strongs}
+    proximity: 0.7626 {macula-proximity}
   - strongs: G3756
-    proximity: 0.7558
+    lemma: οὐ
+    gloss: the absolute negative ) adverb {openscriptures-strongs}
+    proximity: 0.7558 {macula-proximity}
   cross_language:
   - strongs: H3807a
-    proximity: 0.828
+    proximity: 0.828 {macula-proximity}
     language: hebrew
   - strongs: H1077
-    proximity: 0.7959
+    lemma: בַּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7959 {macula-proximity}
     language: hebrew
   - strongs: H1115
-    proximity: 0.7906
+    lemma: בִּלְתִּי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
     language: hebrew
   - strongs: H369
-    proximity: 0.782
+    proximity: 0.782 {macula-proximity}
     language: hebrew
   - strongs: H408
-    proximity: 0.7486
+    proximity: 0.7486 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

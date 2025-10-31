@@ -6,50 +6,65 @@ pronunciation: gare
 definition: properly, a guest; by implication, a foreigner
 kjv_usage: alien, sojourner, stranger.
 derivation: or (fully) geyr (gare); from H1481 (גּוּר);
-extended_definition:
-  gloss: sojourner
-  definition: 1) sojourner<br>1a) a temporary inhabitant, a newcomer lacking inherited
-    rights<br>1b) of foreigners in Israel, though conceded rights
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) sojourner
+
+  1a) a temporary inhabitant, a newcomer lacking inherited rights
+
+  1b) of foreigners in Israel, though conceded rights {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2114
-    proximity: 0.8271
+    lemma: זוּר
+    gloss: to turn aside {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: H3427
-    proximity: 0.8234
+    lemma: יָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
   - strongs: H5234a
-    proximity: 0.8187
+    proximity: 0.8187 {macula-proximity}
   - strongs: H3934
-    proximity: 0.812
+    lemma: לָעֵג
+    gloss: a buffoon {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: H312
-    proximity: 0.8013
+    proximity: 0.8013 {macula-proximity}
   - strongs: H1471
-    proximity: 0.788
+    lemma: גּוֹי
+    gloss: a foreign nation {openscriptures-strongs}
+    proximity: 0.788 {macula-proximity}
   - strongs: H3937
-    proximity: 0.776
+    lemma: לָעַז
+    gloss: to speak in a foreign tongue {openscriptures-strongs}
+    proximity: 0.776 {macula-proximity}
   - strongs: H6154a
-    proximity: 0.7653
+    proximity: 0.7653 {macula-proximity}
   - strongs: H4033
-    proximity: 0.728
+    lemma: מָגוּר
+    gloss: a temporary abode {openscriptures-strongs}
+    proximity: 0.728 {macula-proximity}
   cross_language:
   - strongs: G1854
-    proximity: 0.8231
+    lemma: ἔξω
+    gloss: out(-side {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
     language: greek
   - strongs: G915
-    proximity: 0.7967
+    proximity: 0.7967 {macula-proximity}
     language: greek
   - strongs: G1482
-    proximity: 0.771
+    lemma: ἐθνικός
+    gloss: national {openscriptures-strongs}
+    proximity: 0.771 {macula-proximity}
     language: greek
   - strongs: G1484
-    proximity: 0.7449
+    lemma: ἔθνος
+    gloss: a race {openscriptures-strongs}
+    proximity: 0.7449 {macula-proximity}
     language: greek
   - strongs: G1927
-    proximity: 0.7213
+    lemma: ἐπιδημέω
+    gloss: to make oneself at home {openscriptures-strongs}
+    proximity: 0.7213 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

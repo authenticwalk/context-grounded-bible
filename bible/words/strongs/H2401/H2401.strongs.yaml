@@ -6,48 +6,65 @@ pronunciation: khat-aw-aw'
 definition: an offence, or a sacrifice forit
 kjv_usage: sin (offering).
 derivation: feminine of H2399 (חֵטְא);
-extended_definition:
-  gloss: sin
-  definition: '1) sin, sin offering<br>1a) sin<br>1b) sin offering<BR>Aramaic equivalent:
-    <i>chat.ta.ah</i> (חַטָּאָה "sin offering" H2402)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) sin, sin offering
+
+  1a) sin
+
+  1b) sin offering
+
+  Aramaic equivalent: chat.ta.ah (חַטָּאָה "sin offering" H2402) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7451
-    proximity: 0.8206
+    lemma: רַע
+    gloss: bad or  evil {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: H6586
-    proximity: 0.8095
+    lemma: פָּשַׁע
+    gloss: to break away {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
   - strongs: H816
-    proximity: 0.8036
+    proximity: 0.8036 {macula-proximity}
   - strongs: H7133
-    proximity: 0.7989
+    lemma: קׇרְבָּן
+    gloss: something brought near the altar {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
   - strongs: H5766
-    proximity: 0.7944
+    lemma: עֶוֶל
+    gloss: evil {openscriptures-strongs}
+    proximity: 0.7944 {macula-proximity}
   - strongs: H7564
-    proximity: 0.7533
+    lemma: רִשְׁעָה
+    gloss: wrong {openscriptures-strongs}
+    proximity: 0.7533 {macula-proximity}
   - strongs: H2400
-    proximity: 0.7457
+    lemma: חַטָּא
+    gloss: a criminal {openscriptures-strongs}
+    proximity: 0.7457 {macula-proximity}
   - strongs: H3725
-    proximity: 0.7409
+    lemma: כִּפֻּר
+    gloss: expiation {openscriptures-strongs}
+    proximity: 0.7409 {macula-proximity}
   cross_language:
   - strongs: G3892
-    proximity: 0.8222
+    lemma: παρανομία
+    gloss: transgression {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
     language: greek
   - strongs: G268
-    proximity: 0.8042
+    proximity: 0.8042 {macula-proximity}
     language: greek
   - strongs: G458
-    proximity: 0.7857
+    proximity: 0.7857 {macula-proximity}
     language: greek
   - strongs: G2435
-    proximity: 0.7845
+    lemma: ἱλαστήριον
+    gloss: an expiatory {openscriptures-strongs}
+    proximity: 0.7845 {macula-proximity}
     language: greek
   - strongs: G2378
-    proximity: 0.7503
+    lemma: θυσία
+    gloss: sacrifice (the act or the victim {openscriptures-strongs}
+    proximity: 0.7503 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

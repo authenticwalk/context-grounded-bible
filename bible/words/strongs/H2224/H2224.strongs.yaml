@@ -7,48 +7,65 @@ definition: properly, to irradiate (or shoot forth beams), i.e. to rise (as the 
   specifically, to appear (as a symptom of leprosy)
 kjv_usage: arise, rise (up), as soon as it is up.
 derivation: a primitive root;
-extended_definition:
-  gloss: to rise
-  definition: 1) to rise, come forth, break out, arise, rise up, shine<br>1a) (Qal)<br>1a1)
-    to rise<br>1a2) to come out, appear
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to rise, come forth, break out, arise, rise up, shine
+
+  1a) (Qal)
+
+  1a1) to rise
+
+  1a2) to come out, appear {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7837
-    proximity: 0.8279
+    lemma: שַׁחַר
+    gloss: dawn (literal {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: H6476
-    proximity: 0.8185
+    lemma: פָּצַח
+    gloss: to break out {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: A6966
-    proximity: 0.8133
+    proximity: 0.8133 {macula-proximity}
   - strongs: H7315
-    proximity: 0.8113
+    lemma: רוֹם
+    gloss: elevation {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
   - strongs: H6524
-    proximity: 0.8104
+    lemma: פָּרַח
+    gloss: to break forth as a bud {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
   - strongs: H8618
-    proximity: 0.8088
+    lemma: תְּקוֹמֵם
+    gloss: an opponent {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
   - strongs: H6974a
-    proximity: 0.8058
+    proximity: 0.8058 {macula-proximity}
   - strongs: H2094
-    proximity: 0.8035
+    lemma: זָהַר
+    gloss: to gleam {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
   cross_language:
   - strongs: G1633
-    proximity: 0.8276
+    lemma: ἐκχωρέω
+    gloss: to depart {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: greek
   - strongs: G3854
-    proximity: 0.8226
+    lemma: παραγίνομαι
+    gloss: to become near {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
     language: greek
   - strongs: G395
-    proximity: 0.8226
+    proximity: 0.8226 {macula-proximity}
     language: greek
   - strongs: G1826
-    proximity: 0.8139
+    lemma: ἔξειμι
+    gloss: to issue {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: greek
   - strongs: G4393
-    proximity: 0.8134
+    lemma: προφέρω
+    gloss: to bear forward {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

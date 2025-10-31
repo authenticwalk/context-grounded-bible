@@ -7,48 +7,67 @@ definition: properly, something inherited, i.e. (abstractly) occupancy, or (conc
   an heirloom; generally an estate, patrimony or portion
 kjv_usage: heritage, to inherit, inheritance, possession. Compare H5158 (נַחַל).
 derivation: from H5157 (נָחַל) (in its usual sense);
-extended_definition:
-  gloss: inheritance
-  definition: 1) possession, property, inheritance, heritage<br>1a) property<br>1b)
-    portion, share<br>1c) inheritance, portion
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) possession, property, inheritance, heritage
+
+  1a) property
+
+  1b) portion, share
+
+  1c) inheritance, portion {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6310
-    proximity: 0.8162
+    lemma: פֶּה
+    gloss: the mouth {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H7075
-    proximity: 0.8147
+    lemma: קִנְיָן
+    gloss: creation {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: H2256
-    proximity: 0.8059
+    lemma: חֶבֶל
+    gloss: a rope {openscriptures-strongs}
+    proximity: 0.8059 {macula-proximity}
   - strongs: H4639
-    proximity: 0.798
+    lemma: מַעֲשֶׂה
+    gloss: an action {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
   - strongs: H127
-    proximity: 0.7824
+    proximity: 0.7824 {macula-proximity}
   - strongs: H7704
-    proximity: 0.7747
+    lemma: שָׂדֶה
+    gloss: a field {openscriptures-strongs}
+    proximity: 0.7747 {macula-proximity}
   - strongs: H270
-    proximity: 0.7049
+    proximity: 0.7049 {macula-proximity}
   - strongs: H1646
-    proximity: 0.7048
+    lemma: גְרֻשָׁה
+    gloss: dispossession {openscriptures-strongs}
+    proximity: 0.7048 {macula-proximity}
   cross_language:
   - strongs: G3313
-    proximity: 0.8135
+    lemma: μέρος
+    gloss: a division or share (literally or figuratively {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
     language: greek
   - strongs: G3312
-    proximity: 0.8095
+    lemma: μεριστής
+    gloss: an apportioner {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
     language: greek
   - strongs: G1237
-    proximity: 0.7972
+    lemma: διαδέχομαι
+    gloss: to receive in turn {openscriptures-strongs}
+    proximity: 0.7972 {macula-proximity}
     language: greek
   - strongs: G5564
-    proximity: 0.778
+    lemma: χωρίον
+    gloss: a spot or plot of ground {openscriptures-strongs}
+    proximity: 0.778 {macula-proximity}
     language: greek
   - strongs: G5224
-    proximity: 0.7457
+    lemma: ὑπάρχοντα
+    gloss: things extant or in hand {openscriptures-strongs}
+    proximity: 0.7457 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

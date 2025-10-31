@@ -6,39 +6,53 @@ pronunciation: gaw-dare'
 definition: a circumvallation; by implication, an inclosure
 kjv_usage: fence, hedge, wall.
 derivation: from H1443 (גָּדַר);
-extended_definition:
-  gloss: wall
-  definition: 'fence, wall<BR>Also means: <i>ge.der</i> (גֶּדֶר "wall" H1444)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'fence, wall
+
+  Also means: ge.der (גֶּדֶר "wall" H1444) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2742a
-    proximity: 0.813
+    proximity: 0.813 {macula-proximity}
   - strongs: H7790
-    proximity: 0.812
+    lemma: שׁוּר
+    gloss: a foe {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: H3724
-    proximity: 0.8066
+    lemma: כֹּפֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
   - strongs: H4534
-    proximity: 0.7908
+    lemma: מְסוּכָה
+    gloss: a hedge {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
   - strongs: H1208
-    proximity: 0.7903
+    lemma: בָּצוֹר
+    gloss: inaccessible {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
   - strongs: H6521
-    proximity: 0.7882
+    lemma: פְּרָזִי
+    gloss: a rustic {openscriptures-strongs}
+    proximity: 0.7882 {macula-proximity}
   - strongs: H1146
-    proximity: 0.7701
+    lemma: בִּנְיָן
+    gloss: an edifice {openscriptures-strongs}
+    proximity: 0.7701 {macula-proximity}
   - strongs: H8284
-    proximity: 0.7402
+    lemma: שָׁרָה
+    gloss: a fortification {openscriptures-strongs}
+    proximity: 0.7402 {macula-proximity}
   - strongs: H1785
-    proximity: 0.7229
+    lemma: דָּיֵק
+    gloss: a battering-tower {openscriptures-strongs}
+    proximity: 0.7229 {macula-proximity}
   - strongs: H6519
-    proximity: 0.7207
+    lemma: פְּרָזָה
+    gloss: an open country {openscriptures-strongs}
+    proximity: 0.7207 {macula-proximity}
   cross_language:
   - strongs: G3320
-    proximity: 0.7256
+    lemma: μεσότοιχον
+    gloss: a partition {openscriptures-strongs}
+    proximity: 0.7256 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

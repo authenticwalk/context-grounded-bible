@@ -6,45 +6,55 @@ pronunciation: hoo-yed-aw'
 definition: properly, an acclaim, i.e. a choir of singers
 kjv_usage: thanksgiving.
 derivation: from the same as H1959 (הֵידָד);
-extended_definition:
-  gloss: praise
-  definition: songs of praise
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: songs of praise {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7679
-    proximity: 0.8218
+    lemma: שָׂגָא
+    gloss: to grow {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H4210
-    proximity: 0.8092
+    lemma: מִזְמוֹר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: H7891
-    proximity: 0.7914
+    lemma: שִׁיר
+    gloss: to sing {openscriptures-strongs}
+    proximity: 0.7914 {macula-proximity}
   - strongs: H4110
-    proximity: 0.7524
+    lemma: מַהֲלָל
+    gloss: fame {openscriptures-strongs}
+    proximity: 0.7524 {macula-proximity}
   - strongs: H1974
-    proximity: 0.7506
+    lemma: הִלּוּל
+    gloss: a celebration of thanksgiving for harvest {openscriptures-strongs}
+    proximity: 0.7506 {macula-proximity}
   - strongs: A1289a
-    proximity: 0.7219
+    proximity: 0.7219 {macula-proximity}
   - strongs: A3029
-    proximity: 0.702
+    proximity: 0.702 {macula-proximity}
   cross_language:
   - strongs: G2168
-    proximity: 0.8237
+    lemma: εὐχαριστέω
+    gloss: to be grateful {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
     language: greek
   - strongs: G2127
-    proximity: 0.8166
+    lemma: εὐλογέω
+    gloss: to speak well of {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
     language: greek
   - strongs: G2129
-    proximity: 0.8113
+    lemma: εὐλογία
+    gloss: fine speaking {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
     language: greek
   - strongs: G2170
-    proximity: 0.8038
+    lemma: εὐχάριστος
+    gloss: well favored {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
     language: greek
   - strongs: G103
-    proximity: 0.7875
+    proximity: 0.7875 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

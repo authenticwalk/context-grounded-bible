@@ -6,41 +6,61 @@ pronunciation: kaw-raw'
 definition: to encounter, whether accidentally or in a hostile manner
 kjv_usage: befall, (by) chance, (cause to) come (upon), fall out, happen, meet.
 derivation: a primitive root;
-extended_definition:
-  gloss: 'to encounter: chanced'
-  definition: ': happen[unexpectedly]<br>1) to encounter, befall, meet<br>1a) (Qal)<br>1a1)
-    to meet, encounter<br>1a2) to befall (fig)<br>1b) (Niphal) to meet, meet unexpectedly<br>1c)
-    (Hiphil) to cause to meet'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': happen[unexpectedly]
+
+  1) to encounter, befall, meet
+
+  1a) (Qal)
+
+  1a1) to meet, encounter
+
+  1a2) to befall (fig)
+
+  1b) (Niphal) to meet, meet unexpectedly
+
+  1c) (Hiphil) to cause to meet {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5048
-    proximity: 0.8277
+    lemma: נֶגֶד
+    gloss: a front {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H1961
-    proximity: 0.8255
+    lemma: הָיָה
+    gloss: to exist {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: H5060
-    proximity: 0.821
+    lemma: נָגַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
   - strongs: H5227
-    proximity: 0.8126
+    lemma: נֹכַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
   cross_language:
   - strongs: G1904
-    proximity: 0.8285
+    lemma: ἐπέρχομαι
+    gloss: to supervene {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G4368
-    proximity: 0.8214
+    lemma: προστάτις
+    gloss: a patroness {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
     language: greek
   - strongs: G2240
-    proximity: 0.8206
+    lemma: ἥκω
+    gloss: to arrive {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G1717
-    proximity: 0.8205
+    lemma: ἐμφανής
+    gloss: apparent in self {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
     language: greek
   - strongs: G4940
-    proximity: 0.82
+    lemma: συντυγχάνω
+    gloss: to chance together {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -11,20 +11,25 @@ derivation: from H3769 (כָּרַר) in the sense of plumpness;
 related_words:
   synonyms:
   - strongs: H6629
-    proximity: 0.7882
+    lemma: צֹאן
+    gloss: a collective name for a flock {openscriptures-strongs}
+    proximity: 0.7882 {macula-proximity}
   - strongs: A1798
-    proximity: 0.7619
+    proximity: 0.7619 {macula-proximity}
   - strongs: H1429
-    proximity: 0.7414
+    lemma: גְּדִיָּה
+    gloss: a young female goat {openscriptures-strongs}
+    proximity: 0.7414 {macula-proximity}
   - strongs: H352
-    proximity: 0.7354
+    proximity: 0.7354 {macula-proximity}
   - strongs: H1423
-    proximity: 0.7186
+    lemma: גְּדִי
+    gloss: a young goat {openscriptures-strongs}
+    proximity: 0.7186 {macula-proximity}
   cross_language:
   - strongs: G2056
-    proximity: 0.797
+    lemma: ἔριφος
+    gloss: a kid or  goat {openscriptures-strongs}
+    proximity: 0.797 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

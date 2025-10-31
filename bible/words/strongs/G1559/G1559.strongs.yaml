@@ -5,55 +5,61 @@ transliteration: ekdiṓkō
 definition: to pursue out, i.e. expel or persecute implacably
 kjv_usage: persecute
 derivation: from G1537 (ἐκ) and G1377 (διώκω);
-extended_definition:
-  gloss: to persecute
-  definition: '<b>ἐκ-διώκω </b><BR /> [in LXX for בָּרַח hi., צָמַת, הָדַף, etc. ;]
-    <BR /><b>to chase away, drive out</b>: <ref=''1Th.2.15''>1Th.2:15</ref> (cf. <ref=''Deu.6.19''>Deu.6:19</ref>,
-    <ref=''Jol.2.20''>Jol.2:20</ref>).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐκδῐ-ώκω</b>, <br /> <b>chase away, banish,</b> [<a href="javascript:void(0)"
-    title=" 5th c.BC: Thucydides Historicus 1.24; ἐκ τοῦ τόπου 4th c.BC: Aristoteles
-    Philosophus “Historia Animalium” 618b12; τῆς οἰκίας 2nd c.AD: Lucianus Sophista
-    “Tim.” 10 ">Refs 5th c.BC+</a>]; <b>attack, persecute,</b> [<a href="javascript:void(0)"
-    title=" PMasp. 2 iii4 (6th c.AD)">Refs 6th c.AD+</a>], etc.:—<i>passive</i>, [<a
-    href="javascript:void(0)" title=" 4th c.BC: Hyperides Orator “Fragmenta” 238.
-    ">Refs 4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐκ-διώκω
+
+  [in LXX for בָּרַח hi., צָמַת, הָדַף, etc. ;]
+
+  to chase away, drive out: 1Th.2:15 (cf. Deu.6:19, Jol.2:20).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐκδῐ-ώκω,
+
+  chase away, banish, [Refs 5th c.BC+]; attack, persecute, [Refs 6th c.AD+], etc.:—passive,
+  [Refs 4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1377
-    proximity: 0.8247
+    lemma: διώκω
+    gloss: compare the base of G1169  and G1249 ) {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: G1614
-    proximity: 0.8234
+    lemma: ἐκτείνω
+    gloss: to extend {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
   - strongs: G1632a
-    proximity: 0.8215
+    proximity: 0.8215 {macula-proximity}
   - strongs: A5312
-    proximity: 0.814
+    proximity: 0.814 {macula-proximity}
   - strongs: G1831
-    proximity: 0.8071
+    lemma: ἐξέρχομαι
+    gloss: to issue {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
   - strongs: G1627
-    proximity: 0.8063
+    lemma: ἐκφέρω
+    gloss: to bear out {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
   cross_language:
   - strongs: H3447
-    proximity: 0.8272
+    lemma: יָשַׁט
+    gloss: to extend {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: hebrew
   - strongs: H2107
-    proximity: 0.8256
+    lemma: זוּל
+    gloss: probably to shake out {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
     language: hebrew
   - strongs: H6979b
-    proximity: 0.8203
+    proximity: 0.8203 {macula-proximity}
     language: hebrew
   - strongs: H3318
-    proximity: 0.8167
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
     language: hebrew
   - strongs: H7006
-    proximity: 0.816
+    lemma: קָיָה
+    gloss: to vomit {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

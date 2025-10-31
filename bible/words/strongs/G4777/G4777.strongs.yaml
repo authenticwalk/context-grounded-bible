@@ -5,55 +5,76 @@ transliteration: synkakopathéō
 definition: to suffer hardship in company with
 kjv_usage: be partaker of afflictions
 derivation: from G4862 (σύν) and G2553 (κακοπαθέω);
-extended_definition:
-  gloss: to suffer with
-  definition: '<b>συν-κακοπαθέω</b> (Rec. συγκ-), -ῶ, <BR /> <b>to bear evil treatment
-    along with, take one''s share of ill-treatment</b>: <ref=''2Ti.2.3''>2Ti.2:3;</ref>
-    with dative commod., τ. εὐαγγελίῳ, <ref=''2Ti.2.18.''>2Ti.2:18.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> συγκᾰκοπᾰθέω</b>, <br /> <b>partake in sufferings</b>, [<a href="javascript:void(0)"
-    title=" NT.2Tim.1.8. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'συν-κακοπαθέω (Rec. συγκ-), -ῶ,
+
+  to bear evil treatment along with, take one''s share of ill-treatment: 2Ti.2:3;
+  with dative commod., τ. εὐαγγελίῳ, 2Ti.2:18.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συγκᾰκοπᾰθέω,
+
+  partake in sufferings, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1237
-    proximity: 0.8249
+    lemma: διαδέχομαι
+    gloss: to receive in turn {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
   - strongs: G4887
-    proximity: 0.8211
+    lemma: συνδέω
+    gloss: to bind with {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
   - strongs: G4943
-    proximity: 0.8099
+    lemma: συνυπουργέω
+    gloss: to be a co-auxiliary {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
   - strongs: G2346
-    proximity: 0.7948
+    lemma: θλίβω
+    gloss: to crowd {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
   - strongs: G3336
-    proximity: 0.7915
+    lemma: μετάλημψις
+    gloss: participation {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
   - strongs: G3600
-    proximity: 0.7851
+    lemma: ὀδυνάω
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.7851 {macula-proximity}
   - strongs: G2347
-    proximity: 0.7794
+    lemma: θλῖψις
+    gloss: pressure {openscriptures-strongs}
+    proximity: 0.7794 {macula-proximity}
   - strongs: G4790
-    proximity: 0.777
+    lemma: συγκοινωνέω
+    gloss: to share in company with {openscriptures-strongs}
+    proximity: 0.777 {macula-proximity}
   - strongs: G4310
-    proximity: 0.7544
+    lemma: προπάσχω
+    gloss: to undergo hardship previously {openscriptures-strongs}
+    proximity: 0.7544 {macula-proximity}
   - strongs: G5605
-    proximity: 0.7457
+    lemma: ὠδίνω
+    gloss: to experience the pains of parturition {openscriptures-strongs}
+    proximity: 0.7457 {macula-proximity}
   cross_language:
   - strongs: H6234
-    proximity: 0.8289
+    lemma: עׇשְׁקָה
+    gloss: anguish {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: hebrew
   - strongs: H3511
-    proximity: 0.8177
+    lemma: כְּאֵב
+    gloss: suffering {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
     language: hebrew
   - strongs: H4689
-    proximity: 0.8069
+    lemma: מָצוֹק
+    gloss: a narrow place {openscriptures-strongs}
+    proximity: 0.8069 {macula-proximity}
     language: hebrew
   - strongs: H6040
-    proximity: 0.746
+    lemma: עֳנִי
+    gloss: depression {openscriptures-strongs}
+    proximity: 0.746 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,65 +5,77 @@ transliteration: leitourgikós
 definition: functional publicly ("liturgic"); i.e. beneficient
 kjv_usage: ministering
 derivation: from the same as G3008 (λειτουργέω);
-extended_definition:
-  gloss: ministering
-  definition: '<b>λειτουργικός</b>, -ή, -όν <BR /> [in LXX for עֲבֹדָה, שָׁרַת; ἔργα,
-    Num_7:5; στολαί <ref=''Exo.31.10; 39.32''>Exo.31:10 39:32</ref>; σκευή, <ref=''Num.4.12,
-    26''>Num.4:12, 26</ref>, <ref=''2Ch.24.14''>2Ch.24:14</ref> * ;] <BR /><b>of or
-    for service, ministering</b>: πνεύματα, <ref=''Heb.1.14.''>Heb.1:14.</ref>†<BR
-    /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> λειτουργ-ικός</b>, ή, όν, <br /> <b>of</b> or <b>for</b> λειτουργία,
-    [<a href="javascript:void(0)" title=" LXX.Exo.31.10, +others">LXX</a>]; ἡμέραι
-    (in temples) [<a href="javascript:void(0)" title=" “PTeb.” 88.6 (2nd c.BC)">Refs
-    2nd c.BC+</a>]; <b>ministering</b>, πνεύματα [<a href="javascript:void(0)" title="
-    NT.Heb.1.14: ">NT</a>] <i>substantive</i> -κόν (i.e. τέλος), τό, probably a tax
-    paid in lieu of labour performed, [<a href="javascript:void(0)" title=" “PPetr.”
-    2p.129 (3rd c.BC), “PTeb.” 5.49 (2nd c.BC), +others">Refs 3rd c.BC+</a>]:—in form
-    <b>λειτουργιακός</b> [<a href="javascript:void(0)" title=" “Catalogus Codicum
-    Astrologorum” 7.209.19. ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'λειτουργικός, -ή, -όν
+
+  [in LXX for עֲבֹדָה, שָׁרַת; ἔργα, Num_7:5; στολαί Exo.31:10 39:32; σκευή, Num.4:12,
+  26, 2Ch.24:14 * ;]
+
+  of or for service, ministering: πνεύματα, Heb.1:14.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'λειτουργ-ικός, ή, όν,
+
+  of or for λειτουργία, [LXX]; ἡμέραι (in temples) [Refs 2nd c.BC+]; ministering,
+  πνεύματα [NT] substantive -κόν (i.e. τέλος), τό, probably a tax paid in lieu of
+  labour performed, [Refs 3rd c.BC+]:—in form λειτουργιακός [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2418
-    proximity: 0.8103
+    lemma: ἱερουργέω
+    gloss: to be a temple-worker {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   - strongs: G5256
-    proximity: 0.7793
+    lemma: ὑπηρετέω
+    gloss: to be a subordinate {openscriptures-strongs}
+    proximity: 0.7793 {macula-proximity}
   - strongs: G5257
-    proximity: 0.7776
+    lemma: ὑπηρέτης
+    gloss: an under-oarsman {openscriptures-strongs}
+    proximity: 0.7776 {macula-proximity}
   - strongs: G2108
-    proximity: 0.7764
+    lemma: εὐεργεσία
+    gloss: beneficence {openscriptures-strongs}
+    proximity: 0.7764 {macula-proximity}
   - strongs: G3787
-    proximity: 0.7637
+    lemma: ὀφθαλμοδουλεία
+    gloss: sight-labor {openscriptures-strongs}
+    proximity: 0.7637 {macula-proximity}
   - strongs: A6402
-    proximity: 0.7525
+    proximity: 0.7525 {macula-proximity}
   - strongs: G3009
-    proximity: 0.7346
+    lemma: λειτουργία
+    gloss: public function  or almsgiver) {openscriptures-strongs}
+    proximity: 0.7346 {macula-proximity}
   - strongs: G2999
-    proximity: 0.7206
+    lemma: λατρεία
+    gloss: ministration of God {openscriptures-strongs}
+    proximity: 0.7206 {macula-proximity}
   - strongs: G2145a
-    proximity: 0.7028
+    proximity: 0.7028 {macula-proximity}
   cross_language:
   - strongs: H3547
-    proximity: 0.8072
+    lemma: כָּהַן
+    gloss: to officiate as a priest {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
     language: hebrew
   - strongs: H6633
-    proximity: 0.7998
+    lemma: צָבָא
+    gloss: to mass {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
     language: hebrew
   - strongs: H1980
-    proximity: 0.7927
+    lemma: הָלַךְ
+    gloss: to walk (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
     language: hebrew
   - strongs: H5652
-    proximity: 0.7683
+    lemma: עֲבָד
+    gloss: a deed {openscriptures-strongs}
+    proximity: 0.7683 {macula-proximity}
     language: hebrew
   - strongs: H5975
-    proximity: 0.7357
+    lemma: עָמַד
+    gloss: to stand {openscriptures-strongs}
+    proximity: 0.7357 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

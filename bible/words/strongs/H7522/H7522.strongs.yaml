@@ -7,48 +7,67 @@ definition: delight (especially as shown)
 kjv_usage: (be) acceptable(-ance, -ed), delight, desire, favour, (good) pleasure,
   (own, self, voluntary) will, as...(what) would.
 derivation: or רָצֹן; from H7521 (רָצָה);
-extended_definition:
-  gloss: acceptance
-  definition: 1) pleasure, delight, favour, goodwill, acceptance, will<br>1a) goodwill,
-    favour<br>1b) acceptance<br>1c) will, desire, pleasure, self-will
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) pleasure, delight, favour, goodwill, acceptance, will
+
+  1a) goodwill, favour
+
+  1b) acceptance
+
+  1c) will, desire, pleasure, self-will {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2603
-    proximity: 0.8234
+    lemma: חָנַן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
   - strongs: H2587
-    proximity: 0.8221
+    lemma: חַנּוּן
+    gloss: gracious {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H2530
-    proximity: 0.8148
+    lemma: חָמַד
+    gloss: to delight in {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: H5869
-    proximity: 0.8126
+    lemma: עַיִן
+    gloss: an eye {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
   - strongs: H8173a
-    proximity: 0.8114
+    proximity: 0.8114 {macula-proximity}
   - strongs: H5207
-    proximity: 0.8107
+    lemma: נִיחוֹחַ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
   - strongs: H4862
-    proximity: 0.8084
+    lemma: מִשְׁאָלָה
+    gloss: a request {openscriptures-strongs}
+    proximity: 0.8084 {macula-proximity}
   - strongs: H8231
-    proximity: 0.804
+    lemma: שָׁפַר
+    gloss: to glisten {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   cross_language:
   - strongs: G2432
-    proximity: 0.8272
+    lemma: ἱλαρότης
+    gloss: alacrity {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G1209
-    proximity: 0.8203
+    lemma: δέχομαι
+    gloss: to receive (in various applications {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
     language: greek
   - strongs: G18
-    proximity: 0.8202
+    proximity: 0.8202 {macula-proximity}
     language: greek
   - strongs: G4913
-    proximity: 0.811
+    lemma: συνήδομαι
+    gloss: to rejoice in with oneself {openscriptures-strongs}
+    proximity: 0.811 {macula-proximity}
     language: greek
   - strongs: G1014
-    proximity: 0.8106
+    lemma: βούλομαι
+    gloss: to "will {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,51 +7,76 @@ definition: (intensively) to constitute, enjoin
 kjv_usage: appoint, (for-) bid, (give a) charge, (give a, give in, send with) command(-er,
   -ment), send a messenger, put, (set) in order.
 derivation: a primitive root;
-extended_definition:
-  gloss: to command
-  definition: 1) to command, charge, give orders, lay charge, give charge to, order<br>1a)(Piel)<br>1a1)
-    to lay charge upon<br>1a2) to give charge to, give command to<br>1a3) to give
-    charge unto<br>1a4) to give charge over, appoint<br>1a5) to give charge, command<br>1a6)
-    to charge, command<br>1a7) to charge, commission<br>1a8) to command, appoint,
-    ordain (of divine act)<br>1b) (Pual) to be commanded
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to command, charge, give orders, lay charge, give charge
+  to, order
+
+  1a)(Piel)
+
+  1a1) to lay charge upon
+
+  1a2) to give charge to, give command to
+
+  1a3) to give charge unto
+
+  1a4) to give charge over, appoint
+
+  1a5) to give charge, command
+
+  1a6) to charge, command
+
+  1a7) to charge, commission
+
+  1a8) to command, appoint, ordain (of divine act)
+
+  1b) (Pual) to be commanded {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7596a
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
   - strongs: H4941
-    proximity: 0.8282
+    lemma: מִשְׁפָּט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H1246
-    proximity: 0.8278
+    lemma: בַּקָּשָׁה
+    gloss: a petition {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H1299
-    proximity: 0.8267
+    lemma: בָּרַק
+    gloss: to lighten {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.8107
+    proximity: 0.8107 {macula-proximity}
   - strongs: A7972
-    proximity: 0.8079
+    proximity: 0.8079 {macula-proximity}
   - strongs: H565
-    proximity: 0.796
+    proximity: 0.796 {macula-proximity}
   - strongs: H7150
-    proximity: 0.7844
+    lemma: קְרִיאָה
+    gloss: a proclamation {openscriptures-strongs}
+    proximity: 0.7844 {macula-proximity}
   cross_language:
   - strongs: G155
-    proximity: 0.8283
+    proximity: 0.8283 {macula-proximity}
     language: greek
   - strongs: G1583
-    proximity: 0.8249
+    lemma: ἐκλαλέω
+    gloss: to divulge {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: greek
   - strongs: G2011
-    proximity: 0.8213
+    lemma: ἐπιτροπή
+    gloss: permission {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
     language: greek
   - strongs: G1297
-    proximity: 0.8106
+    lemma: διάταγμα
+    gloss: an arrangement {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.8071
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

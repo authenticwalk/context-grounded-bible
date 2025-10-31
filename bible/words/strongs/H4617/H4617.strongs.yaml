@@ -6,41 +6,47 @@ pronunciation: mah-an-eh'
 definition: a reply (favorable or contradictory)
 kjv_usage: answer, [idiom] himself.
 derivation: from H6030 (עָנָה);
-extended_definition:
-  gloss: answer
-  definition: 1) answer, response<br>2) (TWOT) place for task
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) answer, response
+
+  2) (TWOT) place for task {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A8271
-    proximity: 0.8013
+    proximity: 0.8013 {macula-proximity}
   - strongs: H1696
-    proximity: 0.796
+    lemma: דָבַר
+    gloss: perhaps properly {openscriptures-strongs}
+    proximity: 0.796 {macula-proximity}
   - strongs: H225
-    proximity: 0.7948
+    proximity: 0.7948 {macula-proximity}
   - strongs: H1697
-    proximity: 0.7898
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
   - strongs: H7725
-    proximity: 0.7799
+    lemma: שׁוּב
+    gloss: to turn back (hence {openscriptures-strongs}
+    proximity: 0.7799 {macula-proximity}
   cross_language:
   - strongs: G1962
-    proximity: 0.8285
+    lemma: ἐπινεύω
+    gloss: to nod at {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G489
-    proximity: 0.8201
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G627
-    proximity: 0.8193
+    proximity: 0.8193 {macula-proximity}
     language: greek
   - strongs: G5219
-    proximity: 0.8174
+    lemma: ὑπακούω
+    gloss: to hear under {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
     language: greek
   - strongs: G1860
-    proximity: 0.7991
+    lemma: ἐπαγγελία
+    gloss: an announcement (for information {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

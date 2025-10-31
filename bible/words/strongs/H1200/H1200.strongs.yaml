@@ -6,42 +6,50 @@ pronunciation: be-ay-raw'
 definition: a burning
 kjv_usage: fire.
 derivation: from H1197 (בָּעַר);
-extended_definition:
-  gloss: fire
-  definition: burning, fire
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: burning, fire {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1886a
-    proximity: 0.8107
+    proximity: 0.8107 {macula-proximity}
   - strongs: H4893
-    proximity: 0.809
+    lemma: מִשְׁחָת
+    gloss: disfigurement {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
   - strongs: H215
-    proximity: 0.8029
+    proximity: 0.8029 {macula-proximity}
   - strongs: H1814
-    proximity: 0.7963
+    lemma: דָּלַק
+    gloss: to flame {openscriptures-strongs}
+    proximity: 0.7963 {macula-proximity}
   - strongs: H3857
-    proximity: 0.7781
+    lemma: לָהַט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7781 {macula-proximity}
   - strongs: H6919
-    proximity: 0.7701
+    lemma: קָדַח
+    gloss: to inflame {openscriptures-strongs}
+    proximity: 0.7701 {macula-proximity}
   - strongs: H5400
-    proximity: 0.7681
+    lemma: נָשַׂק
+    gloss: to catch fire {openscriptures-strongs}
+    proximity: 0.7681 {macula-proximity}
   - strongs: H801
-    proximity: 0.7598
+    proximity: 0.7598 {macula-proximity}
   - strongs: H1197
-    proximity: 0.7518
+    lemma: בָּעַר
+    gloss: to kindle {openscriptures-strongs}
+    proximity: 0.7518 {macula-proximity}
   - strongs: H8316
-    proximity: 0.7517
+    lemma: שְׂרֵפָה
+    gloss: cremation {openscriptures-strongs}
+    proximity: 0.7517 {macula-proximity}
   cross_language:
   - strongs: G4448
-    proximity: 0.7849
+    lemma: πυρόω
+    gloss: to kindle {openscriptures-strongs}
+    proximity: 0.7849 {macula-proximity}
     language: greek
   - strongs: G1714a
-    proximity: 0.7042
+    proximity: 0.7042 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

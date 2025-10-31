@@ -6,28 +6,30 @@ pronunciation: nesh-ee'
 definition: a debt
 kjv_usage: debt.
 derivation: from H5383 (נָשָׁה);
-extended_definition:
-  gloss: debt
-  definition: debt
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: debt {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5378
-    proximity: 0.8121
+    lemma: נָשָׁא
+    gloss: to lend on interest {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H5671
-    proximity: 0.7861
+    lemma: עַבְטִיט
+    gloss: something pledged {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
   - strongs: H2326
-    proximity: 0.7254
+    lemma: חוֹב
+    gloss: debt {openscriptures-strongs}
+    proximity: 0.7254 {macula-proximity}
   cross_language:
   - strongs: G3782
-    proximity: 0.8028
+    lemma: ὀφειλή
+    gloss: indebtedness {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
     language: greek
   - strongs: G1156
-    proximity: 0.7386
+    lemma: δάνειον
+    gloss: probably akin to the base of G1325 {openscriptures-strongs}
+    proximity: 0.7386 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

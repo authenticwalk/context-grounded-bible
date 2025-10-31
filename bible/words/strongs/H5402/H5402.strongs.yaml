@@ -7,51 +7,71 @@ definition: military equipment, i.e. (collectively) arms (offensive or defensive
   or (concretely) an arsenal
 kjv_usage: armed men, armour(-y), battle, harness, weapon.
 derivation: or נֵשֶׁק; from H5401 (נָשַׁק);
-extended_definition:
-  gloss: weapon
-  definition: 1) equipment, weapons, armoury<br>1a) equipment, weapons<br>1b) armoury
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) equipment, weapons, armoury
+
+  1a) equipment, weapons
+
+  1b) armoury {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2220
-    proximity: 0.8295
+    lemma: זְרוֹעַ
+    gloss: the arm {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H3898
-    proximity: 0.8222
+    lemma: לָחַם
+    gloss: to feed on {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H6635
-    proximity: 0.8194
+    lemma: צָבָא
+    gloss: a mass of persons (or figuratively {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H5401a
-    proximity: 0.8153
+    proximity: 0.8153 {macula-proximity}
   - strongs: H3901
-    proximity: 0.8108
+    lemma: לָחֶם
+    gloss: battle {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
   - strongs: H4634
-    proximity: 0.8076
+    lemma: מַעֲרָכָה
+    gloss: an arrangement {openscriptures-strongs}
+    proximity: 0.8076 {macula-proximity}
   - strongs: H8530
-    proximity: 0.8012
+    lemma: תַּלְפִּיָּה
+    gloss: something tall {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
   - strongs: H2290a
-    proximity: 0.7729
+    proximity: 0.7729 {macula-proximity}
   - strongs: H2719
-    proximity: 0.7637
+    lemma: חֶרֶב
+    gloss: drought {openscriptures-strongs}
+    proximity: 0.7637 {macula-proximity}
   - strongs: H2502a
-    proximity: 0.7398
+    proximity: 0.7398 {macula-proximity}
   cross_language:
   - strongs: G4752
-    proximity: 0.8165
+    lemma: στρατεία
+    gloss: military service {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G3823
-    proximity: 0.8047
+    lemma: πάλη
+    gloss: another form for G906 ) {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
     language: greek
   - strongs: G4754
-    proximity: 0.7937
+    lemma: στρατεύομαι
+    gloss: to serve in a military campaign {openscriptures-strongs}
+    proximity: 0.7937 {macula-proximity}
     language: greek
   - strongs: G4171
-    proximity: 0.7756
+    lemma: πόλεμος
+    gloss: warfare (literally or figuratively {openscriptures-strongs}
+    proximity: 0.7756 {macula-proximity}
     language: greek
   - strongs: G4604
-    proximity: 0.7411
+    lemma: σίδηρος
+    gloss: iron {openscriptures-strongs}
+    proximity: 0.7411 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

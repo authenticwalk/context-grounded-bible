@@ -6,48 +6,62 @@ pronunciation: zim-raw'
 definition: a musical piece or song to be accompanied by an instrument
 kjv_usage: melody, psalm.
 derivation: from H2167 (זָמַר);
-extended_definition:
-  gloss: melody
-  definition: music, melody, song
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: music, melody, song {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7445
-    proximity: 0.8242
+    lemma: רְנָנָה
+    gloss: a shout {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H1984a
-    proximity: 0.8241
+    proximity: 0.8241 {macula-proximity}
   - strongs: H6476
-    proximity: 0.8208
+    lemma: פָּצַח
+    gloss: to break out {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   - strongs: H8426
-    proximity: 0.8188
+    lemma: תּוֹדָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
   - strongs: A2171
-    proximity: 0.806
+    proximity: 0.806 {macula-proximity}
   - strongs: H7442
-    proximity: 0.8049
+    lemma: רָנַן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H6963
-    proximity: 0.7991
+    lemma: קוֹל
+    gloss: a voice or sound {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: H7440
-    proximity: 0.7989
+    lemma: רִנָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
   - strongs: H4485
-    proximity: 0.795
+    lemma: מַנְגִּינָה
+    gloss: a satire {openscriptures-strongs}
+    proximity: 0.795 {macula-proximity}
   - strongs: H6527
-    proximity: 0.7927
+    lemma: פָּרַט
+    gloss: to scatter words {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
   cross_language:
   - strongs: G136
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
     language: greek
   - strongs: G3451
-    proximity: 0.8017
+    lemma: μουσικός
+    gloss: '"musical" {openscriptures-strongs}'
+    proximity: 0.8017 {macula-proximity}
     language: greek
   - strongs: G1868
-    proximity: 0.7893
+    lemma: ἔπαινος
+    gloss: laudation {openscriptures-strongs}
+    proximity: 0.7893 {macula-proximity}
     language: greek
   - strongs: G4858
-    proximity: 0.7842
+    lemma: συμφωνία
+    gloss: unison of sound {openscriptures-strongs}
+    proximity: 0.7842 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

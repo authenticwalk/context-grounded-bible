@@ -5,38 +5,39 @@ transliteration: Ezekías
 definition: Ezekias (i.e. Hezekeiah), an Israelite
 kjv_usage: Ezekias
 derivation: of Hebrew origin (H02396);
-extended_definition:
-  gloss: Hezekiah
-  definition: '<b>Ἑζεκίας</b> (Rec. Ἐζ-), -ου, ὁ (Heb. חִזְקִיָּה, <i>strength of
-    Jehovah</i>), <BR /> <b>Hezekiah</b>, King of Judah: <ref=''Mat.1.9, 10''>Mat.1:9,
-    10</ref>.†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἑζεκίας</b> (Rec. Ἐζ-), -ου, ὁ (Heb. חִזְקִיָּה, <i>strength
-    of Jehovah</i>), <BR /> <b>Hezekiah</b>, King of Judah: <ref=''Mat.1.9, 10''>Mat.1:9,
-    10</ref>.†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἑζεκίας (Rec. Ἐζ-), -ου, ὁ (Heb. חִזְקִיָּה, strength of Jehovah),
+
+  Hezekiah, King of Judah: Mat.1:9, 10.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἑζεκίας (Rec. Ἐζ-), -ου, ὁ (Heb. חִזְקִיָּה, strength of Jehovah),
+
+  Hezekiah, King of Judah: Mat.1:9, 10.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H3174
-    proximity: 0.8208
+    lemma: יְחִיָּה
+    gloss: Jechijah {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: hebrew
   - strongs: H2518a
-    proximity: 0.8196
+    proximity: 0.8196 {macula-proximity}
     language: hebrew
   - strongs: H2518
-    proximity: 0.8188
+    lemma: חִלְקִיָּה
+    gloss: Chilhijah {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
     language: hebrew
   - strongs: H2395
-    proximity: 0.8035
+    lemma: חִזְקִי
+    gloss: Chizki {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
     language: hebrew
   - strongs: H6667
-    proximity: 0.7832
+    lemma: צִדְקִיָּה
+    gloss: Tsidkijah {openscriptures-strongs}
+    proximity: 0.7832 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

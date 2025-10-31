@@ -7,46 +7,65 @@ definition: a Calebite or descendant of Caleb
 kjv_usage: of the house of Caleb.
 derivation: probably by erroneous transcription for כָּלֵבִי; patronymically from
   H3612 (כָּלֵב);
-extended_definition:
-  gloss: Calebite
-  definition: 'Someone descended from Caleb who was a man living at the time of Egypt
-    and Wilderness and Israel before the Monarchy, first mentioned at Num.13.6; <br>
-    son of: Jephunneh (H3312); <br> brother of: Kenaz (H7073I); <br> father of: Achsah
-    (H5915), Iru (H5900), Elah (H0425J), Naam (H5277)<BR>Group of <i>ka.lev</i> (כָּלֵב
-    "Caleb" H3612) <BR> § Calebite, of Caleb "dog"<br> a descendant of Caleb<br>'
-  morphology: N:N--PG
-  source: STEPBible/BDB
+extended_definition: 'Someone descended from Caleb who was a man living at the time
+  of Egypt and Wilderness and Israel before the Monarchy, first mentioned at Num.13.6;
+
+  son of: Jephunneh (H3312);
+
+  brother of: Kenaz (H7073I);
+
+  father of: Achsah (H5915), Iru (H5900), Elah (H0425J), Naam (H5277)
+
+  Group of ka.lev (כָּלֵב "Caleb" H3612)
+
+  § Calebite, of Caleb "dog"
+
+  a descendant of Caleb {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A3779
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
   - strongs: H1382
-    proximity: 0.8226
+    lemma: גִּבְלִי
+    gloss: a Gebalite {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: H5841
-    proximity: 0.8205
+    lemma: עַזָּתִי
+    gloss: an Azzathite or inhabitant of Azzah {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: H4602
-    proximity: 0.8181
+    lemma: מַעֲכָתִי
+    gloss: a Maakathite {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
   - strongs: H3760
-    proximity: 0.8127
+    lemma: כַּרְמֶל
+    gloss: Karmel {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
   - strongs: H3760a
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
   - strongs: H3778
-    proximity: 0.8092
+    lemma: כַּשְׂדִּי
+    gloss: a Kasdite {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: H1381
-    proximity: 0.808
+    lemma: גְּבָל
+    gloss: Gebal {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
   - strongs: H3521
-    proximity: 0.8058
+    lemma: כָּבוּל
+    gloss: Cabul {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: H1619a
-    proximity: 0.8055
+    proximity: 0.8055 {macula-proximity}
   cross_language:
   - strongs: G2469
-    proximity: 0.8186
+    lemma: Ἰσκαριώτης
+    gloss: inhabitant of Kerioth {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
     language: greek
   - strongs: G5466
-    proximity: 0.7998
+    lemma: Χαλδαῖος
+    gloss: a Chaldæan {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

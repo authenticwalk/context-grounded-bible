@@ -9,39 +9,64 @@ derivation: from H6626 (פָּתַת);
 related_words:
   synonyms:
   - strongs: H7616
-    proximity: 0.8262
+    lemma: שָׁבָב
+    gloss: a fragment {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: H4303
-    proximity: 0.8142
+    lemma: מַטְעַם
+    gloss: a delicacy {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: H4386
-    proximity: 0.8141
+    lemma: מְכִתָּה
+    gloss: a fracture {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: H1262
-    proximity: 0.8121
+    lemma: בָּרָה
+    gloss: to select {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H6598
-    proximity: 0.7944
+    lemma: פַּתְבַּג
+    gloss: a dainty {openscriptures-strongs}
+    proximity: 0.7944 {macula-proximity}
   - strongs: H4202
-    proximity: 0.7935
+    lemma: מָזוֹן
+    gloss: food {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
   - strongs: H4490
-    proximity: 0.7916
+    lemma: מָנָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7916 {macula-proximity}
   - strongs: H2964
-    proximity: 0.788
+    lemma: טֶרֶף
+    gloss: something torn {openscriptures-strongs}
+    proximity: 0.788 {macula-proximity}
   - strongs: H4592
-    proximity: 0.7793
+    lemma: מְעַט
+    gloss: a little or few {openscriptures-strongs}
+    proximity: 0.7793 {macula-proximity}
   - strongs: H5409
-    proximity: 0.7772
+    lemma: נֵתַח
+    gloss: a fragment {openscriptures-strongs}
+    proximity: 0.7772 {macula-proximity}
   cross_language:
   - strongs: G3838
-    proximity: 0.795
+    lemma: παντελής
+    gloss: full-ended {openscriptures-strongs}
+    proximity: 0.795 {macula-proximity}
     language: greek
   - strongs: G3398
-    proximity: 0.7881
+    lemma: μικρός
+    gloss: small (in size {openscriptures-strongs}
+    proximity: 0.7881 {macula-proximity}
     language: greek
   - strongs: G1024
-    proximity: 0.7744
+    lemma: βραχύς
+    gloss: short (of time {openscriptures-strongs}
+    proximity: 0.7744 {macula-proximity}
     language: greek
   - strongs: G2801
-    proximity: 0.7618
+    lemma: κλάσμα
+    gloss: a piece {openscriptures-strongs}
+    proximity: 0.7618 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

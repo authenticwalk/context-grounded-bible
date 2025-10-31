@@ -7,34 +7,42 @@ definition: a string (as twisted ), i.e. (specifically) the umbilical cord (also
   as the centre of strength)
 kjv_usage: navel.
 derivation: from H8324 (שָׁרַר); (compare H8306 (שָׁרִיר))
-extended_definition:
-  gloss: umbilical cord
-  definition: umbilical cord, navel, navel-string
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: umbilical cord, navel, navel-string {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6616
-    proximity: 0.817
+    lemma: פָּתִיל
+    gloss: twine {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: H5038
-    proximity: 0.7978
+    lemma: נְבֵלָה
+    gloss: a flabby thing {openscriptures-strongs}
+    proximity: 0.7978 {macula-proximity}
   - strongs: H3894
-    proximity: 0.7712
+    lemma: לָחוּם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7712 {macula-proximity}
   - strongs: H7607
-    proximity: 0.7614
+    lemma: שְׁאֵר
+    gloss: flesh {openscriptures-strongs}
+    proximity: 0.7614 {macula-proximity}
   - strongs: H3338
-    proximity: 0.7431
+    lemma: יָצֻר
+    gloss: structure {openscriptures-strongs}
+    proximity: 0.7431 {macula-proximity}
   - strongs: H1320
-    proximity: 0.7229
+    lemma: בָּשָׂר
+    gloss: flesh {openscriptures-strongs}
+    proximity: 0.7229 {macula-proximity}
   cross_language:
   - strongs: G3196
-    proximity: 0.7741
+    lemma: μέλος
+    gloss: a limb or part of the body {openscriptures-strongs}
+    proximity: 0.7741 {macula-proximity}
     language: greek
   - strongs: G4984
-    proximity: 0.7292
+    lemma: σωματικός
+    gloss: corporeal or physical {openscriptures-strongs}
+    proximity: 0.7292 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

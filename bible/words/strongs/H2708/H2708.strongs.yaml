@@ -7,40 +7,47 @@ definition: '{an enactment; hence, an appointment (of time, space, quantity, lab
   or usage)}'
 kjv_usage: appointed, custom, manner, ordinance, site, statute.
 derivation: feminine of H2706 (חֹק), and meaning substantially the same
-extended_definition:
-  gloss: statute
-  definition: 1) statute, ordinance, limit, enactment, something prescribed<br>1a)
-    statute
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) statute, ordinance, limit, enactment, something prescribed
+
+  1a) statute {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1697
-    proximity: 0.8134
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
   - strongs: H4931
-    proximity: 0.8127
+    lemma: מִשְׁמֶרֶת
+    gloss: watch {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
   - strongs: H8584
-    proximity: 0.7685
+    lemma: תְּעוּדָה
+    gloss: attestation {openscriptures-strongs}
+    proximity: 0.7685 {macula-proximity}
   - strongs: H548
-    proximity: 0.7299
+    proximity: 0.7299 {macula-proximity}
   cross_language:
   - strongs: G1486a
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G4367
-    proximity: 0.8297
+    lemma: προστάσσω
+    gloss: to arrange towards {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G1480
-    proximity: 0.8214
+    lemma: ἐθίζω
+    gloss: to accustom {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
     language: greek
   - strongs: G1297
-    proximity: 0.818
+    lemma: διάταγμα
+    gloss: an arrangement {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
     language: greek
   - strongs: G1778
-    proximity: 0.7817
+    lemma: ἔνταλμα
+    gloss: an injunction {openscriptures-strongs}
+    proximity: 0.7817 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

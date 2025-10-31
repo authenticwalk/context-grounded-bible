@@ -6,28 +6,30 @@ pronunciation: mis-po'
 definition: fodder
 kjv_usage: provender.
 derivation: from an unused root meaning to collect;
-extended_definition:
-  gloss: fodder
-  definition: fodder, feed
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: fodder, feed {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4829
-    proximity: 0.8284
+    lemma: מִרְעֶה
+    gloss: pasture {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H1877
-    proximity: 0.8204
+    lemma: דֶּשֶׁא
+    gloss: a sprout {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
   - strongs: H7462
-    proximity: 0.8113
+    lemma: רָעָה
+    gloss: to tend a flock {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
   cross_language:
   - strongs: G1006
-    proximity: 0.8194
+    lemma: βόσκω
+    gloss: to pasture {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G5527
-    proximity: 0.7498
+    lemma: χόρτασμα
+    gloss: forage {openscriptures-strongs}
+    proximity: 0.7498 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

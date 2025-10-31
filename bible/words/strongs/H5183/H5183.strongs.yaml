@@ -10,29 +10,40 @@ derivation: from H5182 (נְחַת); also (intransitively; perhaps from H5117 (�
 related_words:
   synonyms:
   - strongs: H5130a
-    proximity: 0.8183
+    proximity: 0.8183 {macula-proximity}
   - strongs: H1570
-    proximity: 0.817
+    lemma: גָּלַשׁ
+    gloss: probably to caper {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: H5181
-    proximity: 0.8097
+    lemma: נָחַת
+    gloss: to sink {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: A5182
-    proximity: 0.7524
+    proximity: 0.7524 {macula-proximity}
   - strongs: H3381
-    proximity: 0.7501
+    lemma: יָרַד
+    gloss: to descend (literally {openscriptures-strongs}
+    proximity: 0.7501 {macula-proximity}
   cross_language:
   - strongs: G1904
-    proximity: 0.7911
+    lemma: ἐπέρχομαι
+    gloss: to supervene {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
     language: greek
   - strongs: G2600
-    proximity: 0.7788
+    lemma: κατάβασις
+    gloss: a declivity {openscriptures-strongs}
+    proximity: 0.7788 {macula-proximity}
     language: greek
   - strongs: G3952
-    proximity: 0.7566
+    lemma: παρουσία
+    gloss: a being near {openscriptures-strongs}
+    proximity: 0.7566 {macula-proximity}
     language: greek
   - strongs: G1968
-    proximity: 0.7163
+    lemma: ἐπιπίπτω
+    gloss: to embrace  or seize (with more or less violence {openscriptures-strongs}
+    proximity: 0.7163 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

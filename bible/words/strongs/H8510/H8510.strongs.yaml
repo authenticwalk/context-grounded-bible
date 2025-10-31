@@ -6,40 +6,53 @@ pronunciation: tale
 definition: a mound
 kjv_usage: heap, [idiom] strength.
 derivation: by contraction from H8524 (תָּלַל);
-extended_definition:
-  gloss: mound
-  definition: 1) mound, heap, heap of ruins<br>1a) mound (of ruin-heap of city)<br>1b)
-    mound, hill (of elevation on which city stood)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) mound, heap, heap of ruins
+
+  1a) mound (of ruin-heap of city)
+
+  1b) mound, hill (of elevation on which city stood) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5550
-    proximity: 0.8252
+    lemma: סֹלְלָה
+    gloss: a military mound {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
   - strongs: H1116
-    proximity: 0.8247
+    lemma: בָּמָה
+    gloss: an elevation {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H2022
-    proximity: 0.8222
+    lemma: הַר
+    gloss: a mountain or range of hills {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H4072
-    proximity: 0.8203
+    lemma: מִדְחֶה
+    gloss: overthrow {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: H7722a
-    proximity: 0.8202
+    proximity: 0.8202 {macula-proximity}
   - strongs: H1110
-    proximity: 0.8112
+    lemma: בָּלַק
+    gloss: to annihilate {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
   - strongs: H2565a
-    proximity: 0.8033
+    proximity: 0.8033 {macula-proximity}
   - strongs: H4288
-    proximity: 0.8
+    lemma: מְחִתָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: H1389
-    proximity: 0.7849
+    lemma: גִּבְעָה
+    gloss: a hillock {openscriptures-strongs}
+    proximity: 0.7849 {macula-proximity}
   - strongs: H4632
-    proximity: 0.7691
+    lemma: מְעָרָה
+    gloss: Mearah {openscriptures-strongs}
+    proximity: 0.7691 {macula-proximity}
   cross_language:
   - strongs: G1015
-    proximity: 0.8065
+    lemma: βουνός
+    gloss: a hillock {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

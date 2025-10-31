@@ -5,25 +5,23 @@ transliteration: challôwn
 pronunciation: khal-lone'
 definition: a window (as perforated)
 kjv_usage: window.
-extended_definition:
-  gloss: window
-  definition: window (piercing of the wall)
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: window (piercing of the wall) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H853
-    proximity: 0.8168
+    proximity: 0.8168 {macula-proximity}
   - strongs: H4237
-    proximity: 0.816
+    lemma: מֶחֱזָה
+    gloss: a window {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
   - strongs: H822
-    proximity: 0.7732
+    proximity: 0.7732 {macula-proximity}
   - strongs: H2762
-    proximity: 0.7515
+    lemma: חֶרֶךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7515 {macula-proximity}
   - strongs: H7639
-    proximity: 0.7371
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: שְׂבָכָה
+    gloss: a net-work {openscriptures-strongs}
+    proximity: 0.7371 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

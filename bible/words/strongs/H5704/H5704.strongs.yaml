@@ -10,52 +10,79 @@ kjv_usage: against, and, as, at, before, by (that), even (to), for(-asmuch as), 
   when, while, ([phrase] as) yet.
 derivation: properly, the same as H5703 (עַד) (used as a preposition, adverb or conjunction;
   especially with a preposition);
-extended_definition:
-  gloss: till
-  definition: 'prep<br>1) as far as, even to, until, up to, while, as far as<br>1a)
-    of space<br>1a1) as far as, up to, even to<br>1b) in combination<br>1b1) from...as
-    far as, both...and (with ''min'' -from)<br>1c) of time<br>1c1) even to, until,
-    unto, till, during, end<br>1d) of degree<br>1d1) even to, to the degree of, even
-    like<br>conj<br>2) until, while, to the point that, so that even<BR>Aramaic equivalent:
-    <i>ad</i> (עַד "till" H5705)'
-  morphology: H:Prep
-  source: STEPBible/BDB
+extended_definition: 'prep
+
+  1) as far as, even to, until, up to, while, as far as
+
+  1a) of space
+
+  1a1) as far as, up to, even to
+
+  1b) in combination
+
+  1b1) from...as far as, both...and (with ''min'' -from)
+
+  1c) of time
+
+  1c1) even to, until, unto, till, during, end
+
+  1d) of degree
+
+  1d1) even to, to the degree of, even like
+
+  conj
+
+  2) until, while, to the point that, so that even
+
+  Aramaic equivalent: ad (עַד "till" H5705) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H176
-    proximity: 0.8293
+    proximity: 0.8293 {macula-proximity}
   - strongs: A5957
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
   - strongs: A236
-    proximity: 0.8288
+    proximity: 0.8288 {macula-proximity}
   - strongs: H6687
-    proximity: 0.8287
+    lemma: צוּף
+    gloss: to overflow {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H6985
-    proximity: 0.8285
+    lemma: קַט
+    gloss: a little {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: A5924
-    proximity: 0.8279
+    proximity: 0.8279 {macula-proximity}
   - strongs: H6905
-    proximity: 0.8271
+    lemma: קָבָל
+    gloss: the presence {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: H7130
-    proximity: 0.8251
+    lemma: קֶרֶב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   cross_language:
   - strongs: G1452
-    proximity: 0.8298
+    lemma: ἐγγύτερον
+    gloss: nearer {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G3767
-    proximity: 0.8298
+    lemma: οὖν
+    gloss: certainly {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G1726
-    proximity: 0.8294
+    lemma: ἐναντίον
+    gloss: in the presence  of {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G4455
-    proximity: 0.8286
+    lemma: πώποτε
+    gloss: at any time {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G971
-    proximity: 0.8286
+    proximity: 0.8286 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,54 +5,67 @@ transliteration: katoíkēsis
 definition: residence (properly, the act; but by implication, concretely, the mansion)
 kjv_usage: dwelling
 derivation: from G2730 (κατοικέω);
-extended_definition:
-  gloss: dwelling
-  definition: '<b>κατ-οίκησις</b>, -εως, ἡ<BR /> (κατοικέω), [in LXX for יָשַׁב, <ref=''Gen.10.30''>Gen.10:30</ref>,
-    al. ;] <BR /><b>dwelling</b>: <ref=''Mrk.5.3.''>Mrk.5:3.</ref>†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κατοίκ-ησις</b>, εως, ἡ, <br /> <b>settling in</b> a place,
-    διὰ τὴν ταύτῃ κ. [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus
-    2.15. ">Refs 5th c.BC+</a>]<br /><Level2><b>__II</b></Level2> <b>dwelling, abode</b>,
-    [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Timaeus”
-    71b, “Criti.” 115c, LXX.Gen.10.30, etc.; τὴν κ. εἶχεν ἐν τοῖς μνήμασι NT.Mark.5.3
-    ">NT+5th c.BC+</a>]; <b>inhabited district</b>, ἡ κατὰ τὴν Ἰταλίαν κ. [<a href="javascript:void(0)"
-    title=" 2nd c.AD: Athenaeus Epigrammaticus 12.523e. ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κατ-οίκησις, -εως, ἡ
+
+  (κατοικέω), [in LXX for יָשַׁב, Gen.10:30, al. ;]
+
+  dwelling: Mrk.5:3.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κατοίκ-ησις, εως, ἡ,
+
+  settling in a place, διὰ τὴν ταύτῃ κ. [Refs 5th c.BC+]
+
+  __II dwelling, abode, [NT+5th c.BC+]; inhabited district, ἡ κατὰ τὴν Ἰταλίαν κ.
+  [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2681
-    proximity: 0.8241
+    lemma: κατασκηνόω
+    gloss: to camp down {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: A2418
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
   - strongs: G4039
-    proximity: 0.7945
+    lemma: περιοικέω
+    gloss: to reside around {openscriptures-strongs}
+    proximity: 0.7945 {macula-proximity}
   - strongs: G4638
-    proximity: 0.7921
+    lemma: σκήνωμα
+    gloss: an encampment {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
   - strongs: G4924
-    proximity: 0.778
+    lemma: συνοικέω
+    gloss: to reside together {openscriptures-strongs}
+    proximity: 0.778 {macula-proximity}
   - strongs: G3438
-    proximity: 0.7565
+    lemma: μονή
+    gloss: a staying {openscriptures-strongs}
+    proximity: 0.7565 {macula-proximity}
   cross_language:
   - strongs: H5521
-    proximity: 0.829
+    lemma: סֻכָּה
+    gloss: a hut or lair {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: hebrew
   - strongs: H1481
-    proximity: 0.8111
+    lemma: גּוּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
     language: hebrew
   - strongs: H2073
-    proximity: 0.805
+    lemma: זְבוּל
+    gloss: a residence {openscriptures-strongs}
+    proximity: 0.805 {macula-proximity}
     language: hebrew
   - strongs: H8498
-    proximity: 0.7931
+    lemma: תְּכוּנָה
+    gloss: adjustment {openscriptures-strongs}
+    proximity: 0.7931 {macula-proximity}
     language: hebrew
   - strongs: H4349
-    proximity: 0.788
+    lemma: מָכוֹן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.788 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

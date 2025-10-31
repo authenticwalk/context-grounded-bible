@@ -6,41 +6,45 @@ pronunciation: heh'-reg
 definition: slaughter
 kjv_usage: be slain, slaughter.
 derivation: from H2026 (הָרַג);
-extended_definition:
-  gloss: slaughter
-  definition: a killing, slaughter
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: a killing, slaughter {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A7
-    proximity: 0.8247
+    proximity: 0.8247 {macula-proximity}
   - strongs: H8158
-    proximity: 0.7897
+    lemma: שָׁסַף
+    gloss: to cut in pieces {openscriptures-strongs}
+    proximity: 0.7897 {macula-proximity}
   - strongs: A6992
-    proximity: 0.7586
+    proximity: 0.7586 {macula-proximity}
   - strongs: H1818
-    proximity: 0.7577
+    lemma: דָּם
+    gloss: blood  of man or an animal {openscriptures-strongs}
+    proximity: 0.7577 {macula-proximity}
   - strongs: H7523
-    proximity: 0.7287
+    lemma: רָצַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7287 {macula-proximity}
   cross_language:
   - strongs: G3389
-    proximity: 0.7932
+    lemma: μητραλῴας
+    gloss: a mother-thresher {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
     language: greek
   - strongs: G3964a
-    proximity: 0.7922
+    proximity: 0.7922 {macula-proximity}
     language: greek
   - strongs: G337
-    proximity: 0.7807
+    proximity: 0.7807 {macula-proximity}
     language: greek
   - strongs: G1315
-    proximity: 0.7656
+    lemma: διαχειρίζομαι
+    gloss: to handle thoroughly {openscriptures-strongs}
+    proximity: 0.7656 {macula-proximity}
     language: greek
   - strongs: G5407
-    proximity: 0.762
+    lemma: φονεύω
+    gloss: to be a murderer {openscriptures-strongs}
+    proximity: 0.762 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

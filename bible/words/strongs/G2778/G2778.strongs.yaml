@@ -5,31 +5,27 @@ transliteration: kēnsos
 definition: properly, an enrollment ("census"), i.e. (by implication) a tax
 kjv_usage: tribute
 derivation: of Latin origin;
-extended_definition:
-  gloss: tax
-  definition: '<b>κῆνσος</b>, -ου, ὁ (Lat. census), <BR /> <b>a poll-tax</b>: <ref=''Mat.17.25;
-    22.17''>Mat.17:25 22:17</ref>, <ref=''Mrk.12.14''>Mrk.12:14</ref> (WH, mg., ἐπικεφάλαιον);
-    τ. νόμισμα τοῦ κ., <ref=''Mat.22.19''>Mat.22:19</ref> (see MM, <i>Exp.</i>, xv).†<BR
-    /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> κῆνσος</b>, ὁ, <br /> = Latin <i>census,</i> [<a href="javascript:void(0)"
-    title="NT.Matt.22.19, “IGRom.” 4.1213 (from Thyatira), 3.41 (from Nicaea), “PAmh.”
-    2.83.2 (3rd-4th c.AD). ">NT+3rd c.AD+</a>]<br /><Level2><b>__II</b></Level2> <b>poll-tax,
-    </b>[<a href="javascript:void(0)" title=" NT.Matt.17.25. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'κῆνσος, -ου, ὁ (Lat. census),
+
+  a poll-tax: Mat.17:25 22:17, Mrk.12:14 (WH, mg., ἐπικεφάλαιον); τ. νόμισμα τοῦ κ.,
+  Mat.22:19 (see MM, Exp., xv).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κῆνσος, ὁ,
+
+  = Latin census, [NT+3rd c.AD+]
+
+  __II poll-tax, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5057
-    proximity: 0.7532
+    lemma: τελώνης
+    gloss: a tax-farmer {openscriptures-strongs}
+    proximity: 0.7532 {macula-proximity}
   - strongs: G754
-    proximity: 0.7454
+    proximity: 0.7454 {macula-proximity}
   - strongs: G5058
-    proximity: 0.7322
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: τελώνιον
+    gloss: a tax-gatherer's place of business {openscriptures-strongs}
+    proximity: 0.7322 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

@@ -9,53 +9,85 @@ kjv_usage: (be able to, can) abide, bear, comprehend, contain, feed, forbearing,
   hold(-ing in), nourish(-er), be present, make provision, receive, sustain, provide
   sustenance (victuals).
 derivation: a primitive root;
-extended_definition:
-  gloss: to sustain
-  definition: 1) to seize, contain, measure<br>1a)(Qal) to measure, calculate<br>1b)
-    (Pilpel) to sustain, maintain, contain<br>1b1) to sustain, support, nourish<br>1b2)
-    to contain, hold in, restrain<br>1b3) to support, endure<br>1c) (Polpal) to be
-    supplied<br>1d) (Hilpil) to contain, hold, hold in, endure<br>1d1) to contain<br>1d2)
-    to sustain, endure
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to seize, contain, measure
+
+  1a)(Qal) to measure, calculate
+
+  1b) (Pilpel) to sustain, maintain, contain
+
+  1b1) to sustain, support, nourish
+
+  1b2) to contain, hold in, restrain
+
+  1b3) to support, endure
+
+  1c) (Polpal) to be supplied
+
+  1d) (Hilpil) to contain, hold, hold in, endure
+
+  1d1) to contain
+
+  1d2) to sustain, endure {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1279
-    proximity: 0.8261
+    lemma: בִּרְיָה
+    gloss: food {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: H4937
-    proximity: 0.8246
+    lemma: מִשְׁעֵן
+    gloss: a support {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: H398
-    proximity: 0.824
+    proximity: 0.824 {macula-proximity}
   - strongs: H7871
-    proximity: 0.8197
+    lemma: שִׁיבָה
+    gloss: residence {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
   - strongs: H4202
-    proximity: 0.8159
+    lemma: מָזוֹן
+    gloss: food {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H5564
-    proximity: 0.8131
+    lemma: סָמַךְ
+    gloss: to prop {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
   - strongs: H2413
-    proximity: 0.8119
+    lemma: חָטַם
+    gloss: to stop {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: H5375
-    proximity: 0.8101
+    lemma: נָשָׂא
+    gloss: to lift {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
   - strongs: H5445
-    proximity: 0.809
+    lemma: סָבַל
+    gloss: to carry {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
   cross_language:
   - strongs: G2983
-    proximity: 0.8296
+    lemma: λαμβάνω
+    gloss: while G138  is more violent {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G1063
-    proximity: 0.8278
+    lemma: γάρ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G2733
-    proximity: 0.8181
+    lemma: κατοικία
+    gloss: residence (properly {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
     language: greek
   - strongs: G1774
-    proximity: 0.8147
+    lemma: ἐνοικέω
+    gloss: to inhabit {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
     language: greek
   - strongs: G1006
-    proximity: 0.8138
+    lemma: βόσκω
+    gloss: to pasture {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

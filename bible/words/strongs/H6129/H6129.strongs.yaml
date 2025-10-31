@@ -6,26 +6,26 @@ pronunciation: ak-al-law-thone'
 definition: tortuous
 kjv_usage: crooked.
 derivation: from H6127 (עָקַל);
-extended_definition:
-  gloss: crooked
-  definition: crooked
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: crooked {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4454
-    proximity: 0.8286
+    lemma: מָלַק
+    gloss: to crack a joint {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: H6140
-    proximity: 0.7437
+    lemma: עָקַשׁ
+    gloss: to knot or distort {openscriptures-strongs}
+    proximity: 0.7437 {macula-proximity}
   cross_language:
   - strongs: G4646
-    proximity: 0.7832
+    lemma: σκολιός
+    gloss: warped {openscriptures-strongs}
+    proximity: 0.7832 {macula-proximity}
     language: greek
   - strongs: G4761
-    proximity: 0.7114
+    lemma: στρεβλόω
+    gloss: to wrench {openscriptures-strongs}
+    proximity: 0.7114 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

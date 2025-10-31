@@ -7,46 +7,65 @@ definition: to sheet over (especially with metal)
 kjv_usage: cover, overlay.
 derivation: a primitive root (probably identical with H6822 (צָפָה) through the idea
   of expansion in outlook, transferring to action);
-extended_definition:
-  gloss: to overlay
-  definition: 1) to lay out, lay over, overlay, cover<br>1a) (Piel) to overlay, plate,
-    stud<br>1b) (Pual) to be laid over
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to lay out, lay over, overlay, cover
+
+  1a) (Piel) to overlay, plate, stud
+
+  1b) (Pual) to be laid over {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3847
-    proximity: 0.8285
+    lemma: לָבַשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: H7874
-    proximity: 0.8205
+    lemma: שִׂיד
+    gloss: to plaster {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: H2280
-    proximity: 0.8167
+    lemma: חָבַשׁ
+    gloss: to wrap firmly (especially a turban {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H5259
-    proximity: 0.8158
+    lemma: נָסַךְ
+    gloss: to interweave {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: H6566
-    proximity: 0.8153
+    lemma: פָּרַשׂ
+    gloss: to break apart {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
   - strongs: H8610
-    proximity: 0.8094
+    lemma: תָּפַשׂ
+    gloss: to manipulate {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
   - strongs: H3875
-    proximity: 0.7996
+    lemma: לוֹט
+    gloss: a veil {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
   - strongs: H5603
-    proximity: 0.7991
+    lemma: סָפַן
+    gloss: to hide by covering {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: H2560b
-    proximity: 0.7971
+    proximity: 0.7971 {macula-proximity}
   - strongs: H2854
-    proximity: 0.7725
+    lemma: חֲתֻלָּה
+    gloss: a swathing cloth {openscriptures-strongs}
+    proximity: 0.7725 {macula-proximity}
   cross_language:
   - strongs: G1750
-    proximity: 0.8169
+    lemma: ἐνειλέω
+    gloss: to enwrap {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
     language: greek
   - strongs: G4028
-    proximity: 0.814
+    lemma: περικαλύπτω
+    gloss: to cover all around {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
     language: greek
   - strongs: G2572
-    proximity: 0.7996
+    lemma: καλύπτω
+    gloss: to cover up {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

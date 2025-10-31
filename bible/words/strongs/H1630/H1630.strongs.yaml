@@ -7,41 +7,51 @@ definition: Gerizim, a mountain of Palestine
 kjv_usage: Gerizim.
 derivation: plural of an unused noun from H1629 (גָּרַז) (compare H1511 (גִּזְרִי)),
   cut up (i.e. rocky);
-extended_definition:
-  gloss: (Mount) Gerizim
-  definition: <BR> § Gerizim = "cuttings off"<br> a mountain in northern Israel in
-    Ephraim near Shechem from which the blessings were read to the Israelites on entering
-    Canaan; site of the Samaritan temple built after the captivity<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Gerizim = "cuttings off"
+
+  a mountain in northern Israel in Ephraim near Shechem from which the blessings were
+  read to the Israelites on entering Canaan; site of the Samaritan temple built after
+  the captivity {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1451
-    proximity: 0.8254
+    lemma: גְּדֵרִי
+    gloss: a Gederite {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: H1553
-    proximity: 0.8249
+    lemma: גְּלִילוֹת
+    gloss: Geliloth {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
   - strongs: H1436a
-    proximity: 0.8247
+    proximity: 0.8247 {macula-proximity}
   - strongs: H1436
-    proximity: 0.8237
+    lemma: גְּדַּלְיָה
+    gloss: Gedaljah {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: H7996
-    proximity: 0.8207
+    lemma: שַׁלֶּכֶת
+    gloss: Shalleketh {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H1582
-    proximity: 0.8054
+    lemma: גְּמַלִּי
+    gloss: Gemalli {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
   - strongs: H1276
-    proximity: 0.8045
+    lemma: בֵּרִי
+    gloss: the Berites {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
   - strongs: H2174a
-    proximity: 0.8001
+    proximity: 0.8001 {macula-proximity}
   - strongs: H1587a
-    proximity: 0.7926
+    proximity: 0.7926 {macula-proximity}
   - strongs: H4381
-    proximity: 0.7843
+    lemma: מִכְרִי
+    gloss: Mikri {openscriptures-strongs}
+    proximity: 0.7843 {macula-proximity}
   cross_language:
   - strongs: G4484
-    proximity: 0.819
+    lemma: Ῥήγιον
+    gloss: Rhegium {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

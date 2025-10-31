@@ -8,51 +8,67 @@ definition: '''I pray'', ''now'', or ''then''; added mostly to verbs (in the Imp
 kjv_usage: I beseech (pray) thee (you), go to, now, oh.
 derivation: a primitive particle of incitement and entreaty, which may usually be
   rendered;
-extended_definition:
-  gloss: please
-  definition: 1) I (we) pray, now, please<br>1a) used in entreaty or exhortation
-  morphology: H:Intj
-  source: STEPBible/BDB
+extended_definition: '1) I (we) pray, now, please
+
+  1a) used in entreaty or exhortation {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4310
-    proximity: 0.8229
+    lemma: מִי
+    gloss: who? (occasionally {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: H61
-    proximity: 0.8178
+    proximity: 0.8178 {macula-proximity}
   - strongs: H3863
-    proximity: 0.807
+    lemma: לוּא
+    gloss: a conditional particle {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
   - strongs: A2050d
-    proximity: 0.8061
+    proximity: 0.8061 {macula-proximity}
   - strongs: H8469
-    proximity: 0.7923
+    lemma: תַּחֲנוּן
+    gloss: earnest prayer {openscriptures-strongs}
+    proximity: 0.7923 {macula-proximity}
   - strongs: H2656
-    proximity: 0.7814
+    lemma: חֵפֶץ
+    gloss: pleasure {openscriptures-strongs}
+    proximity: 0.7814 {macula-proximity}
   - strongs: H8615
-    proximity: 0.7791
+    lemma: תִּקְוָה
+    gloss: literally a cord {openscriptures-strongs}
+    proximity: 0.7791 {macula-proximity}
   - strongs: H227
-    proximity: 0.7779
+    proximity: 0.7779 {macula-proximity}
   - strongs: H15a
-    proximity: 0.7741
+    proximity: 0.7741 {macula-proximity}
   - strongs: H2008
-    proximity: 0.7154
+    lemma: הֵנָּה
+    gloss: hither or thither {openscriptures-strongs}
+    proximity: 0.7154 {macula-proximity}
   cross_language:
   - strongs: G1189
-    proximity: 0.8271
+    lemma: δέομαι
+    gloss: to beg {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G5026
-    proximity: 0.7964
+    lemma: ταύτῃ
+    gloss: this {openscriptures-strongs}
+    proximity: 0.7964 {macula-proximity}
     language: greek
   - strongs: G2400
-    proximity: 0.7958
+    lemma: ἰδού
+    gloss: used as imperative lo! {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
     language: greek
   - strongs: G3767
-    proximity: 0.7671
+    lemma: οὖν
+    gloss: certainly {openscriptures-strongs}
+    proximity: 0.7671 {macula-proximity}
     language: greek
   - strongs: G1204
-    proximity: 0.7408
+    lemma: δεῦρο
+    gloss: here {openscriptures-strongs}
+    proximity: 0.7408 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,39 +6,49 @@ pronunciation: yo-mawm'
 definition: daily
 kjv_usage: daily, (by, in the) day(-time).
 derivation: from H3117 (יוֹם);
-extended_definition:
-  gloss: by day
-  definition: adv<br>1) by day, in the daytime<br>subst<br>2) daytime
-  morphology: H:Adv
-  source: STEPBible/BDB
+extended_definition: 'adv
+
+  1) by day, in the daytime
+
+  subst
+
+  2) daytime {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3117a
-    proximity: 0.7905
+    proximity: 0.7905 {macula-proximity}
   - strongs: H4283
-    proximity: 0.7855
+    lemma: מׇחֳרָת
+    gloss: the morrow or  tomorrow {openscriptures-strongs}
+    proximity: 0.7855 {macula-proximity}
   - strongs: A871b
-    proximity: 0.7846
+    proximity: 0.7846 {macula-proximity}
   - strongs: A3118
-    proximity: 0.7805
+    proximity: 0.7805 {macula-proximity}
   cross_language:
   - strongs: G4405
-    proximity: 0.8257
+    lemma: πρωΐα
+    gloss: day-dawn {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G5037
-    proximity: 0.822
+    lemma: τέ
+    gloss: both or also (properly {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
     language: greek
   - strongs: G1273
-    proximity: 0.8186
+    lemma: διανυκτερεύω
+    gloss: to sit up the whole night {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
     language: greek
   - strongs: G1206
-    proximity: 0.8154
+    lemma: δευτεραῖος
+    gloss: secondary {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
     language: greek
   - strongs: G3956
-    proximity: 0.8139
+    lemma: πᾶς
+    gloss: all {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

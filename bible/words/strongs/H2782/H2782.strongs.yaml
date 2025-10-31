@@ -7,51 +7,72 @@ definition: properly, to point sharply, i.e. (literally) to wound; figuratively,
   be alert, to decide
 kjv_usage: bestir self, decide, decree, determine, maim, move.
 derivation: a primitive root;
-extended_definition:
-  gloss: to decide
-  definition: 1) to cut, sharpen, decide, decree, determine, maim, move, be decisive,
-    be mutilated<br>1a)(Qal)<br>1a1) to cut, mutilate<br>1a2) to sharpen<br>1a3) to
-    decide<br>1b) (Niphal) to be decisive
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to cut, sharpen, decide, decree, determine, maim, move, be
+  decisive, be mutilated
+
+  1a)(Qal)
+
+  1a1) to cut, mutilate
+
+  1a2) to sharpen
+
+  1a3) to decide
+
+  1b) (Niphal) to be decisive {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8511
-    proximity: 0.8275
+    lemma: תָּלָא
+    gloss: to suspend {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H2974
-    proximity: 0.827
+    lemma: יָאַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: A8232
-    proximity: 0.8162
+    proximity: 0.8162 {macula-proximity}
   - strongs: H6599
-    proximity: 0.8013
+    lemma: פִּתְגָּם
+    gloss: a  sentence {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
   - strongs: H1504
-    proximity: 0.7952
+    lemma: גָּזַר
+    gloss: to cut down or off {openscriptures-strongs}
+    proximity: 0.7952 {macula-proximity}
   - strongs: A230
-    proximity: 0.7938
+    proximity: 0.7938 {macula-proximity}
   - strongs: H2161
-    proximity: 0.7861
+    lemma: זָמַם
+    gloss: to plan {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
   - strongs: A7595
-    proximity: 0.7793
+    proximity: 0.7793 {macula-proximity}
   - strongs: H8371
-    proximity: 0.7552
+    lemma: שָׁתַת
+    gloss: to place {openscriptures-strongs}
+    proximity: 0.7552 {macula-proximity}
   cross_language:
   - strongs: G2749
-    proximity: 0.8201
+    lemma: κεῖμαι
+    gloss: to lie outstretched {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G1956
-    proximity: 0.8094
+    lemma: ἐπιλύω
+    gloss: to solve further {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
     language: greek
   - strongs: G606
-    proximity: 0.785
+    proximity: 0.785 {macula-proximity}
     language: greek
   - strongs: G1011
-    proximity: 0.781
+    lemma: βουλεύω
+    gloss: to advise {openscriptures-strongs}
+    proximity: 0.781 {macula-proximity}
     language: greek
   - strongs: G1231
-    proximity: 0.7677
+    lemma: διαγινώσκω
+    gloss: to know thoroughly {openscriptures-strongs}
+    proximity: 0.7677 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

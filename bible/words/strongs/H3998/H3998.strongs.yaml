@@ -6,45 +6,57 @@ pronunciation: meb-oo-kaw'
 definition: perplexity
 kjv_usage: perplexity.
 derivation: from H943 (בּוּךְ);
-extended_definition:
-  gloss: confusion
-  definition: confusion, perplexity, confounding
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: confusion, perplexity, confounding {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2729
-    proximity: 0.824
+    lemma: חָרַד
+    gloss: to shudder with terror {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: H6323
-    proximity: 0.8184
+    lemma: פּוּן
+    gloss: be perplexed {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   - strongs: H1091
-    proximity: 0.817
+    lemma: בַּלָּהָה
+    gloss: alarm {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: H8178
-    proximity: 0.8107
+    lemma: שַׂעַר
+    gloss: a tempest {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
   - strongs: H7285a
-    proximity: 0.8096
+    proximity: 0.8096 {macula-proximity}
   - strongs: H2283
-    proximity: 0.8088
+    lemma: חָגָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
   - strongs: H1089
-    proximity: 0.7972
+    lemma: בָּלַהּ
+    gloss: to palpitate {openscriptures-strongs}
+    proximity: 0.7972 {macula-proximity}
   - strongs: H8175
-    proximity: 0.7944
+    lemma: שָׂעַר
+    gloss: to storm {openscriptures-strongs}
+    proximity: 0.7944 {macula-proximity}
   - strongs: H2648
-    proximity: 0.7826
+    lemma: חָפַז
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7826 {macula-proximity}
   - strongs: H2844a
-    proximity: 0.7748
+    proximity: 0.7748 {macula-proximity}
   cross_language:
   - strongs: G387
-    proximity: 0.8211
+    proximity: 0.8211 {macula-proximity}
     language: greek
   - strongs: G4797
-    proximity: 0.7995
+    lemma: συγχέω
+    gloss: to commingle promiscuously {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
     language: greek
   - strongs: G2350
-    proximity: 0.7818
+    lemma: θορυβέω
+    gloss: to be in tumult {openscriptures-strongs}
+    proximity: 0.7818 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

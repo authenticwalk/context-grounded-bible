@@ -9,22 +9,27 @@ derivation: from H1461 (גּוּב);
 related_words:
   synonyms:
   - strongs: H1357
-    proximity: 0.8243
+    lemma: גֵּב
+    gloss: a locust {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: H6051
-    proximity: 0.8132
+    lemma: עָנָן
+    gloss: a cloud {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
   - strongs: H697
-    proximity: 0.7966
+    proximity: 0.7966 {macula-proximity}
   cross_language:
   - strongs: G200
-    proximity: 0.7845
+    proximity: 0.7845 {macula-proximity}
     language: greek
   - strongs: G3507
-    proximity: 0.7484
+    lemma: νεφέλη
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7484 {macula-proximity}
     language: greek
   - strongs: G4237
-    proximity: 0.7357
+    lemma: πρασιά
+    gloss: a garden plot {openscriptures-strongs}
+    proximity: 0.7357 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,53 +5,63 @@ transliteration: proeuangelízomai
 definition: to announce glad news in advance
 kjv_usage: preach before the gospel
 derivation: middle voice from G4253 (πρό) and G2097 (εὐαγγελίζω);
-extended_definition:
-  gloss: to speak good news
-  definition: '<b>προ-ευαγγελίζομαι </b><BR /> <b>to announce glad tidings beforehand</b>:
-    <ref=''Gal.3.8.''>Gal.3:8.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> προευ-αγγελίζομαι</b>, <br /> <b>bring glad tidings before,</b>
-    [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.7, 602, Scholia
-    5th c.BC: Sophocles Tragicus “Trachiniae” 335; τῷ Ἀβραὰμ ὅτι.. NT.Gal.3.8. ">NT+5th
-    c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'προ-ευαγγελίζομαι
+
+  to announce glad tidings beforehand: Gal.3:8.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'προευ-αγγελίζομαι,
+
+  bring glad tidings before, [NT+5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5550
-    proximity: 0.8276
+    lemma: χρόνος
+    gloss: a space of time (in general {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: G2782
-    proximity: 0.8237
+    lemma: κήρυγμα
+    gloss: a proclamation (especially of the gospel {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: G2099
-    proximity: 0.8218
+    lemma: εὐαγγελιστής
+    gloss: a preacher of the gospel {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8188
+    proximity: 0.8188 {macula-proximity}
   - strongs: G2866
-    proximity: 0.8119
+    lemma: κομψότερον
+    gloss: figuratively {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: G4301
-    proximity: 0.809
+    lemma: προλαμβάνω
+    gloss: to take in advance {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
   - strongs: G5345
-    proximity: 0.803
+    lemma: φήμη
+    gloss: a saying {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
   - strongs: G18
-    proximity: 0.7998
+    proximity: 0.7998 {macula-proximity}
   - strongs: G2570
-    proximity: 0.7905
+    lemma: καλός
+    proximity: 0.7905 {macula-proximity}
   - strongs: G3588
-    proximity: 0.7759
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7759 {macula-proximity}
   cross_language:
   - strongs: H2896
-    proximity: 0.8093
+    lemma: טוֹב
+    gloss: good  in the widest sense {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
     language: hebrew
   - strongs: H8052
-    proximity: 0.7894
+    lemma: שְׁמוּעָה
+    gloss: something heard {openscriptures-strongs}
+    proximity: 0.7894 {macula-proximity}
     language: hebrew
   - strongs: H1886a
-    proximity: 0.7588
+    proximity: 0.7588 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

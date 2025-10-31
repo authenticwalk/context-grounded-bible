@@ -6,36 +6,42 @@ pronunciation: teh'-mes
 definition: liquefaction, i.e. disappearance
 kjv_usage: melt.
 derivation: from H4529 (מָסָה);
-extended_definition:
-  gloss: melting
-  definition: dissolving, melting, melting (away)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: dissolving, melting, melting (away) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3988a
-    proximity: 0.8195
+    proximity: 0.8195 {macula-proximity}
   - strongs: H5628b
-    proximity: 0.8158
+    proximity: 0.8158 {macula-proximity}
   - strongs: H5685
-    proximity: 0.81
+    lemma: עָבַשׁ
+    gloss: to dry up {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
   - strongs: H8182
-    proximity: 0.7904
+    lemma: שֹׁעָר
+    gloss: harsh or horrid {openscriptures-strongs}
+    proximity: 0.7904 {macula-proximity}
   - strongs: H4743
-    proximity: 0.7651
+    lemma: מָקַק
+    gloss: to melt {openscriptures-strongs}
+    proximity: 0.7651 {macula-proximity}
   - strongs: H2046
-    proximity: 0.7185
+    lemma: הִתּוּךְ
+    gloss: a melting {openscriptures-strongs}
+    proximity: 0.7185 {macula-proximity}
   - strongs: H2522
-    proximity: 0.7136
+    lemma: חָלַשׁ
+    gloss: to prostrate {openscriptures-strongs}
+    proximity: 0.7136 {macula-proximity}
   cross_language:
   - strongs: G4595
-    proximity: 0.7829
+    lemma: σήπω
+    gloss: to putrefy {openscriptures-strongs}
+    proximity: 0.7829 {macula-proximity}
     language: greek
   - strongs: G5080
-    proximity: 0.7157
+    lemma: τήκω
+    gloss: to liquefy {openscriptures-strongs}
+    proximity: 0.7157 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

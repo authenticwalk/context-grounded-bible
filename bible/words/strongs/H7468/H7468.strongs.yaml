@@ -6,49 +6,57 @@ pronunciation: reh-ooth'
 definition: a female associate; generally an additional one
 kjv_usage: '[phrase] another, mate, neighbour.'
 derivation: from H7462 (רָעָה) in the sense of H7453 (רֵעַ);
-extended_definition:
-  gloss: neighbor
-  definition: female companion, mate, neighbour woman
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: female companion, mate, neighbour woman {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A321
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
   - strongs: H251
-    proximity: 0.8267
+    proximity: 0.8267 {macula-proximity}
   - strongs: H7474
-    proximity: 0.8162
+    lemma: רַעְיָה
+    gloss: a female associate {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H4237
-    proximity: 0.7915
+    lemma: מֶחֱזָה
+    gloss: a window {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
   - strongs: H312
-    proximity: 0.7814
+    proximity: 0.7814 {macula-proximity}
   - strongs: H7463
-    proximity: 0.7686
+    lemma: רֵעֶה
+    gloss: a  companion {openscriptures-strongs}
+    proximity: 0.7686 {macula-proximity}
   - strongs: A1668
-    proximity: 0.7656
+    proximity: 0.7656 {macula-proximity}
   - strongs: A317
-    proximity: 0.7628
+    proximity: 0.7628 {macula-proximity}
   - strongs: H2278
-    proximity: 0.7111
+    lemma: חֲבֶרֶת
+    gloss: a consort {openscriptures-strongs}
+    proximity: 0.7111 {macula-proximity}
   cross_language:
   - strongs: G4923
-    proximity: 0.825
+    lemma: συνοδία
+    gloss: companionship on a journey {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G3353
-    proximity: 0.8161
+    lemma: μέτοχος
+    gloss: participant {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
     language: greek
   - strongs: G4040
-    proximity: 0.7806
+    lemma: περίοικος
+    gloss: housed around {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
     language: greek
   - strongs: G243
-    proximity: 0.7438
+    proximity: 0.7438 {macula-proximity}
     language: greek
   - strongs: G2087
-    proximity: 0.7331
+    lemma: ἕτερος
+    gloss: (an- {openscriptures-strongs}
+    proximity: 0.7331 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

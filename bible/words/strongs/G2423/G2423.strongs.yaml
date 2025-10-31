@@ -5,40 +5,44 @@ transliteration: Iechonías
 definition: Jechonias (i.e. Jekonjah), an Israelite
 kjv_usage: Jechonias
 derivation: of Hebrew origin (H03204);
-extended_definition:
-  gloss: Jechoniah
-  definition: '<b>Ἰεχονίας</b>, -ον, ό (Heb. יְכׇנְיָה, Jehoiakin), <BR /> <b>Jechoniah</b>:
-    <ref=''Mat.1.11-12.''>Mat.1:11-12.</ref>†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἰεχονίας</b>, -ον, ό (Heb. יְכׇנְיָה, Jehoiakin), <BR /> <b>Jechoniah</b>:
-    <ref=''Mat.1.11-12.''>Mat.1:11-12.</ref>†<BR />  (From Abbott-Smith. LSJ has no
-    entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἰεχονίας, -ον, ό (Heb. יְכׇנְיָה, Jehoiakin),
+
+  Jechoniah: Mat.1:11-12.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἰεχονίας, -ον, ό (Heb. יְכׇנְיָה, Jehoiakin),
+
+  Jechoniah: Mat.1:11-12.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2389
-    proximity: 0.8061
+    lemma: Ἰαννῆς
+    gloss: Jannes {openscriptures-strongs}
+    proximity: 0.8061 {macula-proximity}
   cross_language:
   - strongs: H2057
-    proximity: 0.8276
+    lemma: וַנְיָה
+    gloss: Vanjah {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: hebrew
   - strongs: H3291
-    proximity: 0.8276
+    lemma: יַעֲקֹבָה
+    gloss: Jaakobah {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: hebrew
   - strongs: H5418a
-    proximity: 0.8268
+    proximity: 0.8268 {macula-proximity}
     language: hebrew
   - strongs: H3404
-    proximity: 0.8247
+    lemma: יְרִיָּה
+    gloss: Jerijah {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: hebrew
   - strongs: H5418
-    proximity: 0.8234
+    lemma: נְתַנְיָה
+    gloss: Nethanjah {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

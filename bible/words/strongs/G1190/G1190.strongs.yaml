@@ -5,53 +5,66 @@ transliteration: Derbaîos
 definition: a Derbæan or inhabitant of Derbe
 kjv_usage: of Derbe
 derivation: from G1191 (Δέρβη);
-extended_definition:
-  gloss: Derbe
-  definition: '<b>Δερβαῖος</b>, -α, -ον <BR /> <b>of Derbe</b>: <ref=''Act.20.4.''>Act.20:4.</ref>†<BR
-    /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Δερβαῖος</b>, -α, -ον <BR /> <b>of Derbe</b>: <ref=''Act.20.4.''>Act.20:4.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Δερβαῖος, -α, -ον
+
+  of Derbe: Act.20:4.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Δερβαῖος, -α, -ον
+
+  of Derbe: Act.20:4.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3615
-    proximity: 0.8292
+    lemma: οἰκιακός
+    gloss: familiar {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: G1537
-    proximity: 0.8228
+    lemma: ἐκ
+    gloss: literal or figurative {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
   - strongs: G4193
-    proximity: 0.8185
+    lemma: Ποντικός
+    gloss: a Pontican {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: G491
-    proximity: 0.8113
+    proximity: 0.8113 {macula-proximity}
   - strongs: G575
-    proximity: 0.7895
+    proximity: 0.7895 {macula-proximity}
   - strongs: G774
-    proximity: 0.7716
+    proximity: 0.7716 {macula-proximity}
   - strongs: G5018
-    proximity: 0.75
+    lemma: Ταρσεύς
+    gloss: a Tarsean {openscriptures-strongs}
+    proximity: 0.75 {macula-proximity}
   - strongs: G961
-    proximity: 0.7323
+    proximity: 0.7323 {macula-proximity}
   cross_language:
   - strongs: H6336
-    proximity: 0.8276
+    lemma: פּוּתִי
+    gloss: a Puthite  or descendants of an unknown Puth {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: hebrew
   - strongs: H2850
-    proximity: 0.827
+    lemma: חִתִּי
+    gloss: a Chittite {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: hebrew
   - strongs: H1663
-    proximity: 0.8227
+    lemma: גִּתִּי
+    gloss: a Gittite or inhabitant of Gath {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
     language: hebrew
   - strongs: H1017
-    proximity: 0.8208
+    lemma: בֵּית הָאֱלִי
+    gloss: a Beth-elite {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: hebrew
   - strongs: H4480
-    proximity: 0.8027
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

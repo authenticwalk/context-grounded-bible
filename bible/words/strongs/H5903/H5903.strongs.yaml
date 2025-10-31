@@ -6,29 +6,37 @@ pronunciation: ay-rome'
 definition: nudity
 kjv_usage: naked(-ness).
 derivation: or עֵרֹם; from H6191 (עָרַם);
-extended_definition:
-  gloss: naked
-  definition: adj<br>1) naked<br>n m<br>2) nakedness
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: 'adj
+
+  1) naked
+
+  n m
+
+  2) nakedness {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6188
-    proximity: 0.8295
+    lemma: עָרֵל
+    gloss: to expose or remove the prepuce {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: A1655
-    proximity: 0.8234
+    proximity: 0.8234 {macula-proximity}
   - strongs: H3182
-    proximity: 0.8115
+    lemma: יָחֵף
+    gloss: unsandalled {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
   - strongs: H2834
-    proximity: 0.7913
+    lemma: חָשַׂף
+    gloss: to strip off {openscriptures-strongs}
+    proximity: 0.7913 {macula-proximity}
   - strongs: H1540
-    proximity: 0.7884
+    lemma: גָּלָה
+    gloss: to denude {openscriptures-strongs}
+    proximity: 0.7884 {macula-proximity}
   cross_language:
   - strongs: G4983
-    proximity: 0.8262
+    lemma: σῶμα
+    gloss: the body {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

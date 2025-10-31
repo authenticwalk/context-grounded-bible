@@ -5,51 +5,53 @@ transliteration: theótēs
 definition: divinity (abstractly)
 kjv_usage: godhead
 derivation: from G2316 (θεός);
-extended_definition:
-  gloss: deity
-  definition: '<b>θεότης</b>, -ητος, ἡ <BR /> <b>deity, Godhead</b>: <ref=''Col.2.9''>Col.2:9</ref>†<BR
-    /> <re><i>SYN.</i>: θειότης, q.v </re> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> θεότης</b>, ητος, ἡ, <br /> <b>divinity, divine nature,</b>
-    [<a href="javascript:void(0)" title="NT.Col.2.9, 1st-2nd c.AD: Plutarchus Biographus
-    et Philosophus 2.359d, 2nd c.AD: Lucianus Sophista “Icar.” 9, etc.">NT+1st c.AD+</a>];
-    διὰ θεότητα <b>for religious reasons</b>, [<a href="javascript:void(0)" title="
-    1st-2nd c.AD: Heliodorus Medicus cited in 4th c.AD: Oribasius Medicus 50.7.1.
-    ">Refs 1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'θεότης, -ητος, ἡ
+
+  deity, Godhead: Col.2:9†
+
+  SYN.: θειότης, q.v  (AS) {STEPBible-TBESG}'
+etymology: 'θεότης, ητος, ἡ,
+
+  divinity, divine nature, [NT+1st c.AD+]; διὰ θεότητα for religious reasons, [Refs
+  1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2317
-    proximity: 0.8253
+    lemma: θεοσέβεια
+    gloss: devoutness {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
   - strongs: G112
-    proximity: 0.8198
+    proximity: 0.8198 {macula-proximity}
   - strongs: G5447
-    proximity: 0.8117
+    lemma: φυσικῶς
+    gloss: '"physically" {openscriptures-strongs}'
+    proximity: 0.8117 {macula-proximity}
   - strongs: G5377
-    proximity: 0.8042
+    lemma: φιλόθεος
+    gloss: fond of God {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: A426
-    proximity: 0.7953
+    proximity: 0.7953 {macula-proximity}
   - strongs: G5449
-    proximity: 0.7442
+    lemma: φύσις
+    gloss: growth {openscriptures-strongs}
+    proximity: 0.7442 {macula-proximity}
   - strongs: G2304
-    proximity: 0.7424
+    lemma: θεῖος
+    gloss: godlike (neuter as noun {openscriptures-strongs}
+    proximity: 0.7424 {macula-proximity}
   - strongs: G2316
-    proximity: 0.7375
+    lemma: θεός
+    gloss: figuratively {openscriptures-strongs}
+    proximity: 0.7375 {macula-proximity}
   cross_language:
   - strongs: H430
-    proximity: 0.8283
+    proximity: 0.8283 {macula-proximity}
     language: hebrew
   - strongs: H410
-    proximity: 0.8261
+    proximity: 0.8261 {macula-proximity}
     language: hebrew
   - strongs: H433
-    proximity: 0.753
+    proximity: 0.753 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

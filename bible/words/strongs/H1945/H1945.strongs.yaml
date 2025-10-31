@@ -6,23 +6,19 @@ pronunciation: hoh'ee
 definition: oh!
 kjv_usage: ah, alas, ho, O, woe.
 derivation: a prolonged form of H1930 (הוֹ) (akin to H188 (אוֹי));
-extended_definition:
-  gloss: woe!
-  definition: ah!, alas!, ha!, ho!, O!, woe!
-  morphology: H:Intj
-  source: STEPBible/BDB
+extended_definition: ah!, alas!, ha!, ho!, O!, woe! {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7451b
-    proximity: 0.8271
+    proximity: 0.8271 {macula-proximity}
   - strongs: H343
-    proximity: 0.8123
+    proximity: 0.8123 {macula-proximity}
   - strongs: H6365
-    proximity: 0.7833
+    lemma: פִּיד
+    gloss: misfortune {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
   - strongs: H1930
-    proximity: 0.7176
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: הוֹ
+    gloss: oh! {openscriptures-strongs}
+    proximity: 0.7176 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

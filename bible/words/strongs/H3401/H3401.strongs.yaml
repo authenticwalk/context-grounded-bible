@@ -7,47 +7,59 @@ definition: literally he will contend; properly, adjective, contentious; used as
   an adversary
 kjv_usage: that content(-eth), that strive.
 derivation: from H7378 (רִיב);
-extended_definition:
-  gloss: opponent
-  definition: contender, opponent, adversary
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: contender, opponent, adversary {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8280
-    proximity: 0.8269
+    lemma: שָׂרָה
+    gloss: to prevail {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: H341
-    proximity: 0.8053
+    proximity: 0.8053 {macula-proximity}
   - strongs: H4808
-    proximity: 0.8017
+    lemma: מְרִיבָה
+    gloss: quarrel {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
   - strongs: H8324
-    proximity: 0.8015
+    lemma: שָׁרַר
+    gloss: to be hostile {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
   - strongs: H6145
-    proximity: 0.7889
+    lemma: עָר
+    gloss: a foe {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
   - strongs: H7009
-    proximity: 0.7845
+    lemma: קִים
+    gloss: an opponent {openscriptures-strongs}
+    proximity: 0.7845 {macula-proximity}
   - strongs: H7378
-    proximity: 0.7763
+    lemma: רִיב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7763 {macula-proximity}
   - strongs: H6887a
-    proximity: 0.7715
+    proximity: 0.7715 {macula-proximity}
   cross_language:
   - strongs: G3163
-    proximity: 0.8134
+    lemma: μάχη
+    gloss: a battle {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
     language: greek
   - strongs: G2725
-    proximity: 0.8006
+    lemma: κατήγορος
+    gloss: against one in the assembly {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
     language: greek
   - strongs: G3164
-    proximity: 0.7932
+    lemma: μάχομαι
+    gloss: to war {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
     language: greek
   - strongs: G2190
-    proximity: 0.7579
+    lemma: ἐχθρός
+    gloss: hateful (passively {openscriptures-strongs}
+    proximity: 0.7579 {macula-proximity}
     language: greek
   - strongs: G480
-    proximity: 0.7553
+    proximity: 0.7553 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

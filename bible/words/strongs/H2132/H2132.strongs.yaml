@@ -6,32 +6,39 @@ pronunciation: zay'-yith
 definition: an olive (as yielding illuminating oil), the tree, the branch or the berry
 kjv_usage: olive (tree, -yard), Olivet.
 derivation: probably from an unused root (akin to H2099 (זִו));
-extended_definition:
-  gloss: olive
-  definition: 1) olive, olive tree<br>1a) olive tree<br>1b) olives<br>2) mountain
-    facing Jerusalem on the east side
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) olive, olive tree
+
+  1a) olive tree
+
+  1b) olives
+
+  2) mountain facing Jerusalem on the east side {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A363
-    proximity: 0.8035
+    proximity: 0.8035 {macula-proximity}
   - strongs: H6097
-    proximity: 0.7981
+    lemma: עֵצָה
+    gloss: timber {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
   - strongs: H6086
-    proximity: 0.786
+    lemma: עֵץ
+    gloss: a tree {openscriptures-strongs}
+    proximity: 0.786 {macula-proximity}
   cross_language:
   - strongs: G1637
-    proximity: 0.8259
+    lemma: ἔλαιον
+    gloss: olive oil {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G3735
-    proximity: 0.7546
+    lemma: ὄρος
+    gloss: perhaps akin to G142 {openscriptures-strongs}
+    proximity: 0.7546 {macula-proximity}
     language: greek
   - strongs: G1186
-    proximity: 0.7472
+    lemma: δένδρον
+    gloss: a tree {openscriptures-strongs}
+    proximity: 0.7472 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

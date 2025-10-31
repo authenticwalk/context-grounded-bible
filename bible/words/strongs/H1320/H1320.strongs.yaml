@@ -8,51 +8,88 @@ definition: flesh (from its freshness); by extension, body, person; also (by eup
 kjv_usage: body, (fat, lean) flesh(-ed), kin, (man-) kind, [phrase] nakedness, self,
   skin.
 derivation: from H1319 (בָּשַׂר);
-extended_definition:
-  gloss: flesh
-  definition: '1) flesh<br>1a) of the body<br>1a1) of humans<br>1a2) of animals<br>1b)
-    the body itself<br>1c) male organ of generation (euphemism)<br>1d) kindred, blood-relations<br>1e)
-    flesh as frail or erring (man against God)<br>1f) all living things<br>1g) animals<br>1h)
-    mankind<BR>Aramaic equivalent: <i>be.shar</i> (בְּשַׁר "flesh" H1321)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) flesh
+
+  1a) of the body
+
+  1a1) of humans
+
+  1a2) of animals
+
+  1b) the body itself
+
+  1c) male organ of generation (euphemism)
+
+  1d) kindred, blood-relations
+
+  1e) flesh as frail or erring (man against God)
+
+  1f) all living things
+
+  1g) animals
+
+  1h) mankind
+
+  Aramaic equivalent: be.shar (בְּשַׁר "flesh" H1321) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2424
-    proximity: 0.8265
+    lemma: חַיּוּת
+    gloss: life {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H1818
-    proximity: 0.8232
+    lemma: דָּם
+    gloss: blood  of man or an animal {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H5038
-    proximity: 0.818
+    lemma: נְבֵלָה
+    gloss: a flabby thing {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: H3351
-    proximity: 0.8171
+    lemma: יְקוּם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: H3338
-    proximity: 0.815
+    lemma: יָצֻר
+    gloss: structure {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: H6190
-    proximity: 0.8062
+    lemma: עׇרְלָה
+    gloss: the prepuce {openscriptures-strongs}
+    proximity: 0.8062 {macula-proximity}
   - strongs: H4016
-    proximity: 0.7992
+    lemma: מָבֻשׁ
+    gloss: the  pudenda {openscriptures-strongs}
+    proximity: 0.7992 {macula-proximity}
   - strongs: H1472
-    proximity: 0.7964
+    lemma: גְּוִיָּה
+    gloss: a body {openscriptures-strongs}
+    proximity: 0.7964 {macula-proximity}
   - strongs: H2459
-    proximity: 0.7954
+    lemma: חֶלֶב
+    gloss: fat {openscriptures-strongs}
+    proximity: 0.7954 {macula-proximity}
   - strongs: H193
-    proximity: 0.7947
+    proximity: 0.7947 {macula-proximity}
   cross_language:
   - strongs: G4430
-    proximity: 0.8255
+    lemma: πτῶμα
+    gloss: a ruin {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
     language: greek
   - strongs: G2226
-    proximity: 0.8041
+    lemma: ζῶον
+    gloss: a live thing {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
     language: greek
   - strongs: G5590
-    proximity: 0.7892
+    lemma: ψυχή
+    gloss: breath {openscriptures-strongs}
+    proximity: 0.7892 {macula-proximity}
     language: greek
   - strongs: G2966
-    proximity: 0.788
+    lemma: κῶλον
+    gloss: a limb of the body {openscriptures-strongs}
+    proximity: 0.788 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

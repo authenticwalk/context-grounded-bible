@@ -6,43 +6,59 @@ pronunciation: mits-awr'
 definition: petty (in size or number); adverbially, a short (time)
 kjv_usage: little one (while), small.
 derivation: from H6819 (צָעַר);
-extended_definition:
-  gloss: little
-  definition: 1) a small thing<br>1a) small thing<br>1b) little while (of time)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) a small thing
+
+  1a) small thing
+
+  1b) little while (of time) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6994
-    proximity: 0.8018
+    lemma: קָטֹן
+    gloss: to diminish {openscriptures-strongs}
+    proximity: 0.8018 {macula-proximity}
   - strongs: H4213
-    proximity: 0.7977
+    lemma: מִזְעָר
+    gloss: fewness {openscriptures-strongs}
+    proximity: 0.7977 {macula-proximity}
   - strongs: H7116
-    proximity: 0.7939
+    lemma: קָצֵר
+    gloss: short (whether in size {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
   - strongs: H2191
-    proximity: 0.7771
+    lemma: זְעֵיר
+    gloss: small {openscriptures-strongs}
+    proximity: 0.7771 {macula-proximity}
   - strongs: H7114b
-    proximity: 0.7759
+    proximity: 0.7759 {macula-proximity}
   - strongs: H6995
-    proximity: 0.771
+    lemma: קֹטֶן
+    gloss: a pettiness {openscriptures-strongs}
+    proximity: 0.771 {macula-proximity}
   cross_language:
   - strongs: G2540
-    proximity: 0.8299
+    lemma: καιρός
+    gloss: an occasion {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G5011
-    proximity: 0.8246
+    lemma: ταπεινός
+    gloss: depressed {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
     language: greek
   - strongs: G5013
-    proximity: 0.8234
+    lemma: ταπεινόω
+    gloss: to depress {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
     language: greek
   - strongs: G2365
-    proximity: 0.8225
+    lemma: θυγάτριον
+    gloss: a daughterling {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
   - strongs: G3016
-    proximity: 0.8095
+    lemma: λεπτόν
+    gloss: something scaled {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

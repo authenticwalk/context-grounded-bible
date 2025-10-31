@@ -6,40 +6,46 @@ pronunciation: bots-cath'
 definition: Botscath, a place in Palestine
 kjv_usage: Bozcath, Boskath.
 derivation: from H1216 (בָּצֵק); a swell of ground;
-extended_definition:
-  gloss: Bozkath
-  definition: <BR> § Bozkath or Boscath = "rocky height"<br> a city in Judah in the
-    lowlands toward the Philistines, home of Josiah's mother<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Bozkath or Boscath = "rocky height"
+
+  a city in Judah in the lowlands toward the Philistines, home of Josiah''s mother
+  {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1162
-    proximity: 0.8281
+    lemma: בֹּעַז
+    gloss: Boaz {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H1661
-    proximity: 0.8226
+    lemma: גַּת
+    gloss: Gath {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: A6543
-    proximity: 0.8075
+    proximity: 0.8075 {macula-proximity}
   - strongs: H6542
-    proximity: 0.8056
+    lemma: פַּרְסִי
+    gloss: a Parsite {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H4739
-    proximity: 0.7928
+    lemma: מָקַץ
+    gloss: Makats {openscriptures-strongs}
+    proximity: 0.7928 {macula-proximity}
   - strongs: A6540
-    proximity: 0.7917
+    proximity: 0.7917 {macula-proximity}
   - strongs: H6539
-    proximity: 0.7613
+    lemma: פָּרַס
+    gloss: Paras {openscriptures-strongs}
+    proximity: 0.7613 {macula-proximity}
   cross_language:
   - strongs: G1003a
-    proximity: 0.8155
+    proximity: 0.8155 {macula-proximity}
     language: greek
   - strongs: G1179
-    proximity: 0.8137
+    lemma: Δεκάπολις
+    gloss: the ten-city region {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
     language: greek
   - strongs: G1003b
-    proximity: 0.8134
+    proximity: 0.8134 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

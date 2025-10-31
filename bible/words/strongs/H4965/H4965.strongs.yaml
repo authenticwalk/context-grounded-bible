@@ -7,49 +7,64 @@ definition: Metheg-ha-Ammah, an epithet of Gath
 kjv_usage: Metheg-ammah.
 derivation: from H4964 (מֶתֶג) and H520 (אַמָּה) with the art. interposed; bit of
   the metropolis;
-extended_definition:
-  gloss: Metheg-ammah
-  definition: This name means mother city<BR>Another name of <i>gat</i> (גַּת "Gath"
-    H1661)
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: 'This name means mother city
+
+  Another name of gat (גַּת "Gath" H1661) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1102
-    proximity: 0.8284
+    lemma: בָּלַם
+    gloss: to muzzle {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H7989
-    proximity: 0.8081
+    lemma: שַׁלִּיט
+    gloss: potent {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
   - strongs: A7981
-    proximity: 0.8066
+    proximity: 0.8066 {macula-proximity}
   - strongs: H4475
-    proximity: 0.7976
+    lemma: מֶמְשָׁלָה
+    gloss: rule {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: A7990
-    proximity: 0.7851
+    proximity: 0.7851 {macula-proximity}
   - strongs: H4915
-    proximity: 0.7698
+    lemma: מֹשֶׁל
+    gloss: empire {openscriptures-strongs}
+    proximity: 0.7698 {macula-proximity}
   - strongs: H4910
-    proximity: 0.7584
+    lemma: מָשַׁל
+    gloss: to rule {openscriptures-strongs}
+    proximity: 0.7584 {macula-proximity}
   - strongs: H4951
-    proximity: 0.7549
+    lemma: מִשְׂרָה
+    gloss: empire {openscriptures-strongs}
+    proximity: 0.7549 {macula-proximity}
   - strongs: H4623
-    proximity: 0.7535
+    lemma: מַעְצָר
+    gloss: subjectively {openscriptures-strongs}
+    proximity: 0.7535 {macula-proximity}
   - strongs: A7985
-    proximity: 0.7526
+    proximity: 0.7526 {macula-proximity}
   cross_language:
   - strongs: G2634
-    proximity: 0.821
+    lemma: κατακυριεύω
+    gloss: to lord against {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: greek
   - strongs: G5468
-    proximity: 0.8183
+    lemma: χαλιναγωγέω
+    gloss: to be a bit-leader {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
     language: greek
   - strongs: G4031
-    proximity: 0.8182
+    lemma: περικρατής
+    gloss: strong all around {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: greek
   - strongs: G2963
-    proximity: 0.7953
+    lemma: κυριότης
+    gloss: mastery {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

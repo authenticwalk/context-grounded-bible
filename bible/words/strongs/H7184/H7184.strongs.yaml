@@ -6,30 +6,34 @@ pronunciation: kaw-saw'
 definition: a jug (from its shape)
 kjv_usage: cover, cup.
 derivation: or קַשְׂוָה; from an unused root meaning to be round;
-extended_definition:
-  gloss: jug
-  definition: a kind of jug, jar
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: a kind of jug, jar {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3627
-    proximity: 0.795
+    lemma: כְּלִי
+    gloss: something prepared {openscriptures-strongs}
+    proximity: 0.795 {macula-proximity}
   - strongs: H5035
-    proximity: 0.7867
+    lemma: נֶבֶל
+    gloss: a skin-bag for liquids {openscriptures-strongs}
+    proximity: 0.7867 {macula-proximity}
   - strongs: H3537
-    proximity: 0.7752
+    lemma: כַּד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7752 {macula-proximity}
   - strongs: H4945
-    proximity: 0.7492
+    lemma: מַשְׁקֶה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7492 {macula-proximity}
   cross_language:
   - strongs: G3582
-    proximity: 0.8125
+    lemma: ξέστης
+    gloss: by implication {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G2765
-    proximity: 0.7389
+    lemma: κεράμιον
+    gloss: an earthenware vessel {openscriptures-strongs}
+    proximity: 0.7389 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

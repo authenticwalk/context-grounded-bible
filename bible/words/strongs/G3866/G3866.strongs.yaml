@@ -5,59 +5,75 @@ transliteration: parathḗkē
 definition: a deposit, i.e. (figuratively) trust
 kjv_usage: committed unto
 derivation: from G3908 (παρατίθημι);
-extended_definition:
-  gloss: deposit
-  definition: '<b>παρα-θήκη</b>, -ης, ἡ<BR /> (παρατίθημι), [in LXX: <ref=''Lev.6.2''>Lev.6:2</ref>,
-    4 (<ref=''Lev.5.21, 23''>Lev 5:21, 23</ref>) (פִּקָּדוֹן), and in <ref=''Tob.10.13''>Tob
-    10:13</ref>, <ref=''2Ma.3.10''>2Ma.3:10</ref> <ref=''2Mac.3.15''>2Mac 3:15</ref>,
-    seel. for παρακαταθήκη (which see) * ;] <BR /><b>a deposit or trust</b>: <ref=''1Ti.6.20''>1Ti.6:20</ref>,
-    <ref=''2Ti.1.12; 1.14''>2Ti.1:12 1:14</ref> (for exx. of this form, see MM, <i>Exp.</i>,
-    iii, xviii).†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> παρα-θήκη</b>, ἡ, <br /> <b>anything entrusted to</b> one.
-    <b>deposit</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus
-    6.86, 9.45, “BGU” 1004.15 (3rd c.BC), LXX.Lev.6.2 (5.21), 1st c.AD(?): Pseudo-Phocylidea
-    135, “Ostr.Bodl.” i 274 (1st c.BC), “SIG” 742.51 (Ephesus, 1st c.BC) ">LXX+5th
-    c.BC+</a>]; of persons, <b>hostage</b>, [<a href="javascript:void(0)" title="
-    5th c.BC: Herodotus Historicus 6.73. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'παρα-θήκη, -ης, ἡ
+
+  (παρατίθημι), [in LXX: Lev.6:2, 4 (Lev 5:21, 23) (פִּקָּדוֹן), and in Tob 10:13,
+  2Ma.3:10 2Mac 3:15, seel. for παρακαταθήκη (which see) * ;]
+
+  a deposit or trust: 1Ti.6:20, 2Ti.1:12 1:14 (for exx. of this form, see MM, Exp.,
+  iii, xviii).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'παρα-θήκη, ἡ,
+
+  anything entrusted to one. deposit, [LXX+5th c.BC+]; of persons, hostage, [Refs
+  5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2192
-    proximity: 0.8251
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: G2077
-    proximity: 0.8201
+    lemma: ἔστω
+    gloss: be thou {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: G5607
-    proximity: 0.8166
+    lemma: ὤν
+    gloss: being {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
   - strongs: G2076
-    proximity: 0.8156
+    lemma: ἐστί
+    gloss: he  is {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
   - strongs: G5600
-    proximity: 0.8154
+    lemma: ὦ
+    gloss: (may {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: G2819
-    proximity: 0.8054
+    lemma: κλῆρος
+    gloss: a die {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
   - strongs: G2071
-    proximity: 0.8044
+    lemma: ἔσομαι
+    gloss: will be {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
   - strongs: G1762
-    proximity: 0.8037
+    lemma: ἔνι
+    gloss: impersonally {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
   - strongs: G2258
-    proximity: 0.7942
+    lemma: ἦν
+    gloss: I (thou {openscriptures-strongs}
+    proximity: 0.7942 {macula-proximity}
   - strongs: G3860
-    proximity: 0.7628
+    lemma: παραδίδωμι
+    gloss: to surrender {openscriptures-strongs}
+    proximity: 0.7628 {macula-proximity}
   cross_language:
   - strongs: H5414
-    proximity: 0.8017
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
     language: hebrew
   - strongs: H1556
-    proximity: 0.7941
+    lemma: גָּלַל
+    gloss: to roll {openscriptures-strongs}
+    proximity: 0.7941 {macula-proximity}
     language: hebrew
   - strongs: H4042
-    proximity: 0.7814
+    lemma: מָגַן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7814 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

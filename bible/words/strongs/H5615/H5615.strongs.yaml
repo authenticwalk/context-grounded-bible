@@ -6,41 +6,53 @@ pronunciation: sef-o-raw'
 definition: a numeration
 kjv_usage: number.
 derivation: from H5608 (סָפַר);
-extended_definition:
-  gloss: number
-  definition: number
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: number {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5432
-    proximity: 0.824
+    lemma: סַאסְּאָה
+    gloss: measurement {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: H8506
-    proximity: 0.7972
+    lemma: תֹּכֶן
+    gloss: a fixed quantity {openscriptures-strongs}
+    proximity: 0.7972 {macula-proximity}
   - strongs: H4884
-    proximity: 0.7971
+    lemma: מְשׂוּרָה
+    gloss: a measure {openscriptures-strongs}
+    proximity: 0.7971 {macula-proximity}
   - strongs: H5610
-    proximity: 0.768
+    lemma: סְפָר
+    gloss: a census {openscriptures-strongs}
+    proximity: 0.768 {macula-proximity}
   - strongs: H4530
-    proximity: 0.7404
+    lemma: מִסָּה
+    gloss: abundance {openscriptures-strongs}
+    proximity: 0.7404 {macula-proximity}
   - strongs: H7097a
-    proximity: 0.7367
+    proximity: 0.7367 {macula-proximity}
   - strongs: H4971
-    proximity: 0.7269
+    lemma: מַתְכֹנֶת
+    gloss: proportion (in size {openscriptures-strongs}
+    proximity: 0.7269 {macula-proximity}
   - strongs: H4058
-    proximity: 0.724
+    lemma: מָדַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.724 {macula-proximity}
   cross_language:
   - strongs: G3355
-    proximity: 0.8244
+    lemma: μετρητής
+    gloss: a measurer {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: greek
   - strongs: G3358
-    proximity: 0.7798
+    lemma: μέτρον
+    gloss: a measure {openscriptures-strongs}
+    proximity: 0.7798 {macula-proximity}
     language: greek
   - strongs: G3354
-    proximity: 0.7006
+    lemma: μετρέω
+    gloss: to measure {openscriptures-strongs}
+    proximity: 0.7006 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,44 +7,55 @@ definition: to shade, as twilight or an opaque object
 kjv_usage: begin to be dark, shadowing.
 derivation: a primitive root (identical with through the idea of hovering over (compare
   H6754 (צֶלֶם)));
-extended_definition:
-  gloss: to shade
-  definition: 1) to be or become or grow dark<br>1a) (Qal) to become or grow dark<br>1b)
-    (Hiphil) to shadow
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be or become or grow dark
+
+  1a) (Qal) to become or grow dark
+
+  1b) (Hiphil) to shadow {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2825
-    proximity: 0.828
+    lemma: חֲשֵׁכָה
+    gloss: darkness {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
   - strongs: H5774a
-    proximity: 0.8232
+    proximity: 0.8232 {macula-proximity}
   - strongs: H5939
-    proximity: 0.8192
+    lemma: עֲלָטָה
+    gloss: dusk {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: H2821
-    proximity: 0.815
+    lemma: חָשַׁךְ
+    gloss: to be dark {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: H6757
-    proximity: 0.796
+    lemma: צַלְמָוֶת
+    gloss: shade of death {openscriptures-strongs}
+    proximity: 0.796 {macula-proximity}
   - strongs: H1210a
-    proximity: 0.7833
+    proximity: 0.7833 {macula-proximity}
   cross_language:
   - strongs: G2658
-    proximity: 0.8165
+    lemma: καταντάω
+    gloss: to meet against {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G1975
-    proximity: 0.8105
+    lemma: ἐπιπορεύομαι
+    gloss: to journey further {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
     language: greek
   - strongs: G3952
-    proximity: 0.8048
+    lemma: παρουσία
+    gloss: a being near {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
     language: greek
   - strongs: G1904
-    proximity: 0.7971
+    lemma: ἐπέρχομαι
+    gloss: to supervene {openscriptures-strongs}
+    proximity: 0.7971 {macula-proximity}
     language: greek
   - strongs: G644
-    proximity: 0.7706
+    proximity: 0.7706 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

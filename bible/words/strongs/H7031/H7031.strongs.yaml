@@ -6,45 +6,65 @@ pronunciation: kal
 definition: light; (by implication) rapid (also adverbial)
 kjv_usage: light, swift(-ly).
 derivation: contracted from H7043 (קָלַל);
-extended_definition:
-  gloss: swift
-  definition: 1) swift, light, fleet<br>1a) swift<br>1b) one who is swift
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) swift, light, fleet
+
+  1a) swift
+
+  1b) one who is swift {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2363
-    proximity: 0.827
+    lemma: חוּשׁ
+    gloss: to hurry {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H1281
-    proximity: 0.8263
+    lemma: בָּרִיחַ
+    gloss: a fugitive {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: H3288
-    proximity: 0.8076
+    lemma: יְעָף
+    gloss: fatigue (adverb {openscriptures-strongs}
+    proximity: 0.8076 {macula-proximity}
   - strongs: H4122
-    proximity: 0.8034
+    lemma: מַהֵר שָׁלָל חָשׁ בַּז
+    gloss: Maher-Shalal-Chash-Baz {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
   - strongs: H6684
-    proximity: 0.7927
+    lemma: צוּם
+    gloss: to cover over {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
   - strongs: H6685
-    proximity: 0.785
+    lemma: צוֹם
+    gloss: a fast {openscriptures-strongs}
+    proximity: 0.785 {macula-proximity}
   - strongs: H5483b
-    proximity: 0.7681
+    proximity: 0.7681 {macula-proximity}
   - strongs: H4116
-    proximity: 0.739
+    lemma: מָהַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.739 {macula-proximity}
   - strongs: H6171
-    proximity: 0.7323
+    lemma: עָרוֹד
+    gloss: an onager {openscriptures-strongs}
+    proximity: 0.7323 {macula-proximity}
   - strongs: H4120
-    proximity: 0.7311
+    lemma: מְהֵרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7311 {macula-proximity}
   cross_language:
   - strongs: G5034
-    proximity: 0.8223
+    lemma: τάχος
+    gloss: a brief space {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G5030
-    proximity: 0.8208
+    lemma: ταχέως
+    gloss: briefly {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G5032
-    proximity: 0.8014
+    lemma: τάχιον
+    gloss: more swiftly {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,39 +6,45 @@ pronunciation: meb-oo-kah'
 definition: emptiness
 kjv_usage: void.
 derivation: from the same as H950 (בּוּקָה);
-extended_definition:
-  gloss: emptiness
-  definition: emptiness, void
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: emptiness, void {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5014a
-    proximity: 0.8254
+    proximity: 0.8254 {macula-proximity}
   - strongs: H4875
-    proximity: 0.8225
+    lemma: מְשׁוֹאָה
+    gloss: ruin {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: H7387
-    proximity: 0.8224
+    lemma: רֵיקָם
+    gloss: emptily {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
   - strongs: H962
-    proximity: 0.8211
+    proximity: 0.8211 {macula-proximity}
   - strongs: H1509
-    proximity: 0.819
+    lemma: גְּזֵרָה
+    gloss: a desert {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   - strongs: H1892
-    proximity: 0.8155
+    lemma: הֶבֶל
+    gloss: emptiness or vanity {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H2640
-    proximity: 0.8148
+    lemma: חֹסֶר
+    gloss: poverty {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: H922
-    proximity: 0.8054
+    proximity: 0.8054 {macula-proximity}
   - strongs: H8047
-    proximity: 0.7988
+    lemma: שַׁמָּה
+    gloss: ruin {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   - strongs: H957
-    proximity: 0.7986
+    proximity: 0.7986 {macula-proximity}
   cross_language:
   - strongs: G1283
-    proximity: 0.8144
+    lemma: διαρπάζω
+    gloss: to seize asunder {openscriptures-strongs}
+    proximity: 0.8144 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

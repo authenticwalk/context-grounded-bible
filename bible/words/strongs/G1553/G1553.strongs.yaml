@@ -5,64 +5,76 @@ transliteration: ekdēméō
 definition: to emigrate, i.e. (figuratively) vacate or quit
 kjv_usage: be absent
 derivation: from a compound of G1537 (ἐκ) and G1218 (δῆμος);
-extended_definition:
-  gloss: be away
-  definition: '<b>ἐκ-δημέω</b>, -ῶ<BR /> (ἔκδημος, <i>from home</i>; cf. -ία, <ref=''3Ma.4.11''>3Ma.4:11</ref>)*;
-    <BR /><b>to be from home, absent</b>: <ref=''2Co.5.6''>2Co.5:6;</ref> before ἀπό,
-    <ref=''2Co.5.8''>2Co.5:8;</ref> before ἐκ, <ref=''2Co.5.9''>2Co.5:9</ref> (cf.
-    ἀπο-, ἐνδημέω).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐκδημ-έω</b>, <br /> <b>to be abroad, to be on one''s travels,</b>
-    [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.30, 5th
-    c.BC: Sophocles Tragicus “Oedipus Tyrannus” 114, etc.">Refs 5th c.BC+</a>]; <b>to
-    be in exile,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus
-    “Leges” 864e; εἰς πόλιν “PPetr.” 3p.76. ">Refs 5th c.BC+</a>]<br /><Level2><b>__II</b></Level2>
-    with <i>accusative</i>, <b>travel through,</b> δύσιν καὶ ἀνατολήν [<a href="javascript:void(0)"
-    title=" “IG” 14.905. ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐκ-δημέω, -ῶ
+
+  (ἔκδημος, from home; cf. -ία, 3Ma.4:11)*;
+
+  to be from home, absent: 2Co.5:6; before ἀπό, 2Co.5:8; before ἐκ, 2Co.5:9 (cf. ἀπο-,
+  ἐνδημέω).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐκδημ-έω,
+
+  to be abroad, to be on one''s travels, [Refs 5th c.BC+]; to be in exile, [Refs 5th
+  c.BC+]
+
+  __II with accusative, travel through, δύσιν καὶ ἀνατολήν [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4206
-    proximity: 0.8277
+    lemma: πόῤῥω
+    gloss: forwards {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: G3895
-    proximity: 0.8225
+    lemma: παραπίπτω
+    gloss: to fall aside {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: G3307
-    proximity: 0.8208
+    lemma: μερίζω
+    gloss: to part {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   - strongs: G359
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
   - strongs: G575
-    proximity: 0.8174
+    proximity: 0.8174 {macula-proximity}
   - strongs: G673
-    proximity: 0.8147
+    proximity: 0.8147 {macula-proximity}
   - strongs: G617
-    proximity: 0.8112
+    proximity: 0.8112 {macula-proximity}
   - strongs: G1826
-    proximity: 0.809
+    lemma: ἔξειμι
+    gloss: to issue {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
   - strongs: G1266
-    proximity: 0.8048
+    lemma: διαμερίζω
+    gloss: to partition thoroughly (literally in distribution {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
   - strongs: G4724
-    proximity: 0.7964
+    lemma: στέλλω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7964 {macula-proximity}
   cross_language:
   - strongs: H4480
-    proximity: 0.8228
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
     language: hebrew
   - strongs: H7750a
-    proximity: 0.8141
+    proximity: 0.8141 {macula-proximity}
     language: hebrew
   - strongs: H6395
-    proximity: 0.8071
+    lemma: פָּלָה
+    gloss: to distinguish {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
     language: hebrew
   - strongs: H5493
-    proximity: 0.8028
+    lemma: סוּר
+    gloss: to turn off {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
     language: hebrew
   - strongs: H1506
-    proximity: 0.8015
+    lemma: גֶּזֶר
+    gloss: something cut off {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

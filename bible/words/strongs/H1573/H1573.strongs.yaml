@@ -7,21 +7,17 @@ definition: properly, an absorbent, i.e. the bulrush (from its porosity); specif
   the papyrus
 kjv_usage: (bul-) rush.
 derivation: from H1572 (גָּמָא);
-extended_definition:
-  gloss: reed
-  definition: rush, reed, papyrus
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: rush, reed, papyrus {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6169
-    proximity: 0.7564
+    lemma: עָרָה
+    gloss: a naked  plot {openscriptures-strongs}
+    proximity: 0.7564 {macula-proximity}
   cross_language:
   - strongs: G3729
-    proximity: 0.8028
+    lemma: ὁρμάω
+    gloss: to start {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

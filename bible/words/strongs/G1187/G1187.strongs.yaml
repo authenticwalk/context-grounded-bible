@@ -5,34 +5,37 @@ transliteration: dexiolábos
 definition: a guardsman (as if taking the right) or light-armed soldier
 kjv_usage: spearman
 derivation: from G1188 (δεξιός) and G2983 (λαμβάνω);
-extended_definition:
-  gloss: slinger
-  definition: '<b>δεξιολάβος</b>, -ου, ὁ <BR /> (δεξιός, λαμβάνω), <BR />a kind of
-    soldier, prob. <b>a spearman</b> (Vg., lancearius) or <b>slinger</b>: <ref=''Act.23.23.''>Act.23:23.</ref>†<BR
-    /> <b>δεξιο-βόλος</b>, -ου, ὁ<BR /> (δεξιός, βάλλω), <BR /><b>one who throws with
-    the right hand</b>: L for δεξιολάβος, <ref=''Act.23.23.''>Act.23:23.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> δεξιο-λάβος</b> [ᾰ], ὁ, <br /> <b>spearman</b>: in <i>plural</i>,
-    <b>guards,</b> [<a href="javascript:void(0)" title=" NT.Acts.23.23 (variant{δεξιοβόλους}).
-    ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δεξιολάβος, -ου, ὁ
+
+  (δεξιός, λαμβάνω),
+
+  a kind of soldier, prob. a spearman (Vg., lancearius) or slinger: Act.23:23.†
+
+  δεξιο-βόλος, -ου, ὁ
+
+  (δεξιός, βάλλω),
+
+  one who throws with the right hand: L for δεξιολάβος, Act.23:23.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'δεξιο-λάβος [ᾰ], ὁ,
+
+  spearman: in plural, guards, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3057
-    proximity: 0.7975
+    lemma: λόγχη
+    gloss: a "lance" {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
   cross_language:
   - strongs: H7905
-    proximity: 0.8249
+    lemma: שֻׂכָּה
+    gloss: a dart {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: hebrew
   - strongs: H7420
-    proximity: 0.8227
+    lemma: רֹמַח
+    gloss: a lance {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

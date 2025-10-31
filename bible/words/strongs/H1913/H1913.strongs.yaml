@@ -9,33 +9,42 @@ derivation: or הֲדֹרָם; probably of foreign derivation;
 related_words:
   synonyms:
   - strongs: H1896b
-    proximity: 0.8277
+    proximity: 0.8277 {macula-proximity}
   - strongs: H1028
-    proximity: 0.8271
+    lemma: בֵּית הָרָן
+    gloss: Beth-ha-Ram {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: H141
-    proximity: 0.8268
+    proximity: 0.8268 {macula-proximity}
   - strongs: H761
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
   - strongs: H2566
-    proximity: 0.8104
+    lemma: חַמְרָן
+    gloss: Chamran {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
   - strongs: H3163
-    proximity: 0.8089
+    lemma: יַחְדוֹ
+    gloss: Jachdo {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: H151
-    proximity: 0.8078
+    proximity: 0.8078 {macula-proximity}
   - strongs: H2771
-    proximity: 0.7829
+    lemma: חָרָן
+    gloss: Charan {openscriptures-strongs}
+    proximity: 0.7829 {macula-proximity}
   - strongs: H2039
-    proximity: 0.7672
+    lemma: הָרָן
+    gloss: Haran {openscriptures-strongs}
+    proximity: 0.7672 {macula-proximity}
   - strongs: H2771a
-    proximity: 0.7286
+    proximity: 0.7286 {macula-proximity}
   cross_language:
   - strongs: G717
-    proximity: 0.8287
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G5488
-    proximity: 0.7534
+    lemma: Χαῤῥάν
+    gloss: Charrhan {openscriptures-strongs}
+    proximity: 0.7534 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,50 +7,68 @@ definition: a termination (literally or figuratively); also (by implication) a p
   adverbially (with prepositional prefix) after
 kjv_usage: end, part, [idiom] some.
 derivation: from H7096 (קָצָה);
-extended_definition:
-  gloss: end
-  definition: '1) end, part<br>1a) end<br>1a1) of corners, of earth<br>1b) from the
-    end of<br>1c) at the end of<BR>Aramaic equivalent: <i>qe.tsat</i> (קְצָת "end"
-    H7118)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) end, part
+
+  1a) end
+
+  1a1) of corners, of earth
+
+  1b) from the end of
+
+  1c) at the end of
+
+  Aramaic equivalent: qe.tsat (קְצָת "end" H7118) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A870a
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
   - strongs: H5490
-    proximity: 0.8237
+    lemma: סוֹף
+    gloss: a termination {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: H4617a
-    proximity: 0.821
+    proximity: 0.821 {macula-proximity}
   - strongs: H8503
-    proximity: 0.8175
+    lemma: תַּכְלִית
+    gloss: completion {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
   - strongs: H3671
-    proximity: 0.8165
+    lemma: כָּנָף
+    gloss: an edge or extremity {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: H314
-    proximity: 0.8084
+    proximity: 0.8084 {macula-proximity}
   - strongs: H310
-    proximity: 0.7886
+    proximity: 0.7886 {macula-proximity}
   - strongs: H3411
-    proximity: 0.7831
+    lemma: יְרֵכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7831 {macula-proximity}
   - strongs: H7106a
-    proximity: 0.7798
+    proximity: 0.7798 {macula-proximity}
   - strongs: H2106
-    proximity: 0.7752
+    lemma: זָוִית
+    gloss: an angle {openscriptures-strongs}
+    proximity: 0.7752 {macula-proximity}
   cross_language:
   - strongs: G1181
-    proximity: 0.8261
+    lemma: δεκάτη
+    gloss: a tenth {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: greek
   - strongs: G5100
-    proximity: 0.8088
+    lemma: τὶς
+    gloss: some or any person or object {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
     language: greek
   - strongs: G5305
-    proximity: 0.7926
+    lemma: ὕστερον
+    gloss: more lately {openscriptures-strongs}
+    proximity: 0.7926 {macula-proximity}
     language: greek
   - strongs: G5056
-    proximity: 0.787
+    lemma: τέλος
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.787 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

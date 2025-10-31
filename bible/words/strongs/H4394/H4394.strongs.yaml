@@ -7,30 +7,37 @@ definition: a fulfilling (only in plural), i.e. (literally) a setting (of gems),
   (technically) consecration (also concretely, a dedicatory sacrifice)
 kjv_usage: consecration, be set.
 derivation: from H4390 (מָלֵא);
-extended_definition:
-  gloss: setting
-  definition: 1) setting, installation<br>1a) setting, stones for setting<br>1b) installation
-    (of priests)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) setting, installation
+
+  1a) setting, stones for setting
+
+  1b) installation (of priests) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4390
-    proximity: 0.8268
+    lemma: מָלֵא
+    gloss: to fill or  be full of {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: H3548
-    proximity: 0.82
+    lemma: כֹּהֵן
+    gloss: literally one officiating {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
   - strongs: H7660
-    proximity: 0.8156
+    lemma: שָׁבַץ
+    gloss: to interweave  threads in squares {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
   - strongs: H7133
-    proximity: 0.8036
+    lemma: קׇרְבָּן
+    gloss: something brought near the altar {openscriptures-strongs}
+    proximity: 0.8036 {macula-proximity}
   - strongs: H4396
-    proximity: 0.7785
+    lemma: מִלֻּאָה
+    gloss: a filling {openscriptures-strongs}
+    proximity: 0.7785 {macula-proximity}
   cross_language:
   - strongs: G2409
-    proximity: 0.8182
+    lemma: ἱερεύς
+    gloss: a priest {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,45 +6,53 @@ pronunciation: bin-yaw'
 definition: a structure
 kjv_usage: building.
 derivation: feminine from H1129 (בָּנָה);
-extended_definition:
-  gloss: building
-  definition: structure, building
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: structure, building {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1443
-    proximity: 0.8187
+    lemma: גָּדַר
+    gloss: to wall in or around {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
   - strongs: A846
-    proximity: 0.818
+    proximity: 0.818 {macula-proximity}
   - strongs: H5393
-    proximity: 0.7472
+    lemma: נִשְׁכָּה
+    gloss: a cell {openscriptures-strongs}
+    proximity: 0.7472 {macula-proximity}
   - strongs: H1004
-    proximity: 0.7415
+    lemma: בַּיִת
+    gloss: a house (in the greatest variation of applications {openscriptures-strongs}
+    proximity: 0.7415 {macula-proximity}
   - strongs: A1124
-    proximity: 0.7336
+    proximity: 0.7336 {macula-proximity}
   - strongs: H3957
-    proximity: 0.7327
+    lemma: לִשְׁכָּה
+    gloss: a room in a building (whether for storage {openscriptures-strongs}
+    proximity: 0.7327 {macula-proximity}
   - strongs: H1129
-    proximity: 0.7086
+    lemma: בָּנָה
+    gloss: to build {openscriptures-strongs}
+    proximity: 0.7086 {macula-proximity}
   cross_language:
   - strongs: G5009
-    proximity: 0.82
+    lemma: ταμεῖον
+    gloss: akin to {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
   - strongs: G2026
-    proximity: 0.7953
+    lemma: ἐποικοδομέω
+    gloss: to build upon {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
     language: greek
   - strongs: G3618
-    proximity: 0.779
+    lemma: οἰκοδομέω
+    gloss: to be a house-builder {openscriptures-strongs}
+    proximity: 0.779 {macula-proximity}
     language: greek
   - strongs: G1739a
-    proximity: 0.7616
+    proximity: 0.7616 {macula-proximity}
     language: greek
   - strongs: G4016a
-    proximity: 0.7562
+    proximity: 0.7562 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

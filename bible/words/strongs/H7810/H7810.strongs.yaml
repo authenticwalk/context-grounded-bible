@@ -6,48 +6,62 @@ pronunciation: shakh'-ad
 definition: a donation (venal or redemptive)
 kjv_usage: bribe(-ry), gift, present, reward.
 derivation: from H7809 (שָׁחַד);
-extended_definition:
-  gloss: bribe
-  definition: present, bribe
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: present, bribe {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H868
-    proximity: 0.8213
+    proximity: 0.8213 {macula-proximity}
   - strongs: H4503
-    proximity: 0.819
+    lemma: מִנְחָה
+    gloss: a donation {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   - strongs: H7964
-    proximity: 0.8152
+    lemma: שִׁלּוּחַ
+    gloss: a dismissal {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: H814
-    proximity: 0.8127
+    proximity: 0.8127 {macula-proximity}
   - strongs: H7938
-    proximity: 0.8056
+    lemma: שֶׂכֶר
+    gloss: wages {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H5078
-    proximity: 0.7912
+    lemma: נֵדֶה
+    gloss: a bounty {openscriptures-strongs}
+    proximity: 0.7912 {macula-proximity}
   - strongs: H6468
-    proximity: 0.7871
+    lemma: פְּעֻלָּה
+    gloss: work {openscriptures-strongs}
+    proximity: 0.7871 {macula-proximity}
   - strongs: H7939
-    proximity: 0.781
+    lemma: שָׂכָר
+    gloss: payment of contract {openscriptures-strongs}
+    proximity: 0.781 {macula-proximity}
   - strongs: H4909
-    proximity: 0.7759
+    lemma: מַשְׂכֹּרֶת
+    gloss: wages or a reward {openscriptures-strongs}
+    proximity: 0.7759 {macula-proximity}
   - strongs: H5083
-    proximity: 0.772
+    lemma: נָדָן
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.772 {macula-proximity}
   cross_language:
   - strongs: G3405
-    proximity: 0.8054
+    lemma: μισθαποδοσία
+    gloss: requital {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
     language: greek
   - strongs: G5486
-    proximity: 0.7918
+    lemma: χάρισμα
+    gloss: a  gratuity {openscriptures-strongs}
+    proximity: 0.7918 {macula-proximity}
     language: greek
   - strongs: G3406
-    proximity: 0.787
+    lemma: μισθαποδότης
+    gloss: a renumerator {openscriptures-strongs}
+    proximity: 0.787 {macula-proximity}
     language: greek
   - strongs: G469
-    proximity: 0.7702
+    proximity: 0.7702 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

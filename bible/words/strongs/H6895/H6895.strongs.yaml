@@ -7,37 +7,45 @@ definition: to scoop out, i.e. (figuratively) to malign or execrate (i.e. stab w
   words)
 kjv_usage: '[idiom] at all, curse.'
 derivation: a primitive root;
-extended_definition:
-  gloss: to curse
-  definition: 1) to curse, utter a curse against<br>1a) (Qal) to curse
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to curse, utter a curse against
+
+  1a) (Qal) to curse {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7650
-    proximity: 0.8235
+    lemma: שָׁבַע
+    gloss: to seven oneself {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: H5173
-    proximity: 0.8222
+    lemma: נַחַשׁ
+    gloss: an incantation or augury {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H1288
-    proximity: 0.7716
+    lemma: בָרַךְ
+    gloss: to kneel {openscriptures-strongs}
+    proximity: 0.7716 {macula-proximity}
   - strongs: H5007a
-    proximity: 0.7646
+    proximity: 0.7646 {macula-proximity}
   - strongs: H7621
-    proximity: 0.7097
+    lemma: שְׁבוּעָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7097 {macula-proximity}
   - strongs: H1442
-    proximity: 0.7093
+    lemma: גָּדַף
+    gloss: to hack {openscriptures-strongs}
+    proximity: 0.7093 {macula-proximity}
   cross_language:
   - strongs: G2551
-    proximity: 0.7257
+    lemma: κακολογέω
+    gloss: to revile {openscriptures-strongs}
+    proximity: 0.7257 {macula-proximity}
     language: greek
   - strongs: G332
-    proximity: 0.7188
+    proximity: 0.7188 {macula-proximity}
     language: greek
   - strongs: G3058
-    proximity: 0.718
+    lemma: λοιδορέω
+    gloss: to reproach {openscriptures-strongs}
+    proximity: 0.718 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

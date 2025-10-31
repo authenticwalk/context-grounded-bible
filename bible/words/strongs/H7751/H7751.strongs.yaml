@@ -10,38 +10,57 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H8308
-    proximity: 0.8272
+    lemma: שָׂרַךְ
+    gloss: to interlace {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: H7323
-    proximity: 0.8215
+    lemma: רוּץ
+    gloss: to run (for whatever reason {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H8582
-    proximity: 0.8171
+    lemma: תָּעָה
+    gloss: to vacillate {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: H7725
-    proximity: 0.8129
+    lemma: שׁוּב
+    gloss: to turn back (hence {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: H413
-    proximity: 0.8014
+    proximity: 0.8014 {macula-proximity}
   - strongs: H3491
-    proximity: 0.7961
+    lemma: יָתוּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7961 {macula-proximity}
   - strongs: H2559
-    proximity: 0.7827
+    lemma: חָמַק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7827 {macula-proximity}
   - strongs: A1981
-    proximity: 0.7753
+    proximity: 0.7753 {macula-proximity}
   cross_language:
   - strongs: G4314
-    proximity: 0.825
+    lemma: πρός
+    gloss: a preposition of direction {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G5143
-    proximity: 0.8156
+    lemma: τρέχω
+    gloss: compare G2359 ) {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
     language: greek
   - strongs: G4107
-    proximity: 0.8103
+    lemma: πλανήτης
+    gloss: a rover {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
     language: greek
   - strongs: G5290
-    proximity: 0.8049
+    lemma: ὑποστρέφω
+    gloss: to turn under {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
     language: greek
   - strongs: G1353
-    proximity: 0.8024
+    lemma: διοδεύω
+    gloss: to travel through {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

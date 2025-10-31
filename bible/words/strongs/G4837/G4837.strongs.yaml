@@ -5,60 +5,70 @@ transliteration: symparakaléō
 definition: to console jointly
 kjv_usage: comfort together
 derivation: from G4862 (σύν) and G3870 (παρακαλέω);
-extended_definition:
-  gloss: to encourage
-  definition: '<b>συν-παρα-καλέω</b> (Rec. συμπ-), -ῶ, <BR /> to call upon or exhort
-    together (Plat.). Pass., <b>to be strengthened or comforted with and among</b>:
-    <ref=''Rom.1.12.''>Rom.1:12.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συμπαρα-κᾰλέω</b>, <br /> <b>call upon</b> or <b>exhort together</b>,
-    ἐπὶ συμμαχίαν [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus
-    “Respublica” 555a ">Refs 5th c.BC+</a>]; <b>invite at the same time</b>, εἰς τὴν
-    θήραν [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus
-    “Institutio Cyri (Cyropaedia)” 8.1.38 ">Refs 5th c.BC+</a>]; ἥρωας σ. οἰκήτορας
-    <b>invite</b> them as.., [<a href="javascript:void(0)" title="[prev. work] 3.3.21
-    ">Refs</a>]; with <i>infinitive</i>, σῶσαι [<a href="javascript:void(0)" title="
-    4th-3rd c.BC: Dinarchus Orator 1.65 ">Refs 4th c.BC+</a>]; <b>summon at the same
-    time</b>, ἀπὸ τῶν συμμάχων πρέσβεις [<a href="javascript:void(0)" title=" 5th-6th
-    c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 4.8.13. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συν-παρα-καλέω (Rec. συμπ-), -ῶ,
+
+  to call upon or exhort together (Plat.). Pass., to be strengthened or comforted
+  with and among: Rom.1:12.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συμπαρα-κᾰλέω,
+
+  call upon or exhort together, ἐπὶ συμμαχίαν [Refs 5th c.BC+]; invite at the same
+  time, εἰς τὴν θήραν [Refs 5th c.BC+]; ἥρωας σ. οἰκήτορας invite them as.., [Refs];
+  with infinitive, σῶσαι [Refs 4th c.BC+]; summon at the same time, ἀπὸ τῶν συμμάχων
+  πρέσβεις [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4806
-    proximity: 0.8206
+    lemma: συζωοποιέω
+    gloss: to reanimate conjointly with {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: G4925
-    proximity: 0.8048
+    lemma: συνοικοδομέω
+    gloss: to construct {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
   - strongs: G3874
-    proximity: 0.8007
+    lemma: παράκλησις
+    gloss: imploration {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: G4994
-    proximity: 0.7917
+    lemma: σωφρονίζω
+    gloss: to make of sound mind {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: G4389
-    proximity: 0.7837
+    lemma: προτρέπομαι
+    gloss: to turn forward for oneself {openscriptures-strongs}
+    proximity: 0.7837 {macula-proximity}
   - strongs: G3870
-    proximity: 0.7794
+    lemma: παρακαλέω
+    gloss: to call near {openscriptures-strongs}
+    proximity: 0.7794 {macula-proximity}
   - strongs: G4776
-    proximity: 0.7758
+    lemma: συγκαθίζω
+    gloss: to give  a seat in company with {openscriptures-strongs}
+    proximity: 0.7758 {macula-proximity}
   - strongs: G260
-    proximity: 0.7749
+    proximity: 0.7749 {macula-proximity}
   - strongs: G4875
-    proximity: 0.7243
+    lemma: συναναπαύομαι
+    gloss: to recruit oneself in company with {openscriptures-strongs}
+    proximity: 0.7243 {macula-proximity}
   - strongs: G3888
-    proximity: 0.723
+    lemma: παραμυθέομαι
+    gloss: to relate near {openscriptures-strongs}
+    proximity: 0.723 {macula-proximity}
   cross_language:
   - strongs: H8575
-    proximity: 0.7634
+    lemma: תַּנְחוּם
+    gloss: compassion {openscriptures-strongs}
+    proximity: 0.7634 {macula-proximity}
     language: hebrew
   - strongs: H3162
-    proximity: 0.7314
+    lemma: יַחַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7314 {macula-proximity}
     language: hebrew
   - strongs: H3162a
-    proximity: 0.7116
+    proximity: 0.7116 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

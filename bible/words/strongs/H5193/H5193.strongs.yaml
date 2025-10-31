@@ -7,53 +7,83 @@ definition: properly, to strike in, i.e. fix; specifically, to plant (literally 
   figuratively)
 kjv_usage: fastened, plant(-er).
 derivation: a primitive root;
-extended_definition:
-  gloss: to plant
-  definition: 1) to plant, fasten, fix, establish<br>1a) (Qal)<br>1a1) to plant<br>1a2)
-    to plant, establish (fig.)<br>1b) (Niphal)<br>1b1) to be planted<br>1b2) to be
-    established (fig.)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to plant, fasten, fix, establish
+
+  1a) (Qal)
+
+  1a1) to plant
+
+  1a2) to plant, establish (fig.)
+
+  1b) (Niphal)
+
+  1b1) to be planted
+
+  1b2) to be established (fig.) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7880
-    proximity: 0.8261
+    lemma: שִׂיחַ
+    gloss: a shoot {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: H7373
-    proximity: 0.8231
+    lemma: רָטֹב
+    gloss: moist {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H6628
-    proximity: 0.8214
+    lemma: צֶאֶל
+    gloss: the lotus tree {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: A6212a
-    proximity: 0.8179
+    proximity: 0.8179 {macula-proximity}
   - strongs: H5737
-    proximity: 0.8021
+    lemma: עֲדַר
+    gloss: to arrange as a battle {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
   - strongs: H7021
-    proximity: 0.8001
+    lemma: קִיקָיוֹן
+    gloss: the gourd {openscriptures-strongs}
+    proximity: 0.8001 {macula-proximity}
   - strongs: H6169
-    proximity: 0.7855
+    lemma: עָרָה
+    gloss: a naked  plot {openscriptures-strongs}
+    proximity: 0.7855 {macula-proximity}
   - strongs: H5998
-    proximity: 0.7846
+    lemma: עָמַל
+    gloss: to toil {openscriptures-strongs}
+    proximity: 0.7846 {macula-proximity}
   - strongs: H7760
-    proximity: 0.7694
+    lemma: שׂוּם
+    gloss: to put (used in a great variety of applications {openscriptures-strongs}
+    proximity: 0.7694 {macula-proximity}
   - strongs: H2221
-    proximity: 0.7356
+    lemma: זֵרוּעַ
+    gloss: something sown {openscriptures-strongs}
+    proximity: 0.7356 {macula-proximity}
   cross_language:
   - strongs: G3001
-    proximity: 0.8291
+    lemma: λάχανον
+    gloss: a vegetable {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
     language: greek
   - strongs: G4078
-    proximity: 0.8199
+    lemma: πήγνυμι
+    gloss: to fix {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
     language: greek
   - strongs: G2565
-    proximity: 0.8154
+    lemma: καλλιέλαιος
+    gloss: a cultivated olive tree {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
     language: greek
   - strongs: G1008
-    proximity: 0.7972
+    lemma: βοτάνη
+    gloss: herbage {openscriptures-strongs}
+    proximity: 0.7972 {macula-proximity}
     language: greek
   - strongs: G1090
-    proximity: 0.7684
+    lemma: γεωργέω
+    gloss: to till {openscriptures-strongs}
+    proximity: 0.7684 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

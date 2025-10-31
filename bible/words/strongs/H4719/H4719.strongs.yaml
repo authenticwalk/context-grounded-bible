@@ -7,47 +7,60 @@ definition: Makkedah, a place in Palestine
 kjv_usage: Makkedah.
 derivation: from the same as H5348 (נָקֹד) in the denominative sense of herding (compare
   H5349 (נֹקֵד)); fold;
-extended_definition:
-  gloss: Makkedah
-  definition: <BR> § Makkedah = "place of shepherds"<br> the location of a cave in
-    Judah where Joshua captured and executed five Canaanite kings during the conquest;
-    located near Bethhoron and Libnah<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Makkedah = "place of shepherds"
+
+  the location of a cave in Judah where Joshua captured and executed five Canaanite
+  kings during the conquest; located near Bethhoron and Libnah {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4353
-    proximity: 0.8299
+    lemma: מָכִיר
+    gloss: Makir {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
   - strongs: H4439
-    proximity: 0.8256
+    lemma: מַלְכִּיאֵל
+    gloss: Malkiel {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: H3012
-    proximity: 0.8227
+    lemma: יִגְדַּלְיָהוּ
+    gloss: Jigdaljah {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H4443
-    proximity: 0.8217
+    lemma: מַלְכִּירָם
+    gloss: Malkiram {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
   - strongs: H4401
-    proximity: 0.8217
+    lemma: מַלְאָכִי
+    gloss: Malaki {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
   - strongs: H4441a
-    proximity: 0.8217
+    proximity: 0.8217 {macula-proximity}
   - strongs: H4441
-    proximity: 0.8205
+    lemma: מַלְכִּיָּה
+    gloss: Malkijah {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: H6954
-    proximity: 0.8182
+    lemma: קְהֵלָתָה
+    gloss: Kehelathah {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
   - strongs: H1436a
-    proximity: 0.8155
+    proximity: 0.8155 {macula-proximity}
   - strongs: H1436
-    proximity: 0.8139
+    lemma: גְּדַּלְיָה
+    gloss: Gedaljah {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   cross_language:
   - strongs: G1152
-    proximity: 0.8158
+    lemma: Δάμαρις
+    gloss: perhaps gentle {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
     language: greek
   - strongs: G184
-    proximity: 0.8136
+    proximity: 0.8136 {macula-proximity}
     language: greek
   - strongs: G1148
-    proximity: 0.7908
+    lemma: Δαλμανουθά
+    gloss: Dalmanutha {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

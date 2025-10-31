@@ -5,49 +5,45 @@ transliteration: méthysos
 definition: tipsy, i.e. (as noun) a sot
 kjv_usage: drunkard
 derivation: from G3184 (μεθύω);
-extended_definition:
-  gloss: drunkard
-  definition: '<b>μέθυσος</b>, -α, -ον<BR /> (also -ος, -ον; prop., only of women,
-    but in late writers also = μεθυστικός, of men), [in LXX: <ref=''Pro.23.21''>Pro.23:21</ref>
-    (סָבָא) <ref=''Pro.26.9''>Pro.26:9</ref> (שִׁכּוֹר), <ref=''Sir.19.1; 26.8''>Sir.19:1
-    26:8</ref>, <ref=''4Ma.2.7''>4Ma.2:7</ref> * ;] <BR /><b>drunken</b>: <ref=''1Co.5.11;
-    6.10''>1Co.5:11 6:10</ref>.†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> μέθῠσος</b>, <br /> <b>drunk with wine</b>, properly only <i>feminine</i>,
-    μέθυσος Ἀμαζών [<a href="javascript:void(0)" title=" 4th-5th c.BC: Hecataeus Milesius
-    Historicus 34 1st c.AD: Josephus Historicus; μεθύση γραῦς 5th-6th c.BC: Aristophanes
-    Comicus “Nubes” 555, compare “V.” 1402, 2nd c.AD: Phrynichus Atticista 129, 2nd
-    c.AD(?): Pollianus Epigrammaticus 6.25. ">Refs 5th c.BC+</a>]<br /><Level3><b>__2</b></Level3>
-    later also, of men, μεθύσους τοὺς ἐμπόρους ποιεῖ [<a href="javascript:void(0)"
-    title=" 4th-3rd c.BC: Menander Comicus 67.1, compare “Comica Adespota” 384, LXX.Pro.23.21,
-    NT.1Cor.5.11, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Brutus” 5, 2nd
-    c.AD: Lucianus Sophista “Tim.” 55, 2nd c.AD: Sextus Empiricus Philosophus “Πυρρώνειοι
-    ὑποτυπώσεις” 3.195 ">NT+4th c.BC+</a>]; <b>drunken, intemperate</b>, [<a href="javascript:void(0)"
-    title=" 1st c.AD: Cebes Philosophus 34, 4th c.AD: Julianus Imperator “Caesares”
-    330c. ">Refs 1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'μέθυσος, -α, -ον
+
+  (also -ος, -ον; prop., only of women, but in late writers also = μεθυστικός, of
+  men), [in LXX: Pro.23:21 (סָבָא) Pro.26:9 (שִׁכּוֹר), Sir.19:1 26:8, 4Ma.2:7 * ;]
+
+  drunken: 1Co.5:11 6:10.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'μέθῠσος,
+
+  drunk with wine, properly only feminine, μέθυσος Ἀμαζών [Refs 5th c.BC+]
+
+  __2 later also, of men, μεθύσους τοὺς ἐμπόρους ποιεῖ [NT+4th c.BC+]; drunken, intemperate,
+  [Refs 1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3943
-    proximity: 0.7206
+    lemma: πάροινος
+    gloss: staying near wine {openscriptures-strongs}
+    proximity: 0.7206 {macula-proximity}
   cross_language:
   - strongs: H5435
-    proximity: 0.8222
+    lemma: סֹבֶא
+    gloss: potation {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
     language: hebrew
   - strongs: H8354
-    proximity: 0.8205
+    lemma: שָׁתָה
+    gloss: to imbibe {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
     language: hebrew
   - strongs: H7941
-    proximity: 0.7737
+    lemma: שֵׁכָר
+    gloss: an intoxicant {openscriptures-strongs}
+    proximity: 0.7737 {macula-proximity}
     language: hebrew
   - strongs: H3196
-    proximity: 0.7298
+    lemma: יַיִן
+    gloss: wine {openscriptures-strongs}
+    proximity: 0.7298 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

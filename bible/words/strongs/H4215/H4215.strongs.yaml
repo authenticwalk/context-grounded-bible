@@ -7,30 +7,32 @@ definition: properly, a scatterer, i.e. the north wind (as dispersing clouds; on
   in plural)
 kjv_usage: north.
 derivation: apparently from H2219 (זָרָה);
-extended_definition:
-  gloss: scattering wind
-  definition: scatterer
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: scatterer {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1864
-    proximity: 0.8264
+    lemma: דָּרוֹם
+    gloss: the south {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H7307
-    proximity: 0.819
+    lemma: רוּחַ
+    gloss: wind {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   - strongs: H8178a
-    proximity: 0.8014
+    proximity: 0.8014 {macula-proximity}
   - strongs: H4491
-    proximity: 0.7625
+    lemma: מִנְהָג
+    gloss: the driving {openscriptures-strongs}
+    proximity: 0.7625 {macula-proximity}
   cross_language:
   - strongs: G4157
-    proximity: 0.8082
+    lemma: πνοή
+    gloss: respiration {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
     language: greek
   - strongs: G3558
-    proximity: 0.7775
+    lemma: νότος
+    gloss: the south wind {openscriptures-strongs}
+    proximity: 0.7775 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

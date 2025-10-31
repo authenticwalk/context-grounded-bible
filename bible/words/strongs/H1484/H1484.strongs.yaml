@@ -6,33 +6,37 @@ pronunciation: gore
 definition: '{a cub (as still abiding in the lair), especially of the lion}'
 kjv_usage: whelp.
 derivation: or (feminine) גֹּרָה; a variation of H1482 (גּוּר)
-extended_definition:
-  gloss: whelp
-  definition: whelp
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: whelp {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7909
-    proximity: 0.8227
+    lemma: שַׁכּוּל
+    gloss: bereaved {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H3833
-    proximity: 0.811
+    lemma: לָבִיא
+    gloss: to roar {openscriptures-strongs}
+    proximity: 0.811 {macula-proximity}
   - strongs: H1121
-    proximity: 0.8008
+    lemma: בֵּן
+    gloss: a son {openscriptures-strongs}
+    proximity: 0.8008 {macula-proximity}
   - strongs: H1469
-    proximity: 0.7565
+    lemma: גּוֹזָל
+    gloss: a nestling {openscriptures-strongs}
+    proximity: 0.7565 {macula-proximity}
   - strongs: H667
-    proximity: 0.7483
+    proximity: 0.7483 {macula-proximity}
   - strongs: H3918
-    proximity: 0.7426
+    lemma: לַיִשׁ
+    gloss: a lion {openscriptures-strongs}
+    proximity: 0.7426 {macula-proximity}
   - strongs: H3833b
-    proximity: 0.7138
+    proximity: 0.7138 {macula-proximity}
   cross_language:
   - strongs: G5040
-    proximity: 0.8245
+    lemma: τεκνίον
+    gloss: an infant {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,43 +7,47 @@ definition: properly, to lean out (of a window), i.e. (by implication) peep or g
   (passively, be a spectacle)
 kjv_usage: appear, look (down, forth, out).
 derivation: a primitive root;
-extended_definition:
-  gloss: to look
-  definition: 1) to overlook, look down or out, overhang, look out and down<br>1a)
-    (Niphal) to lean over (and look), look down<br>1b) (Hiphil) to look down, look
-    down upon
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to overlook, look down or out, overhang, look out and down
+
+  1a) (Niphal) to lean over (and look), look down
+
+  1b) (Hiphil) to look down, look down upon {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8159
-    proximity: 0.8282
+    lemma: שָׁעָה
+    gloss: to gaze at or about (properly {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H6437
-    proximity: 0.8164
+    lemma: פָּנָה
+    gloss: to turn {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
   - strongs: H7663a
-    proximity: 0.8133
+    proximity: 0.8133 {macula-proximity}
   - strongs: H6448
-    proximity: 0.8023
+    lemma: פָּסַג
+    gloss: to cut up {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
   - strongs: H7788
-    proximity: 0.7947
+    lemma: שׁוּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7947 {macula-proximity}
   cross_language:
   - strongs: G308
-    proximity: 0.8289
+    proximity: 0.8289 {macula-proximity}
     language: greek
   - strongs: G398
-    proximity: 0.8253
+    proximity: 0.8253 {macula-proximity}
     language: greek
   - strongs: G816
-    proximity: 0.8223
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G1689
-    proximity: 0.8196
+    lemma: ἐμβλέπω
+    gloss: to look on {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
     language: greek
   - strongs: G1896a
-    proximity: 0.812
+    proximity: 0.812 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

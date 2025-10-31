@@ -6,32 +6,39 @@ pronunciation: taw-bal'
 definition: to dip, to immerse
 kjv_usage: dip, plunge.
 derivation: a primitive root;
-extended_definition:
-  gloss: to dip
-  definition: 1) to dip, dip into, plunge<br>1a) (Qal)<br>1a1) to dip in or into<br>1a2)
-    to dip oneself<br>1b) (Niphal) to be dipped
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to dip, dip into, plunge
+
+  1a) (Qal)
+
+  1a1) to dip in or into
+
+  1a2) to dip oneself
+
+  1b) (Niphal) to be dipped {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A7412
-    proximity: 0.8034
+    proximity: 0.8034 {macula-proximity}
   - strongs: H7364
-    proximity: 0.7974
+    lemma: רָחַץ
+    gloss: to lave {openscriptures-strongs}
+    proximity: 0.7974 {macula-proximity}
   - strongs: H7366
-    proximity: 0.783
+    lemma: רַחַץ
+    gloss: a bath {openscriptures-strongs}
+    proximity: 0.783 {macula-proximity}
   cross_language:
   - strongs: G911
-    proximity: 0.8176
+    proximity: 0.8176 {macula-proximity}
     language: greek
   - strongs: G1686
-    proximity: 0.7952
+    lemma: ἐμβάπτω
+    gloss: to whelm on {openscriptures-strongs}
+    proximity: 0.7952 {macula-proximity}
     language: greek
   - strongs: G1685
-    proximity: 0.7097
+    lemma: ἐμβάλλω
+    gloss: to throw on {openscriptures-strongs}
+    proximity: 0.7097 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

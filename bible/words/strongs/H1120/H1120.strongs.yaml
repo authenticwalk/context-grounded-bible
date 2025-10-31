@@ -7,32 +7,35 @@ definition: Bamoth or Bamoth-Baal, a place East of the Jordan
 kjv_usage: Bamoth, Bamoth-baal.
 derivation: plural of H1116 (בָּמָה); heights; or (fully) בָּמוֹת בַּעַל; from the
   same and H1168 (בַּעַל); heights of Baal;
-extended_definition:
-  gloss: Bamoth
-  definition: <BR> § Bamoth = "high places" or "great high place"<br> a town on the
-    river Arnon in Moab
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Bamoth = "high places" or "great high place"
+
+  a town on the river Arnon in Moab {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4344
-    proximity: 0.8269
+    lemma: מַכְבַּנַּי
+    gloss: a Macbannite or native of Macbena {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: A1325
-    proximity: 0.8181
+    proximity: 0.8181 {macula-proximity}
   - strongs: H8224
-    proximity: 0.8145
+    lemma: שִׂפְמוֹת
+    gloss: Siphmoth {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
   - strongs: H1324
-    proximity: 0.814
+    lemma: בַּת
+    gloss: a bath or Hebrew measure  of liquids {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
   - strongs: H7216
-    proximity: 0.8116
+    lemma: רָאמוֹת
+    gloss: Ramoth {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   - strongs: H1181a
-    proximity: 0.7926
+    proximity: 0.7926 {macula-proximity}
   cross_language:
   - strongs: G4986
-    proximity: 0.8298
+    lemma: Σώπατρος
+    gloss: of a safe father {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

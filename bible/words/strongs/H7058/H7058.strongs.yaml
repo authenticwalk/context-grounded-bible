@@ -6,25 +6,27 @@ pronunciation: keh'-makh
 definition: flour
 kjv_usage: flour, meal.
 derivation: from an unused root probably meaning to grind;
-extended_definition:
-  gloss: flour
-  definition: flour, meal, meal flour
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: flour, meal, meal flour {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2471
-    proximity: 0.8293
+    lemma: חַלָּה
+    gloss: a cake {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: H6182
-    proximity: 0.7998
+    lemma: עֲרִיסָה
+    gloss: meal {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
   - strongs: H6742
-    proximity: 0.7944
+    lemma: צְלוּל
+    gloss: a  cake {openscriptures-strongs}
+    proximity: 0.7944 {macula-proximity}
   - strongs: H2912
-    proximity: 0.7684
+    lemma: טָחַן
+    gloss: to grind meal {openscriptures-strongs}
+    proximity: 0.7684 {macula-proximity}
   - strongs: H1217
-    proximity: 0.7151
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: בָּצֵק
+    gloss: dough {openscriptures-strongs}
+    proximity: 0.7151 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

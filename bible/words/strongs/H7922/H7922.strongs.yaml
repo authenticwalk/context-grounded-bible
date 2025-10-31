@@ -7,49 +7,67 @@ definition: intelligence; by implication, success
 kjv_usage: discretion, knowledge, policy, prudence, sense, understanding, wisdom,
   wise.
 derivation: or שֵׂכֶל; from H7919 (שָׂכַל);
-extended_definition:
-  gloss: understanding
-  definition: '1) prudence, insight, understanding<br>1a) prudence, good sense<br>1b)
-    insight, understanding<br>1c) cunning, craft (bad sense)<BR>Aramaic equivalent:
-    <i>sokh.le.ta.nu</i> (שׇׂכְלְתָנוּ "insight" H7924)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) prudence, insight, understanding
+
+  1a) prudence, good sense
+
+  1b) insight, understanding
+
+  1c) cunning, craft (bad sense)
+
+  Aramaic equivalent: sokh.le.ta.nu (שׇׂכְלְתָנוּ "insight" H7924) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1844
-    proximity: 0.8207
+    lemma: דֵּעָה
+    gloss: knowledge {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: A2445
-    proximity: 0.819
+    proximity: 0.819 {macula-proximity}
   - strongs: H1843
-    proximity: 0.8176
+    lemma: דֵּעַ
+    gloss: knowledge {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   - strongs: H8034
-    proximity: 0.8152
+    lemma: שֵׁם
+    gloss: an appellation {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: H6195
-    proximity: 0.808
+    lemma: עׇרְמָה
+    gloss: trickery {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
   - strongs: H6592
-    proximity: 0.8047
+    lemma: פֵּשֶׁר
+    gloss: '{an interpretation} {openscriptures-strongs}'
+    proximity: 0.8047 {macula-proximity}
   - strongs: H6623
-    proximity: 0.7794
+    lemma: פִּתְרוֹן
+    gloss: interpretation {openscriptures-strongs}
+    proximity: 0.7794 {macula-proximity}
   - strongs: A6591
-    proximity: 0.7737
+    proximity: 0.7737 {macula-proximity}
   cross_language:
   - strongs: G4679
-    proximity: 0.8294
+    lemma: σοφίζω
+    gloss: to render wise {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G1987
-    proximity: 0.8247
+    lemma: ἐπίσταμαι
+    gloss: to put the mind upon {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: greek
   - strongs: G3686
-    proximity: 0.8239
+    lemma: ὄνομα
+    gloss: a "name"  (authority {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G144
-    proximity: 0.8083
+    proximity: 0.8083 {macula-proximity}
     language: greek
   - strongs: G5430
-    proximity: 0.7971
+    lemma: φρονίμως
+    gloss: prudently {openscriptures-strongs}
+    proximity: 0.7971 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

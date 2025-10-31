@@ -6,52 +6,69 @@ pronunciation: raw-gash'
 definition: to be tumultuous
 kjv_usage: rage.
 derivation: a primitive root;
-extended_definition:
-  gloss: to throng
-  definition: '1) (Qal) to be in a tumult or commotion<br>2) (TWOT) to conspire, plot<BR>Aramaic
-    equivalent: <i>re.gash</i> (רְגַשׁ "to throng" H7284)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Qal) to be in a tumult or commotion
+
+  2) (TWOT) to conspire, plot
+
+  Aramaic equivalent: re.gash (רְגַשׁ "to throng" H7284) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1993
-    proximity: 0.8243
+    lemma: הָמָה
+    gloss: to make a loud sound {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: H7588
-    proximity: 0.8218
+    lemma: שָׁאוֹן
+    gloss: uproar {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H4808
-    proximity: 0.8027
+    lemma: מְרִיבָה
+    gloss: quarrel {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
   - strongs: H5327
-    proximity: 0.8023
+    lemma: נָצָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
   - strongs: H5637
-    proximity: 0.7852
+    lemma: סָרַר
+    gloss: to turn away {openscriptures-strongs}
+    proximity: 0.7852 {macula-proximity}
   - strongs: A849
-    proximity: 0.7686
+    proximity: 0.7686 {macula-proximity}
   - strongs: H7285a
-    proximity: 0.7677
+    proximity: 0.7677 {macula-proximity}
   - strongs: H5627a
-    proximity: 0.7658
+    proximity: 0.7658 {macula-proximity}
   - strongs: H1566
-    proximity: 0.7603
+    lemma: גָּלַע
+    gloss: to be obstinate {openscriptures-strongs}
+    proximity: 0.7603 {macula-proximity}
   - strongs: H6586
-    proximity: 0.746
+    lemma: פָּשַׁע
+    gloss: to break away {openscriptures-strongs}
+    proximity: 0.746 {macula-proximity}
   cross_language:
   - strongs: G4955a
-    proximity: 0.8267
+    proximity: 0.8267 {macula-proximity}
     language: greek
   - strongs: G3876
-    proximity: 0.8177
+    lemma: παρακοή
+    gloss: inattention {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
     language: greek
   - strongs: G4799
-    proximity: 0.7724
+    lemma: σύγχυσις
+    gloss: commixture {openscriptures-strongs}
+    proximity: 0.7724 {macula-proximity}
     language: greek
   - strongs: G2350
-    proximity: 0.764
+    lemma: θορυβέω
+    gloss: to be in tumult {openscriptures-strongs}
+    proximity: 0.764 {macula-proximity}
     language: greek
   - strongs: G3893
-    proximity: 0.7459
+    lemma: παραπικραίνω
+    gloss: to embitter alongside {openscriptures-strongs}
+    proximity: 0.7459 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

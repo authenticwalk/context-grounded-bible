@@ -6,34 +6,36 @@ pronunciation: khab-eh'-reth
 definition: a consort
 kjv_usage: companion.
 derivation: feminine of H2270 (חָבֵר);
-extended_definition:
-  gloss: consort
-  definition: companion, wife, consort
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: companion, wife, consort {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4828
-    proximity: 0.8209
+    lemma: מֵרֵעַ
+    gloss: a friend {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: H5048
-    proximity: 0.8192
+    lemma: נֶגֶד
+    gloss: a front {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: A2269
-    proximity: 0.771
+    proximity: 0.771 {macula-proximity}
   - strongs: H7462a
-    proximity: 0.7647
+    proximity: 0.7647 {macula-proximity}
   - strongs: H7474
-    proximity: 0.7507
+    lemma: רַעְיָה
+    gloss: a female associate {openscriptures-strongs}
+    proximity: 0.7507 {macula-proximity}
   - strongs: H7468
-    proximity: 0.7111
+    lemma: רְעוּת
+    gloss: a female associate {openscriptures-strongs}
+    proximity: 0.7111 {macula-proximity}
   cross_language:
   - strongs: G718
-    proximity: 0.8026
+    proximity: 0.8026 {macula-proximity}
     language: greek
   - strongs: G2844
-    proximity: 0.7717
+    lemma: κοινωνός
+    gloss: a sharer {openscriptures-strongs}
+    proximity: 0.7717 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

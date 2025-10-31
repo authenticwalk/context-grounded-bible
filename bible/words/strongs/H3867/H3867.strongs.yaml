@@ -10,36 +10,51 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H7462a
-    proximity: 0.8262
+    proximity: 0.8262 {macula-proximity}
   - strongs: H1692
-    proximity: 0.8044
+    lemma: דָּבַק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
   - strongs: H4226
-    proximity: 0.7991
+    lemma: מְחַבְּרָה
+    gloss: a joiner {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: H2270
-    proximity: 0.785
+    lemma: חָבֵר
+    gloss: an associate {openscriptures-strongs}
+    proximity: 0.785 {macula-proximity}
   - strongs: A1693
-    proximity: 0.7447
+    proximity: 0.7447 {macula-proximity}
   - strongs: H3162a
-    proximity: 0.7435
+    proximity: 0.7435 {macula-proximity}
   - strongs: H2266
-    proximity: 0.7183
+    lemma: חָבַר
+    gloss: to join {openscriptures-strongs}
+    proximity: 0.7183 {macula-proximity}
   cross_language:
   - strongs: G4878
-    proximity: 0.8218
+    lemma: συναντιλαμβάνομαι
+    gloss: to take hold of opposite together {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
     language: greek
   - strongs: G4942
-    proximity: 0.8098
+    lemma: συνυποκρίνομαι
+    gloss: to act hypocritically in concert with {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
     language: greek
   - strongs: G4911
-    proximity: 0.7948
+    lemma: συνεφίστημι
+    gloss: to stand up together {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
     language: greek
   - strongs: G4943
-    proximity: 0.7882
+    lemma: συνυπουργέω
+    gloss: to be a co-auxiliary {openscriptures-strongs}
+    proximity: 0.7882 {macula-proximity}
     language: greek
   - strongs: G4862
-    proximity: 0.7811
+    lemma: σύν
+    gloss: with or together  or G3844 ) {openscriptures-strongs}
+    proximity: 0.7811 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

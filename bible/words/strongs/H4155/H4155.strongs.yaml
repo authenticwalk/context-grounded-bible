@@ -6,28 +6,28 @@ pronunciation: moo-awf'
 definition: properly, covered, i.e. dark; abstractly, obscurity, i.e. distress
 kjv_usage: dimness.
 derivation: from H5774 (עוּף);
-extended_definition:
-  gloss: gloom
-  definition: gloom, darkness
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: gloom, darkness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3650
-    proximity: 0.8081
+    lemma: כִּמְרִיר
+    gloss: obscuration (as if from shrinkage of light {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
   - strongs: H2821
-    proximity: 0.7246
+    lemma: חָשַׁךְ
+    gloss: to be dark {openscriptures-strongs}
+    proximity: 0.7246 {macula-proximity}
   - strongs: A2816
-    proximity: 0.7197
+    proximity: 0.7197 {macula-proximity}
   cross_language:
   - strongs: G4656
-    proximity: 0.7279
+    lemma: σκοτόω
+    gloss: to obscure or blind {openscriptures-strongs}
+    proximity: 0.7279 {macula-proximity}
     language: greek
   - strongs: G2726
-    proximity: 0.7269
+    lemma: κατήφεια
+    gloss: demureness {openscriptures-strongs}
+    proximity: 0.7269 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

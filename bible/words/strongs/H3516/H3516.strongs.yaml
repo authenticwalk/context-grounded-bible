@@ -6,25 +6,27 @@ pronunciation: kaw-bade'
 definition: the liver (as the heaviest of the viscera)
 kjv_usage: liver.
 derivation: the same as H3515 (כָּבֵד);
-extended_definition:
-  gloss: liver
-  definition: 1) the liver<br>1a) the liver (as the heaviest organ)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) the liver
+
+  1a) the liver (as the heaviest organ) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4846
-    proximity: 0.8103
+    lemma: מְרֹרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   - strongs: H3824
-    proximity: 0.7361
+    lemma: לֵבָב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.7361 {macula-proximity}
   - strongs: H3820
-    proximity: 0.7198
+    lemma: לֵב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.7198 {macula-proximity}
   cross_language:
   - strongs: G4698
-    proximity: 0.7422
+    lemma: σπλάγχνον
+    gloss: an intestine {openscriptures-strongs}
+    proximity: 0.7422 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

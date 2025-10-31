@@ -7,48 +7,69 @@ definition: to subside; by implication, to be overflowed, cease; causatively, to
   subdue
 kjv_usage: make deep, let down, drown, quench, sink.
 derivation: (abbreviated Amos 8:8); a primitive root;
-extended_definition:
-  gloss: to sink
-  definition: 1) to sink, sink down, subside<br>1a) (Qal) to sink<br>1b) (Niphal)
-    to sink, collapse<br>1c)(Hiphil) to sink down, cause to settle
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to sink, sink down, subside
+
+  1a) (Qal) to sink
+
+  1b) (Niphal) to sink, collapse
+
+  1c)(Hiphil) to sink down, cause to settle {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5181
-    proximity: 0.8218
+    lemma: נָחַת
+    gloss: to sink {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H3721
-    proximity: 0.8172
+    lemma: כָּפַף
+    gloss: to curve {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
   - strongs: H4950
-    proximity: 0.8152
+    lemma: מִשְׁקָע
+    gloss: a settling place {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: H7087
-    proximity: 0.7971
+    lemma: קָפָא
+    gloss: to shrink {openscriptures-strongs}
+    proximity: 0.7971 {macula-proximity}
   - strongs: H5781
-    proximity: 0.7797
+    lemma: עוּק
+    gloss: to pack {openscriptures-strongs}
+    proximity: 0.7797 {macula-proximity}
   - strongs: H6201
-    proximity: 0.7786
+    lemma: עָרַף
+    gloss: to droop {openscriptures-strongs}
+    proximity: 0.7786 {macula-proximity}
   - strongs: H3381
-    proximity: 0.7766
+    lemma: יָרַד
+    gloss: to descend (literally {openscriptures-strongs}
+    proximity: 0.7766 {macula-proximity}
   - strongs: H6749
-    proximity: 0.774
+    lemma: צָלַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.774 {macula-proximity}
   cross_language:
   - strongs: G2597
-    proximity: 0.8241
+    lemma: καταβαίνω
+    gloss: to descend {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
   - strongs: G2630
-    proximity: 0.8001
+    lemma: κατακρημνίζω
+    gloss: to precipitate down {openscriptures-strongs}
+    proximity: 0.8001 {macula-proximity}
     language: greek
   - strongs: G599
-    proximity: 0.7947
+    proximity: 0.7947 {macula-proximity}
     language: greek
   - strongs: G2701
-    proximity: 0.7917
+    lemma: κατατρέχω
+    gloss: to run down {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: greek
   - strongs: G2736
-    proximity: 0.7916
+    lemma: κάτω
+    gloss: downwards {openscriptures-strongs}
+    proximity: 0.7916 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

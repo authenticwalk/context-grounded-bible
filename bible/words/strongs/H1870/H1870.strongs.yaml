@@ -8,43 +8,63 @@ definition: a road (as trodden); figuratively, a course of life or mode of actio
 kjv_usage: along, away, because of, [phrase] by, conversation, custom, (east-) ward,
   journey, manner, passenger, through, toward, (high-) (path-) way(-side), whither(-soever).
 derivation: from H1869 (דָּרַךְ);
-extended_definition:
-  gloss: 'way: journey'
-  definition: ': journey<br>1) way, road, distance, journey, manner<br>1a) road, way,
-    path<br>1b) journey<br>1c) direction<br>1d) manner, habit, way<br>1e) of course
-    of life (fig.)<br>1f) of moral character (fig.)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': journey
+
+  1) way, road, distance, journey, manner
+
+  1a) road, way, path
+
+  1b) journey
+
+  1c) direction
+
+  1d) manner, habit, way
+
+  1e) of course of life (fig.)
+
+  1f) of moral character (fig.) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H732
-    proximity: 0.83
+    proximity: 0.83 {macula-proximity}
   - strongs: H7965
-    proximity: 0.8278
+    lemma: שָׁלוֹם
+    gloss: safe {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H4284
-    proximity: 0.8269
+    lemma: מַחֲשָׁבָה
+    gloss: a contrivance {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: H4659
-    proximity: 0.8235
+    lemma: מִפְעָל
+    gloss: a performance {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: H935
-    proximity: 0.8234
+    proximity: 0.8234 {macula-proximity}
   cross_language:
   - strongs: G4831
-    proximity: 0.8297
+    lemma: συμμιμητής
+    gloss: a co-imitator {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G3319
-    proximity: 0.8296
+    lemma: μέσος
+    gloss: middle  noun) {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G2531
-    proximity: 0.8294
+    lemma: καθώς
+    gloss: just  as {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G4187
-    proximity: 0.8271
+    lemma: πολυτρόπως
+    gloss: in many ways {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G3402
-    proximity: 0.8268
+    lemma: μιμητής
+    gloss: an imitator {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

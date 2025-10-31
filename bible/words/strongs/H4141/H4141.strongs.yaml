@@ -6,40 +6,44 @@ pronunciation: moo-sawb'
 definition: a turn, i.e. circuit (of a building)
 kjv_usage: winding about.
 derivation: from H5437 (סָבַב);
-extended_definition:
-  gloss: surrounding
-  definition: encompassing, surrounding, round about
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: encompassing, surrounding, round about {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5439
-    proximity: 0.8149
+    lemma: סָבִיב
+    gloss: a circle {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
   - strongs: A3797
-    proximity: 0.809
+    proximity: 0.809 {macula-proximity}
   - strongs: H5437
-    proximity: 0.7897
+    lemma: סָבַב
+    gloss: to revolve {openscriptures-strongs}
+    proximity: 0.7897 {macula-proximity}
   - strongs: H3803b
-    proximity: 0.7848
+    proximity: 0.7848 {macula-proximity}
   - strongs: H4524a
-    proximity: 0.7843
+    proximity: 0.7843 {macula-proximity}
   - strongs: H4524
-    proximity: 0.704
+    lemma: מֵסַב
+    gloss: a divan {openscriptures-strongs}
+    proximity: 0.704 {macula-proximity}
   cross_language:
   - strongs: G2944
-    proximity: 0.8041
+    lemma: κυκλόω
+    gloss: to encircle {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
     language: greek
   - strongs: G2944a
-    proximity: 0.7976
+    proximity: 0.7976 {macula-proximity}
     language: greek
   - strongs: G4029
-    proximity: 0.7823
+    lemma: περίκειμαι
+    gloss: to lie all around {openscriptures-strongs}
+    proximity: 0.7823 {macula-proximity}
     language: greek
   - strongs: G2943
-    proximity: 0.7569
+    lemma: κυκλόθεν
+    gloss: from the circle {openscriptures-strongs}
+    proximity: 0.7569 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

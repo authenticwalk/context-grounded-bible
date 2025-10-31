@@ -8,61 +8,72 @@ kjv_usage: feast with
 derivation: from G4862 (σύν) and a derivative of a presumed compound of G2095 (εὖ)
   and a derivative of G2192 (ἔχω) (meaning to be in good condition, i.e. (by implication)
   to fare well, or feast);
-extended_definition:
-  gloss: to feast with
-  definition: '<b>συν-ευωχέω</b>, -ῶ <BR /> to entertain together. Pass., <b>to fare
-    sumptuously or feast together or with</b>: <ref=''Jude.12''>Ju 12</ref>; with
-    dative of person(s), <ref=''2Pe.2.13''>2Pe.2:13</ref> (Arist., Luc., al.).†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συνευωχ-έομαι</b>, <br /> <i>passive</i>, <b>feast together</b>,
-    [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Ethica
-    Eudemia” 1245b5, 2nd-1st c.BC: Posidonius Historicus 15J., 1st c.AD: Philo Judaeus
-    2.355; ὑμῖν NT.2Pet.2.13, compare 1st c.AD: Josephus Historicus “Antiquitates
-    Judaicae” 1.3.5, “BGU” 596.10 (1st c.AD), 2nd c.AD: Lucianus Sophista “VH” 2.15,
-    etc.">NT+4th c.BC+</a>]; [ἀνδριάντι] [<a href="javascript:void(0)" title=" “PMag.Par.”
-    1.3150. ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συν-ευωχέω, -ῶ
+
+  to entertain together. Pass., to fare sumptuously or feast together or with: Ju
+  12; with dative of person(s), 2Pe.2:13 (Arist., Luc., al.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συνευωχ-έομαι,
+
+  passive, feast together, [NT+4th c.BC+]; [ἀνδριάντι] [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4806
-    proximity: 0.8295
+    lemma: συζωοποιέω
+    gloss: to reanimate conjointly with {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: G4882
-    proximity: 0.8293
+    lemma: συναποστέλλω
+    gloss: to despatch  in company with {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: G4936
-    proximity: 0.8289
+    lemma: συντρέχω
+    gloss: to rush together  or headlong {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: G709
-    proximity: 0.8253
+    proximity: 0.8253 {macula-proximity}
   - strongs: G1859
-    proximity: 0.824
+    lemma: ἑορτή
+    gloss: a festival {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: G4897
-    proximity: 0.8229
+    lemma: συνεισέρχομαι
+    gloss: to enter in company with {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: G712
-    proximity: 0.8166
+    proximity: 0.8166 {macula-proximity}
   - strongs: G4821
-    proximity: 0.8162
+    lemma: συμβασιλεύω
+    gloss: to be co-regent {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: G4924
-    proximity: 0.8134
+    lemma: συνοικέω
+    gloss: to reside together {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
   - strongs: G4891
-    proximity: 0.81
+    lemma: συνεγείρω
+    gloss: to rouse  in company with {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
   cross_language:
   - strongs: H4798
-    proximity: 0.8244
+    lemma: מַרְזֵחַ
+    gloss: a cry {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: hebrew
   - strongs: H4580
-    proximity: 0.8222
+    lemma: מָעוֹג
+    gloss: a cake of bread {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
     language: hebrew
   - strongs: H5978
-    proximity: 0.8152
+    lemma: עִמָּד
+    gloss: along with {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
     language: hebrew
   - strongs: H5938
-    proximity: 0.8133
+    lemma: עָלֵז
+    gloss: exultant {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

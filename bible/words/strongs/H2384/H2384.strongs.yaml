@@ -6,43 +6,57 @@ pronunciation: khiz-zaw-yone'
 definition: a revelation, expectation by dream
 kjv_usage: vision.
 derivation: from H2372 (חָזָה);
-extended_definition:
-  gloss: vision
-  definition: 1) vision<br>1a) vision (in the ecstatic state)<br>1a1) valley of vision
-    (perhaps fig. of Jerusalem or Hinnom)<br>1b) vision (in the night)<br>1c) vision,
-    oracle, prophecy (in divine communication)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) vision
+
+  1a) vision (in the ecstatic state)
+
+  1a1) valley of vision (perhaps fig. of Jerusalem or Hinnom)
+
+  1b) vision (in the night)
+
+  1c) vision, oracle, prophecy (in divine communication) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1541
-    proximity: 0.8121
+    proximity: 0.8121 {macula-proximity}
   - strongs: A2493
-    proximity: 0.7834
+    proximity: 0.7834 {macula-proximity}
   - strongs: H2372
-    proximity: 0.7778
+    lemma: חָזָה
+    gloss: to gaze at {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   - strongs: H2472
-    proximity: 0.7495
+    lemma: חֲלוֹם
+    gloss: a dream {openscriptures-strongs}
+    proximity: 0.7495 {macula-proximity}
   - strongs: H4758
-    proximity: 0.7358
+    lemma: מַרְאֶה
+    gloss: a view {openscriptures-strongs}
+    proximity: 0.7358 {macula-proximity}
   cross_language:
   - strongs: G3677
-    proximity: 0.8246
+    lemma: ὄναρ
+    gloss: a dream {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
     language: greek
   - strongs: G5324
-    proximity: 0.8164
+    lemma: φαντάζω
+    gloss: to make apparent {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
     language: greek
   - strongs: G4592
-    proximity: 0.8049
+    lemma: σημεῖον
+    gloss: an indication {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
     language: greek
   - strongs: G2335
-    proximity: 0.7924
+    lemma: θεωρία
+    gloss: spectatorship {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
     language: greek
   - strongs: G1798
-    proximity: 0.7526
+    lemma: ἐνύπνιον
+    gloss: something seen in sleep {openscriptures-strongs}
+    proximity: 0.7526 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

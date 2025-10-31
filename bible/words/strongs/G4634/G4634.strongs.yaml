@@ -6,61 +6,69 @@ definition: the Festival of Tabernacles (so called from the custom of erecting b
   for temporary homes)
 kjv_usage: tabernacles
 derivation: from G4636 (σκῆνος) and G4078 (πήγνυμι);
-extended_definition:
-  gloss: Feast|Festival of Booths
-  definition: '<b>σκηνοπηγία</b>, -ας, ἡ<BR /> (σκηνή, πήγνυηι), [in LXX for סֻכָּה,
-    <ref=''Deu.16.16; 31.10''>Deu.16:16 31:10</ref>, <ref=''Zec.14.16, 18-19''>Zec.14:16,
-    18-19</ref>; I <ref=''Est.5.51''>Est.5:51</ref>, <ref=''1Ma.10.21''>1Ma.10:21</ref>,
-    <ref=''2Ma.1.9''>2Ma.1:9</ref> <ref=''2Mac.1.18''>2Mac 1:18</ref> * ;] <BR />prop.,
-    the setting up of tents or dwellings (Arist.); in LXX and NT, ἡ σ., ἡ ἑορτή τῆς
-    σ. (called also ἑορτὴ σκηνῶν, <ref=''Lev.23.34''>Lev.23:34</ref>, al.; see Deiss.,
-    <i>LAE</i>, 116 f.), the feast of Tabernacles: <ref=''Jhn.7.2.''>Jhn.7:2.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> σκηνο-πηγία</b>, ἡ, <br /> <b>setting up of tents: nest-building</b>,
-    ἡ τῆς χελιδόνος σ. [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles
-    Philosophus “Historia Animalium” 612b22. ">Refs 4th c.BC+</a>]<br /><Level3><b>__2</b></Level3>
-    <b>feast of tents</b> or <b>tabernacles</b>, [<a href="javascript:void(0)" title="
-    LXX.Deu.16.16, LXX.2Mac.1.9, NT.John.7.2, 1st c.AD: Josephus Historicus “Antiquitates
-    Judaicae” 11.4.1, +others">LXX+NT+1st c.AD+</a>]; σύλλογος τῆς σ. [<a href="javascript:void(0)"
-    title=" “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum Graecarum”
-    5361 (Egypt, Jewish). ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'σκηνοπηγία, -ας, ἡ
+
+  (σκηνή, πήγνυηι), [in LXX for סֻכָּה, Deu.16:16 31:10, Zec.14:16, 18-19; I Est.5:51,
+  1Ma.10:21, 2Ma.1:9 2Mac 1:18 * ;]
+
+  prop., the setting up of tents or dwellings (Arist.); in LXX and NT, ἡ σ., ἡ ἑορτή
+  τῆς σ. (called also ἑορτὴ σκηνῶν, Lev.23:34, al.; see Deiss., LAE, 116 f.), the
+  feast of Tabernacles: Jhn.7:2.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'σκηνο-πηγία, ἡ,
+
+  setting up of tents: nest-building, ἡ τῆς χελιδόνος σ. [Refs 4th c.BC+]
+
+  __2 feast of tents or tabernacles, [LXX+NT+1st c.AD+]; σύλλογος τῆς σ. [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4638
-    proximity: 0.8272
+    lemma: σκήνωμα
+    gloss: an encampment {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: G1858
-    proximity: 0.8095
+    lemma: ἑορτάζω
+    gloss: to observe a festival {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
   - strongs: G4637
-    proximity: 0.7919
+    lemma: σκηνόω
+    gloss: to tent or encamp {openscriptures-strongs}
+    proximity: 0.7919 {macula-proximity}
   - strongs: G4633
-    proximity: 0.7918
+    lemma: σκηνή
+    gloss: a tent or cloth hut {openscriptures-strongs}
+    proximity: 0.7918 {macula-proximity}
   - strongs: G1456
-    proximity: 0.7653
+    lemma: ἐγκαίνια
+    gloss: innovatives {openscriptures-strongs}
+    proximity: 0.7653 {macula-proximity}
   - strongs: G4636
-    proximity: 0.7502
+    lemma: σκῆνος
+    gloss: a hut or temporary residence {openscriptures-strongs}
+    proximity: 0.7502 {macula-proximity}
   cross_language:
   - strongs: H5702
-    proximity: 0.8297
+    lemma: עָגַן
+    gloss: to debar {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: hebrew
   - strongs: H1886a
-    proximity: 0.8104
+    proximity: 0.8104 {macula-proximity}
     language: hebrew
   - strongs: H5520
-    proximity: 0.7911
+    lemma: סֹךְ
+    gloss: a hut {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
     language: hebrew
   - strongs: H4908
-    proximity: 0.7621
+    lemma: מִשְׁכָּן
+    gloss: a residence (including a shepherd's hut {openscriptures-strongs}
+    proximity: 0.7621 {macula-proximity}
     language: hebrew
   - strongs: H7900
-    proximity: 0.7571
+    lemma: שֹׂךְ
+    gloss: a booth {openscriptures-strongs}
+    proximity: 0.7571 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

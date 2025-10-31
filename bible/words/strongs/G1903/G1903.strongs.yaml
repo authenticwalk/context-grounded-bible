@@ -5,52 +5,59 @@ transliteration: ependýtēs
 definition: a wrapper, i.e. outer garment
 kjv_usage: fisher's coat
 derivation: from G1902 (ἐπενδύομαι);
-extended_definition:
-  gloss: coat
-  definition: '<b>ἐπενδύτης</b>, -ου, ὁ<BR /> (ἐπενδύω), [in LXX for מְעִיל <ref=''Lev.8.7''>Lev.8:7</ref>
-    A (Aq. ἐπένδυμα), <ref=''1Ki.18.4''>3Ki.18:4</ref> A, <ref=''2Ki.13.18''>4Ki.13:18</ref>
-    * ;] <BR /><b>an outer tunic </b>(RV, coat): <ref=''Jhn.21.7''>Jhn.21:7</ref>
-    .†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐπεν-δύτης</b> [ῠ], ου, ὁ, <br /> <b>robe</b> or <b>garment
-    worn over</b> another, Ps.-Thes[<a href="javascript:void(0)" title=" p.1, 5th
-    c.BC: Sophocles Tragicus “fragment” 439, LXX.1Ki.18.4; ἐ. χιτών 4th c.BC: Nicochares
-    Comicus 5, compare 2nd-3rd c.AD: Aelianus Dion. “fragment” 325, 2nd c.AD(?): Pollianus
-    Epigrammaticus 7.45. ">LXX+5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐπενδύτης, -ου, ὁ
+
+  (ἐπενδύω), [in LXX for מְעִיל Lev.8:7 A (Aq. ἐπένδυμα), 3Ki.18:4 A, 4Ki.13:18 *
+  ;]
+
+  an outer tunic (RV, coat): Jhn.21:7 .†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐπεν-δύτης [ῠ], ου, ὁ,
+
+  robe or garment worn over another, Ps.-Thes[LXX+5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1742
-    proximity: 0.8298
+    lemma: ἔνδυμα
+    gloss: apparel {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: G5511
-    proximity: 0.8188
+    lemma: χλαμύς
+    gloss: a military cloak {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
   - strongs: G5509
-    proximity: 0.812
+    lemma: χιτών
+    gloss: a tunic or shirt {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: A3831
-    proximity: 0.7808
+    proximity: 0.7808 {macula-proximity}
   - strongs: G4018
-    proximity: 0.7329
+    lemma: περιβόλαιον
+    gloss: something thrown around one {openscriptures-strongs}
+    proximity: 0.7329 {macula-proximity}
   cross_language:
   - strongs: H5466
-    proximity: 0.8275
+    lemma: סָדִין
+    gloss: a wrapper {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
     language: hebrew
   - strongs: H5497
-    proximity: 0.8274
+    lemma: סוּת
+    gloss: covering {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
     language: hebrew
   - strongs: H8302a
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
     language: hebrew
   - strongs: H6648
-    proximity: 0.7917
+    lemma: צֶבַע
+    gloss: a dye {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: hebrew
   - strongs: H7289
-    proximity: 0.7911
+    lemma: רָדִיד
+    gloss: a veil {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

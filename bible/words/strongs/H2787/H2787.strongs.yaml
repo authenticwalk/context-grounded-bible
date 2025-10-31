@@ -7,52 +7,79 @@ definition: to glow, i.e. literally (to melt, burn, dry up) or figuratively (to 
   or incite passion)
 kjv_usage: be angry, burn, dry, kindle.
 derivation: a primitive root;
-extended_definition:
-  gloss: to scorch
-  definition: '1) to burn, be hot, be scorched, be charred<br>1a) (Qal)<br>1a1) to
-    be hot, be scorched<br>1a2) to burn, be burned<br>1b) (Niphal)<br>1b1) to be scorched,
-    be burned<br>1b2) to burn<br>1b3) to be dry, be angry<br>1c) (Pilpel) to cause
-    to burn<BR>Aramaic equivalent: <i>cha.rakh</i> (חֲרַךְ "to singe" H2761)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to burn, be hot, be scorched, be charred
+
+  1a) (Qal)
+
+  1a1) to be hot, be scorched
+
+  1a2) to burn, be burned
+
+  1b) (Niphal)
+
+  1b1) to be scorched, be burned
+
+  1b2) to burn
+
+  1b3) to be dry, be angry
+
+  1c) (Pilpel) to cause to burn
+
+  Aramaic equivalent: cha.rakh (חֲרַךְ "to singe" H2761) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6225
-    proximity: 0.8279
+    lemma: עָשַׁן
+    gloss: to smoke {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: H7529
-    proximity: 0.827
+    lemma: רֶצֶף
+    gloss: a red-hot stone {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H5746
-    proximity: 0.8237
+    lemma: עוּג
+    gloss: to bake {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: H2746
-    proximity: 0.8165
+    lemma: חַרְחֻר
+    gloss: fever {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: A3345
-    proximity: 0.814
+    proximity: 0.814 {macula-proximity}
   - strongs: H5327a
-    proximity: 0.8101
+    proximity: 0.8101 {macula-proximity}
   - strongs: H3555
-    proximity: 0.8087
+    lemma: כְּוִיָּה
+    gloss: a branding {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
   - strongs: H7033
-    proximity: 0.8072
+    lemma: קָלָה
+    gloss: to toast {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
   - strongs: H2152
-    proximity: 0.7678
+    lemma: זַלְעָפָה
+    gloss: a glow {openscriptures-strongs}
+    proximity: 0.7678 {macula-proximity}
   cross_language:
   - strongs: G381
-    proximity: 0.829
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G4445
-    proximity: 0.8255
+    lemma: πυρέσσω
+    gloss: to be on fire {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
     language: greek
   - strongs: G374
-    proximity: 0.8237
+    proximity: 0.8237 {macula-proximity}
     language: greek
   - strongs: G5394
-    proximity: 0.8186
+    lemma: φλογίζω
+    gloss: to cause a blaze {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
     language: greek
   - strongs: G4787
-    proximity: 0.8024
+    lemma: συγκινέω
+    gloss: to move together {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

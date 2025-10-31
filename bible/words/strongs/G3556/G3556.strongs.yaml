@@ -5,47 +5,54 @@ transliteration: nossíon
 definition: a birdling
 kjv_usage: chicken
 derivation: diminutive of G3502 (νεοσσός);
-extended_definition:
-  gloss: chick
-  definition: '<b>νοσσίον</b>, -ου, τό dimin. of νοσσός, which see, <BR /> [in LXX:
-    <ref=''Psa.84.3''>Psa.84:3</ref> (אֶפְרֹחַ) * ;] <BR /><b>a young bird</b>: <ref=''Mat.23.37.''>Mat.23:37.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: 'Related to: <b> νόσσαξ</b>, ακος, ὁ, <br /> (νοσσός) <b>chick,
-    cockerel,</b> [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides)
-    Medicus 2.49. ">Refs 1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'νοσσίον, -ου, τό dimin. of νοσσός, which see,
+
+  [in LXX: Psa.84:3 (אֶפְרֹחַ) * ;]
+
+  a young bird: Mat.23:37.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Related to:  νόσσαξ, ακος, ὁ,
+
+  (νοσσός) chick, cockerel, [Refs 1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4454
-    proximity: 0.8262
+    lemma: πῶλος
+    gloss: a "foal" or "filly" {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: G1640
-    proximity: 0.8106
+    lemma: ἐλάσσων
+    gloss: smaller (in size {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
   - strongs: G2056
-    proximity: 0.8014
+    lemma: ἔριφος
+    gloss: a kid or  goat {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
   - strongs: G3502a
-    proximity: 0.7639
+    proximity: 0.7639 {macula-proximity}
   cross_language:
   - strongs: H5759
-    proximity: 0.8189
+    lemma: עֲוִיל
+    gloss: a babe {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
     language: hebrew
   - strongs: H1423
-    proximity: 0.816
+    lemma: גְּדִי
+    gloss: a young goat {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
     language: hebrew
   - strongs: H1482
-    proximity: 0.8151
+    lemma: גּוּר
+    gloss: a cub {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
     language: hebrew
   - strongs: H354
-    proximity: 0.7951
+    proximity: 0.7951 {macula-proximity}
     language: hebrew
   - strongs: H6996
-    proximity: 0.7948
+    lemma: קָטָן
+    gloss: abbreviated {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

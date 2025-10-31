@@ -5,55 +5,62 @@ transliteration: dṓdeka
 definition: two and ten, i.e. a dozen
 kjv_usage: twelve
 derivation: from G1417 (δύο) and G1176 (δέκα);
-extended_definition:
-  gloss: twelve
-  definition: '<b>δώδεκα</b>, οἱ, αἱ, τά indecl. <BR /> <b>numeral, twelve</b>: <ref=''Mat.9.20;
-    10.1''>Mat.9:20 10:1</ref>, al.; οἱ δ., <i>the apostles</i>, <ref=''Mat.10.5''>Mat.10:5</ref>,
-    <ref=''Mrk.4.10''>Mrk.4:10</ref>, al.; in <ref=''Act.19.7; 24.11''>Act.19:7 24:11</ref>,
-    for Rec. δεκαδύο. <BR /> (AS)'
-  morphology: G:A-NUI
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> δῠώδεκα</b>, <br /> <i>Ionic dialect</i>, <i>Epic dialect</i>,
-    Lyric poetry; <i>Attic dialect</i> <b>δώδεκα</b>, <b>twelve</b>, in all genders,
-    [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad”
-    2.637, 5th c.BC: Herodotus Historicus 1.16, 5th c.BC: Pindarus Lyricus “N.” 4.28,
-    etc.; οἱ δώδεκα θεοί 4th c.BC: Aeschines Socraticus Philosophus 5, “Comica Adespota”
-    39.9 4th c.BC: Demosthenes Orator ">Refs 8th c.BC+</a>]:—also <b>δυόδεκο</b>,
-    [<a href="javascript:void(0)" title=" “IG” 5(2).3 (Tegea, 4th c.BC). ">Refs 4th
-    c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δώδεκα, οἱ, αἱ, τά indecl.
+
+  numeral, twelve: Mat.9:20 10:1, al.; οἱ δ., the apostles, Mat.10:5, Mrk.4:10, al.;
+  in Act.19:7 24:11, for Rec. δεκαδύο.
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'δῠώδεκα,
+
+  Ionic dialect, Epic dialect, Lyric poetry; Attic dialect δώδεκα, twelve, in all
+  genders, [Refs 8th c.BC+]:—also δυόδεκο, [Refs 4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3461
-    proximity: 0.8255
+    lemma: μυριάς
+    gloss: a ten-thousand {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: G1440
-    proximity: 0.8243
+    lemma: ἑβδομήκοντα
+    gloss: seventy {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: G4002
-    proximity: 0.82
+    lemma: πέντε
+    gloss: '"five" {openscriptures-strongs}'
+    proximity: 0.82 {macula-proximity}
   - strongs: G1176
-    proximity: 0.8061
+    lemma: δέκα
+    gloss: ten {openscriptures-strongs}
+    proximity: 0.8061 {macula-proximity}
   - strongs: G3046
-    proximity: 0.8053
+    lemma: λίτρα
+    gloss: a pound in weight {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   cross_language:
   - strongs: H3967
-    proximity: 0.8253
+    lemma: מֵאָה
+    gloss: a hundred {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
     language: hebrew
   - strongs: H6235
-    proximity: 0.8233
+    lemma: עֶשֶׂר
+    gloss: ten {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
     language: hebrew
   - strongs: H7651
-    proximity: 0.8216
+    lemma: שֶׁבַע
+    gloss: seven {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
     language: hebrew
   - strongs: H2568
-    proximity: 0.82
+    lemma: חָמֵשׁ
+    gloss: five {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: hebrew
   - strongs: H7969
-    proximity: 0.8196
+    lemma: שָׁלוֹשׁ
+    gloss: three {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,45 +6,49 @@ pronunciation: kho'-zek
 definition: power
 kjv_usage: strength.
 derivation: from H2388 (חָזַק);
-extended_definition:
-  gloss: strength
-  definition: strength
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: strength {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7161a
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
   - strongs: H5950
-    proximity: 0.8241
+    lemma: עֲלִילִיָּה
+    gloss: execution {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H6957a
-    proximity: 0.8201
+    proximity: 0.8201 {macula-proximity}
   - strongs: H47
-    proximity: 0.8134
+    proximity: 0.8134 {macula-proximity}
   - strongs: H4581
-    proximity: 0.813
+    lemma: מָעוֹז
+    gloss: a fortified place {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
   - strongs: H555
-    proximity: 0.8031
+    proximity: 0.8031 {macula-proximity}
   - strongs: H405
-    proximity: 0.8001
+    proximity: 0.8001 {macula-proximity}
   - strongs: A153
-    proximity: 0.7944
+    proximity: 0.7944 {macula-proximity}
   - strongs: H7983
-    proximity: 0.7943
+    lemma: שִׁלְטוֹן
+    gloss: '{power.} {openscriptures-strongs}'
+    proximity: 0.7943 {macula-proximity}
   - strongs: A2429
-    proximity: 0.7923
+    proximity: 0.7923 {macula-proximity}
   cross_language:
   - strongs: G2480
-    proximity: 0.8141
+    lemma: ἰσχύω
+    gloss: to have  force {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
     language: greek
   - strongs: G1840
-    proximity: 0.8109
+    lemma: ἐξισχύω
+    gloss: to have full strength {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
     language: greek
   - strongs: G5308
-    proximity: 0.7867
+    lemma: ὑψηλός
+    gloss: lofty {openscriptures-strongs}
+    proximity: 0.7867 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

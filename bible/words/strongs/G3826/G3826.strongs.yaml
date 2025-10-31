@@ -5,50 +5,59 @@ transliteration: pamplētheí
 definition: in full multitude, i.e. concertedly or simultaneously
 kjv_usage: all at once
 derivation: dative case (adverb) of a compound of G3956 (πᾶς) and G4128 (πλῆθος);
-extended_definition:
-  gloss: together
-  definition: '<b>πανπληθεί</b> (Rec. παμπλ-, see WH, <i>App.</i>, 150), <BR /> <i>adv.</i>
-    (πᾶς, πλῆθος), <BR />= cl. παμπληθές, <b>with the whole multitude, all together</b>:
-    <ref=''Luk.23.18.''>Luk.23:18.</ref>† <BR /> (AS)'
-  morphology: G:ADV
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> παμ-πληθεί</b>, <br /> <i>adverb</i> <b>with the whole multitude,
-    NT.Luke.</b> 23.18, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Dio Cassius
-    Historicus 75.9. ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'πανπληθεί (Rec. παμπλ-, see WH, App., 150),
+
+  adv. (πᾶς, πλῆθος),
+
+  = cl. παμπληθές, with the whole multitude, all together: Luk.23:18.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'παμ-πληθεί,
+
+  adverb with the whole multitude, NT.Luke. 23.18, [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G530
-    proximity: 0.8286
+    proximity: 0.8286 {macula-proximity}
   - strongs: G2086
-    proximity: 0.8269
+    lemma: ἑτεροζυγέω
+    gloss: to yoke up differently {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: A1693
-    proximity: 0.8218
+    proximity: 0.8218 {macula-proximity}
   - strongs: G4959
-    proximity: 0.8194
+    lemma: συστενάζω
+    gloss: to moan jointly {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: G3838
-    proximity: 0.8154
+    lemma: παντελής
+    gloss: full-ended {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: G4896
-    proximity: 0.8149
+    lemma: σύνειμι
+    gloss: to assemble {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
   - strongs: G4779
-    proximity: 0.8127
+    lemma: συγκαλέω
+    gloss: to convoke {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
   - strongs: A3606
-    proximity: 0.8103
+    proximity: 0.8103 {macula-proximity}
   - strongs: G4925
-    proximity: 0.8085
+    lemma: συνοικοδομέω
+    gloss: to construct {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
   - strongs: G2178
-    proximity: 0.8006
+    lemma: ἐφάπαξ
+    gloss: upon one occasion {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
   cross_language:
   - strongs: H3605
-    proximity: 0.7909
+    lemma: כֹּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7909 {macula-proximity}
     language: hebrew
   - strongs: H259
-    proximity: 0.7828
+    proximity: 0.7828 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

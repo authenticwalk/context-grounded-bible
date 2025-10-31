@@ -6,48 +6,66 @@ pronunciation: ar-e-ree'
 definition: bare, i.e. destitute (of children)
 kjv_usage: childless.
 derivation: from H6209 (עָרַר);
-extended_definition:
-  gloss: childless
-  definition: stripped, childless, bare of children
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: stripped, childless, bare of children {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7361
-    proximity: 0.8259
+    lemma: רַחֲמָה
+    gloss: a maiden {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: H6135
-    proximity: 0.8244
+    lemma: עָקָר
+    gloss: sterile {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: H3211
-    proximity: 0.8129
+    lemma: יָלִיד
+    gloss: born {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: H4780
-    proximity: 0.8115
+    lemma: מַרְדּוּת
+    gloss: rebelliousness {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
   - strongs: H4497
-    proximity: 0.8098
+    lemma: מָנוֹן
+    gloss: a continuator {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
   - strongs: H5288
-    proximity: 0.8095
+    lemma: נַעַר
+    gloss: a boy {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
   - strongs: H7909a
-    proximity: 0.8033
+    proximity: 0.8033 {macula-proximity}
   - strongs: H6115
-    proximity: 0.8024
+    lemma: עֹצֶר
+    gloss: closure {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: H2233
-    proximity: 0.7999
+    lemma: זֶרַע
+    gloss: seed {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
   - strongs: H5768
-    proximity: 0.7887
+    lemma: עוֹלֵל
+    gloss: a suckling {openscriptures-strongs}
+    proximity: 0.7887 {macula-proximity}
   cross_language:
   - strongs: G4723
-    proximity: 0.792
+    lemma: στείρος
+    gloss: '"sterile" {openscriptures-strongs}'
+    proximity: 0.792 {macula-proximity}
     language: greek
   - strongs: G1549
-    proximity: 0.7897
+    lemma: ἔκγονον
+    gloss: a descendant {openscriptures-strongs}
+    proximity: 0.7897 {macula-proximity}
     language: greek
   - strongs: G5044
-    proximity: 0.7857
+    lemma: τεκνοτροφέω
+    gloss: to be a childrearer {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
     language: greek
   - strongs: G2877
-    proximity: 0.7847
+    lemma: κοράσιον
+    gloss: a  girl {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

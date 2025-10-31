@@ -6,40 +6,48 @@ pronunciation: pag
 definition: crude; an unripe fig
 kjv_usage: green figuratively
 derivation: from an unused root meaning to be torpid, i.e.
-extended_definition:
-  gloss: early fig
-  definition: green fig, early fig
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: green fig, early fig {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7019
-    proximity: 0.8298
+    lemma: קַיִץ
+    gloss: harvest {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: H1061
-    proximity: 0.8027
+    lemma: בִּכּוּר
+    gloss: the first-fruits of the crop {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
   - strongs: H4395
-    proximity: 0.8
+    lemma: מְלֵאָה
+    gloss: something fulfilled {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: H8384
-    proximity: 0.7819
+    lemma: תְּאֵן
+    gloss: the fig {openscriptures-strongs}
+    proximity: 0.7819 {macula-proximity}
   - strongs: H8570
-    proximity: 0.7657
+    lemma: תְּנוּבָה
+    gloss: produce {openscriptures-strongs}
+    proximity: 0.7657 {macula-proximity}
   - strongs: H6529
-    proximity: 0.7385
+    lemma: פְּרִי
+    gloss: fruit {openscriptures-strongs}
+    proximity: 0.7385 {macula-proximity}
   cross_language:
   - strongs: G1081a
-    proximity: 0.8142
+    proximity: 0.8142 {macula-proximity}
     language: greek
   - strongs: G4808
-    proximity: 0.8104
+    lemma: συκῆ
+    gloss: a fig-tree {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
     language: greek
   - strongs: G175
-    proximity: 0.8026
+    proximity: 0.8026 {macula-proximity}
     language: greek
   - strongs: G2592
-    proximity: 0.8019
+    lemma: καρποφορέω
+    gloss: to be fertile {openscriptures-strongs}
+    proximity: 0.8019 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

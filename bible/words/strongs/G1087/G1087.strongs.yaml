@@ -5,49 +5,46 @@ transliteration: gerousía
 definition: the eldership, i.e. (collectively) the Jewish Sanhedrin
 kjv_usage: senate
 derivation: from G1088 (γέρων);
-extended_definition:
-  gloss: council of elders
-  definition: '<b>γερουσία</b>, -ας, ἡ <BR /> (γέρων), [in LXX (Hex. only in OT) for
-    זָקֵן ;] <BR /><b>a council of elders, senate</b>; in NT, of the Sanhedrin (<i>Cl.
-    Rev.</i>, i, 43f.; <i>DB</i>, <i>ext.</i>, 99): <ref=''Act.5.21.''>Act.5:21.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> γερουσί-α</b>, ἡ, <br /> <b>Council of Elders, senate</b>,
-    [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Rhesus” 401:
-    especially at Sparta, 4th c.BC: Demosthenes Orator 20.107, 4th c.BC: Aristoteles
-    Philosophus “Politica” 1270b24, “IG” 5(2).345.10 (Orchom. 4th c.AD(?): Arcadius
-    Grammaticus, 2nd-1st c.BC)">Refs 5th c.BC+</a>]; compare γερωΐα and γεροντί; also
-    of the Carthaginian [<a href="javascript:void(0)" title=" “Senate”, 4th c.BC:
-    Aristoteles Philosophus “Politica” 1272b37 ">Refs 4th c.BC+</a>]; and the Roman,
-    [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus
-    2.789e, 4th c.AD: Julianus Imperator “Orationes” 2.97b ">Refs 1st c.AD+</a>];
-    of the Jewish <b>Sanhedrin,</b> [<a href="javascript:void(0)" title=" NT.Acts.5.21,
-    cf. LXX.Exo.3.16. ">LXX+NT</a>]<br /><Level3><b>__2</b></Level3> <b>sacred college</b>,
-    ἱερὰ γ. [<a href="javascript:void(0)" title=" “IG” 3.702 (from Eleusis), compare
-    7.2808 (Hyettus, 3rd c.BC), etc. ">Refs 3rd c.BC+</a>]<br /><Level2><b>__II</b></Level2>
-    ={πρεσβεία}, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus
-    “Rhesus” 936. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'γερουσία, -ας, ἡ
+
+  (γέρων), [in LXX (Hex. only in OT) for זָקֵן ;]
+
+  a council of elders, senate; in NT, of the Sanhedrin (Cl. Rev., i, 43f.; DB, ext.,
+  99): Act.5:21.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'γερουσί-α, ἡ,
+
+  Council of Elders, senate, [Refs 5th c.BC+]; compare γερωΐα and γεροντί; also of
+  the Carthaginian [Refs 4th c.BC+]; and the Roman, [Refs 1st c.AD+]; of the Jewish
+  Sanhedrin, [LXX+NT]
+
+  __2 sacred college, ἱερὰ γ. [Refs 3rd c.BC+]
+
+  __II ={πρεσβεία}, [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4824
-    proximity: 0.8045
+    lemma: συμβούλιον
+    gloss: advisement {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
   - strongs: G4850
-    proximity: 0.74
+    lemma: συμπρεσβύτερος
+    gloss: a co-presbyter {openscriptures-strongs}
+    proximity: 0.74 {macula-proximity}
   - strongs: G4892
-    proximity: 0.7007
+    lemma: συνέδριον
+    gloss: a joint session {openscriptures-strongs}
+    proximity: 0.7007 {macula-proximity}
   cross_language:
   - strongs: H5712
-    proximity: 0.825
+    lemma: עֵדָה
+    gloss: a stated assemblage (specifically {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
     language: hebrew
   - strongs: H3486
-    proximity: 0.8211
+    lemma: יָשֵׁשׁ
+    gloss: gray-haired {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

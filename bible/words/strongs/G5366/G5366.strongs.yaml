@@ -5,63 +5,76 @@ transliteration: philárgyros
 definition: fond of silver (money), i.e. avaricious
 kjv_usage: covetous
 derivation: from G5384 (φίλος) and G696 (ἄργυρος);
-extended_definition:
-  gloss: money-loving
-  definition: '<b>φιλ-άργυρος</b>, -ον <BR /> [in LXX: <ref=''4Ma.2.8''>4Ma.2:8</ref>
-    * ;] <BR /><b>loving money, avaricious</b>: <ref=''Luk.16.14''>Luk.16:14</ref>,
-    <ref=''2Ti.3.2''>2Ti.3:2</ref>.†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> φῐλάργῠρ-ος</b>, ον, <br /> <b>fond of money, avaricious,</b>
-    [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Antigone”
-    1055, “fragment” 587, 5th-6th c.BC: Plato Philosophus “Respublica” 347b, “PPetr.”
-    3p.150 (3rd c.BC), 1st c.BC: Philodemus Gadarensis Epigrammaticus “Ind.Sto.” 19,
-    NT.Luke.16.14, etc.">NT+5th c.BC+</a>]; <i>superlative</i> <b>-ώτατος</b>[<a href="javascript:void(0)"
-    title=" 5th-6th c.BC: Xenophon Historicus “Memorabilia” 3.1.10, 3.13.4. ">Refs
-    5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'φιλ-άργυρος, -ον
+
+  [in LXX: 4Ma.2:8 * ;]
+
+  loving money, avaricious: Luk.16:14, 2Ti.3:2.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'φῐλάργῠρ-ος, ον,
+
+  fond of money, avaricious, [NT+5th c.BC+]; superlative -ώτατος[Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A3702
-    proximity: 0.8149
+    proximity: 0.8149 {macula-proximity}
   - strongs: G1101
-    proximity: 0.8146
+    lemma: γλωσσόκομον
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
   - strongs: G905
-    proximity: 0.8144
+    proximity: 0.8144 {macula-proximity}
   - strongs: G2774
-    proximity: 0.8134
+    lemma: κεφάλαιον
+    gloss: a principal thing {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
   - strongs: G5475
-    proximity: 0.801
+    lemma: χαλκός
+    gloss: copper (the substance {openscriptures-strongs}
+    proximity: 0.801 {macula-proximity}
   - strongs: G2855
-    proximity: 0.7989
+    lemma: κολλυβιστής
+    gloss: probably akin to G2854 ) {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
   - strongs: G2773
-    proximity: 0.775
+    lemma: κερματιστής
+    gloss: a handler of coins {openscriptures-strongs}
+    proximity: 0.775 {macula-proximity}
   - strongs: G5367
-    proximity: 0.7562
+    lemma: φίλαυτος
+    gloss: fond of self {openscriptures-strongs}
+    proximity: 0.7562 {macula-proximity}
   - strongs: G5369
-    proximity: 0.7542
+    lemma: φιλήδονος
+    gloss: fond of pleasure {openscriptures-strongs}
+    proximity: 0.7542 {macula-proximity}
   - strongs: G3713
-    proximity: 0.7512
+    lemma: ὀρέγομαι
+    gloss: to stretch oneself {openscriptures-strongs}
+    proximity: 0.7512 {macula-proximity}
   cross_language:
   - strongs: H5719
-    proximity: 0.8172
+    lemma: עָדִין
+    gloss: voluptuous {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
     language: hebrew
   - strongs: H158
-    proximity: 0.8149
+    proximity: 0.8149 {macula-proximity}
     language: hebrew
   - strongs: H5689
-    proximity: 0.7999
+    lemma: עֲגַב
+    gloss: to breathe after {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
     language: hebrew
   - strongs: H3701
-    proximity: 0.7666
+    lemma: כֶּסֶף
+    gloss: silver {openscriptures-strongs}
+    proximity: 0.7666 {macula-proximity}
     language: hebrew
   - strongs: H7192
-    proximity: 0.7584
+    lemma: קְשִׂיטָה
+    gloss: an ingot {openscriptures-strongs}
+    proximity: 0.7584 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

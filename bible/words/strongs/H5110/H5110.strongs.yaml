@@ -9,56 +9,96 @@ definition: to nod, i.e. waver; figuratively, to wander, flee, disappear; also (
 kjv_usage: bemoan, flee, get, mourn, make to move, take pity, remove, shake, skip
   for joy, be sorry, vagabond, way, wandering.
 derivation: a primitive root;
-extended_definition:
-  gloss: to wander
-  definition: 1) to shake, waver, wander, move to and fro, flutter, show grief, have
-    compassion on<br>1a) (Qal)<br>1a1) to move to and fro, wander (aimlessly), take
-    flight<br>1a2) to flutter<br>1a3) to waver, wave, shake<br>1a4) to show grief<br>1a4a)
-    to lament, condole, show sympathy<br>1b) (Hiphil)<br>1b1) to cause to wander (aimlessly)<br>1b2)
-    to make a wagging, wag (with the head)<br>1c) (Hithpolel)<br>1c1) to move oneself
-    to and fro, sway, totter<br>1c2) to shake oneself<br>1c3) to bemoan oneself
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to shake, waver, wander, move to and fro, flutter, show grief,
+  have compassion on
+
+  1a) (Qal)
+
+  1a1) to move to and fro, wander (aimlessly), take flight
+
+  1a2) to flutter
+
+  1a3) to waver, wave, shake
+
+  1a4) to show grief
+
+  1a4a) to lament, condole, show sympathy
+
+  1b) (Hiphil)
+
+  1b1) to cause to wander (aimlessly)
+
+  1b2) to make a wagging, wag (with the head)
+
+  1c) (Hithpolel)
+
+  1c1) to move oneself to and fro, sway, totter
+
+  1c2) to shake oneself
+
+  1c3) to bemoan oneself {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1644
-    proximity: 0.8214
+    lemma: גָּרַשׁ
+    gloss: to drive out from a possession {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H5080
-    proximity: 0.8211
+    lemma: נָדַח
+    gloss: to push off {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
   - strongs: H56a
-    proximity: 0.8179
+    proximity: 0.8179 {macula-proximity}
   - strongs: H4498
-    proximity: 0.8177
+    lemma: מָנוֹס
+    gloss: a retreat {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
   - strongs: H7493
-    proximity: 0.8159
+    lemma: רָעַשׁ
+    gloss: to undulate (as the earth {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H4422
-    proximity: 0.8144
+    lemma: מָלַט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8144 {macula-proximity}
   - strongs: H578
-    proximity: 0.8138
+    proximity: 0.8138 {macula-proximity}
   - strongs: H4493
-    proximity: 0.8054
+    lemma: מָנוֹד
+    gloss: a nodding or toss {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
   - strongs: H6412
-    proximity: 0.7927
+    lemma: פָּלִיט
+    gloss: a refugee {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
   - strongs: H8386
-    proximity: 0.7849
+    lemma: תַּאֲנִיָּה
+    gloss: lamentation {openscriptures-strongs}
+    proximity: 0.7849 {macula-proximity}
   cross_language:
   - strongs: G2870
-    proximity: 0.8227
+    lemma: κοπετός
+    gloss: mourning (properly {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
     language: greek
   - strongs: G3602
-    proximity: 0.8158
+    lemma: ὀδυρμός
+    gloss: moaning {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
     language: greek
   - strongs: G4525
-    proximity: 0.8076
+    lemma: σαίνω
+    gloss: to wag {openscriptures-strongs}
+    proximity: 0.8076 {macula-proximity}
     language: greek
   - strongs: G4531
-    proximity: 0.7792
+    lemma: σαλεύω
+    gloss: to waver {openscriptures-strongs}
+    proximity: 0.7792 {macula-proximity}
     language: greek
   - strongs: G1628
-    proximity: 0.7669
+    lemma: ἐκφεύγω
+    gloss: to flee out {openscriptures-strongs}
+    proximity: 0.7669 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

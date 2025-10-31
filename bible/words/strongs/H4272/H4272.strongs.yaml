@@ -7,49 +7,70 @@ definition: to dash asunder; by implication, to crush, smash or violently plunge
   figuratively, to subdue or destroy
 kjv_usage: dip, pierce (through), smite (through), strike through, wound.
 derivation: a primitive root;
-extended_definition:
-  gloss: to wound
-  definition: 1) to smite through, shatter, wound severely<br>1a) (Qal)<br>1a1) to
-    shatter<br>1a2) shattering (participle)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to smite through, shatter, wound severely
+
+  1a) (Qal)
+
+  1a1) to shatter
+
+  1a2) shattering (participle) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1854
-    proximity: 0.8299
+    lemma: דָּקַק
+    gloss: to crush  crumble {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
   - strongs: H6979a
-    proximity: 0.8297
+    proximity: 0.8297 {macula-proximity}
   - strongs: H6565a
-    proximity: 0.823
+    proximity: 0.823 {macula-proximity}
   - strongs: H7492
-    proximity: 0.8167
+    lemma: רָעַץ
+    gloss: to break in pieces {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H5423
-    proximity: 0.8139
+    lemma: נָתַק
+    gloss: to tear off {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H4251
-    proximity: 0.8099
+    lemma: מַחְלֻי
+    gloss: a disease {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
   - strongs: H2944
-    proximity: 0.8092
+    lemma: טָעַן
+    gloss: to stab {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: H7616
-    proximity: 0.8053
+    lemma: שָׁבָב
+    gloss: a fragment {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H4790
-    proximity: 0.8007
+    lemma: מְרוֹחַ
+    gloss: bruised {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: H5344
-    proximity: 0.7915
+    lemma: נָקַב
+    gloss: to puncture {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
   cross_language:
   - strongs: G1574
-    proximity: 0.8273
+    lemma: ἐκκεντέω
+    gloss: to transfix {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G4127
-    proximity: 0.8159
+    lemma: πληγή
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
     language: greek
   - strongs: G3960
-    proximity: 0.7981
+    lemma: πατάσσω
+    gloss: to knock {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
     language: greek
   - strongs: G1338
-    proximity: 0.7979
+    lemma: διϊκνέομαι
+    gloss: to reach through {openscriptures-strongs}
+    proximity: 0.7979 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,29 +6,33 @@ pronunciation: shaf-roor'
 definition: splendid, i.e. a tapestry or canopy
 kjv_usage: royal pavilion.
 derivation: from H8231 (שָׁפַר);
-extended_definition:
-  gloss: pavilion
-  definition: 1) canopy, royal pavilion<br>1a) meaning doubtful
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) canopy, royal pavilion
+
+  1a) meaning doubtful {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2646
-    proximity: 0.8281
+    lemma: חֻפָּה
+    gloss: a canopy {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H6898
-    proximity: 0.8027
+    lemma: קֻבָּה
+    gloss: a pavilion {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
   - strongs: H5520
-    proximity: 0.7838
+    lemma: סֹךְ
+    gloss: a hut {openscriptures-strongs}
+    proximity: 0.7838 {macula-proximity}
   - strongs: H168
-    proximity: 0.7734
+    proximity: 0.7734 {macula-proximity}
   - strongs: H5521
-    proximity: 0.7196
+    lemma: סֻכָּה
+    gloss: a hut or lair {openscriptures-strongs}
+    proximity: 0.7196 {macula-proximity}
   cross_language:
   - strongs: G4638
-    proximity: 0.7003
+    lemma: σκήνωμα
+    gloss: an encampment {openscriptures-strongs}
+    proximity: 0.7003 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

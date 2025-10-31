@@ -7,31 +7,35 @@ definition: a musical chord (as parted into strings)
 kjv_usage: in (the same) (Psalm 68:23), stringed instrument (Psalm 150:4), whereby
   (Psalm 45:8 (defective plural)).
 derivation: from an unused root meaning to apportion; a part; hence,
-extended_definition:
-  gloss: string
-  definition: 1) string (of harp)<br>2) (BDB) portion
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) string (of harp)
+
+  2) (BDB) portion {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5155
-    proximity: 0.8112
+    lemma: נְחִילָה
+    gloss: a flute {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
   - strongs: H1998
-    proximity: 0.8043
+    lemma: הֶמְיָה
+    gloss: sound {openscriptures-strongs}
+    proximity: 0.8043 {macula-proximity}
   - strongs: H5059
-    proximity: 0.7988
+    lemma: נָגַן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   - strongs: A1761
-    proximity: 0.7901
+    proximity: 0.7901 {macula-proximity}
   - strongs: H3658
-    proximity: 0.7894
+    lemma: כִּנּוֹר
+    gloss: a harp {openscriptures-strongs}
+    proximity: 0.7894 {macula-proximity}
   - strongs: H5035a
-    proximity: 0.7424
+    proximity: 0.7424 {macula-proximity}
   cross_language:
   - strongs: G4858
-    proximity: 0.7983
+    lemma: συμφωνία
+    gloss: unison of sound {openscriptures-strongs}
+    proximity: 0.7983 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

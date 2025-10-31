@@ -10,38 +10,51 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: A2957
-    proximity: 0.8287
+    proximity: 0.8287 {macula-proximity}
   - strongs: H1644
-    proximity: 0.8243
+    lemma: גָּרַשׁ
+    gloss: to drive out from a possession {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: H914
-    proximity: 0.817
+    proximity: 0.817 {macula-proximity}
   - strongs: H1299
-    proximity: 0.8161
+    lemma: בָּרַק
+    gloss: to lighten {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: A5111
-    proximity: 0.8067
+    proximity: 0.8067 {macula-proximity}
   - strongs: H5128
-    proximity: 0.8036
+    lemma: נוּעַ
+    gloss: to waver {openscriptures-strongs}
+    proximity: 0.8036 {macula-proximity}
   - strongs: H7291
-    proximity: 0.7841
+    lemma: רָדַף
+    gloss: to run after (usually with hostile intent {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
   - strongs: H3318
-    proximity: 0.7673
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.7673 {macula-proximity}
   cross_language:
   - strongs: G3542
-    proximity: 0.8271
+    lemma: νομή
+    gloss: pasture {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G5563
-    proximity: 0.8227
+    lemma: χωρίζω
+    gloss: to place room between {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
     language: greek
   - strongs: G1831a
-    proximity: 0.8197
+    proximity: 0.8197 {macula-proximity}
     language: greek
   - strongs: G867
-    proximity: 0.8197
+    proximity: 0.8197 {macula-proximity}
     language: greek
   - strongs: G1316
-    proximity: 0.8175
+    lemma: διαχωρίζομαι
+    gloss: to remove  wholly {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

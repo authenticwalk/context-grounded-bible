@@ -6,35 +6,42 @@ pronunciation: tsor-ee'
 definition: a Tsorite or Tsorathite, i.e. inhabitants of Tsorah
 kjv_usage: Zorites, Zareathites, Zorathites.
 derivation: or צׇרְעָתִי; patrial from H6881 (צׇרְעָה);
-extended_definition:
-  gloss: Zorathite
-  definition: Someone descended from Zorath(?), first mentioned at 1Ch.2.53; also
-    called Zorite at 1Ch.2.54;  <BR> § Zorites or Zorathites, of Zorah "hornet"<br>
-    the inhabitants of Zorah<br>
-  morphology: N:N--LG
-  source: STEPBible/BDB
+extended_definition: 'Someone descended from Zorath(?), first mentioned at 1Ch.2.53;
+  also called Zorite at 1Ch.2.54;
+
+  § Zorites or Zorathites, of Zorah "hornet"
+
+  the inhabitants of Zorah {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A3879
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
   - strongs: H6678
-    proximity: 0.8091
+    lemma: צוֹבָא
+    gloss: Zoba or Zobah {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
   - strongs: H6881
-    proximity: 0.8041
+    lemma: צׇרְעָה
+    gloss: Tsorah {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
   - strongs: H4677
-    proximity: 0.8022
+    lemma: מְצֹבָיָה
+    gloss: Metsobajah {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
   cross_language:
   - strongs: G3019
-    proximity: 0.8247
+    lemma: Λευΐτης
+    gloss: a Levite {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: greek
   - strongs: G3020
-    proximity: 0.8125
+    lemma: Λευϊτικός
+    gloss: Levitic {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G1057
-    proximity: 0.7954
+    lemma: Γαλιλαῖος
+    gloss: Galilean or belonging to Galilea {openscriptures-strongs}
+    proximity: 0.7954 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,32 +5,29 @@ transliteration: Kappadokía
 definition: Cappadocia, a region of Asia Minor
 kjv_usage: Cappadocia
 derivation: of foreign origin;
-extended_definition:
-  gloss: Cappadocia
-  definition: '<b>Καππαδοκία</b>, -ας, ἡ <BR /> <b>Cappadocia, a province of Asia
-    Minor</b>: <ref=''Act.2.9''>Act.2:9</ref>, <ref=''1Pe.1.1''>1Pe.1:1</ref>.†<BR
-    /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Καππαδοκία</b>, -ας, ἡ <BR /> <b>Cappadocia, a province of Asia
-    Minor</b>: <ref=''Act.2.9''>Act.2:9</ref>, <ref=''1Pe.1.1''>1Pe.1:1</ref>.†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Καππαδοκία, -ας, ἡ
+
+  Cappadocia, a province of Asia Minor: Act.2:9, 1Pe.1:1.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Καππαδοκία, -ας, ἡ
+
+  Cappadocia, a province of Asia Minor: Act.2:9, 1Pe.1:1.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G773
-    proximity: 0.7928
+    proximity: 0.7928 {macula-proximity}
   cross_language:
   - strongs: H1850
-    proximity: 0.8284
+    lemma: דׇּפְקָה
+    gloss: Dophkah {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: hebrew
   - strongs: H7143
-    proximity: 0.8126
+    lemma: קָרֵחַ
+    gloss: Kareach {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

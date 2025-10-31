@@ -9,16 +9,19 @@ derivation: or שָׂעִר; from H8175 (שָׂעַר);
 related_words:
   synonyms:
   - strongs: H8163a
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
   - strongs: H8166
-    proximity: 0.8239
+    lemma: שְׂעִירָה
+    gloss: a she-goat {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: H6641
-    proximity: 0.8202
+    lemma: צָבוּעַ
+    gloss: dyed {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   cross_language:
   - strongs: G2682
-    proximity: 0.8289
+    lemma: κατασκήνωσις
+    gloss: an encamping {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

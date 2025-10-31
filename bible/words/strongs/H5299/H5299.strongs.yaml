@@ -9,40 +9,61 @@ derivation: from H5130 (נוּף) in the sense of lifting;
 related_words:
   synonyms:
   - strongs: H6967
-    proximity: 0.8291
+    lemma: קוֹמָה
+    gloss: height {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: H2348
-    proximity: 0.8289
+    lemma: חוֹף
+    gloss: a cove {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H4791
-    proximity: 0.8282
+    lemma: מָרוֹם
+    gloss: altitude {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H1364
-    proximity: 0.8272
+    lemma: גָּבֹהַּ
+    gloss: elevated {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: A7314
-    proximity: 0.8034
+    proximity: 0.8034 {macula-proximity}
   - strongs: H1389
-    proximity: 0.7915
+    lemma: גִּבְעָה
+    gloss: a hillock {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
   - strongs: H8510
-    proximity: 0.7687
+    lemma: תֵּל
+    gloss: a mound {openscriptures-strongs}
+    proximity: 0.7687 {macula-proximity}
   - strongs: H8205
-    proximity: 0.7677
+    lemma: שְׁפִי
+    gloss: bareness {openscriptures-strongs}
+    proximity: 0.7677 {macula-proximity}
   - strongs: H6076a
-    proximity: 0.7533
+    proximity: 0.7533 {macula-proximity}
   cross_language:
   - strongs: G5311
-    proximity: 0.8285
+    lemma: ὕψος
+    gloss: elevation {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G1015
-    proximity: 0.828
+    lemma: βουνός
+    gloss: a hillock {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G4066
-    proximity: 0.8209
+    lemma: περίχωρος
+    gloss: around the region {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
     language: greek
   - strongs: G1093
-    proximity: 0.803
+    lemma: γῆ
+    gloss: soil {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
     language: greek
   - strongs: G3735
-    proximity: 0.7914
+    lemma: ὄρος
+    gloss: perhaps akin to G142 {openscriptures-strongs}
+    proximity: 0.7914 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

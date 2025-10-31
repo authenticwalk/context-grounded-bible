@@ -6,48 +6,64 @@ pronunciation: tsaw-rab'
 definition: to burn
 kjv_usage: burn.
 derivation: a primitive root;
-extended_definition:
-  gloss: to burn
-  definition: 1) to burn, scorch<br>1a) (Niphal) to be scorched
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to burn, scorch
+
+  1a) (Niphal) to be scorched {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A3345
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
   - strongs: H7711
-    proximity: 0.8126
+    lemma: שְׁדֵפָה
+    gloss: blight {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
   - strongs: H7033
-    proximity: 0.8053
+    lemma: קָלָה
+    gloss: to toast {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H6999
-    proximity: 0.7981
+    lemma: קָטַר
+    gloss: to smoke {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
   - strongs: A1815
-    proximity: 0.7973
+    proximity: 0.7973 {macula-proximity}
   - strongs: H3341
-    proximity: 0.7853
+    lemma: יָצַת
+    gloss: to burn or set on fire {openscriptures-strongs}
+    proximity: 0.7853 {macula-proximity}
   - strongs: H3350
-    proximity: 0.7785
+    lemma: יְקוֹד
+    gloss: a burning {openscriptures-strongs}
+    proximity: 0.7785 {macula-proximity}
   - strongs: H2746
-    proximity: 0.7773
+    lemma: חַרְחֻר
+    gloss: fever {openscriptures-strongs}
+    proximity: 0.7773 {macula-proximity}
   - strongs: H5635
-    proximity: 0.775
+    lemma: סָרַף
+    gloss: to cremate {openscriptures-strongs}
+    proximity: 0.775 {macula-proximity}
   - strongs: H8316
-    proximity: 0.7733
+    lemma: שְׂרֵפָה
+    gloss: cremation {openscriptures-strongs}
+    proximity: 0.7733 {macula-proximity}
   cross_language:
   - strongs: G4448
-    proximity: 0.7752
+    lemma: πυρόω
+    gloss: to kindle {openscriptures-strongs}
+    proximity: 0.7752 {macula-proximity}
     language: greek
   - strongs: G1714a
-    proximity: 0.7735
+    proximity: 0.7735 {macula-proximity}
     language: greek
   - strongs: G1572
-    proximity: 0.7722
+    lemma: ἐκκαίω
+    gloss: to inflame deeply {openscriptures-strongs}
+    proximity: 0.7722 {macula-proximity}
     language: greek
   - strongs: G4451
-    proximity: 0.7645
+    lemma: πύρωσις
+    gloss: ignition {openscriptures-strongs}
+    proximity: 0.7645 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,48 +6,56 @@ pronunciation: yaw-gabe'
 definition: a plowed field
 kjv_usage: field.
 derivation: from H3009 (יָגַב);
-extended_definition:
-  gloss: field
-  definition: field, ploughed field
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: field, ploughed field {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7702
-    proximity: 0.8153
+    lemma: שָׂדַד
+    gloss: to abrade {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
   - strongs: H2521
-    proximity: 0.8103
+    lemma: חֶלְקַת הַצֻּרִים
+    gloss: Chelkath Hats-tsurim {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   - strongs: H406
-    proximity: 0.8085
+    proximity: 0.8085 {macula-proximity}
   - strongs: H2506
-    proximity: 0.8066
+    lemma: חֵלֶק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
   - strongs: H1250a
-    proximity: 0.7933
+    proximity: 0.7933 {macula-proximity}
   - strongs: H2790
-    proximity: 0.7901
+    lemma: חָרַשׁ
+    gloss: to scratch {openscriptures-strongs}
+    proximity: 0.7901 {macula-proximity}
   - strongs: H1367
-    proximity: 0.7868
+    lemma: גְּבוּלָה
+    gloss: a boundary {openscriptures-strongs}
+    proximity: 0.7868 {macula-proximity}
   - strongs: H776
-    proximity: 0.7751
+    proximity: 0.7751 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7715
+    proximity: 0.7715 {macula-proximity}
   - strongs: H3733a
-    proximity: 0.7672
+    proximity: 0.7672 {macula-proximity}
   cross_language:
   - strongs: G4702
-    proximity: 0.8036
+    lemma: σπόριμος
+    gloss: sown {openscriptures-strongs}
+    proximity: 0.8036 {macula-proximity}
     language: greek
   - strongs: G5528
-    proximity: 0.7952
+    lemma: χόρτος
+    gloss: a "court" or "garden" {openscriptures-strongs}
+    proximity: 0.7952 {macula-proximity}
     language: greek
   - strongs: G63
-    proximity: 0.7382
+    proximity: 0.7382 {macula-proximity}
     language: greek
   - strongs: G5561
-    proximity: 0.7052
+    lemma: χώρα
+    gloss: room {openscriptures-strongs}
+    proximity: 0.7052 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,48 +6,64 @@ pronunciation: law-khoom'
 definition: properly, eaten, i.e. food; also flesh, i.e. body
 kjv_usage: while...is eating, flesh.
 derivation: or לָחֻם; passive participle of H3898 (לָחַם);
-extended_definition:
-  gloss: intestine
-  definition: 1) intestines, bowels<br>1a) meaning uncertain<br>2) (CLBL) food, something
-    eaten
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) intestines, bowels
+
+  1a) meaning uncertain
+
+  2) (CLBL) food, something eaten {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7419
-    proximity: 0.8171
+    lemma: רָמוּת
+    gloss: a heap {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: H6718a
-    proximity: 0.8136
+    proximity: 0.8136 {macula-proximity}
   - strongs: H1267
-    proximity: 0.806
+    lemma: בָּרוּת
+    gloss: food {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
   - strongs: H3978
-    proximity: 0.8036
+    lemma: מַאֲכָל
+    gloss: an eatable (includ. provender {openscriptures-strongs}
+    proximity: 0.8036 {macula-proximity}
   - strongs: H7607
-    proximity: 0.8019
+    lemma: שְׁאֵר
+    gloss: flesh {openscriptures-strongs}
+    proximity: 0.8019 {macula-proximity}
   - strongs: A1321
-    proximity: 0.8011
+    proximity: 0.8011 {macula-proximity}
   - strongs: H3899
-    proximity: 0.7927
+    lemma: לֶחֶם
+    gloss: food {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
   - strongs: H5398
-    proximity: 0.7898
+    lemma: נָשַׁף
+    gloss: to breeze {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
   cross_language:
   - strongs: G4560
-    proximity: 0.8271
+    lemma: σάρκινος
+    gloss: similar to flesh {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G4154
-    proximity: 0.8208
+    lemma: πνέω
+    gloss: to breathe hard {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G4984
-    proximity: 0.8106
+    lemma: σωματικός
+    gloss: corporeal or physical {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: greek
   - strongs: G347
-    proximity: 0.8104
+    proximity: 0.8104 {macula-proximity}
     language: greek
   - strongs: G5176
-    proximity: 0.8017
+    lemma: τρώγω
+    gloss: or perhaps rather of a base of G5167  and G5149  through the idea of a
+      craunching sound {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

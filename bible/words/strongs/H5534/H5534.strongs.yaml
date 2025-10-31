@@ -6,47 +6,56 @@ pronunciation: saw-kar'
 definition: to shut up; by implication, to surrender
 kjv_usage: stop, give over. See also H5462 (סָגַר), H7936 (שָׂכַר).
 derivation: a primitive root;
-extended_definition:
-  gloss: to stop
-  definition: 1) to shut up, stop up<br>1a) (Niphal) to be stopped, be shut up<br>1b)
-    (Piel) to shut up, give over
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to shut up, stop up
+
+  1a) (Niphal) to be stopped, be shut up
+
+  1b) (Piel) to shut up, give over {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5462a
-    proximity: 0.8122
+    proximity: 0.8122 {macula-proximity}
   - strongs: H2902a
-    proximity: 0.8013
+    proximity: 0.8013 {macula-proximity}
   - strongs: H1479
-    proximity: 0.7732
+    lemma: גּוּף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7732 {macula-proximity}
   - strongs: H6113
-    proximity: 0.7611
+    lemma: עָצָר
+    gloss: to inclose {openscriptures-strongs}
+    proximity: 0.7611 {macula-proximity}
   - strongs: H5462
-    proximity: 0.7464
+    lemma: סָגַר
+    gloss: to shut up {openscriptures-strongs}
+    proximity: 0.7464 {macula-proximity}
   - strongs: H332
-    proximity: 0.7251
+    proximity: 0.7251 {macula-proximity}
   - strongs: H7092
-    proximity: 0.7197
+    lemma: קָפַץ
+    gloss: to draw together {openscriptures-strongs}
+    proximity: 0.7197 {macula-proximity}
   - strongs: H5640a
-    proximity: 0.7156
+    proximity: 0.7156 {macula-proximity}
   - strongs: A5463
-    proximity: 0.7025
+    proximity: 0.7025 {macula-proximity}
   cross_language:
   - strongs: G1254
-    proximity: 0.8297
+    lemma: διακωλύω
+    gloss: to hinder altogether {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G1257
-    proximity: 0.8011
+    lemma: διαλείπω
+    gloss: to leave off in the middle {openscriptures-strongs}
+    proximity: 0.8011 {macula-proximity}
     language: greek
   - strongs: G5392
-    proximity: 0.7523
+    lemma: φιμόω
+    gloss: to muzzle {openscriptures-strongs}
+    proximity: 0.7523 {macula-proximity}
     language: greek
   - strongs: G608
-    proximity: 0.7069
+    proximity: 0.7069 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

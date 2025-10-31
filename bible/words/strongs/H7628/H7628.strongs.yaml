@@ -10,33 +10,44 @@ derivation: from H7618 (שְׁבוּ);
 related_words:
   synonyms:
   - strongs: H7998
-    proximity: 0.8269
+    lemma: שָׁלָל
+    gloss: booty {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: H5706
-    proximity: 0.8197
+    lemma: עַד
+    gloss: booty {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
   - strongs: H8155
-    proximity: 0.8174
+    lemma: שָׁסַס
+    gloss: to plunder {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
   - strongs: H961
-    proximity: 0.8173
+    proximity: 0.8173 {macula-proximity}
   - strongs: H631
-    proximity: 0.8134
+    proximity: 0.8134 {macula-proximity}
   - strongs: H957
-    proximity: 0.8083
+    proximity: 0.8083 {macula-proximity}
   - strongs: H8154
-    proximity: 0.7985
+    lemma: שָׁסָה
+    gloss: to plunder {openscriptures-strongs}
+    proximity: 0.7985 {macula-proximity}
   - strongs: H5090
-    proximity: 0.7723
+    lemma: נָהַג
+    gloss: to drive forth (a person {openscriptures-strongs}
+    proximity: 0.7723 {macula-proximity}
   - strongs: H962
-    proximity: 0.7656
+    proximity: 0.7656 {macula-proximity}
   - strongs: H4933
-    proximity: 0.755
+    lemma: מְשִׁסָּה
+    gloss: plunder {openscriptures-strongs}
+    proximity: 0.755 {macula-proximity}
   cross_language:
   - strongs: G522
-    proximity: 0.8172
+    proximity: 0.8172 {macula-proximity}
     language: greek
   - strongs: G3880
-    proximity: 0.8162
+    lemma: παραλαμβάνω
+    gloss: to receive near {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

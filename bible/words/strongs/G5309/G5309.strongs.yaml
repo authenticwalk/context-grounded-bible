@@ -5,46 +5,56 @@ transliteration: hypsēlophronéō
 definition: to be lofty in mind, i.e. arrogant
 kjv_usage: be highminded
 derivation: from a compound of G5308 (ὑψηλός) and G5424 (φρήν);
-extended_definition:
-  gloss: be arrogant
-  definition: '<b>ὑψηλο- φρονέω</b>, -ῶ <BR /> = μευαλοφρονεῖν (Xen., Plat., al.),
-    <BR /><b>to be high-minded</b>: <ref=''1Ti.6.17''>1Ti.6:17</ref> (WH, mg., ὑψηλὰ,
-    φρονεῖν).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ὑψηλο-φρονέω</b>, <br /> <b>to be high-minded,</b> [<a href="javascript:void(0)"
-    title="NT.Rom.11.20, NT.1Tim.6.17. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ὑψηλο- φρονέω, -ῶ
+
+  = μευαλοφρονεῖν (Xen., Plat., al.),
+
+  to be high-minded: 1Ti.6:17 (WH, mg., ὑψηλὰ, φρονεῖν).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὑψηλο-φρονέω,
+
+  to be high-minded, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5246
-    proximity: 0.8275
+    lemma: ὑπέρογκος
+    gloss: bulging over {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: G829
-    proximity: 0.8187
+    proximity: 0.8187 {macula-proximity}
   - strongs: G5244
-    proximity: 0.8058
+    lemma: ὑπερήφανος
+    gloss: appearing above others {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: G5426
-    proximity: 0.8002
+    lemma: φρονέω
+    gloss: to exercise the mind {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   cross_language:
   - strongs: H3267
-    proximity: 0.8244
+    lemma: יָעַז
+    gloss: to be bold or obstinate {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: hebrew
   - strongs: H4791
-    proximity: 0.8235
+    lemma: מָרוֹם
+    gloss: altitude {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: hebrew
   - strongs: H3820
-    proximity: 0.8216
+    lemma: לֵב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
     language: hebrew
   - strongs: H3824
-    proximity: 0.8179
+    lemma: לֵבָב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
     language: hebrew
   - strongs: H1347
-    proximity: 0.8166
+    lemma: גָּאוֹן
+    gloss: '{arrogance or majesty {openscriptures-strongs}'
+    proximity: 0.8166 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

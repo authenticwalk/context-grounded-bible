@@ -7,36 +7,45 @@ definition: a stream (including the sea; expectation the Nile, Euphrates, etc.);
   prosperity
 kjv_usage: flood, river.
 derivation: from H5102 (נָהַר);
-extended_definition:
-  gloss: river
-  definition: '1) stream, river<br>1a) stream, river<br>1b) (underground) streams<BR>Aramaic
-    equivalent: <i>ne.har</i> (נְהַר "river" H5103H)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) stream, river
+
+  1a) stream, river
+
+  1b) (underground) streams
+
+  Aramaic equivalent: ne.har (נְהַר "river" H5103H) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1415
-    proximity: 0.821
+    lemma: גָּדָה
+    gloss: a border of a river {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
   - strongs: H7641a
-    proximity: 0.8069
+    proximity: 0.8069 {macula-proximity}
   - strongs: A5675
-    proximity: 0.8017
+    proximity: 0.8017 {macula-proximity}
   - strongs: H2988
-    proximity: 0.7941
+    lemma: יָבָל
+    gloss: a stream {openscriptures-strongs}
+    proximity: 0.7941 {macula-proximity}
   - strongs: H6390
-    proximity: 0.7678
+    lemma: פְּלַגָּה
+    gloss: a runlet {openscriptures-strongs}
+    proximity: 0.7678 {macula-proximity}
   - strongs: A1886g
-    proximity: 0.7527
+    proximity: 0.7527 {macula-proximity}
   - strongs: H3220
-    proximity: 0.7459
+    lemma: יָם
+    gloss: a sea  or large body of water {openscriptures-strongs}
+    proximity: 0.7459 {macula-proximity}
   - strongs: H3999
-    proximity: 0.7234
+    lemma: מַבּוּל
+    gloss: a deluge {openscriptures-strongs}
+    proximity: 0.7234 {macula-proximity}
   cross_language:
   - strongs: G5204
-    proximity: 0.7415
+    lemma: ὕδωρ
+    gloss: water  literally or figuratively {openscriptures-strongs}
+    proximity: 0.7415 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

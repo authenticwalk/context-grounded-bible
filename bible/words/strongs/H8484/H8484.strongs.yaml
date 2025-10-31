@@ -6,49 +6,57 @@ pronunciation: tee-kone'
 definition: central
 kjv_usage: middle(-most), midst.
 derivation: or תִּיכֹן; from H8432 (תָּוֶךְ);
-extended_definition:
-  gloss: middle
-  definition: middle
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: middle {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H996
-    proximity: 0.8203
+    proximity: 0.8203 {macula-proximity}
   - strongs: A997
-    proximity: 0.8118
+    proximity: 0.8118 {macula-proximity}
   - strongs: H7130
-    proximity: 0.7809
+    lemma: קֶרֶב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7809 {macula-proximity}
   - strongs: H821
-    proximity: 0.7619
+    proximity: 0.7619 {macula-proximity}
   - strongs: H2677
-    proximity: 0.7588
+    lemma: חֵצִי
+    gloss: the half or middle {openscriptures-strongs}
+    proximity: 0.7588 {macula-proximity}
   - strongs: A8578
-    proximity: 0.7422
+    proximity: 0.7422 {macula-proximity}
   - strongs: H380
-    proximity: 0.7355
+    proximity: 0.7355 {macula-proximity}
   - strongs: H8145
-    proximity: 0.7269
+    lemma: שֵׁנִי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7269 {macula-proximity}
   - strongs: H1824a
-    proximity: 0.7116
+    proximity: 0.7116 {macula-proximity}
   cross_language:
   - strongs: G3342
-    proximity: 0.824
+    lemma: μεταξύ
+    gloss: betwixt {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: greek
   - strongs: G1836
-    proximity: 0.819
+    lemma: ἑξῆς
+    gloss: successive {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
     language: greek
   - strongs: G3320
-    proximity: 0.8174
+    lemma: μεσότοιχον
+    gloss: a partition {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
     language: greek
   - strongs: G1787
-    proximity: 0.8095
+    lemma: ἐντός
+    gloss: inside {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
     language: greek
   - strongs: G3317
-    proximity: 0.7529
+    lemma: μεσονύκτιον
+    gloss: midnight {openscriptures-strongs}
+    proximity: 0.7529 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

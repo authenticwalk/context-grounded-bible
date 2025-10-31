@@ -6,42 +6,54 @@ pronunciation: meh-ee'
 definition: a pile of rubbish (as contorted), i.e. a ruin
 kjv_usage: heap.
 derivation: from H5753 (עָוָה); (compare H5856 (עִי))
-extended_definition:
-  gloss: heap
-  definition: ruin, heap
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ruin, heap {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2563
-    proximity: 0.8285
+    lemma: חֹמֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: H6651
-    proximity: 0.8224
+    lemma: צָבַר
+    gloss: to aggregate {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
   - strongs: H5550
-    proximity: 0.8086
+    lemma: סֹלְלָה
+    gloss: a military mound {openscriptures-strongs}
+    proximity: 0.8086 {macula-proximity}
   - strongs: H2723
-    proximity: 0.7963
+    lemma: חׇרְבָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7963 {macula-proximity}
   - strongs: H4632
-    proximity: 0.7852
+    lemma: מְעָרָה
+    gloss: Mearah {openscriptures-strongs}
+    proximity: 0.7852 {macula-proximity}
   - strongs: H830
-    proximity: 0.7804
+    proximity: 0.7804 {macula-proximity}
   - strongs: H8077a
-    proximity: 0.7722
+    proximity: 0.7722 {macula-proximity}
   - strongs: H2846
-    proximity: 0.7667
+    lemma: חָתָה
+    gloss: to lay hold of {openscriptures-strongs}
+    proximity: 0.7667 {macula-proximity}
   - strongs: H5067
-    proximity: 0.7576
+    lemma: נֵד
+    gloss: a mound {openscriptures-strongs}
+    proximity: 0.7576 {macula-proximity}
   - strongs: H6192
-    proximity: 0.7439
+    lemma: עָרַם
+    gloss: to pile up {openscriptures-strongs}
+    proximity: 0.7439 {macula-proximity}
   cross_language:
   - strongs: G2679
-    proximity: 0.8013
+    lemma: κατασκάπτω
+    gloss: to undermine {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
     language: greek
   - strongs: G4987
-    proximity: 0.7391
+    lemma: σωρεύω
+    gloss: to pile up {openscriptures-strongs}
+    proximity: 0.7391 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

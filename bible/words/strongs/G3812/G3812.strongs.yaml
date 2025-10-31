@@ -5,48 +5,64 @@ transliteration: paidióthen
 definition: from infancy
 kjv_usage: of a child
 derivation: adverb (of source) from G3813 (παιδίον);
-extended_definition:
-  gloss: from childhood
-  definition: '<b>παιδιόθεν</b><BR /> (παιδίον), <BR /> <i>adv.</i>, [in LXX: <ref=''Gen.47.3''>Gen.47:3</ref>
-    * ;] <BR />= cl. ἐκ παιδός, παιδίον, <b>from childhood</b>: <ref=''Mrk.9.21.''>Mrk.9:21.</ref>†<BR
-    /> (AS)'
-  morphology: G:ADV
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> παιδι-όθεν</b>, <br /> <i>adverb</i> <b>from a child</b>, ἐκ
-    π. [<a href="javascript:void(0)" title=" LXX.Gen.47.3, NT.Mark.9.21. ">LXX+NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'παιδιόθεν
+
+  (παιδίον),
+
+  adv., [in LXX: Gen.47:3 * ;]
+
+  = cl. ἐκ παιδός, παιδίον, from childhood: Mrk.9:21.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'παιδι-όθεν,
+
+  adverb from a child, ἐκ π. [LXX+NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3816
-    proximity: 0.8272
+    lemma: παῖς
+    gloss: a boy {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: G5040
-    proximity: 0.8194
+    lemma: τεκνίον
+    gloss: an infant {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: G3503
-    proximity: 0.7486
+    lemma: νεότης
+    gloss: newness {openscriptures-strongs}
+    proximity: 0.7486 {macula-proximity}
   - strongs: G3813
-    proximity: 0.7346
+    lemma: παιδίον
+    gloss: a childling {openscriptures-strongs}
+    proximity: 0.7346 {macula-proximity}
   - strongs: G3516
-    proximity: 0.7297
+    lemma: νήπιος
+    gloss: not speaking {openscriptures-strongs}
+    proximity: 0.7297 {macula-proximity}
   cross_language:
   - strongs: H3208
-    proximity: 0.8283
+    lemma: יַלְדוּת
+    gloss: boyhood {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
     language: hebrew
   - strongs: H5288
-    proximity: 0.8257
+    lemma: נַעַר
+    gloss: a boy {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: hebrew
   - strongs: H6810
-    proximity: 0.8248
+    lemma: צָעִיר
+    gloss: little {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: hebrew
   - strongs: H3206
-    proximity: 0.8209
+    lemma: יֶלֶד
+    gloss: something born {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
     language: hebrew
   - strongs: H3207
-    proximity: 0.8158
+    lemma: יַלְדָּה
+    gloss: a lass {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

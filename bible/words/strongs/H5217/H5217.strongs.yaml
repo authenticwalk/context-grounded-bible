@@ -6,47 +6,59 @@ pronunciation: naw-kaw'
 definition: to smite, i.e. drive away
 kjv_usage: be viler.
 derivation: a primitive root;
-extended_definition:
-  gloss: to whip
-  definition: (Niph) to strike, scourge, smite
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Niph) to strike, scourge, smite {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1644a
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
   - strongs: H413
-    proximity: 0.8181
+    proximity: 0.8181 {macula-proximity}
   - strongs: H7971
-    proximity: 0.8126
+    lemma: שָׁלַח
+    gloss: to send away {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
   - strongs: H7752
-    proximity: 0.812
+    lemma: שׁוֹט
+    gloss: a lash {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: H5086
-    proximity: 0.803
+    lemma: נָדַף
+    gloss: to shove asunder {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
   - strongs: H3423
-    proximity: 0.7964
+    lemma: יָרַשׁ
+    gloss: to occupy (by driving out previous tenants {openscriptures-strongs}
+    proximity: 0.7964 {macula-proximity}
   - strongs: H1972
-    proximity: 0.7904
+    lemma: הָלָא
+    gloss: to remove or be remote {openscriptures-strongs}
+    proximity: 0.7904 {macula-proximity}
   - strongs: H7850
-    proximity: 0.7869
+    lemma: שֹׁטֵט
+    gloss: to flog {openscriptures-strongs}
+    proximity: 0.7869 {macula-proximity}
   cross_language:
   - strongs: G1643
-    proximity: 0.8284
+    lemma: ἐλαύνω
+    gloss: to push (as wind {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: greek
   - strongs: G642
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G1633
-    proximity: 0.8103
+    lemma: ἐκχωρέω
+    gloss: to depart {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
     language: greek
   - strongs: G5277
-    proximity: 0.8091
+    lemma: ὑπολιμπάνω
+    gloss: to leave behind {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
     language: greek
   - strongs: G5416
-    proximity: 0.808
+    lemma: φραγέλλιον
+    gloss: a whip {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

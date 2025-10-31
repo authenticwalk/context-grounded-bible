@@ -7,25 +7,25 @@ definition: to flog; a goad
 kjv_usage: scourge.
 derivation: active participle of an otherwise unused root meaning (properly, to pierce;
   but only as a denominative from H7752 (שׁוֹט))
-extended_definition:
-  gloss: scourge
-  definition: scourge
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: scourge {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5217
-    proximity: 0.7869
+    lemma: נָכָא
+    gloss: to smite {openscriptures-strongs}
+    proximity: 0.7869 {macula-proximity}
   - strongs: H5061
-    proximity: 0.7746
+    lemma: נֶגַע
+    gloss: a blow (figuratively {openscriptures-strongs}
+    proximity: 0.7746 {macula-proximity}
   - strongs: H6137
-    proximity: 0.7022
+    lemma: עַקְרָב
+    gloss: a scorpion {openscriptures-strongs}
+    proximity: 0.7022 {macula-proximity}
   cross_language:
   - strongs: G5417
-    proximity: 0.7219
+    lemma: φραγελλόω
+    gloss: to whip {openscriptures-strongs}
+    proximity: 0.7219 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

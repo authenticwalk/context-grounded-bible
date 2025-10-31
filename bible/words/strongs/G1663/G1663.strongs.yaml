@@ -5,42 +5,40 @@ transliteration: Eliézer
 definition: Eliezer, an Israelite
 kjv_usage: Eliezer
 derivation: of Hebrew origin (H0461);
-extended_definition:
-  gloss: Eliezer
-  definition: '<b>Ἐλιέζερ</b>(Heb. אֱלִיעֶזֶר), ὁ, indecl., <BR /> <b>Eliezer, an
-    ancestor of Jesus</b>: <ref=''Luk.3.29.''>Luk.3:29.</ref>†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἐλιέζερ</b>(Heb. אֱלִיעֶזֶר), ὁ, indecl., <BR /> <b>Eliezer,
-    an ancestor of Jesus</b>: <ref=''Luk.3.29.''>Luk.3:29.</ref>†<BR />  (From Abbott-Smith.
-    LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἐλιέζερ(Heb. אֱלִיעֶזֶר), ὁ, indecl.,
+
+  Eliezer, an ancestor of Jesus: Luk.3:29.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἐλιέζερ(Heb. אֱלִיעֶזֶר), ὁ, indecl.,
+
+  Eliezer, an ancestor of Jesus: Luk.3:29.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1056
-    proximity: 0.8209
+    lemma: Γαλιλαία
+    gloss: Galilæa {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: G2437
-    proximity: 0.8206
+    lemma: Ἰλλυρικόν
+    gloss: Illyrican {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   cross_language:
   - strongs: H468
-    proximity: 0.8274
+    proximity: 0.8274 {macula-proximity}
     language: hebrew
   - strongs: H478
-    proximity: 0.8271
+    proximity: 0.8271 {macula-proximity}
     language: hebrew
   - strongs: H464
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
     language: hebrew
   - strongs: H472
-    proximity: 0.8259
+    proximity: 0.8259 {macula-proximity}
     language: hebrew
   - strongs: H465
-    proximity: 0.8259
+    proximity: 0.8259 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

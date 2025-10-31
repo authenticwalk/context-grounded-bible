@@ -5,44 +5,55 @@ transliteration: Iōsḗ
 definition: Jose, an Israelite
 kjv_usage: Jose
 derivation: genitive case of G2500 (Ἰωσῆς);
-extended_definition:
-  gloss: Jose
-  definition: '<b>Ἰωσή</b>, see: Ἰωσῆς -  -ῆ (Rec. -ή <ref=''Luk.3.29''>Luk.3:29;</ref>
-    AV, Jose; see: Ἰησοῦς, 3), and -ῆτος (Mk, ll with), ὁ, <BR /> <b>Joses</b>; <BR
-    />__1. <b>brother of our Lord</b>: <ref=''Mrk.6.3''>Mrk.6:3</ref>, <ref=''Mat.13.55''>Mat.13:55</ref>
-    (Rec., see: Ἰωσήφ). <BR /> __2. <b>Son of Mary</b>: <ref=''Mat.27.56''>Mat.27:56</ref>
-    (-σήφ), WH, txt), <ref=''Mrk.15.40, 47''>Mrk.15:40, 47</ref> <BR /> __3. see:
-    Βαρνάβας.†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἰωσή</b>, see: Ἰωσῆς -  -ῆ (Rec. -ή <ref=''Luk.3.29''>Luk.3:29;</ref>
-    AV, Jose; see: Ἰησοῦς, 3), and -ῆτος (Mk, ll with), ὁ, <BR /> <b>Joses</b>; <BR
-    />__1. <b>brother of our Lord</b>: <ref=''Mrk.6.3''>Mrk.6:3</ref>, <ref=''Mat.13.55''>Mat.13:55</ref>
-    (Rec., see: Ἰωσήφ). <BR /> __2. <b>Son of Mary</b>: <ref=''Mat.27.56''>Mat.27:56</ref>
-    (-σήφ), WH, txt), <ref=''Mrk.15.40, 47''>Mrk.15:40, 47</ref> <BR /> __3. see:
-    Βαρνάβας.†<BR />   (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἰωσή, see: Ἰωσῆς -  -ῆ (Rec. -ή Luk.3:29; AV, Jose; see: Ἰησοῦς,
+  3), and -ῆτος (Mk, ll with), ὁ,
+
+  Joses;
+
+  __1. brother of our Lord: Mrk.6:3, Mat.13:55 (Rec., see: Ἰωσήφ).
+
+  __2. Son of Mary: Mat.27:56 (-σήφ), WH, txt), Mrk.15:40, 47
+
+  __3. see: Βαρνάβας.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἰωσή, see: Ἰωσῆς -  -ῆ (Rec. -ή Luk.3:29; AV, Jose; see: Ἰησοῦς, 3), and
+  -ῆτος (Mk, ll with), ὁ,
+
+  Joses;
+
+  __1. brother of our Lord: Mrk.6:3, Mat.13:55 (Rec., see: Ἰωσήφ).
+
+  __2. Son of Mary: Mat.27:56 (-σήφ), WH, txt), Mrk.15:40, 47
+
+  __3. see: Βαρνάβας.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2424
-    proximity: 0.7785
+    lemma: Ἰησοῦς
+    gloss: Jesus {openscriptures-strongs}
+    proximity: 0.7785 {macula-proximity}
   cross_language:
   - strongs: H3086
-    proximity: 0.8281
+    lemma: יְהוֹעַדִּין
+    gloss: Jehoaddin or Jehoaddan {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: hebrew
   - strongs: H3131
-    proximity: 0.8214
+    lemma: יוֹסִפְיָה
+    gloss: Josiphjah {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
     language: hebrew
   - strongs: H1954
-    proximity: 0.7959
+    lemma: הוֹשֵׁעַ
+    gloss: Hoshea {openscriptures-strongs}
+    proximity: 0.7959 {macula-proximity}
     language: hebrew
   - strongs: H3442
-    proximity: 0.7093
+    lemma: יֵשׁוּעַ
+    gloss: Jeshua {openscriptures-strongs}
+    proximity: 0.7093 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,45 +6,49 @@ pronunciation: har-ee-sooth'
 definition: demolition
 kjv_usage: destruction.
 derivation: from H2040 (הָרַס);
-extended_definition:
-  gloss: ruins
-  definition: destruction, ruin, overthrow
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: destruction, ruin, overthrow {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5754
-    proximity: 0.8292
+    lemma: עַוָּה
+    gloss: overthrow {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: H7111
-    proximity: 0.8244
+    lemma: קְצָפָה
+    gloss: a fragment {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: H7489a
-    proximity: 0.8237
+    proximity: 0.8237 {macula-proximity}
   - strongs: H11
-    proximity: 0.8203
+    proximity: 0.8203 {macula-proximity}
   - strongs: H2256b
-    proximity: 0.8191
+    proximity: 0.8191 {macula-proximity}
   - strongs: H8
-    proximity: 0.8186
+    proximity: 0.8186 {macula-proximity}
   - strongs: H4632
-    proximity: 0.8184
+    lemma: מְעָרָה
+    gloss: Mearah {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   - strongs: H8047
-    proximity: 0.8184
+    lemma: שַׁמָּה
+    gloss: ruin {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   - strongs: H4654a
-    proximity: 0.8162
+    proximity: 0.8162 {macula-proximity}
   - strongs: H8663a
-    proximity: 0.8081
+    proximity: 0.8081 {macula-proximity}
   cross_language:
   - strongs: G3089
-    proximity: 0.82
+    lemma: λύω
+    gloss: to "loosen" {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
   - strongs: G2692
-    proximity: 0.8169
+    lemma: καταστροφή
+    gloss: an overturn {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
     language: greek
   - strongs: G115
-    proximity: 0.8084
+    proximity: 0.8084 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

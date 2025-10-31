@@ -5,42 +5,38 @@ transliteration: tephróō
 definition: to incinerate, i.e. consume
 kjv_usage: turn to ashes
 derivation: from (ashes);
-extended_definition:
-  gloss: to turn to ashes
-  definition: '<b>τεφρόω</b>, -ῶ<BR /> (τέφρα, ashes; <ref=''Wis.2.3''>Wis.2:3</ref>,
-    al.), <BR /><b>to burn to ashes</b>: <ref=''2Pe.2.6.''>2Pe.2:6.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> τεφρ-όω</b>, <br /> <b>burn to ashes</b>, [<a href="javascript:void(0)"
-    title=" 3rd c.BC: Lycophron Tragicus 227; πόλεις NT.2Pet.2.6 ">NT+3rd c.BC+</a>]:—<i>middle</i>,
-    [<a href="javascript:void(0)" title=" 2nd c.BC: Nicander Epicus “Alexipharmaca”
-    534 ">Refs 2nd c.BC+</a>]:—<i>passive</i>, <b>to be burnt to ashes</b>, [<a href="javascript:void(0)"
-    title=" 4th-3rd c.BC: Theophrastus Philosophus “de Igne” 20, “Anthologia Graeca”
-    5.187 (1st c.AD: Leonidas Alexandrinus Epigrammaticus)">Refs 4th c.BC+</a>]; <b>to
-    be covered with ashes</b>, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD:
-    Dio Cassius Historicus 66.21. ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'τεφρόω, -ῶ
+
+  (τέφρα, ashes; Wis.2:3, al.),
+
+  to burn to ashes: 2Pe.2:6.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'τεφρ-όω,
+
+  burn to ashes, [NT+3rd c.BC+]:—middle, [Refs 2nd c.BC+]:—passive, to be burnt to
+  ashes, [Refs 4th c.BC+]; to be covered with ashes, [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4700
-    proximity: 0.7229
+    lemma: σποδός
+    gloss: ashes {openscriptures-strongs}
+    proximity: 0.7229 {macula-proximity}
   cross_language:
   - strongs: H10a
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
     language: hebrew
   - strongs: H1880
-    proximity: 0.8029
+    lemma: דֶּשֶׁן
+    gloss: the fat {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
     language: hebrew
   - strongs: H8399
-    proximity: 0.7939
+    lemma: תַּבְלִית
+    gloss: consumption {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
     language: hebrew
   - strongs: H13
-    proximity: 0.7939
+    proximity: 0.7939 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

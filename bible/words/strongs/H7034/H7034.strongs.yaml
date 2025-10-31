@@ -7,49 +7,62 @@ definition: to be light (as implied in rapid motion), but figuratively, only (be
   hold) in contempt)
 kjv_usage: base, contemn, despise, lightly esteem, set light, seem vile.
 derivation: a primitive root;
-extended_definition:
-  gloss: to dishonor
-  definition: 1) to disgrace, dishonour, be lightly esteemed, be dishonoured, be despised<br>1a)
-    (Niphal) to be dishonoured, be despised, be lightly esteemed<br>1b) (Hiphil) to
-    treat with contempt, dishonour, treat shamefully
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to disgrace, dishonour, be lightly esteemed, be dishonoured,
+  be despised
+
+  1a) (Niphal) to be dishonoured, be despised, be lightly esteemed
+
+  1b) (Hiphil) to treat with contempt, dishonour, treat shamefully {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3988
-    proximity: 0.8298
+    lemma: מָאַס
+    gloss: to spurn {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: H3639
-    proximity: 0.8217
+    lemma: כְּלִמָּה
+    gloss: disgrace {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
   - strongs: H2781
-    proximity: 0.8179
+    lemma: חֶרְפָּה
+    gloss: contumely {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
   - strongs: A8215
-    proximity: 0.8127
+    proximity: 0.8127 {macula-proximity}
   - strongs: H2151
-    proximity: 0.7926
+    lemma: זָלַל
+    gloss: to shake {openscriptures-strongs}
+    proximity: 0.7926 {macula-proximity}
   - strongs: H8217
-    proximity: 0.7795
+    lemma: שָׁפָל
+    gloss: depressed {openscriptures-strongs}
+    proximity: 0.7795 {macula-proximity}
   - strongs: H7590a
-    proximity: 0.7713
+    proximity: 0.7713 {macula-proximity}
   - strongs: H7036
-    proximity: 0.7686
+    lemma: קָלוֹן
+    gloss: disgrace {openscriptures-strongs}
+    proximity: 0.7686 {macula-proximity}
   cross_language:
   - strongs: G1796
-    proximity: 0.8073
+    lemma: ἐνυβρίζω
+    gloss: to insult {openscriptures-strongs}
+    proximity: 0.8073 {macula-proximity}
     language: greek
   - strongs: G3456
-    proximity: 0.7979
+    lemma: μυκτηρίζω
+    gloss: to make mouths at {openscriptures-strongs}
+    proximity: 0.7979 {macula-proximity}
     language: greek
   - strongs: G557
-    proximity: 0.791
+    proximity: 0.791 {macula-proximity}
     language: greek
   - strongs: G36
-    proximity: 0.781
+    proximity: 0.781 {macula-proximity}
     language: greek
   - strongs: G5195
-    proximity: 0.7678
+    lemma: ὑβρίζω
+    gloss: to exercise violence {openscriptures-strongs}
+    proximity: 0.7678 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

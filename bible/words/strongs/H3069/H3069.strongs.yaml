@@ -8,39 +8,42 @@ kjv_usage: God.
 derivation: a variation of H3068 (יְהֹוָה) (used after H136 (אֲדֹנָי), and pronounced
   by Jews as H430 (אֱלֹהִים), in order to prevent the repetition of the same sound,
   since they elsewhere pronounce H3068 (יְהֹוָה) as H136 (אֲדֹנָי))
-extended_definition:
-  gloss: YHWH/God
-  definition: 1) Jehovah-used primarily in the combination 'Lord Jehovah'<br>1a) equal
-    to <i>ye.ho.vah</i> (יהוה "LORD" H3068) but pointed with the vowels of <i>e.lo.him</i>
-    (אֱלֹהִים "God" H0430)
-  morphology: N:N-M-T
-  source: STEPBible/BDB
+extended_definition: '1) Jehovah-used primarily in the combination ''Lord Jehovah''
+
+  1a) equal to ye.ho.vah (יהוה "LORD" H3068) but pointed with the vowels of e.lo.him
+  (אֱלֹהִים "God" H0430) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5945a
-    proximity: 0.7711
+    proximity: 0.7711 {macula-proximity}
   - strongs: H2967a
-    proximity: 0.7653
+    proximity: 0.7653 {macula-proximity}
   - strongs: A5943
-    proximity: 0.7627
+    proximity: 0.7627 {macula-proximity}
   cross_language:
   - strongs: G5310
-    proximity: 0.8285
+    lemma: ὕψιστος
+    gloss: highest {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G2312
-    proximity: 0.8037
+    lemma: θεοδίδακτος
+    gloss: divinely instructed {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
     language: greek
   - strongs: G2315
-    proximity: 0.798
+    lemma: θεόπνευστος
+    gloss: divinely breathed in {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
     language: greek
   - strongs: G2314
-    proximity: 0.798
+    lemma: θεομάχος
+    gloss: an opponent of deity {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
     language: greek
   - strongs: G2319
-    proximity: 0.795
+    lemma: θεοστυγής
+    gloss: hateful to God {openscriptures-strongs}
+    proximity: 0.795 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

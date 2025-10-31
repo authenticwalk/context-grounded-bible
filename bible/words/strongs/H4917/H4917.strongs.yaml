@@ -7,46 +7,61 @@ definition: a mission, i.e. (abstractly and favorable) release, or (concretely a
   unfavorable) an army
 kjv_usage: discharge, sending.
 derivation: feminine of H4916 (מִשְׁלוֹחַ);
-extended_definition:
-  gloss: deputation
-  definition: 1) discharge, sending, sending away, deputation<br>1a) discharge<br>1b)
-    deputation
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) discharge, sending, sending away, deputation
+
+  1a) discharge
+
+  1b) deputation {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1272
-    proximity: 0.8292
+    lemma: בָּרַח
+    gloss: to bolt {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: A4291
-    proximity: 0.8254
+    proximity: 0.8254 {macula-proximity}
   - strongs: H2101
-    proximity: 0.8222
+    lemma: זוֹב
+    gloss: a seminal or menstrual flux {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H579
-    proximity: 0.8001
+    proximity: 0.8001 {macula-proximity}
   - strongs: H4499
-    proximity: 0.7841
+    lemma: מְנוּסָה
+    gloss: retreat {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
   - strongs: H2838
-    proximity: 0.7567
+    lemma: חָשֻׁק
+    gloss: attached {openscriptures-strongs}
+    proximity: 0.7567 {macula-proximity}
   - strongs: H3862
-    proximity: 0.7138
+    lemma: לַהֲקָה
+    gloss: an assembly {openscriptures-strongs}
+    proximity: 0.7138 {macula-proximity}
   cross_language:
   - strongs: G2240
-    proximity: 0.8171
+    lemma: ἥκω
+    gloss: to arrive {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
     language: greek
   - strongs: G1628
-    proximity: 0.8029
+    lemma: ἐκφεύγω
+    gloss: to flee out {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
     language: greek
   - strongs: G1968
-    proximity: 0.7933
+    lemma: ἐπιπίπτω
+    gloss: to embrace  or seize (with more or less violence {openscriptures-strongs}
+    proximity: 0.7933 {macula-proximity}
     language: greek
   - strongs: G4237
-    proximity: 0.7562
+    lemma: πρασιά
+    gloss: a garden plot {openscriptures-strongs}
+    proximity: 0.7562 {macula-proximity}
     language: greek
   - strongs: G5348
-    proximity: 0.7441
+    lemma: φθάνω
+    gloss: to be beforehand {openscriptures-strongs}
+    proximity: 0.7441 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

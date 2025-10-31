@@ -6,21 +6,19 @@ pronunciation: kore
 definition: cold
 kjv_usage: cold.
 derivation: from the same as H7119 (קַר);
-extended_definition:
-  gloss: cold
-  definition: cold
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: cold {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2527
-    proximity: 0.8056
+    lemma: חֹם
+    gloss: heat {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H7140
-    proximity: 0.7939
+    lemma: קֶרַח
+    gloss: ice (as if bald {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
   - strongs: H6793
-    proximity: 0.75
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: צִנָּה
+    gloss: a hook {openscriptures-strongs}
+    proximity: 0.75 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

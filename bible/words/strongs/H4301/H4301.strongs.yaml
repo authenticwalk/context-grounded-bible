@@ -6,47 +6,61 @@ pronunciation: mat-mone'
 definition: a secret storehouse; hence, a secreted valuable (buried); generally money
 kjv_usage: hidden riches, (hid) treasure(-s).
 derivation: or מַטְמֹן; or מַטְמֻן; from H2934 (טָמַן);
-extended_definition:
-  gloss: treasure
-  definition: hidden treasure, treasure
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: hidden treasure, treasure {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3670
-    proximity: 0.8129
+    lemma: כָּנַף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: H2253
-    proximity: 0.8111
+    lemma: חֶבְיוֹן
+    gloss: a concealment {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: A1596
-    proximity: 0.7904
+    proximity: 0.7904 {macula-proximity}
   - strongs: H1220
-    proximity: 0.7826
+    lemma: בֶּצֶר
+    gloss: strictly a clipping {openscriptures-strongs}
+    proximity: 0.7826 {macula-proximity}
   - strongs: H6264
-    proximity: 0.7757
+    lemma: עָתִיד
+    gloss: prepared {openscriptures-strongs}
+    proximity: 0.7757 {macula-proximity}
   - strongs: H7399
-    proximity: 0.7704
+    lemma: רְכוּשׁ
+    gloss: property {openscriptures-strongs}
+    proximity: 0.7704 {macula-proximity}
   - strongs: H2934
-    proximity: 0.7305
+    lemma: טָמַן
+    gloss: to hide {openscriptures-strongs}
+    proximity: 0.7305 {macula-proximity}
   - strongs: H3366
-    proximity: 0.73
+    lemma: יְקָר
+    gloss: value {openscriptures-strongs}
+    proximity: 0.73 {macula-proximity}
   cross_language:
   - strongs: G2343
-    proximity: 0.8248
+    lemma: θησαυρίζω
+    gloss: to amass or reserve {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: greek
   - strongs: G614
-    proximity: 0.8142
+    proximity: 0.8142 {macula-proximity}
     language: greek
   - strongs: G3871
-    proximity: 0.8077
+    lemma: παρακαλύπτω
+    gloss: to cover alongside {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
     language: greek
   - strongs: G2928
-    proximity: 0.795
+    lemma: κρύπτω
+    gloss: to conceal (properly {openscriptures-strongs}
+    proximity: 0.795 {macula-proximity}
     language: greek
   - strongs: G1301
-    proximity: 0.7941
+    lemma: διατηρέω
+    gloss: to watch thoroughly {openscriptures-strongs}
+    proximity: 0.7941 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,49 +6,57 @@ pronunciation: mik-kawkh'
 definition: reception
 kjv_usage: taking.
 derivation: from H3947 (לָקַח);
-extended_definition:
-  gloss: taking
-  definition: taking, accepting, receiving (of a bribe)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: taking, accepting, receiving (of a bribe) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6908
-    proximity: 0.8201
+    lemma: קָבַץ
+    gloss: to grasp {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: H7114
-    proximity: 0.811
+    lemma: קָצַר
+    gloss: to dock off {openscriptures-strongs}
+    proximity: 0.811 {macula-proximity}
   - strongs: H5844a
-    proximity: 0.7793
+    proximity: 0.7793 {macula-proximity}
   - strongs: H1639a
-    proximity: 0.7778
+    proximity: 0.7778 {macula-proximity}
   - strongs: H1219
-    proximity: 0.7534
+    lemma: בָּצַר
+    gloss: to gather grapes {openscriptures-strongs}
+    proximity: 0.7534 {macula-proximity}
   - strongs: H625
-    proximity: 0.7416
+    proximity: 0.7416 {macula-proximity}
   - strongs: H3950
-    proximity: 0.7309
+    lemma: לָקַט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7309 {macula-proximity}
   - strongs: H3947
-    proximity: 0.723
+    lemma: לָקַח
+    gloss: to take {openscriptures-strongs}
+    proximity: 0.723 {macula-proximity}
   - strongs: H622
-    proximity: 0.7196
+    proximity: 0.7196 {macula-proximity}
   cross_language:
   - strongs: G1723
-    proximity: 0.8298
+    lemma: ἐναγκαλίζομαι
+    gloss: to take in one's arms {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G1687
-    proximity: 0.8214
+    lemma: ἐμβατεύω
+    gloss: equivalent to G1684 {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
     language: greek
   - strongs: G142
-    proximity: 0.8142
+    proximity: 0.8142 {macula-proximity}
     language: greek
   - strongs: G163
-    proximity: 0.791
+    proximity: 0.791 {macula-proximity}
     language: greek
   - strongs: G4816
-    proximity: 0.7304
+    lemma: συλλέγω
+    gloss: to collect {openscriptures-strongs}
+    proximity: 0.7304 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

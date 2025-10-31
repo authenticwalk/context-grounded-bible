@@ -5,23 +5,15 @@ transliteration: chōros
 definition: the north-west wind
 kjv_usage: north west
 derivation: of Latin origin;
-extended_definition:
-  gloss: northwest
-  definition: <b>the North-west wind </b>, Lat. <i>Caurus</i>, (New Testament) (ML)
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> χῶρος</b>, ὁ, <br /> <b>north-west wind,</b> Latin <i>corus,</i>
-    [<a href="javascript:void(0)" title=" NT.Acts.27.12. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: the North-west wind , Lat. Caurus, (New Testament) (ML) {STEPBible-TBESG}
+etymology: 'χῶρος, ὁ,
+
+  north-west wind, Latin corus, [NT] {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H6828
-    proximity: 0.8235
+    lemma: צָפוֹן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

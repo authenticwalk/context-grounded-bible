@@ -7,42 +7,56 @@ definition: Mitspah, the name of two places in Palestine
 kjv_usage: Mitspah. (This seems rather to be only an orthographic variation of H4708
   (מִצְפֶּה) when 'in pause'.)
 derivation: feminine of H4708 (מִצְפֶּה);
-extended_definition:
-  gloss: Mizpah
-  definition: <BR> § Mizpah = "watchtower"<br>  a place near Mount Hermon
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Mizpah = "watchtower"
+
+  a place near Mount Hermon {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7414
-    proximity: 0.8258
+    lemma: רָמָה
+    gloss: Ramah {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H5880
-    proximity: 0.8248
+    lemma: עֵין מִשְׁפָּט
+    gloss: En-Mishpat {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: H6450
-    proximity: 0.8223
+    lemma: פַּס דַּמִּים
+    gloss: Pas-Dammim {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
   - strongs: A620
-    proximity: 0.822
+    proximity: 0.822 {macula-proximity}
   - strongs: H4677
-    proximity: 0.8208
+    lemma: מְצֹבָיָה
+    gloss: Metsobajah {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   - strongs: H978
-    proximity: 0.8202
+    proximity: 0.8202 {macula-proximity}
   - strongs: H6946
-    proximity: 0.8189
+    lemma: קָדֵשׁ
+    gloss: Kadesh {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H4363
-    proximity: 0.8176
+    lemma: מִכְמָס
+    gloss: Mikmas or Mikmash {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   - strongs: H4559
-    proximity: 0.8173
+    lemma: מִסְפֶּרֶת
+    gloss: Mispereth {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
   - strongs: H6462
-    proximity: 0.8152
+    lemma: פִּסְפָּה
+    gloss: Pispah {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   cross_language:
   - strongs: G3652
-    proximity: 0.8163
+    lemma: Ὀλυμπᾶς
+    gloss: Olympas {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
     language: greek
   - strongs: G3937
-    proximity: 0.7977
+    lemma: Παρμενᾶς
+    gloss: constant {openscriptures-strongs}
+    proximity: 0.7977 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

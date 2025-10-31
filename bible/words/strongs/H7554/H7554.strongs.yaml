@@ -8,51 +8,80 @@ definition: to pound the earth (as a sign of passion); by analogy to expand (by 
 kjv_usage: beat, make broad, spread abroad (forth, over, out, into plates), stamp,
   stretch.
 derivation: a primitive root;
-extended_definition:
-  gloss: to beat
-  definition: 1) to beat, stamp, beat out, spread out, stretch<br>1a) (Qal)<br>1a1)
-    to stamp, beat out<br>1a2) one who beats out (participle)<br>1b) (Piel) to overlay,
-    beat out (for plating)<br>1c) (Pual) beaten out (participle)<br>1d) (Hiphil) to
-    make a spreading (of clouds)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to beat, stamp, beat out, spread out, stretch
+
+  1a) (Qal)
+
+  1a1) to stamp, beat out
+
+  1a2) one who beats out (participle)
+
+  1b) (Piel) to overlay, beat out (for plating)
+
+  1c) (Pual) beaten out (participle)
+
+  1d) (Hiphil) to make a spreading (of clouds) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7515
-    proximity: 0.8292
+    lemma: רָפַשׂ
+    gloss: to trample {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: H4298
-    proximity: 0.827
+    lemma: מֻטָּה
+    gloss: expansion {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H6581
-    proximity: 0.8254
+    lemma: פָּשָׂה
+    gloss: to spread {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: H3318
-    proximity: 0.8238
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H1915
-    proximity: 0.8202
+    lemma: הָדַךְ
+    gloss: to crush with the foot {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   - strongs: H1758
-    proximity: 0.8197
+    lemma: דּוּשׁ
+    gloss: to trample or thresh {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
   - strongs: H3832
-    proximity: 0.8196
+    lemma: לָבַט
+    gloss: to overthrow {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: H6360
-    proximity: 0.8027
+    lemma: פַּטִּישׁ
+    gloss: a hammer {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
   - strongs: H7502
-    proximity: 0.7953
+    lemma: רָפַד
+    gloss: to spread {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
   - strongs: H3728
-    proximity: 0.7929
+    lemma: כָּפַשׁ
+    gloss: to tread down {openscriptures-strongs}
+    proximity: 0.7929 {macula-proximity}
   cross_language:
   - strongs: G2998
-    proximity: 0.8272
+    lemma: λατομέω
+    gloss: to quarry {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G1831
-    proximity: 0.8071
+    lemma: ἐξέρχομαι
+    gloss: to issue {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
     language: greek
   - strongs: G1607
-    proximity: 0.7973
+    lemma: ἐκπορεύομαι
+    gloss: to depart {openscriptures-strongs}
+    proximity: 0.7973 {macula-proximity}
     language: greek
   - strongs: G1600
-    proximity: 0.7856
+    lemma: ἐκπετάννυμι
+    gloss: to fly out {openscriptures-strongs}
+    proximity: 0.7856 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

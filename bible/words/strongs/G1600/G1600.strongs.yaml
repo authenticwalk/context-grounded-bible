@@ -5,54 +5,74 @@ transliteration: ekpetánnymi
 definition: to fly out, i.e. (by analogy) to extend
 kjv_usage: stretch forth
 derivation: from G1537 (ἐκ) and a form of G4072 (πέτομαι);
-extended_definition:
-  gloss: to extend
-  definition: '<b>ἐκ-πετάννυμι </b><BR /> [in LXX chiefly for פָּרַשׂ, as <ref=''Isa.65.2''>Isa.65:2</ref>
-    (hithp.) ;] <BR /><b>to spread out</b> (as a sail), <b>stretch forth</b>: <ref=''Rom.10.21''>Rom.10:21</ref>(LXX).†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ἐκπετάζω</b>, <br /> ={ἐκπετάννυμι}, [<a href="javascript:void(0)"
-    title=" LXX.2Esd.9.5. ">LXX</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ἐκ-πετάννυμι
+
+  [in LXX chiefly for פָּרַשׂ, as Isa.65:2 (hithp.) ;]
+
+  to spread out (as a sail), stretch forth: Rom.10:21(LXX).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐκπετάζω,
+
+  ={ἐκπετάννυμι}, [LXX] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5495
-    proximity: 0.8285
+    lemma: χείρ
+    gloss: the hand {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: G2998
-    proximity: 0.8254
+    lemma: λατομέω
+    gloss: to quarry {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: G1806
-    proximity: 0.8248
+    lemma: ἐξάγω
+    gloss: to lead forth {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: G1310
-    proximity: 0.8203
+    lemma: διαφημίζω
+    gloss: to report thoroughly {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: G1580
-    proximity: 0.8199
+    lemma: ἐκκομίζω
+    gloss: to bear forth {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: G1368
-    proximity: 0.8178
+    lemma: διϋλίζω
+    gloss: to strain out {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   - strongs: G1032
-    proximity: 0.8129
+    lemma: βρύω
+    gloss: to swell out {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: G3736
-    proximity: 0.8116
+    lemma: ὀρύσσω
+    gloss: to "burrow" in the ground {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   cross_language:
   - strongs: H6458
-    proximity: 0.8299
+    lemma: פָּסַל
+    gloss: to carve {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: hebrew
   - strongs: H5259
-    proximity: 0.827
+    lemma: נָסַךְ
+    gloss: to interweave {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: hebrew
   - strongs: H5414
-    proximity: 0.8249
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: hebrew
   - strongs: H6610
-    proximity: 0.8234
+    lemma: פִּתְחוֹן
+    gloss: opening {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
     language: hebrew
   - strongs: H2328
-    proximity: 0.823
+    lemma: חוּג
+    gloss: to describe a circle {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

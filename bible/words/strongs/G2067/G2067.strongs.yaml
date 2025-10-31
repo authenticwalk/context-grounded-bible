@@ -5,50 +5,57 @@ transliteration: ésthēsis
 definition: clothing (concretely)
 kjv_usage: government
 derivation: from a derivative of G2066 (ἐσθής);
-extended_definition:
-  gloss: clothing
-  definition: '<b>ἔσθησις</b>, -εως, ἡ <BR /> [in LXX: pl., <ref=''2Ma.3.33''>2Ma.3:33</ref>,
-    <ref=''3Ma.1.16''>3Ma.1:16</ref> * ;] <BR /><b>clothing</b>: pl., <ref=''Act.1.10.''>Act.1:10.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἔσθησις</b>, εως, ἡ, <br /> (ἐσθέω) <b>clothing, raiment,</b>
-    uncertain reading in [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles
-    Philosophus “Rhetorica” 1386a32, compare 2nd c.AD(?): Pollianus Epigrammaticus
-    10.51: _plural_, 2nd c.AD: Athenaeus Epigrammaticus 1.18e, NT.Act.1.10: _dative_
-    _plural_, ἐσθήσεσι 1st c.AD: Philo Judaeus 2.158, 1st c.BC-1st c.AD: Strabo Geographus
-    3.3.7, variant in NT.Luke.24.4. ">NT+4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἔσθησις, -εως, ἡ
+
+  [in LXX: pl., 2Ma.3:33, 3Ma.1:16 * ;]
+
+  clothing: pl., Act.1:10.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἔσθησις, εως, ἡ,
+
+  (ἐσθέω) clothing, raiment, uncertain reading in [NT+4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4629
-    proximity: 0.8214
+    lemma: σκέπασμα
+    gloss: perhaps akin to the base of G4649  through the idea of noticeableness)
+      {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: G5509
-    proximity: 0.8082
+    lemma: χιτών
+    gloss: a tunic or shirt {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
   - strongs: G294a
-    proximity: 0.7639
+    proximity: 0.7639 {macula-proximity}
   - strongs: G4749
-    proximity: 0.7359
+    lemma: στολή
+    gloss: equipment {openscriptures-strongs}
+    proximity: 0.7359 {macula-proximity}
   cross_language:
   - strongs: H4374
-    proximity: 0.8299
+    lemma: מְכַסֶּה
+    gloss: a covering {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: hebrew
   - strongs: H7897
-    proximity: 0.8143
+    lemma: שִׁית
+    gloss: a dress {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
     language: hebrew
   - strongs: H4055
-    proximity: 0.8093
+    lemma: מַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
     language: hebrew
   - strongs: H5499
-    proximity: 0.7951
+    lemma: סְחָבָה
+    gloss: a rag {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
     language: hebrew
   - strongs: H6614
-    proximity: 0.7935
+    lemma: פְּתִיגִיל
+    gloss: probably a figured mantle forholidays {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

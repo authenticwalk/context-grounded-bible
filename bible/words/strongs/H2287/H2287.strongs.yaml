@@ -8,38 +8,51 @@ definition: properly, to move in acircle, i.e. (specifically) to march in asacre
 kjv_usage: celebrate, dance, (keep, hold) a (solemn) feast (holiday), reel to and
   fro.
 derivation: a primitive root (compare H2283 (חָגָא), H2328 (חוּג));
-extended_definition:
-  gloss: to celebrate
-  definition: 1) to hold a feast, hold a festival, make pilgrimage, keep a pilgrim-feast,
-    celebrate, dance, stagger<br>1a) (Qal)<br>1a1) to keep a pilgrim-feast<br>1a2)
-    to reel
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to hold a feast, hold a festival, make pilgrimage, keep a
+  pilgrim-feast, celebrate, dance, stagger
+
+  1a) (Qal)
+
+  1a1) to keep a pilgrim-feast
+
+  1a2) to reel {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3769
-    proximity: 0.8145
+    lemma: כָּרַר
+    gloss: to dance {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
   - strongs: H5702
-    proximity: 0.8135
+    lemma: עָגַן
+    gloss: to debar {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: H5341
-    proximity: 0.8004
+    lemma: נָצַר
+    gloss: to guard {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
   - strongs: H8104
-    proximity: 0.7909
+    lemma: שָׁמַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7909 {macula-proximity}
   cross_language:
   - strongs: G5084
-    proximity: 0.8218
+    lemma: τήρησις
+    gloss: a watching {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
     language: greek
   - strongs: G2165
-    proximity: 0.809
+    lemma: εὐφραίνω
+    gloss: to put (middle voice or passively {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
     language: greek
   - strongs: G5083
-    proximity: 0.8032
+    lemma: τηρέω
+    gloss: perhaps akin to G2334 ) {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
     language: greek
   - strongs: G3738
-    proximity: 0.7421
+    lemma: ὀρχέομαι
+    gloss: to dance {openscriptures-strongs}
+    proximity: 0.7421 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

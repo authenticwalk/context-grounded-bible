@@ -10,30 +10,39 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H5493
-    proximity: 0.8264
+    lemma: סוּר
+    gloss: to turn off {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H2502
-    proximity: 0.8168
+    lemma: חָלַץ
+    gloss: to pull off {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H1980
-    proximity: 0.8058
+    lemma: הָלַךְ
+    gloss: to walk (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: H3947
-    proximity: 0.7831
+    lemma: לָקַח
+    gloss: to take {openscriptures-strongs}
+    proximity: 0.7831 {macula-proximity}
   cross_language:
   - strongs: G4014
-    proximity: 0.8283
+    lemma: περιαιρέω
+    gloss: to remove all around {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
     language: greek
   - strongs: G4838
-    proximity: 0.8279
+    lemma: συμπαραλαμβάνω
+    gloss: to take along in company {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G142
-    proximity: 0.8257
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G492
-    proximity: 0.8201
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G631
-    proximity: 0.8169
+    proximity: 0.8169 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

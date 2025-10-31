@@ -7,49 +7,72 @@ definition: depressed (figuratively), in mind (gentle) or circumstances (needy, 
   saintly)
 kjv_usage: humble, lowly, meek, poor. Compare H6041 (עָנִי).
 derivation: or (by intermixture with H6041 (עָנִי)) עָנָיו; from H6031 (עָנָה);
-extended_definition:
-  gloss: poor
-  definition: 1) poor, humble, afflicted, meek<br>1a) poor, needy<br>1b) poor and
-    weak<br>1c) poor, weak and afflicted<br>1d) humble, lowly, meek
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) poor, humble, afflicted, meek
+
+  1a) poor, needy
+
+  1b) poor and weak
+
+  1c) poor, weak and afflicted
+
+  1d) humble, lowly, meek {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6695
-    proximity: 0.8293
+    lemma: צוֹק
+    gloss: a strait {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: H6695a
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
   - strongs: H2541
-    proximity: 0.8216
+    lemma: חָמוֹץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   - strongs: H6031a
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
   - strongs: H1792
-    proximity: 0.8162
+    lemma: דָּכָא
+    gloss: to crumble {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H3906
-    proximity: 0.8154
+    lemma: לַחַץ
+    gloss: distress {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: H4689
-    proximity: 0.8135
+    lemma: מָצוֹק
+    gloss: a narrow place {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: H6233
-    proximity: 0.8126
+    lemma: עֹשֶׁק
+    gloss: injury {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
   - strongs: H6234
-    proximity: 0.8116
+    lemma: עׇשְׁקָה
+    gloss: anguish {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   - strongs: H6887
-    proximity: 0.8091
+    lemma: צָרַר
+    gloss: to cramp {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
   cross_language:
   - strongs: G2616
-    proximity: 0.8283
+    lemma: καταδυναστεύω
+    gloss: to exercise dominion against {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
     language: greek
   - strongs: G3958
-    proximity: 0.8269
+    lemma: πάσχω
+    gloss: to experience a sensation or impression {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
     language: greek
   - strongs: G1729
-    proximity: 0.8246
+    lemma: ἐνδεής
+    gloss: deficient in {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
     language: greek
   - strongs: G3449
-    proximity: 0.8237
+    lemma: μόχθος
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

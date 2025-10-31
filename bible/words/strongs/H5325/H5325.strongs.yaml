@@ -6,26 +6,26 @@ pronunciation: nits-twawb'
 definition: fixed, i.e. a handle
 kjv_usage: haft.
 derivation: passive participle of H5324 (נָצַב);
-extended_definition:
-  gloss: hilt
-  definition: haft, hilt (of sword)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: haft, hilt (of sword) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2719
-    proximity: 0.802
+    lemma: חֶרֶב
+    gloss: drought {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
   - strongs: H4380
-    proximity: 0.7621
+    lemma: מְכֵרָה
+    gloss: a sword {openscriptures-strongs}
+    proximity: 0.7621 {macula-proximity}
   cross_language:
   - strongs: G3162
-    proximity: 0.8102
+    lemma: μάχαιρα
+    gloss: a knife {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
     language: greek
   - strongs: G4501
-    proximity: 0.8056
+    lemma: ῥομφαία
+    gloss: a sabre {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

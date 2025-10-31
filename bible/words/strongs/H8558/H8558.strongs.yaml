@@ -6,33 +6,35 @@ pronunciation: taw-mawr'
 definition: a palm tree
 kjv_usage: palm (tree).
 derivation: from an unused root meaning to be erect;
-extended_definition:
-  gloss: palm
-  definition: palm tree, date palm
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: palm tree, date palm {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H534
-    proximity: 0.8268
+    proximity: 0.8268 {macula-proximity}
   - strongs: H8363
-    proximity: 0.8186
+    lemma: שְׁתִל
+    gloss: a sprig {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: H7754a
-    proximity: 0.8144
+    proximity: 0.8144 {macula-proximity}
   - strongs: H7754
-    proximity: 0.8144
+    lemma: שׂוֹךְ
+    gloss: a branch {openscriptures-strongs}
+    proximity: 0.8144 {macula-proximity}
   - strongs: H6097
-    proximity: 0.7424
+    lemma: עֵצָה
+    gloss: timber {openscriptures-strongs}
+    proximity: 0.7424 {macula-proximity}
   - strongs: A363
-    proximity: 0.7344
+    proximity: 0.7344 {macula-proximity}
   - strongs: H3712
-    proximity: 0.7293
+    lemma: כִּפָּה
+    gloss: a leaf of a palmtree {openscriptures-strongs}
+    proximity: 0.7293 {macula-proximity}
   cross_language:
   - strongs: G4807
-    proximity: 0.82
+    lemma: συκάμινος
+    gloss: a sycamore-fig tree {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,21 +6,17 @@ pronunciation: keh'-besh
 definition: a footstool (as trodden upon)
 kjv_usage: footstool.
 derivation: from H3533 (כָּבַשׁ);
-extended_definition:
-  gloss: footstool
-  definition: footstool
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: footstool {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7272
-    proximity: 0.7051
+    lemma: רֶגֶל
+    gloss: a foot {openscriptures-strongs}
+    proximity: 0.7051 {macula-proximity}
   cross_language:
   - strongs: G3588
-    proximity: 0.7904
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7904 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

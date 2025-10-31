@@ -6,40 +6,48 @@ pronunciation: sheb-ooth'
 definition: exile, concretely, prisoners; figuratively, a former state of prosperity
 kjv_usage: captive(-ity).
 derivation: or שְׁבִית; from H7617 (שָׁבָה);
-extended_definition:
-  gloss: captivity
-  definition: 1) captivity, captives<br> 2) defeat, reversed fortunes
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) captivity, captives
+
+  2) defeat, reversed fortunes {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H272
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
   - strongs: H2506
-    proximity: 0.8126
+    lemma: חֵלֶק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
   - strongs: H1408
-    proximity: 0.8099
+    lemma: גַּד
+    gloss: Fortune {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
   - strongs: H7628a
-    proximity: 0.7912
+    proximity: 0.7912 {macula-proximity}
   - strongs: H7617
-    proximity: 0.7892
+    lemma: שָׁבָה
+    gloss: to transport into captivity {openscriptures-strongs}
+    proximity: 0.7892 {macula-proximity}
   - strongs: H6239
-    proximity: 0.7697
+    lemma: עֹשֶׁר
+    gloss: wealth {openscriptures-strongs}
+    proximity: 0.7697 {macula-proximity}
   cross_language:
   - strongs: G2817
-    proximity: 0.8028
+    lemma: κληρονομία
+    gloss: heirship {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
     language: greek
   - strongs: G605
-    proximity: 0.7917
+    proximity: 0.7917 {macula-proximity}
     language: greek
   - strongs: G2933
-    proximity: 0.781
+    lemma: κτῆμα
+    gloss: an acquirement {openscriptures-strongs}
+    proximity: 0.781 {macula-proximity}
     language: greek
   - strongs: G5223
-    proximity: 0.7732
+    lemma: ὕπαρξις
+    gloss: existency or proprietorship {openscriptures-strongs}
+    proximity: 0.7732 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

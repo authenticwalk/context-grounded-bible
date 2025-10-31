@@ -9,23 +9,28 @@ derivation: or פִּדְיֹם; also פִּדְיוֹן; or פִּדְיֹן; f
 related_words:
   synonyms:
   - strongs: H3701
-    proximity: 0.7757
+    lemma: כֶּסֶף
+    gloss: silver {openscriptures-strongs}
+    proximity: 0.7757 {macula-proximity}
   - strongs: A1722
-    proximity: 0.7735
+    proximity: 0.7735 {macula-proximity}
   - strongs: H6299
-    proximity: 0.772
+    lemma: פָּדָה
+    gloss: to sever {openscriptures-strongs}
+    proximity: 0.772 {macula-proximity}
   - strongs: A3702
-    proximity: 0.766
+    proximity: 0.766 {macula-proximity}
   - strongs: H1353
-    proximity: 0.7232
+    lemma: גְּאֻלָּה
+    gloss: redemption {openscriptures-strongs}
+    proximity: 0.7232 {macula-proximity}
   cross_language:
   - strongs: G5557
-    proximity: 0.8157
+    lemma: χρυσός
+    gloss: gold {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
     language: greek
   - strongs: G696
-    proximity: 0.7468
+    proximity: 0.7468 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

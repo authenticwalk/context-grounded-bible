@@ -6,34 +6,39 @@ pronunciation: maw-tsaw'
 definition: to suck out; by implication, to drain, to squeeze out
 kjv_usage: suck, wring (out).
 derivation: a primitive root;
-extended_definition:
-  gloss: to drain
-  definition: 1) to drain, drain out<br>1a) (Qal) to drain, drain out<br>1b) (Niphal)
-    to be drained out
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to drain, drain out
+
+  1a) (Qal) to drain, drain out
+
+  1b) (Niphal) to be drained out {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7997a
-    proximity: 0.8277
+    proximity: 0.8277 {macula-proximity}
   cross_language:
   - strongs: G2998
-    proximity: 0.8257
+    lemma: λατομέω
+    gloss: to quarry {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G1580
-    proximity: 0.8214
+    lemma: ἐκκομίζω
+    gloss: to bear forth {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
     language: greek
   - strongs: G1607
-    proximity: 0.8175
+    lemma: ἐκπορεύομαι
+    gloss: to depart {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: greek
   - strongs: G1831
-    proximity: 0.8111
+    lemma: ἐξέρχομαι
+    gloss: to issue {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
     language: greek
   - strongs: G1806
-    proximity: 0.81
+    lemma: ἐξάγω
+    gloss: to lead forth {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

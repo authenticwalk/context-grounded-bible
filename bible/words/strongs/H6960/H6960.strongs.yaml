@@ -10,42 +10,59 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H7836
-    proximity: 0.8192
+    lemma: שָׁחַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: H4180a
-    proximity: 0.8133
+    proximity: 0.8133 {macula-proximity}
   - strongs: H8373
-    proximity: 0.8042
+    lemma: תָּאַב
+    gloss: to desire {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: H2342a
-    proximity: 0.8019
+    proximity: 0.8019 {macula-proximity}
   - strongs: H1748
-    proximity: 0.8011
+    lemma: דּוּמָם
+    gloss: still {openscriptures-strongs}
+    proximity: 0.8011 {macula-proximity}
   - strongs: H8172
-    proximity: 0.8007
+    lemma: שָׁעַן
+    gloss: to support one's self {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: H985
-    proximity: 0.7992
+    proximity: 0.7992 {macula-proximity}
   - strongs: H1826
-    proximity: 0.7978
+    lemma: דָּמַם
+    gloss: to be dumb {openscriptures-strongs}
+    proximity: 0.7978 {macula-proximity}
   - strongs: H1245
-    proximity: 0.7889
+    lemma: בָּקַשׁ
+    gloss: to search out (by any method {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
   - strongs: H693
-    proximity: 0.7789
+    proximity: 0.7789 {macula-proximity}
   cross_language:
   - strongs: G3306
-    proximity: 0.8288
+    lemma: μένω
+    gloss: to stay (in a given place {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
     language: greek
   - strongs: G2523
-    proximity: 0.8185
+    lemma: καθίζω
+    gloss: to seat down {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
     language: greek
   - strongs: G3114
-    proximity: 0.7978
+    lemma: μακροθυμέω
+    gloss: to be long-spirited {openscriptures-strongs}
+    proximity: 0.7978 {macula-proximity}
     language: greek
   - strongs: G603
-    proximity: 0.777
+    proximity: 0.777 {macula-proximity}
     language: greek
   - strongs: G1748
-    proximity: 0.7386
+    lemma: ἐνεδρεύω
+    gloss: to lurk {openscriptures-strongs}
+    proximity: 0.7386 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

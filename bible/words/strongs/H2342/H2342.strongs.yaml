@@ -14,20 +14,23 @@ derivation: or חִיל; a primitive root;
 related_words:
   synonyms:
   - strongs: H6090a
-    proximity: 0.8103
+    proximity: 0.8103 {macula-proximity}
   - strongs: H3511
-    proximity: 0.7912
+    lemma: כְּאֵב
+    gloss: suffering {openscriptures-strongs}
+    proximity: 0.7912 {macula-proximity}
   - strongs: H6452a
-    proximity: 0.7779
+    proximity: 0.7779 {macula-proximity}
   - strongs: H7540
-    proximity: 0.7604
+    lemma: רָקַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7604 {macula-proximity}
   - strongs: H4341
-    proximity: 0.7247
+    lemma: מַכְאֹב
+    gloss: anguish or  affliction {openscriptures-strongs}
+    proximity: 0.7247 {macula-proximity}
   cross_language:
   - strongs: G929
-    proximity: 0.7902
+    proximity: 0.7902 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

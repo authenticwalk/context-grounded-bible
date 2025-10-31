@@ -6,42 +6,57 @@ pronunciation: kaw-bal'
 definition: to admit, i.e. take (literally or figuratively)
 kjv_usage: choose, (take) hold, receive, (under-) take.
 derivation: a primitive root;
-extended_definition:
-  gloss: to receive
-  definition: '1) to take, receive, be before<br>1a) (Piel)<br>1a1) to take, choose,
-    receive<br>1a2) to accept<br>1a3) to accept, assume<br>1b) (Hiphil)<br>1b1) to
-    show oppositeness<br>1b2) to correspond, receive one to the other<BR>Aramaic equivalent:
-    <i>qe.val</i> (קַבֵּל "to receive" H6902)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to take, receive, be before
+
+  1a) (Piel)
+
+  1a1) to take, choose, receive
+
+  1a2) to accept
+
+  1a3) to accept, assume
+
+  1b) (Hiphil)
+
+  1b1) to show oppositeness
+
+  1b2) to correspond, receive one to the other
+
+  Aramaic equivalent: qe.val (קַבֵּל "to receive" H6902) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H14
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
   - strongs: H7947
-    proximity: 0.8196
+    lemma: שָׁלַב
+    gloss: to space off {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: H7521
-    proximity: 0.8184
+    lemma: רָצָה
+    gloss: to be pleased with {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   - strongs: H7521a
-    proximity: 0.768
+    proximity: 0.768 {macula-proximity}
   cross_language:
   - strongs: G3335
-    proximity: 0.8214
+    lemma: μεταλαμβάνω
+    gloss: to participate {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
     language: greek
   - strongs: G5274
-    proximity: 0.8168
+    lemma: ὑπολαμβάνω
+    gloss: to take from below {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
     language: greek
   - strongs: G324
-    proximity: 0.8121
+    proximity: 0.8121 {macula-proximity}
     language: greek
   - strongs: G138
-    proximity: 0.7882
+    proximity: 0.7882 {macula-proximity}
     language: greek
   - strongs: G5177
-    proximity: 0.7881
+    lemma: τυγχάνω
+    gloss: akin to the base of G5088  through the idea of effecting {openscriptures-strongs}
+    proximity: 0.7881 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

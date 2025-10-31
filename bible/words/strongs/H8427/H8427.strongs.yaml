@@ -6,29 +6,34 @@ pronunciation: taw-vaw'
 definition: to mark out, i.e. (primitive) scratch or (definite) imprint
 kjv_usage: scrabble, set (a mark).
 derivation: a primitive root;
-extended_definition:
-  gloss: to mark
-  definition: 1) to scrabble, limit, mark, make or set a mark<br>1a) (Piel) to mark<br>1b)
-    (Hiphil) to set a mark
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to scrabble, limit, mark, make or set a mark
+
+  1a) (Piel) to mark
+
+  1b) (Hiphil) to set a mark {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6316
-    proximity: 0.8015
+    lemma: פּוּט
+    gloss: Put {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
   - strongs: H1911
-    proximity: 0.781
+    lemma: הָדָה
+    gloss: to stretch forth the hand {openscriptures-strongs}
+    proximity: 0.781 {macula-proximity}
   - strongs: H8420
-    proximity: 0.704
+    lemma: תָּו
+    gloss: a mark {openscriptures-strongs}
+    proximity: 0.704 {macula-proximity}
   cross_language:
   - strongs: G3902
-    proximity: 0.8055
+    lemma: παράσημος
+    gloss: side-marked {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
     language: greek
   - strongs: G3138
-    proximity: 0.7593
+    lemma: Μάρκος
+    gloss: Marcus {openscriptures-strongs}
+    proximity: 0.7593 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

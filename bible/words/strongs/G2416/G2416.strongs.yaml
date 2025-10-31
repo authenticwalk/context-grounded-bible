@@ -5,57 +5,61 @@ transliteration: hierosyléō
 definition: to be a temple-robber (figuratively)
 kjv_usage: commit sacrilege
 derivation: from G2417 (ἱερόσυλος);
-extended_definition:
-  gloss: to despoil a temple
-  definition: '<b>ἱερο-συλέω</b>, -ῶ<BR /> (ἱερόσυλος, which see), [in LXX: <ref=''2Ma.9.2''>2Ma.9:2</ref>
-    * ;] <BR /><b>to rob a temple </b>(commit sacrilege, R, mg.): <ref=''Rom.2.22.''>Rom.2:22.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἱεροσῡλ-έω</b>, <br /> <i>perfect</i> ἱεροσύληκα [<a href="javascript:void(0)"
-    title=" “SIG” 417.8 (Delph., 3rd c.BC)">Refs 3rd c.BC+</a>]:—<b>rob a temple,
-    commit sacrilege</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes
-    Comicus “Vespae” 845, 5th c.BC: Antipho Orator 5.10, 5th-6th c.BC: Plato Philosophus
-    “Respublica” 575b. ">Refs 5th c.BC+</a>]<br /><Level2><b>__II</b></Level2> with
-    <i>accusative</i>, ἱ. τὰ ὅπλα <b>steal the sacred</b> arms, [<a href="javascript:void(0)"
-    title=" 4th c.BC: Demosthenes Orator 57.64, compare 4th c.BC: Lycurgus Orator
-    136 ">Refs 4th c.BC+</a>]; ἱ. τὰ ἱερά <b>rob</b> or <b>plunder</b> the temples,
-    [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 30.26.9; θεούς
-    3rd-2nd c.BC: Phalaris Epistolographus “Epistulae - Epistolographi” 84.1. ">Refs
-    3rd c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἱερο-συλέω, -ῶ
+
+  (ἱερόσυλος, which see), [in LXX: 2Ma.9:2 * ;]
+
+  to rob a temple (commit sacrilege, R, mg.): Rom.2:22.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἱεροσῡλ-έω,
+
+  perfect ἱεροσύληκα [Refs 3rd c.BC+]:—rob a temple, commit sacrilege, [Refs 5th c.BC+]
+
+  __II with accusative, ἱ. τὰ ὅπλα steal the sacred arms, [Refs 4th c.BC+]; ἱ. τὰ
+  ἱερά rob or plunder the temples, [Refs 3rd c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A1965
-    proximity: 0.8044
+    proximity: 0.8044 {macula-proximity}
   - strongs: G3485
-    proximity: 0.8
+    lemma: ναός
+    gloss: a fane {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: G2411
-    proximity: 0.7962
+    lemma: ἱερόν
+    gloss: a sacred place {openscriptures-strongs}
+    proximity: 0.7962 {macula-proximity}
   - strongs: G1493
-    proximity: 0.7835
+    lemma: εἰδωλεῖον
+    gloss: an image-fane {openscriptures-strongs}
+    proximity: 0.7835 {macula-proximity}
   - strongs: G1283
-    proximity: 0.7656
+    lemma: διαρπάζω
+    gloss: to seize asunder {openscriptures-strongs}
+    proximity: 0.7656 {macula-proximity}
   cross_language:
   - strongs: H962
-    proximity: 0.8248
+    proximity: 0.8248 {macula-proximity}
     language: hebrew
   - strongs: H1500
-    proximity: 0.8136
+    lemma: גְּזֵלָה
+    gloss: '{robbery {openscriptures-strongs}'
+    proximity: 0.8136 {macula-proximity}
     language: hebrew
   - strongs: H1964
-    proximity: 0.7995
+    lemma: הֵיכָל
+    gloss: a large public building {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
     language: hebrew
   - strongs: H1497
-    proximity: 0.7966
+    lemma: גָּזַל
+    gloss: to pluck off {openscriptures-strongs}
+    proximity: 0.7966 {macula-proximity}
     language: hebrew
   - strongs: H6906
-    proximity: 0.7644
+    lemma: קָבַע
+    gloss: to cover {openscriptures-strongs}
+    proximity: 0.7644 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

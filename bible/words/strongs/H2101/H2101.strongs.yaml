@@ -6,38 +6,45 @@ pronunciation: zobe
 definition: a seminal or menstrual flux
 kjv_usage: issue.
 derivation: from H2100 (זוּב);
-extended_definition:
-  gloss: discharge
-  definition: 1) a flow, issue, discharge, flux<br>1a) semen, discharge (venereal
-    disease) (of men)<br>1b) issue, flux (of woman)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) a flow, issue, discharge, flux
+
+  1a) semen, discharge (venereal disease) (of men)
+
+  1b) issue, flux (of woman) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4917
-    proximity: 0.8222
+    lemma: מִשְׁלַחַת
+    gloss: a mission {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H1865a
-    proximity: 0.7946
+    proximity: 0.7946 {macula-proximity}
   - strongs: H6824
-    proximity: 0.7028
+    lemma: צָפָה
+    gloss: an inundation {openscriptures-strongs}
+    proximity: 0.7028 {macula-proximity}
   cross_language:
   - strongs: G4482
-    proximity: 0.8185
+    lemma: ῥέω
+    gloss: for some tenses of which a prolonged form is used to flow ("run" {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
     language: greek
   - strongs: G2192
-    proximity: 0.8075
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
     language: greek
   - strongs: G1583
-    proximity: 0.7994
+    lemma: ἐκλαλέω
+    gloss: to divulge {openscriptures-strongs}
+    proximity: 0.7994 {macula-proximity}
     language: greek
   - strongs: G131
-    proximity: 0.7988
+    proximity: 0.7988 {macula-proximity}
     language: greek
   - strongs: G4511
-    proximity: 0.7345
+    lemma: ῥύσις
+    gloss: a flux {openscriptures-strongs}
+    proximity: 0.7345 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

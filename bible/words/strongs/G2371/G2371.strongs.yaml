@@ -5,62 +5,69 @@ transliteration: thymomachéō
 definition: to be in a furious fight, i.e. (figuratively) to be exasperated
 kjv_usage: be highly displeased
 derivation: from a presumed compound of G2372 (θυμός) and G3164 (μάχομαι);
-extended_definition:
-  gloss: to quarrel
-  definition: '<b>θυμομαέω</b>, -ῶ<BR /> (θυμός, μάχομαι), <BR /><b>to fight desperately,
-    have a hot quarrel</b>: with dative of person(s), <ref=''Act.12.20.''>Act.12:20.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> θῡμο-μᾰχέω</b>, <br /> <b>to be angry</b>, [<a href="javascript:void(0)"
-    title=" 2nd c.BC: Polybius Historicus 9.40.4; ἐπί τινι [prev. author] 27.8.4;
-    πρός τινας 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Demetrius” 22 ">Refs
-    2nd c.BC+</a>]; τισι [<a href="javascript:void(0)" title=" NT.Act.12.20. ">NT</a>]<br
-    /><Level2><b>__II</b></Level2> <b>fight desperately</b>, [<a href="javascript:void(0)"
-    title=" 1st c.BC: Diodorus Siculus Historicus 17.33 ">Refs 1st c.BC+</a>]; <b>contend
-    obstinately</b>, τινι [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius
-    Halicarnassensis 5.11. ">Refs 1st c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'θυμομαέω, -ῶ
+
+  (θυμός, μάχομαι),
+
+  to fight desperately, have a hot quarrel: with dative of person(s), Act.12:20.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'θῡμο-μᾰχέω,
+
+  to be angry, [Refs 2nd c.BC+]; τισι [NT]
+
+  __II fight desperately, [Refs 1st c.BC+]; contend obstinately, τινι [Refs 1st c.BC+]
+  {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A7265
-    proximity: 0.8165
+    proximity: 0.8165 {macula-proximity}
   - strongs: A7109
-    proximity: 0.8137
+    proximity: 0.8137 {macula-proximity}
   - strongs: A1149
-    proximity: 0.7968
+    proximity: 0.7968 {macula-proximity}
   - strongs: G3709
-    proximity: 0.7831
+    lemma: ὀργή
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7831 {macula-proximity}
   - strongs: G2372
-    proximity: 0.7752
+    lemma: θυμός
+    gloss: passion {openscriptures-strongs}
+    proximity: 0.7752 {macula-proximity}
   - strongs: G3949
-    proximity: 0.7681
+    lemma: παροργίζω
+    gloss: to anger alongside {openscriptures-strongs}
+    proximity: 0.7681 {macula-proximity}
   - strongs: G1693
-    proximity: 0.7581
+    lemma: ἐμμαίνομαι
+    gloss: to rave on {openscriptures-strongs}
+    proximity: 0.7581 {macula-proximity}
   - strongs: G23
-    proximity: 0.7405
+    proximity: 0.7405 {macula-proximity}
   - strongs: G1282
-    proximity: 0.7394
+    lemma: διαπρίω
+    gloss: to saw asunder {openscriptures-strongs}
+    proximity: 0.7394 {macula-proximity}
   cross_language:
   - strongs: H2198
-    proximity: 0.8297
+    lemma: זָעֵף
+    gloss: angry {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: hebrew
   - strongs: H750
-    proximity: 0.8102
+    proximity: 0.8102 {macula-proximity}
     language: hebrew
   - strongs: H6225
-    proximity: 0.7859
+    lemma: עָשַׁן
+    gloss: to smoke {openscriptures-strongs}
+    proximity: 0.7859 {macula-proximity}
     language: hebrew
   - strongs: H5678
-    proximity: 0.784
+    lemma: עֶבְרָה
+    gloss: an outburst of passion {openscriptures-strongs}
+    proximity: 0.784 {macula-proximity}
     language: hebrew
   - strongs: H3708a
-    proximity: 0.7734
+    proximity: 0.7734 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

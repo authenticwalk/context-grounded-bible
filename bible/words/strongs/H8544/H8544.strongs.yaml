@@ -7,47 +7,59 @@ definition: something portioned (i.e. fashioned) out, as ashape, i.e. (indefinit
   phantom, or (specifically) embodiment, or (figuratively) manifestation (of favor)
 kjv_usage: image, likeness, similitude.
 derivation: or תְּמֻנָה; from H4327 (מִין);
-extended_definition:
-  gloss: likeness
-  definition: form, image, likeness, representation, semblance
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: form, image, likeness, representation, semblance {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A6755
-    proximity: 0.8244
+    proximity: 0.8244 {macula-proximity}
   - strongs: H6091
-    proximity: 0.8199
+    lemma: עָצָב
+    gloss: an  image {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H3335
-    proximity: 0.8159
+    lemma: יָצַר
+    gloss: to mould into a form {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H6754a
-    proximity: 0.7836
+    proximity: 0.7836 {macula-proximity}
   - strongs: H8490
-    proximity: 0.7658
+    lemma: תִּימָרָה
+    gloss: a column {openscriptures-strongs}
+    proximity: 0.7658 {macula-proximity}
   - strongs: H8246
-    proximity: 0.7509
+    lemma: שָׁקַד
+    gloss: to be (intensively {openscriptures-strongs}
+    proximity: 0.7509 {macula-proximity}
   - strongs: H8389
-    proximity: 0.7238
+    lemma: תֹּאַר
+    gloss: outline {openscriptures-strongs}
+    proximity: 0.7238 {macula-proximity}
   - strongs: A2376
-    proximity: 0.7137
+    proximity: 0.7137 {macula-proximity}
   cross_language:
   - strongs: G4832
-    proximity: 0.82
+    lemma: σύμμορφος
+    gloss: jointly formed {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
   - strongs: G3339
-    proximity: 0.7887
+    lemma: μεταμορφόω
+    gloss: to transform (literally or figuratively {openscriptures-strongs}
+    proximity: 0.7887 {macula-proximity}
     language: greek
   - strongs: G4984
-    proximity: 0.7814
+    lemma: σωματικός
+    gloss: corporeal or physical {openscriptures-strongs}
+    proximity: 0.7814 {macula-proximity}
     language: greek
   - strongs: G4976
-    proximity: 0.7646
+    lemma: σχῆμα
+    gloss: a figure {openscriptures-strongs}
+    proximity: 0.7646 {macula-proximity}
     language: greek
   - strongs: G3446
-    proximity: 0.7583
+    lemma: μόρφωσις
+    gloss: formation {openscriptures-strongs}
+    proximity: 0.7583 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

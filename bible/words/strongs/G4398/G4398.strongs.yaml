@@ -5,44 +5,41 @@ transliteration: prophētis
 definition: a female foreteller or an inspired woman
 kjv_usage: prophetess
 derivation: feminine of G4396 (προφήτης);
-extended_definition:
-  gloss: prophetess
-  definition: '<b>προφῆτις</b>, -ιδος, ἡ fem, of προφήτης, <BR /> [in LXX: <ref=''Exo.15.20''>Exo.15:20</ref>,
-    <ref=''Jdg.4.4''>Jdg.4:4</ref>, <ref=''2Ki.22.14''>4Ki.22:14</ref>, <ref=''2Ch.34.22''>2Ch.34:22</ref>,
-    <ref=''Isa.8.3''>Isa.8:3</ref> (נְבִיאָה) * ;] <BR /><b>a prophetess</b>: <ref=''Luk.2.36''>Luk.2:36</ref>,
-    <ref=''Rev.2.20''>Rev.2:20</ref>.†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> προφῆτις</b>, ιδος, <br /> <i>feminine</i> of προφήτης, especially
-    of the Pythia, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus
-    “Ion” 42, 321, 5th-6th c.BC: Plato Philosophus “Phaedrus” 244a, 1st c.BC: Philodemus
-    Philosophus “Academicorum Index” p.26 M.: generally, “CIG” “Corpus Inscriptionum
-    Graecarum” “Corpus Inscriptionum Graecarum” 3796 (from Chalcedon), LXX.Exo.15.20,
-    LXX.Judg.4.4, “Schwyzer” 633.20 (Eresus, 2nd-1st c.BC)">LXX+5th c.BC+</a>]: <i>metaphorically</i>,
-    π. τῆς ἀληθείας [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus
-    Historicus 1.2. ">Refs 1st c.BC+</a>]<br /><Level3><b>__2</b></Level3> <b>prophet''s
-    wife</b>, [<a href="javascript:void(0)" title=" LXX.Isa.8.3. ">LXX</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'προφῆτις, -ιδος, ἡ fem, of προφήτης,
+
+  [in LXX: Exo.15:20, Jdg.4:4, 4Ki.22:14, 2Ch.34:22, Isa.8:3 (נְבִיאָה) * ;]
+
+  a prophetess: Luk.2:36, Rev.2:20.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'προφῆτις, ιδος,
+
+  feminine of προφήτης, especially of the Pythia, [LXX+5th c.BC+]: metaphorically,
+  π. τῆς ἀληθείας [Refs 1st c.BC+]
+
+  __2 prophet''s wife, [LXX] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4268
-    proximity: 0.8222
+    lemma: πρόγνωσις
+    gloss: forethought {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: G5578
-    proximity: 0.7898
+    lemma: ψευδοπροφήτης
+    gloss: a spurious prophet {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
   cross_language:
   - strongs: H2219a
-    proximity: 0.7757
+    proximity: 0.7757 {macula-proximity}
     language: hebrew
   - strongs: H5016
-    proximity: 0.7624
+    lemma: נְבוּאָה
+    gloss: a prediction {openscriptures-strongs}
+    proximity: 0.7624 {macula-proximity}
     language: hebrew
   - strongs: H2374
-    proximity: 0.7076
+    lemma: חֹזֶה
+    gloss: a beholder in vision {openscriptures-strongs}
+    proximity: 0.7076 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

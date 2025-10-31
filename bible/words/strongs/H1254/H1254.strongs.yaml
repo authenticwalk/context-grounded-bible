@@ -10,28 +10,39 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H4639
-    proximity: 0.7939
+    lemma: מַעֲשֶׂה
+    gloss: an action {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
   - strongs: H6466
-    proximity: 0.7749
+    lemma: פָּעַל
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.7749 {macula-proximity}
   - strongs: H6213
-    proximity: 0.7445
+    lemma: עָשָׂה
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.7445 {macula-proximity}
   cross_language:
   - strongs: G4110
-    proximity: 0.8149
+    lemma: πλάσμα
+    gloss: something moulded {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
     language: greek
   - strongs: G1096
-    proximity: 0.8033
+    lemma: γίνομαι
+    gloss: to cause to be {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
     language: greek
   - strongs: G4160
-    proximity: 0.7507
+    lemma: ποιέω
+    gloss: to make or do (in a very wide application {openscriptures-strongs}
+    proximity: 0.7507 {macula-proximity}
     language: greek
   - strongs: G2675
-    proximity: 0.7338
+    lemma: καταρτίζω
+    gloss: to complete thoroughly {openscriptures-strongs}
+    proximity: 0.7338 {macula-proximity}
     language: greek
   - strongs: G592
-    proximity: 0.7318
+    proximity: 0.7318 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

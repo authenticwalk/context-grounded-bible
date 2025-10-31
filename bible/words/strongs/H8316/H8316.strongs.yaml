@@ -6,42 +6,52 @@ pronunciation: ser-ay-faw'
 definition: cremation
 kjv_usage: burning.
 derivation: from H8313 (שָׂרַף);
-extended_definition:
-  gloss: fire
-  definition: burning
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: burning {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H801
-    proximity: 0.8132
+    proximity: 0.8132 {macula-proximity}
   - strongs: H2746
-    proximity: 0.812
+    lemma: חַרְחֻר
+    gloss: fever {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: H3555
-    proximity: 0.8042
+    lemma: כְּוִיָּה
+    gloss: a branding {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: H7033
-    proximity: 0.8027
+    lemma: קָלָה
+    gloss: to toast {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
   - strongs: H3827
-    proximity: 0.8009
+    lemma: לַבָּה
+    gloss: flame {openscriptures-strongs}
+    proximity: 0.8009 {macula-proximity}
   - strongs: H3554
-    proximity: 0.8008
+    lemma: כָּוָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8008 {macula-proximity}
   - strongs: H181
-    proximity: 0.8001
+    proximity: 0.8001 {macula-proximity}
   - strongs: H4168
-    proximity: 0.7999
+    lemma: מוֹקֵד
+    gloss: a fire or fuel {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
   - strongs: H2152
-    proximity: 0.7934
+    lemma: זַלְעָפָה
+    gloss: a glow {openscriptures-strongs}
+    proximity: 0.7934 {macula-proximity}
   - strongs: H1197a
-    proximity: 0.7922
+    proximity: 0.7922 {macula-proximity}
   cross_language:
   - strongs: G2739
-    proximity: 0.8065
+    lemma: καυματίζω
+    gloss: to burn {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
     language: greek
   - strongs: G2204
-    proximity: 0.7784
+    lemma: ζέω
+    gloss: to be hot (boil {openscriptures-strongs}
+    proximity: 0.7784 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

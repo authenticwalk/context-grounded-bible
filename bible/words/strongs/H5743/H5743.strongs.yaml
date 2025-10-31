@@ -6,51 +6,67 @@ pronunciation: oob
 definition: to be dense or dark, i.e. to becloud
 kjv_usage: cover with a cloud.
 derivation: a primitive root;
-extended_definition:
-  gloss: to becloud
-  definition: (Hiphil) to becloud
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Hiphil) to becloud {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2646
-    proximity: 0.8202
+    lemma: חֻפָּה
+    gloss: a canopy {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   - strongs: H2822
-    proximity: 0.8192
+    lemma: חֹשֶׁךְ
+    gloss: the dark {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: H6781a
-    proximity: 0.8112
+    proximity: 0.8112 {macula-proximity}
   - strongs: H5603
-    proximity: 0.798
+    lemma: סָפַן
+    gloss: to hide by covering {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
   - strongs: H270a
-    proximity: 0.7978
+    proximity: 0.7978 {macula-proximity}
   - strongs: H7824
-    proximity: 0.7809
+    lemma: שָׁחִיף
+    gloss: a board {openscriptures-strongs}
+    proximity: 0.7809 {macula-proximity}
   - strongs: H5844
-    proximity: 0.7787
+    lemma: עָטָה
+    gloss: to wrap {openscriptures-strongs}
+    proximity: 0.7787 {macula-proximity}
   - strongs: H2825
-    proximity: 0.7678
+    lemma: חֲשֵׁכָה
+    gloss: darkness {openscriptures-strongs}
+    proximity: 0.7678 {macula-proximity}
   - strongs: A6050
-    proximity: 0.7558
+    proximity: 0.7558 {macula-proximity}
   - strongs: H6183
-    proximity: 0.755
+    lemma: עָרִיף
+    gloss: the sky {openscriptures-strongs}
+    proximity: 0.755 {macula-proximity}
   cross_language:
   - strongs: G1981
-    proximity: 0.8243
+    lemma: ἐπισκηνόω
+    gloss: to tent upon {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: greek
   - strongs: G4655
-    proximity: 0.8223
+    lemma: σκότος
+    gloss: shadiness {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G4780
-    proximity: 0.815
+    lemma: συγκαλύπτω
+    gloss: to conceal altogether {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
     language: greek
   - strongs: G4653
-    proximity: 0.8067
+    lemma: σκοτία
+    gloss: dimness {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
     language: greek
   - strongs: G4652
-    proximity: 0.7948
+    lemma: σκοτεινός
+    gloss: opaque {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

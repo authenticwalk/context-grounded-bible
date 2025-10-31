@@ -5,24 +5,21 @@ transliteration: Lámech
 definition: Lamech (i.e. Lemek), a patriarch
 kjv_usage: Lamech
 derivation: of Hebrew origin (H03929);
-extended_definition:
-  gloss: Lamech
-  definition: '<b>Λάμεχ</b>, ὁ indecl. (Heb. לֶמֶךְ), <BR /> Lamech (<ref=''Gen.5.25''>Gen.5:25</ref>):
-    <ref=''Luk.3.36''>Luk.3:36</ref>.† <BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Λάμεχ</b>, ὁ indecl. (Heb. לֶמֶךְ), <BR /> Lamech (<ref=''Gen.5.25''>Gen.5:25</ref>):
-    <ref=''Luk.3.36''>Luk.3:36</ref>.† <BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Λάμεχ, ὁ indecl. (Heb. לֶמֶךְ),
+
+  Lamech (Gen.5:25): Luk.3:36.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Λάμεχ, ὁ indecl. (Heb. לֶמֶךְ),
+
+  Lamech (Gen.5:25): Luk.3:36.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H4375
-    proximity: 0.8204
+    lemma: מַכְפֵּלָה
+    gloss: Makpelah {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

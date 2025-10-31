@@ -6,21 +6,17 @@ pronunciation: makh-az-eh'
 definition: a vision
 kjv_usage: vision.
 derivation: from H2372 (חָזָה);
-extended_definition:
-  gloss: vision
-  definition: vision (in the ecstatic state)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: vision (in the ecstatic state) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7200
-    proximity: 0.8282
+    lemma: רָאָה
+    gloss: to see {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   cross_language:
   - strongs: G4592
-    proximity: 0.7963
+    lemma: σημεῖον
+    gloss: an indication {openscriptures-strongs}
+    proximity: 0.7963 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

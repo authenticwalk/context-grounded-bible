@@ -6,51 +6,67 @@ pronunciation: daw-gawn'
 definition: properly, increase, i.e. grain
 kjv_usage: corn (floor), wheat.
 derivation: from H1711 (דָּגָה);
-extended_definition:
-  gloss: grain
-  definition: wheat, cereal, grain, corn
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: wheat, cereal, grain, corn {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7231
-    proximity: 0.824
+    lemma: רָבַב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: H7641a
-    proximity: 0.8186
+    proximity: 0.8186 {macula-proximity}
   - strongs: H1430
-    proximity: 0.8184
+    lemma: גָּדִישׁ
+    gloss: a stack of sheaves {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   - strongs: H2406
-    proximity: 0.8154
+    lemma: חִטָּה
+    gloss: wheat {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: H5995
-    proximity: 0.8053
+    lemma: עָמִיר
+    gloss: a bunch of grain {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H1250a
-    proximity: 0.8031
+    proximity: 0.8031 {macula-proximity}
   - strongs: H4425
-    proximity: 0.8031
+    lemma: מְלִילָה
+    gloss: a head of grain {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
   - strongs: H3978
-    proximity: 0.7921
+    lemma: מַאֲכָל
+    gloss: an eatable (includ. provender {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
   - strongs: H6720
-    proximity: 0.7858
+    lemma: צֵידָה
+    gloss: food {openscriptures-strongs}
+    proximity: 0.7858 {macula-proximity}
   - strongs: H1267
-    proximity: 0.7845
+    lemma: בָּרוּת
+    gloss: food {openscriptures-strongs}
+    proximity: 0.7845 {macula-proximity}
   cross_language:
   - strongs: G4719
-    proximity: 0.8147
+    lemma: στάχυς
+    gloss: a head of grain {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
     language: greek
   - strongs: G1979
-    proximity: 0.794
+    lemma: ἐπισιτισμός
+    gloss: a provisioning {openscriptures-strongs}
+    proximity: 0.794 {macula-proximity}
     language: greek
   - strongs: G2848
-    proximity: 0.7926
+    lemma: κόκκος
+    gloss: a kernel of seed {openscriptures-strongs}
+    proximity: 0.7926 {macula-proximity}
     language: greek
   - strongs: G1033
-    proximity: 0.7893
+    lemma: βρῶμα
+    gloss: food {openscriptures-strongs}
+    proximity: 0.7893 {macula-proximity}
     language: greek
   - strongs: G229
-    proximity: 0.7845
+    proximity: 0.7845 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

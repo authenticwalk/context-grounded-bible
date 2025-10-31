@@ -6,37 +6,48 @@ pronunciation: mik-tawb'
 definition: a thing written, the characters, or a document (letter, copy, edict, poem)
 kjv_usage: writing.
 derivation: from H3789 (כָּתַב);
-extended_definition:
-  gloss: writing
-  definition: 1) writing, thing written<br>1a) handwriting<br>1b) thing written<br>1c)
-    writing
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) writing, thing written
+
+  1a) handwriting
+
+  1b) thing written
+
+  1c) writing {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4097
-    proximity: 0.7979
+    lemma: מִדְרָשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7979 {macula-proximity}
   - strongs: A5407
-    proximity: 0.7956
+    proximity: 0.7956 {macula-proximity}
   - strongs: H3789
-    proximity: 0.7876
+    lemma: כָּתַב
+    gloss: to grave {openscriptures-strongs}
+    proximity: 0.7876 {macula-proximity}
   - strongs: H7083
-    proximity: 0.7871
+    lemma: קֶסֶת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7871 {macula-proximity}
   - strongs: H5406
-    proximity: 0.7507
+    lemma: נִשְׁתְּוָן
+    gloss: an epistle {openscriptures-strongs}
+    proximity: 0.7507 {macula-proximity}
   - strongs: H5612
-    proximity: 0.7347
+    lemma: סֵפֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7347 {macula-proximity}
   - strongs: A104
-    proximity: 0.7114
+    proximity: 0.7114 {macula-proximity}
   cross_language:
   - strongs: G1989
-    proximity: 0.7777
+    lemma: ἐπιστέλλω
+    gloss: to enjoin {openscriptures-strongs}
+    proximity: 0.7777 {macula-proximity}
     language: greek
   - strongs: G1125
-    proximity: 0.7459
+    lemma: γράφω
+    gloss: to "grave" {openscriptures-strongs}
+    proximity: 0.7459 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

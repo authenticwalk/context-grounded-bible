@@ -6,47 +6,57 @@ pronunciation: oosh
 definition: to hasten
 kjv_usage: assemble self.
 derivation: a primitive root;
-extended_definition:
-  gloss: to help
-  definition: (Qal) to lend aid, come to help, hasten
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to lend aid, come to help, hasten {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2440
-    proximity: 0.8189
+    lemma: חִישׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: A924
-    proximity: 0.8154
+    proximity: 0.8154 {macula-proximity}
   - strongs: H926
-    proximity: 0.8105
+    proximity: 0.8105 {macula-proximity}
   - strongs: H213
-    proximity: 0.7987
+    proximity: 0.7987 {macula-proximity}
   - strongs: H2649
-    proximity: 0.7779
+    lemma: חִפָּזוֹן
+    gloss: hasty flight {openscriptures-strongs}
+    proximity: 0.7779 {macula-proximity}
   - strongs: H3288a
-    proximity: 0.7754
+    proximity: 0.7754 {macula-proximity}
   - strongs: H3288
-    proximity: 0.7504
+    lemma: יְעָף
+    gloss: fatigue (adverb {openscriptures-strongs}
+    proximity: 0.7504 {macula-proximity}
   - strongs: H1765
-    proximity: 0.7128
+    lemma: דָּחַף
+    gloss: to urge {openscriptures-strongs}
+    proximity: 0.7128 {macula-proximity}
   cross_language:
   - strongs: G4932
-    proximity: 0.8176
+    lemma: συντέμνω
+    gloss: to contract by cutting {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
     language: greek
   - strongs: G5032
-    proximity: 0.8093
+    lemma: τάχιον
+    gloss: more swiftly {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
     language: greek
   - strongs: G4708
-    proximity: 0.7833
+    lemma: σπουδαιοτέρως
+    gloss: more speedily {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
     language: greek
   - strongs: G5031
-    proximity: 0.734
+    lemma: ταχινός
+    gloss: curt {openscriptures-strongs}
+    proximity: 0.734 {macula-proximity}
     language: greek
   - strongs: G4692
-    proximity: 0.712
+    lemma: σπεύδω
+    gloss: to "speed" {openscriptures-strongs}
+    proximity: 0.712 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

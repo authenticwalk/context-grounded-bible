@@ -5,61 +5,64 @@ transliteration: katáloipos
 definition: left down (behind), i.e remaining (plural the rest)
 kjv_usage: residue
 derivation: from G2596 (κατά) and G3062 (λοιποί);
-extended_definition:
-  gloss: remaining
-  definition: '<b>κατά-λοιπος</b>, -ον <BR /> [in LXX for שָׁאַר, שְׁאֵרִית, יָתַר,
-    etc. ;] <BR /><b>left remaining</b>: ἱο κ. τ. ἀνθρώπων, <ref=''Act.15.17''>Act.15:17</ref>
-    (LXX).†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κατάλοιπος</b>, ον, <br /> <b>left remaining</b>, τὸ κ. ἀπεργάζεσθαι
-    [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Timaeus”
-    39e ">Refs 5th c.BC+</a>]; ἐκ τοῦ κ. [<a href="javascript:void(0)" title=" 4th
-    c.BC: Aristoteles Philosophus “Historia Animalium” 548b18, compare “Michel” 829.23
-    (1st c.BC)">Refs 4th c.BC+</a>], etc.; τὰ κ. τῆς διεξόδου [<a href="javascript:void(0)"
-    title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 1.120 5th c.BC: Sophocles
-    Tragicus ">Refs 5th c.BC+</a>]; τοῦτο.. κατάλοιπόν [ἐστι] with <i>infinitive</i>,
-    [<a href="javascript:void(0)" title=" 3rd c.BC(?): Strato Comicus 1.10; ἡ κ. εἰσβολή
-    2nd c.BC: Polybius Historicus 3.91.9 ">Refs 3rd c.BC+</a>]; ἡ κ. the <b>other</b>
-    of two, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 7.314.
-    ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κατά-λοιπος, -ον
+
+  [in LXX for שָׁאַר, שְׁאֵרִית, יָתַר, etc. ;]
+
+  left remaining: ἱο κ. τ. ἀνθρώπων, Act.15:17 (LXX).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κατάλοιπος, ον,
+
+  left remaining, τὸ κ. ἀπεργάζεσθαι [Refs 5th c.BC+]; ἐκ τοῦ κ. [Refs 4th c.BC+],
+  etc.; τὰ κ. τῆς διεξόδου [Refs 5th c.BC+]; τοῦτο.. κατάλοιπόν [ἐστι] with infinitive,
+  [Refs 3rd c.BC+]; ἡ κ. the other of two, [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3306
-    proximity: 0.8251
+    lemma: μένω
+    gloss: to stay (in a given place {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: G5275
-    proximity: 0.7996
+    lemma: ὑπολείπω
+    gloss: to leave under {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
   - strongs: G372
-    proximity: 0.77
+    proximity: 0.77 {macula-proximity}
   - strongs: A2273
-    proximity: 0.7552
+    proximity: 0.7552 {macula-proximity}
   - strongs: G4035
-    proximity: 0.7454
+    lemma: περιλείπω
+    gloss: to leave all around {openscriptures-strongs}
+    proximity: 0.7454 {macula-proximity}
   - strongs: G2640a
-    proximity: 0.7223
+    proximity: 0.7223 {macula-proximity}
   - strongs: G2663
-    proximity: 0.7119
+    lemma: κατάπαυσις
+    gloss: reposing down {openscriptures-strongs}
+    proximity: 0.7119 {macula-proximity}
   cross_language:
   - strongs: H5117
-    proximity: 0.8151
+    lemma: נוּחַ
+    gloss: to rest {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
     language: hebrew
   - strongs: H319
-    proximity: 0.8067
+    proximity: 0.8067 {macula-proximity}
     language: hebrew
   - strongs: H1824
-    proximity: 0.7914
+    lemma: דְּמִי
+    gloss: quiet {openscriptures-strongs}
+    proximity: 0.7914 {macula-proximity}
     language: hebrew
   - strongs: H3148
-    proximity: 0.7683
+    lemma: יוֹתֵר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7683 {macula-proximity}
     language: hebrew
   - strongs: H4771
-    proximity: 0.7269
+    lemma: מַרְגּוֹעַ
+    gloss: a resting place {openscriptures-strongs}
+    proximity: 0.7269 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

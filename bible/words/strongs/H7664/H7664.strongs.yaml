@@ -6,47 +6,55 @@ pronunciation: say'-ber
 definition: expectation
 kjv_usage: hope.
 derivation: from H7663 (שָׂבַר);
-extended_definition:
-  gloss: hope
-  definition: hope
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: hope {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A7365
-    proximity: 0.8276
+    proximity: 0.8276 {macula-proximity}
   - strongs: H7952
-    proximity: 0.8155
+    lemma: שָׁלָה
+    gloss: to mislead {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H985
-    proximity: 0.8151
+    proximity: 0.8151 {macula-proximity}
   - strongs: H2837
-    proximity: 0.8027
+    lemma: חֵשֶׁק
+    gloss: delight {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
   - strongs: H982
-    proximity: 0.7749
+    proximity: 0.7749 {macula-proximity}
   - strongs: H4180a
-    proximity: 0.7526
+    proximity: 0.7526 {macula-proximity}
   - strongs: H1891
-    proximity: 0.7381
+    lemma: הָבַל
+    gloss: to be vain in act {openscriptures-strongs}
+    proximity: 0.7381 {macula-proximity}
   - strongs: H3175
-    proximity: 0.7294
+    lemma: יָחִיל
+    gloss: expectant {openscriptures-strongs}
+    proximity: 0.7294 {macula-proximity}
   cross_language:
   - strongs: G4102
-    proximity: 0.8246
+    lemma: πίστις
+    gloss: persuasion {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
     language: greek
   - strongs: G4329
-    proximity: 0.822
+    lemma: προσδοκία
+    gloss: apprehension {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
     language: greek
   - strongs: G2172
-    proximity: 0.8081
+    lemma: εὔχομαι
+    gloss: to wish {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
     language: greek
   - strongs: G1820
-    proximity: 0.8067
+    lemma: ἐξαπορέομαι
+    gloss: to be utterly at a loss {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
     language: greek
   - strongs: G872
-    proximity: 0.7977
+    proximity: 0.7977 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

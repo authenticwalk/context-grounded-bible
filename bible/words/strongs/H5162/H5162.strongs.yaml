@@ -8,54 +8,87 @@ definition: properly, to sigh, i.e. breathe strongly; by implication, to be sorr
   to avenge (oneself)
 kjv_usage: comfort (self), ease (one's self), repent(-er,-ing, self).
 derivation: a primitive root;
-extended_definition:
-  gloss: 'to be sorry: relent'
-  definition: ': relent<br>1) to be sorry, console oneself, repent, regret, comfort,
-    be comforted<br>1a) (Niphal)<br>1a1) to be sorry, be moved to pity, have compassion<br>1a2)
-    to be sorry, rue, suffer grief, repent<br>1a3) to comfort oneself, be comforted<br>1a4)
-    to comfort oneself, ease oneself<br>1b) (Piel) to comfort, console<br>1c) (Pual)
-    to be comforted, be consoled<br>1d) (Hithpael)<br>1d1) to be sorry, have compassion<br>1d2)
-    to rue, repent of<br>1d3) to comfort oneself, be comforted<br>1d4) to ease oneself'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': relent
+
+  1) to be sorry, console oneself, repent, regret, comfort, be comforted
+
+  1a) (Niphal)
+
+  1a1) to be sorry, be moved to pity, have compassion
+
+  1a2) to be sorry, rue, suffer grief, repent
+
+  1a3) to comfort oneself, be comforted
+
+  1a4) to comfort oneself, ease oneself
+
+  1b) (Piel) to comfort, console
+
+  1c) (Pual) to be comforted, be consoled
+
+  1d) (Hithpael)
+
+  1d1) to be sorry, have compassion
+
+  1d2) to rue, repent of
+
+  1d3) to comfort oneself, be comforted
+
+  1d4) to ease oneself {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7356
-    proximity: 0.8215
+    lemma: רַחַם
+    gloss: compassion {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H7725
-    proximity: 0.8208
+    lemma: שׁוּב
+    gloss: to turn back (hence {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   - strongs: H4010
-    proximity: 0.8056
+    lemma: מַבְלִיגִית
+    gloss: desistance {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H413
-    proximity: 0.8039
+    proximity: 0.8039 {macula-proximity}
   - strongs: H5701
-    proximity: 0.8028
+    lemma: עָגַם
+    gloss: to be sad {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
   - strongs: H2550
-    proximity: 0.7992
+    lemma: חָמַל
+    gloss: to commiserate {openscriptures-strongs}
+    proximity: 0.7992 {macula-proximity}
   - strongs: H2347
-    proximity: 0.7967
+    lemma: חוּס
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
   - strongs: H7355
-    proximity: 0.788
+    lemma: רָחַם
+    gloss: to fondle {openscriptures-strongs}
+    proximity: 0.788 {macula-proximity}
   - strongs: H5183a
-    proximity: 0.7835
+    proximity: 0.7835 {macula-proximity}
   cross_language:
   - strongs: G5159
-    proximity: 0.8238
+    lemma: τροποφορέω
+    gloss: to endure one's habits {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
     language: greek
   - strongs: G1055
-    proximity: 0.8201
+    lemma: γαλήνη
+    gloss: tranquillity {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G85
-    proximity: 0.8165
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G2192
-    proximity: 0.8137
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
     language: greek
   - strongs: G278
-    proximity: 0.81
+    proximity: 0.81 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

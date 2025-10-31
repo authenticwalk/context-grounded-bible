@@ -20,36 +20,49 @@ derivation: from H1129 (בָּנָה);
 related_words:
   synonyms:
   - strongs: H1419
-    proximity: 0.8298
+    lemma: גָּדוֹל
+    gloss: great {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: A7625
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
   - strongs: H8141
-    proximity: 0.8292
+    lemma: שָׁנֶה
+    gloss: a year {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: H2416e
-    proximity: 0.8291
+    proximity: 0.8291 {macula-proximity}
   - strongs: H176
-    proximity: 0.8286
+    proximity: 0.8286 {macula-proximity}
   - strongs: H7698
-    proximity: 0.8275
+    lemma: שֶׁגֶר
+    gloss: the fetus {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H2618
-    proximity: 0.8269
+    lemma: חֶסֶד
+    gloss: Chesed {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   cross_language:
   - strongs: G2365
-    proximity: 0.8299
+    lemma: θυγάτριον
+    gloss: a daughterling {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G2187
-    proximity: 0.8296
+    lemma: Ἐφραίμ
+    gloss: Ephraim {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G2466a
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G1483
-    proximity: 0.8287
+    lemma: ἐθνικῶς
+    gloss: as a Gentile {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G5042
-    proximity: 0.8282
+    lemma: τεκνογονία
+    gloss: childbirth {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

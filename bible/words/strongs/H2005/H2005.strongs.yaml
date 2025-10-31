@@ -6,50 +6,63 @@ pronunciation: hane
 definition: lo!; also (as expressing surprise) if
 kjv_usage: behold, if, lo, though.
 derivation: a primitive particle;
-extended_definition:
-  gloss: look!
-  definition: 'interj<br>1) behold, lo, though hypothetical part<br>2) if<BR>Aramaic
-    equivalent: <i>hen</i> (הֵן "look!" H2006A)'
-  morphology: H:Intj
-  source: STEPBible/BDB
+extended_definition: 'interj
+
+  1) behold, lo, though hypothetical part
+
+  2) if
+
+  Aramaic equivalent: hen (הֵן "look!" H2006A) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H403
-    proximity: 0.8271
+    proximity: 0.8271 {macula-proximity}
   - strongs: H871a
-    proximity: 0.8263
+    proximity: 0.8263 {macula-proximity}
   - strongs: H61
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
   - strongs: H1571
-    proximity: 0.8249
+    lemma: גַּם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
   - strongs: H834
-    proximity: 0.8248
+    proximity: 0.8248 {macula-proximity}
   - strongs: H7535
-    proximity: 0.823
+    lemma: רַק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: A2370
-    proximity: 0.8184
+    proximity: 0.8184 {macula-proximity}
   - strongs: H7207
-    proximity: 0.8157
+    lemma: רַאֲוָה
+    gloss: sight {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: H305
-    proximity: 0.8156
+    proximity: 0.8156 {macula-proximity}
   cross_language:
   - strongs: G1227
-    proximity: 0.8269
+    lemma: διαβλέπω
+    gloss: to look through {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
     language: greek
   - strongs: G2579
-    proximity: 0.8251
+    lemma: κἄν
+    gloss: and  if {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
     language: greek
   - strongs: G2532
-    proximity: 0.8246
+    lemma: καί
+    gloss: and {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
     language: greek
   - strongs: G2529
-    proximity: 0.817
+    lemma: καθοράω
+    gloss: to behold fully {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
     language: greek
   - strongs: G4308
-    proximity: 0.8126
+    lemma: προοράω
+    gloss: to behold in advance {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

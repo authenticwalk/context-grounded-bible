@@ -6,43 +6,53 @@ pronunciation: gheh-ool-law'
 definition: redemption (including the right and the object); by implication, relationship
 kjv_usage: kindred, redeem, redemption, right.
 derivation: feminine passive participle of H1350 (גָּאַל);
-extended_definition:
-  gloss: redemption
-  definition: 1) kindred, redemption, right of redemption, price of redemption<br>1a)
-    kin, kindred<br>1b) redemption<br>1c) right of redemption<br>1d) price of redemption,
-    redemption price
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) kindred, redemption, right of redemption, price of redemption
+
+  1a) kin, kindred
+
+  1b) redemption
+
+  1c) right of redemption
+
+  1d) price of redemption, redemption price {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3807a
-    proximity: 0.8168
+    proximity: 0.8168 {macula-proximity}
   - strongs: H413
-    proximity: 0.8097
+    proximity: 0.8097 {macula-proximity}
   - strongs: H6304
-    proximity: 0.7608
+    lemma: פְּדוּת
+    gloss: distinction {openscriptures-strongs}
+    proximity: 0.7608 {macula-proximity}
   - strongs: H6306
-    proximity: 0.7232
+    lemma: פִּדְיוֹם
+    gloss: a ransom {openscriptures-strongs}
+    proximity: 0.7232 {macula-proximity}
   - strongs: H1350a
-    proximity: 0.7038
+    proximity: 0.7038 {macula-proximity}
   cross_language:
   - strongs: G4314
-    proximity: 0.8294
+    lemma: πρός
+    gloss: a preposition of direction {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G3084
-    proximity: 0.8203
+    lemma: λυτρόω
+    gloss: to ransom {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
     language: greek
   - strongs: G3083
-    proximity: 0.8184
+    lemma: λύτρον
+    gloss: something to loosen with {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
     language: greek
   - strongs: G1805
-    proximity: 0.7992
+    lemma: ἐξαγοράζω
+    gloss: to buy up {openscriptures-strongs}
+    proximity: 0.7992 {macula-proximity}
     language: greek
   - strongs: G487
-    proximity: 0.7957
+    proximity: 0.7957 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,32 +6,34 @@ pronunciation: kel-ee'
 definition: a prison
 kjv_usage: prison.
 derivation: or כְּלוּא; from H3627 (כְּלִי) (compare H3608 (כֶּלֶא));
-extended_definition:
-  gloss: prison
-  definition: imprisonment
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: imprisonment {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4929
-    proximity: 0.812
+    lemma: מִשְׁמָר
+    gloss: a guard (the man {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: H631
-    proximity: 0.791
+    proximity: 0.791 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7892
+    proximity: 0.7892 {macula-proximity}
   - strongs: H1004
-    proximity: 0.7825
+    lemma: בַּיִת
+    gloss: a house (in the greatest variation of applications {openscriptures-strongs}
+    proximity: 0.7825 {macula-proximity}
   - strongs: H4307
-    proximity: 0.728
+    lemma: מַטָּרָא
+    gloss: a jail {openscriptures-strongs}
+    proximity: 0.728 {macula-proximity}
   cross_language:
   - strongs: G4869
-    proximity: 0.8194
+    lemma: συναιχμάλωτος
+    gloss: a co-captive {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G4887
-    proximity: 0.7762
+    lemma: συνδέω
+    gloss: to bind with {openscriptures-strongs}
+    proximity: 0.7762 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

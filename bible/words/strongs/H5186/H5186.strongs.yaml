@@ -10,57 +10,89 @@ kjv_usage: '[phrase] afternoon, apply, bow (down, -ing), carry aside, decline, d
   pervert, pitch, prolong, put away, shew, spread (out), stretch (forth, out), take
   (aside), turn (aside, away), wrest, cause to yield.'
 derivation: a primitive root;
-extended_definition:
-  gloss: to stretch
-  definition: 1) to stretch out, extend, spread out, pitch, turn, pervert, incline,
-    bend, bow<br>1a) (Qal)<br>1a1) to stretch out, extend, stretch, offer<br>1a2)
-    to spread out, pitch (tent)<br>1a3) to bend, turn, incline<br>1a3a) to turn aside,
-    incline, decline, bend down<br>1a3b) to bend, bow<br>1a3c) to hold out, extend
-    (fig.)<br>1b) (Niphal) to be stretched out<br>1c) (Hiphil)<br>1c1) to stretch
-    out<br>1c2) to spread out<br>1c3) to turn, incline, influence, bend down, hold
-    out, extend, thrust aside, thrust away
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to stretch out, extend, spread out, pitch, turn, pervert,
+  incline, bend, bow
+
+  1a) (Qal)
+
+  1a1) to stretch out, extend, stretch, offer
+
+  1a2) to spread out, pitch (tent)
+
+  1a3) to bend, turn, incline
+
+  1a3a) to turn aside, incline, decline, bend down
+
+  1a3b) to bend, bow
+
+  1a3c) to hold out, extend (fig.)
+
+  1b) (Niphal) to be stretched out
+
+  1c) (Hiphil)
+
+  1c1) to stretch out
+
+  1c2) to spread out
+
+  1c3) to turn, incline, influence, bend down, hold out, extend, thrust aside, thrust
+  away {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A6246
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8297
+    proximity: 0.8297 {macula-proximity}
   - strongs: H5921
-    proximity: 0.8292
+    lemma: עַל
+    gloss: above {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: H2015
-    proximity: 0.8219
+    lemma: הָפַךְ
+    gloss: to turn about or over {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: H5265
-    proximity: 0.8187
+    lemma: נָסַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
   - strongs: H5800
-    proximity: 0.8164
+    lemma: עָזַב
+    gloss: to loosen {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
   - strongs: H4058
-    proximity: 0.8153
+    lemma: מָדַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
   - strongs: H5437
-    proximity: 0.8139
+    lemma: סָבַב
+    gloss: to revolve {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H5628a
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
   - strongs: H5927
-    proximity: 0.8101
+    lemma: עָלָה
+    gloss: to ascend {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
   cross_language:
   - strongs: G5431
-    proximity: 0.8232
+    lemma: φροντίζω
+    gloss: to exercise thought {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
     language: greek
   - strongs: G4198
-    proximity: 0.823
+    lemma: πορεύομαι
+    gloss: to traverse {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
     language: greek
   - strongs: G565
-    proximity: 0.8188
+    proximity: 0.8188 {macula-proximity}
     language: greek
   - strongs: G867
-    proximity: 0.8187
+    proximity: 0.8187 {macula-proximity}
     language: greek
   - strongs: G4078
-    proximity: 0.8105
+    lemma: πήγνυμι
+    gloss: to fix {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

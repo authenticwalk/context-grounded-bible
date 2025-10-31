@@ -6,26 +6,26 @@ pronunciation: mats-tsaw'
 definition: a couch
 kjv_usage: bed.
 derivation: from H3331 (יַצַע);
-extended_definition:
-  gloss: bed
-  definition: couch, bed
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: couch, bed {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3331
-    proximity: 0.7284
+    lemma: יַצַע
+    gloss: to strew as a surface {openscriptures-strongs}
+    proximity: 0.7284 {macula-proximity}
   - strongs: H4765
-    proximity: 0.7053
+    lemma: מַרְבַד
+    gloss: a coverlet {openscriptures-strongs}
+    proximity: 0.7053 {macula-proximity}
   cross_language:
   - strongs: G2845
-    proximity: 0.8129
+    lemma: κοίτη
+    gloss: a couch {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
     language: greek
   - strongs: G2826
-    proximity: 0.7167
+    lemma: κλινίδιον
+    gloss: a pallet or little couch {openscriptures-strongs}
+    proximity: 0.7167 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

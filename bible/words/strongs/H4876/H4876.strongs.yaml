@@ -6,42 +6,48 @@ pronunciation: mash-shoo-aw'
 definition: ruin
 kjv_usage: desolation, destruction.
 derivation: or מַשֻּׁאָה; for H4875 (מְשׁוֹאָה);
-extended_definition:
-  gloss: desolation
-  definition: desolation, ruin
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: desolation, ruin {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A7
-    proximity: 0.828
+    proximity: 0.828 {macula-proximity}
   - strongs: H5557
-    proximity: 0.8268
+    lemma: סָלַף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: H1327
-    proximity: 0.8256
+    lemma: בַּתָּה
+    gloss: desolation {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: H2018
-    proximity: 0.8191
+    lemma: הֲפֵכָה
+    gloss: destruction {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
   - strongs: A2718
-    proximity: 0.8181
+    proximity: 0.8181 {macula-proximity}
   - strongs: H1105a
-    proximity: 0.817
+    proximity: 0.817 {macula-proximity}
   - strongs: H8414
-    proximity: 0.8023
+    lemma: תֹּהוּ
+    gloss: a desolation {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
   - strongs: H4384
-    proximity: 0.7995
+    lemma: מַכְשֵׁלָה
+    gloss: a stumbling-block {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
   - strongs: H7334
-    proximity: 0.7984
+    lemma: רָזִי
+    gloss: thinness {openscriptures-strongs}
+    proximity: 0.7984 {macula-proximity}
   - strongs: H1250a
-    proximity: 0.7963
+    proximity: 0.7963 {macula-proximity}
   cross_language:
   - strongs: G854
-    proximity: 0.8075
+    proximity: 0.8075 {macula-proximity}
     language: greek
   - strongs: G3645
-    proximity: 0.8052
+    lemma: ὀλοθρεύω
+    gloss: to spoil {openscriptures-strongs}
+    proximity: 0.8052 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

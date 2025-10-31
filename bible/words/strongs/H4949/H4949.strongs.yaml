@@ -6,24 +6,22 @@ pronunciation: mish-keh'-leth
 definition: a weight, i.e. a plummet (with line attached)
 kjv_usage: plummet.
 derivation: or מִשְׁקֹלֶת; feminine of H4948 (מִשְׁקָל) or H4947 (מַשְׁקוֹף);
-extended_definition:
-  gloss: level
-  definition: level, levelling tool or instrument, plummet
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: level, levelling tool or instrument, plummet {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4058
-    proximity: 0.7482
+    lemma: מָדַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7482 {macula-proximity}
   cross_language:
   - strongs: G3977
-    proximity: 0.816
+    lemma: πεδινός
+    gloss: level {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
     language: greek
   - strongs: G3354
-    proximity: 0.7667
+    lemma: μετρέω
+    gloss: to measure {openscriptures-strongs}
+    proximity: 0.7667 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

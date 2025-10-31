@@ -11,46 +11,66 @@ kjv_usage: alway(-s), ancient (time), any more, continuance, eternal, (for, (n-)
   at any time, (beginning of the) world ([phrase] without end). Compare H5331 (נֶצַח),
   H5703 (עַד).
 derivation: or עֹלָם; from H5956 (עָלַם);
-extended_definition:
-  gloss: 'forever: antiquity'
-  definition: ': old/ancient<br>1) long duration, antiquity, futurity, for ever, ever,
-    everlasting, evermore, perpetual, old, ancient, world<br>1a) ancient time, long
-    time (of past)<br>1b) (of future)<br>1b1) for ever, always<br>1b2) continuous
-    existence, perpetual<br>1b3) everlasting, indefinite or unending future, eternity'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': old/ancient
+
+  1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual,
+  old, ancient, world
+
+  1a) ancient time, long time (of past)
+
+  1b) (of future)
+
+  1b1) for ever, always
+
+  1b2) continuous existence, perpetual
+
+  1b3) everlasting, indefinite or unending future, eternity {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5239
-    proximity: 0.829
+    lemma: נָלָה
+    gloss: to complete {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: H3808
-    proximity: 0.8286
+    lemma: לֹא
+    gloss: not {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: H227
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
   - strongs: A3118
-    proximity: 0.8061
+    proximity: 0.8061 {macula-proximity}
   - strongs: H2416
-    proximity: 0.7967
+    lemma: חַי
+    gloss: alive {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
   - strongs: H5125
-    proximity: 0.7958
+    lemma: נוּן
+    gloss: to resprout {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
   cross_language:
   - strongs: G3588
-    proximity: 0.8287
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G5550
-    proximity: 0.8282
+    lemma: χρόνος
+    gloss: a space of time (in general {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: greek
   - strongs: G3368
-    proximity: 0.8281
+    lemma: μηδέποτε
+    gloss: not even ever {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G4387
-    proximity: 0.824
+    lemma: πρότερος
+    gloss: prior or previous {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: greek
   - strongs: G2064
-    proximity: 0.82
+    lemma: ἔρχομαι
+    gloss: to come or go (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

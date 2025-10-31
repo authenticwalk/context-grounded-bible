@@ -6,43 +6,60 @@ pronunciation: naw-ham'
 definition: to growl
 kjv_usage: mourn, roar(-ing).
 derivation: a primitive root;
-extended_definition:
-  gloss: to groan
-  definition: 1) to growl, groan<br>1a) (Qal)<br>1a1) to growl (of lion)<br>1a2) to
-    groan (of sufferer)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to growl, groan
+
+  1a) (Qal)
+
+  1a1) to growl (of lion)
+
+  1a2) to groan (of sufferer) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H56a
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
   - strongs: H6963
-    proximity: 0.8248
+    lemma: קוֹל
+    gloss: a voice or sound {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: H5008
-    proximity: 0.8208
+    lemma: נָאַק
+    gloss: to groan {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   - strongs: H57
-    proximity: 0.8066
+    proximity: 0.8066 {macula-proximity}
   - strongs: H3885
-    proximity: 0.8051
+    lemma: לוּן
+    gloss: to stop {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
   - strongs: H1901
-    proximity: 0.8
+    lemma: הָגִיג
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: H1068
-    proximity: 0.7976
+    lemma: בְּכִית
+    gloss: a weeping {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: H5594
-    proximity: 0.7911
+    lemma: סָפַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
   - strongs: H7588
-    proximity: 0.7797
+    lemma: שָׁאוֹן
+    gloss: uproar {openscriptures-strongs}
+    proximity: 0.7797 {macula-proximity}
   - strongs: H1600
-    proximity: 0.7761
+    lemma: גָּעָה
+    gloss: to bellow {openscriptures-strongs}
+    proximity: 0.7761 {macula-proximity}
   cross_language:
   - strongs: G3997
-    proximity: 0.8138
+    lemma: πένθος
+    gloss: grief {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
     language: greek
   - strongs: G3996
-    proximity: 0.7826
+    lemma: πενθέω
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.7826 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

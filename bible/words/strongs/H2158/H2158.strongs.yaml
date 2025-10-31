@@ -6,42 +6,56 @@ pronunciation: zaw-meer'
 definition: a song to be accompanied with instrumental music
 kjv_usage: psalm(-ist), singing, song.
 derivation: or זָמִר; and (feminine) זְמִרָה; from H2167 (זָמַר);
-extended_definition:
-  gloss: song
-  definition: song, psalm
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: song, psalm {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3574
-    proximity: 0.8277
+    lemma: כּוֹשָׁרָה
+    gloss: prosperity {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H6969
-    proximity: 0.8276
+    lemma: קוּן
+    gloss: to strike a musical note {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: H4905
-    proximity: 0.8121
+    lemma: מַשְׂכִּיל
+    gloss: instructive {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H7442
-    proximity: 0.8077
+    lemma: רָנַן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
   - strongs: H6527
-    proximity: 0.8067
+    lemma: פָּרַט
+    gloss: to scatter words {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   - strongs: H6963
-    proximity: 0.8003
+    lemma: קוֹל
+    gloss: a voice or sound {openscriptures-strongs}
+    proximity: 0.8003 {macula-proximity}
   - strongs: H3939a
-    proximity: 0.7961
+    proximity: 0.7961 {macula-proximity}
   - strongs: H5058
-    proximity: 0.7879
+    lemma: נְגִינָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7879 {macula-proximity}
   - strongs: H2686
-    proximity: 0.7826
+    lemma: חָצַץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7826 {macula-proximity}
   - strongs: H6476
-    proximity: 0.7752
+    lemma: פָּצַח
+    gloss: to break out {openscriptures-strongs}
+    proximity: 0.7752 {macula-proximity}
   cross_language:
   - strongs: G2354
-    proximity: 0.8119
+    lemma: θρηνέω
+    gloss: to bewail {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
     language: greek
   - strongs: G3451
-    proximity: 0.7773
+    lemma: μουσικός
+    gloss: '"musical" {openscriptures-strongs}'
+    proximity: 0.7773 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

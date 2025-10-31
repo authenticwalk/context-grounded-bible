@@ -7,41 +7,65 @@ definition: valuable (objectively or subjectively)
 kjv_usage: brightness, clear, costly, excellent, fat, honourable women, precious,
   reputation.
 derivation: from H3365 (יָקַר);
-extended_definition:
-  gloss: precious
-  definition: 1) valuable, prized, weighty, precious, rare, splendid<br>1a) precious<br>1a1)
-    costly<br>1a2) precious, highly valued<br>1a3) precious stones or jewels<br>1b)
-    rare<br>1c) glorious, splendid<br>1d) weighty, influential
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) valuable, prized, weighty, precious, rare, splendid
+
+  1a) precious
+
+  1a1) costly
+
+  1a2) precious, highly valued
+
+  1a3) precious stones or jewels
+
+  1b) rare
+
+  1c) glorious, splendid
+
+  1d) weighty, influential {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1925
-    proximity: 0.8201
+    lemma: הֶדֶר
+    gloss: honour {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: H8226
-    proximity: 0.8158
+    lemma: שָׂפַן
+    gloss: to conceal {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: H3308
-    proximity: 0.813
+    lemma: יֳפִי
+    gloss: beauty {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
   - strongs: A3367
-    proximity: 0.8123
+    proximity: 0.8123 {macula-proximity}
   - strongs: H3513
-    proximity: 0.8016
+    lemma: כָּבַד
+    gloss: to be heavy {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
   - strongs: H6643
-    proximity: 0.7951
+    lemma: צְבִי
+    gloss: splendor {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
   - strongs: H7705
-    proximity: 0.7911
+    lemma: שִׁדָּה
+    gloss: a wife {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
   - strongs: H1926
-    proximity: 0.7719
+    lemma: הָדָר
+    gloss: magnificence {openscriptures-strongs}
+    proximity: 0.7719 {macula-proximity}
   - strongs: H2656
-    proximity: 0.7666
+    lemma: חֵפֶץ
+    gloss: pleasure {openscriptures-strongs}
+    proximity: 0.7666 {macula-proximity}
   - strongs: H1935
-    proximity: 0.7658
+    lemma: הוֹד
+    gloss: grandeur {openscriptures-strongs}
+    proximity: 0.7658 {macula-proximity}
   cross_language:
   - strongs: G4149
-    proximity: 0.8284
+    lemma: πλοῦτος
+    gloss: wealth {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

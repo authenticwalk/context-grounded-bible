@@ -15,38 +15,50 @@ derivation: probably a primitive word;
 related_words:
   synonyms:
   - strongs: A7359
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
   - strongs: A431
-    proximity: 0.8291
+    proximity: 0.8291 {macula-proximity}
   - strongs: H7521
-    proximity: 0.8261
+    lemma: רָצָה
+    gloss: to be pleased with {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: H4480
-    proximity: 0.8225
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: H7583
-    proximity: 0.8219
+    lemma: שָׁאָה
+    gloss: to stun {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: H7520
-    proximity: 0.8215
+    lemma: רָצַד
+    gloss: probably to look askant {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: A7920
-    proximity: 0.821
+    proximity: 0.821 {macula-proximity}
   - strongs: H4696
-    proximity: 0.8207
+    lemma: מֵצַח
+    gloss: the forehead {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   cross_language:
   - strongs: G1848
-    proximity: 0.8286
+    lemma: ἐξουθενέω
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G2029
-    proximity: 0.8261
+    lemma: ἐποπτεύω
+    gloss: to inspect {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: greek
   - strongs: G4250
-    proximity: 0.8245
+    lemma: πρίν
+    gloss: prior {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
     language: greek
   - strongs: G632
-    proximity: 0.8243
+    proximity: 0.8243 {macula-proximity}
     language: greek
   - strongs: G561
-    proximity: 0.8233
+    proximity: 0.8233 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

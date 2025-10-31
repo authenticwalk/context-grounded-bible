@@ -6,36 +6,44 @@ pronunciation: neh-o'-reth
 definition: something shaken out, i.e. tow (as the refuse of flax)
 kjv_usage: tow.
 derivation: from H5287 (נָעַר);
-extended_definition:
-  gloss: tow
-  definition: a strand of flax, tow (as shaken from flax when beaten)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: a strand of flax, tow (as shaken from flax when beaten) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2256
-    proximity: 0.8221
+    lemma: חֶבֶל
+    gloss: a rope {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H6593
-    proximity: 0.8096
+    lemma: פִּשְׁתֶּה
+    gloss: linen (i.e. the thread {openscriptures-strongs}
+    proximity: 0.8096 {macula-proximity}
   - strongs: H5688
-    proximity: 0.7542
+    lemma: עֲבֹת
+    gloss: something intwined {openscriptures-strongs}
+    proximity: 0.7542 {macula-proximity}
   - strongs: H6616
-    proximity: 0.7244
+    lemma: פָּתִיל
+    gloss: twine {openscriptures-strongs}
+    proximity: 0.7244 {macula-proximity}
   - strongs: H3499a
-    proximity: 0.7236
+    proximity: 0.7236 {macula-proximity}
   - strongs: H2339
-    proximity: 0.7171
+    lemma: חוּט
+    gloss: a string {openscriptures-strongs}
+    proximity: 0.7171 {macula-proximity}
   - strongs: H5364
-    proximity: 0.7154
+    lemma: נִקְפָּה
+    gloss: probably a rope {openscriptures-strongs}
+    proximity: 0.7154 {macula-proximity}
   cross_language:
   - strongs: G5416
-    proximity: 0.8035
+    lemma: φραγέλλιον
+    gloss: a whip {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
     language: greek
   - strongs: G4979
-    proximity: 0.7575
+    lemma: σχοινίον
+    gloss: of uncertain derivation) {openscriptures-strongs}
+    proximity: 0.7575 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

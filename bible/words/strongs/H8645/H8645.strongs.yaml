@@ -6,26 +6,27 @@ pronunciation: teer-zaw'
 definition: a species of tree (apparently from its slenderness), perhaps the cypress
 kjv_usage: cypress.
 derivation: probably from H7329 (רָזָה);
-extended_definition:
-  gloss: cypress
-  definition: 1) a type of tree<br>1a) perhaps the cypress, holm-tree<br>1b) meaning
-    very uncertain
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) a type of tree
+
+  1a) perhaps the cypress, holm-tree
+
+  1b) meaning very uncertain {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H730
-    proximity: 0.808
+    proximity: 0.808 {macula-proximity}
   - strongs: H6086
-    proximity: 0.7754
+    lemma: עֵץ
+    gloss: a tree {openscriptures-strongs}
+    proximity: 0.7754 {macula-proximity}
   - strongs: H6097
-    proximity: 0.7639
+    lemma: עֵצָה
+    gloss: timber {openscriptures-strongs}
+    proximity: 0.7639 {macula-proximity}
   cross_language:
   - strongs: G1186
-    proximity: 0.8177
+    lemma: δένδρον
+    gloss: a tree {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

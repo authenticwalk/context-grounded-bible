@@ -7,50 +7,73 @@ definition: depressed, in mind or circumstances
 kjv_usage: afflicted, humble, lowly, needy, poor.
 derivation: from H6031 (עָנָה); (practically the same as H6035 (עָנָו), although the
   margin constantly disputes this, making H6035 (עָנָו) subjective and objective);
-extended_definition:
-  gloss: afflicted
-  definition: 1) poor, afflicted, humble, wretched<br>1a) poor, needy<br>1b) poor
-    and weak<br>1c) poor, weak, afflicted, wretched<br>1d) humble, lowly
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) poor, afflicted, humble, wretched
+
+  1a) poor, needy
+
+  1b) poor and weak
+
+  1c) poor, weak, afflicted, wretched
+
+  1d) humble, lowly {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1766
-    proximity: 0.8297
+    lemma: דָּחַק
+    gloss: to press {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: H4164
-    proximity: 0.8292
+    lemma: מוּצַק
+    gloss: narrowness {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: H7330
-    proximity: 0.8245
+    lemma: רָזֶה
+    gloss: thin {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H3013
-    proximity: 0.8232
+    lemma: יָגָה
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H4691
-    proximity: 0.8195
+    lemma: מְצוּקָה
+    gloss: narrowness {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H3906
-    proximity: 0.8128
+    lemma: לַחַץ
+    gloss: distress {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
   - strongs: H4712
-    proximity: 0.8114
+    lemma: מֵצַר
+    gloss: something tight {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
   - strongs: H6695a
-    proximity: 0.811
+    proximity: 0.811 {macula-proximity}
   - strongs: H2470
-    proximity: 0.8024
+    lemma: חָלָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   cross_language:
   - strongs: G2552
-    proximity: 0.8281
+    lemma: κακοπάθεια
+    gloss: hardship {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G2347
-    proximity: 0.8276
+    lemma: θλῖψις
+    gloss: pressure {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: greek
   - strongs: G4660
-    proximity: 0.8251
+    lemma: σκύλλω
+    gloss: to flay {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
     language: greek
   - strongs: G772
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G4928
-    proximity: 0.8193
+    lemma: συνοχή
+    gloss: restraint {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

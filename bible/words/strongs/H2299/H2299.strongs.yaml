@@ -6,34 +6,36 @@ pronunciation: khad
 definition: sharp
 kjv_usage: sharp.
 derivation: from H2300 (חָדַד);
-extended_definition:
-  gloss: sharp
-  definition: sharp
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: sharp {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6609
-    proximity: 0.806
+    lemma: פְּתִחָה
+    gloss: something opened {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
   - strongs: H6477
-    proximity: 0.7865
+    lemma: פְּצִירָה
+    gloss: bluntness {openscriptures-strongs}
+    proximity: 0.7865 {macula-proximity}
   - strongs: H19
-    proximity: 0.7795
+    proximity: 0.7795 {macula-proximity}
   - strongs: H1305a
-    proximity: 0.7438
+    proximity: 0.7438 {macula-proximity}
   - strongs: H2757a
-    proximity: 0.7371
+    proximity: 0.7371 {macula-proximity}
   - strongs: H4094
-    proximity: 0.7337
+    lemma: מַדְקָרָה
+    gloss: a wound {openscriptures-strongs}
+    proximity: 0.7337 {macula-proximity}
   cross_language:
   - strongs: G1056
-    proximity: 0.8275
+    lemma: Γαλιλαία
+    gloss: Galilæa {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
     language: greek
   - strongs: G3948
-    proximity: 0.8232
+    lemma: παροξυσμός
+    gloss: incitement {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

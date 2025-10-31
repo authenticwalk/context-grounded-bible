@@ -6,45 +6,47 @@ definition: a sudarium (sweat-cloth), i.e. towel (for wiping the perspiration fr
   the face, or binding the face of a corpse)
 kjv_usage: handkerchief, napkin
 derivation: of Latin origin;
-extended_definition:
-  gloss: handkerchief
-  definition: '<b>σουδάριον</b>, -ου, τό(Lat.), <BR /> <b>handkerchief, kerchief</b>:
-    <ref=''Luk.19.20''>Luk.19:20</ref>, <ref=''Act.19.12''>Act.19:12</ref>; used as
-    a head covering for the dead, <ref=''Jhn.11.44; 20.7''>Jhn.11:44 20:7</ref> (cf.
-    Deiss., BS, 223).†<BR /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> σουδάριον</b>, τό,<br /> = Latin <i>sudārium, towel, napkin,</i>
-    [<a href="javascript:void(0)" title="NT.Luke.19.20, NT.John.11.44, “CPR” 1.27.7
-    (2nd c.AD), “Supp.epigram” 7.417 (from Dura), 2nd c.AD(?): Pollianus Epigrammaticus
-    7.71; σ. ὁλόλιτον “PMag.Ost.” 1.269 (4th c.AD). ">NT+2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'σουδάριον, -ου, τό(Lat.),
+
+  handkerchief, kerchief: Luk.19:20, Act.19:12; used as a head covering for the dead,
+  Jhn.11:44 20:7 (cf. Deiss., BS, 223).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'σουδάριον, τό,
+
+  = Latin sudārium, towel, napkin, [NT+2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1750
-    proximity: 0.8244
+    lemma: ἐνειλέω
+    gloss: to enwrap {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: G4470
-    proximity: 0.755
+    lemma: ῥάκος
+    gloss: a "rag {openscriptures-strongs}
+    proximity: 0.755 {macula-proximity}
   cross_language:
   - strongs: H3874
-    proximity: 0.7909
+    lemma: לוּט
+    gloss: to wrap up {openscriptures-strongs}
+    proximity: 0.7909 {macula-proximity}
     language: hebrew
   - strongs: H2853
-    proximity: 0.777
+    lemma: חָתַל
+    gloss: to swathe {openscriptures-strongs}
+    proximity: 0.777 {macula-proximity}
     language: hebrew
   - strongs: H6797
-    proximity: 0.7283
+    lemma: צָנִיף
+    gloss: a head-dress {openscriptures-strongs}
+    proximity: 0.7283 {macula-proximity}
     language: hebrew
   - strongs: H6287
-    proximity: 0.7067
+    lemma: פְּאֵר
+    gloss: an embellishment {openscriptures-strongs}
+    proximity: 0.7067 {macula-proximity}
     language: hebrew
   - strongs: H666
-    proximity: 0.7016
+    proximity: 0.7016 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

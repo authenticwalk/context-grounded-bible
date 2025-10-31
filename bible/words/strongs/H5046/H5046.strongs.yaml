@@ -10,48 +10,71 @@ kjv_usage: bewray, [idiom] certainly, certify, declare(-ing), denounce, expound,
   fully, messenger, plainly, profess, rehearse, report, shew (forth), speak, [idiom]
   surely, tell, utter.
 derivation: a primitive root;
-extended_definition:
-  gloss: to tell
-  definition: 1) to be conspicuous, tell, make known<br>1a) (Hiphil) to tell, declare<br>1a1)
-    to tell, announce, report<br>1a2) to declare, make known, expound<br>1a3) to inform
-    of<br>1a4) to publish, declare, proclaim<br>1a5) to avow, acknowledge, confess<br>1a5a)
-    messenger (participle)<br>1b) (Hophal) to be told, be announced, be reported
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be conspicuous, tell, make known
+
+  1a) (Hiphil) to tell, declare
+
+  1a1) to tell, announce, report
+
+  1a2) to declare, make known, expound
+
+  1a3) to inform of
+
+  1a4) to publish, declare, proclaim
+
+  1a5) to avow, acknowledge, confess
+
+  1a5a) messenger (participle)
+
+  1b) (Hophal) to be told, be announced, be reported {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7200
-    proximity: 0.8299
+    lemma: רָאָה
+    gloss: to see {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
   - strongs: H6963
-    proximity: 0.8289
+    lemma: קוֹל
+    gloss: a voice or sound {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H3318
-    proximity: 0.8282
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H4561
-    proximity: 0.8281
+    lemma: מֹסָר
+    gloss: admonition {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H4286
-    proximity: 0.8275
+    lemma: מַחְשֹׂף
+    gloss: a peeling {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: A4449
-    proximity: 0.818
+    proximity: 0.818 {macula-proximity}
   - strongs: H7878
-    proximity: 0.815
+    lemma: שִׂיחַ
+    gloss: to ponder {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   cross_language:
   - strongs: G1862
-    proximity: 0.8285
+    lemma: ἐπάγγελμα
+    gloss: a self-committal {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G546
-    proximity: 0.8259
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G1263
-    proximity: 0.8217
+    lemma: διαμαρτύρομαι
+    gloss: to attest or protest earnestly {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
     language: greek
   - strongs: G2723
-    proximity: 0.8208
+    lemma: κατηγορέω
+    gloss: to be a plaintiff {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G319
-    proximity: 0.8186
+    proximity: 0.8186 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

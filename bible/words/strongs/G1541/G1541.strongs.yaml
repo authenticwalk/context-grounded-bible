@@ -5,44 +5,52 @@ transliteration: hekatontaétēs
 definition: centenarian
 kjv_usage: hundred years old
 derivation: from G1540 (ἑκατόν) and G2094 (ἔτος);
-extended_definition:
-  gloss: a hundred years old
-  definition: '<b>ἑκατονταετής</b> (Rec. έτης), <b>-ές </b><BR /> (ἑκατόν, ἔτης) [in
-    LXX for שָׁנֶה מֵאָה בֵּן, <ref=''Gen.17.17''>Gen.17:17</ref> * ;] <BR /><b>a
-    hundred years old</b>: <ref=''Rom.4.19.''>Rom.4:19.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἑκᾰτοντα-έτης</b>, ες, <br /> <b>of a hundred years,</b> βιοτά
-    [<a href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “P.” 4.282; 100
-    ">Refs 5th c.BC+</a>] <b>years old,</b> [<a href="javascript:void(0)" title="
-    LXX.Gen.17.17. ">LXX</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἑκατονταετής (Rec. έτης), -ές
+
+  (ἑκατόν, ἔτης) [in LXX for שָׁנֶה מֵאָה בֵּן, Gen.17:17 * ;]
+
+  a hundred years old: Rom.4:19.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἑκᾰτοντα-έτης, ες,
+
+  of a hundred years, βιοτά [Refs 5th c.BC+] years old, [LXX] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5145
-    proximity: 0.8298
+    lemma: τριακόσιοι
+    gloss: three hundred {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: G4001
-    proximity: 0.8224
+    lemma: πεντακόσιοι
+    gloss: five hundred {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
   - strongs: G5071
-    proximity: 0.8202
+    lemma: τετρακόσιοι
+    gloss: four hundred {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   - strongs: A6243
-    proximity: 0.8171
+    proximity: 0.8171 {macula-proximity}
   - strongs: G1250
-    proximity: 0.7831
+    lemma: διακόσιοι
+    gloss: two hundred {openscriptures-strongs}
+    proximity: 0.7831 {macula-proximity}
   - strongs: G1812
-    proximity: 0.7795
+    lemma: ἑξακόσιοι
+    gloss: six hundred {openscriptures-strongs}
+    proximity: 0.7795 {macula-proximity}
   - strongs: G1332
-    proximity: 0.7539
+    lemma: διετής
+    gloss: of two years {openscriptures-strongs}
+    proximity: 0.7539 {macula-proximity}
   - strongs: G1542
-    proximity: 0.7294
+    lemma: ἑκατονταπλασίων
+    gloss: a hundred times {openscriptures-strongs}
+    proximity: 0.7294 {macula-proximity}
   cross_language:
   - strongs: H3967
-    proximity: 0.7253
+    lemma: מֵאָה
+    gloss: a hundred {openscriptures-strongs}
+    proximity: 0.7253 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

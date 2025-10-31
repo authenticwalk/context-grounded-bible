@@ -6,29 +6,36 @@ pronunciation: shote
 definition: a lash (literally or figuratively)
 kjv_usage: scourge, whip.
 derivation: from H7751 (שׁוּט);
-extended_definition:
-  gloss: whip
-  definition: 1) scourge, whip<br>1a) scourge (for chastisement)<br>1a1) of national
-    judgment (fig)<br>1b) whip (for horse)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) scourge, whip
+
+  1a) scourge (for chastisement)
+
+  1a1) of national judgment (fig)
+
+  1b) whip (for horse) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5217
-    proximity: 0.812
+    lemma: נָכָא
+    gloss: to smite {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: H5061
-    proximity: 0.7839
+    lemma: נֶגַע
+    gloss: a blow (figuratively {openscriptures-strongs}
+    proximity: 0.7839 {macula-proximity}
   - strongs: H6137
-    proximity: 0.704
+    lemma: עַקְרָב
+    gloss: a scorpion {openscriptures-strongs}
+    proximity: 0.704 {macula-proximity}
   cross_language:
   - strongs: G4127
-    proximity: 0.824
+    lemma: πληγή
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: greek
   - strongs: G5417
-    proximity: 0.7862
+    lemma: φραγελλόω
+    gloss: to whip {openscriptures-strongs}
+    proximity: 0.7862 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

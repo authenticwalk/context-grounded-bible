@@ -7,46 +7,73 @@ definition: a family, i.e. circle of relatives; figuratively, a class (of person
   a species (of animals) or sort (of things); by extension a tribe or people
 kjv_usage: family, kind(-red).
 derivation: from H8192 (שָׁפָה) (compare H8198 (שִׁפְחָה));
-extended_definition:
-  gloss: family
-  definition: 1) clan, family<br>1a) clan<br>1a1) family<br>1a2) tribe<br>1a3) people,
-    nation<br>1b) guild<br>1c) species, kind<br>1d) aristocrats
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) clan, family
+
+  1a) clan
+
+  1a1) family
+
+  1a2) tribe
+
+  1a3) people, nation
+
+  1b) guild
+
+  1c) species, kind
+
+  1d) aristocrats {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8328
-    proximity: 0.8288
+    lemma: שֶׁרֶשׁ
+    gloss: a root {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: H3605
-    proximity: 0.8285
+    lemma: כֹּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: H4327
-    proximity: 0.8254
+    lemma: מִין
+    gloss: a sort {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: H3188
-    proximity: 0.8185
+    lemma: יַחַשׂ
+    gloss: a pedigree or family list {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: H1755
-    proximity: 0.809
+    lemma: דּוֹר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
   - strongs: H4410
-    proximity: 0.7828
+    lemma: מְלוּכָה
+    gloss: something ruled {openscriptures-strongs}
+    proximity: 0.7828 {macula-proximity}
   - strongs: H2233
-    proximity: 0.7796
+    lemma: זֶרַע
+    gloss: seed {openscriptures-strongs}
+    proximity: 0.7796 {macula-proximity}
   - strongs: H4130
-    proximity: 0.7725
+    lemma: מוֹדַעַת
+    gloss: acquaintance {openscriptures-strongs}
+    proximity: 0.7725 {macula-proximity}
   - strongs: H251
-    proximity: 0.7679
+    proximity: 0.7679 {macula-proximity}
   - strongs: H6390
-    proximity: 0.7677
+    lemma: פְּלַגָּה
+    gloss: a runlet {openscriptures-strongs}
+    proximity: 0.7677 {macula-proximity}
   cross_language:
   - strongs: G1076
-    proximity: 0.8287
+    lemma: γενεαλογία
+    gloss: tracing by generations {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G3956
-    proximity: 0.8181
+    lemma: πᾶς
+    gloss: all {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
     language: greek
   - strongs: G932
-    proximity: 0.8033
+    proximity: 0.8033 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

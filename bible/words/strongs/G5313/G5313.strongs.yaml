@@ -6,54 +6,58 @@ definition: an elevated place or thing, i.e. (abstractly) altitude, or (by impli
   a barrier (figuratively)
 kjv_usage: height, high thing
 derivation: from G5312 (ὑψόω);
-extended_definition:
-  gloss: height
-  definition: '<b>ὕψωμα</b>, -τος, τό <BR /> [in LXX: <ref=''Job.24.24''>Job.24:24</ref>
-    (†), <ref=''Jdt.10.8; 13.4; 15.9''>Jdth.10:8 13:4 15:9</ref> * ;] <BR />__(a)
-    <b>height</b>: <ref=''Rom.8.39''>Rom.8:39;</ref> <BR /> __(b) <b>that which is
-    lifted up, a barrier</b>: <ref=''2Co.10.5.''>2Co.10:5.</ref>†<BR /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὕψ-ωμα</b>, ατος, τό, <br /> <b>elevation, height,</b> οὐ χθὼν
-    οὐρανίοις ὑψώμασι [φθονέει] [<a href="javascript:void(0)" title=" 1st c.AD(?):
-    Pseudo-Phocylidea 73; ὕ. τοῦ ἀέρος 1st c.AD: Philo Judaeus 2.408 ">Refs 1st c.AD+</a>];
-    τὸ ὕ. τῆς ῥινός the <b>bridge</b> of the nose, [<a href="javascript:void(0)" title="
-    2nd c.AD: Galenus Medicus 18(1).796,806. ">Refs 2nd c.AD+</a>]<br /><Level3><b>__2</b></Level3>
-    Astrology texts, <b>exaltation</b> of a heavenly body, opposed to ταπείνωμα, [<a
-    href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus
-    2.149a, 782d, 2nd c.AD: Sextus Empiricus Philosophus “adversus Mathematicos” 5.33,
-    2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 37. ">Refs 1st c.AD+</a>]<br /><Level2><b>__II</b></Level2>
-    <i>metaphorically</i>, <b>exaltation,</b> [<a href="javascript:void(0)" title="
-    2nd c.AD: Vettius Valens Astrologus 92.29. ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ὕψωμα, -τος, τό
+
+  [in LXX: Job.24:24 (†), Jdth.10:8 13:4 15:9 * ;]
+
+  __(a) height: Rom.8:39;
+
+  __(b) that which is lifted up, a barrier: 2Co.10:5.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὕψ-ωμα, ατος, τό,
+
+  elevation, height, οὐ χθὼν οὐρανίοις ὑψώμασι [φθονέει] [Refs 1st c.AD+]; τὸ ὕ. τῆς
+  ῥινός the bridge of the nose, [Refs 2nd c.AD+]
+
+  __2 Astrology texts, exaltation of a heavenly body, opposed to ταπείνωμα, [Refs
+  1st c.AD+]
+
+  __II metaphorically, exaltation, [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5310
-    proximity: 0.8169
+    lemma: ὕψιστος
+    gloss: highest {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: G5308
-    proximity: 0.8004
+    lemma: ὑψηλός
+    gloss: lofty {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
   - strongs: A7314
-    proximity: 0.7268
+    proximity: 0.7268 {macula-proximity}
   cross_language:
   - strongs: H6967
-    proximity: 0.8165
+    lemma: קוֹמָה
+    gloss: height {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: hebrew
   - strongs: H8524a
-    proximity: 0.8139
+    proximity: 0.8139 {macula-proximity}
     language: hebrew
   - strongs: H2872
-    proximity: 0.7948
+    lemma: טַבּוּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
     language: hebrew
   - strongs: H1785
-    proximity: 0.7867
+    lemma: דָּיֵק
+    gloss: a battering-tower {openscriptures-strongs}
+    proximity: 0.7867 {macula-proximity}
     language: hebrew
   - strongs: H1363
-    proximity: 0.763
+    lemma: גֹּבַהּ
+    gloss: elation {openscriptures-strongs}
+    proximity: 0.763 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

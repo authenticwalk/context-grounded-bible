@@ -6,28 +6,30 @@ pronunciation: shem-ee-nee'
 definition: eight
 kjv_usage: eight.
 derivation: from H8083 (שְׁמֹנֶה);
-extended_definition:
-  gloss: eighth
-  definition: eighth (ordinal number)
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: eighth (ordinal number) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2568
-    proximity: 0.8218
+    lemma: חָמֵשׁ
+    gloss: five {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H6240
-    proximity: 0.8137
+    lemma: עָשָׂר
+    gloss: ten {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   - strongs: H2320
-    proximity: 0.8084
+    lemma: חֹדֶשׁ
+    gloss: the new moon {openscriptures-strongs}
+    proximity: 0.8084 {macula-proximity}
   cross_language:
   - strongs: G3991
-    proximity: 0.8118
+    lemma: πέμπτος
+    gloss: fifth {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
     language: greek
   - strongs: G4003
-    proximity: 0.8086
+    lemma: πεντεκαιδέκατος
+    gloss: five and tenth {openscriptures-strongs}
+    proximity: 0.8086 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

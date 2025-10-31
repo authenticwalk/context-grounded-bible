@@ -7,31 +7,34 @@ definition: to be narrow; by implication, to throttle, or (reflex.) to choke one
   to death (by a rope)
 kjv_usage: hang self, strangle.
 derivation: a primitive root (compare H2596 (חָנַךְ));
-extended_definition:
-  gloss: to strangle
-  definition: 1) to strangle, strangle oneself<br>1a) (Niphal) to strangle oneself<br>1b)
-    (Piel) to strangle
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to strangle, strangle oneself
+
+  1a) (Niphal) to strangle oneself
+
+  1b) (Piel) to strangle {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2026
-    proximity: 0.8266
+    lemma: הָרַג
+    gloss: to smite with deadly intent {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: H3363
-    proximity: 0.8176
+    lemma: יָקַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   - strongs: A6992
-    proximity: 0.7932
+    proximity: 0.7932 {macula-proximity}
   - strongs: H4267
-    proximity: 0.7764
+    lemma: מַחֲנַק
+    gloss: choking {openscriptures-strongs}
+    proximity: 0.7764 {macula-proximity}
   cross_language:
   - strongs: G615
-    proximity: 0.7832
+    proximity: 0.7832 {macula-proximity}
     language: greek
   - strongs: G4156
-    proximity: 0.7557
+    lemma: πνικτός
+    gloss: throttled {openscriptures-strongs}
+    proximity: 0.7557 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

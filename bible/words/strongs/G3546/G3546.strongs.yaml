@@ -5,50 +5,39 @@ transliteration: nómisma
 definition: what is reckoned as of value (after the Latin numisma), i.e. current coin
 kjv_usage: money
 derivation: from G3543 (νομίζω);
-extended_definition:
-  gloss: coin
-  definition: '<b>νόμισμα</b>, -τος, τό<BR /> (νομίζω), [in LXX: <ref=''Est.8.36''>Est.8:36</ref>
-    (דָּת), <ref=''Neh.7.71''>Neh.7:71</ref> R (דַּרְכְּמוֹן), <ref=''1Ma.15.6''>1Ma.15:6</ref>
-    * ;] <BR />__1. that which is established by usage, a custom. <BR /> __2. <b>The
-    current coin of a state</b>: <ref=''Mat.22.19.''>Mat.22:19.</ref>†<BR /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> νόμ-ισμα</b>, ατος, τό, <br /> <b>anything sanctioned by current</b>
-    or <b>established usage, custom,</b> Ἑλληνικὸν ν. [<a href="javascript:void(0)"
-    title=" 4th-5th c.BC: Aeschylus Tragicus “Septem contra Thebas” 269, compare 5th
-    c.BC: Euripides Tragicus “Iphigenia Taurica” 1471 ">Refs 5th c.BC+</a>]; <b>institution,</b>
-    οὐδὲν γὰρ ἀνθρώποισιν οἷον ἄργυρος κακὸν ν. ἔβλαστε [<a href="javascript:void(0)"
-    title=" 5th c.BC: Sophocles Tragicus “Antigone” 296; θεοὶ ἡμῖν ν. οὐκ ἔστι 5th-6th
-    c.BC: Aristophanes Comicus “Nubes” 248, with a play on signification 11 ">Refs
-    5th c.BC+</a>] (do not <b>pass current</b> with us). <br /><Level2><b>__II</b></Level2>
-    especially <b>current coin,</b> ν. κόψαι or κόψασθαι, coin <b>money,</b> [<a href="javascript:void(0)"
-    title=" 5th c.BC: Herodotus Historicus 3.56, 4.166; τἀρχαῖον ν. 5th-6th c.BC:
-    Aristophanes Comicus “Ranae” 720; ν. σύμβολον τῆς ἀλλαγῆς ἕνεκα 5th-6th c.BC:
-    Plato Philosophus “Respublica” 371b, compare 4th c.BC: Aristoteles Philosophus
-    “Ethica Nicomachea” 1133b11, “Pol.” 1257a11, 3rd c.AD(?): Diogenes Laertius 6.20;
-    τάλαντα νομίσματος 5th-6th c.BC: Andocides Orator 3.8; ν. ἡμεδαποῦ “IG” 12.91.4;
-    τὸ ἐπιχώριον ν. “PCair.Zen.” 21.12 (3rd c.BC): _plural_ νομίσματα ">Refs 5th c.BC+</a>]<b>pieces
-    of money, coins,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Herodianus
-    Grammaticus 1.9.7. ">Refs 2nd c.AD+</a>]<br /><Level2><b>__III</b></Level2> <b>full
-    legal measure,</b> τοῦ χοῶς ἢ τῶν κοτυλῶν τὸ ν. διαλυμαίνεται [<a href="javascript:void(0)"
-    title=" 5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 348. ">Refs 5th
-    c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'νόμισμα, -τος, τό
+
+  (νομίζω), [in LXX: Est.8:36 (דָּת), Neh.7:71 R (דַּרְכְּמוֹן), 1Ma.15:6 * ;]
+
+  __1. that which is established by usage, a custom.
+
+  __2. The current coin of a state: Mat.22:19.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'νόμ-ισμα, ατος, τό,
+
+  anything sanctioned by current or established usage, custom, Ἑλληνικὸν ν. [Refs
+  5th c.BC+]; institution, οὐδὲν γὰρ ἀνθρώποισιν οἷον ἄργυρος κακὸν ν. ἔβλαστε [Refs
+  5th c.BC+] (do not pass current with us).
+
+  __II especially current coin, ν. κόψαι or κόψασθαι, coin money, [Refs 5th c.BC+]pieces
+  of money, coins, [Refs 2nd c.AD+]
+
+  __III full legal measure, τοῦ χοῶς ἢ τῶν κοτυλῶν τὸ ν. διαλυμαίνεται [Refs 5th c.BC+]
+  {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3016
-    proximity: 0.707
+    lemma: λεπτόν
+    gloss: something scaled {openscriptures-strongs}
+    proximity: 0.707 {macula-proximity}
   cross_language:
   - strongs: H150
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
     language: hebrew
   - strongs: H1871
-    proximity: 0.8194
+    lemma: דַּרְכְּמוֹן
+    gloss: a 'drachma' {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

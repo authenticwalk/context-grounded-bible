@@ -6,46 +6,58 @@ pronunciation: net-eel'
 definition: laden
 kjv_usage: that bear.
 derivation: from H5190 (נָטַל);
-extended_definition:
-  gloss: laden
-  definition: laden
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: laden {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4948
-    proximity: 0.8279
+    lemma: מִשְׁקָל
+    gloss: weight {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: H3667b
-    proximity: 0.8256
+    proximity: 0.8256 {macula-proximity}
   - strongs: H5449
-    proximity: 0.8015
+    lemma: סַבָּל
+    gloss: a porter {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
   - strongs: H2943
-    proximity: 0.8
+    lemma: טָעַן
+    gloss: to load a beast {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: H7192
-    proximity: 0.7903
+    lemma: קְשִׂיטָה
+    gloss: an ingot {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
   - strongs: A8625
-    proximity: 0.7681
+    proximity: 0.7681 {macula-proximity}
   - strongs: H8254
-    proximity: 0.7554
+    lemma: שָׁקַל
+    gloss: to suspend or poise {openscriptures-strongs}
+    proximity: 0.7554 {macula-proximity}
   - strongs: A3702
-    proximity: 0.7201
+    proximity: 0.7201 {macula-proximity}
   - strongs: H3701
-    proximity: 0.7132
+    lemma: כֶּסֶף
+    gloss: silver {openscriptures-strongs}
+    proximity: 0.7132 {macula-proximity}
   cross_language:
   - strongs: G5413
-    proximity: 0.8212
+    lemma: φορτίον
+    gloss: an invoice {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
     language: greek
   - strongs: G4453
-    proximity: 0.8104
+    lemma: πωλέω
+    gloss: to barter {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
     language: greek
   - strongs: G1711
-    proximity: 0.7837
+    lemma: ἐμπορία
+    gloss: traffic {openscriptures-strongs}
+    proximity: 0.7837 {macula-proximity}
     language: greek
   - strongs: G1712
-    proximity: 0.7083
+    lemma: ἐμπόριον
+    gloss: a mart {openscriptures-strongs}
+    proximity: 0.7083 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

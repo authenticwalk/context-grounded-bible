@@ -6,42 +6,52 @@ pronunciation: goof
 definition: properly, to hollow or arch, i.e. (figuratively) close; to shut
 kjv_usage: shut.
 derivation: a primitive root;
-extended_definition:
-  gloss: to shut
-  definition: 1) to shut, close<br>1a) (Hiphil) to close
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to shut, close
+
+  1a) (Hiphil) to close {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1817
-    proximity: 0.8182
+    lemma: דֶּלֶת
+    gloss: something swinging {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
   - strongs: H331
-    proximity: 0.7894
+    proximity: 0.7894 {macula-proximity}
   - strongs: H7092
-    proximity: 0.7742
+    lemma: קָפַץ
+    gloss: to draw together {openscriptures-strongs}
+    proximity: 0.7742 {macula-proximity}
   - strongs: H5534
-    proximity: 0.7732
+    lemma: סָכַר
+    gloss: to shut up {openscriptures-strongs}
+    proximity: 0.7732 {macula-proximity}
   - strongs: H2902a
-    proximity: 0.7639
+    proximity: 0.7639 {macula-proximity}
   - strongs: H5462
-    proximity: 0.7454
+    lemma: סָגַר
+    gloss: to shut up {openscriptures-strongs}
+    proximity: 0.7454 {macula-proximity}
   - strongs: H5640a
-    proximity: 0.7048
+    proximity: 0.7048 {macula-proximity}
   cross_language:
   - strongs: G5058
-    proximity: 0.8258
+    lemma: τελώνιον
+    gloss: a tax-gatherer's place of business {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G5420
-    proximity: 0.8085
+    lemma: φράσσω
+    gloss: to fence or inclose {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
     language: greek
   - strongs: G1576
-    proximity: 0.7736
+    lemma: ἐκκλείω
+    gloss: to shut out {openscriptures-strongs}
+    proximity: 0.7736 {macula-proximity}
     language: greek
   - strongs: G2576
-    proximity: 0.7304
+    lemma: καμμύω
+    gloss: to shut down {openscriptures-strongs}
+    proximity: 0.7304 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

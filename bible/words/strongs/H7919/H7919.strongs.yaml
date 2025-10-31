@@ -11,32 +11,43 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H2940
-    proximity: 0.8236
+    lemma: טַעַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
   - strongs: H3820
-    proximity: 0.8081
+    lemma: לֵב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
   - strongs: A2095
-    proximity: 0.8024
+    proximity: 0.8024 {macula-proximity}
   - strongs: H4093
-    proximity: 0.802
+    lemma: מַדָּע
+    gloss: intelligence or consciousness {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
   - strongs: A6744
-    proximity: 0.7964
+    proximity: 0.7964 {macula-proximity}
   cross_language:
   - strongs: G1425
-    proximity: 0.8252
+    lemma: δυσνόητος
+    gloss: difficult of perception {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: greek
   - strongs: G1594
-    proximity: 0.8246
+    lemma: ἐκνήφω
+    gloss: to rouse  out of stupor {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
     language: greek
   - strongs: G366
-    proximity: 0.8239
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G5424
-    proximity: 0.8174
+    lemma: φρήν
+    gloss: the midrif {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
     language: greek
   - strongs: G5430
-    proximity: 0.8158
+    lemma: φρονίμως
+    gloss: prudently {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

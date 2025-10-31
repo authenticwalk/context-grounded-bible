@@ -5,49 +5,51 @@ transliteration: elaiṓn
 definition: an olive-orchard, i.e. (specially) the Mount of Olives
 kjv_usage: Olivet
 derivation: from G1636 (ἐλαία);
-extended_definition:
-  gloss: Olivet
-  definition: '<b>ἐλαιών</b>, -ῶνος, ὁ<BR /> (ἐλαία), [in LXX for זַיִת ;] <BR /><b>olive-grove,
-    olive-garden </b>(so in FlJ and in π.; Deiss., BS, 209 ff.; MM, <i>Exp.</i>, iii;
-    M, <i>Pr.</i>, 49, 69, 235): <ref=''Luk.19.29; 21.37''>Luk.19:29 21:37</ref> (WH,
-    -ῶν; see their <i>App.</i>, 158; Field, <i>Notes</i>, 73; El., § 10, 5; 33, 1;
-    Thayer, see word), <ref=''Act.1.12''>Act.1:12</ref> (where EL, ll with, proposes
-    the conjectural emendation ἐλαιῶν for -ῶνος).†<BR /> (AS)'
-  morphology: N:N-M-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐλαι-ών</b>, ῶνος, ὁ, <br /> <b>olive-yard,</b> [<a href="javascript:void(0)"
-    title=" 3rd c.BC: Zenon Papyri du Caire 57.2 (3rd c.BC), LXX.Exo.23.11, +others,
-    1st c.BC-1st c.AD: Strabo Geographus 16.4.14, 1st c.AD: Philo Judaeus 2.289, “Geoponica”
-    3.11.1. ">LXX+3rd c.BC+</a>]<br /><Level2><b>__II</b></Level2> <b>the Mount of
-    Olives, Olivet,</b> [<a href="javascript:void(0)" title=" NT.Acts.1.12, +others,
-    1st c.AD: Josephus Historicus “Antiquitates Judaicae” 7.9.2. ">NT+1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐλαιών, -ῶνος, ὁ
+
+  (ἐλαία), [in LXX for זַיִת ;]
+
+  olive-grove, olive-garden (so in FlJ and in π.; Deiss., BS, 209 ff.; MM, Exp., iii;
+  M, Pr., 49, 69, 235): Luk.19:29 21:37 (WH, -ῶν; see their App., 158; Field, Notes,
+  73; El., § 10, 5; 33, 1; Thayer, see word), Act.1:12 (where EL, ll with, proposes
+  the conjectural emendation ἐλαιῶν for -ῶνος).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐλαι-ών, ῶνος, ὁ,
+
+  olive-yard, [LXX+3rd c.BC+]
+
+  __II the Mount of Olives, Olivet, [NT+1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A1b
-    proximity: 0.8174
+    proximity: 0.8174 {macula-proximity}
   - strongs: A4887
-    proximity: 0.7917
+    proximity: 0.7917 {macula-proximity}
   - strongs: G65
-    proximity: 0.742
+    proximity: 0.742 {macula-proximity}
   - strongs: G2565
-    proximity: 0.7378
+    lemma: καλλιέλαιος
+    gloss: a cultivated olive tree {openscriptures-strongs}
+    proximity: 0.7378 {macula-proximity}
   - strongs: G3588
-    proximity: 0.7195
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7195 {macula-proximity}
   cross_language:
   - strongs: H3323
-    proximity: 0.8275
+    lemma: יִצְהָר
+    gloss: oil {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
     language: hebrew
   - strongs: H6671
-    proximity: 0.7457
+    lemma: צָהַר
+    gloss: to press out oil {openscriptures-strongs}
+    proximity: 0.7457 {macula-proximity}
     language: hebrew
   - strongs: H2022
-    proximity: 0.7437
+    lemma: הַר
+    gloss: a mountain or range of hills {openscriptures-strongs}
+    proximity: 0.7437 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

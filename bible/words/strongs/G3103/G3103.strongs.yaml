@@ -5,43 +5,52 @@ transliteration: Mathousála
 definition: Mathusala (i.e. Methushelach), an antediluvian
 kjv_usage: Mathusala
 derivation: of Hebrew origin (H04968);
-extended_definition:
-  gloss: Methuselah
-  definition: '<b>Μαθουσάλα</b> (WH, -αλά), ὁ (Heb. מְתוּשֶׁלַח), <BR /> <b>Methuselah</b>:
-    <ref=''Luk.3.37.''>Luk.3:37.</ref>†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Μαθουσάλα</b> (WH, -αλά), ὁ (Heb. מְתוּשֶׁלַח), <BR /> <b>Methuselah</b>:
-    <ref=''Luk.3.37.''>Luk.3:37.</ref>†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Μαθουσάλα (WH, -αλά), ὁ (Heb. מְתוּשֶׁלַח),
+
+  Methuselah: Luk.3:37.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Μαθουσάλα (WH, -αλά), ὁ (Heb. מְתוּשֶׁלַח),
+
+  Methuselah: Luk.3:37.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2982
-    proximity: 0.8111
+    lemma: λαμά
+    gloss: lama {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: G4528
-    proximity: 0.8002
+    lemma: Σαλαθιήλ
+    gloss: Salathiel {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: G2976
-    proximity: 0.7939
+    lemma: Λάζαρος
+    gloss: Lazarus {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
   cross_language:
   - strongs: H8072
-    proximity: 0.8284
+    lemma: שַׂמְלָה
+    gloss: Samlah {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: hebrew
   - strongs: H495
-    proximity: 0.826
+    proximity: 0.826 {macula-proximity}
     language: hebrew
   - strongs: H4445
-    proximity: 0.8246
+    lemma: מַלְכָּם
+    gloss: Malcam or Milcom {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
     language: hebrew
   - strongs: H4401
-    proximity: 0.8226
+    lemma: מַלְאָכִי
+    gloss: Malaki {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
     language: hebrew
   - strongs: H7435
-    proximity: 0.8221
+    lemma: רָמָתִי
+    gloss: a Ramathite or inhabitant of Ramah {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

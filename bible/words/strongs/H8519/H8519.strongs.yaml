@@ -6,34 +6,40 @@ pronunciation: tel-oo-naw'
 definition: a grumbling
 kjv_usage: murmuring.
 derivation: or תּלֻנָּה; from H3885 (לוּן) in the sense of obstinacy;
-extended_definition:
-  gloss: murmuring
-  definition: murmuring
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: murmuring {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4808
-    proximity: 0.8225
+    lemma: מְרִיבָה
+    gloss: quarrel {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: H1901
-    proximity: 0.7996
+    lemma: הָגִיג
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
   - strongs: H8604
-    proximity: 0.7979
+    lemma: תִּפְלָה
+    gloss: frivolity {openscriptures-strongs}
+    proximity: 0.7979 {macula-proximity}
   cross_language:
   - strongs: G3202
-    proximity: 0.8089
+    lemma: μεμψίμοιρος
+    gloss: akin to the base of G3313 ) {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
     language: greek
   - strongs: G4727
-    proximity: 0.7909
+    lemma: στενάζω
+    gloss: to make (intransitively {openscriptures-strongs}
+    proximity: 0.7909 {macula-proximity}
     language: greek
   - strongs: G3437
-    proximity: 0.7731
+    lemma: μομφή
+    gloss: blame {openscriptures-strongs}
+    proximity: 0.7731 {macula-proximity}
     language: greek
   - strongs: G1234
-    proximity: 0.7487
+    lemma: διαγογγύζω
+    gloss: to complain throughout a crowd {openscriptures-strongs}
+    proximity: 0.7487 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,67 +5,71 @@ transliteration: diátagma
 definition: an arrangement, i.e. (authoritative) edict
 kjv_usage: commandment
 derivation: from G1299 (διατάσσω);
-extended_definition:
-  gloss: edict
-  definition: '<b>διά-ταγμα</b>, -τος, τό<BR /> (διατάσσω), [in LXX: <ref=''Est.7.11''>Est.7:11</ref>
-    (נִשְׁתְּוָן), <ref=''Est.3.13''>Est.3:13</ref>, <ref=''Wis.11.7''>Wis.11:7</ref>
-    * ;] <BR /><b>an edict, mandate</b>: <ref=''Heb.11.23.''>Heb.11:23.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> διά-ταγμα</b>, ατος, τό, <br /> <b>ordinance, edict,</b> [<a
-    href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis Epigrammaticus
-    “Rh.” 2.289S., 1st c.BC: Diodorus Siculus Historicus 18.64, 1st c.AD: Philo Judaeus
-    1.180, NT.Heb.11.23, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pompeius”
-    6, “IG” 22.1077.34; κατὰ τὸ δ. (i.e. τῆς συγκλήτου) [prev. work]12(3).173.10;">NT+1st
-    c.BC+</a>] = Latin <i>edictum</i>, [<a href="javascript:void(0)" title=" “OGI”
-    458.81 (1st c.BC), “BGU” 1074.3 (3rd c.AD), etc.">Refs 1st c.BC+</a>]; = Latin
-    <i>formula,</i> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 14.951.24,25
-    (from Rome)">Refs</a>]; <b>testamentary disposition,</b> [<a href="javascript:void(0)"
-    title=" POxy. 1282.27 (1st c.AD). ">Refs 1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'διά-ταγμα, -τος, τό
+
+  (διατάσσω), [in LXX: Est.7:11 (נִשְׁתְּוָן), Est.3:13, Wis.11:7 * ;]
+
+  an edict, mandate: Heb.11:23.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'διά-ταγμα, ατος, τό,
+
+  ordinance, edict, [NT+1st c.BC+] = Latin edictum, [Refs 1st c.BC+]; = Latin formula,
+  [Refs]; testamentary disposition, [Refs 1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1781
-    proximity: 0.8267
+    lemma: ἐντέλλομαι
+    gloss: to enjoin {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
   - strongs: A7761
-    proximity: 0.8159
+    proximity: 0.8159 {macula-proximity}
   - strongs: G2753
-    proximity: 0.8136
+    lemma: κελεύω
+    gloss: '"hail" {openscriptures-strongs}'
+    proximity: 0.8136 {macula-proximity}
   - strongs: A5407
-    proximity: 0.8078
+    proximity: 0.8078 {macula-proximity}
   - strongs: G1778
-    proximity: 0.7873
+    lemma: ἔνταλμα
+    gloss: an injunction {openscriptures-strongs}
+    proximity: 0.7873 {macula-proximity}
   - strongs: A1510
-    proximity: 0.7776
+    proximity: 0.7776 {macula-proximity}
   - strongs: A4406
-    proximity: 0.7752
+    proximity: 0.7752 {macula-proximity}
   - strongs: G3726
-    proximity: 0.7593
+    lemma: ὁρκίζω
+    gloss: to put on oath {openscriptures-strongs}
+    proximity: 0.7593 {macula-proximity}
   - strongs: G2004
-    proximity: 0.7453
+    lemma: ἐπιτάσσω
+    gloss: to arrange upon {openscriptures-strongs}
+    proximity: 0.7453 {macula-proximity}
   - strongs: G31
-    proximity: 0.7381
+    proximity: 0.7381 {macula-proximity}
   cross_language:
   - strongs: H562
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
     language: hebrew
   - strongs: H3791
-    proximity: 0.8211
+    lemma: כָּתָב
+    gloss: something written {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
     language: hebrew
   - strongs: H2708
-    proximity: 0.818
+    lemma: חֻקָּה
+    gloss: '{an enactment {openscriptures-strongs}'
+    proximity: 0.818 {macula-proximity}
     language: hebrew
   - strongs: H2940
-    proximity: 0.8132
+    lemma: טַעַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
     language: hebrew
   - strongs: H6680
-    proximity: 0.8106
+    lemma: צָוָה
+    gloss: to constitute {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

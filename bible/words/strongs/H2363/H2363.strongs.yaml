@@ -9,36 +9,49 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H7031
-    proximity: 0.827
+    lemma: קַל
+    gloss: light {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: A927
-    proximity: 0.7996
+    proximity: 0.7996 {macula-proximity}
   - strongs: H3288
-    proximity: 0.7902
+    lemma: יְעָף
+    gloss: fatigue (adverb {openscriptures-strongs}
+    proximity: 0.7902 {macula-proximity}
   - strongs: A924
-    proximity: 0.7677
+    proximity: 0.7677 {macula-proximity}
   - strongs: H3288a
-    proximity: 0.7547
+    proximity: 0.7547 {macula-proximity}
   - strongs: H926
-    proximity: 0.7428
+    proximity: 0.7428 {macula-proximity}
   - strongs: H7323
-    proximity: 0.742
+    lemma: רוּץ
+    gloss: to run (for whatever reason {openscriptures-strongs}
+    proximity: 0.742 {macula-proximity}
   cross_language:
   - strongs: G4932
-    proximity: 0.8168
+    lemma: συντέμνω
+    gloss: to contract by cutting {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
     language: greek
   - strongs: G2064
-    proximity: 0.8168
+    lemma: ἔρχομαι
+    gloss: to come or go (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
     language: greek
   - strongs: G4890
-    proximity: 0.8159
+    lemma: συνδρομή
+    gloss: a running together {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
     language: greek
   - strongs: G2240
-    proximity: 0.8141
+    lemma: ἥκω
+    gloss: to arrive {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
     language: greek
   - strongs: G1904
-    proximity: 0.809
+    lemma: ἐπέρχομαι
+    gloss: to supervene {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

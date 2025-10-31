@@ -8,55 +8,87 @@ kjv_usage: abide, continue, (cause to, make to) dwell(-er), have habitation, inh
   lay, place, (cause to) remain, rest, set (up).
 derivation: a primitive root (apparently akin (by transmission) to H7901 (שָׁכַב)
   through the idea of lodging; compare H5531 (סִכְלוּת), H7925 (שָׁכַם));
-extended_definition:
-  gloss: to dwell
-  definition: '1) to settle down, abide, dwell, tabernacle, reside<br>1a) (Qal)<br>1a1)
-    to settle down to abide<br>1a2) to abide, dwell, reside<br>1b) (Piel)<br>1b1)
-    to make settle down, establish<br>1b2) to make or cause to dwell<br>1c) (Hiphil)<br>1c1)
-    to lay, place, set, establish, settle, fix<br>1c2) to cause to dwell or abide<BR>Aramaic
-    equivalent: <i>she.khan</i> (שְׁכֵן "to dwell" H7932)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to settle down, abide, dwell, tabernacle, reside
+
+  1a) (Qal)
+
+  1a1) to settle down to abide
+
+  1a2) to abide, dwell, reside
+
+  1b) (Piel)
+
+  1b1) to make settle down, establish
+
+  1b2) to make or cause to dwell
+
+  1c) (Hiphil)
+
+  1c1) to lay, place, set, establish, settle, fix
+
+  1c2) to cause to dwell or abide
+
+  Aramaic equivalent: she.khan (שְׁכֵן "to dwell" H7932) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7599
-    proximity: 0.8254
+    lemma: שָׁאַן
+    gloss: to loll {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: H871a
-    proximity: 0.8221
+    proximity: 0.8221 {macula-proximity}
   - strongs: H413
-    proximity: 0.8207
+    proximity: 0.8207 {macula-proximity}
   - strongs: H4264
-    proximity: 0.8181
+    lemma: מַחֲנֶה
+    gloss: an encampment {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
   - strongs: H7896
-    proximity: 0.8171
+    lemma: שִׁית
+    gloss: to place {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: A4567
-    proximity: 0.8158
+    proximity: 0.8158 {macula-proximity}
   - strongs: H5324
-    proximity: 0.8157
+    lemma: נָצַב
+    gloss: to station {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: H4033
-    proximity: 0.8141
+    lemma: מָגוּר
+    gloss: a temporary abode {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: H2424
-    proximity: 0.8118
+    lemma: חַיּוּת
+    gloss: life {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
   - strongs: H4999
-    proximity: 0.8088
+    lemma: נָאָה
+    gloss: a home {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
   cross_language:
   - strongs: G3887
-    proximity: 0.8235
+    lemma: παραμένω
+    gloss: to stay near {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: greek
   - strongs: G1265
-    proximity: 0.8206
+    lemma: διαμένω
+    gloss: to stay constantly {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G1722
-    proximity: 0.8184
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.8184 {macula-proximity}
     language: greek
   - strongs: G4924
-    proximity: 0.8139
+    lemma: συνοικέω
+    gloss: to reside together {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: greek
   - strongs: G2749
-    proximity: 0.8118
+    lemma: κεῖμαι
+    gloss: to lie outstretched {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

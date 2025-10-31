@@ -6,26 +6,26 @@ pronunciation: ser-oke'
 definition: a thong (as laced or tied)
 kjv_usage: (shoe-)latchet.
 derivation: from H8308 (שָׂרַךְ);
-extended_definition:
-  gloss: thong
-  definition: sandal thong
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: sandal thong {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1552
-    proximity: 0.8245
+    lemma: גְלִילָה
+    gloss: a circuit or region {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H2348
-    proximity: 0.8167
+    lemma: חוֹף
+    gloss: a cove {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   cross_language:
   - strongs: G4066
-    proximity: 0.8121
+    lemma: περίχωρος
+    gloss: around the region {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
     language: greek
   - strongs: G2824
-    proximity: 0.7309
+    lemma: κλίμα
+    gloss: a slope {openscriptures-strongs}
+    proximity: 0.7309 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

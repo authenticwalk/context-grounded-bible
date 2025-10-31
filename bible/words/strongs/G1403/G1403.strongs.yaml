@@ -5,48 +5,52 @@ transliteration: dochḗ
 definition: a reception, i.e. convivial entertainment
 kjv_usage: feast
 derivation: from G1209 (δέχομαι);
-extended_definition:
-  gloss: banquet
-  definition: '<b>δοχή</b>, -ῆς, ἡ<BR /> (δέχομαι), [in LXX: <ref=''Gen.21.8''>Gen.21:8</ref>,
-    <ref=''Est.1.3''>Est.1:3</ref>, al. (מִשְׁתֶּה), Dan LXX 5:1 (לֶחֶם) ;] <BR /><b>a
-    feast, banquet</b>: <ref=''Luk.5.29; 14.13''>Luk.5:29 14:13</ref>.†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> δοχ-ή</b>, ἡ, <br /> ={δοχεῖον}, <b>receptacle,</b> [<a href="javascript:void(0)"
-    title=" 5th c.BC: Euripides Tragicus “Electra” 828, 5th-6th c.BC: Plato Philosophus
-    “Timaeus” 71c. ">Refs 5th c.BC+</a>]<br /><Level2><b>__II</b></Level2> <b>reception,
-    entertainment,</b> [<a href="javascript:void(0)" title=" 3rd c.BC: Macho Comicus
-    cited in 2nd c.AD: Athenaeus Epigrammaticus 8.348f, LXX.Gen.21.8, +others, “PTeb.”
-    112.89 (2nd c.BC), NT.Luke.5.29, etc.">NT+3rd c.BC+</a>]; ={ἄριστον}, [<a href="javascript:void(0)"
-    title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]<br /><Level2><b>__III</b></Level2>
-    σημεῖον ἐν θυτικῇ, [<a href="javascript:void(0)" title="[prev. author] ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δοχή, -ῆς, ἡ
+
+  (δέχομαι), [in LXX: Gen.21:8, Est.1:3, al. (מִשְׁתֶּה), Dan LXX 5:1 (לֶחֶם) ;]
+
+  a feast, banquet: Luk.5:29 14:13.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'δοχ-ή, ἡ,
+
+  ={δοχεῖον}, receptacle, [Refs 5th c.BC+]
+
+  __II reception, entertainment, [NT+3rd c.BC+]; ={ἄριστον}, [Refs 5th c.AD+]
+
+  __III σημεῖον ἐν θυτικῇ, [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G755
-    proximity: 0.8214
+    proximity: 0.8214 {macula-proximity}
   - strongs: G5132
-    proximity: 0.8157
+    lemma: τράπεζα
+    gloss: a table or stool {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   cross_language:
   - strongs: H4798
-    proximity: 0.8126
+    lemma: מַרְזֵחַ
+    gloss: a cry {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
     language: hebrew
   - strongs: H1974
-    proximity: 0.808
+    lemma: הִלּוּל
+    gloss: a celebration of thanksgiving for harvest {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
     language: hebrew
   - strongs: H7979
-    proximity: 0.7991
+    lemma: שֻׁלְחָן
+    gloss: a table {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
     language: hebrew
   - strongs: H4516
-    proximity: 0.7837
+    lemma: מַנְעַם
+    gloss: a delicacy {openscriptures-strongs}
+    proximity: 0.7837 {macula-proximity}
     language: hebrew
   - strongs: H3740
-    proximity: 0.7078
+    lemma: כֵּרָה
+    gloss: a purchase {openscriptures-strongs}
+    proximity: 0.7078 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

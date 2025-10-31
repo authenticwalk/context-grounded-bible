@@ -6,36 +6,46 @@ pronunciation: min-hawg'
 definition: the driving (of a chariot)
 kjv_usage: driving.
 derivation: from H5090 (נָהַג);
-extended_definition:
-  gloss: driving
-  definition: driving, charioteering
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: driving, charioteering {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1760
-    proximity: 0.8242
+    lemma: דָּחָה
+    gloss: to push down {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H7392
-    proximity: 0.8076
+    lemma: רָכַב
+    gloss: to ride {openscriptures-strongs}
+    proximity: 0.8076 {macula-proximity}
   - strongs: H5502
-    proximity: 0.8006
+    lemma: סָחַף
+    gloss: to scrape off {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
   - strongs: H1536
-    proximity: 0.7894
+    lemma: גִּלְגָּל
+    gloss: '{a wheel {openscriptures-strongs}'
+    proximity: 0.7894 {macula-proximity}
   - strongs: H5311
-    proximity: 0.788
+    lemma: נֶפֶץ
+    gloss: a storm {openscriptures-strongs}
+    proximity: 0.788 {macula-proximity}
   - strongs: H7395
-    proximity: 0.7691
+    lemma: רַכָּב
+    gloss: a charioteer {openscriptures-strongs}
+    proximity: 0.7691 {macula-proximity}
   - strongs: H4215
-    proximity: 0.7625
+    lemma: מְזָרֶה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7625 {macula-proximity}
   cross_language:
   - strongs: G3130
-    proximity: 0.7639
+    lemma: μανία
+    gloss: craziness {openscriptures-strongs}
+    proximity: 0.7639 {macula-proximity}
     language: greek
   - strongs: G4062
-    proximity: 0.7535
+    lemma: περιτρέπω
+    gloss: to turn around {openscriptures-strongs}
+    proximity: 0.7535 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

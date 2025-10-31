@@ -9,18 +9,19 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H441
-    proximity: 0.8071
+    proximity: 0.8071 {macula-proximity}
   cross_language:
   - strongs: G809
-    proximity: 0.8189
+    proximity: 0.8189 {macula-proximity}
     language: greek
   - strongs: G2157
-    proximity: 0.8189
+    lemma: εὐσχημοσύνη
+    gloss: decorousness {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
     language: greek
   - strongs: G1978
-    proximity: 0.8075
+    lemma: ἐπίσημος
+    gloss: remarkable {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

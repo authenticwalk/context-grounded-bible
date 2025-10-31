@@ -6,43 +6,58 @@ pronunciation: sed-ay-raw'
 definition: a row, i.e. rank (of soldiers), story (of rooms)
 kjv_usage: board, range.
 derivation: from an unused root meaning to regulate;
-extended_definition:
-  gloss: rank
-  definition: 1) row, rank (of soldiers)<br>1a) rows, ranks<br>1b) technical term
-    of building<br>1b1) meaning unknown
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) row, rank (of soldiers)
+
+  1a) rows, ranks
+
+  1b) technical term of building
+
+  1b1) meaning unknown {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4653
-    proximity: 0.8276
+    lemma: מִפְלַגָּה
+    gloss: a classification {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: H731
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
   - strongs: A6392
-    proximity: 0.806
+    proximity: 0.806 {macula-proximity}
   - strongs: H7824
-    proximity: 0.8016
+    lemma: שָׁחִיף
+    gloss: a board {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
   - strongs: H2876
-    proximity: 0.7797
+    lemma: טַבָּח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7797 {macula-proximity}
   - strongs: H4929
-    proximity: 0.7766
+    lemma: מִשְׁמָר
+    gloss: a guard (the man {openscriptures-strongs}
+    proximity: 0.7766 {macula-proximity}
   - strongs: H8108
-    proximity: 0.7759
+    lemma: שׇׁמְרָה
+    gloss: watchfulness {openscriptures-strongs}
+    proximity: 0.7759 {macula-proximity}
   - strongs: H5604
-    proximity: 0.7642
+    lemma: סִפֻּן
+    gloss: a wainscot {openscriptures-strongs}
+    proximity: 0.7642 {macula-proximity}
   - strongs: H6391
-    proximity: 0.7559
+    lemma: פְּלֻגָּה
+    gloss: a section {openscriptures-strongs}
+    proximity: 0.7559 {macula-proximity}
   - strongs: H730
-    proximity: 0.7535
+    proximity: 0.7535 {macula-proximity}
   cross_language:
   - strongs: G5442
-    proximity: 0.8283
+    lemma: φυλάσσω
+    gloss: to watch {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
     language: greek
   - strongs: G5441
-    proximity: 0.8053
+    lemma: φύλαξ
+    gloss: a watcher or sentry {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

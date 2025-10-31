@@ -6,24 +6,20 @@ pronunciation: gaw-beesh'
 definition: crystal (from its resemblance to ice)
 kjv_usage: pearl.
 derivation: from an unused root (probably meaning to freeze);
-extended_definition:
-  gloss: crystal
-  definition: crystal
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: crystal {STEPBible-TBESH}
 related_words:
   cross_language:
   - strongs: G2393
-    proximity: 0.7431
+    lemma: ἴασπις
+    gloss: '"jasper" {openscriptures-strongs}'
+    proximity: 0.7431 {macula-proximity}
     language: greek
   - strongs: G271
-    proximity: 0.7307
+    proximity: 0.7307 {macula-proximity}
     language: greek
   - strongs: G2929
-    proximity: 0.7077
+    lemma: κρυσταλλίζω
+    gloss: to make (i.e. intransitively {openscriptures-strongs}
+    proximity: 0.7077 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

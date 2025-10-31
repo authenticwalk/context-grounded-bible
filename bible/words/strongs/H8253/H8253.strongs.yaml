@@ -6,48 +6,58 @@ pronunciation: sheh'-ket
 definition: tranquillity
 kjv_usage: quietness.
 derivation: from H8252 (שָׁקַט);
-extended_definition:
-  gloss: quietness
-  definition: quiet, tranquillity, quietness
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: quiet, tranquillity, quietness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A8001
-    proximity: 0.8214
+    proximity: 0.8214 {macula-proximity}
   - strongs: H1747
-    proximity: 0.8207
+    lemma: דּוּמִיָּה
+    gloss: stillness {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H7965
-    proximity: 0.8046
+    lemma: שָׁלוֹם
+    gloss: safe {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
   - strongs: H4496
-    proximity: 0.7941
+    lemma: מְנוּחָה
+    gloss: repose or  peacefully {openscriptures-strongs}
+    proximity: 0.7941 {macula-proximity}
   - strongs: H7962
-    proximity: 0.7857
+    lemma: שַׁלְוָה
+    gloss: security {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
   - strongs: H983
-    proximity: 0.7788
+    proximity: 0.7788 {macula-proximity}
   - strongs: H987
-    proximity: 0.7787
+    proximity: 0.7787 {macula-proximity}
   - strongs: H7600
-    proximity: 0.7756
+    lemma: שַׁאֲנָן
+    gloss: secure {openscriptures-strongs}
+    proximity: 0.7756 {macula-proximity}
   - strongs: H7599
-    proximity: 0.7689
+    lemma: שָׁאַן
+    gloss: to loll {openscriptures-strongs}
+    proximity: 0.7689 {macula-proximity}
   - strongs: H8252
-    proximity: 0.7526
+    lemma: שָׁקַט
+    gloss: to repose {openscriptures-strongs}
+    proximity: 0.7526 {macula-proximity}
   cross_language:
   - strongs: G2270
-    proximity: 0.8284
+    lemma: ἡσυχάζω
+    gloss: to keep still {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: greek
   - strongs: G2137
-    proximity: 0.8102
+    lemma: εὐοδόω
+    gloss: to help on the road {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
     language: greek
   - strongs: G372
-    proximity: 0.8063
+    proximity: 0.8063 {macula-proximity}
     language: greek
   - strongs: G425
-    proximity: 0.7739
+    proximity: 0.7739 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

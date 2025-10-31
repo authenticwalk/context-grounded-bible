@@ -7,37 +7,47 @@ definition: a log or measure forliquids
 kjv_usage: log (of oil).
 derivation: from an unused root apparently meaning to deepen or hollow (like H3537
   (כַּד));
-extended_definition:
-  gloss: log
-  definition: 1) log<br>1a) a liquid measure equal to about one half litre
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) log
+
+  1a) a liquid measure equal to about one half litre {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1553
-    proximity: 0.8284
+    lemma: גְּלִילוֹת
+    gloss: Geliloth {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H3694
-    proximity: 0.8254
+    lemma: כְּסֻלּוֹת
+    gloss: Kesulloth {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: H1450
-    proximity: 0.8237
+    lemma: גְּדֵרוֹת
+    gloss: Gederoth {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: H7274
-    proximity: 0.8206
+    lemma: רֹגְלִים
+    gloss: Rogelim {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: H1463
-    proximity: 0.8194
+    lemma: גּוֹג
+    gloss: Gog {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H1628
-    proximity: 0.8077
+    lemma: גֵּרוּת
+    gloss: a  residence {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
   cross_language:
   - strongs: G2148a
-    proximity: 0.8062
+    proximity: 0.8062 {macula-proximity}
     language: greek
   - strongs: G2832
-    proximity: 0.7989
+    lemma: Κλωπᾶς
+    gloss: Clopas {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
     language: greek
   - strongs: G1385
-    proximity: 0.7389
+    lemma: δοκός
+    gloss: a stick of timber {openscriptures-strongs}
+    proximity: 0.7389 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

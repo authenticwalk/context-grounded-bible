@@ -5,48 +5,58 @@ transliteration: theatrízō
 definition: to expose as a spectacle
 kjv_usage: make a gazing stock
 derivation: from G2302 (θέατρον);
-extended_definition:
-  gloss: to expose
-  definition: '<b>θεατρίζω</b><BR /> (θέατρον), <BR /><b>to make a spectacle of, expose
-    to contempt </b>(eccl.; ἐκθ-, Polyb.): pass., <ref=''Heb.10.33.''>Heb.10:33.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> θεᾱτρ-ίζω</b>, <br /> <b>to be</b> or <b>play on the stage</b>,
-    [<a href="javascript:void(0)" title=" 10th c.AD: Suidas Legal icographus ">Refs</a>]<br
-    /><Level2><b>__II</b></Level2> <i>passive</i>, <b>to be made a show of, held up
-    to shame,</b> [<a href="javascript:void(0)" title="NT.Heb.10.33. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'θεατρίζω
+
+  (θέατρον),
+
+  to make a spectacle of, expose to contempt (eccl.; ἐκθ-, Polyb.): pass., Heb.10:33.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'θεᾱτρ-ίζω,
+
+  to be or play on the stage, [Refs]
+
+  __II passive, to be made a show of, held up to shame, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1725
-    proximity: 0.8276
+    lemma: ἔναντι
+    gloss: in front (i.e. figuratively {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: A6925
-    proximity: 0.81
+    proximity: 0.81 {macula-proximity}
   - strongs: G1726
-    proximity: 0.8067
+    lemma: ἐναντίον
+    gloss: in the presence  of {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   - strongs: A7739
-    proximity: 0.8065
+    proximity: 0.8065 {macula-proximity}
   - strongs: G1715
-    proximity: 0.7667
+    lemma: ἔμπροσθεν
+    gloss: in front of  or time) {openscriptures-strongs}
+    proximity: 0.7667 {macula-proximity}
   - strongs: G1799
-    proximity: 0.7488
+    lemma: ἐνώπιον
+    gloss: in the face of {openscriptures-strongs}
+    proximity: 0.7488 {macula-proximity}
   - strongs: G2335
-    proximity: 0.7374
+    lemma: θεωρία
+    gloss: spectatorship {openscriptures-strongs}
+    proximity: 0.7374 {macula-proximity}
   cross_language:
   - strongs: H6440
-    proximity: 0.8106
+    lemma: פָּנִים
+    gloss: the face {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: hebrew
   - strongs: H2524
-    proximity: 0.8046
+    lemma: חָם
+    gloss: a father-in-law {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
     language: hebrew
   - strongs: H4286
-    proximity: 0.8
+    lemma: מַחְשֹׂף
+    gloss: a peeling {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

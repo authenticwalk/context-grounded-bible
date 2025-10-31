@@ -6,29 +6,30 @@ pronunciation: kab
 definition: a hollow, i.e. vessel used as a (dry) measure
 kjv_usage: cab.
 derivation: from H6895 (קָבַב);
-extended_definition:
-  gloss: kab
-  definition: 1) a dry measure-cab, kab<br>1a) about 1.5 litres, 1/6 of a seah, or
-    1/18 of an ephah
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) a dry measure-cab, kab
+
+  1a) about 1.5 litres, 1/6 of a seah, or 1/18 of an ephah {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1375
-    proximity: 0.8127
+    lemma: גְּבִיעַ
+    gloss: a goblet {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
   - strongs: H3563
-    proximity: 0.7702
+    lemma: כּוֹס
+    gloss: a cup {openscriptures-strongs}
+    proximity: 0.7702 {macula-proximity}
   - strongs: H1893
-    proximity: 0.7593
+    lemma: הֶבֶל
+    gloss: Hebel {openscriptures-strongs}
+    proximity: 0.7593 {macula-proximity}
   cross_language:
   - strongs: G6
-    proximity: 0.7278
+    proximity: 0.7278 {macula-proximity}
     language: greek
   - strongs: G4221
-    proximity: 0.7274
+    lemma: ποτήριον
+    gloss: a drinking-vessel {openscriptures-strongs}
+    proximity: 0.7274 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

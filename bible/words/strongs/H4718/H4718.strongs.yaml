@@ -10,22 +10,29 @@ derivation: from H5344 (נָקַב);
 related_words:
   synonyms:
   - strongs: H2672b
-    proximity: 0.8161
+    proximity: 0.8161 {macula-proximity}
   - strongs: H2356
-    proximity: 0.8006
+    lemma: חוֹר
+    gloss: a cavity {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
   - strongs: H5553
-    proximity: 0.7797
+    lemma: סֶלַע
+    gloss: a craggy rock {openscriptures-strongs}
+    proximity: 0.7797 {macula-proximity}
   - strongs: H2352
-    proximity: 0.7782
+    lemma: חוּר
+    gloss: the crevice of a serpent {openscriptures-strongs}
+    proximity: 0.7782 {macula-proximity}
   - strongs: H5585a
-    proximity: 0.7515
+    proximity: 0.7515 {macula-proximity}
   - strongs: H4247
-    proximity: 0.7494
+    lemma: מְחִלָּה
+    gloss: a cavern {openscriptures-strongs}
+    proximity: 0.7494 {macula-proximity}
   cross_language:
   - strongs: G3692
-    proximity: 0.7755
+    lemma: ὀπή
+    gloss: a hole {openscriptures-strongs}
+    proximity: 0.7755 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

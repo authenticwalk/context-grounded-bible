@@ -6,48 +6,67 @@ pronunciation: kad-mo-nee'
 definition: (of time) anterior or (of place) oriental
 kjv_usage: ancient, they that went before, east, (thing of) old.
 derivation: or קַדְמֹנִי; from H6930 (קַדְמוֹן);
-extended_definition:
-  gloss: 'eastern: older'
-  definition: ': older<br>1) former, ancient, eastern<br>1a) former, ancient<br>1b)
-    eastern'
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: ': older
+
+  1) former, ancient, eastern
+
+  1a) former, ancient
+
+  1b) eastern {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6267
-    proximity: 0.823
+    lemma: עַתִּיק
+    gloss: removed {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: A6268
-    proximity: 0.8207
+    proximity: 0.8207 {macula-proximity}
   - strongs: H4480
-    proximity: 0.8199
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H7221
-    proximity: 0.8187
+    lemma: רִאשָׁה
+    gloss: a beginning {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
   - strongs: H6607
-    proximity: 0.8139
+    lemma: פֶּתַח
+    gloss: an opening {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H6440
-    proximity: 0.8134
+    lemma: פָּנִים
+    gloss: the face {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
   - strongs: A1b
-    proximity: 0.7886
+    proximity: 0.7886 {macula-proximity}
   - strongs: H7223
-    proximity: 0.7742
+    lemma: רִאשׁוֹן
+    gloss: first {openscriptures-strongs}
+    proximity: 0.7742 {macula-proximity}
   cross_language:
   - strongs: G4257
-    proximity: 0.8255
+    lemma: προακούω
+    gloss: to hear already {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
     language: greek
   - strongs: G3855
-    proximity: 0.8232
+    lemma: παράγω
+    gloss: to lead near {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
     language: greek
   - strongs: G4386
-    proximity: 0.8183
+    lemma: πρότερον
+    gloss: previously {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
     language: greek
   - strongs: G3928
-    proximity: 0.8115
+    lemma: παρέρχομαι
+    gloss: to come near or aside {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
     language: greek
   - strongs: G3498
-    proximity: 0.8008
+    lemma: νεκρός
+    gloss: dead (literally or figuratively {openscriptures-strongs}
+    proximity: 0.8008 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

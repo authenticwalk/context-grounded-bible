@@ -10,12 +10,11 @@ derivation: patrial from H3667 (כְּנַעַן);
 related_words:
   synonyms:
   - strongs: H3669a
-    proximity: 0.8251
+    proximity: 0.8251 {macula-proximity}
   cross_language:
   - strongs: G1713
-    proximity: 0.7666
+    lemma: ἔμπορος
+    gloss: a  tradesman {openscriptures-strongs}
+    proximity: 0.7666 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -8,50 +8,76 @@ definition: properly, abrupt, i.e. a precipice; by implication, the front; used 
 kjv_usage: (over) against, before, (fore-) front, from, (God-) ward, toward, with.
 derivation: or מוֹל; (Deuteronomy 1:1), or מוֹאל; (Nehemiah 12:38), or מֻל; (Numbers
   22:5), from H4135 (מוּל);
-extended_definition:
-  gloss: opposite
-  definition: 1) front<br>1a) front<br>1b) in the opposite direction<br>prep<br>2)
-    in front of<br>2a) in front of<br>2b) (with prefix)<br>2b1) towards the front
-    of, to the front of, on the front of<br>2b2) from the front of, off the front
-    of, close in front of, on the forefront of
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) front
+
+  1a) front
+
+  1b) in the opposite direction
+
+  prep
+
+  2) in front of
+
+  2a) in front of
+
+  2b) (with prefix)
+
+  2b1) towards the front of, to the front of, on the front of
+
+  2b2) from the front of, off the front of, close in front of, on the forefront of
+  {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A5675
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
   - strongs: H6921
-    proximity: 0.8257
+    lemma: קָדִים
+    gloss: the fore or front part {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H8040
-    proximity: 0.8243
+    lemma: שְׂמֹאול
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: A4481
-    proximity: 0.8142
+    proximity: 0.8142 {macula-proximity}
   - strongs: A871b
-    proximity: 0.8108
+    proximity: 0.8108 {macula-proximity}
   - strongs: H7138
-    proximity: 0.7888
+    lemma: קָרוֹב
+    gloss: near (in place {openscriptures-strongs}
+    proximity: 0.7888 {macula-proximity}
   - strongs: H1973
-    proximity: 0.7885
+    lemma: הָלְאָה
+    gloss: to the distance {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
   - strongs: H6285
-    proximity: 0.7879
+    lemma: פֵּאָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7879 {macula-proximity}
   cross_language:
   - strongs: G4940
-    proximity: 0.8248
+    lemma: συντυγχάνω
+    gloss: to chance together {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: greek
   - strongs: G4261
-    proximity: 0.8218
+    lemma: προβάλλω
+    gloss: to throw forward {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
     language: greek
   - strongs: G4250
-    proximity: 0.815
+    lemma: πρίν
+    gloss: prior {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
     language: greek
   - strongs: G4317
-    proximity: 0.8014
+    lemma: προσάγω
+    gloss: to lead towards {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
     language: greek
   - strongs: G4295
-    proximity: 0.7959
+    lemma: πρόκειμαι
+    gloss: to lie before the view {openscriptures-strongs}
+    proximity: 0.7959 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

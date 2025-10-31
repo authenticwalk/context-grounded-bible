@@ -5,56 +5,71 @@ transliteration: teknotrophéō
 definition: to be a childrearer, i.e. fulfil the duties of a female parent
 kjv_usage: bring up children
 derivation: from a compound of G5043 (τέκνον) and G5142 (τρέφω);
-extended_definition:
-  gloss: to raise children
-  definition: '<b>τεκνο-τροφέω</b>, -ῶ <BR /> to rear young (of bees, Arist.), <BR
-    /> <b>to bring up children</b>: <ref=''1Ti.5.10.''>1Ti.5:10.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> τεκνο-τροφέω</b>, <br /> <b>rear children</b>, [<a href="javascript:void(0)"
-    title=" 4th-3rd c.BC: Epicurus Philosophus “Fragmenta” 525, “IG” 12(5).655.8 (Syros,
-    2nd-3rd c.AD)">Refs 4th c.BC+</a>]; of animals, <b>rear young ones</b>, [<a href="javascript:void(0)"
-    title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 625b20. ">Refs
-    4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'τεκνο-τροφέω, -ῶ
+
+  to rear young (of bees, Arist.),
+
+  to bring up children: 1Ti.5:10.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'τεκνο-τροφέω,
+
+  rear children, [Refs 4th c.BC+]; of animals, rear young ones, [Refs 4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5142
-    proximity: 0.828
+    lemma: τρέφω
+    gloss: but perhaps strengthened from the base of G5157  through the idea of convolution)
+      {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
   - strongs: G2365
-    proximity: 0.8214
+    lemma: θυγάτριον
+    gloss: a daughterling {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: G4939
-    proximity: 0.8162
+    lemma: σύντροφος
+    gloss: a fellow-nursling {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: A1123
-    proximity: 0.8146
+    proximity: 0.8146 {macula-proximity}
   - strongs: G3541
-    proximity: 0.8109
+    lemma: νόθος
+    gloss: a spurious or illegitimate son {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
   - strongs: G1549
-    proximity: 0.8101
+    lemma: ἔκγονον
+    gloss: a descendant {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
   - strongs: G5207
-    proximity: 0.8067
+    lemma: υἱός
+    gloss: a "son" {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   - strongs: G2364
-    proximity: 0.7948
+    lemma: θυγάτηρ
+    gloss: a female child {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
   cross_language:
   - strongs: H5291
-    proximity: 0.8239
+    lemma: נַעֲרָה
+    gloss: a girl {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: hebrew
   - strongs: H545
-    proximity: 0.8229
+    proximity: 0.8229 {macula-proximity}
     language: hebrew
   - strongs: H3205
-    proximity: 0.8225
+    lemma: יָלַד
+    gloss: to bear young {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: hebrew
   - strongs: H5347
-    proximity: 0.8122
+    lemma: נְקֵבָה
+    gloss: female {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
     language: hebrew
   - strongs: H1248
-    proximity: 0.8077
+    lemma: בַּר
+    gloss: the heir {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

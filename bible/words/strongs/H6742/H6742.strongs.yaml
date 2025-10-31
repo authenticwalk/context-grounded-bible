@@ -6,30 +6,34 @@ pronunciation: tsel-ool'
 definition: a (round or flattened) cake
 kjv_usage: cake.
 derivation: from H6749 (צָלַל) in the sense of rolling;
-extended_definition:
-  gloss: bun
-  definition: cake, round loaf, round, rolling
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: cake, round loaf, round, rolling {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3899
-    proximity: 0.823
+    lemma: לֶחֶם
+    gloss: food {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: H2406
-    proximity: 0.8207
+    lemma: חִטָּה
+    gloss: wheat {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H7058
-    proximity: 0.7944
+    lemma: קֶמַח
+    gloss: flour {openscriptures-strongs}
+    proximity: 0.7944 {macula-proximity}
   - strongs: H2471
-    proximity: 0.7605
+    lemma: חַלָּה
+    gloss: a cake {openscriptures-strongs}
+    proximity: 0.7605 {macula-proximity}
   cross_language:
   - strongs: G2915
-    proximity: 0.7657
+    lemma: κριθή
+    gloss: barley {openscriptures-strongs}
+    proximity: 0.7657 {macula-proximity}
     language: greek
   - strongs: G2916
-    proximity: 0.7475
+    lemma: κρίθινος
+    gloss: consisting of barley {openscriptures-strongs}
+    proximity: 0.7475 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

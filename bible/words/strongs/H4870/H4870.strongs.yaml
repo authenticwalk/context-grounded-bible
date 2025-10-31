@@ -6,25 +6,25 @@ pronunciation: mish-gay'
 definition: an error
 kjv_usage: oversight.
 derivation: from H7686 (שָׁגָה);
-extended_definition:
-  gloss: mistake
-  definition: mistake
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: mistake {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7944
-    proximity: 0.7844
+    lemma: שַׁל
+    gloss: a fault {openscriptures-strongs}
+    proximity: 0.7844 {macula-proximity}
   - strongs: H7691
-    proximity: 0.7583
+    lemma: שְׁגִיאָה
+    gloss: a moral mistake {openscriptures-strongs}
+    proximity: 0.7583 {macula-proximity}
   - strongs: H7684
-    proximity: 0.7537
+    lemma: שְׁגָגָה
+    gloss: a mistake or inadvertent transgression {openscriptures-strongs}
+    proximity: 0.7537 {macula-proximity}
   cross_language:
   - strongs: G4106
-    proximity: 0.8159
+    lemma: πλάνη
+    gloss: objectively {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

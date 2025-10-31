@@ -7,51 +7,71 @@ definition: to be strong; causatively, to stregthen, i.e. (figuratively) to save
   flight)
 kjv_usage: gather (self, self to flee), retire.
 derivation: a primitive root;
-extended_definition:
-  gloss: to seek refuge
-  definition: (Hiphil) to take refuge, bring to refuge, seek refuge
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Hiphil) to take refuge, bring to refuge, seek refuge {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6413
-    proximity: 0.813
+    lemma: פְּלֵיטָה
+    gloss: deliverance {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
   - strongs: H5074
-    proximity: 0.8101
+    lemma: נָדַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
   - strongs: H6412
-    proximity: 0.7956
+    lemma: פָּלִיט
+    gloss: a refugee {openscriptures-strongs}
+    proximity: 0.7956 {macula-proximity}
   - strongs: H4372
-    proximity: 0.7837
+    lemma: מִכְסֶה
+    gloss: a covering {openscriptures-strongs}
+    proximity: 0.7837 {macula-proximity}
   - strongs: H4224
-    proximity: 0.7699
+    lemma: מַחֲבֵא
+    gloss: a refuge {openscriptures-strongs}
+    proximity: 0.7699 {macula-proximity}
   - strongs: H1272
-    proximity: 0.7471
+    lemma: בָּרַח
+    gloss: to bolt {openscriptures-strongs}
+    proximity: 0.7471 {macula-proximity}
   - strongs: H4422
-    proximity: 0.7429
+    lemma: מָלַט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7429 {macula-proximity}
   - strongs: H5127
-    proximity: 0.7366
+    lemma: נוּס
+    gloss: to flit {openscriptures-strongs}
+    proximity: 0.7366 {macula-proximity}
   - strongs: H4655
-    proximity: 0.7322
+    lemma: מִפְלָט
+    gloss: an escape {openscriptures-strongs}
+    proximity: 0.7322 {macula-proximity}
   - strongs: H2622
-    proximity: 0.715
+    lemma: חָסוּת
+    gloss: confidence {openscriptures-strongs}
+    proximity: 0.715 {macula-proximity}
   cross_language:
   - strongs: G616
-    proximity: 0.829
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G2222
-    proximity: 0.8028
+    lemma: ζωή
+    gloss: life {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
     language: greek
   - strongs: G1628
-    proximity: 0.7767
+    lemma: ἐκφεύγω
+    gloss: to flee out {openscriptures-strongs}
+    proximity: 0.7767 {macula-proximity}
     language: greek
   - strongs: G5437
-    proximity: 0.7575
+    lemma: φυγή
+    gloss: a fleeing {openscriptures-strongs}
+    proximity: 0.7575 {macula-proximity}
     language: greek
   - strongs: G2703
-    proximity: 0.7237
+    lemma: καταφεύγω
+    gloss: to flee down {openscriptures-strongs}
+    proximity: 0.7237 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

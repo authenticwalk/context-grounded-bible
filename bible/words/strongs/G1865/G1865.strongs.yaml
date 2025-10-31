@@ -5,52 +5,68 @@ transliteration: epathroízō
 definition: to accumulate
 kjv_usage: gather thick together
 derivation: from G1909 (ἐπί) and (to assemble);
-extended_definition:
-  gloss: to collect/crowd
-  definition: '<b>ἐπ-αθροίζω </b><BR /> <b>to assemble besides </b>(Plut.): pass.,
-    <ref=''Luk.11.29.''>Luk.11:29.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐπαθροίζομαι</b>, <br /> <i>passive</i>, <b>assemble besides,</b>
-    [<a href="javascript:void(0)" title="NT.Luke.11.29, 1st-2nd c.AD: Plutarchus Biographus
-    et Philosophus “Antonius” 44. ">NT+1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐπ-αθροίζω
+
+  to assemble besides (Plut.): pass., Luk.11:29.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐπαθροίζομαι,
+
+  passive, assemble besides, [NT+1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3831
-    proximity: 0.8143
+    lemma: πανήγυρις
+    gloss: a mass-meeting {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
   - strongs: G4129
-    proximity: 0.812
+    lemma: πληθύνω
+    gloss: to increase {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: G4121
-    proximity: 0.803
+    lemma: πλεονάζω
+    gloss: to do {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
   - strongs: G3674
-    proximity: 0.8
+    lemma: ὁμοῦ
+    gloss: akin to G260 ) as adverb {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: G4298
-    proximity: 0.7947
+    lemma: προκόπτω
+    gloss: to drive forward {openscriptures-strongs}
+    proximity: 0.7947 {macula-proximity}
   - strongs: G4918
-    proximity: 0.7911
+    lemma: συνθλίβω
+    gloss: to compress {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
   - strongs: G4848
-    proximity: 0.7898
+    lemma: συμπορεύομαι
+    gloss: to journey together {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
   cross_language:
   - strongs: H8636
-    proximity: 0.8261
+    lemma: תַּרְבִּית
+    gloss: multiplication {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: hebrew
   - strongs: H7685
-    proximity: 0.8261
+    lemma: שָׂגָה
+    gloss: to enlarge (especially upward {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: hebrew
   - strongs: H4766
-    proximity: 0.8064
+    lemma: מַרְבֶה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
     language: hebrew
   - strongs: H6192
-    proximity: 0.8052
+    lemma: עָרַם
+    gloss: to pile up {openscriptures-strongs}
+    proximity: 0.8052 {macula-proximity}
     language: hebrew
   - strongs: H1711
-    proximity: 0.7993
+    lemma: דָּגָה
+    gloss: to spawn {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

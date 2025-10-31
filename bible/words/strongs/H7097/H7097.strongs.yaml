@@ -11,42 +11,59 @@ derivation: or (negative only) קֵצֶה; from H7096 (קָצָה); (used in a g
 related_words:
   synonyms:
   - strongs: A5675
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
   - strongs: H4772
-    proximity: 0.8293
+    lemma: מַרְגְלָה
+    gloss: a footpiece {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: A772
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
   - strongs: H7078
-    proximity: 0.8271
+    lemma: קֶנֶץ
+    gloss: perversion {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: H7097a
-    proximity: 0.8251
+    proximity: 0.8251 {macula-proximity}
   - strongs: H776
-    proximity: 0.8231
+    proximity: 0.8231 {macula-proximity}
   - strongs: H4617a
-    proximity: 0.8205
+    proximity: 0.8205 {macula-proximity}
   - strongs: H6311
-    proximity: 0.8182
+    lemma: פֹּה
+    gloss: this place {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
   - strongs: H7272
-    proximity: 0.8181
+    lemma: רֶגֶל
+    gloss: a foot {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
   - strongs: H8379
-    proximity: 0.8125
+    lemma: תַּאֲוָה
+    gloss: a limit {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   cross_language:
   - strongs: G4228
-    proximity: 0.8279
+    lemma: πούς
+    gloss: a "foot" {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G1093
-    proximity: 0.8261
+    lemma: γῆ
+    gloss: soil {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: greek
   - strongs: G4931
-    proximity: 0.8255
+    lemma: συντελέω
+    gloss: to complete entirely {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
     language: greek
   - strongs: G3625
-    proximity: 0.8255
+    lemma: οἰκουμένη
+    gloss: land {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
     language: greek
   - strongs: G1279
-    proximity: 0.8055
+    lemma: διαπορεύομαι
+    gloss: to travel through {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

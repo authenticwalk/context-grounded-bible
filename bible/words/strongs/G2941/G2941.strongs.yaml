@@ -5,56 +5,68 @@ transliteration: kybérnēsis
 definition: pilotage, i.e. (figuratively) directorship (in the church)
 kjv_usage: government
 derivation: from (of Latin origin, to steer);
-extended_definition:
-  gloss: administration
-  definition: '<b>κυβέρνησις</b>, -εως, ἡ<BR /> (κυβερνάω, Lat. gubernare, to guide),
-    [in LXX: <ref=''Pro.1.5; 11.14; 24.6''>Pro.1:5 11:14 24:6</ref> (תַּחְבֻּלָה)
-    * ;] <BR />__1. steering, pilotage (Plat.). <BR /> __2. Metaphorical, <b>government</b>:
-    pl., <ref=''1Co.12.28.''>1Co.12:28.</ref>†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κῠβέρν-ησις</b>, <br /> <i>Doric dialect</i> <b>κῠβέρν-ᾱσις</b>,
-    εως, ἡ, <b>steering, pilotage</b>, [<a href="javascript:void(0)" title=" 5th-6th
-    c.BC: Plato Philosophus “Respublica” 488b. ">Refs 5th c.BC+</a>]<br /><Level3><b>__2</b></Level3>
-    <i>metaphorically</i>, <b>government</b>, πολίων of cities, [<a href="javascript:void(0)"
-    title=" 5th c.BC: Pindarus Lyricus “P.” 10.72 (_plural_), cf. NT.1Cor.12.28 (_plural_)">NT+5th
-    c.BC+</a>]; θεοῦ by a god, [<a href="javascript:void(0)" title=" 1st-2nd c.AD:
-    Plutarchus Biographus et Philosophus 2.162a. ">Refs 1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κυβέρνησις, -εως, ἡ
+
+  (κυβερνάω, Lat. gubernare, to guide), [in LXX: Pro.1:5 11:14 24:6 (תַּחְבֻּלָה)
+  * ;]
+
+  __1. steering, pilotage (Plat.).
+
+  __2. Metaphorical, government: pl., 1Co.12:28.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κῠβέρν-ησις,
+
+  Doric dialect κῠβέρν-ᾱσις, εως, ἡ, steering, pilotage, [Refs 5th c.BC+]
+
+  __2 metaphorically, government, πολίων of cities, [NT+5th c.BC+]; θεοῦ by a god,
+  [Refs 1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1909
-    proximity: 0.8163
+    lemma: ἐπί
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
   - strongs: G4165
-    proximity: 0.7746
+    lemma: ποιμαίνω
+    gloss: to tend as a shepherd of (figuratively {openscriptures-strongs}
+    proximity: 0.7746 {macula-proximity}
   - strongs: G3616
-    proximity: 0.7694
+    lemma: οἰκοδεσποτέω
+    gloss: to be the head of  a family {openscriptures-strongs}
+    proximity: 0.7694 {macula-proximity}
   - strongs: G2634
-    proximity: 0.7481
+    lemma: κατακυριεύω
+    gloss: to lord against {openscriptures-strongs}
+    proximity: 0.7481 {macula-proximity}
   - strongs: A5922
-    proximity: 0.7344
+    proximity: 0.7344 {macula-proximity}
   - strongs: A7981
-    proximity: 0.7232
+    proximity: 0.7232 {macula-proximity}
   cross_language:
   - strongs: H3533
-    proximity: 0.8298
+    lemma: כָּבַשׁ
+    gloss: to tread down {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: hebrew
   - strongs: H5057
-    proximity: 0.8247
+    lemma: נָגִיד
+    gloss: a commander {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: hebrew
   - strongs: H5921
-    proximity: 0.8164
+    lemma: עַל
+    gloss: above {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
     language: hebrew
   - strongs: H6496
-    proximity: 0.8144
+    lemma: פָּקִיד
+    gloss: a superintendent (civil {openscriptures-strongs}
+    proximity: 0.8144 {macula-proximity}
     language: hebrew
   - strongs: H4427
-    proximity: 0.8096
+    lemma: מָלַךְ
+    gloss: to reign {openscriptures-strongs}
+    proximity: 0.8096 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

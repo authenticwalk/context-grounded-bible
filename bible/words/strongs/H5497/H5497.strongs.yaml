@@ -6,45 +6,53 @@ pronunciation: sooth
 definition: covering, i.e. clothing
 kjv_usage: clothes.
 derivation: probably from the same root as H4533 (מַסְוֶה);
-extended_definition:
-  gloss: vesture
-  definition: garment, vesture
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: garment, vesture {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2684
-    proximity: 0.8291
+    lemma: חֹצֶן
+    gloss: '{the bosom } {openscriptures-strongs}'
+    proximity: 0.8291 {macula-proximity}
   - strongs: H7289
-    proximity: 0.8138
+    lemma: רָדִיד
+    gloss: a veil {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
   - strongs: H7757
-    proximity: 0.808
+    lemma: שׁוּל
+    gloss: a skirt {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
   - strongs: H4418
-    proximity: 0.7718
+    lemma: מָלָח
+    gloss: a rag or old garment {openscriptures-strongs}
+    proximity: 0.7718 {macula-proximity}
   - strongs: H4403
-    proximity: 0.7707
+    lemma: מַלְבּוּשׁ
+    gloss: a garment {openscriptures-strongs}
+    proximity: 0.7707 {macula-proximity}
   - strongs: A3831
-    proximity: 0.7669
+    proximity: 0.7669 {macula-proximity}
   - strongs: H145
-    proximity: 0.7543
+    proximity: 0.7543 {macula-proximity}
   cross_language:
   - strongs: G1903
-    proximity: 0.8274
+    lemma: ἐπενδύτης
+    gloss: a wrapper {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
     language: greek
   - strongs: G294
-    proximity: 0.8147
+    proximity: 0.8147 {macula-proximity}
     language: greek
   - strongs: G1742
-    proximity: 0.8026
+    lemma: ἔνδυμα
+    gloss: apparel {openscriptures-strongs}
+    proximity: 0.8026 {macula-proximity}
     language: greek
   - strongs: G5341a
-    proximity: 0.7986
+    proximity: 0.7986 {macula-proximity}
     language: greek
   - strongs: G2441
-    proximity: 0.7959
+    lemma: ἱματισμός
+    gloss: clothing {openscriptures-strongs}
+    proximity: 0.7959 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

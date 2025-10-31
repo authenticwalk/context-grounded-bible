@@ -5,43 +5,52 @@ transliteration: oktaḗmeros
 definition: an eight-day old person or act
 kjv_usage: the eighth day
 derivation: from G3638 (ὀκτώ) and G2250 (ἡμέρα);
-extended_definition:
-  gloss: eighth day
-  definition: '<b>ὀκταήμερος</b>, -ον<BR /> (ὀκτώ, ἡμέρα), <BR /><b>of the eighth
-    day, eight days old</b>: with dative ref., περιτομῇ., <ref=''Php.3.5''>Php.3:5</ref>
-    (words of this class denote duration, cf. τεταρταῖος).†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ὀκτα-ήμερος</b>, ον, <br /> <b>eight days old,</b> [<a href="javascript:void(0)"
-    title="NT.Phil.3.5. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ὀκταήμερος, -ον
+
+  (ὀκτώ, ἡμέρα),
+
+  of the eighth day, eight days old: with dative ref., περιτομῇ., Php.3:5 (words of
+  this class denote duration, cf. τεταρταῖος).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὀκτα-ήμερος, ον,
+
+  eight days old, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5065
-    proximity: 0.8296
+    lemma: τεσσαρεσκαιδέκατος
+    gloss: fourteenth {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: G1887
-    proximity: 0.8291
+    lemma: ἐπαύριον
+    gloss: occurring on the succeeding day {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: G1836
-    proximity: 0.8278
+    lemma: ἑξῆς
+    gloss: successive {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: G1966a
-    proximity: 0.8163
+    proximity: 0.8163 {macula-proximity}
   - strongs: G5066
-    proximity: 0.8159
+    lemma: τεταρταῖος
+    gloss: pertaining to the fourth day {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: G839
-    proximity: 0.8109
+    proximity: 0.8109 {macula-proximity}
   - strongs: G1206
-    proximity: 0.7778
+    lemma: δευτεραῖος
+    gloss: secondary {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   cross_language:
   - strongs: H8083
-    proximity: 0.8294
+    lemma: שְׁמֹנֶה
+    gloss: a cardinal number {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: hebrew
   - strongs: H8067
-    proximity: 0.7921
+    lemma: שְׁמִינִית
+    gloss: probably an eight-stringed lyre {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

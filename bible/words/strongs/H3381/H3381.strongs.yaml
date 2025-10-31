@@ -11,49 +11,83 @@ kjv_usage: '[idiom] abundantly, bring down, carry down, cast down, (cause to) co
   down, light (down), put down (off), (cause to, let) run down, sink, subdue, take
   down.'
 derivation: a primitive root;
-extended_definition:
-  gloss: to go down
-  definition: 1) to go down, descend, decline, march down, sink down<br>1a) (Qal)<br>1a1)
-    to go or come down<br>1a2) to sink<br>1a3) to be prostrated<br>1a4) to come down
-    (of revelation)<br>1b) (Hiphil)<br>1b1) to bring down<br>1b2) to send down<br>1b3)
-    to take down<br>1b4) to lay prostrate<br>1b5) to let down<br>1c) (Hophal)<br>1c1)
-    to be brought down<br>1c2) to be taken down
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to go down, descend, decline, march down, sink down
+
+  1a) (Qal)
+
+  1a1) to go or come down
+
+  1a2) to sink
+
+  1a3) to be prostrated
+
+  1a4) to come down (of revelation)
+
+  1b) (Hiphil)
+
+  1b1) to bring down
+
+  1b2) to send down
+
+  1b3) to take down
+
+  1b4) to lay prostrate
+
+  1b5) to let down
+
+  1c) (Hophal)
+
+  1c1) to be brought down
+
+  1c2) to be taken down {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5586
-    proximity: 0.8298
+    lemma: סָעַף
+    gloss: to disbranch {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: H5265
-    proximity: 0.8296
+    lemma: נָסַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H1760
-    proximity: 0.8259
+    lemma: דָּחָה
+    gloss: to push down {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: H6915
-    proximity: 0.8253
+    lemma: קָדַד
+    gloss: to shrivel up {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
   - strongs: H3216a
-    proximity: 0.8248
+    proximity: 0.8248 {macula-proximity}
   - strongs: H2986
-    proximity: 0.8247
+    lemma: יָבַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H5130a
-    proximity: 0.8222
+    proximity: 0.8222 {macula-proximity}
   cross_language:
   - strongs: G2348
-    proximity: 0.8292
+    lemma: θνήσκω
+    gloss: to die {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
     language: greek
   - strongs: G867
-    proximity: 0.828
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G5342
-    proximity: 0.8265
+    lemma: φέρω
+    gloss: to "bear" or carry (in a very wide application {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
     language: greek
   - strongs: G1405
-    proximity: 0.8251
+    lemma: δράσσομαι
+    gloss: to grasp {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
     language: greek
   - strongs: G1145
-    proximity: 0.8248
+    lemma: δακρύω
+    gloss: to shed tears {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

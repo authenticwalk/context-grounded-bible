@@ -6,41 +6,47 @@ pronunciation: ter-ay-faw'
 definition: prey, i.e. flocks devoured by animals
 kjv_usage: ravin, (that which was) torn (of beasts, in pieces).
 derivation: feminine (collectively) of H2964 (טֶרֶף);
-extended_definition:
-  gloss: torn animal
-  definition: that which is torn, animal torn (by beasts)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: that which is torn, animal torn (by beasts) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A4804
-    proximity: 0.8223
+    proximity: 0.8223 {macula-proximity}
   - strongs: H1234
-    proximity: 0.8024
+    lemma: בָּקַע
+    gloss: to cleave {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: H929
-    proximity: 0.7848
+    proximity: 0.7848 {macula-proximity}
   - strongs: H2416c
-    proximity: 0.7694
+    proximity: 0.7694 {macula-proximity}
   - strongs: H2964
-    proximity: 0.7276
+    lemma: טֶרֶף
+    gloss: something torn {openscriptures-strongs}
+    proximity: 0.7276 {macula-proximity}
   cross_language:
   - strongs: G5607
-    proximity: 0.8289
+    lemma: ὤν
+    gloss: being {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: greek
   - strongs: G2076
-    proximity: 0.8228
+    lemma: ἐστί
+    gloss: he  is {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
     language: greek
   - strongs: G2252
-    proximity: 0.8216
+    lemma: ἤμην
+    gloss: I was {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
     language: greek
   - strongs: G2226
-    proximity: 0.816
+    lemma: ζῶον
+    gloss: a live thing {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
     language: greek
   - strongs: G2258
-    proximity: 0.8153
+    lemma: ἦν
+    gloss: I (thou {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

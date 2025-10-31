@@ -7,49 +7,63 @@ definition: to draw out or off, i.e. remove (the soul by death)
 kjv_usage: take away.
 derivation: a primitive root (rather cognate (by contraction) to the base of H5394
   (נָשַׁל), H7997 (שָׁלַל) and their congeners through the idea of extracting);
-extended_definition:
-  gloss: to extract
-  definition: (Qal) to draw out, extract
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to draw out, extract {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5375
-    proximity: 0.8257
+    lemma: נָשָׂא
+    gloss: to lift {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H3920
-    proximity: 0.8186
+    lemma: לָכַד
+    gloss: to catch (in a net {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: H5493
-    proximity: 0.8163
+    lemma: סוּר
+    gloss: to turn off {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
   - strongs: H962
-    proximity: 0.801
+    proximity: 0.801 {macula-proximity}
   - strongs: H1497
-    proximity: 0.7967
+    lemma: גָּזַל
+    gloss: to pluck off {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
   - strongs: H3823
-    proximity: 0.7831
+    lemma: לָבַב
+    gloss: transport {openscriptures-strongs}
+    proximity: 0.7831 {macula-proximity}
   - strongs: H3261
-    proximity: 0.7805
+    lemma: יָעָה
+    gloss: to brush aside {openscriptures-strongs}
+    proximity: 0.7805 {macula-proximity}
   - strongs: H6906
-    proximity: 0.7728
+    lemma: קָבַע
+    gloss: to cover {openscriptures-strongs}
+    proximity: 0.7728 {macula-proximity}
   - strongs: H7061
-    proximity: 0.7714
+    lemma: קָמַץ
+    gloss: to grasp with the hand {openscriptures-strongs}
+    proximity: 0.7714 {macula-proximity}
   cross_language:
   - strongs: G523
-    proximity: 0.814
+    proximity: 0.814 {macula-proximity}
     language: greek
   - strongs: G4570
-    proximity: 0.807
+    lemma: σβέννυμι
+    gloss: to extinguish {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
     language: greek
   - strongs: G4812
-    proximity: 0.7983
+    lemma: συλαγωγέω
+    gloss: to lead away as booty {openscriptures-strongs}
+    proximity: 0.7983 {macula-proximity}
     language: greek
   - strongs: G522
-    proximity: 0.7906
+    proximity: 0.7906 {macula-proximity}
     language: greek
   - strongs: G2603
-    proximity: 0.7801
+    lemma: καταβραβεύω
+    gloss: to award the price against {openscriptures-strongs}
+    proximity: 0.7801 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

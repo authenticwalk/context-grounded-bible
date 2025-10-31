@@ -7,53 +7,83 @@ definition: rightness (abstractly), subjectively (rectitude), objectively (justi
   morally (virtue) or figuratively (prosperity)
 kjv_usage: justice, moderately, right(-eous) (act, -ly, -ness).
 derivation: from H6663 (צָדַק);
-extended_definition:
-  gloss: righteousness
-  definition: '1) justice, righteousness<br>1a) righteousness (in government)<br>1a1)
-    of judge, ruler, king<br>1a2) of law<br>1a3) of Davidic king Messiah<br>1b) righteousness
-    (of God''s attribute)<br>1c) righteousness (in a case or cause)<br>1d) righteousness,
-    truthfulness<br>1e) righteousness (as ethically right)<br>1f) righteousness (as
-    vindicated), justification, salvation<br>1f1) of God<br>1f2) prosperity (of people)<br>1g)
-    righteous acts<BR>Aramaic equivalent: <i>tsid.qah</i> (צִדְקָה "righteousness"
-    H6665)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) justice, righteousness
+
+  1a) righteousness (in government)
+
+  1a1) of judge, ruler, king
+
+  1a2) of law
+
+  1a3) of Davidic king Messiah
+
+  1b) righteousness (of God''s attribute)
+
+  1c) righteousness (in a case or cause)
+
+  1d) righteousness, truthfulness
+
+  1e) righteousness (as ethically right)
+
+  1f) righteousness (as vindicated), justification, salvation
+
+  1f1) of God
+
+  1f2) prosperity (of people)
+
+  1g) righteous acts
+
+  Aramaic equivalent: tsid.qah (צִדְקָה "righteousness" H6665) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4611
-    proximity: 0.8241
+    lemma: מַעֲלָל
+    gloss: an act {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H3483
-    proximity: 0.8184
+    lemma: יִשְׁרָה
+    gloss: rectitude {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   - strongs: H3467
-    proximity: 0.8175
+    lemma: יָשַׁע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
   - strongs: H5228
-    proximity: 0.8131
+    lemma: נָכֹחַ
+    gloss: straightforward {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
   - strongs: H2896
-    proximity: 0.8129
+    lemma: טוֹב
+    gloss: good  in the widest sense {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: H4334
-    proximity: 0.8123
+    lemma: מִישׁוֹר
+    gloss: a level {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
   - strongs: H5766a
-    proximity: 0.806
+    proximity: 0.806 {macula-proximity}
   - strongs: H8538
-    proximity: 0.7971
+    lemma: תֻּמָּה
+    gloss: innocence {openscriptures-strongs}
+    proximity: 0.7971 {macula-proximity}
   cross_language:
   - strongs: G4160
-    proximity: 0.8236
+    lemma: ποιέω
+    gloss: to make or do (in a very wide application {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
     language: greek
   - strongs: G2140
-    proximity: 0.8208
+    lemma: εὐποιΐα
+    gloss: well-doing {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G93
-    proximity: 0.8128
+    proximity: 0.8128 {macula-proximity}
     language: greek
   - strongs: G225
-    proximity: 0.8068
+    proximity: 0.8068 {macula-proximity}
     language: greek
   - strongs: G16
-    proximity: 0.8059
+    proximity: 0.8059 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

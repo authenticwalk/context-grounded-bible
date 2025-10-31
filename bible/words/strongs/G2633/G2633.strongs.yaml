@@ -5,48 +5,53 @@ transliteration: katákrisis
 definition: sentencing adversely (the act)
 kjv_usage: condemn(-ation)
 derivation: from G2632 (κατακρίνω);
-extended_definition:
-  gloss: condemnation
-  definition: '<b>κατά-κρισις</b>, -εως, ἡ<BR /> (κατακρίνω), <BR /><b>condemnation</b>:
-    <ref=''2Co.3.9; 7.3''>2Co.3:9 7:3</ref> (cf. Deiss., <i>LAE</i>, 91 f.).†<BR />
-    (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κατά-κρῐσις</b>, εως, ἡ, <br /> <b>condemnation</b>, [<a href="javascript:void(0)"
-    title=" NT.2Cor.3.9, 7.3, 2nd c.AD: Vettius Valens Astrologus 108.4, 117.35 (_plural_).
-    ">NT+2nd c.AD+</a>]<br /><Level3><b>__2</b></Level3> <b>judgement</b>, κ. ψευδής
-    a false <b>estimate</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Galenus
-    Medicus 5.76. ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κατά-κρισις, -εως, ἡ
+
+  (κατακρίνω),
+
+  condemnation: 2Co.3:9 7:3 (cf. Deiss., LAE, 91 f.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κατά-κρῐσις, εως, ἡ,
+
+  condemnation, [NT+2nd c.AD+]
+
+  __2 judgement, κ. ψευδής a false estimate, [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G361
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
   - strongs: G2919
-    proximity: 0.8198
+    lemma: κρίνω
+    gloss: by implication {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
   - strongs: G2917
-    proximity: 0.7437
+    lemma: κρίμα
+    gloss: a decision (the function or the effect {openscriptures-strongs}
+    proximity: 0.7437 {macula-proximity}
   - strongs: G268
-    proximity: 0.7384
+    proximity: 0.7384 {macula-proximity}
   - strongs: G2920
-    proximity: 0.7373
+    lemma: κρίσις
+    gloss: decision (subjectively or objectively {openscriptures-strongs}
+    proximity: 0.7373 {macula-proximity}
   cross_language:
   - strongs: H5932
-    proximity: 0.8281
+    lemma: עַלְוָה
+    gloss: moral perverseness {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: hebrew
   - strongs: H2054
-    proximity: 0.7833
+    lemma: וָזָר
+    gloss: crime {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
     language: hebrew
   - strongs: H2400
-    proximity: 0.7683
+    lemma: חַטָּא
+    gloss: a criminal {openscriptures-strongs}
+    proximity: 0.7683 {macula-proximity}
     language: hebrew
   - strongs: H816
-    proximity: 0.7029
+    proximity: 0.7029 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

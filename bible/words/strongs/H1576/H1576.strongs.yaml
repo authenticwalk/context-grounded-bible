@@ -7,52 +7,71 @@ definition: treatment, i.e. an act (of good or ill); by implication, service or 
 kjv_usage: '[phrase] as hast served, benefit, desert, deserving, that which he hath
   given, recompense, reward.'
 derivation: from H1580 (גָּמַל);
-extended_definition:
-  gloss: recompense
-  definition: 1) dealing, recompense, benefit<br>1a) dealing (of one's hand)<br>1b)
-    recompense<br>1c) benefit
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) dealing, recompense, benefit
+
+  1a) dealing (of one''s hand)
+
+  1b) recompense
+
+  1c) benefit {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2506
-    proximity: 0.8169
+    lemma: חֵלֶק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: A5023
-    proximity: 0.816
+    proximity: 0.816 {macula-proximity}
   - strongs: H5950
-    proximity: 0.8155
+    lemma: עֲלִילִיָּה
+    gloss: execution {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H814
-    proximity: 0.8132
+    proximity: 0.8132 {macula-proximity}
   - strongs: H7725
-    proximity: 0.8127
+    lemma: שׁוּב
+    gloss: to turn back (hence {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
   - strongs: H2580
-    proximity: 0.8125
+    lemma: חֵן
+    gloss: graciousness {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: H4399
-    proximity: 0.8078
+    lemma: מְלָאכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   - strongs: H8545
-    proximity: 0.7861
+    lemma: תְּמוּרָה
+    gloss: barter {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
   - strongs: H6213
-    proximity: 0.7847
+    lemma: עָשָׂה
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
   - strongs: H4659a
-    proximity: 0.776
+    proximity: 0.776 {macula-proximity}
   cross_language:
   - strongs: G2865
-    proximity: 0.8264
+    lemma: κομίζω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G4234
-    proximity: 0.8114
+    lemma: πρᾶξις
+    gloss: practice {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
     language: greek
   - strongs: G287
-    proximity: 0.8072
+    proximity: 0.8072 {macula-proximity}
     language: greek
   - strongs: G1349
-    proximity: 0.8044
+    lemma: δίκη
+    gloss: right {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
     language: greek
   - strongs: G5544
-    proximity: 0.799
+    lemma: χρηστότης
+    gloss: usefulness {openscriptures-strongs}
+    proximity: 0.799 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

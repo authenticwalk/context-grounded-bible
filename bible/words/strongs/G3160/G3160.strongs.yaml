@@ -5,45 +5,56 @@ transliteration: Mattathá
 definition: Mattatha (i.e. Mattithjah), an Israelite
 kjv_usage: Mattatha
 derivation: probably a shortened form of G3161 (Ματταθίας) (compare G4992 (σωτήριον));
-extended_definition:
-  gloss: Mattatha
-  definition: '<b>Ματταθά</b>, ὁ <BR /> indecl. (Heb. מַתַּתָּה), <BR /> <b>Mattatha</b>:
-    <ref=''Luk.3.31.''>Luk.3:31.</ref>†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ματταθά</b>, ὁ <BR /> indecl. (Heb. מַתַּתָּה), <BR /> <b>Mattatha</b>:
-    <ref=''Luk.3.31.''>Luk.3:31.</ref>†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ματταθά, ὁ
+
+  indecl. (Heb. מַתַּתָּה),
+
+  Mattatha: Luk.3:31.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ματταθά, ὁ
+
+  indecl. (Heb. מַתַּתָּה),
+
+  Mattatha: Luk.3:31.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3161
-    proximity: 0.8121
+    lemma: Ματταθίας
+    gloss: Mattathias {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: G2283
-    proximity: 0.8058
+    lemma: Θάμαρ
+    gloss: Thamar {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: G3158a
-    proximity: 0.7985
+    proximity: 0.7985 {macula-proximity}
   - strongs: G1148
-    proximity: 0.7857
+    lemma: Δαλμανουθά
+    gloss: Dalmanutha {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
   cross_language:
   - strongs: H4983
-    proximity: 0.8125
+    lemma: מַתַּנְיָה
+    gloss: Mattanjah {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: hebrew
   - strongs: H385
-    proximity: 0.8031
+    proximity: 0.8031 {macula-proximity}
     language: hebrew
   - strongs: H4980
-    proximity: 0.8029
+    lemma: מַתָּנָה
+    gloss: Mattanah {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
     language: hebrew
   - strongs: H6534
-    proximity: 0.8015
+    lemma: פַּרְמַשְׁתָּא
+    gloss: Parmashta {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
     language: hebrew
   - strongs: H133
-    proximity: 0.7858
+    proximity: 0.7858 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

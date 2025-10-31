@@ -5,45 +5,48 @@ transliteration: epipothía
 definition: intense longing
 kjv_usage: great desire
 derivation: from G1971 (ἐπιποθέω);
-extended_definition:
-  gloss: longing
-  definition: '<b>ἐπιπόθία</b> (WH, -ας, ἡ = ἐπιπόθησις, )<BR /> <b>longing</b>: <ref=''Rom.15.23.''>Rom.15:23.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ἐπιποθία</b>, ἡ, <br /> ={ἐπιπόθησις}, [<a href="javascript:void(0)"
-    title=" NT.Rom.15.23. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ἐπιπόθία (WH, -ας, ἡ = ἐπιπόθησις, )
+
+  longing: Rom.15:23.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐπιποθία, ἡ,
+
+  ={ἐπιπόθησις}, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2206
-    proximity: 0.8082
+    lemma: ζηλόω
+    gloss: to have warmth of feeling for or against {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
   - strongs: G578
-    proximity: 0.7833
+    proximity: 0.7833 {macula-proximity}
   - strongs: G603
-    proximity: 0.7803
+    proximity: 0.7803 {macula-proximity}
   - strongs: G1939
-    proximity: 0.7463
+    lemma: ἐπιθυμία
+    gloss: a longing {openscriptures-strongs}
+    proximity: 0.7463 {macula-proximity}
   cross_language:
   - strongs: H2656
-    proximity: 0.821
+    lemma: חֵפֶץ
+    gloss: pleasure {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: hebrew
   - strongs: H185
-    proximity: 0.8188
+    proximity: 0.8188 {macula-proximity}
     language: hebrew
   - strongs: H4862
-    proximity: 0.8162
+    lemma: מִשְׁאָלָה
+    gloss: a request {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
     language: hebrew
   - strongs: H6165
-    proximity: 0.7518
+    lemma: עָרַג
+    gloss: to long for {openscriptures-strongs}
+    proximity: 0.7518 {macula-proximity}
     language: hebrew
   - strongs: H8264a
-    proximity: 0.7473
+    proximity: 0.7473 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

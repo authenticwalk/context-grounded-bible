@@ -7,42 +7,58 @@ definition: an apple (from its fragrance), i.e. the fruit or the tree (probably 
   others of the pome order, as the quince, the orange, etc.)
 kjv_usage: apple (tree). See also H1054 (בֵּית תַּפּוּחַ).
 derivation: from H5301 (נָפַח);
-extended_definition:
-  gloss: apple
-  definition: 1) apple, apple tree<br>1a) apple tree<br>1b) apples
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) apple, apple tree
+
+  1a) apple tree
+
+  1b) apples {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H436
-    proximity: 0.8295
+    proximity: 0.8295 {macula-proximity}
   - strongs: H8561
-    proximity: 0.8277
+    lemma: תִּמֹּר
+    gloss: a palm-like pilaster {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H5195
-    proximity: 0.8224
+    lemma: נָטִיעַ
+    gloss: a plant {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
   - strongs: H8560
-    proximity: 0.8189
+    lemma: תֹּמֶר
+    gloss: a palm trunk {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H1620
-    proximity: 0.8152
+    lemma: גַּרְגַּר
+    gloss: a berry {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: H6086
-    proximity: 0.811
+    lemma: עֵץ
+    gloss: a tree {openscriptures-strongs}
+    proximity: 0.811 {macula-proximity}
   - strongs: H8256
-    proximity: 0.7696
+    lemma: שִׁקְמָה
+    gloss: a sycamore {openscriptures-strongs}
+    proximity: 0.7696 {macula-proximity}
   - strongs: H8384
-    proximity: 0.7675
+    lemma: תְּאֵן
+    gloss: the fig {openscriptures-strongs}
+    proximity: 0.7675 {macula-proximity}
   - strongs: H6097
-    proximity: 0.7484
+    lemma: עֵצָה
+    gloss: timber {openscriptures-strongs}
+    proximity: 0.7484 {macula-proximity}
   - strongs: A363
-    proximity: 0.7293
+    proximity: 0.7293 {macula-proximity}
   cross_language:
   - strongs: G4809
-    proximity: 0.7395
+    lemma: συκομωραία
+    gloss: the "sycamore"-fig tree {openscriptures-strongs}
+    proximity: 0.7395 {macula-proximity}
     language: greek
   - strongs: G4808
-    proximity: 0.7255
+    lemma: συκῆ
+    gloss: a fig-tree {openscriptures-strongs}
+    proximity: 0.7255 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

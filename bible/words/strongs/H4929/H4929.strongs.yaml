@@ -7,46 +7,64 @@ definition: a guard (the man, the post or the prison); a deposit (figuratively);
   (as observed) a usage (abstractly), or an example (concretely)
 kjv_usage: diligence, guard, office, prison, ward, watch.
 derivation: from H8104 (שָׁמַר);
-extended_definition:
-  gloss: custody
-  definition: 1) place of confinement, prison, guard, jail, guard post, watch, observance<br>1a)
-    jail, prison, guard-house<br>1b) guard, guard post, act of guarding<br>1c) observances
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) place of confinement, prison, guard, jail, guard post, watch,
+  observance
+
+  1a) jail, prison, guard-house
+
+  1b) guard, guard post, act of guarding
+
+  1c) observances {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4525
-    proximity: 0.8265
+    lemma: מַסְגֵּר
+    gloss: a fastener {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H2876
-    proximity: 0.8175
+    lemma: טַבָּח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
   - strongs: H3628
-    proximity: 0.812
+    lemma: כְּלִיא
+    gloss: a prison {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: A6392
-    proximity: 0.8004
+    proximity: 0.8004 {macula-proximity}
   - strongs: H6486
-    proximity: 0.798
+    lemma: פְּקֻדָּה
+    gloss: visitation (in many senses {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
   - strongs: H8104
-    proximity: 0.7935
+    lemma: שָׁמַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
   - strongs: H6391
-    proximity: 0.785
+    lemma: פְּלֻגָּה
+    gloss: a section {openscriptures-strongs}
+    proximity: 0.785 {macula-proximity}
   - strongs: A4255
-    proximity: 0.7842
+    proximity: 0.7842 {macula-proximity}
   - strongs: H7713
-    proximity: 0.7766
+    lemma: שְׂדֵרָה
+    gloss: a row {openscriptures-strongs}
+    proximity: 0.7766 {macula-proximity}
   - strongs: H3608
-    proximity: 0.7739
+    lemma: כֶּלֶא
+    gloss: a prison {openscriptures-strongs}
+    proximity: 0.7739 {macula-proximity}
   cross_language:
   - strongs: G805
-    proximity: 0.7981
+    proximity: 0.7981 {macula-proximity}
     language: greek
   - strongs: G1138
-    proximity: 0.7754
+    lemma: Δαβίδ
+    gloss: Dabid {openscriptures-strongs}
+    proximity: 0.7754 {macula-proximity}
     language: greek
   - strongs: G1201
-    proximity: 0.7749
+    lemma: δεσμωτήριον
+    gloss: a place of bondage {openscriptures-strongs}
+    proximity: 0.7749 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

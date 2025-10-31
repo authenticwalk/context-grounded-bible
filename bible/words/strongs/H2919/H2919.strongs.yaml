@@ -6,27 +6,29 @@ pronunciation: tal
 definition: dew (as covering vegetation)
 kjv_usage: dew.
 derivation: from H2926 (טָלַל);
-extended_definition:
-  gloss: dew
-  definition: 'dew, night mist<BR>Aramaic equivalent: <i>tal</i> (טַל "dew" H2920)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'dew, night mist
+
+  Aramaic equivalent: tal (טַל "dew" H2920) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A8065
-    proximity: 0.8268
+    proximity: 0.8268 {macula-proximity}
   - strongs: H8164
-    proximity: 0.7881
+    lemma: שָׂעִיר
+    gloss: a shower {openscriptures-strongs}
+    proximity: 0.7881 {macula-proximity}
   - strongs: H7241
-    proximity: 0.7796
+    lemma: רָבִיב
+    gloss: a rain {openscriptures-strongs}
+    proximity: 0.7796 {macula-proximity}
   - strongs: H1653
-    proximity: 0.7096
+    lemma: גֶּשֶׁם
+    gloss: a shower {openscriptures-strongs}
+    proximity: 0.7096 {macula-proximity}
   cross_language:
   - strongs: G5205
-    proximity: 0.8077
+    lemma: ὑετός
+    gloss: rain {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

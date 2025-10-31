@@ -6,35 +6,37 @@ pronunciation: khath-oon-naw'
 definition: a wedding
 kjv_usage: espousal.
 derivation: from H2859 (חָתַן);
-extended_definition:
-  gloss: marriage
-  definition: wedding, marriage
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: wedding, marriage {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3039a
-    proximity: 0.7639
+    proximity: 0.7639 {macula-proximity}
   - strongs: H3623
-    proximity: 0.7448
+    lemma: כְּלוּלָה
+    gloss: bridehood {openscriptures-strongs}
+    proximity: 0.7448 {macula-proximity}
   cross_language:
   - strongs: G3588
-    proximity: 0.8277
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: greek
   - strongs: G3567
-    proximity: 0.8002
+    lemma: νυμφών
+    gloss: the bridal room {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
     language: greek
   - strongs: G1061a
-    proximity: 0.7279
+    proximity: 0.7279 {macula-proximity}
     language: greek
   - strongs: G2134
-    proximity: 0.7274
+    lemma: εὐνουχίζω
+    gloss: to castrate (figuratively {openscriptures-strongs}
+    proximity: 0.7274 {macula-proximity}
     language: greek
   - strongs: G1060
-    proximity: 0.7044
+    lemma: γαμέω
+    gloss: to wed {openscriptures-strongs}
+    proximity: 0.7044 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

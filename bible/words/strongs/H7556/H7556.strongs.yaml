@@ -6,27 +6,23 @@ pronunciation: raw-kak'
 definition: to spit
 kjv_usage: spit.
 derivation: a primitive root;
-extended_definition:
-  gloss: to spit
-  definition: (Qal) to spit
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to spit {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7388
-    proximity: 0.7885
+    lemma: רִיר
+    gloss: saliva {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
   cross_language:
   - strongs: G876
-    proximity: 0.8091
+    proximity: 0.8091 {macula-proximity}
     language: greek
   - strongs: G875
-    proximity: 0.7828
+    proximity: 0.7828 {macula-proximity}
     language: greek
   - strongs: G4427
-    proximity: 0.7756
+    lemma: πτύσμα
+    gloss: saliva {openscriptures-strongs}
+    proximity: 0.7756 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

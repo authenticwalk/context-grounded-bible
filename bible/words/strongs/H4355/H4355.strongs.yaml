@@ -6,38 +6,51 @@ pronunciation: maw-kak'
 definition: to tumble (in ruins); figuratively, to perish
 kjv_usage: be brought low, decay.
 derivation: a primitive root;
-extended_definition:
-  gloss: to sink
-  definition: 1) to be low, be humiliated<br>1a) (Qal) to be low, be humiliated<br>1b)
-    (Niphal) to sink<br>1c) (Hophal) to be brought low
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be low, be humiliated
+
+  1a) (Qal) to be low, be humiliated
+
+  1b) (Niphal) to sink
+
+  1c) (Hophal) to be brought low {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6819
-    proximity: 0.7657
+    lemma: צָעַר
+    gloss: to be small {openscriptures-strongs}
+    proximity: 0.7657 {macula-proximity}
   - strongs: H7817
-    proximity: 0.7511
+    lemma: שָׁחַח
+    gloss: to sink or depress {openscriptures-strongs}
+    proximity: 0.7511 {macula-proximity}
   - strongs: H3381
-    proximity: 0.744
+    lemma: יָרַד
+    gloss: to descend (literally {openscriptures-strongs}
+    proximity: 0.744 {macula-proximity}
   cross_language:
   - strongs: G2736
-    proximity: 0.8275
+    lemma: κάτω
+    gloss: downwards {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
     language: greek
   - strongs: G5013
-    proximity: 0.8222
+    lemma: ταπεινόω
+    gloss: to depress {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
     language: greek
   - strongs: G2524
-    proximity: 0.8205
+    lemma: καθίημι
+    gloss: and {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
     language: greek
   - strongs: G5465
-    proximity: 0.8144
+    lemma: χαλάω
+    gloss: to lower {openscriptures-strongs}
+    proximity: 0.8144 {macula-proximity}
     language: greek
   - strongs: G2597
-    proximity: 0.8086
+    lemma: καταβαίνω
+    gloss: to descend {openscriptures-strongs}
+    proximity: 0.8086 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

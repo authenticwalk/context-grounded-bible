@@ -5,42 +5,44 @@ transliteration: Hieremías
 definition: Hieremias (i.e. Jermijah), an Israelite
 kjv_usage: Jeremiah
 derivation: of Hebrew origin (H03414);
-extended_definition:
-  gloss: Jeremiah
-  definition: '<b>Ἰερεμίας</b> (T, Rec. Ἱερ-; see WH, § 408), -ου, ὁ <BR /> Heb. Jeremiah
-    the prophet: <ref=''Mat.2.17; 16.14; 27.9''>Mat.2:17 16:14 27:9</ref> (a ref.
-    to <ref=''Zec.11.13''>Zec.11:13</ref>).†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἰερεμίας</b> (T, Rec. Ἱερ-; see WH, § 408), -ου, ὁ <BR /> Heb.
-    Jeremiah the prophet: <ref=''Mat.2.17; 16.14; 27.9''>Mat.2:17 16:14 27:9</ref>
-    (a ref. to <ref=''Zec.11.13''>Zec.11:13</ref>).†<BR />  (From Abbott-Smith. LSJ
-    has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἰερεμίας (T, Rec. Ἱερ-; see WH, § 408), -ου, ὁ
+
+  Heb. Jeremiah the prophet: Mat.2:17 16:14 27:9 (a ref. to Zec.11:13).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἰερεμίας (T, Rec. Ἱερ-; see WH, § 408), -ου, ὁ
+
+  Heb. Jeremiah the prophet: Mat.2:17 16:14 27:9 (a ref. to Zec.11:13).†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1056
-    proximity: 0.8221
+    lemma: Γαλιλαία
+    gloss: Galilæa {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   cross_language:
   - strongs: H4809
-    proximity: 0.8289
+    lemma: מְרִיבָה
+    gloss: Meribah {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: hebrew
   - strongs: H4922
-    proximity: 0.8284
+    lemma: מְשֻׁלֶּמֶת
+    gloss: Meshullemeth {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: hebrew
   - strongs: H4822
-    proximity: 0.8263
+    lemma: מְרֵמוֹת
+    gloss: Meremoth {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
     language: hebrew
   - strongs: H3000
-    proximity: 0.826
+    lemma: יְבֶרֶכְיָהוּ
+    gloss: Jeberekjah {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
     language: hebrew
   - strongs: H4920a
-    proximity: 0.8245
+    proximity: 0.8245 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

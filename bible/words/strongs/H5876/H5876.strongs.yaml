@@ -7,36 +7,49 @@ definition: En-Chaddah, a place in Palestine
 kjv_usage: En-haddah.
 derivation: from H5869 (עַיִן) and the feminine of a derivative from H2300 (חָדַד);
   fountain of sharpness;
-extended_definition:
-  gloss: En-haddah
-  definition: <BR> § En-haddah = "swift fountain"<br> one of the cities on the border
-    of Issachar<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ En-haddah = "swift fountain"
+
+  one of the cities on the border of Issachar {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2579
-    proximity: 0.8274
+    lemma: חֲמַת רַבָּה
+    gloss: Chamath-Rabbah {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H2410
-    proximity: 0.8215
+    lemma: חֲטִיטָא
+    gloss: Chatita {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H5875
-    proximity: 0.8171
+    lemma: עֵין הַקּוֹרֵא
+    gloss: En-hak-Kore {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: H1919
-    proximity: 0.8135
+    lemma: הֲדַסָּה
+    gloss: Hadassah {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: H2732
-    proximity: 0.8108
+    lemma: חֲרָדָה
+    gloss: Charadah {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
   - strongs: H2675
-    proximity: 0.8014
+    lemma: חָצוֹר חֲדַתָּה
+    gloss: new Chatsor {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
   - strongs: H2322
-    proximity: 0.8003
+    lemma: חֲדָשָׁה
+    gloss: Chadashah {openscriptures-strongs}
+    proximity: 0.8003 {macula-proximity}
   - strongs: H5877
-    proximity: 0.7961
+    lemma: עֵין חָצוֹר
+    gloss: En-Chatsor {openscriptures-strongs}
+    proximity: 0.7961 {macula-proximity}
   - strongs: H2693
-    proximity: 0.7954
+    lemma: חֲצַר גַּדָּה
+    gloss: Chatsar-Gaddah {openscriptures-strongs}
+    proximity: 0.7954 {macula-proximity}
   - strongs: H1130
-    proximity: 0.793
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: בֶּן־הֲדַד
+    gloss: Ben-Hadad {openscriptures-strongs}
+    proximity: 0.793 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

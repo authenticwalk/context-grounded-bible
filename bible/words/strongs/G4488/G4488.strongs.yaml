@@ -5,43 +5,54 @@ transliteration: Rhēsá
 definition: Resa (i.e. Rephajah), an Israelite
 kjv_usage: Rhesa
 derivation: probably of Hebrew origin (apparently for H07509);
-extended_definition:
-  gloss: Rhesa
-  definition: '<b>Ῥησά (L</b>, -σᾶ), ὁ <BR /> indecl., <BR /> <b>Rhesa</b>: <ref=''Luk.3.27.''>Luk.3:27.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ῥησά (L</b>, -σᾶ), ὁ <BR /> indecl., <BR /> <b>Rhesa</b>: <ref=''Luk.3.27.''>Luk.3:27.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ῥησά (L, -σᾶ), ὁ
+
+  indecl.,
+
+  Rhesa: Luk.3:27.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ῥησά (L, -σᾶ), ὁ
+
+  indecl.,
+
+  Rhesa: Luk.3:27.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4541
-    proximity: 0.8153
+    lemma: Σαμαρείτης
+    gloss: a Samarite {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
   - strongs: G4543
-    proximity: 0.8125
+    lemma: Σαμοθρᾴκη
+    gloss: Samo-thrace {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: G1056
-    proximity: 0.8059
+    lemma: Γαλιλαία
+    gloss: Galilæa {openscriptures-strongs}
+    proximity: 0.8059 {macula-proximity}
   cross_language:
   - strongs: H5838
-    proximity: 0.8265
+    lemma: עֲזַרְיָה
+    gloss: Azarjah {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
     language: hebrew
   - strongs: H2148
-    proximity: 0.8265
+    lemma: זְכַרְיָה
+    gloss: Zecarjah {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
     language: hebrew
   - strongs: H2148b
-    proximity: 0.8247
+    proximity: 0.8247 {macula-proximity}
     language: hebrew
   - strongs: H5838a
-    proximity: 0.8226
+    proximity: 0.8226 {macula-proximity}
     language: hebrew
   - strongs: H6868
-    proximity: 0.8194
+    lemma: צְרֵדָה
+    gloss: Tseredah {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

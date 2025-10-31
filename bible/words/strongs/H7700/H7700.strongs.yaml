@@ -6,29 +6,31 @@ pronunciation: shade
 definition: a doemon (as malignant)
 kjv_usage: devil.
 derivation: from H7736 (שׁוּד);
-extended_definition:
-  gloss: demon
-  definition: demon
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: demon {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1544
-    proximity: 0.8268
+    lemma: גִּלּוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: H7564
-    proximity: 0.8217
+    lemma: רִשְׁעָה
+    gloss: wrong {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
   cross_language:
   - strongs: G1175
-    proximity: 0.8216
+    lemma: δεισιδαιμονία
+    gloss: religion {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
     language: greek
   - strongs: G1141
-    proximity: 0.7942
+    lemma: δαιμονιώδης
+    gloss: dæmon-like {openscriptures-strongs}
+    proximity: 0.7942 {macula-proximity}
     language: greek
   - strongs: G4189
-    proximity: 0.777
+    lemma: πονηρία
+    gloss: depravity {openscriptures-strongs}
+    proximity: 0.777 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

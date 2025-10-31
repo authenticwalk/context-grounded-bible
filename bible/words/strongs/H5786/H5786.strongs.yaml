@@ -7,29 +7,31 @@ definition: to blind
 kjv_usage: blind, put out. See also H5895 (עַיִר).
 derivation: a primitive root (rather denominatively from H5785 (עוֹר) through the
   idea of a film over the eyes);
-extended_definition:
-  gloss: to blind
-  definition: (Piel) to blind, make blind, put out the eyes of
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Piel) to blind, make blind, put out the eyes of {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5788
-    proximity: 0.7543
+    lemma: עִוָּרוֹן
+    gloss: blindness {openscriptures-strongs}
+    proximity: 0.7543 {macula-proximity}
   - strongs: H5575
-    proximity: 0.7203
+    lemma: סַנְוֵר
+    gloss: blindness {openscriptures-strongs}
+    proximity: 0.7203 {macula-proximity}
   cross_language:
   - strongs: G1544
-    proximity: 0.8211
+    lemma: ἐκβάλλω
+    gloss: to eject {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
     language: greek
   - strongs: G1846
-    proximity: 0.7712
+    lemma: ἐξορύσσω
+    gloss: to dig out {openscriptures-strongs}
+    proximity: 0.7712 {macula-proximity}
     language: greek
   - strongs: G1807
-    proximity: 0.7469
+    lemma: ἐξαιρέω
+    gloss: actively {openscriptures-strongs}
+    proximity: 0.7469 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

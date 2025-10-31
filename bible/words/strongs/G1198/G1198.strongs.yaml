@@ -5,51 +5,47 @@ transliteration: désmios
 definition: a captive (as bound)
 kjv_usage: in bonds, prisoner
 derivation: from G1199 (δεσμόν);
-extended_definition:
-  gloss: prisoner
-  definition: '<b>δέσμιος</b>, -ον (also -α, -ον; <BR /> δεσμός), [in LXX for אסר;]
-    <BR />__1. <b>binding</b>. <BR /> __2. <b>bound, captive</b>; ὁ δ., as subst.,
-    <b>a prisoner</b>: <ref=''Mat.27.15, 16''>Mat.27:15, 16</ref>, <ref=''Mrk.15.6''>Mrk.15:6</ref>,
-    <ref=''Act.16.25, 27; 23.18; 25.14, 27; 28.16''>Act.16:25, 27 23:18 25:14, 27
-    28:16</ref> (Rec.) 17, <ref=''Heb.10.34; 13.3''>Heb.10:34 13:3</ref>; ὁ δ. τοῦ
-    Χριστοῦ, <ref=''Eph.3.1''>Eph.3:1</ref>, <ref=''2Ti.1.8''>2Ti.1:8</ref>, Phm 1,
-    9; ὁ δ. ἐν κυρίῳ, <ref=''Eph.4.1.''>Eph.4:1.</ref>†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> δέσμ-ιος</b>, ον, <br /> <b>binding</b>: <i>metaphorically</i>,
-    <b>binding as with a spell, enchaining,</b> with <i>genitive</i>, ὕμνος ἐξ Ἐρινύων
-    δ. φρενῶν [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus
-    “Eumenides” 332 (Lyric poetry), compare 306. ">Refs 4th c.BC+</a>]<br /><Level2><b>__II</b></Level2>
-    <i>passive</i>, <b>bound, captive,</b> [<a href="javascript:void(0)" title=" 5th
-    c.BC: Sophocles Tragicus “Ajax” 299, “Ph.” 608, 5th c.BC: Euripides Tragicus “Bacchae”
-    226, “POxy.” 580 (2nd c.AD), etc.">Refs 5th c.BC+</a>]; <b>on leash,</b> [κύων]
-    probably in [<a href="javascript:void(0)" title="Aen. Tact. 31.32 ">Refs</a>];
-    δ. φυγών, ={ἐκ δεσμῶν}, [<a href="javascript:void(0)" title=" 5th c.BC: Euripides
-    Tragicus “Bacchae” 792. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δέσμιος, -ον (also -α, -ον;
+
+  δεσμός), [in LXX for אסר;]
+
+  __1. binding.
+
+  __2. bound, captive; ὁ δ., as subst., a prisoner: Mat.27:15, 16, Mrk.15:6, Act.16:25,
+  27 23:18 25:14, 27 28:16 (Rec.) 17, Heb.10:34 13:3; ὁ δ. τοῦ Χριστοῦ, Eph.3:1, 2Ti.1:8,
+  Phm 1, 9; ὁ δ. ἐν κυρίῳ, Eph.4:1.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'δέσμ-ιος, ον,
+
+  binding: metaphorically, binding as with a spell, enchaining, with genitive, ὕμνος
+  ἐξ Ἐρινύων δ. φρενῶν [Refs 4th c.BC+]
+
+  __II passive, bound, captive, [Refs 5th c.BC+]; on leash, [κύων] probably in [Refs];
+  δ. φυγών, ={ἐκ δεσμῶν}, [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A613
-    proximity: 0.8039
+    proximity: 0.8039 {macula-proximity}
   - strongs: G163
-    proximity: 0.7707
+    proximity: 0.7707 {macula-proximity}
   - strongs: G1196
-    proximity: 0.7684
+    lemma: δεσμέω
+    gloss: to tie {openscriptures-strongs}
+    proximity: 0.7684 {macula-proximity}
   - strongs: G162
-    proximity: 0.7465
+    proximity: 0.7465 {macula-proximity}
   - strongs: G1210
-    proximity: 0.7439
+    lemma: δέω
+    gloss: to bind (in various applications {openscriptures-strongs}
+    proximity: 0.7439 {macula-proximity}
   cross_language:
   - strongs: H7633
-    proximity: 0.726
+    lemma: שִׁבְיָה
+    gloss: exile {openscriptures-strongs}
+    proximity: 0.726 {macula-proximity}
     language: hebrew
   - strongs: H631
-    proximity: 0.7172
+    proximity: 0.7172 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

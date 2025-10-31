@@ -7,25 +7,23 @@ definition: properly, the (outer) wall side; hence, exterior; figuratively, secu
   (as opposed to sacred)
 kjv_usage: outer, outward, utter, without.
 derivation: from H2434 (חַיִץ);
-extended_definition:
-  gloss: outer
-  definition: outer, external, outward
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: outer, external, outward {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2691
-    proximity: 0.8252
+    lemma: חָצֵר
+    gloss: a yard {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
   - strongs: H7020
-    proximity: 0.8085
+    lemma: קִיצוֹן
+    gloss: terminal {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7383
+    proximity: 0.7383 {macula-proximity}
   cross_language:
   - strongs: G1622
-    proximity: 0.7552
+    lemma: ἐκτός
+    gloss: the exterior {openscriptures-strongs}
+    proximity: 0.7552 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

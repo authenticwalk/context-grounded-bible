@@ -6,47 +6,62 @@ pronunciation: khag
 definition: a festival, or a victim therefor
 kjv_usage: (solemn) feast (day), sacrifice, solemnity.
 derivation: or חָג; from H2287 (חָגַג);
-extended_definition:
-  gloss: feast
-  definition: 1) festival, feast, festival-gathering, pilgrim-feast<br>1a) feast<br>1b)
-    festival sacrifice
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) festival, feast, festival-gathering, pilgrim-feast
+
+  1a) feast
+
+  1b) festival sacrifice {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5521
-    proximity: 0.82
+    lemma: סֻכָּה
+    gloss: a hut or lair {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
   - strongs: A2166
-    proximity: 0.8179
+    proximity: 0.8179 {macula-proximity}
   - strongs: H2076
-    proximity: 0.8168
+    lemma: זָבַח
+    gloss: to slaughter an animal {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H7133
-    proximity: 0.8151
+    lemma: קׇרְבָּן
+    gloss: something brought near the altar {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
   - strongs: H4682
-    proximity: 0.7938
+    lemma: מַצָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7938 {macula-proximity}
   - strongs: H7620
-    proximity: 0.7759
+    lemma: שָׁבוּעַ
+    gloss: literally {openscriptures-strongs}
+    proximity: 0.7759 {macula-proximity}
   - strongs: H4150
-    proximity: 0.7629
+    lemma: מוֹעֵד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7629 {macula-proximity}
   - strongs: H614
-    proximity: 0.752
+    proximity: 0.752 {macula-proximity}
   - strongs: H6453
-    proximity: 0.737
+    lemma: פֶּסַח
+    gloss: a pretermission {openscriptures-strongs}
+    proximity: 0.737 {macula-proximity}
   cross_language:
   - strongs: G3957
-    proximity: 0.806
+    lemma: πάσχα
+    gloss: the Passover (the meal {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
     language: greek
   - strongs: G106
-    proximity: 0.7534
+    proximity: 0.7534 {macula-proximity}
     language: greek
   - strongs: G4968
-    proximity: 0.746
+    lemma: σφάγιον
+    gloss: a victim {openscriptures-strongs}
+    proximity: 0.746 {macula-proximity}
     language: greek
   - strongs: G1456
-    proximity: 0.7108
+    lemma: ἐγκαίνια
+    gloss: innovatives {openscriptures-strongs}
+    proximity: 0.7108 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

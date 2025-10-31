@@ -6,45 +6,63 @@ pronunciation: ay'-zer
 definition: aid
 kjv_usage: help.
 derivation: from H5826 (עָזַר);
-extended_definition:
-  gloss: helper
-  definition: 1) help, succour<br>1a) help, succour<br>1b) one who helps
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) help, succour
+
+  1a) help, succour
+
+  1b) one who helps {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A5338
-    proximity: 0.8272
+    proximity: 0.8272 {macula-proximity}
   - strongs: H4938a
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
   - strongs: H7769
-    proximity: 0.8083
+    lemma: שׁוּעַ
+    gloss: a halloo {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
   - strongs: H7768
-    proximity: 0.8022
+    lemma: שָׁוַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
   - strongs: H3027
-    proximity: 0.7742
+    lemma: יָד
+    gloss: a hand (the open one (indicating power {openscriptures-strongs}
+    proximity: 0.7742 {macula-proximity}
   - strongs: H2020
-    proximity: 0.7603
+    lemma: הַצָּלָה
+    gloss: rescue {openscriptures-strongs}
+    proximity: 0.7603 {macula-proximity}
   - strongs: H5337
-    proximity: 0.7564
+    lemma: נָצַל
+    gloss: to snatch away {openscriptures-strongs}
+    proximity: 0.7564 {macula-proximity}
   - strongs: H3051
-    proximity: 0.7346
+    lemma: יָהַב
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.7346 {macula-proximity}
   - strongs: H3467
-    proximity: 0.7141
+    lemma: יָשַׁע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7141 {macula-proximity}
   - strongs: H7773
-    proximity: 0.7005
+    lemma: שֶׁוַע
+    gloss: a halloo {openscriptures-strongs}
+    proximity: 0.7005 {macula-proximity}
   cross_language:
   - strongs: G1913
-    proximity: 0.8043
+    lemma: ἐπιβιβάζω
+    gloss: to cause to mount {openscriptures-strongs}
+    proximity: 0.8043 {macula-proximity}
     language: greek
   - strongs: G3936
-    proximity: 0.7996
+    lemma: παρίστημι
+    gloss: to stand beside {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
     language: greek
   - strongs: G5257
-    proximity: 0.7883
+    lemma: ὑπηρέτης
+    gloss: an under-oarsman {openscriptures-strongs}
+    proximity: 0.7883 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

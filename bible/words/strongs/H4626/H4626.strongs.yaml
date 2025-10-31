@@ -7,49 +7,66 @@ definition: a nude place, i.e. (literally) the pudenda, or (figuratively) a vaca
   space
 kjv_usage: nakedness, proportion.
 derivation: from H6168 (עָרָה);
-extended_definition:
-  gloss: nakedness
-  definition: 1) bare, naked place, nakedness<br>1a) bare place<br>1b) nakedness,
-    pudenda (exposed in punishment)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) bare, naked place, nakedness
+
+  1a) bare place
+
+  1b) nakedness, pudenda (exposed in punishment) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1508
-    proximity: 0.8297
+    lemma: גִּזְרָה
+    gloss: the figure or person {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: H2788
-    proximity: 0.8282
+    lemma: חָרֵר
+    gloss: arid {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: A1655
-    proximity: 0.8185
+    proximity: 0.8185 {macula-proximity}
   - strongs: H5979
-    proximity: 0.8173
+    lemma: עֶמְדָּה
+    gloss: a station {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
   - strongs: H7305
-    proximity: 0.813
+    lemma: רֶוַח
+    gloss: room {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
   - strongs: H4613
-    proximity: 0.7908
+    lemma: מׇעֳמָד
+    gloss: literally a foothold {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
   - strongs: A870
-    proximity: 0.7736
+    proximity: 0.7736 {macula-proximity}
   - strongs: H8211
-    proximity: 0.765
+    lemma: שֶׁפֶךְ
+    gloss: an emptying place {openscriptures-strongs}
+    proximity: 0.765 {macula-proximity}
   - strongs: H4894
-    proximity: 0.7636
+    lemma: מִשְׁטוֹחַ
+    gloss: a spreading-place {openscriptures-strongs}
+    proximity: 0.7636 {macula-proximity}
   - strongs: H5977
-    proximity: 0.7531
+    lemma: עֹמֶד
+    gloss: a spot {openscriptures-strongs}
+    proximity: 0.7531 {macula-proximity}
   cross_language:
   - strongs: G5564
-    proximity: 0.8234
+    lemma: χωρίον
+    gloss: a spot or plot of ground {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
     language: greek
   - strongs: G237a
-    proximity: 0.8188
+    proximity: 0.8188 {macula-proximity}
     language: greek
   - strongs: G5561
-    proximity: 0.8146
+    lemma: χώρα
+    gloss: room {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
     language: greek
   - strongs: G3699
-    proximity: 0.8081
+    lemma: ὅπου
+    gloss: what where {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

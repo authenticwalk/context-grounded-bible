@@ -6,52 +6,65 @@ pronunciation: taw-bakh'
 definition: to slaughter (animals or men)
 kjv_usage: kill, (make) slaughter, slay.
 derivation: a primitive root;
-extended_definition:
-  gloss: to slaughter
-  definition: 1) to slaughter, slay, butcher, kill ruthlessly<br>1a) (Qal)<br>1a1)
-    to slaughter, butcher<br>1a2) to slay, kill ruthlessly (fig.)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to slaughter, slay, butcher, kill ruthlessly
+
+  1a) (Qal)
+
+  1a1) to slaughter, butcher
+
+  1a2) to slay, kill ruthlessly (fig.) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H13
-    proximity: 0.8247
+    proximity: 0.8247 {macula-proximity}
   - strongs: A6992
-    proximity: 0.8213
+    proximity: 0.8213 {macula-proximity}
   - strongs: H2076
-    proximity: 0.805
+    lemma: זָבַח
+    gloss: to slaughter an animal {openscriptures-strongs}
+    proximity: 0.805 {macula-proximity}
   - strongs: A7
-    proximity: 0.8048
+    proximity: 0.8048 {macula-proximity}
   - strongs: H4347
-    proximity: 0.7823
+    lemma: מַכָּה
+    gloss: a wound {openscriptures-strongs}
+    proximity: 0.7823 {macula-proximity}
   - strongs: H7523
-    proximity: 0.7757
+    lemma: רָצַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7757 {macula-proximity}
   - strongs: H5221
-    proximity: 0.7685
+    lemma: נָכָה
+    gloss: to strike (lightly or severely {openscriptures-strongs}
+    proximity: 0.7685 {macula-proximity}
   - strongs: H2944
-    proximity: 0.7661
+    lemma: טָעַן
+    gloss: to stab {openscriptures-strongs}
+    proximity: 0.7661 {macula-proximity}
   - strongs: H2490a
-    proximity: 0.7632
+    proximity: 0.7632 {macula-proximity}
   - strongs: H2717a
-    proximity: 0.7191
+    proximity: 0.7191 {macula-proximity}
   cross_language:
   - strongs: G336
-    proximity: 0.8079
+    proximity: 0.8079 {macula-proximity}
     language: greek
   - strongs: G5356
-    proximity: 0.7801
+    lemma: φθορά
+    gloss: decay {openscriptures-strongs}
+    proximity: 0.7801 {macula-proximity}
     language: greek
   - strongs: G337
-    proximity: 0.721
+    proximity: 0.721 {macula-proximity}
     language: greek
   - strongs: G1315
-    proximity: 0.7176
+    lemma: διαχειρίζομαι
+    gloss: to handle thoroughly {openscriptures-strongs}
+    proximity: 0.7176 {macula-proximity}
     language: greek
   - strongs: G2871
-    proximity: 0.7174
+    lemma: κοπή
+    gloss: cutting {openscriptures-strongs}
+    proximity: 0.7174 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

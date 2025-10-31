@@ -7,24 +7,27 @@ definition: probably meaning to glisten; a tablet (as polished), of stone, wood 
   metal
 kjv_usage: board, plate, table.
 derivation: or לֻחַ; from a primitive root;
-extended_definition:
-  gloss: tablet
-  definition: 1) board, slab, tablet, plank<br>1a) tablets (of stone)<br>1b) boards
-    (of wood)<br>1c) plate (of metal)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) board, slab, tablet, plank
+
+  1a) tablets (of stone)
+
+  1b) boards (of wood)
+
+  1c) plate (of metal) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1549
-    proximity: 0.8089
+    lemma: גִּלָּיוֹן
+    gloss: a tablet for writing {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: H7175
-    proximity: 0.7253
+    lemma: קֶרֶשׁ
+    gloss: a slab or plank {openscriptures-strongs}
+    proximity: 0.7253 {macula-proximity}
   cross_language:
   - strongs: G4548
-    proximity: 0.728
+    lemma: σανίς
+    gloss: a plank {openscriptures-strongs}
+    proximity: 0.728 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -9,32 +9,47 @@ derivation: from an unused root apparently meaning to be conspicuous;
 related_words:
   synonyms:
   - strongs: A5776
-    proximity: 0.8267
+    proximity: 0.8267 {macula-proximity}
   - strongs: H255
-    proximity: 0.8216
+    proximity: 0.8216 {macula-proximity}
   - strongs: H6718
-    proximity: 0.8185
+    lemma: צַיִד
+    gloss: the chase {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: H8565
-    proximity: 0.7985
+    lemma: תַּן
+    gloss: a monster {openscriptures-strongs}
+    proximity: 0.7985 {macula-proximity}
   - strongs: H7830
-    proximity: 0.7842
+    lemma: שַׁחַץ
+    gloss: haughtiness {openscriptures-strongs}
+    proximity: 0.7842 {macula-proximity}
   - strongs: H7430
-    proximity: 0.7712
+    lemma: רָמַשׂ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7712 {macula-proximity}
   - strongs: H7431
-    proximity: 0.7526
+    lemma: רֶמֶשׂ
+    gloss: a reptile or any other rapidly moving animal {openscriptures-strongs}
+    proximity: 0.7526 {macula-proximity}
   - strongs: H8318
-    proximity: 0.7503
+    lemma: שֶׁרֶץ
+    gloss: a swarm {openscriptures-strongs}
+    proximity: 0.7503 {macula-proximity}
   cross_language:
   - strongs: G2062
-    proximity: 0.827
+    lemma: ἑρπετόν
+    gloss: a reptile {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: greek
   - strongs: G2938
-    proximity: 0.7744
+    lemma: κτίσμα
+    gloss: an original formation {openscriptures-strongs}
+    proximity: 0.7744 {macula-proximity}
     language: greek
   - strongs: G2226
-    proximity: 0.717
+    lemma: ζῶον
+    gloss: a live thing {openscriptures-strongs}
+    proximity: 0.717 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

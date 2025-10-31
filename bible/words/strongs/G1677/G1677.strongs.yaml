@@ -5,53 +5,54 @@ transliteration: ellogéō
 definition: to reckon in, i.e. attribute
 kjv_usage: impute, put on account
 derivation: from G1722 (ἐν) and G3056 (λόγος) (in the sense of account);
-extended_definition:
-  gloss: to charge
-  definition: '<b>ἐλλογάω</b>, -ῶ<BR /> (a κοινή word, elsewhere usually -έω; cf.
-    Bl., § 22, 2), <BR /><b>to charge to one''s account, impute</b>: Phm 18 (on parallels,
-    cf. Deiss., <i>LAE</i>, 79 f., 335 f.; Milligan, <i>NTD</i>, 73; MM, <i>Exp.</i>,
-    xii); of sin, <ref=''Rom.5.13''>Rom.5:13</ref> (Cremer, 400).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ἐλλογ-έω</b>, <br /> (λόγος) ={ἐν λόγῳ τιθέναι}, <b>reckon,
-    put to an account,</b> [<a href="javascript:void(0)" title="NT.Philm.18; τινί
-    “PRyl.” 243.11 (2nd c.AD)">NT+2nd c.AD+</a>], etc.:—<i>passive</i>, <b>to be reckoned
-    in,</b> [<a href="javascript:void(0)" title=" Inscriptiones Graecae 9(1).61.37
-    (Daulis, 2nd c.AD), “PStrassb.” 1.32.10 (3rd c.AD), etc. ">Refs 2nd c.AD+</a>]<br
-    /><Level3><b>__2</b></Level3> <i>metaphorically</i>, <b>impute</b>, [<a href="javascript:void(0)"
-    title=" “BGU” 140.32 (2nd c.AD)">Refs 2nd c.AD+</a>]:—<i>passive</i>, [<a href="javascript:void(0)"
-    title=" NT.Rom.5.13. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ἐλλογάω, -ῶ
+
+  (a κοινή word, elsewhere usually -έω; cf. Bl., § 22, 2),
+
+  to charge to one''s account, impute: Phm 18 (on parallels, cf. Deiss., LAE, 79 f.,
+  335 f.; Milligan, NTD, 73; MM, Exp., xii); of sin, Rom.5:13 (Cremer, 400).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐλλογ-έω,
+
+  (λόγος) ={ἐν λόγῳ τιθέναι}, reckon, put to an account, [NT+2nd c.AD+], etc.:—passive,
+  to be reckoned in, [Refs 2nd c.AD+]
+
+  __2 metaphorically, impute, [Refs 2nd c.AD+]:—passive, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G338
-    proximity: 0.8238
+    proximity: 0.8238 {macula-proximity}
   - strongs: A3807b
-    proximity: 0.8132
+    proximity: 0.8132 {macula-proximity}
   - strongs: G157a
-    proximity: 0.8067
+    proximity: 0.8067 {macula-proximity}
   - strongs: G4314
-    proximity: 0.7969
+    lemma: πρός
+    gloss: a preposition of direction {openscriptures-strongs}
+    proximity: 0.7969 {macula-proximity}
   - strongs: G3049
-    proximity: 0.7857
+    lemma: λογίζομαι
+    gloss: to take an inventory {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
   - strongs: G5476
-    proximity: 0.7807
+    lemma: χαμαί
+    gloss: earthward {openscriptures-strongs}
+    proximity: 0.7807 {macula-proximity}
   - strongs: G4868
-    proximity: 0.7471
+    lemma: συναίρω
+    gloss: to make up together {openscriptures-strongs}
+    proximity: 0.7471 {macula-proximity}
   cross_language:
   - strongs: H3807a
-    proximity: 0.8211
+    proximity: 0.8211 {macula-proximity}
     language: hebrew
   - strongs: H2803
-    proximity: 0.8139
+    lemma: חָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: hebrew
   - strongs: H413
-    proximity: 0.7999
+    proximity: 0.7999 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

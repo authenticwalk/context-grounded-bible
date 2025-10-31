@@ -6,35 +6,41 @@ pronunciation: aw-nad'
 definition: to lace fast
 kjv_usage: bind, tie.
 derivation: a primitive root;
-extended_definition:
-  gloss: to bind
-  definition: 1) to bind, tie up, bind around or upon<br>1a) (Qal) to tie up
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to bind, tie up, bind around or upon
+
+  1a) (Qal) to tie up {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H631
-    proximity: 0.8276
+    proximity: 0.8276 {macula-proximity}
   - strongs: H2266
-    proximity: 0.826
+    lemma: חָבַר
+    gloss: to join {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
   - strongs: H2296
-    proximity: 0.8052
+    lemma: חָגַר
+    gloss: to gird on (as a belt {openscriptures-strongs}
+    proximity: 0.8052 {macula-proximity}
   - strongs: H7405
-    proximity: 0.7931
+    lemma: רָכַס
+    gloss: to tie {openscriptures-strongs}
+    proximity: 0.7931 {macula-proximity}
   - strongs: H247
-    proximity: 0.7548
+    proximity: 0.7548 {macula-proximity}
   cross_language:
   - strongs: G1241
-    proximity: 0.83
+    lemma: διαζώννυμι
+    gloss: to gird tightly {openscriptures-strongs}
+    proximity: 0.83 {macula-proximity}
     language: greek
   - strongs: G1195
-    proximity: 0.8236
+    lemma: δεσμεύω
+    gloss: to be a binder {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
     language: greek
   - strongs: G4120
-    proximity: 0.7044
+    lemma: πλέκω
+    gloss: to twine or braid {openscriptures-strongs}
+    proximity: 0.7044 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

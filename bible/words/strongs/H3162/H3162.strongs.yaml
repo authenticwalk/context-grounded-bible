@@ -9,36 +9,47 @@ derivation: from H3161 (יָחַד);
 related_words:
   synonyms:
   - strongs: A3272
-    proximity: 0.8272
+    proximity: 0.8272 {macula-proximity}
   - strongs: A3606
-    proximity: 0.8263
+    proximity: 0.8263 {macula-proximity}
   - strongs: A2298
-    proximity: 0.8242
+    proximity: 0.8242 {macula-proximity}
   - strongs: H2270
-    proximity: 0.8231
+    lemma: חָבֵר
+    gloss: an associate {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H1571
-    proximity: 0.8222
+    lemma: גַּם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H622
-    proximity: 0.819
+    proximity: 0.819 {macula-proximity}
   - strongs: H3664
-    proximity: 0.8176
+    lemma: כָּנַס
+    gloss: to collect {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   cross_language:
   - strongs: G5615
-    proximity: 0.8298
+    lemma: ὡσαύτως
+    gloss: as thus {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G3663
-    proximity: 0.8289
+    lemma: ὁμοιοπαθής
+    gloss: similarly affected {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: greek
   - strongs: G800
-    proximity: 0.8212
+    proximity: 0.8212 {macula-proximity}
     language: greek
   - strongs: G1520
-    proximity: 0.8207
+    lemma: εἷς
+    gloss: one {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
     language: greek
   - strongs: G4782
-    proximity: 0.8203
+    lemma: συγκαταβαίνω
+    gloss: to descend in company with {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

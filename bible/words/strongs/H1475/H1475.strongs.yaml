@@ -6,38 +6,44 @@ pronunciation: goom-mawts'
 definition: a pit
 kjv_usage: pit.
 derivation: of uncertain derivation;
-extended_definition:
-  gloss: pit
-  definition: pit
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: pit {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2352
-    proximity: 0.8056
+    lemma: חוּר
+    gloss: the crevice of a serpent {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H2764a
-    proximity: 0.7962
+    proximity: 0.7962 {macula-proximity}
   - strongs: H696
-    proximity: 0.7763
+    proximity: 0.7763 {macula-proximity}
   - strongs: H953
-    proximity: 0.7739
+    proximity: 0.7739 {macula-proximity}
   - strongs: H4170
-    proximity: 0.7725
+    lemma: מוֹקֵשׁ
+    gloss: a noose {openscriptures-strongs}
+    proximity: 0.7725 {macula-proximity}
   - strongs: H3921
-    proximity: 0.7715
+    lemma: לֶכֶד
+    gloss: something to capture with {openscriptures-strongs}
+    proximity: 0.7715 {macula-proximity}
   - strongs: H7568
-    proximity: 0.7583
+    lemma: רֶשֶׁת
+    gloss: a net {openscriptures-strongs}
+    proximity: 0.7583 {macula-proximity}
   - strongs: H4204
-    proximity: 0.7222
+    lemma: מָזוֹר
+    gloss: treachery {openscriptures-strongs}
+    proximity: 0.7222 {macula-proximity}
   cross_language:
   - strongs: G3803
-    proximity: 0.7586
+    lemma: παγίς
+    gloss: a trap {openscriptures-strongs}
+    proximity: 0.7586 {macula-proximity}
     language: greek
   - strongs: G5421
-    proximity: 0.7224
+    lemma: φρέαρ
+    gloss: a hole in the ground {openscriptures-strongs}
+    proximity: 0.7224 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

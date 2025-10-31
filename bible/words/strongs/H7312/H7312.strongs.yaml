@@ -6,46 +6,61 @@ pronunciation: room
 definition: (literally) elevation or (figuratively) elation
 kjv_usage: haughtiness, height, [idiom] high.
 derivation: or רֻם; from H7311 (רוּם);
-extended_definition:
-  gloss: height
-  definition: '1) haughtiness, height, elevation<br>1a) height, loftiness<br>1b) haughtiness<BR>Aramaic
-    equivalent: <i>rum</i> (רוּם "height" H7314)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) haughtiness, height, elevation
+
+  1a) height, loftiness
+
+  1b) haughtiness
+
+  Aramaic equivalent: rum (רוּם "height" H7314) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A5946
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
   - strongs: A5943
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
   - strongs: H3267
-    proximity: 0.8212
+    lemma: יָעַז
+    gloss: to be bold or obstinate {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   - strongs: H1610
-    proximity: 0.8209
+    lemma: גַּף
+    gloss: the back {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: H5549
-    proximity: 0.815
+    lemma: סָלַל
+    gloss: to mound up {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: H1431
-    proximity: 0.8132
+    lemma: גָּדַל
+    gloss: to be  large (in various senses {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
   - strongs: H1984b
-    proximity: 0.8079
+    proximity: 0.8079 {macula-proximity}
   - strongs: H1433
-    proximity: 0.7959
+    lemma: גֹּדֶל
+    gloss: magnitude {openscriptures-strongs}
+    proximity: 0.7959 {macula-proximity}
   - strongs: H6075
-    proximity: 0.7778
+    lemma: עָפַל
+    gloss: to swell {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   - strongs: A2103
-    proximity: 0.7608
+    proximity: 0.7608 {macula-proximity}
   cross_language:
   - strongs: G5310
-    proximity: 0.8212
+    lemma: ὕψιστος
+    gloss: highest {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
     language: greek
   - strongs: G3913
-    proximity: 0.792
+    lemma: παραφρονία
+    gloss: insanity {openscriptures-strongs}
+    proximity: 0.792 {macula-proximity}
     language: greek
   - strongs: G5311
-    proximity: 0.7805
+    lemma: ὕψος
+    gloss: elevation {openscriptures-strongs}
+    proximity: 0.7805 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

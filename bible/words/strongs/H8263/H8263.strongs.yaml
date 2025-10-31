@@ -6,34 +6,39 @@ pronunciation: sheh'-kets
 definition: filth, i.e. (figuratively and specifically) an idolatrous object
 kjv_usage: abominable(-tion).
 derivation: from H8262 (שָׁקַץ);
-extended_definition:
-  gloss: detestation
-  definition: detestable thing or idol, an unclean thing, an abomination, detestation
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: detestable thing or idol, an unclean thing, an abomination, detestation
+  {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H444
-    proximity: 0.8004
+    proximity: 0.8004 {macula-proximity}
   - strongs: H2932
-    proximity: 0.7776
+    lemma: טֻמְאָה
+    gloss: religious impurity {openscriptures-strongs}
+    proximity: 0.7776 {macula-proximity}
   - strongs: H8262
-    proximity: 0.7609
+    lemma: שָׁקַץ
+    gloss: to be filthy {openscriptures-strongs}
+    proximity: 0.7609 {macula-proximity}
   - strongs: H2931
-    proximity: 0.7289
+    lemma: טָמֵא
+    gloss: foul in a religious sense {openscriptures-strongs}
+    proximity: 0.7289 {macula-proximity}
   - strongs: H8186a
-    proximity: 0.7222
+    proximity: 0.7222 {macula-proximity}
   - strongs: H1860
-    proximity: 0.7115
+    lemma: דְּרָאוֹן
+    gloss: an object of aversion {openscriptures-strongs}
+    proximity: 0.7115 {macula-proximity}
   cross_language:
   - strongs: G3404
-    proximity: 0.7727
+    lemma: μισέω
+    gloss: to detest {openscriptures-strongs}
+    proximity: 0.7727 {macula-proximity}
     language: greek
   - strongs: G4767
-    proximity: 0.7386
+    lemma: στυγνητός
+    gloss: hated {openscriptures-strongs}
+    proximity: 0.7386 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

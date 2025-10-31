@@ -6,34 +6,41 @@ pronunciation: mas-tare'
 definition: properly, a hider, i.e. (abstractly) a hiding, i.e. aversion
 kjv_usage: hid.
 derivation: from H5641 (סָתַר);
-extended_definition:
-  gloss: hiding
-  definition: (Hiphil) hiding, act of hiding, one who causes people to hide
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: (Hiphil) hiding, act of hiding, one who causes people to hide
+  {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2244
-    proximity: 0.8266
+    lemma: חָבָא
+    gloss: to secrete {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: H5956
-    proximity: 0.818
+    lemma: עָלַם
+    gloss: to veil from sight {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: H2247
-    proximity: 0.815
+    lemma: חָבָה
+    gloss: to secrete {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: H5921
-    proximity: 0.8101
+    lemma: עַל
+    gloss: above {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
   - strongs: H5307
-    proximity: 0.7951
+    lemma: נָפַל
+    gloss: to fall {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
   - strongs: H6440
-    proximity: 0.7339
+    lemma: פָּנִים
+    gloss: the face {openscriptures-strongs}
+    proximity: 0.7339 {macula-proximity}
   cross_language:
   - strongs: G4032
-    proximity: 0.8244
+    lemma: περικρύπτω
+    gloss: to conceal all around {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: greek
   - strongs: G654
-    proximity: 0.7962
+    proximity: 0.7962 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

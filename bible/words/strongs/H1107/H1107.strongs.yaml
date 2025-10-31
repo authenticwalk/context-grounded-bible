@@ -7,41 +7,49 @@ definition: except, without, besides
 kjv_usage: beside, not (in), save, without.
 derivation: or בַּלְעֲדֵי; constructive plural from H1077 (בַּל) and H5703 (עַד),
   not till, i.e. (as preposition or adverb)
-extended_definition:
-  gloss: beside
-  definition: apart from, except, without, besides
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: apart from, except, without, besides {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5978
-    proximity: 0.8265
+    lemma: עִמָּד
+    gloss: along with {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H5921
-    proximity: 0.8252
+    lemma: עַל
+    gloss: above {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
   - strongs: H5736
-    proximity: 0.8232
+    lemma: עֲדַף
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H2050b
-    proximity: 0.8115
+    proximity: 0.8115 {macula-proximity}
   - strongs: H2486
-    proximity: 0.8017
+    lemma: חָלִילָה
+    gloss: literal fora profaned thing {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
   cross_language:
   - strongs: G3371
-    proximity: 0.8265
+    lemma: μηκέτι
+    gloss: no further {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
     language: greek
   - strongs: G278
-    proximity: 0.8204
+    proximity: 0.8204 {macula-proximity}
     language: greek
   - strongs: G1410
-    proximity: 0.8186
+    lemma: δύναμαι
+    gloss: to be able or possible {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
     language: greek
   - strongs: G1161
-    proximity: 0.8171
+    lemma: δέ
+    gloss: but {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
     language: greek
   - strongs: G5225
-    proximity: 0.8099
+    lemma: ὑπάρχω
+    gloss: to begin under {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

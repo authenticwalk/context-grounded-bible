@@ -6,46 +6,61 @@ pronunciation: taw-aw'
 definition: to wander; causatively to lead astray
 kjv_usage: seduce.
 derivation: a primitive root;
-extended_definition:
-  gloss: to stray
-  definition: 1) to wander, stray, wander astray, err<br>1a) (Hiphil)<br>1a1) to seduce<br>1a2)
-    to cause to go astray
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to wander, stray, wander astray, err
+
+  1a) (Hiphil)
+
+  1a1) to seduce
+
+  1a2) to cause to go astray {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7411a
-    proximity: 0.8259
+    proximity: 0.8259 {macula-proximity}
   - strongs: H5377
-    proximity: 0.8237
+    lemma: נָשָׁא
+    gloss: to lead astray {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: H8586
-    proximity: 0.8126
+    lemma: תַּעֲלוּל
+    gloss: caprice {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
   - strongs: H7686
-    proximity: 0.801
+    lemma: שָׁגָה
+    gloss: to stray (causatively {openscriptures-strongs}
+    proximity: 0.801 {macula-proximity}
   - strongs: H7683
-    proximity: 0.7953
+    lemma: שָׁגַג
+    gloss: to stray {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
   - strongs: H2048a
-    proximity: 0.7855
+    proximity: 0.7855 {macula-proximity}
   - strongs: H6601
-    proximity: 0.705
+    lemma: פָּתָה
+    gloss: to open {openscriptures-strongs}
+    proximity: 0.705 {macula-proximity}
   cross_language:
   - strongs: G1114
-    proximity: 0.824
+    lemma: γόης
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: greek
   - strongs: G551
-    proximity: 0.8223
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G4106
-    proximity: 0.8105
+    lemma: πλάνη
+    gloss: objectively {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
     language: greek
   - strongs: G4108
-    proximity: 0.7786
+    lemma: πλάνος
+    gloss: roving {openscriptures-strongs}
+    proximity: 0.7786 {macula-proximity}
     language: greek
   - strongs: G1818
-    proximity: 0.7396
+    lemma: ἐξαπατάω
+    gloss: to seduce wholly {openscriptures-strongs}
+    proximity: 0.7396 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

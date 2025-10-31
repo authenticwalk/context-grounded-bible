@@ -6,41 +6,53 @@ pronunciation: haw-bar'
 definition: to be a horoscopist
 kjv_usage: '[phrase] (astro-) loger.'
 derivation: a primitive root of uncertain (perhaps foreign) derivation;
-extended_definition:
-  gloss: to divide
-  definition: 1) (Qal) to divide<br>1a) be an astrologer (with obj-heavens)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Qal) to divide
+
+  1a) be an astrologer (with obj-heavens) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6536
-    proximity: 0.8039
+    lemma: פָּרַס
+    gloss: to break in pieces {openscriptures-strongs}
+    proximity: 0.8039 {macula-proximity}
   - strongs: H8064
-    proximity: 0.7685
+    lemma: שָׁמַיִם
+    gloss: the sky (as aloft {openscriptures-strongs}
+    proximity: 0.7685 {macula-proximity}
   - strongs: H2673
-    proximity: 0.74
+    lemma: חָצָה
+    gloss: to cut or split in two {openscriptures-strongs}
+    proximity: 0.74 {macula-proximity}
   - strongs: H2505
-    proximity: 0.7208
+    lemma: חָלַק
+    gloss: to be smooth {openscriptures-strongs}
+    proximity: 0.7208 {macula-proximity}
   - strongs: A1505
-    proximity: 0.7156
+    proximity: 0.7156 {macula-proximity}
   cross_language:
   - strongs: G4756
-    proximity: 0.824
+    lemma: στρατιά
+    gloss: from the base of G4766 {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: greek
   - strongs: G3097
-    proximity: 0.81
+    lemma: μάγος
+    gloss: a Magian {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
     language: greek
   - strongs: G1239
-    proximity: 0.7997
+    lemma: διαδίδωμι
+    gloss: to give throughout a crowd {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
     language: greek
   - strongs: G1266
-    proximity: 0.7749
+    lemma: διαμερίζω
+    gloss: to partition thoroughly (literally in distribution {openscriptures-strongs}
+    proximity: 0.7749 {macula-proximity}
     language: greek
   - strongs: G1244
-    proximity: 0.7738
+    lemma: διαιρέω
+    gloss: to separate {openscriptures-strongs}
+    proximity: 0.7738 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

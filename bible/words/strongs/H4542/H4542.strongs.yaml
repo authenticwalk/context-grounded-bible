@@ -6,25 +6,27 @@ pronunciation: mis-kane'
 definition: indigent
 kjv_usage: poor (man).
 derivation: from H5531 (סִכְלוּת);
-extended_definition:
-  gloss: poor
-  definition: poor, poor man
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: poor, poor man {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8182
-    proximity: 0.7984
+    lemma: שֹׁעָר
+    gloss: harsh or horrid {openscriptures-strongs}
+    proximity: 0.7984 {macula-proximity}
   - strongs: H6199
-    proximity: 0.7724
+    lemma: עַרעָר
+    gloss: naked {openscriptures-strongs}
+    proximity: 0.7724 {macula-proximity}
   - strongs: H4270
-    proximity: 0.753
+    lemma: מַחְסוֹר
+    gloss: deficiency {openscriptures-strongs}
+    proximity: 0.753 {macula-proximity}
   - strongs: H7330
-    proximity: 0.7327
+    lemma: רָזֶה
+    gloss: thin {openscriptures-strongs}
+    proximity: 0.7327 {macula-proximity}
   - strongs: H2639
-    proximity: 0.7285
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: חֶסֶר
+    gloss: lack {openscriptures-strongs}
+    proximity: 0.7285 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,47 +6,59 @@ pronunciation: pith-khone'
 definition: opening (the act)
 kjv_usage: open(-ing).
 derivation: from H6605 (פָּתַח);
-extended_definition:
-  gloss: opening
-  definition: opening
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: opening {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4448
-    proximity: 0.828
+    lemma: מָלַל
+    gloss: to speak  or say {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
   - strongs: H6565a
-    proximity: 0.8226
+    proximity: 0.8226 {macula-proximity}
   - strongs: H1697
-    proximity: 0.8218
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H5608
-    proximity: 0.8198
+    lemma: סָפַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
   - strongs: H4405
-    proximity: 0.8192
+    lemma: מִלָּה
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: H2946
-    proximity: 0.8157
+    lemma: טָפַח
+    gloss: to flatten out or extend {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: H8365
-    proximity: 0.8125
+    lemma: שָׁתַם
+    gloss: to unveil {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: H3956
-    proximity: 0.8062
+    lemma: לָשׁוֹן
+    gloss: the tongue {openscriptures-strongs}
+    proximity: 0.8062 {macula-proximity}
   cross_language:
   - strongs: G1846
-    proximity: 0.8274
+    lemma: ἐξορύσσω
+    gloss: to dig out {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
     language: greek
   - strongs: G2981
-    proximity: 0.8264
+    lemma: λαλιά
+    gloss: talk {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G1600
-    proximity: 0.8234
+    lemma: ἐκπετάννυμι
+    gloss: to fly out {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
     language: greek
   - strongs: G5168a
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G2744a
-    proximity: 0.8104
+    proximity: 0.8104 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -9,53 +9,76 @@ kjv_usage: '[idiom] burn (incense), [idiom] earnestly, be male, (make) mention (
   be mindful, recount, record(-er), remember, make to be remembered, bring (call,
   come, keep, put) to (in) remembrance, [idiom] still, think on, [idiom] well.'
 derivation: a primitive root; also as denominative from H2145 (זָכָר)
-extended_definition:
-  gloss: to remember
-  definition: 1) to remember, recall, call to mind<br>1a) (Qal) to remember, recall<br>1b)
-    (Niphal) to be brought to remembrance, be remembered, be thought of, be brought
-    to mind<br>1c) (Hiphil)<br>1c1) to cause to remember, remind<br>1c2) to cause
-    to be remembered, keep in remembrance<br>1c3) to mention<br>1c4) to record<br>1c5)
-    to make a memorial, make remembrance
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to remember, recall, call to mind
+
+  1a) (Qal) to remember, recall
+
+  1b) (Niphal) to be brought to remembrance, be remembered, be thought of, be brought
+  to mind
+
+  1c) (Hiphil)
+
+  1c1) to cause to remember, remind
+
+  1c2) to cause to be remembered, keep in remembrance
+
+  1c3) to mention
+
+  1c4) to record
+
+  1c5) to make a memorial, make remembrance {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3824
-    proximity: 0.8299
+    lemma: לֵבָב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
   - strongs: H7913
-    proximity: 0.8287
+    lemma: שָׁכֵחַ
+    gloss: oblivious {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H5388
-    proximity: 0.8282
+    lemma: נְשִׁיָּה
+    gloss: oblivion {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: A2031
-    proximity: 0.8266
+    proximity: 0.8266 {macula-proximity}
   - strongs: A1289a
-    proximity: 0.8257
+    proximity: 0.8257 {macula-proximity}
   - strongs: H2803
-    proximity: 0.8168
+    lemma: חָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.8151
+    proximity: 0.8151 {macula-proximity}
   - strongs: H871a
-    proximity: 0.8148
+    proximity: 0.8148 {macula-proximity}
   - strongs: H1900
-    proximity: 0.8133
+    lemma: הָגוּת
+    gloss: musing {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   cross_language:
   - strongs: G1973
-    proximity: 0.8279
+    lemma: ἐπιπόθητος
+    gloss: yearned upon {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G133
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G1270
-    proximity: 0.821
+    lemma: διανόημα
+    gloss: something thought through {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: greek
   - strongs: G5426
-    proximity: 0.8157
+    lemma: φρονέω
+    gloss: to exercise the mind {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
     language: greek
   - strongs: G1761
-    proximity: 0.8153
+    lemma: ἐνθύμησις
+    gloss: deliberation {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,43 +6,45 @@ pronunciation: toom-maw'
 definition: innocence
 kjv_usage: integrity.
 derivation: feminine of H8537 (תֹּם);
-extended_definition:
-  gloss: integrity
-  definition: integrity
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: integrity {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1305b
-    proximity: 0.8146
+    proximity: 0.8146 {macula-proximity}
   - strongs: H529a
-    proximity: 0.8138
+    proximity: 0.8138 {macula-proximity}
   - strongs: H529
-    proximity: 0.8071
+    proximity: 0.8071 {macula-proximity}
   - strongs: H5228
-    proximity: 0.8005
+    lemma: נָכֹחַ
+    gloss: straightforward {openscriptures-strongs}
+    proximity: 0.8005 {macula-proximity}
   - strongs: H2134
-    proximity: 0.7998
+    lemma: זַךְ
+    gloss: clear {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
   - strongs: H6666
-    proximity: 0.7971
+    lemma: צְדָקָה
+    gloss: rightness {openscriptures-strongs}
+    proximity: 0.7971 {macula-proximity}
   cross_language:
   - strongs: G739
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G1505
-    proximity: 0.8282
+    lemma: εἰλικρίνεια
+    gloss: clearness {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: greek
   - strongs: G227
-    proximity: 0.8208
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G572
-    proximity: 0.8198
+    proximity: 0.8198 {macula-proximity}
     language: greek
   - strongs: G5050
-    proximity: 0.8174
+    lemma: τελείωσις
+    gloss: completion {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,19 +6,15 @@ pronunciation: gabe
 definition: a locust (from its cutting)
 kjv_usage: locust.
 derivation: probably from H1461 (גּוּב) (compare H1462 (גּוֹב));
-extended_definition:
-  gloss: locust
-  definition: locust
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: locust {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1462
-    proximity: 0.8243
+    lemma: גּוֹב
+    gloss: the locust {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: H5556
-    proximity: 0.7933
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: סׇלְעָם
+    gloss: a kind of locust {openscriptures-strongs}
+    proximity: 0.7933 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

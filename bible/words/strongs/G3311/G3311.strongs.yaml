@@ -5,61 +5,74 @@ transliteration: merismós
 definition: a separation or distribution
 kjv_usage: dividing asunder, gift
 derivation: from G3307 (μερίζω);
-extended_definition:
-  gloss: division
-  definition: '<b>μερισμός</b>, -οῦ, ὁ<BR /> (μερίζω), [in LXX for מַחְלְקָה, מַחֲלֹקֶת,
-    <ref=''Jos.11.23''>Jos.11:23</ref>, <ref=''Est.6.18''>Est.6:18</ref> * ;] <BR
-    />__1. <b>a dividing, division</b>: ψυχῆς κ. πνεύματος (i.e. between them or of
-    the things themselves, see Westc., in l), <ref=''Heb.4.12.''>Heb.4:12.</ref> <BR
-    /> __2. <b>a dis­tribution, bestowal </b>(cf. μερίζω, 2); pl., <ref=''Heb.2.4.''>Heb.2:4.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> μερ-ιστέον</b>, <br /> <b>one must divide</b>, τὸ καθόλου εἰς
-    γένη [<a href="javascript:void(0)" title=" 4th c.BC: Aristoxenus Musicus “Harmonica”
-    p.4 M.">Refs 4th c.BC+</a>]; <b>one must distribute</b>, [<a href="javascript:void(0)"
-    title=" 12th c.AD: Eustathius Episcopus Thessalonicensis 83.12. ">Refs</a>]<br
-    /><Level2><b>__II</b></Level2> <i>adjective</i> μεριστέος, α, ον, <b>to be divided</b>,
-    [<a href="javascript:void(0)" title=" 6th c.AD: Justinianus Imperator “Novellae”
-    156.1. ">Refs 6th c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'μερισμός, -οῦ, ὁ
+
+  (μερίζω), [in LXX for מַחְלְקָה, מַחֲלֹקֶת, Jos.11:23, Est.6:18 * ;]
+
+  __1. a dividing, division: ψυχῆς κ. πνεύματος (i.e. between them or of the things
+  themselves, see Westc., in l), Heb.4:12.
+
+  __2. a dis­tribution, bestowal (cf. μερίζω, 2); pl., Heb.2:4.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'μερ-ιστέον,
+
+  one must divide, τὸ καθόλου εἰς γένη [Refs 4th c.BC+]; one must distribute, [Refs]
+
+  __II adjective μεριστέος, α, ον, to be divided, [Refs 6th c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1435
-    proximity: 0.8239
+    lemma: δῶρον
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: G1370
-    proximity: 0.8185
+    lemma: διχοστασία
+    gloss: disunion {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: G1394
-    proximity: 0.7888
+    lemma: δόσις
+    gloss: a giving {openscriptures-strongs}
+    proximity: 0.7888 {macula-proximity}
   - strongs: G2183
-    proximity: 0.7887
+    lemma: ἐφημερία
+    gloss: diurnality {openscriptures-strongs}
+    proximity: 0.7887 {macula-proximity}
   - strongs: A4978
-    proximity: 0.773
+    proximity: 0.773 {macula-proximity}
   - strongs: G5487
-    proximity: 0.7665
+    lemma: χαριτόω
+    gloss: to grace {openscriptures-strongs}
+    proximity: 0.7665 {macula-proximity}
   - strongs: G4978
-    proximity: 0.7643
+    lemma: σχίσμα
+    gloss: a split or gap {openscriptures-strongs}
+    proximity: 0.7643 {macula-proximity}
   - strongs: A6392
-    proximity: 0.7625
+    proximity: 0.7625 {macula-proximity}
   - strongs: G1267
-    proximity: 0.7437
+    lemma: διαμερισμός
+    gloss: disunion {openscriptures-strongs}
+    proximity: 0.7437 {macula-proximity}
   cross_language:
   - strongs: H4256
-    proximity: 0.8033
+    lemma: מַחֲלֹקֶת
+    gloss: a section (of Levites {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
     language: hebrew
   - strongs: H1334
-    proximity: 0.7745
+    lemma: בָּתַר
+    gloss: to chop up {openscriptures-strongs}
+    proximity: 0.7745 {macula-proximity}
     language: hebrew
   - strongs: H4976
-    proximity: 0.7517
+    lemma: מַתָּן
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.7517 {macula-proximity}
     language: hebrew
   - strongs: H4979
-    proximity: 0.7473
+    lemma: מַתָּנָה
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.7473 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

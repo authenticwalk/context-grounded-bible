@@ -7,44 +7,59 @@ definition: a murmuring sound, i.e. a musical notation (probably similar to the 
   affettuoso to indicate solemnity of movement); by implication, a machination
 kjv_usage: device, Higgaion, meditation, solemn sound.
 derivation: intensive from H1897 (הָגָה);
-extended_definition:
-  gloss: meditation
-  definition: 1) meditation, resounding music, musing<br>1a) resounding music<br>1b)
-    meditation, plotting
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) meditation, resounding music, musing
+
+  1a) resounding music
+
+  1b) meditation, plotting {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1900
-    proximity: 0.8199
+    lemma: הָגוּת
+    gloss: musing {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: A2170
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
   - strongs: H8312
-    proximity: 0.7986
+    lemma: שַׂרְעַף
+    gloss: cogitation {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
   - strongs: H7907
-    proximity: 0.7854
+    lemma: שֶׂכְוִי
+    gloss: observant {openscriptures-strongs}
+    proximity: 0.7854 {macula-proximity}
   - strongs: H8102
-    proximity: 0.7826
+    lemma: שֶׁמֶץ
+    gloss: an inkling {openscriptures-strongs}
+    proximity: 0.7826 {macula-proximity}
   - strongs: H3336
-    proximity: 0.7753
+    lemma: יֵצֶר
+    gloss: a form {openscriptures-strongs}
+    proximity: 0.7753 {macula-proximity}
   cross_language:
   - strongs: G5428
-    proximity: 0.8265
+    lemma: φρόνησις
+    gloss: mental action or activity {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
     language: greek
   - strongs: G3540
-    proximity: 0.8258
+    lemma: νόημα
+    gloss: a perception {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G1261
-    proximity: 0.8229
+    lemma: διαλογισμός
+    gloss: discussion {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G5427
-    proximity: 0.8104
+    lemma: φρόνημα
+    gloss: inclination or purpose {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
     language: greek
   - strongs: G1771
-    proximity: 0.8057
+    lemma: ἔννοια
+    gloss: thoughtfulness {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

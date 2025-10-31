@@ -7,51 +7,76 @@ definition: to smite with deadly intent
 kjv_usage: destroy, out of hand, kill, murder(-er), put to (death), make (slaughter),
   slay(-er), [idiom] surely.
 derivation: a primitive root;
-extended_definition:
-  gloss: to kill
-  definition: 1) to kill, slay, murder, destroy, murderer, slayer, out of hand<br>1a)
-    (Qal)<br>1a1) to kill, slay<br>1a2) to destroy, ruin<br>1b) (Niphal) to be killed<br>1c)
-    (Pual) to be killed, be slain
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to kill, slay, murder, destroy, murderer, slayer, out of
+  hand
+
+  1a) (Qal)
+
+  1a1) to kill, slay
+
+  1a2) to destroy, ruin
+
+  1b) (Niphal) to be killed
+
+  1c) (Pual) to be killed, be slain {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3807a
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
   - strongs: H3807
-    proximity: 0.8275
+    lemma: כָּתַת
+    gloss: to bruise or violently strike {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H4892
-    proximity: 0.8269
+    lemma: מַשְׁחֵת
+    gloss: destruction {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: H2614
-    proximity: 0.8266
+    lemma: חָנַק
+    gloss: to be narrow {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: H2076
-    proximity: 0.8231
+    lemma: זָבַח
+    gloss: to slaughter an animal {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H2964
-    proximity: 0.8187
+    lemma: טֶרֶף
+    gloss: something torn {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
   - strongs: H1856
-    proximity: 0.805
+    lemma: דָּקַר
+    gloss: to stab {openscriptures-strongs}
+    proximity: 0.805 {macula-proximity}
   - strongs: A4193
-    proximity: 0.8007
+    proximity: 0.8007 {macula-proximity}
   - strongs: H4463
-    proximity: 0.7993
+    lemma: מָמוֹת
+    gloss: a mortal disease {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
   cross_language:
   - strongs: G5053
-    proximity: 0.8298
+    lemma: τελευτάω
+    gloss: to finish life (by implication {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G4199
-    proximity: 0.8215
+    lemma: πορθέω
+    gloss: to ravage {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
     language: greek
   - strongs: G5356
-    proximity: 0.8178
+    lemma: φθορά
+    gloss: decay {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
     language: greek
   - strongs: G3645
-    proximity: 0.8166
+    lemma: ὀλοθρεύω
+    gloss: to spoil {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
     language: greek
   - strongs: G2288
-    proximity: 0.8097
+    lemma: θάνατος
+    gloss: (properly {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

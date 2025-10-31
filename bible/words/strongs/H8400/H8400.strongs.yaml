@@ -6,39 +6,45 @@ pronunciation: teb-al-lool'
 definition: a cataract (in the eye)
 kjv_usage: blemish.
 derivation: from H1101 (בָּלַל) in the original sense of flowing;
-extended_definition:
-  gloss: defect
-  definition: obscurity, defect (in vision), confusion
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: obscurity, defect (in vision), confusion {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3971a
-    proximity: 0.8045
+    proximity: 0.8045 {macula-proximity}
   - strongs: H2456
-    proximity: 0.7816
+    lemma: חָלָא
+    gloss: to be sick {openscriptures-strongs}
+    proximity: 0.7816 {macula-proximity}
   - strongs: H4245
-    proximity: 0.7615
+    lemma: מַחֲלֶה
+    gloss: sickness {openscriptures-strongs}
+    proximity: 0.7615 {macula-proximity}
   - strongs: A5870
-    proximity: 0.7582
+    proximity: 0.7582 {macula-proximity}
   cross_language:
   - strongs: G3552
-    proximity: 0.8257
+    lemma: νοσέω
+    gloss: to be sick {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G3391
-    proximity: 0.8134
+    lemma: μία
+    gloss: one or first {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
     language: greek
   - strongs: G1520
-    proximity: 0.8101
+    lemma: εἷς
+    gloss: one {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
     language: greek
   - strongs: G3554
-    proximity: 0.7866
+    lemma: νόσος
+    gloss: a malady (rarely figuratively {openscriptures-strongs}
+    proximity: 0.7866 {macula-proximity}
     language: greek
   - strongs: G2192
-    proximity: 0.7551
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.7551 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

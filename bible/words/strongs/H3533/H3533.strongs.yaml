@@ -7,51 +7,74 @@ definition: to tread down; hence, negatively, to disregard; positively, to conqu
   subjugate, violate
 kjv_usage: bring into bondage, force, keep under, subdue, bring into subjection.
 derivation: a primitive root;
-extended_definition:
-  gloss: to subdue
-  definition: 1) to subject, subdue, force, keep under, bring into bondage<br>1a)
-    (Qal)<br>1a1) to bring into bondage, make subservient<br>1a2) to subdue, force,
-    violate<br>1a3) to subdue, dominate, tread down<br>1b) (Niphal) to be subdued<br>1c)
-    (Piel) to subdue<br>1d) (Hiphil) to bring into bondage
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to subject, subdue, force, keep under, bring into bondage
+
+  1a) (Qal)
+
+  1a1) to bring into bondage, make subservient
+
+  1a2) to subdue, force, violate
+
+  1a3) to subdue, dominate, tread down
+
+  1b) (Niphal) to be subdued
+
+  1c) (Piel) to subdue
+
+  1d) (Hiphil) to bring into bondage {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4001
-    proximity: 0.8268
+    lemma: מְבוּסָה
+    gloss: a trampling {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: A153
-    proximity: 0.8107
+    proximity: 0.8107 {macula-proximity}
   - strongs: H6031
-    proximity: 0.8022
+    lemma: עָנָה
+    gloss: to depress literally or figuratively {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
   - strongs: H8630
-    proximity: 0.7903
+    lemma: תָּקַף
+    gloss: to overpower {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
   - strongs: H947
-    proximity: 0.7889
+    proximity: 0.7889 {macula-proximity}
   - strongs: H7429
-    proximity: 0.7853
+    lemma: רָמַס
+    gloss: to tread upon (as a potter {openscriptures-strongs}
+    proximity: 0.7853 {macula-proximity}
   - strongs: H4823
-    proximity: 0.7673
+    lemma: מִרְמָס
+    gloss: abasement {openscriptures-strongs}
+    proximity: 0.7673 {macula-proximity}
   - strongs: H7287
-    proximity: 0.7641
+    lemma: רָדָה
+    gloss: to tread down {openscriptures-strongs}
+    proximity: 0.7641 {macula-proximity}
   - strongs: A8214
-    proximity: 0.764
+    proximity: 0.764 {macula-proximity}
   - strongs: H6072
-    proximity: 0.7574
+    lemma: עָסַס
+    gloss: to squeeze out juice {openscriptures-strongs}
+    proximity: 0.7574 {macula-proximity}
   cross_language:
   - strongs: G2941
-    proximity: 0.8298
+    lemma: κυβέρνησις
+    gloss: pilotage {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G2615
-    proximity: 0.82
+    lemma: καταδουλόω
+    gloss: to enslave utterly {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
   - strongs: G3961
-    proximity: 0.7905
+    lemma: πατέω
+    gloss: to trample {openscriptures-strongs}
+    proximity: 0.7905 {macula-proximity}
     language: greek
   - strongs: G315
-    proximity: 0.7468
+    proximity: 0.7468 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

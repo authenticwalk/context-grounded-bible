@@ -7,35 +7,41 @@ definition: a trough (as dug out); specifically, a wine-vat (whether the lower o
   into which the juice drains; or the upper, in which the grapes are crushed)
 kjv_usage: fats, presses, press-fat, wine(-press).
 derivation: from an unused root meaning to excavate;
-extended_definition:
-  gloss: wine
-  definition: wine vat, wine-press
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: wine vat, wine-press {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8492
-    proximity: 0.8136
+    lemma: תִּירוֹשׁ
+    gloss: must or fresh grape-juice {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: H1831
-    proximity: 0.7714
+    lemma: דֶּמַע
+    gloss: a tear {openscriptures-strongs}
+    proximity: 0.7714 {macula-proximity}
   - strongs: H2561
-    proximity: 0.7508
+    lemma: חֶמֶר
+    gloss: wine {openscriptures-strongs}
+    proximity: 0.7508 {macula-proximity}
   - strongs: A2562
-    proximity: 0.7409
+    proximity: 0.7409 {macula-proximity}
   - strongs: H3196
-    proximity: 0.7391
+    lemma: יַיִן
+    gloss: wine {openscriptures-strongs}
+    proximity: 0.7391 {macula-proximity}
   cross_language:
   - strongs: G4608
-    proximity: 0.8246
+    lemma: σίκερα
+    gloss: an intoxicant {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
     language: greek
   - strongs: G1098
-    proximity: 0.815
+    lemma: γλεῦκος
+    gloss: sweet wine {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
     language: greek
   - strongs: G3690
-    proximity: 0.8087
+    lemma: ὄξος
+    gloss: vinegar {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

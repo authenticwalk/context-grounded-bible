@@ -6,25 +6,28 @@ pronunciation: reh'-mes
 definition: a reptile or any other rapidly moving animal
 kjv_usage: that creepeth, creeping (moving) thing.
 derivation: from H7430 (רָמַשׂ);
-extended_definition:
-  gloss: creeping
-  definition: 1) creeping things, moving things, creeping organism<br>1a) creeping
-    things<br>1b) gliding things (of sea animals)<br>1c) moving things (of all animals)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) creeping things, moving things, creeping organism
+
+  1a) creeping things
+
+  1b) gliding things (of sea animals)
+
+  1c) moving things (of all animals) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2123
-    proximity: 0.7526
+    lemma: זִיז
+    gloss: fulness of the breast {openscriptures-strongs}
+    proximity: 0.7526 {macula-proximity}
   cross_language:
   - strongs: G2226
-    proximity: 0.7752
+    lemma: ζῶον
+    gloss: a live thing {openscriptures-strongs}
+    proximity: 0.7752 {macula-proximity}
     language: greek
   - strongs: G1724
-    proximity: 0.7225
+    lemma: ἐνάλιος
+    gloss: in the sea {openscriptures-strongs}
+    proximity: 0.7225 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

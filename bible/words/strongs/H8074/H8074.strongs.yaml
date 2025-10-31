@@ -9,57 +9,100 @@ kjv_usage: make amazed, be astonied, (be an) astonish(-ment), (be, bring into, u
   lay, lie, make) desolate(-ion, places), be destitute, destroy (self), (lay, lie,
   make) waste, wonder.
 derivation: a primitive root;
-extended_definition:
-  gloss: 'be desolate: appalled'
-  definition: ': appalled<br>1) to be desolate, be appalled, stun, stupefy<br>1a)
-    (Qal)<br>1a1) to be desolated, be deflowered, be deserted, be appalled<br>1a2)
-    to be appalled, be awestruck<br>1b) (Niphal)<br>1b1) to be desolated, be made
-    desolate<br>1b2) to be appalled<br>1c) (Polel)<br>1c1) to be stunned<br>1c2) appalling,
-    causing horror (participle)<br>1c2a) horror-causer, appaller (subst)<br>1d) (Hiphil)<br>1d1)
-    to devastate, ravage, make desolated<br>1d2) to appal, show horror<br>1e) (Hophal)
-    to lay desolate, be desolated<br>1f) (Hithpolel)<br>1f1) to cause to be desolate<br>1f2)
-    to be appalled, be astounded<br>1f3) to cause oneself desolation, cause oneself
-    ruin'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': appalled
+
+  1) to be desolate, be appalled, stun, stupefy
+
+  1a) (Qal)
+
+  1a1) to be desolated, be deflowered, be deserted, be appalled
+
+  1a2) to be appalled, be awestruck
+
+  1b) (Niphal)
+
+  1b1) to be desolated, be made desolate
+
+  1b2) to be appalled
+
+  1c) (Polel)
+
+  1c1) to be stunned
+
+  1c2) appalling, causing horror (participle)
+
+  1c2a) horror-causer, appaller (subst)
+
+  1d) (Hiphil)
+
+  1d1) to devastate, ravage, make desolated
+
+  1d2) to appal, show horror
+
+  1e) (Hophal) to lay desolate, be desolated
+
+  1f) (Hithpolel)
+
+  1f1) to cause to be desolate
+
+  1f2) to be appalled, be astounded
+
+  1f3) to cause oneself desolation, cause oneself ruin {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8178
-    proximity: 0.8298
+    lemma: שַׂעַר
+    gloss: a tempest {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: H2040
-    proximity: 0.8178
+    lemma: הָרַס
+    gloss: to pull down or in pieces {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   - strongs: H12
-    proximity: 0.8102
+    proximity: 0.8102 {macula-proximity}
   - strongs: H8414
-    proximity: 0.8043
+    lemma: תֹּהוּ
+    gloss: a desolation {openscriptures-strongs}
+    proximity: 0.8043 {macula-proximity}
   - strongs: H5800
-    proximity: 0.8042
+    lemma: עָזַב
+    gloss: to loosen {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: H1238
-    proximity: 0.804
+    lemma: בָּקַק
+    gloss: to pour out {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   - strongs: A2255
-    proximity: 0.8038
+    proximity: 0.8038 {macula-proximity}
   - strongs: H5422
-    proximity: 0.8037
+    lemma: נָתַץ
+    gloss: to tear down {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
   - strongs: H1509
-    proximity: 0.8031
+    lemma: גְּזֵרָה
+    gloss: a desert {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
   cross_language:
   - strongs: G2704
-    proximity: 0.8232
+    lemma: καταφθείρω
+    gloss: to spoil entirely {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
     language: greek
   - strongs: G2284
-    proximity: 0.8226
+    lemma: θαμβέω
+    gloss: to stupefy {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
     language: greek
   - strongs: G2048
-    proximity: 0.8134
+    lemma: ἔρημος
+    proximity: 0.8134 {macula-proximity}
     language: greek
   - strongs: G2296a
-    proximity: 0.8062
+    proximity: 0.8062 {macula-proximity}
     language: greek
   - strongs: G1839
-    proximity: 0.8024
+    lemma: ἐξίστημι
+    gloss: to put  out of wits {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

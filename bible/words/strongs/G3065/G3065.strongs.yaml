@@ -5,30 +5,29 @@ transliteration: Loukâs
 definition: Lucas, a Christian
 kjv_usage: Lucas, Luke
 derivation: contracted from Latin Lucanus;
-extended_definition:
-  gloss: Luke
-  definition: '<b>Λουκᾶς</b>, -ᾶ, ὁ<BR /> (prob. an abbreviation of Λουκανός; see
-    Lft., Col., 240; <i>ICC</i>, Lk., xviii; Bl., § 29; accusative to Ramsay, <i>Exp.</i>,
-    Dec., 1912, pp. 502 ff., a by-form of Λούκιος, from Lat. Lucius), <BR /><b>Luke</b>:
-    Lk, tit., <ref=''Col.4.14''>Col.4:14</ref>, <ref=''2Ti.4.11''>2Ti.4:11</ref>,
-    Phm 24.†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Λουκᾶς</b>, -ᾶ, ὁ<BR /> (prob. an abbreviation of Λουκανός;
-    see Lft., Col., 240; <i>ICC</i>, Lk., xviii; Bl., § 29; accusative to Ramsay,
-    <i>Exp.</i>, Dec., 1912, pp. 502 ff., a by-form of Λούκιος, from Lat. Lucius),
-    <BR /><b>Luke</b>: Lk, tit., <ref=''Col.4.14''>Col.4:14</ref>, <ref=''2Ti.4.11''>2Ti.4:11</ref>,
-    Phm 24.†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Λουκᾶς, -ᾶ, ὁ
+
+  (prob. an abbreviation of Λουκανός; see Lft., Col., 240; ICC, Lk., xviii; Bl., §
+  29; accusative to Ramsay, Exp., Dec., 1912, pp. 502 ff., a by-form of Λούκιος, from
+  Lat. Lucius),
+
+  Luke: Lk, tit., Col.4:14, 2Ti.4:11, Phm 24.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Λουκᾶς, -ᾶ, ὁ
+
+  (prob. an abbreviation of Λουκανός; see Lft., Col., 240; ICC, Lk., xviii; Bl., §
+  29; accusative to Ramsay, Exp., Dec., 1912, pp. 502 ff., a by-form of Λούκιος, from
+  Lat. Lucius),
+
+  Luke: Lk, tit., Col.4:14, 2Ti.4:11, Phm 24.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H3695
-    proximity: 0.8122
+    lemma: כַּסְלֻחִים
+    gloss: Casluchim {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

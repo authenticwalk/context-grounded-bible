@@ -6,39 +6,47 @@ pronunciation: paw-leel'
 definition: a magistrate
 kjv_usage: judge.
 derivation: from H6419 (פָּלַל);
-extended_definition:
-  gloss: judge
-  definition: judge, assessment, estimate
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: judge, assessment, estimate {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6415
-    proximity: 0.8187
+    lemma: פְּלִילָה
+    gloss: justice {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
   - strongs: H1779
-    proximity: 0.7893
+    lemma: דִּין
+    gloss: judgement (the suit {openscriptures-strongs}
+    proximity: 0.7893 {macula-proximity}
   - strongs: A1884
-    proximity: 0.7702
+    proximity: 0.7702 {macula-proximity}
   - strongs: H4941
-    proximity: 0.7421
+    lemma: מִשְׁפָּט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7421 {macula-proximity}
   cross_language:
   - strongs: G2816
-    proximity: 0.8296
+    lemma: κληρονομέω
+    gloss: to be an heir to {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G1843
-    proximity: 0.8268
+    lemma: ἐξομολογέω
+    gloss: to acknowledge or (by implication {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: greek
   - strongs: G5267
-    proximity: 0.8236
+    lemma: ὑπόδικος
+    gloss: under sentence {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
     language: greek
   - strongs: G5098
-    proximity: 0.8119
+    lemma: τιμωρία
+    gloss: vindication {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
     language: greek
   - strongs: G2851
-    proximity: 0.7792
+    lemma: κόλασις
+    gloss: penal infliction {openscriptures-strongs}
+    proximity: 0.7792 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

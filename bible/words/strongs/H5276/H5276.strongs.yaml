@@ -6,45 +6,54 @@ pronunciation: naw-ame'
 definition: to be agreeable (literally or figuratively)
 kjv_usage: pass in beauty, be delight, be pleasant, be sweet.
 derivation: a primitive root;
-extended_definition:
-  gloss: be pleasant
-  definition: (Qal) to be pleasant, be beautiful, be sweet, be delightful, be lovely
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to be pleasant, be beautiful, be sweet, be delightful,
+  be lovely {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H158
-    proximity: 0.8288
+    proximity: 0.8288 {macula-proximity}
   - strongs: H157
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
   - strongs: H3190
-    proximity: 0.8269
+    lemma: יָטַב
+    gloss: to be  make well {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: H2532
-    proximity: 0.8214
+    lemma: חֶמְדָּה
+    gloss: delight {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H8057
-    proximity: 0.8177
+    lemma: שִׂמְחָה
+    gloss: blithesomeness or glee {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
   - strongs: H871a
-    proximity: 0.8146
+    proximity: 0.8146 {macula-proximity}
   - strongs: H3039
-    proximity: 0.8114
+    lemma: יְדִיד
+    gloss: loved {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
   - strongs: H1523
-    proximity: 0.8069
+    lemma: גִּיל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8069 {macula-proximity}
   - strongs: H2302a
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
   - strongs: H8231
-    proximity: 0.8015
+    lemma: שָׁפַר
+    gloss: to glisten {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
   cross_language:
   - strongs: G5479
-    proximity: 0.8284
+    lemma: χαρά
+    gloss: cheerfulness {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: greek
   - strongs: G20
-    proximity: 0.8071
+    proximity: 0.8071 {macula-proximity}
     language: greek
   - strongs: G2102
-    proximity: 0.7995
+    lemma: εὐαρέστως
+    gloss: quite agreeably {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

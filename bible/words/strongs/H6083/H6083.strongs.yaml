@@ -6,43 +6,56 @@ pronunciation: aw-fawr'
 definition: dust (as powdered or gray); hence, clay, earth, mud
 kjv_usage: ashes, dust, earth, ground, morter, powder, rubbish.
 derivation: from H6080 (עָפַר);
-extended_definition:
-  gloss: dust
-  definition: 1) dry earth, dust, powder, ashes, earth, ground, mortar, rubbish<br>1a)
-    dry or loose earth<br>1b) debris<br>1c) mortar<br>1d) ore
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) dry earth, dust, powder, ashes, earth, ground, mortar, rubbish
+
+  1a) dry or loose earth
+
+  1b) debris
+
+  1c) mortar
+
+  1d) ore {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A772
-    proximity: 0.823
+    proximity: 0.823 {macula-proximity}
   - strongs: H4247
-    proximity: 0.8192
+    lemma: מְחִלָּה
+    gloss: a cavern {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: H8398
-    proximity: 0.8047
+    lemma: תֵּבֵל
+    gloss: the earth {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
   - strongs: H6080
-    proximity: 0.7985
+    lemma: עָפַר
+    gloss: to be dust {openscriptures-strongs}
+    proximity: 0.7985 {macula-proximity}
   - strongs: H7834
-    proximity: 0.7941
+    lemma: שַׁחַק
+    gloss: a powder {openscriptures-strongs}
+    proximity: 0.7941 {macula-proximity}
   - strongs: A2635
-    proximity: 0.7921
+    proximity: 0.7921 {macula-proximity}
   - strongs: A3007
-    proximity: 0.7893
+    proximity: 0.7893 {macula-proximity}
   - strongs: A2917
-    proximity: 0.7782
+    proximity: 0.7782 {macula-proximity}
   - strongs: H1854
-    proximity: 0.77
+    lemma: דָּקַק
+    gloss: to crush  crumble {openscriptures-strongs}
+    proximity: 0.77 {macula-proximity}
   - strongs: H7263
-    proximity: 0.7573
+    lemma: רֶגֶב
+    gloss: a lump of clay {openscriptures-strongs}
+    proximity: 0.7573 {macula-proximity}
   cross_language:
   - strongs: G285
-    proximity: 0.7614
+    proximity: 0.7614 {macula-proximity}
     language: greek
   - strongs: G1475
-    proximity: 0.7221
+    lemma: ἔδαφος
+    gloss: a basis {openscriptures-strongs}
+    proximity: 0.7221 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

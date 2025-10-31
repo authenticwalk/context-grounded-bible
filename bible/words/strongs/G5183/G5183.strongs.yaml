@@ -5,34 +5,28 @@ transliteration: Týrios
 definition: a Tyrian, i.e. inhabitant of Tyrus
 kjv_usage: of Tyre
 derivation: from G5184 (Τύρος);
-extended_definition:
-  gloss: Tyre
-  definition: <b>of Tyre, Tyrian </b>, (Herdotus Historicus), etc. (ML)
-  morphology: N:N--LG
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b>of Tyre, Tyrian </b>, [<a href="javascript:void(0)" title="Herdotus
-    Historicus">Refs 5th c.BC</a>], etc.  (Middle Liddel)
-  source: STEPBible/LSJ
+extended_definition: of Tyre, Tyrian , (Herdotus Historicus), etc. (ML) {STEPBible-TBESG}
+etymology: of Tyre, Tyrian , [Refs 5th c.BC], etc.  (Middle Liddel) {STEPBible-TFLSJ}
 related_words:
   synonyms:
   - strongs: G2992
-    proximity: 0.7989
+    lemma: λαός
+    gloss: a people (in general {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
   - strongs: A5972
-    proximity: 0.7462
+    proximity: 0.7462 {macula-proximity}
   cross_language:
   - strongs: H5971
-    proximity: 0.8083
+    lemma: עַם
+    gloss: a people {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
     language: hebrew
   - strongs: H4413
-    proximity: 0.7977
+    lemma: מַלּוֹתִי
+    gloss: Mallothi {openscriptures-strongs}
+    proximity: 0.7977 {macula-proximity}
     language: hebrew
   - strongs: H5971a
-    proximity: 0.7836
+    proximity: 0.7836 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,31 +7,35 @@ definition: a poisonous plant, probably the poppy (from its conspicuous head); g
   poison (even of serpents)
 kjv_usage: gall, hemlock, poison, venom.
 derivation: or רוֹשׁ; (Deuteronomy 32:32), apparently the same as H7218 (רֹאשׁ);
-extended_definition:
-  gloss: poison
-  definition: gall, venom, bitter, poisonous
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: gall, venom, bitter, poisonous {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4470
-    proximity: 0.8121
+    lemma: מֶמֶר
+    gloss: sorrow {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H3939
-    proximity: 0.8117
+    lemma: לַעֲנָה
+    gloss: wormwood (regarded as poisonous {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
   - strongs: H4751
-    proximity: 0.7854
+    lemma: מַר
+    gloss: bitter {openscriptures-strongs}
+    proximity: 0.7854 {macula-proximity}
   - strongs: H4845
-    proximity: 0.7816
+    lemma: מְרֵרָה
+    gloss: bile {openscriptures-strongs}
+    proximity: 0.7816 {macula-proximity}
   - strongs: H6567a
-    proximity: 0.775
+    proximity: 0.775 {macula-proximity}
   - strongs: H4787
-    proximity: 0.7128
+    lemma: מׇרָּה
+    gloss: trouble {openscriptures-strongs}
+    proximity: 0.7128 {macula-proximity}
   cross_language:
   - strongs: G4089
-    proximity: 0.7966
+    lemma: πικρός
+    gloss: sharp {openscriptures-strongs}
+    proximity: 0.7966 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

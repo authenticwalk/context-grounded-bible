@@ -6,47 +6,59 @@ pronunciation: saw-aw'
 definition: to rush
 kjv_usage: storm.
 derivation: a primitive root;
-extended_definition:
-  gloss: to rush
-  definition: (Qal) to rush (of storm wind)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to rush (of storm wind) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1534a
-    proximity: 0.8213
+    proximity: 0.8213 {macula-proximity}
   - strongs: H1653
-    proximity: 0.811
+    lemma: גֶּשֶׁם
+    gloss: a shower {openscriptures-strongs}
+    proximity: 0.811 {macula-proximity}
   - strongs: H5502
-    proximity: 0.81
+    lemma: סָחַף
+    gloss: to scrape off {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
   - strongs: H1999
-    proximity: 0.8043
+    lemma: הֲמֻלָּה
+    gloss: a sound {openscriptures-strongs}
+    proximity: 0.8043 {macula-proximity}
   - strongs: H5311
-    proximity: 0.8014
+    lemma: נֶפֶץ
+    gloss: a storm {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
   - strongs: H2121
-    proximity: 0.7861
+    lemma: זֵידוֹן
+    gloss: boiling of water {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
   - strongs: H7722a
-    proximity: 0.7787
+    proximity: 0.7787 {macula-proximity}
   - strongs: H4306
-    proximity: 0.7224
+    lemma: מָטַר
+    gloss: rain {openscriptures-strongs}
+    proximity: 0.7224 {macula-proximity}
   cross_language:
   - strongs: G3655
-    proximity: 0.8087
+    lemma: ὄμβρος
+    gloss: a thunder storm {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
     language: greek
   - strongs: G5492
-    proximity: 0.7924
+    lemma: χειμάζω
+    gloss: to storm {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
     language: greek
   - strongs: G4642
-    proximity: 0.7902
+    lemma: σκληρός
+    gloss: dry {openscriptures-strongs}
+    proximity: 0.7902 {macula-proximity}
     language: greek
   - strongs: G4157
-    proximity: 0.7607
+    lemma: πνοή
+    gloss: respiration {openscriptures-strongs}
+    proximity: 0.7607 {macula-proximity}
     language: greek
   - strongs: G972
-    proximity: 0.7258
+    proximity: 0.7258 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

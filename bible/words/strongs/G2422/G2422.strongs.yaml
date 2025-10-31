@@ -5,33 +5,34 @@ transliteration: Iephtháe
 definition: Jephthaë (i.e. Jiphtach), an Israelite
 kjv_usage: Jephthah
 derivation: of Hebrew origin (H03316);
-extended_definition:
-  gloss: Jephthah
-  definition: '<b>Ἰεφθάε</b> (FlJ, -θάς, -οῦ), ὁ (Heb. יִפְתָּח), <BR /> <b>Jephthah</b>:
-    <ref=''Heb.11.32.''>Heb.11:32.</ref>†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἰεφθάε</b> (FlJ, -θάς, -οῦ), ὁ (Heb. יִפְתָּח), <BR /> <b>Jephthah</b>:
-    <ref=''Heb.11.32.''>Heb.11:32.</ref>†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἰεφθάε (FlJ, -θάς, -οῦ), ὁ (Heb. יִפְתָּח),
+
+  Jephthah: Heb.11:32.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἰεφθάε (FlJ, -θάς, -οῦ), ὁ (Heb. יִפְתָּח),
+
+  Jephthah: Heb.11:32.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H4992
-    proximity: 0.8169
+    lemma: מַתַּתָּה
+    gloss: Mattattah {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
     language: hebrew
   - strongs: H2055
-    proximity: 0.7993
+    lemma: וַיְזָתָא
+    gloss: Vajezatha {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
     language: hebrew
   - strongs: H5454
-    proximity: 0.7946
+    lemma: סַבְתָּא
+    gloss: Sabta or Sabtah {openscriptures-strongs}
+    proximity: 0.7946 {macula-proximity}
     language: hebrew
   - strongs: H3316a
-    proximity: 0.7764
+    proximity: 0.7764 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

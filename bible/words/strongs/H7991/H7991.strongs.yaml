@@ -14,24 +14,35 @@ derivation: or שָׁלוֹשׁ; (1 Chronicles 11:11; 1 Chronicles 12:18), or ש
 related_words:
   synonyms:
   - strongs: A1169
-    proximity: 0.8227
+    proximity: 0.8227 {macula-proximity}
   - strongs: A7984
-    proximity: 0.8116
+    proximity: 0.8116 {macula-proximity}
   - strongs: H2876
-    proximity: 0.7989
+    lemma: טַבָּח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
   - strongs: H6546
-    proximity: 0.7903
+    lemma: פַּרְעָה
+    gloss: leadership (plural concretely {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
   - strongs: H5057
-    proximity: 0.7783
+    lemma: נָגִיד
+    gloss: a commander {openscriptures-strongs}
+    proximity: 0.7783 {macula-proximity}
   - strongs: H6496
-    proximity: 0.7645
+    lemma: פָּקִיד
+    gloss: a superintendent (civil {openscriptures-strongs}
+    proximity: 0.7645 {macula-proximity}
   - strongs: H7969
-    proximity: 0.756
+    lemma: שָׁלוֹשׁ
+    gloss: three {openscriptures-strongs}
+    proximity: 0.756 {macula-proximity}
   - strongs: H5461
-    proximity: 0.745
+    lemma: סָגָן
+    gloss: a prefect of a province {openscriptures-strongs}
+    proximity: 0.745 {macula-proximity}
   - strongs: H8269
-    proximity: 0.728
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: שַׂר
+    gloss: a head person {openscriptures-strongs}
+    proximity: 0.728 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

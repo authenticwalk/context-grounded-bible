@@ -6,45 +6,53 @@ pronunciation: awr
 definition: a foe (as watchful for mischief)
 kjv_usage: enemy.
 derivation: from H5782 (עוּר);
-extended_definition:
-  gloss: enemy
-  definition: 'enemy, adversary, foe<BR>Aramaic equivalent: <i>ar</i> (עָר "foe" H6146)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'enemy, adversary, foe
+
+  Aramaic equivalent: ar (עָר "foe" H6146) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A2248
-    proximity: 0.8252
+    proximity: 0.8252 {macula-proximity}
   - strongs: H6862
-    proximity: 0.8164
+    lemma: צַר
+    gloss: narrow {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
   - strongs: H6965
-    proximity: 0.8026
+    lemma: קוּם
+    gloss: to rise (in various applications {openscriptures-strongs}
+    proximity: 0.8026 {macula-proximity}
   - strongs: H3401
-    proximity: 0.7889
+    lemma: יָרִיב
+    gloss: literally he will contend {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
   - strongs: H2114b
-    proximity: 0.767
+    proximity: 0.767 {macula-proximity}
   - strongs: H7853
-    proximity: 0.7456
+    lemma: שָׂטַן
+    gloss: to attack {openscriptures-strongs}
+    proximity: 0.7456 {macula-proximity}
   - strongs: H4895
-    proximity: 0.742
+    lemma: מַשְׂטֵמָה
+    gloss: enmity {openscriptures-strongs}
+    proximity: 0.742 {macula-proximity}
   - strongs: H8130
-    proximity: 0.739
+    lemma: שָׂנֵא
+    gloss: to hate {openscriptures-strongs}
+    proximity: 0.739 {macula-proximity}
   - strongs: A8131
-    proximity: 0.7285
+    proximity: 0.7285 {macula-proximity}
   - strongs: H6696a
-    proximity: 0.712
+    proximity: 0.712 {macula-proximity}
   cross_language:
   - strongs: G2557
-    proximity: 0.8121
+    lemma: κακοῦργος
+    gloss: a wrong-doer {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
     language: greek
   - strongs: G161
-    proximity: 0.7933
+    proximity: 0.7933 {macula-proximity}
     language: greek
   - strongs: G444
-    proximity: 0.7919
+    proximity: 0.7919 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

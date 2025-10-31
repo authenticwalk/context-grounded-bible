@@ -6,39 +6,43 @@ pronunciation: yaw-kats'
 definition: to awake (intransitive)
 kjv_usage: (be) awake(-d).
 derivation: a primitive root;
-extended_definition:
-  gloss: to awake
-  definition: (Qal) to awake, awaken, become active
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to awake, awaken, become active {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7925
-    proximity: 0.823
+    lemma: שָׁכַם
+    gloss: literally {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: A6966
-    proximity: 0.7828
+    proximity: 0.7828 {macula-proximity}
   - strongs: H6965
-    proximity: 0.7518
+    lemma: קוּם
+    gloss: to rise (in various applications {openscriptures-strongs}
+    proximity: 0.7518 {macula-proximity}
   - strongs: H7442a
-    proximity: 0.7314
+    proximity: 0.7314 {macula-proximity}
   cross_language:
   - strongs: G1817
-    proximity: 0.83
+    lemma: ἐξανίστημι
+    gloss: objectively {openscriptures-strongs}
+    proximity: 0.83 {macula-proximity}
     language: greek
   - strongs: G4092
-    proximity: 0.8282
+    lemma: πίμπρημι
+    gloss: to fire {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: greek
   - strongs: G339
-    proximity: 0.8152
+    proximity: 0.8152 {macula-proximity}
     language: greek
   - strongs: G1825
-    proximity: 0.8007
+    lemma: ἐξεγείρω
+    gloss: to rouse fully {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
     language: greek
   - strongs: G4911
-    proximity: 0.7896
+    lemma: συνεφίστημι
+    gloss: to stand up together {openscriptures-strongs}
+    proximity: 0.7896 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

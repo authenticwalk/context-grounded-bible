@@ -6,48 +6,56 @@ pronunciation: dah-yawn'
 definition: a judge or advocate
 kjv_usage: judge.
 derivation: from H1777 (דִּין);
-extended_definition:
-  gloss: judge
-  definition: 'a judge<BR>Aramaic equivalent: <i>day.yan</i> (דַּיָּן "judge" H1782)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'a judge
+
+  Aramaic equivalent: day.yan (דַּיָּן "judge" H1782) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A8614
-    proximity: 0.8232
+    proximity: 0.8232 {macula-proximity}
   - strongs: H5643a
-    proximity: 0.8187
+    proximity: 0.8187 {macula-proximity}
   - strongs: A1778
-    proximity: 0.816
+    proximity: 0.816 {macula-proximity}
   - strongs: H2742d
-    proximity: 0.8097
+    proximity: 0.8097 {macula-proximity}
   - strongs: H8196
-    proximity: 0.8077
+    lemma: שְׁפוֹט
+    gloss: a judicial sentence {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
   - strongs: H4697
-    proximity: 0.8037
+    lemma: מִצְחָה
+    gloss: a shinpiece of armor {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
   - strongs: H4941
-    proximity: 0.8003
+    lemma: מִשְׁפָּט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8003 {macula-proximity}
   - strongs: H6417
-    proximity: 0.7771
+    lemma: פְּלִילִיָּה
+    gloss: judicature {openscriptures-strongs}
+    proximity: 0.7771 {macula-proximity}
   - strongs: A1780
-    proximity: 0.7654
+    proximity: 0.7654 {macula-proximity}
   - strongs: A1884
-    proximity: 0.7568
+    proximity: 0.7568 {macula-proximity}
   cross_language:
   - strongs: G4933
-    proximity: 0.789
+    lemma: συντηρέω
+    gloss: to keep closely together {openscriptures-strongs}
+    proximity: 0.789 {macula-proximity}
     language: greek
   - strongs: G1233
-    proximity: 0.7878
+    lemma: διάγνωσις
+    gloss: examination {openscriptures-strongs}
+    proximity: 0.7878 {macula-proximity}
     language: greek
   - strongs: G350
-    proximity: 0.7619
+    proximity: 0.7619 {macula-proximity}
     language: greek
   - strongs: G1557
-    proximity: 0.7463
+    lemma: ἐκδίκησις
+    gloss: vindication {openscriptures-strongs}
+    proximity: 0.7463 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

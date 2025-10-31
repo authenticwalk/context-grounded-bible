@@ -7,53 +7,75 @@ definition: to build (literally and figuratively)
 kjv_usage: (begin to) build(-er), obtain children, make, repair, set (up), [idiom]
   surely.
 derivation: a primitive root;
-extended_definition:
-  gloss: to build
-  definition: '1) to build, rebuild, establish, cause to continue<br>1a) (Qal)<br>1a1)
-    to build, rebuild<br>1a2) to build a house (ie, establish a family)<br>1b) (Niphal)<br>1b1)
-    to be built<br>1b2) to be rebuilt<br>1b3) established (of restored exiles) (fig.)<br>1b4)
-    established (made permanent)<br>1b5) to be built up (of childless wife becoming
-    the mother of a family through the children of a concubine)<BR>Aramaic equivalent:
-    <i>be.nah</i> (בְּנָה "to build" H1124)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to build, rebuild, establish, cause to continue
+
+  1a) (Qal)
+
+  1a1) to build, rebuild
+
+  1a2) to build a house (ie, establish a family)
+
+  1b) (Niphal)
+
+  1b1) to be built
+
+  1b2) to be rebuilt
+
+  1b3) established (of restored exiles) (fig.)
+
+  1b4) established (made permanent)
+
+  1b5) to be built up (of childless wife becoming the mother of a family through the
+  children of a concubine)
+
+  Aramaic equivalent: be.nah (בְּנָה "to build" H1124) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H918
-    proximity: 0.8262
+    proximity: 0.8262 {macula-proximity}
   - strongs: A846
-    proximity: 0.8261
+    proximity: 0.8261 {macula-proximity}
   - strongs: H7760
-    proximity: 0.8125
+    lemma: שׂוּם
+    gloss: to put (used in a great variety of applications {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: H3335
-    proximity: 0.8115
+    lemma: יָצַר
+    gloss: to mould into a form {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
   - strongs: H525
-    proximity: 0.81
+    proximity: 0.81 {macula-proximity}
   - strongs: H2056
-    proximity: 0.8078
+    lemma: וָלָד
+    gloss: a boy {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   - strongs: H5549
-    proximity: 0.8037
+    lemma: סָלַל
+    gloss: to mound up {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
   - strongs: H5324
-    proximity: 0.7974
+    lemma: נָצַב
+    gloss: to station {openscriptures-strongs}
+    proximity: 0.7974 {macula-proximity}
   - strongs: H2388
-    proximity: 0.793
+    lemma: חָזַק
+    gloss: to fasten upon {openscriptures-strongs}
+    proximity: 0.793 {macula-proximity}
   - strongs: A8627
-    proximity: 0.7731
+    proximity: 0.7731 {macula-proximity}
   cross_language:
   - strongs: G605
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G4078
-    proximity: 0.8238
+    lemma: πήγνυμι
+    gloss: to fix {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
     language: greek
   - strongs: G753
-    proximity: 0.8172
+    proximity: 0.8172 {macula-proximity}
     language: greek
   - strongs: G461
-    proximity: 0.7609
+    proximity: 0.7609 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

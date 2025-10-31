@@ -6,31 +6,35 @@ pronunciation: keh'-tel
 definition: a violent death
 kjv_usage: slaughter.
 derivation: from H6991 (קָטַל);
-extended_definition:
-  gloss: slaughter
-  definition: slaughter
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: slaughter {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5307
-    proximity: 0.8298
+    lemma: נָפַל
+    gloss: to fall {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: H7843
-    proximity: 0.8242
+    lemma: שָׁחַת
+    gloss: to decay {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H2717a
-    proximity: 0.8118
+    proximity: 0.8118 {macula-proximity}
   - strongs: H5221
-    proximity: 0.77
+    lemma: נָכָה
+    gloss: to strike (lightly or severely {openscriptures-strongs}
+    proximity: 0.77 {macula-proximity}
   - strongs: H4347
-    proximity: 0.7301
+    lemma: מַכָּה
+    gloss: a wound {openscriptures-strongs}
+    proximity: 0.7301 {macula-proximity}
   - strongs: H7819
-    proximity: 0.7143
+    lemma: שָׁחַט
+    gloss: to slaughter {openscriptures-strongs}
+    proximity: 0.7143 {macula-proximity}
   cross_language:
   - strongs: G2380
-    proximity: 0.8038
+    lemma: θύω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

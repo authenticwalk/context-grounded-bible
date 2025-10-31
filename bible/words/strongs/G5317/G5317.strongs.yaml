@@ -5,42 +5,49 @@ transliteration: Phálek
 definition: Phalek (i.e. Peleg), a patriarch
 kjv_usage: Phalec
 derivation: of Hebrew origin (H06389);
-extended_definition:
-  gloss: Peleg
-  definition: '<b>Φάλεκ</b> (T, Rec. Φαλέκ, L, mg., Φάλεγ), ὁ indecl. (Heb. D, Ge
-    1116), <BR /> <b>Peleg</b>: <ref=''Luk.3.35.''>Luk.3:35.</ref>†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Φάλεκ</b> (T, Rec. Φαλέκ, L, mg., Φάλεγ), ὁ indecl. (Heb. D,
-    Ge 1116), <BR /> <b>Peleg</b>: <ref=''Luk.3.35.''>Luk.3:35.</ref>†<BR />  (From
-    Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Φάλεκ (T, Rec. Φαλέκ, L, mg., Φάλεγ), ὁ indecl. (Heb. D, Ge
+  1116),
+
+  Peleg: Luk.3:35.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Φάλεκ (T, Rec. Φαλέκ, L, mg., Φάλεγ), ὁ indecl. (Heb. D, Ge 1116),
+
+  Peleg: Luk.3:35.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5329
-    proximity: 0.7399
+    lemma: Φάρες
+    gloss: Phares {openscriptures-strongs}
+    proximity: 0.7399 {macula-proximity}
   - strongs: G4558
-    proximity: 0.7278
+    lemma: Σάρεπτα
+    gloss: Sarepta {openscriptures-strongs}
+    proximity: 0.7278 {macula-proximity}
   cross_language:
   - strongs: H3613
-    proximity: 0.8182
+    lemma: כָּלֵב אֶפְרָתָה
+    gloss: Caleb-Ephrathah {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: hebrew
   - strongs: H7509
-    proximity: 0.7994
+    lemma: רְפָיָה
+    gloss: Rephajah {openscriptures-strongs}
+    proximity: 0.7994 {macula-proximity}
     language: hebrew
   - strongs: H465
-    proximity: 0.7899
+    proximity: 0.7899 {macula-proximity}
     language: hebrew
   - strongs: H7501
-    proximity: 0.7821
+    lemma: רְפָאֵל
+    gloss: Rephael {openscriptures-strongs}
+    proximity: 0.7821 {macula-proximity}
     language: hebrew
   - strongs: H6886
-    proximity: 0.7819
+    lemma: צָרְפַת
+    gloss: Tsarephath {openscriptures-strongs}
+    proximity: 0.7819 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

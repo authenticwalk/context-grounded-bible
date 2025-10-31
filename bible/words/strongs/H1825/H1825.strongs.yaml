@@ -6,30 +6,34 @@ pronunciation: dim-yone'
 definition: resemblance
 kjv_usage: '[idiom] like.'
 derivation: from H1819 (דָּמָה);
-extended_definition:
-  gloss: likeness
-  definition: likeness
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: likeness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8403
-    proximity: 0.8181
+    lemma: תַּבְנִית
+    gloss: structure {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
   - strongs: H5566
-    proximity: 0.7962
+    lemma: סֶמֶל
+    gloss: a likeness {openscriptures-strongs}
+    proximity: 0.7962 {macula-proximity}
   - strongs: H6087
-    proximity: 0.7237
+    lemma: עָצַב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7237 {macula-proximity}
   - strongs: H4758
-    proximity: 0.7185
+    lemma: מַרְאֶה
+    gloss: a view {openscriptures-strongs}
+    proximity: 0.7185 {macula-proximity}
   cross_language:
   - strongs: G3665
-    proximity: 0.8056
+    lemma: ὁμοιότης
+    gloss: resemblance {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
     language: greek
   - strongs: G4832
-    proximity: 0.7898
+    lemma: σύμμορφος
+    gloss: jointly formed {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,31 +6,36 @@ pronunciation: maw-ak'
 definition: to press, i.e. to pierce, emasculate, handle
 kjv_usage: bruised, stuck, be pressed.
 derivation: a primitive root;
-extended_definition:
-  gloss: to bruise
-  definition: 1) to press, squeeze<br>1a) (Qal) to be crushed<br>1b) (Pual) to be
-    handled, be pressed
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to press, squeeze
+
+  1a) (Qal) to be crushed
+
+  1b) (Pual) to be handled, be pressed {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A2257
-    proximity: 0.7851
+    proximity: 0.7851 {macula-proximity}
   - strongs: H6481
-    proximity: 0.7738
+    lemma: פָּצַע
+    gloss: to split {openscriptures-strongs}
+    proximity: 0.7738 {macula-proximity}
   - strongs: H2263
-    proximity: 0.7651
+    lemma: חָבַק
+    gloss: to clasp {openscriptures-strongs}
+    proximity: 0.7651 {macula-proximity}
   - strongs: H6482
-    proximity: 0.7643
+    lemma: פֶּצַע
+    gloss: a wound {openscriptures-strongs}
+    proximity: 0.7643 {macula-proximity}
   cross_language:
   - strongs: G5196
-    proximity: 0.8151
+    lemma: ὕβρις
+    gloss: insolence {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
     language: greek
   - strongs: G4918
-    proximity: 0.7427
+    lemma: συνθλίβω
+    gloss: to compress {openscriptures-strongs}
+    proximity: 0.7427 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

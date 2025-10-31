@@ -9,33 +9,50 @@ derivation: and (feminine) חִילָה; from H2342 (חוּל);
 related_words:
   synonyms:
   - strongs: H6087a
-    proximity: 0.828
+    proximity: 0.828 {macula-proximity}
   - strongs: H5999
-    proximity: 0.8239
+    lemma: עָמָל
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: H6869
-    proximity: 0.8221
+    lemma: צָרָה
+    gloss: tightness (i.e. figuratively {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: A6088
-    proximity: 0.8179
+    proximity: 0.8179 {macula-proximity}
   - strongs: H7879
-    proximity: 0.8108
+    lemma: שִׂיחַ
+    gloss: a contemplation {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
   - strongs: H4843
-    proximity: 0.7932
+    lemma: מָרַר
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
   - strongs: H4815
-    proximity: 0.7929
+    lemma: מְרִירִי
+    gloss: bitter {openscriptures-strongs}
+    proximity: 0.7929 {macula-proximity}
   - strongs: H4751
-    proximity: 0.7868
+    lemma: מַר
+    gloss: bitter {openscriptures-strongs}
+    proximity: 0.7868 {macula-proximity}
   - strongs: H6234
-    proximity: 0.7861
+    lemma: עׇשְׁקָה
+    gloss: anguish {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
   - strongs: H6040
-    proximity: 0.7851
+    lemma: עֳנִי
+    gloss: depression {openscriptures-strongs}
+    proximity: 0.7851 {macula-proximity}
   cross_language:
   - strongs: G3804
-    proximity: 0.7992
+    lemma: πάθημα
+    gloss: something undergone {openscriptures-strongs}
+    proximity: 0.7992 {macula-proximity}
     language: greek
   - strongs: G4036
-    proximity: 0.7775
+    lemma: περίλυπος
+    gloss: grieved all around {openscriptures-strongs}
+    proximity: 0.7775 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

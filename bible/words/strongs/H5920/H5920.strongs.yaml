@@ -7,48 +7,66 @@ definition: properly, the top; specifically, the highest (i.e. God); also (adver
   aloft, to Jehovah
 kjv_usage: above, high, most High.
 derivation: from H5927 (עָלָה);
-extended_definition:
-  gloss: height
-  definition: subst<br>1) height<br>adv<br>2) above, upwards, on high
-  morphology: H:N-M / H:Adv
-  source: STEPBible/BDB
+extended_definition: 'subst
+
+  1) height
+
+  adv
+
+  2) above, upwards, on high {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H204
-    proximity: 0.8277
+    proximity: 0.8277 {macula-proximity}
   - strongs: H4480
-    proximity: 0.8225
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: A7314
-    proximity: 0.8082
+    proximity: 0.8082 {macula-proximity}
   - strongs: H7311
-    proximity: 0.7968
+    lemma: רוּם
+    gloss: to be high actively {openscriptures-strongs}
+    proximity: 0.7968 {macula-proximity}
   - strongs: H1364
-    proximity: 0.7899
+    lemma: גָּבֹהַּ
+    gloss: elevated {openscriptures-strongs}
+    proximity: 0.7899 {macula-proximity}
   - strongs: H7682
-    proximity: 0.7812
+    lemma: שָׂגַב
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7812 {macula-proximity}
   - strongs: H1363
-    proximity: 0.7771
+    lemma: גֹּבַהּ
+    gloss: elation {openscriptures-strongs}
+    proximity: 0.7771 {macula-proximity}
   - strongs: H136
-    proximity: 0.7767
+    proximity: 0.7767 {macula-proximity}
   - strongs: H8064
-    proximity: 0.7657
+    lemma: שָׁמַיִם
+    gloss: the sky (as aloft {openscriptures-strongs}
+    proximity: 0.7657 {macula-proximity}
   - strongs: H7689
-    proximity: 0.7589
+    lemma: שַׂגִּיא
+    gloss: mighty {openscriptures-strongs}
+    proximity: 0.7589 {macula-proximity}
   cross_language:
   - strongs: G5231
-    proximity: 0.8208
+    lemma: ὑπεράνω
+    gloss: above upward {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G5251
-    proximity: 0.8172
+    lemma: ὑπερυψόω
+    gloss: to elevate above others {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
     language: greek
   - strongs: G507
-    proximity: 0.7794
+    proximity: 0.7794 {macula-proximity}
     language: greek
   - strongs: G5313
-    proximity: 0.7584
+    lemma: ὕψωμα
+    gloss: an elevated place or thing {openscriptures-strongs}
+    proximity: 0.7584 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

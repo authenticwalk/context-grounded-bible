@@ -5,54 +5,62 @@ transliteration: holotelḗs
 definition: complete to the end, i.e. absolutely perfect
 kjv_usage: wholly
 derivation: from G3650 (ὅλος) and G5056 (τέλος);
-extended_definition:
-  gloss: wholly
-  definition: '<b>ὁλοτελής</b>, -ές<BR /> (ὅλος, τίλος), <BR />complete, perfect..
-    <ref=''1Th.5.23.''>1Th.5:23.</ref>†<BR /> <re><i>SYN.</i>: ὁλόκληρος (which see),
-    τέλειος. "As regards meaning, ὁλόκληρος can hardly be distinguished from ὁλοτελής
-    though, in accordance with its derivation, it draws more special attention to
-    the several parts to which the wholeness spoken of extends, no part being wanting
-    or lacking in completeness" (M, <i>Th.</i>, 78) </re> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὁλο-τελής</b>, ές, <br /> <b>quite complete,</b> [<a href="javascript:void(0)"
-    title=" NT.1Thes.5.23, “Placita Philosophorum” 5.21.2, 2nd c.AD: Vettius Valens
-    Astrologus 247.8; ἀνεισφορία “IG” 7.2713.45 (from Acraephia). ">NT+2nd c.AD+</a>]
-    <i>adverb</i> -λῶς, gloss on{ὁλοσχερῶς}, [<a href="javascript:void(0)" title="
-    10th c.AD: Suidas Legal icographus, compare 2nd c.BC(?): Nechepso Astrologus cited
-    in 2nd c.AD: Vettius Valens Astrologus 155.3, “Periplus Maris Rubri [1st c.AD]”
-    30, 2nd c.AD: Aquila LXX.Deu.13.16. ">LXX+2nd c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ὁλοτελής, -ές
+
+  (ὅλος, τίλος),
+
+  complete, perfect.. 1Th.5:23.†
+
+  SYN.: ὁλόκληρος (which see), τέλειος. "As regards meaning, ὁλόκληρος can hardly
+  be distinguished from ὁλοτελής though, in accordance with its derivation, it draws
+  more special attention to the several parts to which the wholeness spoken of extends,
+  no part being wanting or lacking in completeness" (M, Th., 78)  (AS) {STEPBible-TBESG}'
+etymology: 'ὁλο-τελής, ές,
+
+  quite complete, [NT+2nd c.AD+] adverb -λῶς, gloss on{ὁλοσχερῶς}, [LXX+2nd c.BC+]
+  {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5055
-    proximity: 0.8244
+    lemma: τελέω
+    gloss: to end {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: G3654
-    proximity: 0.8142
+    lemma: ὅλως
+    gloss: completely {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: G2675
-    proximity: 0.8097
+    lemma: καταρτίζω
+    gloss: to complete thoroughly {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: G3647
-    proximity: 0.7622
+    lemma: ὁλοκληρία
+    gloss: integrity {openscriptures-strongs}
+    proximity: 0.7622 {macula-proximity}
   cross_language:
   - strongs: H3162
-    proximity: 0.8141
+    lemma: יַחַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
     language: hebrew
   - strongs: H8537
-    proximity: 0.8106
+    lemma: תֹּם
+    gloss: completeness {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: hebrew
   - strongs: H7965
-    proximity: 0.8061
+    lemma: שָׁלוֹם
+    gloss: safe {openscriptures-strongs}
+    proximity: 0.8061 {macula-proximity}
     language: hebrew
   - strongs: H3966
-    proximity: 0.7929
+    lemma: מְאֹד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7929 {macula-proximity}
     language: hebrew
   - strongs: H8538
-    proximity: 0.7848
+    lemma: תֻּמָּה
+    gloss: innocence {openscriptures-strongs}
+    proximity: 0.7848 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

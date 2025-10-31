@@ -10,36 +10,49 @@ derivation: or פֹּרָאה; or פֻּארָה; from H6286 (פָּאַר);
 related_words:
   synonyms:
   - strongs: H7110a
-    proximity: 0.8229
+    proximity: 0.8229 {macula-proximity}
   - strongs: H3242
-    proximity: 0.815
+    lemma: יְנִיקָה
+    gloss: a sucker or sapling {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: H1121
-    proximity: 0.8133
+    lemma: בֵּן
+    gloss: a son {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   - strongs: H7641
-    proximity: 0.81
+    lemma: שִׁבֹּל
+    gloss: a stream {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
   - strongs: H7973b
-    proximity: 0.7944
+    proximity: 0.7944 {macula-proximity}
   - strongs: H2150
-    proximity: 0.7936
+    lemma: זַלְזַל
+    gloss: tremulous {openscriptures-strongs}
+    proximity: 0.7936 {macula-proximity}
   - strongs: H4294
-    proximity: 0.7764
+    lemma: מַטֶּה
+    gloss: a branch {openscriptures-strongs}
+    proximity: 0.7764 {macula-proximity}
   - strongs: H7730
-    proximity: 0.7295
+    lemma: שׂוֹבֶךְ
+    gloss: a thicket {openscriptures-strongs}
+    proximity: 0.7295 {macula-proximity}
   - strongs: H6073
-    proximity: 0.7216
+    lemma: עֳפֶא
+    gloss: a bough {openscriptures-strongs}
+    proximity: 0.7216 {macula-proximity}
   - strongs: H534
-    proximity: 0.717
+    proximity: 0.717 {macula-proximity}
   cross_language:
   - strongs: G65
-    proximity: 0.7947
+    proximity: 0.7947 {macula-proximity}
     language: greek
   - strongs: G5404
-    proximity: 0.7611
+    lemma: φοῖνιξ
+    gloss: a palm-tree {openscriptures-strongs}
+    proximity: 0.7611 {macula-proximity}
     language: greek
   - strongs: G4746a
-    proximity: 0.7325
+    proximity: 0.7325 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

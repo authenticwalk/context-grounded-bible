@@ -7,31 +7,37 @@ definition: to hunch, i.e. be hump-backed
 kjv_usage: stoop.
 derivation: a primitive root; properly, to protrude; used only as denominative from
   H7165 (קֶרֶס) (for alliteration with H7167 (קָרַע)),
-extended_definition:
-  gloss: to stoop
-  definition: (Qal) to bend down, stoop, crouch
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to bend down, stoop, crouch {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5791
-    proximity: 0.827
+    lemma: עָוַת
+    gloss: to wrest {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H8210
-    proximity: 0.8183
+    lemma: שָׁפַךְ
+    gloss: to spill forth (blood {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: H5753
-    proximity: 0.8063
+    lemma: עָוָה
+    gloss: to crook {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
   - strongs: H4658
-    proximity: 0.7904
+    lemma: מַפֶּלֶת
+    gloss: fall {openscriptures-strongs}
+    proximity: 0.7904 {macula-proximity}
   - strongs: H5413
-    proximity: 0.788
+    lemma: נָתַךְ
+    gloss: to flow forth {openscriptures-strongs}
+    proximity: 0.788 {macula-proximity}
   - strongs: H3832
-    proximity: 0.754
+    lemma: לָבַט
+    gloss: to overthrow {openscriptures-strongs}
+    proximity: 0.754 {macula-proximity}
   cross_language:
   - strongs: G1632
-    proximity: 0.8004
+    lemma: ἐκχέω
+    gloss: to pour forth {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

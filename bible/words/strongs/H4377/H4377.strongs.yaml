@@ -6,45 +6,61 @@ pronunciation: meh'-ker
 definition: merchandise; also value
 kjv_usage: pay, price, ware.
 derivation: from H4376 (מָכַר);
-extended_definition:
-  gloss: merchandise
-  definition: merchandise, value, price
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: merchandise, value, price {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1952
-    proximity: 0.8275
+    lemma: הוֹן
+    gloss: wealth {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H7939
-    proximity: 0.8047
+    lemma: שָׂכָר
+    gloss: payment of contract {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
   - strongs: H3366
-    proximity: 0.7916
+    lemma: יְקָר
+    gloss: value {openscriptures-strongs}
+    proximity: 0.7916 {macula-proximity}
   - strongs: H4360
-    proximity: 0.7903
+    lemma: מִכְלֻל
+    gloss: something perfect {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
   - strongs: H5504
-    proximity: 0.7796
+    lemma: סַחַר
+    gloss: profit {openscriptures-strongs}
+    proximity: 0.7796 {macula-proximity}
   - strongs: H4378
-    proximity: 0.7751
+    lemma: מַכָּר
+    gloss: an acquaintance {openscriptures-strongs}
+    proximity: 0.7751 {macula-proximity}
   - strongs: H4465
-    proximity: 0.7223
+    lemma: מִמְכָּר
+    gloss: merchandise {openscriptures-strongs}
+    proximity: 0.7223 {macula-proximity}
   - strongs: H6306a
-    proximity: 0.7177
+    proximity: 0.7177 {macula-proximity}
   - strongs: H6187
-    proximity: 0.7176
+    lemma: עֵרֶךְ
+    gloss: a pile {openscriptures-strongs}
+    proximity: 0.7176 {macula-proximity}
   - strongs: H4736
-    proximity: 0.7174
+    lemma: מִקְנָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7174 {macula-proximity}
   cross_language:
   - strongs: G5413
-    proximity: 0.7944
+    lemma: φορτίον
+    gloss: an invoice {openscriptures-strongs}
+    proximity: 0.7944 {macula-proximity}
     language: greek
   - strongs: G1546
-    proximity: 0.7698
+    lemma: ἐκβολή
+    gloss: ejection {openscriptures-strongs}
+    proximity: 0.7698 {macula-proximity}
     language: greek
   - strongs: G5092
-    proximity: 0.7516
+    lemma: τιμή
+    gloss: a value {openscriptures-strongs}
+    proximity: 0.7516 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

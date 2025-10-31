@@ -7,32 +7,41 @@ definition: the neck (between the shoulders) as the place of burdens; figurative
   the spur of ahill
 kjv_usage: back, [idiom] consent, portion, shoulder.
 derivation: from H7925 (שָׁכַם);
-extended_definition:
-  gloss: shoulder
-  definition: '1) shoulder, back<br>1a) shoulder, shoulder-blade<br>1b) back (in general)<BR>Also
-    means: <i>shikh.mah</i> (שִׁכְמָה "shoulder" H7929)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) shoulder, back
+
+  1a) shoulder, shoulder-blade
+
+  1b) back (in general)
+
+  Also means: shikh.mah (שִׁכְמָה "shoulder" H7929) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6437
-    proximity: 0.8166
+    lemma: פָּנָה
+    gloss: to turn {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
   - strongs: H7146
-    proximity: 0.8079
+    lemma: קָרַחַת
+    gloss: a bald spot {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
   - strongs: H3802
-    proximity: 0.7088
+    lemma: כָּתֵף
+    gloss: the shoulder (proper {openscriptures-strongs}
+    proximity: 0.7088 {macula-proximity}
   cross_language:
   - strongs: G3661
-    proximity: 0.8105
+    lemma: ὁμοθυμαδόν
+    gloss: unanimously {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
     language: greek
   - strongs: G4762
-    proximity: 0.8095
+    lemma: στρέφω
+    gloss: to twist {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
     language: greek
   - strongs: G2776
-    proximity: 0.7324
+    lemma: κεφαλή
+    gloss: the head {openscriptures-strongs}
+    proximity: 0.7324 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

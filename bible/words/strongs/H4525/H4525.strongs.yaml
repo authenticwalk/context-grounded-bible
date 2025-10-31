@@ -6,35 +6,43 @@ pronunciation: mas-gare'
 definition: a fastener, i.e. (of a person) a smith, (of a thing) a prison
 kjv_usage: prison, smith.
 derivation: from H5462 (סָגַר);
-extended_definition:
-  gloss: locksmith
-  definition: 1) a shutting up, locksmith, smith, dungeon, enclosure, builder of bulwarks<br>1a)
-    locksmith, smith<br>1b) dungeon
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) a shutting up, locksmith, smith, dungeon, enclosure, builder
+  of bulwarks
+
+  1a) locksmith, smith
+
+  1b) dungeon {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4929
-    proximity: 0.8265
+    lemma: מִשְׁמָר
+    gloss: a guard (the man {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H1004
-    proximity: 0.8253
+    lemma: בַּיִת
+    gloss: a house (in the greatest variation of applications {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
   - strongs: H631
-    proximity: 0.7999
+    proximity: 0.7999 {macula-proximity}
   - strongs: H953
-    proximity: 0.7974
+    proximity: 0.7974 {macula-proximity}
   - strongs: H2588
-    proximity: 0.756
+    lemma: חָנוּת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.756 {macula-proximity}
   - strongs: H4307
-    proximity: 0.7478
+    lemma: מַטָּרָא
+    gloss: a jail {openscriptures-strongs}
+    proximity: 0.7478 {macula-proximity}
   cross_language:
   - strongs: G1067
-    proximity: 0.7976
+    lemma: γέεννα
+    gloss: valley of  Hinnom {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
     language: greek
   - strongs: G4887
-    proximity: 0.7071
+    lemma: συνδέω
+    gloss: to bind with {openscriptures-strongs}
+    proximity: 0.7071 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

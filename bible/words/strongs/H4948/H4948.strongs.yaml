@@ -6,51 +6,65 @@ pronunciation: mish-kawl'
 definition: weight (numerically estimated); hence, weighing (the act)
 kjv_usage: (full) weight.
 derivation: from H8254 (שָׁקַל);
-extended_definition:
-  gloss: weight
-  definition: heaviness, weight
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: heaviness, weight {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6424a
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
   - strongs: H5187
-    proximity: 0.8279
+    lemma: נְטִיל
+    gloss: laden {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: H4971
-    proximity: 0.7959
+    lemma: מַתְכֹנֶת
+    gloss: proportion (in size {openscriptures-strongs}
+    proximity: 0.7959 {macula-proximity}
   - strongs: H4884
-    proximity: 0.7694
+    lemma: מְשׂוּרָה
+    gloss: a measure {openscriptures-strongs}
+    proximity: 0.7694 {macula-proximity}
   - strongs: H4530
-    proximity: 0.7678
+    lemma: מִסָּה
+    gloss: abundance {openscriptures-strongs}
+    proximity: 0.7678 {macula-proximity}
   - strongs: H8505
-    proximity: 0.7653
+    lemma: תָּכַן
+    gloss: to balance {openscriptures-strongs}
+    proximity: 0.7653 {macula-proximity}
   - strongs: H8254
-    proximity: 0.7254
+    lemma: שָׁקַל
+    gloss: to suspend or poise {openscriptures-strongs}
+    proximity: 0.7254 {macula-proximity}
   - strongs: H6425
-    proximity: 0.722
+    lemma: פֶּלֶס
+    gloss: a balance {openscriptures-strongs}
+    proximity: 0.722 {macula-proximity}
   - strongs: H4058
-    proximity: 0.7131
+    lemma: מָדַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7131 {macula-proximity}
   - strongs: H3976
-    proximity: 0.7131
+    lemma: מֹאזֵן
+    gloss: a pair of scales {openscriptures-strongs}
+    proximity: 0.7131 {macula-proximity}
   cross_language:
   - strongs: G280
-    proximity: 0.8165
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G488
-    proximity: 0.7954
+    proximity: 0.7954 {macula-proximity}
     language: greek
   - strongs: G922
-    proximity: 0.7733
+    proximity: 0.7733 {macula-proximity}
     language: greek
   - strongs: G3591
-    proximity: 0.7645
+    lemma: ὄγκος
+    gloss: a mass {openscriptures-strongs}
+    proximity: 0.7645 {macula-proximity}
     language: greek
   - strongs: G3354
-    proximity: 0.7552
+    lemma: μετρέω
+    gloss: to measure {openscriptures-strongs}
+    proximity: 0.7552 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,52 +6,54 @@ definition: probably akin to the base of G3433 (μόλις)) and probably (the f
   G3700 (ὀπτάνομαι)); a mole ("black eye") or blow-mark
 kjv_usage: stripe
 derivation: from ("moil";
-extended_definition:
-  gloss: wound
-  definition: '<b>μώλωψ</b>, -ωπος, ὁ <BR /> [in LXX for חַבּוּרָה, <ref=''Exo.21.25''>Exo.21:25</ref>,
-    al. ;] <BR /><b>a bruise, wound from a stripe</b>: <ref=''1Pe.2.24''>1Pe.2:24</ref>
-    (LXX) (Arist., Plut., al.).†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> μώλωψ</b>, ωπος, ὁ, <br /> <b>mark of a stripe, weal, bruise</b>,
-    [<a href="javascript:void(0)" title=" 4th c.BC: Hyperides Orator “Fragmenta” 200,
-    4th c.BC: Aristoteles Philosophus “Problemata” 889b10, LXX.Isa.53.5, 1st c.BC:
-    Dionysius Halicarnassensis 16.5, 1st-2nd c.AD: Plutarchus Biographus et Philosophus
-    2.565b, etc.">LXX+4th c.BC+</a>]; of an eruption resembling mosquito bites, [<a
-    href="javascript:void(0)" title=" 1st c.AD: Herodotus Medicus cited in 6th c.AD:
-    Aëtius Medicus 5.129 ">Refs 1st c.AD+</a>]; <b>blood-clot</b>, [<a href="javascript:void(0)"
-    title=" 7th c.AD: Paulus Aegineta Medicus 6.8 (_plural_)">Refs 7th c.AD+</a>];
-    πορφύρεοι μώλωπες, satirically of kings, Daphit. cited in [<a href="javascript:void(0)"
-    title=" 1st c.BC-1st c.AD: Strabo Geographus 14.1.39. ">Refs 1st c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'μώλωψ, -ωπος, ὁ
+
+  [in LXX for חַבּוּרָה, Exo.21:25, al. ;]
+
+  a bruise, wound from a stripe: 1Pe.2:24 (LXX) (Arist., Plut., al.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'μώλωψ, ωπος, ὁ,
+
+  mark of a stripe, weal, bruise, [LXX+4th c.BC+]; of an eruption resembling mosquito
+  bites, [Refs 1st c.AD+]; blood-clot, [Refs 7th c.AD+]; πορφύρεοι μώλωπες, satirically
+  of kings, Daphit. cited in [Refs 1st c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4127
-    proximity: 0.7347
+    lemma: πληγή
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.7347 {macula-proximity}
   - strongs: G2775
-    proximity: 0.7256
+    lemma: κεφαλαιόω
+    gloss: to strike on the head {openscriptures-strongs}
+    proximity: 0.7256 {macula-proximity}
   - strongs: A2257
-    proximity: 0.7206
+    proximity: 0.7206 {macula-proximity}
   cross_language:
   - strongs: H5221
-    proximity: 0.8268
+    lemma: נָכָה
+    gloss: to strike (lightly or severely {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: hebrew
   - strongs: H3510
-    proximity: 0.821
+    lemma: כָּאַב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: hebrew
   - strongs: H5061
-    proximity: 0.8185
+    lemma: נֶגַע
+    gloss: a blow (figuratively {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
     language: hebrew
   - strongs: H1856
-    proximity: 0.8157
+    lemma: דָּקַר
+    gloss: to stab {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
     language: hebrew
   - strongs: H4272
-    proximity: 0.7913
+    lemma: מָחַץ
+    gloss: to dash asunder {openscriptures-strongs}
+    proximity: 0.7913 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

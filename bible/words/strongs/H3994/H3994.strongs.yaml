@@ -6,33 +6,39 @@ pronunciation: meh-ay-raw'
 definition: an execration
 kjv_usage: curse.
 derivation: from H779 (אָרַר);
-extended_definition:
-  gloss: curse
-  definition: curse
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: curse {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1943
-    proximity: 0.8281
+    lemma: הֹוָה
+    gloss: ruin {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H7650
-    proximity: 0.8244
+    lemma: שָׁבַע
+    gloss: to seven oneself {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: H1288
-    proximity: 0.7976
+    lemma: בָרַךְ
+    gloss: to kneel {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: H1442
-    proximity: 0.7873
+    lemma: גָּדַף
+    gloss: to hack {openscriptures-strongs}
+    proximity: 0.7873 {macula-proximity}
   - strongs: H343
-    proximity: 0.7767
+    proximity: 0.7767 {macula-proximity}
   - strongs: H5173
-    proximity: 0.775
+    lemma: נַחַשׁ
+    gloss: an incantation or augury {openscriptures-strongs}
+    proximity: 0.775 {macula-proximity}
   - strongs: H7621
-    proximity: 0.7096
+    lemma: שְׁבוּעָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7096 {macula-proximity}
   cross_language:
   - strongs: G2347
-    proximity: 0.8233
+    lemma: θλῖψις
+    gloss: pressure {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,35 +7,37 @@ definition: abundance (in number), i.e. (specifically) a myriad (whether definit
   or indefinite)
 kjv_usage: many, million, [idiom] multiply, ten thousand.
 derivation: from H7231 (רָבַב);
-extended_definition:
-  gloss: myriad
-  definition: multitude, myriad, ten thousand
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: multitude, myriad, ten thousand {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H505a
-    proximity: 0.7198
+    proximity: 0.7198 {macula-proximity}
   - strongs: H7231
-    proximity: 0.7195
+    lemma: רָבַב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7195 {macula-proximity}
   cross_language:
   - strongs: G1540
-    proximity: 0.827
+    lemma: ἑκατόν
+    gloss: a hundred {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: greek
   - strongs: G444
-    proximity: 0.8226
+    proximity: 0.8226 {macula-proximity}
     language: greek
   - strongs: G2436
-    proximity: 0.8214
+    lemma: ἵλεως
+    gloss: cheerful {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
     language: greek
   - strongs: G4183
-    proximity: 0.8174
+    lemma: πολύς
+    gloss: much  or  many {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
     language: greek
   - strongs: G5140
-    proximity: 0.816
+    lemma: τρεῖς
+    gloss: '"three" {openscriptures-strongs}'
+    proximity: 0.816 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

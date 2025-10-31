@@ -6,19 +6,15 @@ pronunciation: vaw
 definition: a hook (the name of the sixth Hebrew letter)
 kjv_usage: hook.
 derivation: probably
-extended_definition:
-  gloss: hook
-  definition: hook, peg, nail, pin
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: hook, peg, nail, pin {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4211
-    proximity: 0.773
+    lemma: מַזְמֵרָה
+    gloss: a pruningknife {openscriptures-strongs}
+    proximity: 0.773 {macula-proximity}
   - strongs: H3489
-    proximity: 0.7469
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: יָתֵד
+    gloss: a peg {openscriptures-strongs}
+    proximity: 0.7469 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

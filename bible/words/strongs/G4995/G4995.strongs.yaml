@@ -5,37 +5,41 @@ transliteration: sōphronismós
 definition: discipline, i.e. self-control
 kjv_usage: sound mind
 derivation: from G4994 (σωφρονίζω);
-extended_definition:
-  gloss: self-discipline
-  definition: '<b>σωφρονισμός</b>, -οῦ, ὁ<BR /> (σωφρονίζω), <BR />__(a) <b>an admonishing
-    </b>(F1J, Plut., al.); <BR /> __(b) <b>self-control, self-discipline</b>: <ref=''2Ti.1.7''>2Ti.1:7</ref>
-    (on the reflexive meaning here, see Ellic., in l).†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> σωφρον-ισμός</b>, ὁ, <br /> <b>teaching of morality</b> or
-    <b>moderation</b>, [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo
-    Geographus 1.2.3, 1st c.AD: Josephus Historicus “Bellum Judaicum” 2.1.3, 1st-2nd
-    c.AD: Plutarchus Biographus et Philosophus 2.653d, etc.">Refs 1st c.BC+</a>];
-    <b>self-control</b>, [<a href="javascript:void(0)" title=" NT.2Tim.1.7. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'σωφρονισμός, -οῦ, ὁ
+
+  (σωφρονίζω),
+
+  __(a) an admonishing (F1J, Plut., al.);
+
+  __(b) self-control, self-discipline: 2Ti.1:7 (on the reflexive meaning here, see
+  Ellic., in l).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'σωφρον-ισμός, ὁ,
+
+  teaching of morality or moderation, [Refs 1st c.BC+]; self-control, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A7032
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
   - strongs: G2920
-    proximity: 0.8236
+    lemma: κρίσις
+    gloss: decision (subjectively or objectively {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
   - strongs: G4993
-    proximity: 0.7964
+    lemma: σωφρονέω
+    gloss: to be of sound mind {openscriptures-strongs}
+    proximity: 0.7964 {macula-proximity}
   - strongs: G4998
-    proximity: 0.7235
+    lemma: σώφρων
+    gloss: safe  in mind {openscriptures-strongs}
+    proximity: 0.7235 {macula-proximity}
   - strongs: G1468
-    proximity: 0.7138
+    lemma: ἐγκρατής
+    gloss: strong in a thing {openscriptures-strongs}
+    proximity: 0.7138 {macula-proximity}
   - strongs: G1467
-    proximity: 0.7109
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: ἐγκρατεύομαι
+    gloss: to exercise self-restraint {openscriptures-strongs}
+    proximity: 0.7109 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

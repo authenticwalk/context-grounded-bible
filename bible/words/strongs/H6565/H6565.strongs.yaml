@@ -11,42 +11,61 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H1104a
-    proximity: 0.8297
+    proximity: 0.8297 {macula-proximity}
   - strongs: H1638
-    proximity: 0.8259
+    lemma: גָּרַס
+    gloss: to crush {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: H7665
-    proximity: 0.8242
+    lemma: שָׁבַר
+    gloss: to burst {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: A5642a
-    proximity: 0.8217
+    proximity: 0.8217 {macula-proximity}
   - strongs: H2254a
-    proximity: 0.821
+    proximity: 0.821 {macula-proximity}
   - strongs: H7725
-    proximity: 0.8189
+    lemma: שׁוּב
+    gloss: to turn back (hence {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H3947
-    proximity: 0.8117
+    lemma: לָקַח
+    gloss: to take {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
   - strongs: H5493
-    proximity: 0.8074
+    lemma: סוּר
+    gloss: to turn off {openscriptures-strongs}
+    proximity: 0.8074 {macula-proximity}
   - strongs: H4603
-    proximity: 0.8028
+    lemma: מָעַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
   - strongs: H4185
-    proximity: 0.792
+    lemma: מוּשׁ
+    gloss: to withdraw (both literally and figuratively {openscriptures-strongs}
+    proximity: 0.792 {macula-proximity}
   cross_language:
   - strongs: G2209
-    proximity: 0.8206
+    lemma: ζημία
+    gloss: detriment {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G3847
-    proximity: 0.8173
+    lemma: παράβασις
+    gloss: violation {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
     language: greek
   - strongs: G654
-    proximity: 0.8084
+    proximity: 0.8084 {macula-proximity}
     language: greek
   - strongs: G2608
-    proximity: 0.8063
+    lemma: κατάγνυμι
+    gloss: to rend in pieces {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
     language: greek
   - strongs: G1964
-    proximity: 0.8
+    lemma: ἐπιορκέω
+    gloss: to commit perjury {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

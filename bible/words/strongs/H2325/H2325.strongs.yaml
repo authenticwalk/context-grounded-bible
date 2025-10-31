@@ -7,21 +7,17 @@ definition: properly, perhaps to tie, i.e. (figuratively and reflexively) to owe
   or (by implication) to forfeit
 kjv_usage: make endanger.
 derivation: also חָיַב; a primitive root;
-extended_definition:
-  gloss: to endanger
-  definition: 1) to be guilty, make guilty<br>1a) (Piel) to endanger
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be guilty, make guilty
+
+  1a) (Piel) to endanger {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5533
-    proximity: 0.7556
+    lemma: סָכַן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7556 {macula-proximity}
   cross_language:
   - strongs: G89
-    proximity: 0.7891
+    proximity: 0.7891 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

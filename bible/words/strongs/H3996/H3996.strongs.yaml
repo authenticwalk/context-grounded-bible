@@ -8,47 +8,62 @@ definition: an entrance (the place or the act); specifically sunset or the west;
 kjv_usage: by which came, as cometh, in coming, as men enter into, entering, entrance
   into, entry, where goeth, going down, [phrase] westward. Compare H4126 (מוֹבָא).
 derivation: from H935 (בּוֹא); (with or without H8121 (שֶׁמֶשׁ))
-extended_definition:
-  gloss: entrance
-  definition: '1) entrance, a coming in, entering<br>2) sunset<br>2a) sunset<br>2b)
-    sunset, west<BR>Also means: <i>me.vo.ah</i> (מְבוֹאָה "entry" H3997)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) entrance, a coming in, entering
+
+  2) sunset
+
+  2a) sunset
+
+  2b) sunset, west
+
+  Also means: me.vo.ah (מְבוֹאָה "entry" H3997) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A8122
-    proximity: 0.8206
+    proximity: 0.8206 {macula-proximity}
   - strongs: H4217
-    proximity: 0.7952
+    lemma: מִזְרָח
+    gloss: sunrise {openscriptures-strongs}
+    proximity: 0.7952 {macula-proximity}
   - strongs: H3220
-    proximity: 0.7759
+    lemma: יָם
+    gloss: a sea  or large body of water {openscriptures-strongs}
+    proximity: 0.7759 {macula-proximity}
   - strongs: H8121
-    proximity: 0.7757
+    lemma: שֶׁמֶשׁ
+    gloss: the sun {openscriptures-strongs}
+    proximity: 0.7757 {macula-proximity}
   - strongs: A4606
-    proximity: 0.7722
+    proximity: 0.7722 {macula-proximity}
   - strongs: H8179
-    proximity: 0.7548
+    lemma: שַׁעַר
+    gloss: an opening {openscriptures-strongs}
+    proximity: 0.7548 {macula-proximity}
   - strongs: H935
-    proximity: 0.7322
+    proximity: 0.7322 {macula-proximity}
   - strongs: H4725
-    proximity: 0.7056
+    lemma: מָקוֹם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7056 {macula-proximity}
   - strongs: H3820b
-    proximity: 0.7029
+    proximity: 0.7029 {macula-proximity}
   cross_language:
   - strongs: G2374
-    proximity: 0.7849
+    lemma: θύρα
+    gloss: a portal or entrance (the opening or the closure {openscriptures-strongs}
+    proximity: 0.7849 {macula-proximity}
     language: greek
   - strongs: G1531
-    proximity: 0.7827
+    lemma: εἰσπορεύομαι
+    gloss: to enter {openscriptures-strongs}
+    proximity: 0.7827 {macula-proximity}
     language: greek
   - strongs: G549
-    proximity: 0.7799
+    proximity: 0.7799 {macula-proximity}
     language: greek
   - strongs: G5117
-    proximity: 0.7798
+    lemma: τόπος
+    gloss: a spot (general in space {openscriptures-strongs}
+    proximity: 0.7798 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

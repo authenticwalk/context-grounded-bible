@@ -5,58 +5,63 @@ transliteration: desmeúō
 definition: to be a binder (captor), i.e. to enchain (a prisoner), to tie on (a load)
 kjv_usage: bind
 derivation: from a (presumed) derivative of G1196 (δεσμέω);
-extended_definition:
-  gloss: to bind
-  definition: '<b>δεσμεύω</b><BR /> (δεσμός), [in LXX for אָסַר (<ref=''Jdg.16.11''>Jdg.16:11</ref>,
-    al.), אָלַם pi. (<ref=''Gen.37.7''>Gen.37:7</ref>, al.), etc. ;] <BR />__1. <b>to
-    put in chains</b>: <ref=''Luk.8.29''>Luk.8:29</ref>, <ref=''Act.22.4''>Act.22:4</ref>.
-    <BR /> __2. <b>to bind, tie together</b>: φορτία, <ref=''Mat.23.4.''>Mat.23:4.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> δεσμ-εύω</b>, <br /> <b>fetter, put in chains,</b> [<a href="javascript:void(0)"
-    title=" hymnus ad Bacchum 17, 5th c.BC: Euripides Tragicus “Bacchae” 616, 5th-6th
-    c.BC: Plato Philosophus “Leges” 808e ">Refs 5th c.BC+</a>]; <b>tie together,</b>
-    as corn in the sheaf, [<a href="javascript:void(0)" title=" 8th-7th c.BC: Hesiodus
-    Epicus “Opera et Dies” 481; δ. ἀγκάλας “PLond.” 1.131r426 (2nd c.AD)">Refs 8th
-    c.BC+</a>]; χόρτον [<a href="javascript:void(0)" title=" “PFlor.” 322.31 (3rd
-    c.AD)">Refs 3rd c.AD+</a>]; δ. ἔκ τινος <b>bind fast to..,</b> [<a href="javascript:void(0)"
-    title=" 2nd c.BC: Polybius Historicus 3.93.4, 2nd c.AD: Apollodorus Damascenus
-    Mechanicus 2.1.3. ">Refs 2nd c.BC+</a>]<br /><Level2><b>__II</b></Level2> <b>lay
-    snares for,</b> [<a href="javascript:void(0)" title=" LXX.1Ki.24.12. ">LXX</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δεσμεύω
+
+  (δεσμός), [in LXX for אָסַר (Jdg.16:11, al.), אָלַם pi. (Gen.37:7, al.), etc. ;]
+
+  __1. to put in chains: Luk.8:29, Act.22:4.
+
+  __2. to bind, tie together: φορτία, Mat.23:4.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'δεσμ-εύω,
+
+  fetter, put in chains, [Refs 5th c.BC+]; tie together, as corn in the sheaf, [Refs
+  8th c.BC+]; χόρτον [Refs 3rd c.AD+]; δ. ἔκ τινος bind fast to.., [Refs 2nd c.BC+]
+
+  __II lay snares for, [LXX] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4385
-    proximity: 0.8172
+    lemma: προτείνω
+    gloss: to protend {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
   - strongs: G1197
-    proximity: 0.7986
+    lemma: δέσμη
+    gloss: a bundle {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
   - strongs: A8271
-    proximity: 0.7604
+    proximity: 0.7604 {macula-proximity}
   - strongs: G4886
-    proximity: 0.7294
+    lemma: σύνδεσμος
+    gloss: a joint tie {openscriptures-strongs}
+    proximity: 0.7294 {macula-proximity}
   - strongs: G4029
-    proximity: 0.726
+    lemma: περίκειμαι
+    gloss: to lie all around {openscriptures-strongs}
+    proximity: 0.726 {macula-proximity}
   cross_language:
   - strongs: H6029
-    proximity: 0.8236
+    lemma: עָנַד
+    gloss: to lace fast {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
     language: hebrew
   - strongs: H4147a
-    proximity: 0.7998
+    proximity: 0.7998 {macula-proximity}
     language: hebrew
   - strongs: H2280
-    proximity: 0.7889
+    lemma: חָבַשׁ
+    gloss: to wrap firmly (especially a turban {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
     language: hebrew
   - strongs: H7576
-    proximity: 0.7817
+    lemma: רָתַק
+    gloss: to fasten {openscriptures-strongs}
+    proximity: 0.7817 {macula-proximity}
     language: hebrew
   - strongs: H7405
-    proximity: 0.7796
+    lemma: רָכַס
+    gloss: to tie {openscriptures-strongs}
+    proximity: 0.7796 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

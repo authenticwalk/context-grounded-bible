@@ -6,26 +6,24 @@ pronunciation: naw-khats'
 definition: to be urgent
 kjv_usage: require haste.
 derivation: a primitive root;
-extended_definition:
-  gloss: to urge
-  definition: 1) (Qal) to urge<br>1a) to be urgent (participle)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Qal) to urge
+
+  1a) to be urgent (participle) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H213
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
   - strongs: A924
-    proximity: 0.7793
+    proximity: 0.7793 {macula-proximity}
   cross_language:
   - strongs: G4692
-    proximity: 0.7659
+    lemma: σπεύδω
+    gloss: to "speed" {openscriptures-strongs}
+    proximity: 0.7659 {macula-proximity}
     language: greek
   - strongs: G4971
-    proximity: 0.701
+    lemma: σφοδρῶς
+    gloss: very much {openscriptures-strongs}
+    proximity: 0.701 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

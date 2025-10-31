@@ -6,51 +6,65 @@ pronunciation: o'-sher
 definition: wealth
 kjv_usage: '[idiom] far (richer), riches.'
 derivation: from H6238 (עָשַׁר);
-extended_definition:
-  gloss: riches
-  definition: wealth, riches
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: wealth, riches {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A7487
-    proximity: 0.8233
+    proximity: 0.8233 {macula-proximity}
   - strongs: H4710
-    proximity: 0.8208
+    lemma: מִצְפֻּן
+    gloss: a secret (place or thing {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   - strongs: H1879
-    proximity: 0.8207
+    lemma: דָּשֵׁן
+    gloss: fat {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H4924b
-    proximity: 0.817
+    proximity: 0.817 {macula-proximity}
   - strongs: H7771
-    proximity: 0.8116
+    lemma: שׁוֹעַ
+    gloss: a noble {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   - strongs: H4262
-    proximity: 0.8025
+    lemma: מַחְמֻד
+    gloss: desired {openscriptures-strongs}
+    proximity: 0.8025 {macula-proximity}
   - strongs: H8082
-    proximity: 0.8006
+    lemma: שָׁמֵן
+    gloss: greasy {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
   - strongs: H7622
-    proximity: 0.7697
+    lemma: שְׁבוּת
+    gloss: exile {openscriptures-strongs}
+    proximity: 0.7697 {macula-proximity}
   - strongs: H202
-    proximity: 0.7627
+    proximity: 0.7627 {macula-proximity}
   - strongs: H1995
-    proximity: 0.7614
+    lemma: הָמוֹן
+    gloss: a noise {openscriptures-strongs}
+    proximity: 0.7614 {macula-proximity}
   cross_language:
   - strongs: G5223
-    proximity: 0.8288
+    lemma: ὕπαρξις
+    gloss: existency or proprietorship {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
     language: greek
   - strongs: G2344
-    proximity: 0.8178
+    lemma: θησαυρός
+    gloss: a deposit {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
     language: greek
   - strongs: G3776
-    proximity: 0.7971
+    lemma: οὐσία
+    gloss: substance {openscriptures-strongs}
+    proximity: 0.7971 {macula-proximity}
     language: greek
   - strongs: G979
-    proximity: 0.7881
+    proximity: 0.7881 {macula-proximity}
     language: greek
   - strongs: G5224
-    proximity: 0.785
+    lemma: ὑπάρχοντα
+    gloss: things extant or in hand {openscriptures-strongs}
+    proximity: 0.785 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

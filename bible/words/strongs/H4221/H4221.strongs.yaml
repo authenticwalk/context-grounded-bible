@@ -6,19 +6,15 @@ pronunciation: mo'-akh
 definition: fat, i.e. marrow
 kjv_usage: marrow.
 derivation: from the same as H4220 (מֵחַ);
-extended_definition:
-  gloss: marrow
-  definition: marrow
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: marrow {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6106
-    proximity: 0.7476
+    lemma: עֶצֶם
+    gloss: a bone {openscriptures-strongs}
+    proximity: 0.7476 {macula-proximity}
   - strongs: H2459
-    proximity: 0.7228
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: חֶלֶב
+    gloss: fat {openscriptures-strongs}
+    proximity: 0.7228 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

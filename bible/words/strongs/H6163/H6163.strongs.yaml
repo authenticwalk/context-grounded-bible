@@ -9,30 +9,33 @@ derivation: or עַרְבִי; patrial from H6152 (עֲרָב);
 related_words:
   synonyms:
   - strongs: H266
-    proximity: 0.8297
+    proximity: 0.8297 {macula-proximity}
   - strongs: H6024
-    proximity: 0.8281
+    lemma: עֲנָב
+    gloss: Anab {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H298
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
   - strongs: H6208
-    proximity: 0.8275
+    lemma: עַרְקִי
+    gloss: an Arkite or inhabitant of Erek {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H62
-    proximity: 0.8241
+    proximity: 0.8241 {macula-proximity}
   - strongs: H299
-    proximity: 0.8237
+    proximity: 0.8237 {macula-proximity}
   - strongs: H6166a
-    proximity: 0.8233
+    proximity: 0.8233 {macula-proximity}
   - strongs: H5983
-    proximity: 0.8195
+    lemma: עַמּוֹן
+    gloss: Ammon {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H59
-    proximity: 0.8169
+    proximity: 0.8169 {macula-proximity}
   - strongs: H757
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
   cross_language:
   - strongs: G207
-    proximity: 0.8185
+    proximity: 0.8185 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

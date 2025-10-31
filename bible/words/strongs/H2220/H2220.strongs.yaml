@@ -8,53 +8,77 @@ definition: the arm (as stretched out), or (of animals) the foreleg; figurativel
 kjv_usage: arm, [phrase] help, mighty, power, shoulder, strength.
 derivation: or (shortened) זְרֹעַ; and (feminine) זְרוֹעָה; or זְרֹעָה; from H2232
   (זָרַע);
-extended_definition:
-  gloss: arm
-  definition: 1) arm, forearm, shoulder, strength<br>1a) arm<br>1b) arm (as symbol
-    of strength)<br>1c) forces (political and military)<br>1d) shoulder (of animal
-    sacrificed)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) arm, forearm, shoulder, strength
+
+  1a) arm
+
+  1b) arm (as symbol of strength)
+
+  1c) forces (political and military)
+
+  1d) shoulder (of animal sacrificed) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5402
-    proximity: 0.8295
+    lemma: נֶשֶׁק
+    gloss: military equipment {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H3225
-    proximity: 0.8261
+    lemma: יָמִין
+    gloss: the right hand or side (leg {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: H2388
-    proximity: 0.824
+    lemma: חָזַק
+    gloss: to fasten upon {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: A2429
-    proximity: 0.8208
+    proximity: 0.8208 {macula-proximity}
   - strongs: H2683
-    proximity: 0.8189
+    lemma: חֵצֶן
+    gloss: the bosom {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H6635
-    proximity: 0.8178
+    lemma: צָבָא
+    gloss: a mass of persons (or figuratively {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   - strongs: H2571
-    proximity: 0.8121
+    lemma: חָמֻשׁ
+    gloss: staunch {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H8623
-    proximity: 0.8092
+    lemma: תַּקִּיף
+    gloss: powerful {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: A1370
-    proximity: 0.8045
+    proximity: 0.8045 {macula-proximity}
   - strongs: H2393
-    proximity: 0.7988
+    lemma: חֶזְקָה
+    gloss: prevailing power {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   cross_language:
   - strongs: G5606
-    proximity: 0.8257
+    lemma: ὦμος
+    gloss: the shoulder {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G2478
-    proximity: 0.8208
+    lemma: ἰσχυρός
+    gloss: forcible {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G3695
-    proximity: 0.814
+    lemma: ὁπλίζω
+    gloss: to equip ) {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
     language: greek
   - strongs: G1415
-    proximity: 0.8011
+    lemma: δυνατός
+    gloss: powerful or capable {openscriptures-strongs}
+    proximity: 0.8011 {macula-proximity}
     language: greek
   - strongs: G1753
-    proximity: 0.7992
+    lemma: ἐνέργεια
+    gloss: efficiency {openscriptures-strongs}
+    proximity: 0.7992 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

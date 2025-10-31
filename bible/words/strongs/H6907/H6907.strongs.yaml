@@ -6,32 +6,34 @@ pronunciation: koob-bah'-ath
 definition: a goblet (as deep like a cover)
 kjv_usage: dregs.
 derivation: from H6906 (קָבַע);
-extended_definition:
-  gloss: dreg
-  definition: cup
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: cup {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3627
-    proximity: 0.806
+    lemma: כְּלִי
+    gloss: something prepared {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
   - strongs: H8105
-    proximity: 0.7739
+    lemma: שֶׁמֶר
+    gloss: something preserved {openscriptures-strongs}
+    proximity: 0.7739 {macula-proximity}
   - strongs: A1b
-    proximity: 0.7677
+    proximity: 0.7677 {macula-proximity}
   - strongs: H4945
-    proximity: 0.7492
+    lemma: מַשְׁקֶה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7492 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7268
+    proximity: 0.7268 {macula-proximity}
   cross_language:
   - strongs: G5276
-    proximity: 0.8258
+    lemma: ὑπολήνιον
+    gloss: vessel or receptacle under the press {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G3943
-    proximity: 0.8241
+    lemma: πάροινος
+    gloss: staying near wine {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

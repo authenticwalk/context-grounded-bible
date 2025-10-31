@@ -6,34 +6,40 @@ pronunciation: shay-naw'
 definition: sleep
 kjv_usage: sleep.
 derivation: or שֵׁנָא; (Psalm 127:2), from H3462 (יָשֵׁן);
-extended_definition:
-  gloss: sleep
-  definition: 'sleep<BR>Aramaic equivalent: <i>she.nah</i> (שְׁנָה "sleep" H8139)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: 'sleep
+
+  Aramaic equivalent: she.nah (שְׁנָה "sleep" H8139) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1724
-    proximity: 0.8292
+    lemma: דָּהַם
+    gloss: to be dumb {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: H5307
-    proximity: 0.8271
+    lemma: נָפַל
+    gloss: to fall {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: H7901
-    proximity: 0.808
+    lemma: שָׁכַב
+    gloss: to lie down (for rest {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
   - strongs: H5124
-    proximity: 0.785
+    lemma: נוּמָה
+    gloss: sleepiness {openscriptures-strongs}
+    proximity: 0.785 {macula-proximity}
   - strongs: A5075
-    proximity: 0.7698
+    proximity: 0.7698 {macula-proximity}
   - strongs: H1957
-    proximity: 0.7549
+    lemma: הָזָה
+    gloss: to dream {openscriptures-strongs}
+    proximity: 0.7549 {macula-proximity}
   cross_language:
   - strongs: G1852
-    proximity: 0.7837
+    lemma: ἐξυπνίζω
+    gloss: to waken {openscriptures-strongs}
+    proximity: 0.7837 {macula-proximity}
     language: greek
   - strongs: G70
-    proximity: 0.7011
+    proximity: 0.7011 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

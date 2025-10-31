@@ -6,41 +6,57 @@ pronunciation: khit-taw'
 definition: wheat, whether the grain or the plant
 kjv_usage: wheat(-en).
 derivation: of uncertain derivation;
-extended_definition:
-  gloss: wheat
-  definition: '1) wheat<br>1a) wheat (plant)<br>1b) wheat flour<BR>Aramaic equivalent:
-    <i>chin.tah</i> (חִנְטָה "wheat" H2591)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) wheat
+
+  1a) wheat (plant)
+
+  1b) wheat flour
+
+  Aramaic equivalent: chin.tah (חִנְטָה "wheat" H2591) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7070
-    proximity: 0.8217
+    lemma: קָנֶה
+    gloss: a reed {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
   - strongs: H6742
-    proximity: 0.8207
+    lemma: צְלוּל
+    gloss: a  cake {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H6507
-    proximity: 0.8159
+    lemma: פְּרֻדָה
+    gloss: something separated {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H1715
-    proximity: 0.8154
+    lemma: דָּגָן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: H3629
-    proximity: 0.8125
+    lemma: כִּלְיָה
+    gloss: a kidney {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: H4425
-    proximity: 0.7927
+    lemma: מְלִילָה
+    gloss: a head of grain {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
   - strongs: H7039
-    proximity: 0.7372
+    lemma: קָלִי
+    gloss: roasted ears of grain {openscriptures-strongs}
+    proximity: 0.7372 {macula-proximity}
   - strongs: H4098
-    proximity: 0.7146
+    lemma: מְדֻשָּׁה
+    gloss: a threshing {openscriptures-strongs}
+    proximity: 0.7146 {macula-proximity}
   - strongs: H7383
-    proximity: 0.7043
+    lemma: רִיפָה
+    proximity: 0.7043 {macula-proximity}
   cross_language:
   - strongs: G5528
-    proximity: 0.7833
+    lemma: χόρτος
+    gloss: a "court" or "garden" {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
     language: greek
   - strongs: G4621a
-    proximity: 0.7102
+    proximity: 0.7102 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

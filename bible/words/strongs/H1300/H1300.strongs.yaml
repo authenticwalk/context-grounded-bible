@@ -9,28 +9,41 @@ derivation: from H1299 (בָּרַק);
 related_words:
   synonyms:
   - strongs: H3851
-    proximity: 0.8298
+    lemma: לַהַב
+    gloss: a flash {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: H2094
-    proximity: 0.8234
+    lemma: זָהַר
+    gloss: to gleam {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
   - strongs: H5264
-    proximity: 0.7804
+    lemma: נָסַס
+    gloss: to raise a beacon {openscriptures-strongs}
+    proximity: 0.7804 {macula-proximity}
   - strongs: H2096
-    proximity: 0.7775
+    lemma: זֹהַר
+    gloss: brilliancy {openscriptures-strongs}
+    proximity: 0.7775 {macula-proximity}
   - strongs: H7335
-    proximity: 0.7507
+    lemma: רָזַם
+    gloss: to twinkle the eye {openscriptures-strongs}
+    proximity: 0.7507 {macula-proximity}
   - strongs: H5340
-    proximity: 0.7099
+    lemma: נָצַץ
+    gloss: to glare {openscriptures-strongs}
+    proximity: 0.7099 {macula-proximity}
   cross_language:
   - strongs: G1823
-    proximity: 0.7887
+    lemma: ἐξαστράπτω
+    gloss: to lighten forth {openscriptures-strongs}
+    proximity: 0.7887 {macula-proximity}
     language: greek
   - strongs: G4744
-    proximity: 0.7777
+    lemma: στίλβω
+    gloss: to gleam {openscriptures-strongs}
+    proximity: 0.7777 {macula-proximity}
     language: greek
   - strongs: G797
-    proximity: 0.7675
+    proximity: 0.7675 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

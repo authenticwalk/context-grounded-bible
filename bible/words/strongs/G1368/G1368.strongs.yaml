@@ -5,66 +5,81 @@ transliteration: diÿlízō
 definition: to strain out
 kjv_usage: strain at (probably by misprint)
 derivation: from G1223 (διά) and (to filter);
-extended_definition:
-  gloss: to strain out
-  definition: '<b>δι-υλίζω</b><BR /> (δια, ὑλίζω, to strain) [in LXX: <ref=''Amo.6.6''>Amo.6:6</ref>
-    * ;] <BR />__1. <b>to strain thoroughly</b> (Archytas; Am., l.with). <BR /> __2.
-    Later, <b>to strain out</b>: figuratively, <ref=''Mat.23.24.''>Mat.23:24.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> διῡλ-ίζω</b>, <br /> <b>strain, filter thoroughly,</b> οἶνον
-    Mim. [<a href="javascript:void(0)" title=" “Oxy.” 413.154, 1st c.AD: Dioscorides
-    (Dioscurides) Medicus 5.72, 2nd c.AD: Artemidorus Daldianus Onirocriticus 4.48
-    ">Refs 1st c.AD+</a>]:—<i>passive</i>, διυλισμένος οἶνος [<a href="javascript:void(0)"
-    title=" LXX.Amos.6.6: _metaphorically_, διυλισμένα ἀρετὰ ἀπὸ παντὸς τῶ θνατῶ πάθεος
-    4th c.BC: Archytas Tarentinus Philosophus cited in 5th c.AD: Stobaeus, Joannes
-    3.1.108, compare 5th-6th c.BC: Plato Philosophus “Timaeus” 69a. ">LXX+5th c.BC+</a>]<br
-    /><Level2><b>__II</b></Level2> <b>strain off,</b> κώνωπα [<a href="javascript:void(0)"
-    title=" NT.Matt.23.24. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δι-υλίζω
+
+  (δια, ὑλίζω, to strain) [in LXX: Amo.6:6 * ;]
+
+  __1. to strain thoroughly (Archytas; Am., l.with).
+
+  __2. Later, to strain out: figuratively, Mat.23:24.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'διῡλ-ίζω,
+
+  strain, filter thoroughly, οἶνον Mim. [Refs 1st c.AD+]:—passive, διυλισμένος οἶνος
+  [LXX+5th c.BC+]
+
+  __II strain off, κώνωπα [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1554
-    proximity: 0.8254
+    lemma: ἐκδίδωμι
+    gloss: to give forth {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: G5294
-    proximity: 0.8247
+    lemma: ὑποτίθημι
+    gloss: to place underneath {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: G1854
-    proximity: 0.8216
+    lemma: ἔξω
+    gloss: out(-side {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   - strongs: G634
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
   - strongs: G1600
-    proximity: 0.8178
+    lemma: ἐκπετάννυμι
+    gloss: to fly out {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   - strongs: G4816
-    proximity: 0.8145
+    lemma: συλλέγω
+    gloss: to collect {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
   - strongs: G501
-    proximity: 0.8054
+    proximity: 0.8054 {macula-proximity}
   - strongs: G1544
-    proximity: 0.7986
+    lemma: ἐκβάλλω
+    gloss: to eject {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
   - strongs: G1975
-    proximity: 0.7949
+    lemma: ἐπιπορεύομαι
+    gloss: to journey further {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
   - strongs: G1614
-    proximity: 0.7943
+    lemma: ἐκτείνω
+    gloss: to extend {openscriptures-strongs}
+    proximity: 0.7943 {macula-proximity}
   cross_language:
   - strongs: H6379
-    proximity: 0.8289
+    lemma: פָּכָה
+    gloss: to pour {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: hebrew
   - strongs: H7324a
-    proximity: 0.8272
+    proximity: 0.8272 {macula-proximity}
     language: hebrew
   - strongs: H1158
-    proximity: 0.8212
+    lemma: בָּעָה
+    gloss: to gush over {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
     language: hebrew
   - strongs: H8192
-    proximity: 0.8091
+    lemma: שָׁפָה
+    gloss: to abrade {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
     language: hebrew
   - strongs: H3447
-    proximity: 0.7956
+    lemma: יָשַׁט
+    gloss: to extend {openscriptures-strongs}
+    proximity: 0.7956 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

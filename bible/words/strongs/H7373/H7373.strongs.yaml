@@ -6,42 +6,52 @@ pronunciation: raw-tobe'
 definition: moist (with sap)
 kjv_usage: green.
 derivation: from H7372 (רָטַב);
-extended_definition:
-  gloss: fresh
-  definition: moist, juicy, fresh
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: moist, juicy, fresh {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A6212a
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
   - strongs: H5193
-    proximity: 0.8231
+    lemma: נָטַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H5194
-    proximity: 0.8135
+    lemma: נֶטַע
+    gloss: a plant {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: H5195
-    proximity: 0.7939
+    lemma: נָטִיעַ
+    gloss: a plant {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
   - strongs: H1876
-    proximity: 0.7935
+    lemma: דָּשָׁא
+    gloss: to sprout {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
   - strongs: H8362
-    proximity: 0.7906
+    lemma: שָׁתַל
+    gloss: to transplant {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
   - strongs: H7488a
-    proximity: 0.7476
+    proximity: 0.7476 {macula-proximity}
   cross_language:
   - strongs: G1008
-    proximity: 0.8286
+    lemma: βοτάνη
+    gloss: herbage {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G5200
-    proximity: 0.8201
+    lemma: ὑγρός
+    gloss: wet {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G5451
-    proximity: 0.8
+    lemma: φυτεία
+    gloss: trans-planting {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
     language: greek
   - strongs: G5452
-    proximity: 0.7446
+    lemma: φυτεύω
+    gloss: to set out in the earth {openscriptures-strongs}
+    proximity: 0.7446 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

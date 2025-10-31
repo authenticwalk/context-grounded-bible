@@ -7,43 +7,57 @@ definition: properly, to strew over, i.e. (by implication) to cover in or plate 
   beams)
 kjv_usage: cover.
 derivation: a primitive root;
-extended_definition:
-  gloss: to cover
-  definition: '(Piel) to cover with a roof, cover over, roof<BR>Aramaic equivalent:
-    <i>te.lal</i> (טְלַל "to have shade" H2927)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '(Piel) to cover with a roof, cover over, roof
+
+  Aramaic equivalent: te.lal (טְלַל "to have shade" H2927) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A2857
-    proximity: 0.8245
+    proximity: 0.8245 {macula-proximity}
   - strongs: H4539
-    proximity: 0.822
+    lemma: מָסָךְ
+    gloss: a cover {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
   - strongs: H7874
-    proximity: 0.8119
+    lemma: שִׂיד
+    gloss: to plaster {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: H4746
-    proximity: 0.8038
+    lemma: מְקָרֶה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
   - strongs: H3813
-    proximity: 0.8
+    lemma: לָאַט
+    gloss: to muffle {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: H4540
-    proximity: 0.8
+    lemma: מְסֻכָּה
+    gloss: a covering {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: H6826
-    proximity: 0.7943
+    lemma: צִפּוּי
+    gloss: encasement {openscriptures-strongs}
+    proximity: 0.7943 {macula-proximity}
   - strongs: H5848
-    proximity: 0.7931
+    lemma: עָטַף
+    gloss: to shroud {openscriptures-strongs}
+    proximity: 0.7931 {macula-proximity}
   - strongs: H2560b
-    proximity: 0.7927
+    proximity: 0.7927 {macula-proximity}
   - strongs: H4374
-    proximity: 0.7819
+    lemma: מְכַסֶּה
+    gloss: a covering {openscriptures-strongs}
+    proximity: 0.7819 {macula-proximity}
   cross_language:
   - strongs: G4629
-    proximity: 0.8241
+    lemma: σκέπασμα
+    gloss: perhaps akin to the base of G4649  through the idea of noticeableness)
+      {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
   - strongs: G4018
-    proximity: 0.7695
+    lemma: περιβόλαιον
+    gloss: something thrown around one {openscriptures-strongs}
+    proximity: 0.7695 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

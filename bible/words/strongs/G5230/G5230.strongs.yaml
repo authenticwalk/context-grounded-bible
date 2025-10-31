@@ -6,45 +6,49 @@ definition: beyond the "acme", i.e. figuratively (of a daughter) past the bloom 
   of youth
 kjv_usage: + pass the flower of (her) age
 derivation: from G5228 (ὑπέρ) and the base of G188 (ἀκμήν);
-extended_definition:
-  gloss: past one’s prime
-  definition: '<b>ὑπέρακμος</b>, -ον <BR /> <b>past the bloom of youth</b>: <ref=''1Co.7.36''>1Co.7:36</ref>
-    (Eustath.).†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὑπέρακμος</b>, ον, <br /> <b>sexually well-developed,</b> [<a
-    href="javascript:void(0)" title=" NT.1Cor.7.36, 2nd c.AD: Soranus Medicus 1.22
-    ">NT+2nd c.AD+</a>]; = Latin <i>exoletus,</i> [<a href="javascript:void(0)" title="“Corpus
-    Glossariorum Latinorum”">Refs</a>]: <i>neuter</i> <i>plural</i> as <i>adverb</i>,
-    ἀκολασταίνοντες ὑ. [<a href="javascript:void(0)" title=" 12th c.AD: Eustathius
-    Episcopus Thessalonicensis 1915.20. ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ὑπέρακμος, -ον
+
+  past the bloom of youth: 1Co.7:36 (Eustath.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὑπέρακμος, ον,
+
+  sexually well-developed, [NT+2nd c.AD+]; = Latin exoletus, [Refs]: neuter plural
+  as adverb, ἀκολασταίνοντες ὑ. [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3896
-    proximity: 0.8245
+    lemma: παραπλέω
+    gloss: to sail near {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: G3503
-    proximity: 0.775
+    lemma: νεότης
+    gloss: newness {openscriptures-strongs}
+    proximity: 0.775 {macula-proximity}
   cross_language:
   - strongs: H5290
-    proximity: 0.8261
+    lemma: נֹעַר
+    gloss: boyhood {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: hebrew
   - strongs: H3208
-    proximity: 0.8179
+    lemma: יַלְדוּת
+    gloss: boyhood {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
     language: hebrew
   - strongs: H2209
-    proximity: 0.8107
+    lemma: זִקְנָה
+    gloss: old age {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
     language: hebrew
   - strongs: H7869
-    proximity: 0.8041
+    lemma: שֵׂיב
+    gloss: old age {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
     language: hebrew
   - strongs: H2207
-    proximity: 0.8034
+    lemma: זֹקֶן
+    gloss: old age {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

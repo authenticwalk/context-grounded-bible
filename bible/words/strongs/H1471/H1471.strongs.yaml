@@ -11,40 +11,53 @@ derivation: rarely (shortened) גֹּי; apparently from the same root as H1465 
 related_words:
   synonyms:
   - strongs: H120
-    proximity: 0.8295
+    proximity: 0.8295 {macula-proximity}
   - strongs: H6154a
-    proximity: 0.8174
+    proximity: 0.8174 {macula-proximity}
   - strongs: H3934
-    proximity: 0.8171
+    lemma: לָעֵג
+    gloss: a buffoon {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: H376
-    proximity: 0.8071
+    proximity: 0.8071 {macula-proximity}
   - strongs: H3605
-    proximity: 0.8039
+    lemma: כֹּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8039 {macula-proximity}
   - strongs: H1121
-    proximity: 0.8024
+    lemma: בֵּן
+    gloss: a son {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: H312
-    proximity: 0.7985
+    proximity: 0.7985 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.794
+    proximity: 0.794 {macula-proximity}
   - strongs: H7227
-    proximity: 0.7935
+    lemma: רַב
+    gloss: abundant (in quantity {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
   cross_language:
   - strongs: G915
-    proximity: 0.8265
+    proximity: 0.8265 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.8116
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
     language: greek
   - strongs: G1218
-    proximity: 0.8109
+    lemma: δῆμος
+    gloss: the public {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
     language: greek
   - strongs: G4175
-    proximity: 0.8012
+    lemma: πολίτευμα
+    gloss: a community {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
     language: greek
   - strongs: G4177
-    proximity: 0.798
+    lemma: πολίτης
+    gloss: a townsman {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

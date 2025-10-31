@@ -6,24 +6,22 @@ pronunciation: kel-o-kale'
 definition: insubstantial
 kjv_usage: light.
 derivation: from H7043 (קָלַל);
-extended_definition:
-  gloss: worthless
-  definition: contemptible, worthless
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: contemptible, worthless {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4107
-    proximity: 0.7988
+    lemma: מָהַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   cross_language:
   - strongs: G5003
-    proximity: 0.7854
+    lemma: ταλαιπωρέω
+    gloss: to be wretched {openscriptures-strongs}
+    proximity: 0.7854 {macula-proximity}
     language: greek
   - strongs: G5005
-    proximity: 0.7056
+    lemma: ταλαίπωρος
+    gloss: enduring trial {openscriptures-strongs}
+    proximity: 0.7056 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

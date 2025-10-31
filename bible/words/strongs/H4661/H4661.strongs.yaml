@@ -6,27 +6,29 @@ pronunciation: map-pates'
 definition: a smiter, i.e. a war club
 kjv_usage: battle ax.
 derivation: from H5310 (נָפַץ);
-extended_definition:
-  gloss: war-club
-  definition: war club, club, battle axe, hammer
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: war club, club, battle axe, hammer {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H859b
-    proximity: 0.8276
+    proximity: 0.8276 {macula-proximity}
   - strongs: H4621
-    proximity: 0.7965
+    lemma: מַעֲצָד
+    gloss: an axe {openscriptures-strongs}
+    proximity: 0.7965 {macula-proximity}
   - strongs: H8455
-    proximity: 0.7739
+    lemma: תּוֹתָח
+    gloss: a club {openscriptures-strongs}
+    proximity: 0.7739 {macula-proximity}
   - strongs: H3781
-    proximity: 0.7582
+    lemma: כַּשִּׁיל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7582 {macula-proximity}
   - strongs: H4050
-    proximity: 0.7495
+    lemma: מְגֵרָה
+    gloss: a saw {openscriptures-strongs}
+    proximity: 0.7495 {macula-proximity}
   - strongs: H1631
-    proximity: 0.7227
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: גַּרְזֶן
+    gloss: an axe {openscriptures-strongs}
+    proximity: 0.7227 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,38 +6,44 @@ pronunciation: mek-aw-reh'
 definition: properly, something meeting, i.e. a frame (of timbers)
 kjv_usage: building.
 derivation: from H7136 (קָרָה);
-extended_definition:
-  gloss: rafter
-  definition: beam work
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: beam work {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5944
-    proximity: 0.8295
+    lemma: עֲלִיָּה
+    gloss: something lofty {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H2926
-    proximity: 0.8038
+    lemma: טָלַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
   - strongs: H5393
-    proximity: 0.8034
+    lemma: נִשְׁכָּה
+    gloss: a cell {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
   - strongs: H3714
-    proximity: 0.7943
+    lemma: כָּפִיס
+    gloss: a girder {openscriptures-strongs}
+    proximity: 0.7943 {macula-proximity}
   - strongs: A1147
-    proximity: 0.7889
+    proximity: 0.7889 {macula-proximity}
   - strongs: H3957
-    proximity: 0.7781
+    lemma: לִשְׁכָּה
+    gloss: a room in a building (whether for storage {openscriptures-strongs}
+    proximity: 0.7781 {macula-proximity}
   - strongs: A5952
-    proximity: 0.7353
+    proximity: 0.7353 {macula-proximity}
   - strongs: H2948b
-    proximity: 0.7229
+    proximity: 0.7229 {macula-proximity}
   cross_language:
   - strongs: G3614
-    proximity: 0.8048
+    lemma: οἰκία
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
     language: greek
   - strongs: G4431
-    proximity: 0.7545
+    lemma: πτῶσις
+    gloss: a crash {openscriptures-strongs}
+    proximity: 0.7545 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

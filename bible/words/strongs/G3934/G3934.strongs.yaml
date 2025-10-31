@@ -5,47 +5,54 @@ transliteration: Párthos
 definition: a Parthian, i.e. inhabitant of Parthia
 kjv_usage: Parthian
 derivation: probably of foreign origin;
-extended_definition:
-  gloss: Parthian
-  definition: '<b>Πάρθος</b>, -ου, ὁ <BR /> <b>a Parthian</b>: <ref=''Act.2.9.''>Act.2:9.</ref>†<BR
-    /> (AS)'
-  morphology: N:N--LG
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Πάρθος</b>, -ου, ὁ <BR /> <b>a Parthian</b>: <ref=''Act.2.9.''>Act.2:9.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Πάρθος, -ου, ὁ
+
+  a Parthian: Act.2:9.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Πάρθος, -ου, ὁ
+
+  a Parthian: Act.2:9.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G774
-    proximity: 0.8234
+    proximity: 0.8234 {macula-proximity}
   - strongs: G3159a
-    proximity: 0.82
+    proximity: 0.82 {macula-proximity}
   - strongs: G493
-    proximity: 0.8075
+    proximity: 0.8075 {macula-proximity}
   - strongs: G882
-    proximity: 0.7943
+    proximity: 0.7943 {macula-proximity}
   - strongs: G4658
-    proximity: 0.7917
+    lemma: Σκύθης
+    gloss: a Scythene or Scythian {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   cross_language:
   - strongs: H5984
-    proximity: 0.8285
+    lemma: עַמּוֹנִי
+    gloss: an Ammonite or  Ammonitish {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: hebrew
   - strongs: H8620
-    proximity: 0.8265
+    lemma: תְּקוֹעַ
+    gloss: Tekoa {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
     language: hebrew
   - strongs: H7772
-    proximity: 0.8241
+    lemma: שׁוֹעַ
+    gloss: Shoa {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: hebrew
   - strongs: H6970
-    proximity: 0.8221
+    lemma: קוֹעַ
+    gloss: Koa {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
     language: hebrew
   - strongs: H6515
-    proximity: 0.8202
+    lemma: פָּרוּחַ
+    gloss: Paruach {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

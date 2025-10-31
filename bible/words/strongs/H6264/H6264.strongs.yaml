@@ -6,51 +6,67 @@ pronunciation: aw-theed'
 definition: prepared; by implication, skilful; feminine plural the future; also treasure
 kjv_usage: things that shall come, ready, treasures.
 derivation: from H6257 (עָתַד);
-extended_definition:
-  gloss: ready
-  definition: '1) ready, prepared<br>1a) ready<br>1b) ready, skilled<br>1c) prepared,
-    impending<br>1d) prepared, stored up, treasure<BR>Aramaic equivalent: <i>a.tid</i>
-    (עֲתִיד "ready" H6263)'
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) ready, prepared
+
+  1a) ready
+
+  1b) ready, skilled
+
+  1c) prepared, impending
+
+  1d) prepared, stored up, treasure
+
+  Aramaic equivalent: a.tid (עֲתִיד "ready" H6263) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6213
-    proximity: 0.8273
+    lemma: עָשָׂה
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
   - strongs: H7399
-    proximity: 0.8222
+    lemma: רְכוּשׁ
+    gloss: property {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H214
-    proximity: 0.8106
+    proximity: 0.8106 {macula-proximity}
   - strongs: H6718b
-    proximity: 0.8101
+    proximity: 0.8101 {macula-proximity}
   - strongs: H631
-    proximity: 0.7967
+    proximity: 0.7967 {macula-proximity}
   - strongs: A2164
-    proximity: 0.7904
+    proximity: 0.7904 {macula-proximity}
   - strongs: H2502a
-    proximity: 0.7817
+    proximity: 0.7817 {macula-proximity}
   - strongs: H4301
-    proximity: 0.7757
+    lemma: מַטְמוֹן
+    gloss: a secret storehouse {openscriptures-strongs}
+    proximity: 0.7757 {macula-proximity}
   - strongs: H6186
-    proximity: 0.7595
+    lemma: עָרַךְ
+    gloss: to set in a row {openscriptures-strongs}
+    proximity: 0.7595 {macula-proximity}
   cross_language:
   - strongs: G1779
-    proximity: 0.8208
+    lemma: ἐνταφιάζω
+    gloss: to inswathe with cerements for interment {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G3904
-    proximity: 0.8097
+    lemma: παρασκευή
+    gloss: readiness {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
     language: greek
   - strongs: G643a
-    proximity: 0.8074
+    proximity: 0.8074 {macula-proximity}
     language: greek
   - strongs: G2675
-    proximity: 0.7691
+    lemma: καταρτίζω
+    gloss: to complete thoroughly {openscriptures-strongs}
+    proximity: 0.7691 {macula-proximity}
     language: greek
   - strongs: G4342
-    proximity: 0.7658
+    lemma: προσκαρτερέω
+    gloss: to be earnest towards {openscriptures-strongs}
+    proximity: 0.7658 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

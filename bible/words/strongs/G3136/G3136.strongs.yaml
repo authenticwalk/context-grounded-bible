@@ -5,51 +5,59 @@ transliteration: Mártha
 definition: Martha, a Christian woman
 kjv_usage: Martha
 derivation: probably of Chaldee origin (meaning mistress);
-extended_definition:
-  gloss: Martha
-  definition: '<b>Μάρθα</b>, -ας (Bl., § 7, 2), ἡ (Aram. מָרְתָּא), <BR /> <b>Martha</b>:
-    <ref=''Luk.10.38, 40-41''>Luk.10:38, 40-41</ref>, <ref=''Jhn.11.1, 5; 11.19''>Jhn.11:1,
-    5 11:19</ref> ff. <ref=''Luk.12.2''>Luk.12:2</ref>.†<BR /> (AS)'
-  morphology: N:N-F-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Μάρθα</b>, -ας (Bl., § 7, 2), ἡ (Aram. מָרְתָּא), <BR /> <b>Martha</b>:
-    <ref=''Luk.10.38, 40-41''>Luk.10:38, 40-41</ref>, <ref=''Jhn.11.1, 5; 11.19''>Jhn.11:1,
-    5 11:19</ref> ff. <ref=''Luk.12.2''>Luk.12:2</ref>.†<BR />  (From Abbott-Smith.
-    LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Μάρθα, -ας (Bl., § 7, 2), ἡ (Aram. מָרְתָּא),
+
+  Martha: Luk.10:38, 40-41, Jhn.11:1, 5 11:19 ff. Luk.12:2.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Μάρθα, -ας (Bl., § 7, 2), ἡ (Aram. מָרְתָּא),
+
+  Martha: Luk.10:38, 40-41, Jhn.11:1, 5 11:19 ff. Luk.12:2.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1154
-    proximity: 0.823
+    lemma: Δαμασκός
+    gloss: Damascus {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: G4498
-    proximity: 0.8194
+    lemma: Ῥόδη
+    gloss: Rode {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: G2982
-    proximity: 0.8194
+    lemma: λαμά
+    gloss: lama {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: G3194
-    proximity: 0.8092
+    lemma: Μελίτη
+    gloss: Melita {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: G1153
-    proximity: 0.7975
+    lemma: Δαμασκηνός
+    gloss: a Damascene or inhabitant of Damascus {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
   - strongs: G1152
-    proximity: 0.767
+    lemma: Δάμαρις
+    gloss: perhaps gentle {openscriptures-strongs}
+    proximity: 0.767 {macula-proximity}
   - strongs: G184
-    proximity: 0.7662
+    proximity: 0.7662 {macula-proximity}
   cross_language:
   - strongs: H1834b
-    proximity: 0.8057
+    proximity: 0.8057 {macula-proximity}
     language: hebrew
   - strongs: H1833
-    proximity: 0.805
+    lemma: דְּמֶשֶׁק
+    gloss: damask {openscriptures-strongs}
+    proximity: 0.805 {macula-proximity}
     language: hebrew
   - strongs: H1834a
-    proximity: 0.7975
+    proximity: 0.7975 {macula-proximity}
     language: hebrew
   - strongs: H2579
-    proximity: 0.753
+    lemma: חֲמַת רַבָּה
+    gloss: Chamath-Rabbah {openscriptures-strongs}
+    proximity: 0.753 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

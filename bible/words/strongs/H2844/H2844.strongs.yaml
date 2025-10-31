@@ -9,33 +9,52 @@ derivation: from H2865 (חָתַת);
 related_words:
   synonyms:
   - strongs: H8078
-    proximity: 0.8296
+    lemma: שִׁמָּמוֹן
+    gloss: stupefaction {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H1204
-    proximity: 0.8253
+    lemma: בָּעַת
+    gloss: to fear {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
   - strongs: H1097
-    proximity: 0.8239
+    lemma: בְּלִי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: H2113
-    proximity: 0.8203
+    lemma: זְוָעָה
+    gloss: agitation {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: H2119a
-    proximity: 0.8112
+    proximity: 0.8112 {macula-proximity}
   - strongs: H7578
-    proximity: 0.8099
+    lemma: רְתֵת
+    gloss: terror {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
   - strongs: H2111
-    proximity: 0.7963
+    lemma: זוּעַ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7963 {macula-proximity}
   - strongs: H1161
-    proximity: 0.7917
+    lemma: בִּעוּתִים
+    gloss: alarms {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: H6973
-    proximity: 0.7798
+    lemma: קוּץ
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7798 {macula-proximity}
   - strongs: H2865
-    proximity: 0.7789
+    lemma: חָתַת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7789 {macula-proximity}
   cross_language:
   - strongs: G1168
-    proximity: 0.7515
+    lemma: δειλιάω
+    gloss: to be timid {openscriptures-strongs}
+    proximity: 0.7515 {macula-proximity}
     language: greek
   - strongs: G5141
-    proximity: 0.7232
+    lemma: τρέμω
+    gloss: to "tremble" or fear {openscriptures-strongs}
+    proximity: 0.7232 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,56 +5,72 @@ transliteration: Gadarēnós
 definition: a Gadarene or inhabitant of Gadara
 kjv_usage: Gadarene
 derivation: from (a town east of the Jordan);
-extended_definition:
-  gloss: Gadara
-  definition: '<b>Γαδαρηνός</b>, -ή, -όν <BR /> (Γαδαρά, <i>Gadara</i>, the capital
-    of Peræa), <BR /><b>Gadarene, of Gadara</b>: <ref=''Mat.8.28''>Mat.8:28</ref>
-    (Rec. Γεργεσηνῶν), <ref=''Mrk.5.1''>Mrk.5:1</ref>, Rec. (Edd., Γερασηνῶν), <ref=''Luk.8.26,
-    37''>Luk.8:26, 37</ref> Rec. (Edd., Γερασηνῶν).†<BR /> (AS)'
-  morphology: N:N--LG
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Γαδαρηνός</b>, -ή, -όν <BR /> (Γαδαρά, <i>Gadara</i>, the capital
-    of Peræa), <BR /><b>Gadarene, of Gadara</b>: <ref=''Mat.8.28''>Mat.8:28</ref>
-    (Rec. Γεργεσηνῶν), <ref=''Mrk.5.1''>Mrk.5:1</ref>, Rec. (Edd., Γερασηνῶν), <ref=''Luk.8.26,
-    37''>Luk.8:26, 37</ref> Rec. (Edd., Γερασηνῶν).†<BR />  (From Abbott-Smith. LSJ
-    has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Γαδαρηνός, -ή, -όν
+
+  (Γαδαρά, Gadara, the capital of Peræa),
+
+  Gadarene, of Gadara: Mat.8:28 (Rec. Γεργεσηνῶν), Mrk.5:1, Rec. (Edd., Γερασηνῶν),
+  Luk.8:26, 37 Rec. (Edd., Γερασηνῶν).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Γαδαρηνός, -ή, -όν
+
+  (Γαδαρά, Gadara, the capital of Peræa),
+
+  Gadarene, of Gadara: Mat.8:28 (Rec. Γεργεσηνῶν), Mrk.5:1, Rec. (Edd., Γερασηνῶν),
+  Luk.8:26, 37 Rec. (Edd., Γερασηνῶν).†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G914
-    proximity: 0.8235
+    proximity: 0.8235 {macula-proximity}
   - strongs: G3094
-    proximity: 0.8226
+    lemma: Μαγδαληνή
+    gloss: a female Magdalene {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: G1054
-    proximity: 0.818
+    lemma: Γαλατικός
+    gloss: Galatic or relating to Galatia {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: G1053
-    proximity: 0.8133
+    lemma: Γαλατία
+    gloss: Galatia {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   - strongs: G2469
-    proximity: 0.8098
+    lemma: Ἰσκαριώτης
+    gloss: inhabitant of Kerioth {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
   - strongs: G2903
-    proximity: 0.8019
+    lemma: κράτιστος
+    gloss: strongest {openscriptures-strongs}
+    proximity: 0.8019 {macula-proximity}
   - strongs: G1086
-    proximity: 0.7847
+    lemma: Γεργεσηνός
+    gloss: a Gergesene  or one of the aborigines of Palestine {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
   cross_language:
   - strongs: H1559
-    proximity: 0.83
+    lemma: גָּלָל
+    gloss: Galal {openscriptures-strongs}
+    proximity: 0.83 {macula-proximity}
     language: hebrew
   - strongs: H1862
-    proximity: 0.8281
+    lemma: דַּרְדַּע
+    gloss: Darda {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: hebrew
   - strongs: H3625
-    proximity: 0.828
+    lemma: כֶּלַח
+    gloss: Kelach {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: hebrew
   - strongs: H2732
-    proximity: 0.8122
+    lemma: חֲרָדָה
+    gloss: Charadah {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
     language: hebrew
   - strongs: H497
-    proximity: 0.8092
+    proximity: 0.8092 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

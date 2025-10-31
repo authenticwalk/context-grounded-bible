@@ -7,27 +7,27 @@ definition: a gnat
 kjv_usage: lice, [idiom] manner.
 derivation: from H3661 (כָּנַן) in the sense of fastening; (from infixing its sting;
   used only in plural (and irregular in Exodus 8:17,18; Hebrews 13:14))
-extended_definition:
-  gloss: gnat
-  definition: gnat, gnats, gnat-swarm
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: gnat, gnats, gnat-swarm {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7415
-    proximity: 0.8292
+    lemma: רִמָּה
+    gloss: a maggot {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   cross_language:
   - strongs: G4072
-    proximity: 0.8198
+    lemma: πέτομαι
+    gloss: to fly {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
     language: greek
   - strongs: G4597
-    proximity: 0.8139
+    lemma: σής
+    gloss: a moth {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: greek
   - strongs: G4663
-    proximity: 0.7971
+    lemma: σκώληξ
+    gloss: a grub {openscriptures-strongs}
+    proximity: 0.7971 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

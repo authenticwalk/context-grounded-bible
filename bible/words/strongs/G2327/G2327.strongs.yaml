@@ -5,39 +5,43 @@ transliteration: theristḗs
 definition: a harvester
 kjv_usage: reaper
 derivation: from G2325 (θερίζω);
-extended_definition:
-  gloss: reaper
-  definition: '<b>θεριστής</b>, -οῦ, ὁ<BR /> (θερίζω), [in LXX: <ref=''Bel.1.32''>Dan
-    LXX Bel 1:32</ref>, Th <ref=''Bel.1.33''>Bel 1:33</ref>* ;] <BR /><b>a reaper</b>:
-    <ref=''Mat.13.30, 39''>Mat.13:30, 39</ref>†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> θερ-ιστήρ</b>, ῆρος, ὁ, <br /> <b>mower, reaper</b>, [<a href="javascript:void(0)"
-    title=" 3rd c.BC: Lycophron Tragicus 840. ">Refs 3rd c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'θεριστής, -οῦ, ὁ
+
+  (θερίζω), [in LXX: Dan LXX Bel 1:32, Th Bel 1:33* ;]
+
+  a reaper: Mat.13:30, 39†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'θερ-ιστήρ, ῆρος, ὁ,
+
+  mower, reaper, [Refs 3rd c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G248
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
   - strongs: G2326
-    proximity: 0.7623
+    lemma: θερισμός
+    gloss: reaping {openscriptures-strongs}
+    proximity: 0.7623 {macula-proximity}
   cross_language:
   - strongs: H7916
-    proximity: 0.7984
+    lemma: שָׂכִיר
+    gloss: a man at wages  by the day or year {openscriptures-strongs}
+    proximity: 0.7984 {macula-proximity}
     language: hebrew
   - strongs: H1488
-    proximity: 0.7955
+    lemma: גֵּז
+    gloss: a fleece {openscriptures-strongs}
+    proximity: 0.7955 {macula-proximity}
     language: hebrew
   - strongs: H2770
-    proximity: 0.7942
+    lemma: חֶרְמֵשׁ
+    gloss: a sickle {openscriptures-strongs}
+    proximity: 0.7942 {macula-proximity}
     language: hebrew
   - strongs: H6092
-    proximity: 0.7888
+    lemma: עָצֵב
+    gloss: a  workman {openscriptures-strongs}
+    proximity: 0.7888 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

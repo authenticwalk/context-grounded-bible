@@ -6,47 +6,61 @@ pronunciation: reh'-shah
 definition: a wrong (especially moral)
 kjv_usage: iniquity, wicked(-ness).
 derivation: from H7561 (רָשַׁע);
-extended_definition:
-  gloss: wickedness
-  definition: 1) wrong, wickedness, guilt<br>1a) wickedness (as violence and crime
-    against civil law)<br>1b) wickedness (of enemies)<br>1c) wickedness (in ethical
-    relations)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) wrong, wickedness, guilt
+
+  1a) wickedness (as violence and crime against civil law)
+
+  1b) wickedness (of enemies)
+
+  1c) wickedness (in ethical relations) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A2408
-    proximity: 0.8265
+    proximity: 0.8265 {macula-proximity}
   - strongs: H4827
-    proximity: 0.8258
+    lemma: מֵרַע
+    gloss: used as  noun {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H2054
-    proximity: 0.8184
+    lemma: וָזָר
+    gloss: crime {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   - strongs: H6588
-    proximity: 0.8127
+    lemma: פֶּשַׁע
+    gloss: a revolt (national {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
   - strongs: H2555
-    proximity: 0.8077
+    lemma: חָמָס
+    gloss: violence {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
   - strongs: H2400
-    proximity: 0.7851
+    lemma: חַטָּא
+    gloss: a criminal {openscriptures-strongs}
+    proximity: 0.7851 {macula-proximity}
   - strongs: H4849
-    proximity: 0.7784
+    lemma: מִרְשַׁעַת
+    gloss: a female wicked doer {openscriptures-strongs}
+    proximity: 0.7784 {macula-proximity}
   cross_language:
   - strongs: G4234
-    proximity: 0.8205
+    lemma: πρᾶξις
+    gloss: practice {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
     language: greek
   - strongs: G2040
-    proximity: 0.817
+    lemma: ἐργάτης
+    gloss: a toiler {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
     language: greek
   - strongs: G92
-    proximity: 0.8137
+    proximity: 0.8137 {macula-proximity}
     language: greek
   - strongs: G2041
-    proximity: 0.8101
+    lemma: ἔργον
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
     language: greek
   - strongs: G113
-    proximity: 0.8004
+    proximity: 0.8004 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

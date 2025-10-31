@@ -5,37 +5,34 @@ transliteration: paroikía
 definition: foreign residence
 kjv_usage: sojourning, X as strangers
 derivation: from G3941 (πάροικος);
-extended_definition:
-  gloss: sojourning
-  definition: '<b>παρ-οικία</b>, -ας, ἡ<BR /> (παροικέω, which see), [in LXX: <ref=''Est.8.35''>Est.8:35</ref>
-    (גּוֹלָה), <ref=''Psa.34.4; 55.15; 119.54; 120.5''>Psa.34:4 55:15 119:54 120:5</ref>,
-    <ref=''Lam.2.22''>La 2:22</ref> (מָגוֹר; and cogn. forms), <ref=''Hab.3.16''>Hab.3:16</ref>,
-    I <ref=''Est.5.7''>Est.5:7</ref>, <ref=''Jdt.5.9''>Jdth.5:9</ref>, <ref=''Wis.19.10''>Wis.19:10</ref>,
-    Sir prol. <ref=''Sir.1.26; 16.8; 41.5; 44.6''>Sir.1:26 16:8 41:5 44:6</ref>, <ref=''3Ma.6.36''>3Ma.6:36</ref>
-    <ref=''3Mac.7.19''>3Mac 7:19</ref> * ;] <BR /><b>a sojourning</b>: <ref=''Act.13.17''>Act.13:17</ref>,
-    <ref=''1Pe.1.17''>1Pe.1:17</ref>.†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> παροικ-ία</b>, ἡ, <br /> (πάροικος [<a href="javascript:void(0)"
-    title=" 11)">Refs</a>] <b>sojourning</b> in a foreign land, [<a href="javascript:void(0)"
-    title=" LXX.Wis.19.10, NT.Act.13.17 ">LXX+NT</a>]; οἱ ἐν τῇ π., ={οἱ ἐκτός}, [<a
-    href="javascript:void(0)" title=" LXX “Si.Prol.” ">Refs</a>]
-  source: STEPBible/LSJ
+extended_definition: 'παρ-οικία, -ας, ἡ
+
+  (παροικέω, which see), [in LXX: Est.8:35 (גּוֹלָה), Psa.34:4 55:15 119:54 120:5,
+  La 2:22 (מָגוֹר; and cogn. forms), Hab.3:16, I Est.5:7, Jdth.5:9, Wis.19:10, Sir
+  prol. Sir.1:26 16:8 41:5 44:6, 3Ma.6:36 3Mac 7:19 * ;]
+
+  a sojourning: Act.13:17, 1Pe.1:17.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'παροικ-ία, ἡ,
+
+  (πάροικος [Refs] sojourning in a foreign land, [LXX+NT]; οἱ ἐν τῇ π., ={οἱ ἐκτός},
+  [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1927
-    proximity: 0.7589
+    lemma: ἐπιδημέω
+    gloss: to make oneself at home {openscriptures-strongs}
+    proximity: 0.7589 {macula-proximity}
   cross_language:
   - strongs: H5115
-    proximity: 0.8252
+    lemma: נָוָה
+    gloss: to rest {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: hebrew
   - strongs: H3427
-    proximity: 0.7893
+    lemma: יָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7893 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

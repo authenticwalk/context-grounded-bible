@@ -6,33 +6,37 @@ pronunciation: gheb-eh'-reth
 definition: mistress
 kjv_usage: lady, mistress.
 derivation: feminine of H1376 (גְּבִיר);
-extended_definition:
-  gloss: lady
-  definition: 1) lady, queen<br>2) mistress (of servants)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) lady, queen
+
+  2) mistress (of servants) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H113
-    proximity: 0.8078
+    proximity: 0.8078 {macula-proximity}
   - strongs: A7695
-    proximity: 0.7784
+    proximity: 0.7784 {macula-proximity}
   - strongs: H1377
-    proximity: 0.7482
+    lemma: גְּבִירָה
+    gloss: a mistress {openscriptures-strongs}
+    proximity: 0.7482 {macula-proximity}
   - strongs: H4446
-    proximity: 0.7296
+    lemma: מְלֶכֶת
+    gloss: a queen {openscriptures-strongs}
+    proximity: 0.7296 {macula-proximity}
   cross_language:
   - strongs: G2338
-    proximity: 0.8133
+    lemma: θῆλυς
+    gloss: female {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
     language: greek
   - strongs: G1203
-    proximity: 0.8103
+    lemma: δεσπότης
+    gloss: an absolute ruler {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
     language: greek
   - strongs: G2959
-    proximity: 0.7712
+    lemma: Κυρία
+    gloss: Cyria {openscriptures-strongs}
+    proximity: 0.7712 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,47 +6,65 @@ pronunciation: daw-maw'
 definition: to compare; by implication, to resemble, liken, consider
 kjv_usage: compare, devise, (be) like(-n), mean, think, use similitudes.
 derivation: a primitive root;
-extended_definition:
-  gloss: to resemble
-  definition: '1) to be like, resemble<br>1a) (Qal) to be like, resemble<br>1b) (Piel)<br>1b1)
-    to liken, compare<br>1b2) to imagine, think<br>1c) (Hithpael) to make oneself
-    like<br>1d) (Niphal)<BR>Aramaic equivalent: <i>de.mah</i> (דְּמָה "be like" H1821)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be like, resemble
+
+  1a) (Qal) to be like, resemble
+
+  1b) (Piel)
+
+  1b1) to liken, compare
+
+  1b2) to imagine, think
+
+  1c) (Hithpael) to make oneself like
+
+  1d) (Niphal)
+
+  Aramaic equivalent: de.mah (דְּמָה "be like" H1821) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6004a
-    proximity: 0.8259
+    proximity: 0.8259 {macula-proximity}
   - strongs: H5541a
-    proximity: 0.8231
+    proximity: 0.8231 {macula-proximity}
   - strongs: H6098
-    proximity: 0.8156
+    lemma: עֵצָה
+    gloss: advice {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
   - strongs: A7476
-    proximity: 0.8143
+    proximity: 0.8143 {macula-proximity}
   - strongs: A3509d
-    proximity: 0.8086
+    proximity: 0.8086 {macula-proximity}
   - strongs: H6250
-    proximity: 0.7933
+    lemma: עֶשְׁתֹּנָה
+    gloss: thinking {openscriptures-strongs}
+    proximity: 0.7933 {macula-proximity}
   - strongs: H1823
-    proximity: 0.7909
+    lemma: דְּמוּת
+    gloss: resemblance {openscriptures-strongs}
+    proximity: 0.7909 {macula-proximity}
   cross_language:
   - strongs: G2309
-    proximity: 0.8188
+    lemma: θέλω
+    gloss: to determine (as an active option from subjective impulse {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
     language: greek
   - strongs: G1270
-    proximity: 0.8181
+    lemma: διανόημα
+    gloss: something thought through {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
     language: greek
   - strongs: G5426
-    proximity: 0.8159
+    lemma: φρονέω
+    gloss: to exercise the mind {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
     language: greek
   - strongs: G1503a
-    proximity: 0.7931
+    proximity: 0.7931 {macula-proximity}
     language: greek
   - strongs: G2509
-    proximity: 0.7919
+    lemma: καθάπερ
+    gloss: exactly as {openscriptures-strongs}
+    proximity: 0.7919 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

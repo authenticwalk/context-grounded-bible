@@ -5,57 +5,63 @@ transliteration: ichthýdion
 definition: a petty fish
 kjv_usage: little (small) fish
 derivation: diminutive from G2486 (ἰχθύς);
-extended_definition:
-  gloss: little fish
-  definition: '<b>ἰχθύδιον</b>, -ου, τό<BR /> (dimin. of ἰχθύς), <BR /><b>a little
-    fish</b>: <ref=''Mat.15.34''>Mat.15:34</ref>, <ref=''Mrk.8.7''>Mrk.8:7</ref>.†<BR
-    /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἰχθύδιον</b>, τό, <br /> <i>diminutive</i> of ἰχθύς, <b>little
-    fish</b>, frequently in Comedy texts (see. below), [<a href="javascript:void(0)"
-    title=" 3rd c.BC: Chrysippus Stoicus 2.208, “PFlor.” 119.7 (3rd c.AD), 4th c.AD:
-    Julianus Imperator “Misopogon” 350b, etc. [ῡ, 5th-6th c.BC: Aristophanes Comicus
-    “Fragmenta” 387.8, 5th c.BC: Theopompus Comicus 62.3, 4th c.BC: Anaxilas Comicus
-    19, 4th c.BC: Cratinus Junior Comicus 13, “POxy.” 784 (1st c.BC)">Refs 5th c.BC+</a>],
-    etc.; but ῠ in dact., [<a href="javascript:void(0)" title="“Anthologia Graeca”
-    11.405 (1st c.AD: Lucillius Epigrammaticus), 4th c.BC: Archestratus Epicus “fragment”
-    45.18.] ">Refs 4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἰχθύδιον, -ου, τό
+
+  (dimin. of ἰχθύς),
+
+  a little fish: Mat.15:34, Mrk.8:7.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἰχθύδιον, τό,
+
+  diminutive of ἰχθύς, little fish, frequently in Comedy texts (see. below), [Refs
+  5th c.BC+], etc.; but ῠ in dact., [Refs 4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3398
-    proximity: 0.8064
+    lemma: μικρός
+    gloss: small (in size {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
   - strongs: G2245
-    proximity: 0.7915
+    lemma: ἡλίκος
+    gloss: as big as {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
   - strongs: G1646
-    proximity: 0.7652
+    lemma: ἐλάχιστος
+    gloss: used as equivalent to G3398 {openscriptures-strongs}
+    proximity: 0.7652 {macula-proximity}
   - strongs: G3016
-    proximity: 0.7588
+    lemma: λεπτόν
+    gloss: something scaled {openscriptures-strongs}
+    proximity: 0.7588 {macula-proximity}
   - strongs: G3519
-    proximity: 0.7188
+    lemma: νησίον
+    gloss: an islet {openscriptures-strongs}
+    proximity: 0.7188 {macula-proximity}
   - strongs: G4142
-    proximity: 0.713
+    lemma: πλοιάριον
+    gloss: a boat {openscriptures-strongs}
+    proximity: 0.713 {macula-proximity}
   cross_language:
   - strongs: H6819
-    proximity: 0.8225
+    lemma: צָעַר
+    gloss: to be small {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: hebrew
   - strongs: H1770
-    proximity: 0.8125
+    lemma: דִּיג
+    gloss: to fish {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: hebrew
   - strongs: H6996a
-    proximity: 0.8037
+    proximity: 0.8037 {macula-proximity}
     language: hebrew
   - strongs: H6872a
-    proximity: 0.7979
+    proximity: 0.7979 {macula-proximity}
     language: hebrew
   - strongs: H6996
-    proximity: 0.797
+    lemma: קָטָן
+    gloss: abbreviated {openscriptures-strongs}
+    proximity: 0.797 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

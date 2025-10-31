@@ -10,52 +10,77 @@ kjv_usage: he, as for her, him(-self), it, the same, she (herself), such, that (
   these, they, this, those, which (is), who.
 derivation: of which the feminine (beyond the Pentateuch) is הִיא; a primitive word,
   the third person pronoun singular;
-extended_definition:
-  gloss: he/she/it
-  definition: pron 3p s<br>1) he, she, it<br>1a) himself (with emphasis)<br>1b) resuming
-    subj with emphasis<br>1c) (with minimum emphasis following predicate)<br>1d) (anticipating
-    subj)<br>1e) (emphasising predicate)<br>1f) that, it (neuter) demons pron<br>2)
-    that (with article)
-  morphology: H:PerP-CS
-  source: STEPBible/BDB
+extended_definition: 'pron 3p s
+
+  1) he, she, it
+
+  1a) himself (with emphasis)
+
+  1b) resuming subj with emphasis
+
+  1c) (with minimum emphasis following predicate)
+
+  1d) (anticipating subj)
+
+  1e) (emphasising predicate)
+
+  1f) that, it (neuter) demons pron
+
+  2) that (with article) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4616
-    proximity: 0.8277
+    lemma: מַעַן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H6256
-    proximity: 0.8258
+    lemma: עֵת
+    gloss: time {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H6153
-    proximity: 0.825
+    lemma: עֶרֶב
+    gloss: dusk {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: A4567
-    proximity: 0.8243
+    proximity: 0.8243 {macula-proximity}
   - strongs: H3860
-    proximity: 0.8242
+    lemma: לָהֵן
+    gloss: popularly for if {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H1886b
-    proximity: 0.821
+    proximity: 0.821 {macula-proximity}
   - strongs: A1934
-    proximity: 0.8184
+    proximity: 0.8184 {macula-proximity}
   - strongs: H5315
-    proximity: 0.8154
+    lemma: נֶפֶשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: A116
-    proximity: 0.8153
+    proximity: 0.8153 {macula-proximity}
   cross_language:
   - strongs: G5101
-    proximity: 0.8294
+    lemma: τίς
+    gloss: an interrogative pronoun {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G1511
-    proximity: 0.8289
+    lemma: εἶναι
+    gloss: to exist {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: greek
   - strongs: G3303
-    proximity: 0.8234
+    lemma: μέν
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
     language: greek
   - strongs: G4314
-    proximity: 0.8219
+    lemma: πρός
+    gloss: a preposition of direction {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
     language: greek
   - strongs: G1691
-    proximity: 0.8207
+    lemma: ἐμέ
+    gloss: me {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

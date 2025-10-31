@@ -6,51 +6,67 @@ pronunciation: dev-ah'ee
 definition: sickness; figuratively, loathing
 kjv_usage: languishing, sorrowful.
 derivation: from H1739 (דָּוֶה);
-extended_definition:
-  gloss: illness
-  definition: illness, languishing
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: illness, languishing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1604
-    proximity: 0.8284
+    lemma: גֹּעַל
+    gloss: abhorrence {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H8262
-    proximity: 0.8258
+    lemma: שָׁקַץ
+    gloss: to be filthy {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H8581
-    proximity: 0.798
+    lemma: תַּעָב
+    gloss: to loathe {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
   - strongs: H2456
-    proximity: 0.7963
+    lemma: חָלָא
+    gloss: to be sick {openscriptures-strongs}
+    proximity: 0.7963 {macula-proximity}
   - strongs: H6210
-    proximity: 0.7936
+    lemma: עֶרֶשׂ
+    gloss: a couch (properly {openscriptures-strongs}
+    proximity: 0.7936 {macula-proximity}
   - strongs: H6973
-    proximity: 0.7664
+    lemma: קוּץ
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7664 {macula-proximity}
   - strongs: H1602
-    proximity: 0.7518
+    lemma: גָּעַל
+    gloss: to detest {openscriptures-strongs}
+    proximity: 0.7518 {macula-proximity}
   - strongs: H8463
-    proximity: 0.7465
+    lemma: תַּחֲלוּא
+    gloss: a malady {openscriptures-strongs}
+    proximity: 0.7465 {macula-proximity}
   - strongs: H6962
-    proximity: 0.7351
+    lemma: קוּט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7351 {macula-proximity}
   - strongs: H2483
-    proximity: 0.7326
+    lemma: חֳלִי
+    gloss: malady {openscriptures-strongs}
+    proximity: 0.7326 {macula-proximity}
   cross_language:
   - strongs: G4595
-    proximity: 0.8271
+    lemma: σήπω
+    gloss: to putrefy {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G770
-    proximity: 0.8155
+    proximity: 0.8155 {macula-proximity}
     language: greek
   - strongs: G2560
-    proximity: 0.8113
+    lemma: κακῶς
+    gloss: badly {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
     language: greek
   - strongs: G655
-    proximity: 0.7889
+    proximity: 0.7889 {macula-proximity}
     language: greek
   - strongs: G732
-    proximity: 0.7587
+    proximity: 0.7587 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

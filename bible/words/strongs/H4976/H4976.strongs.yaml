@@ -6,46 +6,56 @@ pronunciation: mat-tawn'
 definition: a present
 kjv_usage: gift, to give, reward.
 derivation: from H5414 (נָתַן);
-extended_definition:
-  gloss: gift
-  definition: gifts, offerings, presents
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: gifts, offerings, presents {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5071
-    proximity: 0.8288
+    lemma: נְדָבָה
+    gloss: properly  spontaneity {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.8179
+    proximity: 0.8179 {macula-proximity}
   - strongs: H5414
-    proximity: 0.8149
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
   - strongs: H8573
-    proximity: 0.8121
+    lemma: תְּנוּפָה
+    gloss: a brandishing {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H6944
-    proximity: 0.796
+    lemma: קֹדֶשׁ
+    gloss: a sacred place or thing {openscriptures-strongs}
+    proximity: 0.796 {macula-proximity}
   - strongs: H1293
-    proximity: 0.7461
+    lemma: בְּרָכָה
+    gloss: benediction {openscriptures-strongs}
+    proximity: 0.7461 {macula-proximity}
   - strongs: H2598
-    proximity: 0.7189
+    lemma: חֲנֻכָּה
+    gloss: initiation {openscriptures-strongs}
+    proximity: 0.7189 {macula-proximity}
   - strongs: H868
-    proximity: 0.7179
+    proximity: 0.7179 {macula-proximity}
   - strongs: H8641
-    proximity: 0.7067
+    lemma: תְּרוּמָה
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.7067 {macula-proximity}
   cross_language:
   - strongs: G2878a
-    proximity: 0.7872
+    proximity: 0.7872 {macula-proximity}
     language: greek
   - strongs: G100
-    proximity: 0.7565
+    proximity: 0.7565 {macula-proximity}
     language: greek
   - strongs: G3311
-    proximity: 0.7517
+    lemma: μερισμός
+    gloss: a separation or distribution {openscriptures-strongs}
+    proximity: 0.7517 {macula-proximity}
     language: greek
   - strongs: G5486
-    proximity: 0.742
+    lemma: χάρισμα
+    gloss: a  gratuity {openscriptures-strongs}
+    proximity: 0.742 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

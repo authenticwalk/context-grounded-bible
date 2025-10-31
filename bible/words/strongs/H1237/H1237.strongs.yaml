@@ -6,40 +6,43 @@ pronunciation: bik-aw'
 definition: properly, a split, i.e. a wide level valley between mountains
 kjv_usage: plain, valley.
 derivation: from H1234 (בָּקַע);
-extended_definition:
-  gloss: valley
-  definition: '1) valley<br>2) plain, level valley<BR>Aramaic equivalent: <i>biq.a</i>
-    (בִּקְעָא "plain" H1236)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) valley
+
+  2) plain, level valley
+
+  Aramaic equivalent: biq.a (בִּקְעָא "plain" H1236) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1516b
-    proximity: 0.8051
+    proximity: 0.8051 {macula-proximity}
   - strongs: H5158
-    proximity: 0.8002
+    lemma: נַחַל
+    gloss: a stream {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: H425b
-    proximity: 0.7876
+    proximity: 0.7876 {macula-proximity}
   - strongs: H1996
-    proximity: 0.7836
+    lemma: הֲמוֹן גּוֹג
+    gloss: the multitude of Gog {openscriptures-strongs}
+    proximity: 0.7836 {macula-proximity}
   - strongs: H1516f
-    proximity: 0.7769
+    proximity: 0.7769 {macula-proximity}
   - strongs: H1516e
-    proximity: 0.7723
+    proximity: 0.7723 {macula-proximity}
   - strongs: H1516a
-    proximity: 0.7719
+    proximity: 0.7719 {macula-proximity}
   - strongs: H1516c
-    proximity: 0.771
+    proximity: 0.771 {macula-proximity}
   - strongs: H1516d
-    proximity: 0.7512
+    proximity: 0.7512 {macula-proximity}
   - strongs: H8219
-    proximity: 0.7435
+    lemma: שְׁפֵלָה
+    gloss: Lowland {openscriptures-strongs}
+    proximity: 0.7435 {macula-proximity}
   cross_language:
   - strongs: G5493
-    proximity: 0.7892
+    lemma: χείμαῤῥος
+    gloss: a storm-runlet {openscriptures-strongs}
+    proximity: 0.7892 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

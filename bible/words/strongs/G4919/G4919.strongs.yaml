@@ -5,49 +5,56 @@ transliteration: synthrýptō
 definition: to crush together, i.e. (figuratively) to dispirit
 kjv_usage: break
 derivation: from G4862 (σύν) and (to crumble);
-extended_definition:
-  gloss: to break
-  definition: '<b>συν-θρύπτω </b><BR /> <b>to break in pieces, crush</b>: metaphorically,
-    τ. καρδίαν, <ref=''Act.21.13.''>Act.21:13.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συνθρύπτω</b>, <br /> <b>break in pieces: crush</b>, τὴν καρδίαν
-    [<a href="javascript:void(0)" title=" NT.Act.21.13. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συν-θρύπτω
+
+  to break in pieces, crush: metaphorically, τ. καρδίαν, Act.21:13.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συνθρύπτω,
+
+  break in pieces: crush, τὴν καρδίαν [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1284
-    proximity: 0.8234
+    lemma: διαῤῥήσσω
+    gloss: to tear asunder {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
   - strongs: G953
-    proximity: 0.812
+    proximity: 0.812 {macula-proximity}
   - strongs: A6562
-    proximity: 0.8119
+    proximity: 0.8119 {macula-proximity}
   - strongs: G1964
-    proximity: 0.8119
+    lemma: ἐπιορκέω
+    gloss: to commit perjury {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: G3845
-    proximity: 0.8102
+    lemma: παραβαίνω
+    gloss: to go contrary to {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
   - strongs: A5053
-    proximity: 0.8091
+    proximity: 0.8091 {macula-proximity}
   cross_language:
   - strongs: H871a
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
     language: hebrew
   - strongs: H5221
-    proximity: 0.8298
+    lemma: נָכָה
+    gloss: to strike (lightly or severely {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: hebrew
   - strongs: H5823
-    proximity: 0.8278
+    lemma: עָזַק
+    gloss: to grub over {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: hebrew
   - strongs: H6561
-    proximity: 0.8203
+    lemma: פָּרַק
+    gloss: to break off or crunch {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
     language: hebrew
   - strongs: H3512
-    proximity: 0.8175
+    lemma: כָּאָה
+    gloss: to despond {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

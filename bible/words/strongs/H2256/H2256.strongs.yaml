@@ -12,42 +12,63 @@ derivation: or חֵבֶל; from H2254 (חָבַל);
 related_words:
   synonyms:
   - strongs: H272
-    proximity: 0.83
+    proximity: 0.83 {macula-proximity}
   - strongs: H8642
-    proximity: 0.8246
+    lemma: תְּרוּמִיָּה
+    gloss: a sacrificial offering {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: H5296
-    proximity: 0.8221
+    lemma: נְעֹרֶת
+    gloss: something shaken out {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H594
-    proximity: 0.8114
+    proximity: 0.8114 {macula-proximity}
   - strongs: H5159
-    proximity: 0.8059
+    lemma: נַחֲלָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8059 {macula-proximity}
   - strongs: H612
-    proximity: 0.797
+    proximity: 0.797 {macula-proximity}
   - strongs: H1552
-    proximity: 0.7813
+    lemma: גְלִילָה
+    gloss: a circuit or region {openscriptures-strongs}
+    proximity: 0.7813 {macula-proximity}
   - strongs: H2506
-    proximity: 0.7787
+    lemma: חֵלֶק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7787 {macula-proximity}
   - strongs: H1366
-    proximity: 0.7776
+    lemma: גְּבוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7776 {macula-proximity}
   - strongs: H4020
-    proximity: 0.7745
+    lemma: מִגְבָּלָה
+    gloss: a border {openscriptures-strongs}
+    proximity: 0.7745 {macula-proximity}
   cross_language:
   - strongs: G4066
-    proximity: 0.8247
+    lemma: περίχωρος
+    gloss: around the region {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: greek
   - strongs: G5117
-    proximity: 0.8154
+    lemma: τόπος
+    gloss: a spot (general in space {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
     language: greek
   - strongs: G3313
-    proximity: 0.8134
+    lemma: μέρος
+    gloss: a division or share (literally or figuratively {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
     language: greek
   - strongs: G4886
-    proximity: 0.8118
+    lemma: σύνδεσμος
+    gloss: a joint tie {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
     language: greek
   - strongs: G1093
-    proximity: 0.7937
+    lemma: γῆ
+    gloss: soil {openscriptures-strongs}
+    proximity: 0.7937 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

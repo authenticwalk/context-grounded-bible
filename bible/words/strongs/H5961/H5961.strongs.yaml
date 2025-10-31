@@ -6,32 +6,38 @@ pronunciation: al-aw-moth'
 definition: properly, girls, i.e. the soprano or female voice, perhaps falsetto
 kjv_usage: Alamoth.
 derivation: plural of H5959 (עַלְמָה);
-extended_definition:
-  gloss: Alamoth
-  definition: <BR>  young women, soprano?<br>a term in psalm heading-Alamoth<br>
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: 'young women, soprano?
+
+  a term in psalm heading-Alamoth {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1330
-    proximity: 0.8185
+    lemma: בְּתוּלָה
+    gloss: a virgin {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: H5291
-    proximity: 0.8048
+    lemma: נַעֲרָה
+    gloss: a girl {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
   - strongs: H7361
-    proximity: 0.8047
+    lemma: רַחֲמָה
+    gloss: a maiden {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
   - strongs: A7032
-    proximity: 0.7886
+    proximity: 0.7886 {macula-proximity}
   - strongs: H5959
-    proximity: 0.7786
+    lemma: עַלְמָה
+    gloss: a lass {openscriptures-strongs}
+    proximity: 0.7786 {macula-proximity}
   cross_language:
   - strongs: G5456
-    proximity: 0.8008
+    lemma: φωνή
+    gloss: a tone (articulate {openscriptures-strongs}
+    proximity: 0.8008 {macula-proximity}
     language: greek
   - strongs: G5353
-    proximity: 0.7936
+    lemma: φθόγγος
+    gloss: utterance {openscriptures-strongs}
+    proximity: 0.7936 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

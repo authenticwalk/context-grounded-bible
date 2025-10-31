@@ -5,59 +5,69 @@ transliteration: homóphrōn
 definition: like-minded, i.e. harmonious
 kjv_usage: of one mind
 derivation: from the base of G3674 (ὁμοῦ) and G5424 (φρήν);
-extended_definition:
-  gloss: like-minded
-  definition: '<b>ὁμόφρων</b>, -ον<BR /> (ὁμός, φρήν), = ὁμόνοος, <BR /><b>agreeing,
-    of one mind</b>: <ref=''1Pe.3.8.''>1Pe.3:8.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὁμό-φρων</b>, ονος, ὁ, ἡ, <br /> ={ὁμόνοος}, <b>agreeing, united,</b>
-    ὁμόφρονα θυμὸν ἔχουσιν [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus
-    Epicus “Illiad” 22.263, compare 8th-7th c.BC: Hesiodus Epicus “Theogonia” 60,
-    6th c.BC: Theognis Elegiacus 81; ὁμόφρονος εὐνᾶς 5th c.BC: Pindarus Lyricus “O.”
-    7.6; ὁ. λόγος 5th-6th c.BC: Aristophanes Comicus “Aves” 632 (Lyric poetry)">Refs
-    8th c.BC+</a>]. <i>adverb</i> <b>-όνως</b>[<a href="javascript:void(0)" title="
-    2nd c.AD: Oenomaus Philosophus cited in 4th c.AD: Eusebius Caesariensis Scriptor
-    Ecclesiasticus “Praeparatio Evangelica” 5.33 ">Refs 2nd c.AD+</a>]; <i>poetry</i>
-    <b>-ονέως</b> [<a href="javascript:void(0)" title="“IG” 9(1).235.6 (_Locrian dialect_).
-    ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ὁμόφρων, -ον
+
+  (ὁμός, φρήν), = ὁμόνοος,
+
+  agreeing, of one mind: 1Pe.3:8.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὁμό-φρων, ονος, ὁ, ἡ,
+
+  ={ὁμόνοος}, agreeing, united, ὁμόφρονα θυμὸν ἔχουσιν [Refs 8th c.BC+]. adverb -όνως[Refs
+  2nd c.AD+]; poetry -ονέως [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4776
-    proximity: 0.8139
+    lemma: συγκαθίζω
+    gloss: to give  a seat in company with {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: G2588
-    proximity: 0.8049
+    lemma: καρδία
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: G4856
-    proximity: 0.7901
+    lemma: συμφωνέω
+    gloss: to be harmonious {openscriptures-strongs}
+    proximity: 0.7901 {macula-proximity}
   - strongs: G3391
-    proximity: 0.779
+    lemma: μία
+    gloss: one or first {openscriptures-strongs}
+    proximity: 0.779 {macula-proximity}
   - strongs: G3510
-    proximity: 0.7639
+    lemma: νεφρός
+    gloss: a kidney {openscriptures-strongs}
+    proximity: 0.7639 {macula-proximity}
   - strongs: A3825
-    proximity: 0.7604
+    proximity: 0.7604 {macula-proximity}
   - strongs: G5424
-    proximity: 0.7476
+    lemma: φρήν
+    gloss: the midrif {openscriptures-strongs}
+    proximity: 0.7476 {macula-proximity}
   - strongs: G5427
-    proximity: 0.7408
+    lemma: φρόνημα
+    gloss: inclination or purpose {openscriptures-strongs}
+    proximity: 0.7408 {macula-proximity}
   - strongs: G1271
-    proximity: 0.7393
+    lemma: διάνοια
+    gloss: deep thought {openscriptures-strongs}
+    proximity: 0.7393 {macula-proximity}
   - strongs: G1106
-    proximity: 0.7317
+    lemma: γνώμη
+    gloss: cognition {openscriptures-strongs}
+    proximity: 0.7317 {macula-proximity}
   cross_language:
   - strongs: H3824
-    proximity: 0.8176
+    lemma: לֵבָב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
     language: hebrew
   - strongs: H3162a
-    proximity: 0.7822
+    proximity: 0.7822 {macula-proximity}
     language: hebrew
   - strongs: H3820
-    proximity: 0.7607
+    lemma: לֵב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.7607 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,35 +7,45 @@ definition: Sheba, the name of three early progenitors of tribes and of an Ethio
   district
 kjv_usage: Sheba, Sabeans.
 derivation: of foreign origin;
-extended_definition:
-  gloss: Sheba
-  definition: <BR> § Sheba = "seven" or "an oath"<br>a nation in southern Arabia
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Sheba = "seven" or "an oath"
+
+  a nation in southern Arabia {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A896
-    proximity: 0.83
+    proximity: 0.83 {macula-proximity}
   - strongs: H5434
-    proximity: 0.8296
+    lemma: סְבָא
+    gloss: Seba {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H8090
-    proximity: 0.8232
+    lemma: שְׁמָע
+    gloss: Shema {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H8221
-    proximity: 0.8231
+    lemma: שְׁפָם
+    gloss: Shepham {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H8087
-    proximity: 0.8227
+    lemma: שֶׁמַע
+    gloss: Shema {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H7956
-    proximity: 0.8224
+    lemma: שֵׁלָה
+    gloss: Shelah {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
   - strongs: H1340
-    proximity: 0.8104
+    lemma: בַּת־שׁוּעַ
+    gloss: Bath-shua {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
   - strongs: H8062
-    proximity: 0.8099
+    lemma: שְׁמִידָעִי
+    gloss: a Shemidaite  or descendants of Shemida {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
   - strongs: H7927a
-    proximity: 0.8018
+    proximity: 0.8018 {macula-proximity}
   - strongs: H7927
-    proximity: 0.8012
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: שְׁכֶם
+    gloss: Shekem {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

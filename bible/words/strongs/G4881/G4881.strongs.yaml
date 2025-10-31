@@ -5,59 +5,64 @@ transliteration: synapóllymi
 definition: to destroy (middle voice or passively, be slain) in company with
 kjv_usage: perish with
 derivation: from G4862 (σύν) and G622 (ἀπόλλυμι);
-extended_definition:
-  gloss: to die/destroy with
-  definition: '<b>συν-απ-όλλυμι </b><BR /> [in LXX chiefly for סָפָה ;] <BR />to destroy
-    with or together. Pass., <b>to perish together </b>(with): with dative of person(s),
-    <ref=''Heb.11.31.''>Heb.11:31.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συναπόλλῡμι</b>, <br /> <b>destroy together</b>, μετά τινος
-    [<a href="javascript:void(0)" title=" 5th c.BC: Antipho Orator 5.82 ">Refs 5th
-    c.BC+</a>]; σ. τοὺς φίλους <b>destroy one''s</b> friends <b>as well as oneself</b>,
-    [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 6.12; συνηγόρους
-    καλεῖν τοὺς συναπολοῦντάς τινα 4th c.BC: Hyperides Orator “pro Lycophrone” 19
-    ">Refs 5th c.BC+</a>]; σ. τὰ Χρήματα <b>lose</b> the money <b>also</b>, [<a href="javascript:void(0)"
-    title=" 4th c.BC: Demosthenes Orator 34.2 ">Refs 4th c.BC+</a>]; τινί τι one thing
-    <b>with</b> another, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus
-    Biographus et Philosophus “Cat.Mi.” 38 ">Refs 1st c.AD+</a>]:—<i>passive</i>,
-    <b>perish together</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides
-    Historicus 2.60, 5th c.BC: Lysias Orator 12.88: with _dative_, 5th c.BC: Herodotus
-    Historicus 7.221, 5th-6th c.BC: Plato Philosophus “Critias” 121a, NT.Heb.11.31.
-    ">NT+5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συν-απ-όλλυμι
+
+  [in LXX chiefly for סָפָה ;]
+
+  to destroy with or together. Pass., to perish together (with): with dative of person(s),
+  Heb.11:31.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συναπόλλῡμι,
+
+  destroy together, μετά τινος [Refs 5th c.BC+]; σ. τοὺς φίλους destroy one''s friends
+  as well as oneself, [Refs 5th c.BC+]; σ. τὰ Χρήματα lose the money also, [Refs 4th
+  c.BC+]; τινί τι one thing with another, [Refs 1st c.AD+]:—passive, perish together,
+  [NT+5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3588
-    proximity: 0.8114
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
   - strongs: G1519
-    proximity: 0.8083
+    lemma: εἰς
+    gloss: to or into {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
   - strongs: G5056
-    proximity: 0.8073
+    lemma: τέλος
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8073 {macula-proximity}
   - strongs: G2192
-    proximity: 0.8045
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
   - strongs: G4862
-    proximity: 0.7871
+    lemma: σύν
+    gloss: with or together  or G3844 ) {openscriptures-strongs}
+    proximity: 0.7871 {macula-proximity}
   cross_language:
   - strongs: H5493
-    proximity: 0.8291
+    lemma: סוּר
+    gloss: to turn off {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
     language: hebrew
   - strongs: H7451b
-    proximity: 0.8289
+    proximity: 0.8289 {macula-proximity}
     language: hebrew
   - strongs: H7665
-    proximity: 0.8225
+    lemma: שָׁבַר
+    gloss: to burst {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: hebrew
   - strongs: H4072
-    proximity: 0.8189
+    lemma: מִדְחֶה
+    gloss: overthrow {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
     language: hebrew
   - strongs: H4191
-    proximity: 0.8127
+    lemma: מוּת
+    gloss: to die {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

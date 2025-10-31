@@ -5,29 +5,26 @@ transliteration: Phortounâtos
 definition: '"fortunate"; Fortunatus, a Christian'
 kjv_usage: Fortunatus
 derivation: of Latin origin;
-extended_definition:
-  gloss: Fortunatus
-  definition: '<b>φορτούνατος</b> (Rec. Φουρ-, see Mayser, 116 f.), -ου, ὁ <BR />
-    (Lat.) Fortunatus: <ref=''1Co.16.17''>1Co.16:17</ref> (see Lft., Cl. Ro., 1Co.,
-    59).†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>φορτούνατος</b> (Rec. Φουρ-, see Mayser, 116 f.), -ου, ὁ <BR
-    /> (Lat.) Fortunatus: <ref=''1Co.16.17''>1Co.16:17</ref> (see Lft., Cl. Ro., 1Co.,
-    59).†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'φορτούνατος (Rec. Φουρ-, see Mayser, 116 f.), -ου, ὁ
+
+  (Lat.) Fortunatus: 1Co.16:17 (see Lft., Cl. Ro., 1Co., 59).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'φορτούνατος (Rec. Φουρ-, see Mayser, 116 f.), -ου, ὁ
+
+  (Lat.) Fortunatus: 1Co.16:17 (see Lft., Cl. Ro., 1Co., 59).†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H5022
-    proximity: 0.8272
+    lemma: נָבוֹת
+    gloss: Naboth {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: hebrew
   - strongs: H5184
-    proximity: 0.8226
+    lemma: נַחַת
+    gloss: Nachath {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

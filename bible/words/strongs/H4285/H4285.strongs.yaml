@@ -6,49 +6,72 @@ pronunciation: makh-shawk'
 definition: darkness; concretely, a dark place
 kjv_usage: dark(-ness, place).
 derivation: from H2821 (חָשַׁךְ);
-extended_definition:
-  gloss: darkness
-  definition: '1) darkness, dark place, secrecy<br>1a) hiding-place<br>1b) dark region<br>1c)
-    grave<BR>Aramaic equivalent: <i>cha.shokh</i> (חֲשׁוֹךְ "darkness" H2816)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) darkness, dark place, secrecy
+
+  1a) hiding-place
+
+  1b) dark region
+
+  1c) grave
+
+  Aramaic equivalent: cha.shokh (חֲשׁוֹךְ "darkness" H2816) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4801
-    proximity: 0.8293
+    lemma: מֶרְחָק
+    gloss: remoteness {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: H4774
-    proximity: 0.8263
+    lemma: מַרְגֵּעָה
+    gloss: rest {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: H4800
-    proximity: 0.8252
+    lemma: מֶרְחָב
+    gloss: enlargement {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
   - strongs: H3993
-    proximity: 0.8243
+    lemma: מַאֲרָב
+    gloss: an ambuscade {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: H7838
-    proximity: 0.8221
+    lemma: שָׁחֹר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H4740
-    proximity: 0.8209
+    lemma: מַקְצוֹעַ
+    gloss: an angle or recess {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: H776
-    proximity: 0.8183
+    proximity: 0.8183 {macula-proximity}
   - strongs: H5118
-    proximity: 0.8158
+    lemma: נוּחַ
+    gloss: quiet {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: H4302
-    proximity: 0.8158
+    lemma: מַטָּע
+    gloss: something planted {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: H2788
-    proximity: 0.814
+    lemma: חָרֵר
+    gloss: arid {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
   cross_language:
   - strongs: G3699
-    proximity: 0.8245
+    lemma: ὅπου
+    gloss: what where {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
     language: greek
   - strongs: G2927a
-    proximity: 0.8219
+    proximity: 0.8219 {macula-proximity}
     language: greek
   - strongs: G4654
-    proximity: 0.8204
+    lemma: σκοτίζω
+    gloss: to obscure {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
     language: greek
   - strongs: G2732
-    proximity: 0.8124
+    lemma: κατοικητήριον
+    gloss: a dwelling-place {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

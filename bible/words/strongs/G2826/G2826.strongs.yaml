@@ -5,43 +5,43 @@ transliteration: klinídion
 definition: a pallet or little couch
 kjv_usage: bed
 derivation: neuter of a presumed derivative of G2825 (κλίνη);
-extended_definition:
-  gloss: bed
-  definition: '<b>κλινίδιον</b>, -ου, τό <BR /> dimin. of κλίνη, <BR /> <b>a conch</b>:
-    <ref=''Luk.5.19, 24''>Luk.5:19, 24</ref> (cf. κλενάριον).†<BR /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κλῑν-ίδιον</b>, τό, <br /> <i>diminutive</i> of κλίνη, [<a
-    href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Lysistrata”
-    916, 1st c.BC: Dionysius Halicarnassensis 7.68, 1st c.AD: Josephus Historicus
-    “Antiquitates Judaicae” 17.6.3, 1st-2nd c.AD: Plutarchus Biographus et Philosophus
-    2.751b">Refs 5th c.BC+</a>]; κ. κρεμαστόν [<a href="javascript:void(0)" title="
-    2nd c.AD: Antyllus Medicus cited in 4th c.AD: Oribasius Medicus 6.23.6, 1st c.AD:
-    Herodotus Medicus cited in [same work] 6.25.4. ">Refs 1st c.AD+</a>]<br /><Level3><b>__2</b></Level3>
-    = Latin <i>lectica</i>, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus
-    Biographus et Philosophus “Coriolanus” 24. ">Refs 1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κλινίδιον, -ου, τό
+
+  dimin. of κλίνη,
+
+  a conch: Luk.5:19, 24 (cf. κλενάριον).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κλῑν-ίδιον, τό,
+
+  diminutive of κλίνη, [Refs 5th c.BC+]; κ. κρεμαστόν [Refs 1st c.AD+]
+
+  __2 = Latin lectica, [Refs 1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5040
-    proximity: 0.8035
+    lemma: τεκνίον
+    gloss: an infant {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
   cross_language:
   - strongs: H4904
-    proximity: 0.8183
+    lemma: מִשְׁכָּב
+    gloss: a bed (figuratively {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
     language: hebrew
   - strongs: H4296
-    proximity: 0.7792
+    lemma: מִטָּה
+    gloss: a bed  forsleeping or eating {openscriptures-strongs}
+    proximity: 0.7792 {macula-proximity}
     language: hebrew
   - strongs: H1833
-    proximity: 0.7449
+    lemma: דְּמֶשֶׁק
+    gloss: damask {openscriptures-strongs}
+    proximity: 0.7449 {macula-proximity}
     language: hebrew
   - strongs: H4702
-    proximity: 0.7167
+    lemma: מַצָּע
+    gloss: a couch {openscriptures-strongs}
+    proximity: 0.7167 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,43 +7,58 @@ definition: to weave (i.e. lay) a trap; figuratively, (through the idea of secre
   to allay (passions; physically, abate a flood)
 kjv_usage: appease, assuage, make to cease, pacify, set.
 derivation: a primitive root;
-extended_definition:
-  gloss: to subside
-  definition: 1) to subside, abate, decrease<br>1a) (Qal) to abate<br>1b) (Hiphil)
-    to allay
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to subside, abate, decrease
+
+  1a) (Qal) to abate
+
+  1b) (Hiphil) to allay {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1309
-    proximity: 0.8299
+    lemma: בְּשׂוֹרָה
+    gloss: glad tidings {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
   - strongs: H7725
-    proximity: 0.8287
+    lemma: שׁוּב
+    gloss: to turn back (hence {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H5117
-    proximity: 0.8242
+    lemma: נוּחַ
+    gloss: to rest {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H7309
-    proximity: 0.8011
+    lemma: רְוָחָה
+    gloss: relief {openscriptures-strongs}
+    proximity: 0.8011 {macula-proximity}
   - strongs: H1827
-    proximity: 0.7878
+    lemma: דְּמָמָה
+    gloss: quiet {openscriptures-strongs}
+    proximity: 0.7878 {macula-proximity}
   - strongs: H4868
-    proximity: 0.7802
+    lemma: מִשְׁבָּת
+    gloss: cessation {openscriptures-strongs}
+    proximity: 0.7802 {macula-proximity}
   - strongs: H7673
-    proximity: 0.7702
+    lemma: שָׁבַת
+    gloss: to repose {openscriptures-strongs}
+    proximity: 0.7702 {macula-proximity}
   - strongs: H1820
-    proximity: 0.7696
+    lemma: דָּמָה
+    gloss: to be dumb or silent {openscriptures-strongs}
+    proximity: 0.7696 {macula-proximity}
   - strongs: H988
-    proximity: 0.7368
+    proximity: 0.7368 {macula-proximity}
   - strongs: H8367
-    proximity: 0.7343
+    lemma: שָׁתַק
+    gloss: to subside {openscriptures-strongs}
+    proximity: 0.7343 {macula-proximity}
   cross_language:
   - strongs: G3973
-    proximity: 0.7726
+    lemma: παύω
+    gloss: to stop {openscriptures-strongs}
+    proximity: 0.7726 {macula-proximity}
     language: greek
   - strongs: G180
-    proximity: 0.7487
+    proximity: 0.7487 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

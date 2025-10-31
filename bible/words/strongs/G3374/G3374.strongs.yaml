@@ -5,47 +5,49 @@ transliteration: mēlōtḗ
 definition: a sheep-skin
 kjv_usage: sheepskin
 derivation: from (a sheep);
-extended_definition:
-  gloss: sheepskin
-  definition: '<b>μηλωτή</b>, -ῆς, ἡ<BR /> (μῆλον, a sheep or goat) [in LXX for אַדֶּרֶת,
-    <ref=''3Ki.19.13 19:19''>3Ki.19:13 19:19</ref>, <ref=''2Ki.2.8; 2.13-14''>4Ki.2:8
-    2:13-14</ref> * ;] <BR /><b>a sheepskin</b>: <ref=''Heb.11.37.''>Heb.11:37.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> μηλωτή</b>, ἡ, <br /> (μῆλον A) <b>sheepskin, any rough woolly
-    skin</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Philemo Comicus
-    25, “PTeb.” 38.22 (2nd c.BC), LXX.1Ki.19.13, NT.Heb.11.37, “OGI” 629.32 (2nd c.AD),
-    2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 191.9, Scholia 5th-6th
-    c.BC: Aristophanes Comicus “Vespae” 670. ">NT+5th c.BC+</a>]<br /><Level2><b>__II</b></Level2>
-    (μήλη) = {μηλωτίς}, Erot. see at {κάτοπτρον}.'
-  source: STEPBible/LSJ
+extended_definition: 'μηλωτή, -ῆς, ἡ
+
+  (μῆλον, a sheep or goat) [in LXX for אַדֶּרֶת, 3Ki.19:13 19:19, 4Ki.2:8 2:13-14
+  * ;]
+
+  a sheepskin: Heb.11:37.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'μηλωτή, ἡ,
+
+  (μῆλον A) sheepskin, any rough woolly skin, [NT+5th c.BC+]
+
+  __II (μήλη) = {μηλωτίς}, Erot. see at {κάτοπτρον}. {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3200
-    proximity: 0.8178
+    lemma: μεμβράνα
+    gloss: a  sheep-skin {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   - strongs: A563
-    proximity: 0.7872
+    proximity: 0.7872 {macula-proximity}
   cross_language:
   - strongs: H2169
-    proximity: 0.8095
+    lemma: זֶמֶר
+    gloss: a gazelle {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
     language: hebrew
   - strongs: H6629
-    proximity: 0.805
+    lemma: צֹאן
+    gloss: a collective name for a flock {openscriptures-strongs}
+    proximity: 0.805 {macula-proximity}
     language: hebrew
   - strongs: H3532
-    proximity: 0.7985
+    lemma: כֶּבֶשׂ
+    gloss: a ram {openscriptures-strongs}
+    proximity: 0.7985 {macula-proximity}
     language: hebrew
   - strongs: H7716
-    proximity: 0.7622
+    lemma: שֶׂה
+    gloss: a member of a flock {openscriptures-strongs}
+    proximity: 0.7622 {macula-proximity}
     language: hebrew
   - strongs: H352
-    proximity: 0.746
+    proximity: 0.746 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

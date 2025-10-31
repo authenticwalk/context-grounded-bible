@@ -7,32 +7,36 @@ definition: Letushim, an Arabian tribe
 kjv_usage: Letushim.
 derivation: masculine plural of passive participle of H3913 (לָטַשׁ); hammered (i.e.
   oppressed) ones;
-extended_definition:
-  gloss: Letushim
-  definition: People descended from Letush(?) of the Patriarchs, only mentioned at
-    Gen.25.3; descended from Dedan (H1719C); along with Asshurim (H0805A) and Leummim
-    (H3817) <BR> § Letushim = "hammered"<br> the 2nd son of Dedan, grandson of Jokshan,
-    great grandson of Abraham by Keturah<br>
-  morphology: N:N--LG
-  source: STEPBible/BDB
+extended_definition: 'People descended from Letush(?) of the Patriarchs, only mentioned
+  at Gen.25.3; descended from Dedan (H1719C); along with Asshurim (H0805A) and Leummim
+  (H3817)
+
+  § Letushim = "hammered"
+
+  the 2nd son of Dedan, grandson of Jokshan, great grandson of Abraham by Keturah
+  {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3881
-    proximity: 0.8143
+    lemma: לֵוִיִּי
+    gloss: a Levite or descendant of Levi {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
   - strongs: A3879
-    proximity: 0.8094
+    proximity: 0.8094 {macula-proximity}
   cross_language:
   - strongs: G3399
-    proximity: 0.8273
+    lemma: Μίλητος
+    gloss: Miletus {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G4193
-    proximity: 0.8132
+    lemma: Ποντικός
+    gloss: a Pontican {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
     language: greek
   - strongs: G1057
-    proximity: 0.8093
+    lemma: Γαλιλαῖος
+    gloss: Galilean or belonging to Galilea {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

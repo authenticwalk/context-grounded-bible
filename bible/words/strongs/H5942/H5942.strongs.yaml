@@ -6,41 +6,47 @@ pronunciation: il-lee'
 definition: high; i.e. comparative
 kjv_usage: upper.
 derivation: from H5927 (עָלָה);
-extended_definition:
-  gloss: upper
-  definition: upper
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: upper {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1543
-    proximity: 0.81
+    lemma: גֻּלָּה
+    gloss: a fountain {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
   - strongs: H6400
-    proximity: 0.7921
+    lemma: פֶּלַח
+    gloss: a slice {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
   - strongs: H4608
-    proximity: 0.7782
+    lemma: מַעֲלֶה
+    gloss: an elevation {openscriptures-strongs}
+    proximity: 0.7782 {macula-proximity}
   - strongs: H5945
-    proximity: 0.7144
+    lemma: עֶלְיוֹן
+    gloss: an elevation {openscriptures-strongs}
+    proximity: 0.7144 {macula-proximity}
   - strongs: A5952
-    proximity: 0.7033
+    proximity: 0.7033 {macula-proximity}
   cross_language:
   - strongs: G5231
-    proximity: 0.8245
+    lemma: ὑπεράνω
+    gloss: above upward {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
     language: greek
   - strongs: G5311
-    proximity: 0.8172
+    lemma: ὕψος
+    gloss: elevation {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
     language: greek
   - strongs: G507
-    proximity: 0.7714
+    proximity: 0.7714 {macula-proximity}
     language: greek
   - strongs: G5253
-    proximity: 0.7386
+    lemma: ὑπερῷον
+    gloss: a higher part of the house {openscriptures-strongs}
+    proximity: 0.7386 {macula-proximity}
     language: greek
   - strongs: G508a
-    proximity: 0.7141
+    proximity: 0.7141 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

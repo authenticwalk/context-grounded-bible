@@ -6,39 +6,50 @@ pronunciation: haw-raw'
 definition: to be (or become) pregnant, conceive (literally or figuratively)
 kjv_usage: been, be with child, conceive, progenitor.
 derivation: a primitive root;
-extended_definition:
-  gloss: to conceive
-  definition: 1) to conceive, become pregnant, bear, be with child, be conceived,
-    progenitor<br>1a)(Qal) to conceive, become pregnant<br>1b) (Pual) to be conceived<br>1c)
-    (Poel) to conceive, contrive, devise
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to conceive, become pregnant, bear, be with child, be conceived,
+  progenitor
+
+  1a)(Qal) to conceive, become pregnant
+
+  1b) (Pual) to be conceived
+
+  1c) (Poel) to conceive, contrive, devise {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6113
-    proximity: 0.7395
+    lemma: עָצָר
+    gloss: to inclose {openscriptures-strongs}
+    proximity: 0.7395 {macula-proximity}
   - strongs: H5462
-    proximity: 0.7227
+    lemma: סָגַר
+    gloss: to shut up {openscriptures-strongs}
+    proximity: 0.7227 {macula-proximity}
   - strongs: H3179
-    proximity: 0.7
+    lemma: יָחַם
+    gloss: probably to be hot {openscriptures-strongs}
+    proximity: 0.7 {macula-proximity}
   cross_language:
   - strongs: G3962a
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G2192
-    proximity: 0.8221
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
     language: greek
   - strongs: G3388
-    proximity: 0.817
+    lemma: μήτρα
+    gloss: the matrix {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
     language: greek
   - strongs: G3967
-    proximity: 0.8134
+    lemma: πατρικός
+    gloss: paternal {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
     language: greek
   - strongs: G2845
-    proximity: 0.8098
+    lemma: κοίτη
+    gloss: a couch {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

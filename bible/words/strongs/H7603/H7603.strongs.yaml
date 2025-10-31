@@ -6,25 +6,19 @@ pronunciation: seh-ore'
 definition: barm or yeast-cake (as swelling by fermentation)
 kjv_usage: leaven.
 derivation: from H7604 (שָׁאַר);
-extended_definition:
-  gloss: leaven
-  definition: leaven
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: leaven {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3833b
-    proximity: 0.822
+    proximity: 0.822 {macula-proximity}
   - strongs: H3833a
-    proximity: 0.8158
+    proximity: 0.8158 {macula-proximity}
   - strongs: H2557a
-    proximity: 0.7495
+    proximity: 0.7495 {macula-proximity}
   cross_language:
   - strongs: G2220
-    proximity: 0.709
+    lemma: ζυμόω
+    gloss: to cause to ferment {openscriptures-strongs}
+    proximity: 0.709 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -18,44 +18,68 @@ kjv_usage: '[phrase] accept, a-(be-) fore(-time), against, anger, [idiom] as (lo
   -out), till, time(-s) past, (un-) to(-ward), [phrase] upon, upside ([phrase] down),
   with(-in, [phrase] -stand), [idiom] ye, [idiom] you.'
 derivation: plural (but always as singular) of an unused noun פָּנֶה; from H6437 (פָּנָה));
-extended_definition:
-  gloss: 'face: kindness'
-  definition: ': kindness/honour/favour/lift(head/face)<br>1) face<br>1a) face, faces<br>1b)
-    presence, person<br>1c) face (of seraphim or cherubim)<br>1d) face (of animals)<br>1e)
-    face, surface (of ground)<br>1f) as adv of loc/temp<br>1f1) before and behind,
-    toward, in front of, forward, formerly, from beforetime, before<br>1g) with prep<br>1g1)
-    in front of, before, to the front of, in the presence of, in the face of, at the
-    face or front of, from the presence of, from before, from before the face of'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': kindness/honour/favour/lift(head/face)
+
+  1) face
+
+  1a) face, faces
+
+  1b) presence, person
+
+  1c) face (of seraphim or cherubim)
+
+  1d) face (of animals)
+
+  1e) face, surface (of ground)
+
+  1f) as adv of loc/temp
+
+  1f1) before and behind, toward, in front of, forward, formerly, from beforetime,
+  before
+
+  1g) with prep
+
+  1g1) in front of, before, to the front of, in the presence of, in the face of, at
+  the face or front of, from the presence of, from before, from before the face of
+  {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6654
-    proximity: 0.8289
+    lemma: צַד
+    gloss: a side {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: A8120
-    proximity: 0.8289
+    proximity: 0.8289 {macula-proximity}
   - strongs: H5668
-    proximity: 0.8256
+    lemma: עָבוּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: H7704
-    proximity: 0.8235
+    lemma: שָׂדֶה
+    gloss: a field {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   cross_language:
   - strongs: G2736a
-    proximity: 0.8288
+    proximity: 0.8288 {macula-proximity}
     language: greek
   - strongs: G5259
-    proximity: 0.8279
+    lemma: ὑπό
+    gloss: under {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G1751
-    proximity: 0.8259
+    lemma: ἔνειμι
+    gloss: to be within {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G3918
-    proximity: 0.8251
+    lemma: πάρειμι
+    gloss: to be near {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
     language: greek
   - strongs: G1854
-    proximity: 0.8243
+    lemma: ἔξω
+    gloss: out(-side {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

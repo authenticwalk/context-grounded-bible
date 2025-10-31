@@ -6,33 +6,37 @@ pronunciation: yaw-gab'
 definition: to dig or plow
 kjv_usage: husbandman.
 derivation: a primitive root;
-extended_definition:
-  gloss: to till
-  definition: (Qal) to till, be a husbandman
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to till, be a husbandman {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H127
-    proximity: 0.7849
+    proximity: 0.7849 {macula-proximity}
   - strongs: H2790
-    proximity: 0.7495
+    lemma: חָרַשׁ
+    gloss: to scratch {openscriptures-strongs}
+    proximity: 0.7495 {macula-proximity}
   - strongs: H2758
-    proximity: 0.7462
+    lemma: חָרִישׁ
+    gloss: ploughing or its season {openscriptures-strongs}
+    proximity: 0.7462 {macula-proximity}
   - strongs: H3010
-    proximity: 0.7454
+    lemma: יָגֵב
+    gloss: a plowed field {openscriptures-strongs}
+    proximity: 0.7454 {macula-proximity}
   cross_language:
   - strongs: G1090
-    proximity: 0.7977
+    lemma: γεωργέω
+    gloss: to till {openscriptures-strongs}
+    proximity: 0.7977 {macula-proximity}
     language: greek
   - strongs: G1091
-    proximity: 0.7691
+    lemma: γεώργιον
+    gloss: cultivable {openscriptures-strongs}
+    proximity: 0.7691 {macula-proximity}
     language: greek
   - strongs: G1092
-    proximity: 0.7038
+    lemma: γεωργός
+    gloss: a land-worker {openscriptures-strongs}
+    proximity: 0.7038 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

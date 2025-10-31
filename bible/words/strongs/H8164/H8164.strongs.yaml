@@ -6,43 +6,57 @@ pronunciation: saw-eer'
 definition: a shower (as tempestuous)
 kjv_usage: small rain.
 derivation: formed the same as H8163 (שָׂעִיר);
-extended_definition:
-  gloss: rain
-  definition: raindrops, rain showers
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: raindrops, rain showers {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5311
-    proximity: 0.8247
+    lemma: נֶפֶץ
+    gloss: a storm {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H3138
-    proximity: 0.8102
+    lemma: יוֹרֶה
+    gloss: sprinkling {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
   - strongs: H5464
-    proximity: 0.8017
+    lemma: סַגְרִיד
+    gloss: a pouring rain {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
   - strongs: H1656
-    proximity: 0.7889
+    lemma: גֹּשֶׁם
+    gloss: '{a shower} {openscriptures-strongs}'
+    proximity: 0.7889 {macula-proximity}
   - strongs: H2919
-    proximity: 0.7881
+    lemma: טַל
+    gloss: dew {openscriptures-strongs}
+    proximity: 0.7881 {macula-proximity}
   - strongs: H4456
-    proximity: 0.7855
+    lemma: מַלְקוֹשׁ
+    gloss: the spring rain {openscriptures-strongs}
+    proximity: 0.7855 {macula-proximity}
   - strongs: H4175a
-    proximity: 0.7818
+    proximity: 0.7818 {macula-proximity}
   - strongs: H1652
-    proximity: 0.7782
+    lemma: גָּשַׁם
+    gloss: to shower violently {openscriptures-strongs}
+    proximity: 0.7782 {macula-proximity}
   - strongs: H4305
-    proximity: 0.7773
+    lemma: מָטַר
+    gloss: to rain {openscriptures-strongs}
+    proximity: 0.7773 {macula-proximity}
   cross_language:
   - strongs: G3797
-    proximity: 0.7925
+    lemma: ὄψιμος
+    gloss: later {openscriptures-strongs}
+    proximity: 0.7925 {macula-proximity}
     language: greek
   - strongs: G1026
-    proximity: 0.7671
+    lemma: βρέχω
+    gloss: to moisten {openscriptures-strongs}
+    proximity: 0.7671 {macula-proximity}
     language: greek
   - strongs: G3655
-    proximity: 0.7603
+    lemma: ὄμβρος
+    gloss: a thunder storm {openscriptures-strongs}
+    proximity: 0.7603 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

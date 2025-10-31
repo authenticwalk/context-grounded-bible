@@ -6,49 +6,66 @@ pronunciation: mib-tawkh'
 definition: properly, a refuge, i.e. (objective) security, or (subjective) assurance
 kjv_usage: confidence, hope, sure, trust.
 derivation: from H982 (בָּטַח);
-extended_definition:
-  gloss: confidence
-  definition: 1) trust, confidence, refuge<br>1a) act of confiding<br>1b) object of
-    confidence<br>1c) state of confidence, security
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) trust, confidence, refuge
+
+  1a) act of confiding
+
+  1b) object of confidence
+
+  1c) state of confidence, security {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7962
-    proximity: 0.8225
+    lemma: שַׁלְוָה
+    gloss: security {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: H982a
-    proximity: 0.822
+    proximity: 0.822 {macula-proximity}
   - strongs: H5564
-    proximity: 0.8173
+    lemma: סָמַךְ
+    gloss: to prop {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
   - strongs: H4268
-    proximity: 0.8134
+    lemma: מַחֲסֶה
+    gloss: a shelter {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
   - strongs: H530
-    proximity: 0.8108
+    proximity: 0.8108 {macula-proximity}
   - strongs: H2622
-    proximity: 0.7995
+    lemma: חָסוּת
+    gloss: confidence {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
   - strongs: H1695
-    proximity: 0.7845
+    lemma: דָּבֵק
+    gloss: adhering {openscriptures-strongs}
+    proximity: 0.7845 {macula-proximity}
   - strongs: H539
-    proximity: 0.7588
+    proximity: 0.7588 {macula-proximity}
   - strongs: H987
-    proximity: 0.7526
+    proximity: 0.7526 {macula-proximity}
   - strongs: H3176
-    proximity: 0.7416
+    lemma: יָחַל
+    gloss: to wait {openscriptures-strongs}
+    proximity: 0.7416 {macula-proximity}
   cross_language:
   - strongs: G4100
-    proximity: 0.8291
+    lemma: πιστεύω
+    gloss: to have faith (in {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
     language: greek
   - strongs: G4006
-    proximity: 0.8137
+    lemma: πεποίθησις
+    gloss: reliance {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
     language: greek
   - strongs: G1679
-    proximity: 0.7954
+    lemma: ἐλπίζω
+    gloss: to expect or confide {openscriptures-strongs}
+    proximity: 0.7954 {macula-proximity}
     language: greek
   - strongs: G1680
-    proximity: 0.7735
+    lemma: ἐλπίς
+    gloss: expectation  or confidence {openscriptures-strongs}
+    proximity: 0.7735 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

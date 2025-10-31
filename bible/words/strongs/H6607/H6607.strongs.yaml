@@ -6,48 +6,56 @@ pronunciation: peh'-thakh
 definition: an opening (literally), i.e. door (gate) or entrance way
 kjv_usage: door, entering (in), entrance (-ry), gate, opening, place.
 derivation: from H6605 (פָּתַח);
-extended_definition:
-  gloss: entrance
-  definition: opening, doorway, entrance
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: opening, doorway, entrance {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4569a
-    proximity: 0.8235
+    proximity: 0.8235 {macula-proximity}
   - strongs: H2351
-    proximity: 0.8186
+    lemma: חוּץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: A6433
-    proximity: 0.8168
+    proximity: 0.8168 {macula-proximity}
   - strongs: H7176
-    proximity: 0.8139
+    lemma: קֶרֶת
+    gloss: a city {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H6931
-    proximity: 0.8139
+    lemma: קַדְמוֹנִי
+    gloss: anterior or  oriental {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H4057a
-    proximity: 0.7989
+    proximity: 0.7989 {macula-proximity}
   - strongs: A8651
-    proximity: 0.7465
+    proximity: 0.7465 {macula-proximity}
   - strongs: H6310
-    proximity: 0.7335
+    lemma: פֶּה
+    gloss: the mouth {openscriptures-strongs}
+    proximity: 0.7335 {macula-proximity}
   - strongs: H4201
-    proximity: 0.7325
+    lemma: מְזוּזָה
+    gloss: a door-post {openscriptures-strongs}
+    proximity: 0.7325 {macula-proximity}
   - strongs: H4126
-    proximity: 0.7166
+    lemma: מוֹבָא
+    gloss: an entrance {openscriptures-strongs}
+    proximity: 0.7166 {macula-proximity}
   cross_language:
   - strongs: G2377
-    proximity: 0.8253
+    lemma: θυρωρός
+    gloss: a gate- warden {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
     language: greek
   - strongs: G457
-    proximity: 0.8195
+    proximity: 0.8195 {macula-proximity}
     language: greek
   - strongs: G1529
-    proximity: 0.8041
+    lemma: εἴσοδος
+    gloss: an entrance {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
     language: greek
   - strongs: G455
-    proximity: 0.7945
+    proximity: 0.7945 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

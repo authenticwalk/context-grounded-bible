@@ -10,50 +10,77 @@ kjv_usage: diligently, especially, exceeding(-ly), far, fast, good, great(-ly), 
   louder and louder, might(-ily, -y), (so) much, quickly, (so) sore, utterly, very
   ([phrase] much, sore), well.
 derivation: from the same as H181 (אוּד);
-extended_definition:
-  gloss: much
-  definition: adv<br>1) exceedingly, much<br>subst<br>2) might, force, abundance<br>n
-    m<br>3) muchness, force, abundance, exceedingly<br>3a) force, might<br>3b) exceedingly,
-    greatly, very (idioms showing magnitude or degree)<br>3b1) exceedingly<br>3b2)
-    up to abundance, to a great degree, exceedingly<br>3b3) with muchness, muchness
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: 'adv
+
+  1) exceedingly, much
+
+  subst
+
+  2) might, force, abundance
+
+  n m
+
+  3) muchness, force, abundance, exceedingly
+
+  3a) force, might
+
+  3b) exceedingly, greatly, very (idioms showing magnitude or degree)
+
+  3b1) exceedingly
+
+  3b2) up to abundance, to a great degree, exceedingly
+
+  3b3) with muchness, muchness {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4768
-    proximity: 0.8259
+    lemma: מַרְבִּית
+    gloss: a multitude {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: H2391
-    proximity: 0.825
+    lemma: חֵזֶק
+    gloss: help {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: H2394
-    proximity: 0.8238
+    lemma: חׇזְקָה
+    gloss: vehemence {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: A3255
-    proximity: 0.8236
+    proximity: 0.8236 {macula-proximity}
   - strongs: H3527
-    proximity: 0.8231
+    lemma: כָּבַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H6283
-    proximity: 0.8164
+    lemma: עֲתֶרֶת
+    gloss: copiousness {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
   - strongs: H4767
-    proximity: 0.8151
+    lemma: מִרְבָּה
+    gloss: abundance {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
   - strongs: H389
-    proximity: 0.8132
+    proximity: 0.8132 {macula-proximity}
   cross_language:
   - strongs: G927
-    proximity: 0.8295
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G1920
-    proximity: 0.8295
+    lemma: ἐπιγίνομαι
+    gloss: to arrive upon {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G4128
-    proximity: 0.8287
+    lemma: πλῆθος
+    gloss: a fulness {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G4971
-    proximity: 0.8275
+    lemma: σφοδρῶς
+    gloss: very much {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
     language: greek
   - strongs: G199
-    proximity: 0.8178
+    proximity: 0.8178 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

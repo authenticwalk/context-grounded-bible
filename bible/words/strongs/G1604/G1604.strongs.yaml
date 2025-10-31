@@ -5,54 +5,53 @@ transliteration: ekplḗrōsis
 definition: completion
 kjv_usage: accomplishment
 derivation: from G1603 (ἐκπληρόω);
-extended_definition:
-  gloss: fulfillment
-  definition: '<b>ἐκ-πλήρωσις, -εως, ἡ</b>) <BR /> [in LXX: <ref=''2Ma.6.14''>2Ma.6:14</ref>
-    * ;] <BR /><b>a completion, fulfilment</b>: <ref=''Act.21.26.''>Act.21:26.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐκπλήρ-ωσις</b>, εως, ἡ, <br /> <b>filling up,</b> Apollon.Cit.I;
-    κλεψύδρας [<a href="javascript:void(0)" title=" 2nd c.AD(?): Marcellinus Medicus
-    “de Pulsibus - Festschrift zur 49. Versammlung deutscher Philologen und Schulmänner”
-    265 ">Refs 2nd c.AD+</a>]; <b>completion,</b> [<a href="javascript:void(0)" title="
-    Aesara Philosophus cited in 5th c.AD: Stobaeus, Joannes 1.49.27, 1st c.AD: Dioscorides
-    (Dioscurides) Medicus 1.58; ἐνιαυτοῦ 1st c.BC-1st c.AD: Strabo Geographus 17.1.46
-    ">Refs 1st c.BC+</a>]; <b>filling up the measure,</b> ἁμαρτιῶν [<a href="javascript:void(0)"
-    title=" LXX.2Mac.6.14 ">LXX</a>]; <b>satisfaction,</b> τῶν ἐπιθυμιῶν [<a href="javascript:void(0)"
-    title=" 1st c.BC: Dionysius Halicarnassensis 6.86, compare 1st c.AD: Philo Judaeus
-    1.567. ">Refs 1st c.BC+</a>]<br /><Level2><b>__II</b></Level2> <b>fulfilment</b>
-    of a cosmic cycle, <b>Cat. Codex Astr.</b>[<a href="javascript:void(0)" title="
-    1.163. ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐκ-πλήρωσις, -εως, ἡ)
+
+  [in LXX: 2Ma.6:14 * ;]
+
+  a completion, fulfilment: Act.21:26.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐκπλήρ-ωσις, εως, ἡ,
+
+  filling up, Apollon.Cit.I; κλεψύδρας [Refs 2nd c.AD+]; completion, [Refs 1st c.BC+];
+  filling up the measure, ἁμαρτιῶν [LXX]; satisfaction, τῶν ἐπιθυμιῶν [Refs 1st c.BC+]
+
+  __II fulfilment of a cosmic cycle, Cat. Codex Astr.[Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2880
-    proximity: 0.8191
+    lemma: κορέννυμι
+    gloss: to cram {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
   - strongs: A7118
-    proximity: 0.8111
+    proximity: 0.8111 {macula-proximity}
   - strongs: G535
-    proximity: 0.7798
+    proximity: 0.7798 {macula-proximity}
   cross_language:
   - strongs: H7301
-    proximity: 0.8239
+    lemma: רָוָה
+    gloss: to slake the thirst {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: hebrew
   - strongs: H7646
-    proximity: 0.8159
+    lemma: שָׂבַע
+    gloss: to sate {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
     language: hebrew
   - strongs: H4392
-    proximity: 0.8103
+    lemma: מָלֵא
+    gloss: full  or filling {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
     language: hebrew
   - strongs: H7649
-    proximity: 0.76
+    lemma: שָׂבֵעַ
+    gloss: satiated {openscriptures-strongs}
+    proximity: 0.76 {macula-proximity}
     language: hebrew
   - strongs: H4390
-    proximity: 0.7591
+    lemma: מָלֵא
+    gloss: to fill or  be full of {openscriptures-strongs}
+    proximity: 0.7591 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

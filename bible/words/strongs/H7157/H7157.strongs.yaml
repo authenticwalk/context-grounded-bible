@@ -8,31 +8,36 @@ kjv_usage: Kirjath, Kirjath-jearim, Kirjath-arim.
 derivation: or (Jeremiah 26:20) with the article interposed; or (Joshua 18:28) simply
   the former part of the word; or קִרְיַת עָרִים; from H7151 (קִרְיָה) and the plural
   of H3293 (יַעַר) or H5892 (עִיר); city of forests, or city of towns;
-extended_definition:
-  gloss: Kiriath-jearim
-  definition: <BR> § Kirjath-jearim = "city of forests"<br>  a city on the northern
-    boundary of Judah and on the western and southern boundaries of Benjamin<br> also
-    'Kirjath-baal' and 'Baalah'<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Kirjath-jearim = "city of forests"
+
+  a city on the northern boundary of Judah and on the western and southern boundaries
+  of Benjamin
+
+  also ''Kirjath-baal'' and ''Baalah'' {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3003b
-    proximity: 0.8231
+    proximity: 0.8231 {macula-proximity}
   - strongs: H1568
-    proximity: 0.8104
+    lemma: גִּלְעָד
+    gloss: Gilad {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
   - strongs: H7155
-    proximity: 0.8062
+    lemma: קִרְיַת חֻצוֹת
+    gloss: Kirjath-Chutsoth {openscriptures-strongs}
+    proximity: 0.8062 {macula-proximity}
   - strongs: H7158
-    proximity: 0.8035
+    lemma: קִרְיַת סַנָּה
+    gloss: Kirjath-Sannah or Kirjath-Sepher {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
   - strongs: H7158a
-    proximity: 0.8033
+    proximity: 0.8033 {macula-proximity}
   - strongs: H7154
-    proximity: 0.7938
+    lemma: קִרְיַת בַּעַל
+    gloss: Kirjath-Baal {openscriptures-strongs}
+    proximity: 0.7938 {macula-proximity}
   - strongs: H7153
-    proximity: 0.7814
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: קִרְיַת אַרְבַּע
+    gloss: Kirjath-Arba or Kirjath-ha-Arba {openscriptures-strongs}
+    proximity: 0.7814 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

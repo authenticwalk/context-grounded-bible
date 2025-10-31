@@ -7,43 +7,54 @@ definition: something hemming in, i.e. (objectively) a mound (of besiegers), (ab
   a siege, (figuratively) distress; or (subjectively) a fastness
 kjv_usage: besieged, bulwark, defence, fenced, fortress, siege, strong (hold), tower.
 derivation: or מָצוּר; from H6696 (צוּר);
-extended_definition:
-  gloss: siege
-  definition: 1) siege-enclosure, siege, entrenchment, siege works<br>1a) siege<br>1b)
-    enclosure, siege-works, rampart
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) siege-enclosure, siege, entrenchment, siege works
+
+  1a) siege
+
+  1b) enclosure, siege-works, rampart {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5437
-    proximity: 0.8287
+    lemma: סָבַב
+    gloss: to revolve {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H1754
-    proximity: 0.8164
+    lemma: דּוּר
+    gloss: a circle {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
   - strongs: H4686c
-    proximity: 0.8159
+    proximity: 0.8159 {macula-proximity}
   - strongs: H5526
-    proximity: 0.8057
+    lemma: סָכַךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
   - strongs: H2583
-    proximity: 0.8053
+    lemma: חָנָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H1785
-    proximity: 0.8021
+    lemma: דָּיֵק
+    gloss: a battering-tower {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
   - strongs: H6887
-    proximity: 0.7927
+    lemma: צָרַר
+    gloss: to cramp {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
   - strongs: H5564
-    proximity: 0.7843
+    lemma: סָמַךְ
+    gloss: to prop {openscriptures-strongs}
+    proximity: 0.7843 {macula-proximity}
   - strongs: H971a
-    proximity: 0.7785
+    proximity: 0.7785 {macula-proximity}
   - strongs: H4685a
-    proximity: 0.7392
+    proximity: 0.7392 {macula-proximity}
   cross_language:
   - strongs: G4033
-    proximity: 0.8151
+    lemma: περικυκλόω
+    gloss: to encircle all around {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
     language: greek
   - strongs: G2944a
-    proximity: 0.7931
+    proximity: 0.7931 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

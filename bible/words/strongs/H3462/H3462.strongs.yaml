@@ -7,43 +7,63 @@ definition: properly, to be slack or languid, i.e. (by implication) sleep (figur
   to die); also to grow old, stale or inveterate
 kjv_usage: old (store), remain long, (make to) sleep.
 derivation: a primitive root;
-extended_definition:
-  gloss: to sleep
-  definition: 1) to sleep, be asleep<br>1a) (Qal) to sleep, go to sleep, be asleep<br>1b)
-    (Niphal)<br>1b1) to remain a long time, be stored up<br>1b2) to be festering (of
-    leprosy)<br>1c) (Piel) to cause to sleep, entice to sleep
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to sleep, be asleep
+
+  1a) (Qal) to sleep, go to sleep, be asleep
+
+  1b) (Niphal)
+
+  1b1) to remain a long time, be stored up
+
+  1b2) to be festering (of leprosy)
+
+  1c) (Piel) to cause to sleep, entice to sleep {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1957
-    proximity: 0.8081
+    lemma: הָזָה
+    gloss: to dream {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
   - strongs: H8572
-    proximity: 0.7954
+    lemma: תְּנוּמָה
+    gloss: drowsiness {openscriptures-strongs}
+    proximity: 0.7954 {macula-proximity}
   - strongs: H5307
-    proximity: 0.7939
+    lemma: נָפַל
+    gloss: to fall {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
   - strongs: H4904
-    proximity: 0.7906
+    lemma: מִשְׁכָּב
+    gloss: a bed (figuratively {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
   - strongs: H1724
-    proximity: 0.7884
+    lemma: דָּהַם
+    gloss: to be dumb {openscriptures-strongs}
+    proximity: 0.7884 {macula-proximity}
   - strongs: H7252
-    proximity: 0.7683
+    lemma: רֶבַע
+    gloss: prostration {openscriptures-strongs}
+    proximity: 0.7683 {macula-proximity}
   - strongs: H7257
-    proximity: 0.7646
+    lemma: רָבַץ
+    gloss: to crouch (on all four legs folded {openscriptures-strongs}
+    proximity: 0.7646 {macula-proximity}
   - strongs: H5124
-    proximity: 0.7504
+    lemma: נוּמָה
+    gloss: sleepiness {openscriptures-strongs}
+    proximity: 0.7504 {macula-proximity}
   cross_language:
   - strongs: G1852
-    proximity: 0.8254
+    lemma: ἐξυπνίζω
+    gloss: to waken {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: greek
   - strongs: G2702
-    proximity: 0.7953
+    lemma: καταφέρω
+    gloss: to bear down {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
     language: greek
   - strongs: G70
-    proximity: 0.7258
+    proximity: 0.7258 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

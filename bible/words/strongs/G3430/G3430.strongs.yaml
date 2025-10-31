@@ -5,44 +5,46 @@ transliteration: moicheía
 definition: adultery
 kjv_usage: adultery
 derivation: from G3431 (μοιχεύω);
-extended_definition:
-  gloss: adultery
-  definition: '<b>μοιχεία</b>, -ας, ἡ<BR /> (μοιχύω), [rn LXX: <ref=''Hos.2.2''>Hos.2:2</ref>
-    (נַאֲפוּף), <ref=''Hos.4.2''>Hos.4:2</ref> (נָאַף), <ref=''Jer.13.27''>Jer.13:27</ref>
-    (נִאֻף), <ref=''Wis.14.26''>Wis.14:26</ref> * ;] <BR /><b>adultery</b>: <ref=''Jhn.8.3''>Jhn.8:3;</ref>
-    pl. (see WM, 220; Bl., § 32, 6), <ref=''Mat.15.19''>Mat.15:19</ref>, <ref=''Mrk.7.21''>Mrk.7:21</ref>,†<BR
-    /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> μοιχ-εία</b>, ἡ, <br /> <b>adultery</b>, [<a href="javascript:void(0)"
-    title=" 5th-6th c.BC: Andocides Orator 4.10, 5th c.BC: Lysias Orator 1.36, 5th-6th
-    c.BC: Plato Philosophus “Respublica” 443a (_plural_); μοιχείας γραφαί 9th c.AD:
-    Photius Legal icographus, etc., 10th c.AD: Suidas Legal icographus see at {πέμπτῃ
-    φθίνοντος}. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'μοιχεία, -ας, ἡ
+
+  (μοιχύω), [rn LXX: Hos.2:2 (נַאֲפוּף), Hos.4:2 (נָאַף), Jer.13:27 (נִאֻף), Wis.14:26
+  * ;]
+
+  adultery: Jhn.8:3; pl. (see WM, 220; Bl., § 32, 6), Mat.15:19, Mrk.7:21,†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'μοιχ-εία, ἡ,
+
+  adultery, [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4202
-    proximity: 0.7808
+    lemma: πορνεία
+    gloss: harlotry {openscriptures-strongs}
+    proximity: 0.7808 {macula-proximity}
   - strongs: G1608
-    proximity: 0.7768
+    lemma: ἐκπορνεύω
+    gloss: to be utterly unchaste {openscriptures-strongs}
+    proximity: 0.7768 {macula-proximity}
   - strongs: G1888a
-    proximity: 0.763
+    proximity: 0.763 {macula-proximity}
   - strongs: G3428
-    proximity: 0.7088
+    lemma: μοιχαλίς
+    gloss: an adulteress {openscriptures-strongs}
+    proximity: 0.7088 {macula-proximity}
   - strongs: G4203
-    proximity: 0.7024
+    lemma: πορνεύω
+    gloss: to act the harlot {openscriptures-strongs}
+    proximity: 0.7024 {macula-proximity}
   cross_language:
   - strongs: H7903
-    proximity: 0.8221
+    lemma: שְׁכֹבֶת
+    gloss: a  lying with {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
     language: hebrew
   - strongs: H8457
-    proximity: 0.7611
+    lemma: תַּזְנוּת
+    gloss: harlotry {openscriptures-strongs}
+    proximity: 0.7611 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

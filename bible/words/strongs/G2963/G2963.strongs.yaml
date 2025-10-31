@@ -5,51 +5,58 @@ transliteration: kyriótēs
 definition: mastery, i.e. (concretely and collectively) rulers
 kjv_usage: dominion, government
 derivation: from G2962 (κύριος);
-extended_definition:
-  gloss: lordship
-  definition: '<b>κυριότης</b>, -ητος, ἡ<BR /> (κύριος), <BR /><b>lordship, dominion</b>:
-    <ref=''Eph.1.21''>Eph.1:21</ref>, <ref=''2Pe.2.10''>2Pe.2:10</ref>, <ref=''Jude.8''>Ju
-    8</ref>; pl., <ref=''Col.1.16''>Col.1:16</ref> (cf. Lft., Col; Mayor, Ju., in
-    ll.; <i>DB</i>, i, 616 f.).†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κῡρι-ότης</b>, ητος, ἡ, <br /> <b>dominion,</b> [<a href="javascript:void(0)"
-    title="NT.Eph.1.21: in _plural_, NT.Col.1.16. ">NT</a>]<br /><Level3><b>__2</b></Level3>
-    later, concrete, <b>authority,</b> [<a href="javascript:void(0)" title=" PMasp.
-    151.199 (6th c.AD), etc. ">Refs 6th c.AD+</a>]<br /><Level2><b>__II</b></Level2>
-    <b>proper, legitimate use of a term</b>, [<a href="javascript:void(0)" title="
-    5th-6th c.AD: Damascius Philosophus “de Principiis” 306 ">Refs 5th c.AD+</a>];
-    = Latin <i>proprietas</i>, [<a href="javascript:void(0)" title="Dosith. p.376
-    K. ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κυριότης, -ητος, ἡ
+
+  (κύριος),
+
+  lordship, dominion: Eph.1:21, 2Pe.2:10, Ju 8; pl., Col.1:16 (cf. Lft., Col; Mayor,
+  Ju., in ll.; DB, i, 616 f.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κῡρι-ότης, ητος, ἡ,
+
+  dominion, [NT]
+
+  __2 later, concrete, authority, [Refs 6th c.AD+]
+
+  __II proper, legitimate use of a term, [Refs 5th c.AD+]; = Latin proprietas, [Refs]
+  {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2904
-    proximity: 0.8221
+    lemma: κράτος
+    gloss: vigor {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: G758
-    proximity: 0.7948
+    proximity: 0.7948 {macula-proximity}
   - strongs: G1018
-    proximity: 0.7648
+    lemma: βραβεύω
+    gloss: to arbitrate {openscriptures-strongs}
+    proximity: 0.7648 {macula-proximity}
   cross_language:
   - strongs: H6114
-    proximity: 0.8272
+    lemma: עֶצֶר
+    gloss: restraint {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: hebrew
   - strongs: H7983
-    proximity: 0.8246
+    lemma: שִׁלְטוֹן
+    gloss: '{power.} {openscriptures-strongs}'
+    proximity: 0.8246 {macula-proximity}
     language: hebrew
   - strongs: H1166
-    proximity: 0.8125
+    lemma: בָּעַל
+    gloss: to be master {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: hebrew
   - strongs: H7287
-    proximity: 0.8085
+    lemma: רָדָה
+    gloss: to tread down {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
     language: hebrew
   - strongs: H4965
-    proximity: 0.7953
+    lemma: מֶתֶג הָאַמָּה
+    gloss: Metheg-ha-Ammah {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

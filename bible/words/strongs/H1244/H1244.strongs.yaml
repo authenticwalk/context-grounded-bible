@@ -6,48 +6,66 @@ pronunciation: bik-ko-reth
 definition: properly, examination, i.e. (by implication) punishment
 kjv_usage: scourged.
 derivation: from H1239 (בָּקַר);
-extended_definition:
-  gloss: scourging
-  definition: punishment (after judicial enquiry), compensation
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: punishment (after judicial enquiry), compensation {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4941
-    proximity: 0.829
+    lemma: מִשְׁפָּט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: H5352
-    proximity: 0.8214
+    lemma: נָקָה
+    gloss: to be  clean {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H4148
-    proximity: 0.817
+    lemma: מוּסָר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: H3256
-    proximity: 0.7964
+    lemma: יָסַר
+    gloss: to chastise {openscriptures-strongs}
+    proximity: 0.7964 {macula-proximity}
   - strongs: H6416
-    proximity: 0.7806
+    lemma: פְּלִילִי
+    gloss: judicial {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
   - strongs: A1780
-    proximity: 0.7653
+    proximity: 0.7653 {macula-proximity}
   - strongs: H6485
-    proximity: 0.7584
+    lemma: פָּקַד
+    gloss: to visit {openscriptures-strongs}
+    proximity: 0.7584 {macula-proximity}
   - strongs: H6064
-    proximity: 0.7358
+    lemma: עָנַשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7358 {macula-proximity}
   - strongs: H6486
-    proximity: 0.7059
+    lemma: פְּקֻדָּה
+    gloss: visitation (in many senses {openscriptures-strongs}
+    proximity: 0.7059 {macula-proximity}
   - strongs: H4145
-    proximity: 0.704
+    lemma: מוּסָדָה
+    gloss: a foundation {openscriptures-strongs}
+    proximity: 0.704 {macula-proximity}
   cross_language:
   - strongs: G3147
-    proximity: 0.8241
+    lemma: μαστίζω
+    gloss: to whip {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
   - strongs: G1558
-    proximity: 0.8202
+    lemma: ἔκδικος
+    gloss: carrying justice out {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
     language: greek
   - strongs: G5097
-    proximity: 0.7947
+    lemma: τιμωρέω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7947 {macula-proximity}
     language: greek
   - strongs: G5099
-    proximity: 0.7248
+    lemma: τίνω
+    gloss: to pay a price {openscriptures-strongs}
+    proximity: 0.7248 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

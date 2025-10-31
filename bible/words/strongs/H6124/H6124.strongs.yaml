@@ -6,19 +6,15 @@ pronunciation: aw-kode'
 definition: striped (with bands)
 kjv_usage: ring straked.
 derivation: from H6123 (עָקַד);
-extended_definition:
-  gloss: striped
-  definition: streaked, striped
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: streaked, striped {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1261
-    proximity: 0.776
+    lemma: בָּרֹד
+    gloss: spotted {openscriptures-strongs}
+    proximity: 0.776 {macula-proximity}
   - strongs: H2921
-    proximity: 0.7429
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: טָלָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7429 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

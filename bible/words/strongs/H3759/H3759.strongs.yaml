@@ -7,52 +7,63 @@ definition: a planted field (garden, orchard, vineyard or park); by implication,
   produce
 kjv_usage: full (green) ears (of corn), fruitful field (place), plentiful (field).
 derivation: from H3754 (כֶּרֶם);
-extended_definition:
-  gloss: plantation
-  definition: 1) plantation, garden-land, orchard, fruit orchard<br>2) fruit, garden-growth
-    (meton)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) plantation, garden-land, orchard, fruit orchard
+
+  2) fruit, garden-growth (meton) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4750
-    proximity: 0.8235
+    lemma: מִקְשָׁה
+    gloss: literally a cucumbered field {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: H6508
-    proximity: 0.7801
+    lemma: פַּרְדֵּס
+    gloss: a park {openscriptures-strongs}
+    proximity: 0.7801 {macula-proximity}
   - strongs: H5215
-    proximity: 0.7792
+    lemma: נִיר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7792 {macula-proximity}
   - strongs: A1251
-    proximity: 0.7391
+    proximity: 0.7391 {macula-proximity}
   - strongs: H4924a
-    proximity: 0.7307
+    proximity: 0.7307 {macula-proximity}
   - strongs: H4924b
-    proximity: 0.7273
+    proximity: 0.7273 {macula-proximity}
   - strongs: H3293
-    proximity: 0.7255
+    lemma: יַעַר
+    gloss: a copse of bushes {openscriptures-strongs}
+    proximity: 0.7255 {macula-proximity}
   - strongs: H8082
-    proximity: 0.7211
+    lemma: שָׁמֵן
+    gloss: greasy {openscriptures-strongs}
+    proximity: 0.7211 {macula-proximity}
   - strongs: H776
-    proximity: 0.7058
+    proximity: 0.7058 {macula-proximity}
   - strongs: H7704a
-    proximity: 0.7004
+    proximity: 0.7004 {macula-proximity}
   cross_language:
   - strongs: G1093
-    proximity: 0.8263
+    lemma: γῆ
+    gloss: soil {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
     language: greek
   - strongs: G5561
-    proximity: 0.8121
+    lemma: χώρα
+    gloss: room {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
     language: greek
   - strongs: G2779
-    proximity: 0.7879
+    lemma: κῆπος
+    gloss: a garden {openscriptures-strongs}
+    proximity: 0.7879 {macula-proximity}
     language: greek
   - strongs: G68
-    proximity: 0.7297
+    proximity: 0.7297 {macula-proximity}
     language: greek
   - strongs: G1091
-    proximity: 0.7229
+    lemma: γεώργιον
+    gloss: cultivable {openscriptures-strongs}
+    proximity: 0.7229 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

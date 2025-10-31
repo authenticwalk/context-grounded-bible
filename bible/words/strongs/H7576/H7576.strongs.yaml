@@ -6,46 +6,59 @@ pronunciation: raw-thak'
 definition: to fasten
 kjv_usage: bind.
 derivation: a primitive root;
-extended_definition:
-  gloss: to bind
-  definition: 1) to bind<br>1a) (Niphal) to be snapped, be broken<br>1b) (Pual) to
-    be bound
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to bind
+
+  1a) (Niphal) to be snapped, be broken
+
+  1b) (Pual) to be bound {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6476a
-    proximity: 0.8262
+    proximity: 0.8262 {macula-proximity}
   - strongs: H7059
-    proximity: 0.8201
+    lemma: קָמַט
+    gloss: to pluck {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: H5421
-    proximity: 0.8166
+    lemma: נָתַע
+    gloss: to tear out {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
   - strongs: A3729
-    proximity: 0.8002
+    proximity: 0.8002 {macula-proximity}
   - strongs: H1911
-    proximity: 0.7991
+    lemma: הָדָה
+    gloss: to stretch forth the hand {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: H6316
-    proximity: 0.7988
+    lemma: פּוּט
+    gloss: Put {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   - strongs: H2844a
-    proximity: 0.7923
+    proximity: 0.7923 {macula-proximity}
   - strongs: H5274
-    proximity: 0.7919
+    lemma: נָעַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7919 {macula-proximity}
   - strongs: H7405
-    proximity: 0.7827
+    lemma: רָכַס
+    gloss: to tie {openscriptures-strongs}
+    proximity: 0.7827 {macula-proximity}
   - strongs: H631
-    proximity: 0.7532
+    proximity: 0.7532 {macula-proximity}
   cross_language:
   - strongs: G1195
-    proximity: 0.7817
+    lemma: δεσμεύω
+    gloss: to be a binder {openscriptures-strongs}
+    proximity: 0.7817 {macula-proximity}
     language: greek
   - strongs: G4029
-    proximity: 0.7777
+    lemma: περίκειμαι
+    gloss: to lie all around {openscriptures-strongs}
+    proximity: 0.7777 {macula-proximity}
     language: greek
   - strongs: G2608
-    proximity: 0.7269
+    lemma: κατάγνυμι
+    gloss: to rend in pieces {openscriptures-strongs}
+    proximity: 0.7269 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

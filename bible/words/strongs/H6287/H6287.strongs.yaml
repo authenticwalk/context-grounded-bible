@@ -6,48 +6,64 @@ pronunciation: peh-ayr'
 definition: an embellishment, i.e. fancy head-dress
 kjv_usage: beauty, bonnet, goodly, ornament, tire.
 derivation: from H6286 (פָּאַר);
-extended_definition:
-  gloss: headdress
-  definition: head-dress, ornament, turban
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: head-dress, ornament, turban {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3520
-    proximity: 0.8188
+    lemma: כְּבוּדָּה
+    gloss: weightiness {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
   - strongs: H1264
-    proximity: 0.8177
+    lemma: בְּרוֹם
+    gloss: damask {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
   - strongs: H4998
-    proximity: 0.8172
+    lemma: נָאָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
   - strongs: H1925
-    proximity: 0.8158
+    lemma: הֶדֶר
+    gloss: honour {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: H3303
-    proximity: 0.8096
+    lemma: יָפֶה
+    gloss: beautiful {openscriptures-strongs}
+    proximity: 0.8096 {macula-proximity}
   - strongs: H8597
-    proximity: 0.767
+    lemma: תִּפְאָרָה
+    gloss: ornament (abstractly or concretely {openscriptures-strongs}
+    proximity: 0.767 {macula-proximity}
   - strongs: A8209
-    proximity: 0.7489
+    proximity: 0.7489 {macula-proximity}
   - strongs: H666
-    proximity: 0.7374
+    proximity: 0.7374 {macula-proximity}
   - strongs: H3880
-    proximity: 0.7363
+    lemma: לִוְיָה
+    gloss: something attached {openscriptures-strongs}
+    proximity: 0.7363 {macula-proximity}
   - strongs: H4555
-    proximity: 0.7191
+    lemma: מִסְפָּחָה
+    gloss: a veil {openscriptures-strongs}
+    proximity: 0.7191 {macula-proximity}
   cross_language:
   - strongs: G2143
-    proximity: 0.8055
+    lemma: εὐπρέπεια
+    gloss: good suitableness {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
     language: greek
   - strongs: G4735
-    proximity: 0.7862
+    lemma: στέφανος
+    gloss: a chaplet (as a badge of royalty {openscriptures-strongs}
+    proximity: 0.7862 {macula-proximity}
     language: greek
   - strongs: G2986
-    proximity: 0.7656
+    lemma: λαμπρός
+    gloss: radiant {openscriptures-strongs}
+    proximity: 0.7656 {macula-proximity}
     language: greek
   - strongs: G4676
-    proximity: 0.7067
+    lemma: σουδάριον
+    gloss: a sudarium {openscriptures-strongs}
+    proximity: 0.7067 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

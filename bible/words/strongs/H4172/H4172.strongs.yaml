@@ -10,30 +10,43 @@ derivation: or מֹרָא; or מוֹרָהxlit môrâh corrected to môwrâh; (P
 related_words:
   synonyms:
   - strongs: H8078
-    proximity: 0.8123
+    lemma: שִׁמָּמוֹן
+    gloss: stupefaction {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
   - strongs: H7089
-    proximity: 0.8055
+    lemma: קְפָדָה
+    gloss: shrinking {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
   - strongs: H8175
-    proximity: 0.8042
+    lemma: שָׂעַר
+    gloss: to storm {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: H4288
-    proximity: 0.8037
+    lemma: מְחִתָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
   cross_language:
   - strongs: G1568
-    proximity: 0.8284
+    lemma: ἐκθαμβέω
+    gloss: to astonish utterly {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: greek
   - strongs: G2903
-    proximity: 0.827
+    lemma: κράτιστος
+    gloss: strongest {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: greek
   - strongs: G547
-    proximity: 0.8262
+    proximity: 0.8262 {macula-proximity}
     language: greek
   - strongs: G1719
-    proximity: 0.825
+    lemma: ἔμφοβος
+    gloss: in fear {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G5091
-    proximity: 0.8242
+    lemma: τιμάω
+    gloss: to prize {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,29 +6,29 @@ pronunciation: tar-beeth'
 definition: multiplication, i.e. percentage or bonus in addition to principal
 kjv_usage: increase, unjust gain.
 derivation: from H7235 (רָבָה);
-extended_definition:
-  gloss: increment
-  definition: increment, usury, interest, bonus
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: increment, usury, interest, bonus {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3504
-    proximity: 0.818
+    lemma: יִתְרוֹן
+    gloss: preeminence {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: H4768
-    proximity: 0.8177
+    lemma: מַרְבִּית
+    gloss: a multitude {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
   - strongs: A7680
-    proximity: 0.8143
+    proximity: 0.8143 {macula-proximity}
   - strongs: H5391a
-    proximity: 0.7999
+    proximity: 0.7999 {macula-proximity}
   - strongs: H5504
-    proximity: 0.7871
+    lemma: סַחַר
+    gloss: profit {openscriptures-strongs}
+    proximity: 0.7871 {macula-proximity}
   cross_language:
   - strongs: G1865
-    proximity: 0.8261
+    lemma: ἐπαθροίζω
+    gloss: to accumulate {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

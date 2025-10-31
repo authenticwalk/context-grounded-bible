@@ -6,41 +6,51 @@ pronunciation: saw-reed'
 definition: a survivor
 kjv_usage: '[idiom] alive, left, remain(-ing), remnant, rest.'
 derivation: from H8277 (שָׂרַד);
-extended_definition:
-  gloss: survivor
-  definition: 1) survivor, remnant, that which is left<br>1a) survivor
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) survivor, remnant, that which is left
+
+  1a) survivor {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A7662
-    proximity: 0.8259
+    proximity: 0.8259 {macula-proximity}
   - strongs: H4422
-    proximity: 0.8046
+    lemma: מָלַט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
   - strongs: H8277
-    proximity: 0.7648
+    lemma: שָׂרַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7648 {macula-proximity}
   - strongs: H6412a
-    proximity: 0.7536
+    proximity: 0.7536 {macula-proximity}
   - strongs: H5736
-    proximity: 0.7492
+    lemma: עֲדַף
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7492 {macula-proximity}
   cross_language:
   - strongs: G4051
-    proximity: 0.8229
+    lemma: περίσσευμα
+    gloss: a surplus {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G2225
-    proximity: 0.8167
+    lemma: ζωογονέω
+    gloss: to engender alive {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G1265
-    proximity: 0.7917
+    lemma: διαμένω
+    gloss: to stay constantly {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: greek
   - strongs: G3062
-    proximity: 0.7781
+    lemma: λοιποί
+    gloss: remaining ones {openscriptures-strongs}
+    proximity: 0.7781 {macula-proximity}
     language: greek
   - strongs: G5277
-    proximity: 0.7779
+    lemma: ὑπολιμπάνω
+    gloss: to leave behind {openscriptures-strongs}
+    proximity: 0.7779 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

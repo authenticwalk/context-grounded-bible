@@ -6,43 +6,51 @@ pronunciation: beh'-tsah
 definition: plunder; by extension, gain (usually unjust)
 kjv_usage: covetousness, (dishonest) gain, lucre, profit.
 derivation: from H1214 (בָּצַע);
-extended_definition:
-  gloss: unjust-gain
-  definition: profit, unjust gain, gain (profit) acquired by violence
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: profit, unjust gain, gain (profit) acquired by violence {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H962
-    proximity: 0.8238
+    proximity: 0.8238 {macula-proximity}
   - strongs: H7997
-    proximity: 0.8194
+    lemma: שָׁלַל
+    gloss: to drop or strip {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H4195
-    proximity: 0.7997
+    lemma: מוֹתָר
+    gloss: literally gain {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
   - strongs: H4455
-    proximity: 0.7936
+    lemma: מַלְקוֹחַ
+    gloss: transitively  the jaws {openscriptures-strongs}
+    proximity: 0.7936 {macula-proximity}
   - strongs: H3148
-    proximity: 0.7796
+    lemma: יוֹתֵר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7796 {macula-proximity}
   - strongs: H5706
-    proximity: 0.7735
+    lemma: עַד
+    gloss: booty {openscriptures-strongs}
+    proximity: 0.7735 {macula-proximity}
   cross_language:
   - strongs: G4851
-    proximity: 0.8199
+    lemma: συμφέρω
+    gloss: to bear together {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
     language: greek
   - strongs: G255
-    proximity: 0.8119
+    proximity: 0.8119 {macula-proximity}
     language: greek
   - strongs: G5624
-    proximity: 0.8095
+    lemma: ὠφέλιμος
+    gloss: helpful or serviceable {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
     language: greek
   - strongs: G4123
-    proximity: 0.8063
+    lemma: πλεονέκτης
+    gloss: holding  more {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
     language: greek
   - strongs: G162
-    proximity: 0.8044
+    proximity: 0.8044 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

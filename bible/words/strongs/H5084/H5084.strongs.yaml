@@ -6,39 +6,43 @@ pronunciation: naw-dawn'
 definition: a sheath (of a sword)
 kjv_usage: sheath.
 derivation: of uncertain derivation;
-extended_definition:
-  gloss: sheath
-  definition: 'sheath<BR>Aramaic equivalent: <i>nid.neh</i> (נִדְנֵ֑ה "sheath" H5085)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'sheath
+
+  Aramaic equivalent: nid.neh (נִדְנֵ֑ה "sheath" H5085) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6974a
-    proximity: 0.8223
+    proximity: 0.8223 {macula-proximity}
   - strongs: A6966
-    proximity: 0.7981
+    proximity: 0.7981 {macula-proximity}
   - strongs: H6965
-    proximity: 0.7501
+    lemma: קוּם
+    gloss: to rise (in various applications {openscriptures-strongs}
+    proximity: 0.7501 {macula-proximity}
   - strongs: H7925
-    proximity: 0.7135
+    lemma: שָׁכַם
+    gloss: literally {openscriptures-strongs}
+    proximity: 0.7135 {macula-proximity}
   cross_language:
   - strongs: G1326
-    proximity: 0.8296
+    lemma: διεγείρω
+    gloss: to wake fully {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G1453
-    proximity: 0.8092
+    lemma: ἐγείρω
+    gloss: to waken {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
     language: greek
   - strongs: G1881
-    proximity: 0.8015
+    lemma: ἐπανίσταμαι
+    gloss: to stand up on {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
     language: greek
   - strongs: G352
-    proximity: 0.7698
+    proximity: 0.7698 {macula-proximity}
     language: greek
   - strongs: G450
-    proximity: 0.7265
+    proximity: 0.7265 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

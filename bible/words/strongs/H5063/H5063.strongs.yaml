@@ -6,51 +6,71 @@ pronunciation: neh'-ghef
 definition: a trip (of the foot); figuratively, an infliction (of disease)
 kjv_usage: plague, stumbling.
 derivation: from H5062 (נָגַף);
-extended_definition:
-  gloss: plague
-  definition: 1) blow, striking, plague<br>1a) blow, plague (fatal)<br>1b) striking
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) blow, striking, plague
+
+  1a) blow, plague (fatal)
+
+  1b) striking {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7451b
-    proximity: 0.8259
+    proximity: 0.8259 {macula-proximity}
   - strongs: H5062
-    proximity: 0.8194
+    lemma: נָגַף
+    gloss: to push {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H6880
-    proximity: 0.8188
+    lemma: צִרְעָה
+    gloss: a wasp {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
   - strongs: H6843
-    proximity: 0.8139
+    lemma: צְפִירָה
+    gloss: a crown {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H3921
-    proximity: 0.8111
+    lemma: לֶכֶד
+    gloss: something to capture with {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: H6294
-    proximity: 0.8104
+    lemma: פֶּגַע
+    gloss: impact {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
   - strongs: H343
-    proximity: 0.8066
+    proximity: 0.8066 {macula-proximity}
   - strongs: H2256b
-    proximity: 0.8045
+    proximity: 0.8045 {macula-proximity}
   - strongs: H5061
-    proximity: 0.8042
+    lemma: נֶגַע
+    gloss: a blow (figuratively {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: H4844
-    proximity: 0.8034
+    lemma: מְרֹר
+    gloss: a bitter herb {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
   cross_language:
   - strongs: G4417
-    proximity: 0.8216
+    lemma: πταίω
+    gloss: to trip {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
     language: greek
   - strongs: G3759
-    proximity: 0.8113
+    lemma: οὐαί
+    gloss: '"woe" {openscriptures-strongs}'
+    proximity: 0.8113 {macula-proximity}
     language: greek
   - strongs: G4350
-    proximity: 0.8036
+    lemma: προσκόπτω
+    gloss: to strike at {openscriptures-strongs}
+    proximity: 0.8036 {macula-proximity}
     language: greek
   - strongs: G5004
-    proximity: 0.7799
+    lemma: ταλαιπωρία
+    gloss: wretchedness {openscriptures-strongs}
+    proximity: 0.7799 {macula-proximity}
     language: greek
   - strongs: G3148
-    proximity: 0.7773
+    lemma: μάστιξ
+    gloss: a whip (literally {openscriptures-strongs}
+    proximity: 0.7773 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

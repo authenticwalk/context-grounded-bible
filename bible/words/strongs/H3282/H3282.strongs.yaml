@@ -8,44 +8,57 @@ definition: properly, heed; by implication, purpose (sake or account); used adve
 kjv_usage: because (that), forasmuch ([phrase] as), seeing then, [phrase] that, [phrase]
   wheras, [phrase] why.
 derivation: from an unused root meaning to pay attention;
-extended_definition:
-  gloss: because
-  definition: conj<br>1) because, therefore, because that, on account of<br>prep<br>2)
-    because of, on account of<br>3) why (with interrogative pron)
-  morphology: H:Conj
-  source: STEPBible/BDB
+extended_definition: 'conj
+
+  1) because, therefore, because that, on account of
+
+  prep
+
+  2) because of, on account of
+
+  3) why (with interrogative pron) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1571
-    proximity: 0.8201
+    lemma: גַּם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: H310
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
   - strongs: H853
-    proximity: 0.8153
+    proximity: 0.8153 {macula-proximity}
   - strongs: H6440
-    proximity: 0.8117
+    lemma: פָּנִים
+    gloss: the face {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
   - strongs: H1697
-    proximity: 0.8084
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8084 {macula-proximity}
   - strongs: A1836
-    proximity: 0.7919
+    proximity: 0.7919 {macula-proximity}
   cross_language:
   - strongs: G249
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G3636
-    proximity: 0.8244
+    lemma: ὀκνηρός
+    gloss: tardy {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: greek
   - strongs: G3767
-    proximity: 0.819
+    lemma: οὖν
+    gloss: certainly {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
     language: greek
   - strongs: G1748
-    proximity: 0.8091
+    lemma: ἐνεδρεύω
+    gloss: to lurk {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
     language: greek
   - strongs: G1352
-    proximity: 0.8063
+    lemma: διό
+    gloss: through which thing {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

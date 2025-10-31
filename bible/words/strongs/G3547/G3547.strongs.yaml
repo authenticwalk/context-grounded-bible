@@ -5,57 +5,65 @@ transliteration: nomodidáskalos
 definition: an expounder of the (Jewish) law, i.e. a Rabbi
 kjv_usage: doctor (teacher) of the law
 derivation: from G3551 (νόμος) and G1320 (διδάσκαλος);
-extended_definition:
-  gloss: teacher of the law
-  definition: '<b>νομο-διδάσκαλος</b>, -ου, ὁ <BR /> <b>a teacher of the law</b>:
-    <ref=''Luk.5.17''>Luk.5:17</ref>, <ref=''Act.5.34''>Act.5:34</ref>, <ref=''1Ti.1.7''>1Ti.1:7</ref>
-    (NT and eccl. only; cf. νομοδείκτης, -διδάκτης, Plut.).†<BR /> <re><i>SYN.</i>:
-    γραμματεύς, q.v </re> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> νομο-δῐδάσκᾰλος</b>, ὁ, <br /> <b>teacher of the law,</b> [<a
-    href="javascript:void(0)" title="NT.Luke.5.17, +others ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'νομο-διδάσκαλος, -ου, ὁ
+
+  a teacher of the law: Luk.5:17, Act.5:34, 1Ti.1:7 (NT and eccl. only; cf. νομοδείκτης,
+  -διδάκτης, Plut.).†
+
+  SYN.: γραμματεύς, q.v  (AS) {STEPBible-TBESG}'
+etymology: 'νομο-δῐδάσκᾰλος, ὁ,
+
+  teacher of the law, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2519
-    proximity: 0.8284
+    lemma: καθηγητής
+    gloss: a guide {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8183
+    proximity: 0.8183 {macula-proximity}
   - strongs: G460
-    proximity: 0.7785
+    proximity: 0.7785 {macula-proximity}
   - strongs: G3810
-    proximity: 0.7675
+    lemma: παιδευτής
+    gloss: a trainer {openscriptures-strongs}
+    proximity: 0.7675 {macula-proximity}
   - strongs: G3588
-    proximity: 0.7591
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7591 {macula-proximity}
   - strongs: G1772
-    proximity: 0.7486
+    lemma: ἔννομος
+    gloss: legal {openscriptures-strongs}
+    proximity: 0.7486 {macula-proximity}
   - strongs: G459
-    proximity: 0.7424
+    proximity: 0.7424 {macula-proximity}
   - strongs: G5572
-    proximity: 0.742
+    lemma: ψευδοδιδάσκαλος
+    gloss: a spurious teacher {openscriptures-strongs}
+    proximity: 0.742 {macula-proximity}
   - strongs: G3549
-    proximity: 0.7338
+    lemma: νομοθετέω
+    gloss: to legislate {openscriptures-strongs}
+    proximity: 0.7338 {macula-proximity}
   cross_language:
   - strongs: H539a
-    proximity: 0.8171
+    proximity: 0.8171 {macula-proximity}
     language: hebrew
   - strongs: H328a
-    proximity: 0.8012
+    proximity: 0.8012 {macula-proximity}
     language: hebrew
   - strongs: H1881
-    proximity: 0.7928
+    lemma: דָּת
+    gloss: a royal edict or statute {openscriptures-strongs}
+    proximity: 0.7928 {macula-proximity}
     language: hebrew
   - strongs: H1886a
-    proximity: 0.7766
+    proximity: 0.7766 {macula-proximity}
     language: hebrew
   - strongs: H8584
-    proximity: 0.7552
+    lemma: תְּעוּדָה
+    gloss: attestation {openscriptures-strongs}
+    proximity: 0.7552 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

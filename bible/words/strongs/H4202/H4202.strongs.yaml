@@ -6,49 +6,64 @@ pronunciation: maw-zone'
 definition: food
 kjv_usage: meat, victual.
 derivation: from H2109 (זוּן);
-extended_definition:
-  gloss: food
-  definition: 'food, sustenance<BR>Aramaic equivalent: <i>ma.zon</i> (מָזוֹן "food"
-    H4203)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'food, sustenance
+
+  Aramaic equivalent: ma.zon (מָזוֹן "food" H4203) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1786
-    proximity: 0.8265
+    lemma: דַּיִשׁ
+    gloss: threshing-time {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H3557
-    proximity: 0.8159
+    lemma: כּוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H2557a
-    proximity: 0.8142
+    proximity: 0.8142 {macula-proximity}
   - strongs: H7666
-    proximity: 0.8141
+    lemma: שָׁבַר
+    gloss: to deal in grain {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: H1250
-    proximity: 0.8024
+    lemma: בָּר
+    gloss: grain of any kind {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: H6595
-    proximity: 0.7935
+    lemma: פַּת
+    gloss: a bit {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
   - strongs: H1715
-    proximity: 0.7833
+    lemma: דָּגָן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
   - strongs: H3740
-    proximity: 0.7801
+    lemma: כֵּרָה
+    gloss: a purchase {openscriptures-strongs}
+    proximity: 0.7801 {macula-proximity}
   - strongs: H4303
-    proximity: 0.7338
+    lemma: מַטְעַם
+    gloss: a delicacy {openscriptures-strongs}
+    proximity: 0.7338 {macula-proximity}
   - strongs: H6718b
-    proximity: 0.731
+    proximity: 0.731 {macula-proximity}
   cross_language:
   - strongs: G1494a
-    proximity: 0.823
+    proximity: 0.823 {macula-proximity}
     language: greek
   - strongs: G3521
-    proximity: 0.8201
+    lemma: νηστεία
+    gloss: abstinence (from lack of food {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G1967
-    proximity: 0.8041
+    lemma: ἐπιούσιος
+    gloss: tomorrow's {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
     language: greek
   - strongs: G1305
-    proximity: 0.7056
+    lemma: διατροφή
+    gloss: nourishment {openscriptures-strongs}
+    proximity: 0.7056 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

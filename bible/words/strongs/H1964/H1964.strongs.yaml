@@ -6,51 +6,71 @@ pronunciation: hay-kawl'
 definition: a large public building, such as a palace or temple
 kjv_usage: palace, temple.
 derivation: probably from H3201 (יָכֹל) (in the sense of capacity);
-extended_definition:
-  gloss: 'temple: nave'
-  definition: ': nave/hallway<br>1) palace, temple, nave, sanctuary<br>1a) palace<br>1b)
-    temple (palace of God as king)<br>1c) hall, nave (of Ezekiel''s temple)<br>1d)
-    temple (of heavenly temple)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': nave/hallway
+
+  1) palace, temple, nave, sanctuary
+
+  1a) palace
+
+  1b) temple (palace of God as king)
+
+  1c) hall, nave (of Ezekiel''s temple)
+
+  1d) temple (of heavenly temple) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1b
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.8233
+    proximity: 0.8233 {macula-proximity}
   - strongs: H6441
-    proximity: 0.8224
+    lemma: פְּנִימָה
+    gloss: faceward {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
   - strongs: H6918
-    proximity: 0.818
+    lemma: קָדוֹשׁ
+    gloss: sacred {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: H4428
-    proximity: 0.8135
+    lemma: מֶלֶךְ
+    gloss: a king {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: H1419
-    proximity: 0.8065
+    lemma: גָּדוֹל
+    gloss: great {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
   - strongs: A426
-    proximity: 0.7925
+    proximity: 0.7925 {macula-proximity}
   - strongs: H7541
-    proximity: 0.7874
+    lemma: רַקָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7874 {macula-proximity}
   - strongs: H1055
-    proximity: 0.7808
+    lemma: בִּיתָן
+    gloss: a palace {openscriptures-strongs}
+    proximity: 0.7808 {macula-proximity}
   cross_language:
   - strongs: G40
-    proximity: 0.8283
+    proximity: 0.8283 {macula-proximity}
     language: greek
   - strongs: G1493
-    proximity: 0.8196
+    lemma: εἰδωλεῖον
+    gloss: an image-fane {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
     language: greek
   - strongs: G2417
-    proximity: 0.8055
+    lemma: ἱερόσυλος
+    gloss: a temple-despoiler {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
     language: greek
   - strongs: G2416
-    proximity: 0.7995
+    lemma: ἱεροσυλέω
+    gloss: to be a temple-robber {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
     language: greek
   - strongs: G4755
-    proximity: 0.7994
+    lemma: στρατηγός
+    gloss: a general {openscriptures-strongs}
+    proximity: 0.7994 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

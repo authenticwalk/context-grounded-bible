@@ -5,61 +5,71 @@ transliteration: ékthetos
 definition: put out, i.e. exposed to perish
 kjv_usage: cast out
 derivation: from G1537 (ἐκ) and a derivative of G5087 (τίθημι);
-extended_definition:
-  gloss: exposed
-  definition: '<b>ἔκ-θετος</b>, -ον<BR /> (ἐκτίθημι), [in Al.: <ref=''Ezk.42.3''>Eze.42:3</ref>
-    * ;] <BR /><b>cast out</b>: ποιεῖν ἔ. = ἐκτιθέναι, <ref=''Act.7.19.''>Act.7:19.</ref>†<BR
-    /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἔκ-θετος</b>, ον, <br /> <b>sent out of the house, sent away,</b>
-    [<a href="javascript:void(0)" title=" 5th c.BC: Euripides Tragicus “Andromache”
-    70 ">Refs 5th c.BC+</a>]; <b>exposed,</b> of a child, [<a href="javascript:void(0)"
-    title=" NT.Act.7.19, 4th c.AD(?): Manetho Astrologus 6.52 ">NT+4th c.AD+</a>];
-    <b>cast away,</b> [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius
-    Legal icographus ">Refs 5th c.AD+</a>]<br /><Level2><b>__II</b></Level2> <b>projecting,
-    salient,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 1.68
-    ">Refs 2nd c.AD+</a>]; opposed to κρυπτός, [<a href="javascript:void(0)" title="
-    1st-2nd c.AD: Heliodorus Medicus (?)cited in 4th c.AD: Oribasius Medicus 49.4.23.
-    ">Refs 1st c.AD+</a>]<br /><Level4><b>__II.b</b></Level4> <i>neuter</i>, ἔκθετον,
-    τό, ={ἐκθέτης}, Al.[<a href="javascript:void(0)" title=" LXX.Eze.42.3. ">LXX</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἔκ-θετος, -ον
+
+  (ἐκτίθημι), [in Al.: Eze.42:3 * ;]
+
+  cast out: ποιεῖν ἔ. = ἐκτιθέναι, Act.7:19.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἔκ-θετος, ον,
+
+  sent out of the house, sent away, [Refs 5th c.BC+]; exposed, of a child, [NT+4th
+  c.AD+]; cast away, [Refs 5th c.AD+]
+
+  __II projecting, salient, [Refs 2nd c.AD+]; opposed to κρυπτός, [Refs 1st c.AD+]
+
+  __II.b neuter, ἔκθετον, τό, ={ἐκθέτης}, Al.[LXX] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2641
-    proximity: 0.8064
+    lemma: καταλείπω
+    gloss: to leave down {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
   - strongs: G2210
-    proximity: 0.8031
+    lemma: ζημιόω
+    gloss: to injure {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
   - strongs: G5277
-    proximity: 0.7778
+    lemma: ὑπολιμπάνω
+    gloss: to leave behind {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   - strongs: G4496
-    proximity: 0.7729
+    lemma: ῥίπτω
+    gloss: to fling (properly {openscriptures-strongs}
+    proximity: 0.7729 {macula-proximity}
   - strongs: G3845
-    proximity: 0.7404
+    lemma: παραβαίνω
+    gloss: to go contrary to {openscriptures-strongs}
+    proximity: 0.7404 {macula-proximity}
   - strongs: G683
-    proximity: 0.728
+    proximity: 0.728 {macula-proximity}
   - strongs: G593
-    proximity: 0.7229
+    proximity: 0.7229 {macula-proximity}
   cross_language:
   - strongs: H6340
-    proximity: 0.8219
+    lemma: פָּזַר
+    gloss: to scatter {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
     language: hebrew
   - strongs: H4480
-    proximity: 0.816
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
     language: hebrew
   - strongs: H5414
-    proximity: 0.803
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
     language: hebrew
   - strongs: H5493
-    proximity: 0.7919
+    lemma: סוּר
+    gloss: to turn off {openscriptures-strongs}
+    proximity: 0.7919 {macula-proximity}
     language: hebrew
   - strongs: H4286
-    proximity: 0.7593
+    lemma: מַחְשֹׂף
+    gloss: a peeling {openscriptures-strongs}
+    proximity: 0.7593 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,25 +6,26 @@ pronunciation: mel-ee-tsaw'
 definition: an aphorism; also a satire
 kjv_usage: interpretation, taunting.
 derivation: from H3887 (לוּץ);
-extended_definition:
-  gloss: mockery
-  definition: satire, mocking poem, mocking song, taunting, figure, enigma
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: satire, mocking poem, mocking song, taunting, figure, enigma
+  {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1422
-    proximity: 0.7951
+    lemma: גְּדוּפָה
+    gloss: a revilement {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
   - strongs: H4911
-    proximity: 0.7875
+    lemma: מָשַׁל
+    gloss: to liken {openscriptures-strongs}
+    proximity: 0.7875 {macula-proximity}
   - strongs: H8148
-    proximity: 0.7681
+    lemma: שְׁנִינָה
+    gloss: something pointed {openscriptures-strongs}
+    proximity: 0.7681 {macula-proximity}
   cross_language:
   - strongs: G5512
-    proximity: 0.8138
+    lemma: χλευάζω
+    gloss: to throw out the lip {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

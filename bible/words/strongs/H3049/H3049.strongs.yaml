@@ -6,35 +6,38 @@ pronunciation: yid-deh-o-nee'
 definition: properly, a knowing one; specifically, a conjurer; (by impl) a ghost
 kjv_usage: wizard.
 derivation: from H3045 (יָדַע);
-extended_definition:
-  gloss: spiritist
-  definition: 1) a knower, one who has a familiar spirit<br>1a) a familiar spirit,
-    soothsayer, necromancer (meton)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) a knower, one who has a familiar spirit
+
+  1a) a familiar spirit, soothsayer, necromancer (meton) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H178
-    proximity: 0.8175
+    proximity: 0.8175 {macula-proximity}
   - strongs: H907a
-    proximity: 0.8145
+    proximity: 0.8145 {macula-proximity}
   - strongs: H3785
-    proximity: 0.7995
+    lemma: כֶּשֶׁף
+    gloss: magic {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
   - strongs: H7081
-    proximity: 0.7919
+    lemma: קֶסֶם
+    gloss: a lot {openscriptures-strongs}
+    proximity: 0.7919 {macula-proximity}
   - strongs: H3858a
-    proximity: 0.7831
+    proximity: 0.7831 {macula-proximity}
   - strongs: H6049
-    proximity: 0.7431
+    lemma: עָנַן
+    gloss: figuratively {openscriptures-strongs}
+    proximity: 0.7431 {macula-proximity}
   cross_language:
   - strongs: G3097
-    proximity: 0.774
+    lemma: μάγος
+    gloss: a Magian {openscriptures-strongs}
+    proximity: 0.774 {macula-proximity}
     language: greek
   - strongs: G3132
-    proximity: 0.7728
+    lemma: μαντεύομαι
+    gloss: to divine {openscriptures-strongs}
+    proximity: 0.7728 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

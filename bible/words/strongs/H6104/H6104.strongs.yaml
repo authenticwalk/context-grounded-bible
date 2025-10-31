@@ -6,35 +6,33 @@ pronunciation: ats-looth'
 definition: indolence
 kjv_usage: idleness.
 derivation: from H6101 (עָצַל);
-extended_definition:
-  gloss: sluggishness
-  definition: sluggishness, laziness
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: sluggishness, laziness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H398
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
   - strongs: H3899
-    proximity: 0.8
+    lemma: לֶחֶם
+    gloss: food {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   cross_language:
   - strongs: G812
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G2068
-    proximity: 0.8238
+    lemma: ἐσθίω
+    gloss: used only in certain tenses {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
     language: greek
   - strongs: G709
-    proximity: 0.8215
+    proximity: 0.8215 {macula-proximity}
     language: greek
   - strongs: G5315
-    proximity: 0.8048
+    lemma: φάγω
+    gloss: to eat {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
     language: greek
   - strongs: G813
-    proximity: 0.8045
+    proximity: 0.8045 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

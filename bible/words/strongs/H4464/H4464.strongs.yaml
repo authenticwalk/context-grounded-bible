@@ -6,43 +6,51 @@ pronunciation: mam-zare'
 definition: a mongrel, i.e. born of aJewish father and aheathen mother
 kjv_usage: bastard.
 derivation: from an unused root meaning to alienate;
-extended_definition:
-  gloss: bastard
-  definition: 1) bastard, child of incest, illegitimate child<br>1a) bastard<br>1b)
-    mixed population (fig.)<br>1c) born of a Jewish father and a heathen mother or
-    visa versa
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) bastard, child of incest, illegitimate child
+
+  1a) bastard
+
+  1b) mixed population (fig.)
+
+  1c) born of a Jewish father and a heathen mother or visa versa {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1121
-    proximity: 0.8201
+    lemma: בֵּן
+    gloss: a son {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: H628
-    proximity: 0.7725
+    proximity: 0.7725 {macula-proximity}
   - strongs: H5236
-    proximity: 0.7437
+    lemma: נֵכָר
+    gloss: foreign {openscriptures-strongs}
+    proximity: 0.7437 {macula-proximity}
   - strongs: H5237
-    proximity: 0.743
+    lemma: נׇכְרִי
+    gloss: strange {openscriptures-strongs}
+    proximity: 0.743 {macula-proximity}
   - strongs: H2114b
-    proximity: 0.7378
+    proximity: 0.7378 {macula-proximity}
   cross_language:
   - strongs: G4701
-    proximity: 0.829
+    lemma: σπορά
+    gloss: a sowing {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G245
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G4703
-    proximity: 0.8223
+    lemma: σπόρος
+    gloss: a scattering {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G915
-    proximity: 0.808
+    proximity: 0.808 {macula-proximity}
     language: greek
   - strongs: G1085
-    proximity: 0.8073
+    lemma: γένος
+    gloss: '"kin" (abstract or concrete {openscriptures-strongs}'
+    proximity: 0.8073 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

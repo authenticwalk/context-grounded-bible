@@ -5,63 +5,72 @@ transliteration: ependýomai
 definition: to invest upon oneself
 kjv_usage: be clothed upon
 derivation: middle voice from G1909 (ἐπί) and G1746 (ἐνδύω);
-extended_definition:
-  gloss: be clothed
-  definition: '<b>ἐπ-εν-δύω</b><BR /> = -δύνω (Hdt.), <BR /> <b>to put on over</b>;
-    pass. (Plut., al.), <b>to have on over, be clothed upon</b>: <ref=''2Co.5.2-4.''>2Co.5:2-4.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐπεν-δύνω</b> [ῡ] <br /> or <u><b>ἐπεν-δύω</b></u>, <b>put
-    on over,</b> [<a href="javascript:void(0)" title=" ἐπὶ τοῦτον ἄλλον κιθῶνα 5th
-    c.BC: Herodotus Historicus 1.195 ">Refs 5th c.BC+</a>]:—<i>middle</i>, [<a href="javascript:void(0)"
-    title=" -σάμενος χιτῶνα 1st c.AD: Josephus Historicus “Antiquitates Judaicae”
-    3.7.4; πολλὰ σώματα Aeneas Gazaeus Rhetor [{5-6th c.AD}] “Theophrastus” p.60 5th
-    c.BC: Bacchylides Lyricus: ">Refs 5th c.BC+</a>] —<i>passive</i> (with <i>aorist
-    2</i> <i>participle</i> [<a href="javascript:void(0)" title=" -δύντες 1st c.AD:
-    Josephus Historicus “Antiquitates Judaicae” 5.1.12)">Refs 1st c.AD+</a>], <b>have
-    on over,</b> [<a href="javascript:void(0)" title=" ἐσθῆτας ἐπενδεδυμένοι γυναικείας
-    τοῖς θώραξι Plutarchus Biographus et Philosophus [{1-2nd c.AD}] “Pelopidas” 11
-    ">Refs 1st c.AD+</a>].'
-  source: STEPBible/LSJ
+extended_definition: 'ἐπ-εν-δύω
+
+  = -δύνω (Hdt.),
+
+  to put on over; pass. (Plut., al.), to have on over, be clothed upon: 2Co.5:2-4.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐπεν-δύνω [ῡ]
+
+  or ἐπεν-δύω, put on over, [Refs 5th c.BC+]:—middle, [Refs 5th c.BC+] —passive (with
+  aorist 2 participle [Refs 1st c.AD+], have on over, [Refs 1st c.AD+]. {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1130
-    proximity: 0.8283
+    lemma: γυμνητεύω
+    gloss: to strip {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: G3326
-    proximity: 0.8248
+    lemma: μετά
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: G2639
-    proximity: 0.8246
+    lemma: καταλέγω
+    gloss: to lay down {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: G1688
-    proximity: 0.8214
+    lemma: ἐμβιβάζω
+    gloss: causative of G1684 ) {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: G2066
-    proximity: 0.8093
+    lemma: ἐσθής
+    gloss: dress {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
   - strongs: G4862
-    proximity: 0.8022
+    lemma: σύν
+    gloss: with or together  or G3844 ) {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
   - strongs: G2022
-    proximity: 0.8012
+    lemma: ἐπιχέω
+    proximity: 0.8012 {macula-proximity}
   - strongs: A3831
-    proximity: 0.7917
+    proximity: 0.7917 {macula-proximity}
   cross_language:
   - strongs: H7760
-    proximity: 0.8271
+    lemma: שׂוּם
+    gloss: to put (used in a great variety of applications {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: hebrew
   - strongs: H1911
-    proximity: 0.8271
+    lemma: הָדָה
+    gloss: to stretch forth the hand {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: hebrew
   - strongs: H8071
-    proximity: 0.82
+    lemma: שִׂמְלָה
+    gloss: a dress {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: hebrew
   - strongs: H6316
-    proximity: 0.8185
+    lemma: פּוּט
+    gloss: Put {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
     language: hebrew
   - strongs: H3830
-    proximity: 0.8163
+    lemma: לְבוּשׁ
+    gloss: a garment {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

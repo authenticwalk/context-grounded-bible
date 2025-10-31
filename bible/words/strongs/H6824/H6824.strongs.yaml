@@ -6,36 +6,44 @@ pronunciation: tsaw-faw'
 definition: an inundation (as covering)
 kjv_usage: '[idiom] swimmest.'
 derivation: from H6823 (צָפָה);
-extended_definition:
-  gloss: discharge
-  definition: outflow, overflow, discharge
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: outflow, overflow, discharge {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5674
-    proximity: 0.8268
+    lemma: עָבַר
+    gloss: to cross over {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: H1865a
-    proximity: 0.7851
+    proximity: 0.7851 {macula-proximity}
   - strongs: H7811
-    proximity: 0.7814
+    lemma: שָׂחָה
+    gloss: to swim {openscriptures-strongs}
+    proximity: 0.7814 {macula-proximity}
   - strongs: H2988
-    proximity: 0.7763
+    lemma: יָבָל
+    gloss: a stream {openscriptures-strongs}
+    proximity: 0.7763 {macula-proximity}
   - strongs: H1680
-    proximity: 0.7623
+    lemma: דָּבַב
+    gloss: to move slowly {openscriptures-strongs}
+    proximity: 0.7623 {macula-proximity}
   - strongs: H2100
-    proximity: 0.7335
+    lemma: זוּב
+    gloss: to flow freely {openscriptures-strongs}
+    proximity: 0.7335 {macula-proximity}
   - strongs: H2101
-    proximity: 0.7028
+    lemma: זוֹב
+    gloss: a seminal or menstrual flux {openscriptures-strongs}
+    proximity: 0.7028 {macula-proximity}
   cross_language:
   - strongs: G2860
-    proximity: 0.7929
+    lemma: κολυμβάω
+    gloss: to plunge into water {openscriptures-strongs}
+    proximity: 0.7929 {macula-proximity}
     language: greek
   - strongs: G1579
-    proximity: 0.7655
+    lemma: ἐκκολυμβάω
+    gloss: to escape by swimming {openscriptures-strongs}
+    proximity: 0.7655 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

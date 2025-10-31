@@ -6,45 +6,57 @@ pronunciation: mis-awd'
 definition: a balustrade (for stairs)
 kjv_usage: pillar.
 derivation: ''' from H5582 (סָעַד);'
-extended_definition:
-  gloss: support
-  definition: support, pillar
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: support, pillar {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2838
-    proximity: 0.8298
+    lemma: חָשֻׁק
+    gloss: attached {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: H4703
-    proximity: 0.8139
+    lemma: מִצְעָד
+    gloss: a step {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H838
-    proximity: 0.8082
+    proximity: 0.8082 {macula-proximity}
   - strongs: H4201
-    proximity: 0.8069
+    lemma: מְזוּזָה
+    gloss: a door-post {openscriptures-strongs}
+    proximity: 0.8069 {macula-proximity}
   - strongs: H6806
-    proximity: 0.805
+    lemma: צַעַד
+    gloss: a pace or regular step {openscriptures-strongs}
+    proximity: 0.805 {macula-proximity}
   - strongs: H7639
-    proximity: 0.7735
+    lemma: שְׂבָכָה
+    gloss: a net-work {openscriptures-strongs}
+    proximity: 0.7735 {macula-proximity}
   - strongs: H4690
-    proximity: 0.7708
+    lemma: מָצוּק
+    gloss: something narrow {openscriptures-strongs}
+    proximity: 0.7708 {macula-proximity}
   - strongs: H352b
-    proximity: 0.7684
+    proximity: 0.7684 {macula-proximity}
   - strongs: H4676
-    proximity: 0.7646
+    lemma: מַצֵּבָה
+    gloss: something stationed {openscriptures-strongs}
+    proximity: 0.7646 {macula-proximity}
   - strongs: H8490
-    proximity: 0.7583
+    lemma: תִּימָרָה
+    gloss: a column {openscriptures-strongs}
+    proximity: 0.7583 {macula-proximity}
   cross_language:
   - strongs: G304
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G2487
-    proximity: 0.8026
+    lemma: ἴχνος
+    gloss: compare G2240 ) {openscriptures-strongs}
+    proximity: 0.8026 {macula-proximity}
     language: greek
   - strongs: G4769
-    proximity: 0.7406
+    lemma: στῦλος
+    gloss: properly akin to the base of G2476 ) {openscriptures-strongs}
+    proximity: 0.7406 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

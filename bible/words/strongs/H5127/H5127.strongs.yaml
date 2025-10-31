@@ -8,46 +8,74 @@ definition: to flit, i.e. vanish away (subside, escape; causatively, chase, impe
 kjv_usage: '[idiom] abate, away, be displayed, (make to) flee (away, -ing), put to
   flight, [idiom] hide, lift up a standard.'
 derivation: a primitive root;
-extended_definition:
-  gloss: to flee
-  definition: '1) to flee, escape<br>1a) (Qal)<br>1a1) to flee<br>1a2) to escape<br>1a3)
-    to take flight, m depart, disappear<br>1a4) to fly (to the attack) on horseback<br>1b)
-    (Polel) to drive at<br>1c) (Hithpolel) to take flight<br>1d) (Hiphil)<br>1d1)
-    to put to flight<br>1d2) to drive hastily<br>1d3) to cause to disappear, hide<BR>Aramaic
-    equivalent: <i>nud</i> (נוּד "to flee" H5111)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to flee, escape
+
+  1a) (Qal)
+
+  1a1) to flee
+
+  1a2) to escape
+
+  1a3) to take flight, m depart, disappear
+
+  1a4) to fly (to the attack) on horseback
+
+  1b) (Polel) to drive at
+
+  1c) (Hithpolel) to take flight
+
+  1d) (Hiphil)
+
+  1d1) to put to flight
+
+  1d2) to drive hastily
+
+  1d3) to cause to disappear, hide
+
+  Aramaic equivalent: nud (נוּד "to flee" H5111) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5493
-    proximity: 0.8282
+    lemma: סוּר
+    gloss: to turn off {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
   - strongs: H4733
-    proximity: 0.8228
+    lemma: מִקְלָט
+    gloss: an asylum {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
   - strongs: H5080
-    proximity: 0.8141
+    lemma: נָדַח
+    gloss: to push off {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: H7725
-    proximity: 0.8087
+    lemma: שׁוּב
+    gloss: to turn back (hence {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
   - strongs: H7519
-    proximity: 0.8024
+    lemma: רָצָא
+    gloss: to run {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: H935
-    proximity: 0.7975
+    proximity: 0.7975 {macula-proximity}
   - strongs: H1886c
-    proximity: 0.7969
+    proximity: 0.7969 {macula-proximity}
   - strongs: H6413
-    proximity: 0.7798
+    lemma: פְּלֵיטָה
+    gloss: deliverance {openscriptures-strongs}
+    proximity: 0.7798 {macula-proximity}
   - strongs: H5323
-    proximity: 0.7722
+    lemma: נָצָא
+    gloss: to go away {openscriptures-strongs}
+    proximity: 0.7722 {macula-proximity}
   cross_language:
   - strongs: G1831
-    proximity: 0.7915
+    lemma: ἐξέρχομαι
+    gloss: to issue {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
     language: greek
   - strongs: G668
-    proximity: 0.7475
+    proximity: 0.7475 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

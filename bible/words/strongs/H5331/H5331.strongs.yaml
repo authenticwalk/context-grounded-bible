@@ -10,50 +10,60 @@ definition: properly, a goal, i.e. the bright object at adistance travelled towa
 kjv_usage: alway(-s), constantly, end, ([phrase] n-) ever(more), perpetual, strength,
   victory.
 derivation: or נֵצַח; from H5329 (נָצַח);
-extended_definition:
-  gloss: perpetuity
-  definition: 1) eminence, perpetuity, strength, victory, enduring, everlastingness<br>1a)
-    eminence<br>1b) enduring of life<br>1c) endurance in time, perpetual, continual,
-    unto the end<br>1d) everlastingness, ever
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) eminence, perpetuity, strength, victory, enduring, everlastingness
+
+  1a) eminence
+
+  1b) enduring of life
+
+  1c) endurance in time, perpetual, continual, unto the end
+
+  1d) everlastingness, ever {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2050b
-    proximity: 0.8244
+    proximity: 0.8244 {macula-proximity}
   - strongs: H6924
-    proximity: 0.8239
+    lemma: קֶדֶם
+    gloss: the front {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: A2050d
-    proximity: 0.8171
+    proximity: 0.8171 {macula-proximity}
   - strongs: H556
-    proximity: 0.8146
+    proximity: 0.8146 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8109
+    proximity: 0.8109 {macula-proximity}
   - strongs: A3807b
-    proximity: 0.8109
+    proximity: 0.8109 {macula-proximity}
   - strongs: H5125
-    proximity: 0.804
+    lemma: נוּן
+    gloss: to resprout {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   - strongs: H6276
-    proximity: 0.8004
+    lemma: עָתֵק
+    gloss: antique {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
   - strongs: H386
-    proximity: 0.7848
+    proximity: 0.7848 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.7773
+    proximity: 0.7773 {macula-proximity}
   cross_language:
   - strongs: G180
-    proximity: 0.8287
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G2532
-    proximity: 0.8275
+    lemma: καί
+    gloss: and {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
     language: greek
   - strongs: G3368
-    proximity: 0.8273
+    lemma: μηδέποτε
+    gloss: not even ever {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G3529
-    proximity: 0.7932
+    lemma: νίκη
+    gloss: conquest {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

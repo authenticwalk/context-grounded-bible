@@ -8,48 +8,69 @@ definition: used only in plural the intestines, or (collectively) the abdomen, f
   the seat of generation), the heart (figuratively)
 kjv_usage: belly, bowels, [idiom] heart, womb.
 derivation: from an unused root probably meaning to be soft;
-extended_definition:
-  gloss: belly
-  definition: '1) internal organs, inward parts, bowels, intestines, belly<br>1a)
-    inward parts<br>1b) digestive organs<br>1c) organs of procreation, womb<br>1d)
-    place of emotions or distress or love (fig.)<br>1e) external belly<BR>Aramaic
-    equivalent: <i>me.ah</i> (מְעָא "belly" H4577)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) internal organs, inward parts, bowels, intestines, belly
+
+  1a) inward parts
+
+  1b) digestive organs
+
+  1c) organs of procreation, womb
+
+  1d) place of emotions or distress or love (fig.)
+
+  1e) external belly
+
+  Aramaic equivalent: me.ah (מְעָא "belly" H4577) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A3825
-    proximity: 0.8272
+    proximity: 0.8272 {macula-proximity}
   - strongs: H2315
-    proximity: 0.8198
+    lemma: חֶדֶר
+    gloss: an apartment {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
   - strongs: H517
-    proximity: 0.8197
+    proximity: 0.8197 {macula-proximity}
   - strongs: H1122
-    proximity: 0.7986
+    lemma: בֵּן
+    gloss: Ben {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
   - strongs: H1121
-    proximity: 0.7948
+    lemma: בֵּן
+    gloss: a son {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
   - strongs: H7307
-    proximity: 0.79
+    lemma: רוּחַ
+    gloss: wind {openscriptures-strongs}
+    proximity: 0.79 {macula-proximity}
   - strongs: H5315
-    proximity: 0.7887
+    lemma: נֶפֶשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7887 {macula-proximity}
   cross_language:
   - strongs: G4561
-    proximity: 0.8187
+    lemma: σάρξ
+    gloss: flesh {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
     language: greek
   - strongs: G4983
-    proximity: 0.817
+    lemma: σῶμα
+    gloss: the body {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
     language: greek
   - strongs: G2082
-    proximity: 0.7952
+    lemma: ἐσώτερος
+    gloss: interior {openscriptures-strongs}
+    proximity: 0.7952 {macula-proximity}
     language: greek
   - strongs: G5590
-    proximity: 0.7906
+    lemma: ψυχή
+    gloss: breath {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
     language: greek
   - strongs: G3384
-    proximity: 0.786
+    lemma: μήτηρ
+    gloss: a "mother" (literally or figuratively {openscriptures-strongs}
+    proximity: 0.786 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

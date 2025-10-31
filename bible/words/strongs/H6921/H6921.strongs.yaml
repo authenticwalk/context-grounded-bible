@@ -7,42 +7,60 @@ definition: the fore or front part; hence (by orientation) the East (often adver
   eastward, for brevity the east wind)
 kjv_usage: east(-ward, wind).
 derivation: or קָדִם; from H6923 (קָדַם);
-extended_definition:
-  gloss: east
-  definition: 1) east, east wind<br>1a) east (of direction)<br>1b) east wind
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) east, east wind
+
+  1a) east (of direction)
+
+  1b) east wind {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4136
-    proximity: 0.8257
+    lemma: מוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H3802
-    proximity: 0.8091
+    lemma: כָּתֵף
+    gloss: the shoulder (proper {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
   - strongs: H4628
-    proximity: 0.7976
+    lemma: מַעֲרָב
+    gloss: the west {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: H1864
-    proximity: 0.7947
+    lemma: דָּרוֹם
+    gloss: the south {openscriptures-strongs}
+    proximity: 0.7947 {macula-proximity}
   - strongs: H4161
-    proximity: 0.7808
+    lemma: מוֹצָא
+    gloss: a going forth {openscriptures-strongs}
+    proximity: 0.7808 {macula-proximity}
   - strongs: H6828
-    proximity: 0.7713
+    lemma: צָפוֹן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7713 {macula-proximity}
   - strongs: H7307
-    proximity: 0.7696
+    lemma: רוּחַ
+    gloss: wind {openscriptures-strongs}
+    proximity: 0.7696 {macula-proximity}
   - strongs: H8486
-    proximity: 0.7689
+    lemma: תֵּימָן
+    gloss: the south {openscriptures-strongs}
+    proximity: 0.7689 {macula-proximity}
   - strongs: H8121
-    proximity: 0.7635
+    lemma: שֶׁמֶשׁ
+    gloss: the sun {openscriptures-strongs}
+    proximity: 0.7635 {macula-proximity}
   - strongs: H6440
-    proximity: 0.7603
+    lemma: פָּנִים
+    gloss: the face {openscriptures-strongs}
+    proximity: 0.7603 {macula-proximity}
   cross_language:
   - strongs: G417
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G3558
-    proximity: 0.8123
+    lemma: νότος
+    gloss: the south wind {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,36 +6,42 @@ pronunciation: keh'-leh
 definition: a prison
 kjv_usage: prison. Compare H3610 (כִּלְאַיִם), H3628 (כְּלִיא).
 derivation: from H3607 (כָּלָא);
-extended_definition:
-  gloss: prison
-  definition: imprisonment, confinement, restraint
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: imprisonment, confinement, restraint {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1004
-    proximity: 0.8203
+    lemma: בַּיִת
+    gloss: a house (in the greatest variation of applications {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: H4115
-    proximity: 0.8089
+    lemma: מַהְפֶּכֶת
+    gloss: a wrench {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: H631
-    proximity: 0.8045
+    proximity: 0.8045 {macula-proximity}
   - strongs: H4929
-    proximity: 0.7739
+    lemma: מִשְׁמָר
+    gloss: a guard (the man {openscriptures-strongs}
+    proximity: 0.7739 {macula-proximity}
   - strongs: H899
-    proximity: 0.7738
+    proximity: 0.7738 {macula-proximity}
   - strongs: H4307
-    proximity: 0.728
+    lemma: מַטָּרָא
+    gloss: a jail {openscriptures-strongs}
+    proximity: 0.728 {macula-proximity}
   - strongs: H2588
-    proximity: 0.7243
+    lemma: חָנוּת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7243 {macula-proximity}
   cross_language:
   - strongs: G3612
-    proximity: 0.7534
+    lemma: οἴκημα
+    gloss: a tenement {openscriptures-strongs}
+    proximity: 0.7534 {macula-proximity}
     language: greek
   - strongs: G4887
-    proximity: 0.7102
+    lemma: συνδέω
+    gloss: to bind with {openscriptures-strongs}
+    proximity: 0.7102 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

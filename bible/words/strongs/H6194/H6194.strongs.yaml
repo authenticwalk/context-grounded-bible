@@ -6,42 +6,55 @@ pronunciation: aw-rame'
 definition: a heap; specifically, a sheaf
 kjv_usage: heap (of corn), sheaf.
 derivation: (Jeremiah 50:26) or (feminine) עֲרֵמָה; from H6192 (עָרַם);
-extended_definition:
-  gloss: heap
-  definition: heap, pile
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: heap, pile {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2846
-    proximity: 0.8229
+    lemma: חָתָה
+    gloss: to lay hold of {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: H3514
-    proximity: 0.8224
+    lemma: כֹּבֶד
+    gloss: weight {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
   - strongs: H7383
-    proximity: 0.8188
+    lemma: רִיפָה
+    proximity: 0.8188 {macula-proximity}
   - strongs: H5067
-    proximity: 0.8168
+    lemma: נֵד
+    gloss: a mound {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: A5122
-    proximity: 0.7992
+    proximity: 0.7992 {macula-proximity}
   - strongs: H6014
-    proximity: 0.7894
+    lemma: עָמַר
+    gloss: to gather grain {openscriptures-strongs}
+    proximity: 0.7894 {macula-proximity}
   - strongs: H4071
-    proximity: 0.7853
+    lemma: מְדוּרָה
+    gloss: a pile of fuel {openscriptures-strongs}
+    proximity: 0.7853 {macula-proximity}
   - strongs: H1250
-    proximity: 0.7647
+    lemma: בָּר
+    gloss: grain of any kind {openscriptures-strongs}
+    proximity: 0.7647 {macula-proximity}
   - strongs: H4384
-    proximity: 0.764
+    lemma: מַכְשֵׁלָה
+    gloss: a stumbling-block {openscriptures-strongs}
+    proximity: 0.764 {macula-proximity}
   - strongs: H1752
-    proximity: 0.76
+    lemma: דּוּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.76 {macula-proximity}
   cross_language:
   - strongs: G4987
-    proximity: 0.8209
+    lemma: σωρεύω
+    gloss: to pile up {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
     language: greek
   - strongs: G4719
-    proximity: 0.8205
+    lemma: στάχυς
+    gloss: a head of grain {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,31 +6,35 @@ pronunciation: may'-tsakh
 definition: the forehead (as open and prominent)
 kjv_usage: brow, forehead, [phrase] impudent.
 derivation: from an unused root meaning to be clear, i.e. conspicuous;
-extended_definition:
-  gloss: forehead
-  definition: brow, forehead
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: brow, forehead {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5869
-    proximity: 0.8207
+    lemma: עַיִן
+    gloss: an eye {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H6440
-    proximity: 0.7866
+    lemma: פָּנִים
+    gloss: the face {openscriptures-strongs}
+    proximity: 0.7866 {macula-proximity}
   - strongs: H6285
-    proximity: 0.7543
+    lemma: פֵּאָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7543 {macula-proximity}
   cross_language:
   - strongs: G1799
-    proximity: 0.8256
+    lemma: ἐνώπιον
+    gloss: in the face of {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
     language: greek
   - strongs: G2714
-    proximity: 0.8229
+    lemma: κατενώπιον
+    gloss: directly in front of {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G1715
-    proximity: 0.8034
+    lemma: ἔμπροσθεν
+    gloss: in front of  or time) {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

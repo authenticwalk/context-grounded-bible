@@ -7,29 +7,34 @@ definition: a messenger; specifically, of God, i.e. an angel (also a prophet, pr
   or teacher)
 kjv_usage: ambassador, angel, king, messenger.
 derivation: from an unused root meaning to despatch as a deputy;
-extended_definition:
-  gloss: 'messenger: angel'
-  definition: ': angel<br>1) messenger, representative<br>1a) messenger<br>1b) angel<br>1c)
-    the theophanic angel'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': angel
+
+  1) messenger, representative
+
+  1a) messenger
+
+  1b) angel
+
+  1c) the theophanic angel {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H376
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
   - strongs: H5650
-    proximity: 0.7758
+    lemma: עֶבֶד
+    gloss: a servant {openscriptures-strongs}
+    proximity: 0.7758 {macula-proximity}
   - strongs: A5894
-    proximity: 0.7084
+    proximity: 0.7084 {macula-proximity}
   cross_language:
   - strongs: G2685
-    proximity: 0.8067
+    lemma: κατάσκοπος
+    gloss: a reconnoiterer {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
     language: greek
   - strongs: G2465
-    proximity: 0.7436
+    lemma: ἰσάγγελος
+    gloss: like an angel {openscriptures-strongs}
+    proximity: 0.7436 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

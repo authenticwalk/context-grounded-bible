@@ -5,32 +5,38 @@ transliteration: Klaúdios
 definition: Claudius, the name of two Romans
 kjv_usage: Claudius
 derivation: of Latin origin;
-extended_definition:
-  gloss: Claudius
-  definition: '<b>Κλαύδιος</b>, -ου, ὁ <BR /> <b>Claudius</b>; <BR /> __1. <b>the
-    Emperor</b>: <ref=''Act.11.28; 18.2''>Act.11:28 18:2</ref>. <BR /> __2. A military
-    tribune, C. Lysias: <ref=''Act.23.26.''>Act.23:26.</ref>†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Κλαύδιος</b>, -ου, ὁ <BR /> <b>Claudius</b>; <BR /> __1. <b>the
-    Emperor</b>: <ref=''Act.11.28; 18.2''>Act.11:28 18:2</ref>. <BR /> __2. A military
-    tribune, C. Lysias: <ref=''Act.23.26.''>Act.23:26.</ref>†<BR />  (From Abbott-Smith.
-    LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Κλαύδιος, -ου, ὁ
+
+  Claudius;
+
+  __1. the Emperor: Act.11:28 18:2.
+
+  __2. A military tribune, C. Lysias: Act.23:26.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Κλαύδιος, -ου, ὁ
+
+  Claudius;
+
+  __1. the Emperor: Act.11:28 18:2.
+
+  __2. A military tribune, C. Lysias: Act.23:26.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2994
-    proximity: 0.8229
+    lemma: Λαοδικεύς
+    gloss: a Laodicean {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: G2993
-    proximity: 0.8209
+    lemma: Λαοδίκεια
+    gloss: Laodicia {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: G773
-    proximity: 0.8168
+    proximity: 0.8168 {macula-proximity}
   - strongs: G2803
-    proximity: 0.771
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: Κλαυδία
+    gloss: Claudia {openscriptures-strongs}
+    proximity: 0.771 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

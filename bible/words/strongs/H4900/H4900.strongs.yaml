@@ -8,50 +8,75 @@ definition: to draw, used in a great variety of applications (including to sow, 
 kjv_usage: draw (along, out), continue, defer, extend, forbear, [idiom] give, handle,
   make (pro-, sound) long, [idiom] sow, scatter, stretch out.
 derivation: a primitive root;
-extended_definition:
-  gloss: to draw
-  definition: 1) to draw, drag, seize<br>1a) (Qal)<br>1a1) to draw (and lift out),
-    drag along, lead along, drag or lead off, draw down<br>1a2) to draw (the bow)<br>1a3)
-    to proceed, march<br>1a4) to draw out or give (a sound)<br>1a5) to draw out, prolong,
-    continue<br>1a6) to trail (seed in sowing)<br>1a7) to cheer, draw, attract, gratify<br>1b)
-    (Niphal) to be drawn out<br>1c) (Pual)<br>1c1) to be drawn out, be postponed,
-    be deferred<br>1c2) to be tall
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to draw, drag, seize
+
+  1a) (Qal)
+
+  1a1) to draw (and lift out), drag along, lead along, drag or lead off, draw down
+
+  1a2) to draw (the bow)
+
+  1a3) to proceed, march
+
+  1a4) to draw out or give (a sound)
+
+  1a5) to draw out, prolong, continue
+
+  1a6) to trail (seed in sowing)
+
+  1a7) to cheer, draw, attract, gratify
+
+  1b) (Niphal) to be drawn out
+
+  1c) (Pual)
+
+  1c1) to be drawn out, be postponed, be deferred
+
+  1c2) to be tall {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1898
-    proximity: 0.8257
+    lemma: הָגָה
+    gloss: to remove {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H4102
-    proximity: 0.8203
+    lemma: מָהַהּ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: H753
-    proximity: 0.8195
+    proximity: 0.8195 {macula-proximity}
   - strongs: H5125
-    proximity: 0.8181
+    lemma: נוּן
+    gloss: to resprout {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
   - strongs: H6965
-    proximity: 0.8176
+    lemma: קוּם
+    gloss: to rise (in various applications {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   - strongs: H5090
-    proximity: 0.8116
+    lemma: נָהַג
+    gloss: to drive forth (a person {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   - strongs: H752
-    proximity: 0.8053
+    proximity: 0.8053 {macula-proximity}
   cross_language:
   - strongs: G1607
-    proximity: 0.8257
+    lemma: ἐκπορεύομαι
+    gloss: to depart {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G190
-    proximity: 0.8209
+    proximity: 0.8209 {macula-proximity}
     language: greek
   - strongs: G4687
-    proximity: 0.818
+    lemma: σπείρω
+    gloss: to scatter {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
     language: greek
   - strongs: G307
-    proximity: 0.8119
+    proximity: 0.8119 {macula-proximity}
     language: greek
   - strongs: G430
-    proximity: 0.8058
+    proximity: 0.8058 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

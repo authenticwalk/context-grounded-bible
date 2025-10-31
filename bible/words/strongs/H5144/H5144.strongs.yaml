@@ -11,42 +11,61 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H2114
-    proximity: 0.8251
+    lemma: זוּר
+    gloss: to turn aside {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H1509
-    proximity: 0.8199
+    lemma: גְּזֵרָה
+    gloss: a desert {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H3249
-    proximity: 0.8145
+    lemma: יָסוּר
+    gloss: departing {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
   - strongs: A2908
-    proximity: 0.8077
+    proximity: 0.8077 {macula-proximity}
   - strongs: A7352
-    proximity: 0.7864
+    proximity: 0.7864 {macula-proximity}
   - strongs: H914
-    proximity: 0.7794
+    proximity: 0.7794 {macula-proximity}
   - strongs: H7369
-    proximity: 0.7581
+    lemma: רָחֵק
+    gloss: remote {openscriptures-strongs}
+    proximity: 0.7581 {macula-proximity}
   - strongs: H7000
-    proximity: 0.7395
+    lemma: קָטַר
+    gloss: to inclose {openscriptures-strongs}
+    proximity: 0.7395 {macula-proximity}
   - strongs: H2669
-    proximity: 0.7169
+    lemma: חׇפְשׁוּת
+    gloss: prostration by sickness {openscriptures-strongs}
+    proximity: 0.7169 {macula-proximity}
   - strongs: H7368
-    proximity: 0.7012
+    lemma: רָחַק
+    gloss: to widen {openscriptures-strongs}
+    proximity: 0.7012 {macula-proximity}
   cross_language:
   - strongs: G3112
-    proximity: 0.8189
+    lemma: μακράν
+    gloss: at a distance {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
     language: greek
   - strongs: G1576
-    proximity: 0.7923
+    lemma: ἐκκλείω
+    gloss: to shut out {openscriptures-strongs}
+    proximity: 0.7923 {macula-proximity}
     language: greek
   - strongs: G4206
-    proximity: 0.7779
+    lemma: πόῤῥω
+    gloss: forwards {openscriptures-strongs}
+    proximity: 0.7779 {macula-proximity}
     language: greek
   - strongs: G567
-    proximity: 0.755
+    proximity: 0.755 {macula-proximity}
     language: greek
   - strongs: G3521
-    proximity: 0.7296
+    lemma: νηστεία
+    gloss: abstinence (from lack of food {openscriptures-strongs}
+    proximity: 0.7296 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

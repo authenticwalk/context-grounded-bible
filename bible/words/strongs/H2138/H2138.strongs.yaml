@@ -6,51 +6,61 @@ pronunciation: zaw-koor'
 definition: a male (of man or animals)
 kjv_usage: males, men-children.
 derivation: properly, passive participle of H2142 (זָכַר), but used for H2145 (זָכָר);
-extended_definition:
-  gloss: male
-  definition: male
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: male {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A5796
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.8286
+    proximity: 0.8286 {macula-proximity}
   - strongs: A6841
-    proximity: 0.8256
+    proximity: 0.8256 {macula-proximity}
   - strongs: A2445
-    proximity: 0.8247
+    proximity: 0.8247 {macula-proximity}
   - strongs: H2593
-    proximity: 0.8152
+    lemma: חָנִיךְ
+    gloss: initiated {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: H5971
-    proximity: 0.8092
+    lemma: עַם
+    gloss: a people {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: H5288
-    proximity: 0.8044
+    lemma: נַעַר
+    gloss: a boy {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
   - strongs: H3206
-    proximity: 0.8029
+    lemma: יֶלֶד
+    gloss: something born {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
   - strongs: H5958
-    proximity: 0.7966
+    lemma: עֶלֶם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7966 {macula-proximity}
   - strongs: H5650
-    proximity: 0.7829
+    lemma: עֶבֶד
+    gloss: a servant {openscriptures-strongs}
+    proximity: 0.7829 {macula-proximity}
   cross_language:
   - strongs: G3494
-    proximity: 0.8229
+    lemma: νεανίας
+    gloss: a youth {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G441
-    proximity: 0.8219
+    proximity: 0.8219 {macula-proximity}
     language: greek
   - strongs: G3495
-    proximity: 0.809
+    lemma: νεανίσκος
+    gloss: a youth {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
     language: greek
   - strongs: G442
-    proximity: 0.7937
+    proximity: 0.7937 {macula-proximity}
     language: greek
   - strongs: G5207
-    proximity: 0.7809
+    lemma: υἱός
+    gloss: a "son" {openscriptures-strongs}
+    proximity: 0.7809 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

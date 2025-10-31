@@ -7,49 +7,63 @@ definition: properly, to be free; but used only causatively and reflexively, to 
   (for help, i.e. freedom from some trouble)
 kjv_usage: cry (aloud, out), shout.
 derivation: a primitive root;
-extended_definition:
-  gloss: to cry
-  definition: (Piel) to cry out (for help), shout
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Piel) to cry out (for help), shout {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8643
-    proximity: 0.8137
+    lemma: תְּרוּעָה
+    gloss: clamor {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   - strongs: H6682
-    proximity: 0.8135
+    lemma: צְוָחָה
+    gloss: a screech {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: H8605
-    proximity: 0.8049
+    lemma: תְּפִלָּה
+    gloss: intercession {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H7581
-    proximity: 0.8034
+    lemma: שְׁאָגָה
+    gloss: a rumbling or moan {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
   - strongs: H5828
-    proximity: 0.8022
+    lemma: עֵזֶר
+    gloss: aid {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
   - strongs: H5101
-    proximity: 0.8004
+    lemma: נָהַק
+    gloss: to bray {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
   - strongs: H8467
-    proximity: 0.8004
+    lemma: תְּחִנָּה
+    gloss: graciousness {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
   - strongs: H6963
-    proximity: 0.7999
+    lemma: קוֹל
+    gloss: a voice or sound {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
   - strongs: H6681
-    proximity: 0.7824
+    lemma: צָוַח
+    gloss: to screech {openscriptures-strongs}
+    proximity: 0.7824 {macula-proximity}
   cross_language:
   - strongs: G997
-    proximity: 0.8276
+    proximity: 0.8276 {macula-proximity}
     language: greek
   - strongs: G154
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
     language: greek
   - strongs: G2564
-    proximity: 0.826
+    lemma: καλέω
+    gloss: to "call" (properly {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
     language: greek
   - strongs: G1884
-    proximity: 0.8247
+    lemma: ἐπαρκέω
+    gloss: to avail for {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: greek
   - strongs: G995
-    proximity: 0.802
+    proximity: 0.802 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

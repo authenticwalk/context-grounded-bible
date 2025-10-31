@@ -6,40 +6,49 @@ pronunciation: raw-tsad'
 definition: probably to look askant, i.e. (figuratively) be jealous
 kjv_usage: leap.
 derivation: a primitive root;
-extended_definition:
-  gloss: to watch with envy
-  definition: (Piel) to watch stealthily or with envious hostility, watch with enmity,
-    watch with envy
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Piel) to watch stealthily or with envious hostility, watch with
+  enmity, watch with envy {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8159
-    proximity: 0.8231
+    lemma: שָׁעָה
+    gloss: to gaze at or about (properly {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H5869
-    proximity: 0.8215
+    lemma: עַיִן
+    gloss: an eye {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H5027
-    proximity: 0.7856
+    lemma: נָבַט
+    gloss: to scan {openscriptures-strongs}
+    proximity: 0.7856 {macula-proximity}
   - strongs: H7688
-    proximity: 0.7724
+    lemma: שָׁגַח
+    gloss: to peep {openscriptures-strongs}
+    proximity: 0.7724 {macula-proximity}
   cross_language:
   - strongs: G1848
-    proximity: 0.8248
+    lemma: ἐξουθενέω
+    proximity: 0.8248 {macula-proximity}
     language: greek
   - strongs: G3326
-    proximity: 0.8247
+    lemma: μετά
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: greek
   - strongs: G4862
-    proximity: 0.82
+    lemma: σύν
+    gloss: with or together  or G3844 ) {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
   - strongs: G1689
-    proximity: 0.815
+    lemma: ἐμβλέπω
+    gloss: to look on {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
     language: greek
   - strongs: G2396
-    proximity: 0.8139
+    lemma: ἴδε
+    gloss: used as an interjection to denote surprise {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

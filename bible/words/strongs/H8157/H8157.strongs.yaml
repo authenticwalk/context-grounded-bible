@@ -6,43 +6,49 @@ pronunciation: sheh'-sah
 definition: a fissure
 kjv_usage: cleft, clovenfooted.
 derivation: from H8156 (שָׁסַע);
-extended_definition:
-  gloss: cleft
-  definition: cleft, cloven, split
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: cleft, cloven, split {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6504
-    proximity: 0.8238
+    lemma: פָּרַד
+    gloss: to break through {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H4256
-    proximity: 0.8163
+    lemma: מַחֲלֹקֶת
+    gloss: a section (of Levites {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
   - strongs: H6480
-    proximity: 0.8156
+    lemma: פָּצַם
+    gloss: to rend {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
   - strongs: A6392
-    proximity: 0.7889
+    proximity: 0.7889 {macula-proximity}
   - strongs: H6565a
-    proximity: 0.7514
+    proximity: 0.7514 {macula-proximity}
   - strongs: H2505
-    proximity: 0.7414
+    lemma: חָלַק
+    gloss: to be smooth {openscriptures-strongs}
+    proximity: 0.7414 {macula-proximity}
   cross_language:
   - strongs: G2183
-    proximity: 0.8294
+    lemma: ἐφημερία
+    gloss: diurnality {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G592
-    proximity: 0.8133
+    proximity: 0.8133 {macula-proximity}
     language: greek
   - strongs: G673
-    proximity: 0.8123
+    proximity: 0.8123 {macula-proximity}
     language: greek
   - strongs: G1239
-    proximity: 0.811
+    lemma: διαδίδωμι
+    gloss: to give throughout a crowd {openscriptures-strongs}
+    proximity: 0.811 {macula-proximity}
     language: greek
   - strongs: G3307
-    proximity: 0.8058
+    lemma: μερίζω
+    gloss: to part {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

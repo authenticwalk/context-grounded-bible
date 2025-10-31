@@ -6,48 +6,62 @@ pronunciation: eh'-lem
 definition: properly, something kept out of sight, i.e. a lad
 kjv_usage: young man, stripling.
 derivation: from H5956 (עָלַם); (compare H5959 (עַלְמָה))
-extended_definition:
-  gloss: youth
-  definition: young man
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: young man {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5959
-    proximity: 0.8296
+    lemma: עַלְמָה
+    gloss: a lass {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H1469
-    proximity: 0.8288
+    lemma: גּוֹזָל
+    gloss: a nestling {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: H3207
-    proximity: 0.8219
+    lemma: יַלְדָּה
+    gloss: a lass {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: H667
-    proximity: 0.8161
+    proximity: 0.8161 {macula-proximity}
   - strongs: H5934
-    proximity: 0.8151
+    lemma: עָלוּם
+    gloss: adolescence {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
   - strongs: H5759
-    proximity: 0.8119
+    lemma: עֲוִיל
+    gloss: a babe {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: H3715
-    proximity: 0.804
+    lemma: כְּפִיר
+    gloss: a village {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   - strongs: H5953b
-    proximity: 0.7971
+    proximity: 0.7971 {macula-proximity}
   - strongs: H2138
-    proximity: 0.7966
+    lemma: זָכוּר
+    gloss: a male {openscriptures-strongs}
+    proximity: 0.7966 {macula-proximity}
   - strongs: H5291
-    proximity: 0.7962
+    lemma: נַעֲרָה
+    gloss: a girl {openscriptures-strongs}
+    proximity: 0.7962 {macula-proximity}
   cross_language:
   - strongs: G4246
-    proximity: 0.8225
+    lemma: πρεσβύτης
+    gloss: an old man {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
   - strongs: G1249
-    proximity: 0.8186
+    lemma: διάκονος
+    gloss: an attendant {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
     language: greek
   - strongs: G442
-    proximity: 0.8078
+    proximity: 0.8078 {macula-proximity}
     language: greek
   - strongs: G3808
-    proximity: 0.807
+    lemma: παιδάριον
+    gloss: a little boy {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

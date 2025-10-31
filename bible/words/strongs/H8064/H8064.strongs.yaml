@@ -7,54 +7,65 @@ definition: the sky (as aloft; the dual perhaps alluding to the visible arch in 
   the clouds move, as well as to the higher ether where the celestial bodies revolve)
 kjv_usage: air, [idiom] astrologer, heaven(-s).
 derivation: dual of an unused singular שָׁמֶה; from an unused root meaning to be lofty;
-extended_definition:
-  gloss: heaven
-  definition: '1) heaven, heavens, sky<br>1a) visible heavens, sky<br>1a1) as abode
-    of the stars<br>1a2) as the visible universe, the sky, atmosphere, etc<br>1b)
-    Heaven (as the abode of God)<BR>Aramaic equivalent: <i>sha.ma.yin</i> (שָׁמַ֫יִן
-    "heaven" H8065)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) heaven, heavens, sky
+
+  1a) visible heavens, sky
+
+  1a1) as abode of the stars
+
+  1a2) as the visible universe, the sky, atmosphere, etc
+
+  1b) Heaven (as the abode of God)
+
+  Aramaic equivalent: sha.ma.yin (שָׁמַ֫יִן "heaven" H8065) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1b
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
   - strongs: A6853
-    proximity: 0.8241
+    proximity: 0.8241 {macula-proximity}
   - strongs: A4398
-    proximity: 0.8239
+    proximity: 0.8239 {macula-proximity}
   - strongs: A8460
-    proximity: 0.8148
+    proximity: 0.8148 {macula-proximity}
   - strongs: H2329
-    proximity: 0.8053
+    lemma: חוּג
+    gloss: a circle {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: A772
-    proximity: 0.796
+    proximity: 0.796 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7822
+    proximity: 0.7822 {macula-proximity}
   - strongs: H1895
-    proximity: 0.7685
+    lemma: הָבַר
+    gloss: to be a horoscopist {openscriptures-strongs}
+    proximity: 0.7685 {macula-proximity}
   - strongs: H5920
-    proximity: 0.7657
+    lemma: עַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7657 {macula-proximity}
   - strongs: H4605
-    proximity: 0.7656
+    lemma: מַעַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7656 {macula-proximity}
   cross_language:
   - strongs: G1093
-    proximity: 0.8264
+    lemma: γῆ
+    gloss: soil {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G32
-    proximity: 0.8156
+    proximity: 0.8156 {macula-proximity}
     language: greek
   - strongs: G3625
-    proximity: 0.7723
+    lemma: οἰκουμένη
+    gloss: land {openscriptures-strongs}
+    proximity: 0.7723 {macula-proximity}
     language: greek
   - strongs: G354
-    proximity: 0.7592
+    proximity: 0.7592 {macula-proximity}
     language: greek
   - strongs: G507
-    proximity: 0.7545
+    proximity: 0.7545 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

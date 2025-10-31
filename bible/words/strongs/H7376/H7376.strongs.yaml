@@ -6,46 +6,60 @@ pronunciation: raw-tash'
 definition: to dash down
 kjv_usage: dash (in pieces).
 derivation: a primitive root;
-extended_definition:
-  gloss: to dash in pieces
-  definition: 1) to dash to pieces<br>1a) (Piel) to dash in pieces<br>1b) (Pual) to
-    be dashed in pieces
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to dash to pieces
+
+  1a) (Piel) to dash in pieces
+
+  1b) (Pual) to be dashed in pieces {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1855
-    proximity: 0.8266
+    proximity: 0.8266 {macula-proximity}
   - strongs: H6284
-    proximity: 0.8242
+    lemma: פָּאָה
+    gloss: to puff {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H413
-    proximity: 0.8197
+    proximity: 0.8197 {macula-proximity}
   - strongs: H1333
-    proximity: 0.8186
+    lemma: בָּתַק
+    gloss: to cut in pieces {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: H3807
-    proximity: 0.8056
+    lemma: כָּתַת
+    gloss: to bruise or violently strike {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H6582
-    proximity: 0.8053
+    lemma: פָּשַׁח
+    gloss: to tear in pieces {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H7616
-    proximity: 0.803
+    lemma: שָׁבָב
+    gloss: a fragment {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
   - strongs: H5409
-    proximity: 0.8026
+    lemma: נֵתַח
+    gloss: a fragment {openscriptures-strongs}
+    proximity: 0.8026 {macula-proximity}
   - strongs: A7490
-    proximity: 0.7955
+    proximity: 0.7955 {macula-proximity}
   - strongs: H1633
-    proximity: 0.7843
+    lemma: גָּרַם
+    gloss: to bone {openscriptures-strongs}
+    proximity: 0.7843 {macula-proximity}
   cross_language:
   - strongs: G4486
-    proximity: 0.8231
+    lemma: ῥήγνυμι
+    gloss: G2608  being its intensive {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
     language: greek
   - strongs: G2289
-    proximity: 0.819
+    lemma: θανατόω
+    proximity: 0.819 {macula-proximity}
     language: greek
   - strongs: G2801
-    proximity: 0.8064
+    lemma: κλάσμα
+    gloss: a piece {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

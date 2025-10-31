@@ -5,53 +5,45 @@ transliteration: brontḗ
 definition: thunder
 kjv_usage: thunder(-ing)
 derivation: akin to (to roar);
-extended_definition:
-  gloss: thunder
-  definition: '<b>βροντή</b>, -ῆς, ἡ, <BR /> [in LXX for רַעַם ;] <BR /><b>thunder</b>:
-    <ref=''Mrk.3.17''>Mrk.3:17</ref>, <ref=''Jhn.12.29''>Jhn.12:29</ref>, <ref=''Rev.4.5;
-    6.1; 8.5; 10.3, 4; 11.19; 14.2; 16.18; 19.6''>Rev.4:5 6:1 8:5 10:3, 4 11:19 14:2
-    16:18 19:6</ref>.†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> βροντ-ή</b>, ἡ, <br /> <b>thunder</b>, Διὸς μεγάλοιο κεραυνὸν
-    δεινήν τε β. [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus
-    “Illiad” 21.199; ὑπὸ βροντῆς πατρὸς Διός 13.796; Ζηνός τε βροντῇ 8th c.BC: Odyssea
-    Homerus Epicus “Odyssey” 20.121 ">Refs 8th c.BC+</a>]; ἀστραπὴ καὶ β. [<a href="javascript:void(0)"
-    title=" 5th c.BC: Herodotus Historicus 3.86; β. στεροπῇ τε 4th-5th c.BC: Aeschylus
-    Tragicus “Supplices” 34 (_anapaest meter_); β. καὶ κεραυνίᾳ φλογί [prev. author]
-    “Pr.” 1017; βροντῆς μύκημα [prev. work] 1062 (_anapaest meter_), compare 1083
-    (_anapaest meter_)">Refs 5th c.BC+</a>]; β. δ᾽ ἐρράγη δι᾽ ἀστραπῆς [<a href="javascript:void(0)"
-    title=" 5th c.BC: Sophocles Tragicus “Fragmenta” 578, etc.: in _plural_, [prev.
-    author] “OC” 1514, 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)”
-    1.6.28, 4th-3rd c.BC: Theophrastus Philosophus “de Signis Tempestatum” 21, etc.">Refs
-    5th c.BC+</a>]; χθόνιαι β. [<a href="javascript:void(0)" title=" 5th-6th c.BC:
-    Aristophanes Comicus “Aves” 1745: _metaphorically_, τούτου τὰς β. οἶδ᾽ ὅτι δείσεις
-    4th c.AD: Libanius Sophista “Epistulae” 98.4. ">Refs 5th c.BC+</a>]<br /><Level2><b>__II</b></Level2>
-    <b>the state of one struck with thunder, astonishment</b>, ἐπεάν σφι θεὸς ἐμβάλῃ
-    β. [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.10.έ.
-    ">Refs 5th c.BC+</a>] (βρομτᾱ, compare βρέμω.)'
-  source: STEPBible/LSJ
+extended_definition: 'βροντή, -ῆς, ἡ,
+
+  [in LXX for רַעַם ;]
+
+  thunder: Mrk.3:17, Jhn.12:29, Rev.4:5 6:1 8:5 10:3, 4 11:19 14:2 16:18 19:6.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'βροντ-ή, ἡ,
+
+  thunder, Διὸς μεγάλοιο κεραυνὸν δεινήν τε β. [Refs 8th c.BC+]; ἀστραπὴ καὶ β. [Refs
+  5th c.BC+]; β. δ᾽ ἐρράγη δι᾽ ἀστραπῆς [Refs 5th c.BC+]; χθόνιαι β. [Refs 5th c.BC+]
+
+  __II the state of one struck with thunder, astonishment, ἐπεάν σφι θεὸς ἐμβάλῃ β.
+  [Refs 5th c.BC+] (βρομτᾱ, compare βρέμω.) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H7267
-    proximity: 0.8203
+    lemma: רֹגֶז
+    gloss: commotion {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
     language: hebrew
   - strongs: H1986
-    proximity: 0.8129
+    lemma: הָלַם
+    gloss: to strike down {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
     language: hebrew
   - strongs: H6963
-    proximity: 0.8094
+    lemma: קוֹל
+    gloss: a voice or sound {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
     language: hebrew
   - strongs: H1999
-    proximity: 0.8012
+    lemma: הֲמֻלָּה
+    gloss: a sound {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
     language: hebrew
   - strongs: H7452
-    proximity: 0.7644
+    lemma: רֵעַ
+    gloss: a crash {openscriptures-strongs}
+    proximity: 0.7644 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

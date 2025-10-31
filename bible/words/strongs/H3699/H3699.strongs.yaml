@@ -6,38 +6,42 @@ pronunciation: kaw-sas'
 definition: to estimate
 kjv_usage: make count.
 derivation: a primitive root;
-extended_definition:
-  gloss: to compute
-  definition: (Qal) to estimate, reckon, compute
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to estimate, reckon, compute {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6536
-    proximity: 0.8214
+    lemma: פָּרַס
+    gloss: to break in pieces {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H6385
-    proximity: 0.7688
+    lemma: פָּלַג
+    gloss: to split {openscriptures-strongs}
+    proximity: 0.7688 {macula-proximity}
   - strongs: H2673
-    proximity: 0.7576
+    lemma: חָצָה
+    gloss: to cut or split in two {openscriptures-strongs}
+    proximity: 0.7576 {macula-proximity}
   - strongs: A6537
-    proximity: 0.7315
+    proximity: 0.7315 {macula-proximity}
   - strongs: A6386
-    proximity: 0.7133
+    proximity: 0.7133 {macula-proximity}
   cross_language:
   - strongs: G1266
-    proximity: 0.7968
+    lemma: διαμερίζω
+    gloss: to partition thoroughly (literally in distribution {openscriptures-strongs}
+    proximity: 0.7968 {macula-proximity}
     language: greek
   - strongs: G705
-    proximity: 0.7601
+    proximity: 0.7601 {macula-proximity}
     language: greek
   - strongs: G1244
-    proximity: 0.7571
+    lemma: διαιρέω
+    gloss: to separate {openscriptures-strongs}
+    proximity: 0.7571 {macula-proximity}
     language: greek
   - strongs: G3307
-    proximity: 0.7448
+    lemma: μερίζω
+    gloss: to part {openscriptures-strongs}
+    proximity: 0.7448 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

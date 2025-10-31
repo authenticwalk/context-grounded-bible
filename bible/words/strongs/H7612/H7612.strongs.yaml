@@ -6,48 +6,64 @@ pronunciation: shayth
 definition: devastation
 kjv_usage: desolation.
 derivation: from H7582 (שָׁאָה);
-extended_definition:
-  gloss: devastation
-  definition: 1) ruin, devastation<br>1a) meaning doubtful
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) ruin, devastation
+
+  1a) meaning doubtful {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7670
-    proximity: 0.8221
+    lemma: שִׁבְרוֹן
+    gloss: rupture {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H4889
-    proximity: 0.8199
+    lemma: מַשְׁחִית
+    gloss: destructive {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H5754
-    proximity: 0.8194
+    lemma: עַוָּה
+    gloss: overthrow {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H5422
-    proximity: 0.8169
+    lemma: נָתַץ
+    gloss: to tear down {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: H6
-    proximity: 0.8165
+    proximity: 0.8165 {macula-proximity}
   - strongs: H5235
-    proximity: 0.8155
+    lemma: נֶכֶר
+    gloss: something strange {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H8663a
-    proximity: 0.813
+    proximity: 0.813 {macula-proximity}
   - strongs: H6331
-    proximity: 0.8113
+    lemma: פּוּר
+    gloss: to crush {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
   - strongs: H919
-    proximity: 0.8111
+    proximity: 0.8111 {macula-proximity}
   - strongs: H3510
-    proximity: 0.811
+    lemma: כָּאַב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.811 {macula-proximity}
   cross_language:
   - strongs: G2506
-    proximity: 0.8165
+    lemma: καθαίρεσις
+    gloss: demolition {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G2209
-    proximity: 0.8125
+    lemma: ζημία
+    gloss: detriment {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G4595
-    proximity: 0.8108
+    lemma: σήπω
+    gloss: to putrefy {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
     language: greek
   - strongs: G5004
-    proximity: 0.8012
+    lemma: ταλαιπωρία
+    gloss: wretchedness {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,29 +6,37 @@ pronunciation: pith-ome'
 definition: instantly
 kjv_usage: straightway, sudden(-ly).
 derivation: or פִּתְאֹם; from H6621 (פֶּתַע);
-extended_definition:
-  gloss: suddenly
-  definition: adv<br>1) suddenly, surprisingly<br>subst<br>2) suddenness
-  morphology: H:Adv
-  source: STEPBible/BDB
+extended_definition: 'adv
+
+  1) suddenly, surprisingly
+
+  subst
+
+  2) suddenness {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4120
-    proximity: 0.8269
+    lemma: מְהֵרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: A1886i
-    proximity: 0.8042
+    proximity: 0.8042 {macula-proximity}
   - strongs: H6294
-    proximity: 0.7637
+    lemma: פֶּגַע
+    gloss: impact {openscriptures-strongs}
+    proximity: 0.7637 {macula-proximity}
   - strongs: H1082
-    proximity: 0.7471
+    lemma: בָּלַג
+    gloss: to break off or loose {openscriptures-strongs}
+    proximity: 0.7471 {macula-proximity}
   - strongs: H4116
-    proximity: 0.7196
+    lemma: מָהַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7196 {macula-proximity}
   cross_language:
   - strongs: G1824
-    proximity: 0.809
+    lemma: ἐξαυτῆς
+    gloss: from that hour {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

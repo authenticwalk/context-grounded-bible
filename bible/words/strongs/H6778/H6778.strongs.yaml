@@ -6,43 +6,53 @@ pronunciation: tsam-mook'
 definition: a cake of dried grapes
 kjv_usage: bunch (cluster) of raisins.
 derivation: from H6784 (צָמַק);
-extended_definition:
-  gloss: cluster
-  definition: bunch of raisins, raisin-bunch
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: bunch of raisins, raisin-bunch {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2785
-    proximity: 0.8253
+    lemma: חַרְצַן
+    gloss: a sour grape {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
   - strongs: H8284
-    proximity: 0.8251
+    lemma: שָׁרָה
+    gloss: a fortification {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H891
-    proximity: 0.8249
+    proximity: 0.8249 {macula-proximity}
   - strongs: H6528
-    proximity: 0.8241
+    lemma: פֶּרֶט
+    gloss: a stray or single berry {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H1612
-    proximity: 0.8204
+    lemma: גֶּפֶן
+    gloss: a vine {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
   - strongs: H4952
-    proximity: 0.8197
+    lemma: מִשְׁרָה
+    gloss: maceration {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
   - strongs: H3754
-    proximity: 0.8117
+    lemma: כֶּרֶם
+    gloss: a garden or vineyard {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
   - strongs: H1155
-    proximity: 0.788
+    lemma: בֹּסֶר
+    gloss: '{an immature grape} {openscriptures-strongs}'
+    proximity: 0.788 {macula-proximity}
   - strongs: H8291
-    proximity: 0.7871
+    lemma: שָׂרוּק
+    gloss: a grapevine {openscriptures-strongs}
+    proximity: 0.7871 {macula-proximity}
   cross_language:
   - strongs: G288
-    proximity: 0.8127
+    proximity: 0.8127 {macula-proximity}
     language: greek
   - strongs: G290
-    proximity: 0.8091
+    proximity: 0.8091 {macula-proximity}
     language: greek
   - strongs: G4718
-    proximity: 0.7482
+    lemma: σταφυλή
+    gloss: a cluster of grapes {openscriptures-strongs}
+    proximity: 0.7482 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

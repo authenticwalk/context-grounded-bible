@@ -7,54 +7,81 @@ definition: to sprout (transitive or intransitive, literal or figurative)
 kjv_usage: bear, bring forth, (cause to, make to) bud (forth), (cause to, make to)
   grow (again, up), (cause to) spring (forth, up).
 derivation: a primitive root;
-extended_definition:
-  gloss: to spring
-  definition: 1) to sprout, spring up, grow up<br>1a)(Qal)<br>1a1) to sprout, spring
-    up<br>1a1a) of plants<br>1a1b) of hair<br>1a1c) of speech (fig.)<br>1b) (Piel)
-    to grow abundantly or thickly<br>1c) (Hiphil)<br>1c1) to cause to grow<br>1c2)
-    to cause to sprout
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to sprout, spring up, grow up
+
+  1a)(Qal)
+
+  1a1) to sprout, spring up
+
+  1a1a) of plants
+
+  1a1b) of hair
+
+  1a1c) of speech (fig.)
+
+  1b) (Piel) to grow abundantly or thickly
+
+  1c) (Hiphil)
+
+  1c1) to cause to grow
+
+  1c2) to cause to sprout {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2342a
-    proximity: 0.8283
+    proximity: 0.8283 {macula-proximity}
   - strongs: H5596b
-    proximity: 0.8214
+    proximity: 0.8214 {macula-proximity}
   - strongs: H1645
-    proximity: 0.812
+    lemma: גֶּרֶשׁ
+    gloss: produce {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: H944
-    proximity: 0.8084
+    proximity: 0.8084 {macula-proximity}
   - strongs: H3209
-    proximity: 0.8055
+    lemma: יִלּוֹד
+    gloss: born {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
   - strongs: H3205a
-    proximity: 0.8014
+    proximity: 0.8014 {macula-proximity}
   - strongs: H4866
-    proximity: 0.8012
+    lemma: מִשְׁבֵּר
+    gloss: the orifice of the womb {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
   - strongs: H8368
-    proximity: 0.7988
+    lemma: שָׂתַר
+    gloss: to break out {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   - strongs: H3787
-    proximity: 0.7958
+    lemma: כָּשֵׁר
+    gloss: by implication {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
   - strongs: H1711
-    proximity: 0.7944
+    lemma: דָּגָה
+    gloss: to spawn {openscriptures-strongs}
+    proximity: 0.7944 {macula-proximity}
   cross_language:
   - strongs: G330
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
     language: greek
   - strongs: G1607
-    proximity: 0.8262
+    lemma: ἐκπορεύομαι
+    gloss: to depart {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
     language: greek
   - strongs: G1453
-    proximity: 0.8235
+    lemma: ἐγείρω
+    gloss: to waken {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: greek
   - strongs: G4819
-    proximity: 0.8138
+    lemma: συμβαίνω
+    gloss: to walk (figuratively {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
     language: greek
   - strongs: G1032
-    proximity: 0.8118
+    lemma: βρύω
+    gloss: to swell out {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

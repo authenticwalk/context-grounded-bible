@@ -5,31 +5,30 @@ transliteration: Lṓt
 definition: Lot, a patriarch
 kjv_usage: Lot
 derivation: of Hebrew origin (H03876);
-extended_definition:
-  gloss: Lot
-  definition: '<b>Λώτ</b>, ὁ (Heb. לוֹט), indecl., <BR /> Lot (<ref=''Gen.11.27''>Gen.11:27</ref>,
-    al.): <ref=''Luk.17.28-29, 32''>Luk.17:28-29, 32</ref>, <ref=''2Pe.2.7''>2Pe.2:7</ref>.†<BR
-    /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Λώτ</b>, ὁ (Heb. לוֹט), indecl., <BR /> Lot (<ref=''Gen.11.27''>Gen.11:27</ref>,
-    al.): <ref=''Luk.17.28-29, 32''>Luk.17:28-29, 32</ref>, <ref=''2Pe.2.7''>2Pe.2:7</ref>.†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Λώτ, ὁ (Heb. לוֹט), indecl.,
+
+  Lot (Gen.11:27, al.): Luk.17:28-29, 32, 2Pe.2:7.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Λώτ, ὁ (Heb. לוֹט), indecl.,
+
+  Lot (Gen.11:27, al.): Luk.17:28-29, 32, 2Pe.2:7.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2819
-    proximity: 0.8233
+    lemma: κλῆρος
+    gloss: a die {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: G2975
-    proximity: 0.7813
+    lemma: λαγχάνω
+    gloss: to lot {openscriptures-strongs}
+    proximity: 0.7813 {macula-proximity}
   cross_language:
   - strongs: H1486
-    proximity: 0.7425
+    lemma: גּוֹרָל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7425 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

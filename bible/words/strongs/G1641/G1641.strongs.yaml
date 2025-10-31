@@ -5,55 +5,60 @@ transliteration: elattonéō
 definition: to diminish, i.e. fall short
 kjv_usage: have lack
 derivation: from G1640 (ἐλάσσων);
-extended_definition:
-  gloss: to have little
-  definition: '<b>ἐλαττονέω</b>, -ῶ<BR /> (ἔλαττον), [in LXX (with -όω) chiefly for
-    חָסֵר ;] <BR /><b>to be less </b>(RV, had no lack): <ref=''2Co.8.15''>2Co.8:15</ref>
-    (LXX) (a rare word; cf. MM, <i>Exp.</i>, xii).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐλαττον-έω</b>, <br /> <b>receive less</b>, [<a href="javascript:void(0)"
-    title=" LXX.Exo.16.18 ">LXX</a>]; but, <b>give less</b>, [<a href="javascript:void(0)"
-    title="[prev. work = 4th c.BC: Aristoteles Philosophus “Meteorologica”] 30.15.
-    ">Refs 4th c.BC+</a>]<br /><Level3><b>__2</b></Level3> <b>waste, be consumed</b>,[<a
-    href="javascript:void(0)" title="[prev. work = 4th c.BC: Aristoteles Philosophus
-    “Meteorologica”] LXX.1Ki.17.16 ">LXX+4th c.BC+</a>]; <b>to be missing, defective,</b>
-    [<a href="javascript:void(0)" title=" PMagd. 26.12 (3rd c.AD). ">Refs 3rd c.AD+</a>]<br
-    /><Level3><b>__3</b></Level3> <i>middle</i>, <b>lack, want</b>, [<a href="javascript:void(0)"
-    title="[prev. work]11.22. ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐλαττονέω, -ῶ
+
+  (ἔλαττον), [in LXX (with -όω) chiefly for חָסֵר ;]
+
+  to be less (RV, had no lack): 2Co.8:15 (LXX) (a rare word; cf. MM, Exp., xii).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐλαττον-έω,
+
+  receive less, [LXX]; but, give less, [Refs 4th c.BC+]
+
+  __2 waste, be consumed,[LXX+4th c.BC+]; to be missing, defective, [Refs 3rd c.AD+]
+
+  __3 middle, lack, want, [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2276a
-    proximity: 0.8261
+    proximity: 0.8261 {macula-proximity}
   - strongs: G3397
-    proximity: 0.8044
+    lemma: μικρόν
+    gloss: a small space of time or degree {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
   - strongs: G2275
-    proximity: 0.7848
+    lemma: ἥττημα
+    gloss: a deterioration {openscriptures-strongs}
+    proximity: 0.7848 {macula-proximity}
   - strongs: G2192
-    proximity: 0.758
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.758 {macula-proximity}
   - strongs: A2627
-    proximity: 0.7394
+    proximity: 0.7394 {macula-proximity}
   cross_language:
   - strongs: H369
-    proximity: 0.8286
+    proximity: 0.8286 {macula-proximity}
     language: hebrew
   - strongs: H2639
-    proximity: 0.8072
+    lemma: חֶסֶר
+    gloss: lack {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
     language: hebrew
   - strongs: H4592
-    proximity: 0.7942
+    lemma: מְעַט
+    gloss: a little or few {openscriptures-strongs}
+    proximity: 0.7942 {macula-proximity}
     language: hebrew
   - strongs: H7038
-    proximity: 0.7823
+    lemma: קָלַט
+    gloss: to maim {openscriptures-strongs}
+    proximity: 0.7823 {macula-proximity}
     language: hebrew
   - strongs: H3808
-    proximity: 0.7713
+    lemma: לֹא
+    gloss: not {openscriptures-strongs}
+    proximity: 0.7713 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

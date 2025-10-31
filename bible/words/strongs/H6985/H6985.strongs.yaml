@@ -6,39 +6,49 @@ pronunciation: kat
 definition: a little, i.e. (adverbially) merely
 kjv_usage: very.
 derivation: from H6990 (קָטַט) in the sense of abbreviation;
-extended_definition:
-  gloss: only
-  definition: 1) a small thing, little, merely (adv)<br>1a) meaning uncertain
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) a small thing, little, merely (adv)
+
+  1a) meaning uncertain {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5704
-    proximity: 0.8285
+    lemma: עַד
+    gloss: as far (or long {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: H3966
-    proximity: 0.7785
+    lemma: מְאֹד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7785 {macula-proximity}
   - strongs: H4592
-    proximity: 0.7634
+    lemma: מְעַט
+    gloss: a little or few {openscriptures-strongs}
+    proximity: 0.7634 {macula-proximity}
   - strongs: H4213
-    proximity: 0.7277
+    lemma: מִזְעָר
+    gloss: fewness {openscriptures-strongs}
+    proximity: 0.7277 {macula-proximity}
   cross_language:
   - strongs: G2276a
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
     language: greek
   - strongs: G1298
-    proximity: 0.8237
+    lemma: διαταράσσω
+    gloss: to disturb wholly {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
     language: greek
   - strongs: G5112
-    proximity: 0.8184
+    lemma: τολμηρότερον
+    gloss: more daringly {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
     language: greek
   - strongs: G3641
-    proximity: 0.8166
+    lemma: ὀλίγος
+    gloss: puny (in extent {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
     language: greek
   - strongs: G3398
-    proximity: 0.8007
+    lemma: μικρός
+    gloss: small (in size {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

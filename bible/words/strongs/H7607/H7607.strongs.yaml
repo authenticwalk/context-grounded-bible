@@ -7,47 +7,67 @@ definition: flesh (as swelling out), as living or forfood; generally food of any
   figuratively, kindred by blood
 kjv_usage: body, flesh, food, (near) kin(-sman, -swoman), near (nigh) (of kin).
 derivation: from H7604 (שָׁאַר);
-extended_definition:
-  gloss: flesh
-  definition: '1) flesh, food, body, near kin, near kinswoman<br>1a) flesh<br>1a1)
-    as food<br>1a2) for physical power (fig)<br>1b) flesh relation, blood relation<br>1c)
-    self<BR>Also means: <i>sha.a.rah</i> (שַׁאֲרָה "kinswomen" H7608)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) flesh, food, body, near kin, near kinswoman
+
+  1a) flesh
+
+  1a1) as food
+
+  1a2) for physical power (fig)
+
+  1b) flesh relation, blood relation
+
+  1c) self
+
+  Also means: sha.a.rah (שַׁאֲרָה "kinswomen" H7608) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4138
-    proximity: 0.8294
+    lemma: מוֹלֶדֶת
+    gloss: nativity {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: H1267
-    proximity: 0.8289
+    lemma: בָּרוּת
+    gloss: food {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H5038
-    proximity: 0.8237
+    lemma: נְבֵלָה
+    gloss: a flabby thing {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: H1350
-    proximity: 0.8111
+    lemma: גָּאַל
+    gloss: to be the next of kin (and as such to buy back a relative's property {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: H7138
-    proximity: 0.8095
+    lemma: קָרוֹב
+    gloss: near (in place {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
   - strongs: H3894
-    proximity: 0.8019
+    lemma: לָחוּם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8019 {macula-proximity}
   - strongs: H3338
-    proximity: 0.7993
+    lemma: יָצֻר
+    gloss: structure {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
   - strongs: H400
-    proximity: 0.7981
+    proximity: 0.7981 {macula-proximity}
   - strongs: H193
-    proximity: 0.7945
+    proximity: 0.7945 {macula-proximity}
   - strongs: H396
-    proximity: 0.7815
+    proximity: 0.7815 {macula-proximity}
   cross_language:
   - strongs: G4773a
-    proximity: 0.7917
+    proximity: 0.7917 {macula-proximity}
     language: greek
   - strongs: G4188
-    proximity: 0.7871
+    lemma: πόμα
+    gloss: a beverage {openscriptures-strongs}
+    proximity: 0.7871 {macula-proximity}
     language: greek
   - strongs: G4773
-    proximity: 0.7855
+    lemma: συγγενής
+    gloss: a relative {openscriptures-strongs}
+    proximity: 0.7855 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

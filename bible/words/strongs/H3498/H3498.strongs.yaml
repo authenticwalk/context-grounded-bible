@@ -8,53 +8,77 @@ definition: to jut over or exceed; by implication, to excel; (intransitively) to
 kjv_usage: excel, leave (a remnant), left behind, too much, make plenteous, preserve,
   (be, let) remain(-der, -ing, -nant), reserve, residue, rest.
 derivation: a primitive root;
-extended_definition:
-  gloss: to remain
-  definition: 1) to be left over, remain, remain over, leave<br>1a) (Qal) remainder
-    (participle)<br>1b) (Niphal) to be left over, remain over, be left behind<br>1c)
-    (Hiphil)<br>1c1) to leave over, leave<br>1c2) to save over, preserve alive<br>1c3)
-    to excel, show pre-eminence<br>1c4) to show excess, have more than enough, have
-    an excess
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be left over, remain, remain over, leave
+
+  1a) (Qal) remainder (participle)
+
+  1b) (Niphal) to be left over, remain over, be left behind
+
+  1c) (Hiphil)
+
+  1c1) to leave over, leave
+
+  1c2) to save over, preserve alive
+
+  1c3) to excel, show pre-eminence
+
+  1c4) to show excess, have more than enough, have an excess {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2421
-    proximity: 0.8204
+    lemma: חָיָה
+    gloss: to live {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
   - strongs: H5203
-    proximity: 0.8179
+    lemma: נָטַשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
   - strongs: A2273
-    proximity: 0.8123
+    proximity: 0.8123 {macula-proximity}
   - strongs: H5800
-    proximity: 0.8028
+    lemma: עָזַב
+    gloss: to loosen {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
   - strongs: H2820
-    proximity: 0.8004
+    lemma: חָשַׂךְ
+    gloss: to restrain or  refrain {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
   - strongs: H5702
-    proximity: 0.7935
+    lemma: עָגַן
+    gloss: to debar {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
   - strongs: H680
-    proximity: 0.7924
+    proximity: 0.7924 {macula-proximity}
   - strongs: H8277
-    proximity: 0.7677
+    lemma: שָׂרַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7677 {macula-proximity}
   - strongs: H4422
-    proximity: 0.7649
+    lemma: מָלַט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7649 {macula-proximity}
   cross_language:
   - strongs: G1309
-    proximity: 0.816
+    lemma: διαφεύγω
+    gloss: to flee through {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
     language: greek
   - strongs: G1459
-    proximity: 0.7915
+    lemma: ἐγκαταλείπω
+    gloss: to leave behind in some place {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
     language: greek
   - strongs: G620
-    proximity: 0.7757
+    proximity: 0.7757 {macula-proximity}
     language: greek
   - strongs: G5083
-    proximity: 0.7599
+    lemma: τηρέω
+    gloss: perhaps akin to G2334 ) {openscriptures-strongs}
+    proximity: 0.7599 {macula-proximity}
     language: greek
   - strongs: G3306
-    proximity: 0.7585
+    lemma: μένω
+    gloss: to stay (in a given place {openscriptures-strongs}
+    proximity: 0.7585 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

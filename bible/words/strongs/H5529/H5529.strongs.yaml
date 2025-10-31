@@ -6,42 +6,46 @@ pronunciation: seh'-kal
 definition: silliness; concretely and collectively, dolts
 kjv_usage: folly.
 derivation: from H5528 (סָכַל);
-extended_definition:
-  gloss: folly
-  definition: folly
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: folly {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5014a
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
   - strongs: H2638
-    proximity: 0.8234
+    lemma: חָסֵר
+    gloss: lacking {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
   - strongs: H1197b
-    proximity: 0.8223
+    proximity: 0.8223 {macula-proximity}
   - strongs: H5528
-    proximity: 0.8049
+    lemma: סָכַל
+    gloss: to be silly {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H3688
-    proximity: 0.8001
+    lemma: כָּסַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8001 {macula-proximity}
   - strongs: H120
-    proximity: 0.7975
+    proximity: 0.7975 {macula-proximity}
   - strongs: H1198
-    proximity: 0.7955
+    lemma: בַּעַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7955 {macula-proximity}
   - strongs: H5039
-    proximity: 0.7885
+    lemma: נְבָלָה
+    gloss: foolishness {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
   - strongs: H3689a
-    proximity: 0.7731
+    proximity: 0.7731 {macula-proximity}
   - strongs: H6612a
-    proximity: 0.7458
+    proximity: 0.7458 {macula-proximity}
   cross_language:
   - strongs: G454
-    proximity: 0.7443
+    proximity: 0.7443 {macula-proximity}
     language: greek
   - strongs: G3474
-    proximity: 0.7298
+    lemma: μωρός
+    gloss: dull or stupid {openscriptures-strongs}
+    proximity: 0.7298 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

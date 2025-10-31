@@ -9,36 +9,54 @@ derivation: from H2717 (חָרַב);
 related_words:
   synonyms:
   - strongs: H3002
-    proximity: 0.8283
+    lemma: יָבֵשׁ
+    gloss: dry {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H4384
-    proximity: 0.8242
+    lemma: מַכְשֵׁלָה
+    gloss: a stumbling-block {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H910
-    proximity: 0.8208
+    proximity: 0.8208 {macula-proximity}
   - strongs: H7703
-    proximity: 0.8031
+    lemma: שָׁדַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
   - strongs: H4288
-    proximity: 0.8023
+    lemma: מְחִתָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
   - strongs: H3452
-    proximity: 0.7936
+    lemma: יְשִׁימוֹן
+    gloss: a desolation {openscriptures-strongs}
+    proximity: 0.7936 {macula-proximity}
   - strongs: H1250a
-    proximity: 0.7746
+    proximity: 0.7746 {macula-proximity}
   - strongs: H8510
-    proximity: 0.758
+    lemma: תֵּל
+    gloss: a mound {openscriptures-strongs}
+    proximity: 0.758 {macula-proximity}
   - strongs: H4003
-    proximity: 0.7434
+    lemma: מְבוּקָה
+    gloss: emptiness {openscriptures-strongs}
+    proximity: 0.7434 {macula-proximity}
   - strongs: H4868
-    proximity: 0.733
+    lemma: מִשְׁבָּת
+    gloss: cessation {openscriptures-strongs}
+    proximity: 0.733 {macula-proximity}
   cross_language:
   - strongs: G2050
-    proximity: 0.8134
+    lemma: ἐρήμωσις
+    gloss: despoliation {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
     language: greek
   - strongs: G2048
-    proximity: 0.813
+    lemma: ἔρημος
+    proximity: 0.813 {macula-proximity}
     language: greek
   - strongs: G2679
-    proximity: 0.8117
+    lemma: κατασκάπτω
+    gloss: to undermine {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

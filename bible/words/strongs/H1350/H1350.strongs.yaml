@@ -12,38 +12,51 @@ derivation: a primitive root, to redeem (according to the Oriental law of kinshi
 related_words:
   synonyms:
   - strongs: H3467a
-    proximity: 0.821
+    proximity: 0.821 {macula-proximity}
   - strongs: H5358
-    proximity: 0.818
+    lemma: נָקַם
+    gloss: to grudge {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: H6302
-    proximity: 0.8147
+    lemma: פָּדוּי
+    gloss: as abstractly  a ransom {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: H7607
-    proximity: 0.8111
+    lemma: שְׁאֵר
+    gloss: flesh {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: H3724c
-    proximity: 0.8062
+    proximity: 0.8062 {macula-proximity}
   - strongs: A7804
-    proximity: 0.8062
+    proximity: 0.8062 {macula-proximity}
   - strongs: H3444
-    proximity: 0.799
+    lemma: יְשׁוּעָה
+    gloss: something saved {openscriptures-strongs}
+    proximity: 0.799 {macula-proximity}
   - strongs: H6306a
-    proximity: 0.7455
+    proximity: 0.7455 {macula-proximity}
   cross_language:
   - strongs: G4772
-    proximity: 0.8178
+    lemma: συγγένεια
+    gloss: relationship {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
     language: greek
   - strongs: G3083
-    proximity: 0.8145
+    lemma: λύτρον
+    gloss: something to loosen with {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
     language: greek
   - strongs: G487
-    proximity: 0.8022
+    proximity: 0.8022 {macula-proximity}
     language: greek
   - strongs: G4990
-    proximity: 0.7934
+    lemma: σωτήρ
+    gloss: a deliverer {openscriptures-strongs}
+    proximity: 0.7934 {macula-proximity}
     language: greek
   - strongs: G3085
-    proximity: 0.791
+    lemma: λύτρωσις
+    gloss: a ransoming {openscriptures-strongs}
+    proximity: 0.791 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

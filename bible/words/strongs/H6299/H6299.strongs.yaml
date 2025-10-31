@@ -7,50 +7,72 @@ definition: to sever, i.e. ransom; gener. to release, preserve
 kjv_usage: '[idiom] at all, deliver, [idiom] by any means, ransom, (that are to be,
   let be) redeem(-ed), rescue, [idiom] surely.'
 derivation: a primitive root;
-extended_definition:
-  gloss: to ransom
-  definition: 1) to ransom, redeem, rescue, deliver<br>1a) (Qal) to ransom<br>1b)
-    (Niphal) to be ransomed<br>1c) (Hiphil) to allow one to be ransomed<br>1d) (Hophal)
-    redeemed
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to ransom, redeem, rescue, deliver
+
+  1a) (Qal) to ransom
+
+  1b) (Niphal) to be ransomed
+
+  1c) (Hiphil) to allow one to be ransomed
+
+  1d) (Hophal) redeemed {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3318
-    proximity: 0.7997
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
   - strongs: H4190
-    proximity: 0.7939
+    lemma: מוֹשָׁעָה
+    gloss: deliverance {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
   - strongs: H7069
-    proximity: 0.7883
+    lemma: קָנָה
+    gloss: to erect {openscriptures-strongs}
+    proximity: 0.7883 {macula-proximity}
   - strongs: H4422
-    proximity: 0.7873
+    lemma: מָלַט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7873 {macula-proximity}
   - strongs: H2020
-    proximity: 0.7835
+    lemma: הַצָּלָה
+    gloss: rescue {openscriptures-strongs}
+    proximity: 0.7835 {macula-proximity}
   - strongs: H2502
-    proximity: 0.7792
+    lemma: חָלַץ
+    gloss: to pull off {openscriptures-strongs}
+    proximity: 0.7792 {macula-proximity}
   - strongs: H6306
-    proximity: 0.772
+    lemma: פִּדְיוֹם
+    gloss: a ransom {openscriptures-strongs}
+    proximity: 0.772 {macula-proximity}
   - strongs: H3444
-    proximity: 0.752
+    lemma: יְשׁוּעָה
+    gloss: something saved {openscriptures-strongs}
+    proximity: 0.752 {macula-proximity}
   - strongs: H3467a
-    proximity: 0.745
+    proximity: 0.745 {macula-proximity}
   - strongs: A5338
-    proximity: 0.7394
+    proximity: 0.7394 {macula-proximity}
   cross_language:
   - strongs: G4992
-    proximity: 0.7958
+    lemma: σωτήριον
+    gloss: defender or  defence {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
     language: greek
   - strongs: G4991
-    proximity: 0.7897
+    lemma: σωτηρία
+    gloss: rescue or safety {openscriptures-strongs}
+    proximity: 0.7897 {macula-proximity}
     language: greek
   - strongs: G1807
-    proximity: 0.7518
+    lemma: ἐξαιρέω
+    gloss: actively {openscriptures-strongs}
+    proximity: 0.7518 {macula-proximity}
     language: greek
   - strongs: G4506
-    proximity: 0.7394
+    lemma: ῥύομαι
+    gloss: compare G4511 ) {openscriptures-strongs}
+    proximity: 0.7394 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -8,47 +8,70 @@ definition: clamor, i.e. acclamation of joy or a battle-cry; especially clangoro
 kjv_usage: alarm, blow(-ing) (of, the) (trumpets), joy, jubile, loud noise, rejoicing,
   shout(-ing), (high, joyful) sound(-ing).
 derivation: from H7321 (רוּעַ);
-extended_definition:
-  gloss: shout
-  definition: 1) alarm, signal, sound of tempest, shout, shout or blast of war or
-    alarm or joy<br>1a) alarm of war, war-cry, battle-cry<br>1b) blast (for march)<br>1c)
-    shout of joy (with religious impulse)<br>1d) shout of joy (in general)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) alarm, signal, sound of tempest, shout, shout or blast of
+  war or alarm or joy
+
+  1a) alarm of war, war-cry, battle-cry
+
+  1b) blast (for march)
+
+  1c) shout of joy (with religious impulse)
+
+  1d) shout of joy (in general) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7588
-    proximity: 0.8296
+    lemma: שָׁאוֹן
+    gloss: uproar {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H2980
-    proximity: 0.8287
+    lemma: יָבַב
+    gloss: to bawl {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H8056
-    proximity: 0.82
+    lemma: שָׂמֵחַ
+    gloss: blithe or gleeful {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
   - strongs: H7482
-    proximity: 0.8195
+    lemma: רַעַם
+    gloss: a peal of thunder {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H1525
-    proximity: 0.8189
+    lemma: גִּילָה
+    gloss: joy {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H6463
-    proximity: 0.8145
+    lemma: פָּעָה
+    gloss: to scream {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
   - strongs: H7768
-    proximity: 0.8137
+    lemma: שָׁוַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   - strongs: H8057
-    proximity: 0.8136
+    lemma: שִׂמְחָה
+    gloss: blithesomeness or glee {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: H7481
-    proximity: 0.8036
+    lemma: רָעַם
+    gloss: to tumble {openscriptures-strongs}
+    proximity: 0.8036 {macula-proximity}
   - strongs: H8619
-    proximity: 0.8007
+    lemma: תָּקוֹעַ
+    gloss: a trumpet {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   cross_language:
   - strongs: G995
-    proximity: 0.8158
+    proximity: 0.8158 {macula-proximity}
     language: greek
   - strongs: G3173
-    proximity: 0.8149
+    lemma: μέγας
+    gloss: big (literally or figuratively {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
     language: greek
   - strongs: G5479
-    proximity: 0.8129
+    lemma: χαρά
+    gloss: cheerfulness {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

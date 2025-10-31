@@ -6,35 +6,33 @@ pronunciation: shoo-baw'
 definition: a return
 kjv_usage: returning.
 derivation: from H7725 (שׁוּב);
-extended_definition:
-  gloss: returning
-  definition: retirement, withdrawal
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: retirement, withdrawal {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A236
-    proximity: 0.8088
+    proximity: 0.8088 {macula-proximity}
   - strongs: A8421
-    proximity: 0.7256
+    proximity: 0.7256 {macula-proximity}
   cross_language:
   - strongs: G486
-    proximity: 0.8277
+    proximity: 0.8277 {macula-proximity}
     language: greek
   - strongs: G3338
-    proximity: 0.8088
+    lemma: μεταμέλλομαι
+    gloss: to care afterwards {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
     language: greek
   - strongs: G1995
-    proximity: 0.7986
+    lemma: ἐπιστροφή
+    gloss: reversion {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
     language: greek
   - strongs: G1994
-    proximity: 0.7961
+    lemma: ἐπιστρέφω
+    gloss: to revert (literally {openscriptures-strongs}
+    proximity: 0.7961 {macula-proximity}
     language: greek
   - strongs: G479
-    proximity: 0.7889
+    proximity: 0.7889 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

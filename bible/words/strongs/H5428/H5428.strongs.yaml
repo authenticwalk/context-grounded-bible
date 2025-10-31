@@ -7,48 +7,67 @@ definition: to tear away
 kjv_usage: destroy, forsake, pluck (out, up, by the roots), pull up, root out (up),
   [idiom] utterly. s
 derivation: a primitive root;
-extended_definition:
-  gloss: to uproot
-  definition: 1) to pull up, expel, root out, pluck up<br>1a) (Qal) to pull or pluck
-    up<br>1b) (Niphal) to be plucked up<br>1c) (Hophal) to be plucked up
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to pull up, expel, root out, pluck up
+
+  1a) (Qal) to pull or pluck up
+
+  1b) (Niphal) to be plucked up
+
+  1c) (Hophal) to be plucked up {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7843
-    proximity: 0.8283
+    lemma: שָׁחַת
+    gloss: to decay {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H7148
-    proximity: 0.8281
+    lemma: קָרִיא
+    gloss: called {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H2502
-    proximity: 0.8271
+    lemma: חָלַץ
+    gloss: to pull off {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: H6965
-    proximity: 0.822
+    lemma: קוּם
+    gloss: to rise (in various applications {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
   - strongs: H3318
-    proximity: 0.8168
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H1802
-    proximity: 0.8004
+    lemma: דָּלָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
   - strongs: H5239
-    proximity: 0.8
+    lemma: נָלָה
+    gloss: to complete {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: A5642a
-    proximity: 0.7918
+    proximity: 0.7918 {macula-proximity}
   cross_language:
   - strongs: G1846
-    proximity: 0.8287
+    lemma: ἐξορύσσω
+    gloss: to dig out {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G450
-    proximity: 0.8192
+    proximity: 0.8192 {macula-proximity}
     language: greek
   - strongs: G1580
-    proximity: 0.8153
+    lemma: ἐκκομίζω
+    gloss: to bear forth {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
     language: greek
   - strongs: G2647
-    proximity: 0.8065
+    lemma: καταλύω
+    gloss: to loosen down {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
     language: greek
   - strongs: G1807
-    proximity: 0.7827
+    lemma: ἐξαιρέω
+    gloss: actively {openscriptures-strongs}
+    proximity: 0.7827 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

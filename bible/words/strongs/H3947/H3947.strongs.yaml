@@ -8,57 +8,111 @@ kjv_usage: accept, bring, buy, carry away, drawn, fetch, get, infold, [idiom] ma
   mingle, place, receive(-ing), reserve, seize, send for, take (away, -ing, up), use,
   win.
 derivation: a primitive root;
-extended_definition:
-  gloss: 'to take: fire'
-  definition: ': fire<br>1) to take, get, fetch, lay hold of, seize, receive, acquire,
-    buy, bring, marry, take a wife, snatch, take away<br>1a) (Qal)<br>1a1) to take,
-    take in the hand<br>1a2) to take and carry along<br>1a3) to take from, take out
-    of, take, carry away, take away<br>1a4) to take to or for a person, procure, get,
-    take possession of, select, choose, take in marriage, receive, accept<br>1a5)
-    to take up or upon, put upon<br>1a6) to fetch<br>1a7) to take, lead, conduct<br>1a8)
-    to take, capture, seize<br>1a9) to take, carry off 1a10) to take (vengeance)<br>1b)
-    (Niphal)<br>1b1) to be captured<br>1b2) to be taken away, be removed<br>1b3) to
-    be taken, brought unto<br>1c) (Pual)<br>1c1) to be taken from or out of<br>1c2)
-    to be stolen from<br>1c3) to be taken captive<br>1c4) to be taken away, be removed<br>1d)
-    (Hophal)<br>1d1) to be taken unto, be brought unto<br>1d2) to be taken out of<br>1d3)
-    to be taken away<br>1e) (Hithpael)<br>1e1) to take hold of oneself<br>1e2) to
-    flash about (of lightning)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': fire
+
+  1) to take, get, fetch, lay hold of, seize, receive, acquire, buy, bring, marry,
+  take a wife, snatch, take away
+
+  1a) (Qal)
+
+  1a1) to take, take in the hand
+
+  1a2) to take and carry along
+
+  1a3) to take from, take out of, take, carry away, take away
+
+  1a4) to take to or for a person, procure, get, take possession of, select, choose,
+  take in marriage, receive, accept
+
+  1a5) to take up or upon, put upon
+
+  1a6) to fetch
+
+  1a7) to take, lead, conduct
+
+  1a8) to take, capture, seize
+
+  1a9) to take, carry off 1a10) to take (vengeance)
+
+  1b) (Niphal)
+
+  1b1) to be captured
+
+  1b2) to be taken away, be removed
+
+  1b3) to be taken, brought unto
+
+  1c) (Pual)
+
+  1c1) to be taken from or out of
+
+  1c2) to be stolen from
+
+  1c3) to be taken captive
+
+  1c4) to be taken away, be removed
+
+  1d) (Hophal)
+
+  1d1) to be taken unto, be brought unto
+
+  1d2) to be taken out of
+
+  1d3) to be taken away
+
+  1e) (Hithpael)
+
+  1e1) to take hold of oneself
+
+  1e2) to flash about (of lightning) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7997a
-    proximity: 0.8295
+    proximity: 0.8295 {macula-proximity}
   - strongs: H3289
-    proximity: 0.828
+    lemma: יָעַץ
+    gloss: to advise {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
   - strongs: H7592
-    proximity: 0.8254
+    lemma: שָׁאַל
+    gloss: to inquire {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: H6561
-    proximity: 0.8234
+    lemma: פָּרַק
+    gloss: to break off or crunch {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
   - strongs: H7059
-    proximity: 0.8231
+    lemma: קָמַט
+    gloss: to pluck {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H2505
-    proximity: 0.8229
+    lemma: חָלַק
+    gloss: to be smooth {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: A5709
-    proximity: 0.8227
+    proximity: 0.8227 {macula-proximity}
   cross_language:
   - strongs: G1831
-    proximity: 0.8296
+    lemma: ἐξέρχομαι
+    gloss: to issue {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G161
-    proximity: 0.829
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G4884
-    proximity: 0.8285
+    lemma: συναρπάζω
+    gloss: to snatch together {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G1519
-    proximity: 0.8283
+    lemma: εἰς
+    gloss: to or into {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
     language: greek
   - strongs: G1528
-    proximity: 0.8282
+    lemma: εἰσκαλέω
+    gloss: to invite in {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

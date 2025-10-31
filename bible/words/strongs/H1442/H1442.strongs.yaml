@@ -6,46 +6,61 @@ pronunciation: gaw-daf'
 definition: to hack (with words), i.e. revile
 kjv_usage: blaspheme, reproach.
 derivation: a primitive root;
-extended_definition:
-  gloss: to blaspheme
-  definition: 1) to revile men, blaspheme God<br>1a) (Piel)<br>1a1) to revile (between
-    men)<br>1a2) to blaspheme (God)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to revile men, blaspheme God
+
+  1a) (Piel)
+
+  1a1) to revile (between men)
+
+  1a2) to blaspheme (God) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7036
-    proximity: 0.8162
+    lemma: קָלוֹן
+    gloss: disgrace {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H8381
-    proximity: 0.8045
+    lemma: תַּאֲלָה
+    gloss: an imprecation {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
   - strongs: H1421
-    proximity: 0.7883
+    lemma: גִּדּוּף
+    gloss: vilification {openscriptures-strongs}
+    proximity: 0.7883 {macula-proximity}
   - strongs: H3994
-    proximity: 0.7873
+    lemma: מְאֵרָה
+    gloss: an execration {openscriptures-strongs}
+    proximity: 0.7873 {macula-proximity}
   - strongs: H5860
-    proximity: 0.7866
+    lemma: עִיט
+    gloss: to swoop down upon {openscriptures-strongs}
+    proximity: 0.7866 {macula-proximity}
   - strongs: H423
-    proximity: 0.7759
+    proximity: 0.7759 {macula-proximity}
   - strongs: H2781
-    proximity: 0.7714
+    lemma: חֶרְפָּה
+    gloss: contumely {openscriptures-strongs}
+    proximity: 0.7714 {macula-proximity}
   cross_language:
   - strongs: G2635
-    proximity: 0.826
+    lemma: καταλαλέω
+    gloss: to be a traducer {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
     language: greek
   - strongs: G1908
-    proximity: 0.8225
+    lemma: ἐπηρεάζω
+    gloss: to insult {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
   - strongs: G3060
-    proximity: 0.8176
+    lemma: λοίδορος
+    gloss: abusive {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
     language: greek
   - strongs: G2652a
-    proximity: 0.8152
+    proximity: 0.8152 {macula-proximity}
     language: greek
   - strongs: G1944a
-    proximity: 0.8121
+    proximity: 0.8121 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

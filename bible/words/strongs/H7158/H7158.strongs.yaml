@@ -8,33 +8,41 @@ kjv_usage: Kirjath-sannah, Kirjath-sepher.
 derivation: or קִרְיַת סֵפֶר; from H7151 (קִרְיָה) and a simpler feminine from the
   same as H5577 (סַנְסִן), or (for the latter name) H5612 (סֵפֶר); city of branches,
   or of a book;
-extended_definition:
-  gloss: Kiriath-sannah
-  definition: Kirjath-sepher or Kirjath-sannah = "city of the book"<br> a town in
-    the mountains of Judah to the west of Hebron<BR>Another name of <i>de.vir</i>
-    (דְּבִיר "Debir" H1688A)
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: 'Kirjath-sepher or Kirjath-sannah = "city of the book"
+
+  a town in the mountains of Judah to the west of Hebron
+
+  Another name of de.vir (דְּבִיר "Debir" H1688A) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7016
-    proximity: 0.8298
+    lemma: קִינָה
+    gloss: Kinah {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: H7156
-    proximity: 0.8195
+    lemma: קִרְיָתַיִם
+    gloss: Kirjathaim {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H7155
-    proximity: 0.8054
+    lemma: קִרְיַת חֻצוֹת
+    gloss: Kirjath-Chutsoth {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
   - strongs: H7157a
-    proximity: 0.804
+    proximity: 0.804 {macula-proximity}
   - strongs: H1507
-    proximity: 0.8037
+    lemma: גֶּזֶר
+    gloss: Gezer {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
   - strongs: H7157
-    proximity: 0.8035
+    lemma: קִרְיַת יְעָרִים
+    gloss: Kirjath-Jearim or Kirjath-Arim {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
   - strongs: H7154
-    proximity: 0.791
+    lemma: קִרְיַת בַּעַל
+    gloss: Kirjath-Baal {openscriptures-strongs}
+    proximity: 0.791 {macula-proximity}
   - strongs: H7153
-    proximity: 0.7828
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: קִרְיַת אַרְבַּע
+    gloss: Kirjath-Arba or Kirjath-ha-Arba {openscriptures-strongs}
+    proximity: 0.7828 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

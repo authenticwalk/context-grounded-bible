@@ -6,49 +6,65 @@ pronunciation: law-ayg'
 definition: a buffoon; also a foreigner
 kjv_usage: mocker, stammering.
 derivation: from H3932 (לָעַג);
-extended_definition:
-  gloss: mocking
-  definition: 1) mocking<br>1a) mocker (noun cstr)
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: '1) mocking
+
+  1a) mocker (noun cstr) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7047
-    proximity: 0.829
+    lemma: קֶלֶס
+    gloss: a laughing-stock {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: H6711
-    proximity: 0.8283
+    lemma: צָחַק
+    gloss: to laugh outright {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H4890
-    proximity: 0.8265
+    lemma: מִשְׂחַק
+    gloss: a laughing-stock {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H8591
-    proximity: 0.8231
+    lemma: תָּעַע
+    gloss: to cheat {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H628
-    proximity: 0.8223
+    proximity: 0.8223 {macula-proximity}
   - strongs: H1471
-    proximity: 0.8171
+    lemma: גּוֹי
+    gloss: a foreign nation {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: H1616
-    proximity: 0.812
+    lemma: גֵּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: H7814
-    proximity: 0.8003
+    lemma: שְׂחוֹק
+    gloss: laughter {openscriptures-strongs}
+    proximity: 0.8003 {macula-proximity}
   - strongs: H4580
-    proximity: 0.7958
+    lemma: מָעוֹג
+    gloss: a cake of bread {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
   cross_language:
   - strongs: G915
-    proximity: 0.8256
+    proximity: 0.8256 {macula-proximity}
     language: greek
   - strongs: G1702a
-    proximity: 0.8239
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G1483
-    proximity: 0.8226
+    lemma: ἐθνικῶς
+    gloss: as a Gentile {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
     language: greek
   - strongs: G3581
-    proximity: 0.8201
+    lemma: ξένος
+    gloss: foreign (literally {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G5512
-    proximity: 0.794
+    lemma: χλευάζω
+    gloss: to throw out the lip {openscriptures-strongs}
+    proximity: 0.794 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

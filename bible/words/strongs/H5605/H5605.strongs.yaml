@@ -7,45 +7,49 @@ definition: to wait at the threshold
 kjv_usage: be a doorkeeper.
 derivation: a primitive root; properly, to snatch away, i.e. terminate; but used only
   as denominative from H5592 (סַף) (in the sense of a vestibule),
-extended_definition:
-  gloss: to stand
-  definition: (Hithpoel) to stand at or guard the threshold
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Hithpoel) to stand at or guard the threshold {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A1b
-    proximity: 0.8015
+    proximity: 0.8015 {macula-proximity}
   - strongs: A8652
-    proximity: 0.798
+    proximity: 0.798 {macula-proximity}
   - strongs: H8179
-    proximity: 0.7866
+    lemma: שַׁעַר
+    gloss: an opening {openscriptures-strongs}
+    proximity: 0.7866 {macula-proximity}
   - strongs: H872
-    proximity: 0.7639
+    proximity: 0.7639 {macula-proximity}
   - strongs: H1800a
-    proximity: 0.7494
+    proximity: 0.7494 {macula-proximity}
   - strongs: H1817
-    proximity: 0.712
+    lemma: דֶּלֶת
+    gloss: something swinging {openscriptures-strongs}
+    proximity: 0.712 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7025
+    proximity: 0.7025 {macula-proximity}
   cross_language:
   - strongs: G876
-    proximity: 0.8205
+    proximity: 0.8205 {macula-proximity}
     language: greek
   - strongs: G4739
-    proximity: 0.8157
+    lemma: στήκω
+    gloss: to be stationary {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
     language: greek
   - strongs: G4439
-    proximity: 0.8115
+    lemma: πύλη
+    gloss: a gate {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
     language: greek
   - strongs: G5476
-    proximity: 0.7995
+    lemma: χαμαί
+    gloss: earthward {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
     language: greek
   - strongs: G2476
-    proximity: 0.7838
+    lemma: ἵστημι
+    gloss: to stand {openscriptures-strongs}
+    proximity: 0.7838 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

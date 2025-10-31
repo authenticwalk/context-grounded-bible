@@ -6,36 +6,44 @@ pronunciation: kaw-tham'
 definition: properly, to carve or engrave, i.e. (by implication) to inscribe indelibly
 kjv_usage: mark.
 derivation: a primitive root;
-extended_definition:
-  gloss: be stained
-  definition: (Niphal) to be stained, be defiled, be deeply stained
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Niphal) to be stained, be defiled, be deeply stained {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8420
-    proximity: 0.8056
+    lemma: תָּו
+    gloss: a mark {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H3971
-    proximity: 0.8002
+    lemma: מאוּם
+    gloss: to stain {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: H3793
-    proximity: 0.775
+    lemma: כְּתֹבֶת
+    gloss: a letter or other mark branded on the skin {openscriptures-strongs}
+    proximity: 0.775 {macula-proximity}
   - strongs: H6867
-    proximity: 0.7665
+    lemma: צָרֶבֶת
+    gloss: conflagration {openscriptures-strongs}
+    proximity: 0.7665 {macula-proximity}
   cross_language:
   - strongs: G4742
-    proximity: 0.8021
+    lemma: στίγμα
+    gloss: a mark incised or punched {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
     language: greek
   - strongs: G5480
-    proximity: 0.7759
+    lemma: χάραγμα
+    gloss: a scratch or etching {openscriptures-strongs}
+    proximity: 0.7759 {macula-proximity}
     language: greek
   - strongs: G4695
-    proximity: 0.759
+    lemma: σπιλόω
+    gloss: to stain or soil {openscriptures-strongs}
+    proximity: 0.759 {macula-proximity}
     language: greek
   - strongs: G3138
-    proximity: 0.7238
+    lemma: Μάρκος
+    gloss: Marcus {openscriptures-strongs}
+    proximity: 0.7238 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

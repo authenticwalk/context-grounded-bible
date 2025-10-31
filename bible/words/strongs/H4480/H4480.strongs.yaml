@@ -12,32 +12,45 @@ derivation: or מִנִּי; or מִנֵּי; (constructive plural) (Isaiah 30:1
 related_words:
   synonyms:
   - strongs: H6437
-    proximity: 0.8299
+    lemma: פָּנָה
+    gloss: to turn {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
   - strongs: H8041
-    proximity: 0.8297
+    lemma: שָׂמַאל
+    gloss: to use the left hand or pass in that direction) {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: H3926
-    proximity: 0.8294
+    lemma: לְמוֹ
+    gloss: to or for {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: H4725
-    proximity: 0.8289
+    lemma: מָקוֹם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: A5085
-    proximity: 0.8288
+    proximity: 0.8288 {macula-proximity}
   cross_language:
   - strongs: G654
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G3924
-    proximity: 0.8298
+    lemma: παρεκτός
+    gloss: near outside {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G5550
-    proximity: 0.8295
+    lemma: χρόνος
+    gloss: a space of time (in general {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G3185
-    proximity: 0.8294
+    lemma: μεῖζον
+    gloss: in greater degree {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G3007
-    proximity: 0.829
+    lemma: λείπω
+    gloss: to leave {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,44 +7,65 @@ definition: the nape or back of the neck (as declining); hence, the back general
   (whether literal or figurative)
 kjv_usage: back ((stiff-) neck((-ed).
 derivation: from H6202 (עָרַף);
-extended_definition:
-  gloss: neck
-  definition: 1) neck, back of the neck, back<br>1a) back of the neck<br>1a1) of fleeing
-    foe<br>1a2) of apostasy (fig.)<br>1b) stiff of neck, obstinate (fig.)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) neck, back of the neck, back
+
+  1a) back of the neck
+
+  1a1) of fleeing foe
+
+  1a2) of apostasy (fig.)
+
+  1b) stiff of neck, obstinate (fig.) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4044
-    proximity: 0.8094
+    lemma: מְגִנָּה
+    gloss: a covering {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
   - strongs: H1458
-    proximity: 0.8034
+    lemma: גַּו
+    gloss: the back {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
   - strongs: H268
-    proximity: 0.7992
+    proximity: 0.7992 {macula-proximity}
   - strongs: H6060
-    proximity: 0.7916
+    lemma: עָנָק
+    gloss: a necklace {openscriptures-strongs}
+    proximity: 0.7916 {macula-proximity}
   - strongs: H5472
-    proximity: 0.7806
+    lemma: סוּג
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
   - strongs: H7186
-    proximity: 0.7478
+    lemma: קָשֶׁה
+    gloss: severe {openscriptures-strongs}
+    proximity: 0.7478 {macula-proximity}
   - strongs: H7185
-    proximity: 0.7477
+    lemma: קָשָׁה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7477 {macula-proximity}
   - strongs: H7190
-    proximity: 0.7398
+    lemma: קְשִׁי
+    gloss: obstinacy {openscriptures-strongs}
+    proximity: 0.7398 {macula-proximity}
   - strongs: H8307
-    proximity: 0.7087
+    lemma: שְׁרִירוּת
+    gloss: obstinacy {openscriptures-strongs}
+    proximity: 0.7087 {macula-proximity}
   cross_language:
   - strongs: G4762
-    proximity: 0.8264
+    lemma: στρέφω
+    gloss: to twist {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G3577
-    proximity: 0.8093
+    lemma: νῶτος
+    gloss: the back {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
     language: greek
   - strongs: G4644
-    proximity: 0.7621
+    lemma: σκληροτράχηλος
+    gloss: hardnaped {openscriptures-strongs}
+    proximity: 0.7621 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

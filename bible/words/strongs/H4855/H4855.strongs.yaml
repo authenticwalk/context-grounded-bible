@@ -6,24 +6,23 @@ pronunciation: mash-shaw'
 definition: a loan; by implication, interest on adebt
 kjv_usage: exaction, usury.
 derivation: from H5383 (נָשָׁה);
-extended_definition:
-  gloss: interest
-  definition: 1) lending on interest, usury<br>1a) in <ref="Neh.5.11">Ne 5:11</ref>,
-    the rate of "usury" was only one per cent
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) lending on interest, usury
+
+  1a) in Ne 5:11, the rate of "usury" was only one per cent {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2326
-    proximity: 0.8277
+    lemma: חוֹב
+    gloss: debt {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H8059
-    proximity: 0.7982
+    lemma: שְׁמִטָּה
+    gloss: remission  or suspension of labor) {openscriptures-strongs}
+    proximity: 0.7982 {macula-proximity}
   - strongs: H5378
-    proximity: 0.792
+    lemma: נָשָׁא
+    gloss: to lend on interest {openscriptures-strongs}
+    proximity: 0.792 {macula-proximity}
   - strongs: H5391a
-    proximity: 0.7371
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    proximity: 0.7371 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

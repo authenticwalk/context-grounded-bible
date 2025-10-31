@@ -8,53 +8,81 @@ kjv_usage: (be) accept(-able), accomplish, set affection, approve, consent with,
   (self), enjoy, (be, have a) favour(-able), like, observe, pardon, (be, have, take)
   please(-ure), reconcile self.
 derivation: a primitive root;
-extended_definition:
-  gloss: to accept
-  definition: 1) to be pleased with, be favourable to, accept favourably<br>1a) (Qal)<br>1a1)
-    to be pleased with, be favourable to<br>1a2) to accept<br>1a3) to be pleased,
-    be determined<br>1a4) to make acceptable, satisfy<br>1a5) to please<br>1b) (Niphal)
-    to be accepted, be pleased with<br>1c) (Piel) to seek favour of<br>1d) (Hiphil)
-    to please, pay off<br>1e) (Hithpael) to make oneself acceptable or pleasing
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be pleased with, be favourable to, accept favourably
+
+  1a) (Qal)
+
+  1a1) to be pleased with, be favourable to
+
+  1a2) to accept
+
+  1a3) to be pleased, be determined
+
+  1a4) to make acceptable, satisfy
+
+  1a5) to please
+
+  1b) (Niphal) to be accepted, be pleased with
+
+  1c) (Piel) to seek favour of
+
+  1d) (Hiphil) to please, pay off
+
+  1e) (Hithpael) to make oneself acceptable or pleasing {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5869
-    proximity: 0.8261
+    lemma: עַיִן
+    gloss: an eye {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: H2896
-    proximity: 0.826
+    lemma: טוֹב
+    gloss: good  in the widest sense {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
   - strongs: H2603
-    proximity: 0.8249
+    lemma: חָנַן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
   - strongs: H5973
-    proximity: 0.8246
+    lemma: עִם
+    gloss: adverb or preposition {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: H854
-    proximity: 0.8245
+    proximity: 0.8245 {macula-proximity}
   - strongs: H2617
-    proximity: 0.8222
+    lemma: חֵסֵד
+    gloss: kindness {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H6901
-    proximity: 0.8184
+    lemma: קָבַל
+    gloss: to admit {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   - strongs: H7521a
-    proximity: 0.8156
+    proximity: 0.8156 {macula-proximity}
   - strongs: H5730a
-    proximity: 0.8149
+    proximity: 0.8149 {macula-proximity}
   cross_language:
   - strongs: G5562
-    proximity: 0.8259
+    lemma: χωρέω
+    gloss: to be in  space {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G5485
-    proximity: 0.8182
+    lemma: χάρις
+    gloss: graciousness {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: greek
   - strongs: G588
-    proximity: 0.8168
+    proximity: 0.8168 {macula-proximity}
     language: greek
   - strongs: G3880
-    proximity: 0.8165
+    lemma: παραλαμβάνω
+    gloss: to receive near {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G1722
-    proximity: 0.814
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.814 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

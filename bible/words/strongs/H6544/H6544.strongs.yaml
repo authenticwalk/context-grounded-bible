@@ -11,36 +11,47 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H5006
-    proximity: 0.8196
+    lemma: נָאַץ
+    gloss: to scorn {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: H5203
-    proximity: 0.8162
+    lemma: נָטַשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H7876
-    proximity: 0.8155
+    lemma: שָׁיָה
+    gloss: to keep in memory {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H959
-    proximity: 0.8043
+    proximity: 0.8043 {macula-proximity}
   - strongs: H3987
-    proximity: 0.7962
+    lemma: מֵאֵן
+    gloss: refractory {openscriptures-strongs}
+    proximity: 0.7962 {macula-proximity}
   - strongs: H3988
-    proximity: 0.7801
+    lemma: מָאַס
+    gloss: to spurn {openscriptures-strongs}
+    proximity: 0.7801 {macula-proximity}
   - strongs: H3986
-    proximity: 0.7622
+    lemma: מָאֵן
+    gloss: unwilling {openscriptures-strongs}
+    proximity: 0.7622 {macula-proximity}
   cross_language:
   - strongs: G665
-    proximity: 0.8239
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G3868
-    proximity: 0.8181
+    lemma: παραιτέομαι
+    gloss: to beg off {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
     language: greek
   - strongs: G593
-    proximity: 0.8128
+    proximity: 0.8128 {macula-proximity}
     language: greek
   - strongs: G114
-    proximity: 0.7919
+    proximity: 0.7919 {macula-proximity}
     language: greek
   - strongs: G272
-    proximity: 0.7881
+    proximity: 0.7881 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

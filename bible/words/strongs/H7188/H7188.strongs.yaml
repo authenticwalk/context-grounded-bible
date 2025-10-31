@@ -6,26 +6,31 @@ pronunciation: kaw-shakh'
 definition: to be (causatively, make) unfeeling
 kjv_usage: harden.
 derivation: a primitive root;
-extended_definition:
-  gloss: to harden
-  definition: 1) to make hard, treat hardly, treat severely<br>1a) (Hiphil)<br>1a1)
-    to make hard, make stubborn<br>1a2) to treat hardly, treat roughly
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to make hard, treat hardly, treat severely
+
+  1a) (Hiphil)
+
+  1a1) to make hard, make stubborn
+
+  1a2) to treat hardly, treat roughly {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1970
-    proximity: 0.8108
+    lemma: הָכַר
+    gloss: to injure {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
   - strongs: H7186
-    proximity: 0.803
+    lemma: קָשֶׁה
+    gloss: severe {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
   - strongs: H7190
-    proximity: 0.763
+    lemma: קְשִׁי
+    gloss: obstinacy {openscriptures-strongs}
+    proximity: 0.763 {macula-proximity}
   cross_language:
   - strongs: G4641
-    proximity: 0.7925
+    lemma: σκληροκαρδία
+    gloss: hard-heartedness {openscriptures-strongs}
+    proximity: 0.7925 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,33 +7,41 @@ definition: a skillet (as flat or deep)
 kjv_usage: pan, pot.
 derivation: passive participle of H6565 (פָּרַר) in the sense of spreading out (compare
   H6524 (פָּרַח));
-extended_definition:
-  gloss: pot
-  definition: pan, pot
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: pan, pot {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4958
-    proximity: 0.8194
+    lemma: מַשְׂרֵת
+    gloss: a pan {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H6803
-    proximity: 0.8056
+    lemma: צִנְצֶנֶת
+    gloss: a vase {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H6089
-    proximity: 0.7986
+    lemma: עֶצֶב
+    gloss: an earthen vessel {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
   - strongs: H4715
-    proximity: 0.7398
+    lemma: מִצְרֵף
+    gloss: a crucible {openscriptures-strongs}
+    proximity: 0.7398 {macula-proximity}
   - strongs: H4802
-    proximity: 0.7388
+    lemma: מַרְחֶשֶׁת
+    gloss: a stewpan {openscriptures-strongs}
+    proximity: 0.7388 {macula-proximity}
   - strongs: H3600
-    proximity: 0.7226
+    lemma: כִּיר
+    gloss: a cooking range (consisting of two parallel stones {openscriptures-strongs}
+    proximity: 0.7226 {macula-proximity}
   - strongs: H7037
-    proximity: 0.7194
+    lemma: קַלַּחַת
+    gloss: a kettle {openscriptures-strongs}
+    proximity: 0.7194 {macula-proximity}
   cross_language:
   - strongs: G5473
-    proximity: 0.8143
+    lemma: χαλκίον
+    gloss: a copper dish {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

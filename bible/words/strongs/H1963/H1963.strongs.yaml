@@ -6,49 +6,55 @@ pronunciation: hake
 definition: how?
 kjv_usage: how.
 derivation: another form for H349 (אֵיךְ);
-extended_definition:
-  gloss: how?
-  definition: how
-  morphology: H:Intg
-  source: STEPBible/BDB
+extended_definition: how {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A3509d
-    proximity: 0.8161
+    proximity: 0.8161 {macula-proximity}
   - strongs: H575
-    proximity: 0.8124
+    proximity: 0.8124 {macula-proximity}
   - strongs: H480
-    proximity: 0.8097
+    proximity: 0.8097 {macula-proximity}
   - strongs: H859b
-    proximity: 0.8013
+    proximity: 0.8013 {macula-proximity}
   - strongs: H637
-    proximity: 0.7904
+    proximity: 0.7904 {macula-proximity}
   - strongs: H871a
-    proximity: 0.7899
+    proximity: 0.7899 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.7862
+    proximity: 0.7862 {macula-proximity}
   - strongs: H3588
-    proximity: 0.7815
+    lemma: כִּי
+    gloss: very widely used as a relative conjunction or adverb {openscriptures-strongs}
+    proximity: 0.7815 {macula-proximity}
   - strongs: H4970
-    proximity: 0.7655
+    lemma: מָתַי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7655 {macula-proximity}
   cross_language:
   - strongs: G3779
-    proximity: 0.8208
+    lemma: οὕτω
+    gloss: in this way {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G3745
-    proximity: 0.8182
+    lemma: ὅσος
+    gloss: as (much {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: greek
   - strongs: G1722
-    proximity: 0.8087
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.8087 {macula-proximity}
     language: greek
   - strongs: G4212
-    proximity: 0.8063
+    lemma: ποσάκις
+    gloss: how many times {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
     language: greek
   - strongs: G2596
-    proximity: 0.8058
+    lemma: κατά
+    gloss: down {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

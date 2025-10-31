@@ -10,32 +10,45 @@ derivation: denominative from H4912 (מָשָׁל);
 related_words:
   synonyms:
   - strongs: A3509d
-    proximity: 0.8222
+    proximity: 0.8222 {macula-proximity}
   - strongs: H1961
-    proximity: 0.8213
+    lemma: הָיָה
+    gloss: to exist {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
   - strongs: H1823
-    proximity: 0.8092
+    lemma: דְּמוּת
+    gloss: resemblance {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: H4915a
-    proximity: 0.8082
+    proximity: 0.8082 {macula-proximity}
   - strongs: H4426
-    proximity: 0.7875
+    lemma: מְלִיצָה
+    gloss: an aphorism {openscriptures-strongs}
+    proximity: 0.7875 {macula-proximity}
   cross_language:
   - strongs: G3668
-    proximity: 0.8271
+    lemma: ὁμοίως
+    gloss: similarly {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G2531
-    proximity: 0.8254
+    lemma: καθώς
+    gloss: just  as {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: greek
   - strongs: G5607
-    proximity: 0.823
+    lemma: ὤν
+    gloss: being {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
     language: greek
   - strongs: G3945
-    proximity: 0.8139
+    lemma: παρομοιάζω
+    gloss: to resemble {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: greek
   - strongs: G2071
-    proximity: 0.8046
+    lemma: ἔσομαι
+    gloss: will be {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

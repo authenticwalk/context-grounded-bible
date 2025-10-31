@@ -9,48 +9,71 @@ kjv_usage: be(-head), bring, call back, decline, depart, eschew, get (you), go (
   rebel, remove (to and fro), revolt, [idiom] be sour, take (away, off), turn (aside,
   away, in), withdraw, be without.
 derivation: or שׂוּר; (Hosea 9:12), a primitive root;
-extended_definition:
-  gloss: 'to turn aside: turn aside'
-  definition: ': turn_aside/deflect<br>1) to turn aside, depart<br>1a) (Qal)<br>1a1)
-    to turn aside, turn in unto<br>1a2) to depart, depart from way, avoid<br>1a3)
-    to be removed<br>1a4) to come to an end<br>1b) (Polel) to turn aside<br>1c) (Hiphil)<br>1c1)
-    to cause to turn aside, cause to depart, remove, take away, put away, depose<br>1c2)
-    to put aside, leave undone, retract, reject, abolish<br>1d) (Hophal) to be taken
-    away, be removed'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': turn_aside/deflect
+
+  1) to turn aside, depart
+
+  1a) (Qal)
+
+  1a1) to turn aside, turn in unto
+
+  1a2) to depart, depart from way, avoid
+
+  1a3) to be removed
+
+  1a4) to come to an end
+
+  1b) (Polel) to turn aside
+
+  1c) (Hiphil)
+
+  1c1) to cause to turn aside, cause to depart, remove, take away, put away, depose
+
+  1c2) to put aside, leave undone, retract, reject, abolish
+
+  1d) (Hophal) to be taken away, be removed {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H10a
-    proximity: 0.8295
+    proximity: 0.8295 {macula-proximity}
   - strongs: H3987
-    proximity: 0.8289
+    lemma: מֵאֵן
+    gloss: refractory {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H4414
-    proximity: 0.8288
+    lemma: מָלַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: H5127
-    proximity: 0.8282
+    lemma: נוּס
+    gloss: to flit {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H5710
-    proximity: 0.8264
+    lemma: עָדָה
+    gloss: to advance {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H3986
-    proximity: 0.8262
+    lemma: מָאֵן
+    gloss: unwilling {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   cross_language:
   - strongs: G1498
-    proximity: 0.8297
+    lemma: εἴην
+    gloss: might (could {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G4881
-    proximity: 0.8291
+    lemma: συναπόλλυμι
+    gloss: to destroy (middle voice or passively {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
     language: greek
   - strongs: G649
-    proximity: 0.8288
+    proximity: 0.8288 {macula-proximity}
     language: greek
   - strongs: G114
-    proximity: 0.8284
+    proximity: 0.8284 {macula-proximity}
     language: greek
   - strongs: G208
-    proximity: 0.828
+    proximity: 0.828 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,31 +5,29 @@ transliteration: Bosór
 definition: Bosor (i.e. Beor), a Moabite
 kjv_usage: Bosor
 derivation: of Hebrew origin (H01160);
-extended_definition:
-  gloss: Beor
-  definition: '<b>Βοσόρ</b> see Βεώρ -  ὁ, indecl. (Heb. בְּעוֹר), <BR /> <b>Beor</b>,
-    father of Balaam: <ref=''2Pe.2.15''>2Pe.2:15</ref> (Rec. Βοσόρ).†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Βοσόρ</b> see Βεώρ -  ὁ, indecl. (Heb. בְּעוֹר), <BR /> <b>Beor</b>,
-    father of Balaam: <ref=''2Pe.2.15''>2Pe.2:15</ref> (Rec. Βοσόρ).†<BR />  (From
-    Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Βοσόρ see Βεώρ -  ὁ, indecl. (Heb. בְּעוֹר),
+
+  Beor, father of Balaam: 2Pe.2:15 (Rec. Βοσόρ).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Βοσόρ see Βεώρ -  ὁ, indecl. (Heb. בְּעוֹר),
+
+  Beor, father of Balaam: 2Pe.2:15 (Rec. Βοσόρ).†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H1192
-    proximity: 0.8167
+    lemma: בַּעֲלַת בְּאֵר
+    gloss: Baalath-Beer {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
     language: hebrew
   - strongs: H879
-    proximity: 0.8099
+    proximity: 0.8099 {macula-proximity}
     language: hebrew
   - strongs: H6602
-    proximity: 0.7976
+    lemma: פְּתוּאֵל
+    gloss: Pethuel {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

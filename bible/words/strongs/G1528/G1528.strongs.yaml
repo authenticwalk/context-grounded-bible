@@ -5,60 +5,68 @@ transliteration: eiskaléō
 definition: to invite in
 kjv_usage: call in
 derivation: from G1519 (εἰς) and G2564 (καλέω);
-extended_definition:
-  gloss: to invite
-  definition: '<b>εἰσ-καλέω, -ῶ</b>, <BR /> <b>to call in</b>: mid., with accusative
-    of person(s), <ref=''Act.10.23.''>Act.10:23.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> εἰσκᾰλέω</b>, <br /> <b>call in,</b> μάρτυρας [<a href="javascript:void(0)"
-    title=" 5th-6th c.BC: Aristophanes Comicus “Vespae” 936, 4th c.BC: Demosthenes
-    Orator 28.5; τινὰ πρὸς αὑτόν 5th-6th c.BC: Xenophon Historicus “Institutio Cyri
-    (Cyropaedia)” 8.3.1, compare 3rd c.BC: Theocritus Poeta Bucolicus 2.132, “PPetr.”
-    2p.31 (3rd c.BC)">Refs 5th c.BC+</a>], etc.:—<i>middle</i>, <i>invite to one''s
-    house, </i>[<a href="javascript:void(0)" title=" NT.Acts.10.23 ">NT</a>]; also,
-    <b>call</b> or <b>have called in,</b> [<a href="javascript:void(0)" title=" 2nd
-    c.BC: Polybius Historicus 21.22.2 ">Refs 2nd c.BC+</a>]; [ἰητρόν] [<a href="javascript:void(0)"
-    title=" 5th c.BC: Hippocrates Medicus “προγνωστικόν” 1 ">Refs 5th c.BC+</a>];
-    <b>summon,</b> [<a href="javascript:void(0)" title=" PPetr. 3p.62 (3rd c.AD).
-    ">Refs 3rd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'εἰσ-καλέω, -ῶ,
+
+  to call in: mid., with accusative of person(s), Act.10:23.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'εἰσκᾰλέω,
+
+  call in, μάρτυρας [Refs 5th c.BC+], etc.:—middle, invite to one''s house, [NT];
+  also, call or have called in, [Refs 2nd c.BC+]; [ἰητρόν] [Refs 5th c.BC+]; summon,
+  [Refs 3rd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1358
-    proximity: 0.8236
+    lemma: διορύσσω
+    gloss: to penetrate burglariously {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
   - strongs: G1461
-    proximity: 0.8198
+    lemma: ἐγκεντρίζω
+    gloss: to prick in {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
   - strongs: G4911
-    proximity: 0.816
+    lemma: συνεφίστημι
+    gloss: to stand up together {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
   - strongs: G1447
-    proximity: 0.814
+    lemma: Ἑβραϊστί
+    gloss: Hebraistically or in the Jewish  language {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
   - strongs: G1722
-    proximity: 0.813
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.813 {macula-proximity}
   - strongs: G1519
-    proximity: 0.8045
+    lemma: εἰς
+    gloss: to or into {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
   - strongs: G3922
-    proximity: 0.7741
+    lemma: παρεισέρχομαι
+    gloss: to come in alongside {openscriptures-strongs}
+    proximity: 0.7741 {macula-proximity}
   - strongs: G1533
-    proximity: 0.7607
+    lemma: εἰσφέρω
+    gloss: to carry inward {openscriptures-strongs}
+    proximity: 0.7607 {macula-proximity}
   - strongs: G3920
-    proximity: 0.7567
+    lemma: παρείσακτος
+    gloss: smuggled in {openscriptures-strongs}
+    proximity: 0.7567 {macula-proximity}
   - strongs: G3576
-    proximity: 0.7547
+    lemma: νωθρός
+    gloss: sluggish {openscriptures-strongs}
+    proximity: 0.7547 {macula-proximity}
   cross_language:
   - strongs: H3947
-    proximity: 0.8282
+    lemma: לָקַח
+    gloss: to take {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: hebrew
   - strongs: H871a
-    proximity: 0.8102
+    proximity: 0.8102 {macula-proximity}
     language: hebrew
   - strongs: H935
-    proximity: 0.7474
+    proximity: 0.7474 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,45 +5,49 @@ transliteration: kopetós
 definition: mourning (properly, by beating the breast)
 kjv_usage: lamentation
 derivation: from G2875 (κόπτω);
-extended_definition:
-  gloss: lamentation
-  definition: '<b>κοπετός</b>, -οῦ, ὁ<BR /> (κόπτω, mid.), [in LXX chiefly for מִסְפֵּד
-    ;] <BR />= cl. κομμός, a beating of the head and breast, <b>lamentation</b>: before
-    ἐπί with dative of person(s), <ref=''Act.8.2.''>Act.8:2.</ref>†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κοπετός</b>, ὁ, <br /> <b>noise</b>, [<a href="javascript:void(0)"
-    title=" 5th c.BC: Eupolis Comicus 347 ">Refs 5th c.BC+</a>]; especially of lamentation,
-    ={κομμός}, [<a href="javascript:void(0)" title=" NT.Act.8.2, 1st-2nd c.AD: Plutarchus
-    Biographus et Philosophus “Fabius Maximus” 17 (_plural_), “Anthologia Graeca”
-    11.122 (1st c.AD: Nicarchus Epigrammaticus). ">NT+1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κοπετός, -οῦ, ὁ
+
+  (κόπτω, mid.), [in LXX chiefly for מִסְפֵּד ;]
+
+  = cl. κομμός, a beating of the head and breast, lamentation: before ἐπί with dative
+  of person(s), Act.8:2.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κοπετός, ὁ,
+
+  noise, [Refs 5th c.BC+]; especially of lamentation, ={κομμός}, [NT+1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4090
-    proximity: 0.794
+    lemma: πικρῶς
+    gloss: bitterly {openscriptures-strongs}
+    proximity: 0.794 {macula-proximity}
   - strongs: G2799
-    proximity: 0.759
+    lemma: κλαίω
+    gloss: to sob {openscriptures-strongs}
+    proximity: 0.759 {macula-proximity}
   cross_language:
   - strongs: H5218
-    proximity: 0.8236
+    lemma: נָכֵא
+    gloss: smitten {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
     language: hebrew
   - strongs: H5110
-    proximity: 0.8227
+    lemma: נוּד
+    gloss: to nod {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
     language: hebrew
   - strongs: H6735b
-    proximity: 0.8162
+    proximity: 0.8162 {macula-proximity}
     language: hebrew
   - strongs: H1830
-    proximity: 0.8105
+    lemma: דָּמַע
+    gloss: to weep {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
     language: hebrew
   - strongs: H1065
-    proximity: 0.8088
+    lemma: בְּכִי
+    gloss: a weeping {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

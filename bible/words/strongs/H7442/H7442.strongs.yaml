@@ -11,38 +11,53 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H7481
-    proximity: 0.8146
+    lemma: רָעַם
+    gloss: to tumble {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
   - strongs: H7769
-    proximity: 0.8103
+    lemma: שׁוּעַ
+    gloss: a halloo {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   - strongs: H2158
-    proximity: 0.8077
+    lemma: זָמִיר
+    gloss: a song to be accompanied with instrumental music {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
   - strongs: H2302a
-    proximity: 0.8068
+    proximity: 0.8068 {macula-proximity}
   - strongs: H2172
-    proximity: 0.8049
+    lemma: זִמְרָה
+    gloss: a musical piece or song to be accompanied by an instrument {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H2201
-    proximity: 0.8023
+    lemma: זַעַק
+    gloss: a shriek or outcry {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
   - strongs: H6818
-    proximity: 0.7969
+    lemma: צַעֲקָה
+    gloss: a shriek {openscriptures-strongs}
+    proximity: 0.7969 {macula-proximity}
   - strongs: H5947
-    proximity: 0.7969
+    lemma: עַלִּיז
+    gloss: exultant {openscriptures-strongs}
+    proximity: 0.7969 {macula-proximity}
   cross_language:
   - strongs: G2752
-    proximity: 0.8278
+    lemma: κέλευμα
+    gloss: a cry of incitement {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G349
-    proximity: 0.8271
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G995
-    proximity: 0.8256
+    proximity: 0.8256 {macula-proximity}
     language: greek
   - strongs: G5214
-    proximity: 0.8143
+    lemma: ὑμνέω
+    gloss: to hymn {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
     language: greek
   - strongs: G21
-    proximity: 0.8109
+    proximity: 0.8109 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

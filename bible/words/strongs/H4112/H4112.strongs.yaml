@@ -6,42 +6,56 @@ pronunciation: mah-hal-oom-maw'
 definition: a blow
 kjv_usage: stripe, stroke.
 derivation: from H1986 (הָלַם);
-extended_definition:
-  gloss: blow
-  definition: strokes, blows
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: strokes, blows {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8608
-    proximity: 0.8245
+    lemma: תָּפַף
+    gloss: to drum {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H4347
-    proximity: 0.8198
+    lemma: מַכָּה
+    gloss: a wound {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
   - strongs: H5363
-    proximity: 0.8163
+    lemma: נֹקֶף
+    gloss: a threshing {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
   - strongs: H5221
-    proximity: 0.7947
+    lemma: נָכָה
+    gloss: to strike (lightly or severely {openscriptures-strongs}
+    proximity: 0.7947 {macula-proximity}
   - strongs: H5398
-    proximity: 0.7753
+    lemma: נָשַׁף
+    gloss: to breeze {openscriptures-strongs}
+    proximity: 0.7753 {macula-proximity}
   - strongs: H2250
-    proximity: 0.7498
+    lemma: חַבּוּרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7498 {macula-proximity}
   - strongs: H5606
-    proximity: 0.7074
+    lemma: סָפַק
+    gloss: to clap the hands (in token of compact {openscriptures-strongs}
+    proximity: 0.7074 {macula-proximity}
   cross_language:
   - strongs: G4154
-    proximity: 0.8097
+    lemma: πνέω
+    gloss: to breathe hard {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
     language: greek
   - strongs: G3148
-    proximity: 0.7628
+    lemma: μάστιξ
+    gloss: a whip (literally {openscriptures-strongs}
+    proximity: 0.7628 {macula-proximity}
     language: greek
   - strongs: G5180
-    proximity: 0.756
+    lemma: τύπτω
+    gloss: to "thump" {openscriptures-strongs}
+    proximity: 0.756 {macula-proximity}
     language: greek
   - strongs: G2852
-    proximity: 0.7092
+    lemma: κολαφίζω
+    gloss: to rap with the fist {openscriptures-strongs}
+    proximity: 0.7092 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

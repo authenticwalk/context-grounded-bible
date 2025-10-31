@@ -5,37 +5,38 @@ transliteration: diagrēgoréō
 definition: to waken thoroughly
 kjv_usage: be awake
 derivation: from G1223 (διά) and G1127 (γρηγορεύω);
-extended_definition:
-  gloss: to wake
-  definition: '<b>δια-γρηγορέω</b>, -ῶ <BR /> __(a) prop., <b>to remain awake</b>
-    (R, mg.); <BR /> __(b) <b>to be fully awake</b> (R, txt.): <ref=''Luk.9.32.''>Luk.9:32.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> διαγρηγορέω</b>, <br /> <b>start into full wakefulness,</b>
-    [<a href="javascript:void(0)" title="NT.Luke.9.32">NT</a>]; <b>keep awake,</b>
-    πάσης τῆς νυκτὸς ἐν φροντίσιν καὶ δέει δ. [<a href="javascript:void(0)" title="
-    2nd c.AD: Herodianus Grammaticus 3.4.4. ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δια-γρηγορέω, -ῶ
+
+  __(a) prop., to remain awake (R, mg.);
+
+  __(b) to be fully awake (R, txt.): Luk.9:32.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'διαγρηγορέω,
+
+  start into full wakefulness, [NT]; keep awake, πάσης τῆς νυκτὸς ἐν φροντίσιν καὶ
+  δέει δ. [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1127
-    proximity: 0.8175
+    lemma: γρηγορεύω
+    gloss: to keep awake {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
   - strongs: G4997
-    proximity: 0.805
+    lemma: σωφροσύνη
+    gloss: soundness of mind {openscriptures-strongs}
+    proximity: 0.805 {macula-proximity}
   - strongs: G4993
-    proximity: 0.7775
+    lemma: σωφρονέω
+    gloss: to be of sound mind {openscriptures-strongs}
+    proximity: 0.7775 {macula-proximity}
   cross_language:
   - strongs: H5782
-    proximity: 0.7927
+    lemma: עוּר
+    gloss: to wake {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
     language: hebrew
   - strongs: H7442a
-    proximity: 0.7498
+    proximity: 0.7498 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

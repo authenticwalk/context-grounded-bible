@@ -5,33 +5,32 @@ transliteration: Nikánōr
 definition: victorious; Nicanor, a Christian
 kjv_usage: Nicanor
 derivation: probably from G3528 (νικάω);
-extended_definition:
-  gloss: Nicanor
-  definition: '<b>Νικάνωρ</b>, -ορος, ὁ <BR /> <b>Nicanor</b>: <ref=''Act.6.5.''>Act.6:5.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Νικάνωρ</b>, -ορος, ὁ <BR /> <b>Nicanor</b>: <ref=''Act.6.5.''>Act.6:5.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Νικάνωρ, -ορος, ὁ
+
+  Nicanor: Act.6:5.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Νικάνωρ, -ορος, ὁ
+
+  Nicanor: Act.6:5.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H7935a
-    proximity: 0.821
+    proximity: 0.821 {macula-proximity}
     language: hebrew
   - strongs: H7935
-    proximity: 0.8119
+    lemma: שְׁכַנְיָה
+    gloss: Shekanjah {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
     language: hebrew
   - strongs: H3641a
-    proximity: 0.78
+    proximity: 0.78 {macula-proximity}
     language: hebrew
   - strongs: H5052
-    proximity: 0.7201
+    lemma: נֹגַהּ
+    gloss: Nogah {openscriptures-strongs}
+    proximity: 0.7201 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

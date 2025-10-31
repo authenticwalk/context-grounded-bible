@@ -7,52 +7,71 @@ definition: to rule
 kjv_usage: (have, make to have) dominion, governor, [idiom] indeed, reign, (bear,
   cause to, have) rule(-ing, -r), have power.
 derivation: a primitive root;
-extended_definition:
-  gloss: to rule
-  definition: 1) to rule, have dominion, reign<br>1a) (Qal) to rule, have dominion<br>1b)
-    (Hiphil)<br>1b1) to cause to rule<br>1b2) to exercise dominion
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to rule, have dominion, reign
+
+  1a) (Qal) to rule, have dominion
+
+  1b) (Hiphil)
+
+  1b1) to cause to rule
+
+  1b2) to exercise dominion {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A7984
-    proximity: 0.8288
+    proximity: 0.8288 {macula-proximity}
   - strongs: H371
-    proximity: 0.8221
+    proximity: 0.8221 {macula-proximity}
   - strongs: H1777
-    proximity: 0.8188
+    lemma: דִּין
+    gloss: a straight course {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
   - strongs: H3808
-    proximity: 0.8142
+    lemma: לֹא
+    gloss: not {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: H7218
-    proximity: 0.8112
+    lemma: רֹאשׁ
+    gloss: the head {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
   - strongs: H413
-    proximity: 0.8111
+    proximity: 0.8111 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.8077
+    proximity: 0.8077 {macula-proximity}
   - strongs: H6114
-    proximity: 0.7973
+    lemma: עֶצֶר
+    gloss: restraint {openscriptures-strongs}
+    proximity: 0.7973 {macula-proximity}
   - strongs: H369
-    proximity: 0.7925
+    proximity: 0.7925 {macula-proximity}
   - strongs: H5461
-    proximity: 0.7793
+    lemma: סָגָן
+    gloss: a prefect of a province {openscriptures-strongs}
+    proximity: 0.7793 {macula-proximity}
   cross_language:
   - strongs: G1203
-    proximity: 0.8255
+    lemma: δεσπότης
+    gloss: an absolute ruler {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
     language: greek
   - strongs: G1018
-    proximity: 0.8214
+    lemma: βραβεύω
+    gloss: to arbitrate {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
     language: greek
   - strongs: G1762
-    proximity: 0.8187
+    lemma: ἔνι
+    gloss: impersonally {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
     language: greek
   - strongs: G1909
-    proximity: 0.814
+    lemma: ἐπί
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
     language: greek
   - strongs: G2231
-    proximity: 0.8114
+    lemma: ἡγεμονία
+    gloss: government {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

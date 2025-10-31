@@ -5,59 +5,70 @@ transliteration: eirēneúō
 definition: to be (act) peaceful
 kjv_usage: be at (have, live in) peace, live peaceably
 derivation: from G1515 (εἰρήνη);
-extended_definition:
-  gloss: be at peace
-  definition: '<b>εἰρηνεύω</b> <BR /> (εἰρήνη), [in LXX chiefly for שׁלם, שׁקט ;]
-    <BR /> __1. <b>to bring to peace, reconcile</b> (so <ref=''1Ma.6.60''>1Ma.6:60</ref>).
-    <BR /> __2. <b>to keep peace, be at peace</b>: <ref=''Mrk.9.50''>Mrk.9:50</ref>,
-    <ref=''Rom.12.18''>Rom.12:18</ref>, <ref=''2Co.13.11''>2Co.13:11</ref>, <ref=''1Th.5.13''>1Th.5:13</ref>
-    (cf. <ref=''Sir.28.9''>Sir.28:9;</ref> Cremer, 246).<BR />† (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> εἰρην-εύω</b>, <br /> <b>bring to peace, reconcile</b>, [<a
-    href="javascript:void(0)" title=" 2nd-3rd c.AD: Dio Cassius Historicus 77.12,
-    gloss on 2nd c.AD: Babrius Fabularum Scriptor 39.4. ">Refs 2nd c.AD+</a>]<br /><Level2><b>__II</b></Level2>
-    <i>intransitive</i>, <b>keep peace, live peaceably</b>, [<a href="javascript:void(0)"
-    title=" 5th-6th c.BC: Plato Philosophus “Theaetetus” 180b; πρός τινα 1st c.BC:
-    Diodorus Siculus Historicus 21.16; μετὰ πάντων NT.Rom.12.18 ">NT+5th c.BC+</a>]:—<i>middle</i>,
-    πρὸς τοὺς κρείττους εἰρηνεύεσθαι [<a href="javascript:void(0)" title=" 4th c.BC:
-    Aristoteles Philosophus “Rhetorica” 1359b39, compare “OGI” 199.1 (from Adule)">Refs
-    4th c.BC+</a>]; χώρα -ομένη ἐκ παλαιοῦ [<a href="javascript:void(0)" title=" 2nd
-    c.BC: Polybius Historicus 5.8.7. ">Refs 2nd c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'εἰρηνεύω
+
+  (εἰρήνη), [in LXX chiefly for שׁלם, שׁקט ;]
+
+  __1. to bring to peace, reconcile (so 1Ma.6:60).
+
+  __2. to keep peace, be at peace: Mrk.9:50, Rom.12:18, 2Co.13:11, 1Th.5:13 (cf. Sir.28:9;
+  Cremer, 246).
+
+  † (AS) {STEPBible-TBESG}'
+etymology: 'εἰρην-εύω,
+
+  bring to peace, reconcile, [Refs 2nd c.AD+]
+
+  __II intransitive, keep peace, live peaceably, [NT+5th c.BC+]:—middle, πρὸς τοὺς
+  κρείττους εἰρηνεύεσθαι [Refs 4th c.BC+]; χώρα -ομένη ἐκ παλαιοῦ [Refs 2nd c.BC+]
+  {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2258
-    proximity: 0.8239
+    lemma: ἦν
+    gloss: I (thou {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: G1762
-    proximity: 0.8229
+    lemma: ἔνι
+    gloss: impersonally {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: G2468
-    proximity: 0.8006
+    lemma: ἴσθι
+    gloss: be thou {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
   - strongs: G3588
-    proximity: 0.7888
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7888 {macula-proximity}
   - strongs: G1517
-    proximity: 0.7876
+    lemma: εἰρηνοποιέω
+    gloss: to be a peace-maker {openscriptures-strongs}
+    proximity: 0.7876 {macula-proximity}
   - strongs: G1516
-    proximity: 0.7768
+    lemma: εἰρηνικός
+    gloss: pacific {openscriptures-strongs}
+    proximity: 0.7768 {macula-proximity}
   - strongs: G2252
-    proximity: 0.7727
+    lemma: ἤμην
+    gloss: I was {openscriptures-strongs}
+    proximity: 0.7727 {macula-proximity}
   cross_language:
   - strongs: H4832a
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
     language: hebrew
   - strongs: H1961
-    proximity: 0.8254
+    lemma: הָיָה
+    gloss: to exist {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: hebrew
   - strongs: H8003
-    proximity: 0.7811
+    lemma: שָׁלֵם
+    gloss: complete {openscriptures-strongs}
+    proximity: 0.7811 {macula-proximity}
     language: hebrew
   - strongs: H3162
-    proximity: 0.7705
+    lemma: יַחַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7705 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

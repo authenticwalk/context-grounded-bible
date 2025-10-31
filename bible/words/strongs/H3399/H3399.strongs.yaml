@@ -9,34 +9,39 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H7993
-    proximity: 0.8141
+    lemma: שָׁלַךְ
+    gloss: to throw out {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: H5670a
-    proximity: 0.8037
+    proximity: 0.8037 {macula-proximity}
   - strongs: H488
-    proximity: 0.7963
+    proximity: 0.7963 {macula-proximity}
   - strongs: H7451
-    proximity: 0.7911
+    lemma: רַע
+    gloss: bad or  evil {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
   - strongs: H3249
-    proximity: 0.7769
+    lemma: יָסוּר
+    gloss: departing {openscriptures-strongs}
+    proximity: 0.7769 {macula-proximity}
   - strongs: H2186
-    proximity: 0.761
+    lemma: זָנַח
+    gloss: reject {openscriptures-strongs}
+    proximity: 0.761 {macula-proximity}
   cross_language:
   - strongs: G545
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G683
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G593
-    proximity: 0.8175
+    proximity: 0.8175 {macula-proximity}
     language: greek
   - strongs: G580
-    proximity: 0.8173
+    proximity: 0.8173 {macula-proximity}
     language: greek
   - strongs: G579
-    proximity: 0.8117
+    proximity: 0.8117 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

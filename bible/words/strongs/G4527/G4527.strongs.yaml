@@ -5,42 +5,44 @@ transliteration: Salá
 definition: Sala (i.e. Shelach), a patriarch
 kjv_usage: Sala
 derivation: of Hebrew origin (H07974);
-extended_definition:
-  gloss: Shelah
-  definition: '<b>Σαλά</b>, ὁ indecl. (Heb. שֶׁלַח), <BR /> <b>Sala, Shalah</b>: <ref=''Luk.3.32''>Luk.3:32</ref>
-    (R, txt., Σαλμών, which see), <ref=''Luk.3.35.''>Luk.3:35.</ref>†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Σαλά</b>, ὁ indecl. (Heb. שֶׁלַח), <BR /> <b>Sala, Shalah</b>:
-    <ref=''Luk.3.32''>Luk.3:32</ref> (R, txt., Σαλμών, which see), <ref=''Luk.3.35.''>Luk.3:35.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Σαλά, ὁ indecl. (Heb. שֶׁלַח),
+
+  Sala, Shalah: Luk.3:32 (R, txt., Σαλμών, which see), Luk.3:35.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Σαλά, ὁ indecl. (Heb. שֶׁלַח),
+
+  Sala, Shalah: Luk.3:32 (R, txt., Σαλμών, which see), Luk.3:35.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A7598
-    proximity: 0.7969
+    proximity: 0.7969 {macula-proximity}
   - strongs: A7715
-    proximity: 0.7802
+    proximity: 0.7802 {macula-proximity}
   cross_language:
   - strongs: H7597
-    proximity: 0.8297
+    lemma: שְׁאַלְתִּיאֵל
+    gloss: Shealtiel {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: hebrew
   - strongs: H841
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
     language: hebrew
   - strongs: H3480
-    proximity: 0.8095
+    lemma: יְשַׂרְאֵלָה
+    gloss: Jesarelah {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
     language: hebrew
   - strongs: H8289
-    proximity: 0.7954
+    lemma: שָׁרוֹן
+    gloss: plain {openscriptures-strongs}
+    proximity: 0.7954 {macula-proximity}
     language: hebrew
   - strongs: H8189
-    proximity: 0.7819
+    lemma: שַׁעֲרַיִם
+    gloss: Shaarajim {openscriptures-strongs}
+    proximity: 0.7819 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

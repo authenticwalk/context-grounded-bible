@@ -6,48 +6,64 @@ pronunciation: geh'-beh
 definition: a reservoir; by analogy, a marsh
 kjv_usage: marish, pit.
 derivation: from an unused root meaning probably to collect;
-extended_definition:
-  gloss: cistern
-  definition: 1) cistern, pool<br>1a) cistern<br>1b) pool, marsh
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) cistern, pool
+
+  1a) cistern
+
+  1b) pool, marsh {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4723a
-    proximity: 0.83
+    proximity: 0.83 {macula-proximity}
   - strongs: H5118
-    proximity: 0.8175
+    lemma: נוּחַ
+    gloss: quiet {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
   - strongs: A870
-    proximity: 0.8152
+    proximity: 0.8152 {macula-proximity}
   - strongs: H4476
-    proximity: 0.8033
+    lemma: מִמְשָׁק
+    gloss: a possession {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
   - strongs: H5977
-    proximity: 0.8021
+    lemma: עֹמֶד
+    gloss: a spot {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
   - strongs: H4224a
-    proximity: 0.7976
+    proximity: 0.7976 {macula-proximity}
   - strongs: H4613
-    proximity: 0.7957
+    lemma: מׇעֳמָד
+    gloss: literally a foothold {openscriptures-strongs}
+    proximity: 0.7957 {macula-proximity}
   - strongs: H953
-    proximity: 0.7956
+    proximity: 0.7956 {macula-proximity}
   - strongs: H5979
-    proximity: 0.793
+    lemma: עֶמְדָּה
+    gloss: a station {openscriptures-strongs}
+    proximity: 0.793 {macula-proximity}
   - strongs: H4857
-    proximity: 0.7902
+    lemma: מַשְׁאָב
+    gloss: a trough for cattle to drink from {openscriptures-strongs}
+    proximity: 0.7902 {macula-proximity}
   cross_language:
   - strongs: G5561
-    proximity: 0.8229
+    lemma: χώρα
+    gloss: room {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G3699
-    proximity: 0.8168
+    lemma: ὅπου
+    gloss: what where {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
     language: greek
   - strongs: G5564
-    proximity: 0.8112
+    lemma: χωρίον
+    gloss: a spot or plot of ground {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
     language: greek
   - strongs: G2861
-    proximity: 0.7778
+    lemma: κολυμβήθρα
+    gloss: a diving-place {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

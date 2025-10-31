@@ -7,36 +7,49 @@ definition: a chaplet; but used only in an architectonic sense, i.e. the capital
   acolumn, or a wreath-like button or disk on the candelabrum
 kjv_usage: knop, (upper) lintel.
 derivation: or (Amos 9:1) כַּפְתּוֹר; probably from an unused root meaning to encircle;
-extended_definition:
-  gloss: capital
-  definition: 1) bulb, knob, capital, capital of a pillar<br>1a) knob, bulb (as ornament)<br>1b)
-    capital (of a pillar)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) bulb, knob, capital, capital of a pillar
+
+  1a) knob, bulb (as ornament)
+
+  1b) capital (of a pillar) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4678
-    proximity: 0.8214
+    lemma: מַצֶּבֶת
+    gloss: something stationary {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H6731
-    proximity: 0.8176
+    lemma: צִיץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   - strongs: H1392
-    proximity: 0.8037
+    lemma: גִּבְעֹל
+    gloss: the calyx of a flower {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
   - strongs: H6525
-    proximity: 0.8034
+    lemma: פֶּרַח
+    gloss: a calyx {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
   - strongs: H5328
-    proximity: 0.799
+    lemma: נִצָּה
+    gloss: a blossom {openscriptures-strongs}
+    proximity: 0.799 {macula-proximity}
   - strongs: H6733
-    proximity: 0.7804
+    lemma: צִיצָה
+    gloss: a flower {openscriptures-strongs}
+    proximity: 0.7804 {macula-proximity}
   - strongs: H5563
-    proximity: 0.7785
+    lemma: סְמָדַר
+    gloss: a vine blossom {openscriptures-strongs}
+    proximity: 0.7785 {macula-proximity}
   - strongs: H6858
-    proximity: 0.7207
+    lemma: צֶפֶת
+    gloss: a capital of a column {openscriptures-strongs}
+    proximity: 0.7207 {macula-proximity}
   cross_language:
   - strongs: G4769
-    proximity: 0.8107
+    lemma: στῦλος
+    gloss: properly akin to the base of G2476 ) {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

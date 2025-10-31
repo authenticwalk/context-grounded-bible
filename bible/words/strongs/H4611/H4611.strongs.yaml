@@ -6,46 +6,61 @@ pronunciation: mah-al-awl'
 definition: an act (good or bad)
 kjv_usage: doing, endeavour, invention, work.
 derivation: from H5953 (עָלַל);
-extended_definition:
-  gloss: deed
-  definition: 1) deed, practice<br>1a) practice (usually bad)<br>1b) deeds<br>1c)
-    acts
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) deed, practice
+
+  1a) practice (usually bad)
+
+  1b) deeds
+
+  1c) acts {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7944
-    proximity: 0.8295
+    lemma: שַׁל
+    gloss: a fault {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H6666
-    proximity: 0.8241
+    lemma: צְדָקָה
+    gloss: rightness {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H2403
-    proximity: 0.8231
+    lemma: חַטָּאָה
+    gloss: an offence {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H2398
-    proximity: 0.8182
+    lemma: חָטָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
   - strongs: H2154
-    proximity: 0.8165
+    lemma: זִמָּה
+    gloss: a plan {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: H4916
-    proximity: 0.8161
+    lemma: מִשְׁלוֹחַ
+    gloss: a sending out {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H7451b
-    proximity: 0.8122
+    proximity: 0.8122 {macula-proximity}
   cross_language:
   - strongs: G2095
-    proximity: 0.8271
+    lemma: εὖ
+    gloss: well {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G266
-    proximity: 0.8243
+    proximity: 0.8243 {macula-proximity}
     language: greek
   - strongs: G4162
-    proximity: 0.8184
+    lemma: ποίησις
+    gloss: action {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
     language: greek
   - strongs: G4176
-    proximity: 0.8156
+    lemma: πολιτεύομαι
+    gloss: to behave as a citizen {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
     language: greek
   - strongs: G16
-    proximity: 0.8129
+    proximity: 0.8129 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

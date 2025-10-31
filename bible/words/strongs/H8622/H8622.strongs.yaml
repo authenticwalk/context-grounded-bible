@@ -6,32 +6,35 @@ pronunciation: tek-oo-faw'
 definition: a revolution, i.e. (of the sun) course, (of time) lapse
 kjv_usage: circuit, come about, end.
 derivation: or תְּקֻפָה; from H5362 (נָקַף);
-extended_definition:
-  gloss: circuit
-  definition: 1) coming round, circuit of time or space, a turning, circuit<br>1a)
-    at the circuit (as adverb)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) coming round, circuit of time or space, a turning, circuit
+
+  1a) at the circuit (as adverb) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H319
-    proximity: 0.8236
+    proximity: 0.8236 {macula-proximity}
   - strongs: H5437
-    proximity: 0.7873
+    lemma: סָבַב
+    gloss: to revolve {openscriptures-strongs}
+    proximity: 0.7873 {macula-proximity}
   - strongs: H7093
-    proximity: 0.7144
+    lemma: קֵץ
+    gloss: an extremity {openscriptures-strongs}
+    proximity: 0.7144 {macula-proximity}
   cross_language:
   - strongs: G5056
-    proximity: 0.8243
+    lemma: τέλος
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: greek
   - strongs: G4009
-    proximity: 0.7986
+    lemma: πέρας
+    gloss: an extremity {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
     language: greek
   - strongs: G4930
-    proximity: 0.786
+    lemma: συντέλεια
+    gloss: entire completion {openscriptures-strongs}
+    proximity: 0.786 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

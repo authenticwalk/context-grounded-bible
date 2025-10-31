@@ -10,36 +10,55 @@ derivation: from H5258 (נָסַךְ);
 related_words:
   synonyms:
   - strongs: H4568
-    proximity: 0.8285
+    lemma: מַעֲבֶה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: H7295
-    proximity: 0.8191
+    lemma: רָהָב
+    gloss: insolent {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
   - strongs: H5258
-    proximity: 0.8146
+    lemma: נָסַךְ
+    gloss: to pour out {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
   - strongs: H6696b
-    proximity: 0.8053
+    proximity: 0.8053 {macula-proximity}
   - strongs: A6755
-    proximity: 0.8041
+    proximity: 0.8041 {macula-proximity}
   - strongs: H1285
-    proximity: 0.7995
+    lemma: בְּרִית
+    gloss: a compact {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
   - strongs: H6087
-    proximity: 0.7965
+    lemma: עָצַב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7965 {macula-proximity}
   - strongs: H8251
-    proximity: 0.7862
+    lemma: שִׁקּוּץ
+    gloss: disgusting {openscriptures-strongs}
+    proximity: 0.7862 {macula-proximity}
   - strongs: H3332
-    proximity: 0.7664
+    lemma: יָצַק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7664 {macula-proximity}
   - strongs: H4165
-    proximity: 0.7537
+    lemma: מוּצָק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7537 {macula-proximity}
   cross_language:
   - strongs: G1494
-    proximity: 0.8221
+    lemma: εἰδωλόθυτον
+    gloss: an image-sacrifice {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
     language: greek
   - strongs: G1493
-    proximity: 0.8192
+    lemma: εἰδωλεῖον
+    gloss: an image-fane {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
     language: greek
   - strongs: G2712
-    proximity: 0.7487
+    lemma: κατείδωλος
+    gloss: utterly idolatrous {openscriptures-strongs}
+    proximity: 0.7487 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

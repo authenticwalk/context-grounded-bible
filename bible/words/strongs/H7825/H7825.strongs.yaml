@@ -6,51 +6,57 @@ pronunciation: shekh-eeth'
 definition: a pit-fall (literally or figuratively)
 kjv_usage: destruction, pit.
 derivation: from H7812 (שָׁחָה);
-extended_definition:
-  gloss: pit
-  definition: pit
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: pit {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6695a
-    proximity: 0.8287
+    proximity: 0.8287 {macula-proximity}
   - strongs: H2764a
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
   - strongs: H4868
-    proximity: 0.8174
+    lemma: מִשְׁבָּת
+    gloss: cessation {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
   - strongs: H2041
-    proximity: 0.8122
+    lemma: הֶרֶס
+    gloss: demolition {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
   - strongs: H6040
-    proximity: 0.807
+    lemma: עֳנִי
+    gloss: depression {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
   - strongs: H7585a
-    proximity: 0.8015
+    proximity: 0.8015 {macula-proximity}
   - strongs: H696
-    proximity: 0.7847
+    proximity: 0.7847 {macula-proximity}
   - strongs: H953
-    proximity: 0.7776
+    proximity: 0.7776 {macula-proximity}
   - strongs: H4170
-    proximity: 0.7756
+    lemma: מוֹקֵשׁ
+    gloss: a noose {openscriptures-strongs}
+    proximity: 0.7756 {macula-proximity}
   - strongs: H6695
-    proximity: 0.7686
+    lemma: צוֹק
+    gloss: a strait {openscriptures-strongs}
+    proximity: 0.7686 {macula-proximity}
   cross_language:
   - strongs: G64
-    proximity: 0.8259
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G86
-    proximity: 0.8028
+    proximity: 0.8028 {macula-proximity}
     language: greek
   - strongs: G684
-    proximity: 0.7929
+    proximity: 0.7929 {macula-proximity}
     language: greek
   - strongs: G3802
-    proximity: 0.7829
+    lemma: παγιδεύω
+    gloss: to ensnare {openscriptures-strongs}
+    proximity: 0.7829 {macula-proximity}
     language: greek
   - strongs: G2561
-    proximity: 0.7779
+    lemma: κάκωσις
+    gloss: maltreatment {openscriptures-strongs}
+    proximity: 0.7779 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

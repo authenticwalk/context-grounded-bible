@@ -19,50 +19,81 @@ kjv_usage: ([phrase] be) able, [idiom] about, [phrase] armholes, at, axletree, b
 derivation: a primitive word; in distinction from H3709 (כַּף), the closed one); used
   (as noun, adverb, etc.) in a great variety of applications, both literally and figuratively,
   both proximate and remote (as follows)
-extended_definition:
-  gloss: 'hand: swear'
-  definition: ': swear/allegience/hand(under)<br>1) hand<br>1a) hand (of man)<br>1b)
-    strength, power (fig.)<br>1c) side (of land), part, portion (metaph.) (fig.)<br>1d)
-    (various special, technical senses)<br>1d1) sign, monument<br>1d2) part, fractional
-    part, share<br>1d3) time, repetition<br>1d4) axle-trees, axle<br>1d5) stays, support
-    (for laver)<br>1d6) tenons (in tabernacle)<br>1d7) a phallus, a hand (meaning
-    unsure)<br>1d8) wrists'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: ': swear/allegience/hand(under)
+
+  1) hand
+
+  1a) hand (of man)
+
+  1b) strength, power (fig.)
+
+  1c) side (of land), part, portion (metaph.) (fig.)
+
+  1d) (various special, technical senses)
+
+  1d1) sign, monument
+
+  1d2) part, fractional part, share
+
+  1d3) time, repetition
+
+  1d4) axle-trees, axle
+
+  1d5) stays, support (for laver)
+
+  1d6) tenons (in tabernacle)
+
+  1d7) a phallus, a hand (meaning unsure)
+
+  1d8) wrists {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H334
-    proximity: 0.8293
+    proximity: 0.8293 {macula-proximity}
   - strongs: H5534a
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
   - strongs: H5790
-    proximity: 0.8289
+    lemma: עוּת
+    gloss: to hasten {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H4639
-    proximity: 0.8277
+    lemma: מַעֲשֶׂה
+    gloss: an action {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H7980
-    proximity: 0.8275
+    lemma: שָׁלַט
+    gloss: to dominate {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H7916
-    proximity: 0.8273
+    lemma: שָׂכִיר
+    gloss: a man at wages  by the day or year {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
   - strongs: H2947
-    proximity: 0.8254
+    lemma: טֵפַח
+    gloss: a spread of the hand {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   cross_language:
   - strongs: G4368
-    proximity: 0.8298
+    lemma: προστάτις
+    gloss: a patroness {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G4116
-    proximity: 0.8297
+    lemma: πλατύς
+    gloss: spread out "flat" {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G2149
-    proximity: 0.8297
+    lemma: εὐρύχωρος
+    gloss: spacious {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G998
-    proximity: 0.8289
+    proximity: 0.8289 {macula-proximity}
     language: greek
   - strongs: G3728
-    proximity: 0.8288
+    lemma: ὁρκωμοσία
+    gloss: asseveration on oath {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

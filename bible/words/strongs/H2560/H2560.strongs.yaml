@@ -10,40 +10,63 @@ derivation: a primitive root; also  as denominative (from H2564 (חֵמָר))
 related_words:
   synonyms:
   - strongs: H5480a
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
   - strongs: H8442
-    proximity: 0.824
+    lemma: תּוֹעָה
+    gloss: mistake {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: H4103
-    proximity: 0.8234
+    lemma: מְהוּמָה
+    gloss: confusion or uproar {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
   - strongs: H7267
-    proximity: 0.8155
+    lemma: רֹגֶז
+    gloss: commotion {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H6349
-    proximity: 0.8149
+    lemma: פַּחַז
+    gloss: ebullition {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
   - strongs: H5916
-    proximity: 0.8101
+    lemma: עָכַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
   - strongs: H6470
-    proximity: 0.7921
+    lemma: פָּעַם
+    gloss: to tap {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
   - strongs: H1089
-    proximity: 0.79
+    lemma: בָּלַהּ
+    gloss: to palpitate {openscriptures-strongs}
+    proximity: 0.79 {macula-proximity}
   - strongs: H7570
-    proximity: 0.7792
+    lemma: רָתַח
+    gloss: to boil {openscriptures-strongs}
+    proximity: 0.7792 {macula-proximity}
   cross_language:
   - strongs: G5015
-    proximity: 0.826
+    lemma: ταράσσω
+    gloss: to stir or agitate {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
     language: greek
   - strongs: G2350
-    proximity: 0.8255
+    lemma: θορυβέω
+    gloss: to be in tumult {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
     language: greek
   - strongs: G5017
-    proximity: 0.8159
+    lemma: τάραχος
+    gloss: a disturbance {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
     language: greek
   - strongs: G1890
-    proximity: 0.812
+    lemma: ἐπαφρίζω
+    gloss: to foam upon {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
     language: greek
   - strongs: G4535
-    proximity: 0.7814
+    lemma: σάλος
+    gloss: a vibration {openscriptures-strongs}
+    proximity: 0.7814 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

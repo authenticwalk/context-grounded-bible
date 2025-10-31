@@ -7,39 +7,54 @@ definition: to detrude, i.e. (intransitively and figuratively) become derelict (
   practise; namely, idolatry)
 kjv_usage: turn aside to.
 derivation: or (by permutation) סוּט; a primitive root;
-extended_definition:
-  gloss: to swerve
-  definition: 1) to swerve, fall away<br>1a) (Qal)<br>1a1) to swerve, fall away<br>1a2)
-    those falling away (participle)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to swerve, fall away
+
+  1a) (Qal)
+
+  1a1) to swerve, fall away
+
+  1a2) those falling away (participle) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3943
-    proximity: 0.8272
+    lemma: לָפַת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: H3231
-    proximity: 0.8229
+    lemma: יָמַן
+    gloss: to be right-handed or take the right-hand side {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: H5472
-    proximity: 0.7728
+    lemma: סוּג
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7728 {macula-proximity}
   - strongs: H3719
-    proximity: 0.7387
+    lemma: כָּפַן
+    gloss: to bend {openscriptures-strongs}
+    proximity: 0.7387 {macula-proximity}
   - strongs: H8388
-    proximity: 0.7078
+    lemma: תָּאַר
+    gloss: to delineate {openscriptures-strongs}
+    proximity: 0.7078 {macula-proximity}
   cross_language:
   - strongs: G5157
-    proximity: 0.7691
+    lemma: τροπή
+    gloss: a turn {openscriptures-strongs}
+    proximity: 0.7691 {macula-proximity}
     language: greek
   - strongs: G1994
-    proximity: 0.7595
+    lemma: ἐπιστρέφω
+    gloss: to revert (literally {openscriptures-strongs}
+    proximity: 0.7595 {macula-proximity}
     language: greek
   - strongs: G1612
-    proximity: 0.74
+    lemma: ἐκστρέφω
+    gloss: to pervert {openscriptures-strongs}
+    proximity: 0.74 {macula-proximity}
     language: greek
   - strongs: G4762
-    proximity: 0.7037
+    lemma: στρέφω
+    gloss: to twist {openscriptures-strongs}
+    proximity: 0.7037 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -8,44 +8,60 @@ definition: to be familiar with; by implication, to minister to, be serviceable 
 kjv_usage: acquaint (self), be advantage, [idiom] ever, (be, (un-)) profit(-able),
   treasurer, be wont.
 derivation: a primitive root;
-extended_definition:
-  gloss: be useful
-  definition: 1) to be of use or service or profit or benefit<br>1a) (Qal)<br>1a1)
-    to be of use or service<br>1a2) servitor, steward (participle)<br>1a3) to benefit,
-    profit<br>1b) (Hiphil) to be used, be wont, exhibit use or habit, show harmony
-    with, be familiar with, know intimately
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be of use or service or profit or benefit
+
+  1a) (Qal)
+
+  1a1) to be of use or service
+
+  1a2) servitor, steward (participle)
+
+  1a3) to benefit, profit
+
+  1b) (Hiphil) to be used, be wont, exhibit use or habit, show harmony with, be familiar
+  with, know intimately {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3808
-    proximity: 0.8268
+    lemma: לֹא
+    gloss: not {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: H3788
-    proximity: 0.8142
+    lemma: כִּשְׁרוֹן
+    gloss: success {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: H2962
-    proximity: 0.8021
+    lemma: טֶרֶם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
   - strongs: H1961
-    proximity: 0.802
+    lemma: הָיָה
+    gloss: to exist {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
   - strongs: H369
-    proximity: 0.7739
+    proximity: 0.7739 {macula-proximity}
   cross_language:
   - strongs: G18
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G5530
-    proximity: 0.8216
+    lemma: χράομαι
+    gloss: to furnish what is needed {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
     language: greek
   - strongs: G1247
-    proximity: 0.8189
+    lemma: διακονέω
+    gloss: to be an attendant {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
     language: greek
   - strongs: G5600
-    proximity: 0.8084
+    lemma: ὦ
+    gloss: (may {openscriptures-strongs}
+    proximity: 0.8084 {macula-proximity}
     language: greek
   - strongs: G2111
-    proximity: 0.804
+    lemma: εὔθετος
+    gloss: well placed {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

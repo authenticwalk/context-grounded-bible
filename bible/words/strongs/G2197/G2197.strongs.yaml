@@ -5,59 +5,74 @@ transliteration: Zacharías
 definition: Zacharias (i.e. Zechariah), the name of two Israelites
 kjv_usage: Zacharias
 derivation: of Hebrew origin (H02148);
-extended_definition:
-  gloss: Zechariah
-  definition: '<b>Ζαχαρίας</b>, -ου, ὁ (Heb. זַכַּי); <BR /> __1. <b>Zacharias, father
-    of John the Baptist</b>: <ref=''Luk.1.5, 12-13; 1.18, 21; 1.40, 59; 1.67; 3.2''>Luk.1:5,
-    12-13 1:18, 21 1:40, 59 1:67 3:2</ref>. <BR /> __2. Zechariah, the son of Jehoiada
-    (in txt. wrongly called son of Barachiah; cf. <ref=''2Ch.24.19''>2Ch.24:19</ref>
-    ff.): <ref=''Mat.23.35''>Mat.23:35</ref>, <ref=''Luk.11.51''>Luk.11:51</ref>.†<BR
-    /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ζαχαρίας</b>, -ου, ὁ (Heb. זַכַּי); <BR /> __1. <b>Zacharias,
-    father of John the Baptist</b>: <ref=''Luk.1.5, 12-13; 1.18, 21; 1.40, 59; 1.67;
-    3.2''>Luk.1:5, 12-13 1:18, 21 1:40, 59 1:67 3:2</ref>. <BR /> __2. Zechariah,
-    the son of Jehoiada (in txt. wrongly called son of Barachiah; cf. <ref=''2Ch.24.19''>2Ch.24:19</ref>
-    ff.): <ref=''Mat.23.35''>Mat.23:35</ref>, <ref=''Luk.11.51''>Luk.11:51</ref>.†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ζαχαρίας, -ου, ὁ (Heb. זַכַּי);
+
+  __1. Zacharias, father of John the Baptist: Luk.1:5, 12-13 1:18, 21 1:40, 59 1:67
+  3:2.
+
+  __2. Zechariah, the son of Jehoiada (in txt. wrongly called son of Barachiah; cf.
+  2Ch.24:19 ff.): Mat.23:35, Luk.11:51.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ζαχαρίας, -ου, ὁ (Heb. זַכַּי);
+
+  __1. Zacharias, father of John the Baptist: Luk.1:5, 12-13 1:18, 21 1:40, 59 1:67
+  3:2.
+
+  __2. Zechariah, the son of Jehoiada (in txt. wrongly called son of Barachiah; cf.
+  2Ch.24:19 ff.): Mat.23:35, Luk.11:51.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2243
-    proximity: 0.824
+    lemma: Ἡλίας
+    gloss: Helias {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: G3517
-    proximity: 0.8177
+    lemma: Νηρεύς
+    gloss: Nereus {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
   - strongs: G742
-    proximity: 0.8177
+    proximity: 0.8177 {macula-proximity}
   - strongs: G3190
-    proximity: 0.8177
+    lemma: Μελεᾶς
+    gloss: Meleas {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
   - strongs: G3774
-    proximity: 0.8177
+    lemma: Οὐρίας
+    gloss: Urias {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
   - strongs: G4947
-    proximity: 0.8098
+    lemma: Συρία
+    gloss: Syria {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
   - strongs: G2542
-    proximity: 0.8038
+    lemma: Καισάρεια
+    gloss: Cæsaria {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
   cross_language:
   - strongs: H6021
-    proximity: 0.8248
+    lemma: עֲמָשָׂא
+    gloss: Amasa {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: hebrew
   - strongs: H5548
-    proximity: 0.8213
+    lemma: סַלְכָה
+    gloss: Salcah {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
     language: hebrew
   - strongs: H805
-    proximity: 0.8184
+    proximity: 0.8184 {macula-proximity}
     language: hebrew
   - strongs: H3812
-    proximity: 0.8141
+    lemma: לֵאָה
+    gloss: Leah {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
     language: hebrew
   - strongs: H5832
-    proximity: 0.8077
+    lemma: עֲזַרְאֵל
+    gloss: Azarel {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

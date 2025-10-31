@@ -11,38 +11,55 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H2532
-    proximity: 0.8235
+    lemma: חֶמְדָּה
+    gloss: delight {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: H5207
-    proximity: 0.8214
+    lemma: נִיחוֹחַ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H4263
-    proximity: 0.8201
+    lemma: מַחְמָל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: H2304
-    proximity: 0.8107
+    lemma: חֶדְוָה
+    gloss: rejoicing {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
   - strongs: H5730
-    proximity: 0.8093
+    lemma: עֵדֶן
+    gloss: pleasure {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
   - strongs: A5208
-    proximity: 0.8034
+    proximity: 0.8034 {macula-proximity}
   - strongs: A6246
-    proximity: 0.8018
+    proximity: 0.8018 {macula-proximity}
   - strongs: H6027
-    proximity: 0.801
+    lemma: עֹנֶג
+    gloss: luxury {openscriptures-strongs}
+    proximity: 0.801 {macula-proximity}
   cross_language:
   - strongs: G2114
-    proximity: 0.8291
+    lemma: εὐθυμέω
+    gloss: to cheer up {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
     language: greek
   - strongs: G1635
-    proximity: 0.8223
+    lemma: ἑκών
+    gloss: voluntary {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G21
-    proximity: 0.8178
+    proximity: 0.8178 {macula-proximity}
     language: greek
   - strongs: G1070
-    proximity: 0.8152
+    lemma: γελάω
+    gloss: to laugh {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
     language: greek
   - strongs: G3785
-    proximity: 0.8118
+    lemma: ὄφελον
+    gloss: I ought {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

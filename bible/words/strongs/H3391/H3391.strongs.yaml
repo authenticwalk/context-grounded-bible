@@ -6,32 +6,37 @@ pronunciation: yeh'-rakh
 definition: a lunation, i.e. month
 kjv_usage: month, moon.
 derivation: from a unused root of uncertain signification;
-extended_definition:
-  gloss: month
-  definition: '1) month (lunar cycle), moon<br>1a) month<br>1b) calendar month<BR>Aramaic
-    equivalent: <i>ye.rach</i> (יְרַח "month" H3393)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) month (lunar cycle), moon
+
+  1a) month
+
+  1b) calendar month
+
+  Aramaic equivalent: ye.rach (יְרַח "month" H3393) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3677
-    proximity: 0.779
+    lemma: כֶּסֶא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.779 {macula-proximity}
   - strongs: H2099
-    proximity: 0.7679
+    lemma: זִו
+    gloss: Ziv {openscriptures-strongs}
+    proximity: 0.7679 {macula-proximity}
   - strongs: H945
-    proximity: 0.761
+    proximity: 0.761 {macula-proximity}
   cross_language:
   - strongs: G3324
-    proximity: 0.8237
+    lemma: μεστός
+    gloss: replete {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
     language: greek
   - strongs: G1520
-    proximity: 0.8195
+    lemma: εἷς
+    gloss: one {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
     language: greek
   - strongs: G3561a
-    proximity: 0.7963
+    proximity: 0.7963 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,37 +6,47 @@ pronunciation: gheh'-shem
 definition: a shower
 kjv_usage: rain, shower.
 derivation: from H1652 (גָּשַׁם);
-extended_definition:
-  gloss: rain
-  definition: rain, shower
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: rain, shower {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5591
-    proximity: 0.8196
+    lemma: סַעַר
+    gloss: a hurricane {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: H4325
-    proximity: 0.813
+    lemma: מַיִם
+    gloss: water {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
   - strongs: H5584
-    proximity: 0.811
+    lemma: סָעָה
+    gloss: to rush {openscriptures-strongs}
+    proximity: 0.811 {macula-proximity}
   - strongs: H7950
-    proximity: 0.8008
+    lemma: שֶׁלֶג
+    gloss: snow {openscriptures-strongs}
+    proximity: 0.8008 {macula-proximity}
   - strongs: H7858
-    proximity: 0.799
+    lemma: שֶׁטֶף
+    gloss: a deluge {openscriptures-strongs}
+    proximity: 0.799 {macula-proximity}
   - strongs: H5599
-    proximity: 0.7575
+    lemma: סָפִיחַ
+    gloss: something  falling off {openscriptures-strongs}
+    proximity: 0.7575 {macula-proximity}
   - strongs: H3384a
-    proximity: 0.7424
+    proximity: 0.7424 {macula-proximity}
   - strongs: H2919
-    proximity: 0.7096
+    lemma: טַל
+    gloss: dew {openscriptures-strongs}
+    proximity: 0.7096 {macula-proximity}
   - strongs: H3138
-    proximity: 0.7053
+    lemma: יוֹרֶה
+    gloss: sprinkling {openscriptures-strongs}
+    proximity: 0.7053 {macula-proximity}
   cross_language:
   - strongs: G3797
-    proximity: 0.7034
+    lemma: ὄψιμος
+    gloss: later {openscriptures-strongs}
+    proximity: 0.7034 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

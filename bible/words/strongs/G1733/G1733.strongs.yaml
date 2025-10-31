@@ -5,57 +5,68 @@ transliteration: héndeka
 definition: one and ten, i.e. eleven
 kjv_usage: eleven
 derivation: from (the neuter of) G1520 (εἷς) and G1176 (δέκα);
-extended_definition:
-  gloss: eleven
-  definition: '<b>ἕν-δεκα</b>, οἱ, αἱ, τά<BR /> indecl., <BR /> <b>eleven</b>: of
-    the eleven apostles, οἱ, ἕ., <ref=''Mat.28.16''>Mat.28:16</ref>, <ref=''Mrk.16.14''>Mrk.16:14</ref>,
-    <ref=''Luk.24.9, 33''>Luk.24:9, 33</ref>, <ref=''Act.1.26; 2.14''>Act.1:26 2:14</ref>.†<BR
-    /> (AS)'
-  morphology: G:A-NUI
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἕνδεκα</b>, οἱ, αἱ, τά, <br /> <i>indeclinable</i>, <b>eleven</b>,
-    [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad”
-    2.713, etc. ">Refs 8th c.BC+</a>]<br /><Level2><b>__II</b></Level2> at Athens,
-    οἱ ἕ. <b>the Eleven, the Police-Commissioners</b>, [<a href="javascript:void(0)"
-    title=" 5th-6th c.BC: Aristophanes Comicus “Vespae” 1108, 5th c.BC: Antipho Orator
-    5.70, 5th c.BC: Lysias Orator 14.17, 5th-6th c.BC: Plato Philosophus “Phaedo”
-    59e, 4th c.BC: Aristoteles Philosophus “Ἀθηναίων Πολιτεία” 7.3, etc. ">Refs 5th
-    c.BC+</a>]<br /><Level3><b>__II.2</b></Level3> certain officers at Delos, [<a
-    href="javascript:void(0)" title=" “Hermes” 17.5. ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἕν-δεκα, οἱ, αἱ, τά
+
+  indecl.,
+
+  eleven: of the eleven apostles, οἱ, ἕ., Mat.28:16, Mrk.16:14, Luk.24:9, 33, Act.1:26
+  2:14.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἕνδεκα, οἱ, αἱ, τά,
+
+  indeclinable, eleven, [Refs 8th c.BC+]
+
+  __II at Athens, οἱ ἕ. the Eleven, the Police-Commissioners, [Refs 5th c.BC+]
+
+  __II.2 certain officers at Delos, [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1538
-    proximity: 0.8279
+    lemma: ἕκαστος
+    gloss: each or every {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: G4004
-    proximity: 0.8258
+    lemma: πεντήκοντα
+    gloss: fifty {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: A3969
-    proximity: 0.8252
+    proximity: 0.8252 {macula-proximity}
   - strongs: G1812
-    proximity: 0.8238
+    lemma: ἑξακόσιοι
+    gloss: six hundred {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: G1520
-    proximity: 0.8229
+    lemma: εἷς
+    gloss: one {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: G1441
-    proximity: 0.817
+    lemma: ἑβδομηκοντάκις
+    gloss: seventy times {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: G5126
-    proximity: 0.8167
+    lemma: τοῦτον
+    gloss: this (person {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: G5140
-    proximity: 0.8154
+    lemma: τρεῖς
+    gloss: '"three" {openscriptures-strongs}'
+    proximity: 0.8154 {macula-proximity}
   - strongs: A321
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
   - strongs: G3046
-    proximity: 0.8112
+    lemma: λίτρα
+    gloss: a pound in weight {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
   cross_language:
   - strongs: H6235
-    proximity: 0.7994
+    lemma: עֶשֶׂר
+    gloss: ten {openscriptures-strongs}
+    proximity: 0.7994 {macula-proximity}
     language: hebrew
   - strongs: H8341
-    proximity: 0.7977
+    lemma: שָׁשָׁה
+    gloss: to sixth or divide into sixths {openscriptures-strongs}
+    proximity: 0.7977 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

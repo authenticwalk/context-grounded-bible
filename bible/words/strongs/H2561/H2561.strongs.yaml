@@ -6,37 +6,47 @@ pronunciation: kheh'-mer
 definition: wine (as fermenting)
 kjv_usage: '[idiom] pure, red wine.'
 derivation: from H2560 (חָמַר);
-extended_definition:
-  gloss: wine
-  definition: 'wine<BR>Aramaic equivalent: <i>cha.mar</i> (חֲמַר "wine" H2562)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'wine
+
+  Aramaic equivalent: cha.mar (חֲמַר "wine" H2562) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4960
-    proximity: 0.8048
+    lemma: מִשְׁתֶּה
+    gloss: drink {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
   - strongs: H3342
-    proximity: 0.7508
+    lemma: יֶקֶב
+    gloss: a trough {openscriptures-strongs}
+    proximity: 0.7508 {macula-proximity}
   - strongs: H6333
-    proximity: 0.7329
+    lemma: פּוּרָה
+    gloss: a wine-press {openscriptures-strongs}
+    proximity: 0.7329 {macula-proximity}
   - strongs: H2896a
-    proximity: 0.7214
+    proximity: 0.7214 {macula-proximity}
   - strongs: H6071
-    proximity: 0.7177
+    lemma: עָסִיס
+    gloss: must or fresh grape-juice {openscriptures-strongs}
+    proximity: 0.7177 {macula-proximity}
   - strongs: H1660
-    proximity: 0.7148
+    lemma: גַּת
+    gloss: a wine-press {openscriptures-strongs}
+    proximity: 0.7148 {macula-proximity}
   cross_language:
   - strongs: G3025
-    proximity: 0.7229
+    lemma: ληνός
+    gloss: a trough {openscriptures-strongs}
+    proximity: 0.7229 {macula-proximity}
     language: greek
   - strongs: G3943
-    proximity: 0.7173
+    lemma: πάροινος
+    gloss: staying near wine {openscriptures-strongs}
+    proximity: 0.7173 {macula-proximity}
     language: greek
   - strongs: G5276
-    proximity: 0.703
+    lemma: ὑπολήνιον
+    gloss: vessel or receptacle under the press {openscriptures-strongs}
+    proximity: 0.703 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

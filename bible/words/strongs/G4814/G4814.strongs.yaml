@@ -5,56 +5,62 @@ transliteration: syllaléō
 definition: to talk together, i.e. converse
 kjv_usage: commune (confer, talk) with, speak among
 derivation: from G4862 (σύν) and G2980 (λαλέω);
-extended_definition:
-  gloss: to talk with
-  definition: <b>to talk </b> or <b>converse with </b> another, (New Testament) (ML)
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συλλᾰλ-έω</b>, <br /> <b>talk with</b> or <b>together</b>,
-    τινι [<a href="javascript:void(0)" title=" “PCair.Zen.” 315.2 (3rd c.BC), “PHib.”
-    1.66.4 (3rd c.BC), LXX.Exo.34.35, 2nd c.BC: Polybius Historicus 4.22.8; μετά τινος
-    NT.Matt.17.3, etc.; πρός τινα NT.Luke.4.36; ἐπαχθέντες ἐπὶ τὸν δῆμον ὑπὲρ ἁπάντων
-    “OGI” 229.23 (Smyrna, 3rd c.BC)">NT+3rd c.BC+</a>]; ὑπὲρ τοῦ ἐνδοῦναι [<a href="javascript:void(0)"
-    title=" 2nd c.BC: Polybius Historicus 1.43.1. ">Refs 2nd c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: to talk  or converse with  another, (New Testament) (ML) {STEPBible-TBESG}
+etymology: 'συλλᾰλ-έω,
+
+  talk with or together, τινι [NT+3rd c.BC+]; ὑπὲρ τοῦ ἐνδοῦναι [Refs 2nd c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2981
-    proximity: 0.8276
+    lemma: λαλιά
+    gloss: talk {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: G1260
-    proximity: 0.8221
+    lemma: διαλογίζομαι
+    gloss: to reckon thoroughly {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: G653
-    proximity: 0.8175
+    proximity: 0.8175 {macula-proximity}
   - strongs: G4487
-    proximity: 0.8089
+    lemma: ῥῆμα
+    gloss: an utterance (individually {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: G474
-    proximity: 0.8037
+    proximity: 0.8037 {macula-proximity}
   - strongs: G3150
-    proximity: 0.8002
+    lemma: ματαιολογία
+    gloss: random talk {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: G4323
-    proximity: 0.7715
+    lemma: προσανατίθημι
+    gloss: to lay up in addition {openscriptures-strongs}
+    proximity: 0.7715 {macula-proximity}
   - strongs: G4802
-    proximity: 0.7655
+    lemma: συζητέω
+    gloss: to investigate jointly {openscriptures-strongs}
+    proximity: 0.7655 {macula-proximity}
   cross_language:
   - strongs: H981
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
     language: hebrew
   - strongs: H4405
-    proximity: 0.8295
+    lemma: מִלָּה
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: hebrew
   - strongs: H7717
-    proximity: 0.8175
+    lemma: שָׂהֵד
+    gloss: a witness {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: hebrew
   - strongs: H5608
-    proximity: 0.8133
+    lemma: סָפַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
     language: hebrew
   - strongs: H6610
-    proximity: 0.7899
+    lemma: פִּתְחוֹן
+    gloss: opening {openscriptures-strongs}
+    proximity: 0.7899 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

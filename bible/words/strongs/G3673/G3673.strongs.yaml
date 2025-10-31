@@ -5,58 +5,64 @@ transliteration: homótechnos
 definition: a fellow-artificer
 kjv_usage: of the same craft
 derivation: from the base of G3674 (ὁμοῦ) and G5078 (τέχνη);
-extended_definition:
-  gloss: of the same trade
-  definition: '<b>ὁμότεχνος</b>, -ον<BR /> (ὁμός, τέχνη), <BR /><b>practising the
-    same craft, of the same trade</b>: <ref=''Act.18.3.''>Act.18:3.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὁμό-τεχνος</b>, ον, <br /> <b>practising the same art,</b>
-    τινι with one, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus
-    “Laches” 187a. ">Refs 5th c.BC+</a>]<br /><Level2><b>__II</b></Level2> as <i>substantive</i>,
-    <b>fellow-workman,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus
-    Historicus 2.89, 5th-6th c.BC: Plato Philosophus “Protagoras” 328a, 4th c.BC:
-    Xenarchus Comicus 7.15; ὁ ὁ. τινός 5th-6th c.BC: Plato Philosophus “Charmides”
-    171c, compare 4th c.BC: Demosthenes Orator 22.58, 5th c.AD: Aristaenetus Rhetor
-    1.19; οὐδεὶς τῶν ὁ. μου 2nd c.AD: Alexander Rhetor 173.7 ">Refs 5th c.BC+</a>]:
-    as title applied to the good physician, [<a href="javascript:void(0)" title="
-    5th c.BC: Hippocrates Medicus “παραγγελίαι” 7. ">Refs 5th c.BC+</a>]<br /><Level3><b>__II.2</b></Level3>
-    <i>neuter</i> ὁμότεχνον, τό, <b>guild,</b> τῶν λαναρίων[<a href="javascript:void(0)"
-    title=" Keil-Premerstein “Zweiter Bericht” No. 217 (2nd c.AD). ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ὁμότεχνος, -ον
+
+  (ὁμός, τέχνη),
+
+  practising the same craft, of the same trade: Act.18:3.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὁμό-τεχνος, ον,
+
+  practising the same art, τινι with one, [Refs 5th c.BC+]
+
+  __II as substantive, fellow-workman, [Refs 5th c.BC+]: as title applied to the good
+  physician, [Refs 5th c.BC+]
+
+  __II.2 neuter ὁμότεχνον, τό, guild, τῶν λαναρίων[Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2472
-    proximity: 0.8289
+    lemma: ἰσότιμος
+    gloss: of equal value or honor {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: G4944
-    proximity: 0.8278
+    lemma: συνωδίνω
+    gloss: to have  pangs in company (concert {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: G4861
-    proximity: 0.8267
+    lemma: σύμψυχος
+    gloss: co-spirited {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8016
+    proximity: 0.8016 {macula-proximity}
   - strongs: G3588
-    proximity: 0.8003
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8003 {macula-proximity}
   - strongs: A6447
-    proximity: 0.7948
+    proximity: 0.7948 {macula-proximity}
   - strongs: G260
-    proximity: 0.7808
+    proximity: 0.7808 {macula-proximity}
   - strongs: G3663
-    proximity: 0.7789
+    lemma: ὁμοιοπαθής
+    gloss: similarly affected {openscriptures-strongs}
+    proximity: 0.7789 {macula-proximity}
   - strongs: G4954
-    proximity: 0.7423
+    lemma: σύσσωμος
+    gloss: of a joint body {openscriptures-strongs}
+    proximity: 0.7423 {macula-proximity}
   - strongs: G5078
-    proximity: 0.73
+    lemma: τέχνη
+    gloss: art {openscriptures-strongs}
+    proximity: 0.73 {macula-proximity}
   cross_language:
   - strongs: H6885
-    proximity: 0.8014
+    lemma: צֹרְפִי
+    gloss: Tsorephi {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
     language: hebrew
   - strongs: H1886a
-    proximity: 0.7737
+    proximity: 0.7737 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

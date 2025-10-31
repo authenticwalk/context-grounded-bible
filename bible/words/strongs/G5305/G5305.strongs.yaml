@@ -5,54 +5,61 @@ transliteration: hýsteron
 definition: more lately, i.e. eventually
 kjv_usage: afterward, (at the) last (of all)
 derivation: neuter of G5306 (ὕστερος) as adverb;
-extended_definition:
-  gloss: later
-  definition: (comp.) later, second; (neu.) finally, last of all <br /><b>posterior</b>,
-    in place or time; <b>subsequent, later, last, finally, last of all</b> <ref='Mat.21.31'>Mt.
-    21:31</ref>; <ref='1Ti.4.1'>1Tim. 4:1</ref>
-  morphology: G:ADV
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὕστερον</b>, τό, <br /> <b>the afterbirth,</b> [<a href="javascript:void(0)"
-    title=" 5th c.BC: Hippocrates Medicus “γυναικεῖα” 1.46, 4th c.BC: Aristoteles
-    Philosophus “Historia Animalium” 587a8, 2nd c.AD: Soranus Medicus 1.57: _plural_,
-    Hp.[same place], “Aph.” 5.49. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: '(comp.) later, second; (neu.) finally, last of all
+
+  posterior, in place or time; subsequent, later, last, finally, last of all Mt. 21:31;
+  1Tim. 4:1 {STEPBible-TBESG}'
+etymology: 'ὕστερον, τό,
+
+  the afterbirth, [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3767
-    proximity: 0.8268
+    lemma: οὖν
+    gloss: certainly {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: G3752
-    proximity: 0.8135
+    lemma: ὅταν
+    gloss: whenever {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: G1872
-    proximity: 0.8008
+    lemma: ἐπακολουθέω
+    gloss: to accompany {openscriptures-strongs}
+    proximity: 0.8008 {macula-proximity}
   - strongs: G3195
-    proximity: 0.7978
+    lemma: μέλλω
+    gloss: to intend {openscriptures-strongs}
+    proximity: 0.7978 {macula-proximity}
   - strongs: G3753
-    proximity: 0.7804
+    lemma: ὅτε
+    gloss: at which  too {openscriptures-strongs}
+    proximity: 0.7804 {macula-proximity}
   - strongs: G3694
-    proximity: 0.7547
+    lemma: ὀπίσω
+    gloss: to the back {openscriptures-strongs}
+    proximity: 0.7547 {macula-proximity}
   - strongs: A320
-    proximity: 0.7427
+    proximity: 0.7427 {macula-proximity}
   cross_language:
   - strongs: H3807a
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
     language: hebrew
   - strongs: H4279
-    proximity: 0.828
+    lemma: מָחָר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: hebrew
   - strongs: H871a
-    proximity: 0.828
+    proximity: 0.828 {macula-proximity}
     language: hebrew
   - strongs: H1973
-    proximity: 0.8035
+    lemma: הָלְאָה
+    gloss: to the distance {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
     language: hebrew
   - strongs: H7117
-    proximity: 0.7926
+    lemma: קְצָת
+    gloss: a termination {openscriptures-strongs}
+    proximity: 0.7926 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

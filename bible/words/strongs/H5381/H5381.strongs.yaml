@@ -7,50 +7,68 @@ definition: to reach (literally or figuratively)
 kjv_usage: ability, be able, attain (unto), (be able to, can) get, lay at, put, reach,
   remove, wax rich, [idiom] surely, (over-) take (hold of, on, upon).
 derivation: a primitive root;
-extended_definition:
-  gloss: to overtake
-  definition: 1) to reach, overtake, take hold upon<br>1a) (Hiphil)<br>1a1) to overtake<br>1a2)
-    to reach, attain to, cause to reach<br>1a3) to be able to secure, reach, have
-    enough
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to reach, overtake, take hold upon
+
+  1a) (Hiphil)
+
+  1a1) to overtake
+
+  1a2) to reach, attain to, cause to reach
+
+  1a3) to be able to secure, reach, have enough {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7291
-    proximity: 0.8232
+    lemma: רָדַף
+    gloss: to run after (usually with hostile intent {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H5927
-    proximity: 0.822
+    lemma: עָלָה
+    gloss: to ascend {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
   - strongs: H270
-    proximity: 0.8165
+    proximity: 0.8165 {macula-proximity}
   - strongs: H854
-    proximity: 0.8131
+    proximity: 0.8131 {macula-proximity}
   - strongs: H5973
-    proximity: 0.8103
+    lemma: עִם
+    gloss: adverb or preposition {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   - strongs: H5253
-    proximity: 0.7957
+    lemma: נָסַג
+    gloss: to retreat {openscriptures-strongs}
+    proximity: 0.7957 {macula-proximity}
   - strongs: H4672
-    proximity: 0.7946
+    lemma: מָצָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7946 {macula-proximity}
   - strongs: H1770
-    proximity: 0.7852
+    lemma: דִּיג
+    gloss: to fish {openscriptures-strongs}
+    proximity: 0.7852 {macula-proximity}
   - strongs: H5066
-    proximity: 0.7698
+    lemma: נָגַשׁ
+    gloss: to be or come (causatively {openscriptures-strongs}
+    proximity: 0.7698 {macula-proximity}
   - strongs: H935
-    proximity: 0.7697
+    proximity: 0.7697 {macula-proximity}
   cross_language:
   - strongs: G3326
-    proximity: 0.8255
+    lemma: μετά
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
     language: greek
   - strongs: G4862
-    proximity: 0.8176
+    lemma: σύν
+    gloss: with or together  or G3844 ) {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
     language: greek
   - strongs: G1904a
-    proximity: 0.8113
+    proximity: 0.8113 {macula-proximity}
     language: greek
   - strongs: G2013
-    proximity: 0.7864
+    lemma: ἐπιτυγχάνω
+    gloss: to chance upon {openscriptures-strongs}
+    proximity: 0.7864 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

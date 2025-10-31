@@ -5,62 +5,69 @@ transliteration: diodeúō
 definition: to travel through
 kjv_usage: go throughout, pass through
 derivation: from G1223 (διά) and G3593 (ὁδεύω);
-extended_definition:
-  gloss: to go through
-  definition: '<b>δι-οδεύω</b>, <BR /> [in LXX chiefly for עבר ;] <BR />__1. <b>to
-    travel through</b>: with accusative, <ref=''Act.17.1''>Act.17:1</ref> <BR /> __2.
-    <b>to travel along</b> (<ref=''Bar.4.2''>Bar.4:2</ref>, <ref=''1Ma.12.32-33''>1Ma.12:32-33</ref>):
-    <ref=''Luk.8.1''>Luk.8:1</ref>.†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> διοδ-εύω</b>, <br /> <b>travel through,</b> τὴν χώραν [<a href="javascript:void(0)"
-    title=" 2nd c.BC: Polybius Historicus 2.15.5 ">Refs 2nd c.BC+</a>]; <b>march through,</b>
-    [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus
-    “Agesilaus” 17; πανδοκεῖον 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes”
-    2.23, 26; διὰ τῶν νομῶν “OGI” 665.22 (Oasis Magna): with _genitive_, διοδεύσει
-    πάντων ἡ τύχη 1st c.AD: Josephus Historicus “Bellum Judaicum” 3.8.7: _absolutely_,
-    2nd c.AD(?): Xenophon Ephesius Scriptor Eroticus 4.1 ">Refs 1st c.AD+</a>]; <b>pass
-    away,</b> of the cause of disease, [<a href="javascript:void(0)" title=" 2nd c.AD:
-    Galenus Medicus 8.20">Refs 2nd c.AD+</a>]:—<i>passive</i>, [<a href="javascript:void(0)"
-    title=" 2nd c.AD: Soranus Medicus 2.59, “Anthologia Graeca” 9.708 (1st c.AD: Philippus
-    Epigrammaticus). ">Refs 1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δι-οδεύω,
+
+  [in LXX chiefly for עבר ;]
+
+  __1. to travel through: with accusative, Act.17:1
+
+  __2. to travel along (Bar.4:2, 1Ma.12:32-33): Luk.8:1.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'διοδ-εύω,
+
+  travel through, τὴν χώραν [Refs 2nd c.BC+]; march through, [Refs 1st c.AD+]; pass
+  away, of the cause of disease, [Refs 2nd c.AD+]:—passive, [Refs 1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A236
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
   - strongs: G4022
-    proximity: 0.8293
+    lemma: περιέρχομαι
+    gloss: to come all around {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: G2945
-    proximity: 0.825
+    lemma: κύκλῳ
+    gloss: akin to G2947 ) {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: G565
-    proximity: 0.8249
+    proximity: 0.8249 {macula-proximity}
   - strongs: A1981
-    proximity: 0.8226
+    proximity: 0.8226 {macula-proximity}
   - strongs: G5217
-    proximity: 0.8203
+    lemma: ὑπάγω
+    gloss: to lead  under {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: G3978
-    proximity: 0.8194
+    lemma: πεζεύω
+    gloss: to foot a journey {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: G1223
-    proximity: 0.8155
+    lemma: διά
+    gloss: through (in very wide applications {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: G4313
-    proximity: 0.8124
+    lemma: προπορεύομαι
+    gloss: to precede {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: G2943
-    proximity: 0.8068
+    lemma: κυκλόθεν
+    gloss: from the circle {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
   cross_language:
   - strongs: H8418
-    proximity: 0.8073
+    lemma: תַּהֲלֻכָה
+    gloss: a procession {openscriptures-strongs}
+    proximity: 0.8073 {macula-proximity}
     language: hebrew
   - strongs: H7751
-    proximity: 0.8024
+    lemma: שׁוּט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
     language: hebrew
   - strongs: H5437
-    proximity: 0.7981
+    lemma: סָבַב
+    gloss: to revolve {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

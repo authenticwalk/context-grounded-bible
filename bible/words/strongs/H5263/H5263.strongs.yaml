@@ -6,43 +6,53 @@ pronunciation: naw-sas'
 definition: to wane, i.e. be sick
 kjv_usage: faint.
 derivation: a primitive root;
-extended_definition:
-  gloss: to faint
-  definition: (Qal) to be sick
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to be sick {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4245a
-    proximity: 0.794
+    proximity: 0.794 {macula-proximity}
   - strongs: H2470
-    proximity: 0.7799
+    lemma: חָלָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7799 {macula-proximity}
   - strongs: H2456
-    proximity: 0.7477
+    lemma: חָלָא
+    gloss: to be sick {openscriptures-strongs}
+    proximity: 0.7477 {macula-proximity}
   - strongs: H4245
-    proximity: 0.7436
+    lemma: מַחֲלֶה
+    gloss: sickness {openscriptures-strongs}
+    proximity: 0.7436 {macula-proximity}
   - strongs: H8463
-    proximity: 0.7019
+    lemma: תַּחֲלוּא
+    gloss: a malady {openscriptures-strongs}
+    proximity: 0.7019 {macula-proximity}
   - strongs: H2483
-    proximity: 0.7019
+    lemma: חֳלִי
+    gloss: malady {openscriptures-strongs}
+    proximity: 0.7019 {macula-proximity}
   cross_language:
   - strongs: G2577
-    proximity: 0.8137
+    lemma: κάμνω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
     language: greek
   - strongs: G772
-    proximity: 0.8029
+    proximity: 0.8029 {macula-proximity}
     language: greek
   - strongs: G3552
-    proximity: 0.7976
+    lemma: νοσέω
+    gloss: to be sick {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
     language: greek
   - strongs: G3119
-    proximity: 0.7422
+    lemma: μαλακία
+    gloss: softness {openscriptures-strongs}
+    proximity: 0.7422 {macula-proximity}
     language: greek
   - strongs: G2560
-    proximity: 0.7404
+    lemma: κακῶς
+    gloss: badly {openscriptures-strongs}
+    proximity: 0.7404 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

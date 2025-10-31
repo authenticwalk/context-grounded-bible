@@ -6,48 +6,58 @@ pronunciation: mak-ko'-leth
 definition: nourishment
 kjv_usage: food.
 derivation: from H398 (אָכַל);
-extended_definition:
-  gloss: food
-  definition: food, food stuff
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: food, food stuff {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2557
-    proximity: 0.8225
+    lemma: חָמֵץ
+    gloss: ferment {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: H4544
-    proximity: 0.8222
+    lemma: מִסְכֵּנֻת
+    gloss: indigence {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H1786
-    proximity: 0.8051
+    lemma: דַּיִשׁ
+    gloss: threshing-time {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
   - strongs: H398
-    proximity: 0.8047
+    proximity: 0.8047 {macula-proximity}
   - strongs: H4864
-    proximity: 0.7928
+    lemma: מַשְׂאֵת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7928 {macula-proximity}
   - strongs: H5669
-    proximity: 0.7917
+    lemma: עָבוּר
+    gloss: passed {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: H2706
-    proximity: 0.7773
+    lemma: חֹק
+    gloss: an enactment {openscriptures-strongs}
+    proximity: 0.7773 {macula-proximity}
   - strongs: H8602a
-    proximity: 0.7751
+    proximity: 0.7751 {macula-proximity}
   - strongs: H1715
-    proximity: 0.7606
+    lemma: דָּגָן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7606 {macula-proximity}
   - strongs: H3557
-    proximity: 0.7519
+    lemma: כּוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7519 {macula-proximity}
   cross_language:
   - strongs: G777
-    proximity: 0.7898
+    proximity: 0.7898 {macula-proximity}
     language: greek
   - strongs: G1494
-    proximity: 0.787
+    lemma: εἰδωλόθυτον
+    gloss: an image-sacrifice {openscriptures-strongs}
+    proximity: 0.787 {macula-proximity}
     language: greek
   - strongs: G4621a
-    proximity: 0.7847
+    proximity: 0.7847 {macula-proximity}
     language: greek
   - strongs: G776
-    proximity: 0.7677
+    proximity: 0.7677 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

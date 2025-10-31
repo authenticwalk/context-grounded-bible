@@ -7,35 +7,45 @@ definition: something enclosing, i.e. a margin (of a region, of a panel); concre
   a stronghold
 kjv_usage: border, close place, hole.
 derivation: from H5462 (סָגַר);
-extended_definition:
-  gloss: perimeter
-  definition: 1) border, fastness, rim<br>1a) border, rim<br>1b) fastness
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) border, fastness, rim
+
+  1a) border, rim
+
+  1b) fastness {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4692a
-    proximity: 0.8288
+    proximity: 0.8288 {macula-proximity}
   - strongs: H7948
-    proximity: 0.824
+    lemma: שָׁלָב
+    gloss: a spacer or raised interval {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: H2213
-    proximity: 0.8235
+    lemma: זֵר
+    gloss: a chaplet {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: H759
-    proximity: 0.8117
+    proximity: 0.8117 {macula-proximity}
   - strongs: H4869
-    proximity: 0.8068
+    lemma: מִשְׂגָּב
+    gloss: defence {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
   - strongs: H5603
-    proximity: 0.8
+    lemma: סָפַן
+    gloss: to hide by covering {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: H1225
-    proximity: 0.7525
+    lemma: בִּצָּרוֹן
+    gloss: a fortress {openscriptures-strongs}
+    proximity: 0.7525 {macula-proximity}
   - strongs: H4581
-    proximity: 0.7465
+    lemma: מָעוֹז
+    gloss: a fortified place {openscriptures-strongs}
+    proximity: 0.7465 {macula-proximity}
   - strongs: H4686c
-    proximity: 0.7394
+    proximity: 0.7394 {macula-proximity}
   - strongs: H8260
-    proximity: 0.7352
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: שֶׁקֶף
+    gloss: a loophole {openscriptures-strongs}
+    proximity: 0.7352 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

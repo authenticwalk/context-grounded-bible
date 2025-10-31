@@ -6,34 +6,42 @@ pronunciation: mah-ar-awb'
 definition: traffic; by implication, mercantile goods
 kjv_usage: market, merchandise.
 derivation: from H6148 (עָרַב), in the sense of trading;
-extended_definition:
-  gloss: merchandise
-  definition: merchandise, articles of exchange
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: merchandise, articles of exchange {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8545
-    proximity: 0.8247
+    lemma: תְּמוּרָה
+    gloss: barter {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H7402
-    proximity: 0.8081
+    lemma: רָכַל
+    gloss: to travel for trading {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
   - strongs: H7399
-    proximity: 0.7846
+    lemma: רְכוּשׁ
+    gloss: property {openscriptures-strongs}
+    proximity: 0.7846 {macula-proximity}
   - strongs: H4536
-    proximity: 0.7615
+    lemma: מִסְחָר
+    gloss: trade {openscriptures-strongs}
+    proximity: 0.7615 {macula-proximity}
   - strongs: H8667
-    proximity: 0.751
+    lemma: תְּשׂוּמֶת
+    gloss: a deposit {openscriptures-strongs}
+    proximity: 0.751 {macula-proximity}
   - strongs: H4360
-    proximity: 0.7474
+    lemma: מִכְלֻל
+    gloss: something perfect {openscriptures-strongs}
+    proximity: 0.7474 {macula-proximity}
   cross_language:
   - strongs: G5413
-    proximity: 0.7519
+    lemma: φορτίον
+    gloss: an invoice {openscriptures-strongs}
+    proximity: 0.7519 {macula-proximity}
     language: greek
   - strongs: G1546
-    proximity: 0.7371
+    lemma: ἐκβολή
+    gloss: ejection {openscriptures-strongs}
+    proximity: 0.7371 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

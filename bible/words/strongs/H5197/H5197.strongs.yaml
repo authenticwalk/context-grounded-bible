@@ -7,48 +7,69 @@ definition: to ooze, i.e. distil gradually; by implication, to fall in drops; fi
   to speak by inspiration
 kjv_usage: drop(-ping), prophesy(-et).
 derivation: a primitive root;
-extended_definition:
-  gloss: to drip/prophesy
-  definition: 1) to drop, drip, distil, prophesy, preach, discourse<br>1a) (Qal) to
-    drop, drip<br>1b) (Hiphil)<br>1b1) to drip<br>1b2) to drop (prophecy)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to drop, drip, distil, prophesy, preach, discourse
+
+  1a) (Qal) to drop, drip
+
+  1b) (Hiphil)
+
+  1b1) to drip
+
+  1b2) to drop (prophecy) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5031
-    proximity: 0.8232
+    lemma: נְבִיאָה
+    gloss: a prophetess or  inspired woman {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H1812
-    proximity: 0.8222
+    lemma: דֶּלֶף
+    gloss: a dripping {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H2374
-    proximity: 0.8217
+    lemma: חֹזֶה
+    gloss: a beholder in vision {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
   - strongs: H2229a
-    proximity: 0.799
+    proximity: 0.799 {macula-proximity}
   - strongs: A5013
-    proximity: 0.7978
+    proximity: 0.7978 {macula-proximity}
   - strongs: H1652
-    proximity: 0.7838
+    lemma: גָּשַׁם
+    gloss: to shower violently {openscriptures-strongs}
+    proximity: 0.7838 {macula-proximity}
   - strongs: H3381
-    proximity: 0.7825
+    lemma: יָרַד
+    gloss: to descend (literally {openscriptures-strongs}
+    proximity: 0.7825 {macula-proximity}
   - strongs: H1696
-    proximity: 0.7794
+    lemma: דָבַר
+    gloss: perhaps properly {openscriptures-strongs}
+    proximity: 0.7794 {macula-proximity}
   cross_language:
   - strongs: G4293
-    proximity: 0.8182
+    lemma: προκαταγγέλλω
+    gloss: to anounce beforehand {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: greek
   - strongs: G1026
-    proximity: 0.7994
+    lemma: βρέχω
+    gloss: to moisten {openscriptures-strongs}
+    proximity: 0.7994 {macula-proximity}
     language: greek
   - strongs: G2361
-    proximity: 0.7922
+    lemma: θρόμβος
+    gloss: a clot {openscriptures-strongs}
+    proximity: 0.7922 {macula-proximity}
     language: greek
   - strongs: G4268
-    proximity: 0.7772
+    lemma: πρόγνωσις
+    gloss: forethought {openscriptures-strongs}
+    proximity: 0.7772 {macula-proximity}
     language: greek
   - strongs: G5350
-    proximity: 0.7709
+    lemma: φθέγγομαι
+    gloss: to utter a clear sound {openscriptures-strongs}
+    proximity: 0.7709 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

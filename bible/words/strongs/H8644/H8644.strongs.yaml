@@ -6,31 +6,35 @@ pronunciation: ter-oo-faw'
 definition: a remedy
 kjv_usage: medicine.
 derivation: from H7322 (רוּף) in the sense of its congener H7495 (רָפָא);
-extended_definition:
-  gloss: healing
-  definition: healing
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: healing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4832
-    proximity: 0.7997
+    lemma: מַרְפֵּא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
   - strongs: H7495
-    proximity: 0.7448
+    lemma: רָפָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7448 {macula-proximity}
   - strongs: H3545
-    proximity: 0.7277
+    lemma: כֵּהָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7277 {macula-proximity}
   - strongs: H7500
-    proximity: 0.7222
+    lemma: רִפְאוּת
+    gloss: a cure {openscriptures-strongs}
+    proximity: 0.7222 {macula-proximity}
   - strongs: H1455
-    proximity: 0.7138
+    lemma: גָּהָה
+    gloss: to remove (a bandage from a wound {openscriptures-strongs}
+    proximity: 0.7138 {macula-proximity}
   - strongs: H8585a
-    proximity: 0.7125
+    proximity: 0.7125 {macula-proximity}
   cross_language:
   - strongs: G2322
-    proximity: 0.7481
+    lemma: θεραπεία
+    gloss: attendance (specially {openscriptures-strongs}
+    proximity: 0.7481 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

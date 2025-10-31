@@ -14,36 +14,47 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H6963
-    proximity: 0.8254
+    lemma: קוֹל
+    gloss: a voice or sound {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: H14
-    proximity: 0.821
+    proximity: 0.821 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8174
+    proximity: 0.8174 {macula-proximity}
   - strongs: H5749a
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
   - strongs: H413
-    proximity: 0.8121
+    proximity: 0.8121 {macula-proximity}
   - strongs: H4513
-    proximity: 0.8071
+    lemma: מָנַע
+    gloss: to debar  from benefit or injury {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
   - strongs: H5414
-    proximity: 0.8014
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
   cross_language:
   - strongs: G4483
-    proximity: 0.8278
+    lemma: ῥέω
+    gloss: to utter {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G3802
-    proximity: 0.8269
+    lemma: παγιδεύω
+    gloss: to ensnare {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
     language: greek
   - strongs: G349
-    proximity: 0.8239
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G1583
-    proximity: 0.8229
+    lemma: ἐκλαλέω
+    gloss: to divulge {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G4828
-    proximity: 0.8216
+    lemma: συμμαρτυρέω
+    gloss: to testify jointly {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

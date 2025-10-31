@@ -6,23 +6,17 @@ pronunciation: mif-lawce'
 definition: a poising
 kjv_usage: balancing.
 derivation: from an unused root meaning to balance;
-extended_definition:
-  gloss: swaying
-  definition: swaying, poising, balancing
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: swaying, poising, balancing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A3977
-    proximity: 0.7867
+    proximity: 0.7867 {macula-proximity}
   - strongs: H3976
-    proximity: 0.7612
+    lemma: מֹאזֵן
+    gloss: a pair of scales {openscriptures-strongs}
+    proximity: 0.7612 {macula-proximity}
   cross_language:
   - strongs: G83
-    proximity: 0.714
+    proximity: 0.714 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

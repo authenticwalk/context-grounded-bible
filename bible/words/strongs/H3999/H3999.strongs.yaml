@@ -6,41 +6,55 @@ pronunciation: mab-bool'
 definition: a deluge
 kjv_usage: flood.
 derivation: from H2986 (יָבַל) in the sense of flowing;
-extended_definition:
-  gloss: flood
-  definition: 1) flood, deluge.<br>1a) Noah's flood that submerged the entire planet
-    earth under water for about a year
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) flood, deluge.
+
+  1a) Noah''s flood that submerged the entire planet earth under water for about a
+  year {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2975
-    proximity: 0.8214
+    lemma: יְאֹר
+    gloss: a channel {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H6687
-    proximity: 0.8163
+    lemma: צוּף
+    gloss: to overflow {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
   - strongs: H2602
-    proximity: 0.7781
+    lemma: חֲנָמָל
+    gloss: perhaps the aphis or plantlouse {openscriptures-strongs}
+    proximity: 0.7781 {macula-proximity}
   - strongs: H5158
-    proximity: 0.7448
+    lemma: נַחַל
+    gloss: a stream {openscriptures-strongs}
+    proximity: 0.7448 {macula-proximity}
   - strongs: H5104
-    proximity: 0.7234
+    lemma: נָהָר
+    gloss: a stream (including the sea {openscriptures-strongs}
+    proximity: 0.7234 {macula-proximity}
   - strongs: H7811
-    proximity: 0.7126
+    lemma: שָׂחָה
+    gloss: to swim {openscriptures-strongs}
+    proximity: 0.7126 {macula-proximity}
   cross_language:
   - strongs: G1337
-    proximity: 0.8278
+    lemma: διθάλασσος
+    gloss: having two seas {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G2626
-    proximity: 0.7563
+    lemma: κατακλύζω
+    gloss: to dash  down {openscriptures-strongs}
+    proximity: 0.7563 {macula-proximity}
     language: greek
   - strongs: G4216
-    proximity: 0.7497
+    lemma: ποταμοφόρητος
+    gloss: river-borne {openscriptures-strongs}
+    proximity: 0.7497 {macula-proximity}
     language: greek
   - strongs: G4215
-    proximity: 0.716
+    lemma: ποταμός
+    gloss: a current {openscriptures-strongs}
+    proximity: 0.716 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

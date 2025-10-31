@@ -6,57 +6,67 @@ definition: dispersion, i.e. (specially and concretely) the (converted) Israelit
   resident in Gentile countries
 kjv_usage: (which are) scattered (abroad)
 derivation: from G1289 (διασπείρω);
-extended_definition:
-  gloss: dispersion
-  definition: '<b>δια-σπορά</b>, -ᾶς, ἡ<BR /> (διασπείρω), [in LXX of Israelites dispersed
-    and exiled in foreign lands, as <ref=''Deu.28.25''>Deu.28:25</ref> (זַעֲוָה) <ref=''Deu.30.4''>Deu.30:4</ref>
-    (נָדַח ni.), <ref=''Isa.49.6''>Isa.49:6</ref> (נער); by meton., of the exiles
-    themselves (as <ref=''Psa.147.2''>Psa.147:2</ref>, <ref=''2Ma.1.27''>2Ma.1:27</ref>)
-    ;] <BR /><b>a dispersion</b>: δ. τῶν Ἑλλήνων, <ref=''Jhn.7.35''>Jhn.7:35;</ref>
-    metaphorically, of Christians (<i>DB</i>, iii, 782 f.), <ref=''Jas.1.1''>Jas.1:1</ref>,
-    <ref=''1Pe.1.1''>1Pe.1:1</ref> (see Hort, in ll).†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> διασπορ-ά</b>, ἡ, <br /> (διασπείρω) <b>scattering, dispersion,</b>
-    [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus
-    2.1105a, LXX.Jer.15.7; δ. ψυχική 1st c.AD: Philo Judaeus 2.426. ">LXX+1st c.AD+</a>]<br
-    /><Level3><b>__2</b></Level3> collectively, ={οἱ διεσπαρμένοι}, [<a href="javascript:void(0)"
-    title=" LXX.Deu.28.25, NT.John.7.35: _plural_, LXX.Psa.146(147).2. ">LXX+NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δια-σπορά, -ᾶς, ἡ
+
+  (διασπείρω), [in LXX of Israelites dispersed and exiled in foreign lands, as Deu.28:25
+  (זַעֲוָה) Deu.30:4 (נָדַח ni.), Isa.49:6 (נער); by meton., of the exiles themselves
+  (as Psa.147:2, 2Ma.1:27) ;]
+
+  a dispersion: δ. τῶν Ἑλλήνων, Jhn.7:35; metaphorically, of Christians (DB, iii,
+  782 f.), Jas.1:1, 1Pe.1:1 (see Hort, in ll).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'διασπορ-ά, ἡ,
+
+  (διασπείρω) scattering, dispersion, [LXX+1st c.AD+]
+
+  __2 collectively, ={οἱ διεσπαρμένοι}, [LXX+NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3927
-    proximity: 0.8262
+    lemma: παρεπίδημος
+    gloss: an alien alongside {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: G1268
-    proximity: 0.7983
+    lemma: διανέμω
+    gloss: to distribute {openscriptures-strongs}
+    proximity: 0.7983 {macula-proximity}
   - strongs: G2449
-    proximity: 0.7717
+    lemma: Ἰουδαία
+    gloss: the Judæan land {openscriptures-strongs}
+    proximity: 0.7717 {macula-proximity}
   - strongs: A921
-    proximity: 0.7312
+    proximity: 0.7312 {macula-proximity}
   - strongs: G1262
-    proximity: 0.725
+    lemma: διαλύω
+    gloss: to dissolve utterly {openscriptures-strongs}
+    proximity: 0.725 {macula-proximity}
   - strongs: A3062
-    proximity: 0.7152
+    proximity: 0.7152 {macula-proximity}
   cross_language:
   - strongs: H2505
-    proximity: 0.8112
+    lemma: חָלַק
+    gloss: to be smooth {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
     language: hebrew
   - strongs: H6504
-    proximity: 0.7977
+    lemma: פָּרַד
+    gloss: to break through {openscriptures-strongs}
+    proximity: 0.7977 {macula-proximity}
     language: hebrew
   - strongs: H6385
-    proximity: 0.7869
+    lemma: פָּלַג
+    gloss: to split {openscriptures-strongs}
+    proximity: 0.7869 {macula-proximity}
     language: hebrew
   - strongs: H8600
-    proximity: 0.783
+    lemma: תְּפוֹצָה
+    gloss: a dispersal {openscriptures-strongs}
+    proximity: 0.783 {macula-proximity}
     language: hebrew
   - strongs: H6335
-    proximity: 0.7411
+    lemma: פּוּשׁ
+    gloss: to spread {openscriptures-strongs}
+    proximity: 0.7411 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,25 +7,26 @@ definition: properly, to distribute, i.e. determine by lot or magical scroll; by
   to divine
 kjv_usage: divine(-r, -ation), prudent, soothsayer, use (divination).
 derivation: a primitive root;
-extended_definition:
-  gloss: to divine
-  definition: 1) (Qal) to practice divination, divine<br>1a) of diviners of the nations,
-    Balaam<br>1b) of false prophets of Israel<br>1c) prohibited
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Qal) to practice divination, divine
+
+  1a) of diviners of the nations, Balaam
+
+  1b) of false prophets of Israel
+
+  1c) prohibited {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4853a
-    proximity: 0.7922
+    proximity: 0.7922 {macula-proximity}
   cross_language:
   - strongs: G3097
-    proximity: 0.8213
+    lemma: μάγος
+    gloss: a Magian {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
     language: greek
   - strongs: G3132
-    proximity: 0.7695
+    lemma: μαντεύομαι
+    gloss: to divine {openscriptures-strongs}
+    proximity: 0.7695 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

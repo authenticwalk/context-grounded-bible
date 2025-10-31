@@ -6,43 +6,55 @@ pronunciation: zaw-rab'
 definition: to flow away
 kjv_usage: wax warm.
 derivation: a primitive root;
-extended_definition:
-  gloss: to burn
-  definition: (Pual) to dry up, be warmed, be burned, be scorched
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Pual) to dry up, be warmed, be burned, be scorched {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3004
-    proximity: 0.83
+    lemma: יַבָּשָׁה
+    gloss: dry ground {openscriptures-strongs}
+    proximity: 0.83 {macula-proximity}
   - strongs: H2787a
-    proximity: 0.8035
+    proximity: 0.8035 {macula-proximity}
   - strongs: H2717
-    proximity: 0.7991
+    lemma: חָרַב
+    gloss: to parch  i.e. (by analogy {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: H6784
-    proximity: 0.7974
+    lemma: צָמַק
+    gloss: to dry up {openscriptures-strongs}
+    proximity: 0.7974 {macula-proximity}
   - strongs: H3001
-    proximity: 0.7826
+    lemma: יָבֵשׁ
+    gloss: to be ashamed {openscriptures-strongs}
+    proximity: 0.7826 {macula-proximity}
   - strongs: H6723
-    proximity: 0.7811
+    lemma: צִיָּה
+    gloss: aridity {openscriptures-strongs}
+    proximity: 0.7811 {macula-proximity}
   - strongs: H3002
-    proximity: 0.7372
+    lemma: יָבֵשׁ
+    gloss: dry {openscriptures-strongs}
+    proximity: 0.7372 {macula-proximity}
   - strongs: H2724
-    proximity: 0.7363
+    lemma: חָרָבָה
+    gloss: a desert {openscriptures-strongs}
+    proximity: 0.7363 {macula-proximity}
   - strongs: H2552
-    proximity: 0.735
+    lemma: חָמַם
+    gloss: to be hot {openscriptures-strongs}
+    proximity: 0.735 {macula-proximity}
   cross_language:
   - strongs: G1591
-    proximity: 0.8214
+    lemma: ἐκμάσσω
+    gloss: to knead out {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
     language: greek
   - strongs: G504
-    proximity: 0.7876
+    proximity: 0.7876 {macula-proximity}
     language: greek
   - strongs: G2328
-    proximity: 0.7094
+    lemma: θερμαίνω
+    gloss: to heat {openscriptures-strongs}
+    proximity: 0.7094 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

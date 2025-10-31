@@ -10,57 +10,97 @@ kjv_usage: '[idiom] be, keep in bondage, be bondmen, bond-service, compel, do, d
   to, make to) serve(-ing, self), (be, become) servant(-s), do (use) service, till(-er),
   transgress (from margin), (set a) work, be wrought, worshipper,'
 derivation: a primitive root;
-extended_definition:
-  gloss: 'to serve: burden'
-  definition: ': burden<br>1) to work, serve<br>1a) (Qal)<br>1a1) to labour, work,
-    do work<br>1a2) to work for another, serve another by labour<br>1a3) to serve
-    as subjects<br>1a4) to serve (God)<br>1a5) to serve (with Levitical service)<br>1b)
-    (Niphal)<br>1b1) to be worked, be tilled (of land)<br>1b2) to make oneself a servant<br>1c)
-    (Pual) to be worked<br>1d) (Hiphil)<br>1d1) to compel to labour or work, cause
-    to labour, cause to serve<br>1d2) to cause to serve as subjects<br>1e) (Hophal)
-    to be led or enticed to serve'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': burden
+
+  1) to work, serve
+
+  1a) (Qal)
+
+  1a1) to labour, work, do work
+
+  1a2) to work for another, serve another by labour
+
+  1a3) to serve as subjects
+
+  1a4) to serve (God)
+
+  1a5) to serve (with Levitical service)
+
+  1b) (Niphal)
+
+  1b1) to be worked, be tilled (of land)
+
+  1b2) to make oneself a servant
+
+  1c) (Pual) to be worked
+
+  1d) (Hiphil)
+
+  1d1) to compel to labour or work, cause to labour, cause to serve
+
+  1d2) to cause to serve as subjects
+
+  1e) (Hophal) to be led or enticed to serve {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5674
-    proximity: 0.8282
+    lemma: עָבַר
+    gloss: to cross over {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H1103
-    proximity: 0.8247
+    lemma: בָּלַס
+    gloss: to pinch sycamore figs {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H6466
-    proximity: 0.8233
+    lemma: פָּעַל
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H871a
-    proximity: 0.8227
+    proximity: 0.8227 {macula-proximity}
   - strongs: H7812a
-    proximity: 0.8153
+    proximity: 0.8153 {macula-proximity}
   - strongs: H6045
-    proximity: 0.815
+    lemma: עִנְיָן
+    gloss: ado {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: H5450
-    proximity: 0.8142
+    lemma: סְבָלָה
+    gloss: porterage {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: H5657
-    proximity: 0.8131
+    lemma: עֲבֻדָּה
+    gloss: something wrought {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
   - strongs: H6467
-    proximity: 0.8122
+    lemma: פֹּעַל
+    gloss: an act or work {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
   - strongs: A5457
-    proximity: 0.8121
+    proximity: 0.8121 {macula-proximity}
   cross_language:
   - strongs: G4574
-    proximity: 0.8268
+    lemma: σέβασμα
+    gloss: something adored {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: greek
   - strongs: G2599
-    proximity: 0.8248
+    lemma: καταβαρέω
+    gloss: to impose upon {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: greek
   - strongs: G4374
-    proximity: 0.821
+    lemma: προσφέρω
+    gloss: to bear towards {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: greek
   - strongs: G1091
-    proximity: 0.8191
+    lemma: γεώργιον
+    gloss: cultivable {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
     language: greek
   - strongs: G1722
-    proximity: 0.8107
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.8107 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

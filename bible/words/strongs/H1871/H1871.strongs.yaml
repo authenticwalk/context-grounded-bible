@@ -6,36 +6,43 @@ pronunciation: dar-kem-one'
 definition: a 'drachma', or coin
 kjv_usage: dram.
 derivation: of Persian origin;
-extended_definition:
-  gloss: drachma
-  definition: 1) daric, drachma, dram, unit of measure<br>1a) a gold coin current
-    in Palestine in the period after the return from Babylon; 128 grains (8.32 grams)
-    of gold and 128 grains of silver
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) daric, drachma, dram, unit of measure
+
+  1a) a gold coin current in Palestine in the period after the return from Babylon;
+  128 grains (8.32 grams) of gold and 128 grains of silver {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8083
-    proximity: 0.8178
+    lemma: שְׁמֹנֶה
+    gloss: a cardinal number {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   - strongs: H8346
-    proximity: 0.8106
+    lemma: שִׁשִּׁים
+    gloss: sixty {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
   - strongs: H8084
-    proximity: 0.8078
+    lemma: שְׁמֹנִים
+    gloss: eighty {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   cross_language:
   - strongs: G2772
-    proximity: 0.8194
+    lemma: κέρμα
+    gloss: a clipping {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G3546
-    proximity: 0.8194
+    lemma: νόμισμα
+    gloss: what is reckoned as of value {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G1835
-    proximity: 0.8107
+    lemma: ἑξήκοντα
+    gloss: sixty {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
     language: greek
   - strongs: G1406
-    proximity: 0.7096
+    lemma: δραχμή
+    gloss: a drachma or  coin {openscriptures-strongs}
+    proximity: 0.7096 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

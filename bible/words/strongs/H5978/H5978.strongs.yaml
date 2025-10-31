@@ -7,38 +7,47 @@ definition: along with
 kjv_usage: against, by, from, [phrase] me, [phrase] mine, of, [phrase] that I take,
   unto, upon, with(-in.)
 derivation: prolonged for H5973 (עִם);
-extended_definition:
-  gloss: with me
-  definition: with<BR>A grammatical form of <i>im</i> (עִם "with" H5973A) <BR> § 1)
-    with<br>
-  morphology: H:Prep
-  source: STEPBible/BDB
+extended_definition: 'with
+
+  A grammatical form of im (עִם "with" H5973A)
+
+  § 1) with {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1107
-    proximity: 0.8265
+    lemma: בִּלְעֲדֵי
+    gloss: except {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H5704
-    proximity: 0.824
+    lemma: עַד
+    gloss: as far (or long {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: H4605
-    proximity: 0.8219
+    lemma: מַעַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   cross_language:
   - strongs: G1782
-    proximity: 0.8297
+    lemma: ἐντεῦθεν
+    gloss: hence {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G847
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G2852
-    proximity: 0.8296
+    lemma: κολαφίζω
+    gloss: to rap with the fist {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G1510
-    proximity: 0.8279
+    lemma: εἰμί
+    gloss: I exist {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G3327
-    proximity: 0.8278
+    lemma: μεταβαίνω
+    gloss: to change place {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

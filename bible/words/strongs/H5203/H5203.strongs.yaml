@@ -9,46 +9,67 @@ definition: properly, to pound, i.e. smite; by implication (as if beating out, a
 kjv_usage: cast off, drawn, let fall, forsake, join (battle), leave (off), lie still,
   loose, spread (self) abroad, stretch out, suffer.
 derivation: a primitive root;
-extended_definition:
-  gloss: to leave
-  definition: 1) to leave, permit, forsake, cast off or away, reject, suffer, join,
-    spread out or abroad, be loosed, cease, abandon, quit, hang loose, cast down,
-    make a raid, lie fallow, let fall, forgo, draw<br>1a) (Qal)<br>1a1) to leave,
-    let alone, lie fallow, entrust to<br>1a2) to forsake, abandon<br>1a3) to permit<br>1b)
-    (Niphal)<br>1b1) to be forsaken<br>1b2) to be loosened, be loose<br>1b3) to be
-    let go, spread abroad<br>1c) (Pual) to be abandoned, be deserted
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to leave, permit, forsake, cast off or away, reject, suffer,
+  join, spread out or abroad, be loosed, cease, abandon, quit, hang loose, cast down,
+  make a raid, lie fallow, let fall, forgo, draw
+
+  1a) (Qal)
+
+  1a1) to leave, let alone, lie fallow, entrust to
+
+  1a2) to forsake, abandon
+
+  1a3) to permit
+
+  1b) (Niphal)
+
+  1b1) to be forsaken
+
+  1b2) to be loosened, be loose
+
+  1b3) to be let go, spread abroad
+
+  1c) (Pual) to be abandoned, be deserted {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6852
-    proximity: 0.8264
+    lemma: צָפַר
+    gloss: to skip about {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H2310
-    proximity: 0.8232
+    lemma: חָדֵל
+    gloss: vacant {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: A921
-    proximity: 0.8217
+    proximity: 0.8217 {macula-proximity}
   - strongs: H5800a
-    proximity: 0.8202
+    proximity: 0.8202 {macula-proximity}
   - strongs: H3498
-    proximity: 0.8179
+    lemma: יָתַר
+    gloss: to jut over or exceed {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
   cross_language:
   - strongs: G1287
-    proximity: 0.83
+    lemma: διασκορπίζω
+    gloss: to dissipate {openscriptures-strongs}
+    proximity: 0.83 {macula-proximity}
     language: greek
   - strongs: G3868
-    proximity: 0.8293
+    lemma: παραιτέομαι
+    gloss: to beg off {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G1633
-    proximity: 0.8286
+    lemma: ἐκχωρέω
+    gloss: to depart {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G654
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G1544
-    proximity: 0.8278
+    lemma: ἐκβάλλω
+    gloss: to eject {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

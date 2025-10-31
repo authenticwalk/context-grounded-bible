@@ -6,43 +6,49 @@ pronunciation: pawz
 definition: pure (gold); hence, gold itself (as refined)
 kjv_usage: fine (pure) gold.
 derivation: from H6338 (פָּזַז);
-extended_definition:
-  gloss: pure gold
-  definition: refined or pure gold
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: refined or pure gold {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A3702
-    proximity: 0.8244
+    proximity: 0.8244 {macula-proximity}
   - strongs: H6669
-    proximity: 0.8239
+    lemma: צָהֹב
+    gloss: golden in color {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: H2134
-    proximity: 0.8136
+    lemma: זַךְ
+    gloss: clear {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: H3422
-    proximity: 0.7994
+    lemma: יְרַקְרַק
+    gloss: yellowishness {openscriptures-strongs}
+    proximity: 0.7994 {macula-proximity}
   - strongs: H2830
-    proximity: 0.7627
+    lemma: חַשְׁמַל
+    gloss: probably bronze or polished spectrum metal {openscriptures-strongs}
+    proximity: 0.7627 {macula-proximity}
   - strongs: H5537
-    proximity: 0.749
+    lemma: סָלָא
+    gloss: to suspend in a balance {openscriptures-strongs}
+    proximity: 0.749 {macula-proximity}
   cross_language:
   - strongs: G4101
-    proximity: 0.8265
+    lemma: πιστικός
+    gloss: trustworthy {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
     language: greek
   - strongs: G53
-    proximity: 0.8207
+    proximity: 0.8207 {macula-proximity}
     language: greek
   - strongs: G5554
-    proximity: 0.8044
+    lemma: χρυσοδακτύλιος
+    gloss: gold-ringed {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
     language: greek
   - strongs: G5552a
-    proximity: 0.7792
+    proximity: 0.7792 {macula-proximity}
     language: greek
   - strongs: G97
-    proximity: 0.7622
+    proximity: 0.7622 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

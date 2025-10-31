@@ -5,40 +5,46 @@ transliteration: Droúsilla
 definition: Drusilla, a member of the Herodian family
 kjv_usage: Drusilla
 derivation: a feminine diminutive of Drusus (a Roman name);
-extended_definition:
-  gloss: Drusilla
-  definition: '<b>Δρούσιλλα</b> (Rec. Δρουσίλλα), ης, ἡ <BR /> <b>Drusilla</b>, wife
-    of Felix: <ref=''Act.24.24.''>Act.24:24.</ref>†<BR /> (AS)'
-  morphology: N:N-F-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Δρούσιλλα</b> (Rec. Δρουσίλλα), ης, ἡ <BR /> <b>Drusilla</b>,
-    wife of Felix: <ref=''Act.24.24.''>Act.24:24.</ref>†<BR />  (From Abbott-Smith.
-    LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Δρούσιλλα (Rec. Δρουσίλλα), ης, ἡ
+
+  Drusilla, wife of Felix: Act.24:24.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Δρούσιλλα (Rec. Δρουσίλλα), ης, ἡ
+
+  Drusilla, wife of Felix: Act.24:24.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2996
-    proximity: 0.825
+    lemma: Λασαία
+    gloss: Lasæa {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: G4610
-    proximity: 0.809
+    lemma: Σιλουανός
+    gloss: '"silvan" {openscriptures-strongs}'
+    proximity: 0.809 {macula-proximity}
   - strongs: A1757
-    proximity: 0.8062
+    proximity: 0.8062 {macula-proximity}
   - strongs: G4609
-    proximity: 0.7923
+    lemma: Σίλας
+    gloss: Silas {openscriptures-strongs}
+    proximity: 0.7923 {macula-proximity}
   cross_language:
   - strongs: H8294
-    proximity: 0.8059
+    lemma: שֶׂרַח
+    gloss: Serach {openscriptures-strongs}
+    proximity: 0.8059 {macula-proximity}
     language: hebrew
   - strongs: H5516
-    proximity: 0.7926
+    lemma: סִיסְרָא
+    gloss: Sisera {openscriptures-strongs}
+    proximity: 0.7926 {macula-proximity}
     language: hebrew
   - strongs: H5554
-    proximity: 0.769
+    lemma: סֶלַע
+    gloss: Sela {openscriptures-strongs}
+    proximity: 0.769 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

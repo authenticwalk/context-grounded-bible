@@ -9,39 +9,52 @@ derivation: erroneously שָׁבַר; (Nehemiah 2:13,15), a primitive root;
 related_words:
   synonyms:
   - strongs: A5191
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
   - strongs: H693
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
   - strongs: H2837
-    proximity: 0.8206
+    lemma: חֵשֶׁק
+    gloss: delight {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: H413
-    proximity: 0.8197
+    proximity: 0.8197 {macula-proximity}
   - strongs: H4102
-    proximity: 0.8009
+    lemma: מָהַהּ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8009 {macula-proximity}
   - strongs: H8245
-    proximity: 0.7961
+    lemma: שָׁקַד
+    gloss: to be alert {openscriptures-strongs}
+    proximity: 0.7961 {macula-proximity}
   - strongs: H3993
-    proximity: 0.7951
+    lemma: מַאֲרָב
+    gloss: an ambuscade {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
   - strongs: H695
-    proximity: 0.7843
+    proximity: 0.7843 {macula-proximity}
   - strongs: H5027
-    proximity: 0.7748
+    lemma: נָבַט
+    gloss: to scan {openscriptures-strongs}
+    proximity: 0.7748 {macula-proximity}
   - strongs: H1747
-    proximity: 0.7508
+    lemma: דּוּמִיָּה
+    gloss: stillness {openscriptures-strongs}
+    proximity: 0.7508 {macula-proximity}
   cross_language:
   - strongs: G578
-    proximity: 0.7988
+    proximity: 0.7988 {macula-proximity}
     language: greek
   - strongs: G2172
-    proximity: 0.7803
+    lemma: εὔχομαι
+    gloss: to wish {openscriptures-strongs}
+    proximity: 0.7803 {macula-proximity}
     language: greek
   - strongs: G4276
-    proximity: 0.7487
+    lemma: προελπίζω
+    gloss: to hope in advance of other confirmation {openscriptures-strongs}
+    proximity: 0.7487 {macula-proximity}
     language: greek
   - strongs: G603
-    proximity: 0.7393
+    proximity: 0.7393 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

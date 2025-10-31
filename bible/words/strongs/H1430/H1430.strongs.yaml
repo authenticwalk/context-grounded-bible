@@ -9,20 +9,29 @@ derivation: from an unused root (meaning to heap up);
 related_words:
   synonyms:
   - strongs: H1250
-    proximity: 0.8274
+    lemma: בָּר
+    gloss: grain of any kind {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H1715
-    proximity: 0.8184
+    lemma: דָּגָן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   - strongs: H4425
-    proximity: 0.8088
+    lemma: מְלִילָה
+    gloss: a head of grain {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
   - strongs: H4963
-    proximity: 0.8041
+    lemma: מַתְבֵּן
+    gloss: straw in the heap {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
   - strongs: H7668
-    proximity: 0.7816
+    lemma: שֶׁבֶר
+    gloss: grain {openscriptures-strongs}
+    proximity: 0.7816 {macula-proximity}
   cross_language:
   - strongs: G4719
-    proximity: 0.7765
+    lemma: στάχυς
+    gloss: a head of grain {openscriptures-strongs}
+    proximity: 0.7765 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

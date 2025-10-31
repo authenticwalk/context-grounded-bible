@@ -6,28 +6,30 @@ pronunciation: kad-rooth'
 definition: duskiness
 kjv_usage: blackness.
 derivation: from H6937 (קָדַר);
-extended_definition:
-  gloss: darkness
-  definition: darkness, gloom
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: darkness, gloom {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5939
-    proximity: 0.7833
+    lemma: עֲלָטָה
+    gloss: dusk {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
   - strongs: H2345
-    proximity: 0.7722
+    lemma: חוּם
+    gloss: sunburnt or swarthy {openscriptures-strongs}
+    proximity: 0.7722 {macula-proximity}
   - strongs: H6757
-    proximity: 0.7145
+    lemma: צַלְמָוֶת
+    gloss: shade of death {openscriptures-strongs}
+    proximity: 0.7145 {macula-proximity}
   cross_language:
   - strongs: G1587
-    proximity: 0.8205
+    lemma: ἐκλείπω
+    gloss: to omit {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
     language: greek
   - strongs: G1105
-    proximity: 0.7643
+    lemma: γνόφος
+    gloss: gloom {openscriptures-strongs}
+    proximity: 0.7643 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

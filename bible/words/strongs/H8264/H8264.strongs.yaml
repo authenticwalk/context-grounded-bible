@@ -6,27 +6,28 @@ pronunciation: shaw-kak'
 definition: to course (like a beast of prey); by implication, to seek greedily
 kjv_usage: have appetite, justle one against another, long, range, run (to and fro).
 derivation: a primitive root;
-extended_definition:
-  gloss: to rush
-  definition: 1) to run, run about, rush, run to and fro, be eager or greedy or thirsty<br>1a)
-    (Qal) roving, ranging, longing, rush out upon (participle)<br>1b) (Hithpalpel)
-    to rush to and fro, rush back and forth
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to run, run about, rush, run to and fro, be eager or greedy
+  or thirsty
+
+  1a) (Qal) roving, ranging, longing, rush out upon (participle)
+
+  1b) (Hithpalpel) to rush to and fro, rush back and forth {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H398
-    proximity: 0.8235
+    proximity: 0.8235 {macula-proximity}
   - strongs: H3899
-    proximity: 0.77
+    lemma: לֶחֶם
+    gloss: food {openscriptures-strongs}
+    proximity: 0.77 {macula-proximity}
   - strongs: H2964
-    proximity: 0.7577
+    lemma: טֶרֶף
+    gloss: something torn {openscriptures-strongs}
+    proximity: 0.7577 {macula-proximity}
   cross_language:
   - strongs: G3729
-    proximity: 0.7874
+    lemma: ὁρμάω
+    gloss: to start {openscriptures-strongs}
+    proximity: 0.7874 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

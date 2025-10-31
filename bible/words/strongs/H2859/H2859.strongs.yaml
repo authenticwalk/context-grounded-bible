@@ -11,28 +11,37 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H6148a
-    proximity: 0.823
+    proximity: 0.823 {macula-proximity}
   - strongs: H1933a
-    proximity: 0.8225
+    proximity: 0.8225 {macula-proximity}
   - strongs: H1961
-    proximity: 0.7395
+    lemma: הָיָה
+    gloss: to exist {openscriptures-strongs}
+    proximity: 0.7395 {macula-proximity}
   cross_language:
   - strongs: G1096
-    proximity: 0.8204
+    lemma: γίνομαι
+    gloss: to cause to be {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
     language: greek
   - strongs: G2134
-    proximity: 0.8174
+    lemma: εὐνουχίζω
+    gloss: to castrate (figuratively {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
     language: greek
   - strongs: G2076
-    proximity: 0.8164
+    lemma: ἐστί
+    gloss: he  is {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
     language: greek
   - strongs: G2252
-    proximity: 0.8098
+    lemma: ἤμην
+    gloss: I was {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
     language: greek
   - strongs: G5600
-    proximity: 0.8081
+    lemma: ὦ
+    gloss: (may {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

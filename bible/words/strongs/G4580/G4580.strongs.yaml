@@ -5,24 +5,21 @@ transliteration: Sekoûndos
 definition: '"second"; Secundus, a Christian'
 kjv_usage: Secundus
 derivation: of Latin origin;
-extended_definition:
-  gloss: Secundus
-  definition: '<b>Σέκουνδος</b> (Rec. Σεκοῦνδος), -ου, ὁ <BR /> (Lat.), <b>Secundus</b>:
-    <ref=''Act.20.4.''>Act.20:4.</ref>†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Σέκουνδος</b> (Rec. Σεκοῦνδος), -ου, ὁ <BR /> (Lat.), <b>Secundus</b>:
-    <ref=''Act.20.4.''>Act.20:4.</ref>†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Σέκουνδος (Rec. Σεκοῦνδος), -ου, ὁ
+
+  (Lat.), Secundus: Act.20:4.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Σέκουνδος (Rec. Σεκοῦνδος), -ου, ὁ
+
+  (Lat.), Secundus: Act.20:4.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H2524
-    proximity: 0.7644
+    lemma: חָם
+    gloss: a father-in-law {openscriptures-strongs}
+    proximity: 0.7644 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

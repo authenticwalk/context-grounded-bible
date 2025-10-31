@@ -5,51 +5,60 @@ transliteration: Samareîtis
 definition: a Samaritess, i.e. woman of Samaria
 kjv_usage: of Samaria
 derivation: feminine of G4541 (Σαμαρείτης);
-extended_definition:
-  gloss: Samaria
-  definition: '<b>Σαμαρεῖτις (-ῖτις</b>, T, see supr.), -ιδος, ἡ <BR /> __1. in FlJ
-    (B.J., i, 21, 2, al.), the region of Samaria. <BR /> __2. <b>a Samaritan woman</b>:
-    <ref=''Jhn.4.9.''>Jhn.4:9.</ref>†<BR /> (AS)'
-  morphology: N:N-F-LG
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Σαμαρεῖτις (-ῖτις</b>, T, see supr.), -ιδος, ἡ <BR /> __1. in
-    FlJ (B.J., i, 21, 2, al.), the region of Samaria. <BR /> __2. <b>a Samaritan woman</b>:
-    <ref=''Jhn.4.9.''>Jhn.4:9.</ref>†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Σαμαρεῖτις (-ῖτις, T, see supr.), -ιδος, ἡ
+
+  __1. in FlJ (B.J., i, 21, 2, al.), the region of Samaria.
+
+  __2. a Samaritan woman: Jhn.4:9.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Σαμαρεῖτις (-ῖτις, T, see supr.), -ιδος, ἡ
+
+  __1. in FlJ (B.J., i, 21, 2, al.), the region of Samaria.
+
+  __2. a Samaritan woman: Jhn.4:9.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2243
-    proximity: 0.8257
+    lemma: Ἡλίας
+    gloss: Helias {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: G2542
-    proximity: 0.821
+    lemma: Καισάρεια
+    gloss: Cæsaria {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
   - strongs: G3517
-    proximity: 0.8202
+    lemma: Νηρεύς
+    gloss: Nereus {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   - strongs: G742
-    proximity: 0.8202
+    proximity: 0.8202 {macula-proximity}
   - strongs: G3190
-    proximity: 0.8202
+    lemma: Μελεᾶς
+    gloss: Meleas {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   - strongs: G3774
-    proximity: 0.8202
+    lemma: Οὐρίας
+    gloss: Urias {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   cross_language:
   - strongs: H2148
-    proximity: 0.8281
+    lemma: זְכַרְיָה
+    gloss: Zecarjah {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: hebrew
   - strongs: H522
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
     language: hebrew
   - strongs: H294
-    proximity: 0.8244
+    proximity: 0.8244 {macula-proximity}
     language: hebrew
   - strongs: H805
-    proximity: 0.8229
+    proximity: 0.8229 {macula-proximity}
     language: hebrew
   - strongs: H499
-    proximity: 0.8213
+    proximity: 0.8213 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

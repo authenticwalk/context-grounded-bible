@@ -5,58 +5,70 @@ transliteration: makrochrónios
 definition: long-timed, i.e. long-lived
 kjv_usage: live long
 derivation: from G3117 (μακρός) and G5550 (χρόνος);
-extended_definition:
-  gloss: long-lived
-  definition: '<b>μακρο-χρόνιος</b>, -ον<BR /> (μακρός, χρόνος), [in LXX. μ. γίγνεσθαι,
-    εἶναι (יוֹם אָרַךְ), <ref=''Exo.20.12''>Exo.20:12</ref>, <ref=''Deu.4.40; 5.16;
-    17.20''>Deu.4:40 5:16 17:20</ref> * ;] <BR /><b>of long duration, longlived</b>:
-    <ref=''Eph.6.3''>Eph.6:3</ref> (LXX).†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> μακρο-χρόνιος</b>, ον, <br /> <b>lasting a long time, lingering</b>,
-    [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι”
-    3.7; πυρετός 2nd c.AD: Galenus Medicus 17(2).739 (_superlative_)">Refs 5th c.BC+</a>];
-    τὸ μ. <b>long duration</b>, [<a href="javascript:void(0)" title=" 2nd c.BC: Agatharchides
-    Geographus 83. ">Refs 2nd c.BC+</a>]<br /><Level3><b>__2</b></Level3> <b>dwelling
-    a long time</b>, [<a href="javascript:void(0)" title=" LXX.Exo.20.12, +others
-    ">LXX</a>]<br /><Level3><b>__3</b></Level3> <b>long-lived,</b> [<a href="javascript:void(0)"
-    title="NT.Eph.6.3; βοῦς 3rd c.AD: Porphyrius Tyrius Philosophus “Vita Pythagorae
-    - Porphyrii Opuscula” 24 (_superlative_). ">NT+3rd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'μακρο-χρόνιος, -ον
+
+  (μακρός, χρόνος), [in LXX. μ. γίγνεσθαι, εἶναι (יוֹם אָרַךְ), Exo.20:12, Deu.4:40
+  5:16 17:20 * ;]
+
+  of long duration, longlived: Eph.6:3 (LXX).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'μακρο-χρόνιος, ον,
+
+  lasting a long time, lingering, [Refs 5th c.BC+]; τὸ μ. long duration, [Refs 2nd
+  c.BC+]
+
+  __2 dwelling a long time, [LXX]
+
+  __3 long-lived, [NT+3rd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1972
-    proximity: 0.8264
+    lemma: ἐπιπόθησις
+    gloss: a longing for {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: G4176
-    proximity: 0.8095
+    lemma: πολιτεύομαι
+    gloss: to behave as a citizen {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
   - strongs: G2244
-    proximity: 0.8058
+    lemma: ἡλικία
+    gloss: maturity {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: G3117
-    proximity: 0.7991
+    lemma: μακρός
+    gloss: long  or time ) {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: G2863
-    proximity: 0.7953
+    lemma: κομάω
+    gloss: to wear tresses of hair {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
   - strongs: G2222
-    proximity: 0.7879
+    lemma: ζωή
+    gloss: life {openscriptures-strongs}
+    proximity: 0.7879 {macula-proximity}
   cross_language:
   - strongs: H7646
-    proximity: 0.8241
+    lemma: שָׂבַע
+    gloss: to sate {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: hebrew
   - strongs: H2416d
-    proximity: 0.8196
+    proximity: 0.8196 {macula-proximity}
     language: hebrew
   - strongs: H3808
-    proximity: 0.8105
+    lemma: לֹא
+    gloss: not {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
     language: hebrew
   - strongs: H4390
-    proximity: 0.8068
+    lemma: מָלֵא
+    gloss: to fill or  be full of {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
     language: hebrew
   - strongs: H7227
-    proximity: 0.8015
+    lemma: רַב
+    gloss: abundant (in quantity {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

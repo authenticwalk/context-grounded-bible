@@ -6,41 +6,51 @@ pronunciation: aw-rode'
 definition: an onager (from his lonesome habits)
 kjv_usage: wild ass.
 derivation: from the same as H6166 (עֲרָד);
-extended_definition:
-  gloss: wild donkey
-  definition: 'wild ass<BR>Aramaic equivalent: <i>a.rad</i> (עֲרָד "wild donkey" H6167)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'wild ass
+
+  Aramaic equivalent: a.rad (עֲרָד "wild donkey" H6167) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5483b
-    proximity: 0.7963
+    proximity: 0.7963 {macula-proximity}
   - strongs: H5895
-    proximity: 0.7652
+    lemma: עַיִר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7652 {macula-proximity}
   - strongs: H6501
-    proximity: 0.7575
+    lemma: פֶּרֶא
+    gloss: the onager {openscriptures-strongs}
+    proximity: 0.7575 {macula-proximity}
   - strongs: H7031
-    proximity: 0.7323
+    lemma: קַל
+    gloss: light {openscriptures-strongs}
+    proximity: 0.7323 {macula-proximity}
   - strongs: A6167
-    proximity: 0.7292
+    proximity: 0.7292 {macula-proximity}
   cross_language:
   - strongs: G5036
-    proximity: 0.7917
+    lemma: ταχύς
+    gloss: fleet {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: greek
   - strongs: G5031
-    proximity: 0.7917
+    lemma: ταχινός
+    gloss: curt {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: greek
   - strongs: G4454
-    proximity: 0.7855
+    lemma: πῶλος
+    gloss: a "foal" or "filly" {openscriptures-strongs}
+    proximity: 0.7855 {macula-proximity}
     language: greek
   - strongs: G3678
-    proximity: 0.7431
+    lemma: ὀνάριον
+    gloss: a little ass {openscriptures-strongs}
+    proximity: 0.7431 {macula-proximity}
     language: greek
   - strongs: G5268
-    proximity: 0.741
+    lemma: ὑποζύγιον
+    gloss: an animal under the yoke {openscriptures-strongs}
+    proximity: 0.741 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

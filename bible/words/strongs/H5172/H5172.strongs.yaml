@@ -7,49 +7,66 @@ definition: properly, to hiss, i.e. whisper a (magic) spell; generally, to progn
 kjv_usage: '[idiom] certainly, divine, enchanter, (use) [idiom] enchantment, learn
   by experience, [idiom] indeed, diligently observe.'
 derivation: a primitive root;
-extended_definition:
-  gloss: to divine
-  definition: 1) to practice divination, divine, observe signs, learn by experience,
-    diligently observe, practice fortunetelling, take as an omen<br>1a) (Piel)<br>1a1)
-    to practice divination<br>1a2) to observe the signs or omens
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to practice divination, divine, observe signs, learn by experience,
+  diligently observe, practice fortunetelling, take as an omen
+
+  1a) (Piel)
+
+  1a1) to practice divination
+
+  1a2) to observe the signs or omens {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3588
-    proximity: 0.8039
+    lemma: כִּי
+    gloss: very widely used as a relative conjunction or adverb {openscriptures-strongs}
+    proximity: 0.8039 {macula-proximity}
   - strongs: H825
-    proximity: 0.7855
+    proximity: 0.7855 {macula-proximity}
   - strongs: H2748
-    proximity: 0.7712
+    lemma: חַרְטֹם
+    gloss: a horoscopist {openscriptures-strongs}
+    proximity: 0.7712 {macula-proximity}
   - strongs: H3784
-    proximity: 0.7549
+    lemma: כָּשַׁף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7549 {macula-proximity}
   - strongs: A826
-    proximity: 0.7489
+    proximity: 0.7489 {macula-proximity}
   - strongs: H3909
-    proximity: 0.741
+    lemma: לָט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.741 {macula-proximity}
   - strongs: A1505
-    proximity: 0.7246
+    proximity: 0.7246 {macula-proximity}
   - strongs: H5173
-    proximity: 0.7218
+    lemma: נַחַשׁ
+    gloss: an incantation or augury {openscriptures-strongs}
+    proximity: 0.7218 {macula-proximity}
   cross_language:
   - strongs: G5530
-    proximity: 0.8297
+    lemma: χράομαι
+    gloss: to furnish what is needed {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G3096
-    proximity: 0.8139
+    lemma: μαγεύω
+    gloss: to practice magic {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: greek
   - strongs: G4021
-    proximity: 0.8026
+    lemma: περίεργος
+    gloss: working all around {openscriptures-strongs}
+    proximity: 0.8026 {macula-proximity}
     language: greek
   - strongs: G3095
-    proximity: 0.7813
+    lemma: μαγεία
+    gloss: '"magic" {openscriptures-strongs}'
+    proximity: 0.7813 {macula-proximity}
     language: greek
   - strongs: G5331
-    proximity: 0.7583
+    lemma: φαρμακεία
+    gloss: medication {openscriptures-strongs}
+    proximity: 0.7583 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

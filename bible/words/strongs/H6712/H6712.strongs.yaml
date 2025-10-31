@@ -6,45 +6,61 @@ pronunciation: tsekh-oke'
 definition: laughter (in pleasure or derision)
 kjv_usage: laugh(-ed to scorn).
 derivation: from H6711 (צָחַק);
-extended_definition:
-  gloss: laughter
-  definition: laughter, laughing stock
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: laughter, laughing stock {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3887b
-    proximity: 0.8209
+    proximity: 0.8209 {macula-proximity}
   - strongs: H7047
-    proximity: 0.8058
+    lemma: קֶלֶס
+    gloss: a laughing-stock {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: H1422
-    proximity: 0.7946
+    lemma: גְּדוּפָה
+    gloss: a revilement {openscriptures-strongs}
+    proximity: 0.7946 {macula-proximity}
   - strongs: H2049
-    proximity: 0.7902
+    lemma: הָתֹל
+    gloss: a derision {openscriptures-strongs}
+    proximity: 0.7902 {macula-proximity}
   - strongs: H2048
-    proximity: 0.7894
+    lemma: הָתַל
+    gloss: to deride {openscriptures-strongs}
+    proximity: 0.7894 {macula-proximity}
   - strongs: H8319
-    proximity: 0.7847
+    lemma: שָׁרַק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
   - strongs: H3931
-    proximity: 0.7775
+    lemma: לָעַב
+    gloss: to deride {openscriptures-strongs}
+    proximity: 0.7775 {macula-proximity}
   - strongs: H8148
-    proximity: 0.776
+    lemma: שְׁנִינָה
+    gloss: something pointed {openscriptures-strongs}
+    proximity: 0.776 {macula-proximity}
   - strongs: H3944
-    proximity: 0.7651
+    lemma: לָצוֹן
+    gloss: derision {openscriptures-strongs}
+    proximity: 0.7651 {macula-proximity}
   - strongs: H4167
-    proximity: 0.7516
+    lemma: מוּק
+    gloss: to jeer {openscriptures-strongs}
+    proximity: 0.7516 {macula-proximity}
   cross_language:
   - strongs: G1703
-    proximity: 0.8066
+    lemma: ἐμπαίκτης
+    gloss: a derider {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
     language: greek
   - strongs: G1702
-    proximity: 0.8004
+    lemma: ἐμπαίζω
+    gloss: to jeer at {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
     language: greek
   - strongs: G5512
-    proximity: 0.7983
+    lemma: χλευάζω
+    gloss: to throw out the lip {openscriptures-strongs}
+    proximity: 0.7983 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

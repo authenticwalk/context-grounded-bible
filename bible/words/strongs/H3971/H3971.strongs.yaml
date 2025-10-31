@@ -9,36 +9,45 @@ derivation: usually מוּם; as if passive participle from an unused root proba
 related_words:
   synonyms:
   - strongs: H934
-    proximity: 0.8259
+    proximity: 0.8259 {macula-proximity}
   - strongs: H5206
-    proximity: 0.8172
+    lemma: נִידָה
+    gloss: removal {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
   - strongs: H6292
-    proximity: 0.804
+    lemma: פִּגּוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   - strongs: H3799
-    proximity: 0.8002
+    lemma: כָּתַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: H5708a
-    proximity: 0.7823
+    proximity: 0.7823 {macula-proximity}
   - strongs: H2491a
-    proximity: 0.7591
+    proximity: 0.7591 {macula-proximity}
   - strongs: H5079
-    proximity: 0.7543
+    lemma: נִדָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7543 {macula-proximity}
   cross_language:
   - strongs: G953
-    proximity: 0.8231
+    proximity: 0.8231 {macula-proximity}
     language: greek
   - strongs: G3394
-    proximity: 0.7955
+    lemma: μιασμός
+    gloss: contamination (properly {openscriptures-strongs}
+    proximity: 0.7955 {macula-proximity}
     language: greek
   - strongs: G283
-    proximity: 0.7678
+    proximity: 0.7678 {macula-proximity}
     language: greek
   - strongs: G4695
-    proximity: 0.7669
+    lemma: σπιλόω
+    gloss: to stain or soil {openscriptures-strongs}
+    proximity: 0.7669 {macula-proximity}
     language: greek
   - strongs: G234
-    proximity: 0.7649
+    proximity: 0.7649 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

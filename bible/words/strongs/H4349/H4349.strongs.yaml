@@ -7,46 +7,57 @@ definition: properly, a fixture, i.e. a basis; generally a place, especially as 
   abode
 kjv_usage: foundation, habitation, (dwelling-, settled) place.
 derivation: from H3559 (כּוּן);
-extended_definition:
-  gloss: foundation
-  definition: 1) fixed or established place, foundation<br>1a) fixed place<br>1b)
-    foundation
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) fixed or established place, foundation
+
+  1a) fixed place
+
+  1b) foundation {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5643
-    proximity: 0.8299
+    lemma: סֵתֶר
+    gloss: a cover (in a good or a bad {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
   - strongs: H4632
-    proximity: 0.8242
+    lemma: מְעָרָה
+    gloss: Mearah {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H3653a
-    proximity: 0.8239
+    proximity: 0.8239 {macula-proximity}
   - strongs: H92
-    proximity: 0.8218
+    proximity: 0.8218 {macula-proximity}
   - strongs: H4033
-    proximity: 0.8213
+    lemma: מָגוּר
+    gloss: a temporary abode {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
   - strongs: H1181a
-    proximity: 0.8192
+    proximity: 0.8192 {macula-proximity}
   - strongs: H6710
-    proximity: 0.8168
+    lemma: צַחְצָחָה
+    gloss: a dry place {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H4293
-    proximity: 0.816
+    lemma: מַטְבֵּחַ
+    gloss: slaughter {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
   - strongs: H272
-    proximity: 0.816
+    proximity: 0.816 {macula-proximity}
   - strongs: H7095
-    proximity: 0.8159
+    lemma: קֶצֶב
+    gloss: shape {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   cross_language:
   - strongs: G790
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
     language: greek
   - strongs: G3699
-    proximity: 0.8194
+    lemma: ὅπου
+    gloss: what where {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G4075
-    proximity: 0.8151
+    lemma: πετρώδης
+    gloss: rock-like {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,25 +7,29 @@ definition: Ramoth-Gilad, a place East of the Jordan
 kjv_usage: Ramoth-gilead, Ramoth in Gilead. See also H7216 (רָאמוֹת).
 derivation: or רָמוֹת גִּלעָד; (2 Chronicles 22:5), from the plural of H7413 (רָמָה)
   and H1568 (גִּלְעָד); heights of Gilad;
-extended_definition:
-  gloss: Ramoth (Gilead)
-  definition: <BR> § Ramoth = "heights"<br>  Ramoth-gilead-a place in Gilead
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Ramoth = "heights"
+
+  Ramoth-gilead-a place in Gilead {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7437
-    proximity: 0.8165
+    lemma: רָמַת לֶחִי
+    gloss: Ramath-Lechi {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: H1569
-    proximity: 0.8128
+    lemma: גִּלְעָדִי
+    gloss: a Giladite or descendant of Gilad {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
   - strongs: H8070
-    proximity: 0.8113
+    lemma: שְׁמִירָמוֹת
+    gloss: Shemiramoth {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
   - strongs: H1568
-    proximity: 0.7681
+    lemma: גִּלְעָד
+    gloss: Gilad {openscriptures-strongs}
+    proximity: 0.7681 {macula-proximity}
   - strongs: H7418
-    proximity: 0.7442
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: רָמוֹת
+    gloss: Ramoth-Negeb or Ramath-Negeb {openscriptures-strongs}
+    proximity: 0.7442 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

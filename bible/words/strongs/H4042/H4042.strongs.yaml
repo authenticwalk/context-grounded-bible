@@ -7,45 +7,53 @@ definition: properly, to shield; encompass with; figuratively, to rescue, to han
   safely over (i.e. surrender)
 kjv_usage: deliver.
 derivation: a denominative from H4043 (מָגֵן);
-extended_definition:
-  gloss: to deliver
-  definition: (Piel) to deliver up, give, deliver
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Piel) to deliver up, give, deliver {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3318
-    proximity: 0.8295
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H4117
-    proximity: 0.8278
+    lemma: מָהַר
+    gloss: to bargain {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H3655
-    proximity: 0.8087
+    lemma: כָּנָה
+    gloss: to address by an additional name {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
   - strongs: H7737a
-    proximity: 0.7972
+    proximity: 0.7972 {macula-proximity}
   - strongs: A3028
-    proximity: 0.7866
+    proximity: 0.7866 {macula-proximity}
   - strongs: H7787
-    proximity: 0.7772
+    lemma: שׂוּר
+    gloss: to saw {openscriptures-strongs}
+    proximity: 0.7772 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.7738
+    proximity: 0.7738 {macula-proximity}
   cross_language:
   - strongs: G5495
-    proximity: 0.8272
+    lemma: χείρ
+    gloss: the hand {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G3868
-    proximity: 0.8062
+    lemma: παραιτέομαι
+    gloss: to beg off {openscriptures-strongs}
+    proximity: 0.8062 {macula-proximity}
     language: greek
   - strongs: G1303
-    proximity: 0.8055
+    lemma: διατίθεμαι
+    gloss: to put apart {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
     language: greek
   - strongs: G591
-    proximity: 0.7981
+    proximity: 0.7981 {macula-proximity}
     language: greek
   - strongs: G5487
-    proximity: 0.7869
+    lemma: χαριτόω
+    gloss: to grace {openscriptures-strongs}
+    proximity: 0.7869 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

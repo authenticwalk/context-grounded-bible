@@ -6,48 +6,63 @@ pronunciation: zeh'-rem
 definition: a gush of water
 kjv_usage: flood, overflowing, shower, storm, tempest.
 derivation: from H2229 (זָרַם);
-extended_definition:
-  gloss: storm
-  definition: rain-shower, thunderstorm, flood of rain, downpour, rain-storm
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: rain-shower, thunderstorm, flood of rain, downpour, rain-storm
+  {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4305
-    proximity: 0.8161
+    lemma: מָטַר
+    gloss: to rain {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H7641a
-    proximity: 0.8046
+    proximity: 0.8046 {macula-proximity}
   - strongs: H8229
-    proximity: 0.7997
+    lemma: שִׁפְעָה
+    gloss: copiousness {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
   - strongs: H4325
-    proximity: 0.795
+    lemma: מַיִם
+    gloss: water {openscriptures-strongs}
+    proximity: 0.795 {macula-proximity}
   - strongs: H5464
-    proximity: 0.7949
+    lemma: סַגְרִיד
+    gloss: a pouring rain {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
   - strongs: H5502
-    proximity: 0.7804
+    lemma: סָחַף
+    gloss: to scrape off {openscriptures-strongs}
+    proximity: 0.7804 {macula-proximity}
   - strongs: H5599
-    proximity: 0.7625
+    lemma: סָפִיחַ
+    gloss: something  falling off {openscriptures-strongs}
+    proximity: 0.7625 {macula-proximity}
   - strongs: H7857
-    proximity: 0.7624
+    lemma: שָׁטַף
+    gloss: to gush {openscriptures-strongs}
+    proximity: 0.7624 {macula-proximity}
   - strongs: H3524
-    proximity: 0.7489
+    lemma: כַּבִּיר
+    gloss: vast {openscriptures-strongs}
+    proximity: 0.7489 {macula-proximity}
   - strongs: H7722a
-    proximity: 0.7468
+    proximity: 0.7468 {macula-proximity}
   cross_language:
   - strongs: G4157
-    proximity: 0.8247
+    lemma: πνοή
+    gloss: respiration {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: greek
   - strongs: G972
-    proximity: 0.8186
+    proximity: 0.8186 {macula-proximity}
     language: greek
   - strongs: G5464
-    proximity: 0.7926
+    lemma: χάλαζα
+    gloss: hail {openscriptures-strongs}
+    proximity: 0.7926 {macula-proximity}
     language: greek
   - strongs: G4578
-    proximity: 0.7891
+    lemma: σεισμός
+    gloss: a commotion {openscriptures-strongs}
+    proximity: 0.7891 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

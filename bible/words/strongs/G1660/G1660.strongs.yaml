@@ -5,57 +5,66 @@ transliteration: éleusis
 definition: an advent
 kjv_usage: coming
 derivation: from the alternate of G2064 (ἔρχομαι);
-extended_definition:
-  gloss: coming
-  definition: <b>a coming:—;the Advent </b> of our LORD, (New Testament) (ML)
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἔλευσις</b>, εως, ἡ, <br /> <b>coming, arrival</b>, εἰς βίον
-    [<a href="javascript:void(0)" title=" 1st c.AD: Cornutus Philosophus “de Natura
-    Deorum” 28, compare 12th c.AD: Tzetzes, Joannes Grammaticus “Historiarum variarum
-    chiliades” 7.572, Scholia 3rd c.BC: Apollonius Rhodius Epicus 4.887, 5th c.AD(?):
-    Hesychius Legal icographus ">Refs 3rd c.BC+</a>]<br /><Level3><b>__2</b></Level3>
-    <b>the Advent</b> of Christ, [<a href="javascript:void(0)" title=" NT.Act.7.52.
-    ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: a coming:—;the Advent  of our LORD, (New Testament) (ML) {STEPBible-TBESG}
+etymology: 'ἔλευσις, εως, ἡ,
+
+  coming, arrival, εἰς βίον [Refs 3rd c.BC+]
+
+  __2 the Advent of Christ, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1831
-    proximity: 0.8288
+    lemma: ἐξέρχομαι
+    gloss: to issue {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: G3918
-    proximity: 0.8247
+    lemma: πάρειμι
+    gloss: to be near {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: G1330
-    proximity: 0.8136
+    lemma: διέρχομαι
+    gloss: to traverse {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: G4334
-    proximity: 0.8071
+    lemma: προσέρχομαι
+    gloss: to approach {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
   - strongs: G1531
-    proximity: 0.806
+    lemma: εἰσπορεύομαι
+    gloss: to enter {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
   - strongs: A5312
-    proximity: 0.8034
+    proximity: 0.8034 {macula-proximity}
   - strongs: G4896
-    proximity: 0.7889
+    lemma: σύνειμι
+    gloss: to assemble {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
   - strongs: A5182
-    proximity: 0.7816
+    proximity: 0.7816 {macula-proximity}
   cross_language:
   - strongs: H5674
-    proximity: 0.8296
+    lemma: עָבַר
+    gloss: to cross over {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: hebrew
   - strongs: H4672
-    proximity: 0.8279
+    lemma: מָצָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: hebrew
   - strongs: H4126
-    proximity: 0.8229
+    lemma: מוֹבָא
+    gloss: an entrance {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: hebrew
   - strongs: H7725
-    proximity: 0.8207
+    lemma: שׁוּב
+    gloss: to turn back (hence {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
     language: hebrew
   - strongs: H5060
-    proximity: 0.8168
+    lemma: נָגַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,31 +6,35 @@ pronunciation: may-mad'
 definition: a measure
 kjv_usage: measure.
 derivation: from H4058 (מָדַד);
-extended_definition:
-  gloss: measurement
-  definition: measurement
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: measurement {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6424
-    proximity: 0.8295
+    lemma: פָּלַס
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H6967
-    proximity: 0.8227
+    lemma: קוֹמָה
+    gloss: height {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H4971
-    proximity: 0.7967
+    lemma: מַתְכֹנֶת
+    gloss: proportion (in size {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
   - strongs: H6424a
-    proximity: 0.7765
+    proximity: 0.7765 {macula-proximity}
   - strongs: H4884
-    proximity: 0.7696
+    lemma: מְשׂוּרָה
+    gloss: a measure {openscriptures-strongs}
+    proximity: 0.7696 {macula-proximity}
   - strongs: H8508
-    proximity: 0.7343
+    lemma: תׇּכְנִית
+    gloss: admeasurement {openscriptures-strongs}
+    proximity: 0.7343 {macula-proximity}
   cross_language:
   - strongs: G3354
-    proximity: 0.7468
+    lemma: μετρέω
+    gloss: to measure {openscriptures-strongs}
+    proximity: 0.7468 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

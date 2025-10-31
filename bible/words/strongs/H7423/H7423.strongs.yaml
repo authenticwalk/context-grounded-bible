@@ -9,26 +9,31 @@ derivation: from H7411 (רָמָה);
 related_words:
   synonyms:
   - strongs: H7503
-    proximity: 0.8199
+    lemma: רָפָה
+    gloss: to slacken (in many applications {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H8220
-    proximity: 0.7764
+    lemma: שִׁפְלוּת
+    gloss: remissness {openscriptures-strongs}
+    proximity: 0.7764 {macula-proximity}
   cross_language:
   - strongs: G3152
-    proximity: 0.8279
+    lemma: μάταιος
+    gloss: empty {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G691
-    proximity: 0.7909
+    proximity: 0.7909 {macula-proximity}
     language: greek
   - strongs: G3636
-    proximity: 0.7807
+    lemma: ὀκνηρός
+    gloss: tardy {openscriptures-strongs}
+    proximity: 0.7807 {macula-proximity}
     language: greek
   - strongs: G812
-    proximity: 0.7525
+    proximity: 0.7525 {macula-proximity}
     language: greek
   - strongs: G813
-    proximity: 0.7376
+    proximity: 0.7376 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

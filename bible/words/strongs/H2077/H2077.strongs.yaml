@@ -7,47 +7,73 @@ definition: properly, a slaughter, i.e. the flesh of an animal; by implication, 
   sacrifice (the victim or the act)
 kjv_usage: offer(-ing), sacrifice.
 derivation: from H2076 (זָבַח);
-extended_definition:
-  gloss: sacrifice
-  definition: 1) sacrifice<br>1a) sacrifices of righteousness<br>1b) sacrifices of
-    strife<br>1c) sacrifices to dead things<br>1d) the covenant sacrifice<br>1e) the
-    passover<br>1f) annual sacrifice<br>1g) thank offering
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) sacrifice
+
+  1a) sacrifices of righteousness
+
+  1b) sacrifices of strife
+
+  1c) sacrifices to dead things
+
+  1d) the covenant sacrifice
+
+  1e) the passover
+
+  1f) annual sacrifice
+
+  1g) thank offering {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5068
-    proximity: 0.8282
+    lemma: נָדַב
+    gloss: to impel {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H3561
-    proximity: 0.8217
+    lemma: כַּוָּן
+    gloss: something prepared {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
   - strongs: H5088
-    proximity: 0.8216
+    lemma: נֶדֶר
+    gloss: a promise {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   - strongs: A8001
-    proximity: 0.82
+    proximity: 0.82 {macula-proximity}
   - strongs: H5262
-    proximity: 0.812
+    lemma: נֶסֶךְ
+    gloss: a libation {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: H7862
-    proximity: 0.8108
+    lemma: שַׁי
+    gloss: a gift {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
   - strongs: H8548
-    proximity: 0.8082
+    lemma: תָּמִיד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
   - strongs: H2281
-    proximity: 0.8071
+    lemma: חָבֵת
+    gloss: something fried {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
   - strongs: H7126
-    proximity: 0.8043
+    lemma: קָרַב
+    gloss: to approach (causatively {openscriptures-strongs}
+    proximity: 0.8043 {macula-proximity}
   - strongs: H5066
-    proximity: 0.8006
+    lemma: נָגַשׁ
+    gloss: to be or come (causatively {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
   cross_language:
   - strongs: G4374
-    proximity: 0.8179
+    lemma: προσφέρω
+    gloss: to bear towards {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
     language: greek
   - strongs: G399
-    proximity: 0.8146
+    proximity: 0.8146 {macula-proximity}
     language: greek
   - strongs: G2353
-    proximity: 0.8078
+    lemma: θρέμμα
+    gloss: stock {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

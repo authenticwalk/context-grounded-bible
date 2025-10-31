@@ -9,49 +9,68 @@ kjv_usage: '[phrase] bird, border, corner, end, feather(-ed), [idiom] flying, [p
   (one an-) other, overspreading, [idiom] quarters, skirt, [idiom] sort, uttermost
   part, wing(-ed).'
 derivation: from H3670 (כָּנַף);
-extended_definition:
-  gloss: wing
-  definition: 1) wing, extremity, edge, winged, border, corner, shirt<br>1a) wing<br>1b)
-    extremity<br>1b1) skirt, corner (of garment)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) wing, extremity, edge, winged, border, corner, shirt
+
+  1a) wing
+
+  1b) extremity
+
+  1b1) skirt, corner (of garment) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6833
-    proximity: 0.8262
+    lemma: צִפּוֹר
+    gloss: a little bird {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: H7117
-    proximity: 0.8165
+    lemma: קְצָת
+    gloss: a termination {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: H7099
-    proximity: 0.8114
+    lemma: קֶצֶו
+    gloss: a limit {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
   - strongs: H7757
-    proximity: 0.8109
+    lemma: שׁוּל
+    gloss: a skirt {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
   - strongs: H6524a
-    proximity: 0.8011
+    proximity: 0.8011 {macula-proximity}
   - strongs: H7098
-    proximity: 0.7972
+    lemma: קָצָה
+    gloss: a termination {openscriptures-strongs}
+    proximity: 0.7972 {macula-proximity}
   - strongs: H899
-    proximity: 0.7965
+    proximity: 0.7965 {macula-proximity}
   - strongs: H7097
-    proximity: 0.7962
+    lemma: קָצֶה
+    gloss: an extremity {openscriptures-strongs}
+    proximity: 0.7962 {macula-proximity}
   - strongs: A5776
-    proximity: 0.7805
+    proximity: 0.7805 {macula-proximity}
   - strongs: H8318
-    proximity: 0.748
+    lemma: שֶׁרֶץ
+    gloss: a swarm {openscriptures-strongs}
+    proximity: 0.748 {macula-proximity}
   cross_language:
   - strongs: G2768
-    proximity: 0.8168
+    lemma: κέρας
+    gloss: a horn {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
     language: greek
   - strongs: G3732
-    proximity: 0.8053
+    lemma: ὄρνεον
+    gloss: a birdling {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
     language: greek
   - strongs: G4072
-    proximity: 0.804
+    lemma: πέτομαι
+    gloss: to fly {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
     language: greek
   - strongs: G4009
-    proximity: 0.7996
+    lemma: πέρας
+    gloss: an extremity {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

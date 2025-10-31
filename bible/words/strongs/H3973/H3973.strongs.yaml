@@ -6,45 +6,55 @@ pronunciation: maw-oce'
 definition: refuse
 kjv_usage: refuse.
 derivation: from H3988 (מָאַס);
-extended_definition:
-  gloss: refuse
-  definition: refuse, trash
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: refuse, trash {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2603a
-    proximity: 0.8274
+    proximity: 0.8274 {macula-proximity}
   - strongs: H6627
-    proximity: 0.8267
+    lemma: צָאָה
+    gloss: issue {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
   - strongs: H5010
-    proximity: 0.8231
+    lemma: נָאַר
+    gloss: to reject {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H2092
-    proximity: 0.8058
+    lemma: זָהַם
+    gloss: to be rancid {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: H3987
-    proximity: 0.8056
+    lemma: מֵאֵן
+    gloss: refractory {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: A5122
-    proximity: 0.8039
+    proximity: 0.8039 {macula-proximity}
   - strongs: H8105
-    proximity: 0.7992
+    lemma: שֶׁמֶר
+    gloss: something preserved {openscriptures-strongs}
+    proximity: 0.7992 {macula-proximity}
   - strongs: H1604
-    proximity: 0.798
+    lemma: גֹּעַל
+    gloss: abhorrence {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
   - strongs: H1557
-    proximity: 0.7963
+    lemma: גָּלָל
+    gloss: dung {openscriptures-strongs}
+    proximity: 0.7963 {macula-proximity}
   - strongs: H1602
-    proximity: 0.7918
+    lemma: גָּעַל
+    gloss: to detest {openscriptures-strongs}
+    proximity: 0.7918 {macula-proximity}
   cross_language:
   - strongs: G114
-    proximity: 0.8164
+    proximity: 0.8164 {macula-proximity}
     language: greek
   - strongs: G4469
-    proximity: 0.7816
+    lemma: ῥακά
+    gloss: O empty one {openscriptures-strongs}
+    proximity: 0.7816 {macula-proximity}
     language: greek
   - strongs: G655
-    proximity: 0.7702
+    proximity: 0.7702 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

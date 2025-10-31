@@ -7,53 +7,77 @@ definition: (as noun) a circle, neighbour, or environs; but chiefly (as adverb, 
   or without preposition) around
 kjv_usage: (place, round) about, circuit, compass, on every side.
 derivation: or (feminine) סְבִיבָה; from H5437 (סָבַב);
-extended_definition:
-  gloss: 'around: neighours'
-  definition: ': neighours<br>subst<br>1) places round about, circuit, round about<br>adv<br>2)
-    in a circuit, a circuit, round about<br>prep<br>3) in the circuit, from every
-    side'
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: ': neighours
+
+  subst
+
+  1) places round about, circuit, round about
+
+  adv
+
+  2) in a circuit, a circuit, round about
+
+  prep
+
+  3) in the circuit, from every side {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4524a
-    proximity: 0.8286
+    proximity: 0.8286 {macula-proximity}
   - strongs: H5849
-    proximity: 0.8174
+    lemma: עָטַר
+    gloss: to encircle {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
   - strongs: H4141
-    proximity: 0.8149
+    lemma: מוּסָב
+    gloss: a turn {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
   - strongs: H853
-    proximity: 0.813
+    proximity: 0.813 {macula-proximity}
   - strongs: H5696
-    proximity: 0.8015
+    lemma: עָגֹל
+    gloss: circular {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
   - strongs: H7253
-    proximity: 0.8002
+    lemma: רֶבַע
+    gloss: a fourth {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: H413
-    proximity: 0.7995
+    proximity: 0.7995 {macula-proximity}
   - strongs: A3673
-    proximity: 0.7901
+    proximity: 0.7901 {macula-proximity}
   - strongs: H6696
-    proximity: 0.7885
+    lemma: צוּר
+    gloss: to cramp {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
   - strongs: H1366
-    proximity: 0.7836
+    lemma: גְּבוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7836 {macula-proximity}
   cross_language:
   - strongs: G5049
-    proximity: 0.8232
+    lemma: τελείως
+    gloss: completely {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
     language: greek
   - strongs: G4029
-    proximity: 0.8023
+    lemma: περίκειμαι
+    gloss: to lie all around {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
     language: greek
   - strongs: G5117
-    proximity: 0.8018
+    lemma: τόπος
+    gloss: a spot (general in space {openscriptures-strongs}
+    proximity: 0.8018 {macula-proximity}
     language: greek
   - strongs: G1722
-    proximity: 0.7799
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.7799 {macula-proximity}
     language: greek
   - strongs: G4022
-    proximity: 0.7771
+    lemma: περιέρχομαι
+    gloss: to come all around {openscriptures-strongs}
+    proximity: 0.7771 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

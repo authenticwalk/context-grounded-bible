@@ -5,63 +5,86 @@ transliteration: katáschesis
 definition: a holding down, i.e. occupancy
 kjv_usage: possession
 derivation: from G2722 (κατέχω);
-extended_definition:
-  gloss: possession
-  definition: '<b>κατά-σχεσις</b>, -εως, ἡ<BR /> (κατέχω), [in LXX nearly always for
-    אֲחֻזָּה ] <BR />__1. a holding back. <BR /> __2. <b>LXX and NT, a holding fast,
-    possession</b>: <ref=''Act.7.5, 45''>Act.7:5, 45</ref>.†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κατά-σχεσις</b>, εως, ἡ, <br /> <b>holding back, restraining,
-    retention</b>, [<a href="javascript:void(0)" title=" πνεύματος 5th c.BC: Hippocrates
-    Medicus “περὶ διαίτης” 2.64 ">Refs 5th c.BC+</a>]. <br /><Level2><b>__II</b></Level2>
-    <b>possession</b>, [<a href="javascript:void(0)" title=" LXX.Lev.25.25, LXX.Zec.11.14,
-    +others, NT.Acts.7.5. ">LXX+NT</a>]<br /><Level2><b>__III</b></Level2> <b>relation,
-    attitude</b>, [<a href="javascript:void(0)" title=" κ. φιλικὴ πρὸς τῶν πέλας “Stoicorum
-    Veterum Fragmenta” 3.24 ">Refs</a>].'
-  source: STEPBible/LSJ
+extended_definition: 'κατά-σχεσις, -εως, ἡ
+
+  (κατέχω), [in LXX nearly always for אֲחֻזָּה ]
+
+  __1. a holding back.
+
+  __2. LXX and NT, a holding fast, possession: Act.7:5, 45.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κατά-σχεσις, εως, ἡ,
+
+  holding back, restraining, retention, [Refs 5th c.BC+].
+
+  __II possession, [LXX+NT]
+
+  __III relation, attitude, [Refs]. {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1237
-    proximity: 0.8286
+    lemma: διαδέχομαι
+    gloss: to receive in turn {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: G4041
-    proximity: 0.828
+    lemma: περιούσιος
+    gloss: being beyond usual {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
   - strongs: G2624
-    proximity: 0.8238
+    lemma: κατακληροδοτέω
+    gloss: to be a giver of lots to each {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: G2818
-    proximity: 0.8226
+    lemma: κληρονόμος
+    gloss: a sharer by lot {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: A2631
-    proximity: 0.8118
+    proximity: 0.8118 {macula-proximity}
   - strongs: G4047
-    proximity: 0.7806
+    lemma: περιποίησις
+    gloss: acquisition {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
   - strongs: G2933
-    proximity: 0.7698
+    lemma: κτῆμα
+    gloss: an acquirement {openscriptures-strongs}
+    proximity: 0.7698 {macula-proximity}
   - strongs: G5224
-    proximity: 0.7479
+    lemma: ὑπάρχοντα
+    gloss: things extant or in hand {openscriptures-strongs}
+    proximity: 0.7479 {macula-proximity}
   - strongs: G2816
-    proximity: 0.7435
+    lemma: κληρονομέω
+    gloss: to be an heir to {openscriptures-strongs}
+    proximity: 0.7435 {macula-proximity}
   - strongs: G5223
-    proximity: 0.7219
+    lemma: ὕπαρξις
+    gloss: existency or proprietorship {openscriptures-strongs}
+    proximity: 0.7219 {macula-proximity}
   cross_language:
   - strongs: H4943
-    proximity: 0.8266
+    lemma: מֶשֶׁק
+    gloss: possession {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
     language: hebrew
   - strongs: H2506
-    proximity: 0.8249
+    lemma: חֵלֶק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: hebrew
   - strongs: H3423
-    proximity: 0.8029
+    lemma: יָרַשׁ
+    gloss: to occupy (by driving out previous tenants {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
     language: hebrew
   - strongs: H5157
-    proximity: 0.779
+    lemma: נָחַל
+    gloss: to inherit  mode of descent) {openscriptures-strongs}
+    proximity: 0.779 {macula-proximity}
     language: hebrew
   - strongs: H4512
-    proximity: 0.7347
+    lemma: מִנְלֶה
+    gloss: completion {openscriptures-strongs}
+    proximity: 0.7347 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

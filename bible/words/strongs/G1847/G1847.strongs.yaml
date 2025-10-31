@@ -5,47 +5,53 @@ transliteration: exoudenóō
 definition: to make utterly nothing of, i.e. despise
 kjv_usage: set at nought
 derivation: from G1537 (ἐκ) and a derivative of the neuter of G3762 (οὐδείς);
-extended_definition:
-  gloss: be rejected
-  definition: '<b>ἐξ-ουδενέω</b><BR /> (Rec. -όω; T, -θανόω), -ῶ, [in LXX (with vv.
-    ll. -όω, -θενέω, -θενόω) for בּוּז, בָּזָה, מָאַס, בּוּס, etc. ;] <BR /><b>to
-    despise, set at nought</b>: <ref=''Mrk.9.12''>Mrk.9:12</ref> (cf. ἐξουθενέω).†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ἐξουδεν-όω</b>, <br /> <b>set at naught,</b> [<a href="javascript:void(0)"
-    title=" LXX.Josh.9.38. ">LXX</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ἐξ-ουδενέω
+
+  (Rec. -όω; T, -θανόω), -ῶ, [in LXX (with vv. ll. -όω, -θενέω, -θενόω) for בּוּז,
+  בָּזָה, מָאַס, בּוּס, etc. ;]
+
+  to despise, set at nought: Mrk.9:12 (cf. ἐξουθενέω).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐξουδεν-όω,
+
+  set at naught, [LXX] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4862
-    proximity: 0.8231
+    lemma: σύν
+    gloss: with or together  or G3844 ) {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: G579
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
   - strongs: G557
-    proximity: 0.7166
+    proximity: 0.7166 {macula-proximity}
   - strongs: G2706
-    proximity: 0.7129
+    lemma: καταφρονέω
+    gloss: to think against {openscriptures-strongs}
+    proximity: 0.7129 {macula-proximity}
   cross_language:
   - strongs: H5973
-    proximity: 0.8231
+    lemma: עִם
+    gloss: adverb or preposition {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
     language: hebrew
   - strongs: H7043
-    proximity: 0.7767
+    lemma: קָלַל
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7767 {macula-proximity}
     language: hebrew
   - strongs: H7589
-    proximity: 0.7602
+    lemma: שְׁאָט
+    gloss: contempt {openscriptures-strongs}
+    proximity: 0.7602 {macula-proximity}
     language: hebrew
   - strongs: H2186
-    proximity: 0.7432
+    lemma: זָנַח
+    gloss: reject {openscriptures-strongs}
+    proximity: 0.7432 {macula-proximity}
     language: hebrew
   - strongs: H5034a
-    proximity: 0.7236
+    proximity: 0.7236 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

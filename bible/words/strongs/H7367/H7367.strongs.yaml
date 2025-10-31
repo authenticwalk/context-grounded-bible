@@ -6,28 +6,28 @@ pronunciation: rakh-tsaw'
 definition: a bathing place
 kjv_usage: washing.
 derivation: feminine of H7366 (רַחַץ);
-extended_definition:
-  gloss: washing
-  definition: washing
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: washing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2891
-    proximity: 0.8281
+    lemma: טָהֵר
+    gloss: to be pure (physical sound {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H7857
-    proximity: 0.7112
+    lemma: שָׁטַף
+    gloss: to gush {openscriptures-strongs}
+    proximity: 0.7112 {macula-proximity}
   - strongs: H7366
-    proximity: 0.7
+    lemma: רַחַץ
+    gloss: a bath {openscriptures-strongs}
+    proximity: 0.7 {macula-proximity}
   cross_language:
   - strongs: G907
-    proximity: 0.7489
+    proximity: 0.7489 {macula-proximity}
     language: greek
   - strongs: G2511
-    proximity: 0.729
+    lemma: καθαρίζω
+    gloss: to cleanse {openscriptures-strongs}
+    proximity: 0.729 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

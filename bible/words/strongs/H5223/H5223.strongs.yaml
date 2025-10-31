@@ -6,33 +6,33 @@ pronunciation: naw-keh'
 definition: smitten, i.e. (literally) maimed, or (figuratively) dejected
 kjv_usage: contrite, lame.
 derivation: ''
-extended_definition:
-  gloss: crippled
-  definition: stricken, smitten
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: stricken, smitten {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3511
-    proximity: 0.8283
+    lemma: כְּאֵב
+    gloss: suffering {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H1794
-    proximity: 0.7743
+    lemma: דָּכָה
+    gloss: to collapse {openscriptures-strongs}
+    proximity: 0.7743 {macula-proximity}
   - strongs: H7665a
-    proximity: 0.7231
+    proximity: 0.7231 {macula-proximity}
   - strongs: H2742c
-    proximity: 0.7083
+    proximity: 0.7083 {macula-proximity}
   cross_language:
   - strongs: G3601
-    proximity: 0.7917
+    lemma: ὀδύνη
+    gloss: grief {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: greek
   - strongs: G74
-    proximity: 0.7653
+    proximity: 0.7653 {macula-proximity}
     language: greek
   - strongs: G2948
-    proximity: 0.7468
+    lemma: κυλλός
+    gloss: rocking about {openscriptures-strongs}
+    proximity: 0.7468 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

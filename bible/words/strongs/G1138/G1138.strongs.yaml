@@ -5,50 +5,47 @@ transliteration: Dabíd
 definition: Dabid (i.e. David), the Israelite king
 kjv_usage: David
 derivation: of Hebrew origin (H01732);
-extended_definition:
-  gloss: David
-  definition: '<b>Δαυείδ</b> (Rec. Δαβίδ), ὁ, indecl. (Heb. דָּוִד), <BR /> <b>David</b>,
-    King of Israel: <ref=''Mat.1.6; 12.3''>Mat.1:6; 12:3</ref>, and al.; σκηνὴ Δ.,
-    <ref=''Act.15.16''>Act.15:16;</ref> κλεὶς Δ., <ref=''Rev.3.7''>Rev.3:7;</ref>
-    θρόνος Δ., <ref=''Luk.1.32''>Luk.1:32;</ref> ῥίζα Δ., <ref=''Rev.5.5''>Rev.5:5;</ref>
-    βασιλεία Δ., <ref=''Mrk.11.10''>Mrk.11:10;</ref> υἱὸς Δ., the Messiah (Ps. Sol.,
-    17:23; for other reff. in Jewish lit., see Dalman, <i>Words</i>, 317), <ref=''Mat.1.1;
-    9.27''>Mat.1:1 9:27</ref>, and al.; ἐν Δ., i.e. the Psalter, <ref=''Heb.4.7''>Heb.4:7</ref>
-    <BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Δαυείδ</b> (Rec. Δαβίδ), ὁ, indecl. (Heb. דָּוִד), <BR /> <b>David</b>,
-    King of Israel: <ref=''Mat.1.6; 12.3''>Mat.1:6; 12:3</ref>, and al.; σκηνὴ Δ.,
-    <ref=''Act.15.16''>Act.15:16;</ref> κλεὶς Δ., <ref=''Rev.3.7''>Rev.3:7;</ref>
-    θρόνος Δ., <ref=''Luk.1.32''>Luk.1:32;</ref> ῥίζα Δ., <ref=''Rev.5.5''>Rev.5:5;</ref>
-    βασιλεία Δ., <ref=''Mrk.11.10''>Mrk.11:10;</ref> υἱὸς Δ., the Messiah (Ps. Sol.,
-    17:23; for other reff. in Jewish lit., see Dalman, <i>Words</i>, 317), <ref=''Mat.1.1;
-    9.27''>Mat.1:1 9:27</ref>, and al.; ἐν Δ., i.e. the Psalter, <ref=''Heb.4.7''>Heb.4:7</ref>
-    <BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Δαυείδ (Rec. Δαβίδ), ὁ, indecl. (Heb. דָּוִד),
+
+  David, King of Israel: Mat.1:6; 12:3, and al.; σκηνὴ Δ., Act.15:16; κλεὶς Δ., Rev.3:7;
+  θρόνος Δ., Luk.1:32; ῥίζα Δ., Rev.5:5; βασιλεία Δ., Mrk.11:10; υἱὸς Δ., the Messiah
+  (Ps. Sol., 17:23; for other reff. in Jewish lit., see Dalman, Words, 317), Mat.1:1
+  9:27, and al.; ἐν Δ., i.e. the Psalter, Heb.4:7
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Δαυείδ (Rec. Δαβίδ), ὁ, indecl. (Heb. דָּוִד),
+
+  David, King of Israel: Mat.1:6; 12:3, and al.; σκηνὴ Δ., Act.15:16; κλεὶς Δ., Rev.3:7;
+  θρόνος Δ., Luk.1:32; ῥίζα Δ., Rev.5:5; βασιλεία Δ., Mrk.11:10; υἱὸς Δ., the Messiah
+  (Ps. Sol., 17:23; for other reff. in Jewish lit., see Dalman, Words, 317), Mat.1:1
+  9:27, and al.; ἐν Δ., i.e. the Psalter, Heb.4:7
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3588
-    proximity: 0.8248
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: A7229
-    proximity: 0.7651
+    proximity: 0.7651 {macula-proximity}
   cross_language:
   - strongs: H7227a
-    proximity: 0.7856
+    proximity: 0.7856 {macula-proximity}
     language: hebrew
   - strongs: H4929
-    proximity: 0.7754
+    lemma: מִשְׁמָר
+    gloss: a guard (the man {openscriptures-strongs}
+    proximity: 0.7754 {macula-proximity}
     language: hebrew
   - strongs: H7249
-    proximity: 0.7554
+    lemma: רַב־סָרִיס
+    gloss: Rab-Saris {openscriptures-strongs}
+    proximity: 0.7554 {macula-proximity}
     language: hebrew
   - strongs: H4502
-    proximity: 0.7287
+    lemma: מִנְּזָר
+    gloss: a prince {openscriptures-strongs}
+    proximity: 0.7287 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

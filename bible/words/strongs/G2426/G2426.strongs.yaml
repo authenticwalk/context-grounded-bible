@@ -5,35 +5,40 @@ transliteration: hikanótēs
 definition: ability
 kjv_usage: sufficiency
 derivation: from G2425 (ἱκανός);
-extended_definition:
-  gloss: sufficiency
-  definition: '<b>ἱκανότης</b>, -ητος, ἡ<BR /> (ἱκανός), <BR /><b>sufficiency, ability
-    </b>(Plat.): <ref=''2Co.3.5.''>2Co.3:5.</ref>†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἱκᾰν-ότης</b>, ητος, ἡ, <br /> <b>sufficiency, fitness</b>,
-    [<a href="javascript:void(0)" title=" [prev. author = 5th-6th c.BC: Plato Philosophus]
-    “Ly.” 215a. ">Refs 5th c.BC+</a>]<br /><Level2><b>__II</b></Level2> <b>a sufficiency</b>,
-    παίδων [<a href="javascript:void(0)" title=" [prev. author] “Lg.” 930c. ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἱκανότης, -ητος, ἡ
+
+  (ἱκανός),
+
+  sufficiency, ability (Plat.): 2Co.3:5.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἱκᾰν-ότης, ητος, ἡ,
+
+  sufficiency, fitness, [Refs 5th c.BC+]
+
+  __II a sufficiency, παίδων [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1414
-    proximity: 0.812
+    lemma: δυνατέω
+    gloss: to be efficient {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: G2729
-    proximity: 0.7908
+    lemma: κατισχύω
+    gloss: to overpower {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
   - strongs: G516
-    proximity: 0.7901
+    proximity: 0.7901 {macula-proximity}
   - strongs: G2427
-    proximity: 0.7896
+    lemma: ἱκανόω
+    gloss: to enable {openscriptures-strongs}
+    proximity: 0.7896 {macula-proximity}
   - strongs: G2661
-    proximity: 0.7822
+    lemma: καταξιόω
+    gloss: to deem entirely deserving {openscriptures-strongs}
+    proximity: 0.7822 {macula-proximity}
   - strongs: G1840
-    proximity: 0.7488
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: ἐξισχύω
+    gloss: to have full strength {openscriptures-strongs}
+    proximity: 0.7488 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

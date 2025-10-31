@@ -6,51 +6,65 @@ pronunciation: yeb-ool'
 definition: produce, i.e. a crop or (figuratively) wealth
 kjv_usage: fruit, increase.
 derivation: from H2986 (יָבַל);
-extended_definition:
-  gloss: crops
-  definition: produce, fruit, produce (of the soil)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: produce, fruit, produce (of the soil) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3424
-    proximity: 0.8229
+    lemma: יְרֵשָׁה
+    gloss: occupancy {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: A4
-    proximity: 0.8188
+    proximity: 0.8188 {macula-proximity}
   - strongs: H1219
-    proximity: 0.8177
+    lemma: בָּצַר
+    gloss: to gather grapes {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
   - strongs: H6528
-    proximity: 0.8107
+    lemma: פֶּרֶט
+    gloss: a stray or single berry {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
   - strongs: H272
-    proximity: 0.8052
+    proximity: 0.8052 {macula-proximity}
   - strongs: H5107
-    proximity: 0.8002
+    lemma: נוּב
+    gloss: to germinate {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: H4181
-    proximity: 0.7968
+    lemma: מוֹרָשָׁה
+    gloss: a possession {openscriptures-strongs}
+    proximity: 0.7968 {macula-proximity}
   - strongs: H7668
-    proximity: 0.7959
+    lemma: שֶׁבֶר
+    gloss: grain {openscriptures-strongs}
+    proximity: 0.7959 {macula-proximity}
   - strongs: H7019
-    proximity: 0.7948
+    lemma: קַיִץ
+    gloss: harvest {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
   - strongs: H3425
-    proximity: 0.7941
+    lemma: יְרֻשָּׁה
+    gloss: something occupied {openscriptures-strongs}
+    proximity: 0.7941 {macula-proximity}
   cross_language:
   - strongs: G288
-    proximity: 0.8231
+    proximity: 0.8231 {macula-proximity}
     language: greek
   - strongs: G985
-    proximity: 0.8229
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G2716
-    proximity: 0.8195
+    lemma: κατεργάζομαι
+    gloss: to work fully {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
     language: greek
   - strongs: G5224
-    proximity: 0.8008
+    lemma: ὑπάρχοντα
+    gloss: things extant or in hand {openscriptures-strongs}
+    proximity: 0.8008 {macula-proximity}
     language: greek
   - strongs: G5052
-    proximity: 0.7958
+    lemma: τελεσφορέω
+    gloss: to be a bearer to completion {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

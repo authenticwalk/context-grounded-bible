@@ -6,47 +6,59 @@ pronunciation: meen
 definition: a sort, i.e. species
 kjv_usage: kind. Compare H4480 (מִן).
 derivation: from an unused root meaning to portion out;
-extended_definition:
-  gloss: kind
-  definition: kind, sometimes a species (usually of animals)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: kind, sometimes a species (usually of animals) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4940
-    proximity: 0.8254
+    lemma: מִשְׁפָּחָה
+    gloss: a family {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: A2604
-    proximity: 0.8198
+    proximity: 0.8198 {macula-proximity}
   - strongs: H2616
-    proximity: 0.8183
+    lemma: חָסַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: H4938
-    proximity: 0.8149
+    lemma: מִשְׁעֵנָה
+    gloss: support {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
   - strongs: H4937a
-    proximity: 0.8141
+    proximity: 0.8141 {macula-proximity}
   - strongs: H3605
-    proximity: 0.8078
+    lemma: כֹּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   - strongs: H2270
-    proximity: 0.7984
+    lemma: חָבֵר
+    gloss: an associate {openscriptures-strongs}
+    proximity: 0.7984 {macula-proximity}
   - strongs: H1930a
-    proximity: 0.7916
+    proximity: 0.7916 {macula-proximity}
   cross_language:
   - strongs: G4164
-    proximity: 0.8278
+    lemma: ποικίλος
+    gloss: motley {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G3697
-    proximity: 0.8234
+    lemma: ὁποῖος
+    gloss: of what kind that {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
     language: greek
   - strongs: G5543
-    proximity: 0.823
+    lemma: χρηστός
+    gloss: employed {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
     language: greek
   - strongs: G2472
-    proximity: 0.8161
+    lemma: ἰσότιμος
+    gloss: of equal value or honor {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
     language: greek
   - strongs: G2261
-    proximity: 0.7855
+    lemma: ἤπιος
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7855 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,41 +5,50 @@ transliteration: Kaloì Liménes
 definition: Good Harbors, i.e. Fairhaven, a bay of Crete
 kjv_usage: fair havens
 derivation: plural of G2570 (καλός) and G3040 (λιμήν);
-extended_definition:
-  gloss: Fair Havens
-  definition: '<b>Καλοί Λιμένες </b><BR /> <b>Fair Havens, a harbour in Crete</b>:
-    <ref=''Act.27.8.''>Act.27:8.</ref>†<BR /> (AS)'
-  morphology: N:N--L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Καλοί Λιμένες </b><BR /> <b>Fair Havens, a harbour in Crete</b>:
-    <ref=''Act.27.8.''>Act.27:8.</ref>†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Καλοί Λιμένες
+
+  Fair Havens, a harbour in Crete: Act.27:8.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Καλοί Λιμένες
+
+  Fair Havens, a harbour in Crete: Act.27:8.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2105
-    proximity: 0.8292
+    lemma: εὐδία
+    gloss: a clear sky {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: G5611
-    proximity: 0.7255
+    lemma: ὡραῖος
+    gloss: belonging to the right hour or season {openscriptures-strongs}
+    proximity: 0.7255 {macula-proximity}
   cross_language:
   - strongs: H2896
-    proximity: 0.8099
+    lemma: טוֹב
+    gloss: good  in the widest sense {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
     language: hebrew
   - strongs: H6643
-    proximity: 0.7769
+    lemma: צְבִי
+    gloss: splendor {openscriptures-strongs}
+    proximity: 0.7769 {macula-proximity}
     language: hebrew
   - strongs: H4998
-    proximity: 0.7688
+    lemma: נָאָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7688 {macula-proximity}
     language: hebrew
   - strongs: H1264
-    proximity: 0.7667
+    lemma: בְּרוֹם
+    gloss: damask {openscriptures-strongs}
+    proximity: 0.7667 {macula-proximity}
     language: hebrew
   - strongs: H3304
-    proximity: 0.7405
+    lemma: יְפֵה־פִיָּה
+    gloss: very beautiful {openscriptures-strongs}
+    proximity: 0.7405 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

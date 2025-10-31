@@ -6,45 +6,65 @@ pronunciation: ore
 definition: skin (as naked); by implication, hide, leather
 kjv_usage: hide, leather, skin.
 derivation: from H5783 (עוּר);
-extended_definition:
-  gloss: skin
-  definition: 1) skin, hide<br>1a) skin (of men)<br>1b) hide (of animals)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) skin, hide
+
+  1a) skin (of men)
+
+  1b) hide (of animals) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6106
-    proximity: 0.8227
+    lemma: עֶצֶם
+    gloss: a bone {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H4206b
-    proximity: 0.8082
+    proximity: 0.8082 {macula-proximity}
   - strongs: H6821
-    proximity: 0.8052
+    lemma: צָפַד
+    gloss: to adhere {openscriptures-strongs}
+    proximity: 0.8052 {macula-proximity}
   - strongs: H6584
-    proximity: 0.7981
+    lemma: פָּשַׁט
+    gloss: to spread out {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
   - strongs: H6883
-    proximity: 0.793
+    lemma: צָרַעַת
+    gloss: leprosy {openscriptures-strongs}
+    proximity: 0.793 {macula-proximity}
   - strongs: H6879
-    proximity: 0.7781
+    lemma: צָרַע
+    gloss: to scourge {openscriptures-strongs}
+    proximity: 0.7781 {macula-proximity}
   - strongs: H5035
-    proximity: 0.7549
+    lemma: נֶבֶל
+    gloss: a skin-bag for liquids {openscriptures-strongs}
+    proximity: 0.7549 {macula-proximity}
   - strongs: H1320
-    proximity: 0.7291
+    lemma: בָּשָׂר
+    gloss: flesh {openscriptures-strongs}
+    proximity: 0.7291 {macula-proximity}
   - strongs: H4997
-    proximity: 0.7194
+    lemma: נֹאד
+    gloss: a  bag {openscriptures-strongs}
+    proximity: 0.7194 {macula-proximity}
   - strongs: H2573
-    proximity: 0.7065
+    lemma: חֵמֶת
+    gloss: a skin bottle {openscriptures-strongs}
+    proximity: 0.7065 {macula-proximity}
   cross_language:
   - strongs: G2438
-    proximity: 0.8277
+    lemma: ἱμάς
+    gloss: a strap {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: greek
   - strongs: G1038
-    proximity: 0.8205
+    lemma: βυρσεύς
+    gloss: a tanner {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
     language: greek
   - strongs: G1193
-    proximity: 0.7283
+    lemma: δερμάτινος
+    gloss: made of hide {openscriptures-strongs}
+    proximity: 0.7283 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

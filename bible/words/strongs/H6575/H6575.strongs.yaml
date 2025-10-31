@@ -6,32 +6,32 @@ pronunciation: paw-raw-shaw'
 definition: exposition
 kjv_usage: declaration, sum.
 derivation: from H6567 (פָּרָשׁ);
-extended_definition:
-  gloss: declaration
-  definition: exact statement, declaration
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: exact statement, declaration {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5610
-    proximity: 0.8026
+    lemma: סְפָר
+    gloss: a census {openscriptures-strongs}
+    proximity: 0.8026 {macula-proximity}
   - strongs: H4557
-    proximity: 0.7441
+    lemma: מִסְפָּר
+    gloss: a number {openscriptures-strongs}
+    proximity: 0.7441 {macula-proximity}
   cross_language:
   - strongs: G1279
-    proximity: 0.7953
+    lemma: διαπορεύομαι
+    gloss: to travel through {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
     language: greek
   - strongs: G199
-    proximity: 0.7887
+    proximity: 0.7887 {macula-proximity}
     language: greek
   - strongs: G3324
-    proximity: 0.7805
+    lemma: μεστός
+    gloss: replete {openscriptures-strongs}
+    proximity: 0.7805 {macula-proximity}
     language: greek
   - strongs: G197
-    proximity: 0.7153
+    proximity: 0.7153 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

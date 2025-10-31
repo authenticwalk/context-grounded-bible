@@ -7,47 +7,67 @@ definition: without profit, worthlessness; by extension, destruction, wickedness
 kjv_usage: Belial, evil, naughty, ungodly (men), wicked.
 derivation: from H1097 (בְּלִי) and H3276 (יַעַל);(often in connection with H376 (אִישׁ),
   H802 (אִשָּׁה), H1121 (בֵּן), etc.)
-extended_definition:
-  gloss: 'Belial: worthless'
-  definition: ': worthless<br>1) worthlessness<br>1a) worthless, good for nothing,
-    unprofitable, base fellow<br>1b) wicked<br>1c) ruin, destruction (construct)<BR>Also
-    means: <i>be.liy.ya.al</i> (בְּלִיַּ֫עַל ": destruction" H1100H)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': worthless
+
+  1) worthlessness
+
+  1a) worthless, good for nothing, unprofitable, base fellow
+
+  1b) wicked
+
+  1c) ruin, destruction (construct)
+
+  Also means: be.liy.ya.al (בְּלִיַּ֫עַל ": destruction" H1100H) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4892
-    proximity: 0.8295
+    lemma: מַשְׁחֵת
+    gloss: destruction {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H2254a
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
   - strongs: H7701
-    proximity: 0.8226
+    lemma: שֹׁד
+    gloss: violence {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: H4849
-    proximity: 0.8218
+    lemma: מִרְשַׁעַת
+    gloss: a female wicked doer {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H4889
-    proximity: 0.8142
+    lemma: מַשְׁחִית
+    gloss: destructive {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: H13
-    proximity: 0.8124
+    proximity: 0.8124 {macula-proximity}
   - strongs: H5767
-    proximity: 0.8123
+    lemma: עַוָּל
+    gloss: evil {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
   - strongs: H6348
-    proximity: 0.8039
+    lemma: פָּחַז
+    gloss: to bubble up or froth {openscriptures-strongs}
+    proximity: 0.8039 {macula-proximity}
   - strongs: H12
-    proximity: 0.8032
+    proximity: 0.8032 {macula-proximity}
   - strongs: H7455
-    proximity: 0.7939
+    lemma: רֹעַ
+    gloss: badness {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
   cross_language:
   - strongs: G5337
-    proximity: 0.8269
+    lemma: φαῦλος
+    gloss: '"foul" or "flawy" {openscriptures-strongs}'
+    proximity: 0.8269 {macula-proximity}
     language: greek
   - strongs: G3639
-    proximity: 0.8267
+    lemma: ὄλεθρος
+    gloss: a prolonged form) {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
     language: greek
   - strongs: G2549
-    proximity: 0.8252
+    lemma: κακία
+    gloss: badness {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

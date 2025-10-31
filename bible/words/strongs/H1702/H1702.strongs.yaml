@@ -7,23 +7,19 @@ definition: a raft
 kjv_usage: float.
 derivation: feminine active participle of H1696 (דָבַר) in the sense of driving (compare
   H1699 (דֹּבֶר));
-extended_definition:
-  gloss: raft
-  definition: floats, rafts
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: floats, rafts {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H944a
-    proximity: 0.8297
+    proximity: 0.8297 {macula-proximity}
   - strongs: H5474
-    proximity: 0.8194
+    lemma: סוּגַר
+    gloss: an inclosure {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   cross_language:
   - strongs: G4548
-    proximity: 0.8194
+    lemma: σανίς
+    gloss: a plank {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,44 +5,52 @@ transliteration: Thámar
 definition: Thamar (i.e. Tamar), an Israelitess
 kjv_usage: Thamar
 derivation: of Hebrew origin (H08559);
-extended_definition:
-  gloss: Tamar
-  definition: '<b>Θάμαρ</b> (Tr., Θαμάρ), ἡ (Heb. תָּמָר, <ref=''Gen.38.6''>Gen.38:6</ref>),
-    <BR /> <b>Tamar</b>: <ref=''Mat.1.3.''>Mat.1:3.</ref>†<BR /> (AS)'
-  morphology: N:N-F-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Θάμαρ</b> (Tr., Θαμάρ), ἡ (Heb. תָּמָר, <ref=''Gen.38.6''>Gen.38:6</ref>),
-    <BR /> <b>Tamar</b>: <ref=''Mat.1.3.''>Mat.1:3.</ref>†<BR />  (From Abbott-Smith.
-    LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Θάμαρ (Tr., Θαμάρ), ἡ (Heb. תָּמָר, Gen.38:6),
+
+  Tamar: Mat.1:3.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Θάμαρ (Tr., Θαμάρ), ἡ (Heb. תָּמָר, Gen.38:6),
+
+  Tamar: Mat.1:3.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3161
-    proximity: 0.8201
+    lemma: Ματταθίας
+    gloss: Mattathias {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: G3160
-    proximity: 0.8058
+    lemma: Ματταθά
+    gloss: Mattatha {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: G3158a
-    proximity: 0.7854
+    proximity: 0.7854 {macula-proximity}
   cross_language:
   - strongs: H4821
-    proximity: 0.8264
+    lemma: מִרְמָה
+    gloss: Mirmah {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: hebrew
   - strongs: H4983
-    proximity: 0.8206
+    lemma: מַתַּנְיָה
+    gloss: Mattanjah {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: hebrew
   - strongs: H1193
-    proximity: 0.8203
+    lemma: בַּעַל תָּמָר
+    gloss: Baal-Tamar {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
     language: hebrew
   - strongs: H4992
-    proximity: 0.819
+    lemma: מַתַּתָּה
+    gloss: Mattattah {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
     language: hebrew
   - strongs: H4980
-    proximity: 0.8093
+    lemma: מַתָּנָה
+    gloss: Mattanah {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

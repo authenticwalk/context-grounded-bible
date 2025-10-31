@@ -6,29 +6,29 @@ pronunciation: tah-al-aw'
 definition: an imprecation
 kjv_usage: curse.
 derivation: from H422 (אָלָה);
-extended_definition:
-  gloss: curse
-  definition: curse
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: curse {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1442
-    proximity: 0.8045
+    lemma: גָּדַף
+    gloss: to hack {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
   - strongs: H7650
-    proximity: 0.7786
+    lemma: שָׁבַע
+    gloss: to seven oneself {openscriptures-strongs}
+    proximity: 0.7786 {macula-proximity}
   - strongs: H1288
-    proximity: 0.7341
+    lemma: בָרַךְ
+    gloss: to kneel {openscriptures-strongs}
+    proximity: 0.7341 {macula-proximity}
   - strongs: H7621
-    proximity: 0.7218
+    lemma: שְׁבוּעָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7218 {macula-proximity}
   - strongs: H5344a
-    proximity: 0.7061
+    proximity: 0.7061 {macula-proximity}
   cross_language:
   - strongs: G332
-    proximity: 0.7268
+    proximity: 0.7268 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

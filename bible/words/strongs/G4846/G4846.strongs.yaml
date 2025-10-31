@@ -6,43 +6,36 @@ definition: to strangle completely, i.e. (literally) to drown, or (figuratively)
   crowd
 kjv_usage: choke, throng
 derivation: from G4862 (σύν) and G4155 (πνίγω);
-extended_definition:
-  gloss: to choke
-  definition: '<b>συν-πνίγω</b> (Rec. συμπ-), <BR /> <b>to choke</b>: of thronging
-    by a crowd, <ref=''Luk.8.42.''>Luk.8:42.</ref> Fig., of seed, τ. λόγον, <ref=''Mat.13.22''>Mat.13:22</ref>,
-    <ref=''Mrk.4.7, 19''>Mrk.4:7, 19</ref>, <ref=''Luk.8.14''>Luk.8:14</ref>.†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συμπνίγω</b> [ῑ], <br /> <b>press closely</b>, of crowds, τινα
-    [<a href="javascript:void(0)" title=" NT.Luke.8.42 ">NT</a>]; σ. τὸ σπέρμα <b>choke</b>
-    it, [<a href="javascript:void(0)" title=" NT.Mark.4.7: _metaphorically_, σ. τὸν
-    λόγον NT.Matt.13.22, cf. NT.Luke.8.14 ">NT</a>]:—<i>passive</i>, δένδρα συμπνιγόμενα
-    [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus “de
-    Causis Plantarum” 6.11.6 ">Refs 4th c.BC+</a>]; οἱ ἄνθρακες συμπνίγονται <b>are
-    damped down</b>, [<a href="javascript:void(0)" title="Scholia 5th-6th c.BC: Aristophanes
-    Comicus “Nubes” 96. ">Refs 5th c.BC+</a>]<br /><Level3><b>__2</b></Level3> in
-    <i>passive</i>, <b>to be drowned</b>, of the Gadarene swine, [<a href="javascript:void(0)"
-    title=" 3rd c.AD: Porphyrius Tyrius Philosophus “adversus Christianos - Abh. Berl.
-    Akad.” 49. ">Refs 3rd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συν-πνίγω (Rec. συμπ-),
+
+  to choke: of thronging by a crowd, Luk.8:42. Fig., of seed, τ. λόγον, Mat.13:22,
+  Mrk.4:7, 19, Luk.8:14.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συμπνίγω [ῑ],
+
+  press closely, of crowds, τινα [NT]; σ. τὸ σπέρμα choke it, [NT]:—passive, δένδρα
+  συμπνιγόμενα [Refs 4th c.BC+]; οἱ ἄνθρακες συμπνίγονται are damped down, [Refs 5th
+  c.BC+]
+
+  __2 in passive, to be drowned, of the Gadarene swine, [Refs 3rd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G598
-    proximity: 0.7528
+    proximity: 0.7528 {macula-proximity}
   - strongs: G1945
-    proximity: 0.7339
+    lemma: ἐπίκειμαι
+    gloss: to rest upon {openscriptures-strongs}
+    proximity: 0.7339 {macula-proximity}
   cross_language:
   - strongs: H2115
-    proximity: 0.8282
+    lemma: זוּר
+    gloss: to press together {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: hebrew
   - strongs: H1766
-    proximity: 0.7906
+    lemma: דָּחַק
+    gloss: to press {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

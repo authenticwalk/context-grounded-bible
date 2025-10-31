@@ -7,49 +7,68 @@ definition: to quiver (with any violent emotion, especially anger or fear)
 kjv_usage: be afraid, stand in awe, disquiet, fall out, fret, move, provoke, quake,
   rage, shake, tremble, trouble, be wroth.
 derivation: a primitive root;
-extended_definition:
-  gloss: to tremble
-  definition: 1) tremble, quake, rage, quiver, be agitated, be excited, be perturbed<br>1a)(Qal)
-    to quake, be disquieted, be excited, be perturbed<br>1b) (Hiphil) to cause to
-    quake, disquiet, enrage, disturb<br>1c) (Hithpael) to excite oneself
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) tremble, quake, rage, quiver, be agitated, be excited, be
+  perturbed
+
+  1a)(Qal) to quake, be disquieted, be excited, be perturbed
+
+  1b) (Hiphil) to cause to quake, disquiet, enrage, disturb
+
+  1c) (Hithpael) to excite oneself {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3372
-    proximity: 0.8291
+    lemma: יָרֵא
+    gloss: to fear {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: H1949
-    proximity: 0.8286
+    lemma: הוּם
+    gloss: to make an uproar {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: H8178
-    proximity: 0.8192
+    lemma: שַׂעַר
+    gloss: a tempest {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: H639
-    proximity: 0.8179
+    proximity: 0.8179 {macula-proximity}
   - strongs: H2534
-    proximity: 0.8103
+    lemma: חֵמָה
+    gloss: heat {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   - strongs: H6426
-    proximity: 0.8028
+    lemma: פָּלַץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
   - strongs: H3415
-    proximity: 0.8026
+    lemma: יָרַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8026 {macula-proximity}
   - strongs: H4171a
-    proximity: 0.8021
+    proximity: 0.8021 {macula-proximity}
   cross_language:
   - strongs: G3949
-    proximity: 0.8251
+    lemma: παροργίζω
+    gloss: to anger alongside {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
     language: greek
   - strongs: G2373
-    proximity: 0.8188
+    lemma: θυμόω
+    gloss: to put in a passion {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
     language: greek
   - strongs: G2795
-    proximity: 0.8125
+    lemma: κινέω
+    gloss: to stir {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G5015
-    proximity: 0.8063
+    lemma: ταράσσω
+    gloss: to stir or agitate {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
     language: greek
   - strongs: G4360
-    proximity: 0.8047
+    lemma: προσοχθίζω
+    gloss: to feel indignant at {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

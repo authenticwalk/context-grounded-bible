@@ -5,50 +5,61 @@ transliteration: heptakischílioi
 definition: seven times a thousand
 kjv_usage: seven thousand
 derivation: from G2034 (ἑπτάκις) and G5507 (χίλιοι);
-extended_definition:
-  gloss: seven thousand
-  definition: '<b>ἐπτακισχίλιοι</b>, -αι, -α <BR /> <b>seven thousand</b>: <ref=''Rom.11.4.''>Rom.11:4.</ref>†<BR
-    /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἑπτᾰκισ-χίλιοι</b> [χῑ], αι, α, <br /> <b>seven thousand,</b>
-    [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.43, etc.">Refs
-    5th c.BC+</a>]; ἑπτασχίλιαι (sic) [<a href="javascript:void(0)" title=" “PSI”
-    3.250 (3rd-4th c.AD). ">Refs 3rd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐπτακισχίλιοι, -αι, -α
+
+  seven thousand: Rom.11:4.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἑπτᾰκισ-χίλιοι [χῑ], αι, α,
+
+  seven thousand, [Refs 5th c.BC+]; ἑπτασχίλιαι (sic) [Refs 3rd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3461
-    proximity: 0.7825
+    lemma: μυριάς
+    gloss: a ten-thousand {openscriptures-strongs}
+    proximity: 0.7825 {macula-proximity}
   - strongs: G5070
-    proximity: 0.7811
+    lemma: τετρακισχίλιοι
+    gloss: four times a thousand {openscriptures-strongs}
+    proximity: 0.7811 {macula-proximity}
   - strongs: G4000
-    proximity: 0.7801
+    lemma: πεντακισχίλιοι
+    gloss: five times a thousand {openscriptures-strongs}
+    proximity: 0.7801 {macula-proximity}
   - strongs: G1367
-    proximity: 0.7778
+    lemma: δισχίλιοι
+    gloss: two thousand {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   - strongs: G5153
-    proximity: 0.7639
+    lemma: τρισχίλιοι
+    gloss: three times a thousand {openscriptures-strongs}
+    proximity: 0.7639 {macula-proximity}
   - strongs: G2034
-    proximity: 0.7342
+    lemma: ἑπτάκις
+    gloss: seven times {openscriptures-strongs}
+    proximity: 0.7342 {macula-proximity}
   - strongs: G5507
-    proximity: 0.7057
+    lemma: χίλιοι
+    gloss: a thousand {openscriptures-strongs}
+    proximity: 0.7057 {macula-proximity}
   cross_language:
   - strongs: H505a
-    proximity: 0.8207
+    proximity: 0.8207 {macula-proximity}
     language: hebrew
   - strongs: H7620
-    proximity: 0.8176
+    lemma: שָׁבוּעַ
+    gloss: literally {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
     language: hebrew
   - strongs: H7659
-    proximity: 0.7745
+    lemma: שִׁבְעָתַיִם
+    gloss: seven-times {openscriptures-strongs}
+    proximity: 0.7745 {macula-proximity}
     language: hebrew
   - strongs: H8136
-    proximity: 0.7514
+    lemma: שִׁנְאָן
+    gloss: change {openscriptures-strongs}
+    proximity: 0.7514 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -9,36 +9,55 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H2645
-    proximity: 0.8257
+    lemma: חָפָה
+    gloss: to cover {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H7875
-    proximity: 0.8227
+    lemma: שִׂיד
+    gloss: lime {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H7874
-    proximity: 0.8196
+    lemma: שִׂיד
+    gloss: to plaster {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: H4229
-    proximity: 0.8118
+    lemma: מָחָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
   - strongs: H2902a
-    proximity: 0.8081
+    proximity: 0.8081 {macula-proximity}
   - strongs: H3680
-    proximity: 0.7884
+    lemma: כָּסָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7884 {macula-proximity}
   - strongs: H4372
-    proximity: 0.7875
+    lemma: מִכְסֶה
+    gloss: a covering {openscriptures-strongs}
+    proximity: 0.7875 {macula-proximity}
   - strongs: H2950
-    proximity: 0.7736
+    lemma: טָפַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7736 {macula-proximity}
   - strongs: H6823
-    proximity: 0.7722
+    lemma: צָפָה
+    gloss: to sheet over {openscriptures-strongs}
+    proximity: 0.7722 {macula-proximity}
   - strongs: H2560b
-    proximity: 0.7556
+    proximity: 0.7556 {macula-proximity}
   cross_language:
   - strongs: G1813
-    proximity: 0.798
+    lemma: ἐξαλείφω
+    gloss: to smear out {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
     language: greek
   - strongs: G1942
-    proximity: 0.778
+    lemma: ἐπικάλυμα
+    gloss: a covering {openscriptures-strongs}
+    proximity: 0.778 {macula-proximity}
     language: greek
   - strongs: G2867
-    proximity: 0.7424
+    lemma: κονιάω
+    gloss: by analogy {openscriptures-strongs}
+    proximity: 0.7424 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

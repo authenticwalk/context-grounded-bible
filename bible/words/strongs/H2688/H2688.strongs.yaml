@@ -7,28 +7,29 @@ definition: Chatsetson-tamar, a place in Palestine
 kjv_usage: Hazezon-tamar.
 derivation: or חַצֲצֹן תָּמָר; from H2686 (חָצַץ) and H8558 (תָּמָר); division (i.e.
   perhaps row) of (the) palm-tree;
-extended_definition:
-  gloss: Hazazon-tamar
-  definition: Hazezon-tamar = "dividing the date-palm"<br>  a town situated in the
-    desert Judah;<BR>Another name of <i>en ge.di</i> (עֵין גֶּ֫דִי "Engedi" H5872)
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: 'Hazezon-tamar = "dividing the date-palm"
+
+  a town situated in the desert Judah;
+
+  Another name of en ge.di (עֵין גֶּ֫דִי "Engedi" H5872) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8559a
-    proximity: 0.8239
+    proximity: 0.8239 {macula-proximity}
   - strongs: H7831a
-    proximity: 0.8215
+    proximity: 0.8215 {macula-proximity}
   - strongs: H1193
-    proximity: 0.8148
+    lemma: בַּעַל תָּמָר
+    gloss: Baal-Tamar {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: H8480
-    proximity: 0.8148
+    lemma: תַּחַת
+    gloss: Tachath {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: H385
-    proximity: 0.8073
+    proximity: 0.8073 {macula-proximity}
   - strongs: H8559
-    proximity: 0.7696
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: תָּמָר
+    gloss: Tamar {openscriptures-strongs}
+    proximity: 0.7696 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,50 +7,75 @@ definition: to twine, i.e. (literally) to struggle or (figuratively) be (morally
   tortuous
 kjv_usage: (shew self) froward, shew self unsavoury, wrestle.
 derivation: a primitive root;
-extended_definition:
-  gloss: to twist
-  definition: 1) to twist<br>1a) (Niphal)<br>1a1) to be twisted<br>1a2) to wrestle<br>1b)
-    (Hithpael) to be twisted
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to twist
+
+  1a) (Niphal)
+
+  1a1) to be twisted
+
+  1a2) to wrestle
+
+  1b) (Hithpael) to be twisted {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5791
-    proximity: 0.815
+    lemma: עָוַת
+    gloss: to wrest {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: H6229
-    proximity: 0.8023
+    lemma: עָשַׂק
+    gloss: to press upon {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
   - strongs: H6140
-    proximity: 0.8014
+    lemma: עָקַשׁ
+    gloss: to knot or distort {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
   - strongs: H6128
-    proximity: 0.7931
+    lemma: עֲקַלְקַל
+    gloss: winding {openscriptures-strongs}
+    proximity: 0.7931 {macula-proximity}
   - strongs: H6127
-    proximity: 0.7564
+    lemma: עָקַל
+    gloss: to wrest {openscriptures-strongs}
+    proximity: 0.7564 {macula-proximity}
   - strongs: H6191
-    proximity: 0.7503
+    lemma: עָרַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7503 {macula-proximity}
   - strongs: H2019
-    proximity: 0.7407
+    lemma: הֲפַכְפַּךְ
+    gloss: very perverse {openscriptures-strongs}
+    proximity: 0.7407 {macula-proximity}
   - strongs: H6141
-    proximity: 0.7353
+    lemma: עִקֵּשׁ
+    gloss: distorted {openscriptures-strongs}
+    proximity: 0.7353 {macula-proximity}
   - strongs: H6618
-    proximity: 0.7327
+    lemma: פְּתַלְתֹּל
+    gloss: tortuous {openscriptures-strongs}
+    proximity: 0.7327 {macula-proximity}
   cross_language:
   - strongs: G1731
-    proximity: 0.8225
+    lemma: ἐνδείκνυμι
+    gloss: to indicate {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
   - strongs: G1166a
-    proximity: 0.8062
+    proximity: 0.8062 {macula-proximity}
     language: greek
   - strongs: G3835
-    proximity: 0.8052
+    lemma: πανοῦργος
+    gloss: all-working {openscriptures-strongs}
+    proximity: 0.8052 {macula-proximity}
     language: greek
   - strongs: G3834
-    proximity: 0.7384
+    lemma: πανουργία
+    gloss: adroitness {openscriptures-strongs}
+    proximity: 0.7384 {macula-proximity}
     language: greek
   - strongs: G4646
-    proximity: 0.7252
+    lemma: σκολιός
+    gloss: warped {openscriptures-strongs}
+    proximity: 0.7252 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

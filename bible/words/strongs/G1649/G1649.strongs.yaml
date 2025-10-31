@@ -5,45 +5,45 @@ transliteration: élenxis
 definition: refutation, i.e. reproof
 kjv_usage: rebuke
 derivation: from G1651 (ἐλέγχω);
-extended_definition:
-  gloss: rebuke
-  definition: '<b>ἐλεγξις</b>, -εως, ἡ<BR /> (ἐλέγχω), [in LXX: <ref=''Job.21.4; 23.2''>Job.21:4
-    23:2</ref> (שִׂיחַ) * ;] <BR /><b>re­buke</b>: <ref=''2Pe.2.16.''>2Pe.2:16.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἔλεγξις</b>, εως, ἡ, <br /> <b>refuting, reproving</b>, [<a
-    href="javascript:void(0)" title=" LXX.Job.21.4, +others">LXX</a>]; πικρὸς πρὸς
-    τὰς ἐ. [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Philostratus Sophista
-    “Vita Apollonii” 2.22 (_plural_). ">Refs 2nd c.AD+</a>]<br /><Level3><b>__2</b></Level3>
-    <b>conviction</b>, παρανομίας [<a href="javascript:void(0)" title=" NT.2Pet.2.16.
-    ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐλεγξις, -εως, ἡ
+
+  (ἐλέγχω), [in LXX: Job.21:4 23:2 (שִׂיחַ) * ;]
+
+  re­buke: 2Pe.2:16.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἔλεγξις, εως, ἡ,
+
+  refuting, reproving, [LXX]; πικρὸς πρὸς τὰς ἐ. [Refs 2nd c.AD+]
+
+  __2 conviction, παρανομίας [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G273
-    proximity: 0.7706
+    proximity: 0.7706 {macula-proximity}
   - strongs: G410
-    proximity: 0.7605
+    proximity: 0.7605 {macula-proximity}
   - strongs: G274
-    proximity: 0.7396
+    proximity: 0.7396 {macula-proximity}
   cross_language:
   - strongs: H4148
-    proximity: 0.7549
+    lemma: מוּסָר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7549 {macula-proximity}
     language: hebrew
   - strongs: H7378
-    proximity: 0.7457
+    lemma: רִיב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7457 {macula-proximity}
     language: hebrew
   - strongs: H2778
-    proximity: 0.7441
+    lemma: חָרַף
+    gloss: to pull off {openscriptures-strongs}
+    proximity: 0.7441 {macula-proximity}
     language: hebrew
   - strongs: H8433
-    proximity: 0.703
+    lemma: תּוֹכֵחָה
+    gloss: chastisement {openscriptures-strongs}
+    proximity: 0.703 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

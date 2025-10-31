@@ -10,30 +10,41 @@ derivation: or (feminine) מְצוּדָה; or מְצֻדָה; for H4685 (מָצ
 related_words:
   synonyms:
   - strongs: H400
-    proximity: 0.8252
+    proximity: 0.8252 {macula-proximity}
   - strongs: H962
-    proximity: 0.816
+    proximity: 0.816 {macula-proximity}
   - strongs: H961
-    proximity: 0.816
+    proximity: 0.816 {macula-proximity}
   - strongs: H4933
-    proximity: 0.8103
+    lemma: מְשִׁסָּה
+    gloss: plunder {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   - strongs: H5367
-    proximity: 0.7829
+    lemma: נָקַשׁ
+    gloss: to entrap {openscriptures-strongs}
+    proximity: 0.7829 {macula-proximity}
   - strongs: H7639
-    proximity: 0.7739
+    lemma: שְׂבָכָה
+    gloss: a net-work {openscriptures-strongs}
+    proximity: 0.7739 {macula-proximity}
   - strongs: H7998
-    proximity: 0.7733
+    lemma: שָׁלָל
+    gloss: booty {openscriptures-strongs}
+    proximity: 0.7733 {macula-proximity}
   - strongs: H3369
-    proximity: 0.7554
+    lemma: יָקֹשׁ
+    gloss: to ensnare {openscriptures-strongs}
+    proximity: 0.7554 {macula-proximity}
   - strongs: H6658
-    proximity: 0.7482
+    lemma: צָדָה
+    gloss: to chase {openscriptures-strongs}
+    proximity: 0.7482 {macula-proximity}
   - strongs: H2764a
-    proximity: 0.7479
+    proximity: 0.7479 {macula-proximity}
   cross_language:
   - strongs: G4661
-    proximity: 0.7722
+    lemma: σκῦλον
+    gloss: something stripped {openscriptures-strongs}
+    proximity: 0.7722 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

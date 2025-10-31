@@ -5,59 +5,66 @@ transliteration: synepimartyréō
 definition: to testify further jointly, i.e. unite in adding evidence
 kjv_usage: also bear witness
 derivation: from G4862 (σύν) and G1957 (ἐπιμαρτυρέω);
-extended_definition:
-  gloss: to testify with
-  definition: '<b>συν-επι-μαρτυρέω</b>, -ῶ <BR /> <b>to join in attesting, bear witness
-    together with</b>: <ref=''Heb.2.4''>Heb.2:4</ref> (Arist., Polyb., a1.).†<BR />
-    (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συνεπιμαρτῠρ-έω</b>, <br /> <b>join in attesting</b>, [<a href="javascript:void(0)"
-    title=" 4th c.BC: Aristoteles Philosophus “de Mundo” 400a15, 4th-3rd c.BC: Theophrastus
-    Philosophus “de Causis Plantarum” 6.16.6, NT.Heb.2.4 ">NT+4th c.BC+</a>]; τινι
-    <b>with</b> one, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus
-    25.6.4, Aristeas 191, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.542c,
-    2nd c.AD: Galenus Medicus 15.583, 2nd c.AD: Athenaeus Epigrammaticus 13.595e ">Refs
-    2nd c.BC+</a>]; <b>add one''s evidence</b>, [<a href="javascript:void(0)" title="
-    1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.486c,539d. ">Refs 1st c.AD+</a>]<br
-    /><Level2><b>__II</b></Level2> Astrology texts, <b>to be also configurate</b>,
-    of planets, [<a href="javascript:void(0)" title=" 2nd c.BC(?): Nechepso Astrologus
-    cited in 2nd c.AD: Vettius Valens Astrologus 279.3, “Catalogus Codicum Astrologorum”
-    2.187. ">Refs 2nd c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συν-επι-μαρτυρέω, -ῶ
+
+  to join in attesting, bear witness together with: Heb.2:4 (Arist., Polyb., a1.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συνεπιμαρτῠρ-έω,
+
+  join in attesting, [NT+4th c.BC+]; τινι with one, [Refs 2nd c.BC+]; add one''s evidence,
+  [Refs 1st c.AD+]
+
+  __II Astrology texts, to be also configurate, of planets, [Refs 2nd c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4887
-    proximity: 0.8286
+    lemma: συνδέω
+    gloss: to bind with {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: G4855
-    proximity: 0.8278
+    lemma: συμφύω
+    gloss: passive {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: G4848
-    proximity: 0.8254
+    lemma: συμπορεύομαι
+    gloss: to journey together {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: G4891
-    proximity: 0.8243
+    lemma: συνεγείρω
+    gloss: to rouse  in company with {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: G2086
-    proximity: 0.8235
+    lemma: ἑτεροζυγέω
+    gloss: to yoke up differently {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: G4897
-    proximity: 0.8229
+    lemma: συνεισέρχομαι
+    gloss: to enter in company with {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: G5575a
-    proximity: 0.8206
+    proximity: 0.8206 {macula-proximity}
   - strongs: G2964
-    proximity: 0.8203
+    lemma: κυρόω
+    gloss: to make authoritative {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: G4922
-    proximity: 0.8194
+    lemma: συνοδεύω
+    gloss: to travel in company with {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: G4841
-    proximity: 0.8163
+    lemma: συμπάσχω
+    gloss: to experience pain jointly or of the same kind (specially {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
   cross_language:
   - strongs: H3162
-    proximity: 0.8157
+    lemma: יַחַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
     language: hebrew
   - strongs: H5978
-    proximity: 0.8156
+    lemma: עִמָּד
+    gloss: along with {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

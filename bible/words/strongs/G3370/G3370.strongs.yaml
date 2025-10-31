@@ -5,38 +5,36 @@ transliteration: Mēdos
 definition: a Median, or inhabitant of Media
 kjv_usage: Mede
 derivation: of foreign origin (compare H04074);
-extended_definition:
-  gloss: Mede
-  definition: <b>a Mede, Median </b>, (Herdotus Historicus), etc. (ML)
-  morphology: N:N--LG
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> Μῆδος</b>, ὁ, <br /> <b>Mede, Median</b>: hence, [<a href="javascript:void(0)"
-    title=" “Persian”, 5th c.BC: Herodotus Historicus 5.77, etc. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: a Mede, Median , (Herdotus Historicus), etc. (ML) {STEPBible-TBESG}
+etymology: 'Μῆδος, ὁ,
+
+  Mede, Median: hence, [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G78
-    proximity: 0.812
+    proximity: 0.812 {macula-proximity}
   cross_language:
   - strongs: H4927
-    proximity: 0.8298
+    lemma: מִשְׁמָע
+    gloss: Mishma {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: hebrew
   - strongs: H7435
-    proximity: 0.8295
+    lemma: רָמָתִי
+    gloss: a Ramathite or inhabitant of Ramah {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: hebrew
   - strongs: H8126
-    proximity: 0.8276
+    lemma: שֻׁמָתִי
+    gloss: a Shumathite  or descendants of Shumah {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: hebrew
   - strongs: H7747
-    proximity: 0.827
+    lemma: שׁוּחִי
+    gloss: a Shuchite or descendant of Shuach {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: hebrew
   - strongs: H522
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

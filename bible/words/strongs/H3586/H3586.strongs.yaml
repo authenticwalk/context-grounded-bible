@@ -6,39 +6,45 @@ pronunciation: kekh-awsh'
 definition: faithless
 kjv_usage: lying.
 derivation: from H3584 (כָּחַשׁ);
-extended_definition:
-  gloss: deceptive
-  definition: deceitful, false, deceptive, lying
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: deceitful, false, deceptive, lying {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H530
-    proximity: 0.8287
+    proximity: 0.8287 {macula-proximity}
   - strongs: A2164
-    proximity: 0.8169
+    proximity: 0.8169 {macula-proximity}
   - strongs: H6143
-    proximity: 0.7726
+    lemma: עִקְּשׁוּת
+    gloss: perversity {openscriptures-strongs}
+    proximity: 0.7726 {macula-proximity}
   - strongs: H7423a
-    proximity: 0.7679
+    proximity: 0.7679 {macula-proximity}
   - strongs: H7723
-    proximity: 0.7605
+    lemma: שָׁוְא
+    gloss: evil {openscriptures-strongs}
+    proximity: 0.7605 {macula-proximity}
   - strongs: H4820
-    proximity: 0.7595
+    lemma: מִרְמָה
+    gloss: fraud {openscriptures-strongs}
+    proximity: 0.7595 {macula-proximity}
   - strongs: H3585
-    proximity: 0.7551
+    lemma: כַּחַשׁ
+    gloss: literally a failure of flesh {openscriptures-strongs}
+    proximity: 0.7551 {macula-proximity}
   cross_language:
   - strongs: G4112
-    proximity: 0.8287
+    lemma: πλαστός
+    gloss: moulded {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G1386
-    proximity: 0.7898
+    lemma: δόλιος
+    gloss: guileful {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
     language: greek
   - strongs: G4103
-    proximity: 0.7669
+    lemma: πιστός
+    gloss: objectively {openscriptures-strongs}
+    proximity: 0.7669 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

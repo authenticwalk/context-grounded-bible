@@ -7,43 +7,51 @@ definition: a form (of beauty; as if pressed out, i.e. carved); hence, an (idola
   image
 kjv_usage: beauty, idol.
 derivation: the same as H6735 (צִיר);
-extended_definition:
-  gloss: image
-  definition: image, idol
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: image, idol {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7295
-    proximity: 0.8219
+    lemma: רָהָב
+    gloss: insolent {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: H8251
-    proximity: 0.8207
+    lemma: שִׁקּוּץ
+    gloss: disgusting {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H5257
-    proximity: 0.8091
+    lemma: נְסִיךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
   - strongs: H6108a
-    proximity: 0.7937
+    proximity: 0.7937 {macula-proximity}
   - strongs: H4758
-    proximity: 0.7918
+    lemma: מַרְאֶה
+    gloss: a view {openscriptures-strongs}
+    proximity: 0.7918 {macula-proximity}
   - strongs: A7299
-    proximity: 0.7692
+    proximity: 0.7692 {macula-proximity}
   cross_language:
   - strongs: G4984
-    proximity: 0.8298
+    lemma: σωματικός
+    gloss: corporeal or physical {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G4976
-    proximity: 0.827
+    lemma: σχῆμα
+    gloss: a figure {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: greek
   - strongs: G1496
-    proximity: 0.818
+    lemma: εἰδωλολάτρης
+    gloss: an image-  worshipper {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
     language: greek
   - strongs: G2397a
-    proximity: 0.8044
+    proximity: 0.8044 {macula-proximity}
     language: greek
   - strongs: G1494
-    proximity: 0.801
+    lemma: εἰδωλόθυτον
+    gloss: an image-sacrifice {openscriptures-strongs}
+    proximity: 0.801 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

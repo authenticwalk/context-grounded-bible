@@ -7,35 +7,48 @@ definition: properly, to glide swiftly, i.e. to crawl or move with short steps; 
   analogy to swarm
 kjv_usage: creep, move.
 derivation: a primitive root;
-extended_definition:
-  gloss: to creep
-  definition: 1) to creep, move lightly, move about, walk on all fours<br>1a) (Qal)<br>1a1)
-    to creep, teem (of all creeping things)<br>1a2) to creep (of animals)<br>1a3)
-    to move lightly, glide about (of water animals)<br>1a4) to move about (of all
-    land animals generally)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to creep, move lightly, move about, walk on all fours
+
+  1a) (Qal)
+
+  1a1) to creep, teem (of all creeping things)
+
+  1a2) to creep (of animals)
+
+  1a3) to move lightly, glide about (of water animals)
+
+  1a4) to move about (of all land animals generally) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5120
-    proximity: 0.8288
+    lemma: נוּט
+    gloss: to quake {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: H5253
-    proximity: 0.8207
+    lemma: נָסַג
+    gloss: to retreat {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H7370
-    proximity: 0.8076
+    lemma: רָחַשׁ
+    gloss: to gush {openscriptures-strongs}
+    proximity: 0.8076 {macula-proximity}
   - strongs: H1980
-    proximity: 0.7988
+    lemma: הָלַךְ
+    gloss: to walk (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   - strongs: H2123
-    proximity: 0.7712
+    lemma: זִיז
+    gloss: fulness of the breast {openscriptures-strongs}
+    proximity: 0.7712 {macula-proximity}
   cross_language:
   - strongs: G2226
-    proximity: 0.7937
+    lemma: ζῶον
+    gloss: a live thing {openscriptures-strongs}
+    proximity: 0.7937 {macula-proximity}
     language: greek
   - strongs: G2795
-    proximity: 0.7677
+    lemma: κινέω
+    gloss: to stir {openscriptures-strongs}
+    proximity: 0.7677 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

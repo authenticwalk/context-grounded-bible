@@ -5,30 +5,28 @@ transliteration: Euníkē
 definition: victorious; Eunice, a Jewess
 kjv_usage: Eunice
 derivation: from G2095 (εὖ) and G3529 (νίκη);
-extended_definition:
-  gloss: Eunice
-  definition: '<b>Εὐνίκη</b> (Rec. -νείκη), -ης, <BR /> <b>Eunice, Timothy''s mother</b>:
-    <ref=''2Ti.1.5.''>2Ti.1:5.</ref>†<BR /> (AS)'
-  morphology: N:N-F-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Εὐνίκη</b> (Rec. -νείκη), -ης, <BR /> <b>Eunice, Timothy''s
-    mother</b>: <ref=''2Ti.1.5.''>2Ti.1:5.</ref>†<BR />  (From Abbott-Smith. LSJ has
-    no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Εὐνίκη (Rec. -νείκη), -ης,
+
+  Eunice, Timothy''s mother: 2Ti.1:5.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Εὐνίκη (Rec. -νείκη), -ης,
+
+  Eunice, Timothy''s mother: 2Ti.1:5.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5403
-    proximity: 0.8179
+    lemma: Φοινίκη
+    gloss: palm-country {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
   - strongs: G959
-    proximity: 0.806
+    proximity: 0.806 {macula-proximity}
   cross_language:
   - strongs: H7017
-    proximity: 0.8297
+    lemma: קֵינִי
+    gloss: a Kenite or member of the tribe of Kajin {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

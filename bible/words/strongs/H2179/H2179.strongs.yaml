@@ -7,51 +7,63 @@ definition: to curtail, i.e. cut off the rear
 kjv_usage: smite the hindmost.
 derivation: a primitive root meaning to wag; used only as a denominative from H2180
   (זָנָב);
-extended_definition:
-  gloss: to cut off the tail
-  definition: 1) to cut off<br>1a) (Piel) to attack the rear, smite the tail
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to cut off
+
+  1a) (Piel) to attack the rear, smite the tail {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H310
-    proximity: 0.8222
+    proximity: 0.8222 {macula-proximity}
   - strongs: H6696a
-    proximity: 0.8188
+    proximity: 0.8188 {macula-proximity}
   - strongs: H5921
-    proximity: 0.8154
+    lemma: עַל
+    gloss: above {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8145
+    proximity: 0.8145 {macula-proximity}
   - strongs: H871a
-    proximity: 0.8061
+    proximity: 0.8061 {macula-proximity}
   - strongs: H8618
-    proximity: 0.8039
+    lemma: תְּקוֹמֵם
+    gloss: an opponent {openscriptures-strongs}
+    proximity: 0.8039 {macula-proximity}
   - strongs: H4480
-    proximity: 0.7941
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7941 {macula-proximity}
   - strongs: H5221
-    proximity: 0.7924
+    lemma: נָכָה
+    gloss: to strike (lightly or severely {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
   - strongs: H1464
-    proximity: 0.7897
+    lemma: גּוּד
+    gloss: to crowd upon {openscriptures-strongs}
+    proximity: 0.7897 {macula-proximity}
   - strongs: H2717a
-    proximity: 0.7884
+    proximity: 0.7884 {macula-proximity}
   cross_language:
   - strongs: G2713
-    proximity: 0.8276
+    lemma: κατέναντι
+    gloss: directly opposite {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: greek
   - strongs: G3694
-    proximity: 0.7998
+    lemma: ὀπίσω
+    gloss: to the back {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
     language: greek
   - strongs: G575
-    proximity: 0.7997
+    proximity: 0.7997 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.7969
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7969 {macula-proximity}
     language: greek
   - strongs: G1722
-    proximity: 0.7914
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.7914 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

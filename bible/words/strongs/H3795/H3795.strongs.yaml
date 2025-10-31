@@ -6,34 +6,39 @@ pronunciation: kaw-theeth'
 definition: beaten, i.e. pure (oil)
 kjv_usage: beaten.
 derivation: from H3807 (כָּתַת);
-extended_definition:
-  gloss: beaten
-  definition: 1) beaten out, pure, pounded fine (in a mortar), costly<br>1a) of olive
-    oil
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) beaten out, pure, pounded fine (in a mortar), costly
+
+  1a) of olive oil {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1660
-    proximity: 0.8275
+    lemma: גַּת
+    gloss: a wine-press {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: A1855
-    proximity: 0.8135
+    proximity: 0.8135 {macula-proximity}
   - strongs: H1743
-    proximity: 0.7451
+    lemma: דּוּךְ
+    gloss: to bruise in a mortar {openscriptures-strongs}
+    proximity: 0.7451 {macula-proximity}
   - strongs: H7820
-    proximity: 0.7339
+    lemma: שָׁחַט
+    gloss: to hammer out {openscriptures-strongs}
+    proximity: 0.7339 {macula-proximity}
   cross_language:
   - strongs: G5276
-    proximity: 0.8247
+    lemma: ὑπολήνιον
+    gloss: vessel or receptacle under the press {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: greek
   - strongs: G3025
-    proximity: 0.8108
+    lemma: ληνός
+    gloss: a trough {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
     language: greek
   - strongs: G2998
-    proximity: 0.8065
+    lemma: λατομέω
+    gloss: to quarry {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

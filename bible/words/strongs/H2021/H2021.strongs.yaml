@@ -6,27 +6,27 @@ pronunciation: ho'-tsen
 definition: a weapon of war
 kjv_usage: chariot.
 derivation: from an unused root meaning apparently to be sharp or strong;
-extended_definition:
-  gloss: weapon
-  definition: armour?, weapons? (meaning uncertain)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: armour?, weapons? (meaning uncertain) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1886a
-    proximity: 0.829
+    proximity: 0.829 {macula-proximity}
   - strongs: H4421
-    proximity: 0.8112
+    lemma: מִלְחָמָה
+    gloss: a battle {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
   - strongs: H6635
-    proximity: 0.806
+    lemma: צָבָא
+    gloss: a mass of persons (or figuratively {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
   - strongs: H3627
-    proximity: 0.7585
+    lemma: כְּלִי
+    gloss: something prepared {openscriptures-strongs}
+    proximity: 0.7585 {macula-proximity}
   cross_language:
   - strongs: G3833
-    proximity: 0.7514
+    lemma: πανοπλία
+    gloss: full armor {openscriptures-strongs}
+    proximity: 0.7514 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,45 +6,53 @@ pronunciation: khan-ee-naw'
 definition: graciousness
 kjv_usage: favour.
 derivation: from H2603 (חָנַן);
-extended_definition:
-  gloss: favor
-  definition: favour, compassion
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: favour, compassion {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2896b
-    proximity: 0.821
+    proximity: 0.821 {macula-proximity}
   - strongs: H2551a
-    proximity: 0.819
+    proximity: 0.819 {macula-proximity}
   - strongs: H2550
-    proximity: 0.8119
+    lemma: חָמַל
+    gloss: to commiserate {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: H5164
-    proximity: 0.8057
+    lemma: נֹחַם
+    gloss: ruefulness {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
   - strongs: H2587
-    proximity: 0.8026
+    lemma: חַנּוּן
+    gloss: gracious {openscriptures-strongs}
+    proximity: 0.8026 {macula-proximity}
   - strongs: H5150
-    proximity: 0.7822
+    lemma: נִחוּם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7822 {macula-proximity}
   - strongs: A2604
-    proximity: 0.7531
+    proximity: 0.7531 {macula-proximity}
   cross_language:
   - strongs: G4184
-    proximity: 0.8153
+    lemma: πολύσπλαγχνος
+    gloss: extremely compassionate {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
     language: greek
   - strongs: G2155
-    proximity: 0.8145
+    lemma: εὔσπλαγχνος
+    gloss: well compassioned {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
     language: greek
   - strongs: G1655
-    proximity: 0.8054
+    lemma: ἐλεήμων
+    gloss: compassionate {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
     language: greek
   - strongs: G448a
-    proximity: 0.7844
+    proximity: 0.7844 {macula-proximity}
     language: greek
   - strongs: G1914
-    proximity: 0.7752
+    lemma: ἐπιβλέπω
+    gloss: to gaze at (with favor {openscriptures-strongs}
+    proximity: 0.7752 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

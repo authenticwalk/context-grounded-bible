@@ -5,61 +5,73 @@ transliteration: dektós
 definition: approved; (figuratively) propitious
 kjv_usage: accepted(-table)
 derivation: from G1209 (δέχομαι);
-extended_definition:
-  gloss: acceptable
-  definition: '<b>δεκτός</b>, -ή, -όν <BR /> <i>verbal adj.</i> of δέχομαι, [in LXX
-    chiefly for רָצוֹן: <ref=''Pro.11.1''>Pro.11:1</ref>, al. ;] <BR /><b>acceptable</b>:
-    <ref=''Luk.4.19''>Luk.4:19</ref> (LXX) 24, <ref=''Act.10.35''>Act.10:35</ref>,
-    <ref=''2Co.6.2''>2Co.6:2</ref>" (LXX), <ref=''Php.4.18''>Php.4:18</ref> (cf. εὐπροσδ-).†<BR
-    /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> δεκ-τός</b>, ή, όν, <br /> <b>to be received</b> or <b>accepled,
-    acceptable,</b> [<a href="javascript:void(0)" title=" LXX.Isa.61.2, +others, NT.Luke.4.24
-    ">LXX+NT</a>]; δεκτόν [ἐστι] it is <b>an accepted principle,</b> with <i>infinitive</i>,
-    [<a href="javascript:void(0)" title=" 1st c.AD: Erotianus Grammaticus “Praef.”
-    ">Refs 1st c.AD+</a>]<br /><Level3><b>__2</b></Level3> <b>to be grasped,</b> χείρ
-    [<a href="javascript:void(0)" title=" 4th c.AD: Iamblichus Philosophus “Protrepticus”
-    21.ιθ. ">Refs 4th c.AD+</a>]<br /><Level2><b>__II</b></Level2> <b>to be taken,
-    understood,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Gadarensis
-    Epigrammaticus “Rh.” 2.269 5th c.BC: Sophocles Tragicus ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δεκτός, -ή, -όν
+
+  verbal adj. of δέχομαι, [in LXX chiefly for רָצוֹן: Pro.11:1, al. ;]
+
+  acceptable: Luk.4:19 (LXX) 24, Act.10:35, 2Co.6:2" (LXX), Php.4:18 (cf. εὐπροσδ-).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'δεκ-τός, ή, όν,
+
+  to be received or accepled, acceptable, [LXX+NT]; δεκτόν [ἐστι] it is an accepted
+  principle, with infinitive, [Refs 1st c.AD+]
+
+  __2 to be grasped, χείρ [Refs 4th c.AD+]
+
+  __II to be taken, understood, [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A5208
-    proximity: 0.8158
+    proximity: 0.8158 {macula-proximity}
   - strongs: G3880
-    proximity: 0.8032
+    lemma: παραλαμβάνω
+    gloss: to receive near {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
   - strongs: G4327
-    proximity: 0.782
+    lemma: προσδέχομαι
+    gloss: to admit (to intercourse {openscriptures-strongs}
+    proximity: 0.782 {macula-proximity}
   - strongs: G2101
-    proximity: 0.7747
+    lemma: εὐάρεστος
+    gloss: fully agreeable {openscriptures-strongs}
+    proximity: 0.7747 {macula-proximity}
   - strongs: G5562
-    proximity: 0.7671
+    lemma: χωρέω
+    gloss: to be in  space {openscriptures-strongs}
+    proximity: 0.7671 {macula-proximity}
   - strongs: G2102
-    proximity: 0.7554
+    lemma: εὐαρέστως
+    gloss: quite agreeably {openscriptures-strongs}
+    proximity: 0.7554 {macula-proximity}
   - strongs: G4356
-    proximity: 0.7542
+    lemma: πρόσληψις
+    gloss: admission {openscriptures-strongs}
+    proximity: 0.7542 {macula-proximity}
   cross_language:
   - strongs: H3947
-    proximity: 0.8252
+    lemma: לָקַח
+    gloss: to take {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: hebrew
   - strongs: H3190
-    proximity: 0.8221
+    lemma: יָטַב
+    gloss: to be  make well {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
     language: hebrew
   - strongs: H1878
-    proximity: 0.7915
+    lemma: דָּשֵׁן
+    gloss: to be fat {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
     language: hebrew
   - strongs: H2580
-    proximity: 0.7806
+    lemma: חֵן
+    gloss: graciousness {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
     language: hebrew
   - strongs: H6149
-    proximity: 0.7216
+    lemma: עָרֵב
+    gloss: to be agreeable {openscriptures-strongs}
+    proximity: 0.7216 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

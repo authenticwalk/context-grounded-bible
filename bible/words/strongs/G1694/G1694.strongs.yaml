@@ -5,50 +5,64 @@ transliteration: Emmanouḗl
 definition: God with us; Emmanuel, a name of Christ
 kjv_usage: Emmanuel
 derivation: of Hebrew origin (H06005);
-extended_definition:
-  gloss: Immanuel
-  definition: '<b>Ἐμμανουήλ</b>, ὁ (Heb. עִמָּנוּאֵל, <ref=''Isa.7.14''>Isa.7:14</ref>),
-    <BR /> <b>Immanuel</b>: <ref=''Mat.1.23''>Mat.1:23</ref> (LXX).†<BR /> (AS)'
-  morphology: N:N--T
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἐμμανουήλ</b>, ὁ (Heb. עִמָּנוּאֵל, <ref=''Isa.7.14''>Isa.7:14</ref>),
-    <BR /> <b>Immanuel</b>: <ref=''Mat.1.23''>Mat.1:23</ref> (LXX).†<BR />  (From
-    Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἐμμανουήλ, ὁ (Heb. עִמָּנוּאֵל, Isa.7:14),
+
+  Immanuel: Mat.1:23 (LXX).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἐμμανουήλ, ὁ (Heb. עִמָּנוּאֵל, Isa.7:14),
+
+  Immanuel: Mat.1:23 (LXX).†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2243
-    proximity: 0.8249
+    lemma: Ἡλίας
+    gloss: Helias {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
   - strongs: G2069
-    proximity: 0.8185
+    lemma: Ἐσλί
+    gloss: Esli {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: G1666
-    proximity: 0.8185
+    lemma: Ἐλισσαῖος
+    gloss: Elissæus {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: G3543
-    proximity: 0.8164
+    lemma: νομίζω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
   - strongs: G1663
-    proximity: 0.8095
+    lemma: Ἐλιέζερ
+    gloss: Eliezer {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
   - strongs: G2241
-    proximity: 0.7614
+    lemma: ἠλί
+    gloss: my God {openscriptures-strongs}
+    proximity: 0.7614 {macula-proximity}
   cross_language:
   - strongs: H449
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
     language: hebrew
   - strongs: H7472
-    proximity: 0.824
+    lemma: רֵעִי
+    gloss: Rei {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: hebrew
   - strongs: H5901
-    proximity: 0.824
+    lemma: עִירִי
+    gloss: Iri {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: hebrew
   - strongs: H6179
-    proximity: 0.8139
+    lemma: עֵרִי
+    gloss: Eri {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: hebrew
   - strongs: H5941
-    proximity: 0.7926
+    lemma: עֵלִי
+    gloss: Eli {openscriptures-strongs}
+    proximity: 0.7926 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

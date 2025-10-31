@@ -6,37 +6,41 @@ pronunciation: tip-pookh'
 definition: nursing
 kjv_usage: span long.
 derivation: from H2946 (טָפַח);
-extended_definition:
-  gloss: tender care
-  definition: tender care, dandling
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: tender care, dandling {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6213a
-    proximity: 0.7952
+    proximity: 0.7952 {macula-proximity}
   - strongs: H3209
-    proximity: 0.7622
+    lemma: יִלּוֹד
+    gloss: born {openscriptures-strongs}
+    proximity: 0.7622 {macula-proximity}
   - strongs: H3033
-    proximity: 0.7473
+    lemma: יְדִדוּת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7473 {macula-proximity}
   cross_language:
   - strongs: G1511
-    proximity: 0.8295
+    lemma: εἶναι
+    gloss: to exist {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G2071
-    proximity: 0.827
+    lemma: ἔσομαι
+    gloss: will be {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: greek
   - strongs: G26
-    proximity: 0.8257
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G2077
-    proximity: 0.7982
+    lemma: ἔστω
+    gloss: be thou {openscriptures-strongs}
+    proximity: 0.7982 {macula-proximity}
     language: greek
   - strongs: G2277
-    proximity: 0.7956
+    lemma: ἤτω
+    gloss: let him  be {openscriptures-strongs}
+    proximity: 0.7956 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

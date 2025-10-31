@@ -7,30 +7,37 @@ definition: properly, a seal (as sunk into the wax), i.e. signet (for sealing); 
   (generally) a ring of any kind
 kjv_usage: ring.
 derivation: from H2883 (טָבַע);
-extended_definition:
-  gloss: ring
-  definition: 1) ring, signet, signet ring<br>1a) signet ring (as symbol of authority)<br>1b)
-    ring (as ornament)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) ring, signet, signet ring
+
+  1a) signet ring (as symbol of authority)
+
+  1b) ring (as ornament) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2091
-    proximity: 0.8277
+    lemma: זָהָב
+    gloss: gold {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H6781
-    proximity: 0.8267
+    lemma: צָמִיד
+    gloss: a bracelet or arm-clasp {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
   - strongs: H2397
-    proximity: 0.7807
+    lemma: חָח
+    gloss: a ring for the nose {openscriptures-strongs}
+    proximity: 0.7807 {macula-proximity}
   - strongs: H1550
-    proximity: 0.747
+    lemma: גָּלִיל
+    gloss: a valve of a folding door {openscriptures-strongs}
+    proximity: 0.747 {macula-proximity}
   - strongs: H5694
-    proximity: 0.7322
+    lemma: עָגִיל
+    gloss: something round {openscriptures-strongs}
+    proximity: 0.7322 {macula-proximity}
   cross_language:
   - strongs: G1837
-    proximity: 0.8134
+    lemma: ἐξηχέομαι
+    gloss: to "echo" forth {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

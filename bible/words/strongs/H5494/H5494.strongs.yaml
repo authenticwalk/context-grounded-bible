@@ -6,37 +6,35 @@ pronunciation: soor
 definition: turned off, i.e. deteriorated
 kjv_usage: degenerate.
 derivation: probably passive participle of H5493 (סוּר);
-extended_definition:
-  gloss: degenerate
-  definition: degenerate
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: degenerate {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A8332
-    proximity: 0.8162
+    proximity: 0.8162 {macula-proximity}
   - strongs: A8332a
-    proximity: 0.7894
+    proximity: 0.7894 {macula-proximity}
   - strongs: H3249
-    proximity: 0.7211
+    lemma: יָסוּר
+    gloss: departing {openscriptures-strongs}
+    proximity: 0.7211 {macula-proximity}
   cross_language:
   - strongs: G654
-    proximity: 0.8128
+    proximity: 0.8128 {macula-proximity}
     language: greek
   - strongs: G4107
-    proximity: 0.8031
+    lemma: πλανήτης
+    gloss: a rover {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
     language: greek
   - strongs: G593
-    proximity: 0.784
+    proximity: 0.784 {macula-proximity}
     language: greek
   - strongs: G795
-    proximity: 0.7615
+    proximity: 0.7615 {macula-proximity}
     language: greek
   - strongs: G1578
-    proximity: 0.7472
+    lemma: ἐκκλίνω
+    gloss: to deviate {openscriptures-strongs}
+    proximity: 0.7472 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

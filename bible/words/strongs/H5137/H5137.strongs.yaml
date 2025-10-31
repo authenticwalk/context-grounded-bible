@@ -9,14 +9,15 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H5130a
-    proximity: 0.8039
+    proximity: 0.8039 {macula-proximity}
   - strongs: H2236
-    proximity: 0.7536
+    lemma: זָרַק
+    gloss: to sprinkle {openscriptures-strongs}
+    proximity: 0.7536 {macula-proximity}
   cross_language:
   - strongs: G4472
-    proximity: 0.7142
+    lemma: ῥαντίζω
+    gloss: to render besprinkled {openscriptures-strongs}
+    proximity: 0.7142 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

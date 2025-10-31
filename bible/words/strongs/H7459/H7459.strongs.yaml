@@ -6,21 +6,17 @@ pronunciation: reh-aw-bone'
 definition: famine
 kjv_usage: famine.
 derivation: from H7456 (רָעֵב);
-extended_definition:
-  gloss: famine
-  definition: hunger, lack of food, famine
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: hunger, lack of food, famine {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7456
-    proximity: 0.8113
+    lemma: רָעֵב
+    gloss: to hunger {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
   cross_language:
   - strongs: G3983
-    proximity: 0.8124
+    lemma: πεινάω
+    gloss: '"pine") {openscriptures-strongs}'
+    proximity: 0.8124 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

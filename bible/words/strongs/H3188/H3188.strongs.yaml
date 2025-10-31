@@ -6,24 +6,20 @@ pronunciation: yakh'-as
 definition: a pedigree or family list (as growing spontaneously)
 kjv_usage: genealogy.
 derivation: from H3187 (יָחַשׂ);
-extended_definition:
-  gloss: genealogy
-  definition: genealogy
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: genealogy {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4940
-    proximity: 0.8185
+    lemma: מִשְׁפָּחָה
+    gloss: a family {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   cross_language:
   - strongs: G3965
-    proximity: 0.8125
+    lemma: πατριά
+    gloss: paternal descent {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G976
-    proximity: 0.7627
+    proximity: 0.7627 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

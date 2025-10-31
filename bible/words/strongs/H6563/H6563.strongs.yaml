@@ -6,48 +6,64 @@ pronunciation: peh'-rek
 definition: rapine; also a fork (in roads)
 kjv_usage: crossway, robbery.
 derivation: from H6561 (פָּרַק);
-extended_definition:
-  gloss: plunder
-  definition: parting of ways, breaking in upon, plunder, crossroad
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: parting of ways, breaking in upon, plunder, crossroad {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6184
-    proximity: 0.8249
+    lemma: עָרִיץ
+    gloss: fearful {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8238
+    proximity: 0.8238 {macula-proximity}
   - strongs: H4207
-    proximity: 0.823
+    lemma: מַזְלֵג
+    gloss: a fork {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: H1499
-    proximity: 0.8074
+    lemma: גֵּזֶל
+    gloss: plunder {openscriptures-strongs}
+    proximity: 0.8074 {macula-proximity}
   - strongs: H6906
-    proximity: 0.8006
+    lemma: קָבַע
+    gloss: to cover {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
   - strongs: H4062
-    proximity: 0.7815
+    lemma: מַדְהֵבָה
+    gloss: goldmaking {openscriptures-strongs}
+    proximity: 0.7815 {macula-proximity}
   - strongs: H7701
-    proximity: 0.7758
+    lemma: שֹׁד
+    gloss: violence {openscriptures-strongs}
+    proximity: 0.7758 {macula-proximity}
   - strongs: H2555
-    proximity: 0.7686
+    lemma: חָמָס
+    gloss: violence {openscriptures-strongs}
+    proximity: 0.7686 {macula-proximity}
   - strongs: H1497
-    proximity: 0.7611
+    lemma: גָּזַל
+    gloss: to pluck off {openscriptures-strongs}
+    proximity: 0.7611 {macula-proximity}
   - strongs: H961
-    proximity: 0.7587
+    proximity: 0.7587 {macula-proximity}
   cross_language:
   - strongs: G3598
-    proximity: 0.8175
+    lemma: ὁδός
+    gloss: a road {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.812
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
     language: greek
   - strongs: G1327
-    proximity: 0.7886
+    lemma: διέξοδος
+    gloss: an outlet through {openscriptures-strongs}
+    proximity: 0.7886 {macula-proximity}
     language: greek
   - strongs: G1283
-    proximity: 0.7263
+    lemma: διαρπάζω
+    gloss: to seize asunder {openscriptures-strongs}
+    proximity: 0.7263 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

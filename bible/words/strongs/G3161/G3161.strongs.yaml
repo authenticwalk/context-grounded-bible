@@ -5,44 +5,48 @@ transliteration: Mattathías
 definition: Mattathias (i.e. Mattithjah), an Israelite and a Christian
 kjv_usage: Mattathias
 derivation: of Hebrew origin (H04993);
-extended_definition:
-  gloss: Mattathias
-  definition: '<b>Ματταθίας</b>, -ου, ὁ <BR /> <b>Mattathias </b>(cf. Μαθθίας): <ref=''Luk.3.25-26.''>Luk.3:25-26.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ματταθίας</b>, -ου, ὁ <BR /> <b>Mattathias </b>(cf. Μαθθίας):
-    <ref=''Luk.3.25-26.''>Luk.3:25-26.</ref>†<BR />  (From Abbott-Smith. LSJ has no
-    entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ματταθίας, -ου, ὁ
+
+  Mattathias (cf. Μαθθίας): Luk.3:25-26.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ματταθίας, -ου, ὁ
+
+  Mattathias (cf. Μαθθίας): Luk.3:25-26.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3158a
-    proximity: 0.8251
+    proximity: 0.8251 {macula-proximity}
   - strongs: G2283
-    proximity: 0.8201
+    lemma: Θάμαρ
+    gloss: Thamar {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: G3160
-    proximity: 0.8121
+    lemma: Ματταθά
+    gloss: Mattatha {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   cross_language:
   - strongs: H4992
-    proximity: 0.8278
+    lemma: מַתַּתָּה
+    gloss: Mattattah {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: hebrew
   - strongs: H6021
-    proximity: 0.8275
+    lemma: עֲמָשָׂא
+    gloss: Amasa {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
     language: hebrew
   - strongs: H871
-    proximity: 0.8193
+    proximity: 0.8193 {macula-proximity}
     language: hebrew
   - strongs: H4495
-    proximity: 0.8167
+    lemma: מָנוֹחַ
+    gloss: Manoach {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
     language: hebrew
   - strongs: H54
-    proximity: 0.8148
+    proximity: 0.8148 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

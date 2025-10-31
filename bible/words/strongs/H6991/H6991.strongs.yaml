@@ -6,49 +6,60 @@ pronunciation: kaw-tal'
 definition: properly, to cut off, i.e. (figuratively) put to death
 kjv_usage: kill, slay.
 derivation: a primitive root;
-extended_definition:
-  gloss: to slay
-  definition: '(Qal) to slay, kill<BR>Aramaic equivalent: <i>qe.tal</i> (קְטַל "to
-    slay" H6992)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '(Qal) to slay, kill
+
+  Aramaic equivalent: qe.tal (קְטַל "to slay" H6992) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1818
-    proximity: 0.8066
+    lemma: דָּם
+    gloss: blood  of man or an animal {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
   - strongs: H2874
-    proximity: 0.7907
+    lemma: טֶבַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7907 {macula-proximity}
   - strongs: H2763
-    proximity: 0.7889
+    lemma: חָרַם
+    gloss: to seclude {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
   - strongs: H7843
-    proximity: 0.7843
+    lemma: שָׁחַת
+    gloss: to decay {openscriptures-strongs}
+    proximity: 0.7843 {macula-proximity}
   - strongs: H8158
-    proximity: 0.7785
+    lemma: שָׁסַף
+    gloss: to cut in pieces {openscriptures-strongs}
+    proximity: 0.7785 {macula-proximity}
   - strongs: H7524
-    proximity: 0.7689
+    lemma: רֶצַח
+    gloss: a crushing {openscriptures-strongs}
+    proximity: 0.7689 {macula-proximity}
   - strongs: H6
-    proximity: 0.7641
+    proximity: 0.7641 {macula-proximity}
   - strongs: H4191
-    proximity: 0.7537
+    lemma: מוּת
+    gloss: to die {openscriptures-strongs}
+    proximity: 0.7537 {macula-proximity}
   - strongs: A6992
-    proximity: 0.7525
+    proximity: 0.7525 {macula-proximity}
   - strongs: H12
-    proximity: 0.7469
+    proximity: 0.7469 {macula-proximity}
   cross_language:
   - strongs: G3389
-    proximity: 0.7849
+    lemma: μητραλῴας
+    gloss: a mother-thresher {openscriptures-strongs}
+    proximity: 0.7849 {macula-proximity}
     language: greek
   - strongs: G3964a
-    proximity: 0.7827
+    proximity: 0.7827 {macula-proximity}
     language: greek
   - strongs: G4969
-    proximity: 0.7735
+    lemma: σφάζω
+    gloss: to butcher  or  to slaughter {openscriptures-strongs}
+    proximity: 0.7735 {macula-proximity}
     language: greek
   - strongs: G622
-    proximity: 0.7667
+    proximity: 0.7667 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

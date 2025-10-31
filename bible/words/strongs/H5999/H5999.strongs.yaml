@@ -7,50 +7,69 @@ definition: toil, i.e. wearing effort; hence, worry, wheth. of body or mind
 kjv_usage: grievance(-vousness), iniquity, labour, mischief, miserable(-sery), pain(-ful),
   perverseness, sorrow, toil, travail, trouble, wearisome, wickedness.
 derivation: from H5998 (עָמַל);
-extended_definition:
-  gloss: trouble
-  definition: 1) toil, trouble, labour<br>1a) trouble<br>1b) trouble, mischief<br>1c)
-    toil, labour
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: '1) toil, trouble, labour
+
+  1a) trouble
+
+  1b) trouble, mischief
+
+  1c) toil, labour {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7563
-    proximity: 0.8292
+    lemma: רָשָׁע
+    gloss: morally wrong {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: H6001
-    proximity: 0.8289
+    lemma: עָמֵל
+    gloss: toiling {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H6468
-    proximity: 0.8276
+    lemma: פְּעֻלָּה
+    gloss: work {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: H5450
-    proximity: 0.8276
+    lemma: סְבָלָה
+    gloss: porterage {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: H1942
-    proximity: 0.8272
+    lemma: הַוָּה
+    gloss: by implication {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: H4844
-    proximity: 0.8255
+    lemma: מְרֹר
+    gloss: a bitter herb {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: H6031
-    proximity: 0.8248
+    lemma: עָנָה
+    gloss: to depress literally or figuratively {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: H2427
-    proximity: 0.8239
+    lemma: חִיל
+    gloss: a throe {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: H4522
-    proximity: 0.8198
+    lemma: מַס
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
   cross_language:
   - strongs: G4189
-    proximity: 0.8291
+    lemma: πονηρία
+    gloss: depravity {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
     language: greek
   - strongs: G2038
-    proximity: 0.8228
+    lemma: ἐργάζομαι
+    gloss: to toil (as a task {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
     language: greek
   - strongs: G931
-    proximity: 0.8214
+    proximity: 0.8214 {macula-proximity}
     language: greek
   - strongs: G922
-    proximity: 0.8206
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G74
-    proximity: 0.8195
+    proximity: 0.8195 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

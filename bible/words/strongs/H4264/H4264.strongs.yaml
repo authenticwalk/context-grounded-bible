@@ -8,43 +8,58 @@ definition: an encampment (of travellers or troops); hence, an army, whether lit
   the sacred courts)
 kjv_usage: army, band, battle, camp, company, drove, host, tents.
 derivation: from H2583 (חָנָה);
-extended_definition:
-  gloss: camp
-  definition: 1) encampment, camp<br>1a) camp, place of encampment<br>1b) camp of
-    armed host, army camp<br>1c) those who encamp, company, body of people
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) encampment, camp
+
+  1a) camp, place of encampment
+
+  1b) camp of armed host, army camp
+
+  1c) those who encamp, company, body of people {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4411
-    proximity: 0.8262
+    lemma: מָלוֹן
+    gloss: a lodgment {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: H8628
-    proximity: 0.8233
+    lemma: תָּקַע
+    gloss: to clatter {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H7931
-    proximity: 0.8181
+    lemma: שָׁכַן
+    gloss: to reside or permanently stay {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
   - strongs: H5265
-    proximity: 0.8093
+    lemma: נָסַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
   - strongs: A2429
-    proximity: 0.8031
+    proximity: 0.8031 {macula-proximity}
   - strongs: H4265
-    proximity: 0.7973
+    lemma: מַחֲנֵה־דָן
+    gloss: Machaneh-Dan {openscriptures-strongs}
+    proximity: 0.7973 {macula-proximity}
   - strongs: H2428a
-    proximity: 0.7794
+    proximity: 0.7794 {macula-proximity}
   - strongs: H6951
-    proximity: 0.7791
+    lemma: קָהָל
+    gloss: assemblage {openscriptures-strongs}
+    proximity: 0.7791 {macula-proximity}
   - strongs: H1995
-    proximity: 0.7756
+    lemma: הָמוֹן
+    gloss: a noise {openscriptures-strongs}
+    proximity: 0.7756 {macula-proximity}
   - strongs: H2416e
-    proximity: 0.7719
+    proximity: 0.7719 {macula-proximity}
   cross_language:
   - strongs: G4686
-    proximity: 0.8196
+    lemma: σπεῖρα
+    gloss: a coil (spira {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
     language: greek
   - strongs: G4756
-    proximity: 0.8178
+    lemma: στρατιά
+    gloss: from the base of G4766 {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

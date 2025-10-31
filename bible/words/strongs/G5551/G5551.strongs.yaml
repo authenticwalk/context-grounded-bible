@@ -5,58 +5,66 @@ transliteration: chronotribéō
 definition: to be a time-wearer, i.e. to procrastinate (linger)
 kjv_usage: spend time
 derivation: from a presumed compound of G5550 (χρόνος) and the base of G5147 (τρίβος);
-extended_definition:
-  gloss: to spend time
-  definition: '<b>χρονοτριβέω</b>, -ῶ<BR /> (χρόνος, τρίβω), <BR /><b>to spend time</b>:
-    <ref=''Act.20.16.''>Act.20:16.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> χρονοτρῐβέω</b>, <br /> <b>waste time, loiter,</b> [<a href="javascript:void(0)"
-    title=" 4th c.BC: Aristoteles Philosophus “Rhetorica” 1406a37, 1st-2nd c.AD: Leonidas
-    Medicus cited in 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.225b, NT.Act.20.16,
-    Men.Prot. p.21 4th c.BC: Demosthenes Orator ">NT+4th c.BC+</a>]:—<i>middle</i>,
-    [<a href="javascript:void(0)" title=" “UPZ” 39.29 (2nd c.BC). ">Refs 2nd c.BC+</a>]<br
-    /><Level3><b>__2</b></Level3> with <i>accusative</i>, χ. τὸν πόλεμον <b>protract</b>
-    the war, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus
-    et Philosophus “Cat.Mi.” 53, 4th-5th c.AD: Eunapius Historicus “Fragmenta Historica
-    - HGM” p.242 4th c.BC: Demosthenes Orator ">Refs 4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'χρονοτριβέω, -ῶ
+
+  (χρόνος, τρίβω),
+
+  to spend time: Act.20:16.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'χρονοτρῐβέω,
+
+  waste time, loiter, [NT+4th c.BC+]:—middle, [Refs 2nd c.BC+]
+
+  __2 with accusative, χ. τὸν πόλεμον protract the war, [Refs 4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5549
-    proximity: 0.8284
+    lemma: χρονίζω
+    gloss: to take time {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: G3573
-    proximity: 0.8216
+    lemma: νυστάζω
+    gloss: to nod {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   - strongs: G1539
-    proximity: 0.8029
+    lemma: ἑκάστοτε
+    gloss: at every time {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
   - strongs: G2119
-    proximity: 0.7712
+    lemma: εὐκαιρέω
+    gloss: to have good time {openscriptures-strongs}
+    proximity: 0.7712 {macula-proximity}
   - strongs: G5550
-    proximity: 0.7165
+    lemma: χρόνος
+    gloss: a space of time (in general {openscriptures-strongs}
+    proximity: 0.7165 {macula-proximity}
   - strongs: G2540
-    proximity: 0.7113
+    lemma: καιρός
+    gloss: an occasion {openscriptures-strongs}
+    proximity: 0.7113 {macula-proximity}
   - strongs: G1019
-    proximity: 0.7069
+    lemma: βραδύνω
+    gloss: to delay {openscriptures-strongs}
+    proximity: 0.7069 {macula-proximity}
   cross_language:
   - strongs: H6471
-    proximity: 0.8244
+    lemma: פַּעַם
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: hebrew
   - strongs: H3117a
-    proximity: 0.8083
+    proximity: 0.8083 {macula-proximity}
     language: hebrew
   - strongs: H309
-    proximity: 0.8051
+    proximity: 0.8051 {macula-proximity}
     language: hebrew
   - strongs: H954a
-    proximity: 0.7804
+    proximity: 0.7804 {macula-proximity}
     language: hebrew
   - strongs: H4102
-    proximity: 0.7581
+    lemma: מָהַהּ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7581 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

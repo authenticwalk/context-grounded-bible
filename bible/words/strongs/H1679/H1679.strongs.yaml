@@ -7,48 +7,54 @@ definition: quiet
 kjv_usage: strength.
 derivation: from an unused root (compare H1680 (דָּבַב)) (probably meaning to be sluggish,
   i.e. restful);
-extended_definition:
-  gloss: strength
-  definition: strength?, rest? (meaning obscure)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: strength?, rest? (meaning obscure) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H983
-    proximity: 0.827
+    proximity: 0.827 {macula-proximity}
   - strongs: H4206a
-    proximity: 0.8227
+    proximity: 0.8227 {macula-proximity}
   - strongs: H853
-    proximity: 0.8202
+    proximity: 0.8202 {macula-proximity}
   - strongs: H4581
-    proximity: 0.8181
+    lemma: מָעוֹז
+    gloss: a fortified place {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
   - strongs: H5807
-    proximity: 0.8101
+    lemma: עֱזוּז
+    gloss: forcibleness {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
   - strongs: H7961
-    proximity: 0.7933
+    lemma: שָׁלֵו
+    gloss: tranquil {openscriptures-strongs}
+    proximity: 0.7933 {macula-proximity}
   - strongs: A8624
-    proximity: 0.7901
+    proximity: 0.7901 {macula-proximity}
   - strongs: H193
-    proximity: 0.7874
+    proximity: 0.7874 {macula-proximity}
   - strongs: H8592
-    proximity: 0.7805
+    lemma: תַּעֲצֻמָה
+    gloss: might {openscriptures-strongs}
+    proximity: 0.7805 {macula-proximity}
   - strongs: H1369
-    proximity: 0.7744
+    lemma: גְּבוּרָה
+    gloss: force {openscriptures-strongs}
+    proximity: 0.7744 {macula-proximity}
   cross_language:
   - strongs: G372
-    proximity: 0.8168
+    proximity: 0.8168 {macula-proximity}
     language: greek
   - strongs: G1753
-    proximity: 0.8014
+    lemma: ἐνέργεια
+    gloss: efficiency {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
     language: greek
   - strongs: G425
-    proximity: 0.7854
+    proximity: 0.7854 {macula-proximity}
     language: greek
   - strongs: G1743
-    proximity: 0.7662
+    lemma: ἐνδυναμόω
+    gloss: to empower {openscriptures-strongs}
+    proximity: 0.7662 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

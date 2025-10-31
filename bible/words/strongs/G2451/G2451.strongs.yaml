@@ -5,53 +5,64 @@ transliteration: Ioudaïkós
 definition: Judaïc, i.e. resembling a Judæan
 kjv_usage: Jewish
 derivation: from G2453 (Ἰουδαῖος);
-extended_definition:
-  gloss: Jewish
-  definition: '<b>Ἰουδαϊκός</b>, ή, -όν <BR /> [in LXX: <ref=''2Ma.8.11''>2Ma.8:11</ref>
-    V, <ref=''2Ma.13.21''>2Ma.13:21</ref> * ;] <BR /><b>Jewish</b>: <ref=''Tit.1.14.''>Tit.1:14.</ref>†<BR
-    /> (AS)'
-  morphology: N:A--PG
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: 'Included with: <b> Ἰουδαῖος</b>, ὁ, <br /> <b>a Jewish man</b>:
-    <b>Ἰουδαία</b>, <b>a Jewish woman</b>; ἡ Ἰουδαία (i.e. γῆ) “Judaea”: —<b>Ἰουδα-ϊκός</b>,
-    ή, όν, “Jewish”, [<a href="javascript:void(0)" title=" LXX.2Mac.8.11, etc. ">LXX</a>]
-    <i>adverb</i> <b>-κῶς</b> [<a href="javascript:void(0)" title=" 1st c.AD: Josephus
-    Historicus “Bellum Judaicum” 6.1.3, NT.Gal.2.14, “Codex Justinianus [4th-6th c.AD]”
-    1.1.7.4: ">NT+1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'Ἰουδαϊκός, ή, -όν
+
+  [in LXX: 2Ma.8:11 V, 2Ma.13:21 * ;]
+
+  Jewish: Tit.1:14.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Included with:  Ἰουδαῖος, ὁ,
+
+  a Jewish man: Ἰουδαία, a Jewish woman; ἡ Ἰουδαία (i.e. γῆ) “Judaea”: —Ἰουδα-ϊκός,
+  ή, όν, “Jewish”, [LXX] adverb -κῶς [NT+1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1445
-    proximity: 0.8272
+    lemma: Ἑβραῖος
+    gloss: a Hebræan  or Jew {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: G3588
-    proximity: 0.825
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: G1052
-    proximity: 0.8096
+    lemma: Γαλάτης
+    gloss: a Galatian or inhabitant of Galatia {openscriptures-strongs}
+    proximity: 0.8096 {macula-proximity}
   - strongs: G1675
-    proximity: 0.8083
+    lemma: Ἑλληνιστής
+    gloss: a Hellenist or Greek-speaking Jew {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
   - strongs: A3061
-    proximity: 0.7986
+    proximity: 0.7986 {macula-proximity}
   - strongs: G2992
-    proximity: 0.7919
+    lemma: λαός
+    gloss: a people (in general {openscriptures-strongs}
+    proximity: 0.7919 {macula-proximity}
   - strongs: G435
-    proximity: 0.7892
+    proximity: 0.7892 {macula-proximity}
   - strongs: G2959
-    proximity: 0.7841
+    lemma: Κυρία
+    gloss: Cyria {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
   - strongs: G2450
-    proximity: 0.7809
+    lemma: Ἰουδαΐζω
+    gloss: to become a Judæan {openscriptures-strongs}
+    proximity: 0.7809 {macula-proximity}
   - strongs: G2454
-    proximity: 0.7778
+    lemma: Ἰουδαϊσμός
+    gloss: '"Judaism" {openscriptures-strongs}'
+    proximity: 0.7778 {macula-proximity}
   cross_language:
   - strongs: H3054
-    proximity: 0.7964
+    lemma: יָהַד
+    gloss: to Judaize {openscriptures-strongs}
+    proximity: 0.7964 {macula-proximity}
     language: hebrew
   - strongs: H3063
-    proximity: 0.7081
+    lemma: יְהוּדָה
+    gloss: Jehudah {openscriptures-strongs}
+    proximity: 0.7081 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

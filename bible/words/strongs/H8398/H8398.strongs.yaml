@@ -8,45 +8,45 @@ definition: the earth (as moist and therefore inhabited); by extension, the glob
   Palestine
 kjv_usage: habitable part, world.
 derivation: from H2986 (יָבַל);
-extended_definition:
-  gloss: world
-  definition: world
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: world {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A606
-    proximity: 0.8279
+    proximity: 0.8279 {macula-proximity}
   - strongs: A778
-    proximity: 0.8271
+    proximity: 0.8271 {macula-proximity}
   - strongs: H1460a
-    proximity: 0.821
+    proximity: 0.821 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.8183
+    proximity: 0.8183 {macula-proximity}
   - strongs: H6083
-    proximity: 0.8047
+    lemma: עָפָר
+    gloss: dust {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
   - strongs: H120
-    proximity: 0.7925
+    proximity: 0.7925 {macula-proximity}
   - strongs: H657
-    proximity: 0.7268
+    proximity: 0.7268 {macula-proximity}
   cross_language:
   - strongs: G359
-    proximity: 0.8192
+    proximity: 0.8192 {macula-proximity}
     language: greek
   - strongs: G1475
-    proximity: 0.7925
+    lemma: ἔδαφος
+    gloss: a basis {openscriptures-strongs}
+    proximity: 0.7925 {macula-proximity}
     language: greek
   - strongs: G1919
-    proximity: 0.7869
+    lemma: ἐπίγειος
+    gloss: worldly {openscriptures-strongs}
+    proximity: 0.7869 {macula-proximity}
     language: greek
   - strongs: G165
-    proximity: 0.7671
+    proximity: 0.7671 {macula-proximity}
     language: greek
   - strongs: G2886
-    proximity: 0.7641
+    lemma: κοσμικός
+    gloss: terrene {openscriptures-strongs}
+    proximity: 0.7641 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

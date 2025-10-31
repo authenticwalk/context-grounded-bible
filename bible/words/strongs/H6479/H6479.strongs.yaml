@@ -6,32 +6,36 @@ pronunciation: pets-aw-law'
 definition: a peeling
 kjv_usage: strake.
 derivation: from H6478 (פָּצַל);
-extended_definition:
-  gloss: stripe
-  definition: stripe, peeled spot or stripe or strip
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: stripe, peeled spot or stripe or strip {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7758
-    proximity: 0.829
+    lemma: שׁוֹלָל
+    gloss: nude {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: H2834
-    proximity: 0.8259
+    lemma: חָשַׂף
+    gloss: to strip off {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: A5426
-    proximity: 0.8207
+    proximity: 0.8207 {macula-proximity}
   - strongs: H6584
-    proximity: 0.8205
+    lemma: פָּשַׁט
+    gloss: to spread out {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: H6478
-    proximity: 0.7857
+    lemma: פָּצַל
+    gloss: to peel {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
   cross_language:
   - strongs: G1562
-    proximity: 0.8291
+    lemma: ἐκδύω
+    gloss: to cause to sink out of {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
     language: greek
   - strongs: G2750
-    proximity: 0.7973
+    lemma: κειρία
+    gloss: a swathe {openscriptures-strongs}
+    proximity: 0.7973 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

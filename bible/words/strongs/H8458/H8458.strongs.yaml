@@ -7,44 +7,60 @@ definition: (only in plural) properly, steerage (as a management of ropes), i.e.
   guidance or (by implication) a plan
 kjv_usage: good advice, (wise) counsels.
 derivation: or תַּחְבּוּלָה; from H2254 (חָבַל) as denominative from H2256 (חֶבֶל);
-extended_definition:
-  gloss: counsel
-  definition: 1) direction, counsel, guidance, good advice, (wise) counsel<br>1a)
-    direction, guidance<br>1b) counsel<br>1b1) good or wise counsel<br>1b2) of the
-    wicked
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) direction, counsel, guidance, good advice, (wise) counsel
+
+  1a) direction, guidance
+
+  1b) counsel
+
+  1b1) good or wise counsel
+
+  1b2) of the wicked {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4284
-    proximity: 0.8295
+    lemma: מַחֲשָׁבָה
+    gloss: a contrivance {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H6098a
-    proximity: 0.8211
+    proximity: 0.8211 {macula-proximity}
   - strongs: H833
-    proximity: 0.82
+    proximity: 0.82 {macula-proximity}
   - strongs: H2162
-    proximity: 0.8131
+    lemma: זָמָם
+    gloss: a plot {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
   - strongs: H2449
-    proximity: 0.8124
+    lemma: חָכַם
+    gloss: to be wise (in mind {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: H6250
-    proximity: 0.8115
+    lemma: עֶשְׁתֹּנָה
+    gloss: thinking {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
   - strongs: H6122
-    proximity: 0.8109
+    lemma: עׇקְבָה
+    gloss: trickery {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
   - strongs: H4209
-    proximity: 0.7984
+    lemma: מְזִמָּה
+    gloss: a plan {openscriptures-strongs}
+    proximity: 0.7984 {macula-proximity}
   - strongs: A5843
-    proximity: 0.7971
+    proximity: 0.7971 {macula-proximity}
   - strongs: H2450
-    proximity: 0.7891
+    lemma: חָכָם
+    gloss: wise {openscriptures-strongs}
+    proximity: 0.7891 {macula-proximity}
   cross_language:
   - strongs: G1012
-    proximity: 0.794
+    lemma: βουλή
+    gloss: volition {openscriptures-strongs}
+    proximity: 0.794 {macula-proximity}
     language: greek
   - strongs: G4680
-    proximity: 0.7697
+    lemma: σοφός
+    gloss: wise {openscriptures-strongs}
+    proximity: 0.7697 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

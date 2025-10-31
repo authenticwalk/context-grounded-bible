@@ -7,48 +7,65 @@ definition: a blow (figuratively, infliction); also (by implication) a spot (con
   a leprous person or dress)
 kjv_usage: plague, sore, stricken, stripe, stroke, wound.
 derivation: from H5060 (נָגַע);
-extended_definition:
-  gloss: plague
-  definition: 1) stroke, plague, disease, mark, plague spot<br>1a) stroke, wound<br>1b)
-    stroke (metaphorical of disease)<br>1c) mark (of leprosy)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) stroke, plague, disease, mark, plague spot
+
+  1a) stroke, wound
+
+  1b) stroke (metaphorical of disease)
+
+  1c) mark (of leprosy) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1942a
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
   - strongs: H7451
-    proximity: 0.8286
+    lemma: רַע
+    gloss: bad or  evil {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: H4245
-    proximity: 0.827
+    lemma: מַחֲלֶה
+    gloss: sickness {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H1795
-    proximity: 0.8183
+    lemma: דַּכָּה
+    gloss: mutilated {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: H6986
-    proximity: 0.8075
+    lemma: קֶטֶב
+    gloss: ruin {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
   - strongs: H5063
-    proximity: 0.8042
+    lemma: נֶגֶף
+    gloss: a trip {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: H343
-    proximity: 0.8037
+    proximity: 0.8037 {macula-proximity}
   - strongs: H2483
-    proximity: 0.795
+    lemma: חֳלִי
+    gloss: malady {openscriptures-strongs}
+    proximity: 0.795 {macula-proximity}
   cross_language:
   - strongs: G3015
-    proximity: 0.8234
+    lemma: λεπρός
+    gloss: scaly {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
     language: greek
   - strongs: G3468
-    proximity: 0.8185
+    lemma: μώλωψ
+    gloss: probably akin to the base of G3433 ) and probably (the face {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
     language: greek
   - strongs: G2192
-    proximity: 0.8175
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: greek
   - strongs: G5134
-    proximity: 0.8133
+    lemma: τραῦμα
+    gloss: akin to the base of G2352 {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
     language: greek
   - strongs: G770
-    proximity: 0.8048
+    proximity: 0.8048 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

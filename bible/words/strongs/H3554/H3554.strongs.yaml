@@ -7,51 +7,69 @@ definition: properly, to prick or penetrate; hence, to blister (as smarting or e
   into)
 kjv_usage: burn.
 derivation: a primitive root;
-extended_definition:
-  gloss: to burn
-  definition: 1) to burn, scorch, brand<br>1a) (Niphal) to be burned, be scorched
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to burn, scorch, brand
+
+  1a) (Niphal) to be burned, be scorched {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3341
-    proximity: 0.823
+    lemma: יָצַת
+    gloss: to burn or set on fire {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: H6999
-    proximity: 0.8188
+    lemma: קָטַר
+    gloss: to smoke {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
   - strongs: H1816
-    proximity: 0.8168
+    lemma: דַּלֶּקֶת
+    gloss: a burning fever {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H3587
-    proximity: 0.8143
+    lemma: כִּי
+    gloss: a brand or scar {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
   - strongs: H5635
-    proximity: 0.808
+    lemma: סָרַף
+    gloss: to cremate {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
   - strongs: H3350
-    proximity: 0.807
+    lemma: יְקוֹד
+    gloss: a burning {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
   - strongs: H8316
-    proximity: 0.8008
+    lemma: שְׂרֵפָה
+    gloss: cremation {openscriptures-strongs}
+    proximity: 0.8008 {macula-proximity}
   - strongs: H4955
-    proximity: 0.7936
+    lemma: מִשְׂרָפָה
+    gloss: combustion {openscriptures-strongs}
+    proximity: 0.7936 {macula-proximity}
   - strongs: H1197
-    proximity: 0.7884
+    lemma: בָּעַר
+    gloss: to kindle {openscriptures-strongs}
+    proximity: 0.7884 {macula-proximity}
   - strongs: A3346
-    proximity: 0.7841
+    proximity: 0.7841 {macula-proximity}
   cross_language:
   - strongs: G2743a
-    proximity: 0.8172
+    proximity: 0.8172 {macula-proximity}
     language: greek
   - strongs: G1714a
-    proximity: 0.8055
+    proximity: 0.8055 {macula-proximity}
     language: greek
   - strongs: G4448
-    proximity: 0.8038
+    lemma: πυρόω
+    gloss: to kindle {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
     language: greek
   - strongs: G1572
-    proximity: 0.798
+    lemma: ἐκκαίω
+    gloss: to inflame deeply {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
     language: greek
   - strongs: G4451
-    proximity: 0.7951
+    lemma: πύρωσις
+    gloss: ignition {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

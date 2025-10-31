@@ -7,35 +7,35 @@ definition: properly, salted (i.e. land), i.e. a desert
 kjv_usage: barren land(-ness), salt (land).
 derivation: from H4414 (מָלַח) (in its denominative sense); understood as land (H776
   (אֶרֶץ))
-extended_definition:
-  gloss: saltiness
-  definition: saltness, barrenness, saltiness
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: saltness, barrenness, saltiness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7709
-    proximity: 0.8271
+    lemma: שְׁדֵמָה
+    gloss: a cultivated field {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: H1516c
-    proximity: 0.8147
+    proximity: 0.8147 {macula-proximity}
   - strongs: H1326
-    proximity: 0.8085
+    lemma: בָּתָה
+    gloss: desolation {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
   - strongs: H2548
-    proximity: 0.8002
+    lemma: חָמִיץ
+    gloss: seasoned {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: A4416
-    proximity: 0.7959
+    proximity: 0.7959 {macula-proximity}
   cross_language:
   - strongs: G1091
-    proximity: 0.8164
+    lemma: γεώργιον
+    gloss: cultivable {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
     language: greek
   - strongs: G252
-    proximity: 0.7796
+    proximity: 0.7796 {macula-proximity}
     language: greek
   - strongs: G233
-    proximity: 0.7212
+    proximity: 0.7212 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

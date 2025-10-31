@@ -7,32 +7,38 @@ definition: a shield (i.e. the small one or buckler); figuratively, a protector;
   the scaly hide of the crocodile
 kjv_usage: '[idiom] armed, buckler, defence, ruler, [phrase] scale, shield.'
 derivation: also (in plural) feminine מְגִנָּה; from H1598 (גָּנַן);
-extended_definition:
-  gloss: shield
-  definition: shield, buckler
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: shield, buckler {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7193
-    proximity: 0.8267
+    lemma: קַשְׂקֶשֶׂת
+    gloss: a scale {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
   - strongs: H4697
-    proximity: 0.8248
+    lemma: מִצְחָה
+    gloss: a shinpiece of armor {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: H5526
-    proximity: 0.7956
+    lemma: סָכַךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7956 {macula-proximity}
   - strongs: H5699
-    proximity: 0.7233
+    lemma: עֲגָלָה
+    gloss: something revolving {openscriptures-strongs}
+    proximity: 0.7233 {macula-proximity}
   - strongs: H2653
-    proximity: 0.7165
+    lemma: חׇפַף
+    gloss: to cover {openscriptures-strongs}
+    proximity: 0.7165 {macula-proximity}
   cross_language:
   - strongs: G2532
-    proximity: 0.8257
+    lemma: καί
+    gloss: and {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G1314
-    proximity: 0.8028
+    lemma: διαφυλάσσω
+    gloss: to guard thoroughly {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

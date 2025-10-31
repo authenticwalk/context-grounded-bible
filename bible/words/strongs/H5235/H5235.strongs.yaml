@@ -6,45 +6,61 @@ pronunciation: neh'-ker
 definition: something strange, i.e. unexpected calamity
 kjv_usage: strange.
 derivation: or נֹכֶר; from H5234 (נָכַר);
-extended_definition:
-  gloss: misfortune
-  definition: calamity, disaster, misfortune
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: calamity, disaster, misfortune {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7722
-    proximity: 0.8293
+    lemma: שׁוֹא
+    gloss: a tempest {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: H4691
-    proximity: 0.8178
+    lemma: מְצוּקָה
+    gloss: narrowness {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   - strongs: H7612
-    proximity: 0.8155
+    lemma: שֵׁאת
+    gloss: devastation {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H4046
-    proximity: 0.8086
+    lemma: מַגֵּפָה
+    gloss: a pestilence {openscriptures-strongs}
+    proximity: 0.8086 {macula-proximity}
   - strongs: H5916
-    proximity: 0.8065
+    lemma: עָכַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
   - strongs: H4347
-    proximity: 0.8051
+    lemma: מַכָּה
+    gloss: a wound {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
   - strongs: H1958
-    proximity: 0.8006
+    lemma: הִי
+    gloss: lamentation {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
   - strongs: H6862
-    proximity: 0.7977
+    lemma: צַר
+    gloss: narrow {openscriptures-strongs}
+    proximity: 0.7977 {macula-proximity}
   - strongs: H1226a
-    proximity: 0.7924
+    proximity: 0.7924 {macula-proximity}
   - strongs: H5061
-    proximity: 0.7877
+    lemma: נֶגַע
+    gloss: a blow (figuratively {openscriptures-strongs}
+    proximity: 0.7877 {macula-proximity}
   cross_language:
   - strongs: G3759
-    proximity: 0.8253
+    lemma: οὐαί
+    gloss: '"woe" {openscriptures-strongs}'
+    proximity: 0.8253 {macula-proximity}
     language: greek
   - strongs: G2346
-    proximity: 0.8042
+    lemma: θλίβω
+    gloss: to crowd {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
     language: greek
   - strongs: G2347
-    proximity: 0.7864
+    lemma: θλῖψις
+    gloss: pressure {openscriptures-strongs}
+    proximity: 0.7864 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

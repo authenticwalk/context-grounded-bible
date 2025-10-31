@@ -6,43 +6,57 @@ pronunciation: neh'-der
 definition: a promise (to God); also (concretely) a thing promised
 kjv_usage: vow(-ed).
 derivation: or נֵדֶר; from H5087 (נָדַר);
-extended_definition:
-  gloss: vow
-  definition: vow, votive offering
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: vow, votive offering {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4503
-    proximity: 0.8294
+    lemma: מִנְחָה
+    gloss: a donation {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: H6475
-    proximity: 0.8284
+    lemma: פָּצָה
+    gloss: to rend {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H2077
-    proximity: 0.8216
+    lemma: זֶבַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   - strongs: H7133
-    proximity: 0.7893
+    lemma: קׇרְבָּן
+    gloss: something brought near the altar {openscriptures-strongs}
+    proximity: 0.7893 {macula-proximity}
   - strongs: H6381
-    proximity: 0.754
+    lemma: פָּלָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.754 {macula-proximity}
   - strongs: H7650
-    proximity: 0.7341
+    lemma: שָׁבַע
+    gloss: to seven oneself {openscriptures-strongs}
+    proximity: 0.7341 {macula-proximity}
   cross_language:
   - strongs: G2378
-    proximity: 0.8252
+    lemma: θυσία
+    gloss: sacrifice (the act or the victim {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: greek
   - strongs: G2171
-    proximity: 0.8017
+    lemma: εὐχή
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
     language: greek
   - strongs: G3660
-    proximity: 0.7901
+    lemma: ὀμνύω
+    gloss: to swear {openscriptures-strongs}
+    proximity: 0.7901 {macula-proximity}
     language: greek
   - strongs: G1964
-    proximity: 0.7772
+    lemma: ἐπιορκέω
+    gloss: to commit perjury {openscriptures-strongs}
+    proximity: 0.7772 {macula-proximity}
     language: greek
   - strongs: G1906
-    proximity: 0.7457
+    lemma: ἐπερώτημα
+    gloss: an inquiry {openscriptures-strongs}
+    proximity: 0.7457 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

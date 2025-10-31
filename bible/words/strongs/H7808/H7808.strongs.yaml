@@ -6,43 +6,51 @@ pronunciation: say'-akh
 definition: communion, i.e. (reflexively) meditation
 kjv_usage: thought.
 derivation: for H7879 (שִׂיחַ);
-extended_definition:
-  gloss: thought
-  definition: thought
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: thought {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1697
-    proximity: 0.8277
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H2803
-    proximity: 0.8158
+    lemma: חָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: H7907
-    proximity: 0.8141
+    lemma: שֶׂכְוִי
+    gloss: observant {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: A1079
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
   - strongs: H871a
-    proximity: 0.7995
+    proximity: 0.7995 {macula-proximity}
   - strongs: H4093
-    proximity: 0.7796
+    lemma: מַדָּע
+    gloss: intelligence or consciousness {openscriptures-strongs}
+    proximity: 0.7796 {macula-proximity}
   cross_language:
   - strongs: G2588
-    proximity: 0.8246
+    lemma: καρδία
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
     language: greek
   - strongs: G1260
-    proximity: 0.8222
+    lemma: διαλογίζομαι
+    gloss: to reckon thoroughly {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
     language: greek
   - strongs: G1380
-    proximity: 0.8111
+    lemma: δοκέω
+    gloss: compare the base of G1166 ) of the same meaning {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
     language: greek
   - strongs: G2309
-    proximity: 0.8101
+    lemma: θέλω
+    gloss: to determine (as an active option from subjective impulse {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
     language: greek
   - strongs: G357
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

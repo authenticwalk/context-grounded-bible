@@ -6,45 +6,57 @@ pronunciation: shib-rone'
 definition: rupture, i.e. a pang; figuratively, ruin
 kjv_usage: breaking, destruction.
 derivation: from H7665 (שָׁבַר);
-extended_definition:
-  gloss: breaking
-  definition: destruction, breaking, shattering, crushing
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: destruction, breaking, shattering, crushing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3772
-    proximity: 0.8288
+    lemma: כָּרַת
+    gloss: to cut (off {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: H3510
-    proximity: 0.8258
+    lemma: כָּאַב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H7612
-    proximity: 0.8221
+    lemma: שֵׁאת
+    gloss: devastation {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H8
-    proximity: 0.8215
+    proximity: 0.8215 {macula-proximity}
   - strongs: H6626
-    proximity: 0.821
+    lemma: פָּתַת
+    gloss: to open {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
   - strongs: H8601
-    proximity: 0.8161
+    lemma: תֻּפִין
+    gloss: cookery {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H6331
-    proximity: 0.8152
+    lemma: פּוּר
+    gloss: to crush {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: H1942a
-    proximity: 0.815
+    proximity: 0.815 {macula-proximity}
   - strongs: H4288
-    proximity: 0.8144
+    lemma: מְחִתָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8144 {macula-proximity}
   - strongs: H2865
-    proximity: 0.8128
+    lemma: חָתַת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
   cross_language:
   - strongs: G2801
-    proximity: 0.8254
+    lemma: κλάσμα
+    gloss: a piece {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: greek
   - strongs: G854
-    proximity: 0.8153
+    proximity: 0.8153 {macula-proximity}
     language: greek
   - strongs: G3089
-    proximity: 0.8126
+    lemma: λύω
+    gloss: to "loosen" {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

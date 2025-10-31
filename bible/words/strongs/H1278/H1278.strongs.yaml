@@ -6,39 +6,43 @@ pronunciation: ber-ee-aw'
 definition: a creation, i.e. a novelty
 kjv_usage: new thing.
 derivation: feminine from H1254 (בָּרָא);
-extended_definition:
-  gloss: creation
-  definition: a creation, created thing, new thing, marvel
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: a creation, created thing, new thing, marvel {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8492
-    proximity: 0.8259
+    lemma: תִּירוֹשׁ
+    gloss: must or fresh grape-juice {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: A383
-    proximity: 0.823
+    proximity: 0.823 {macula-proximity}
   - strongs: H8085
-    proximity: 0.8221
+    lemma: שָׁמַע
+    gloss: to hear intelligently (often with implication of attention {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: A8086
-    proximity: 0.787
+    proximity: 0.787 {macula-proximity}
   cross_language:
   - strongs: G4455
-    proximity: 0.8249
+    lemma: πώποτε
+    gloss: at any time {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: greek
   - strongs: G4229
-    proximity: 0.8234
+    lemma: πρᾶγμα
+    gloss: a deed {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
     language: greek
   - strongs: G1762
-    proximity: 0.8178
+    lemma: ἔνι
+    gloss: impersonally {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
     language: greek
   - strongs: G3763
-    proximity: 0.8005
+    lemma: οὐδέποτε
+    gloss: not even at any time {openscriptures-strongs}
+    proximity: 0.8005 {macula-proximity}
     language: greek
   - strongs: G191
-    proximity: 0.7922
+    proximity: 0.7922 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

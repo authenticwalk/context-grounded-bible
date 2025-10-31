@@ -6,52 +6,71 @@ pronunciation: pith-gawm'
 definition: a (judicial) sentence
 kjv_usage: decree, sentence.
 derivation: of Persian origin;
-extended_definition:
-  gloss: edict
-  definition: 'edict, decree<BR>Aramaic equivalent: <i>pit.gam</i> (פִּתְגָם "edict"
-    H6600)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'edict, decree
+
+  Aramaic equivalent: pit.gam (פִּתְגָם "edict" H6600) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4941
-    proximity: 0.8278
+    lemma: מִשְׁפָּט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H8196
-    proximity: 0.8135
+    lemma: שְׁפוֹט
+    gloss: a judicial sentence {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: H6673
-    proximity: 0.8111
+    lemma: צַו
+    gloss: an injunction {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: H8433
-    proximity: 0.8103
+    lemma: תּוֹכֵחָה
+    gloss: chastisement {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   - strongs: H1697
-    proximity: 0.8035
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
   - strongs: H2782
-    proximity: 0.8013
+    lemma: חָרַץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
   - strongs: H2852
-    proximity: 0.8002
+    lemma: חָתַךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: A7470a
-    proximity: 0.7931
+    proximity: 0.7931 {macula-proximity}
   - strongs: H4687
-    proximity: 0.7861
+    lemma: מִצְוָה
+    gloss: a command {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
   - strongs: A7010
-    proximity: 0.7844
+    proximity: 0.7844 {macula-proximity}
   cross_language:
   - strongs: G1106
-    proximity: 0.8277
+    lemma: γνώμη
+    gloss: cognition {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: greek
   - strongs: G3852
-    proximity: 0.8238
+    lemma: παραγγελία
+    gloss: a mandate {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
     language: greek
   - strongs: G5098
-    proximity: 0.8087
+    lemma: τιμωρία
+    gloss: vindication {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
     language: greek
   - strongs: G2851
-    proximity: 0.8077
+    lemma: κόλασις
+    gloss: penal infliction {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
     language: greek
   - strongs: G2849
-    proximity: 0.8012
+    lemma: κολάζω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

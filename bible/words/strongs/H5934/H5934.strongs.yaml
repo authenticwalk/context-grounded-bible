@@ -7,31 +7,35 @@ definition: (only in plural as abstract) adolescence; figuratively, vigor
 kjv_usage: youth.
 derivation: passive participle of H5956 (עָלַם) in the denominative sense of H5958
   (עֶלֶם);
-extended_definition:
-  gloss: youth
-  definition: youth, youthful, vigour
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: youth, youthful, vigour {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5958
-    proximity: 0.8151
+    lemma: עֶלֶם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
   - strongs: H2209
-    proximity: 0.8001
+    lemma: זִקְנָה
+    gloss: old age {openscriptures-strongs}
+    proximity: 0.8001 {macula-proximity}
   - strongs: H5290
-    proximity: 0.77
+    lemma: נֹעַר
+    gloss: boyhood {openscriptures-strongs}
+    proximity: 0.77 {macula-proximity}
   - strongs: H979a
-    proximity: 0.7666
+    proximity: 0.7666 {macula-proximity}
   - strongs: H7839
-    proximity: 0.7208
+    lemma: שַׁחֲרוּת
+    gloss: a dawning {openscriptures-strongs}
+    proximity: 0.7208 {macula-proximity}
   - strongs: H6812
-    proximity: 0.7198
+    lemma: צְעִירָה
+    gloss: smallness {openscriptures-strongs}
+    proximity: 0.7198 {macula-proximity}
   cross_language:
   - strongs: G3512
-    proximity: 0.7118
+    lemma: νεωτερικός
+    gloss: appertaining to younger persons {openscriptures-strongs}
+    proximity: 0.7118 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

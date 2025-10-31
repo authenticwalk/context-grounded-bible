@@ -8,48 +8,77 @@ definition: an enactment; hence, an appointment (of time, space, quantity, labor
 kjv_usage: appointed, bound, commandment, convenient, custom, decree(-d), due, law,
   measure, [idiom] necessary, ordinance(-nary), portion, set time, statute, task.
 derivation: from H2710 (חָקַק);
-extended_definition:
-  gloss: 'statute: allotment'
-  definition: ': allotment/boundary<br>1) statute, ordinance, limit, something prescribed,
-    due<br>1a) prescribed task<br>1b) prescribed portion<br>1c) action prescribed
-    (for oneself), resolve<br>1d) prescribed due<br>1e) prescribed limit, boundary<br>1f)
-    enactment, decree, ordinance<br>1f1) specific decree<br>1f2) law in general<br>1g)
-    enactments, statutes<br>1g1) conditions<br>1g2) enactments<br>1g3) decrees<br>1g4)
-    civil enactments prescribed by God'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': allotment/boundary
+
+  1) statute, ordinance, limit, something prescribed, due
+
+  1a) prescribed task
+
+  1b) prescribed portion
+
+  1c) action prescribed (for oneself), resolve
+
+  1d) prescribed due
+
+  1e) prescribed limit, boundary
+
+  1f) enactment, decree, ordinance
+
+  1f1) specific decree
+
+  1f2) law in general
+
+  1g) enactments, statutes
+
+  1g1) conditions
+
+  1g2) enactments
+
+  1g3) decrees
+
+  1g4) civil enactments prescribed by God {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1697
-    proximity: 0.8206
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: A2818a
-    proximity: 0.8199
+    proximity: 0.8199 {macula-proximity}
   - strongs: H6878
-    proximity: 0.8199
+    lemma: צֹרֶךְ
+    gloss: need {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H548
-    proximity: 0.8168
+    proximity: 0.8168 {macula-proximity}
   - strongs: H400
-    proximity: 0.8094
+    proximity: 0.8094 {macula-proximity}
   - strongs: H1366
-    proximity: 0.8094
+    lemma: גְּבוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
   cross_language:
   - strongs: G4620
-    proximity: 0.8279
+    lemma: σιτόμετρον
+    gloss: a grain-measure {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G4188
-    proximity: 0.826
+    lemma: πόμα
+    gloss: a beverage {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
     language: greek
   - strongs: G4367
-    proximity: 0.8249
+    lemma: προστάσσω
+    gloss: to arrange towards {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: greek
   - strongs: G1486a
-    proximity: 0.8245
+    proximity: 0.8245 {macula-proximity}
     language: greek
   - strongs: G3862
-    proximity: 0.8188
+    lemma: παράδοσις
+    gloss: transmission {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

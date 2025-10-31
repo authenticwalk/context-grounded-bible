@@ -6,47 +6,55 @@ pronunciation: doom-maw'
 definition: desolation; concretely, desolate
 kjv_usage: destroy.
 derivation: from H1820 (דָּמָה);
-extended_definition:
-  gloss: destroyed
-  definition: one silenced, one quieted by destruction, one destroyed
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: one silenced, one quieted by destruction, one destroyed {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A1934
-    proximity: 0.8261
+    proximity: 0.8261 {macula-proximity}
   - strongs: H6789
-    proximity: 0.8251
+    lemma: צָמַת
+    gloss: to extirpate {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H1826
-    proximity: 0.8244
+    lemma: דָּמַם
+    gloss: to be dumb {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: A2255
-    proximity: 0.8185
+    proximity: 0.8185 {macula-proximity}
   - strongs: A5642a
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
   - strongs: H2013a
-    proximity: 0.8042
+    proximity: 0.8042 {macula-proximity}
   - strongs: H481
-    proximity: 0.8025
+    proximity: 0.8025 {macula-proximity}
   - strongs: H1961
-    proximity: 0.7793
+    lemma: הָיָה
+    gloss: to exist {openscriptures-strongs}
+    proximity: 0.7793 {macula-proximity}
   cross_language:
   - strongs: G1311
-    proximity: 0.8125
+    lemma: διαφθείρω
+    gloss: to rot thoroughly {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G2271
-    proximity: 0.8086
+    lemma: ἡσυχία
+    gloss: stillness {openscriptures-strongs}
+    proximity: 0.8086 {macula-proximity}
     language: greek
   - strongs: G2077
-    proximity: 0.7913
+    lemma: ἔστω
+    gloss: be thou {openscriptures-strongs}
+    proximity: 0.7913 {macula-proximity}
     language: greek
   - strongs: G2277
-    proximity: 0.7887
+    lemma: ἤτω
+    gloss: let him  be {openscriptures-strongs}
+    proximity: 0.7887 {macula-proximity}
     language: greek
   - strongs: G2258
-    proximity: 0.7867
+    lemma: ἦν
+    gloss: I (thou {openscriptures-strongs}
+    proximity: 0.7867 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,29 +6,25 @@ pronunciation: ah'-yit
 definition: a hawk or other bird of prey
 kjv_usage: bird, fowl, ravenous (bird).
 derivation: from H5860 (עִיט);
-extended_definition:
-  gloss: bird of prey
-  definition: bird of prey, a swooper
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: bird of prey, a swooper {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A5403
-    proximity: 0.8142
+    proximity: 0.8142 {macula-proximity}
   - strongs: H5322a
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
   cross_language:
   - strongs: G105
-    proximity: 0.827
+    proximity: 0.827 {macula-proximity}
     language: greek
   - strongs: G4072
-    proximity: 0.7751
+    lemma: πέτομαι
+    gloss: to fly {openscriptures-strongs}
+    proximity: 0.7751 {macula-proximity}
     language: greek
   - strongs: G4421
-    proximity: 0.7039
+    lemma: πτηνόν
+    gloss: a bird {openscriptures-strongs}
+    proximity: 0.7039 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

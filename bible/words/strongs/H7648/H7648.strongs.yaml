@@ -6,45 +6,55 @@ pronunciation: so'-bah
 definition: satisfaction (of food or (figuratively) joy)
 kjv_usage: fill, full(-ness), satisfying, be satisfied.
 derivation: from H7646 (שָׂבַע);
-extended_definition:
-  gloss: satiety
-  definition: 1) satiety, abundance, fulness<br>1a) satiety<br>1b) abundance
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) satiety, abundance, fulness
+
+  1a) satiety
+
+  1b) abundance {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7647
-    proximity: 0.8225
+    lemma: שָׂבָע
+    gloss: copiousness {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: H4395
-    proximity: 0.8007
+    lemma: מְלֵאָה
+    gloss: something fulfilled {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: H2109a
-    proximity: 0.7951
+    proximity: 0.7951 {macula-proximity}
   - strongs: A7118
-    proximity: 0.7931
+    proximity: 0.7931 {macula-proximity}
   - strongs: A629
-    proximity: 0.7862
+    proximity: 0.7862 {macula-proximity}
   - strongs: H8230b
-    proximity: 0.7653
+    proximity: 0.7653 {macula-proximity}
   - strongs: H4393
-    proximity: 0.749
+    lemma: מְלֹא
+    gloss: fulness {openscriptures-strongs}
+    proximity: 0.749 {macula-proximity}
   cross_language:
   - strongs: G4052
-    proximity: 0.7982
+    lemma: περισσεύω
+    gloss: to superabound {openscriptures-strongs}
+    proximity: 0.7982 {macula-proximity}
     language: greek
   - strongs: G4136
-    proximity: 0.7847
+    lemma: πληροφορία
+    gloss: entire confidence {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
     language: greek
   - strongs: G4051
-    proximity: 0.7733
+    lemma: περίσσευμα
+    gloss: a surplus {openscriptures-strongs}
+    proximity: 0.7733 {macula-proximity}
     language: greek
   - strongs: G4050
-    proximity: 0.7579
+    lemma: περισσεία
+    gloss: surplusage {openscriptures-strongs}
+    proximity: 0.7579 {macula-proximity}
     language: greek
   - strongs: G841
-    proximity: 0.7521
+    proximity: 0.7521 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

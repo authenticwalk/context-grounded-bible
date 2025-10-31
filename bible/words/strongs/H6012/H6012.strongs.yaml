@@ -6,35 +6,38 @@ pronunciation: aw-make'
 definition: deep (literally or figuratively)
 kjv_usage: deeper, depth, strange.
 derivation: from H6009 (עָמַק);
-extended_definition:
-  gloss: unfathomable
-  definition: '1) deep, unfathomable<br>1a) unintelligible (of speech)<BR>Aramaic
-    equivalent: <i>a.miq</i> (עֲמִיק "deep" H5994)'
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) deep, unfathomable
+
+  1a) unintelligible (of speech)
+
+  Aramaic equivalent: a.miq (עֲמִיק "deep" H5994) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6013
-    proximity: 0.799
+    lemma: עָמֹק
+    gloss: deep {openscriptures-strongs}
+    proximity: 0.799 {macula-proximity}
   - strongs: H6009
-    proximity: 0.756
+    lemma: עָמַק
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.756 {macula-proximity}
   - strongs: A5994
-    proximity: 0.7012
+    proximity: 0.7012 {macula-proximity}
   cross_language:
   - strongs: G1425
-    proximity: 0.8239
+    lemma: δυσνόητος
+    gloss: difficult of perception {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G2399
-    proximity: 0.7901
+    lemma: ἰδιώτης
+    gloss: a private person {openscriptures-strongs}
+    proximity: 0.7901 {macula-proximity}
     language: greek
   - strongs: G901
-    proximity: 0.7737
+    proximity: 0.7737 {macula-proximity}
     language: greek
   - strongs: G899
-    proximity: 0.7653
+    proximity: 0.7653 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

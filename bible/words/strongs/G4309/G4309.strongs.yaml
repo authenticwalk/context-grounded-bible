@@ -5,56 +5,68 @@ transliteration: proorízō
 definition: to limit in advance, i.e. (figuratively) predetermine
 kjv_usage: determine before, ordain, predestinate
 derivation: from G4253 (πρό) and G3724 (ὁρίζω);
-extended_definition:
-  gloss: to predestine
-  definition: '<b>προ-ορίζω </b><BR /> <b>to predetermine, foreordain</b>: with accusative,
-    <ref=''Rom.8.30''>Rom.8:30;</ref> id. and inf., <ref=''Act.4.28''>Act.4:28;</ref>
-    id. before εἰς, <ref=''1Co.2.7''>1Co.2:7</ref>, <ref=''Eph.1.5''>Eph.1:5</ref>;
-    with dupl. accusative, <ref=''Rom.8.26''>Rom.8:26;</ref> pass., <ref=''Eph.1.11.''>Eph.1:11.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> προορ-ίζω</b>, <br /> <b>determine beforehand,</b> ἡμέραν [<a
-    href="javascript:void(0)" title=" 3rd c.AD: Heliodorus Scriptor Eroticus 7.24
-    ">Refs 3rd c.AD+</a>]; <b>predetermine, predestine,</b> ἡμᾶς εἰς υἱοθεσίαν [<a
-    href="javascript:void(0)" title=" NT.Eph.1.5; τι γενέσθαι NT.Act.4.28 ">NT</a>];
-    τινὰς συμμόρφους (i.e. γενέσθαι) [<a href="javascript:void(0)" title=" NT.Rom.8.29.
-    ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'προ-ορίζω
+
+  to predetermine, foreordain: with accusative, Rom.8:30; id. and inf., Act.4:28;
+  id. before εἰς, 1Co.2:7, Eph.1:5; with dupl. accusative, Rom.8:26; pass., Eph.1:11.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'προορ-ίζω,
+
+  determine beforehand, ἡμέραν [Refs 3rd c.AD+]; predetermine, predestine, ἡμᾶς εἰς
+  υἱοθεσίαν [NT]; τινὰς συμμόρφους (i.e. γενέσθαι) [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4296
-    proximity: 0.829
+    lemma: προκηρύσσω
+    gloss: to herald  in advance {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: G4282
-    proximity: 0.8231
+    lemma: προετοιμάζω
+    gloss: to fit up in advance {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: G4267
-    proximity: 0.8168
+    lemma: προγινώσκω
+    gloss: to know beforehand {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: G4301
-    proximity: 0.7869
+    lemma: προλαμβάνω
+    gloss: to take in advance {openscriptures-strongs}
+    proximity: 0.7869 {macula-proximity}
   - strongs: G4401
-    proximity: 0.7828
+    lemma: προχειροτονέω
+    gloss: to elect in advance {openscriptures-strongs}
+    proximity: 0.7828 {macula-proximity}
   - strongs: G4300
-    proximity: 0.7619
+    lemma: προκυρόω
+    gloss: to ratify previously {openscriptures-strongs}
+    proximity: 0.7619 {macula-proximity}
   - strongs: G3724
-    proximity: 0.7252
+    lemma: ὁρίζω
+    gloss: to mark out or bound {openscriptures-strongs}
+    proximity: 0.7252 {macula-proximity}
   - strongs: G4384
-    proximity: 0.7227
+    lemma: προτάσσω
+    gloss: to pre-arrange {openscriptures-strongs}
+    proximity: 0.7227 {macula-proximity}
   - strongs: G5021
-    proximity: 0.7069
+    lemma: τάσσω
+    gloss: to arrange in an orderly manner {openscriptures-strongs}
+    proximity: 0.7069 {macula-proximity}
   cross_language:
   - strongs: H3982
-    proximity: 0.8252
+    lemma: מַאֲמַר
+    gloss: something  said {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: hebrew
   - strongs: H4145
-    proximity: 0.8184
+    lemma: מוּסָדָה
+    gloss: a foundation {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
     language: hebrew
   - strongs: H4662
-    proximity: 0.7251
+    lemma: מִפְקָד
+    gloss: an appointment {openscriptures-strongs}
+    proximity: 0.7251 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

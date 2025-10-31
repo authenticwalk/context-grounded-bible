@@ -5,39 +5,46 @@ transliteration: Patrobâs
 definition: father's life; Patrobas, a Christian
 kjv_usage: Patrobas
 derivation: perhaps a contraction for (a compound of G3962 (πατήρ) and G979 (βίος));
-extended_definition:
-  gloss: Patrobas
-  definition: '<b>Πατρόβας</b>, -ᾶ, ὁ <BR /> <b>Patrobas</b>: <ref=''Rom.16.14.''>Rom.16:14.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Πατρόβας</b>, -ᾶ, ὁ <BR /> <b>Patrobas</b>: <ref=''Rom.16.14.''>Rom.16:14.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Πατρόβας, -ᾶ, ὁ
+
+  Patrobas: Rom.16:14.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Πατρόβας, -ᾶ, ὁ
+
+  Patrobas: Rom.16:14.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2832
-    proximity: 0.8258
+    lemma: Κλωπᾶς
+    gloss: Clopas {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   cross_language:
   - strongs: H3876
-    proximity: 0.8229
+    lemma: לוֹט
+    gloss: Lot {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: hebrew
   - strongs: H1324
-    proximity: 0.8216
+    lemma: בַּת
+    gloss: a bath or Hebrew measure  of liquids {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
     language: hebrew
   - strongs: H6624
-    proximity: 0.8185
+    lemma: פַּתְרוֹס
+    gloss: Pathros {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
     language: hebrew
   - strongs: H5028
-    proximity: 0.8178
+    lemma: נְבָט
+    gloss: Nebat {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
     language: hebrew
   - strongs: H2875
-    proximity: 0.8169
+    lemma: טֶבַח
+    gloss: Tebach {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

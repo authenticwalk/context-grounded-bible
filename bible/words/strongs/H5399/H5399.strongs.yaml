@@ -7,47 +7,59 @@ definition: properly, a breeze, i.e. (by implication) dusk (when the evening bre
   prevails)
 kjv_usage: dark, dawning of the day (morning), night, twilight.
 derivation: from H5398 (נָשַׁף);
-extended_definition:
-  gloss: twilight
-  definition: 1) twilight<br>1a) evening twilight<br>1b) morning twilight
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) twilight
+
+  1a) evening twilight
+
+  1b) morning twilight {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1886a
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
   - strongs: H219
-    proximity: 0.8248
+    proximity: 0.8248 {macula-proximity}
   - strongs: H2821
-    proximity: 0.8199
+    lemma: חָשַׁךְ
+    gloss: to be dark {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H2822
-    proximity: 0.8014
+    lemma: חֹשֶׁךְ
+    gloss: the dark {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
   - strongs: H216
-    proximity: 0.7953
+    proximity: 0.7953 {macula-proximity}
   - strongs: H1966
-    proximity: 0.7882
+    lemma: הֵילֵל
+    gloss: the morning-star {openscriptures-strongs}
+    proximity: 0.7882 {macula-proximity}
   - strongs: A3916
-    proximity: 0.7411
+    proximity: 0.7411 {macula-proximity}
   - strongs: H3915
-    proximity: 0.7365
+    lemma: לַיִל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7365 {macula-proximity}
   cross_language:
   - strongs: G4654
-    proximity: 0.8089
+    lemma: σκοτίζω
+    gloss: to obscure {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
     language: greek
   - strongs: G5459
-    proximity: 0.7933
+    lemma: φωσφόρος
+    gloss: light-bearing {openscriptures-strongs}
+    proximity: 0.7933 {macula-proximity}
     language: greek
   - strongs: G3722
-    proximity: 0.7754
+    lemma: ὄρθρος
+    gloss: dawn (as sun-rise {openscriptures-strongs}
+    proximity: 0.7754 {macula-proximity}
     language: greek
   - strongs: G827
-    proximity: 0.7601
+    proximity: 0.7601 {macula-proximity}
     language: greek
   - strongs: G3571
-    proximity: 0.742
+    lemma: νύξ
+    gloss: '"night" {openscriptures-strongs}'
+    proximity: 0.742 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

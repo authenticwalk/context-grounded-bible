@@ -6,39 +6,37 @@ pronunciation: naw-khayth'
 definition: descending
 kjv_usage: come down.
 derivation: from H5181 (נָחַת);
-extended_definition:
-  gloss: descended
-  definition: descending
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: descending {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A858
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
   - strongs: A236
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
   - strongs: H935
-    proximity: 0.7896
+    proximity: 0.7896 {macula-proximity}
   - strongs: H696
-    proximity: 0.7885
+    proximity: 0.7885 {macula-proximity}
   cross_language:
   - strongs: G2955a
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G1079
-    proximity: 0.8194
+    lemma: γενετή
+    gloss: birth {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G549
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G2630
-    proximity: 0.8154
+    lemma: κατακρημνίζω
+    gloss: to precipitate down {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
     language: greek
   - strongs: G1931
-    proximity: 0.8139
+    lemma: ἐπιδύω
+    gloss: to set fully {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

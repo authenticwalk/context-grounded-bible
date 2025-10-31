@@ -7,51 +7,67 @@ definition: a sound
 kjv_usage: speech, tumult.
 derivation: or (too fully) הֲמוּלָּה; (Jeremiah 11:16), feminine passive participle
   of an unused root meaning to rush (as rain with a windy roar);
-extended_definition:
-  gloss: tumult
-  definition: rushing, roaring, rainstorm, roaring sound, rushing sound
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: rushing, roaring, rainstorm, roaring sound, rushing sound {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5099
-    proximity: 0.8296
+    lemma: נַהַם
+    gloss: a snarl {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H7285a
-    proximity: 0.8083
+    proximity: 0.8083 {macula-proximity}
   - strongs: H8175a
-    proximity: 0.8082
+    proximity: 0.8082 {macula-proximity}
   - strongs: H5584
-    proximity: 0.8043
+    lemma: סָעָה
+    gloss: to rush {openscriptures-strongs}
+    proximity: 0.8043 {macula-proximity}
   - strongs: H7580
-    proximity: 0.7971
+    lemma: שָׁאַג
+    gloss: to rumble or moan {openscriptures-strongs}
+    proximity: 0.7971 {macula-proximity}
   - strongs: H2385
-    proximity: 0.7877
+    lemma: חֲזִיז
+    gloss: a flash of lightning {openscriptures-strongs}
+    proximity: 0.7877 {macula-proximity}
   - strongs: H6963
-    proximity: 0.7682
+    lemma: קוֹל
+    gloss: a voice or sound {openscriptures-strongs}
+    proximity: 0.7682 {macula-proximity}
   - strongs: A7032
-    proximity: 0.7546
+    proximity: 0.7546 {macula-proximity}
   - strongs: H7588
-    proximity: 0.7288
+    lemma: שָׁאוֹן
+    gloss: uproar {openscriptures-strongs}
+    proximity: 0.7288 {macula-proximity}
   - strongs: H8663
-    proximity: 0.7087
+    lemma: תְּשֻׁאָה
+    gloss: a crashing or loud clamor {openscriptures-strongs}
+    proximity: 0.7087 {macula-proximity}
   cross_language:
   - strongs: G5492
-    proximity: 0.8199
+    lemma: χειμάζω
+    gloss: to storm {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
     language: greek
   - strongs: G2279
-    proximity: 0.8129
+    lemma: ἦχος
+    gloss: a loud or confused noise {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
     language: greek
   - strongs: G2350
-    proximity: 0.8101
+    lemma: θορυβέω
+    gloss: to be in tumult {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
     language: greek
   - strongs: G1027
-    proximity: 0.8012
+    lemma: βροντή
+    gloss: thunder {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
     language: greek
   - strongs: G2906
-    proximity: 0.7988
+    lemma: κραυγή
+    gloss: an outcry (in notification {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,34 +6,38 @@ pronunciation: kham-maw'
 definition: heat; by implication, the sun
 kjv_usage: heat, sun.
 derivation: from H2525 (חָם);
-extended_definition:
-  gloss: heat
-  definition: sun, heat of the sun, heat
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: sun, heat of the sun, heat {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8273
-    proximity: 0.8068
+    lemma: שָׁרָב
+    gloss: quivering glow {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
   - strongs: H7541
-    proximity: 0.7863
+    lemma: רַקָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7863 {macula-proximity}
   - strongs: A8122
-    proximity: 0.7548
+    proximity: 0.7548 {macula-proximity}
   - strongs: H2721
-    proximity: 0.7419
+    lemma: חֹרֶב
+    gloss: drought or desolation {openscriptures-strongs}
+    proximity: 0.7419 {macula-proximity}
   - strongs: H216
-    proximity: 0.7329
+    proximity: 0.7329 {macula-proximity}
   - strongs: H2527
-    proximity: 0.7012
+    lemma: חֹם
+    gloss: heat {openscriptures-strongs}
+    proximity: 0.7012 {macula-proximity}
   cross_language:
   - strongs: G2738
-    proximity: 0.8064
+    lemma: καῦμα
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
     language: greek
   - strongs: G2742
-    proximity: 0.7176
+    lemma: καύσων
+    gloss: a glare {openscriptures-strongs}
+    proximity: 0.7176 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

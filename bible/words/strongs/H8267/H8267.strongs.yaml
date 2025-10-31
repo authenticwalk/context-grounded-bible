@@ -7,53 +7,83 @@ definition: an untruth; by implication, a sham (often adverbial)
 kjv_usage: without a cause, deceit(-ful), false(-hood, -ly), feignedly, liar, [phrase]
   lie, lying, vain (thing), wrongfully.
 derivation: from H8266 (שָׁקַר);
-extended_definition:
-  gloss: deception
-  definition: 1) lie, deception, disappointment, falsehood<br>1a) deception (what
-    deceives or disappoints or betrays one)<br>1b) deceit, fraud, wrong<br>1b1) fraudulently,
-    wrongfully (as adverb)<br>1c) falsehood (injurious in testimony)<br>1c1) testify
-    falsehood, false oath, swear falsely<br>1d) falsity (of false or self-deceived
-    prophets)<br>1e) lie, falsehood (in general)<br>1e1) false tongue<br>1f) in vain
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) lie, deception, disappointment, falsehood
+
+  1a) deception (what deceives or disappoints or betrays one)
+
+  1b) deceit, fraud, wrong
+
+  1b1) fraudulently, wrongfully (as adverb)
+
+  1c) falsehood (injurious in testimony)
+
+  1c1) testify falsehood, false oath, swear falsely
+
+  1d) falsity (of false or self-deceived prophets)
+
+  1e) lie, falsehood (in general)
+
+  1e1) false tongue
+
+  1f) in vain {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4123
-    proximity: 0.8204
+    lemma: מַהֲתַלָּה
+    gloss: a delusion {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
   - strongs: H3584
-    proximity: 0.8041
+    lemma: כָּחַשׁ
+    gloss: to be untrue {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
   - strongs: H7650
-    proximity: 0.8005
+    lemma: שָׁבַע
+    gloss: to seven oneself {openscriptures-strongs}
+    proximity: 0.8005 {macula-proximity}
   - strongs: H7385
-    proximity: 0.7957
+    lemma: רִיק
+    gloss: emptiness {openscriptures-strongs}
+    proximity: 0.7957 {macula-proximity}
   - strongs: H4860
-    proximity: 0.7909
+    lemma: מַשָּׁאוֹן
+    gloss: dissimulation {openscriptures-strongs}
+    proximity: 0.7909 {macula-proximity}
   - strongs: H391
-    proximity: 0.7854
+    proximity: 0.7854 {macula-proximity}
   - strongs: H659
-    proximity: 0.7815
+    proximity: 0.7815 {macula-proximity}
   - strongs: H1892
-    proximity: 0.7435
+    lemma: הֶבֶל
+    gloss: emptiness or vanity {openscriptures-strongs}
+    proximity: 0.7435 {macula-proximity}
   - strongs: H8649
-    proximity: 0.73
+    lemma: תׇּרְמָה
+    gloss: fraud {openscriptures-strongs}
+    proximity: 0.73 {macula-proximity}
   cross_language:
   - strongs: G5576
-    proximity: 0.8187
+    lemma: ψευδομαρτυρέω
+    gloss: to be an untrue testifier {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
     language: greek
   - strongs: G5422
-    proximity: 0.8003
+    lemma: φρεναπατάω
+    gloss: to be a mind-misleader {openscriptures-strongs}
+    proximity: 0.8003 {macula-proximity}
     language: greek
   - strongs: G3152
-    proximity: 0.7947
+    lemma: μάταιος
+    gloss: empty {openscriptures-strongs}
+    proximity: 0.7947 {macula-proximity}
     language: greek
   - strongs: G2756
-    proximity: 0.7924
+    lemma: κενός
+    gloss: empty {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
     language: greek
   - strongs: G5573
-    proximity: 0.7368
+    lemma: ψευδολόγος
+    gloss: mendacious {openscriptures-strongs}
+    proximity: 0.7368 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

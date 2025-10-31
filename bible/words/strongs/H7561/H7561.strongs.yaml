@@ -7,50 +7,71 @@ definition: to be (causatively, do or declare) wrong; by implication, to disturb
   violate
 kjv_usage: condemn, make trouble, vex, be (commit, deal, depart, do) wicked(-ly, -ness).
 derivation: a primitive root;
-extended_definition:
-  gloss: be wicked
-  definition: 1) to be wicked, act wickedly<br>1a) (Qal)<br>1a1) to be wicked, act
-    wickedly<br>1a2) to be guilty, be condemned<br>1b) (Hiphil)<br>1b1) to condemn
-    as guilty (in civil relations)<br>1b2) to condemn as guilty (in ethical or religious
-    relations)<br>1b3) to act wickedly (in ethics and religion)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be wicked, act wickedly
+
+  1a) (Qal)
+
+  1a1) to be wicked, act wickedly
+
+  1a2) to be guilty, be condemned
+
+  1b) (Hiphil)
+
+  1b1) to condemn as guilty (in civil relations)
+
+  1b2) to condemn as guilty (in ethical or religious relations)
+
+  1b3) to act wickedly (in ethics and religion) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5949
-    proximity: 0.8287
+    lemma: עֲלִילָה
+    gloss: an exploit {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H8201
-    proximity: 0.8268
+    lemma: שֶׁפֶט
+    gloss: a sentence {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: H2254a
-    proximity: 0.8241
+    proximity: 0.8241 {macula-proximity}
   - strongs: H6467
-    proximity: 0.8231
+    lemma: פֹּעַל
+    gloss: an act or work {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H818
-    proximity: 0.8196
+    proximity: 0.8196 {macula-proximity}
   - strongs: H2400
-    proximity: 0.8164
+    lemma: חַטָּא
+    gloss: a criminal {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
   - strongs: H6586
-    proximity: 0.8145
+    lemma: פָּשַׁע
+    gloss: to break away {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
   - strongs: H2403
-    proximity: 0.8019
+    lemma: חַטָּאָה
+    gloss: an offence {openscriptures-strongs}
+    proximity: 0.8019 {macula-proximity}
   cross_language:
   - strongs: G361
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
     language: greek
   - strongs: G2041
-    proximity: 0.8264
+    lemma: ἔργον
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G266
-    proximity: 0.8223
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G2038
-    proximity: 0.8195
+    lemma: ἐργάζομαι
+    gloss: to toil (as a task {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
     language: greek
   - strongs: G2917
-    proximity: 0.813
+    lemma: κρίμα
+    gloss: a decision (the function or the effect {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

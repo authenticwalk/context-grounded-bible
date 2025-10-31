@@ -10,36 +10,51 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H6605
-    proximity: 0.8144
+    lemma: פָּתַח
+    gloss: to open wide {openscriptures-strongs}
+    proximity: 0.8144 {macula-proximity}
   - strongs: H7971
-    proximity: 0.7977
+    lemma: שָׁלַח
+    gloss: to send away {openscriptures-strongs}
+    proximity: 0.7977 {macula-proximity}
   - strongs: H2118
-    proximity: 0.7932
+    lemma: זָחַח
+    gloss: to shove or displace {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
   - strongs: H4916a
-    proximity: 0.7794
+    proximity: 0.7794 {macula-proximity}
   - strongs: H3027
-    proximity: 0.7586
+    lemma: יָד
+    gloss: a hand (the open one (indicating power {openscriptures-strongs}
+    proximity: 0.7586 {macula-proximity}
   - strongs: H8281
-    proximity: 0.7464
+    lemma: שָׁרָה
+    gloss: to free {openscriptures-strongs}
+    proximity: 0.7464 {macula-proximity}
   - strongs: A3028
-    proximity: 0.7362
+    proximity: 0.7362 {macula-proximity}
   cross_language:
   - strongs: G5495
-    proximity: 0.8131
+    lemma: χείρ
+    gloss: the hand {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
     language: greek
   - strongs: G3080
-    proximity: 0.8056
+    lemma: λύσις
+    gloss: a loosening {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
     language: greek
   - strongs: G447
-    proximity: 0.7974
+    proximity: 0.7974 {macula-proximity}
     language: greek
   - strongs: G1600
-    proximity: 0.7375
+    lemma: ἐκπετάννυμι
+    gloss: to fly out {openscriptures-strongs}
+    proximity: 0.7375 {macula-proximity}
     language: greek
   - strongs: G1614
-    proximity: 0.7166
+    lemma: ἐκτείνω
+    gloss: to extend {openscriptures-strongs}
+    proximity: 0.7166 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

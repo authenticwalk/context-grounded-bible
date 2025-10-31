@@ -5,42 +5,46 @@ transliteration: dekatóō
 definition: to tithe, i.e. to give or take a tenth
 kjv_usage: pay (receive) tithes
 derivation: from G1181 (δεκάτη);
-extended_definition:
-  gloss: to tithe
-  definition: '<b>δεκατόω</b>, -ῶ, <BR /> = cl. -τεύω (δεκάτη), [in LXX: <ref=''Neh.10.37''>Neh.10:37</ref>
-    (38) (עשׂר pi.) * ;] <BR /><b>to take tithe of</b>: with accusative of person(s),
-    <ref=''Heb.7.6''>Heb.7:6;</ref> pass. <b>to pay tithe</b>: <ref=''Heb.7.9.''>Heb.7:9.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> δεκᾰτόω</b>, <br /> <b>take tithe of</b> a person, τινά [<a
-    href="javascript:void(0)" title=" NT.Heb.7.6 ">NT</a>]:—<i>passive</i>, <b>pay
-    tithe,</b> [<a href="javascript:void(0)" title="[prev. work] 9. ">Refs</a>]
-  source: STEPBible/LSJ
+extended_definition: 'δεκατόω, -ῶ,
+
+  = cl. -τεύω (δεκάτη), [in LXX: Neh.10:37 (38) (עשׂר pi.) * ;]
+
+  to take tithe of: with accusative of person(s), Heb.7:6; pass. to pay tithe: Heb.7:9.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'δεκᾰτόω,
+
+  take tithe of a person, τινά [NT]:—passive, pay tithe, [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1523
-    proximity: 0.7762
+    lemma: εἰσδέχομαι
+    gloss: to take into one's favor {openscriptures-strongs}
+    proximity: 0.7762 {macula-proximity}
   cross_language:
   - strongs: H6249
-    proximity: 0.8269
+    lemma: עַשְׁתֵּי
+    gloss: eleven or  eleventh {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
     language: hebrew
   - strongs: H2569
-    proximity: 0.8149
+    lemma: חֹמֶשׁ
+    gloss: a fifth tax {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
     language: hebrew
   - strongs: H2567
-    proximity: 0.8115
+    lemma: חָמַשׁ
+    gloss: to tax a fifth {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
     language: hebrew
   - strongs: H6218
-    proximity: 0.7994
+    lemma: עָשׂוֹר
+    gloss: ten {openscriptures-strongs}
+    proximity: 0.7994 {macula-proximity}
     language: hebrew
   - strongs: H8341
-    proximity: 0.7905
+    lemma: שָׁשָׁה
+    gloss: to sixth or divide into sixths {openscriptures-strongs}
+    proximity: 0.7905 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

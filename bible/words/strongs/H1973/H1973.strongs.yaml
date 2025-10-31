@@ -6,46 +6,55 @@ pronunciation: haw-leh-aw'
 definition: to the distance, i.e. far away; also (of time) thus far
 kjv_usage: back, beyond, (hence,-) forward, hitherto, thence, forth, yonder.
 derivation: from the primitive form of the article (hal);
-extended_definition:
-  gloss: further
-  definition: 1) out there, onwards, further<br>1a) yonder, beyond (of place)<br>1b)
-    onwards (of time)
-  morphology: H:Adv
-  source: STEPBible/BDB
+extended_definition: '1) out there, onwards, further
+
+  1a) yonder, beyond (of place)
+
+  1b) onwards (of time) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H322
-    proximity: 0.8277
+    proximity: 0.8277 {macula-proximity}
   - strongs: H1458
-    proximity: 0.8258
+    lemma: גַּו
+    gloss: the back {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H5066
-    proximity: 0.8243
+    lemma: נָגַשׁ
+    gloss: to be or come (causatively {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: H3411
-    proximity: 0.8231
+    lemma: יְרֵכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H1886c
-    proximity: 0.822
+    proximity: 0.822 {macula-proximity}
   - strongs: H1975
-    proximity: 0.8186
+    lemma: הַלָּז
+    gloss: this or that {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: A7352
-    proximity: 0.816
+    proximity: 0.816 {macula-proximity}
   cross_language:
   - strongs: G4295
-    proximity: 0.8297
+    lemma: πρόκειμαι
+    gloss: to lie before the view {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G847
-    proximity: 0.8291
+    proximity: 0.8291 {macula-proximity}
     language: greek
   - strongs: G1909
-    proximity: 0.8254
+    lemma: ἐπί
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: greek
   - strongs: G2087a
-    proximity: 0.82
+    proximity: 0.82 {macula-proximity}
     language: greek
   - strongs: G1799
-    proximity: 0.8197
+    lemma: ἐνώπιον
+    gloss: in the face of {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

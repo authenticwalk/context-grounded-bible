@@ -6,49 +6,63 @@ pronunciation: mis-kay-nooth'
 definition: indigence
 kjv_usage: scarceness.
 derivation: from H4542 (מִסְכֵּן);
-extended_definition:
-  gloss: poverty
-  definition: poverty, scarcity
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: poverty, scarcity {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H402
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
   - strongs: H4361
-    proximity: 0.8222
+    lemma: מַכֹּלֶת
+    gloss: nourishment {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H1279
-    proximity: 0.8199
+    lemma: בִּרְיָה
+    gloss: food {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H2639
-    proximity: 0.8067
+    lemma: חֶסֶר
+    gloss: lack {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   - strongs: H6718a
-    proximity: 0.7943
+    proximity: 0.7943 {macula-proximity}
   - strongs: H1267
-    proximity: 0.7775
+    lemma: בָּרוּת
+    gloss: food {openscriptures-strongs}
+    proximity: 0.7775 {macula-proximity}
   - strongs: H2638
-    proximity: 0.7636
+    lemma: חָסֵר
+    gloss: lacking {openscriptures-strongs}
+    proximity: 0.7636 {macula-proximity}
   - strongs: H2637
-    proximity: 0.7303
+    lemma: חָסֵר
+    gloss: to lack {openscriptures-strongs}
+    proximity: 0.7303 {macula-proximity}
   - strongs: H5737a
-    proximity: 0.7234
+    proximity: 0.7234 {macula-proximity}
   cross_language:
   - strongs: G5302
-    proximity: 0.8038
+    lemma: ὑστερέω
+    gloss: to be later {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
     language: greek
   - strongs: G2275
-    proximity: 0.7796
+    lemma: ἥττημα
+    gloss: a deterioration {openscriptures-strongs}
+    proximity: 0.7796 {macula-proximity}
     language: greek
   - strongs: G1033
-    proximity: 0.7684
+    lemma: βρῶμα
+    gloss: food {openscriptures-strongs}
+    proximity: 0.7684 {macula-proximity}
     language: greek
   - strongs: G3007
-    proximity: 0.739
+    lemma: λείπω
+    gloss: to leave {openscriptures-strongs}
+    proximity: 0.739 {macula-proximity}
     language: greek
   - strongs: G5303
-    proximity: 0.7215
+    lemma: ὑστέρημα
+    gloss: a deficit {openscriptures-strongs}
+    proximity: 0.7215 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

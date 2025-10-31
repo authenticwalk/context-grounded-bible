@@ -5,55 +5,66 @@ transliteration: Galilaía
 definition: Galilæa (i.e. the heathen circle), a region of Palestine
 kjv_usage: Galilee
 derivation: of Hebrew origin (H01551);
-extended_definition:
-  gloss: (Sea of) Galilee
-  definition: '<b>Γαλιλαία</b>, -ας, ἡ (Heb. הַגָּלִיל, <i>the circle, district</i>),
-    <BR /> <b>Galilee</b>, the name of the northern region of Palestine in NT times:
-    Γ. τῶν ἐθνῶν, <ref=''Mat.4.15''>Mat.4:15</ref> (LXX); θάλασσα τῆς Γ., <ref=''Mat.15.29''>Mat.15:29</ref>
-    (cf. <ref=''Jhn.6.1''>Jhn.6:1</ref>). <BR /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Γαλιλαία</b>, -ας, ἡ (Heb. הַגָּלִיל, <i>the circle, district</i>),
-    <BR /> <b>Galilee</b>, the name of the northern region of Palestine in NT times:
-    Γ. τῶν ἐθνῶν, <ref=''Mat.4.15''>Mat.4:15</ref> (LXX); θάλασσα τῆς Γ., <ref=''Mat.15.29''>Mat.15:29</ref>
-    (cf. <ref=''Jhn.6.1''>Jhn.6:1</ref>). <BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Γαλιλαία, -ας, ἡ (Heb. הַגָּלִיל, the circle, district),
+
+  Galilee, the name of the northern region of Palestine in NT times: Γ. τῶν ἐθνῶν,
+  Mat.4:15 (LXX); θάλασσα τῆς Γ., Mat.15:29 (cf. Jhn.6:1).
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Γαλιλαία, -ας, ἡ (Heb. הַגָּלִיל, the circle, district),
+
+  Galilee, the name of the northern region of Palestine in NT times: Γ. τῶν ἐθνῶν,
+  Mat.4:15 (LXX); θάλασσα τῆς Γ., Mat.15:29 (cf. Jhn.6:1).
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2482
-    proximity: 0.8298
+    lemma: Ἰταλία
+    gloss: Italia {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: G3069
-    proximity: 0.8294
+    lemma: Λύδδα
+    gloss: Lydda {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: G1648
-    proximity: 0.8293
+    lemma: Ἐλεάζαρ
+    gloss: Eleazar {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: G3019
-    proximity: 0.8291
+    lemma: Λευΐτης
+    gloss: a Levite {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: A7348a
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
   - strongs: G2484
-    proximity: 0.8279
+    lemma: Ἰτουραΐα
+    gloss: Ituræa {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: G3018
-    proximity: 0.8276
+    lemma: Λευΐς
+    gloss: Lewis {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   cross_language:
   - strongs: H3404a
-    proximity: 0.8289
+    proximity: 0.8289 {macula-proximity}
     language: hebrew
   - strongs: H7348
-    proximity: 0.8282
+    lemma: רְחוּם
+    gloss: Rechum {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: hebrew
   - strongs: H150
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
     language: hebrew
   - strongs: H2753
-    proximity: 0.828
+    lemma: חֹרִי
+    gloss: Chori {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: hebrew
   - strongs: H6981
-    proximity: 0.8277
+    lemma: קוֹרֵא
+    gloss: Kore {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

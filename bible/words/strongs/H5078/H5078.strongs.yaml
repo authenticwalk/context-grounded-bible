@@ -6,39 +6,47 @@ pronunciation: nay'-deh
 definition: a bounty (for prostitution)
 kjv_usage: gifts.
 derivation: from H5077 (נָדָה) in the sense of freely flinging money;
-extended_definition:
-  gloss: gift
-  definition: gift
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: gift {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4916a
-    proximity: 0.7991
+    proximity: 0.7991 {macula-proximity}
   - strongs: H7810
-    proximity: 0.7912
+    lemma: שַׁחַד
+    gloss: a donation {openscriptures-strongs}
+    proximity: 0.7912 {macula-proximity}
   - strongs: H7964
-    proximity: 0.7812
+    lemma: שִׁלּוּחַ
+    gloss: a dismissal {openscriptures-strongs}
+    proximity: 0.7812 {macula-proximity}
   - strongs: H2064
-    proximity: 0.7765
+    lemma: זָבַד
+    gloss: to confer {openscriptures-strongs}
+    proximity: 0.7765 {macula-proximity}
   - strongs: H4242
-    proximity: 0.7614
+    lemma: מְחִיר
+    gloss: price {openscriptures-strongs}
+    proximity: 0.7614 {macula-proximity}
   - strongs: H4864
-    proximity: 0.749
+    lemma: מַשְׂאֵת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.749 {macula-proximity}
   - strongs: H4490
-    proximity: 0.7319
+    lemma: מָנָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7319 {macula-proximity}
   cross_language:
   - strongs: G3083
-    proximity: 0.8055
+    lemma: λύτρον
+    gloss: something to loosen with {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
     language: greek
   - strongs: G487
-    proximity: 0.7879
+    proximity: 0.7879 {macula-proximity}
     language: greek
   - strongs: G5486
-    proximity: 0.7496
+    lemma: χάρισμα
+    gloss: a  gratuity {openscriptures-strongs}
+    proximity: 0.7496 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

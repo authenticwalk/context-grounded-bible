@@ -6,41 +6,55 @@ pronunciation: mat'-taw
 definition: downward, below or beneath; often adverbially with or without prefixes
 kjv_usage: beneath, down(-ward), less, very low, under(-neath).
 derivation: from H5786 (עָוַר) with directive enclitic appended;
-extended_definition:
-  gloss: beneath
-  definition: 1) downwards, below<br>1a) downwards<br>1b) under (of age)<br>1c) beneath
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) downwards, below
+
+  1a) downwards
+
+  1b) under (of age)
+
+  1c) beneath {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3807a
-    proximity: 0.8259
+    proximity: 0.8259 {macula-proximity}
   - strongs: A2050d
-    proximity: 0.8103
+    proximity: 0.8103 {macula-proximity}
   - strongs: H7172
-    proximity: 0.8097
+    lemma: קַרְקַע
+    gloss: floor {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: H4480
-    proximity: 0.8072
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
   - strongs: H8482
-    proximity: 0.7445
+    lemma: תַּחְתִּי
+    gloss: lowermost {openscriptures-strongs}
+    proximity: 0.7445 {macula-proximity}
   cross_language:
   - strongs: G2600
-    proximity: 0.8277
+    lemma: κατάβασις
+    gloss: a declivity {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: greek
   - strongs: G1120
-    proximity: 0.8235
+    lemma: γονυπετέω
+    gloss: to fall on the knee {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: greek
   - strongs: G2532
-    proximity: 0.7985
+    lemma: καί
+    gloss: and {openscriptures-strongs}
+    proximity: 0.7985 {macula-proximity}
     language: greek
   - strongs: G2709
-    proximity: 0.7646
+    lemma: καταχθόνιος
+    gloss: subterranean {openscriptures-strongs}
+    proximity: 0.7646 {macula-proximity}
     language: greek
   - strongs: G5259
-    proximity: 0.7494
+    lemma: ὑπό
+    gloss: under {openscriptures-strongs}
+    proximity: 0.7494 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

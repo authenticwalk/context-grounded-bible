@@ -5,46 +5,48 @@ transliteration: Ozías
 definition: Ozias (i.e. Uzzijah), an Israelite
 kjv_usage: Ozias
 derivation: of Hebrew origin (H05818);
-extended_definition:
-  gloss: Uzziah
-  definition: '<b>Ὀζείας</b> (Rec. Ὀζίας), -ου, ὁ (Heb. עֻזִּיָּה), <BR /> <b>Uzziah</b>:
-    <ref=''Mat.18.1-35; 9.1-38''>Mat.18:1-35 9:1-38</ref>.†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ὀζείας</b> (Rec. Ὀζίας), -ου, ὁ (Heb. עֻזִּיָּה), <BR /> <b>Uzziah</b>:
-    <ref=''Mat.18.1-35; 9.1-38''>Mat.18:1-35 9:1-38</ref>.†<BR />  (From Abbott-Smith.
-    LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ὀζείας (Rec. Ὀζίας), -ου, ὁ (Heb. עֻזִּיָּה),
+
+  Uzziah: Mat.18:1-35 9:1-38.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ὀζείας (Rec. Ὀζίας), -ου, ὁ (Heb. עֻזִּיָּה),
+
+  Uzziah: Mat.18:1-35 9:1-38.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4611
-    proximity: 0.828
+    lemma: Σιλωάμ
+    gloss: Siloam {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
   - strongs: G2996
-    proximity: 0.8241
+    lemma: Λασαία
+    gloss: Lasæa {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: G675
-    proximity: 0.8241
+    proximity: 0.8241 {macula-proximity}
   - strongs: G7
-    proximity: 0.8139
+    proximity: 0.8139 {macula-proximity}
   cross_language:
   - strongs: H281a
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
     language: hebrew
   - strongs: H29
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
     language: hebrew
   - strongs: H345
-    proximity: 0.8259
+    proximity: 0.8259 {macula-proximity}
     language: hebrew
   - strongs: H6454
-    proximity: 0.8257
+    lemma: פָּסֵחַ
+    gloss: Paseach {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: hebrew
   - strongs: H8304
-    proximity: 0.8249
+    lemma: שְׂרָיָה
+    gloss: Serajah {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

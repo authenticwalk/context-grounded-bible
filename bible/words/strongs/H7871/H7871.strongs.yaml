@@ -6,47 +6,59 @@ pronunciation: shee-baw'
 definition: residence
 kjv_usage: while...lay.
 derivation: from H3427 (יָשַׁב);
-extended_definition:
-  gloss: sojourn
-  definition: sojourn
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: sojourn {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7900
-    proximity: 0.8262
+    lemma: שֹׂךְ
+    gloss: a booth {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: H4937
-    proximity: 0.8257
+    lemma: מִשְׁעֵן
+    gloss: a support {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H3557
-    proximity: 0.8197
+    lemma: כּוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
   - strongs: A4070
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
   - strongs: H4908
-    proximity: 0.8025
+    lemma: מִשְׁכָּן
+    gloss: a residence (including a shepherd's hut {openscriptures-strongs}
+    proximity: 0.8025 {macula-proximity}
   - strongs: H2681
-    proximity: 0.8
+    lemma: חָצִיר
+    gloss: a court or abode {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: H1755a
-    proximity: 0.7778
+    proximity: 0.7778 {macula-proximity}
   - strongs: H4583
-    proximity: 0.7597
+    lemma: מָעוֹן
+    gloss: an abode {openscriptures-strongs}
+    proximity: 0.7597 {macula-proximity}
   cross_language:
   - strongs: G63
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G4039
-    proximity: 0.8119
+    lemma: περιοικέω
+    gloss: to reside around {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
     language: greek
   - strongs: G3613
-    proximity: 0.8056
+    lemma: οἰκητήριον
+    gloss: a residence {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
     language: greek
   - strongs: G3887
-    proximity: 0.7862
+    lemma: παραμένω
+    gloss: to stay near {openscriptures-strongs}
+    proximity: 0.7862 {macula-proximity}
     language: greek
   - strongs: G4357
-    proximity: 0.7819
+    lemma: προσμένω
+    gloss: to stay further {openscriptures-strongs}
+    proximity: 0.7819 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

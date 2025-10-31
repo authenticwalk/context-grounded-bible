@@ -6,49 +6,65 @@ pronunciation: poo-raw'
 definition: a wine-press (as crushing the grapes)
 kjv_usage: winepress.
 derivation: from H6331 (פּוּר);
-extended_definition:
-  gloss: winepress
-  definition: winepress
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: winepress {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4058
-    proximity: 0.8206
+    lemma: מָדַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: H811
-    proximity: 0.8103
+    proximity: 0.8103 {macula-proximity}
   - strongs: H7298
-    proximity: 0.8046
+    lemma: רַהַט
+    gloss: a channel or watering-box {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
   - strongs: H8268
-    proximity: 0.7904
+    lemma: שֹׁקֶת
+    gloss: a trough {openscriptures-strongs}
+    proximity: 0.7904 {macula-proximity}
   - strongs: H1612
-    proximity: 0.7863
+    lemma: גֶּפֶן
+    gloss: a vine {openscriptures-strongs}
+    proximity: 0.7863 {macula-proximity}
   - strongs: H6528
-    proximity: 0.7854
+    lemma: פֶּרֶט
+    gloss: a stray or single berry {openscriptures-strongs}
+    proximity: 0.7854 {macula-proximity}
   - strongs: H3754
-    proximity: 0.7808
+    lemma: כֶּרֶם
+    gloss: a garden or vineyard {openscriptures-strongs}
+    proximity: 0.7808 {macula-proximity}
   - strongs: H1210
-    proximity: 0.77
+    lemma: בָּצִיר
+    gloss: clipped {openscriptures-strongs}
+    proximity: 0.77 {macula-proximity}
   - strongs: H8492
-    proximity: 0.7542
+    lemma: תִּירוֹשׁ
+    gloss: must or fresh grape-juice {openscriptures-strongs}
+    proximity: 0.7542 {macula-proximity}
   cross_language:
   - strongs: G4608
-    proximity: 0.8298
+    lemma: σίκερα
+    gloss: an intoxicant {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G290
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
     language: greek
   - strongs: G1098
-    proximity: 0.8067
+    lemma: γλεῦκος
+    gloss: sweet wine {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
     language: greek
   - strongs: G3354
-    proximity: 0.8064
+    lemma: μετρέω
+    gloss: to measure {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
     language: greek
   - strongs: G3690
-    proximity: 0.7924
+    lemma: ὄξος
+    gloss: vinegar {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

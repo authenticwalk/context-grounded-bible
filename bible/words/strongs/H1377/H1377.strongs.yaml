@@ -6,29 +6,31 @@ pronunciation: gheb-ee-raw'
 definition: a mistress
 kjv_usage: queen.
 derivation: feminine of H1376 (גְּבִיר);
-extended_definition:
-  gloss: queen
-  definition: 1) queen, lady<br>2) queen-mother
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) queen, lady
+
+  2) queen-mother {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4428
-    proximity: 0.8279
+    lemma: מֶלֶךְ
+    gloss: a king {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: H4410
-    proximity: 0.8044
+    lemma: מְלוּכָה
+    gloss: something ruled {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
   - strongs: A7695
-    proximity: 0.7823
+    proximity: 0.7823 {macula-proximity}
   - strongs: H1404
-    proximity: 0.7482
+    lemma: גְּבֶרֶת
+    gloss: mistress {openscriptures-strongs}
+    proximity: 0.7482 {macula-proximity}
   - strongs: H517
-    proximity: 0.7459
+    proximity: 0.7459 {macula-proximity}
   cross_language:
   - strongs: G3384
-    proximity: 0.7969
+    lemma: μήτηρ
+    gloss: a "mother" (literally or figuratively {openscriptures-strongs}
+    proximity: 0.7969 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -9,14 +9,15 @@ derivation: feminine of H4758 (מַרְאֶה);
 related_words:
   synonyms:
   - strongs: H7200
-    proximity: 0.8133
+    lemma: רָאָה
+    gloss: to see {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   - strongs: H4853a
-    proximity: 0.7546
+    proximity: 0.7546 {macula-proximity}
   cross_language:
   - strongs: G4592
-    proximity: 0.8276
+    lemma: σημεῖον
+    gloss: an indication {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

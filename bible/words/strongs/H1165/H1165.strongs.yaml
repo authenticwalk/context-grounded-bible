@@ -6,39 +6,47 @@ pronunciation: beh-ere'
 definition: cattle
 kjv_usage: beast, cattle.
 derivation: from H1197 (בָּעַר) (in the sense of eating);
-extended_definition:
-  gloss: cattle
-  definition: beasts, cattle
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: beasts, cattle {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4806
-    proximity: 0.8257
+    lemma: מְרִיא
+    gloss: stall-fed {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H7075
-    proximity: 0.8055
+    lemma: קִנְיָן
+    gloss: creation {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
   - strongs: A2423
-    proximity: 0.7659
+    proximity: 0.7659 {macula-proximity}
   - strongs: H7794
-    proximity: 0.7586
+    lemma: שׁוֹר
+    gloss: a bullock {openscriptures-strongs}
+    proximity: 0.7586 {macula-proximity}
   - strongs: H6629
-    proximity: 0.7573
+    lemma: צֹאן
+    gloss: a collective name for a flock {openscriptures-strongs}
+    proximity: 0.7573 {macula-proximity}
   - strongs: H2416c
-    proximity: 0.7389
+    proximity: 0.7389 {macula-proximity}
   - strongs: H2874
-    proximity: 0.7247
+    lemma: טֶבַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7247 {macula-proximity}
   cross_language:
   - strongs: G2342
-    proximity: 0.7886
+    lemma: θηρίον
+    gloss: a dangerous animal {openscriptures-strongs}
+    proximity: 0.7886 {macula-proximity}
     language: greek
   - strongs: G2226
-    proximity: 0.745
+    lemma: ζῶον
+    gloss: a live thing {openscriptures-strongs}
+    proximity: 0.745 {macula-proximity}
     language: greek
   - strongs: G4619
-    proximity: 0.7216
+    lemma: σιτιστός
+    gloss: grained {openscriptures-strongs}
+    proximity: 0.7216 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

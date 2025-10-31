@@ -6,33 +6,40 @@ pronunciation: saw-khaw'
 definition: to swim; causatively, to inundate
 kjv_usage: (make to) swim.
 derivation: a primitive root;
-extended_definition:
-  gloss: to swim
-  definition: 1) to swim<br>1a) (Qal) swim (participle)<br>1b) (Hiphil) to make to
-    swim
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to swim
+
+  1a) (Qal) swim (participle)
+
+  1b) (Hiphil) to make to swim {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7858
-    proximity: 0.8202
+    lemma: שֶׁטֶף
+    gloss: a deluge {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   - strongs: A6647
-    proximity: 0.7898
+    proximity: 0.7898 {macula-proximity}
   - strongs: H6824
-    proximity: 0.7814
+    lemma: צָפָה
+    gloss: an inundation {openscriptures-strongs}
+    proximity: 0.7814 {macula-proximity}
   - strongs: H6687
-    proximity: 0.7267
+    lemma: צוּף
+    gloss: to overflow {openscriptures-strongs}
+    proximity: 0.7267 {macula-proximity}
   - strongs: H3999
-    proximity: 0.7126
+    lemma: מַבּוּל
+    gloss: a deluge {openscriptures-strongs}
+    proximity: 0.7126 {macula-proximity}
   cross_language:
   - strongs: G4132
-    proximity: 0.7913
+    lemma: πλήμμυρα
+    gloss: flood-tide {openscriptures-strongs}
+    proximity: 0.7913 {macula-proximity}
     language: greek
   - strongs: G2627
-    proximity: 0.7088
+    lemma: κατακλυσμός
+    gloss: an inundation {openscriptures-strongs}
+    proximity: 0.7088 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

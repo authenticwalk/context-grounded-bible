@@ -6,35 +6,41 @@ pronunciation: med-awn'
 definition: '{a contest or quarrel}'
 kjv_usage: discord, strife.
 derivation: a form of H4066 (מָדוֹן)
-extended_definition:
-  gloss: strife
-  definition: strife, contention
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: strife, contention {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1779
-    proximity: 0.7767
+    lemma: דִּין
+    gloss: judgement (the suit {openscriptures-strongs}
+    proximity: 0.7767 {macula-proximity}
   - strongs: H7379
-    proximity: 0.761
+    lemma: רִיב
+    gloss: a contest {openscriptures-strongs}
+    proximity: 0.761 {macula-proximity}
   cross_language:
   - strongs: G2052
-    proximity: 0.7958
+    lemma: ἐριθεία
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
     language: greek
   - strongs: G4978
-    proximity: 0.7938
+    lemma: σχίσμα
+    gloss: a split or gap {openscriptures-strongs}
+    proximity: 0.7938 {macula-proximity}
     language: greek
   - strongs: G4714
-    proximity: 0.7472
+    lemma: στάσις
+    gloss: a standing (properly {openscriptures-strongs}
+    proximity: 0.7472 {macula-proximity}
     language: greek
   - strongs: G1266
-    proximity: 0.746
+    lemma: διαμερίζω
+    gloss: to partition thoroughly (literally in distribution {openscriptures-strongs}
+    proximity: 0.746 {macula-proximity}
     language: greek
   - strongs: G3307
-    proximity: 0.7429
+    lemma: μερίζω
+    gloss: to part {openscriptures-strongs}
+    proximity: 0.7429 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

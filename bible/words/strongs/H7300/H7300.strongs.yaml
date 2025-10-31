@@ -6,46 +6,61 @@ pronunciation: rood
 definition: to tramp about, i.e. ramble (free or disconsolate)
 kjv_usage: have the dominion, be lord, mourn, rule.
 derivation: a primitive root;
-extended_definition:
-  gloss: to roam
-  definition: 1) to wander restlessly, roam<br>1a) (Qal) to roam<br>1b) (Hiphil) to
-    be restless, show restlessness
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to wander restlessly, roam
+
+  1a) (Qal) to roam
+
+  1b) (Hiphil) to be restless, show restlessness {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5425b
-    proximity: 0.8213
+    proximity: 0.8213 {macula-proximity}
   - strongs: H1432
-    proximity: 0.821
+    lemma: גָּדֵל
+    gloss: large {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
   - strongs: H8592
-    proximity: 0.813
+    lemma: תַּעֲצֻמָה
+    gloss: might {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
   - strongs: H3574
-    proximity: 0.8022
+    lemma: כּוֹשָׁרָה
+    gloss: prosperity {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
   - strongs: A4756
-    proximity: 0.7887
+    proximity: 0.7887 {macula-proximity}
   - strongs: H2390
-    proximity: 0.7805
+    lemma: חָזֵק
+    gloss: powerful {openscriptures-strongs}
+    proximity: 0.7805 {macula-proximity}
   - strongs: H6099
-    proximity: 0.7749
+    lemma: עָצוּם
+    gloss: powerful (specifically {openscriptures-strongs}
+    proximity: 0.7749 {macula-proximity}
   - strongs: H6957a
-    proximity: 0.7651
+    proximity: 0.7651 {macula-proximity}
   - strongs: H6105
-    proximity: 0.7592
+    lemma: עָצַם
+    gloss: to bind fast {openscriptures-strongs}
+    proximity: 0.7592 {macula-proximity}
   - strongs: H2393
-    proximity: 0.7568
+    lemma: חֶזְקָה
+    gloss: prevailing power {openscriptures-strongs}
+    proximity: 0.7568 {macula-proximity}
   cross_language:
   - strongs: G2962
-    proximity: 0.8208
+    lemma: κύριος
+    gloss: supreme in authority {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G1659
-    proximity: 0.767
+    lemma: ἐλευθερόω
+    gloss: to liberate {openscriptures-strongs}
+    proximity: 0.767 {macula-proximity}
     language: greek
   - strongs: G1658
-    proximity: 0.7126
+    lemma: ἐλεύθερος
+    gloss: unrestrained {openscriptures-strongs}
+    proximity: 0.7126 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

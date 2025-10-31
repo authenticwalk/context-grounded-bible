@@ -12,40 +12,57 @@ derivation: a primitive root; properly, to be enclosed (as if with fat); by impl
 related_words:
   synonyms:
   - strongs: A3821
-    proximity: 0.8271
+    proximity: 0.8271 {macula-proximity}
   - strongs: A3825
-    proximity: 0.8145
+    proximity: 0.8145 {macula-proximity}
   - strongs: H1499
-    proximity: 0.8115
+    lemma: גֵּזֶל
+    gloss: plunder {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
   - strongs: A5709
-    proximity: 0.7898
+    proximity: 0.7898 {macula-proximity}
   - strongs: H7953
-    proximity: 0.7831
+    lemma: שָׁלָה
+    gloss: to draw out or off {openscriptures-strongs}
+    proximity: 0.7831 {macula-proximity}
   - strongs: H3824
-    proximity: 0.771
+    lemma: לֵבָב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.771 {macula-proximity}
   - strongs: H6684
-    proximity: 0.7623
+    lemma: צוּם
+    gloss: to cover over {openscriptures-strongs}
+    proximity: 0.7623 {macula-proximity}
   - strongs: H6685
-    proximity: 0.7587
+    lemma: צוֹם
+    gloss: a fast {openscriptures-strongs}
+    proximity: 0.7587 {macula-proximity}
   - strongs: H3820
-    proximity: 0.7587
+    lemma: לֵב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.7587 {macula-proximity}
   cross_language:
   - strongs: G726
-    proximity: 0.8162
+    proximity: 0.8162 {macula-proximity}
     language: greek
   - strongs: G3522
-    proximity: 0.8104
+    lemma: νηστεύω
+    gloss: to abstain from food {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
     language: greek
   - strongs: G4680
-    proximity: 0.7806
+    lemma: σοφός
+    gloss: wise {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
     language: greek
   - strongs: G2588
-    proximity: 0.7208
+    lemma: καρδία
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.7208 {macula-proximity}
     language: greek
   - strongs: G2603
-    proximity: 0.7128
+    lemma: καταβραβεύω
+    gloss: to award the price against {openscriptures-strongs}
+    proximity: 0.7128 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

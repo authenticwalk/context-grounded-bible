@@ -7,46 +7,69 @@ definition: '{arrogance or majesty; by implication, (concretely) ornament}'
 kjv_usage: arrogancy, excellency(-lent), majesty, pomp, pride, proud, swelling.
 derivation: from H1342 (גָּאָה); the same as H1346 (גַּאֲוָה)xlit gaʻăvâh corrected
   to gaʼăvâh
-extended_definition:
-  gloss: pride
-  definition: 1) exaltation, majesty, pride<br>1a) majesty, exaltation, excellence<br>1a1)
-    of nations<br>1a2) of God<br>1a3) of the Jordan<br>1b) pride, arrogance (bad sense)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) exaltation, majesty, pride
+
+  1a) majesty, exaltation, excellence
+
+  1a1) of nations
+
+  1a2) of God
+
+  1a3) of the Jordan
+
+  1b) pride, arrogance (bad sense) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1431
-    proximity: 0.8276
+    lemma: גָּדַל
+    gloss: to be  large (in various senses {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: H5442
-    proximity: 0.8261
+    lemma: סְבָךְ
+    gloss: a copse {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: H3314
-    proximity: 0.8197
+    lemma: יִפְעָה
+    gloss: splendor or  beauty {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
   - strongs: H3513
-    proximity: 0.8185
+    lemma: כָּבַד
+    gloss: to be heavy {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: A7238
-    proximity: 0.8183
+    proximity: 0.8183 {macula-proximity}
   - strongs: H7311
-    proximity: 0.8132
+    lemma: רוּם
+    gloss: to be high actively {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
   - strongs: H3366
-    proximity: 0.8109
+    lemma: יְקָר
+    gloss: value {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
   - strongs: H117
-    proximity: 0.8102
+    proximity: 0.8102 {macula-proximity}
   - strongs: H2337
-    proximity: 0.8047
+    lemma: חָוָח
+    gloss: a dell or crevice {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
   - strongs: H1891
-    proximity: 0.8044
+    lemma: הָבַל
+    gloss: to be vain in act {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
   cross_language:
   - strongs: G5309
-    proximity: 0.8166
+    lemma: ὑψηλοφρονέω
+    gloss: to be lofty in mind {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
     language: greek
   - strongs: G1392
-    proximity: 0.8151
+    lemma: δοξάζω
+    gloss: to render  glorious {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
     language: greek
   - strongs: G3169
-    proximity: 0.8004
+    lemma: μεγαλοπρεπής
+    gloss: befitting greatness or magnificence {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

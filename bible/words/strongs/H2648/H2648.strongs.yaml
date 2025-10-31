@@ -7,40 +7,55 @@ definition: properly, to start up suddenly, i.e. (by implication) to hasten away
   to fear
 kjv_usage: (make) haste (away), tremble.
 derivation: a primitive root;
-extended_definition:
-  gloss: to hurry
-  definition: 1) to hurry, flee, hasten, fear, be terrified<br>1a) (Qal) to be in
-    a hurry, be alarmed<br>1b) (Niphal) to be in a hurry
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to hurry, flee, hasten, fear, be terrified
+
+  1a) (Qal) to be in a hurry, be alarmed
+
+  1b) (Niphal) to be in a hurry {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3415
-    proximity: 0.8241
+    lemma: יָרַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H4015
-    proximity: 0.8231
+    lemma: מִבְרָח
+    gloss: a refugee {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H4498
-    proximity: 0.8219
+    lemma: מָנוֹס
+    gloss: a retreat {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: H7269
-    proximity: 0.8171
+    lemma: רׇגְזָה
+    gloss: trepidation {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: H5132
-    proximity: 0.8159
+    lemma: נוּץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H6427
-    proximity: 0.8102
+    lemma: פַּלָּצוּת
+    gloss: affright {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
   - strongs: H6206
-    proximity: 0.8086
+    lemma: עָרַץ
+    gloss: to awe or  to dread {openscriptures-strongs}
+    proximity: 0.8086 {macula-proximity}
   - strongs: H213
-    proximity: 0.808
+    proximity: 0.808 {macula-proximity}
   - strongs: H1204
-    proximity: 0.8021
+    lemma: בָּעַת
+    gloss: to fear {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
   - strongs: H2731
-    proximity: 0.7979
+    lemma: חֲרָדָה
+    gloss: fear {openscriptures-strongs}
+    proximity: 0.7979 {macula-proximity}
   cross_language:
   - strongs: G2350
-    proximity: 0.7949
+    lemma: θορυβέω
+    gloss: to be in tumult {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

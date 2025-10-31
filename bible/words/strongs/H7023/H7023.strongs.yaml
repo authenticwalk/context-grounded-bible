@@ -6,46 +6,59 @@ pronunciation: keer
 definition: a wall (as built in a trench)
 kjv_usage: '[phrase] mason, side, town, [idiom] very, wall.'
 derivation: or קִר; (Isaiah 22:5), or (feminine) קִירָה; from H6979 (קוּר);
-extended_definition:
-  gloss: wall
-  definition: 1) wall, side<br>1a) wall (of house or chamber)<br>1b) the sides (of
-    the altar)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) wall, side
+
+  1a) wall (of house or chamber)
+
+  1b) the sides (of the altar) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2742a
-    proximity: 0.829
+    proximity: 0.829 {macula-proximity}
   - strongs: H6654
-    proximity: 0.8283
+    lemma: צַד
+    gloss: a side {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H582
-    proximity: 0.8193
+    proximity: 0.8193 {macula-proximity}
   - strongs: H1146
-    proximity: 0.8147
+    lemma: בִּנְיָן
+    gloss: an edifice {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: H3802
-    proximity: 0.8127
+    lemma: כָּתֵף
+    gloss: the shoulder (proper {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
   - strongs: H7790
-    proximity: 0.8099
+    lemma: שׁוּר
+    gloss: a foe {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
   - strongs: H7342
-    proximity: 0.804
+    lemma: רָחָב
+    gloss: roomy {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   - strongs: A1b
-    proximity: 0.7947
+    proximity: 0.7947 {macula-proximity}
   - strongs: H7151
-    proximity: 0.7844
+    lemma: קִרְיָה
+    gloss: building {openscriptures-strongs}
+    proximity: 0.7844 {macula-proximity}
   - strongs: H1443
-    proximity: 0.7739
+    lemma: גָּדַר
+    gloss: to wall in or around {openscriptures-strongs}
+    proximity: 0.7739 {macula-proximity}
   cross_language:
   - strongs: G435
-    proximity: 0.7915
+    proximity: 0.7915 {macula-proximity}
     language: greek
   - strongs: G4172
-    proximity: 0.78
+    lemma: πόλις
+    gloss: a town (properly {openscriptures-strongs}
+    proximity: 0.78 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.7596
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7596 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

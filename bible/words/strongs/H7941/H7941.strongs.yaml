@@ -6,36 +6,45 @@ pronunciation: shay-kawr'
 definition: an intoxicant, i.e. intensely alcoholic liquor
 kjv_usage: strong drink, [phrase] drunkard, strong wine.
 derivation: from H7937 (שָׁכַר);
-extended_definition:
-  gloss: strong drink
-  definition: strong drink, intoxicating drink, fermented or intoxicating liquor
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: strong drink, intoxicating drink, fermented or intoxicating liquor
+  {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4469
-    proximity: 0.8179
+    lemma: מַמְסָךְ
+    gloss: mixture {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
   - strongs: H7910
-    proximity: 0.8038
+    lemma: שִׁכּוֹר
+    gloss: intoxicated {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
   - strongs: A8355
-    proximity: 0.7947
+    proximity: 0.7947 {macula-proximity}
   - strongs: H5433
-    proximity: 0.7547
+    lemma: סָבָא
+    gloss: to quaff to satiety {openscriptures-strongs}
+    proximity: 0.7547 {macula-proximity}
   - strongs: H8360
-    proximity: 0.7547
+    lemma: שְׁתִיָּה
+    gloss: potation {openscriptures-strongs}
+    proximity: 0.7547 {macula-proximity}
   - strongs: H8354
-    proximity: 0.738
+    lemma: שָׁתָה
+    gloss: to imbibe {openscriptures-strongs}
+    proximity: 0.738 {macula-proximity}
   - strongs: H5435
-    proximity: 0.7211
+    lemma: סֹבֶא
+    gloss: potation {openscriptures-strongs}
+    proximity: 0.7211 {macula-proximity}
   cross_language:
   - strongs: G3183
-    proximity: 0.7737
+    lemma: μέθυσος
+    gloss: tipsy {openscriptures-strongs}
+    proximity: 0.7737 {macula-proximity}
     language: greek
   - strongs: G4095
-    proximity: 0.754
+    lemma: πίνω
+    gloss: to imbibe {openscriptures-strongs}
+    proximity: 0.754 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

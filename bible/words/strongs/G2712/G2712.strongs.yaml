@@ -5,57 +5,80 @@ transliteration: kateídōlos
 definition: utterly idolatrous
 kjv_usage: wholly given to idolatry
 derivation: from G2596 (κατά) (intensively) and G1497 (εἴδωλον);
-extended_definition:
-  gloss: idolatrous
-  definition: '<b>κατείδωλος</b>, -ον<BR /> (εἴδωλον), <BR /><b>full of idols</b>:
-    <ref=''Act.17.16.''>Act.17:16.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> κατείδωλος</b>, ον, <br /> <b>full of idols, given to idolatry,</b>
-    [<a href="javascript:void(0)" title=" NT.Acts.17.16. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'κατείδωλος, -ον
+
+  (εἴδωλον),
+
+  full of idols: Act.17:16.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κατείδωλος, ον,
+
+  full of idols, given to idolatry, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1493
-    proximity: 0.827
+    lemma: εἰδωλεῖον
+    gloss: an image-fane {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: G1494a
-    proximity: 0.8225
+    proximity: 0.8225 {macula-proximity}
   - strongs: G1494
-    proximity: 0.8147
+    lemma: εἰδωλόθυτον
+    gloss: an image-sacrifice {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: G1504
-    proximity: 0.8135
+    lemma: εἰκών
+    gloss: a likeness {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: G1630
-    proximity: 0.81
+    lemma: ἔκφοβος
+    gloss: frightened out of one's wits {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
   - strongs: G3325
-    proximity: 0.8097
+    lemma: μεστόω
+    gloss: to replenish {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: G4184
-    proximity: 0.8045
+    lemma: πολύσπλαγχνος
+    gloss: extremely compassionate {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
   - strongs: G1496
-    proximity: 0.7991
+    lemma: εἰδωλολάτρης
+    gloss: an image-  worshipper {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: G1073
-    proximity: 0.7577
+    lemma: γέμω
+    gloss: to swell out {openscriptures-strongs}
+    proximity: 0.7577 {macula-proximity}
   - strongs: G4193
-    proximity: 0.7572
+    lemma: Ποντικός
+    gloss: a Pontican {openscriptures-strongs}
+    proximity: 0.7572 {macula-proximity}
   cross_language:
   - strongs: H8251
-    proximity: 0.8199
+    lemma: שִׁקּוּץ
+    gloss: disgusting {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
     language: hebrew
   - strongs: H6058
-    proximity: 0.802
+    lemma: עָנֵף
+    gloss: branching {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
     language: hebrew
   - strongs: H7295
-    proximity: 0.796
+    lemma: רָהָב
+    gloss: insolent {openscriptures-strongs}
+    proximity: 0.796 {macula-proximity}
     language: hebrew
   - strongs: H7649
-    proximity: 0.794
+    lemma: שָׂבֵעַ
+    gloss: satiated {openscriptures-strongs}
+    proximity: 0.794 {macula-proximity}
     language: hebrew
   - strongs: H5257
-    proximity: 0.7778
+    lemma: נְסִיךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

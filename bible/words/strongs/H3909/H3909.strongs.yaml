@@ -7,42 +7,59 @@ definition: properly, covered, i.e. secret; by implication, incantation; also se
   or (adverb) covertly
 kjv_usage: enchantment, privily, secretly, softly.
 derivation: a form of H3814 (לָאט) or else participle from H3874 (לוּט);
-extended_definition:
-  gloss: secrecy
-  definition: '1) secrecy, mystery, enchantment<br>1a) secrecy, secretly<br>1b) mystery,
-    enchantment<BR>Also means: <i>lat</i> (לָאט "secret" H3814)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) secrecy, mystery, enchantment
+
+  1a) secrecy, secretly
+
+  1b) mystery, enchantment
+
+  Also means: lat (לָאט "secret" H3814) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3784
-    proximity: 0.7914
+    lemma: כָּשַׁף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7914 {macula-proximity}
   - strongs: H2791
-    proximity: 0.7516
+    lemma: חֶרֶשׁ
+    gloss: magical craft {openscriptures-strongs}
+    proximity: 0.7516 {macula-proximity}
   - strongs: H5643
-    proximity: 0.7497
+    lemma: סֵתֶר
+    gloss: a cover (in a good or a bad {openscriptures-strongs}
+    proximity: 0.7497 {macula-proximity}
   - strongs: H5172
-    proximity: 0.741
+    lemma: נָחַשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.741 {macula-proximity}
   - strongs: H5173
-    proximity: 0.7359
+    lemma: נַחַשׁ
+    gloss: an incantation or augury {openscriptures-strongs}
+    proximity: 0.7359 {macula-proximity}
   cross_language:
   - strongs: G3096
-    proximity: 0.8235
+    lemma: μαγεύω
+    gloss: to practice magic {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: greek
   - strongs: G2398
-    proximity: 0.8113
+    lemma: ἴδιος
+    gloss: pertaining to self {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
     language: greek
   - strongs: G5331
-    proximity: 0.7552
+    lemma: φαρμακεία
+    gloss: medication {openscriptures-strongs}
+    proximity: 0.7552 {macula-proximity}
     language: greek
   - strongs: G3095
-    proximity: 0.722
+    lemma: μαγεία
+    gloss: '"magic" {openscriptures-strongs}'
+    proximity: 0.722 {macula-proximity}
     language: greek
   - strongs: G4021
-    proximity: 0.7202
+    lemma: περίεργος
+    gloss: working all around {openscriptures-strongs}
+    proximity: 0.7202 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

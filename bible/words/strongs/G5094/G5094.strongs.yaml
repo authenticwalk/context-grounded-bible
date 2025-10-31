@@ -5,47 +5,50 @@ transliteration: timiótēs
 definition: expensiveness, i.e. (by implication) magnificence
 kjv_usage: costliness
 derivation: from G5093 (τίμιος);
-extended_definition:
-  gloss: wealth
-  definition: '<b>τιμιότης</b>, -ητος, ἡ<BR /> (τίμιος), <BR /><b>preciousness, worth</b>:
-    <ref=''Rev.18.19''>Rev.18:19</ref> (cf. Hort on τιμή, <ref=''1Pe.2.7''>1Pe.2:7</ref>).†<BR
-    /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> τιμι-ότης</b>, ητος, ἡ, <br /> <b>dignity</b>, διαφέρειν τιμιότητι
-    καὶ ἀτιμίᾳ ἀλλήλων [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles
-    Philosophus “de Generatione Animalium” 736b31; δυνάμει καὶ τ. ὑπερέχειν [prev.
-    author] “EN” 1178a1. ">Refs 4th c.BC+</a>]<br /><Level3><b>__2</b></Level3> <b>costliness,</b>
-    [<a href="javascript:void(0)" title=" NT.Rev. 18.19. ">NT</a>]<br /><Level2><b>__II</b></Level2>
-    as form of address, ἡ σὴ τ. [<a href="javascript:void(0)" title=" “PAmh.” 2.145
-    (4th-5th c.AD). ">Refs 4th c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'τιμιότης, -ητος, ἡ
+
+  (τίμιος),
+
+  preciousness, worth: Rev.18:19 (cf. Hort on τιμή, 1Pe.2:7).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'τιμι-ότης, ητος, ἡ,
+
+  dignity, διαφέρειν τιμιότητι καὶ ἀτιμίᾳ ἀλλήλων [Refs 4th c.BC+]
+
+  __2 costliness, [NT]
+
+  __II as form of address, ἡ σὴ τ. [Refs 4th c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5536
-    proximity: 0.7711
+    lemma: χρῆμα
+    gloss: something useful or needed {openscriptures-strongs}
+    proximity: 0.7711 {macula-proximity}
   - strongs: G2142
-    proximity: 0.7694
+    lemma: εὐπορία
+    gloss: pecuniary resources {openscriptures-strongs}
+    proximity: 0.7694 {macula-proximity}
   cross_language:
   - strongs: H2530a
-    proximity: 0.829
+    proximity: 0.829 {macula-proximity}
     language: hebrew
   - strongs: H3519
-    proximity: 0.8171
+    lemma: כָּבוֹד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
     language: hebrew
   - strongs: H7075
-    proximity: 0.8114
+    lemma: קִנְיָן
+    gloss: creation {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
     language: hebrew
   - strongs: H202
-    proximity: 0.7978
+    proximity: 0.7978 {macula-proximity}
     language: hebrew
   - strongs: H6238
-    proximity: 0.7937
+    lemma: עָשַׁר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7937 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

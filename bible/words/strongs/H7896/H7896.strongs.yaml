@@ -7,54 +7,83 @@ definition: to place (in a very wide application)
 kjv_usage: apply, appoint, array, bring, consider, lay (up), let alone, [idiom] look,
   make, mark, put (on), [phrase] regard, set, shew, be stayed, [idiom] take.
 derivation: a primitive root;
-extended_definition:
-  gloss: 'to set: consider'
-  definition: ': consider<br>1) to put, set<br>1a) (Qal)<br>1a1) to put, lay (hand
-    upon)<br>1a2) to set, station, appoint, fix, set mind to<br>1a3) to constitute,
-    make (one something), make like, perform<br>1a4) to take one''s stand<br>1a5)
-    to lay waste<br>1b) (Hophal) to be imposed, be set upon'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': consider
+
+  1) to put, set
+
+  1a) (Qal)
+
+  1a1) to put, lay (hand upon)
+
+  1a2) to set, station, appoint, fix, set mind to
+
+  1a3) to constitute, make (one something), make like, perform
+
+  1a4) to take one''s stand
+
+  1a5) to lay waste
+
+  1b) (Hophal) to be imposed, be set upon {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H982
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
   - strongs: H6965
-    proximity: 0.8281
+    lemma: קוּם
+    gloss: to rise (in various applications {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.8262
+    proximity: 0.8262 {macula-proximity}
   - strongs: H1379
-    proximity: 0.821
+    lemma: גָּבַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
   - strongs: H6213
-    proximity: 0.8205
+    lemma: עָשָׂה
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: H2163
-    proximity: 0.8182
+    lemma: זָמַן
+    gloss: to fix {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
   - strongs: H7931
-    proximity: 0.8171
+    lemma: שָׁכַן
+    gloss: to reside or permanently stay {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: H5324
-    proximity: 0.8168
+    lemma: נָצַב
+    gloss: to station {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H6696
-    proximity: 0.8157
+    lemma: צוּר
+    gloss: to cramp {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: H7596a
-    proximity: 0.8148
+    proximity: 0.8148 {macula-proximity}
   cross_language:
   - strongs: G3337
-    proximity: 0.8224
+    lemma: μεταλλάσσω
+    gloss: to exchange {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
     language: greek
   - strongs: G1096
-    proximity: 0.8187
+    lemma: γίνομαι
+    gloss: to cause to be {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
     language: greek
   - strongs: G4160
-    proximity: 0.8153
+    lemma: ποιέω
+    gloss: to make or do (in a very wide application {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
     language: greek
   - strongs: G1936
-    proximity: 0.814
+    lemma: ἐπίθεσις
+    gloss: an imposition {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
     language: greek
   - strongs: G2192
-    proximity: 0.8104
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,38 +6,46 @@ pronunciation: gal-gal'
 definition: a wheel; by analogy, a whirlwind; also dust (as whirled)
 kjv_usage: heaven, rolling thing, wheel.
 derivation: by reduplication from H1556 (גָּלַל);
-extended_definition:
-  gloss: wheel
-  definition: '1) wheel, whirl, whirlwind, whirling<br>1a) wheel<br>1b) whirl (of
-    dust, chaff)<BR>Aramaic equivalent: <i>gal.gal</i> (גַּלְגַּל "wheel" H1535)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) wheel, whirl, whirlwind, whirling
+
+  1a) wheel
+
+  1b) whirl (of dust, chaff)
+
+  Aramaic equivalent: gal.gal (גַּלְגַּל "wheel" H1535) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1534a
-    proximity: 0.8245
+    proximity: 0.8245 {macula-proximity}
   - strongs: H70
-    proximity: 0.778
+    proximity: 0.778 {macula-proximity}
   - strongs: H5591
-    proximity: 0.7761
+    lemma: סַעַר
+    gloss: a hurricane {openscriptures-strongs}
+    proximity: 0.7761 {macula-proximity}
   - strongs: H7393
-    proximity: 0.725
+    lemma: רֶכֶב
+    gloss: a vehicle {openscriptures-strongs}
+    proximity: 0.725 {macula-proximity}
   - strongs: H5699
-    proximity: 0.7134
+    lemma: עֲגָלָה
+    gloss: something revolving {openscriptures-strongs}
+    proximity: 0.7134 {macula-proximity}
   - strongs: H4818
-    proximity: 0.7011
+    lemma: מֶרְכָּבָה
+    gloss: a chariot {openscriptures-strongs}
+    proximity: 0.7011 {macula-proximity}
   cross_language:
   - strongs: G716
-    proximity: 0.8172
+    proximity: 0.8172 {macula-proximity}
     language: greek
   - strongs: G5164
-    proximity: 0.7642
+    lemma: τροχός
+    gloss: a wheel {openscriptures-strongs}
+    proximity: 0.7642 {macula-proximity}
     language: greek
   - strongs: G2366
-    proximity: 0.7482
+    lemma: θύελλα
+    proximity: 0.7482 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

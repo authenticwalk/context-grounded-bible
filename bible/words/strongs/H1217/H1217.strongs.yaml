@@ -6,28 +6,28 @@ pronunciation: baw-tsake'
 definition: dough (as swelling by fermentation)
 kjv_usage: dough, flour.
 derivation: from H1216 (בָּצֵק);
-extended_definition:
-  gloss: dough
-  definition: dough (unleavened)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: dough (unleavened) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4863
-    proximity: 0.8221
+    lemma: מִשְׁאֶרֶת
+    gloss: a kneading-trough {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H5560
-    proximity: 0.7687
+    lemma: סֹלֶת
+    gloss: flour {openscriptures-strongs}
+    proximity: 0.7687 {macula-proximity}
   - strongs: H7058
-    proximity: 0.7151
+    lemma: קֶמַח
+    gloss: flour {openscriptures-strongs}
+    proximity: 0.7151 {macula-proximity}
   cross_language:
   - strongs: G4585
-    proximity: 0.7922
+    lemma: σεμίδαλις
+    gloss: fine wheaten flour {openscriptures-strongs}
+    proximity: 0.7922 {macula-proximity}
     language: greek
   - strongs: G224
-    proximity: 0.7435
+    proximity: 0.7435 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

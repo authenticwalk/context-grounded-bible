@@ -5,60 +5,61 @@ transliteration: diakōlýō
 definition: to hinder altogether, i.e. utterly prohibit
 kjv_usage: forbid
 derivation: from G1223 (διά) and G2967 (κωλύω);
-extended_definition:
-  gloss: to hinder
-  definition: '<b>δια-κωλεύω </b><BR /> [in LXX: <ref=''Jdt.4.7; 12.7''>Jdth.4:7 12:7</ref>
-    * ;] <BR /><b>to hinder, prevent</b>: with accusative, <ref=''Mat.3.14.''>Mat.3:14.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> διακωλ-ύω</b> [ῡ], <br /> <b>hinder, prevent,</b> τινὰ μὴ ποιεῖν
-    [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 8.144, compare
-    5th c.BC: Lysias Orator 20.36; δ. σε ὀρφανὸν εἶναι 5th c.BC: Euripides Tragicus
-    “Hecuba” 148; δ. τὰ ἱερὰ μὴ γίγνεσθαι 5th c.BC: Antipho Orator 5.82; δ. ἄδικα
-    γίγνεσθαι 5th-6th c.BC: Plato Philosophus “Apologia” 31e; δ. τινά 5th c.BC: Thucydides
-    Historicus 8.92, NT.Matt.3.14 ">NT+5th c.BC+</a>]; δ. τινά τι (i.e. ποιεῖν) [<a
-    href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Epistulae”
-    315d; δ. τινά τινος 1st c.BC: Diodorus Siculus Historicus 20.79; δ. φόνον 5th
-    c.BC: Sophocles Tragicus “Oedipus Coloneus” 1771 (Lyric poetry); δ. τὸ πρᾶγμα
-    5th-6th c.BC: Alcaeus Comicus 3, compare 4th c.BC: Aristoteles Philosophus “Ethica
-    Nicomachea” 1159b6 ">Refs 5th c.BC+</a>]:—<i>passive</i>, [<a href="javascript:void(0)"
-    title=" 5th c.BC: Thucydides Historicus 1.101; διακωλυθεὶς τοῦ σκοποῦ τυχεῖν 5th
-    c.BC: Antipho Orator 3.2.7: ἂ διεκωλύθη (i.e. ποιεῖν) 4th c.BC: Demosthenes Orator
-    18.60. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δια-κωλεύω
+
+  [in LXX: Jdth.4:7 12:7 * ;]
+
+  to hinder, prevent: with accusative, Mat.3:14.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'διακωλ-ύω [ῡ],
+
+  hinder, prevent, τινὰ μὴ ποιεῖν [NT+5th c.BC+]; δ. τινά τι (i.e. ποιεῖν) [Refs 5th
+  c.BC+]:—passive, [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2869
-    proximity: 0.7941
+    lemma: κοπάζω
+    gloss: to tire {openscriptures-strongs}
+    proximity: 0.7941 {macula-proximity}
   - strongs: G1465
-    proximity: 0.7892
+    lemma: ἐγκόπτω
+    gloss: to cut into {openscriptures-strongs}
+    proximity: 0.7892 {macula-proximity}
   - strongs: G1257
-    proximity: 0.7819
+    lemma: διαλείπω
+    gloss: to leave off in the middle {openscriptures-strongs}
+    proximity: 0.7819 {macula-proximity}
   - strongs: G3973
-    proximity: 0.7789
+    lemma: παύω
+    gloss: to stop {openscriptures-strongs}
+    proximity: 0.7789 {macula-proximity}
   - strongs: A4223
-    proximity: 0.7782
+    proximity: 0.7782 {macula-proximity}
   cross_language:
   - strongs: H5534
-    proximity: 0.8297
+    lemma: סָכַר
+    gloss: to shut up {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: hebrew
   - strongs: H7078
-    proximity: 0.8278
+    lemma: קֶנֶץ
+    gloss: perversion {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: hebrew
   - strongs: H6113
-    proximity: 0.7808
+    lemma: עָצָר
+    gloss: to inclose {openscriptures-strongs}
+    proximity: 0.7808 {macula-proximity}
     language: hebrew
   - strongs: H5239
-    proximity: 0.7787
+    lemma: נָלָה
+    gloss: to complete {openscriptures-strongs}
+    proximity: 0.7787 {macula-proximity}
     language: hebrew
   - strongs: H5627
-    proximity: 0.7399
+    lemma: סָרָה
+    gloss: apostasy {openscriptures-strongs}
+    proximity: 0.7399 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,49 +6,68 @@ pronunciation: ro'-ghez
 definition: commotion, restlessness (of a horse), crash (of thunder), disquiet, anger
 kjv_usage: fear, noise, rage, trouble(-ing), wrath.
 derivation: from H7264 (רָגַז);
-extended_definition:
-  gloss: turmoil
-  definition: 1) agitation, excitement, raging, trouble, turmoil, trembling<br>1a)
-    turmoil, disquiet, raging<br>1b) trembling, trepidation
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) agitation, excitement, raging, trouble, turmoil, trembling
+
+  1a) turmoil, disquiet, raging
+
+  1b) trembling, trepidation {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H750
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
   - strongs: H7580
-    proximity: 0.8221
+    lemma: שָׁאַג
+    gloss: to rumble or moan {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H7494
-    proximity: 0.8198
+    lemma: רַעַשׁ
+    gloss: vibration {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
   - strongs: H2560
-    proximity: 0.8155
+    lemma: חָמַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H1943
-    proximity: 0.8124
+    lemma: הֹוָה
+    gloss: ruin {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: A888
-    proximity: 0.8113
+    proximity: 0.8113 {macula-proximity}
   - strongs: H1993
-    proximity: 0.8113
+    lemma: הָמָה
+    gloss: to make a loud sound {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
   - strongs: H7481
-    proximity: 0.8112
+    lemma: רָעַם
+    gloss: to tumble {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
   - strongs: H6234
-    proximity: 0.8079
+    lemma: עׇשְׁקָה
+    gloss: anguish {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
   - strongs: H5916
-    proximity: 0.8061
+    lemma: עָכַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8061 {macula-proximity}
   cross_language:
   - strongs: G3926
-    proximity: 0.8213
+    lemma: παρενοχλέω
+    gloss: to harass further {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
     language: greek
   - strongs: G1027
-    proximity: 0.8203
+    lemma: βροντή
+    gloss: thunder {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
     language: greek
   - strongs: G3930
-    proximity: 0.8094
+    lemma: παρέχω
+    gloss: to hold near {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
     language: greek
   - strongs: G4579
-    proximity: 0.8045
+    lemma: σείω
+    gloss: to rock (vibrate {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

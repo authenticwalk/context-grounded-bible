@@ -6,34 +6,40 @@ pronunciation: mis-paw-khaw'
 definition: a veil (as spread out)
 kjv_usage: kerchief.
 derivation: from H5596 (סָפַח);
-extended_definition:
-  gloss: veil
-  definition: long veil, veil (as spread out)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: long veil, veil (as spread out) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4541a
-    proximity: 0.8049
+    proximity: 0.8049 {macula-proximity}
   - strongs: H4701
-    proximity: 0.7896
+    lemma: מִצְנֶפֶת
+    gloss: a tiara {openscriptures-strongs}
+    proximity: 0.7896 {macula-proximity}
   - strongs: H7289
-    proximity: 0.7847
+    lemma: רָדִיד
+    gloss: a veil {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
   - strongs: H6532
-    proximity: 0.773
+    lemma: פֹּרֶכֶת
+    gloss: a separatrix {openscriptures-strongs}
+    proximity: 0.773 {macula-proximity}
   - strongs: H4044
-    proximity: 0.7444
+    lemma: מְגִנָּה
+    gloss: a covering {openscriptures-strongs}
+    proximity: 0.7444 {macula-proximity}
   - strongs: H6287
-    proximity: 0.7191
+    lemma: פְּאֵר
+    gloss: an embellishment {openscriptures-strongs}
+    proximity: 0.7191 {macula-proximity}
   cross_language:
   - strongs: G2572
-    proximity: 0.8267
+    lemma: καλύπτω
+    gloss: to cover up {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
     language: greek
   - strongs: G2665
-    proximity: 0.7833
+    lemma: καταπέτασμα
+    gloss: something spread thoroughly {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,44 +6,61 @@ pronunciation: sheb-oo-aw'
 definition: properly, something sworn, i.e. an oath
 kjv_usage: curse, oath, [idiom] sworn.
 derivation: feminine passive participle of H7650 (שָׁבַע);
-extended_definition:
-  gloss: oath
-  definition: 1) oath, curse<br>1a) oath<br>1a1) attesting of innocence<br>1a2) curse<br>1b)
-    oath (of Jehovah)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) oath, curse
+
+  1a) oath
+
+  1a1) attesting of innocence
+
+  1a2) curse
+
+  1b) oath (of Jehovah) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7656
-    proximity: 0.827
+    lemma: שִׁבְעָה
+    gloss: Shebah {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H1285
-    proximity: 0.8143
+    lemma: בְּרִית
+    gloss: a compact {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
   - strongs: H7043
-    proximity: 0.786
+    lemma: קָלַל
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.786 {macula-proximity}
   - strongs: H8381
-    proximity: 0.7218
+    lemma: תַּאֲלָה
+    gloss: an imprecation {openscriptures-strongs}
+    proximity: 0.7218 {macula-proximity}
   - strongs: H6895
-    proximity: 0.7097
+    lemma: קָבַב
+    gloss: to scoop out {openscriptures-strongs}
+    proximity: 0.7097 {macula-proximity}
   - strongs: H3994
-    proximity: 0.7096
+    lemma: מְאֵרָה
+    gloss: an execration {openscriptures-strongs}
+    proximity: 0.7096 {macula-proximity}
   cross_language:
   - strongs: G1965
-    proximity: 0.8033
+    lemma: ἐπίορκος
+    gloss: on oath {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
     language: greek
   - strongs: G4945
-    proximity: 0.7975
+    lemma: συνωμοσία
+    gloss: a swearing together {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
     language: greek
   - strongs: G1944a
-    proximity: 0.7723
+    proximity: 0.7723 {macula-proximity}
     language: greek
   - strongs: G1944
-    proximity: 0.768
+    lemma: ἐπικατάρατος
+    gloss: imprecated {openscriptures-strongs}
+    proximity: 0.768 {macula-proximity}
     language: greek
   - strongs: G331
-    proximity: 0.7552
+    proximity: 0.7552 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

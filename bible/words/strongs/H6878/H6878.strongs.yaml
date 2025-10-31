@@ -6,39 +6,45 @@ pronunciation: tso'-rek
 definition: need
 kjv_usage: need.
 derivation: from an unused root meaning to need;
-extended_definition:
-  gloss: need
-  definition: need
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: need {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2706
-    proximity: 0.8199
+    lemma: חֹק
+    gloss: an enactment {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H1697
-    proximity: 0.8166
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
   - strongs: H1767
-    proximity: 0.7674
+    lemma: דַּי
+    gloss: enough {openscriptures-strongs}
+    proximity: 0.7674 {macula-proximity}
   - strongs: H2637
-    proximity: 0.7656
+    lemma: חָסֵר
+    gloss: to lack {openscriptures-strongs}
+    proximity: 0.7656 {macula-proximity}
   - strongs: H4938
-    proximity: 0.743
+    lemma: מִשְׁעֵנָה
+    gloss: support {openscriptures-strongs}
+    proximity: 0.743 {macula-proximity}
   - strongs: H4937a
-    proximity: 0.7218
+    proximity: 0.7218 {macula-proximity}
   - strongs: A3983
-    proximity: 0.7009
+    proximity: 0.7009 {macula-proximity}
   cross_language:
   - strongs: G5304
-    proximity: 0.8021
+    lemma: ὑστέρησις
+    gloss: a falling short {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
     language: greek
   - strongs: G318
-    proximity: 0.7203
+    proximity: 0.7203 {macula-proximity}
     language: greek
   - strongs: G2192
-    proximity: 0.7124
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.7124 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

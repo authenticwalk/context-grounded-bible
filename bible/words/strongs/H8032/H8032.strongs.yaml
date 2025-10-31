@@ -7,46 +7,57 @@ definition: trebly, i.e. (in time) day before yesterday
 kjv_usage: '[phrase] before (that time, -time), excellent things (from the margin),
   [phrase] heretofore, three days, [phrase] time past.'
 derivation: or שִׁלְשֹׁם; from the same as H8028 (שֶׁלֶשׁ);
-extended_definition:
-  gloss: three days ago
-  definition: 1) day before yesterday, three days ago<br>1a) an idiom for 'heretofore
-    in times past'
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: '1) day before yesterday, three days ago
+
+  1a) an idiom for ''heretofore in times past'' {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5227
-    proximity: 0.8239
+    lemma: נֹכַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.8176
+    proximity: 0.8176 {macula-proximity}
   - strongs: H227
-    proximity: 0.812
+    proximity: 0.812 {macula-proximity}
   - strongs: H3117
-    proximity: 0.8114
+    lemma: יוֹם
+    gloss: a day {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
   - strongs: H6256
-    proximity: 0.8023
+    lemma: עֵת
+    gloss: time {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
   - strongs: H6905
-    proximity: 0.7975
+    lemma: קָבָל
+    gloss: the presence {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
   - strongs: H4279
-    proximity: 0.7946
+    lemma: מָחָר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7946 {macula-proximity}
   cross_language:
   - strongs: G4258
-    proximity: 0.8258
+    lemma: προαμαρτάνω
+    gloss: to sin previously {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G4313
-    proximity: 0.8249
+    lemma: προπορεύομαι
+    gloss: to precede {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: greek
   - strongs: G3855
-    proximity: 0.8225
+    lemma: παράγω
+    gloss: to lead near {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
   - strongs: G561
-    proximity: 0.8159
+    proximity: 0.8159 {macula-proximity}
     language: greek
   - strongs: G3844
-    proximity: 0.8157
+    lemma: παρά
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

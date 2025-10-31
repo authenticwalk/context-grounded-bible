@@ -6,33 +6,37 @@ pronunciation: lah-hak-aw'
 definition: an assembly
 kjv_usage: company.
 derivation: probably from an unused root meaning to gather;
-extended_definition:
-  gloss: company
-  definition: company, group, band
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: company, group, band {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2416e
-    proximity: 0.8218
+    proximity: 0.8218 {macula-proximity}
   - strongs: H4256
-    proximity: 0.8169
+    lemma: מַחֲלֹקֶת
+    gloss: a section (of Levites {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: H2256a
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
   - strongs: H5980
-    proximity: 0.8026
+    lemma: עֻמָּה
+    gloss: conjunction {openscriptures-strongs}
+    proximity: 0.8026 {macula-proximity}
   - strongs: H2274
-    proximity: 0.7689
+    lemma: חֶבְרָה
+    gloss: association {openscriptures-strongs}
+    proximity: 0.7689 {macula-proximity}
   - strongs: H4929
-    proximity: 0.7275
+    lemma: מִשְׁמָר
+    gloss: a guard (the man {openscriptures-strongs}
+    proximity: 0.7275 {macula-proximity}
   - strongs: H4917
-    proximity: 0.7138
+    lemma: מִשְׁלַחַת
+    gloss: a mission {openscriptures-strongs}
+    proximity: 0.7138 {macula-proximity}
   cross_language:
   - strongs: G4237
-    proximity: 0.7014
+    lemma: πρασιά
+    gloss: a garden plot {openscriptures-strongs}
+    proximity: 0.7014 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

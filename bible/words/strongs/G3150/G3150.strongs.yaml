@@ -5,50 +5,58 @@ transliteration: mataiología
 definition: random talk, i.e. babble
 kjv_usage: vain jangling
 derivation: from G3151 (ματαιολόγος);
-extended_definition:
-  gloss: babble
-  definition: '<b>ματαιολογία</b>, -ας, ἡ<BR /> (ματαιολόγος), <BR /><b>idle or foolish
-    talk</b>: <ref=''1Ti.1.6.''>1Ti.1:6.</ref>†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> μᾰταιο-λογία</b>, ἡ, <br /> <b>idle talk</b>, [<a href="javascript:void(0)"
-    title=" 2nd c.BC(?): Diogenianus Epicureus 2.16, NT.1Tim.1.6, 1st-2nd c.AD: Plutarchus
-    Biographus et Philosophus 2.6f, 2nd c.AD: Vettius Valens Astrologus 150.24 (_plural_),
-    +others, 3rd c.AD: Porphyrius Tyrius Philosophus “de Abstinentia - Porphyrii Opuscula”
-    4.16. ">NT+2nd c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ματαιολογία, -ας, ἡ
+
+  (ματαιολόγος),
+
+  idle or foolish talk: 1Ti.1:6.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'μᾰταιο-λογία, ἡ,
+
+  idle talk, [NT+2nd c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3153
-    proximity: 0.8197
+    lemma: ματαιότης
+    gloss: inutility {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
   - strongs: G4814
-    proximity: 0.8002
+    lemma: συλλαλέω
+    gloss: to talk together {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: G474
-    proximity: 0.7983
+    proximity: 0.7983 {macula-proximity}
   - strongs: G4802
-    proximity: 0.7942
+    lemma: συζητέω
+    gloss: to investigate jointly {openscriptures-strongs}
+    proximity: 0.7942 {macula-proximity}
   - strongs: G3151
-    proximity: 0.7938
+    lemma: ματαιολόγος
+    gloss: an idle  talker {openscriptures-strongs}
+    proximity: 0.7938 {macula-proximity}
   - strongs: G2214
-    proximity: 0.7775
+    lemma: ζήτησις
+    gloss: a searching (properly {openscriptures-strongs}
+    proximity: 0.7775 {macula-proximity}
   - strongs: G1256
-    proximity: 0.7449
+    lemma: διαλέγομαι
+    gloss: to say thoroughly {openscriptures-strongs}
+    proximity: 0.7449 {macula-proximity}
   - strongs: G4354
-    proximity: 0.737
+    lemma: προσλαλέω
+    gloss: to talk to {openscriptures-strongs}
+    proximity: 0.737 {macula-proximity}
   cross_language:
   - strongs: H907
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
     language: hebrew
   - strongs: H659
-    proximity: 0.8114
+    proximity: 0.8114 {macula-proximity}
     language: hebrew
   - strongs: H1892
-    proximity: 0.7697
+    lemma: הֶבֶל
+    gloss: emptiness or vanity {openscriptures-strongs}
+    proximity: 0.7697 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

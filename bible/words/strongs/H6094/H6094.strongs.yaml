@@ -6,47 +6,59 @@ pronunciation: ats-tseh'-beth
 definition: a idol; also, a pain or wound
 kjv_usage: sorrow, wound.
 derivation: from H6087 (עָצַב);
-extended_definition:
-  gloss: injury
-  definition: pain, hurt, injury, sorrow, wound
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: pain, hurt, injury, sorrow, wound {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2342a
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
   - strongs: H7451b
-    proximity: 0.8259
+    proximity: 0.8259 {macula-proximity}
   - strongs: H7115
-    proximity: 0.8173
+    lemma: קֹצֶר
+    gloss: shortness {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
   - strongs: H5204
-    proximity: 0.8165
+    lemma: נִי
+    gloss: lamentation {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: H4472
-    proximity: 0.8155
+    lemma: מַמְרֹר
+    gloss: a bitterness {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H7661
-    proximity: 0.8152
+    lemma: שָׁבָץ
+    gloss: entanglement {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: H4620
-    proximity: 0.8084
+    lemma: מַעֲצֵבָה
+    gloss: anguish {openscriptures-strongs}
+    proximity: 0.8084 {macula-proximity}
   - strongs: H5892a
-    proximity: 0.8042
+    proximity: 0.8042 {macula-proximity}
   cross_language:
   - strongs: G4730
-    proximity: 0.8228
+    lemma: στενοχωρία
+    gloss: narrowness of room {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
     language: greek
   - strongs: G4928
-    proximity: 0.8175
+    lemma: συνοχή
+    gloss: restraint {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: greek
   - strongs: G3600
-    proximity: 0.8126
+    lemma: ὀδυνάω
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
     language: greek
   - strongs: G2347
-    proximity: 0.8111
+    lemma: θλῖψις
+    gloss: pressure {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
     language: greek
   - strongs: G3602
-    proximity: 0.8109
+    lemma: ὀδυρμός
+    gloss: moaning {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

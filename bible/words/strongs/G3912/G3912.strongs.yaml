@@ -5,68 +5,79 @@ transliteration: paraphronéō
 definition: to misthink, i.e. be insane (silly)
 kjv_usage: as a fool
 derivation: from G3844 (παρά) and G5426 (φρονέω);
-extended_definition:
-  gloss: be insane
-  definition: '<b>παρα-φρονέω</b><BR /> (ιαρά, φρήν), [in LXX: <ref=''Zec.7.11''>Zec.7:11</ref>
-    (סָרַר)* ;] <BR /><b>to be beside oneself, be deranged</b>: <ref=''2Co.11.23.''>2Co.11:23.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> παραφρον-έω</b>, <br /> <b>to be beside oneself, deranged</b>,
-    [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.109, 3.34,
-    35, 4th-5th c.BC: Aeschylus Tragicus “Septem contra Thebas” 806, 5th c.BC: Sophocles
-    Tragicus “Philoctetes” 815, 5th-6th c.BC: Aristophanes Comicus “Nu.” S 44, 5th
-    c.BC: Antipho Orator 2.2.9, etc.">Refs 5th c.BC+</a>]: <i>poetry</i> <b>παραιφρ-</b>
-    [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus Poeta Bucolicus 25.262
-    (variant). ">Refs 3rd c.BC+</a>]<br /><Level3><b>__2</b></Level3> <b>to be delirious</b>,
-    variant in [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus
-    “προγνωστικόν” 10 ">Refs 5th c.BC+</a>]. παραφρόν-ησις, εως, ἡ, ={παραφροσύνη},
-    [<a href="javascript:void(0)" title=" LXX.Zech.12.4, 5th c.BC: Hippocrates Medicus
-    “ἐπιστολαί” 18, 3rd c.BC: Herodas Mimographus ">LXX+5th c.BC+</a>] <i>middle</i>
-    in [<a href="javascript:void(0)" title=" “Rh.Mus.” 58.70. ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'παρα-φρονέω
+
+  (ιαρά, φρήν), [in LXX: Zec.7:11 (סָרַר)* ;]
+
+  to be beside oneself, be deranged: 2Co.11:23.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'παραφρον-έω,
+
+  to be beside oneself, deranged, [Refs 5th c.BC+]: poetry παραιφρ- [Refs 3rd c.BC+]
+
+  __2 to be delirious, variant in [Refs 5th c.BC+]. παραφρόν-ησις, εως, ἡ, ={παραφροσύνη},
+  [LXX+5th c.BC+] middle in [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5613
-    proximity: 0.8255
+    lemma: ὡς
+    gloss: which how {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: G5618
-    proximity: 0.8209
+    lemma: ὥσπερ
+    gloss: just as {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: G3945
-    proximity: 0.8194
+    lemma: παρομοιάζω
+    gloss: to resemble {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: G3510
-    proximity: 0.8194
+    lemma: νεφρός
+    gloss: a kidney {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: G3664
-    proximity: 0.8076
+    lemma: ὅμοιος
+    gloss: similar {openscriptures-strongs}
+    proximity: 0.8076 {macula-proximity}
   - strongs: G4642
-    proximity: 0.8048
+    lemma: σκληρός
+    gloss: dry {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
   - strongs: G1437
-    proximity: 0.803
+    lemma: ἐάν
+    gloss: a conditional particle {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
   - strongs: G1503a
-    proximity: 0.7956
+    proximity: 0.7956 {macula-proximity}
   - strongs: G3563
-    proximity: 0.7889
+    lemma: νοῦς
+    gloss: the intellect {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
   - strongs: G1271
-    proximity: 0.7841
+    lemma: διάνοια
+    gloss: deep thought {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
   cross_language:
   - strongs: H2102
-    proximity: 0.821
+    lemma: זוּד
+    gloss: to seethe {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: hebrew
   - strongs: H1984b
-    proximity: 0.8072
+    proximity: 0.8072 {macula-proximity}
     language: hebrew
   - strongs: H3644
-    proximity: 0.7998
+    lemma: כְּמוֹ
+    gloss: a form of the prefix 'k-' {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
     language: hebrew
   - strongs: H432
-    proximity: 0.7917
+    proximity: 0.7917 {macula-proximity}
     language: hebrew
   - strongs: H3093
-    proximity: 0.7862
+    lemma: יָהִיר
+    gloss: elated {openscriptures-strongs}
+    proximity: 0.7862 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

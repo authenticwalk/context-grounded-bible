@@ -6,33 +6,35 @@ pronunciation: mish-eh'-reth
 definition: a kneading-trough (in which the dough rises)
 kjv_usage: kneading trough, store.
 derivation: from H7604 (שָׁאַר) in the original sense of swelling;
-extended_definition:
-  gloss: kneading
-  definition: kneading trough or bowl
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: kneading trough or bowl {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5592a
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
   - strongs: H3627
-    proximity: 0.8243
+    lemma: כְּלִי
+    gloss: something prepared {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: H1217
-    proximity: 0.8221
+    lemma: בָּצֵק
+    gloss: dough {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H5602
-    proximity: 0.7906
+    lemma: סֵפֶל
+    gloss: a basin {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
   cross_language:
   - strongs: G5165
-    proximity: 0.8218
+    lemma: τρύβλιον
+    gloss: a bowl {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
     language: greek
   - strongs: G4631
-    proximity: 0.8147
+    lemma: σκευή
+    gloss: furniture {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
     language: greek
   - strongs: G502
-    proximity: 0.7212
+    proximity: 0.7212 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

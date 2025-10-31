@@ -7,49 +7,72 @@ definition: properly, a buying, i.e. acquisition; concretely, a piece of propert
   (land or living); also the sum paid
 kjv_usage: (he that is) bought, possession, piece, purchase.
 derivation: feminine of H4735 (מִקְנֶה);
-extended_definition:
-  gloss: purchase
-  definition: 1) purchase<br>1a) purchase<br>1b) purchase-price<br>1c) possession
-    (gained by purchase)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) purchase
+
+  1a) purchase
+
+  1b) purchase-price
+
+  1c) possession (gained by purchase) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5541a
-    proximity: 0.8295
+    proximity: 0.8295 {macula-proximity}
   - strongs: H6187
-    proximity: 0.822
+    lemma: עֵרֶךְ
+    gloss: a pile {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
   - strongs: H7399
-    proximity: 0.8195
+    lemma: רְכוּשׁ
+    gloss: property {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H4901
-    proximity: 0.8177
+    lemma: מֶשֶׁךְ
+    gloss: a sowing {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
   - strongs: H4180
-    proximity: 0.8176
+    lemma: מוֹרָשׁ
+    gloss: a possession {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   - strongs: H3424
-    proximity: 0.8147
+    lemma: יְרֵשָׁה
+    gloss: occupancy {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: H4512
-    proximity: 0.7883
+    lemma: מִנְלֶה
+    gloss: completion {openscriptures-strongs}
+    proximity: 0.7883 {macula-proximity}
   - strongs: H7075
-    proximity: 0.7534
+    lemma: קִנְיָן
+    gloss: creation {openscriptures-strongs}
+    proximity: 0.7534 {macula-proximity}
   - strongs: H4242
-    proximity: 0.7339
+    lemma: מְחִיר
+    gloss: price {openscriptures-strongs}
+    proximity: 0.7339 {macula-proximity}
   - strongs: H4377
-    proximity: 0.7174
+    lemma: מֶכֶר
+    gloss: merchandise {openscriptures-strongs}
+    proximity: 0.7174 {macula-proximity}
   cross_language:
   - strongs: G1712
-    proximity: 0.8005
+    lemma: ἐμπόριον
+    gloss: a mart {openscriptures-strongs}
+    proximity: 0.8005 {macula-proximity}
     language: greek
   - strongs: G5223
-    proximity: 0.7454
+    lemma: ὕπαρξις
+    gloss: existency or proprietorship {openscriptures-strongs}
+    proximity: 0.7454 {macula-proximity}
     language: greek
   - strongs: G2933
-    proximity: 0.704
+    lemma: κτῆμα
+    gloss: an acquirement {openscriptures-strongs}
+    proximity: 0.704 {macula-proximity}
     language: greek
   - strongs: G4046
-    proximity: 0.7032
+    lemma: περιποιέομαι
+    gloss: to make around oneself {openscriptures-strongs}
+    proximity: 0.7032 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

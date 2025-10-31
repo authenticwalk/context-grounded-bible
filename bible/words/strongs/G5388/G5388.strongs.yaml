@@ -5,53 +5,55 @@ transliteration: philóteknos
 definition: fond of one's children, i.e. maternal
 kjv_usage: love their children
 derivation: from G5384 (φίλος) and G5043 (τέκνον);
-extended_definition:
-  gloss: child loving
-  definition: '<b>φιλότεκνος</b>, -ον<BR /> (φίλος, τέκνον), [in LXX: <ref=''4Ma.15.4-6''>4Ma.15:4-6</ref>
-    * ;] <BR /><b>loving one''s children </b>(Hdt., Arist., Plut., al.): of women,
-    joined with φίλανδρος, which see, <ref=''Tit.2.4.''>Tit.2:4.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> φῐλότεκν-ος</b>, ον, <br /> <b>loving one''s children</b> or
-    <b>offspring,</b> [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus
-    2.66, 5th c.BC: Euripides Tragicus “Hercules Furens” 636, “Ph.” 356, 5th-6th c.BC:
-    Aristophanes Comicus “Thesmophoriazusae” 752, NT.Tit.2.4; ἦθος φ. 1st c.BC: Diodorus
-    Siculus Historicus 34 / 5.11 ">NT+5th c.BC+</a>]: <i>comparative</i>, αἱ μητέρες
-    -ότεραι [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus
-    “Ethica Nicomachea” 1168a25 ">Refs 4th c.BC+</a>]; <i>superlative</i> <b>-ότατος</b>[<a
-    href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus
-    “Aemilius Paulus” 6: τὸ φ., ={φιλοτεκνία}, [prev. author] 2.93f. ">Refs 1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'φιλότεκνος, -ον
+
+  (φίλος, τέκνον), [in LXX: 4Ma.15:4-6 * ;]
+
+  loving one''s children (Hdt., Arist., Plut., al.): of women, joined with φίλανδρος,
+  which see, Tit.2:4.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'φῐλότεκν-ος, ον,
+
+  loving one''s children or offspring, [NT+5th c.BC+]: comparative, αἱ μητέρες -ότεραι
+  [Refs 4th c.BC+]; superlative -ότατος[Refs 1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A1123
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
   - strongs: G27
-    proximity: 0.8243
+    proximity: 0.8243 {macula-proximity}
   - strongs: G1549
-    proximity: 0.8083
+    lemma: ἔκγονον
+    gloss: a descendant {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
   - strongs: G2364
-    proximity: 0.7883
+    lemma: θυγάτηρ
+    gloss: a female child {openscriptures-strongs}
+    proximity: 0.7883 {macula-proximity}
   cross_language:
   - strongs: H1323
-    proximity: 0.8231
+    lemma: בַּת
+    gloss: a daughter (used in the same wide sense as other terms of relationship
+      {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
     language: hebrew
   - strongs: H3039
-    proximity: 0.8208
+    lemma: יְדִיד
+    gloss: loved {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: hebrew
   - strongs: H1067
-    proximity: 0.8193
+    lemma: בְּכִירָה
+    gloss: the eldest daughter {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
     language: hebrew
   - strongs: H158
-    proximity: 0.8169
+    proximity: 0.8169 {macula-proximity}
     language: hebrew
   - strongs: H3357
-    proximity: 0.8111
+    lemma: יַקִּיר
+    gloss: precious {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

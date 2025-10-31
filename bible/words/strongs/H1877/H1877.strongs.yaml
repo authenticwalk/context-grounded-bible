@@ -6,44 +6,53 @@ pronunciation: deh'-sheh
 definition: a sprout; by analogy, grass
 kjv_usage: (tender) grass, green, (tender) herb.
 derivation: from H1876 (דָּשָׁא);
-extended_definition:
-  gloss: grass
-  definition: 'grass, new grass, green herb, vegetation, young<BR>Aramaic equivalent:
-    <i>de.te</i> (דֶּ֫תֶא "grass" H1883)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'grass, new grass, green herb, vegetation, young
+
+  Aramaic equivalent: de.te (דֶּ֫תֶא "grass" H1883) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H219a
-    proximity: 0.8209
+    proximity: 0.8209 {macula-proximity}
   - strongs: H4554
-    proximity: 0.8204
+    lemma: מִסְפּוֹא
+    gloss: fodder {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
   - strongs: H2842
-    proximity: 0.8165
+    lemma: חָשַׁשׁ
+    gloss: dry grass {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: H1488
-    proximity: 0.8145
+    lemma: גֵּז
+    gloss: a fleece {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
   - strongs: H4302
-    proximity: 0.8137
+    lemma: מַטָּע
+    gloss: something planted {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   - strongs: H6780
-    proximity: 0.7956
+    lemma: צֶמַח
+    gloss: a sprout {openscriptures-strongs}
+    proximity: 0.7956 {macula-proximity}
   - strongs: H3892
-    proximity: 0.7454
+    lemma: לַח
+    gloss: fresh {openscriptures-strongs}
+    proximity: 0.7454 {macula-proximity}
   - strongs: H7488a
-    proximity: 0.7124
+    proximity: 0.7124 {macula-proximity}
   - strongs: H3
-    proximity: 0.7025
+    proximity: 0.7025 {macula-proximity}
   cross_language:
   - strongs: G5451
-    proximity: 0.7849
+    lemma: φυτεία
+    gloss: trans-planting {openscriptures-strongs}
+    proximity: 0.7849 {macula-proximity}
     language: greek
   - strongs: G5200
-    proximity: 0.7434
+    lemma: ὑγρός
+    gloss: wet {openscriptures-strongs}
+    proximity: 0.7434 {macula-proximity}
     language: greek
   - strongs: G527
-    proximity: 0.74
+    proximity: 0.74 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

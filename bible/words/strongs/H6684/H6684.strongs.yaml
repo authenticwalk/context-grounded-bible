@@ -6,39 +6,49 @@ pronunciation: tsoom
 definition: to cover over (the mouth), i.e. to fast
 kjv_usage: '[idiom] at all, fast.'
 derivation: a primitive root;
-extended_definition:
-  gloss: to fast
-  definition: (Qal) to abstain from food, fast
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to abstain from food, fast {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8551
-    proximity: 0.8078
+    lemma: תָּמַךְ
+    gloss: to sustain {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   - strongs: H7031
-    proximity: 0.7927
+    lemma: קַל
+    gloss: light {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
   - strongs: H3823
-    proximity: 0.7623
+    lemma: לָבַב
+    gloss: transport {openscriptures-strongs}
+    proximity: 0.7623 {macula-proximity}
   - strongs: H1695
-    proximity: 0.762
+    lemma: דָּבֵק
+    gloss: adhering {openscriptures-strongs}
+    proximity: 0.762 {macula-proximity}
   cross_language:
   - strongs: G1006
-    proximity: 0.8238
+    lemma: βόσκω
+    gloss: to pasture {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
     language: greek
   - strongs: G2902
-    proximity: 0.7806
+    lemma: κρατέω
+    gloss: to use strength {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
     language: greek
   - strongs: G2722
-    proximity: 0.7774
+    lemma: κατέχω
+    gloss: to hold down {openscriptures-strongs}
+    proximity: 0.7774 {macula-proximity}
     language: greek
   - strongs: G5032
-    proximity: 0.7472
+    lemma: τάχιον
+    gloss: more swiftly {openscriptures-strongs}
+    proximity: 0.7472 {macula-proximity}
     language: greek
   - strongs: G2043
-    proximity: 0.7332
+    lemma: ἐρείδω
+    gloss: to prop {openscriptures-strongs}
+    proximity: 0.7332 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

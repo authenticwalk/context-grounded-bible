@@ -7,34 +7,34 @@ definition: a wink, i.e. moment(used only (with or without preposition) adverbia
   quickly or unexpectedly
 kjv_usage: at an instant, suddenly, [idiom] very.
 derivation: from an unused root meaning to open (the eyes); (compare H6597 (פִּתְאוֹם))
-extended_definition:
-  gloss: suddenness
-  definition: suddenness, in an instant
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: suddenness, in an instant {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H996
-    proximity: 0.7735
+    proximity: 0.7735 {macula-proximity}
   - strongs: A8160
-    proximity: 0.7169
+    proximity: 0.7169 {macula-proximity}
   - strongs: H7280
-    proximity: 0.7082
+    lemma: רָגַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7082 {macula-proximity}
   cross_language:
   - strongs: G303
-    proximity: 0.8263
+    proximity: 0.8263 {macula-proximity}
     language: greek
   - strongs: G3342
-    proximity: 0.7783
+    lemma: μεταξύ
+    gloss: betwixt {openscriptures-strongs}
+    proximity: 0.7783 {macula-proximity}
     language: greek
   - strongs: G2400
-    proximity: 0.746
+    lemma: ἰδού
+    gloss: used as imperative lo! {openscriptures-strongs}
+    proximity: 0.746 {macula-proximity}
     language: greek
   - strongs: G4493
-    proximity: 0.7444
+    lemma: ῥιπή
+    gloss: a jerk (of the eye {openscriptures-strongs}
+    proximity: 0.7444 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

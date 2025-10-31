@@ -14,34 +14,49 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H1847b
-    proximity: 0.8291
+    proximity: 0.8291 {macula-proximity}
   - strongs: A2370
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
   - strongs: H7202
-    proximity: 0.8272
+    lemma: רָאֶה
+    gloss: seeing {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: H7210
-    proximity: 0.8228
+    lemma: רֳאִי
+    gloss: sight {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
   - strongs: H2372
-    proximity: 0.8211
+    lemma: חָזָה
+    gloss: to gaze at {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
   - strongs: H5973
-    proximity: 0.8178
+    lemma: עִם
+    gloss: adverb or preposition {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   cross_language:
   - strongs: G4920
-    proximity: 0.8285
+    lemma: συνίημι
+    gloss: to put together {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G3403
-    proximity: 0.8261
+    lemma: μιμνήσκω
+    gloss: to remind {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: greek
   - strongs: G4852
-    proximity: 0.8247
+    lemma: σύμφημι
+    gloss: to say jointly {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: greek
   - strongs: G1854
-    proximity: 0.8231
+    lemma: ἔξω
+    gloss: out(-side {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
     language: greek
   - strongs: G2300
-    proximity: 0.8225
+    lemma: θεάομαι
+    gloss: to look closely at {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

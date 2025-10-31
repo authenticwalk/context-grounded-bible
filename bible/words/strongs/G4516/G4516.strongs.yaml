@@ -5,34 +5,27 @@ transliteration: Rhṓmē
 definition: strength; Roma, the capital of Italy
 kjv_usage: Rome
 derivation: from the base of G4517 (ῥώννυμι);
-extended_definition:
-  gloss: Rome
-  definition: '<b>Ῥώμη</b>, -ης, ἡ<BR /> <b>Rome</b>: <ref=''Act.18.2; 19.21; 23.11;
-    28.14, 16''>Act.18:2 19:21 23:11 28:14, 16</ref> <ref=''Rom.1.7, 15''>Rom.1:7,
-    15</ref>, <ref=''2Ti.1.17''>2Ti.1:17</ref>.†<BR /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> Ῥώμη</b>, ἡ, <br /> <b>Roma, Rome</b>, first mentioned in Gr.
-    literature by [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus
-    “Fragmenta” 610 ">Refs 4th c.BC+</a>]; deified in Inscrr., θεὰ Ῥώμη [<a href="javascript:void(0)"
-    title=" “IG” 3.63, “CIG” “Corpus Inscriptionum Graecarum” “Corpus Inscriptionum
-    Graecarum” 2696 (from Mylasa), “SIG” 893 (Olympia, 3rd c.AD), etc. ">Refs 3rd
-    c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'Ῥώμη, -ης, ἡ
+
+  Rome: Act.18:2 19:21 23:11 28:14, 16 Rom.1:7, 15, 2Ti.1:17.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ῥώμη, ἡ,
+
+  Roma, Rome, first mentioned in Gr. literature by [Refs 4th c.BC+]; deified in Inscrr.,
+  θεὰ Ῥώμη [Refs 3rd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G444
-    proximity: 0.8111
+    proximity: 0.8111 {macula-proximity}
   - strongs: G2862
-    proximity: 0.7587
+    lemma: κολωνία
+    gloss: a Roman "colony" for veterans {openscriptures-strongs}
+    proximity: 0.7587 {macula-proximity}
   cross_language:
   - strongs: H4781
-    proximity: 0.7551
+    lemma: מְרֹדָךְ
+    gloss: Merodak {openscriptures-strongs}
+    proximity: 0.7551 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

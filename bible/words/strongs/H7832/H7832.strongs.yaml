@@ -7,51 +7,80 @@ definition: to laugh (in pleasure or detraction); by implication, to play
 kjv_usage: deride, have in derision, laugh, make merry, mock(-er), play, rejoice,
   (laugh to) scorn, be in (make) sport.
 derivation: a primitive root;
-extended_definition:
-  gloss: to laugh
-  definition: 1) to laugh, play, mock<br>1a) (Qal)<br>1a1) to laugh (usually in contempt
-    or derision)<br>1a2) to sport, play<br>1b) (Piel)<br>1b1) to make sport<br>1b2)
-    to jest<br>1b3) to play (including instrumental music, singing, dancing)<br>1c)
-    (Hiphil) to laugh mockingly
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to laugh, play, mock
+
+  1a) (Qal)
+
+  1a1) to laugh (usually in contempt or derision)
+
+  1a2) to sport, play
+
+  1b) (Piel)
+
+  1b1) to make sport
+
+  1b2) to jest
+
+  1b3) to play (including instrumental music, singing, dancing)
+
+  1c) (Hiphil) to laugh mockingly {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5938
-    proximity: 0.8299
+    lemma: עָלֵז
+    gloss: exultant {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
   - strongs: H6026
-    proximity: 0.8292
+    lemma: עָנַג
+    gloss: to be soft or pliable {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: H7048
-    proximity: 0.8268
+    lemma: קַלָּסָה
+    gloss: ridicule {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: H1524
-    proximity: 0.8161
+    lemma: גִּיל
+    gloss: a revolution (of time {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H5970
-    proximity: 0.8161
+    lemma: עָלַץ
+    gloss: to jump for joy {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H7540
-    proximity: 0.814
+    lemma: רָקַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
   - strongs: H7813
-    proximity: 0.8129
+    lemma: שָׂחוּ
+    gloss: a pond {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: H1082
-    proximity: 0.8125
+    lemma: בָּלַג
+    gloss: to break off or loose {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: H4885
-    proximity: 0.8093
+    lemma: מָשׂוֹשׂ
+    gloss: delight {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
   - strongs: H3887a
-    proximity: 0.8071
+    proximity: 0.8071 {macula-proximity}
   cross_language:
   - strongs: G5479
-    proximity: 0.8267
+    lemma: χαρά
+    gloss: cheerfulness {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
     language: greek
   - strongs: G3738
-    proximity: 0.8229
+    lemma: ὀρχέομαι
+    gloss: to dance {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G21
-    proximity: 0.8215
+    proximity: 0.8215 {macula-proximity}
     language: greek
   - strongs: G1701
-    proximity: 0.8037
+    lemma: ἐμπαιγμός
+    gloss: derision {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

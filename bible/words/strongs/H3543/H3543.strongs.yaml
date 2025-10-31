@@ -10,39 +10,56 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H5787
-    proximity: 0.8244
+    lemma: עִוֵּר
+    gloss: blind {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: H5848b
-    proximity: 0.823
+    proximity: 0.823 {macula-proximity}
   - strongs: H8173
-    proximity: 0.8217
+    lemma: שָׁעַע
+    gloss: to look upon {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
   - strongs: H3615
-    proximity: 0.8161
+    lemma: כָּלָה
+    gloss: to end {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H4523
-    proximity: 0.8159
+    lemma: מָס
+    gloss: fainting {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H5575
-    proximity: 0.8032
+    lemma: סַנְוֵר
+    gloss: blindness {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
   - strongs: H5848a
-    proximity: 0.8006
+    proximity: 0.8006 {macula-proximity}
   - strongs: H3631
-    proximity: 0.7918
+    lemma: כִּלָּיוֹן
+    gloss: pining {openscriptures-strongs}
+    proximity: 0.7918 {macula-proximity}
   - strongs: H2821
-    proximity: 0.7896
+    lemma: חָשַׁךְ
+    gloss: to be dark {openscriptures-strongs}
+    proximity: 0.7896 {macula-proximity}
   - strongs: H3616
-    proximity: 0.7848
+    lemma: כָּלֶה
+    gloss: pining {openscriptures-strongs}
+    proximity: 0.7848 {macula-proximity}
   cross_language:
   - strongs: G855
-    proximity: 0.8274
+    proximity: 0.8274 {macula-proximity}
     language: greek
   - strongs: G120
-    proximity: 0.8216
+    proximity: 0.8216 {macula-proximity}
     language: greek
   - strongs: G1590
-    proximity: 0.7682
+    lemma: ἐκλύω
+    gloss: to relax {openscriptures-strongs}
+    proximity: 0.7682 {macula-proximity}
     language: greek
   - strongs: G5185
-    proximity: 0.7298
+    lemma: τυφλός
+    gloss: opaque {openscriptures-strongs}
+    proximity: 0.7298 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

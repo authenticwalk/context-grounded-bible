@@ -7,46 +7,73 @@ definition: a wound; figuratively, carnage, also pestilence
 kjv_usage: beaten, blow, plague, slaughter, smote, [idiom] sore, stripe, stroke, wound(-ed).
 derivation: or (masculine) מַכֶּה; (plural only) from H5221 (נָכָה); a blow (in 2
   Chronicles 2:10, of the flail); by implication,
-extended_definition:
-  gloss: wound
-  definition: 1) blow, wound, slaughter<br>1a) blow, stripe<br>1b) beating, scourging<br>1c)
-    wound<br>1d) slaughter<br>1e) defeat, conquest<br>1f) plague
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) blow, wound, slaughter
+
+  1a) blow, stripe
+
+  1b) beating, scourging
+
+  1c) wound
+
+  1d) slaughter
+
+  1e) defeat, conquest
+
+  1f) plague {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5060
-    proximity: 0.8299
+    lemma: נָגַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
   - strongs: H3593
-    proximity: 0.8257
+    lemma: כִּידוֹר
+    gloss: perhaps tumult {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H611
-    proximity: 0.8199
+    proximity: 0.8199 {macula-proximity}
   - strongs: H4112
-    proximity: 0.8198
+    lemma: מַהֲלֻמָּה
+    gloss: a blow {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
   - strongs: H7819
-    proximity: 0.8196
+    lemma: שָׁחַט
+    gloss: to slaughter {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: H1856
-    proximity: 0.8154
+    lemma: דָּקַר
+    gloss: to stab {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: H4569
-    proximity: 0.8107
+    lemma: מַעֲבָר
+    gloss: a crossing-place (of a river {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
   - strongs: H5235
-    proximity: 0.8051
+    lemma: נֶכֶר
+    gloss: something strange {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
   - strongs: H1986
-    proximity: 0.8027
+    lemma: הָלַם
+    gloss: to strike down {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
   - strongs: H5143
-    proximity: 0.7973
+    lemma: נֵזֶק
+    gloss: loss {openscriptures-strongs}
+    proximity: 0.7973 {macula-proximity}
   cross_language:
   - strongs: G2209
-    proximity: 0.8275
+    lemma: ζημία
+    gloss: detriment {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
     language: greek
   - strongs: G4967
-    proximity: 0.8187
+    lemma: σφαγή
+    gloss: butchery (of animals for food or sacrifice {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
     language: greek
   - strongs: G2695
-    proximity: 0.8126
+    lemma: κατασφάττω
+    gloss: to kill down {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

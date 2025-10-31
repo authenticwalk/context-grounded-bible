@@ -8,52 +8,81 @@ definition: properly, a cliff (or sharp rock, as compressed); generally, a rock 
 kjv_usage: edge, [idiom] (mighty) God (one), rock, [idiom] sharp, stone, [idiom] strength,
   [idiom] strong. See also H1049 (בֵּית צוּר).
 derivation: or צֻר; from H6696 (צוּר);
-extended_definition:
-  gloss: rock
-  definition: '1) rock, cliff<br>1a) rocky wall, cliff<br>1b) rock (with flat surface)<br>1c)
-    block of stone, boulder<br>1d) rock (specific)<br>1e) rock (of God)<br>1f) rock
-    (of heathen gods) n pr dei<br>1g) Rock<BR>Aramaic equivalent: <i>tur</i> (טוּר
-    "mountain" H2906)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) rock, cliff
+
+  1a) rocky wall, cliff
+
+  1b) rock (with flat surface)
+
+  1c) block of stone, boulder
+
+  1d) rock (specific)
+
+  1e) rock (of God)
+
+  1f) rock (of heathen gods) n pr dei
+
+  1g) Rock
+
+  Aramaic equivalent: tur (טוּר "mountain" H2906) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7275
-    proximity: 0.8275
+    lemma: רָגַם
+    gloss: to cast together {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H4268
-    proximity: 0.8274
+    lemma: מַחֲסֶה
+    gloss: a shelter {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H4869
-    proximity: 0.8142
+    lemma: מִשְׂגָּב
+    gloss: defence {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: H2022
-    proximity: 0.8125
+    lemma: הַר
+    gloss: a mountain or range of hills {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: H5555
-    proximity: 0.8097
+    lemma: סֶלַע הַמַּחְלְקוֹת
+    gloss: Sela-ham-Machlekoth {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: H4631
-    proximity: 0.8031
+    lemma: מְעָרָה
+    gloss: a cavern {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
   - strongs: H556
-    proximity: 0.7992
+    proximity: 0.7992 {macula-proximity}
   - strongs: H3581
-    proximity: 0.7887
+    lemma: כֹּחַ
+    gloss: vigor {openscriptures-strongs}
+    proximity: 0.7887 {macula-proximity}
   - strongs: H6862b
-    proximity: 0.7834
+    proximity: 0.7834 {macula-proximity}
   cross_language:
   - strongs: G4075
-    proximity: 0.8209
+    lemma: πετρώδης
+    gloss: rock-like {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
     language: greek
   - strongs: G1314
-    proximity: 0.8045
+    lemma: διαφυλάσσω
+    gloss: to guard thoroughly {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
     language: greek
   - strongs: G5586
-    proximity: 0.7969
+    lemma: ψῆφος
+    gloss: a pebble {openscriptures-strongs}
+    proximity: 0.7969 {macula-proximity}
     language: greek
   - strongs: G3034
-    proximity: 0.7889
+    lemma: λιθάζω
+    gloss: to lapidate {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
     language: greek
   - strongs: G3036
-    proximity: 0.7841
+    lemma: λιθοβολέω
+    gloss: to throw stones {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

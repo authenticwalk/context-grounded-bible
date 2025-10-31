@@ -6,38 +6,34 @@ definition: a limit-placing, i.e. (concretely) boundary-line
 kjv_usage: bound
 derivation: from a compound of the base of G3725 (ὅριον) and a derivative of G5087
   (τίθημι);
-extended_definition:
-  gloss: fixed boundary
-  definition: <b>ὁροθεσία</b>, -ας, ἡ<BR /> (ὅρος, a boundary, + τίθημι) <BR /><b>a
-    setting of boundaries</b>; in pl., bounds; <ref='Act.17.26.'>Act.17:26.</ref>†<BR
-    /> (AS)
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὁρο-θεσία</b>, ἡ, <br /> <b>fixing of boundaries</b>: in <i>plural</i>,
-    <b>limitations, boundaries</b>:— [<a href="javascript:void(0)" title=" “Inscription
-    Prien.” 42.8 and 12 (2nd c.BC), NT.Act.17.26 (_plural_), “BGU” 889.17 (2nd c.AD).
-    ">NT+2nd c.BC+</a>]<br /><Level2><b>__II</b></Level2> <b>ὁρο-θέσια</b>, τά, [<a
-    href="javascript:void(0)" title=" 2nd c.AD: Galenus Medicus 19.349, 5th c.AD(?):
-    Hesychius Legal icographus, etc.: gloss on{οὖροι}, “Corpus Glossariorum Latinorum
-    Hdt.” cited in Stein “Herodotus” 2p.468: the _sing._ ὁροθέσιον">Refs 2nd c.AD+</a>]
-    <b>(boundary)</b> occurs in Petr.Patr.p.433 [<a href="javascript:void(0)" title="
-    4th c.BC: Demosthenes Orator ">Refs 4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ὁροθεσία, -ας, ἡ
+
+  (ὅρος, a boundary, + τίθημι)
+
+  a setting of boundaries; in pl., bounds; Act.17:26.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὁρο-θεσία, ἡ,
+
+  fixing of boundaries: in plural, limitations, boundaries:— [NT+2nd c.BC+]
+
+  __II ὁρο-θέσια, τά, [Refs 2nd c.AD+] (boundary) occurs in Petr.Patr.p.433 [Refs
+  4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H1379
-    proximity: 0.8268
+    lemma: גָּבַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: hebrew
   - strongs: H8503
-    proximity: 0.8046
+    lemma: תַּכְלִית
+    gloss: completion {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
     language: hebrew
   - strongs: H6285
-    proximity: 0.7338
+    lemma: פֵּאָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7338 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

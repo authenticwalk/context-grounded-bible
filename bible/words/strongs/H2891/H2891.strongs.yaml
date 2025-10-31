@@ -8,49 +8,85 @@ definition: to be pure (physical sound, clear, unadulterated; Levitically, uncon
 kjv_usage: be (make, make self, pronounce) clean, cleanse (self), purge, purify(-ier,
   self).
 derivation: a primitive root; properly, to be bright; i.e. (by implication)
-extended_definition:
-  gloss: be pure
-  definition: 1) to be clean, be pure<br>1a) (Qal)<br>1a1) to be clean (physically-of
-    disease)<br>1a2) to be clean ceremonially<br>1a3) to purify, be clean morally,
-    made clean<br>1b) (Piel)<br>1b1) to cleanse, purify<br>1b1a) physically<br>1b1b)
-    ceremonially<br>1b1c) morally<br>1b2) to pronounce clean<br>1b3) to perform the
-    ceremony of cleansing<br>1c) (Pual) to be cleansed, be pronounced clean<br>1d)
-    (Hithpael)<br>1d1) to purify oneself<br>1d1a) ceremonially<br>1d1b) morally<br>1d2)
-    to present oneself for purification
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be clean, be pure
+
+  1a) (Qal)
+
+  1a1) to be clean (physically-of disease)
+
+  1a2) to be clean ceremonially
+
+  1a3) to purify, be clean morally, made clean
+
+  1b) (Piel)
+
+  1b1) to cleanse, purify
+
+  1b1a) physically
+
+  1b1b) ceremonially
+
+  1b1c) morally
+
+  1b2) to pronounce clean
+
+  1b3) to perform the ceremony of cleansing
+
+  1c) (Pual) to be cleansed, be pronounced clean
+
+  1d) (Hithpael)
+
+  1d1) to purify oneself
+
+  1d1a) ceremonially
+
+  1d1b) morally
+
+  1d2) to present oneself for purification {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7367
-    proximity: 0.8281
+    lemma: רַחְצָה
+    gloss: a bathing place {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H3526
-    proximity: 0.8252
+    lemma: כָּבַס
+    gloss: to trample {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
   - strongs: H2894
-    proximity: 0.8195
+    lemma: טוּא
+    gloss: to sweep away {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H7150
-    proximity: 0.8164
+    lemma: קְרִיאָה
+    gloss: a proclamation {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
   - strongs: H1351
-    proximity: 0.8148
+    lemma: גָּאַל
+    gloss: to soil or  desecrate {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: H2398
-    proximity: 0.7724
+    lemma: חָטָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7724 {macula-proximity}
   cross_language:
   - strongs: G3743
-    proximity: 0.8297
+    lemma: ὁσίως
+    gloss: piously {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G41
-    proximity: 0.8297
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G38
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G628
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G3742
-    proximity: 0.8282
+    lemma: ὁσιότης
+    gloss: piety {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

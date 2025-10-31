@@ -6,31 +6,35 @@ pronunciation: neh'-fel
 definition: something fallen, i.e. an abortion
 kjv_usage: untimely birth.
 derivation: or נֵפֶל; from H5307 (נָפַל);
-extended_definition:
-  gloss: miscarriage
-  definition: untimely birth, abortion, miscarriage
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: untimely birth, abortion, miscarriage {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3206
-    proximity: 0.8178
+    lemma: יֶלֶד
+    gloss: something born {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   - strongs: H7921
-    proximity: 0.7888
+    lemma: שָׁכֹל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7888 {macula-proximity}
   - strongs: H7988
-    proximity: 0.7827
+    lemma: שִׁלְיָה
+    gloss: a fetus or babe {openscriptures-strongs}
+    proximity: 0.7827 {macula-proximity}
   cross_language:
   - strongs: G1025
-    proximity: 0.8255
+    lemma: βρέφος
+    gloss: an infant (properly {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
     language: greek
   - strongs: G3813
-    proximity: 0.8095
+    lemma: παιδίον
+    gloss: a childling {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
     language: greek
   - strongs: G5043
-    proximity: 0.7373
+    lemma: τέκνον
+    gloss: a child {openscriptures-strongs}
+    proximity: 0.7373 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,51 +7,75 @@ definition: judgement (the suit, justice, sentence or tribunal); by implication 
   strife
 kjv_usage: cause, judgement, plea, strife.
 derivation: or (Job 19:29) דּוּן; from H1777 (דִּין);
-extended_definition:
-  gloss: judgment
-  definition: '1) judgment<br>1a) judgment<br>1b) cause, plea<br>1c) condemnation,
-    judgment<br>1d) dispute, legal suit, strife<br>1e) government<BR>Aramaic equivalent:
-    <i>din</i> (דִּין "judgment" H1780)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) judgment
+
+  1a) judgment
+
+  1b) cause, plea
+
+  1c) condemnation, judgment
+
+  1d) dispute, legal suit, strife
+
+  1e) government
+
+  Aramaic equivalent: din (דִּין "judgment" H1780) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1782
-    proximity: 0.8231
+    proximity: 0.8231 {macula-proximity}
   - strongs: H4683
-    proximity: 0.81
+    lemma: מַצָּה
+    gloss: a quarrel {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
   - strongs: H2742d
-    proximity: 0.8078
+    proximity: 0.8078 {macula-proximity}
   - strongs: H6415
-    proximity: 0.8061
+    lemma: פְּלִילָה
+    gloss: justice {openscriptures-strongs}
+    proximity: 0.8061 {macula-proximity}
   - strongs: H6414
-    proximity: 0.7893
+    lemma: פָּלִיל
+    gloss: a magistrate {openscriptures-strongs}
+    proximity: 0.7893 {macula-proximity}
   - strongs: H4066
-    proximity: 0.7882
+    lemma: מָדוֹן
+    gloss: a contest or quarrel {openscriptures-strongs}
+    proximity: 0.7882 {macula-proximity}
   - strongs: H8196
-    proximity: 0.7843
+    lemma: שְׁפוֹט
+    gloss: a judicial sentence {openscriptures-strongs}
+    proximity: 0.7843 {macula-proximity}
   - strongs: H4090
-    proximity: 0.7767
+    lemma: מְדָן
+    gloss: '{a contest or quarrel} {openscriptures-strongs}'
+    proximity: 0.7767 {macula-proximity}
   - strongs: A1780
-    proximity: 0.7415
+    proximity: 0.7415 {macula-proximity}
   cross_language:
   - strongs: G1556
-    proximity: 0.8294
+    lemma: ἐκδικέω
+    gloss: to vindicate {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G1233
-    proximity: 0.82
+    lemma: διάγνωσις
+    gloss: examination {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
   - strongs: G1341
-    proximity: 0.8158
+    lemma: δικαιοκρισία
+    gloss: a just sentence {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
     language: greek
   - strongs: G2922
-    proximity: 0.8104
+    lemma: κριτήριον
+    gloss: a rule of judging {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
     language: greek
   - strongs: G1348
-    proximity: 0.8085
+    lemma: δικαστής
+    gloss: a judger {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

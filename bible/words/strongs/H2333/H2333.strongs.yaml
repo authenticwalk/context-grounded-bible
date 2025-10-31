@@ -6,29 +6,31 @@ pronunciation: khav-vaw'
 definition: by implication, an encampment or village
 kjv_usage: (small) town.
 derivation: properly, the same as H2332 (חַוָּה) (lifegiving, i.e. living-place);
-extended_definition:
-  gloss: village
-  definition: village, town, tent village
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: village, town, tent village {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6519
-    proximity: 0.8246
+    lemma: פְּרָזָה
+    gloss: an open country {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: H7151
-    proximity: 0.7912
+    lemma: קִרְיָה
+    gloss: building {openscriptures-strongs}
+    proximity: 0.7912 {macula-proximity}
   - strongs: H3724b
-    proximity: 0.7786
+    proximity: 0.7786 {macula-proximity}
   - strongs: H5892
-    proximity: 0.7406
+    lemma: עִיר
+    gloss: a city  in the widest sense {openscriptures-strongs}
+    proximity: 0.7406 {macula-proximity}
   - strongs: H2691
-    proximity: 0.7113
+    lemma: חָצֵר
+    gloss: a yard {openscriptures-strongs}
+    proximity: 0.7113 {macula-proximity}
   cross_language:
   - strongs: G2969
-    proximity: 0.7363
+    lemma: κωμόπολις
+    gloss: an unwalled city {openscriptures-strongs}
+    proximity: 0.7363 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

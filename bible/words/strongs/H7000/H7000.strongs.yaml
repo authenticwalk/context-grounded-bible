@@ -6,29 +6,33 @@ pronunciation: kaw-tar'
 definition: to inclose
 kjv_usage: join.
 derivation: a primitive root;
-extended_definition:
-  gloss: to enclose
-  definition: 1) (Qal) to shut in, enclose, join<br>1a) meaning uncertain
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Qal) to shut in, enclose, join
+
+  1a) meaning uncertain {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3680
-    proximity: 0.8279
+    lemma: כָּסָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: H914
-    proximity: 0.7991
+    proximity: 0.7991 {macula-proximity}
   - strongs: H6504
-    proximity: 0.7814
+    lemma: פָּרַד
+    gloss: to break through {openscriptures-strongs}
+    proximity: 0.7814 {macula-proximity}
   - strongs: H5462
-    proximity: 0.7769
+    lemma: סָגַר
+    gloss: to shut up {openscriptures-strongs}
+    proximity: 0.7769 {macula-proximity}
   - strongs: H5144
-    proximity: 0.7395
+    lemma: נָזַר
+    gloss: to hold aloof {openscriptures-strongs}
+    proximity: 0.7395 {macula-proximity}
   cross_language:
   - strongs: G5563
-    proximity: 0.8246
+    lemma: χωρίζω
+    gloss: to place room between {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -8,49 +8,67 @@ definition: full (literally or figuratively) or filling (literally); also (concr
 kjv_usage: '[idiom] she that was with child, fill(-ed, -ed with), full(-ly), multitude,
   as is worth.'
 derivation: from H4390 (מָלֵא);
-extended_definition:
-  gloss: full
-  definition: 1) full, fulness, that which fills<br>1a) fully (adv)
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) full, fulness, that which fills
+
+  1a) fully (adv) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4071
-    proximity: 0.8277
+    lemma: מְדוּרָה
+    gloss: a pile of fuel {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H8003
-    proximity: 0.8227
+    lemma: שָׁלֵם
+    gloss: complete {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H7301
-    proximity: 0.8215
+    lemma: רָוָה
+    gloss: to slake the thirst {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H3780
-    proximity: 0.8168
+    lemma: כָּשָׂה
+    gloss: to grow fat {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H5848
-    proximity: 0.8065
+    lemma: עָטַף
+    gloss: to shroud {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
   - strongs: A629
-    proximity: 0.8038
+    proximity: 0.8038 {macula-proximity}
   - strongs: H7230
-    proximity: 0.8029
+    lemma: רֹב
+    gloss: abundance {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
   - strongs: H5674a
-    proximity: 0.7996
+    proximity: 0.7996 {macula-proximity}
   - strongs: H8241
-    proximity: 0.7965
+    lemma: שֶׁצֶף
+    gloss: an outburst {openscriptures-strongs}
+    proximity: 0.7965 {macula-proximity}
   cross_language:
   - strongs: G4652
-    proximity: 0.8291
+    lemma: σκοτεινός
+    gloss: opaque {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
     language: greek
   - strongs: G4136
-    proximity: 0.8272
+    lemma: πληροφορία
+    gloss: entire confidence {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G4050
-    proximity: 0.8254
+    lemma: περισσεία
+    gloss: surplusage {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: greek
   - strongs: G1630
-    proximity: 0.8188
+    lemma: ἔκφοβος
+    gloss: frightened out of one's wits {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
     language: greek
   - strongs: G1604
-    proximity: 0.8103
+    lemma: ἐκπλήρωσις
+    gloss: completion {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

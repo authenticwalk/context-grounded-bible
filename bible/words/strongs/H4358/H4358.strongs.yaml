@@ -6,30 +6,34 @@ pronunciation: mik-lole'
 definition: perfection (i.e. concrete adverbial, splendidly)
 kjv_usage: most gorgeously, all sorts.
 derivation: from H3634 (כָּלַל);
-extended_definition:
-  gloss: perfection
-  definition: 1) perfection, gorgeous attire<br>adv<br>2) perfectly, most gorgeously
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) perfection, gorgeous attire
+
+  adv
+
+  2) perfectly, most gorgeously {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A8209
-    proximity: 0.7257
+    proximity: 0.7257 {macula-proximity}
   cross_language:
   - strongs: G3833
-    proximity: 0.8156
+    lemma: πανοπλία
+    gloss: full armor {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
     language: greek
   - strongs: G4138
-    proximity: 0.804
+    lemma: πλήρωμα
+    gloss: repletion or completion {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
     language: greek
   - strongs: G2986
-    proximity: 0.7983
+    lemma: λαμπρός
+    gloss: radiant {openscriptures-strongs}
+    proximity: 0.7983 {macula-proximity}
     language: greek
   - strongs: G2528
-    proximity: 0.7752
+    lemma: καθοπλίζω
+    gloss: and G3695 {openscriptures-strongs}
+    proximity: 0.7752 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,43 +7,66 @@ definition: an appointment, i.e. mandate; concretely, a designated spot; specifi
   a census
 kjv_usage: appointed place, commandment, number.
 derivation: from H6485 (פָּקַד);
-extended_definition:
-  gloss: appointment
-  definition: 1) muster, appointment, appointed place<br>1a) muster (of people)<br>1b)
-    appointment<br>1c) appointed place<br>2) (TWOT) number
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) muster, appointment, appointed place
+
+  1a) muster (of people)
+
+  1b) appointment
+
+  1c) appointed place
+
+  2) (TWOT) number {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4774
-    proximity: 0.8287
+    lemma: מַרְגֵּעָה
+    gloss: rest {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H4494
-    proximity: 0.8257
+    lemma: מָנוֹחַ
+    gloss: quiet {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H4492
-    proximity: 0.8227
+    lemma: מִנְהָרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H7338
-    proximity: 0.8213
+    lemma: רַחַב
+    gloss: a width {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
   - strongs: H4769
-    proximity: 0.8198
+    lemma: מַרְבֵּץ
+    gloss: a reclining place {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
   - strongs: H4655
-    proximity: 0.8196
+    lemma: מִפְלָט
+    gloss: an escape {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: H4302
-    proximity: 0.8196
+    lemma: מַטָּע
+    gloss: something planted {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: H4673
-    proximity: 0.8191
+    lemma: מַצָּב
+    gloss: a fixed spot {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
   - strongs: H4613
-    proximity: 0.8189
+    lemma: מׇעֳמָד
+    gloss: literally a foothold {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H4018
-    proximity: 0.8179
+    lemma: מְבַשְּׁלָה
+    gloss: a cooking hearth {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
   cross_language:
   - strongs: G1778
-    proximity: 0.8247
+    lemma: ἔνταλμα
+    gloss: an injunction {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: greek
   - strongs: G3724
-    proximity: 0.8177
+    lemma: ὁρίζω
+    gloss: to mark out or bound {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

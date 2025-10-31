@@ -7,36 +7,49 @@ definition: Chatsar-Gaddah, a place in Palestine
 kjv_usage: Hazar-gaddah.
 derivation: from H2691 (חָצֵר) and a feminine of H1408 (גַּד); (the) village of (female)
   Fortune;
-extended_definition:
-  gloss: Hazar-gaddah
-  definition: <BR> § Hazar-gaddah = "village of good fortune"<br> a place in southern
-    Judah<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Hazar-gaddah = "village of good fortune"
+
+  a place in southern Judah {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2322
-    proximity: 0.8261
+    lemma: חֲדָשָׁה
+    gloss: Chadashah {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: H3485
-    proximity: 0.8214
+    lemma: יִשָּׂשכָר
+    gloss: Jissaskar {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H2286
-    proximity: 0.8207
+    lemma: חֲגָבָא
+    gloss: Chagaba or Chagabah {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H2702
-    proximity: 0.8204
+    lemma: חֲצַר סוּסִים
+    gloss: Chatsar-Susim {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
   - strongs: H1862
-    proximity: 0.8156
+    lemma: דַּרְדַּע
+    gloss: Darda {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
   - strongs: H4028
-    proximity: 0.815
+    lemma: מִגְדַּל־גָּד
+    gloss: Migdal-Gad {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: H2705
-    proximity: 0.8111
+    lemma: חֲצַר שׁוּעָל
+    gloss: Chatsar-Shual {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: H1130
-    proximity: 0.8088
+    lemma: בֶּן־הֲדַד
+    gloss: Ben-Hadad {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
   - strongs: H2675
-    proximity: 0.8087
+    lemma: חָצוֹר חֲדַתָּה
+    gloss: new Chatsor {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
   - strongs: H2703
-    proximity: 0.808
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: חֲצַר עֵינוֹן
+    gloss: Chatsar-Enon {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

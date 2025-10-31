@@ -7,43 +7,57 @@ definition: must or fresh grape-juice (as just squeezed out); by implication (ra
   fermented wine
 kjv_usage: (new, sweet) wine.
 derivation: or תִּירֹשׁ; from H3423 (יָרַשׁ) in the sense of expulsion;
-extended_definition:
-  gloss: new wine
-  definition: wine, fresh or new wine, must, freshly pressed wine
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: wine, fresh or new wine, must, freshly pressed wine {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1278
-    proximity: 0.8259
+    lemma: בְּרִיאָה
+    gloss: a creation {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: H3754
-    proximity: 0.8186
+    lemma: כֶּרֶם
+    gloss: a garden or vineyard {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: H3342
-    proximity: 0.8136
+    lemma: יֶקֶב
+    gloss: a trough {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: H6025
-    proximity: 0.7947
+    lemma: עֵנָב
+    gloss: a grape {openscriptures-strongs}
+    proximity: 0.7947 {macula-proximity}
   - strongs: H1660
-    proximity: 0.7907
+    lemma: גַּת
+    gloss: a wine-press {openscriptures-strongs}
+    proximity: 0.7907 {macula-proximity}
   - strongs: H2319
-    proximity: 0.7733
+    lemma: חָדָשׁ
+    gloss: new {openscriptures-strongs}
+    proximity: 0.7733 {macula-proximity}
   cross_language:
   - strongs: G3504
-    proximity: 0.8294
+    lemma: νεόφυτος
+    gloss: newly planted {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G2538
-    proximity: 0.8067
+    lemma: καινότης
+    gloss: renewal {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
     language: greek
   - strongs: G3943
-    proximity: 0.8002
+    lemma: πάροινος
+    gloss: staying near wine {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
     language: greek
   - strongs: G5276
-    proximity: 0.7967
+    lemma: ὑπολήνιον
+    gloss: vessel or receptacle under the press {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
     language: greek
   - strongs: G3025
-    proximity: 0.789
+    lemma: ληνός
+    gloss: a trough {openscriptures-strongs}
+    proximity: 0.789 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

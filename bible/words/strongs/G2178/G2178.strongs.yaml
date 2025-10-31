@@ -5,49 +5,58 @@ transliteration: ephápax
 definition: upon one occasion (only)
 kjv_usage: (at) once (for all)
 derivation: from G1909 (ἐπί) and G530 (ἅπαξ);
-extended_definition:
-  gloss: once/at once
-  definition: '<b>ἐφ-άπαξ</b>, <BR /> <i> adv.</i> <BR />__1. <b>once for all </b>(Eupol.):
-    <ref=''Rom.6.10''>Rom.6:10</ref> <ref=''Heb.7.27; 9.12; 10.10''>Heb.7:27 9:12
-    10:10</ref>. <BR /> __2. <b>at once</b>: <ref=''1Co.15.6.''>1Co.15:6.</ref>†<BR
-    /> (AS)'
-  morphology: G:ADV
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐφάπαξ</b> [ᾰπ], <br /> <i>adverb</i> <b>once for all</b>,
-    [<a href="javascript:void(0)" title=" 5th c.BC: Eupolis Comicus 175, NT.Rom.6.10,
-    NT.Heb.7.27, etc. ">NT+5th c.BC+</a>]<br /><Level2><b>__II</b></Level2> <b>at
-    once, </b>[<a href="javascript:void(0)" title=" NT.1Cor.15.6. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐφ-άπαξ,
+
+  adv.
+
+  __1. once for all (Eupol.): Rom.6:10 Heb.7:27 9:12 10:10.
+
+  __2. at once: 1Co.15:6.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐφάπαξ [ᾰπ],
+
+  adverb once for all, [NT+5th c.BC+]
+
+  __II at once, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1063
-    proximity: 0.83
+    lemma: γάρ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.83 {macula-proximity}
   - strongs: G3843
-    proximity: 0.8287
+    lemma: πάντως
+    gloss: entirely {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: G3654
-    proximity: 0.8233
+    lemma: ὅλως
+    gloss: completely {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: G4412
-    proximity: 0.8226
+    lemma: πρῶτον
+    gloss: firstly (in time {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: A2298
-    proximity: 0.8217
+    proximity: 0.8217 {macula-proximity}
   - strongs: G260
-    proximity: 0.8207
+    proximity: 0.8207 {macula-proximity}
   - strongs: G4412a
-    proximity: 0.8196
+    proximity: 0.8196 {macula-proximity}
   - strongs: G3825
-    proximity: 0.8172
+    lemma: πάλιν
+    gloss: anew {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
   - strongs: G3999
-    proximity: 0.8085
+    lemma: πεντάκις
+    gloss: five times {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
   - strongs: G3826
-    proximity: 0.8006
+    lemma: παμπληθεί
+    gloss: in full multitude {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
   cross_language:
   - strongs: H871a
-    proximity: 0.8254
+    proximity: 0.8254 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

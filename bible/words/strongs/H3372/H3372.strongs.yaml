@@ -7,56 +7,93 @@ definition: to fear; morally, to revere; caus. to frighten
 kjv_usage: affright, be (make) afraid, dread(-ful), (put in) fear(-ful, -fully, -ing),
   (be had in) reverence(-end), [idiom] see, terrible (act, -ness, thing).
 derivation: a primitive root;
-extended_definition:
-  gloss: 'to fear: revere'
-  definition: ': awesome(god)<br>1) to fear, revere, be afraid<br>1a) (Qal)<br>1a1)
-    to fear, be afraid<br>1a2) to stand in awe of, be awed<br>1a3) to fear, reverence,
-    honour, respect<br>1b) (Niphal)<br>1b1) to be fearful, be dreadful, be feared<br>1b2)
-    to cause astonishment and awe, be held in awe<br>1b3) to inspire reverence or
-    godly fear or awe<br>1c) (Piel) to make afraid, terrify<br>2) (TWOT) to shoot,
-    pour<BR>Also means: <i>ya.re</i> (יָרֵא ": frightening" H3372)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': awesome(god)
+
+  1) to fear, revere, be afraid
+
+  1a) (Qal)
+
+  1a1) to fear, be afraid
+
+  1a2) to stand in awe of, be awed
+
+  1a3) to fear, reverence, honour, respect
+
+  1b) (Niphal)
+
+  1b1) to be fearful, be dreadful, be feared
+
+  1b2) to cause astonishment and awe, be held in awe
+
+  1b3) to inspire reverence or godly fear or awe
+
+  1c) (Piel) to make afraid, terrify
+
+  2) (TWOT) to shoot, pour
+
+  Also means: ya.re (יָרֵא ": frightening" H3372) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7264
-    proximity: 0.8291
+    lemma: רָגַז
+    gloss: to quiver (with any violent emotion {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: A8540
-    proximity: 0.8257
+    proximity: 0.8257 {macula-proximity}
   - strongs: H1670
-    proximity: 0.8183
+    lemma: דְּאָבָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: H1161
-    proximity: 0.8134
+    lemma: בִּעוּתִים
+    gloss: alarms {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
   - strongs: H4637
-    proximity: 0.8097
+    lemma: מַעֲרָצָה
+    gloss: violence {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: H2119a
-    proximity: 0.8019
+    proximity: 0.8019 {macula-proximity}
   - strongs: H8078
-    proximity: 0.7976
+    lemma: שִׁמָּמוֹן
+    gloss: stupefaction {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: H4816
-    proximity: 0.7967
+    lemma: מֹרֶךְ
+    gloss: softness {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
   - strongs: H8606
-    proximity: 0.7876
+    lemma: תִּפְלֶצֶת
+    gloss: fearfulness {openscriptures-strongs}
+    proximity: 0.7876 {macula-proximity}
   - strongs: H7374
-    proximity: 0.7777
+    lemma: רֶטֶט
+    gloss: terror {openscriptures-strongs}
+    proximity: 0.7777 {macula-proximity}
   cross_language:
   - strongs: G4426
-    proximity: 0.8242
+    lemma: πτύρω
+    gloss: to frighten {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
     language: greek
   - strongs: G5059
-    proximity: 0.8157
+    lemma: τέρας
+    gloss: a prodigy or omen {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
     language: greek
   - strongs: G1096
-    proximity: 0.8135
+    lemma: γίνομαι
+    gloss: to cause to be {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
     language: greek
   - strongs: G1629
-    proximity: 0.809
+    lemma: ἐκφοβέω
+    gloss: to frighten utterly {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
     language: greek
   - strongs: G4423
-    proximity: 0.7772
+    lemma: πτόησις
+    gloss: alarm {openscriptures-strongs}
+    proximity: 0.7772 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

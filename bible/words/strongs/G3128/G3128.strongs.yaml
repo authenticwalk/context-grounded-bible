@@ -5,40 +5,51 @@ transliteration: Manassēs
 definition: Mannasses (i.e. Menashsheh), an Israelite
 kjv_usage: Manasses
 derivation: of Hebrew origin (H04519);
-extended_definition:
-  gloss: Manasseh
-  definition: '<b>Μανασσῆς</b>, -ῆ, ὁ (Heb. מְנַשֶּׁה), <BR /> <b>Manasseh</b>; <BR
-    /> __1. (a) the first-born son of Joseph; <BR /> __(b) <b>the tribe which bore
-    his name</b>: <ref=''Rev.7.6.''>Rev.7:6.</ref> <BR /> __2. <b>King of Judah</b>:
-    <ref=''Mat.1.10.''>Mat.1:10.</ref>†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Μανασσῆς</b>, -ῆ, ὁ (Heb. מְנַשֶּׁה), <BR /> <b>Manasseh</b>;
-    <BR /> __1. (a) the first-born son of Joseph; <BR /> __(b) <b>the tribe which
-    bore his name</b>: <ref=''Rev.7.6.''>Rev.7:6.</ref> <BR /> __2. <b>King of Judah</b>:
-    <ref=''Mat.1.10.''>Mat.1:10.</ref>†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Μανασσῆς, -ῆ, ὁ (Heb. מְנַשֶּׁה),
+
+  Manasseh;
+
+  __1. (a) the first-born son of Joseph;
+
+  __(b) the tribe which bore his name: Rev.7:6.
+
+  __2. King of Judah: Mat.1:10.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Μανασσῆς, -ῆ, ὁ (Heb. מְנַשֶּׁה),
+
+  Manasseh;
+
+  __1. (a) the first-born son of Joseph;
+
+  __(b) the tribe which bore his name: Rev.7:6.
+
+  __2. King of Judah: Mat.1:10.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H549
-    proximity: 0.8287
+    proximity: 0.8287 {macula-proximity}
     language: hebrew
   - strongs: H4925
-    proximity: 0.827
+    lemma: מִשְׁמַנָּה
+    gloss: Mashmannah {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: hebrew
   - strongs: H4343
-    proximity: 0.8269
+    lemma: מַכְבֵּנָא
+    gloss: Macbena {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
     language: hebrew
   - strongs: H4367
-    proximity: 0.823
+    lemma: מַכְנַדְבַי
+    gloss: Maknadbai {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
     language: hebrew
   - strongs: H4641
-    proximity: 0.8127
+    lemma: מַעֲשֵׂיָה
+    gloss: Maasejah {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,41 +6,41 @@ pronunciation: loo-lay'
 definition: if not
 kjv_usage: except, had not, if (...not), unless, were it not that.
 derivation: or לוּלֵי; from H3863 (לוּא) and H3808 (לֹא);
-extended_definition:
-  gloss: unless
-  definition: unless, if not, except
-  morphology: H:Cond
-  source: STEPBible/BDB
+extended_definition: unless, if not, except {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H389
-    proximity: 0.8237
+    proximity: 0.8237 {macula-proximity}
   - strongs: A3861a
-    proximity: 0.8162
+    proximity: 0.8162 {macula-proximity}
   - strongs: H2050b
-    proximity: 0.8093
+    proximity: 0.8093 {macula-proximity}
   - strongs: A383
-    proximity: 0.8064
+    proximity: 0.8064 {macula-proximity}
   - strongs: H3818
-    proximity: 0.8026
+    lemma: לֹא עַמִּי
+    gloss: Lo-Ammi {openscriptures-strongs}
+    proximity: 0.8026 {macula-proximity}
   cross_language:
   - strongs: G302
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G5225
-    proximity: 0.8264
+    lemma: ὑπάρχω
+    gloss: to begin under {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G3369
-    proximity: 0.8183
+    lemma: μηδέπω
+    gloss: not even yet {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
     language: greek
   - strongs: G2089
-    proximity: 0.8178
+    lemma: ἔτι
+    gloss: '"yet {openscriptures-strongs}'
+    proximity: 0.8178 {macula-proximity}
     language: greek
   - strongs: G278
-    proximity: 0.8145
+    proximity: 0.8145 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

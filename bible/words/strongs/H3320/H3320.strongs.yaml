@@ -7,47 +7,62 @@ definition: to place (any thing so as to stay); reflexively, to station, offer, 
 kjv_usage: present selves, remaining, resort, set (selves), (be able to, can, with-)
   stand (fast, forth, -ing, still, up).
 derivation: a primitive root;
-extended_definition:
-  gloss: to stand
-  definition: '1) to place, set, stand, set or station oneself, present oneself<br>1a)
-    (Hithpael) to station oneself, take one''s stand, stand, present oneself, stand
-    with someone<BR>Aramaic equivalent: <i>ye.tsav</i> (יְצַב "to know" H3321)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to place, set, stand, set or station oneself, present oneself
+
+  1a) (Hithpael) to station oneself, take one''s stand, stand, present oneself, stand
+  with someone
+
+  Aramaic equivalent: ye.tsav (יְצַב "to know" H3321) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3947
-    proximity: 0.8143
+    lemma: לָקַח
+    gloss: to take {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
   - strongs: A6925
-    proximity: 0.8087
+    proximity: 0.8087 {macula-proximity}
   - strongs: H7925
-    proximity: 0.8023
+    lemma: שָׁכַם
+    gloss: literally {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
   - strongs: H5048
-    proximity: 0.7978
+    lemma: נֶגֶד
+    gloss: a front {openscriptures-strongs}
+    proximity: 0.7978 {macula-proximity}
   - strongs: H5227
-    proximity: 0.795
+    lemma: נֹכַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.795 {macula-proximity}
   - strongs: H5977
-    proximity: 0.7945
+    lemma: עֹמֶד
+    gloss: a spot {openscriptures-strongs}
+    proximity: 0.7945 {macula-proximity}
   - strongs: H4612
-    proximity: 0.7888
+    lemma: מַעֲמָד
+    gloss: a position {openscriptures-strongs}
+    proximity: 0.7888 {macula-proximity}
   cross_language:
   - strongs: G4026
-    proximity: 0.8249
+    lemma: περιΐστημι
+    gloss: to stand all around {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: greek
   - strongs: G4334
-    proximity: 0.8197
+    lemma: προσέρχομαι
+    gloss: to approach {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
     language: greek
   - strongs: G436
-    proximity: 0.8139
+    proximity: 0.8139 {macula-proximity}
     language: greek
   - strongs: G1453
-    proximity: 0.8112
+    lemma: ἐγείρω
+    gloss: to waken {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
     language: greek
   - strongs: G1715
-    proximity: 0.8004
+    lemma: ἔμπροσθεν
+    gloss: in front of  or time) {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,54 +5,66 @@ transliteration: synapostéllō
 definition: to despatch (on an errand) in company with
 kjv_usage: send with
 derivation: from G4862 (σύν) and G649 (ἀποστέλλω);
-extended_definition:
-  gloss: to send with
-  definition: '<b>συν-απο-στέλλω </b><BR /> [in LXX: <ref=''Exo.33.2, 12''>Exo.33:2,
-    12</ref> (שָׁלַח), I <ref=''Est.5.2''>Est.5:2</ref> * ;] <BR /><b>to send along
-    with</b>: with accusative, <ref=''2Co.12.18''>2Co.12:18</ref> (cf. MM, xxiv).†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συναπο-στέλλω</b>, <br /> <b>dispatch together with</b>, τινι
-    [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 6.88; Στράτωνι
-    νεανίσκον “PCair.Zen.” 18.5 (3rd c.BC); τινὰ μετ᾽ ἐμοῦ [prev. work] 439.3 (3rd
-    c.BC)">Refs 5th c.BC+</a>]; <b>join in dispatching</b>, [<a href="javascript:void(0)"
-    title=" 4th c.BC: Isaeus Orator 6.27, 5th-6th c.BC: Xenophon Historicus “Historia
-    Graeca (Hellenica)” 5.2.37, etc. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συν-απο-στέλλω
+
+  [in LXX: Exo.33:2, 12 (שָׁלַח), I Est.5:2 * ;]
+
+  to send along with: with accusative, 2Co.12:18 (cf. MM, xxiv).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συναπο-στέλλω,
+
+  dispatch together with, τινι [Refs 5th c.BC+]; join in dispatching, [Refs 5th c.BC+]
+  {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3873
-    proximity: 0.8294
+    lemma: παράκειμαι
+    gloss: to lie near {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: G4910
-    proximity: 0.8293
+    lemma: συνευωχέω
+    gloss: to entertain sumptuously in company with {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: G4776
-    proximity: 0.8275
+    lemma: συγκαθίζω
+    gloss: to give  a seat in company with {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: G4834
-    proximity: 0.8265
+    lemma: συμπαθέω
+    gloss: to feel "sympathy" with {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: G4936
-    proximity: 0.8265
+    lemma: συντρέχω
+    gloss: to rush together  or headlong {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: G4891
-    proximity: 0.8209
+    lemma: συνεγείρω
+    gloss: to rouse  in company with {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: G4887
-    proximity: 0.8196
+    lemma: συνδέω
+    gloss: to bind with {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: G4924
-    proximity: 0.8184
+    lemma: συνοικέω
+    gloss: to reside together {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   - strongs: G4848
-    proximity: 0.8184
+    lemma: συμπορεύομαι
+    gloss: to journey together {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   - strongs: G4855
-    proximity: 0.8182
+    lemma: συμφύω
+    gloss: passive {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
   cross_language:
   - strongs: H2050b
-    proximity: 0.8238
+    proximity: 0.8238 {macula-proximity}
     language: hebrew
   - strongs: H5978
-    proximity: 0.8186
+    lemma: עִמָּד
+    gloss: along with {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

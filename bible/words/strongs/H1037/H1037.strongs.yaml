@@ -7,24 +7,23 @@ definition: Beth-Millo, the name of two citadels
 kjv_usage: house of Millo.
 derivation: or בֵּית מִלֹּא; from H1004 (בַּיִת) and H4407 (מִלּוֹא); house of (the)
   rampart;
-extended_definition:
-  gloss: Beth-millo
-  definition: <BR> § Beth-millo = "house of Millo" or "house of the rampart"<br>  a
-    place near Shechem
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Beth-millo = "house of Millo" or "house of the rampart"
+
+  a place near Shechem {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4732
-    proximity: 0.8292
+    lemma: מִקְלוֹת
+    gloss: Mikloth {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: H1052
-    proximity: 0.8233
+    lemma: בֵּית שְׁאָן
+    gloss: Beth-Shean or Beth-Shan {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H1010a
-    proximity: 0.798
+    proximity: 0.798 {macula-proximity}
   - strongs: H1008
-    proximity: 0.7899
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: בֵּית־אֵל
+    gloss: Beth-El {openscriptures-strongs}
+    proximity: 0.7899 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

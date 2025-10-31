@@ -5,57 +5,63 @@ transliteration: endynamóō
 definition: to empower
 kjv_usage: enable, (increase in) strength(-en), be (make) strong
 derivation: from G1722 (ἐν) and G1412 (δυναμόω);
-extended_definition:
-  gloss: to strengthen
-  definition: '<b>ἐν-δυναμόω</b>, -ῶ <BR /> [in LXX: <ref=''Jdg.6.34''>Jdg.6:34</ref>,
-    <ref=''1Ch.12.18''>1Ch.12:18</ref> A (לָבַשׁ), <ref=''Psa.52.7''>Psa.52:7</ref>
-    (עָזַז)* ;] <BR /><b>to make strong, strengthen</b>: with accusative, of person(s),
-    <ref=''Php.4.13''>Php.4:13</ref>, <ref=''1Ti.1.12''>1Ti.1:12</ref>, <ref=''2Ti.4.17''>2Ti.4:17</ref>.
-    Pass., <ref=''Act.9.22''>Act.9:22;</ref> C. dative, <ref=''Rom.4.20''>Rom.4:20;</ref>
-    before ἐν, <ref=''2Ti.2.1''>2Ti.2:1</ref> (ἐν Κυρίῳ), <ref=''Eph.6.10''>Eph.6:10</ref>
-    (Cremer, 221).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐνδυνᾰμ-όω</b>, <br /> <b>strengthen, confirm</b>, [<a href="javascript:void(0)"
-    title=" LXX.Josh.6.34, NT.1Tim.1.12, +others">LXX+NT</a>]:—<i>passive</i>, ἐπὶ
-    τῇ ματαιότητι [<a href="javascript:void(0)" title=" LXX.Psa.51(52).9 ">LXX</a>];
-    τῇ πίστει [<a href="javascript:void(0)" title=" NT.Rom.4.20, +others ">NT</a>]<br
-    /><Level2><b>__II</b></Level2> <b>endow with vitality,</b> in <i>passive</i>,
-    <i>metaphorically</i> of scientific theorems, [<a href="javascript:void(0)" title="
-    3rd c.AD: Plotinus Philosophus 4.9.5. ">Refs 3rd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐν-δυναμόω, -ῶ
+
+  [in LXX: Jdg.6:34, 1Ch.12:18 A (לָבַשׁ), Psa.52:7 (עָזַז)* ;]
+
+  to make strong, strengthen: with accusative, of person(s), Php.4:13, 1Ti.1:12, 2Ti.4:17.
+  Pass., Act.9:22; C. dative, Rom.4:20; before ἐν, 2Ti.2:1 (ἐν Κυρίῳ), Eph.6:10 (Cremer,
+  221).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐνδυνᾰμ-όω,
+
+  strengthen, confirm, [LXX+NT]:—passive, ἐπὶ τῇ ματαιότητι [LXX]; τῇ πίστει [NT]
+
+  __II endow with vitality, in passive, metaphorically of scientific theorems, [Refs
+  3rd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2159
-    proximity: 0.8295
+    lemma: εὐτόνως
+    gloss: in a well-strung manner {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: G2904
-    proximity: 0.8194
+    lemma: κράτος
+    gloss: vigor {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: A8632
-    proximity: 0.8161
+    proximity: 0.8161 {macula-proximity}
   - strongs: A8631
-    proximity: 0.8146
+    proximity: 0.8146 {macula-proximity}
   - strongs: G1414
-    proximity: 0.7961
+    lemma: δυνατέω
+    gloss: to be efficient {openscriptures-strongs}
+    proximity: 0.7961 {macula-proximity}
   cross_language:
   - strongs: H1396
-    proximity: 0.8293
+    lemma: גָּבַר
+    gloss: to be strong {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: hebrew
   - strongs: H8633
-    proximity: 0.8289
+    lemma: תֹּקֶף
+    gloss: might or  positiveness {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: hebrew
   - strongs: H2626
-    proximity: 0.8283
+    lemma: חֲסִין
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
     language: hebrew
   - strongs: H6105
-    proximity: 0.8271
+    lemma: עָצַם
+    gloss: to bind fast {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: hebrew
   - strongs: H2428
-    proximity: 0.8211
+    lemma: חַיִל
+    gloss: probably a force {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,30 +5,30 @@ transliteration: Philadélpheia
 definition: Philadelphia, a place in Asia Minor
 kjv_usage: Philadelphia
 derivation: from (the same as G5361 (φιλάδελφος)), a king of Pergamos;
-extended_definition:
-  gloss: Philadelphia
-  definition: '<b>Φιλαδελφία</b> (Rec. -έλφεια), -ας, ἡ <BR /> <b>Philadelphia, a
-    city of Lydia</b>: <ref=''Rev.1.11; 3.7''>Rev.1:11 3:7</ref>.†<BR /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Φιλαδελφία</b> (Rec. -έλφεια), -ας, ἡ <BR /> <b>Philadelphia,
-    a city of Lydia</b>: <ref=''Rev.1.11; 3.7''>Rev.1:11 3:7</ref>.†<BR />  (From
-    Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Φιλαδελφία (Rec. -έλφεια), -ας, ἡ
+
+  Philadelphia, a city of Lydia: Rev.1:11 3:7.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Φιλαδελφία (Rec. -έλφεια), -ας, ἡ
+
+  Philadelphia, a city of Lydia: Rev.1:11 3:7.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4528
-    proximity: 0.8287
+    lemma: Σαλαθιήλ
+    gloss: Salathiel {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: G4551
-    proximity: 0.8262
+    lemma: Σαπφείρη
+    gloss: Sapphire {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   cross_language:
   - strongs: H3309
-    proximity: 0.8241
+    lemma: יָפִיעַ
+    gloss: Japhia {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

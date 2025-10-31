@@ -11,40 +11,57 @@ derivation: or קֵדְמָה; from H6923 (קָדַם);
 related_words:
   synonyms:
   - strongs: H5048
-    proximity: 0.8294
+    lemma: נֶגֶד
+    gloss: a front {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: H4161
-    proximity: 0.8245
+    lemma: מוֹצָא
+    gloss: a going forth {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.8244
+    proximity: 0.8244 {macula-proximity}
   - strongs: H7221
-    proximity: 0.8241
+    lemma: רִאשָׁה
+    gloss: a beginning {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H5331
-    proximity: 0.8239
+    lemma: נֶצַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: A3118
-    proximity: 0.8235
+    proximity: 0.8235 {macula-proximity}
   - strongs: H1755
-    proximity: 0.8208
+    lemma: דּוֹר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   - strongs: H123
-    proximity: 0.8201
+    proximity: 0.8201 {macula-proximity}
   - strongs: H6267
-    proximity: 0.8129
+    lemma: עַתִּיק
+    gloss: removed {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   cross_language:
   - strongs: G4391
-    proximity: 0.828
+    lemma: προϋπάρχω
+    gloss: to exist before {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G4245
-    proximity: 0.8257
+    lemma: πρεσβύτερος
+    gloss: older {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G3820
-    proximity: 0.8256
+    lemma: παλαιός
+    gloss: antique {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
     language: greek
   - strongs: G2714
-    proximity: 0.8251
+    lemma: κατενώπιον
+    gloss: directly in front of {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
     language: greek
   - strongs: G126
-    proximity: 0.8219
+    proximity: 0.8219 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,45 +6,57 @@ pronunciation: maw-sak'
 definition: to mix, especially wine (with spices)
 kjv_usage: mingle.
 derivation: a primitive root;
-extended_definition:
-  gloss: to mix
-  definition: 1) to mix, mingle, produce by mixing<br>1a) (Qal) to pour, mix
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to mix, mingle, produce by mixing
+
+  1a) (Qal) to pour, mix {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8162
-    proximity: 0.7987
+    lemma: שַׁעַטְנֵז
+    gloss: linsey-woolsey {openscriptures-strongs}
+    proximity: 0.7987 {macula-proximity}
   - strongs: H4414a
-    proximity: 0.7939
+    proximity: 0.7939 {macula-proximity}
   - strongs: H3888
-    proximity: 0.7884
+    lemma: לוּשׁ
+    gloss: to knead {openscriptures-strongs}
+    proximity: 0.7884 {macula-proximity}
   - strongs: H4469
-    proximity: 0.7408
+    lemma: מַמְסָךְ
+    gloss: mixture {openscriptures-strongs}
+    proximity: 0.7408 {macula-proximity}
   - strongs: H4197
-    proximity: 0.7349
+    lemma: מֶזֶג
+    gloss: tempered wine {openscriptures-strongs}
+    proximity: 0.7349 {macula-proximity}
   - strongs: H6148a
-    proximity: 0.7282
+    proximity: 0.7282 {macula-proximity}
   - strongs: H4107
-    proximity: 0.7156
+    lemma: מָהַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7156 {macula-proximity}
   cross_language:
   - strongs: G1470
-    proximity: 0.7758
+    lemma: ἐγκρύπτω
+    gloss: to conceal in {openscriptures-strongs}
+    proximity: 0.7758 {macula-proximity}
     language: greek
   - strongs: G4786
-    proximity: 0.7729
+    lemma: συγκεράννυμι
+    gloss: to commingle {openscriptures-strongs}
+    proximity: 0.7729 {macula-proximity}
     language: greek
   - strongs: G741
-    proximity: 0.7451
+    proximity: 0.7451 {macula-proximity}
     language: greek
   - strongs: G4669
-    proximity: 0.7264
+    lemma: σμυρνίζω
+    gloss: to tincture with myrrh {openscriptures-strongs}
+    proximity: 0.7264 {macula-proximity}
     language: greek
   - strongs: G2767
-    proximity: 0.7037
+    lemma: κεράννυμι
+    gloss: to mingle {openscriptures-strongs}
+    proximity: 0.7037 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

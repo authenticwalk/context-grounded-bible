@@ -6,25 +6,27 @@ pronunciation: sheh'-leg
 definition: snow (probably from its whiteness)
 kjv_usage: snow(-y).
 derivation: from H7949 (שָׁלַג);
-extended_definition:
-  gloss: snow
-  definition: 'snow<BR>Aramaic equivalent: <i>te.lag</i> (תְּלַג "snow" H8517)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'snow
+
+  Aramaic equivalent: te.lag (תְּלַג "snow" H8517) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4305
-    proximity: 0.8139
+    lemma: מָטַר
+    gloss: to rain {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H1653
-    proximity: 0.8008
+    lemma: גֶּשֶׁם
+    gloss: a shower {openscriptures-strongs}
+    proximity: 0.8008 {macula-proximity}
   - strongs: H3835
-    proximity: 0.7871
+    lemma: לָבַן
+    gloss: to be  white {openscriptures-strongs}
+    proximity: 0.7871 {macula-proximity}
   cross_language:
   - strongs: G5205
-    proximity: 0.8179
+    lemma: ὑετός
+    gloss: rain {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

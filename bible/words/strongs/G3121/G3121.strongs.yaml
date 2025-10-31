@@ -5,39 +5,44 @@ transliteration: Maleleḗl
 definition: Maleleel (i.e. Mahalalel), an antediluvian
 kjv_usage: Maleleel
 derivation: of Hebrew origin (H04111);
-extended_definition:
-  gloss: Mahalaleel
-  definition: '<b>Μαλελεήλ</b> (T, Μελ-), ὁ (Heb. מַהֲלַלְאֵל), <BR /> <b>Mahalaleel</b>:
-    <ref=''Luk.3.37.''>Luk.3:37.</ref>†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Μαλελεήλ</b> (T, Μελ-), ὁ (Heb. מַהֲלַלְאֵל), <BR /> <b>Mahalaleel</b>:
-    <ref=''Luk.3.37.''>Luk.3:37.</ref>†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Μαλελεήλ (T, Μελ-), ὁ (Heb. מַהֲלַלְאֵל),
+
+  Mahalaleel: Luk.3:37.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Μαλελεήλ (T, Μελ-), ὁ (Heb. מַהֲלַלְאֵל),
+
+  Mahalaleel: Luk.3:37.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1059
-    proximity: 0.7778
+    lemma: Γαμαλιήλ
+    gloss: Gamaliel {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   cross_language:
   - strongs: H3382
-    proximity: 0.8293
+    lemma: יֶרֶד
+    gloss: Jered {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: hebrew
   - strongs: H8657
-    proximity: 0.8217
+    lemma: תֶּרֶשׁ
+    gloss: Teresh {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
     language: hebrew
   - strongs: H4778
-    proximity: 0.8217
+    lemma: מֶרֶד
+    gloss: Mered {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
     language: hebrew
   - strongs: H1260a
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
     language: hebrew
   - strongs: H6889
-    proximity: 0.8159
+    lemma: צֶרֶת
+    gloss: Tsereth {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

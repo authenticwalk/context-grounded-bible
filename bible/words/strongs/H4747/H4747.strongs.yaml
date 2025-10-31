@@ -6,40 +6,46 @@ pronunciation: mek-ay-raw'
 definition: a cooling off
 kjv_usage: '[idiom] summer.'
 derivation: from the same as H7119 (קַר);
-extended_definition:
-  gloss: cool
-  definition: coolness, cooling
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: coolness, cooling {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7119
-    proximity: 0.8125
+    lemma: קַר
+    gloss: cool {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: H3957
-    proximity: 0.8061
+    lemma: לִשְׁכָּה
+    gloss: a room in a building (whether for storage {openscriptures-strongs}
+    proximity: 0.8061 {macula-proximity}
   - strongs: A5952
-    proximity: 0.7902
+    proximity: 0.7902 {macula-proximity}
   - strongs: A1005
-    proximity: 0.7866
+    proximity: 0.7866 {macula-proximity}
   - strongs: H1406
-    proximity: 0.7602
+    lemma: גָּג
+    gloss: a roof {openscriptures-strongs}
+    proximity: 0.7602 {macula-proximity}
   - strongs: H1004
-    proximity: 0.7407
+    lemma: בַּיִת
+    gloss: a house (in the greatest variation of applications {openscriptures-strongs}
+    proximity: 0.7407 {macula-proximity}
   cross_language:
   - strongs: G508a
-    proximity: 0.7929
+    proximity: 0.7929 {macula-proximity}
     language: greek
   - strongs: G1430
-    proximity: 0.7683
+    lemma: δῶμα
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7683 {macula-proximity}
     language: greek
   - strongs: G3624
-    proximity: 0.7364
+    lemma: οἶκος
+    gloss: a dwelling (more or less extensive {openscriptures-strongs}
+    proximity: 0.7364 {macula-proximity}
     language: greek
   - strongs: G3410
-    proximity: 0.7215
+    lemma: μίσθωμα
+    gloss: a rented building {openscriptures-strongs}
+    proximity: 0.7215 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

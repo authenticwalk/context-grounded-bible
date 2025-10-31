@@ -5,50 +5,56 @@ transliteration: mōrología
 definition: silly talk, i.e. buffoonery
 kjv_usage: foolish talking
 derivation: from a compound of G3474 (μωρός) and G3004 (λέγω);
-extended_definition:
-  gloss: foolish talk
-  definition: <b>silly talking </b>, (New Testament) <br>from μωρολόγος (ML)
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> μωρολογ-ία</b>, ἡ, <br /> <b>silly talk</b>, [<a href="javascript:void(0)"
-    title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 492b2, NT.Eph.5.4,
-    1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.504b, 2nd c.AD: Sextus Empiricus
-    Philosophus “adversus Mathematicos” 1.174. ">NT+4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'silly talking , (New Testament)
+
+  from μωρολόγος (ML) {STEPBible-TBESG}'
+etymology: 'μωρολογ-ία, ἡ,
+
+  silly talk, [NT+4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3050
-    proximity: 0.8196
+    lemma: λογικός
+    gloss: rational {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: G4926
-    proximity: 0.7995
+    lemma: συνομιλέω
+    gloss: to converse mutually {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
   - strongs: G3151
-    proximity: 0.798
+    lemma: ματαιολόγος
+    gloss: an idle  talker {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
   - strongs: G877
-    proximity: 0.797
+    proximity: 0.797 {macula-proximity}
   - strongs: G453
-    proximity: 0.7928
+    proximity: 0.7928 {macula-proximity}
   - strongs: G3056
-    proximity: 0.7703
+    lemma: λόγος
+    gloss: something said {openscriptures-strongs}
+    proximity: 0.7703 {macula-proximity}
   cross_language:
   - strongs: H4405
-    proximity: 0.8244
+    lemma: מִלָּה
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: hebrew
   - strongs: H565
-    proximity: 0.8149
+    proximity: 0.8149 {macula-proximity}
     language: hebrew
   - strongs: H3690
-    proximity: 0.8113
+    lemma: כִּסְלָה
+    gloss: in a good sense {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
     language: hebrew
   - strongs: H5036
-    proximity: 0.8109
+    lemma: נָבָל
+    gloss: stupid {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
     language: hebrew
   - strongs: H3687
-    proximity: 0.8042
+    lemma: כְּסִילוּת
+    gloss: silliness {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

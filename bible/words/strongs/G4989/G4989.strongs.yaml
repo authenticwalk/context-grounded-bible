@@ -5,33 +5,36 @@ transliteration: Sōsípatros
 definition: Sosipatrus, a Christian
 kjv_usage: Sosipater
 derivation: prolongation for G4986 (Σώπατρος);
-extended_definition:
-  gloss: Sosipater
-  definition: '<b>Σωσίπατρος</b>, -ου, ὁ <BR /> <b>Sosipater</b>: <ref=''Rom.16.21.''>Rom.16:21.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Σωσίπατρος</b>, -ου, ὁ <BR /> <b>Sosipater</b>: <ref=''Rom.16.21.''>Rom.16:21.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Σωσίπατρος, -ου, ὁ
+
+  Sosipater: Rom.16:21.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Σωσίπατρος, -ου, ὁ
+
+  Sosipater: Rom.16:21.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4986
-    proximity: 0.7373
+    lemma: Σώπατρος
+    gloss: of a safe father {openscriptures-strongs}
+    proximity: 0.7373 {macula-proximity}
   cross_language:
   - strongs: H1324
-    proximity: 0.8245
+    lemma: בַּת
+    gloss: a bath or Hebrew measure  of liquids {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
     language: hebrew
   - strongs: H5434
-    proximity: 0.799
+    lemma: סְבָא
+    gloss: Seba {openscriptures-strongs}
+    proximity: 0.799 {macula-proximity}
     language: hebrew
   - strongs: H2078
-    proximity: 0.7925
+    lemma: זֶבַח
+    gloss: Zebach {openscriptures-strongs}
+    proximity: 0.7925 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

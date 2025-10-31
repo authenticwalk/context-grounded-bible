@@ -6,33 +6,37 @@ pronunciation: man-awl'
 definition: a bolt
 kjv_usage: shoe.
 derivation: from H5274 (נָעַל);
-extended_definition:
-  gloss: bolt
-  definition: shoe
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: shoe {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H859b
-    proximity: 0.8245
+    proximity: 0.8245 {macula-proximity}
   - strongs: H3826
-    proximity: 0.8069
+    lemma: לִבָּה
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.8069 {macula-proximity}
   - strongs: H1817
-    proximity: 0.7838
+    lemma: דֶּלֶת
+    gloss: something swinging {openscriptures-strongs}
+    proximity: 0.7838 {macula-proximity}
   - strongs: H5274
-    proximity: 0.7562
+    lemma: נָעַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7562 {macula-proximity}
   cross_language:
   - strongs: G4728
-    proximity: 0.7948
+    lemma: στενός
+    gloss: narrow {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
     language: greek
   - strongs: G4547
-    proximity: 0.7917
+    lemma: σανδάλιον
+    gloss: of uncertain origin) {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: greek
   - strongs: G5266
-    proximity: 0.7546
+    lemma: ὑπόδημα
+    gloss: something bound under the feet {openscriptures-strongs}
+    proximity: 0.7546 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

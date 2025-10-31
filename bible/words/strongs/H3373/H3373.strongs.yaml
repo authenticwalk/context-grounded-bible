@@ -6,43 +6,53 @@ pronunciation: yaw-ray'
 definition: fearing; morally, reverent
 kjv_usage: afraid, fear (-ful).
 derivation: from H3372 (יָרֵא);
-extended_definition:
-  gloss: afraid
-  definition: fearing, reverent, afraid
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: fearing, reverent, afraid {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7374
-    proximity: 0.8236
+    lemma: רֶטֶט
+    gloss: terror {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
   - strongs: H1674
-    proximity: 0.8205
+    lemma: דְּאָגָה
+    gloss: anxiety {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: H7461a
-    proximity: 0.8181
+    proximity: 0.8181 {macula-proximity}
   - strongs: H2729
-    proximity: 0.8158
+    lemma: חָרַד
+    gloss: to shudder with terror {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: H8178
-    proximity: 0.8033
+    lemma: שַׂעַר
+    gloss: a tempest {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
   - strongs: H8175
-    proximity: 0.7967
+    lemma: שָׂעַר
+    gloss: to storm {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
   cross_language:
   - strongs: G3000
-    proximity: 0.8267
+    lemma: λατρεύω
+    gloss: to minister {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
     language: greek
   - strongs: G5141
-    proximity: 0.8243
+    lemma: τρέμω
+    gloss: to "tremble" or fear {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: greek
   - strongs: G2999
-    proximity: 0.8222
+    lemma: λατρεία
+    gloss: ministration of God {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
     language: greek
   - strongs: G1174a
-    proximity: 0.8208
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G2151
-    proximity: 0.8142
+    lemma: εὐσεβέω
+    gloss: to be pious {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

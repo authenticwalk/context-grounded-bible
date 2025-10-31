@@ -6,48 +6,56 @@ pronunciation: baw-tseer'
 definition: clipped, i.e. the grape crop
 kjv_usage: vintage.
 derivation: from H1219 (בָּצַר);
-extended_definition:
-  gloss: vintage
-  definition: vintage
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: vintage {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8321a
-    proximity: 0.8286
+    proximity: 0.8286 {macula-proximity}
   - strongs: H3953
-    proximity: 0.8238
+    lemma: לָקַשׁ
+    gloss: to gather the after crop {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H808
-    proximity: 0.8219
+    proximity: 0.8219 {macula-proximity}
   - strongs: H3950
-    proximity: 0.8212
+    lemma: לָקַט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   - strongs: H891
-    proximity: 0.7848
+    proximity: 0.7848 {macula-proximity}
   - strongs: H6333
-    proximity: 0.77
+    lemma: פּוּרָה
+    gloss: a wine-press {openscriptures-strongs}
+    proximity: 0.77 {macula-proximity}
   - strongs: H625
-    proximity: 0.7616
+    proximity: 0.7616 {macula-proximity}
   - strongs: H8321
-    proximity: 0.7566
+    lemma: שֹׂרֵק
+    gloss: a vine stock (properly {openscriptures-strongs}
+    proximity: 0.7566 {macula-proximity}
   - strongs: H7114
-    proximity: 0.7531
+    lemma: קָצַר
+    gloss: to dock off {openscriptures-strongs}
+    proximity: 0.7531 {macula-proximity}
   - strongs: H2981
-    proximity: 0.7523
+    lemma: יְבוּל
+    gloss: produce {openscriptures-strongs}
+    proximity: 0.7523 {macula-proximity}
   cross_language:
   - strongs: G289
-    proximity: 0.8184
+    proximity: 0.8184 {macula-proximity}
     language: greek
   - strongs: G5166
-    proximity: 0.7998
+    lemma: τρυγάω
+    gloss: to collect the vintage {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
     language: greek
   - strongs: G1081a
-    proximity: 0.7959
+    proximity: 0.7959 {macula-proximity}
     language: greek
   - strongs: G2325
-    proximity: 0.7873
+    lemma: θερίζω
+    gloss: to harvest {openscriptures-strongs}
+    proximity: 0.7873 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

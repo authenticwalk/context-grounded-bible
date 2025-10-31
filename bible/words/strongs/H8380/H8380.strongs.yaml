@@ -6,23 +6,19 @@ pronunciation: taw-ome'
 definition: a twin (in plural only), literally or figuratively
 kjv_usage: twins.
 derivation: or תָּאֹם; from H8382 (תָּאַם);
-extended_definition:
-  gloss: twin
-  definition: twin
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: twin {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8240a
-    proximity: 0.8022
+    proximity: 0.8022 {macula-proximity}
   - strongs: H3718
-    proximity: 0.7617
+    lemma: כֶּפֶל
+    gloss: a duplicate {openscriptures-strongs}
+    proximity: 0.7617 {macula-proximity}
   cross_language:
   - strongs: G1359
-    proximity: 0.7302
+    lemma: Διόσκουροι
+    gloss: sons of Jupiter {openscriptures-strongs}
+    proximity: 0.7302 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

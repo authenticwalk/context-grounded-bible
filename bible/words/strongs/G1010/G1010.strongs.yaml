@@ -5,55 +5,56 @@ transliteration: bouleutḗs
 definition: an adviser, i.e. (specially) a councillor or member of the Jewish Sanhedrin
 kjv_usage: counsellor
 derivation: from G1011 (βουλεύω);
-extended_definition:
-  gloss: member of a council
-  definition: '<b>βουλευτής</b>, -οῦ, ὁ <BR /> (βουλεύω), [in LXX: <ref=''Job.3.14;
-    12.17''>Job.3:14 12:17</ref> (יעץ)* ;] <BR /><b>a councillor, a senator</b>; of
-    a member of the Sanhedrin: <ref=''Mrk.15.34''>Mrk.15:34</ref>, <ref=''Luk.23.50''>Luk.23:50</ref>.†<BR
-    /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> βουλ-ευτής</b>, οῦ, ὁ, <br /> <b>councillor, senator</b>, [<a
-    href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 6.114,
-    5th c.BC: Herodotus Historicus 9.5, 5th-6th c.BC: Plato Philosophus “Apologia”
-    25a, etc.">Refs 8th c.BC+</a>]; at Athens, <b>one of the</b>[<a href="javascript:void(0)"
-    title=" 500, 5th c.BC: Antipho Orator 6.45, 5th-6th c.BC: Andocides Orator 1.43,
-    5th-6th c.BC: Aristophanes Comicus “Thesmophoriazusae” 808 ">Refs 5th c.BC+</a>];
-    at Rome, <b>senator</b>, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius
-    Halicarnassensis 2.12, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Romulus”
-    13, etc. ">Refs 1st c.BC+</a>]<br /><Level3><b>__2</b></Level3> <b>plotter, contriver</b>,
-    θανάτου, πληγῆς, [<a href="javascript:void(0)" title=" 5th c.BC: Antipho Orator
-    4.3.4. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'βουλευτής, -οῦ, ὁ
+
+  (βουλεύω), [in LXX: Job.3:14 12:17 (יעץ)* ;]
+
+  a councillor, a senator; of a member of the Sanhedrin: Mrk.15:34, Luk.23:50.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'βουλ-ευτής, οῦ, ὁ,
+
+  councillor, senator, [Refs 8th c.BC+]; at Athens, one of the[Refs 5th c.BC+]; at
+  Rome, senator, [Refs 1st c.BC+]
+
+  __2 plotter, contriver, θανάτου, πληγῆς, [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4824
-    proximity: 0.8124
+    lemma: συμβούλιον
+    gloss: advisement {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8106
+    proximity: 0.8106 {macula-proximity}
   - strongs: G3196
-    proximity: 0.7971
+    lemma: μέλος
+    gloss: a limb or part of the body {openscriptures-strongs}
+    proximity: 0.7971 {macula-proximity}
   - strongs: G2453
-    proximity: 0.7955
+    lemma: Ἰουδαῖος
+    gloss: Judæan {openscriptures-strongs}
+    proximity: 0.7955 {macula-proximity}
   - strongs: G3588
-    proximity: 0.7775
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7775 {macula-proximity}
   - strongs: G4244
-    proximity: 0.7761
+    lemma: πρεσβυτέριον
+    gloss: the order of elders {openscriptures-strongs}
+    proximity: 0.7761 {macula-proximity}
   - strongs: G2449
-    proximity: 0.7683
+    lemma: Ἰουδαία
+    gloss: the Judæan land {openscriptures-strongs}
+    proximity: 0.7683 {macula-proximity}
   - strongs: A2967
-    proximity: 0.7482
+    proximity: 0.7482 {macula-proximity}
   cross_language:
   - strongs: H6133
-    proximity: 0.8155
+    lemma: עֵקֶר
+    gloss: figuratively {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
     language: hebrew
   - strongs: H1886a
-    proximity: 0.7854
+    proximity: 0.7854 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

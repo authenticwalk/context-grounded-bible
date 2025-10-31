@@ -6,47 +6,57 @@ pronunciation: pathbag'
 definition: a dainty
 kjv_usage: portion (provision) of meat.
 derivation: of Persian origin;
-extended_definition:
-  gloss: choice
-  definition: portion of food for king, delicacies
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: portion of food for king, delicacies {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2557a
-    proximity: 0.8291
+    proximity: 0.8291 {macula-proximity}
   - strongs: H3740
-    proximity: 0.8139
+    lemma: כֵּרָה
+    gloss: a purchase {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H6595
-    proximity: 0.7944
+    lemma: פַּת
+    gloss: a bit {openscriptures-strongs}
+    proximity: 0.7944 {macula-proximity}
   - strongs: H6718b
-    proximity: 0.7747
+    proximity: 0.7747 {macula-proximity}
   - strongs: H737
-    proximity: 0.7725
+    proximity: 0.7725 {macula-proximity}
   - strongs: H3859
-    proximity: 0.7637
+    lemma: לָהַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7637 {macula-proximity}
   - strongs: H4241
-    proximity: 0.7471
+    lemma: מִחְיָה
+    gloss: preservation of life {openscriptures-strongs}
+    proximity: 0.7471 {macula-proximity}
   - strongs: H2964
-    proximity: 0.7453
+    lemma: טֶרֶף
+    gloss: something torn {openscriptures-strongs}
+    proximity: 0.7453 {macula-proximity}
   cross_language:
   - strongs: G3521
-    proximity: 0.8233
+    lemma: νηστεία
+    gloss: abstinence (from lack of food {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
     language: greek
   - strongs: G1967
-    proximity: 0.8186
+    lemma: ἐπιούσιος
+    gloss: tomorrow's {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
     language: greek
   - strongs: G4620
-    proximity: 0.8083
+    lemma: σιτόμετρον
+    gloss: a grain-measure {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
     language: greek
   - strongs: G1494a
-    proximity: 0.8055
+    proximity: 0.8055 {macula-proximity}
     language: greek
   - strongs: G1305
-    proximity: 0.7863
+    lemma: διατροφή
+    gloss: nourishment {openscriptures-strongs}
+    proximity: 0.7863 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

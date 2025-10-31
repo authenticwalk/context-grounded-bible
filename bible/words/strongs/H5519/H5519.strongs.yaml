@@ -6,51 +6,63 @@ pronunciation: sawk
 definition: properly, a thicket of men, i.e. a crowd
 kjv_usage: multitude.
 derivation: from H5526 (סָכַךְ);
-extended_definition:
-  gloss: throng
-  definition: throng, multitude
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: throng, multitude {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A3062
-    proximity: 0.8293
+    proximity: 0.8293 {macula-proximity}
   - strongs: H5739
-    proximity: 0.8258
+    lemma: עֵדֶר
+    gloss: an arrangement {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
   - strongs: H3064
-    proximity: 0.8241
+    lemma: יְהוּדִי
+    gloss: a Jehudite {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: A3061
-    proximity: 0.822
+    proximity: 0.822 {macula-proximity}
   - strongs: H7230
-    proximity: 0.8157
+    lemma: רֹב
+    gloss: abundance {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: H6099
-    proximity: 0.8133
+    lemma: עָצוּם
+    gloss: powerful (specifically {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   - strongs: H4768
-    proximity: 0.7999
+    lemma: מַרְבִּית
+    gloss: a multitude {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
   - strongs: H5971
-    proximity: 0.7929
+    lemma: עַם
+    gloss: a people {openscriptures-strongs}
+    proximity: 0.7929 {macula-proximity}
   - strongs: H3605
-    proximity: 0.791
+    lemma: כֹּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.791 {macula-proximity}
   cross_language:
   - strongs: G4054
-    proximity: 0.8241
+    lemma: περισσότερον
+    gloss: in a more superabundant way {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
   - strongs: G3956
-    proximity: 0.8132
+    lemma: πᾶς
+    gloss: all {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
     language: greek
   - strongs: G444
-    proximity: 0.8115
+    proximity: 0.8115 {macula-proximity}
     language: greek
   - strongs: G2992
-    proximity: 0.8026
+    lemma: λαός
+    gloss: a people (in general {openscriptures-strongs}
+    proximity: 0.8026 {macula-proximity}
     language: greek
   - strongs: G537
-    proximity: 0.784
+    proximity: 0.784 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

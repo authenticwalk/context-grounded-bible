@@ -6,44 +6,54 @@ pronunciation: mas-lool'
 definition: a thoroughfare (as turnpiked)
 kjv_usage: highway.
 derivation: from H5549 (סָלַל);
-extended_definition:
-  gloss: highway
-  definition: highway
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: highway {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1886a
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
   - strongs: H4428
-    proximity: 0.8221
+    lemma: מֶלֶךְ
+    gloss: a king {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H6514
-    proximity: 0.8199
+    lemma: פְּרוּדָא
+    gloss: Peruda or Perida {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H5410a
-    proximity: 0.8081
+    proximity: 0.8081 {macula-proximity}
   - strongs: H6128
-    proximity: 0.7924
+    lemma: עֲקַלְקַל
+    gloss: winding {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
   - strongs: H5410
-    proximity: 0.7917
+    lemma: נָתִיב
+    gloss: a  track {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: H7635
-    proximity: 0.7565
+    lemma: שָׁבִיל
+    gloss: a track or passage-way {openscriptures-strongs}
+    proximity: 0.7565 {macula-proximity}
   - strongs: H5549
-    proximity: 0.7362
+    lemma: סָלַל
+    gloss: to mound up {openscriptures-strongs}
+    proximity: 0.7362 {macula-proximity}
   cross_language:
   - strongs: G4113
-    proximity: 0.8247
+    lemma: πλατεῖα
+    gloss: a wide "plat" or "place" {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: greek
   - strongs: G4505
-    proximity: 0.8104
+    lemma: ῥύμη
+    gloss: an alley or avenue {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
     language: greek
   - strongs: G296
-    proximity: 0.7788
+    proximity: 0.7788 {macula-proximity}
     language: greek
   - strongs: G5163
-    proximity: 0.7753
+    lemma: τροχιά
+    gloss: a track {openscriptures-strongs}
+    proximity: 0.7753 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

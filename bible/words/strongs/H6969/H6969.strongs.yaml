@@ -6,49 +6,63 @@ pronunciation: koon
 definition: to strike a musical note, i.e. chant or wail (at a funeral)
 kjv_usage: lament, mourning woman.
 derivation: a primitive root;
-extended_definition:
-  gloss: to chant
-  definition: 1) to chant a dirge, chant, wail, lament<br>1a) (Polel) to lament
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to chant a dirge, chant, wail, lament
+
+  1a) (Polel) to lament {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6937
-    proximity: 0.8284
+    lemma: קָדַר
+    gloss: to be ashy {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H2158
-    proximity: 0.8276
+    lemma: זָמִיר
+    gloss: a song to be accompanied with instrumental music {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: H253
-    proximity: 0.8266
+    proximity: 0.8266 {macula-proximity}
   - strongs: A6088
-    proximity: 0.8165
+    proximity: 0.8165 {macula-proximity}
   - strongs: H5204
-    proximity: 0.8121
+    lemma: נִי
+    gloss: lamentation {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H2167
-    proximity: 0.8029
+    lemma: זָמַר
+    gloss: play upon it {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
   - strongs: H5090a
-    proximity: 0.8027
+    proximity: 0.8027 {macula-proximity}
   - strongs: H6031b
-    proximity: 0.7995
+    proximity: 0.7995 {macula-proximity}
   - strongs: H1058
-    proximity: 0.7907
+    lemma: בָּכָה
+    gloss: to weep {openscriptures-strongs}
+    proximity: 0.7907 {macula-proximity}
   cross_language:
   - strongs: G3997
-    proximity: 0.82
+    lemma: πένθος
+    gloss: grief {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
   - strongs: G3602
-    proximity: 0.8145
+    lemma: ὀδυρμός
+    gloss: moaning {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
     language: greek
   - strongs: G2799
-    proximity: 0.8087
+    lemma: κλαίω
+    gloss: to sob {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
     language: greek
   - strongs: G5567
-    proximity: 0.8016
+    lemma: ψάλλω
+    gloss: compare G5597 ) {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
     language: greek
   - strongs: G3996
-    proximity: 0.7991
+    lemma: πενθέω
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -10,34 +10,49 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H5921
-    proximity: 0.8296
+    lemma: עַל
+    gloss: above {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H3254
-    proximity: 0.8162
+    lemma: יָסַף
+    gloss: to add or augment (often adverbial {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H2040
-    proximity: 0.801
+    lemma: הָרַס
+    gloss: to pull down or in pieces {openscriptures-strongs}
+    proximity: 0.801 {macula-proximity}
   - strongs: A5330
-    proximity: 0.7696
+    proximity: 0.7696 {macula-proximity}
   - strongs: H5676
-    proximity: 0.7559
+    lemma: עֵבֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7559 {macula-proximity}
   - strongs: H5710
-    proximity: 0.7444
+    lemma: עָדָה
+    gloss: to advance {openscriptures-strongs}
+    proximity: 0.7444 {macula-proximity}
   cross_language:
   - strongs: G1330
-    proximity: 0.8245
+    lemma: διέρχομαι
+    gloss: to traverse {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
     language: greek
   - strongs: G2620
-    proximity: 0.8177
+    lemma: κατακαυχάομαι
+    gloss: to exult against {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
     language: greek
   - strongs: G5231
-    proximity: 0.8001
+    lemma: ὑπεράνω
+    gloss: above upward {openscriptures-strongs}
+    proximity: 0.8001 {macula-proximity}
     language: greek
   - strongs: G492
-    proximity: 0.7937
+    proximity: 0.7937 {macula-proximity}
     language: greek
   - strongs: G3855
-    proximity: 0.7936
+    lemma: παράγω
+    gloss: to lead near {openscriptures-strongs}
+    proximity: 0.7936 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

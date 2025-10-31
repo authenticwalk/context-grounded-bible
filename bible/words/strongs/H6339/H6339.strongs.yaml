@@ -7,46 +7,57 @@ definition: to solidify (as if by refining); also to spring (as if separating th
   limbs)
 kjv_usage: leap, be made strong.
 derivation: a primitive root (identical with H6338 (פָּזַז));
-extended_definition:
-  gloss: be agile
-  definition: 1) to bound, be agile, be supple<br>1a) (Qal) to be nimble<br>1b) (Piel)
-    to leap, show agility
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to bound, be agile, be supple
+
+  1a) (Qal) to be nimble
+
+  1b) (Piel) to leap, show agility {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2634
-    proximity: 0.8167
+    lemma: חָסֹן
+    gloss: powerful {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H6108
-    proximity: 0.8117
+    lemma: עֹצֶם
+    gloss: power {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
   - strongs: H5808
-    proximity: 0.8103
+    lemma: עִזּוּז
+    gloss: forcible {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   - strongs: H6452a
-    proximity: 0.797
+    proximity: 0.797 {macula-proximity}
   - strongs: H2389
-    proximity: 0.7841
+    lemma: חָזָק
+    gloss: strong (usu. in a bad sense {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
   - strongs: H555
-    proximity: 0.7838
+    proximity: 0.7838 {macula-proximity}
   - strongs: H2422
-    proximity: 0.7727
+    lemma: חָיֶה
+    gloss: vigorous {openscriptures-strongs}
+    proximity: 0.7727 {macula-proximity}
   - strongs: A8624
-    proximity: 0.769
+    proximity: 0.769 {macula-proximity}
   - strongs: H820
-    proximity: 0.769
+    proximity: 0.769 {macula-proximity}
   - strongs: H650a
-    proximity: 0.767
+    proximity: 0.767 {macula-proximity}
   cross_language:
   - strongs: G2177
-    proximity: 0.7994
+    lemma: ἐφάλλομαι
+    gloss: to spring upon {openscriptures-strongs}
+    proximity: 0.7994 {macula-proximity}
     language: greek
   - strongs: G2901
-    proximity: 0.7926
+    lemma: κραταιόω
+    gloss: to empower {openscriptures-strongs}
+    proximity: 0.7926 {macula-proximity}
     language: greek
   - strongs: G2478
-    proximity: 0.7919
+    lemma: ἰσχυρός
+    gloss: forcible {openscriptures-strongs}
+    proximity: 0.7919 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

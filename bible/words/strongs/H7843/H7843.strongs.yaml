@@ -7,53 +7,85 @@ definition: to decay, i.e. (causatively) ruin (literally or figuratively)
 kjv_usage: batter, cast off, corrupt(-er, thing), destroy(-er, -uction), lose, mar,
   perish, spill, spoiler, [idiom] utterly, waste(-r).
 derivation: a primitive root;
-extended_definition:
-  gloss: to ruin
-  definition: '1) to destroy, corrupt, go to ruin, decay<br>1a) (Niphal) to be marred,
-    be spoiled, be corrupted, be corrupt, be injured, be ruined, be rotted<br>1b)
-    (Piel)<br>1b1) to spoil, ruin<br>1b2) to pervert, corrupt, deal corruptly (morally)<br>1c)
-    (Hiphil)<br>1c1) to spoil, ruin, destroy<br>1c2) to pervert, corrupt (morally)<br>1c3)
-    destroyer (participle)<br>1d) (Hophal) spoiled, ruined (participle)<BR>Aramaic
-    equivalent: <i>she.chat</i> (שְׁחַת "to corrupt" H7844)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to destroy, corrupt, go to ruin, decay
+
+  1a) (Niphal) to be marred, be spoiled, be corrupted, be corrupt, be injured, be
+  ruined, be rotted
+
+  1b) (Piel)
+
+  1b1) to spoil, ruin
+
+  1b2) to pervert, corrupt, deal corruptly (morally)
+
+  1c) (Hiphil)
+
+  1c1) to spoil, ruin, destroy
+
+  1c2) to pervert, corrupt (morally)
+
+  1c3) destroyer (participle)
+
+  1d) (Hophal) spoiled, ruined (participle)
+
+  Aramaic equivalent: she.chat (שְׁחַת "to corrupt" H7844) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5754
-    proximity: 0.8297
+    lemma: עַוָּה
+    gloss: overthrow {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: H5428
-    proximity: 0.8283
+    lemma: נָתַשׁ
+    gloss: to tear away {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H444
-    proximity: 0.8276
+    proximity: 0.8276 {macula-proximity}
   - strongs: H3510
-    proximity: 0.8275
+    lemma: כָּאַב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H7722b
-    proximity: 0.8256
+    proximity: 0.8256 {macula-proximity}
   - strongs: H8076
-    proximity: 0.8254
+    lemma: שָׁמֵם
+    gloss: ruined {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: H6993
-    proximity: 0.8242
+    lemma: קֶטֶל
+    gloss: a violent death {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H7112
-    proximity: 0.8237
+    lemma: קָצַץ
+    gloss: to chop off {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: H7582
-    proximity: 0.8222
+    lemma: שָׁאָה
+    gloss: to rush {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H2000
-    proximity: 0.8186
+    lemma: הָמַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   cross_language:
   - strongs: G4258
-    proximity: 0.8252
+    lemma: προαμαρτάνω
+    gloss: to sin previously {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: greek
   - strongs: G2049
-    proximity: 0.8247
+    lemma: ἐρημόω
+    gloss: to lay waste {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: greek
   - strongs: G2871
-    proximity: 0.8199
+    lemma: κοπή
+    gloss: cutting {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
     language: greek
   - strongs: G4595
-    proximity: 0.8145
+    lemma: σήπω
+    gloss: to putrefy {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

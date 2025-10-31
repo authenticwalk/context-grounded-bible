@@ -10,34 +10,47 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H234
-    proximity: 0.8222
+    proximity: 0.8222 {macula-proximity}
   - strongs: H2551a
-    proximity: 0.8051
+    proximity: 0.8051 {macula-proximity}
   - strongs: H2550
-    proximity: 0.7871
+    lemma: חָמַל
+    gloss: to commiserate {openscriptures-strongs}
+    proximity: 0.7871 {macula-proximity}
   - strongs: H2143
-    proximity: 0.7852
+    lemma: זֵכֶר
+    gloss: a memento {openscriptures-strongs}
+    proximity: 0.7852 {macula-proximity}
   - strongs: H2347
-    proximity: 0.7837
+    lemma: חוּס
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7837 {macula-proximity}
   - strongs: H2146
-    proximity: 0.7556
+    lemma: זִכְרוֹן
+    gloss: a memento (or memorable thing {openscriptures-strongs}
+    proximity: 0.7556 {macula-proximity}
   cross_language:
   - strongs: G3415
-    proximity: 0.8286
+    lemma: μνάομαι
+    gloss: to bear in mind {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G3417
-    proximity: 0.8281
+    lemma: μνεία
+    gloss: recollection {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G1980
-    proximity: 0.8267
+    lemma: ἐπισκέπτομαι
+    gloss: to inspect {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
     language: greek
   - strongs: G1896a
-    proximity: 0.7949
+    proximity: 0.7949 {macula-proximity}
     language: greek
   - strongs: G1760
-    proximity: 0.7915
+    lemma: ἐνθυμέομαι
+    gloss: to be inspirited {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

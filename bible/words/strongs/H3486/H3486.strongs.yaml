@@ -6,49 +6,59 @@ pronunciation: yaw-shaysh'
 definition: gray-haired, i.e. an aged man
 kjv_usage: stoop for age.
 derivation: from an unused root meaning to blanch;
-extended_definition:
-  gloss: decrepit
-  definition: aged, decrepit, feeble
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: aged, decrepit, feeble {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3453
-    proximity: 0.8184
+    lemma: יָשִׁישׁ
+    gloss: an old man {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   - strongs: H2208
-    proximity: 0.7985
+    lemma: זָקֻן
+    gloss: old age {openscriptures-strongs}
+    proximity: 0.7985 {macula-proximity}
   - strongs: H2205
-    proximity: 0.793
+    lemma: זָקֵן
+    gloss: old {openscriptures-strongs}
+    proximity: 0.793 {macula-proximity}
   - strongs: H4198
-    proximity: 0.7808
+    lemma: מָזֶה
+    gloss: exhausted {openscriptures-strongs}
+    proximity: 0.7808 {macula-proximity}
   - strongs: H2209
-    proximity: 0.7786
+    lemma: זִקְנָה
+    gloss: old age {openscriptures-strongs}
+    proximity: 0.7786 {macula-proximity}
   - strongs: H7504
-    proximity: 0.7706
+    lemma: רָפֶה
+    gloss: slack {openscriptures-strongs}
+    proximity: 0.7706 {macula-proximity}
   - strongs: H1524a
-    proximity: 0.7556
+    proximity: 0.7556 {macula-proximity}
   - strongs: A8406
-    proximity: 0.7421
+    proximity: 0.7421 {macula-proximity}
   - strongs: H536
-    proximity: 0.7387
+    proximity: 0.7387 {macula-proximity}
   cross_language:
   - strongs: G1133
-    proximity: 0.8254
+    lemma: γυναικάριον
+    gloss: a little  woman {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: greek
   - strongs: G770
-    proximity: 0.8244
+    proximity: 0.8244 {macula-proximity}
     language: greek
   - strongs: G1087
-    proximity: 0.8211
+    lemma: γερουσία
+    gloss: the eldership {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
     language: greek
   - strongs: G1095
-    proximity: 0.7775
+    lemma: γηράσκω
+    gloss: to be senescent {openscriptures-strongs}
+    proximity: 0.7775 {macula-proximity}
     language: greek
   - strongs: G772
-    proximity: 0.7749
+    proximity: 0.7749 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

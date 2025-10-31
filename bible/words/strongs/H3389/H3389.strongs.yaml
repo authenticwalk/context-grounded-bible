@@ -9,29 +9,29 @@ derivation: rarely יְרוּשָׁלַיִם; a dual (in allusion to its two ma
   pointing, at least of the former reading, seems to be that of H3390 (יְרוּשָׁלֵם)));
   probably from (the passive participle of) H3384 (יָרָה) and H7999 (שָׁלַם); founded
   peaceful;
-extended_definition:
-  gloss: Jerusalem
-  definition: <BR> § Jerusalem = "teaching of peace"<br> the chief city of Palestine
-    and capital of the united kingdom and the nation of Judah after the split<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Jerusalem = "teaching of peace"
+
+  the chief city of Palestine and capital of the united kingdom and the nation of
+  Judah after the split {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5543
-    proximity: 0.8056
+    lemma: סַלּוּ
+    gloss: Sallu or Sallai {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H5543a
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
   - strongs: H5543c
-    proximity: 0.8055
+    proximity: 0.8055 {macula-proximity}
   cross_language:
   - strongs: G4532
-    proximity: 0.8055
+    lemma: Σαλήμ
+    gloss: Salem {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.7906
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

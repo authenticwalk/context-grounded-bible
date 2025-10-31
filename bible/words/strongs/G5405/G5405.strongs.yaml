@@ -5,40 +5,47 @@ transliteration: Phoînix
 definition: Phœnix, a place in Crete
 kjv_usage: Phenice
 derivation: probably the same as G5404 (φοῖνιξ);
-extended_definition:
-  gloss: Phoenix
-  definition: '<b>φοῖνιξ</b>, -ικος, ο, ἡ <BR /> <b>Phænix, a city of Crete</b>: <ref=''Act.27.12.''>Act.27:12.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-M-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>φοῖνιξ</b>, -ικος, ο, ἡ <BR /> <b>Phænix, a city of Crete</b>:
-    <ref=''Act.27.12.''>Act.27:12.</ref>†<BR />(From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'φοῖνιξ, -ικος, ο, ἡ
+
+  Phænix, a city of Crete: Act.27:12.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'φοῖνιξ, -ικος, ο, ἡ
+
+  Phænix, a city of Crete: Act.27:12.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4949
-    proximity: 0.8195
+    lemma: Συροφοίνισσα
+    gloss: a Syro-phœnician woman {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: G5347
-    proximity: 0.8106
+    lemma: Φῆστος
+    gloss: festal {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
   - strongs: G5403
-    proximity: 0.8028
+    lemma: Φοινίκη
+    gloss: palm-country {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
   cross_language:
   - strongs: H1441
-    proximity: 0.8292
+    lemma: גִּדְעֹנִי
+    gloss: Gidoni {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
     language: hebrew
   - strongs: H7014a
-    proximity: 0.8233
+    proximity: 0.8233 {macula-proximity}
     language: hebrew
   - strongs: H7017
-    proximity: 0.8187
+    lemma: קֵינִי
+    gloss: a Kenite or member of the tribe of Kajin {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
     language: hebrew
   - strongs: H6372
-    proximity: 0.8108
+    lemma: פִּינְחָס
+    gloss: Pinechas {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

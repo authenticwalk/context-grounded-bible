@@ -6,28 +6,32 @@ pronunciation: aw-tsale'
 definition: indolent
 kjv_usage: slothful, sluggard.
 derivation: from H6101 (עָצַל);
-extended_definition:
-  gloss: sluggish
-  definition: 1) sluggish, lazy<br>1a) sluggard (subst)
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) sluggish, lazy
+
+  1a) sluggard (subst) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7503
-    proximity: 0.8113
+    lemma: רָפָה
+    gloss: to slacken (in many applications {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
   - strongs: H6101
-    proximity: 0.788
+    lemma: עָצַל
+    gloss: to lean idly {openscriptures-strongs}
+    proximity: 0.788 {macula-proximity}
   - strongs: H6103
-    proximity: 0.7337
+    lemma: עַצְלָה
+    gloss: indolence {openscriptures-strongs}
+    proximity: 0.7337 {macula-proximity}
   cross_language:
   - strongs: G3636
-    proximity: 0.7209
+    lemma: ὀκνηρός
+    gloss: tardy {openscriptures-strongs}
+    proximity: 0.7209 {macula-proximity}
     language: greek
   - strongs: G3576
-    proximity: 0.7202
+    lemma: νωθρός
+    gloss: sluggish {openscriptures-strongs}
+    proximity: 0.7202 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

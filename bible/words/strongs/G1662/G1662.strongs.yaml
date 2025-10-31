@@ -5,55 +5,72 @@ transliteration: Eliakeím
 definition: Eliakim, an Israelite
 kjv_usage: Eliakim
 derivation: of Hebrew origin (H0471);
-extended_definition:
-  gloss: Eliakim
-  definition: '<b>Ἐλιακείμ</b>(Heb. אֶלְיָקִים), <BR /> <b>Eliakim, an ancestor of
-    Jesus</b>: <ref=''Mat.1.13''>Mat.1:13</ref>, <ref=''Luk.3.30''>Luk.3:30</ref>.†<BR
-    /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἐλιακείμ</b>(Heb. אֶלְיָקִים), <BR /> <b>Eliakim, an ancestor
-    of Jesus</b>: <ref=''Mat.1.13''>Mat.1:13</ref>, <ref=''Luk.3.30''>Luk.3:30</ref>.†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἐλιακείμ(Heb. אֶלְיָקִים),
+
+  Eliakim, an ancestor of Jesus: Mat.1:13, Luk.3:30.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἐλιακείμ(Heb. אֶלְיָקִים),
+
+  Eliakim, an ancestor of Jesus: Mat.1:13, Luk.3:30.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4948
-    proximity: 0.8289
+    lemma: Σύρος
+    gloss: a Syran {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: G2268
-    proximity: 0.8193
+    lemma: Ἡσαΐας
+    gloss: Hesaias {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: G2069
-    proximity: 0.8139
+    lemma: Ἐσλί
+    gloss: Esli {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: G1666
-    proximity: 0.8139
+    lemma: Ἐλισσαῖος
+    gloss: Elissæus {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: G3517
-    proximity: 0.8139
+    lemma: Νηρεύς
+    gloss: Nereus {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: G3190
-    proximity: 0.8139
+    lemma: Μελεᾶς
+    gloss: Meleas {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: G3774
-    proximity: 0.8139
+    lemma: Οὐρίας
+    gloss: Urias {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: G1663
-    proximity: 0.809
+    lemma: Ἐλιέζερ
+    gloss: Eliezer {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
   cross_language:
   - strongs: H1282
-    proximity: 0.8291
+    lemma: בָּרִיחַ
+    gloss: Bariach {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
     language: hebrew
   - strongs: H7143
-    proximity: 0.8281
+    lemma: קָרֵחַ
+    gloss: Kareach {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: hebrew
   - strongs: H7472
-    proximity: 0.8241
+    lemma: רֵעִי
+    gloss: Rei {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: hebrew
   - strongs: H5901
-    proximity: 0.8241
+    lemma: עִירִי
+    gloss: Iri {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: hebrew
   - strongs: H449
-    proximity: 0.8181
+    proximity: 0.8181 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

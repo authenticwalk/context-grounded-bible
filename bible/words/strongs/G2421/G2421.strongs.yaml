@@ -5,43 +5,46 @@ transliteration: Iessaí
 definition: Jessæ (i.e. Jishai), an Israelite
 kjv_usage: Jesse
 derivation: of Hebrew origin (H03448);
-extended_definition:
-  gloss: Jesse
-  definition: '<b>Ἰεσσαί</b> (FlJ, -σσαῖος), ὁ (Heb. יִשַׁי <ref=''Rut.4.17''>Rut.4:17</ref>,
-    al.) <BR /> <b>Jesse</b>: <ref=''Mat.1.5-6''>Mat.1:5-6</ref>, <ref=''Luk.3.32''>Luk.3:32</ref>,
-    <ref=''Act.13.22''>Act.13:22</ref>" (LXX), <ref=''Rom.15.12''>Rom.15:12</ref>
-    (LXX),†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἰεσσαί</b> (FlJ, -σσαῖος), ὁ (Heb. יִשַׁי <ref=''Rut.4.17''>Rut.4:17</ref>,
-    al.) <BR /> <b>Jesse</b>: <ref=''Mat.1.5-6''>Mat.1:5-6</ref>, <ref=''Luk.3.32''>Luk.3:32</ref>,
-    <ref=''Act.13.22''>Act.13:22</ref>" (LXX), <ref=''Rom.15.12''>Rom.15:12</ref>
-    (LXX),†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἰεσσαί (FlJ, -σσαῖος), ὁ (Heb. יִשַׁי Rut.4:17, al.)
+
+  Jesse: Mat.1:5-6, Luk.3:32, Act.13:22" (LXX), Rom.15:12 (LXX),†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἰεσσαί (FlJ, -σσαῖος), ὁ (Heb. יִשַׁי Rut.4:17, al.)
+
+  Jesse: Mat.1:5-6, Luk.3:32, Act.13:22" (LXX), Rom.15:12 (LXX),†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3588
-    proximity: 0.8291
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   cross_language:
   - strongs: H3449
-    proximity: 0.8154
+    lemma: יִשִּׁיָּה
+    gloss: Jishshijah {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
     language: hebrew
   - strongs: H1020
-    proximity: 0.8138
+    lemma: בֵּית הַיְשִׁימוֹת
+    gloss: Beth-ha-Jeshimoth {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
     language: hebrew
   - strongs: H3168
-    proximity: 0.8009
+    lemma: יְחֶזְקֵאל
+    gloss: Jechezkel {openscriptures-strongs}
+    proximity: 0.8009 {macula-proximity}
     language: hebrew
   - strongs: H3169
-    proximity: 0.7901
+    lemma: יְחִזְקִיָּה
+    gloss: Jechizkijah {openscriptures-strongs}
+    proximity: 0.7901 {macula-proximity}
     language: hebrew
   - strongs: H3450
-    proximity: 0.7479
+    lemma: יְשִׁימָאֵל
+    gloss: Jesimael {openscriptures-strongs}
+    proximity: 0.7479 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

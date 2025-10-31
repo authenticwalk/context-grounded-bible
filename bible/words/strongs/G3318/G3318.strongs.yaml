@@ -6,34 +6,34 @@ definition: Mesopotamia (as lying between the Euphrates and the Tigris; compare 
   a region of Asia
 kjv_usage: Mesopotamia
 derivation: from G3319 (μέσος) and G4215 (ποταμός);
-extended_definition:
-  gloss: Mesopotamia
-  definition: '<b>Μεσοποταμία</b>, -ας, ἡ (sc. χώρα) <BR /> <b>Mesopotamia</b>: <ref=''Act.2.9;
-    7.2''>Act.2:9 7:2</ref>.†<BR /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Μεσοποταμία</b>, -ας, ἡ (sc. χώρα) <BR /> <b>Mesopotamia</b>:
-    <ref=''Act.2.9; 7.2''>Act.2:9 7:2</ref>.†<BR />  (From Abbott-Smith. LSJ has no
-    entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Μεσοποταμία, -ας, ἡ (sc. χώρα)
+
+  Mesopotamia: Act.2:9 7:2.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Μεσοποταμία, -ας, ἡ (sc. χώρα)
+
+  Mesopotamia: Act.2:9 7:2.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G284
-    proximity: 0.8066
+    proximity: 0.8066 {macula-proximity}
   cross_language:
   - strongs: H5992
-    proximity: 0.8283
+    lemma: עַמִּינָדָב
+    gloss: Amminadab {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
     language: hebrew
   - strongs: H5711
-    proximity: 0.8271
+    lemma: עָדָה
+    gloss: Adah {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: hebrew
   - strongs: H6307
-    proximity: 0.7414
+    lemma: פַּדָּן
+    gloss: Paddan or Paddan-Aram {openscriptures-strongs}
+    proximity: 0.7414 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

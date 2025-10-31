@@ -12,38 +12,53 @@ derivation: by contracted from H7231 (רָבַב);
 related_words:
   synonyms:
   - strongs: H8623
-    proximity: 0.8266
+    lemma: תַּקִּיף
+    gloss: powerful {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: A3493
-    proximity: 0.8244
+    proximity: 0.8244 {macula-proximity}
   - strongs: H5971
-    proximity: 0.8233
+    lemma: עַם
+    gloss: a people {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H2626
-    proximity: 0.8202
+    lemma: חֲסִין
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   - strongs: H7232
-    proximity: 0.8193
+    lemma: רָבַב
+    gloss: to shoot an arrow {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H6471
-    proximity: 0.8187
+    lemma: פַּעַם
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
   - strongs: A8624
-    proximity: 0.8154
+    proximity: 0.8154 {macula-proximity}
   - strongs: H4024a
-    proximity: 0.8126
+    proximity: 0.8126 {macula-proximity}
   cross_language:
   - strongs: G34
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G5234
-    proximity: 0.8281
+    lemma: ὑπερβαλλόντως
+    gloss: excessively {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G1542
-    proximity: 0.8234
+    lemma: ἑκατονταπλασίων
+    gloss: a hundred times {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
     language: greek
   - strongs: G2627
-    proximity: 0.8211
+    lemma: κατακλυσμός
+    gloss: an inundation {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
     language: greek
   - strongs: G3357
-    proximity: 0.8182
+    lemma: μετρίως
+    gloss: moderately {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

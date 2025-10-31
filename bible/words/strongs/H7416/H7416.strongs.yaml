@@ -7,24 +7,25 @@ definition: a pomegranate, the tree (from its upright growth) or the fruit (also
   artificial ornament)
 kjv_usage: pomegranate.
 derivation: or רִמֹּן; from H7426 (רָמַם);
-extended_definition:
-  gloss: pomegranate
-  definition: 1) pomegranate<br>1a) as tree<br>1b) as fruit<br>1c) as pomegranate
-    shaped ornaments in temple
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) pomegranate
+
+  1a) as tree
+
+  1b) as fruit
+
+  1c) as pomegranate shaped ornaments in temple {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A363
-    proximity: 0.8052
+    proximity: 0.8052 {macula-proximity}
   - strongs: H6097
-    proximity: 0.804
+    lemma: עֵצָה
+    gloss: timber {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   cross_language:
   - strongs: G1186
-    proximity: 0.7615
+    lemma: δένδρον
+    gloss: a tree {openscriptures-strongs}
+    proximity: 0.7615 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

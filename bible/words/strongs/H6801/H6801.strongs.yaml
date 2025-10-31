@@ -6,28 +6,26 @@ pronunciation: tsaw-naf'
 definition: to wrap, i.e. roll or dress
 kjv_usage: be attired, [idiom] surely, violently turn.
 derivation: a primitive root;
-extended_definition:
-  gloss: to wrap
-  definition: (Qal) to wrap, wrap or wind up together, wind around
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to wrap, wrap or wind up together, wind around {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H156
-    proximity: 0.8236
+    proximity: 0.8236 {macula-proximity}
   - strongs: H1563
-    proximity: 0.7729
+    lemma: גָּלַם
+    gloss: to fold {openscriptures-strongs}
+    proximity: 0.7729 {macula-proximity}
   - strongs: H7088
-    proximity: 0.7454
+    lemma: קָפַד
+    gloss: to contract {openscriptures-strongs}
+    proximity: 0.7454 {macula-proximity}
   cross_language:
   - strongs: G417
-    proximity: 0.801
+    proximity: 0.801 {macula-proximity}
     language: greek
   - strongs: G1667
-    proximity: 0.7215
+    lemma: ἑλίσσω
+    gloss: to coil or wrap {openscriptures-strongs}
+    proximity: 0.7215 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -9,50 +9,73 @@ definition: to fix upon (by agreement or appointment); by implication, to meet (
 kjv_usage: agree,(maxke an) appoint(-ment, a time), assemble (selves), betroth, gather
   (selves, together), meet (together), set (a time).
 derivation: a primitive root;
-extended_definition:
-  gloss: to appoint
-  definition: 1) to fix, appoint, assemble, meet, set, betroth<br>1a)(Qal) to appoint,
-    assign, designate<br>1b) (Niphal)<br>1b1) to meet<br>1b2) to meet by appointment<br>1b3)
-    to gather, assemble by appointment<br>1c) (Hiphil) to cause to meet<br>1d) (Hophal)
-    to be set, be placed before, be fixed
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to fix, appoint, assemble, meet, set, betroth
+
+  1a)(Qal) to appoint, assign, designate
+
+  1b) (Niphal)
+
+  1b1) to meet
+
+  1b2) to meet by appointment
+
+  1b3) to gather, assemble by appointment
+
+  1c) (Hiphil) to cause to meet
+
+  1d) (Hophal) to be set, be placed before, be fixed {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6116
-    proximity: 0.826
+    lemma: עֲצָרָה
+    gloss: an assembly {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
   - strongs: H6899
-    proximity: 0.8255
+    lemma: קִבּוּץ
+    gloss: a throng {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: A4483
-    proximity: 0.8233
+    proximity: 0.8233 {macula-proximity}
   - strongs: H5596
-    proximity: 0.8195
+    lemma: סָפַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H2841
-    proximity: 0.8195
+    lemma: חַשְׁרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H3162a
-    proximity: 0.8118
+    proximity: 0.8118 {macula-proximity}
   - strongs: H2266
-    proximity: 0.803
+    lemma: חָבַר
+    gloss: to join {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
   - strongs: H413
-    proximity: 0.8006
+    proximity: 0.8006 {macula-proximity}
   cross_language:
   - strongs: G4400
-    proximity: 0.8193
+    lemma: προχειρίζομαι
+    gloss: to handle for oneself in advance {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
     language: greek
   - strongs: G5021
-    proximity: 0.8163
+    lemma: τάσσω
+    gloss: to arrange in an orderly manner {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
     language: greek
   - strongs: G5500
-    proximity: 0.8161
+    lemma: χειροτονέω
+    gloss: to be a hand-reacher or voter {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
     language: greek
   - strongs: G4934
-    proximity: 0.8152
+    lemma: συντίθεμαι
+    gloss: to place jointly {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
     language: greek
   - strongs: G4314
-    proximity: 0.8124
+    lemma: πρός
+    gloss: a preposition of direction {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

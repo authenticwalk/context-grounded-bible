@@ -6,51 +6,55 @@ pronunciation: gay
 definition: this
 kjv_usage: this.
 derivation: probably a clerical error for H2088 (זֶה);
-extended_definition:
-  gloss: this
-  definition: 'this, such<BR>Aramaic equivalent: <i>da</i> (דָּא "this" H1668)'
-  morphology: H:DemP
-  source: STEPBible/BDB
+extended_definition: 'this, such
+
+  Aramaic equivalent: da (דָּא "this" H1668) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2050b
-    proximity: 0.8295
+    proximity: 0.8295 {macula-proximity}
   - strongs: H3509a
-    proximity: 0.8289
+    proximity: 0.8289 {macula-proximity}
   - strongs: A1668
-    proximity: 0.8198
+    proximity: 0.8198 {macula-proximity}
   - strongs: H1931a
-    proximity: 0.8098
+    proximity: 0.8098 {macula-proximity}
   - strongs: H3963a
-    proximity: 0.8083
+    proximity: 0.8083 {macula-proximity}
   - strongs: H1930a
-    proximity: 0.8046
+    proximity: 0.8046 {macula-proximity}
   - strongs: H5105b
-    proximity: 0.7976
+    proximity: 0.7976 {macula-proximity}
   - strongs: H2050c
-    proximity: 0.7952
+    proximity: 0.7952 {macula-proximity}
   - strongs: H2004
-    proximity: 0.7946
+    lemma: הֵן
+    gloss: they {openscriptures-strongs}
+    proximity: 0.7946 {macula-proximity}
   - strongs: A1b
-    proximity: 0.7898
+    proximity: 0.7898 {macula-proximity}
   cross_language:
   - strongs: G3779
-    proximity: 0.8298
+    lemma: οὕτω
+    gloss: in this way {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G5118
-    proximity: 0.8291
+    lemma: τοσοῦτος
+    gloss: apparently from G3588  and G3739 ) and G3778 {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
     language: greek
   - strongs: G2077
-    proximity: 0.8063
+    lemma: ἔστω
+    gloss: be thou {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
     language: greek
   - strongs: G846
-    proximity: 0.7987
+    proximity: 0.7987 {macula-proximity}
     language: greek
   - strongs: G5602
-    proximity: 0.7963
+    lemma: ὧδε
+    gloss: in this same spot {openscriptures-strongs}
+    proximity: 0.7963 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

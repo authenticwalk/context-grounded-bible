@@ -7,45 +7,56 @@ definition: properly, to shear off; but used only in the (figuratively) sense of
   rapidly
 kjv_usage: bring, cut off.
 derivation: a primitive root (compare H1494 (גַּזָז));
-extended_definition:
-  gloss: to cut off
-  definition: 1) to pass over, pass away<br>1a) (Qal) to pass away (of life)<br>2)
-    (TWOT) to bring, cut off
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to pass over, pass away
+
+  1a) (Qal) to pass away (of life)
+
+  2) (TWOT) to bring, cut off {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8628
-    proximity: 0.8293
+    lemma: תָּקַע
+    gloss: to clatter {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: H5674
-    proximity: 0.8287
+    lemma: עָבַר
+    gloss: to cross over {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H656
-    proximity: 0.8206
+    proximity: 0.8206 {macula-proximity}
   - strongs: H935
-    proximity: 0.819
+    proximity: 0.819 {macula-proximity}
   - strongs: H3288
-    proximity: 0.8176
+    lemma: יְעָף
+    gloss: fatigue (adverb {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   - strongs: A858
-    proximity: 0.8043
+    proximity: 0.8043 {macula-proximity}
   - strongs: H235
-    proximity: 0.8037
+    proximity: 0.8037 {macula-proximity}
   - strongs: H5398
-    proximity: 0.7784
+    lemma: נָשַׁף
+    gloss: to breeze {openscriptures-strongs}
+    proximity: 0.7784 {macula-proximity}
   cross_language:
   - strongs: G3855
-    proximity: 0.829
+    lemma: παράγω
+    gloss: to lead near {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G3928
-    proximity: 0.8239
+    lemma: παρέρχομαι
+    gloss: to come near or aside {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G1521
-    proximity: 0.8143
+    lemma: εἰσάγω
+    gloss: to introduce {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
     language: greek
   - strongs: G4154
-    proximity: 0.7627
+    lemma: πνέω
+    gloss: to breathe hard {openscriptures-strongs}
+    proximity: 0.7627 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

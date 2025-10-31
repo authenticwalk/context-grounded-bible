@@ -6,35 +6,40 @@ pronunciation: taw-rad'
 definition: to drive on; figuratively, to follow close
 kjv_usage: continual.
 derivation: a primitive root;
-extended_definition:
-  gloss: to pursue
-  definition: '1) to pursue, chase, be continuous<br>1a) (Qal) dripping (participle)<BR>Aramaic
-    equivalent: <i>te.rad</i> (טְרַד "to chase away" H2957)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to pursue, chase, be continuous
+
+  1a) (Qal) dripping (participle)
+
+  Aramaic equivalent: te.rad (טְרַד "to chase away" H2957) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8548
-    proximity: 0.8115
+    lemma: תָּמִיד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
   - strongs: H1811
-    proximity: 0.8078
+    lemma: דָּלַף
+    gloss: to drip {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   - strongs: H1820
-    proximity: 0.7708
+    lemma: דָּמָה
+    gloss: to be dumb or silent {openscriptures-strongs}
+    proximity: 0.7708 {macula-proximity}
   cross_language:
   - strongs: G1961
-    proximity: 0.8291
+    lemma: ἐπιμένω
+    gloss: to stay over {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
     language: greek
   - strongs: G562
-    proximity: 0.8111
+    proximity: 0.8111 {macula-proximity}
     language: greek
   - strongs: G88
-    proximity: 0.7928
+    proximity: 0.7928 {macula-proximity}
     language: greek
   - strongs: G1257
-    proximity: 0.7296
+    lemma: διαλείπω
+    gloss: to leave off in the middle {openscriptures-strongs}
+    proximity: 0.7296 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

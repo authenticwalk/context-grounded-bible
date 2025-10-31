@@ -6,46 +6,63 @@ pronunciation: aw-shan'
 definition: to smoke, whether literal or figurative
 kjv_usage: be angry (be on a) smoke.
 derivation: a primitive root;
-extended_definition:
-  gloss: be angry
-  definition: 1) to smoke, be angry, be wroth<br>1a) (Qal)<br>1a1) to smoke<br>1a2)
-    to fume, be wroth, be furious
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to smoke, be angry, be wroth
+
+  1a) (Qal)
+
+  1a1) to smoke
+
+  1a2) to fume, be wroth, be furious {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H871a
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
   - strongs: H2787
-    proximity: 0.8279
+    lemma: חָרַר
+    gloss: to glow {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: H750
-    proximity: 0.827
+    proximity: 0.827 {macula-proximity}
   - strongs: H2194
-    proximity: 0.8249
+    lemma: זָעַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
   - strongs: H2534
-    proximity: 0.8219
+    lemma: חֵמָה
+    gloss: heat {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: H6919
-    proximity: 0.8213
+    lemma: קָדַח
+    gloss: to inflame {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
   - strongs: H3350
-    proximity: 0.8183
+    lemma: יְקוֹד
+    gloss: a burning {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: H7110
-    proximity: 0.8114
+    lemma: קֶצֶף
+    gloss: a splinter {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
   - strongs: H3857
-    proximity: 0.8045
+    lemma: לָהַט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
   - strongs: H3707
-    proximity: 0.8042
+    lemma: כַּעַס
+    gloss: to trouble {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   cross_language:
   - strongs: G3949
-    proximity: 0.8285
+    lemma: παροργίζω
+    gloss: to anger alongside {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G2618
-    proximity: 0.8258
+    lemma: κατακαίω
+    gloss: to burn down {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G822
-    proximity: 0.8098
+    proximity: 0.8098 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

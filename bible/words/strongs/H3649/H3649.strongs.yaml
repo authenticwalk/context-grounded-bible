@@ -7,43 +7,57 @@ definition: properly, an ascetic (as if shrunk with self-maceration), i.e. an id
   priest (only in plural)
 kjv_usage: Chemarims (idolatrous) priests.
 derivation: from H3648 (כָּמַר);
-extended_definition:
-  gloss: pagan priest
-  definition: priest, idolatrous priest
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: priest, idolatrous priest {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6459
-    proximity: 0.8297
+    lemma: פֶּסֶל
+    gloss: an idol {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: H3550
-    proximity: 0.8273
+    lemma: כְּהֻנָּה
+    gloss: priesthood {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
   - strongs: H6091
-    proximity: 0.8238
+    lemma: עָצָב
+    gloss: an  image {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H5695
-    proximity: 0.8169
+    lemma: עֵגֶל
+    gloss: a  calf {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: H1544
-    proximity: 0.8098
+    lemma: גִּלּוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
   - strongs: H3547
-    proximity: 0.7574
+    lemma: כָּהַן
+    gloss: to officiate as a priest {openscriptures-strongs}
+    proximity: 0.7574 {macula-proximity}
   cross_language:
   - strongs: G3448
-    proximity: 0.8287
+    lemma: μόσχος
+    gloss: a young bullock {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G1495
-    proximity: 0.8166
+    lemma: εἰδωλολατρεία
+    gloss: image-worship {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
     language: greek
   - strongs: G2405
-    proximity: 0.8146
+    lemma: ἱερατεία
+    gloss: priestliness {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
     language: greek
   - strongs: G2407
-    proximity: 0.7953
+    lemma: ἱερατεύω
+    gloss: to be a priest {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
     language: greek
   - strongs: G1497
-    proximity: 0.7938
+    lemma: εἴδωλον
+    gloss: an image {openscriptures-strongs}
+    proximity: 0.7938 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

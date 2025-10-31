@@ -5,56 +5,70 @@ transliteration: symmimētḗs
 definition: a co-imitator, i.e. fellow votary
 kjv_usage: follower together
 derivation: from a presumed compound of G4862 (σύν) and G3401 (μιμέομαι);
-extended_definition:
-  gloss: co-imitator
-  definition: '<b>συν-μιμητής (Rec. συμμ-), -οῦ, ὁ </b><BR /> <b>a fellow-imitator</b>:
-    with genitive obj., <ref=''Php.3.17''>Php.3:17</ref> (see <i>ICC</i>, in l). Not
-    elsewhere.†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> συμμῑμ-ητής</b>, οῦ, ὁ, <br /> <b>joint imitator,</b> [<a href="javascript:void(0)"
-    title="NT.Phil.3.17. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'συν-μιμητής (Rec. συμμ-), -οῦ, ὁ
+
+  a fellow-imitator: with genitive obj., Php.3:17 (see ICC, in l). Not elsewhere.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συμμῑμ-ητής, οῦ, ὁ,
+
+  joint imitator, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3891
-    proximity: 0.8296
+    lemma: παρανομέω
+    gloss: to be opposed to law {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: G3544
-    proximity: 0.8263
+    lemma: νομικός
+    gloss: according  to law {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: G4160
-    proximity: 0.8092
+    lemma: ποιέω
+    gloss: to make or do (in a very wide application {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: G4345
-    proximity: 0.8091
+    lemma: προσκληρόω
+    gloss: to give a common lot to {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
   - strongs: G1096
-    proximity: 0.8071
+    lemma: γίνομαι
+    gloss: to cause to be {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
   - strongs: G4347
-    proximity: 0.7974
+    lemma: προσκολλάω
+    gloss: to glue to {openscriptures-strongs}
+    proximity: 0.7974 {macula-proximity}
   - strongs: G2596
-    proximity: 0.7942
+    lemma: κατά
+    gloss: down {openscriptures-strongs}
+    proximity: 0.7942 {macula-proximity}
   - strongs: G190
-    proximity: 0.7929
+    proximity: 0.7929 {macula-proximity}
   - strongs: G3666
-    proximity: 0.7718
+    lemma: ὁμοιόω
+    gloss: to assimilate {openscriptures-strongs}
+    proximity: 0.7718 {macula-proximity}
   cross_language:
   - strongs: H1870
-    proximity: 0.8297
+    lemma: דֶּרֶךְ
+    gloss: a road {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: hebrew
   - strongs: H1980
-    proximity: 0.7885
+    lemma: הָלַךְ
+    gloss: to walk (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
     language: hebrew
   - strongs: H6213
-    proximity: 0.7786
+    lemma: עָשָׂה
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.7786 {macula-proximity}
     language: hebrew
   - strongs: H3509a
-    proximity: 0.7757
+    proximity: 0.7757 {macula-proximity}
     language: hebrew
   - strongs: H310
-    proximity: 0.7752
+    proximity: 0.7752 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,46 +7,59 @@ definition: ten (only in combination), i.e. -teen; also (ordinal) -teenth
 kjv_usage: (eigh-, fif-, four-, nine-, seven-, six-, thir-) teen(-th), [phrase] eleven(-th),
   [phrase] sixscore thousand, [phrase] twelve(-th).
 derivation: for H6235 (עֶשֶׂר);
-extended_definition:
-  gloss: ten
-  definition: 1) ten, -teen (in combination with other numbers)<br>1a) used only in
-    combination to make the numbers 11-19
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: '1) ten, -teen (in combination with other numbers)
+
+  1a) used only in combination to make the numbers 11-19 {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8145
-    proximity: 0.8269
+    lemma: שֵׁנִי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: H2050b
-    proximity: 0.8236
+    proximity: 0.8236 {macula-proximity}
   - strongs: H6241
-    proximity: 0.8213
+    lemma: עִשָּׂרוֹן
+    gloss: a tenth part {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
   - strongs: H6224
-    proximity: 0.8146
+    lemma: עֲשִׂירִי
+    gloss: tenth {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
   - strongs: H8066
-    proximity: 0.8137
+    lemma: שְׁמִינִי
+    gloss: eight {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   - strongs: H2549
-    proximity: 0.8113
+    lemma: חֲמִישִׁי
+    gloss: fifth {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
   - strongs: A8361
-    proximity: 0.8099
+    proximity: 0.8099 {macula-proximity}
   cross_language:
   - strongs: G4002
-    proximity: 0.828
+    lemma: πέντε
+    gloss: '"five" {openscriptures-strongs}'
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G3589
-    proximity: 0.8266
+    lemma: ὀγδοήκοντα
+    gloss: ten times eight {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
     language: greek
   - strongs: G5144
-    proximity: 0.8235
+    lemma: τριάκοντα
+    gloss: thirty {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: greek
   - strongs: G3463
-    proximity: 0.8215
+    lemma: μύριοι
+    gloss: ten thousand {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
     language: greek
   - strongs: G1182
-    proximity: 0.8209
+    lemma: δέκατος
+    gloss: tenth {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

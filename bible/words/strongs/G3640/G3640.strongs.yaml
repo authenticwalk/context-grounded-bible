@@ -5,58 +5,74 @@ transliteration: oligópistos
 definition: incredulous, i.e. lacking confidence (in Christ)
 kjv_usage: of little faith
 derivation: from G3641 (ὀλίγος) and G4102 (πίστις);
-extended_definition:
-  gloss: of little faith
-  definition: '<b>ὀλιγό-πιστος</b>, -ον <BR /> <b>of little faith or trust</b>: <ref=''Mat.6.30;
-    8.26; 14.31; 16.8''>Mat.6:30 8:26 14:31 16:8</ref>, <ref=''Luk.12.28''>Luk.12:28</ref>.†<BR
-    /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ὀλῐγό-πιστος</b>, ον, <br /> <b>of little faith,</b> [<a href="javascript:void(0)"
-    title="NT.Matt.8.26, +others, Sextus Pythagoreus “Sent.” 6. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ὀλιγό-πιστος, -ον
+
+  of little faith or trust: Mat.6:30 8:26 14:31 16:8, Luk.12:28.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὀλῐγό-πιστος, ον,
+
+  of little faith, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G117
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
   - strongs: G5268
-    proximity: 0.8218
+    lemma: ὑποζύγιον
+    gloss: an animal under the yoke {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: G3609
-    proximity: 0.8207
+    lemma: οἰκεῖος
+    gloss: domestic {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: G5040
-    proximity: 0.8104
+    lemma: τεκνίον
+    gloss: an infant {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
   - strongs: G4104
-    proximity: 0.8053
+    lemma: πιστόω
+    gloss: to assure {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: G974
-    proximity: 0.803
+    proximity: 0.803 {macula-proximity}
   - strongs: G3519
-    proximity: 0.7868
+    lemma: νησίον
+    gloss: an islet {openscriptures-strongs}
+    proximity: 0.7868 {macula-proximity}
   - strongs: G2365
-    proximity: 0.781
+    lemma: θυγάτριον
+    gloss: a daughterling {openscriptures-strongs}
+    proximity: 0.781 {macula-proximity}
   - strongs: G3398
-    proximity: 0.7584
+    lemma: μικρός
+    gloss: small (in size {openscriptures-strongs}
+    proximity: 0.7584 {macula-proximity}
   - strongs: G1647
-    proximity: 0.757
+    lemma: ἐλαχιστότερος
+    gloss: far less {openscriptures-strongs}
+    proximity: 0.757 {macula-proximity}
   cross_language:
   - strongs: H6996a
-    proximity: 0.8231
+    proximity: 0.8231 {macula-proximity}
     language: hebrew
   - strongs: H2191
-    proximity: 0.8059
+    lemma: זְעֵיר
+    gloss: small {openscriptures-strongs}
+    proximity: 0.8059 {macula-proximity}
     language: hebrew
   - strongs: H2835
-    proximity: 0.7999
+    lemma: חָשִׂף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
     language: hebrew
   - strongs: H6995
-    proximity: 0.7987
+    lemma: קֹטֶן
+    gloss: a pettiness {openscriptures-strongs}
+    proximity: 0.7987 {macula-proximity}
     language: hebrew
   - strongs: H6996
-    proximity: 0.7984
+    lemma: קָטָן
+    gloss: abbreviated {openscriptures-strongs}
+    proximity: 0.7984 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

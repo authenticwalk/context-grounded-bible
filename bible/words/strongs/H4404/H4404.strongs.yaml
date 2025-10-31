@@ -6,24 +6,25 @@ pronunciation: mal-bane'
 definition: a brickkiln
 kjv_usage: brickkiln.
 derivation: from H3835 (לָבַן) (denominative);
-extended_definition:
-  gloss: brick
-  definition: 1) brick mold, brick kiln, quadrangle<br>1a) brick mould, brick kiln<br>1b)
-    quadrangle
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) brick mold, brick kiln, quadrangle
+
+  1a) brick mould, brick kiln
+
+  1b) quadrangle {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3835a
-    proximity: 0.8261
+    proximity: 0.8261 {macula-proximity}
   - strongs: H7531
-    proximity: 0.7661
+    lemma: רִצְפָּה
+    gloss: a hot stone {openscriptures-strongs}
+    proximity: 0.7661 {macula-proximity}
   - strongs: H7339
-    proximity: 0.7377
+    lemma: רְחֹב
+    gloss: a width {openscriptures-strongs}
+    proximity: 0.7377 {macula-proximity}
   - strongs: H3843
-    proximity: 0.723
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: לְבֵנָה
+    gloss: a brick {openscriptures-strongs}
+    proximity: 0.723 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

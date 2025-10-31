@@ -5,47 +5,52 @@ transliteration: pithanología
 definition: persuasive language
 kjv_usage: enticing words
 derivation: from a compound of a derivative of G3982 (πείθω) and G3056 (λόγος);
-extended_definition:
-  gloss: persuasive speech
-  definition: '<b>πιθανολογία</b>, -ας, ἡ <BR /> (πιθανός, persuasive, plausible),
-    <BR />in cl. (Plat), <BR /> the use of probable arguments, as opposite to demonstration
-    (ἀπόδειξις); hence, <b>persuasive speech</b>: <ref=''Col.2.4''>Col.2:4</ref> (see
-    <i>ICC</i>, in l).†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> πῐθᾰνο-λογία</b>, ἡ, <br /> <b>use of probable arguments</b>,
-    opposed to demonstration (ἀπόδειξις), [<a href="javascript:void(0)" title=" 5th-6th
-    c.BC: Plato Philosophus “Theaetetus” 162e, cf. NT.Col.2.4, 2nd c.AD: Galenus Medicus
-    17(1).619. ">NT+5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'πιθανολογία, -ας, ἡ
+
+  (πιθανός, persuasive, plausible),
+
+  in cl. (Plat),
+
+  the use of probable arguments, as opposite to demonstration (ἀπόδειξις); hence,
+  persuasive speech: Col.2:4 (see ICC, in l).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'πῐθᾰνο-λογία, ἡ,
+
+  use of probable arguments, opposed to demonstration (ἀπόδειξις), [NT+5th c.BC+]
+  {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3981
-    proximity: 0.7778
+    lemma: πειθός
+    gloss: persuasive {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   - strongs: A3961
-    proximity: 0.7708
+    proximity: 0.7708 {macula-proximity}
   - strongs: G2129
-    proximity: 0.7379
+    lemma: εὐλογία
+    gloss: fine speaking {openscriptures-strongs}
+    proximity: 0.7379 {macula-proximity}
   cross_language:
   - strongs: H565a
-    proximity: 0.8066
+    proximity: 0.8066 {macula-proximity}
     language: hebrew
   - strongs: H8193
-    proximity: 0.806
+    lemma: שָׂפָה
+    gloss: the lip {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
     language: hebrew
   - strongs: H4405
-    proximity: 0.8023
+    lemma: מִלָּה
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
     language: hebrew
   - strongs: H561
-    proximity: 0.7807
+    proximity: 0.7807 {macula-proximity}
     language: hebrew
   - strongs: H3948
-    proximity: 0.7562
+    lemma: לֶקַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7562 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

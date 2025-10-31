@@ -6,48 +6,58 @@ pronunciation: or-maw'
 definition: trickery; or (in a good sense) discretion
 kjv_usage: guile, prudence, subtilty, wilily, wisdom.
 derivation: feminine of H6193 (עֹרֶם);
-extended_definition:
-  gloss: craftiness
-  definition: shrewdness, craftiness, prudence
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: shrewdness, craftiness, prudence {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A999
-    proximity: 0.8279
+    proximity: 0.8279 {macula-proximity}
   - strongs: H4093
-    proximity: 0.8272
+    lemma: מַדָּע
+    gloss: intelligence or consciousness {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: A7924
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
   - strongs: H2450
-    proximity: 0.825
+    lemma: חָכָם
+    gloss: wise {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: A4486
-    proximity: 0.8247
+    proximity: 0.8247 {macula-proximity}
   - strongs: H4860
-    proximity: 0.8168
+    lemma: מַשָּׁאוֹן
+    gloss: dissimulation {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H7922
-    proximity: 0.808
+    lemma: שֶׂכֶל
+    gloss: intelligence {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
   - strongs: H6191
-    proximity: 0.8072
+    lemma: עָרַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
   - strongs: H698
-    proximity: 0.7846
+    proximity: 0.7846 {macula-proximity}
   - strongs: A2452
-    proximity: 0.7739
+    proximity: 0.7739 {macula-proximity}
   cross_language:
   - strongs: G4907
-    proximity: 0.8271
+    lemma: σύνεσις
+    gloss: a mental putting together {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G5428
-    proximity: 0.8186
+    lemma: φρόνησις
+    gloss: mental action or activity {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
     language: greek
   - strongs: G3540
-    proximity: 0.8095
+    lemma: νόημα
+    gloss: a perception {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
     language: greek
   - strongs: G3834
-    proximity: 0.7932
+    lemma: πανουργία
+    gloss: adroitness {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

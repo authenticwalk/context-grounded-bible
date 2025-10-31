@@ -5,61 +5,72 @@ transliteration: heptákis
 definition: seven times
 kjv_usage: seven times
 derivation: adverb from G2033 (ἑπτά);
-extended_definition:
-  gloss: seven times
-  definition: '<b>ἐπτάκις </b><BR /> <i>adv.</i>, <BR /><b>seven times</b>: <ref=''Mat.18.21-22''>Mat.18:21-22</ref>,
-    <ref=''Luk.17.4''>Luk.17:4</ref>.†<BR /> (AS)'
-  morphology: G:ADV
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἑπτάκις</b> [ᾰ], <br /> <i>adverb</i> <b>seven times,</b> [<a
-    href="javascript:void(0)" title=" 5th c.BC: Pindarus Lyricus “O.” 13.40, 5th-6th
-    c.BC: Aristophanes Comicus “Lysistrata” 698, etc.">Refs 5th c.BC+</a>]:— <i>poetry</i>
-    <b>ἑπτάκι</b> [<a href="javascript:void(0)" title=" 4th-5th c.BC: Simonides Lyricus
-    156, 3rd c.BC: Apollonius Rhodius Epicus 3.861, etc.">Refs 4th c.BC+</a>]: also
-    in later Prose, [<a href="javascript:void(0)" title=" “SIG” 1068.8 (Patmos, 3rd-2nd
-    c.BC), 4th c.AD: Iamblichus Philosophus “in Nicomachi arithmeticam introductionem”
-    p.17 ">Refs 3rd c.BC+</a>] P.:—<i>Laconian dialect</i> <b>ἑπτάκιν</b> [<a href="javascript:void(0)"
-    title=" “IG” 5(1).213.16 (5th c.BC). ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐπτάκις
+
+  adv.,
+
+  seven times: Mat.18:21-22, Luk.17:4.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἑπτάκις [ᾰ],
+
+  adverb seven times, [Refs 5th c.BC+]:— poetry ἑπτάκι [Refs 4th c.BC+]: also in later
+  Prose, [Refs 3rd c.BC+] P.:—Laconian dialect ἑπτάκιν [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4178
-    proximity: 0.8232
+    lemma: πολλάκις
+    gloss: many times {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: G530
-    proximity: 0.8163
+    proximity: 0.8163 {macula-proximity}
   - strongs: G4181
-    proximity: 0.804
+    lemma: πολυμερῶς
+    gloss: in many portions {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   - strongs: G2178
-    proximity: 0.7966
+    lemma: ἐφάπαξ
+    gloss: upon one occasion {openscriptures-strongs}
+    proximity: 0.7966 {macula-proximity}
   - strongs: G5550
-    proximity: 0.7946
+    lemma: χρόνος
+    gloss: a space of time (in general {openscriptures-strongs}
+    proximity: 0.7946 {macula-proximity}
   - strongs: G4212
-    proximity: 0.7898
+    lemma: ποσάκις
+    gloss: how many times {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
   - strongs: G5154a
-    proximity: 0.7809
+    proximity: 0.7809 {macula-proximity}
   - strongs: A8579
-    proximity: 0.7665
+    proximity: 0.7665 {macula-proximity}
   - strongs: G1441
-    proximity: 0.7565
+    lemma: ἑβδομηκοντάκις
+    gloss: seventy times {openscriptures-strongs}
+    proximity: 0.7565 {macula-proximity}
   - strongs: G2035
-    proximity: 0.7342
+    lemma: ἑπτακισχίλιοι
+    gloss: seven times a thousand {openscriptures-strongs}
+    proximity: 0.7342 {macula-proximity}
   cross_language:
   - strongs: H7620
-    proximity: 0.803
+    lemma: שָׁבוּעַ
+    gloss: literally {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
     language: hebrew
   - strongs: H7637
-    proximity: 0.7986
+    lemma: שְׁבִיעִי
+    gloss: seventh {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
     language: hebrew
   - strongs: H6471
-    proximity: 0.7947
+    lemma: פַּעַם
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.7947 {macula-proximity}
     language: hebrew
   - strongs: H6256
-    proximity: 0.7806
+    lemma: עֵת
+    gloss: time {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

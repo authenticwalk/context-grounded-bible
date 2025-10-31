@@ -6,42 +6,49 @@ pronunciation: shish-sheem'
 definition: sixty
 kjv_usage: sixty, three score.
 derivation: multiple of H8337 (שֵׁשׁ);
-extended_definition:
-  gloss: sixty
-  definition: 'sixty, three score<BR>Aramaic equivalent: <i>shit.tin</i> (שִׁתִּין
-    "sixty" H8361)'
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: 'sixty, three score
+
+  Aramaic equivalent: shit.tin (שִׁתִּין "sixty" H8361) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A6243
-    proximity: 0.8212
+    proximity: 0.8212 {macula-proximity}
   - strongs: H6235
-    proximity: 0.8152
+    lemma: עֶשֶׂר
+    gloss: ten {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: H1871
-    proximity: 0.8106
+    lemma: דַּרְכְּמוֹן
+    gloss: a 'drachma' {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
   - strongs: A3969
-    proximity: 0.8051
+    proximity: 0.8051 {macula-proximity}
   - strongs: H259
-    proximity: 0.8041
+    proximity: 0.8041 {macula-proximity}
   cross_language:
   - strongs: G4002
-    proximity: 0.83
+    lemma: πέντε
+    gloss: '"five" {openscriptures-strongs}'
+    proximity: 0.83 {macula-proximity}
     language: greek
   - strongs: G5144
-    proximity: 0.8226
+    lemma: τριάκοντα
+    gloss: thirty {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
     language: greek
   - strongs: G5140
-    proximity: 0.813
+    lemma: τρεῖς
+    gloss: '"three" {openscriptures-strongs}'
+    proximity: 0.813 {macula-proximity}
     language: greek
   - strongs: G1427
-    proximity: 0.8112
+    lemma: δώδεκα
+    gloss: two and ten {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
     language: greek
   - strongs: G5071
-    proximity: 0.8099
+    lemma: τετρακόσιοι
+    gloss: four hundred {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

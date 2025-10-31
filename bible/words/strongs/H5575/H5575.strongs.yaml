@@ -6,47 +6,59 @@ pronunciation: san-vare'
 definition: (in plural) blindness
 kjv_usage: blindness.
 derivation: of uncertain derivation;
-extended_definition:
-  gloss: blindness
-  definition: sudden blindness
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: sudden blindness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3974
-    proximity: 0.8193
+    lemma: מָאוֹר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: A5870
-    proximity: 0.8106
+    proximity: 0.8106 {macula-proximity}
   - strongs: H5105
-    proximity: 0.8087
+    lemma: נְהָרָה
+    gloss: daylight {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
   - strongs: H8173
-    proximity: 0.8037
+    lemma: שָׁעַע
+    gloss: to look upon {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
   - strongs: H3543
-    proximity: 0.8032
+    lemma: כָּהָה
+    gloss: to be weak {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
   - strongs: A5094a
-    proximity: 0.7854
+    proximity: 0.7854 {macula-proximity}
   - strongs: H216
-    proximity: 0.7824
+    proximity: 0.7824 {macula-proximity}
   - strongs: H5786
-    proximity: 0.7203
+    lemma: עָוַר
+    gloss: to blind {openscriptures-strongs}
+    proximity: 0.7203 {macula-proximity}
   cross_language:
   - strongs: G5338
-    proximity: 0.8222
+    lemma: φέγγος
+    gloss: brilliancy {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
     language: greek
   - strongs: G3788
-    proximity: 0.819
+    lemma: ὀφθαλμός
+    gloss: the eye {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
     language: greek
   - strongs: G3659
-    proximity: 0.8128
+    lemma: ὄμμα
+    gloss: a sight {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
     language: greek
   - strongs: G5186
-    proximity: 0.7807
+    lemma: τυφλόω
+    gloss: to make blind {openscriptures-strongs}
+    proximity: 0.7807 {macula-proximity}
     language: greek
   - strongs: G5457
-    proximity: 0.7217
+    lemma: φῶς
+    gloss: compare G5316 {openscriptures-strongs}
+    proximity: 0.7217 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

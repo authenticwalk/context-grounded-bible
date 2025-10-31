@@ -6,31 +6,33 @@ pronunciation: kho-thawm'
 definition: a signature-ring
 kjv_usage: seal, signet.
 derivation: or חֹתָם; from H2856 (חָתַם);
-extended_definition:
-  gloss: signet
-  definition: seal, signet, signet-ring
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: seal, signet, signet-ring {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2856
-    proximity: 0.8125
+    lemma: חָתַם
+    gloss: to close up {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: H6603
-    proximity: 0.7985
+    lemma: פִּתּוּחַ
+    gloss: sculpture {openscriptures-strongs}
+    proximity: 0.7985 {macula-proximity}
   - strongs: A2857
-    proximity: 0.7951
+    proximity: 0.7951 {macula-proximity}
   cross_language:
   - strongs: G4742
-    proximity: 0.793
+    lemma: στίγμα
+    gloss: a mark incised or punched {openscriptures-strongs}
+    proximity: 0.793 {macula-proximity}
     language: greek
   - strongs: G5480
-    proximity: 0.7118
+    lemma: χάραγμα
+    gloss: a scratch or etching {openscriptures-strongs}
+    proximity: 0.7118 {macula-proximity}
     language: greek
   - strongs: G4972
-    proximity: 0.708
+    lemma: σφραγίζω
+    gloss: to stamp  for security or preservation {openscriptures-strongs}
+    proximity: 0.708 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

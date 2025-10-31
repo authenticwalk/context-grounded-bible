@@ -6,51 +6,65 @@ pronunciation: yal-dooth'
 definition: boyhood (or girlhood)
 kjv_usage: childhood, youth.
 derivation: abstractly from H3206 (יֶלֶד);
-extended_definition:
-  gloss: youth
-  definition: childhood, youth
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: childhood, youth {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5953b
-    proximity: 0.8245
+    proximity: 0.8245 {macula-proximity}
   - strongs: H6996a
-    proximity: 0.812
+    proximity: 0.812 {macula-proximity}
   - strongs: H667
-    proximity: 0.8085
+    proximity: 0.8085 {macula-proximity}
   - strongs: H1482
-    proximity: 0.8055
+    lemma: גּוּר
+    gloss: a cub {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
   - strongs: H3206
-    proximity: 0.802
+    lemma: יֶלֶד
+    gloss: something born {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
   - strongs: H6810
-    proximity: 0.8002
+    lemma: צָעִיר
+    gloss: little {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: H3715
-    proximity: 0.7976
+    lemma: כְּפִיר
+    gloss: a village {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: H5288
-    proximity: 0.7616
+    lemma: נַעַר
+    gloss: a boy {openscriptures-strongs}
+    proximity: 0.7616 {macula-proximity}
   - strongs: H6082
-    proximity: 0.76
+    lemma: עֹפֶר
+    gloss: a fawn {openscriptures-strongs}
+    proximity: 0.76 {macula-proximity}
   - strongs: H970
-    proximity: 0.7103
+    proximity: 0.7103 {macula-proximity}
   cross_language:
   - strongs: G3812
-    proximity: 0.8283
+    lemma: παιδιόθεν
+    gloss: from infancy {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
     language: greek
   - strongs: G5230
-    proximity: 0.8179
+    lemma: ὑπέρακμος
+    gloss: beyond the "acme" {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
     language: greek
   - strongs: G3512
-    proximity: 0.7346
+    lemma: νεωτερικός
+    gloss: appertaining to younger persons {openscriptures-strongs}
+    proximity: 0.7346 {macula-proximity}
     language: greek
   - strongs: G3495
-    proximity: 0.7143
+    lemma: νεανίσκος
+    gloss: a youth {openscriptures-strongs}
+    proximity: 0.7143 {macula-proximity}
     language: greek
   - strongs: G3501
-    proximity: 0.7015
+    lemma: νέος
+    gloss: '"new" {openscriptures-strongs}'
+    proximity: 0.7015 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

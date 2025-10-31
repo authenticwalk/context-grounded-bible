@@ -6,48 +6,57 @@ pronunciation: meh'-red
 definition: rebellion
 kjv_usage: rebellion.
 derivation: from H4775 (מָרַד);
-extended_definition:
-  gloss: rebellion
-  definition: '1) rebellion, revolt<br>1a) against Jehovah<BR>Aramaic equivalent:
-    <i>me.rad</i> (מְרַד "rebellion" H4776)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) rebellion, revolt
+
+  1a) against Jehovah
+
+  Aramaic equivalent: me.rad (מְרַד "rebellion" H4776) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8266
-    proximity: 0.8247
+    lemma: שָׁקַר
+    gloss: to cheat {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H4603
-    proximity: 0.8233
+    lemma: מָעַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: A1946
-    proximity: 0.8163
+    proximity: 0.8163 {macula-proximity}
   - strongs: H7750a
-    proximity: 0.8161
+    proximity: 0.8161 {macula-proximity}
   - strongs: H8618
-    proximity: 0.8144
+    lemma: תְּקוֹמֵם
+    gloss: an opponent {openscriptures-strongs}
+    proximity: 0.8144 {macula-proximity}
   - strongs: H4808
-    proximity: 0.799
+    lemma: מְרִיבָה
+    gloss: quarrel {openscriptures-strongs}
+    proximity: 0.799 {macula-proximity}
   - strongs: H7285a
-    proximity: 0.7898
+    proximity: 0.7898 {macula-proximity}
   - strongs: H4560
-    proximity: 0.7754
+    lemma: מָסַר
+    gloss: to sunder {openscriptures-strongs}
+    proximity: 0.7754 {macula-proximity}
   cross_language:
   - strongs: G543
-    proximity: 0.8137
+    proximity: 0.8137 {macula-proximity}
     language: greek
   - strongs: G3845
-    proximity: 0.8135
+    lemma: παραβαίνω
+    gloss: to go contrary to {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
     language: greek
   - strongs: G391
-    proximity: 0.8054
+    proximity: 0.8054 {macula-proximity}
     language: greek
   - strongs: G4234
-    proximity: 0.7934
+    lemma: πρᾶξις
+    gloss: practice {openscriptures-strongs}
+    proximity: 0.7934 {macula-proximity}
     language: greek
   - strongs: G72
-    proximity: 0.7869
+    proximity: 0.7869 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

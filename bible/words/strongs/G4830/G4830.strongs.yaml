@@ -5,47 +5,54 @@ transliteration: symmétochos
 definition: a co-participant
 kjv_usage: partaker
 derivation: from G4862 (σύν) and G3353 (μέτοχος);
-extended_definition:
-  gloss: sharer
-  definition: '<b>συν-μέτοχος</b> (Rec. συμμ-), -ον, <BR /> <b>partaking together
-    with</b>; as subst., ὁ σ., <b>a joint partaker </b>(with dative of person(s) and
-    genitive of thing(s), FlJ, BJ, i, 24, 6): with genitive of thing(s), <ref=''Eph.3.6''>Eph.3:6;</ref>
-    with genitive of person(s), <ref=''Eph.5.7''>Eph.5:7</ref> (Arist.).†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συμμέτ-οχος</b>, ον, <br /> <b>partaking with</b> another <b>in</b>
-    a thing, τινί τινος [<a href="javascript:void(0)" title=" 1st c.AD: Josephus Historicus
-    “Bellum Judaicum” 1.24.6, cf. NT.Eph.5.7 ">NT+1st c.AD+</a>]: as <i>substantive</i>,
-    <b>joint owner,</b> [<a href="javascript:void(0)" title=" PLond. 5.1733.52 (6th
-    c.AD). ">Refs 6th c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συν-μέτοχος (Rec. συμμ-), -ον,
+
+  partaking together with; as subst., ὁ σ., a joint partaker (with dative of person(s)
+  and genitive of thing(s), FlJ, BJ, i, 24, 6): with genitive of thing(s), Eph.3:6;
+  with genitive of person(s), Eph.5:7 (Arist.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συμμέτ-οχος, ον,
+
+  partaking with another in a thing, τινί τινος [NT+1st c.AD+]: as substantive, joint
+  owner, [Refs 6th c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4847
-    proximity: 0.8235
+    lemma: συμπολίτης
+    gloss: a native of the same town {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: G4904
-    proximity: 0.8231
+    lemma: συνεργός
+    gloss: a co-laborer {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: G4790
-    proximity: 0.8229
+    lemma: συγκοινωνέω
+    gloss: to share in company with {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: G4805
-    proximity: 0.8181
+    lemma: σύζυγος
+    gloss: co-yoked {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
   - strongs: A2273
-    proximity: 0.8108
+    proximity: 0.8108 {macula-proximity}
   - strongs: G4789
-    proximity: 0.7945
+    lemma: συγκληρονόμος
+    gloss: a co-heir {openscriptures-strongs}
+    proximity: 0.7945 {macula-proximity}
   - strongs: G2841
-    proximity: 0.7662
+    lemma: κοινωνέω
+    gloss: to share with others {openscriptures-strongs}
+    proximity: 0.7662 {macula-proximity}
   cross_language:
   - strongs: H2274
-    proximity: 0.7676
+    lemma: חֶבְרָה
+    gloss: association {openscriptures-strongs}
+    proximity: 0.7676 {macula-proximity}
     language: hebrew
   - strongs: H2270
-    proximity: 0.7624
+    lemma: חָבֵר
+    gloss: an associate {openscriptures-strongs}
+    proximity: 0.7624 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

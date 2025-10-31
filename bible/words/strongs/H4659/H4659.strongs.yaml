@@ -9,36 +9,51 @@ derivation: or (feminine) מִפְעָלָה; from H6466 (פָּעַל);
 related_words:
   synonyms:
   - strongs: H1870
-    proximity: 0.8235
+    lemma: דֶּרֶךְ
+    gloss: a road {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: H6087
-    proximity: 0.8215
+    lemma: עָצַב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H1697
-    proximity: 0.8155
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: A5673
-    proximity: 0.811
+    proximity: 0.811 {macula-proximity}
   - strongs: H814
-    proximity: 0.8106
+    proximity: 0.8106 {macula-proximity}
   - strongs: A5648
-    proximity: 0.7766
+    proximity: 0.7766 {macula-proximity}
   - strongs: H1576
-    proximity: 0.7718
+    lemma: גְּמוּל
+    gloss: treatment {openscriptures-strongs}
+    proximity: 0.7718 {macula-proximity}
   cross_language:
   - strongs: G4903
-    proximity: 0.8297
+    lemma: συνεργέω
+    gloss: to be a fellow-worker {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G4612
-    proximity: 0.8278
+    lemma: σιμικίνθιον
+    gloss: a semicinctium or half-girding {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G4160
-    proximity: 0.8056
+    lemma: ποιέω
+    gloss: to make or do (in a very wide application {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
     language: greek
   - strongs: G4234
-    proximity: 0.7955
+    lemma: πρᾶξις
+    gloss: practice {openscriptures-strongs}
+    proximity: 0.7955 {macula-proximity}
     language: greek
   - strongs: G4161
-    proximity: 0.7902
+    lemma: ποίημα
+    gloss: a product {openscriptures-strongs}
+    proximity: 0.7902 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,36 +6,44 @@ pronunciation: taw-an'
 definition: to load a beast
 kjv_usage: lade.
 derivation: a primitive root;
-extended_definition:
-  gloss: to load
-  definition: (Qal) to load
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to load {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4390
-    proximity: 0.8152
+    lemma: מָלֵא
+    gloss: to fill or  be full of {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: H5187
-    proximity: 0.8
+    lemma: נְטִיל
+    gloss: laden {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: H5375
-    proximity: 0.7725
+    lemma: נָשָׂא
+    gloss: to lift {openscriptures-strongs}
+    proximity: 0.7725 {macula-proximity}
   - strongs: H4392
-    proximity: 0.716
+    lemma: מָלֵא
+    gloss: full  or filling {openscriptures-strongs}
+    proximity: 0.716 {macula-proximity}
   cross_language:
   - strongs: G5412
-    proximity: 0.8286
+    lemma: φορτίζω
+    gloss: to load up (properly {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G1072
-    proximity: 0.8262
+    lemma: γεμίζω
+    gloss: to fill entirely {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
     language: greek
   - strongs: G4134
-    proximity: 0.8244
+    lemma: πλήρης
+    gloss: replete {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: greek
   - strongs: G5413
-    proximity: 0.8131
+    lemma: φορτίον
+    gloss: an invoice {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

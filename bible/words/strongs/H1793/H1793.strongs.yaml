@@ -9,18 +9,21 @@ derivation: from H1792 (דָּכָא);
 related_words:
   synonyms:
   - strongs: H2916
-    proximity: 0.8223
+    lemma: טִיט
+    gloss: mud or clay {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
   - strongs: H1790
-    proximity: 0.811
+    lemma: דַּךְ
+    gloss: crushed {openscriptures-strongs}
+    proximity: 0.811 {macula-proximity}
   - strongs: H2563b
-    proximity: 0.8072
+    proximity: 0.8072 {macula-proximity}
   - strongs: H665
-    proximity: 0.7398
+    proximity: 0.7398 {macula-proximity}
   cross_language:
   - strongs: G5517
-    proximity: 0.7324
+    lemma: χοϊκός
+    gloss: dusty or dirty {openscriptures-strongs}
+    proximity: 0.7324 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

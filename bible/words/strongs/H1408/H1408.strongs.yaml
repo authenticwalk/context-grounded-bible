@@ -6,19 +6,17 @@ pronunciation: gad
 definition: Fortune, a Babylonian deity
 kjv_usage: that troop.
 derivation: a variation of H1409 (גָּד);
-extended_definition:
-  gloss: Fortune
-  definition: <BR> § Gad = "god of fortune"<br> a Babylonian deity<br>
-  morphology: N:N-M-T
-  source: STEPBible/BDB
+extended_definition: '§ Gad = "god of fortune"
+
+  a Babylonian deity {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7622
-    proximity: 0.8099
+    lemma: שְׁבוּת
+    gloss: exile {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
   - strongs: H1409
-    proximity: 0.7042
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: גָּד
+    gloss: fortune {openscriptures-strongs}
+    proximity: 0.7042 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

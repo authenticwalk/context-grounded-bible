@@ -5,42 +5,51 @@ transliteration: Kyría
 definition: Cyria, a Christian woman
 kjv_usage: lady
 derivation: feminine of G2962 (κύριος);
-extended_definition:
-  gloss: lady
-  definition: '<b>κυρία</b><BR /> (Κυρία, T, WH, mg.), -ας, ἡ, [in LXX chiefly for
-    גְּבֶרֶת ;] <BR /><b>a lady</b>: <ref=''2Jn.1''>2Jn.1</ref> Jn 5 (on the interpretation,
-    see <i>ICC</i>, 167 ff.).†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>κυρία</b><BR /> (Κυρία, T, WH, mg.), -ας, ἡ, [in LXX chiefly
-    for גְּבֶרֶת ;] <BR /><b>a lady</b>: <ref=''2Jn.1''>2Jn.1</ref> Jn 5 (on the interpretation,
-    see <i>ICC</i>, 167 ff.).†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'κυρία
+
+  (Κυρία, T, WH, mg.), -ας, ἡ, [in LXX chiefly for גְּבֶרֶת ;]
+
+  a lady: 2Jn.1 Jn 5 (on the interpretation, see ICC, 167 ff.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κυρία
+
+  (Κυρία, T, WH, mg.), -ας, ἡ, [in LXX chiefly for גְּבֶרֶת ;]
+
+  a lady: 2Jn.1 Jn 5 (on the interpretation, see ICC, 167 ff.).†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1052
-    proximity: 0.813
+    lemma: Γαλάτης
+    gloss: a Galatian or inhabitant of Galatia {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
   - strongs: G2453
-    proximity: 0.8116
+    lemma: Ἰουδαῖος
+    gloss: Judæan {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   - strongs: G2451
-    proximity: 0.7841
+    lemma: Ἰουδαϊκός
+    gloss: Judaïc {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
   cross_language:
   - strongs: H2741
-    proximity: 0.8295
+    lemma: חֲרוּפִי
+    gloss: a Charuphite or inhabitant of Charuph {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: hebrew
   - strongs: H406
-    proximity: 0.8279
+    proximity: 0.8279 {macula-proximity}
     language: hebrew
   - strongs: H8282
-    proximity: 0.8105
+    lemma: שָׂרָה
+    gloss: a mistress {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
     language: hebrew
   - strongs: H1404
-    proximity: 0.7712
+    lemma: גְּבֶרֶת
+    gloss: mistress {openscriptures-strongs}
+    proximity: 0.7712 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

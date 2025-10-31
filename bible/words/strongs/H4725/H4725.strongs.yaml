@@ -7,54 +7,81 @@ definition: properly, a standing, i.e. a spot; but used widely of a locality (ge
   or specific); also (figuratively) of a condition (of body or mind)
 kjv_usage: country, [idiom] home, [idiom] open, place, room, space, [idiom] whither(-soever).
 derivation: or מָקֹם; also (feminine) מְקוֹמָה; or מְקֹמָה; from H6965 (קוּם);
-extended_definition:
-  gloss: place
-  definition: 1) standing place, place<br>1a) standing place, station, post, office<br>1b)
-    place, place of human abode<br>1c) city, land, region<br>1d) place, locality,
-    spot<br>1e) space, room, distance<br>1f) region, quarter, direction<br>1g) give
-    place to, instead of
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) standing place, place
+
+  1a) standing place, station, post, office
+
+  1b) place, place of human abode
+
+  1c) city, land, region
+
+  1d) place, locality, spot
+
+  1e) space, room, distance
+
+  1f) region, quarter, direction
+
+  1g) give place to, instead of {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4712
-    proximity: 0.8291
+    lemma: מֵצַר
+    gloss: something tight {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: H4480
-    proximity: 0.8289
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H1508
-    proximity: 0.8286
+    lemma: גִּזְרָה
+    gloss: the figure or person {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: H2088
-    proximity: 0.8285
+    lemma: זֶה
+    gloss: the masculine demonstrative pronoun {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: H3411
-    proximity: 0.8276
+    lemma: יְרֵכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: H3605
-    proximity: 0.8273
+    lemma: כֹּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
   - strongs: A4479
-    proximity: 0.826
+    proximity: 0.826 {macula-proximity}
   - strongs: H4478a
-    proximity: 0.826
+    proximity: 0.826 {macula-proximity}
   - strongs: H1486
-    proximity: 0.8252
+    lemma: גּוֹרָל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
   - strongs: H4707
-    proximity: 0.8238
+    lemma: מִצְפֶּה
+    gloss: an observatory {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   cross_language:
   - strongs: G473
-    proximity: 0.8283
+    proximity: 0.8283 {macula-proximity}
     language: greek
   - strongs: G1691
-    proximity: 0.8278
+    lemma: ἐμέ
+    gloss: me {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G4571
-    proximity: 0.8276
+    lemma: σέ
+    gloss: thee {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: greek
   - strongs: G5383
-    proximity: 0.8272
+    lemma: φιλοπρωτεύω
+    gloss: to be fond of being first {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G4173
-    proximity: 0.8249
+    lemma: πολιτάρχης
+    gloss: a town-officer {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

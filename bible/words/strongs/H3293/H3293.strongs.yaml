@@ -10,22 +10,31 @@ derivation: from an unused root probably meaning to thicken with verdure;
 related_words:
   synonyms:
   - strongs: H7754a
-    proximity: 0.7771
+    proximity: 0.7771 {macula-proximity}
   - strongs: H7754
-    proximity: 0.7771
+    lemma: שׂוֹךְ
+    gloss: a branch {openscriptures-strongs}
+    proximity: 0.7771 {macula-proximity}
   - strongs: H5645
-    proximity: 0.7588
+    lemma: עָב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7588 {macula-proximity}
   - strongs: H3759
-    proximity: 0.7255
+    lemma: כַּרְמֶל
+    gloss: a planted field (garden {openscriptures-strongs}
+    proximity: 0.7255 {macula-proximity}
   - strongs: H2337
-    proximity: 0.7202
+    lemma: חָוָח
+    gloss: a dell or crevice {openscriptures-strongs}
+    proximity: 0.7202 {macula-proximity}
   - strongs: H6086
-    proximity: 0.713
+    lemma: עֵץ
+    gloss: a tree {openscriptures-strongs}
+    proximity: 0.713 {macula-proximity}
   cross_language:
   - strongs: G1186
-    proximity: 0.7392
+    lemma: δένδρον
+    gloss: a tree {openscriptures-strongs}
+    proximity: 0.7392 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

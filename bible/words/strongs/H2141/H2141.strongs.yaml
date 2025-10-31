@@ -6,53 +6,69 @@ pronunciation: zaw-kak'
 definition: to be transparent or clean (phys. or morally)
 kjv_usage: be (make) clean, be pure(-r).
 derivation: a primitive root (compare H2135 (זָכָה));
-extended_definition:
-  gloss: be clean
-  definition: 1) to be pure, be bright, be clean, be bright, clean<br>1a) (Qal)<br>1a1)
-    to be bright, be shining<br>1a2) to be clean, be pure<br>1b) (Hiphil) to cleanse,
-    make cleanse, make clean
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be pure, be bright, be clean, be bright, clean
+
+  1a) (Qal)
+
+  1a1) to be bright, be shining
+
+  1a2) to be clean, be pure
+
+  1b) (Hiphil) to cleanse, make cleanse, make clean {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H925
-    proximity: 0.8289
+    proximity: 0.8289 {macula-proximity}
   - strongs: H2237
-    proximity: 0.8258
+    lemma: זָרַר
+    gloss: perhaps to diffuse {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H5844a
-    proximity: 0.8255
+    proximity: 0.8255 {macula-proximity}
   - strongs: H6188
-    proximity: 0.8097
+    lemma: עָרֵל
+    gloss: to expose or remove the prepuce {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: H4838
-    proximity: 0.8058
+    lemma: מָרַק
+    gloss: to polish {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: A2869
-    proximity: 0.7968
+    proximity: 0.7968 {macula-proximity}
   - strongs: H6292
-    proximity: 0.7876
+    lemma: פִּגּוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7876 {macula-proximity}
   - strongs: H8235
-    proximity: 0.7641
+    lemma: שִׁפְרָה
+    gloss: brightness {openscriptures-strongs}
+    proximity: 0.7641 {macula-proximity}
   - strongs: H6338
-    proximity: 0.7593
+    lemma: פָּזַז
+    gloss: to refine {openscriptures-strongs}
+    proximity: 0.7593 {macula-proximity}
   - strongs: H2892a
-    proximity: 0.7514
+    proximity: 0.7514 {macula-proximity}
   cross_language:
   - strongs: G1245
-    proximity: 0.8282
+    lemma: διακαθαρίζω
+    gloss: to cleanse perfectly {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: greek
   - strongs: G1245a
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
     language: greek
   - strongs: G1505
-    proximity: 0.8102
+    lemma: εἰλικρίνεια
+    gloss: clearness {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
     language: greek
   - strongs: G2839
-    proximity: 0.7943
+    lemma: κοινός
+    gloss: common {openscriptures-strongs}
+    proximity: 0.7943 {macula-proximity}
     language: greek
   - strongs: G55
-    proximity: 0.7752
+    proximity: 0.7752 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,31 +6,38 @@ pronunciation: baw-kaw'
 definition: Baca, a valley in Palestine
 kjv_usage: Baca.
 derivation: from H1058 (בָּכָה), weeping;
-extended_definition:
-  gloss: (Tophet of) Baca
-  definition: Baca = "weeping"<br> a valley in Palestine<BR>Combined with <i>to.phet</i>
-    (תֹּ֫פֶת "Topheth" H8612)
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: 'Baca = "weeping"
+
+  a valley in Palestine
+
+  Combined with to.phet (תֹּ֫פֶת "Topheth" H8612) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1387
-    proximity: 0.8207
+    lemma: גֶּבַע
+    gloss: Geba {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H1811
-    proximity: 0.8049
+    lemma: דָּלַף
+    gloss: to drip {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H4788
-    proximity: 0.7789
+    lemma: מָרוּד
+    gloss: an outcast {openscriptures-strongs}
+    proximity: 0.7789 {macula-proximity}
   - strongs: H1832
-    proximity: 0.7477
+    lemma: דִּמְעָה
+    gloss: weeping {openscriptures-strongs}
+    proximity: 0.7477 {macula-proximity}
   cross_language:
   - strongs: G1058
-    proximity: 0.8259
+    lemma: Γαλλίων
+    gloss: Gallion {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G1144
-    proximity: 0.7327
+    lemma: δάκρυ
+    gloss: a tear {openscriptures-strongs}
+    proximity: 0.7327 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

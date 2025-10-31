@@ -6,45 +6,49 @@ pronunciation: law-hane'
 definition: popularly for if; hence, therefore
 kjv_usage: for them (by mistake for prepositional suffix).
 derivation: from the prepositional prefix meaning to or for and H2005 (הֵן);
-extended_definition:
-  gloss: therefore
-  definition: therefore, on this account
-  morphology: H:Conj
-  source: STEPBible/BDB
+extended_definition: therefore, on this account {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1886d
-    proximity: 0.8286
+    proximity: 0.8286 {macula-proximity}
   - strongs: H1931
-    proximity: 0.8242
+    lemma: הוּא
+    gloss: he {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H5204a
-    proximity: 0.8208
+    proximity: 0.8208 {macula-proximity}
   - strongs: H403a
-    proximity: 0.8188
+    proximity: 0.8188 {macula-proximity}
   - strongs: H834
-    proximity: 0.8046
+    proximity: 0.8046 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.8039
+    proximity: 0.8039 {macula-proximity}
   - strongs: A1768
-    proximity: 0.8006
+    proximity: 0.8006 {macula-proximity}
   cross_language:
   - strongs: G1438
-    proximity: 0.8237
+    lemma: ἑαυτοῦ
+    gloss: him- (her- {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
     language: greek
   - strongs: G5228
-    proximity: 0.8226
+    lemma: ὑπέρ
+    gloss: '"over" {openscriptures-strongs}'
+    proximity: 0.8226 {macula-proximity}
     language: greek
   - strongs: G5213
-    proximity: 0.8194
+    lemma: ὑμῖν
+    gloss: to  you {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G1565
-    proximity: 0.8128
+    lemma: ἐκεῖνος
+    gloss: that one  thing) {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
     language: greek
   - strongs: G1352
-    proximity: 0.8106
+    lemma: διό
+    gloss: through which thing {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,21 +7,21 @@ definition: Binjamin, youngest son of Jacob; also the tribe descended from him, 
   its territory
 kjv_usage: Benjamin.
 derivation: from H1121 (בֵּן) and H3225 (יָמִין); son of (the) right hand;
-extended_definition:
-  gloss: (Gate of) Benjamin
-  definition: <BR> § Benjamin = "son of the right hand"<br> a gate in Jerusalem
-  morphology: N:N-M-P
-  source: STEPBible/BDB
+extended_definition: '§ Benjamin = "son of the right hand"
+
+  a gate in Jerusalem {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4509
-    proximity: 0.7964
+    lemma: מִנְיָמִין
+    gloss: Minjamin {openscriptures-strongs}
+    proximity: 0.7964 {macula-proximity}
   - strongs: H3226
-    proximity: 0.7735
+    lemma: יָמִין
+    gloss: Jamin {openscriptures-strongs}
+    proximity: 0.7735 {macula-proximity}
   - strongs: H3228
-    proximity: 0.7554
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: יְמִינִי
+    gloss: a Jeminite  or descendants of Jamin {openscriptures-strongs}
+    proximity: 0.7554 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

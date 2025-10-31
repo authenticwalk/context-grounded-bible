@@ -7,22 +7,23 @@ definition: a look; hence (figuratively) striking appearance, revelation, or (by
   compact
 kjv_usage: agreement, notable (one), vision.
 derivation: from H2372 (חָזָה);
-extended_definition:
-  gloss: vision
-  definition: 1) vision, conspicuousness<br>1a) vision, oracle of a prophet<br>1a1)
-    agreement<br>1b) conspicuousness in appearance
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) vision, conspicuousness
+
+  1a) vision, oracle of a prophet
+
+  1a1) agreement
+
+  1b) conspicuousness in appearance {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4758
-    proximity: 0.8225
+    lemma: מַרְאֶה
+    gloss: a view {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   cross_language:
   - strongs: G5400
-    proximity: 0.7788
+    lemma: φόβητρον
+    gloss: a frightening thing {openscriptures-strongs}
+    proximity: 0.7788 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

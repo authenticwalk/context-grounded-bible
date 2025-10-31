@@ -6,43 +6,45 @@ pronunciation: raw-faw'
 definition: properly, lax, i.e. (figuratively) a ghost (as dead; in plural only)
 kjv_usage: dead, deceased.
 derivation: from H7495 (רָפָא) in the sense of H7503 (רָפָה);
-extended_definition:
-  gloss: shade
-  definition: ghosts of the dead, shades, spirits
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ghosts of the dead, shades, spirits {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A1b
-    proximity: 0.7981
+    proximity: 0.7981 {macula-proximity}
   - strongs: H7585a
-    proximity: 0.7937
+    proximity: 0.7937 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7819
+    proximity: 0.7819 {macula-proximity}
   - strongs: H178
-    proximity: 0.7343
+    proximity: 0.7343 {macula-proximity}
   - strongs: H4191
-    proximity: 0.7291
+    lemma: מוּת
+    gloss: to die {openscriptures-strongs}
+    proximity: 0.7291 {macula-proximity}
   - strongs: H6757
-    proximity: 0.7194
+    lemma: צַלְמָוֶת
+    gloss: shade of death {openscriptures-strongs}
+    proximity: 0.7194 {macula-proximity}
   cross_language:
   - strongs: G2253
-    proximity: 0.8257
+    lemma: ἡμιθανής
+    gloss: half dead {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G360
-    proximity: 0.7894
+    proximity: 0.7894 {macula-proximity}
     language: greek
   - strongs: G599
-    proximity: 0.7765
+    proximity: 0.7765 {macula-proximity}
     language: greek
   - strongs: G2288
-    proximity: 0.7649
+    lemma: θάνατος
+    gloss: (properly {openscriptures-strongs}
+    proximity: 0.7649 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.7389
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7389 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

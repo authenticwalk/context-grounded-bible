@@ -5,48 +5,56 @@ transliteration: katalalía
 definition: defamation
 kjv_usage: backbiting, evil speaking
 derivation: from G2637 (κατάλαλος);
-extended_definition:
-  gloss: slander
-  definition: '<b>κατα-λαλιά</b>, -ᾶς, ἡ<BR /> (κατάλαλος), [in LXX: <ref=''Wis.1.11''>Wis.1:11</ref>
-    * ;] <BR /><b>evil-speaking, railing</b>: p1., <ref=''2Co.12.20''>2Co.12:20</ref>,
-    <ref=''1Pe.2.1''>1Pe.2:1</ref>.†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> καταλᾰλ-ιά</b>, ἡ, <br /> <b>evil report, slander</b>, [<a href="javascript:void(0)"
-    title=" LXX.Wis.1.11, NT.1Pet.2.1 (_plural_). ">LXX+NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'κατα-λαλιά, -ᾶς, ἡ
+
+  (κατάλαλος), [in LXX: Wis.1:11 * ;]
+
+  evil-speaking, railing: p1., 2Co.12:20, 1Pe.2:1.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'καταλᾰλ-ιά, ἡ,
+
+  evil report, slander, [LXX+NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2560
-    proximity: 0.8038
+    lemma: κακῶς
+    gloss: badly {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
   - strongs: G2046
-    proximity: 0.7947
+    lemma: ἐρέω
+    gloss: an alternate for G2036  in certain tenses {openscriptures-strongs}
+    proximity: 0.7947 {macula-proximity}
   - strongs: G483
-    proximity: 0.7812
+    proximity: 0.7812 {macula-proximity}
   - strongs: G3680
-    proximity: 0.7256
+    lemma: ὀνειδισμός
+    gloss: contumely {openscriptures-strongs}
+    proximity: 0.7256 {macula-proximity}
   - strongs: G987
-    proximity: 0.7072
+    proximity: 0.7072 {macula-proximity}
   cross_language:
   - strongs: H7400
-    proximity: 0.8017
+    lemma: רָכִיל
+    gloss: a scandal-monger {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
     language: hebrew
   - strongs: H1442
-    proximity: 0.7947
+    lemma: גָּדַף
+    gloss: to hack {openscriptures-strongs}
+    proximity: 0.7947 {macula-proximity}
     language: hebrew
   - strongs: H7270
-    proximity: 0.7885
+    lemma: רָגַל
+    gloss: to walk along {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
     language: hebrew
   - strongs: H2950
-    proximity: 0.7879
+    lemma: טָפַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7879 {macula-proximity}
     language: hebrew
   - strongs: H5007a
-    proximity: 0.7645
+    proximity: 0.7645 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

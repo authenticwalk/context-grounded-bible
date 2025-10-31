@@ -10,34 +10,47 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H3576
-    proximity: 0.8124
+    lemma: כָּזַב
+    gloss: to lie {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: H3577
-    proximity: 0.8035
+    lemma: כָּזָב
+    gloss: falsehood {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
   - strongs: H5080
-    proximity: 0.7996
+    lemma: נָדַח
+    gloss: to push off {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
   - strongs: H7686
-    proximity: 0.7938
+    lemma: שָׁגָה
+    gloss: to stray (causatively {openscriptures-strongs}
+    proximity: 0.7938 {macula-proximity}
   - strongs: H8582
-    proximity: 0.7796
+    lemma: תָּעָה
+    gloss: to vacillate {openscriptures-strongs}
+    proximity: 0.7796 {macula-proximity}
   - strongs: H7411a
-    proximity: 0.7181
+    proximity: 0.7181 {macula-proximity}
   cross_language:
   - strongs: G868
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
     language: greek
   - strongs: G3985
-    proximity: 0.8263
+    lemma: πειράζω
+    gloss: to test {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
     language: greek
   - strongs: G3988
-    proximity: 0.8016
+    lemma: πεισμονή
+    gloss: persuadableness {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
     language: greek
   - strongs: G3179
-    proximity: 0.7965
+    lemma: μεθίστημι
+    gloss: to transfer {openscriptures-strongs}
+    proximity: 0.7965 {macula-proximity}
     language: greek
   - strongs: G645
-    proximity: 0.7941
+    proximity: 0.7941 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

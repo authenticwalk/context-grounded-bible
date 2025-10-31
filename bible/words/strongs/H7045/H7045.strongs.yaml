@@ -6,29 +6,27 @@ pronunciation: kel-aw-law'
 definition: vilification
 kjv_usage: (ac-) curse(-d, -ing).
 derivation: from H7043 (קָלַל);
-extended_definition:
-  gloss: curse
-  definition: curse, vilification, execration
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: curse, vilification, execration {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5007a
-    proximity: 0.7983
+    proximity: 0.7983 {macula-proximity}
   - strongs: H1442
-    proximity: 0.7116
+    lemma: גָּדַף
+    gloss: to hack {openscriptures-strongs}
+    proximity: 0.7116 {macula-proximity}
   cross_language:
   - strongs: G3058
-    proximity: 0.7858
+    lemma: λοιδορέω
+    gloss: to reproach {openscriptures-strongs}
+    proximity: 0.7858 {macula-proximity}
     language: greek
   - strongs: G2551
-    proximity: 0.7548
+    lemma: κακολογέω
+    gloss: to revile {openscriptures-strongs}
+    proximity: 0.7548 {macula-proximity}
     language: greek
   - strongs: G332
-    proximity: 0.7365
+    proximity: 0.7365 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,44 +7,62 @@ definition: to undulate (as the earth, the sky, etc.; also a field of grain), pa
   through fear; specifically, to spring (as a locust)
 kjv_usage: make afraid, (re-) move, quake, (make to) shake, (make to) tremble.
 derivation: a primitive root;
-extended_definition:
-  gloss: to shake
-  definition: 1) to quake, shake<br>1a) (Qal) to quake, shake<br>1b) (Niphal) to be
-    made to quake<br>1c)(Hiphil)<br>1c1) to cause to quake<br>1c2) to cause to spring
-    or leap (of horse)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to quake, shake
+
+  1a) (Qal) to quake, shake
+
+  1b) (Niphal) to be made to quake
+
+  1c)(Hiphil)
+
+  1c1) to cause to quake
+
+  1c2) to cause to spring or leap (of horse) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2731
-    proximity: 0.8277
+    lemma: חֲרָדָה
+    gloss: fear {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H1234
-    proximity: 0.8225
+    lemma: בָּקַע
+    gloss: to cleave {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: H2730
-    proximity: 0.817
+    lemma: חָרֵד
+    gloss: fearful {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: H7461a
-    proximity: 0.8161
+    proximity: 0.8161 {macula-proximity}
   - strongs: H5110
-    proximity: 0.8159
+    lemma: נוּד
+    gloss: to nod {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H5568
-    proximity: 0.8133
+    lemma: סָמַר
+    gloss: to be erect {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   - strongs: H6427
-    proximity: 0.8126
+    lemma: פַּלָּצוּת
+    gloss: affright {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
   - strongs: H7363
-    proximity: 0.7902
+    lemma: רָחַף
+    gloss: to brood {openscriptures-strongs}
+    proximity: 0.7902 {macula-proximity}
   - strongs: H926
-    proximity: 0.7897
+    proximity: 0.7897 {macula-proximity}
   - strongs: H2654a
-    proximity: 0.77
+    proximity: 0.77 {macula-proximity}
   cross_language:
   - strongs: G5141
-    proximity: 0.7826
+    lemma: τρέμω
+    gloss: to "tremble" or fear {openscriptures-strongs}
+    proximity: 0.7826 {macula-proximity}
     language: greek
   - strongs: G1790
-    proximity: 0.7607
+    lemma: ἔντρομος
+    gloss: terrified {openscriptures-strongs}
+    proximity: 0.7607 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

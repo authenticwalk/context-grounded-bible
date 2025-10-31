@@ -9,53 +9,109 @@ kjv_usage: '[phrase] advertise, appear, bewray, bring, (carry, lead, go) captive
   captivity), depart, disclose, discover, exile, be gone, open, [idiom] plainly, publish,
   remove, reveal, [idiom] shamelessly, shew, [idiom] surely, tell, uncover.'
 derivation: a primitive root;
-extended_definition:
-  gloss: 'to reveal: remove'
-  definition: ': remove/exile<br>1) to uncover, remove<br>1a) (Qal)<br>1a1) to uncover<br>1a2)
-    to remove, depart<br>1a3) to go into exile<br>1b) (Niphal)<br>1b1) (reflexive)<br>1b1a)
-    to uncover oneself<br>1b1b) to discover or show oneself<br>1b1c) to reveal himself
-    (of God)<br>1b2) (passive)<br>1b2a) to be uncovered<br>1b2b) to be disclosed,
-    be discovered<br>1b2c) to be revealed<br>1b3) to be removed<br>1c) (Piel)<br>1c1)
-    to uncover (nakedness)<br>1c1a) nakedness<br>1c1b) general<br>1c2) to disclose,
-    discover, lay bare<br>1c3) to make known, show, reveal<br>1d) (Pual) to be uncovered<br>1e)
-    (Hiphil) to carry away into exile, take into exile<br>1f) (Hophal) to be taken
-    into exile<br>1g) (Hithpael)<br>1g1) to be uncovered<br>1g2) to reveal oneself'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': remove/exile
+
+  1) to uncover, remove
+
+  1a) (Qal)
+
+  1a1) to uncover
+
+  1a2) to remove, depart
+
+  1a3) to go into exile
+
+  1b) (Niphal)
+
+  1b1) (reflexive)
+
+  1b1a) to uncover oneself
+
+  1b1b) to discover or show oneself
+
+  1b1c) to reveal himself (of God)
+
+  1b2) (passive)
+
+  1b2a) to be uncovered
+
+  1b2b) to be disclosed, be discovered
+
+  1b2c) to be revealed
+
+  1b3) to be removed
+
+  1c) (Piel)
+
+  1c1) to uncover (nakedness)
+
+  1c1a) nakedness
+
+  1c1b) general
+
+  1c2) to disclose, discover, lay bare
+
+  1c3) to make known, show, reveal
+
+  1d) (Pual) to be uncovered
+
+  1e) (Hiphil) to carry away into exile, take into exile
+
+  1f) (Hophal) to be taken into exile
+
+  1g) (Hithpael)
+
+  1g1) to be uncovered
+
+  1g2) to reveal oneself {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5265
-    proximity: 0.8288
+    lemma: נָסַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: H854
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
   - strongs: H3014
-    proximity: 0.8272
+    lemma: יָגָה
+    gloss: to push away {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: H6491
-    proximity: 0.8271
+    lemma: פָּקַח
+    gloss: to open (the senses {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: H4636
-    proximity: 0.8265
+    lemma: מַעֲרֹם
+    gloss: bare {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H7150
-    proximity: 0.8259
+    lemma: קְרִיאָה
+    gloss: a proclamation {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: H2414
-    proximity: 0.8211
+    lemma: חָטַף
+    gloss: to clutch {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
   cross_language:
   - strongs: G455
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G2221
-    proximity: 0.8272
+    lemma: ζωγρέω
+    gloss: to take alive {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G5321
-    proximity: 0.8266
+    lemma: φανέρωσις
+    gloss: exhibition {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
     language: greek
   - strongs: G309
-    proximity: 0.8265
+    proximity: 0.8265 {macula-proximity}
     language: greek
   - strongs: G2192
-    proximity: 0.8254
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

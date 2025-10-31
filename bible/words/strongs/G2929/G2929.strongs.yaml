@@ -5,49 +5,62 @@ transliteration: krystallízō
 definition: to make (i.e. intransitively, resemble) ice ("crystallize")
 kjv_usage: be clear as crystal
 derivation: from G2930 (κρύσταλλος);
-extended_definition:
-  gloss: be clear
-  definition: '<b>κρυσταλλίζω</b><BR /> (κρύσταλλος), <BR /><b>to shine like crystal,
-    be crystal-clear</b>: <ref=''Rev.21.11''>Rev.21:11</ref> (ἅπ, λεγ.).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> κρυσταλλ-ίζω</b>, <br /> <b>to be clear as crystal,</b> [<a
-    href="javascript:void(0)" title=" NT.Rev. 21.11. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'κρυσταλλίζω
+
+  (κρύσταλλος),
+
+  to shine like crystal, be crystal-clear: Rev.21:11 (ἅπ, λεγ.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κρυσταλλ-ίζω,
+
+  to be clear as crystal, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2509
-    proximity: 0.8261
+    lemma: καθάπερ
+    gloss: exactly as {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: G2987
-    proximity: 0.8187
+    lemma: λαμπρότης
+    gloss: brilliancy {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
   - strongs: G5618
-    proximity: 0.8186
+    lemma: ὥσπερ
+    gloss: just as {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: G2531
-    proximity: 0.8115
+    lemma: καθώς
+    gloss: just  as {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
   - strongs: G2505
-    proximity: 0.8024
+    lemma: καθά
+    gloss: according to which things {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: G5619
-    proximity: 0.7995
+    lemma: ὡσπερεί
+    gloss: just as if {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
   cross_language:
   - strongs: H4950
-    proximity: 0.8104
+    lemma: מִשְׁקָע
+    gloss: a settling place {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
     language: hebrew
   - strongs: H688
-    proximity: 0.7881
+    proximity: 0.7881 {macula-proximity}
     language: hebrew
   - strongs: H2137
-    proximity: 0.7613
+    lemma: זְכוּכִית
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7613 {macula-proximity}
     language: hebrew
   - strongs: H925
-    proximity: 0.7612
+    proximity: 0.7612 {macula-proximity}
     language: hebrew
   - strongs: H1378
-    proximity: 0.7077
+    lemma: גָּבִישׁ
+    gloss: crystal {openscriptures-strongs}
+    proximity: 0.7077 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

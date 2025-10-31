@@ -6,45 +6,53 @@ pronunciation: tah-hal-oo-kaw'
 definition: a procession
 kjv_usage: '[idiom] went.'
 derivation: from H1980 (הָלַךְ);
-extended_definition:
-  gloss: procession
-  definition: procession
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: procession {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1869
-    proximity: 0.8272
+    lemma: דָּרַךְ
+    gloss: to tread {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: H935
-    proximity: 0.82
+    proximity: 0.82 {macula-proximity}
   - strongs: H1718
-    proximity: 0.8175
+    lemma: דָּדָה
+    gloss: to walk gently {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
   - strongs: H5674
-    proximity: 0.8105
+    lemma: עָבַר
+    gloss: to cross over {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
   - strongs: A236
-    proximity: 0.7886
+    proximity: 0.7886 {macula-proximity}
   - strongs: H8637
-    proximity: 0.7843
+    lemma: תִּרְגַּל
+    gloss: to cause to walk {openscriptures-strongs}
+    proximity: 0.7843 {macula-proximity}
   - strongs: A1946
-    proximity: 0.7692
+    proximity: 0.7692 {macula-proximity}
   cross_language:
   - strongs: G3596
-    proximity: 0.8278
+    lemma: ὁδοιπορέω
+    gloss: to be a wayfarer {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G565
-    proximity: 0.8193
+    proximity: 0.8193 {macula-proximity}
     language: greek
   - strongs: G1525
-    proximity: 0.8098
+    lemma: εἰσέρχομαι
+    gloss: to enter {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
     language: greek
   - strongs: G1353
-    proximity: 0.8073
+    lemma: διοδεύω
+    gloss: to travel through {openscriptures-strongs}
+    proximity: 0.8073 {macula-proximity}
     language: greek
   - strongs: G4013
-    proximity: 0.8057
+    lemma: περιάγω
+    gloss: to take around {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,47 +7,55 @@ definition: strictly froth at the mouth, i.e. (figuratively) fury (especially of
   displeasure with sin)
 kjv_usage: angry, indignation, rage.
 derivation: from H2194 (זָעַם);
-extended_definition:
-  gloss: indignation
-  definition: anger, indignation
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: anger, indignation {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H367
-    proximity: 0.8271
+    proximity: 0.8271 {macula-proximity}
   - strongs: H750
-    proximity: 0.8183
+    proximity: 0.8183 {macula-proximity}
   - strongs: A7266
-    proximity: 0.7979
+    proximity: 0.7979 {macula-proximity}
   - strongs: H7481a
-    proximity: 0.7775
+    proximity: 0.7775 {macula-proximity}
   - strongs: H2152
-    proximity: 0.758
+    lemma: זַלְעָפָה
+    gloss: a glow {openscriptures-strongs}
+    proximity: 0.758 {macula-proximity}
   - strongs: A7108
-    proximity: 0.7358
+    proximity: 0.7358 {macula-proximity}
   - strongs: H7267
-    proximity: 0.7314
+    lemma: רֹגֶז
+    gloss: commotion {openscriptures-strongs}
+    proximity: 0.7314 {macula-proximity}
   - strongs: H2196
-    proximity: 0.7206
+    lemma: זָעַף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7206 {macula-proximity}
   cross_language:
   - strongs: G5520
-    proximity: 0.8184
+    lemma: χολάω
+    gloss: to be bilious {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
     language: greek
   - strongs: G5433
-    proximity: 0.7938
+    lemma: φρυάσσω
+    gloss: to snort {openscriptures-strongs}
+    proximity: 0.7938 {macula-proximity}
     language: greek
   - strongs: G3949
-    proximity: 0.7742
+    lemma: παροργίζω
+    gloss: to anger alongside {openscriptures-strongs}
+    proximity: 0.7742 {macula-proximity}
     language: greek
   - strongs: G3950
-    proximity: 0.7653
+    lemma: παροργισμός
+    gloss: rage {openscriptures-strongs}
+    proximity: 0.7653 {macula-proximity}
     language: greek
   - strongs: G3710
-    proximity: 0.7541
+    lemma: ὀργίζω
+    gloss: to provoke or enrage {openscriptures-strongs}
+    proximity: 0.7541 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

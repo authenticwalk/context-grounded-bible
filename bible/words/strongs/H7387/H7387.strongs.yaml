@@ -6,48 +6,63 @@ pronunciation: ray-kawm'
 definition: emptily; figuratively (objective) ineffectually, (subjective) undeservedly
 kjv_usage: without cause, empty, in vain, void.
 derivation: from H7386 (רֵיק);
-extended_definition:
-  gloss: emptily
-  definition: 1) vainly, emptily<br>1a) in empty condition, empty, emptily<br>1b)
-    in vain, without effect, vainly
-  morphology: H:Adv
-  source: STEPBible/BDB
+extended_definition: '1) vainly, emptily
+
+  1a) in empty condition, empty, emptily
+
+  1b) in vain, without effect, vainly {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1238
-    proximity: 0.8283
+    lemma: בָּקַק
+    gloss: to pour out {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H4003
-    proximity: 0.8224
+    lemma: מְבוּקָה
+    gloss: emptiness {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
   - strongs: H1891
-    proximity: 0.8193
+    lemma: הָבַל
+    gloss: to be vain in act {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H1238a
-    proximity: 0.7878
+    proximity: 0.7878 {macula-proximity}
   - strongs: H7386
-    proximity: 0.7823
+    lemma: רֵיק
+    gloss: empty {openscriptures-strongs}
+    proximity: 0.7823 {macula-proximity}
   - strongs: H922
-    proximity: 0.7813
+    proximity: 0.7813 {macula-proximity}
   - strongs: H8414
-    proximity: 0.7779
+    lemma: תֹּהוּ
+    gloss: a desolation {openscriptures-strongs}
+    proximity: 0.7779 {macula-proximity}
   - strongs: H7385
-    proximity: 0.7578
+    lemma: רִיק
+    gloss: emptiness {openscriptures-strongs}
+    proximity: 0.7578 {macula-proximity}
   cross_language:
   - strongs: G3153
-    proximity: 0.822
+    lemma: ματαιότης
+    gloss: inutility {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
     language: greek
   - strongs: G3151
-    proximity: 0.8198
+    lemma: ματαιολόγος
+    gloss: an idle  talker {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
     language: greek
   - strongs: G2214a
-    proximity: 0.8179
+    proximity: 0.8179 {macula-proximity}
     language: greek
   - strongs: G1432
-    proximity: 0.8066
+    lemma: δωρεάν
+    gloss: gratuitously {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
     language: greek
   - strongs: G3152
-    proximity: 0.8007
+    lemma: μάταιος
+    gloss: empty {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,38 +6,48 @@ pronunciation: too-feen'
 definition: cookery, i.e. (concretely) a cake
 kjv_usage: baked piece.
 derivation: from H644 (אָפָה);
-extended_definition:
-  gloss: baked
-  definition: 1) broken piece, baked pieces, pieces cooked<br>1a) meaning uncertain
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) broken piece, baked pieces, pieces cooked
+
+  1a) meaning uncertain {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8158
-    proximity: 0.8264
+    lemma: שָׁסַף
+    gloss: to cut in pieces {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H5218a
-    proximity: 0.8182
+    proximity: 0.8182 {macula-proximity}
   - strongs: H7670
-    proximity: 0.8161
+    lemma: שִׁבְרוֹן
+    gloss: rupture {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H2115
-    proximity: 0.8011
+    lemma: זוּר
+    gloss: to press together {openscriptures-strongs}
+    proximity: 0.8011 {macula-proximity}
   - strongs: H3989
-    proximity: 0.8
+    lemma: מַאֲפֶה
+    gloss: something baked {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: H6626
-    proximity: 0.7731
+    lemma: פָּתַת
+    gloss: to open {openscriptures-strongs}
+    proximity: 0.7731 {macula-proximity}
   - strongs: H5746
-    proximity: 0.7386
+    lemma: עוּג
+    gloss: to bake {openscriptures-strongs}
+    proximity: 0.7386 {macula-proximity}
   - strongs: H644
-    proximity: 0.7124
+    proximity: 0.7124 {macula-proximity}
   cross_language:
   - strongs: G4917
-    proximity: 0.7985
+    lemma: συνθλάω
+    gloss: to dash together {openscriptures-strongs}
+    proximity: 0.7985 {macula-proximity}
     language: greek
   - strongs: G4937
-    proximity: 0.7433
+    lemma: συντρίβω
+    gloss: to crush completely {openscriptures-strongs}
+    proximity: 0.7433 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

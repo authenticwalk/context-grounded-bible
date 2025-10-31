@@ -6,35 +6,44 @@ pronunciation: rak
 definition: tender (literally or figuratively); by implication, weak
 kjv_usage: faint((-hearted), soft, tender ((-hearted), one), weak.
 derivation: from H7401 (רָכַךְ);
-extended_definition:
-  gloss: tender
-  definition: 1) tender, soft, delicate, weak<br>1a) tender, delicate (of flesh)<br>1b)
-    weak of heart, timid<br>1c) soft (of words)<br>1c1) gentle words (subst)
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) tender, soft, delicate, weak
+
+  1a) tender, delicate (of flesh)
+
+  1b) weak of heart, timid
+
+  1c) soft (of words)
+
+  1c1) gentle words (subst) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7504
-    proximity: 0.7852
+    lemma: רָפֶה
+    gloss: slack {openscriptures-strongs}
+    proximity: 0.7852 {macula-proximity}
   - strongs: H2523
-    proximity: 0.7651
+    lemma: חַלָּשׁ
+    gloss: frail {openscriptures-strongs}
+    proximity: 0.7651 {macula-proximity}
   - strongs: H6028
-    proximity: 0.741
+    lemma: עָנֹג
+    gloss: luxurious {openscriptures-strongs}
+    proximity: 0.741 {macula-proximity}
   cross_language:
   - strongs: G1167
-    proximity: 0.7887
+    lemma: δειλία
+    gloss: timidity {openscriptures-strongs}
+    proximity: 0.7887 {macula-proximity}
     language: greek
   - strongs: G769
-    proximity: 0.7534
+    proximity: 0.7534 {macula-proximity}
     language: greek
   - strongs: G1933
-    proximity: 0.7521
+    lemma: ἐπιεικής
+    gloss: appropriate {openscriptures-strongs}
+    proximity: 0.7521 {macula-proximity}
     language: greek
   - strongs: G770
-    proximity: 0.7298
+    proximity: 0.7298 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

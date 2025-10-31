@@ -13,38 +13,47 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: A8627
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
   - strongs: A7236
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
   - strongs: H6566
-    proximity: 0.8245
+    lemma: פָּרַשׂ
+    gloss: to break apart {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H5945a
-    proximity: 0.8238
+    proximity: 0.8238 {macula-proximity}
   - strongs: H7613
-    proximity: 0.8234
+    lemma: שְׂאֵת
+    gloss: an elevation or leprous scab {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
   - strongs: A5943
-    proximity: 0.822
+    proximity: 0.822 {macula-proximity}
   - strongs: H5130
-    proximity: 0.8214
+    lemma: נוּף
+    gloss: to quiver (i.e. vibrate up and down {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H3513
-    proximity: 0.8208
+    lemma: כָּבַד
+    gloss: to be heavy {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   cross_language:
   - strongs: G4494
-    proximity: 0.8289
+    lemma: ῥιπίζω
+    gloss: to breeze up {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: greek
   - strongs: G133
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G1804
-    proximity: 0.8256
+    lemma: ἐξαγγέλλω
+    gloss: to publish {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
     language: greek
   - strongs: G456
-    proximity: 0.8253
+    proximity: 0.8253 {macula-proximity}
     language: greek
   - strongs: G399
-    proximity: 0.8214
+    proximity: 0.8214 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,29 +6,33 @@ pronunciation: khats-o-tser-aw'
 definition: a trumpet (from its sundered or quavering note)
 kjv_usage: trumpet(-er).
 derivation: by reduplication from H2690 (חָצַר);
-extended_definition:
-  gloss: trumpet
-  definition: trumpet, clarion
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: trumpet, clarion {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7161
-    proximity: 0.7949
+    lemma: קֶרֶן
+    gloss: a horn {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
   - strongs: H8628
-    proximity: 0.7641
+    lemma: תָּקַע
+    gloss: to clatter {openscriptures-strongs}
+    proximity: 0.7641 {macula-proximity}
   - strongs: H8643
-    proximity: 0.749
+    lemma: תְּרוּעָה
+    gloss: clamor {openscriptures-strongs}
+    proximity: 0.749 {macula-proximity}
   - strongs: H3104
-    proximity: 0.7298
+    lemma: יוֹבֵל
+    gloss: the blast of a horn {openscriptures-strongs}
+    proximity: 0.7298 {macula-proximity}
   - strongs: H8629
-    proximity: 0.7143
+    lemma: תֵּקַע
+    gloss: a blast of a trumpet {openscriptures-strongs}
+    proximity: 0.7143 {macula-proximity}
   cross_language:
   - strongs: G2768
-    proximity: 0.7931
+    lemma: κέρας
+    gloss: a horn {openscriptures-strongs}
+    proximity: 0.7931 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

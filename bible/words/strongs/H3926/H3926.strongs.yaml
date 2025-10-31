@@ -6,49 +6,62 @@ pronunciation: lem-o'
 definition: to or for
 kjv_usage: at, for, to, upon.
 derivation: a prolonged and separable form of the prepositional prefix;
-extended_definition:
-  gloss: upon
-  definition: 1) at, to, for, in, of, by, in reference to<br>1a) poetic form of inseparable
-    preposition
-  morphology: H:Prep
-  source: STEPBible/BDB
+extended_definition: '1) at, to, for, in, of, by, in reference to
+
+  1a) poetic form of inseparable preposition {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4480
-    proximity: 0.8294
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: H3588
-    proximity: 0.8255
+    lemma: כִּי
+    gloss: very widely used as a relative conjunction or adverb {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: H8432
-    proximity: 0.8222
+    lemma: תָּוֶךְ
+    gloss: a bisection {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H5978
-    proximity: 0.8206
+    lemma: עִמָּד
+    gloss: along with {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: H6310
-    proximity: 0.8193
+    lemma: פֶּה
+    gloss: the mouth {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: A997
-    proximity: 0.8188
+    proximity: 0.8188 {macula-proximity}
   - strongs: H5704
-    proximity: 0.8185
+    lemma: עַד
+    gloss: as far (or long {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: H2500
-    proximity: 0.8125
+    lemma: חֵלֶף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: A3807b
-    proximity: 0.8054
+    proximity: 0.8054 {macula-proximity}
   - strongs: A5922
-    proximity: 0.7908
+    proximity: 0.7908 {macula-proximity}
   cross_language:
   - strongs: G2596
-    proximity: 0.8286
+    lemma: κατά
+    gloss: down {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G2730a
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
     language: greek
   - strongs: G5228
-    proximity: 0.8
+    lemma: ὑπέρ
+    gloss: '"over" {openscriptures-strongs}'
+    proximity: 0.8 {macula-proximity}
     language: greek
   - strongs: G1909
-    proximity: 0.7987
+    lemma: ἐπί
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7987 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

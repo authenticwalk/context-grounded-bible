@@ -6,35 +6,41 @@ pronunciation: bak-kaw-raw'
 definition: a looking after
 kjv_usage: seek out.
 derivation: intensive from H1239 (בָּקַר);
-extended_definition:
-  gloss: seeking
-  definition: a seeking, a care, concern
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: a seeking, a care, concern {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2658
-    proximity: 0.8147
+    lemma: חָפַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: H7200
-    proximity: 0.8137
+    lemma: רָאָה
+    gloss: to see {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   - strongs: H1875
-    proximity: 0.8016
+    lemma: דָּרַשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
   - strongs: H4672
-    proximity: 0.7978
+    lemma: מָצָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7978 {macula-proximity}
   - strongs: A1156
-    proximity: 0.7444
+    proximity: 0.7444 {macula-proximity}
   cross_language:
   - strongs: G1063
-    proximity: 0.8264
+    lemma: γάρ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G2614
-    proximity: 0.7653
+    lemma: καταδιώκω
+    gloss: to hunt down {openscriptures-strongs}
+    proximity: 0.7653 {macula-proximity}
     language: greek
   - strongs: G1934
-    proximity: 0.729
+    lemma: ἐπιζητέω
+    gloss: to search  for {openscriptures-strongs}
+    proximity: 0.729 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

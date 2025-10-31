@@ -10,28 +10,41 @@ derivation: probably of foreign derivation;
 related_words:
   synonyms:
   - strongs: H5210
-    proximity: 0.821
+    lemma: נִינְוֵה
+    gloss: Nineveh {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
   - strongs: H5369
-    proximity: 0.8194
+    lemma: נֵר
+    gloss: Ner {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H5573
-    proximity: 0.8194
+    lemma: סֶנֶה
+    gloss: Seneh {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H5269
-    proximity: 0.8194
+    lemma: נֵעָה
+    gloss: Neah {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H5562
-    proximity: 0.8167
+    lemma: סַמְגַּר נְבוֹ
+    gloss: Samgar-Nebo {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H5109
-    proximity: 0.8056
+    lemma: נוֹבַי
+    gloss: Nobai {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   cross_language:
   - strongs: G3533
-    proximity: 0.8249
+    lemma: Νικόπολις
+    gloss: victorious city {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: greek
   - strongs: G624
-    proximity: 0.8221
+    proximity: 0.8221 {macula-proximity}
     language: greek
   - strongs: G4462
-    proximity: 0.7932
+    lemma: ῥαββονί
+    gloss: corresponding to G4461 {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,57 +5,62 @@ transliteration: mesótoichon
 definition: a partition (figuratively)
 kjv_usage: middle wall
 derivation: from G3319 (μέσος) and G5109 (τοῖχος);
-extended_definition:
-  gloss: wall
-  definition: '<b>μεσότοιχον</b>, -ου, τό<BR /> (μέσος, τοῖχος) <BR /><b>a partition
-    wall</b>: <ref=''Eph.2.14''>Eph.2:14</ref> (not elsewhere, but see LS, see word
-    μεσότοιχος).†<BR /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> μεσό-τοιχος</b>, ὁ, <br /> <b>party-wall,</b> [<a href="javascript:void(0)"
-    title=" Milet. Ergebnisse 7.56 (from Didyma), “BCH” 33.452 (from Argos): _metaphorically_,
-    τὸν τῆς ἡδονῆς καὶ ἀρετῆς μ. διορύττειν">Refs</a>] Eratosth.Cyren. cited in [<a
-    href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 7.281d. ">Refs
-    2nd c.AD+</a>]<br /><Level2><b>__II</b></Level2> as <i>adjective</i>, <b>having
-    a party-wall</b>, οἰκίαι [<a href="javascript:void(0)" title=" “PAmh.” 2.98.9
-    (2nd-3rd c.AD). ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'μεσότοιχον, -ου, τό
+
+  (μέσος, τοῖχος)
+
+  a partition wall: Eph.2:14 (not elsewhere, but see LS, see word μεσότοιχος).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'μεσό-τοιχος, ὁ,
+
+  party-wall, [Refs] Eratosth.Cyren. cited in [Refs 2nd c.AD+]
+
+  __II as adjective, having a party-wall, οἰκίαι [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1576
-    proximity: 0.829
+    lemma: ἐκκλείω
+    gloss: to shut out {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: G5418
-    proximity: 0.8285
+    lemma: φραγμός
+    gloss: a fence {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: G303
-    proximity: 0.8276
+    proximity: 0.8276 {macula-proximity}
   - strongs: G1292
-    proximity: 0.8257
+    lemma: διάστημα
+    gloss: an interval {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: A6386
-    proximity: 0.7847
+    proximity: 0.7847 {macula-proximity}
   - strongs: A6537
-    proximity: 0.7847
+    proximity: 0.7847 {macula-proximity}
   - strongs: A1459
-    proximity: 0.7767
+    proximity: 0.7767 {macula-proximity}
   cross_language:
   - strongs: H1119
-    proximity: 0.8296
+    lemma: בְּמוֹ
+    gloss: in {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: hebrew
   - strongs: H1504
-    proximity: 0.8282
+    lemma: גָּזַר
+    gloss: to cut down or off {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: hebrew
   - strongs: H8284
-    proximity: 0.8218
+    lemma: שָׁרָה
+    gloss: a fortification {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
     language: hebrew
   - strongs: H8484
-    proximity: 0.8174
+    lemma: תִּיכוֹן
+    gloss: central {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
     language: hebrew
   - strongs: H7791a
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

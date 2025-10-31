@@ -5,43 +5,54 @@ transliteration: Mitylḗnē
 definition: Mitylene (or Mytilene), a town on the island of Lesbos
 kjv_usage: Mitylene
 derivation: for (abounding in shellfish);
-extended_definition:
-  gloss: Mitylene
-  definition: '<b>Μιτυλήνη</b>, -ης, ἡ<BR /> (late form - Strab., Plut. - of cl. Μυτιλ-),
-    <BR /><b>Mytilene, Mitylene, chief city of Lesbos</b>: <ref=''Act.20.14.''>Act.20:14.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Μιτυλήνη</b>, -ης, ἡ<BR /> (late form - Strab., Plut. - of cl.
-    Μυτιλ-), <BR /><b>Mytilene, Mitylene, chief city of Lesbos</b>: <ref=''Act.20.14.''>Act.20:14.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Μιτυλήνη, -ης, ἡ
+
+  (late form - Strab., Plut. - of cl. Μυτιλ-),
+
+  Mytilene, Mitylene, chief city of Lesbos: Act.20:14.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Μιτυλήνη, -ης, ἡ
+
+  (late form - Strab., Plut. - of cl. Μυτιλ-),
+
+  Mytilene, Mitylene, chief city of Lesbos: Act.20:14.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3517
-    proximity: 0.8159
+    lemma: Νηρεύς
+    gloss: Nereus {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: G3190
-    proximity: 0.8159
+    lemma: Μελεᾶς
+    gloss: Meleas {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: G2408
-    proximity: 0.8085
+    lemma: Ἱερεμίας
+    gloss: Hieremias {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
   - strongs: G3399
-    proximity: 0.8085
+    lemma: Μίλητος
+    gloss: Miletus {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
   - strongs: G3518
-    proximity: 0.7722
+    lemma: Νηρί
+    gloss: Neri {openscriptures-strongs}
+    proximity: 0.7722 {macula-proximity}
   cross_language:
   - strongs: H4332
-    proximity: 0.8259
+    lemma: מִישָׁאֵל
+    gloss: Mishael {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: hebrew
   - strongs: H4409a
-    proximity: 0.8242
+    proximity: 0.8242 {macula-proximity}
     language: hebrew
   - strongs: H4508
-    proximity: 0.8017
+    lemma: מִנִּי
+    gloss: Minni {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

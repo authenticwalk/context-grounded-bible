@@ -6,46 +6,61 @@ pronunciation: teh-oo-daw'
 definition: attestation, i.e. a precept, usage
 kjv_usage: testimony.
 derivation: from H5749 (עוּד);
-extended_definition:
-  gloss: testimony
-  definition: 1) testimony, attestation, confirmation<br>1a) testimony, (prophetic)
-    injunction<br>1b) attestation
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) testimony, attestation, confirmation
+
+  1a) testimony, (prophetic) injunction
+
+  1b) attestation {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1703
-    proximity: 0.8193
+    lemma: דַּבָּרָה
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: A1882
-    proximity: 0.819
+    proximity: 0.819 {macula-proximity}
   - strongs: H6490
-    proximity: 0.817
+    lemma: פִּקּוּד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: H2706
-    proximity: 0.8013
+    lemma: חֹק
+    gloss: an enactment {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
   - strongs: H4561
-    proximity: 0.8007
+    lemma: מֹסָר
+    gloss: admonition {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: H4148
-    proximity: 0.7949
+    lemma: מוּסָר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
   - strongs: H2708
-    proximity: 0.7685
+    lemma: חֻקָּה
+    gloss: '{an enactment {openscriptures-strongs}'
+    proximity: 0.7685 {macula-proximity}
   cross_language:
   - strongs: G1730
-    proximity: 0.8165
+    lemma: ἔνδειγμα
+    gloss: an indication {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G1480
-    proximity: 0.8127
+    lemma: ἐθίζω
+    gloss: to accustom {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
     language: greek
   - strongs: G5576
-    proximity: 0.8035
+    lemma: ψευδομαρτυρέω
+    gloss: to be an untrue testifier {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
     language: greek
   - strongs: G1486a
-    proximity: 0.8001
+    proximity: 0.8001 {macula-proximity}
     language: greek
   - strongs: G3144
-    proximity: 0.799
+    lemma: μάρτυς
+    gloss: a witness  or figuratively ) {openscriptures-strongs}
+    proximity: 0.799 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

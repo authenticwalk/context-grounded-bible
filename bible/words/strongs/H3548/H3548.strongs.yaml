@@ -7,37 +7,56 @@ definition: literally one officiating, a priest; also (by courtesy) an acting pr
   (although a layman)
 kjv_usage: chief ruler, [idiom] own, priest, prince, principal officer.
 derivation: active participle of H3547 (כָּהַן);
-extended_definition:
-  gloss: priest
-  definition: '1) priest, principal officer or chief ruler<br>1a) priest-king (Melchizedek,
-    Messiah)<br>1b) pagan priests<br>1c) priests of Jehovah<br>1d) Levitical priests<br>1e)
-    Zadokite priests<br>1f) Aaronic priests<br>1g) the high priest<BR>Aramaic equivalent:
-    <i>ka.hen</i> (כָּהֵן "priest" H3549)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) priest, principal officer or chief ruler
+
+  1a) priest-king (Melchizedek, Messiah)
+
+  1b) pagan priests
+
+  1c) priests of Jehovah
+
+  1d) Levitical priests
+
+  1e) Zadokite priests
+
+  1f) Aaronic priests
+
+  1g) the high priest
+
+  Aramaic equivalent: ka.hen (כָּהֵן "priest" H3549) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4394
-    proximity: 0.82
+    lemma: מִלֻּא
+    gloss: a fulfilling {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
   - strongs: H907a
-    proximity: 0.8054
+    proximity: 0.8054 {macula-proximity}
   - strongs: H4932
-    proximity: 0.8027
+    lemma: מִשְׁנֶה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
   - strongs: H1419
-    proximity: 0.7936
+    lemma: גָּדוֹל
+    gloss: great {openscriptures-strongs}
+    proximity: 0.7936 {macula-proximity}
   - strongs: H7218
-    proximity: 0.7513
+    lemma: רֹאשׁ
+    gloss: the head {openscriptures-strongs}
+    proximity: 0.7513 {macula-proximity}
   - strongs: H8269
-    proximity: 0.7329
+    lemma: שַׂר
+    gloss: a head person {openscriptures-strongs}
+    proximity: 0.7329 {macula-proximity}
   cross_language:
   - strongs: G3588
-    proximity: 0.8125
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G2420
-    proximity: 0.8073
+    lemma: ἱερωσύνη
+    gloss: sacredness {openscriptures-strongs}
+    proximity: 0.8073 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

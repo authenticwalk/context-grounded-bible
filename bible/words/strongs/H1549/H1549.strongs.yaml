@@ -6,27 +6,27 @@ pronunciation: ghil-law-yone'
 definition: a tablet for writing (as bare); by analogy, a mirror (as a plate)
 kjv_usage: glass, roll.
 derivation: or גִּלְיוֹן; from H1540 (גָּלָה);
-extended_definition:
-  gloss: tablet
-  definition: table, tablet, mirror, flat shiny ornament
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: table, tablet, mirror, flat shiny ornament {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A4040
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
   - strongs: H3871
-    proximity: 0.8089
+    lemma: לוּחַ
+    gloss: probably meaning to glisten {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: H4039
-    proximity: 0.7884
+    lemma: מְגִלָּה
+    gloss: a roll {openscriptures-strongs}
+    proximity: 0.7884 {macula-proximity}
   - strongs: H7479
-    proximity: 0.7232
+    lemma: רַעֲלָה
+    gloss: a long veil {openscriptures-strongs}
+    proximity: 0.7232 {macula-proximity}
   cross_language:
   - strongs: G2734
-    proximity: 0.8023
+    lemma: κατοπτρίζομαι
+    gloss: to mirror oneself {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

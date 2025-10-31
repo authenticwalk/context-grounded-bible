@@ -5,57 +5,58 @@ transliteration: paraskeuázō
 definition: to furnish aside, i.e. get ready
 kjv_usage: prepare self, be (make) ready
 derivation: from G3844 (παρά) and a derivative of G4632 (σκεῦος);
-extended_definition:
-  gloss: to prepare
-  definition: '<b>παρα-σκευάζω </b><BR /> [in LXX: <ref=''Jer.50.42''>Jer.50:42</ref>
-    (עָרַךְ), etc. ;] <BR /><b>to prepare, make ready</b>: absol. (sc. τ. δεῖπνον,
-    etc.; of. Hdt., ix, 82, <ref=''2Ma.2.27''>2Ma.2:27</ref>), <ref=''Act.10.10''>Act.10:10</ref>;
-    mid., <b>to prepare, make preparations</b>: <ref=''1Co.14.8''>1Co.14:8</ref> (cf.
-    Je, l.with); pass., <ref=''2Co.9.2-3.''>2Co.9:2-3.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> παρασκευάζω</b>, <br /> <i>future</i> <b>-άσω</b>[<a href="javascript:void(0)"
-    title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 1.6.18
-    ">Refs 5th c.BC+</a>] (but <i>3rd.pers.</i> <i>singular</i> <b>-σκευᾷ</b>[<a href="javascript:void(0)"
-    title=" 4th-3rd c.BC: Epicurus Philosophus “De rerum natura - Wien. Stud.” 14.2
-    ">Refs 4th c.BC+</a>], <i>2nd pers.</i> <i>plural</i> <b>-σκευᾶτε</b>[<a href="javascript:void(0)"
-    title=" “SIG” 1106.113 (Cos, 4th-3rd c.BC))">Refs 4th c.BC+</a>]: <i>Ionic dialect</i>
-    <i>3rd.pers.</i> <i>plural</i> <i>pluperfect</i> <i>passive</i> παρεσκευάδατο
-    [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.218, etc.">Refs
-    5th c.BC+</a>]: later sometimes <b>παρασκεάζω</b>, as παρεσκεασμένων [<a href="javascript:void(0)"
-    title=" “IPE” 12.32 B 12 (Olbia, 3rd c.BC)">Refs 3rd c.BC+</a>]:—'
-  source: STEPBible/LSJ
+extended_definition: 'παρα-σκευάζω
+
+  [in LXX: Jer.50:42 (עָרַךְ), etc. ;]
+
+  to prepare, make ready: absol. (sc. τ. δεῖπνον, etc.; of. Hdt., ix, 82, 2Ma.2:27),
+  Act.10:10; mid., to prepare, make preparations: 1Co.14:8 (cf. Je, l.with); pass.,
+  2Co.9:2-3.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'παρασκευάζω,
+
+  future -άσω[Refs 5th c.BC+] (but 3rd.pers. singular -σκευᾷ[Refs 4th c.BC+], 2nd
+  pers. plural -σκευᾶτε[Refs 4th c.BC+]: Ionic dialect 3rd.pers. plural pluperfect
+  passive παρεσκευάδατο [Refs 5th c.BC+]: later sometimes παρασκεάζω, as παρεσκεασμένων
+  [Refs 3rd c.BC+]:— {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A2164
-    proximity: 0.792
+    proximity: 0.792 {macula-proximity}
   - strongs: G1779
-    proximity: 0.7885
+    lemma: ἐνταφιάζω
+    gloss: to inswathe with cerements for interment {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
   - strongs: G2675
-    proximity: 0.7515
+    lemma: καταρτίζω
+    gloss: to complete thoroughly {openscriptures-strongs}
+    proximity: 0.7515 {macula-proximity}
   - strongs: G4294
-    proximity: 0.7327
+    lemma: προκαταρτίζω
+    gloss: to prepare in advance {openscriptures-strongs}
+    proximity: 0.7327 {macula-proximity}
   - strongs: G3904
-    proximity: 0.7177
+    lemma: παρασκευή
+    gloss: readiness {openscriptures-strongs}
+    proximity: 0.7177 {macula-proximity}
   - strongs: G328
-    proximity: 0.7093
+    proximity: 0.7093 {macula-proximity}
   cross_language:
   - strongs: H2502a
-    proximity: 0.8151
+    proximity: 0.8151 {macula-proximity}
     language: hebrew
   - strongs: H6718b
-    proximity: 0.8123
+    proximity: 0.8123 {macula-proximity}
     language: hebrew
   - strongs: H6259
-    proximity: 0.7758
+    lemma: עָתוּד
+    gloss: prepared {openscriptures-strongs}
+    proximity: 0.7758 {macula-proximity}
     language: hebrew
   - strongs: H6261
-    proximity: 0.7602
+    lemma: עִתִּי
+    gloss: timely {openscriptures-strongs}
+    proximity: 0.7602 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

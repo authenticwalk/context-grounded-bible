@@ -5,55 +5,65 @@ transliteration: kryphē
 definition: privately
 kjv_usage: in secret
 derivation: adverb from G2928 (κρύπτω);
-extended_definition:
-  gloss: in secret
-  definition: '<b>κρυΦῇ</b><BR /> (prop. -ῆ, Rec.; later spelling is due to assimilation
-    to dative; cf. εἰκῆ), <BR /> <i>adv.</i>, [in LXX chiefly for סָתַר ;] <BR /><b>secretly,
-    in secret</b>: <ref=''Eph.5.12.''>Eph.5:12.</ref>†<BR /> (AS)'
-  morphology: G:ADV
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κρῠφ-ῇ</b>, <br /> <i>adverb</i> <b>secretly, in secret</b>,
-    [<a href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Ant.” 85,
-    291, 1254, 5th-6th c.BC: Xenophon Historicus “Smp.” 5.8, etc.:">Refs 5th c.BC+</a>]
-    — _Doric dialect_  <b>κρῠφᾷ</b> (which see); also [<a href="javascript:void(0)"
-    title=" ἐν κρυφῇ Vetus Testamentum Graece redditum “Judges” 4.21, 9.31 ">Refs</a>].'
-  source: STEPBible/LSJ
+extended_definition: 'κρυΦῇ
+
+  (prop. -ῆ, Rec.; later spelling is due to assimilation to dative; cf. εἰκῆ),
+
+  adv., [in LXX chiefly for סָתַר ;]
+
+  secretly, in secret: Eph.5:12.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κρῠφ-ῇ,
+
+  adverb secretly, in secret, [Refs 5th c.BC+] — _Doric dialect_  κρῠφᾷ (which see);
+  also [Refs]. {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4032
-    proximity: 0.8204
+    lemma: περικρύπτω
+    gloss: to conceal all around {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
   - strongs: G3466
-    proximity: 0.8077
+    lemma: μυστήριον
+    gloss: a secret or "mystery" {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
   - strongs: G4655
-    proximity: 0.7895
+    lemma: σκότος
+    gloss: shadiness {openscriptures-strongs}
+    proximity: 0.7895 {macula-proximity}
   - strongs: G731
-    proximity: 0.789
+    proximity: 0.789 {macula-proximity}
   - strongs: G3453
-    proximity: 0.7879
+    lemma: μυέω
+    gloss: to initiate {openscriptures-strongs}
+    proximity: 0.7879 {macula-proximity}
   - strongs: G2928
-    proximity: 0.7838
+    lemma: κρύπτω
+    gloss: to conceal (properly {openscriptures-strongs}
+    proximity: 0.7838 {macula-proximity}
   - strongs: A5642
-    proximity: 0.7764
+    proximity: 0.7764 {macula-proximity}
   cross_language:
   - strongs: H2244
-    proximity: 0.8205
+    lemma: חָבָא
+    gloss: to secrete {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
     language: hebrew
   - strongs: H1886a
-    proximity: 0.8034
+    proximity: 0.8034 {macula-proximity}
     language: hebrew
   - strongs: H652
-    proximity: 0.798
+    proximity: 0.798 {macula-proximity}
     language: hebrew
   - strongs: H2644
-    proximity: 0.7939
+    lemma: חָפָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
     language: hebrew
   - strongs: H1119
-    proximity: 0.7932
+    lemma: בְּמוֹ
+    gloss: in {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

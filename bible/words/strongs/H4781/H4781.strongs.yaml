@@ -6,32 +6,37 @@ pronunciation: mer-o-dawk'
 definition: Merodak, a Babylonian idol
 kjv_usage: Merodach. Compare H4757 (מְרֹאדַךְ בַּלְאָדָן).
 derivation: of foreign derivation;
-extended_definition:
-  gloss: Merodach
-  definition: <BR> § Merodach = "thy rebellion"<br> the chief deity of the Babylonians
-    in the time of Nebuchadnezzar<br>
-  morphology: N:N-M-T
-  source: STEPBible/BDB
+extended_definition: '§ Merodach = "thy rebellion"
+
+  the chief deity of the Babylonians in the time of Nebuchadnezzar {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1255
-    proximity: 0.8212
+    lemma: בְּרֹאדַךְ בַּלְאֲדָן
+    gloss: Berodak-Baladan {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   - strongs: H192
-    proximity: 0.8087
+    proximity: 0.8087 {macula-proximity}
   - strongs: H4789
-    proximity: 0.8074
+    lemma: מֵרוֹז
+    gloss: Meroz {openscriptures-strongs}
+    proximity: 0.8074 {macula-proximity}
   - strongs: H4407
-    proximity: 0.8065
+    lemma: מִלּוֹא
+    gloss: a rampart {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
   - strongs: H4757
-    proximity: 0.8039
+    lemma: מְרֹאדַךְ בַּלְאָדָן
+    gloss: Merodak-Baladan {openscriptures-strongs}
+    proximity: 0.8039 {macula-proximity}
   - strongs: H4312
-    proximity: 0.7838
+    lemma: מֵידָד
+    gloss: Medad {openscriptures-strongs}
+    proximity: 0.7838 {macula-proximity}
   cross_language:
   - strongs: G4516
-    proximity: 0.7551
+    lemma: Ῥώμη
+    gloss: strength {openscriptures-strongs}
+    proximity: 0.7551 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

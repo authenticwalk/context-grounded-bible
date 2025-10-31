@@ -6,43 +6,54 @@ pronunciation: neh'-kes
 definition: treasure
 kjv_usage: riches, wealth.
 derivation: from an unused root meaning to accumulate;
-extended_definition:
-  gloss: wealth
-  definition: 'riches, treasures<BR>Aramaic equivalent: <i>ne.khas</i> (נְכַס "wealth"
-    H5232)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'riches, treasures
+
+  Aramaic equivalent: ne.khas (נְכַס "wealth" H5232) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A5232
-    proximity: 0.8291
+    proximity: 0.8291 {macula-proximity}
   - strongs: H7998
-    proximity: 0.7992
+    lemma: שָׁלָל
+    gloss: booty {openscriptures-strongs}
+    proximity: 0.7992 {macula-proximity}
   - strongs: H961
-    proximity: 0.7953
+    proximity: 0.7953 {macula-proximity}
   - strongs: H5607
-    proximity: 0.7933
+    lemma: סֵפֶק
+    gloss: chastisement {openscriptures-strongs}
+    proximity: 0.7933 {macula-proximity}
   - strongs: H6259
-    proximity: 0.7892
+    lemma: עָתוּד
+    gloss: prepared {openscriptures-strongs}
+    proximity: 0.7892 {macula-proximity}
   - strongs: H3520
-    proximity: 0.788
+    lemma: כְּבוּדָּה
+    gloss: weightiness {openscriptures-strongs}
+    proximity: 0.788 {macula-proximity}
   - strongs: H4030
-    proximity: 0.7751
+    lemma: מִגְדָּנָה
+    gloss: preciousness {openscriptures-strongs}
+    proximity: 0.7751 {macula-proximity}
   - strongs: H202
-    proximity: 0.775
+    proximity: 0.775 {macula-proximity}
   - strongs: H6238
-    proximity: 0.7671
+    lemma: עָשַׁר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7671 {macula-proximity}
   - strongs: H4521
-    proximity: 0.7655
+    lemma: מְנָת
+    gloss: an allotment (by courtesy {openscriptures-strongs}
+    proximity: 0.7655 {macula-proximity}
   cross_language:
   - strongs: G4047
-    proximity: 0.7997
+    lemma: περιποίησις
+    gloss: acquisition {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
     language: greek
   - strongs: G2817
-    proximity: 0.7931
+    lemma: κληρονομία
+    gloss: heirship {openscriptures-strongs}
+    proximity: 0.7931 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

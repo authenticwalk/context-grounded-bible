@@ -6,26 +6,26 @@ pronunciation: mah-af-ay-leh-yaw'
 definition: opaqueness
 kjv_usage: darkness.
 derivation: prolonged feminine of H3990 (מַאֲפֵל);
-extended_definition:
-  gloss: darkness
-  definition: deep darkness, darkness
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: deep darkness, darkness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5939
-    proximity: 0.7949
+    lemma: עֲלָטָה
+    gloss: dusk {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
   - strongs: H3650
-    proximity: 0.7781
+    lemma: כִּמְרִיר
+    gloss: obscuration (as if from shrinkage of light {openscriptures-strongs}
+    proximity: 0.7781 {macula-proximity}
   cross_language:
   - strongs: G4654
-    proximity: 0.8282
+    lemma: σκοτίζω
+    gloss: to obscure {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: greek
   - strongs: G1105
-    proximity: 0.7521
+    lemma: γνόφος
+    gloss: gloom {openscriptures-strongs}
+    proximity: 0.7521 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

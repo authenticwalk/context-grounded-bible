@@ -5,45 +5,56 @@ transliteration: Isaák
 definition: Isaac (i.e. Jitschak), the son of Abraham
 kjv_usage: Isaac
 derivation: of Hebrew origin (H03327);
-extended_definition:
-  gloss: Isaac
-  definition: '<b>Ἰσαάκ</b><BR /> (in MSS. sometimes -σάκ; cf. Deiss., BS, 189; Thack.,
-    <i>Gr.</i>, 100), ὁ <BR />indecl. <BR /> (in FlJ, Ἴσακος, -ου), (Heb. יִצְחָק),
-    <BR />Isaac (<ref=''Gen.17.19''>Gen.17:19</ref>, al.): <ref=''Mat.1.2''>Mat.1:2</ref>,
-    <ref=''Rom.9.10''>Rom.9:10</ref>, al <BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἰσαάκ</b><BR /> (in MSS. sometimes -σάκ; cf. Deiss., BS, 189;
-    Thack., <i>Gr.</i>, 100), ὁ <BR />indecl. <BR /> (in FlJ, Ἴσακος, -ου), (Heb.
-    יִצְחָק), <BR />Isaac (<ref=''Gen.17.19''>Gen.17:19</ref>, al.): <ref=''Mat.1.2''>Mat.1:2</ref>,
-    <ref=''Rom.9.10''>Rom.9:10</ref>, al <BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἰσαάκ
+
+  (in MSS. sometimes -σάκ; cf. Deiss., BS, 189; Thack., Gr., 100), ὁ
+
+  indecl.
+
+  (in FlJ, Ἴσακος, -ου), (Heb. יִצְחָק),
+
+  Isaac (Gen.17:19, al.): Mat.1:2, Rom.9:10, al
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἰσαάκ
+
+  (in MSS. sometimes -σάκ; cf. Deiss., BS, 189; Thack., Gr., 100), ὁ
+
+  indecl.
+
+  (in FlJ, Ἴσακος, -ου), (Heb. יִצְחָק),
+
+  Isaac (Gen.17:19, al.): Mat.1:2, Rom.9:10, al
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3588
-    proximity: 0.8296
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: G1648
-    proximity: 0.7223
+    lemma: Ἐλεάζαρ
+    gloss: Eleazar {openscriptures-strongs}
+    proximity: 0.7223 {macula-proximity}
   cross_language:
   - strongs: H3470a
-    proximity: 0.8238
+    proximity: 0.8238 {macula-proximity}
     language: hebrew
   - strongs: H499
-    proximity: 0.8215
+    proximity: 0.8215 {macula-proximity}
     language: hebrew
   - strongs: H3485
-    proximity: 0.8212
+    lemma: יִשָּׂשכָר
+    gloss: Jissaskar {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
     language: hebrew
   - strongs: H6215
-    proximity: 0.8037
+    lemma: עֵשָׂו
+    gloss: Esav {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
     language: hebrew
   - strongs: H6315a
-    proximity: 0.8031
+    proximity: 0.8031 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

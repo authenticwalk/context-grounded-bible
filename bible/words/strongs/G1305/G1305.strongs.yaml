@@ -5,51 +5,55 @@ transliteration: diatrophḗ
 definition: nourishment
 kjv_usage: food
 derivation: from a compound of G1223 (διά) and G5142 (τρέφω);
-extended_definition:
-  gloss: food
-  definition: '<b>δια-τροφή</b>, ῆς, ἡ<BR /> (διατρέφω, <i>to support, sustain</i>),
-    [in LXX: <ref=''1Ma.6.49''>1Ma.6:49</ref> * ;] <BR /><b>food, nourishment</b>:
-    <ref=''1Ti.6.8.''>1Ti.6:8.</ref>†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> διατροφή</b>, ἡ, <br /> <b>sustenance and support,</b> [<a
-    href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “de Vectigalibus”
-    4.49, 4th-3rd c.BC: Menander Comicus 14, “Epit.” 88, 1st c.BC: Diodorus Siculus
-    Historicus 1.74, “BGU” 321.7 (3rd c.AD)">Refs 5th c.BC+</a>]; τῷ τέρατι [the Minotaur]
-    πρὸς διατροφὴν κατασκευάσαι λαβύρινθον [<a href="javascript:void(0)" title=" 1st
-    c.BC: Diodorus Siculus Historicus 4.77 ">Refs 1st c.BC+</a>]: <i>plural</i>, <b>means
-    of subsistence,</b> [<a href="javascript:void(0)" title=" NT.1Tim.6.8. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δια-τροφή, ῆς, ἡ
+
+  (διατρέφω, to support, sustain), [in LXX: 1Ma.6:49 * ;]
+
+  food, nourishment: 1Ti.6:8.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'διατροφή, ἡ,
+
+  sustenance and support, [Refs 5th c.BC+]; τῷ τέρατι [the Minotaur] πρὸς διατροφὴν
+  κατασκευάσαι λαβύρινθον [Refs 1st c.BC+]: plural, means of subsistence, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G979
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
   - strongs: G1035
-    proximity: 0.7755
+    lemma: βρῶσις
+    gloss: eating {openscriptures-strongs}
+    proximity: 0.7755 {macula-proximity}
   - strongs: G1979
-    proximity: 0.7327
+    lemma: ἐπισιτισμός
+    gloss: a provisioning {openscriptures-strongs}
+    proximity: 0.7327 {macula-proximity}
   - strongs: G5527
-    proximity: 0.7269
+    lemma: χόρτασμα
+    gloss: forage {openscriptures-strongs}
+    proximity: 0.7269 {macula-proximity}
   cross_language:
   - strongs: H3899
-    proximity: 0.8226
+    lemma: לֶחֶם
+    gloss: food {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
     language: hebrew
   - strongs: H4521
-    proximity: 0.8194
+    lemma: מְנָת
+    gloss: an allotment (by courtesy {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: hebrew
   - strongs: H6720
-    proximity: 0.8142
+    lemma: צֵידָה
+    gloss: food {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
     language: hebrew
   - strongs: H8602a
-    proximity: 0.8122
+    proximity: 0.8122 {macula-proximity}
     language: hebrew
   - strongs: H2964
-    proximity: 0.803
+    lemma: טֶרֶף
+    gloss: something torn {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

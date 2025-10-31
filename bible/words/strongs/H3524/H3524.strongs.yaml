@@ -7,47 +7,59 @@ definition: vast, whether in extent (figuratively, of power, mighty; of time, ag
   or in number, many
 kjv_usage: '[phrase] feeble, mighty, most, much, strong, valiant.'
 derivation: from H3527 (כָּבַר);
-extended_definition:
-  gloss: mighty
-  definition: mighty, great, powerful, many, much
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: mighty, great, powerful, many, much {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6957a
-    proximity: 0.8255
+    proximity: 0.8255 {macula-proximity}
   - strongs: H2428
-    proximity: 0.8206
+    lemma: חַיִל
+    gloss: probably a force {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: H7230
-    proximity: 0.8198
+    lemma: רֹב
+    gloss: abundance {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
   - strongs: H7641a
-    proximity: 0.8183
+    proximity: 0.8183 {macula-proximity}
   - strongs: H1396
-    proximity: 0.8175
+    lemma: גָּבַר
+    gloss: to be strong {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
   - strongs: H8178a
-    proximity: 0.8161
+    proximity: 0.8161 {macula-proximity}
   - strongs: H5868
-    proximity: 0.8136
+    lemma: עֲיָם
+    gloss: probably meaning strength {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: H5591
-    proximity: 0.8045
+    lemma: סַעַר
+    gloss: a hurricane {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
   cross_language:
   - strongs: G3167
-    proximity: 0.8267
+    lemma: μεγαλεῖος
+    gloss: magnificent {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
     language: greek
   - strongs: G1849
-    proximity: 0.8246
+    lemma: ἐξουσία
+    gloss: privilege {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
     language: greek
   - strongs: G4119
-    proximity: 0.8228
+    lemma: πλείων
+    gloss: more in quantity {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
     language: greek
   - strongs: G1753
-    proximity: 0.8201
+    lemma: ἐνέργεια
+    gloss: efficiency {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G2978
-    proximity: 0.8033
+    lemma: λαῖλαψ
+    gloss: a whirlwind {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

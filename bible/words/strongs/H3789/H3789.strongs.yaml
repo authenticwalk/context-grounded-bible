@@ -6,42 +6,62 @@ pronunciation: kaw-thab'
 definition: to grave, by implication, to write (describe, inscribe, prescribe, subscribe)
 kjv_usage: describe, record, prescribe, subscribe, write(-ing, -ten).
 derivation: a primitive root;
-extended_definition:
-  gloss: to write
-  definition: '1) to write, record, enrol<br>1a) (Qal)<br>1a1) to write, inscribe,
-    engrave, write in, write on<br>1a2) to write down, describe in writing<br>1a3)
-    to register, enrol, record<br>1a4) to decree<br>1b) (Niphal)<br>1b1) to be written<br>1b2)
-    to be written down, be recorded, be enrolled<br>1c) (Piel) to continue writing<BR>Aramaic
-    equivalent: <i>ke.tav</i> (כְּתַב "to write" H3790)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to write, record, enrol
+
+  1a) (Qal)
+
+  1a1) to write, inscribe, engrave, write in, write on
+
+  1a2) to write down, describe in writing
+
+  1a3) to register, enrol, record
+
+  1a4) to decree
+
+  1b) (Niphal)
+
+  1b1) to be written
+
+  1b2) to be written down, be recorded, be enrolled
+
+  1c) (Piel) to continue writing
+
+  Aramaic equivalent: ke.tav (כְּתַב "to write" H3790) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6605a
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
   - strongs: A5609
-    proximity: 0.8041
+    proximity: 0.8041 {macula-proximity}
   - strongs: H5612a
-    proximity: 0.803
+    proximity: 0.803 {macula-proximity}
   - strongs: H3187
-    proximity: 0.8013
+    lemma: יָחַשׂ
+    gloss: to enroll by pedigree {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
   - strongs: H4385
-    proximity: 0.7876
+    lemma: מִכְתָּב
+    gloss: a thing written {openscriptures-strongs}
+    proximity: 0.7876 {macula-proximity}
   - strongs: A1799a
-    proximity: 0.7787
+    proximity: 0.7787 {macula-proximity}
   - strongs: H5612
-    proximity: 0.762
+    lemma: סֵפֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.762 {macula-proximity}
   - strongs: H2710
-    proximity: 0.7606
+    lemma: חָקַק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7606 {macula-proximity}
   cross_language:
   - strongs: G4593
-    proximity: 0.8294
+    lemma: σημειόω
+    gloss: to distinguish {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G2639
-    proximity: 0.8205
+    lemma: καταλέγω
+    gloss: to lay down {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

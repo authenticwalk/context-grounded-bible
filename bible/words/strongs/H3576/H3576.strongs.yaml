@@ -6,44 +6,58 @@ pronunciation: kaw-zab'
 definition: to lie (i.e. deceive), literally or figuratively
 kjv_usage: fail, (be found a, make a) liar, lie, lying, be in vain.
 derivation: a primitive root;
-extended_definition:
-  gloss: to lie
-  definition: 1) to lie, tell a lie, be a liar, be found a liar, be in vain, fail<br>1a)
-    (Qal) liar (participle)<br>1b) (Niphal) to be proven to be lying<br>1c) (Piel)<br>1c1)
-    to lie, tell a lie, tell a lie with, deceive<br>1c2) to disappoint, fail<br>1d)
-    (Hiphil) to make a liar, prove to be a liar
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to lie, tell a lie, be a liar, be found a liar, be in vain,
+  fail
+
+  1a) (Qal) liar (participle)
+
+  1b) (Niphal) to be proven to be lying
+
+  1c) (Piel)
+
+  1c1) to lie, tell a lie, tell a lie with, deceive
+
+  1c2) to disappoint, fail
+
+  1d) (Hiphil) to make a liar, prove to be a liar {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6315a
-    proximity: 0.8137
+    proximity: 0.8137 {macula-proximity}
   - strongs: H6601
-    proximity: 0.8124
+    lemma: פָּתָה
+    gloss: to open {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: H2048a
-    proximity: 0.7951
+    proximity: 0.7951 {macula-proximity}
   - strongs: H7423a
-    proximity: 0.7707
+    proximity: 0.7707 {macula-proximity}
   - strongs: H3584
-    proximity: 0.7223
+    lemma: כָּחַשׁ
+    gloss: to be untrue {openscriptures-strongs}
+    proximity: 0.7223 {macula-proximity}
   cross_language:
   - strongs: G4105
-    proximity: 0.8135
+    lemma: πλανάω
+    gloss: to (properly {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
     language: greek
   - strongs: G1818
-    proximity: 0.7651
+    lemma: ἐξαπατάω
+    gloss: to seduce wholly {openscriptures-strongs}
+    proximity: 0.7651 {macula-proximity}
     language: greek
   - strongs: G3884
-    proximity: 0.7587
+    lemma: παραλογίζομαι
+    gloss: to misreckon {openscriptures-strongs}
+    proximity: 0.7587 {macula-proximity}
     language: greek
   - strongs: G5422
-    proximity: 0.7522
+    lemma: φρεναπατάω
+    gloss: to be a mind-misleader {openscriptures-strongs}
+    proximity: 0.7522 {macula-proximity}
     language: greek
   - strongs: G538
-    proximity: 0.7177
+    proximity: 0.7177 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

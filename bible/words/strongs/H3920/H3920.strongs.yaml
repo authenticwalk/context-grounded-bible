@@ -7,50 +7,71 @@ definition: to catch (in a net, trap or pit); generally, to capture or occupy; a
   to choose (by lot); figuratively, to cohere
 kjv_usage: '[idiom] at all, catch (self), be frozen, be holden, stick together, take.'
 derivation: a primitive root;
-extended_definition:
-  gloss: to capture
-  definition: 1) to capture, take, seize<br>1a) (Qal)<br>1a1) to capture, seize<br>1a2)
-    to capture (of men) (fig.)<br>1a3) to take (by lot)<br>1b) (Niphal)<br>1b1) to
-    be captured<br>1b2) to be caught (of men in trap, snare) (fig.)<br>1c) (Hithpael)
-    to grasp each other
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to capture, take, seize
+
+  1a) (Qal)
+
+  1a1) to capture, seize
+
+  1a2) to capture (of men) (fig.)
+
+  1a3) to take (by lot)
+
+  1b) (Niphal)
+
+  1b1) to be captured
+
+  1b2) to be caught (of men in trap, snare) (fig.)
+
+  1c) (Hithpael) to grasp each other {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1770
-    proximity: 0.823
+    lemma: דִּיג
+    gloss: to fish {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: H7953
-    proximity: 0.8186
+    lemma: שָׁלָה
+    gloss: to draw out or off {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: H1491
-    proximity: 0.8143
+    lemma: גָּזָה
+    gloss: to cut off {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
   - strongs: A5312
-    proximity: 0.8136
+    proximity: 0.8136 {macula-proximity}
   - strongs: H7997
-    proximity: 0.8124
+    lemma: שָׁלַל
+    gloss: to drop or strip {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: H8551
-    proximity: 0.8099
+    lemma: תָּמַךְ
+    gloss: to sustain {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
   - strongs: H5844a
-    proximity: 0.8066
+    proximity: 0.8066 {macula-proximity}
   - strongs: A2631
-    proximity: 0.8019
+    proximity: 0.8019 {macula-proximity}
   cross_language:
   - strongs: G2507
-    proximity: 0.8257
+    lemma: καθαιρέω
+    gloss: to lower  demolish {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G4593
-    proximity: 0.8251
+    lemma: σημειόω
+    gloss: to distinguish {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
     language: greek
   - strongs: G142
-    proximity: 0.8234
+    proximity: 0.8234 {macula-proximity}
     language: greek
   - strongs: G726
-    proximity: 0.8211
+    proximity: 0.8211 {macula-proximity}
     language: greek
   - strongs: G2221
-    proximity: 0.8136
+    lemma: ζωγρέω
+    gloss: to take alive {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

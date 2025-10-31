@@ -5,39 +5,39 @@ transliteration: proaúlion
 definition: a forecourt, i.e. vestibule (alley-way)
 kjv_usage: porch
 derivation: neuter of a presumed compound of G4253 (πρό) and G833 (αὐλή);
-extended_definition:
-  gloss: entryway
-  definition: '<b>προ-αύλιον</b>, -ου, τό<BR /> (πρό, αὐλή), <BR /><b>a porch, vestibule</b>:
-    <ref=''Mrk.14.68.''>Mrk.14:68.</ref>†<BR /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> προαύλ-ιον</b>, τό, <br /> (αὐλός) <b>prelude on the flute,</b>
-    [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Cratylus”
-    417e, 4th c.BC: Aristoteles Philosophus “Rhetorica” 1414b20: _metaphorically_,
-    π. τοῦ λόγου 4th c.AD: Themistius Sophista “Orationes” 33.367a. ">Refs 5th c.BC+</a>]<br
-    /><Level2><b>__II</b></Level2> αὐλή) <b>place before a court, vestibule,</b> [<a
-    href="javascript:void(0)" title=" 2nd c.AD(?): Pollianus Epigrammaticus 1.77,
-    10th c.AD: Suidas Legal icographus ">Refs 2nd c.AD+</a>]<br /><Level3><b>__II.2</b></Level3>
-    <b>space before a cattle-pen,</b> [<a href="javascript:void(0)" title=" 2nd c.AD(?):
-    Pollianus Epigrammaticus 9.16. ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'προ-αύλιον, -ου, τό
+
+  (πρό, αὐλή),
+
+  a porch, vestibule: Mrk.14:68.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'προαύλ-ιον, τό,
+
+  (αὐλός) prelude on the flute, [Refs 5th c.BC+]
+
+  __II αὐλή) place before a court, vestibule, [Refs 2nd c.AD+]
+
+  __II.2 space before a cattle-pen, [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4440
-    proximity: 0.78
+    lemma: πυλών
+    gloss: a gate-way {openscriptures-strongs}
+    proximity: 0.78 {macula-proximity}
   - strongs: G4745
-    proximity: 0.7531
+    lemma: στοά
+    gloss: a colonnade or interior piazza {openscriptures-strongs}
+    proximity: 0.7531 {macula-proximity}
   cross_language:
   - strongs: H8179
-    proximity: 0.8081
+    lemma: שַׁעַר
+    gloss: an opening {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
     language: hebrew
   - strongs: H6503
-    proximity: 0.7957
+    lemma: פַּרְבָּר
+    gloss: Parbar or Parvar {openscriptures-strongs}
+    proximity: 0.7957 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

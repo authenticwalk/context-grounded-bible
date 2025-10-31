@@ -6,42 +6,50 @@ pronunciation: shaw-khad'
 definition: to donate, i.e. bribe
 kjv_usage: hire, give a reward.
 derivation: a primitive root;
-extended_definition:
-  gloss: to bribe
-  definition: (Qal) to give a present, bribe, ransom, offer gifts
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to give a present, bribe, ransom, offer gifts {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H868
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
   - strongs: A4978
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
   - strongs: H8641
-    proximity: 0.7944
+    lemma: תְּרוּמָה
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.7944 {macula-proximity}
   - strongs: H3724c
-    proximity: 0.7874
+    proximity: 0.7874 {macula-proximity}
   - strongs: H7936
-    proximity: 0.7738
+    lemma: שָׂכַר
+    gloss: to hire {openscriptures-strongs}
+    proximity: 0.7738 {macula-proximity}
   - strongs: H7133
-    proximity: 0.7426
+    lemma: קׇרְבָּן
+    gloss: something brought near the altar {openscriptures-strongs}
+    proximity: 0.7426 {macula-proximity}
   - strongs: H7966
-    proximity: 0.709
+    lemma: שִׁלּוּם
+    gloss: a requital {openscriptures-strongs}
+    proximity: 0.709 {macula-proximity}
   cross_language:
   - strongs: G1670
-    proximity: 0.8148
+    lemma: ἑλκύω
+    gloss: to drag {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
     language: greek
   - strongs: G1435
-    proximity: 0.8146
+    lemma: δῶρον
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
     language: greek
   - strongs: G3409
-    proximity: 0.8119
+    lemma: μισθόω
+    gloss: to let out for wages {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
     language: greek
   - strongs: G4376
-    proximity: 0.7706
+    lemma: προσφορά
+    gloss: presentation {openscriptures-strongs}
+    proximity: 0.7706 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

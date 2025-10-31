@@ -10,14 +10,15 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H4843
-    proximity: 0.8014
+    lemma: מָרַר
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
   - strongs: H2557a
-    proximity: 0.7828
+    proximity: 0.7828 {macula-proximity}
   cross_language:
   - strongs: G3886
-    proximity: 0.8078
+    lemma: παραλύω
+    gloss: to loosen beside {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

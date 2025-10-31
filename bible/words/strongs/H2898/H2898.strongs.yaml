@@ -7,53 +7,81 @@ definition: good (as a noun), in the widest sense, especially goodness (superlat
   concretely, the best), beauty, gladness, welfare
 kjv_usage: fair, gladness, good(-ness, thing, -s), joy, go well with.
 derivation: from H2895 (טוֹב);
-extended_definition:
-  gloss: goodness
-  definition: 1) goods, good things, goodness<br>1a) good things<br>1b) goods, property<br>1c)
-    fairness, beauty, joy, prosperity, goodness (abstract)<br>1d) goodness (of taste,
-    discernment)<br>1e) goodness (of God) (abstract)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) goods, good things, goodness
+
+  1a) good things
+
+  1b) goods, property
+
+  1c) fairness, beauty, joy, prosperity, goodness (abstract)
+
+  1d) goodness (of taste, discernment)
+
+  1e) goodness (of God) (abstract) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3303
-    proximity: 0.8283
+    lemma: יָפֶה
+    gloss: beautiful {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H7797
-    proximity: 0.8279
+    lemma: שׂוּשׂ
+    gloss: to be bright {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: H8231
-    proximity: 0.827
+    lemma: שָׁפַר
+    gloss: to glisten {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H3574
-    proximity: 0.826
+    lemma: כּוֹשָׁרָה
+    gloss: prosperity {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
   - strongs: H4710
-    proximity: 0.8203
+    lemma: מִצְפֻּן
+    gloss: a secret (place or thing {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: A7963
-    proximity: 0.82
+    proximity: 0.82 {macula-proximity}
   - strongs: H4262
-    proximity: 0.8195
+    lemma: מַחְמֻד
+    gloss: desired {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H2580
-    proximity: 0.8187
+    lemma: חֵן
+    gloss: graciousness {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
   - strongs: H1524
-    proximity: 0.8165
+    lemma: גִּיל
+    gloss: a revolution (of time {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: H7914
-    proximity: 0.8099
+    lemma: שְׂכִיָּה
+    gloss: a conspicuous object {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
   cross_language:
   - strongs: G3786
-    proximity: 0.8294
+    lemma: ὄφελος
+    gloss: gain {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G2908
-    proximity: 0.8284
+    lemma: κρεῖσσον
+    gloss: better {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: greek
   - strongs: G5485
-    proximity: 0.8215
+    lemma: χάρις
+    gloss: graciousness {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
     language: greek
   - strongs: G1829
-    proximity: 0.8184
+    lemma: ἐξέραμα
+    gloss: vomit {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
     language: greek
   - strongs: G2569
-    proximity: 0.8103
+    lemma: καλοποιέω
+    gloss: to do well {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

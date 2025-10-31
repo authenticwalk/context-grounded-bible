@@ -6,21 +6,17 @@ pronunciation: kaw-khal'
 definition: to paint (with stibium)
 kjv_usage: paint.
 derivation: a primitive root;
-extended_definition:
-  gloss: to paint
-  definition: (Qal) to paint (eyes), adorn with paint
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to paint (eyes), adorn with paint {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6320
-    proximity: 0.7729
+    lemma: פּוּךְ
+    gloss: dye (specifically {openscriptures-strongs}
+    proximity: 0.7729 {macula-proximity}
   cross_language:
   - strongs: G2885
-    proximity: 0.808
+    lemma: κοσμέω
+    gloss: to put in proper order {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

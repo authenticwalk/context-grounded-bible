@@ -5,58 +5,72 @@ transliteration: himatízō
 definition: to dress
 kjv_usage: clothe
 derivation: from G2440 (ἱμάτιον);
-extended_definition:
-  gloss: to dress
-  definition: '<b>ἱματίζω</b><BR /> (ἱμάτιον), <BR /><b>to clothe</b>: <ref=''Mrk.5.15''>Mrk.5:15</ref>,
-    <ref=''Luk.8.35''>Luk.8:35</ref> (elsewhere only in π.; cf. MM, <i>Exp.</i>, xv;
-    Deiss., <i>LAE</i>, 78 f.).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἱμᾰτ-ίζω</b>, <br /> <i>future</i> -ιῶ, <b>furnish with clothing</b>,
-    [<a href="javascript:void(0)" title=" “UPZ” 2.14 (2nd c.BC)">Refs 2nd c.BC+</a>],
-    etc.:—<i>passive</i>, τοῦ παιδὸς τρεφομένου καὶ -ομένου [<a href="javascript:void(0)"
-    title=" “POxy.” 275.14 (1st c.AD)">Refs 1st c.AD+</a>]; γυνὴ ἱματισμένη ἔχιδνα
-    [<a href="javascript:void(0)" title=" 2nd c.AD: Secundus Gnomologus “Sententiae
-    - FPG” 8; ἱματισμένος NT.Mark.5.15. ">NT+2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἱματίζω
+
+  (ἱμάτιον),
+
+  to clothe: Mrk.5:15, Luk.8:35 (elsewhere only in π.; cf. MM, Exp., xv; Deiss., LAE,
+  78 f.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἱμᾰτ-ίζω,
+
+  future -ιῶ, furnish with clothing, [Refs 2nd c.BC+], etc.:—passive, τοῦ παιδὸς τρεφομένου
+  καὶ -ομένου [Refs 1st c.AD+]; γυνὴ ἱματισμένη ἔχιδνα [NT+2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2689
-    proximity: 0.8235
+    lemma: καταστολή
+    gloss: a deposit {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: G2235
-    proximity: 0.8209
+    lemma: ἤδη
+    gloss: even now {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: G1742
-    proximity: 0.8129
+    lemma: ἔνδυμα
+    gloss: apparel {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: G2441
-    proximity: 0.7958
+    lemma: ἱματισμός
+    gloss: clothing {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
   - strongs: G5265
-    proximity: 0.7921
+    lemma: ὑποδέω
+    gloss: to bind under one's feet {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
   - strongs: G2440
-    proximity: 0.7908
+    lemma: ἱμάτιον
+    gloss: a dress {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
   - strongs: A3831
-    proximity: 0.7809
+    proximity: 0.7809 {macula-proximity}
   - strongs: G2066
-    proximity: 0.7702
+    lemma: ἐσθής
+    gloss: dress {openscriptures-strongs}
+    proximity: 0.7702 {macula-proximity}
   cross_language:
   - strongs: H8516
-    proximity: 0.8289
+    lemma: תַּלְבֹּשֶׁת
+    gloss: a garment {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: hebrew
   - strongs: H8151
-    proximity: 0.8282
+    lemma: שָׁנַס
+    gloss: to compress {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: hebrew
   - strongs: H4403
-    proximity: 0.8224
+    lemma: מַלְבּוּשׁ
+    gloss: a garment {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
     language: hebrew
   - strongs: H899
-    proximity: 0.8018
+    proximity: 0.8018 {macula-proximity}
     language: hebrew
   - strongs: H8008
-    proximity: 0.8013
+    lemma: שַׂלְמָה
+    gloss: a dress {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

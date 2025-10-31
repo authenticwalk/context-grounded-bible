@@ -18,45 +18,57 @@ kjv_usage: act, advice, affair, answer, [idiom] any such (thing), because of, bo
   [idiom] there done, thing (concerning), thought, [phrase] thus, tidings, what(-soever),
   [phrase] wherewith, which, word, work.
 derivation: from H1696 (דָבַר);
-extended_definition:
-  gloss: Chronicles
-  definition: <BR> This name means  word, speaking
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: This name means  word, speaking {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H371
-    proximity: 0.8297
+    proximity: 0.8297 {macula-proximity}
   - strongs: H8605
-    proximity: 0.8287
+    lemma: תְּפִלָּה
+    gloss: intercession {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: A2942
-    proximity: 0.8284
+    proximity: 0.8284 {macula-proximity}
   - strongs: H6213
-    proximity: 0.8282
+    lemma: עָשָׂה
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H2090
-    proximity: 0.8281
+    lemma: זֹה
+    gloss: this or that {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H7808
-    proximity: 0.8277
+    lemma: שֵׂחַ
+    gloss: communion {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H1681
-    proximity: 0.8276
+    lemma: דִּבָּה
+    gloss: slander {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   cross_language:
   - strongs: G5345
-    proximity: 0.8298
+    lemma: φήμη
+    gloss: a saying {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G1279
-    proximity: 0.8297
+    lemma: διαπορεύομαι
+    gloss: to travel through {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G2171
-    proximity: 0.8294
+    lemma: εὐχή
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G1829
-    proximity: 0.8292
+    lemma: ἐξέραμα
+    gloss: vomit {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
     language: greek
   - strongs: G5574
-    proximity: 0.8289
+    lemma: ψεύδομαι
+    gloss: to utter an untruth or attempt to deceive by falsehood {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

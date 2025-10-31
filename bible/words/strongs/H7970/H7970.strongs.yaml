@@ -6,40 +6,47 @@ pronunciation: shel-o-sheem'
 definition: thirty; or (ordinal) thirtieth
 kjv_usage: thirty, thirtieth. Compare H7991 (שָׁלִישׁ).
 derivation: or שְׁלֹשִׁים; multiple of H7969 (שָׁלוֹשׁ);
-extended_definition:
-  gloss: thirty
-  definition: 'thirty, thirtieth<BR>Aramaic equivalent: <i>te.la.tin</i> (תְּלָתִין
-    "thirty" H8533)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'thirty, thirtieth
+
+  Aramaic equivalent: te.la.tin (תְּלָתִין "thirty" H8533) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A6243
-    proximity: 0.8245
+    proximity: 0.8245 {macula-proximity}
   - strongs: H6235
-    proximity: 0.8161
+    lemma: עֶשֶׂר
+    gloss: ten {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: A3969
-    proximity: 0.8153
+    proximity: 0.8153 {macula-proximity}
   - strongs: H6241
-    proximity: 0.8106
+    lemma: עִשָּׂרוֹן
+    gloss: a tenth part {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
   cross_language:
   - strongs: G1176
-    proximity: 0.829
+    lemma: δέκα
+    gloss: ten {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G4002
-    proximity: 0.8172
+    lemma: πέντε
+    gloss: '"five" {openscriptures-strongs}'
+    proximity: 0.8172 {macula-proximity}
     language: greek
   - strongs: G1835
-    proximity: 0.8164
+    lemma: ἑξήκοντα
+    gloss: sixty {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
     language: greek
   - strongs: G5064
-    proximity: 0.8114
+    lemma: τέσσαρες
+    gloss: four {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
     language: greek
   - strongs: G1440
-    proximity: 0.8098
+    lemma: ἑβδομήκοντα
+    gloss: seventy {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,49 +6,55 @@ pronunciation: naw-bawl'
 definition: stupid; wicked (especially impious)
 kjv_usage: fool(-ish, -ish man, -ish woman), vile person.
 derivation: from H5034 (נָבֵל);
-extended_definition:
-  gloss: foolish
-  definition: foolish, senseless, fool
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: foolish, senseless, fool {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3689a
-    proximity: 0.8225
+    proximity: 0.8225 {macula-proximity}
   - strongs: H6615
-    proximity: 0.8012
+    lemma: פְּתַיּוּת
+    gloss: silliness {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
   - strongs: H5034a
-    proximity: 0.7793
+    proximity: 0.7793 {macula-proximity}
   - strongs: H5039
-    proximity: 0.7686
+    lemma: נְבָלָה
+    gloss: foolishness {openscriptures-strongs}
+    proximity: 0.7686 {macula-proximity}
   - strongs: H5014a
-    proximity: 0.767
+    proximity: 0.767 {macula-proximity}
   - strongs: H2638
-    proximity: 0.7644
+    lemma: חָסֵר
+    gloss: lacking {openscriptures-strongs}
+    proximity: 0.7644 {macula-proximity}
   - strongs: H1984b
-    proximity: 0.7545
+    proximity: 0.7545 {macula-proximity}
   - strongs: H5531
-    proximity: 0.7483
+    lemma: סִכְלוּת
+    gloss: silliness {openscriptures-strongs}
+    proximity: 0.7483 {macula-proximity}
   - strongs: H8602a
-    proximity: 0.7394
+    proximity: 0.7394 {macula-proximity}
   cross_language:
   - strongs: G4456
-    proximity: 0.82
+    lemma: πωρόω
+    gloss: to petrify {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
   - strongs: G3473
-    proximity: 0.8109
+    lemma: μωρολογία
+    gloss: silly talk {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
     language: greek
   - strongs: G52
-    proximity: 0.8031
+    proximity: 0.8031 {macula-proximity}
     language: greek
   - strongs: G3472
-    proximity: 0.7905
+    lemma: μωρία
+    gloss: silliness {openscriptures-strongs}
+    proximity: 0.7905 {macula-proximity}
     language: greek
   - strongs: G781
-    proximity: 0.7726
+    proximity: 0.7726 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

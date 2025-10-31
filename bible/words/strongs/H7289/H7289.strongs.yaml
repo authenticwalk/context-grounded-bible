@@ -6,45 +6,57 @@ pronunciation: raw-deed'
 definition: a veil (as expanded)
 kjv_usage: vail, veil.
 derivation: from H7286 (רָדַד) in the sense of spreading;
-extended_definition:
-  gloss: veil
-  definition: something spread, wide wrapper or large veil
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: something spread, wide wrapper or large veil {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3830
-    proximity: 0.8274
+    lemma: לְבוּשׁ
+    gloss: a garment {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H4063
-    proximity: 0.8231
+    lemma: מֶדֶו
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H5497
-    proximity: 0.8138
+    lemma: סוּת
+    gloss: covering {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
   - strongs: H899
-    proximity: 0.8137
+    proximity: 0.8137 {macula-proximity}
   - strongs: H3682
-    proximity: 0.8067
+    lemma: כְּסוּת
+    gloss: a cover {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   - strongs: H3801
-    proximity: 0.7959
+    lemma: כְּתֹנֶת
+    gloss: a shirt {openscriptures-strongs}
+    proximity: 0.7959 {macula-proximity}
   - strongs: H4555
-    proximity: 0.7847
+    lemma: מִסְפָּחָה
+    gloss: a veil {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
   - strongs: H6532
-    proximity: 0.777
+    lemma: פֹּרֶכֶת
+    gloss: a separatrix {openscriptures-strongs}
+    proximity: 0.777 {macula-proximity}
   - strongs: H4541a
-    proximity: 0.7699
+    proximity: 0.7699 {macula-proximity}
   - strongs: A5622
-    proximity: 0.7693
+    proximity: 0.7693 {macula-proximity}
   cross_language:
   - strongs: G1903
-    proximity: 0.7911
+    lemma: ἐπενδύτης
+    gloss: a wrapper {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
     language: greek
   - strongs: G2665
-    proximity: 0.7612
+    lemma: καταπέτασμα
+    gloss: something spread thoroughly {openscriptures-strongs}
+    proximity: 0.7612 {macula-proximity}
     language: greek
   - strongs: G4749
-    proximity: 0.7503
+    lemma: στολή
+    gloss: equipment {openscriptures-strongs}
+    proximity: 0.7503 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

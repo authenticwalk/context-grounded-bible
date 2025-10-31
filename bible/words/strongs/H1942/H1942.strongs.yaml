@@ -7,52 +7,69 @@ definition: by implication, of falling); desire; also ruin
 kjv_usage: calamity, iniquity, mischief, mischievous (thing), naughtiness, naughty,
   noisome, perverse thing, substance, very wickedness.
 derivation: from H1933 (הָוָא) (in the sense of eagerly coveting and rushing upon;
-extended_definition:
-  gloss: desire
-  definition: 1) desire<br>1a) desire (in bad sense)<br>2) chasm (fig. of destruction)<br>2a)
-    engulfing ruin, destruction, calamity
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) desire
+
+  1a) desire (in bad sense)
+
+  2) chasm (fig. of destruction)
+
+  2a) engulfing ruin, destruction, calamity {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5999
-    proximity: 0.8272
+    lemma: עָמָל
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: H2154
-    proximity: 0.8232
+    lemma: זִמָּה
+    gloss: a plan {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H7455
-    proximity: 0.823
+    lemma: רֹעַ
+    gloss: badness {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: H3336
-    proximity: 0.8161
+    lemma: יֵצֶר
+    gloss: a form {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H611
-    proximity: 0.8157
+    proximity: 0.8157 {macula-proximity}
   - strongs: H205
-    proximity: 0.7933
+    proximity: 0.7933 {macula-proximity}
   - strongs: H3970
-    proximity: 0.7681
+    lemma: מַאֲוַי
+    gloss: a desire {openscriptures-strongs}
+    proximity: 0.7681 {macula-proximity}
   - strongs: H35
-    proximity: 0.7514
+    proximity: 0.7514 {macula-proximity}
   - strongs: H7451b
-    proximity: 0.7432
+    proximity: 0.7432 {macula-proximity}
   - strongs: H183
-    proximity: 0.7145
+    proximity: 0.7145 {macula-proximity}
   cross_language:
   - strongs: G2554
-    proximity: 0.8268
+    lemma: κακοποιέω
+    gloss: to be a bad-doer {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: greek
   - strongs: G4189
-    proximity: 0.8255
+    lemma: πονηρία
+    gloss: depravity {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
     language: greek
   - strongs: G1937
-    proximity: 0.7414
+    lemma: ἐπιθυμέω
+    gloss: to set the heart upon {openscriptures-strongs}
+    proximity: 0.7414 {macula-proximity}
     language: greek
   - strongs: G4468
-    proximity: 0.7404
+    lemma: ῥᾳδιουργία
+    gloss: recklessness {openscriptures-strongs}
+    proximity: 0.7404 {macula-proximity}
     language: greek
   - strongs: G4467
-    proximity: 0.7317
+    lemma: ῥᾳδιούργημα
+    gloss: easy-going behavior {openscriptures-strongs}
+    proximity: 0.7317 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

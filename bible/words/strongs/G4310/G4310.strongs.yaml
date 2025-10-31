@@ -5,65 +5,74 @@ transliteration: propáschō
 definition: to undergo hardship previously
 kjv_usage: suffer before
 derivation: from G4253 (πρό) and G3958 (πάσχω);
-extended_definition:
-  gloss: to suffer before
-  definition: '<b>to suffer first </b> or <b>beforehand </b>, (Herdotus Historicus),
-    etc.: <b>to be ill-treated before </b>, ὑπό τινος (Thucydides):—;also, ἀγαθὸν
-    πρ. (Xenophon Historicus) (ML)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> προπάσχω</b>, <br /> <b>suffer first</b> or <b>beforehand,</b>
-    [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 7.11, 5th
-    c.BC: Thucydides Historicus 3.82, etc.">Refs 5th c.BC+</a>]; τι [<a href="javascript:void(0)"
-    title=" 5th c.BC: Sophocles Tragicus “Oedipus Coloneus” 230 (Lyric poetry), 5th
-    c.BC: Antipho Orator 2.1.5, 5th-6th c.BC: Plato Philosophus “Respublica” 376a
-    ">Refs 5th c.BC+</a>]; <b>to be ill-treated before,</b> ὑφ᾽ ἡμῶν [<a href="javascript:void(0)"
-    title=" 5th c.BC: Thucydides Historicus 3.67; π. οὐδὲν ἀγαθόν 5th-6th c.BC: Xenophon
-    Historicus “Memorabilia” 2.2.5 ">Refs 5th c.BC+</a>]: generally, <b>to be previously
-    affected</b> or <b>modified,</b> [<a href="javascript:void(0)" title=" 1st-2nd
-    c.AD: Plutarchus Biographus et Philosophus 2.725a, 3rd c.AD: Plotinus Philosophus
-    4.5.2. ">Refs 1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'to suffer first  or beforehand , (Herdotus Historicus), etc.:
+  to be ill-treated before , ὑπό τινος (Thucydides):—;also, ἀγαθὸν πρ. (Xenophon Historicus)
+  (ML) {STEPBible-TBESG}'
+etymology: 'προπάσχω,
+
+  suffer first or beforehand, [Refs 5th c.BC+]; τι [Refs 5th c.BC+]; to be ill-treated
+  before, ὑφ᾽ ἡμῶν [Refs 5th c.BC+]: generally, to be previously affected or modified,
+  [Refs 1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4944
-    proximity: 0.8275
+    lemma: συνωδίνω
+    gloss: to have  pangs in company (concert {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: G3600
-    proximity: 0.8273
+    lemma: ὀδυνάω
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
   - strongs: G931
-    proximity: 0.8224
+    proximity: 0.8224 {macula-proximity}
   - strongs: G2346
-    proximity: 0.8187
+    lemma: θλίβω
+    gloss: to crowd {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
   - strongs: G2347
-    proximity: 0.8168
+    lemma: θλῖψις
+    gloss: pressure {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: G4254
-    proximity: 0.8114
+    lemma: προάγω
+    gloss: to lead forward {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
   - strongs: G4266
-    proximity: 0.8098
+    lemma: προγίνομαι
+    gloss: to be already {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
   - strongs: G4279
-    proximity: 0.7899
+    lemma: προεπαγγέλλομαι
+    gloss: to promise of old {openscriptures-strongs}
+    proximity: 0.7899 {macula-proximity}
   - strongs: G4777
-    proximity: 0.7544
+    lemma: συγκακοπαθέω
+    gloss: to suffer hardship in company with {openscriptures-strongs}
+    proximity: 0.7544 {macula-proximity}
   cross_language:
   - strongs: H3013
-    proximity: 0.823
+    lemma: יָגָה
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
     language: hebrew
   - strongs: H6031
-    proximity: 0.8206
+    lemma: עָנָה
+    gloss: to depress literally or figuratively {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: hebrew
   - strongs: H3528
-    proximity: 0.7924
+    lemma: כְּבָר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
     language: hebrew
   - strongs: H3511
-    proximity: 0.7845
+    lemma: כְּאֵב
+    gloss: suffering {openscriptures-strongs}
+    proximity: 0.7845 {macula-proximity}
     language: hebrew
   - strongs: H6040
-    proximity: 0.7764
+    lemma: עֳנִי
+    gloss: depression {openscriptures-strongs}
+    proximity: 0.7764 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

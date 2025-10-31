@@ -6,48 +6,61 @@ pronunciation: at-teek'
 definition: removed, i.e. weaned; also antique
 kjv_usage: ancient, drawn.
 derivation: from H6275 (עָתַק);
-extended_definition:
-  gloss: ancient/taken
-  definition: '1) removed, weaned, old, ancient, taken away<br>1a) removed, weaned<br>1b)
-    old, ancient<BR>Aramaic equivalent: <i>at.tiq</i> (עַתִּיק "ancient" H6268)'
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) removed, weaned, old, ancient, taken away
+
+  1a) removed, weaned
+
+  1b) old, ancient
+
+  Aramaic equivalent: at.tiq (עַתִּיק "ancient" H6268) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H859b
-    proximity: 0.8242
+    proximity: 0.8242 {macula-proximity}
   - strongs: H6931
-    proximity: 0.823
+    lemma: קַדְמוֹנִי
+    gloss: anterior or  oriental {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: H6275
-    proximity: 0.8202
+    lemma: עָתַק
+    gloss: to remove  figuratively {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   - strongs: H6924
-    proximity: 0.8129
+    lemma: קֶדֶם
+    gloss: the front {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: A5709
-    proximity: 0.7959
+    proximity: 0.7959 {macula-proximity}
   - strongs: H3014
-    proximity: 0.7853
+    lemma: יָגָה
+    gloss: to push away {openscriptures-strongs}
+    proximity: 0.7853 {macula-proximity}
   - strongs: H3249
-    proximity: 0.7834
+    lemma: יָסוּר
+    gloss: departing {openscriptures-strongs}
+    proximity: 0.7834 {macula-proximity}
   - strongs: H5493
-    proximity: 0.7769
+    lemma: סוּר
+    gloss: to turn off {openscriptures-strongs}
+    proximity: 0.7769 {macula-proximity}
   cross_language:
   - strongs: G565
-    proximity: 0.8202
+    proximity: 0.8202 {macula-proximity}
     language: greek
   - strongs: G575
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G5298
-    proximity: 0.8037
+    lemma: ὑποχωρέω
+    gloss: to vacate down {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
     language: greek
   - strongs: G1339
-    proximity: 0.8029
+    lemma: διΐστημι
+    gloss: to stand apart {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
     language: greek
   - strongs: G620
-    proximity: 0.7902
+    proximity: 0.7902 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

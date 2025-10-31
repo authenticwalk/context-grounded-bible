@@ -6,31 +6,35 @@ pronunciation: maw-tsats'
 definition: to suck
 kjv_usage: milk.
 derivation: a primitive root;
-extended_definition:
-  gloss: to drink deeply
-  definition: (Qal) to drain out, suck
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to drain out, suck {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3243
-    proximity: 0.8175
+    lemma: יָנַק
+    gloss: to suck {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
   - strongs: H8354
-    proximity: 0.8155
+    lemma: שָׁתָה
+    gloss: to imbibe {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H8360
-    proximity: 0.8049
+    lemma: שְׁתִיָּה
+    gloss: potation {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   cross_language:
   - strongs: G4095
-    proximity: 0.7897
+    lemma: πίνω
+    gloss: to imbibe {openscriptures-strongs}
+    proximity: 0.7897 {macula-proximity}
     language: greek
   - strongs: G4188
-    proximity: 0.7812
+    lemma: πόμα
+    gloss: a beverage {openscriptures-strongs}
+    proximity: 0.7812 {macula-proximity}
     language: greek
   - strongs: G4213
-    proximity: 0.7688
+    lemma: πόσις
+    gloss: a drinking {openscriptures-strongs}
+    proximity: 0.7688 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

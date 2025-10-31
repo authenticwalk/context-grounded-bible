@@ -6,48 +6,62 @@ pronunciation: ro'-kakh
 definition: an aromatic
 kjv_usage: confection, ointment.
 derivation: from H7542 (רַקּוֹן);
-extended_definition:
-  gloss: spice
-  definition: spice-mixture, perfume, ointment
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: spice-mixture, perfume, ointment {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4729b
-    proximity: 0.8213
+    proximity: 0.8213 {macula-proximity}
   - strongs: H4538
-    proximity: 0.8168
+    lemma: מֶסֶךְ
+    gloss: a mixture {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H3910
-    proximity: 0.7951
+    lemma: לֹט
+    gloss: a gum {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
   - strongs: H7002
-    proximity: 0.7917
+    lemma: קִטֵּר
+    gloss: perfume {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: H4840
-    proximity: 0.779
+    lemma: מֶרְקָח
+    gloss: a spicy herb {openscriptures-strongs}
+    proximity: 0.779 {macula-proximity}
   - strongs: H6875
-    proximity: 0.7646
+    lemma: צְרִי
+    gloss: distillation {openscriptures-strongs}
+    proximity: 0.7646 {macula-proximity}
   - strongs: H7546
-    proximity: 0.7494
+    lemma: רַקָּח
+    gloss: a male perfumer {openscriptures-strongs}
+    proximity: 0.7494 {macula-proximity}
   - strongs: H4729a
-    proximity: 0.7315
+    proximity: 0.7315 {macula-proximity}
   - strongs: H7548
-    proximity: 0.7291
+    lemma: רַקָּחָה
+    gloss: a female perfumer {openscriptures-strongs}
+    proximity: 0.7291 {macula-proximity}
   - strongs: H6988
-    proximity: 0.7211
+    lemma: קְטוֹרָה
+    gloss: perfume {openscriptures-strongs}
+    proximity: 0.7211 {macula-proximity}
   cross_language:
   - strongs: G2369
-    proximity: 0.8244
+    lemma: θυμιαστήριον
+    gloss: a place of fumigation {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: greek
   - strongs: G3031
-    proximity: 0.8037
+    lemma: λιβανωτός
+    gloss: frankincense {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
     language: greek
   - strongs: G2370
-    proximity: 0.8009
+    lemma: θυμιάω
+    gloss: to fumigate {openscriptures-strongs}
+    proximity: 0.8009 {macula-proximity}
     language: greek
   - strongs: G298a
-    proximity: 0.7982
+    proximity: 0.7982 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

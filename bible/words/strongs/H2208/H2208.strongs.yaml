@@ -7,49 +7,63 @@ definition: old age
 kjv_usage: old age.
 derivation: properly, passive participle of H2204 (זָקֵן) (used only in the plural
   as a noun);
-extended_definition:
-  gloss: extreme age
-  definition: old age, extreme old age
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: old age, extreme old age {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5271
-    proximity: 0.8282
+    lemma: נָעוּר
+    gloss: youth {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H8141
-    proximity: 0.812
+    lemma: שָׁנֶה
+    gloss: a year {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: H3486
-    proximity: 0.7985
+    lemma: יָשֵׁשׁ
+    gloss: gray-haired {openscriptures-strongs}
+    proximity: 0.7985 {macula-proximity}
   - strongs: H3465
-    proximity: 0.7889
+    lemma: יָשָׁן
+    gloss: old {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
   - strongs: A8140
-    proximity: 0.7864
+    proximity: 0.7864 {macula-proximity}
   - strongs: H1087
-    proximity: 0.7811
+    lemma: בָּלֶה
+    gloss: worn out {openscriptures-strongs}
+    proximity: 0.7811 {macula-proximity}
   - strongs: H6917
-    proximity: 0.7171
+    lemma: קָדוּם
+    gloss: a pristine hero {openscriptures-strongs}
+    proximity: 0.7171 {macula-proximity}
   - strongs: H2205
-    proximity: 0.7116
+    lemma: זָקֵן
+    gloss: old {openscriptures-strongs}
+    proximity: 0.7116 {macula-proximity}
   - strongs: H1524a
-    proximity: 0.7099
+    proximity: 0.7099 {macula-proximity}
   cross_language:
   - strongs: G5063a
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
     language: greek
   - strongs: G4260
-    proximity: 0.7885
+    lemma: προβαίνω
+    gloss: to walk forward {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
     language: greek
   - strongs: G1126
-    proximity: 0.7885
+    lemma: γραώδης
+    gloss: crone-like {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
     language: greek
   - strongs: G3820
-    proximity: 0.754
+    lemma: παλαιός
+    gloss: antique {openscriptures-strongs}
+    proximity: 0.754 {macula-proximity}
     language: greek
   - strongs: G4245
-    proximity: 0.7306
+    lemma: πρεσβύτερος
+    gloss: older {openscriptures-strongs}
+    proximity: 0.7306 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

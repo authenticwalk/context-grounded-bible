@@ -9,38 +9,57 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H7301
-    proximity: 0.8199
+    lemma: רָוָה
+    gloss: to slake the thirst {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H8248
-    proximity: 0.8142
+    lemma: שָׁקָה
+    gloss: to quaff {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: H3196
-    proximity: 0.7806
+    lemma: יַיִן
+    gloss: wine {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
   - strongs: A2562
-    proximity: 0.7691
+    proximity: 0.7691 {macula-proximity}
   - strongs: H8358
-    proximity: 0.7643
+    lemma: שְׁתִי
+    gloss: intoxicaion {openscriptures-strongs}
+    proximity: 0.7643 {macula-proximity}
   - strongs: H7941
-    proximity: 0.7547
+    lemma: שֵׁכָר
+    gloss: an intoxicant {openscriptures-strongs}
+    proximity: 0.7547 {macula-proximity}
   - strongs: H7937a
-    proximity: 0.7424
+    proximity: 0.7424 {macula-proximity}
   - strongs: H7943
-    proximity: 0.7361
+    lemma: שִׁכָּרוֹן
+    gloss: intoxication {openscriptures-strongs}
+    proximity: 0.7361 {macula-proximity}
   cross_language:
   - strongs: G3178
-    proximity: 0.819
+    lemma: μέθη
+    gloss: an intoxicant {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
     language: greek
   - strongs: G3943
-    proximity: 0.7815
+    lemma: πάροινος
+    gloss: staying near wine {openscriptures-strongs}
+    proximity: 0.7815 {macula-proximity}
     language: greek
   - strongs: G4188
-    proximity: 0.7627
+    lemma: πόμα
+    gloss: a beverage {openscriptures-strongs}
+    proximity: 0.7627 {macula-proximity}
     language: greek
   - strongs: G3631
-    proximity: 0.7547
+    lemma: οἶνος
+    gloss: '"wine" {openscriptures-strongs}'
+    proximity: 0.7547 {macula-proximity}
     language: greek
   - strongs: G3632
-    proximity: 0.7485
+    lemma: οἰνοφλυγία
+    gloss: an overflow  of wine {openscriptures-strongs}
+    proximity: 0.7485 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

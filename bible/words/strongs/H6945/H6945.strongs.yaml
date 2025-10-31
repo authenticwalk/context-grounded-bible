@@ -7,27 +7,29 @@ definition: a (quasi) sacred person, i.e. (technically) a (male) devotee (by pro
   to licentious idolatry
 kjv_usage: sodomite, unclean.
 derivation: from H6942 (קָדַשׁ);
-extended_definition:
-  gloss: male cult prostitute
-  definition: male temple prostitute
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: male temple prostitute {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5004
-    proximity: 0.8166
+    lemma: נִאֻף
+    gloss: adultery {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
   - strongs: H3611
-    proximity: 0.8146
+    lemma: כֶּלֶב
+    gloss: a dog {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
   - strongs: H2181
-    proximity: 0.7762
+    lemma: זָנָה
+    gloss: to commit adultery (usually of the female {openscriptures-strongs}
+    proximity: 0.7762 {macula-proximity}
   - strongs: H2145
-    proximity: 0.7723
+    lemma: זָכָר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7723 {macula-proximity}
   cross_language:
   - strongs: G3120
-    proximity: 0.7797
+    lemma: μαλακός
+    gloss: soft {openscriptures-strongs}
+    proximity: 0.7797 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

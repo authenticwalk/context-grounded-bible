@@ -6,76 +6,87 @@ definition: discussion, i.e. (internal) consideration (by implication, purpose),
   (external) debate
 kjv_usage: dispute, doubtful(-ing), imagination, reasoning, thought
 derivation: from G1260 (διαλογίζομαι);
-extended_definition:
-  gloss: reasoning
-  definition: '<b>δια-λογισμός</b>, -οῦ, ὁ<BR /> (διαλογίζομαι) [in LXX chiefly for
-    מַחֲשָׁבָה ;] <BR /><b>a thought, reasoning, inward questioning</b>: <ref=''Mat.15.19''>Mat.15:19</ref>,
-    <ref=''Mrk.7.21''>Mrk.7:21</ref>, <ref=''Luk.2.35; 5.22; 6.8; 9.46, 47; 24.38''>Luk.2:35
-    5:22 6:8 9:46, 47 24:38</ref>, <ref=''Rom.1.21; 14.1''>Rom.1:21 14:1</ref>, <ref=''1Co.3.20''>1Co.3:20</ref>"
-    (LXX), <ref=''Php.2.14''>Php.2:14;</ref> κριταὶ δ. πονηρῶν, genitive of qual.
-    (cf. <ref=''Pro.12.5''>Pro.12:5</ref>), <ref=''Jas.2.4''>Jas.2:4</ref>; χωρὶς
-    ὀργῆς καὶ δ. (where perh. δ., like מְזִמָּה, in <ref=''Psa.139.20''>Ps 138(139):20</ref>,
-    al., implies evil intention), <ref=''1Ti.2.8''>1Ti.2:8</ref> (see Hort, in l.;
-    cf. Cremer, 400).†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> διαλογ-ισμός</b>, ὁ, <br /> <b>balancing of accounts,</b> [<a
-    href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 36.23, “PRev.Laws”
-    17.17 (_plural_), “IG” 5(1).1432.6 (from Messene), etc.: hence, ">Refs 4th c.BC+</a>]<br
-    /><Level2><b>__II</b></Level2> <b>calculation, consideration,</b> [<a href="javascript:void(0)"
-    title=" 5th-6th c.BC: Plato Philosophus “Axiochus” 367a; δ. λαβεῖν περὶ σφῶν αὐτῶν
-    1st c.BC-1st c.AD: Strabo Geographus 5.3.7 ">Refs 5th c.BC+</a>]; ὁ δ. οὗτος this
-    <b>consideration,</b> [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus
-    Gadarensis Epigrammaticus “D.” 1.15. ">Refs 1st c.BC+</a>]<br /><Level2><b>__III</b></Level2>
-    <b>debate, argument, discussion,</b> [<a href="javascript:void(0)" title=" 4th-3rd
-    c.BC: Epicurus Philosophus “Fragmenta” 138 (_plural_), 4th c.AD: Metrodorus Epigrammaticus
-    37, 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.180c. ">Refs 4th c.BC+</a>]<br
-    /><Level2><b>__IV</b></Level2> <b>circuit court,</b> τοῦ νομοῦ δ. ποιῆσαι [<a
-    href="javascript:void(0)" title=" “PLond.” 2.358.19, compare “BGU” 19i13 (2nd
-    c.AD). ">Refs 2nd c.AD+</a>]<br /><Level2><b>__V</b></Level2> <b>judicial inquiry,</b>
-    [<a href="javascript:void(0)" title=" PTeb. 27.35 (2nd c.BC), “PFay.” 66.2 (2nd
-    c.AD). ">Refs 2nd c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δια-λογισμός, -οῦ, ὁ
+
+  (διαλογίζομαι) [in LXX chiefly for מַחֲשָׁבָה ;]
+
+  a thought, reasoning, inward questioning: Mat.15:19, Mrk.7:21, Luk.2:35 5:22 6:8
+  9:46, 47 24:38, Rom.1:21 14:1, 1Co.3:20" (LXX), Php.2:14; κριταὶ δ. πονηρῶν, genitive
+  of qual. (cf. Pro.12:5), Jas.2:4; χωρὶς ὀργῆς καὶ δ. (where perh. δ., like מְזִמָּה,
+  in Ps 138(139):20, al., implies evil intention), 1Ti.2:8 (see Hort, in l.; cf. Cremer,
+  400).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'διαλογ-ισμός, ὁ,
+
+  balancing of accounts, [Refs 4th c.BC+]
+
+  __II calculation, consideration, [Refs 5th c.BC+]; ὁ δ. οὗτος this consideration,
+  [Refs 1st c.BC+]
+
+  __III debate, argument, discussion, [Refs 4th c.BC+]
+
+  __IV circuit court, τοῦ νομοῦ δ. ποιῆσαι [Refs 2nd c.AD+]
+
+  __V judicial inquiry, [Refs 2nd c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1380
-    proximity: 0.8271
+    lemma: δοκέω
+    gloss: compare the base of G1166 ) of the same meaning {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: G1760a
-    proximity: 0.8256
+    proximity: 0.8256 {macula-proximity}
   - strongs: G1234
-    proximity: 0.8252
+    lemma: διαγογγύζω
+    gloss: to complain throughout a crowd {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
   - strongs: G3163
-    proximity: 0.8242
+    lemma: μάχη
+    gloss: a battle {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: G5428
-    proximity: 0.8239
+    lemma: φρόνησις
+    gloss: mental action or activity {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: G2213
-    proximity: 0.8195
+    lemma: ζήτημα
+    gloss: a search {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: G4189
-    proximity: 0.8167
+    lemma: πονηρία
+    gloss: depravity {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: G3164
-    proximity: 0.808
+    lemma: μάχομαι
+    gloss: to war {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
   - strongs: G357
-    proximity: 0.8048
+    proximity: 0.8048 {macula-proximity}
   cross_language:
   - strongs: H4209
-    proximity: 0.8282
+    lemma: מְזִמָּה
+    gloss: a plan {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: hebrew
   - strongs: H7878
-    proximity: 0.8256
+    lemma: שִׂיחַ
+    gloss: to ponder {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
     language: hebrew
   - strongs: H1902
-    proximity: 0.8229
+    lemma: הִגָּיוֹן
+    gloss: a murmuring sound {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: hebrew
   - strongs: H7378
-    proximity: 0.8227
+    lemma: רִיב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
     language: hebrew
   - strongs: H2161
-    proximity: 0.8209
+    lemma: זָמַם
+    gloss: to plan {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

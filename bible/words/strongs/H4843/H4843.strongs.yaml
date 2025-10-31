@@ -8,54 +8,85 @@ kjv_usage: (be, be in, deal, have, make) bitter(-ly, -ness), be moved with chole
   (be, have sorely, it) grieved(-eth), provoke, vex.
 derivation: a primitive root; properly, to trickle (see H4752 (מַר)); but used only
   as a denominative from H4751 (מַר);
-extended_definition:
-  gloss: to provoke
-  definition: 1) to be bitter<br>1a) (Qal) to be bitter<br>1b) (Piel)<br>1b1) to show
-    bitterness<br>1b2) to make bitter<br>1c) (Hiphil) to make bitter, embitter<br>1d)
-    (Hithpalpel)<br>1d1) to embitter oneself<br>1d2) to be enraged<br>2) (TWOT) to
-    be strong, strengthen
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be bitter
+
+  1a) (Qal) to be bitter
+
+  1b) (Piel)
+
+  1b1) to show bitterness
+
+  1b2) to make bitter
+
+  1c) (Hiphil) to make bitter, embitter
+
+  1d) (Hithpalpel)
+
+  1d1) to embitter oneself
+
+  1d2) to be enraged
+
+  2) (TWOT) to be strong, strengthen {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6040
-    proximity: 0.8291
+    lemma: עֳנִי
+    gloss: depression {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: H2734
-    proximity: 0.8286
+    lemma: חָרָה
+    gloss: to glow or grow warm {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: H599
-    proximity: 0.8263
+    proximity: 0.8263 {macula-proximity}
   - strongs: H3013
-    proximity: 0.8218
+    lemma: יָגָה
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H6869
-    proximity: 0.8204
+    lemma: צָרָה
+    gloss: tightness (i.e. figuratively {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
   - strongs: H3708a
-    proximity: 0.8193
+    proximity: 0.8193 {macula-proximity}
   - strongs: H5100
-    proximity: 0.8158
+    lemma: נְהָמָה
+    gloss: snarling {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: H7115
-    proximity: 0.8148
+    lemma: קֹצֶר
+    gloss: shortness {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: H5999
-    proximity: 0.8119
+    lemma: עָמָל
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: H1419
-    proximity: 0.8099
+    lemma: גָּדוֹל
+    gloss: great {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
   cross_language:
   - strongs: G3893
-    proximity: 0.8286
+    lemma: παραπικραίνω
+    gloss: to embitter alongside {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G5604
-    proximity: 0.828
+    lemma: ὠδίν
+    gloss: a pang or throe {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G1282
-    proximity: 0.8272
+    lemma: διαπρίω
+    gloss: to saw asunder {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G4192
-    proximity: 0.8201
+    lemma: πόνος
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G931
-    proximity: 0.8165
+    proximity: 0.8165 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

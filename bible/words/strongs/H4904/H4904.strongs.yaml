@@ -7,44 +7,64 @@ definition: a bed (figuratively, a bier); abstractly, sleep; by euphemism, carna
   intercourse
 kjv_usage: bed(-chamber), couch, lieth (lying) with.
 derivation: from H7901 (שָׁכַב);
-extended_definition:
-  gloss: bed
-  definition: '1) a lying down, couch, bier, act of lying<br>1a) couch, bed<br>1b)
-    act of lying, lying down or sleeping room, bedroom<br>1c) lying down (for sexual
-    contact)<BR>Aramaic equivalent: <i>mish.kav</i> (מִשְׁכַּב "bed" H4903)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) a lying down, couch, bier, act of lying
+
+  1a) couch, bed
+
+  1b) act of lying, lying down or sleeping room, bedroom
+
+  1c) lying down (for sexual contact)
+
+  Aramaic equivalent: mish.kav (מִשְׁכַּב "bed" H4903) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2315
-    proximity: 0.8226
+    lemma: חֶדֶר
+    gloss: an apartment {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: H4769
-    proximity: 0.8193
+    lemma: מַרְבֵּץ
+    gloss: a reclining place {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H376
-    proximity: 0.8168
+    proximity: 0.8168 {macula-proximity}
   - strongs: H3331
-    proximity: 0.8128
+    lemma: יַצַע
+    gloss: to strew as a surface {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
   - strongs: H5973
-    proximity: 0.8102
+    lemma: עִם
+    gloss: adverb or preposition {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
   - strongs: H4765
-    proximity: 0.8066
+    lemma: מַרְבַד
+    gloss: a coverlet {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
   - strongs: H1330
-    proximity: 0.802
+    lemma: בְּתוּלָה
+    gloss: a virgin {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
   - strongs: H6170
-    proximity: 0.7983
+    lemma: עֲרוּגָה
+    gloss: something piled up  raised by mental aspiration) {openscriptures-strongs}
+    proximity: 0.7983 {macula-proximity}
   - strongs: H3462
-    proximity: 0.7906
+    lemma: יָשֵׁן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
   - strongs: H7257
-    proximity: 0.7689
+    lemma: רָבַץ
+    gloss: to crouch (on all four legs folded {openscriptures-strongs}
+    proximity: 0.7689 {macula-proximity}
   cross_language:
   - strongs: G2826
-    proximity: 0.8183
+    lemma: κλινίδιον
+    gloss: a pallet or little couch {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
     language: greek
   - strongs: G2518
-    proximity: 0.8102
+    lemma: καθεύδω
+    gloss: to lie down to rest {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

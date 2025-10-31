@@ -10,42 +10,66 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H3559
-    proximity: 0.8255
+    lemma: כּוּן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: H8354
-    proximity: 0.8201
+    lemma: שָׁתָה
+    gloss: to imbibe {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: H4541
-    proximity: 0.8146
+    lemma: מַסֵּכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
   - strongs: H8248
-    proximity: 0.8129
+    lemma: שָׁקָה
+    gloss: to quaff {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: H7126
-    proximity: 0.8112
+    lemma: קָרַב
+    gloss: to approach (causatively {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
   - strongs: H5927
-    proximity: 0.8107
+    lemma: עָלָה
+    gloss: to ascend {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
   - strongs: H4503
-    proximity: 0.8098
+    lemma: מִנְחָה
+    gloss: a donation {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
   - strongs: H7760
-    proximity: 0.8066
+    lemma: שׂוּם
+    gloss: to put (used in a great variety of applications {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
   - strongs: H5414
-    proximity: 0.8038
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
   - strongs: H3318
-    proximity: 0.8015
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
   cross_language:
   - strongs: G1032
-    proximity: 0.8189
+    lemma: βρύω
+    gloss: to swell out {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
     language: greek
   - strongs: G4095
-    proximity: 0.8172
+    lemma: πίνω
+    gloss: to imbibe {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
     language: greek
   - strongs: G399
-    proximity: 0.8169
+    proximity: 0.8169 {macula-proximity}
     language: greek
   - strongs: G2022
-    proximity: 0.8168
+    lemma: ἐπιχέω
+    proximity: 0.8168 {macula-proximity}
     language: greek
   - strongs: G4376
-    proximity: 0.8086
+    lemma: προσφορά
+    gloss: presentation {openscriptures-strongs}
+    proximity: 0.8086 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

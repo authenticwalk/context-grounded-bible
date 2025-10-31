@@ -6,36 +6,41 @@ pronunciation: shaw-gag'
 definition: to stray, i.e. (figuratively) sin (with more or less apology)
 kjv_usage: '[idiom] also for that, deceived, err, go astray, sin ignorantly.'
 derivation: a primitive root;
-extended_definition:
-  gloss: to go astray
-  definition: 1) to go astray, err, commit sin or error<br>1a) (Qal)<br>1a1) to err
-    (mentally)<br>1a2) to sin (ignorantly or inadvertently)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to go astray, err, commit sin or error
+
+  1a) (Qal)
+
+  1a1) to err (mentally)
+
+  1a2) to sin (ignorantly or inadvertently) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2048a
-    proximity: 0.8288
+    proximity: 0.8288 {macula-proximity}
   - strongs: A5075
-    proximity: 0.8274
+    proximity: 0.8274 {macula-proximity}
   - strongs: H7847
-    proximity: 0.8059
+    lemma: שָׂטָה
+    gloss: to deviate from duty {openscriptures-strongs}
+    proximity: 0.8059 {macula-proximity}
   - strongs: H2937
-    proximity: 0.7953
+    lemma: טָעָה
+    gloss: to wander {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
   - strongs: H7411a
-    proximity: 0.7774
+    proximity: 0.7774 {macula-proximity}
   cross_language:
   - strongs: G635
-    proximity: 0.783
+    proximity: 0.783 {macula-proximity}
     language: greek
   - strongs: G5422
-    proximity: 0.7712
+    lemma: φρεναπατάω
+    gloss: to be a mind-misleader {openscriptures-strongs}
+    proximity: 0.7712 {macula-proximity}
     language: greek
   - strongs: G3884
-    proximity: 0.7646
+    lemma: παραλογίζομαι
+    gloss: to misreckon {openscriptures-strongs}
+    proximity: 0.7646 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,36 +6,42 @@ pronunciation: makh-ag-o'-reth
 definition: a girdle
 kjv_usage: girding.
 derivation: from H2296 (חָגַר);
-extended_definition:
-  gloss: girding
-  definition: wrapping, girding, sash, cincture
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: wrapping, girding, sash, cincture {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2296
-    proximity: 0.8287
+    lemma: חָגַר
+    gloss: to gird on (as a belt {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H4206
-    proximity: 0.7958
+    lemma: מָזִיחַ
+    gloss: a belt {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
   - strongs: H2290
-    proximity: 0.7948
+    lemma: חֲגוֹר
+    gloss: a belt {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
   - strongs: H73
-    proximity: 0.7761
+    proximity: 0.7761 {macula-proximity}
   cross_language:
   - strongs: G1750
-    proximity: 0.8125
+    lemma: ἐνειλέω
+    gloss: to enwrap {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G1241
-    proximity: 0.8039
+    lemma: διαζώννυμι
+    gloss: to gird tightly {openscriptures-strongs}
+    proximity: 0.8039 {macula-proximity}
     language: greek
   - strongs: G2224
-    proximity: 0.7923
+    lemma: ζώννυμι
+    gloss: to bind about {openscriptures-strongs}
+    proximity: 0.7923 {macula-proximity}
     language: greek
   - strongs: G4024
-    proximity: 0.702
+    lemma: περιζώννυμι
+    gloss: to gird all around {openscriptures-strongs}
+    proximity: 0.702 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

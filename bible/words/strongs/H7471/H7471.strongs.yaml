@@ -6,37 +6,45 @@ pronunciation: reh-ee'
 definition: pasture
 kjv_usage: pasture.
 derivation: from H7462 (רָעָה);
-extended_definition:
-  gloss: pasture
-  definition: pasture
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: pasture {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H951
-    proximity: 0.8215
+    proximity: 0.8215 {macula-proximity}
   - strongs: H5116
-    proximity: 0.8063
+    lemma: נָוֶה
+    gloss: at home {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
   - strongs: H7473
-    proximity: 0.7837
+    lemma: רֹעִי
+    gloss: pastoral {openscriptures-strongs}
+    proximity: 0.7837 {macula-proximity}
   - strongs: H5097
-    proximity: 0.7493
+    lemma: נַהֲלֹל
+    gloss: pasture {openscriptures-strongs}
+    proximity: 0.7493 {macula-proximity}
   - strongs: H7462
-    proximity: 0.7189
+    lemma: רָעָה
+    gloss: to tend a flock {openscriptures-strongs}
+    proximity: 0.7189 {macula-proximity}
   - strongs: H4999
-    proximity: 0.7088
+    lemma: נָאָה
+    gloss: a home {openscriptures-strongs}
+    proximity: 0.7088 {macula-proximity}
   cross_language:
   - strongs: G4165
-    proximity: 0.8175
+    lemma: ποιμαίνω
+    gloss: to tend as a shepherd of (figuratively {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: greek
   - strongs: G4166
-    proximity: 0.7804
+    lemma: ποιμήν
+    gloss: a shepherd {openscriptures-strongs}
+    proximity: 0.7804 {macula-proximity}
     language: greek
   - strongs: G3542
-    proximity: 0.7586
+    lemma: νομή
+    gloss: pasture {openscriptures-strongs}
+    proximity: 0.7586 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

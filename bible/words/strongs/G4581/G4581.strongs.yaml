@@ -5,34 +5,35 @@ transliteration: Seleúkeia
 definition: Seleuceia, a place in Syria
 kjv_usage: Seleucia
 derivation: from (Seleucus, a Syrian king);
-extended_definition:
-  gloss: Seleucia
-  definition: '<b>Σελευκία</b> (Rec. -εύκεια), <BR /> <b>Seleucia, a city of Syria</b>:
-    <ref=''Act.13.4.''>Act.13:4.</ref>† <BR /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Σελευκία</b> (Rec. -εύκεια), <BR /> <b>Seleucia, a city of Syria</b>:
-    <ref=''Act.13.4.''>Act.13:4.</ref>† <BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Σελευκία (Rec. -εύκεια),
+
+  Seleucia, a city of Syria: Act.13:4.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Σελευκία (Rec. -εύκεια),
+
+  Seleucia, a city of Syria: Act.13:4.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2502
-    proximity: 0.8225
+    lemma: Ἰωσίας
+    gloss: Josias {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: G2996
-    proximity: 0.8044
+    lemma: Λασαία
+    gloss: Lasæa {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
   - strongs: G773
-    proximity: 0.7883
+    proximity: 0.7883 {macula-proximity}
   cross_language:
   - strongs: H89
-    proximity: 0.7986
+    proximity: 0.7986 {macula-proximity}
     language: hebrew
   - strongs: H1520
-    proximity: 0.7927
+    lemma: גִּיחַ
+    gloss: Giach {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

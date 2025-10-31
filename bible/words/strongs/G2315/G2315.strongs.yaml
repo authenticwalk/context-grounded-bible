@@ -5,40 +5,43 @@ transliteration: theópneustos
 definition: divinely breathed in
 kjv_usage: given by inspiration of God
 derivation: from G2316 (θεός) and a presumed derivative of G4154 (πνέω);
-extended_definition:
-  gloss: God-breathed
-  definition: '<b>θεόπνευστος</b>, -ον<BR /> (θεός, πνέω), <BR /><b>inspired by God</b>:
-    <ref=''2Ti.3.16.''>2Ti.3:16.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> θεό-πνευ-στος</b>, ον, <br /> <b>inspired of God</b>, σοφίη
-    [<a href="javascript:void(0)" title=" 1st c.AD(?): Pseudo-Phocylidea 129; ὄνειροι
-    1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.904f; πᾶσα γραφή NT.2Tim.3.16;
-    δημιούργημα 2nd c.AD: Vettius Valens Astrologus 330.19. ">NT+1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'θεόπνευστος, -ον
+
+  (θεός, πνέω),
+
+  inspired by God: 2Ti.3:16.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'θεό-πνευ-στος, ον,
+
+  inspired of God, σοφίη [NT+1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2319
-    proximity: 0.7926
+    lemma: θεοστυγής
+    gloss: hateful to God {openscriptures-strongs}
+    proximity: 0.7926 {macula-proximity}
   - strongs: G2314
-    proximity: 0.7916
+    lemma: θεομάχος
+    gloss: an opponent of deity {openscriptures-strongs}
+    proximity: 0.7916 {macula-proximity}
   - strongs: G2317
-    proximity: 0.772
+    lemma: θεοσέβεια
+    gloss: devoutness {openscriptures-strongs}
+    proximity: 0.772 {macula-proximity}
   - strongs: G112
-    proximity: 0.755
+    proximity: 0.755 {macula-proximity}
   - strongs: G5377
-    proximity: 0.7525
+    lemma: φιλόθεος
+    gloss: fond of God {openscriptures-strongs}
+    proximity: 0.7525 {macula-proximity}
   cross_language:
   - strongs: H4853a
-    proximity: 0.8255
+    proximity: 0.8255 {macula-proximity}
     language: hebrew
   - strongs: H3069
-    proximity: 0.798
+    lemma: יְהֹוִה
+    gloss: '{YHWH} {openscriptures-strongs}'
+    proximity: 0.798 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

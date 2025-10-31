@@ -10,17 +10,22 @@ derivation: from H6117 (עָקַב); in the original sense, a knoll (as swelling
 related_words:
   synonyms:
   - strongs: H1351
-    proximity: 0.7852
+    lemma: גָּאַל
+    gloss: to soil or  desecrate {openscriptures-strongs}
+    proximity: 0.7852 {macula-proximity}
   - strongs: H6119
-    proximity: 0.7187
+    lemma: עָקֵב
+    gloss: a heel {openscriptures-strongs}
+    proximity: 0.7187 {macula-proximity}
   cross_language:
   - strongs: G2840
-    proximity: 0.799
+    lemma: κοινόω
+    gloss: to make  profane {openscriptures-strongs}
+    proximity: 0.799 {macula-proximity}
     language: greek
   - strongs: G4695
-    proximity: 0.7715
+    lemma: σπιλόω
+    gloss: to stain or soil {openscriptures-strongs}
+    proximity: 0.7715 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

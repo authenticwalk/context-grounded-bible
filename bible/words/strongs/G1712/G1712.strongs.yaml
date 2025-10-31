@@ -5,58 +5,59 @@ transliteration: empórion
 definition: a mart ("emporium")
 kjv_usage: merchandise
 derivation: neuter from G1713 (ἔμπορος);
-extended_definition:
-  gloss: marketplace/trade
-  definition: '<b>ἐμπόριον</b>, -ον, τό<BR /> (ἔμπορος) [in LXX: <ref=''Deu.33.19''>Deu.33:19</ref>
-    (סָפַן), <ref=''Ezk.27.3''>Eze.27:3</ref> (רָכַל); ἐ. εἶναι, <ref=''Isa.23.17''>Isa.23:17</ref>
-    (זָנָה)* ;] <BR /><b>a trading place, exchange</b>: οἶκος ἐμπορίου, <ref=''Jhn.2.16.''>Jhn.2:16.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐμπόρ-ιον</b>, τό, <br /> <b>trading-station, mart, factory</b>,
-    [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.165, +others,
-    5th c.BC: Thucydides Historicus 1.100, 5th-6th c.BC: Aristophanes Comicus “Aves”
-    1523, “IPE” 12.47.9 (Olbia, 1st c.AD), etc.">Refs 5th c.BC+</a>]; προστάται τοῦ
-    ἐ. [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 2.178
-    ">Refs 5th c.BC+</a>]; ἐ. παρέχειν, of Corinth, [<a href="javascript:void(0)"
-    title=" 5th c.BC: Thucydides Historicus 1.13. ">Refs 5th c.BC+</a>]<br /><Level4><b>__b</b></Level4>
-    <b>market-centre</b> for a district which had no πόλις, [<a href="javascript:void(0)"
-    title=" “SIG” 880.22 (Macedonia, 3rd c.AD). ">Refs 3rd c.AD+</a>]<br /><Level3><b>__2</b></Level3>
-    τὸ ἐ., at Athens, <b>the Exchange</b>, where the merchants resorted, δανείσασθαι
-    Χρήματα ἐν τῷ ἐμπορίῶ [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes
-    Orator 35.1, compare 18.309 ">Refs 4th c.BC+</a>]; ἐκ τοὐμπορίου τινές foreign
-    <b>merchants</b>, [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Diphilus
-    Comicus 17.3, compare 43.9. ">Refs 4th c.BC+</a>]<br /><Level2><b>__II</b></Level2>
-    <b>ἐμπόρια</b>, τά, <b>merchandise</b>, [<a href="javascript:void(0)" title="
-    5th-6th c.BC: Xenophon Historicus “de Vectigalibus” 1.7. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐμπόριον, -ον, τό
+
+  (ἔμπορος) [in LXX: Deu.33:19 (סָפַן), Eze.27:3 (רָכַל); ἐ. εἶναι, Isa.23:17 (זָנָה)*
+  ;]
+
+  a trading place, exchange: οἶκος ἐμπορίου, Jhn.2:16.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐμπόρ-ιον, τό,
+
+  trading-station, mart, factory, [Refs 5th c.BC+]; προστάται τοῦ ἐ. [Refs 5th c.BC+];
+  ἐ. παρέχειν, of Corinth, [Refs 5th c.BC+]
+
+  __b market-centre for a district which had no πόλις, [Refs 3rd c.AD+]
+
+  __2 τὸ ἐ., at Athens, the Exchange, where the merchants resorted, δανείσασθαι Χρήματα
+  ἐν τῷ ἐμπορίῶ [Refs 4th c.BC+]; ἐκ τοὐμπορίου τινές foreign merchants, [Refs 4th
+  c.BC+]
+
+  __II ἐμπόρια, τά, merchandise, [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1710
-    proximity: 0.8103
+    lemma: ἐμπορεύομαι
+    gloss: to travel in {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   - strongs: G59
-    proximity: 0.7709
+    proximity: 0.7709 {macula-proximity}
   - strongs: G4453
-    proximity: 0.7508
+    lemma: πωλέω
+    gloss: to barter {openscriptures-strongs}
+    proximity: 0.7508 {macula-proximity}
   - strongs: G3111
-    proximity: 0.7407
+    lemma: μάκελλον
+    gloss: a butcher's stall {openscriptures-strongs}
+    proximity: 0.7407 {macula-proximity}
   cross_language:
   - strongs: H4376
-    proximity: 0.8248
+    lemma: מָכַר
+    gloss: to sell {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: hebrew
   - strongs: H4736
-    proximity: 0.8005
+    lemma: מִקְנָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8005 {macula-proximity}
     language: hebrew
   - strongs: H3667a
-    proximity: 0.7887
+    proximity: 0.7887 {macula-proximity}
     language: hebrew
   - strongs: H5187
-    proximity: 0.7083
+    lemma: נְטִיל
+    gloss: laden {openscriptures-strongs}
+    proximity: 0.7083 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

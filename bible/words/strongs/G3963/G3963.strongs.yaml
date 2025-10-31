@@ -5,30 +5,28 @@ transliteration: Pátmos
 definition: Patmus, an islet in the Mediterranean
 kjv_usage: Patmos
 derivation: of uncertain derivation;
-extended_definition:
-  gloss: Patmos
-  definition: '<b>Πάτμος</b>, -ου, ἡ <BR /> <b>Patmos, an island in the Ægean Sea</b>:
-    <ref=''Rev.1.9.''>Rev.1:9.</ref>†<BR /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Πάτμος</b>, -ου, ἡ <BR /> <b>Patmos, an island in the Ægean
-    Sea</b>: <ref=''Rev.1.9.''>Rev.1:9.</ref>†<BR />  (From Abbott-Smith. LSJ has
-    no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Πάτμος, -ου, ἡ
+
+  Patmos, an island in the Ægean Sea: Rev.1:9.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Πάτμος, -ου, ἡ
+
+  Patmos, an island in the Ægean Sea: Rev.1:9.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G301
-    proximity: 0.8241
+    proximity: 0.8241 {macula-proximity}
   - strongs: G4544
-    proximity: 0.8214
+    lemma: Σάμος
+    gloss: Samus {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   cross_language:
   - strongs: H4558
-    proximity: 0.8253
+    lemma: מִסְפָּר
+    gloss: Mispar {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

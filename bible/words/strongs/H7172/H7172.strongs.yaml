@@ -6,45 +6,53 @@ pronunciation: kar-kah'
 definition: floor (as if a pavement of pieces or tesseroe), of abuilding or the sea
 kjv_usage: bottom, ([idiom] one side of the) floor.
 derivation: from H7167 (קָרַע);
-extended_definition:
-  gloss: floor
-  definition: floor, bottom
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: floor, bottom {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3843
-    proximity: 0.8247
+    lemma: לְבֵנָה
+    gloss: a brick {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H3220
-    proximity: 0.8246
+    lemma: יָם
+    gloss: a sea  or large body of water {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: H5225a
-    proximity: 0.8168
+    proximity: 0.8168 {macula-proximity}
   - strongs: H3592a
-    proximity: 0.8168
+    proximity: 0.8168 {macula-proximity}
   - strongs: H4295
-    proximity: 0.8097
+    lemma: מַטָּה
+    gloss: downward {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: H2436
-    proximity: 0.7982
+    lemma: חֵיק
+    gloss: the bosom {openscriptures-strongs}
+    proximity: 0.7982 {macula-proximity}
   - strongs: A772
-    proximity: 0.7933
+    proximity: 0.7933 {macula-proximity}
   - strongs: A147
-    proximity: 0.7906
+    proximity: 0.7906 {macula-proximity}
   - strongs: H4688
-    proximity: 0.7813
+    lemma: מְצוֹלָה
+    gloss: a deep place {openscriptures-strongs}
+    proximity: 0.7813 {macula-proximity}
   - strongs: H6440
-    proximity: 0.7783
+    lemma: פָּנִים
+    gloss: the face {openscriptures-strongs}
+    proximity: 0.7783 {macula-proximity}
   cross_language:
   - strongs: G4383
-    proximity: 0.8177
+    lemma: πρόσωπον
+    gloss: the front {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
     language: greek
   - strongs: G257
-    proximity: 0.7984
+    proximity: 0.7984 {macula-proximity}
     language: greek
   - strongs: G5152
-    proximity: 0.7529
+    lemma: τρίστεγον
+    gloss: a third roof {openscriptures-strongs}
+    proximity: 0.7529 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

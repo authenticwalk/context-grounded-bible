@@ -7,44 +7,59 @@ definition: properly, to lean forward, i.e. to peer into the distance; by implic
   to observe, await
 kjv_usage: behold, espy, look up (well), wait for, (keep the) watch(-man).
 derivation: a primitive root;
-extended_definition:
-  gloss: to watch
-  definition: 1) to look out or about, spy, keep watch, observe, watch<br>1a)(Qal)
-    to keep watch, spy<br>1b) (Piel) to watch, watch closely
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to look out or about, spy, keep watch, observe, watch
+
+  1a)(Qal) to keep watch, spy
+
+  1b) (Piel) to watch, watch closely {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7200
-    proximity: 0.8206
+    lemma: רָאָה
+    gloss: to see {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: H8431
-    proximity: 0.8195
+    lemma: תּוֹחֶלֶת
+    gloss: expectation {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H7688
-    proximity: 0.7997
+    lemma: שָׁגַח
+    gloss: to peep {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
   - strongs: H4026
-    proximity: 0.7981
+    lemma: מִגְדָּל
+    gloss: a tower {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
   - strongs: H7789
-    proximity: 0.7832
+    lemma: שׁוּר
+    gloss: to spy out {openscriptures-strongs}
+    proximity: 0.7832 {macula-proximity}
   - strongs: H2442
-    proximity: 0.759
+    lemma: חָכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.759 {macula-proximity}
   cross_language:
   - strongs: G5442
-    proximity: 0.8078
+    lemma: φυλάσσω
+    gloss: to watch {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
     language: greek
   - strongs: G5441
-    proximity: 0.8071
+    lemma: φύλαξ
+    gloss: a watcher or sentry {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
     language: greek
   - strongs: G553
-    proximity: 0.8069
+    proximity: 0.8069 {macula-proximity}
     language: greek
   - strongs: G1551
-    proximity: 0.8037
+    lemma: ἐκδέχομαι
+    gloss: to accept from some source {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
     language: greek
   - strongs: G4444
-    proximity: 0.8033
+    lemma: πύργος
+    gloss: a tower or castle {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

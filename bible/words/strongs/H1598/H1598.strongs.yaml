@@ -6,43 +6,54 @@ pronunciation: gaw-nan'
 definition: to hedge about, i.e. (generally) protect
 kjv_usage: defend.
 derivation: a primitive root;
-extended_definition:
-  gloss: to defend
-  definition: 1) to defend, cover, surround<br>1a) (Qal) to defend<br>1b) (Hiphil)
-    to defend
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to defend, cover, surround
+
+  1a) (Qal) to defend
+
+  1b) (Hiphil) to defend {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5526c
-    proximity: 0.8265
+    proximity: 0.8265 {macula-proximity}
   - strongs: H5849
-    proximity: 0.8215
+    lemma: עָטַר
+    gloss: to encircle {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H5362a
-    proximity: 0.8136
+    proximity: 0.8136 {macula-proximity}
   - strongs: H2876
-    proximity: 0.8094
+    lemma: טַבָּח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
   - strongs: H2653
-    proximity: 0.7788
+    lemma: חׇפַף
+    gloss: to cover {openscriptures-strongs}
+    proximity: 0.7788 {macula-proximity}
   - strongs: A2877
-    proximity: 0.7756
+    proximity: 0.7756 {macula-proximity}
   - strongs: H8104
-    proximity: 0.753
+    lemma: שָׁמַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.753 {macula-proximity}
   - strongs: H4581
-    proximity: 0.7509
+    lemma: מָעוֹז
+    gloss: a fortified place {openscriptures-strongs}
+    proximity: 0.7509 {macula-proximity}
   - strongs: H4937
-    proximity: 0.7296
+    lemma: מִשְׁעֵן
+    gloss: a support {openscriptures-strongs}
+    proximity: 0.7296 {macula-proximity}
   - strongs: H5341
-    proximity: 0.7099
+    lemma: נָצַר
+    gloss: to guard {openscriptures-strongs}
+    proximity: 0.7099 {macula-proximity}
   cross_language:
   - strongs: G626
-    proximity: 0.8043
+    proximity: 0.8043 {macula-proximity}
     language: greek
   - strongs: G5442
-    proximity: 0.7239
+    lemma: φυλάσσω
+    gloss: to watch {openscriptures-strongs}
+    proximity: 0.7239 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,38 +6,44 @@ pronunciation: law-az'
 definition: to speak in a foreign tongue
 kjv_usage: strange language.
 derivation: a primitive root;
-extended_definition:
-  gloss: to mumble
-  definition: (Qal) to speak indistinctly, speak unintelligibly
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to speak indistinctly, speak unintelligibly {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2839
-    proximity: 0.8259
+    lemma: חִשֻּׁק
+    gloss: conjoined {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: H2114
-    proximity: 0.7991
+    lemma: זוּר
+    gloss: to turn aside {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: H1616
-    proximity: 0.776
+    lemma: גֵּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.776 {macula-proximity}
   - strongs: H2114b
-    proximity: 0.77
+    proximity: 0.77 {macula-proximity}
   - strongs: H5237
-    proximity: 0.7222
+    lemma: נׇכְרִי
+    gloss: strange {openscriptures-strongs}
+    proximity: 0.7222 {macula-proximity}
   cross_language:
   - strongs: G3581
-    proximity: 0.7616
+    lemma: ξένος
+    gloss: foreign (literally {openscriptures-strongs}
+    proximity: 0.7616 {macula-proximity}
     language: greek
   - strongs: G245
-    proximity: 0.7553
+    proximity: 0.7553 {macula-proximity}
     language: greek
   - strongs: G1258
-    proximity: 0.7489
+    lemma: διάλεκτος
+    gloss: a  discourse {openscriptures-strongs}
+    proximity: 0.7489 {macula-proximity}
     language: greek
   - strongs: G2084
-    proximity: 0.7358
+    lemma: ἑτερόγλωσσος
+    gloss: other- tongued {openscriptures-strongs}
+    proximity: 0.7358 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

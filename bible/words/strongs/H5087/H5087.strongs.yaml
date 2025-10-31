@@ -6,26 +6,28 @@ pronunciation: naw-dar'
 definition: to promise (pos., to do or give something to God)
 kjv_usage: (make a) vow.
 derivation: a primitive root;
-extended_definition:
-  gloss: to vow
-  definition: 1) to vow, make a vow<br>1a) (Qal) to vow a vow
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to vow, make a vow
+
+  1a) (Qal) to vow a vow {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6381
-    proximity: 0.7757
+    lemma: פָּלָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7757 {macula-proximity}
   - strongs: H6475
-    proximity: 0.7571
+    lemma: פָּצָה
+    gloss: to rend {openscriptures-strongs}
+    proximity: 0.7571 {macula-proximity}
   cross_language:
   - strongs: G1964
-    proximity: 0.8029
+    lemma: ἐπιορκέω
+    gloss: to commit perjury {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
     language: greek
   - strongs: G3727
-    proximity: 0.7534
+    lemma: ὅρκος
+    gloss: perhaps akin to G3725 ) {openscriptures-strongs}
+    proximity: 0.7534 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

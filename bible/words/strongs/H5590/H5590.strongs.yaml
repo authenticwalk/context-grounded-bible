@@ -8,47 +8,68 @@ definition: to rush upon; by implication, to toss (transitive or intransitive, l
 kjv_usage: be (toss with) tempest(-uous), be sore, troubled, come out as a (drive
   with the, scatter with a) whirlwind.
 derivation: a primitive root;
-extended_definition:
-  gloss: to rage
-  definition: 1) to storm, rage<br>1a) (Qal)<br>1a1) to storm<br>1a2) stormy, growing
-    storm (participle)<br>1b) (Niphal) to be enraged<br>1c) (Piel) to storm away<br>1d)
-    (Pual) to be driven by storm
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to storm, rage
+
+  1a) (Qal)
+
+  1a1) to storm
+
+  1a2) stormy, growing storm (participle)
+
+  1b) (Niphal) to be enraged
+
+  1c) (Piel) to storm away
+
+  1d) (Pual) to be driven by storm {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5591
-    proximity: 0.8263
+    lemma: סַעַר
+    gloss: a hurricane {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: H1518
-    proximity: 0.8207
+    lemma: גִּיחַ
+    gloss: to gush forth {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H5398
-    proximity: 0.8061
+    lemma: נָשַׁף
+    gloss: to breeze {openscriptures-strongs}
+    proximity: 0.8061 {macula-proximity}
   - strongs: H5492
-    proximity: 0.8039
+    lemma: סוּפָה
+    gloss: a hurricane {openscriptures-strongs}
+    proximity: 0.8039 {macula-proximity}
   - strongs: H1607
-    proximity: 0.7948
+    lemma: גָּעַשׁ
+    gloss: to agitate violently {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
   - strongs: H5591a
-    proximity: 0.7894
+    proximity: 0.7894 {macula-proximity}
   - strongs: H1644a
-    proximity: 0.7223
+    proximity: 0.7223 {macula-proximity}
   cross_language:
   - strongs: G1693
-    proximity: 0.8264
+    lemma: ἐμμαίνομαι
+    gloss: to rave on {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G4650
-    proximity: 0.8264
+    lemma: σκορπίζω
+    gloss: to dissipate {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G4154
-    proximity: 0.8253
+    lemma: πνέω
+    gloss: to breathe hard {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
     language: greek
   - strongs: G2373
-    proximity: 0.8201
+    lemma: θυμόω
+    gloss: to put in a passion {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G2366
-    proximity: 0.8083
+    lemma: θύελλα
+    proximity: 0.8083 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

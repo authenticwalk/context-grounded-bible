@@ -6,52 +6,67 @@ pronunciation: tak-leeth'
 definition: completion; by implication, an extremity
 kjv_usage: end, perfect(-ion).
 derivation: from H3615 (כָּלָה);
-extended_definition:
-  gloss: limit
-  definition: 1) end, perfection, consummation, completion, completeness<br>1a) end<br>1b)
-    completeness
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) end, perfection, consummation, completion, completeness
+
+  1a) end
+
+  1b) completeness {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8444
-    proximity: 0.826
+    lemma: תּוֹצָאָה
+    gloss: exit {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
   - strongs: H1366
-    proximity: 0.8222
+    lemma: גְּבוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H7117
-    proximity: 0.8175
+    lemma: קְצָת
+    gloss: a termination {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
   - strongs: A5491
-    proximity: 0.8151
+    proximity: 0.8151 {macula-proximity}
   - strongs: H7098
-    proximity: 0.8087
+    lemma: קָצָה
+    gloss: a termination {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
   - strongs: H319
-    proximity: 0.7937
+    proximity: 0.7937 {macula-proximity}
   - strongs: H657
-    proximity: 0.7824
+    proximity: 0.7824 {macula-proximity}
   - strongs: H7099
-    proximity: 0.7563
+    lemma: קֶצֶו
+    gloss: a limit {openscriptures-strongs}
+    proximity: 0.7563 {macula-proximity}
   - strongs: H1367
-    proximity: 0.7561
+    lemma: גְּבוּלָה
+    gloss: a boundary {openscriptures-strongs}
+    proximity: 0.7561 {macula-proximity}
   - strongs: H7097a
-    proximity: 0.755
+    proximity: 0.755 {macula-proximity}
   cross_language:
   - strongs: G5056
-    proximity: 0.8181
+    lemma: τέλος
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
     language: greek
   - strongs: G206
-    proximity: 0.8051
+    proximity: 0.8051 {macula-proximity}
     language: greek
   - strongs: G3734
-    proximity: 0.8046
+    lemma: ὁροθεσία
+    gloss: a limit-placing {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
     language: greek
   - strongs: G4930
-    proximity: 0.7788
+    lemma: συντέλεια
+    gloss: entire completion {openscriptures-strongs}
+    proximity: 0.7788 {macula-proximity}
     language: greek
   - strongs: G4009
-    proximity: 0.7174
+    lemma: πέρας
+    gloss: an extremity {openscriptures-strongs}
+    proximity: 0.7174 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

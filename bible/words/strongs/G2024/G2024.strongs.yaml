@@ -5,51 +5,59 @@ transliteration: epichorēgía
 definition: contribution
 kjv_usage: supply
 derivation: from G2023 (ἐπιχορηγέω);
-extended_definition:
-  gloss: supply
-  definition: '<b>ἐπι-χορηγία</b>, -ας, ἡ<BR /> (ἐπιχορηγέω), <BR /><b>a supply</b>:
-    <ref=''Eph.4.16''>Eph.4:16</ref>, <ref=''Php.1.19''>Php.1:19</ref>.† <BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ἐπιχορηγ-ία</b>, ἡ, <br /> <b>supply, provision,</b> τῆς ἐ.
-    γενομένης ἐκ τῶν ἱερῶν προσόδων [<a href="javascript:void(0)" title=" “SIG” 818.9
-    (Ephesus, 1st c.AD)">Refs 1st c.AD+</a>]; πᾶν τὸ σῶμα..συμβιβαζόμενον διὰ πάσης
-    ἁφῆς τῆς ἐπιχορηγίας, ={διὰ πασῶν τῶν ἐπιχορηγουσῶν ἁφῶν} (compare ἐπιχορηγέω
-    near the end), [<a href="javascript:void(0)" title=" NT.Eph.4.16; διὰ τῆς ἐ. τοῦ
-    πνεύματος NT.Phil.1.19. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ἐπι-χορηγία, -ας, ἡ
+
+  (ἐπιχορηγέω),
+
+  a supply: Eph.4:16, Php.1:19.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐπιχορηγ-ία, ἡ,
+
+  supply, provision, τῆς ἐ. γενομένης ἐκ τῶν ἱερῶν προσόδων [Refs 1st c.AD+]; πᾶν
+  τὸ σῶμα..συμβιβαζόμενον διὰ πάσης ἁφῆς τῆς ἐπιχορηγίας, ={διὰ πασῶν τῶν ἐπιχορηγουσῶν
+  ἁφῶν} (compare ἐπιχορηγέω near the end), [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A5415
-    proximity: 0.828
+    proximity: 0.828 {macula-proximity}
   - strongs: G5256
-    proximity: 0.8235
+    lemma: ὑπηρετέω
+    gloss: to be a subordinate {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: G482
-    proximity: 0.8183
+    proximity: 0.8183 {macula-proximity}
   - strongs: G3685
-    proximity: 0.8068
+    lemma: ὀνίνημι
+    gloss: for which another prolonged form  is used as an alternate in some tenses  through
+      the idea of notoriety) {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
   - strongs: G4820
-    proximity: 0.7493
+    lemma: συμβάλλω
+    gloss: to combine {openscriptures-strongs}
+    proximity: 0.7493 {macula-proximity}
   cross_language:
   - strongs: H5375
-    proximity: 0.8279
+    lemma: נָשָׂא
+    gloss: to lift {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: hebrew
   - strongs: H5582
-    proximity: 0.8218
+    lemma: סָעַד
+    gloss: to suport {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
     language: hebrew
   - strongs: H353
-    proximity: 0.8095
+    proximity: 0.8095 {macula-proximity}
     language: hebrew
   - strongs: H8551
-    proximity: 0.8023
+    lemma: תָּמַךְ
+    gloss: to sustain {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
     language: hebrew
   - strongs: H6720
-    proximity: 0.7802
+    lemma: צֵידָה
+    gloss: food {openscriptures-strongs}
+    proximity: 0.7802 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,41 +6,45 @@ pronunciation: kho'-fen
 definition: a fist (only in the dual)
 kjv_usage: fists, (both) hands, hand(-ful).
 derivation: from an unused root of uncertain signification;
-extended_definition:
-  gloss: palm
-  definition: handfuls, hollow of the hand
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: handfuls, hollow of the hand {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7061
-    proximity: 0.8235
+    lemma: קָמַץ
+    gloss: to grasp with the hand {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: H3225
-    proximity: 0.8078
+    lemma: יָמִין
+    gloss: the right hand or side (leg {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   - strongs: H3231
-    proximity: 0.7823
+    lemma: יָמַן
+    gloss: to be right-handed or take the right-hand side {openscriptures-strongs}
+    proximity: 0.7823 {macula-proximity}
   - strongs: A6447
-    proximity: 0.7779
+    proximity: 0.7779 {macula-proximity}
   - strongs: A3028
-    proximity: 0.7392
+    proximity: 0.7392 {macula-proximity}
   cross_language:
   - strongs: G5497
-    proximity: 0.8256
+    lemma: χειραγωγός
+    gloss: a hand-leader {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
     language: greek
   - strongs: G5499
-    proximity: 0.8248
+    lemma: χειροποίητος
+    gloss: manufactured {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: greek
   - strongs: G5496
-    proximity: 0.8216
+    lemma: χειραγωγέω
+    gloss: to be a hand-leader {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
     language: greek
   - strongs: G710
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G849
-    proximity: 0.7873
+    proximity: 0.7873 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

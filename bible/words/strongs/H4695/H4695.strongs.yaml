@@ -6,42 +6,52 @@ pronunciation: mats-tsooth'
 definition: a quarrel
 kjv_usage: that contended.
 derivation: from H5327 (נָצָה);
-extended_definition:
-  gloss: strife
-  definition: strife, contention
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: strife, contention {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1624
-    proximity: 0.8263
+    lemma: גָּרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: H7378
-    proximity: 0.8219
+    lemma: רִיב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: H4066
-    proximity: 0.7965
+    lemma: מָדוֹן
+    gloss: a contest or quarrel {openscriptures-strongs}
+    proximity: 0.7965 {macula-proximity}
   - strongs: H4079
-    proximity: 0.7949
+    lemma: מִדְיָן
+    gloss: '{a contest or quarrel} {openscriptures-strongs}'
+    proximity: 0.7949 {macula-proximity}
   - strongs: H6633
-    proximity: 0.7946
+    lemma: צָבָא
+    gloss: to mass {openscriptures-strongs}
+    proximity: 0.7946 {macula-proximity}
   - strongs: H6229
-    proximity: 0.7922
+    lemma: עָשַׂק
+    gloss: to press upon {openscriptures-strongs}
+    proximity: 0.7922 {macula-proximity}
   - strongs: H5327
-    proximity: 0.7886
+    lemma: נָצָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7886 {macula-proximity}
   cross_language:
   - strongs: G269
-    proximity: 0.7514
+    proximity: 0.7514 {macula-proximity}
     language: greek
   - strongs: G3859a
-    proximity: 0.7417
+    proximity: 0.7417 {macula-proximity}
     language: greek
   - strongs: G3164
-    proximity: 0.7304
+    lemma: μάχομαι
+    gloss: to war {openscriptures-strongs}
+    proximity: 0.7304 {macula-proximity}
     language: greek
   - strongs: G4752
-    proximity: 0.7232
+    lemma: στρατεία
+    gloss: military service {openscriptures-strongs}
+    proximity: 0.7232 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

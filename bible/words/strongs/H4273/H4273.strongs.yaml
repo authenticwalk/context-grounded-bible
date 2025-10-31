@@ -6,40 +6,48 @@ pronunciation: makh'-ats
 definition: a contusion
 kjv_usage: stroke.
 derivation: from H4272 (מָחַץ);
-extended_definition:
-  gloss: wound
-  definition: severe wound, contusion
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: severe wound, contusion {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4618
-    proximity: 0.8253
+    lemma: מַעֲנָה
+    gloss: a furrow {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
   - strongs: A2257
-    proximity: 0.8245
+    proximity: 0.8245 {macula-proximity}
   - strongs: H2490a
-    proximity: 0.8197
+    proximity: 0.8197 {macula-proximity}
   - strongs: H5061
-    proximity: 0.788
+    lemma: נֶגַע
+    gloss: a blow (figuratively {openscriptures-strongs}
+    proximity: 0.788 {macula-proximity}
   - strongs: H4205
-    proximity: 0.7806
+    lemma: מָזוֹר
+    gloss: a bandage {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
   - strongs: H2483
-    proximity: 0.776
+    lemma: חֳלִי
+    gloss: malady {openscriptures-strongs}
+    proximity: 0.776 {macula-proximity}
   - strongs: H4347
-    proximity: 0.7665
+    lemma: מַכָּה
+    gloss: a wound {openscriptures-strongs}
+    proximity: 0.7665 {macula-proximity}
   - strongs: H6867
-    proximity: 0.7569
+    lemma: צָרֶבֶת
+    gloss: conflagration {openscriptures-strongs}
+    proximity: 0.7569 {macula-proximity}
   - strongs: H6481
-    proximity: 0.7076
+    lemma: פָּצַע
+    gloss: to split {openscriptures-strongs}
+    proximity: 0.7076 {macula-proximity}
   cross_language:
   - strongs: G732
-    proximity: 0.8276
+    proximity: 0.8276 {macula-proximity}
     language: greek
   - strongs: G5135
-    proximity: 0.7326
+    lemma: τραυματίζω
+    gloss: to inflict a wound {openscriptures-strongs}
+    proximity: 0.7326 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

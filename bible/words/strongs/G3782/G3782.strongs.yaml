@@ -6,31 +6,29 @@ definition: indebtedness, i.e. (concretely) a sum owed; figuratively, obligation
   i.e. (conjugal) duty
 kjv_usage: debt, due
 derivation: from G3784 (ὀφείλω);
-extended_definition:
-  gloss: debt
-  definition: '<b>ὀφειλή</b>, -ῆς, ἡ<BR /> (ὀφείλω), <BR /><b>a debt</b>: <ref=''Mat.18.32''>Mat.18:32;</ref>
-    metaphorically, <b>one''s due</b>: <ref=''Rom.13.7''>Rom.13:7</ref>, <ref=''1Co.7.3''>1Co.7:3</ref>
-    (found also in π.; see Deiss., BS, 221; MM, xviii).†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὀφειλ-ή</b>, ἡ, <br /> <b>debt</b>, [<a href="javascript:void(0)"
-    title=" 5th-6th c.BC: Xenophon Historicus “Vect.” (cited in “Etymologicum Magnum”
-    644.3), “Ostr.Bodl.” i 311 (3rd c.BC), “BGU” 1158.18 (1st c.BC), 112.11 (1st c.AD),
-    +others, NT.Matt.18.32. ">NT+5th c.BC+</a>]<br /><Level3><b>__2</b></Level3> <b>one''s
-    due,</b> [<a href="javascript:void(0)" title="NT.Rom.13.7, NT.1Cor.7.3. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ὀφειλή, -ῆς, ἡ
+
+  (ὀφείλω),
+
+  a debt: Mat.18:32; metaphorically, one''s due: Rom.13:7, 1Co.7:3 (found also in
+  π.; see Deiss., BS, 221; MM, xviii).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὀφειλ-ή, ἡ,
+
+  debt, [NT+5th c.BC+]
+
+  __2 one''s due, [NT] {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H5386
-    proximity: 0.8028
+    lemma: נְשִׁי
+    gloss: a debt {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
     language: hebrew
   - strongs: H2969
-    proximity: 0.7668
+    lemma: יָאָה
+    gloss: to be suitable {openscriptures-strongs}
+    proximity: 0.7668 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

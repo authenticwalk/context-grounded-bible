@@ -8,39 +8,47 @@ definition: a flabby thing, i.e. a carcase or carrion (human or bestial, often c
 kjv_usage: (dead) body, (dead) carcase, dead of itself, which died, (beast) that (which)
   dieth of itself.
 derivation: from H5034 (נָבֵל);
-extended_definition:
-  gloss: carcass
-  definition: 1) carcass, corpse<br>1a) of humans, idols, animals
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) carcass, corpse
+
+  1a) of humans, idols, animals {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7607
-    proximity: 0.8237
+    lemma: שְׁאֵר
+    gloss: flesh {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: A2423
-    proximity: 0.8236
+    proximity: 0.8236 {macula-proximity}
   - strongs: H1320
-    proximity: 0.818
+    lemma: בָּשָׂר
+    gloss: flesh {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: H3338
-    proximity: 0.8088
+    lemma: יָצֻר
+    gloss: structure {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
   - strongs: H6106
-    proximity: 0.8002
+    lemma: עֶצֶם
+    gloss: a bone {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: H8270
-    proximity: 0.7978
+    lemma: שֹׁר
+    gloss: a string {openscriptures-strongs}
+    proximity: 0.7978 {macula-proximity}
   - strongs: H193
-    proximity: 0.7712
+    proximity: 0.7712 {macula-proximity}
   cross_language:
   - strongs: G3196
-    proximity: 0.8209
+    lemma: μέλος
+    gloss: a limb or part of the body {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
     language: greek
   - strongs: G4984
-    proximity: 0.8168
+    lemma: σωματικός
+    gloss: corporeal or physical {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
     language: greek
   - strongs: G599
-    proximity: 0.7533
+    proximity: 0.7533 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -9,30 +9,37 @@ derivation: the same as H7776 (שׁוּעָל);
 related_words:
   synonyms:
   - strongs: H5720
-    proximity: 0.8292
+    lemma: עָדִין
+    gloss: Adin {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: H647
-    proximity: 0.8288
+    proximity: 0.8288 {macula-proximity}
   - strongs: H5912
-    proximity: 0.8287
+    lemma: עָכָן
+    gloss: Akan {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H609
-    proximity: 0.8279
+    proximity: 0.8279 {macula-proximity}
   - strongs: H265
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
   - strongs: H22
-    proximity: 0.8256
+    proximity: 0.8256 {macula-proximity}
   - strongs: H3091
-    proximity: 0.8225
+    lemma: יְהוֹשׁוּעַ
+    gloss: Jehoshua {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: H474
-    proximity: 0.8203
+    proximity: 0.8203 {macula-proximity}
   - strongs: H682
-    proximity: 0.8098
+    proximity: 0.8098 {macula-proximity}
   - strongs: H6000
-    proximity: 0.8097
+    lemma: עָמָל
+    gloss: Amal {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   cross_language:
   - strongs: G5617
-    proximity: 0.8139
+    lemma: Ὡσηέ
+    gloss: Hosee {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

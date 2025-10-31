@@ -6,49 +6,61 @@ pronunciation: too
 definition: to sweep away
 kjv_usage: sweep.
 derivation: a primitive root;
-extended_definition:
-  gloss: to sweep
-  definition: (Pilpel) to sweep, sweep away
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Pilpel) to sweep, sweep away {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5502
-    proximity: 0.8214
+    lemma: סָחַף
+    gloss: to scrape off {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H2891
-    proximity: 0.8195
+    lemma: טָהֵר
+    gloss: to be pure (physical sound {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H3526
-    proximity: 0.8103
+    lemma: כָּבַס
+    gloss: to trample {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   - strongs: H8175a
-    proximity: 0.8067
+    proximity: 0.8067 {macula-proximity}
   - strongs: H5130b
-    proximity: 0.8
+    proximity: 0.8 {macula-proximity}
   - strongs: H2229
-    proximity: 0.7597
+    lemma: זָרַם
+    gloss: to gush {openscriptures-strongs}
+    proximity: 0.7597 {macula-proximity}
   - strongs: H1641
-    proximity: 0.7543
+    lemma: גָּרַר
+    gloss: to drag off roughly {openscriptures-strongs}
+    proximity: 0.7543 {macula-proximity}
   - strongs: H1640
-    proximity: 0.7528
+    lemma: גָּרַף
+    gloss: to bear off violently {openscriptures-strongs}
+    proximity: 0.7528 {macula-proximity}
   - strongs: H5500
-    proximity: 0.7431
+    lemma: סָחָה
+    gloss: to sweep away {openscriptures-strongs}
+    proximity: 0.7431 {macula-proximity}
   cross_language:
   - strongs: G1808
-    proximity: 0.8204
+    lemma: ἐξαίρω
+    gloss: to remove {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
     language: greek
   - strongs: G1571
-    proximity: 0.8167
+    lemma: ἐκκαθαίρω
+    gloss: to cleanse thoroughly {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G595
-    proximity: 0.8095
+    proximity: 0.8095 {macula-proximity}
     language: greek
   - strongs: G4951
-    proximity: 0.8083
+    lemma: σύρω
+    gloss: to trail {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
     language: greek
   - strongs: G628
-    proximity: 0.7931
+    proximity: 0.7931 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

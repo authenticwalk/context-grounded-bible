@@ -5,60 +5,73 @@ transliteration: synanapaúomai
 definition: to recruit oneself in company with
 kjv_usage: refresh with
 derivation: middle from G4862 (σύν) and G373 (ἀναπαύω);
-extended_definition:
-  gloss: to rest with
-  definition: '<b>συν-ανα-παύομαι </b><BR /> [in LXX: <ref=''Isa.11.6''>Isa.11:6</ref>
-    (רָבַץ) * ;] <BR />with dative of person(s), to lie down to rest with, sleep with.
-    Metaphorical, <b>to be refreshed in spirit with</b>: <ref=''Rom.15.32''>Rom.15:32</ref>
-    (L, om.).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συνανα-παύομαι</b>, <br /> <i>passive</i>, <b>sleep with</b>,
-    γυναικί [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis
-    “Ars Rhetorica” 9.4, compare 1st-2nd c.AD: Plutarchus Biographus et Philosophus
-    2.125a, 3rd c.AD: Heliodorus Scriptor Eroticus 6.8 ">Refs 1st c.BC+</a>]; <b>to
-    be refreshed, receive comfort along with</b>, ὑμῖν [<a href="javascript:void(0)"
-    title=" NT.Rom.15.32. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συν-ανα-παύομαι
+
+  [in LXX: Isa.11:6 (רָבַץ) * ;]
+
+  with dative of person(s), to lie down to rest with, sleep with. Metaphorical, to
+  be refreshed in spirit with: Rom.15:32 (L, om.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συνανα-παύομαι,
+
+  passive, sleep with, γυναικί [Refs 1st c.BC+]; to be refreshed, receive comfort
+  along with, ὑμῖν [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4828
-    proximity: 0.8292
+    lemma: συμμαρτυρέω
+    gloss: to testify jointly {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: G2838
-    proximity: 0.8272
+    lemma: κοίμησις
+    gloss: sleeping {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: G3661
-    proximity: 0.8239
+    lemma: ὁμοθυμαδόν
+    gloss: unanimously {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: G4925
-    proximity: 0.8201
+    lemma: συνοικοδομέω
+    gloss: to construct {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: G429
-    proximity: 0.8152
+    proximity: 0.8152 {macula-proximity}
   - strongs: G4872
-    proximity: 0.8124
+    lemma: συναναβαίνω
+    gloss: to ascend in company with {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: G404
-    proximity: 0.8119
+    proximity: 0.8119 {macula-proximity}
   - strongs: G4871
-    proximity: 0.81
+    lemma: συναλίζω
+    gloss: to accumulate {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
   - strongs: G1879
-    proximity: 0.8099
+    lemma: ἐπαναπαύομαι
+    gloss: to settle on {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
   - strongs: G4899
-    proximity: 0.8098
+    lemma: συνεκλεκτός
+    gloss: chosen in company with {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
   cross_language:
   - strongs: H5978
-    proximity: 0.8181
+    lemma: עִמָּד
+    gloss: along with {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
     language: hebrew
   - strongs: H4774
-    proximity: 0.8172
+    lemma: מַרְגֵּעָה
+    gloss: rest {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
     language: hebrew
   - strongs: H7280
-    proximity: 0.8158
+    lemma: רָגַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
     language: hebrew
   - strongs: H5740a
-    proximity: 0.8148
+    proximity: 0.8148 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

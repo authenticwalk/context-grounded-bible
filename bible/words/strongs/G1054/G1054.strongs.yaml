@@ -5,39 +5,40 @@ transliteration: Galatikós
 definition: Galatic or relating to Galatia
 kjv_usage: of Galatia
 derivation: from G1053 (Γαλατία);
-extended_definition:
-  gloss: Galatia
-  definition: '<b>Γαλατικός</b>, -ή, -όν (see previous word), <BR /> <b>Galatian</b>,
-    <b>belonging to Galatia</b>: <ref=''Act.16.6; 18.23''>Act.16:6 18:23</ref>.†<BR
-    /> (AS)'
-  morphology: N:A--LG
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Γαλατικός</b>, -ή, -όν (see previous word), <BR /> <b>Galatian</b>,
-    <b>belonging to Galatia</b>: <ref=''Act.16.6; 18.23''>Act.16:6 18:23</ref>.†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Γαλατικός, -ή, -όν (see previous word),
+
+  Galatian, belonging to Galatia: Act.16:6 18:23.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Γαλατικός, -ή, -όν (see previous word),
+
+  Galatian, belonging to Galatia: Act.16:6 18:23.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1046
-    proximity: 0.818
+    lemma: Γαδαρηνός
+    gloss: a Gadarene or inhabitant of Gadara {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: G4469
-    proximity: 0.8167
+    lemma: ῥακά
+    gloss: O empty one {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: G914
-    proximity: 0.7778
+    proximity: 0.7778 {macula-proximity}
   cross_language:
   - strongs: H1294a
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
     language: hebrew
   - strongs: H1559
-    proximity: 0.7917
+    lemma: גָּלָל
+    gloss: Galal {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: hebrew
   - strongs: H3625
-    proximity: 0.7854
+    lemma: כֶּלַח
+    gloss: Kelach {openscriptures-strongs}
+    proximity: 0.7854 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

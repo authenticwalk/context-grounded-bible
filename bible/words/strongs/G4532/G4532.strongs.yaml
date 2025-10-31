@@ -5,34 +5,36 @@ transliteration: Salḗm
 definition: Salem (i.e. Shalem), a place in Palestine
 kjv_usage: Salem
 derivation: of Hebrew origin (H08004);
-extended_definition:
-  gloss: Salem
-  definition: '<b>Σαλήμ</b>, ἡ (Heb. שָׁלֵם <ref=''Gen.14.18''>Gen.14:18</ref>), <BR
-    /> <b>Salem</b>: <ref=''Heb.7.1-2''>Heb.7:1-2</ref> (LXX).†<BR /> (AS)'
-  morphology: N:N--L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Σαλήμ</b>, ἡ (Heb. שָׁלֵם <ref=''Gen.14.18''>Gen.14:18</ref>),
-    <BR /> <b>Salem</b>: <ref=''Heb.7.1-2''>Heb.7:1-2</ref> (LXX).†<BR />  (From Abbott-Smith.
-    LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Σαλήμ, ἡ (Heb. שָׁלֵם Gen.14:18),
+
+  Salem: Heb.7:1-2 (LXX).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Σαλήμ, ἡ (Heb. שָׁלֵם Gen.14:18),
+
+  Salem: Heb.7:1-2 (LXX).†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2419
-    proximity: 0.7906
+    lemma: Ἱερουσαλήμ
+    gloss: Hierusalem {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
   - strongs: G2414
-    proximity: 0.7903
+    lemma: Ἱεροσόλυμα
+    gloss: Hierosolyma {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
   - strongs: A3390
-    proximity: 0.789
+    proximity: 0.789 {macula-proximity}
   - strongs: G2415
-    proximity: 0.7808
+    lemma: Ἱεροσολυμίτης
+    gloss: a Hierosolymite {openscriptures-strongs}
+    proximity: 0.7808 {macula-proximity}
   cross_language:
   - strongs: H3389
-    proximity: 0.8055
+    lemma: יְרוּשָׁלַ͏ִם
+    gloss: Jerushalaim or Jerushalem {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

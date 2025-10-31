@@ -5,47 +5,52 @@ transliteration: psōmíon
 definition: a crumb or morsel (as if rubbed off), i.e. a mouthful
 kjv_usage: sop
 derivation: diminutive from a derivative of the base of G5597 (ψώχω);
-extended_definition:
-  gloss: piece
-  definition: '<b>ψωμίον</b>, -ου, τό <BR /> dimin. of ψωμός, <b>a fragment, morsel</b>:
-    <ref=''Jhn.13.26-27, 30''>Jhn.13:26-27, 30</ref>.†<BR /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ψωμ-ίον</b>, τό, <br /> <i>diminutive</i> of ψωμός, of a bun
-    for a crocodile, [<a href="javascript:void(0)" title=" “PTeb.” 33.14 (2nd c.BC),compare
-    3rd c.AD(?): Diogenes Laertius 6.37, NT.John.13.26, 2nd c.AD: Marcus Antoninus
-    Imperator 7.3 ">NT+2nd c.BC+</a>].'
-  source: STEPBible/LSJ
+extended_definition: 'ψωμίον, -ου, τό
+
+  dimin. of ψωμός, a fragment, morsel: Jhn.13:26-27, 30.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ψωμ-ίον, τό,
+
+  diminutive of ψωμός, of a bun for a crocodile, [NT+2nd c.BC+]. {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2762
-    proximity: 0.829
+    lemma: κεραία
+    gloss: something horn-like {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: G2201
-    proximity: 0.8091
+    lemma: ζεῦγος
+    gloss: a couple {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
   - strongs: G740
-    proximity: 0.7989
+    proximity: 0.7989 {macula-proximity}
   - strongs: G2801
-    proximity: 0.7887
+    lemma: κλάσμα
+    gloss: a piece {openscriptures-strongs}
+    proximity: 0.7887 {macula-proximity}
   cross_language:
   - strongs: H1335
-    proximity: 0.8294
+    lemma: בֶּתֶר
+    gloss: a section {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: hebrew
   - strongs: H6249
-    proximity: 0.8285
+    lemma: עַשְׁתֵּי
+    gloss: eleven or  eleventh {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: hebrew
   - strongs: H3899
-    proximity: 0.8252
+    lemma: לֶחֶם
+    gloss: food {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: hebrew
   - strongs: H7447a
-    proximity: 0.8158
+    proximity: 0.8158 {macula-proximity}
     language: hebrew
   - strongs: H3834
-    proximity: 0.8155
+    lemma: לָבִיבָה
+    gloss: a cake {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

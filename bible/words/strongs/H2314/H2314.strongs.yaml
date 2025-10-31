@@ -7,43 +7,55 @@ definition: properly, to inclose (as a room), i.e. (by analogy,) to beset (as in
   siege)
 kjv_usage: enter a privy chamber.
 derivation: a primitive root;
-extended_definition:
-  gloss: to surround
-  definition: (Qal) to encompass, surround, enclose
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to encompass, surround, enclose {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H871a
-    proximity: 0.8192
+    proximity: 0.8192 {macula-proximity}
   - strongs: H5849
-    proximity: 0.8172
+    lemma: עָטַר
+    gloss: to encircle {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
   - strongs: H5921
-    proximity: 0.8138
+    lemma: עַל
+    gloss: above {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
   - strongs: H1754
-    proximity: 0.8038
+    lemma: דּוּר
+    gloss: a circle {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
   - strongs: H5437
-    proximity: 0.7333
+    lemma: סָבַב
+    gloss: to revolve {openscriptures-strongs}
+    proximity: 0.7333 {macula-proximity}
   - strongs: H6696
-    proximity: 0.7026
+    lemma: צוּר
+    gloss: to cramp {openscriptures-strongs}
+    proximity: 0.7026 {macula-proximity}
   cross_language:
   - strongs: G1521
-    proximity: 0.8229
+    lemma: εἰσάγω
+    gloss: to introduce {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G1531
-    proximity: 0.8135
+    lemma: εἰσπορεύομαι
+    gloss: to enter {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
     language: greek
   - strongs: G5009
-    proximity: 0.8031
+    lemma: ταμεῖον
+    gloss: akin to {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
     language: greek
   - strongs: G1525
-    proximity: 0.7744
+    lemma: εἰσέρχομαι
+    gloss: to enter {openscriptures-strongs}
+    proximity: 0.7744 {macula-proximity}
     language: greek
   - strongs: G1524
-    proximity: 0.7683
+    lemma: εἴσειμι
+    gloss: to enter {openscriptures-strongs}
+    proximity: 0.7683 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

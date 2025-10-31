@@ -5,27 +5,26 @@ transliteration: Kárpos
 definition: Carpus, probably a Christian
 kjv_usage: Carpus
 derivation: perhaps for G2590 (καρπός);
-extended_definition:
-  gloss: Carpus
-  definition: '<b>Κάρπος</b>, -ου, ὁ <BR /> <b>Carpus</b>: <ref=''2Ti.4.13.''>2Ti.4:13.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Κάρπος</b>, -ου, ὁ <BR /> <b>Carpus</b>: <ref=''2Ti.4.13.''>2Ti.4:13.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Κάρπος, -ου, ὁ
+
+  Carpus: 2Ti.4:13.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Κάρπος, -ου, ὁ
+
+  Carpus: 2Ti.4:13.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H7174
-    proximity: 0.8074
+    lemma: קַרְקֹר
+    gloss: Karkor {openscriptures-strongs}
+    proximity: 0.8074 {macula-proximity}
     language: hebrew
   - strongs: H7173
-    proximity: 0.7913
+    lemma: קַרְקַע
+    gloss: Karka {openscriptures-strongs}
+    proximity: 0.7913 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

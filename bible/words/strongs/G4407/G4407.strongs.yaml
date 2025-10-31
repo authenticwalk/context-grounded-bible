@@ -5,48 +5,53 @@ transliteration: prōïnós
 definition: pertaining to the dawn, i.e. matutinal
 kjv_usage: morning
 derivation: from G4404 (πρωΐ);
-extended_definition:
-  gloss: morning
-  definition: '<b>πρωινός</b><BR /> (Rec. -ϊνος, see WH, <i>App.</i>, ή, -όν (πρωί),
-    [in LXX chiefly for בֹּקֶר ;] <BR />= cl. πρώιος, <BR /> <b>at early morn, early</b>:
-    ἀστήρ, <ref=''Rev.2.28; 22.16''>Rev.2:28 22:16</ref>.†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> πρωϊνός</b> [ῐ], ή, όν, <br /> later form of πρώϊος (for which
-    it is <i>falsa lectio</i> in [<a href="javascript:void(0)" title=" 4th-3rd c.BC:
-    Theophrastus Philosophus “de Causis Plantarum” 3.24.2), “PCair.Zen.” 207.36 (3rd
-    c.BC), LXX.Gen.49.27, LXX.Exo.29.41, +others">LXX+4th c.BC+</a>]; ἐδωδή [<a href="javascript:void(0)"
-    title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.726f, compare 2nd
-    c.AD: Athenaeus Epigrammaticus 1.11c; ἔργα 2nd c.AD: Babrius Fabularum Scriptor
-    124.17. ">Refs 1st c.AD+</a>] <i>adverb</i> -νῶς interpolated in [<a href="javascript:void(0)"
-    title=" 10th c.AD: Suidas Legal icographus see at {πρώϊμος}. ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'πρωινός
+
+  (Rec. -ϊνος, see WH, App., ή, -όν (πρωί), [in LXX chiefly for בֹּקֶר ;]
+
+  = cl. πρώιος,
+
+  at early morn, early: ἀστήρ, Rev.2:28 22:16.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'πρωϊνός [ῐ], ή, όν,
+
+  later form of πρώϊος (for which it is falsa lectio in [LXX+4th c.BC+]; ἐδωδή [Refs
+  1st c.AD+] adverb -νῶς interpolated in [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3719
-    proximity: 0.8189
+    lemma: ὀρθρίζω
+    gloss: to use the dawn {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: G1773
-    proximity: 0.7981
+    lemma: ἔννυχον
+    gloss: by night {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
   - strongs: G3721
-    proximity: 0.7917
+    lemma: ὄρθριος
+    gloss: in the dawn {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: G3722
-    proximity: 0.7454
+    lemma: ὄρθρος
+    gloss: dawn (as sun-rise {openscriptures-strongs}
+    proximity: 0.7454 {macula-proximity}
   - strongs: G4404
-    proximity: 0.7359
+    lemma: πρωΐ
+    gloss: at dawn {openscriptures-strongs}
+    proximity: 0.7359 {macula-proximity}
   cross_language:
   - strongs: H219
-    proximity: 0.8259
+    proximity: 0.8259 {macula-proximity}
     language: hebrew
   - strongs: H7837
-    proximity: 0.7865
+    lemma: שַׁחַר
+    gloss: dawn (literal {openscriptures-strongs}
+    proximity: 0.7865 {macula-proximity}
     language: hebrew
   - strongs: H1338
-    proximity: 0.756
+    lemma: בִּתְרוֹן
+    gloss: Bithron {openscriptures-strongs}
+    proximity: 0.756 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

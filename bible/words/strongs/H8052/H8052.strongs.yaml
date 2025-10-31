@@ -6,47 +6,63 @@ pronunciation: sehm-oo-aw'
 definition: something heard, i.e. an announcement
 kjv_usage: bruit, doctrine, fame, mentioned, news, report, rumor, tidings.
 derivation: feminine passive participle of H8074 (שָׁמֵם);
-extended_definition:
-  gloss: tidings
-  definition: 1) report, news, rumour<br>1a) report, news, tidings<br>1b) mention
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) report, news, rumour
+
+  1a) report, news, tidings
+
+  1b) mention {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A5017
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
   - strongs: H1699a
-    proximity: 0.8026
+    proximity: 0.8026 {macula-proximity}
   - strongs: H1681
-    proximity: 0.7958
+    lemma: דִּבָּה
+    gloss: slander {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
   - strongs: H1697
-    proximity: 0.7949
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
   - strongs: H8085
-    proximity: 0.7923
+    lemma: שָׁמַע
+    gloss: to hear intelligently (often with implication of attention {openscriptures-strongs}
+    proximity: 0.7923 {macula-proximity}
   - strongs: H6963
-    proximity: 0.7796
+    lemma: קוֹל
+    gloss: a voice or sound {openscriptures-strongs}
+    proximity: 0.7796 {macula-proximity}
   - strongs: H4400
-    proximity: 0.7643
+    lemma: מַלְאֲכוּת
+    gloss: a message {openscriptures-strongs}
+    proximity: 0.7643 {macula-proximity}
   - strongs: H1319
-    proximity: 0.7329
+    lemma: בָּשַׂר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7329 {macula-proximity}
   cross_language:
   - strongs: G2279
-    proximity: 0.8254
+    lemma: ἦχος
+    gloss: a loud or confused noise {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: greek
   - strongs: G191
-    proximity: 0.807
+    proximity: 0.807 {macula-proximity}
     language: greek
   - strongs: G4283
-    proximity: 0.7894
+    lemma: προευαγγελίζομαι
+    gloss: to announce glad news in advance {openscriptures-strongs}
+    proximity: 0.7894 {macula-proximity}
     language: greek
   - strongs: G2097
-    proximity: 0.7702
+    lemma: εὐαγγελίζω
+    gloss: to announce good news  especially the gospel {openscriptures-strongs}
+    proximity: 0.7702 {macula-proximity}
     language: greek
   - strongs: G3056
-    proximity: 0.7528
+    lemma: λόγος
+    gloss: something said {openscriptures-strongs}
+    proximity: 0.7528 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

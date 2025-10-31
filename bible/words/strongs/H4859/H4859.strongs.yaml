@@ -6,31 +6,35 @@ pronunciation: mash-shaw-aw'
 definition: a loan
 kjv_usage: '[idiom] any(-thing), debt.'
 derivation: feminine of H4855 (מַשָּׁא);
-extended_definition:
-  gloss: loan
-  definition: loan
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: loan {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3154
-    proximity: 0.8139
+    lemma: יֶזַע
+    gloss: sweat {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H8059
-    proximity: 0.7561
+    lemma: שְׁמִטָּה
+    gloss: remission  or suspension of labor) {openscriptures-strongs}
+    proximity: 0.7561 {macula-proximity}
   - strongs: H4874
-    proximity: 0.7333
+    lemma: מַשֶּׁה
+    gloss: a debt {openscriptures-strongs}
+    proximity: 0.7333 {macula-proximity}
   cross_language:
   - strongs: G3781
-    proximity: 0.7525
+    lemma: ὀφειλέτης
+    gloss: an ower {openscriptures-strongs}
+    proximity: 0.7525 {macula-proximity}
     language: greek
   - strongs: G5533
-    proximity: 0.7436
+    lemma: χρεωφειλέτης
+    gloss: a loan-ower {openscriptures-strongs}
+    proximity: 0.7436 {macula-proximity}
     language: greek
   - strongs: G3783
-    proximity: 0.7383
+    lemma: ὀφείλημα
+    gloss: something owed {openscriptures-strongs}
+    proximity: 0.7383 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

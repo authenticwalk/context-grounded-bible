@@ -6,34 +6,38 @@ pronunciation: daw-lag'
 definition: to spring
 kjv_usage: leap.
 derivation: a primitive root;
-extended_definition:
-  gloss: to leap
-  definition: 1) to leap<br>1a) (Qal) to leap<br>1b) (Piel) to leap, leap over
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to leap
+
+  1a) (Qal) to leap
+
+  1b) (Piel) to leap, leap over {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1570
-    proximity: 0.8278
+    lemma: גָּלַשׁ
+    gloss: probably to caper {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H5539
-    proximity: 0.7974
+    lemma: סָלַד
+    gloss: probably to leap {openscriptures-strongs}
+    proximity: 0.7974 {macula-proximity}
   - strongs: H5425a
-    proximity: 0.7823
+    proximity: 0.7823 {macula-proximity}
   cross_language:
   - strongs: G1276
-    proximity: 0.8241
+    lemma: διαπεράω
+    gloss: to cross entirely {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
   - strongs: G1530a
-    proximity: 0.8234
+    proximity: 0.8234 {macula-proximity}
     language: greek
   - strongs: G242
-    proximity: 0.777
+    proximity: 0.777 {macula-proximity}
     language: greek
   - strongs: G2177
-    proximity: 0.7216
+    lemma: ἐφάλλομαι
+    gloss: to spring upon {openscriptures-strongs}
+    proximity: 0.7216 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

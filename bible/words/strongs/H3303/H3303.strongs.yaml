@@ -7,47 +7,59 @@ definition: beautiful (literally or figuratively)
 kjv_usage: '[phrase] beautiful, beauty, comely, fair(-est, one), [phrase] goodly,
   pleasant, well.'
 derivation: from H3302 (יָפָה);
-extended_definition:
-  gloss: beautiful
-  definition: fair, beautiful, handsome
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: fair, beautiful, handsome {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2898
-    proximity: 0.8283
+    lemma: טוּב
+    gloss: good {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H4359
-    proximity: 0.8251
+    lemma: מִכְלָל
+    gloss: perfection {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H5278
-    proximity: 0.8207
+    lemma: נֹעַם
+    gloss: agreeableness {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H6287
-    proximity: 0.8096
+    lemma: פְּאֵר
+    gloss: an embellishment {openscriptures-strongs}
+    proximity: 0.8096 {macula-proximity}
   - strongs: H2896a
-    proximity: 0.8051
+    proximity: 0.8051 {macula-proximity}
   - strongs: H2895
-    proximity: 0.7635
+    lemma: טוֹב
+    gloss: to be (transitively {openscriptures-strongs}
+    proximity: 0.7635 {macula-proximity}
   - strongs: H2531
-    proximity: 0.7622
+    lemma: חֶמֶד
+    gloss: delight {openscriptures-strongs}
+    proximity: 0.7622 {macula-proximity}
   - strongs: H5716
-    proximity: 0.7606
+    lemma: עֲדִי
+    gloss: finery {openscriptures-strongs}
+    proximity: 0.7606 {macula-proximity}
   cross_language:
   - strongs: G19
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G2158
-    proximity: 0.8246
+    lemma: εὐσχήμων
+    gloss: well-formed {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
     language: greek
   - strongs: G809
-    proximity: 0.8007
+    proximity: 0.8007 {macula-proximity}
     language: greek
   - strongs: G2157
-    proximity: 0.8007
+    lemma: εὐσχημοσύνη
+    gloss: decorousness {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
     language: greek
   - strongs: G2909
-    proximity: 0.7964
+    lemma: κρείττων
+    gloss: stronger {openscriptures-strongs}
+    proximity: 0.7964 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

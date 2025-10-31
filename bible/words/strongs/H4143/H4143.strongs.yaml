@@ -6,36 +6,38 @@ pronunciation: moo-sawd'
 definition: a foundation
 kjv_usage: foundation.
 derivation: from H3245 (יָסַד);
-extended_definition:
-  gloss: foundation
-  definition: foundation, laying of foundation, foundation-laying
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: foundation, laying of foundation, foundation-laying {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8328
-    proximity: 0.8204
+    lemma: שֶׁרֶשׁ
+    gloss: a root {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
   - strongs: H134
-    proximity: 0.8095
+    proximity: 0.8095 {macula-proximity}
   - strongs: H808
-    proximity: 0.7755
+    proximity: 0.7755 {macula-proximity}
   - strongs: H803a
-    proximity: 0.7755
+    proximity: 0.7755 {macula-proximity}
   - strongs: H4350
-    proximity: 0.7668
+    lemma: מְכוֹנָה
+    gloss: a pedestal {openscriptures-strongs}
+    proximity: 0.7668 {macula-proximity}
   - strongs: H3246
-    proximity: 0.7333
+    lemma: יְסֻד
+    gloss: a foundation (figuratively {openscriptures-strongs}
+    proximity: 0.7333 {macula-proximity}
   - strongs: H8356
-    proximity: 0.7269
+    lemma: שָׁתָה
+    gloss: a basis {openscriptures-strongs}
+    proximity: 0.7269 {macula-proximity}
   cross_language:
   - strongs: G204
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G2602
-    proximity: 0.7089
+    lemma: καταβολή
+    gloss: a deposition {openscriptures-strongs}
+    proximity: 0.7089 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

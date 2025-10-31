@@ -8,49 +8,73 @@ definition: to erect, i.e. create; by extension, to procure, especially by purch
 kjv_usage: attain, buy(-er), teach to keep cattle, get, provoke to jealousy, possess(-or),
   purchase, recover, redeem, [idiom] surely, [idiom] verily.
 derivation: a primitive root;
-extended_definition:
-  gloss: to buy
-  definition: '1) to get, acquire, create, buy, possess<br>1a) (Qal)<br>1a1) to get,
-    acquire, obtain<br>1a1a) of God originating, creating, redeeming His people<br>1a1a1)
-    possessor<br>1a1b) of Eve acquiring<br>1a1c) of acquiring knowledge, wisdom<br>1a2)
-    to buy<br>1b) (Niphal) to be bought<br>1c) (Hiphil) to cause to possess<BR>Aramaic
-    equivalent: <i>qe.na</i> (קְנָא "to buy" H7066)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to get, acquire, create, buy, possess
+
+  1a) (Qal)
+
+  1a1) to get, acquire, obtain
+
+  1a1a) of God originating, creating, redeeming His people
+
+  1a1a1) possessor
+
+  1a1b) of Eve acquiring
+
+  1a1c) of acquiring knowledge, wisdom
+
+  1a2) to buy
+
+  1b) (Niphal) to be bought
+
+  1c) (Hiphil) to cause to possess
+
+  Aramaic equivalent: qe.na (קְנָא "to buy" H7066) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6329
-    proximity: 0.8281
+    lemma: פּוּק
+    gloss: to issue {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H3947
-    proximity: 0.8172
+    lemma: לָקַח
+    gloss: to take {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
   - strongs: H5541a
-    proximity: 0.7982
+    proximity: 0.7982 {macula-proximity}
   - strongs: H6299
-    proximity: 0.7883
+    lemma: פָּדָה
+    gloss: to sever {openscriptures-strongs}
+    proximity: 0.7883 {macula-proximity}
   - strongs: H113
-    proximity: 0.7536
+    proximity: 0.7536 {macula-proximity}
   - strongs: H7069a
-    proximity: 0.7292
+    proximity: 0.7292 {macula-proximity}
   - strongs: H1350
-    proximity: 0.7185
+    lemma: גָּאַל
+    gloss: to be the next of kin (and as such to buy back a relative's property {openscriptures-strongs}
+    proximity: 0.7185 {macula-proximity}
   cross_language:
   - strongs: G4047
-    proximity: 0.821
+    lemma: περιποίησις
+    gloss: acquisition {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: greek
   - strongs: G140
-    proximity: 0.8163
+    proximity: 0.8163 {macula-proximity}
     language: greek
   - strongs: G2962
-    proximity: 0.8056
+    lemma: κύριος
+    gloss: supreme in authority {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
     language: greek
   - strongs: G2013
-    proximity: 0.7753
+    lemma: ἐπιτυγχάνω
+    gloss: to chance upon {openscriptures-strongs}
+    proximity: 0.7753 {macula-proximity}
     language: greek
   - strongs: G2932
-    proximity: 0.7086
+    lemma: κτάομαι
+    gloss: to get {openscriptures-strongs}
+    proximity: 0.7086 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

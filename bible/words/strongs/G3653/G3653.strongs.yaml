@@ -5,65 +5,70 @@ transliteration: ólynthos
 definition: an unripe (because out of season) fig
 kjv_usage: untimely fig
 derivation: of uncertain derivation;
-extended_definition:
-  gloss: late fig
-  definition: '<b>ὄλυνθος</b>, -ου, ὁ <BR /> [in LXX: <ref=''Sng.2.13''>Sng.2:13</ref>
-    (פַּג)* ;] <BR /><b>an unripe fig, which grows in winter and usually falls off
-    in the spring </b>: <ref=''Rev.6.13.''>Rev.6:13.</ref>†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὄλονθος</b>, ὁ, <br /> (ἡ [<a href="javascript:void(0)" title="
-    5th c.BC: Hippocrates Medicus “γυναικεῖα” 2.113)">Refs 5th c.BC+</a>], <b>edible
-    fruit of the wild fig,</b> [<a href="javascript:void(0)" title=" 8th-7th c.BC:
-    Hesiodus Epicus “Fragmenta” 160.1, 4th-3rd c.BC: Theophrastus Philosophus “de
-    Causis Plantarum” 5.1.8, Anonymus ">Refs 8th c.BC+</a>] (ὁ φιλόσοφος) cited in
-    [<a href="javascript:void(0)" title=" 2nd c.AD: Athenaeus Epigrammaticus 3.77f,
-    LXX.Cant.2.13; ὄ. χειμερινοί 5th c.BC: Hippocrates Medicus “περὶ γυναικείης φύσιος”
-    33, +others ">LXX+5th c.BC+</a>]<br /><Level3><b>__2</b></Level3> <b>sterile summer
-    fruit of the cultivated fig,</b> [<a href="javascript:void(0)" title=" 2nd c.AD:
-    Galenus Medicus 12.133. ">Refs 2nd c.AD+</a>]<br /><Level3><b>__3</b></Level3>
-    <b>sterile male inflorescence of the caprifig,</b> breeding ψῆνες, which fertilize
-    σῦκα, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.193.
-    ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ὄλυνθος, -ου, ὁ
+
+  [in LXX: Sng.2:13 (פַּג)* ;]
+
+  an unripe fig, which grows in winter and usually falls off in the spring : Rev.6:13.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὄλονθος, ὁ,
+
+  (ἡ [Refs 5th c.BC+], edible fruit of the wild fig, [Refs 8th c.BC+] (ὁ φιλόσοφος)
+  cited in [LXX+5th c.BC+]
+
+  __2 sterile summer fruit of the cultivated fig, [Refs 2nd c.AD+]
+
+  __3 sterile male inflorescence of the caprifig, breeding ψῆνες, which fertilize
+  σῦκα, [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3764
-    proximity: 0.8243
+    lemma: οὐδέπω
+    gloss: not even yet {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: G2592
-    proximity: 0.8239
+    lemma: καρποφορέω
+    gloss: to be fertile {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: G4808
-    proximity: 0.8226
+    lemma: συκῆ
+    gloss: a fig-tree {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: A383
-    proximity: 0.8061
+    proximity: 0.8061 {macula-proximity}
   - strongs: G1762
-    proximity: 0.7981
+    lemma: ἔνι
+    gloss: impersonally {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
   - strongs: G5052
-    proximity: 0.7949
+    lemma: τελεσφορέω
+    gloss: to be a bearer to completion {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
   - strongs: G3768
-    proximity: 0.7874
+    lemma: οὔπω
+    gloss: not yet {openscriptures-strongs}
+    proximity: 0.7874 {macula-proximity}
   - strongs: G175
-    proximity: 0.7815
+    proximity: 0.7815 {macula-proximity}
   cross_language:
   - strongs: H625
-    proximity: 0.8276
+    proximity: 0.8276 {macula-proximity}
     language: hebrew
   - strongs: H371
-    proximity: 0.8267
+    proximity: 0.8267 {macula-proximity}
     language: hebrew
   - strongs: H1061
-    proximity: 0.8179
+    lemma: בִּכּוּר
+    gloss: the first-fruits of the crop {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
     language: hebrew
   - strongs: H648
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
     language: hebrew
   - strongs: H8384
-    proximity: 0.7935
+    lemma: תְּאֵן
+    gloss: the fig {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,44 +5,50 @@ transliteration: dysbástaktos
 definition: oppressive
 kjv_usage: grievous to be borne
 derivation: from G1418 (δυσ-) and a derivative of G941 (βαστάζω);
-extended_definition:
-  gloss: ponderous
-  definition: '<b>δυσ-βάστακτος</b>, -ον<BR /> (βαστάζω), [in LXX for נֵטֶל, <ref=''Pro.27.3''>Pro.27:3</ref>
-    * ;] <BR /><b>hard to be borne</b>: <ref=''Mat.23.4''>Mat.23:4</ref> (om. WH,
-    txt., R, mg.), <ref=''Luk.11.46.''>Luk.11:46.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> δῠσ-βάστακτος</b>, ον, <br /> <b>intolerable, grievous to be
-    borne</b>, [<a href="javascript:void(0)" title=" LXX.Pro.27.3, NT.Matt.23.4, 1st-2nd
-    c.AD: Plutarchus Biographus et Philosophus 2.915f, etc. ">LXX+NT+1st c.AD+</a>];
-    of persons, [<a href="javascript:void(0)" title=" 4th c.BC: Antisthenes Rhetor
-    cited in 1st c.AD: Philo Judaeus 2.449. ">Refs 4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δυσ-βάστακτος, -ον
+
+  (βαστάζω), [in LXX for נֵטֶל, Pro.27:3 * ;]
+
+  hard to be borne: Mat.23:4 (om. WH, txt., R, mg.), Luk.11:46.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'δῠσ-βάστακτος, ον,
+
+  intolerable, grievous to be borne, [LXX+NT+1st c.AD+]; of persons, [Refs 4th c.BC+]
+  {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4642
-    proximity: 0.7972
+    lemma: σκληρός
+    gloss: dry {openscriptures-strongs}
+    proximity: 0.7972 {macula-proximity}
   - strongs: G941
-    proximity: 0.7665
+    proximity: 0.7665 {macula-proximity}
   - strongs: G1423
-    proximity: 0.7394
+    lemma: δυσκόλως
+    gloss: impracticably {openscriptures-strongs}
+    proximity: 0.7394 {macula-proximity}
   - strongs: G1421
-    proximity: 0.7362
+    lemma: δυσερμήνευτος
+    gloss: difficult of explanation {openscriptures-strongs}
+    proximity: 0.7362 {macula-proximity}
   - strongs: G1422
-    proximity: 0.7326
+    lemma: δύσκολος
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7326 {macula-proximity}
   - strongs: G1425
-    proximity: 0.7322
+    lemma: δυσνόητος
+    gloss: difficult of perception {openscriptures-strongs}
+    proximity: 0.7322 {macula-proximity}
   cross_language:
   - strongs: H1677
-    proximity: 0.7564
+    lemma: דֹּב
+    gloss: the bear {openscriptures-strongs}
+    proximity: 0.7564 {macula-proximity}
     language: hebrew
   - strongs: H5445
-    proximity: 0.7455
+    lemma: סָבַל
+    gloss: to carry {openscriptures-strongs}
+    proximity: 0.7455 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

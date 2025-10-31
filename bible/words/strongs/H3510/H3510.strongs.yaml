@@ -6,51 +6,75 @@ pronunciation: kaw-ab'
 definition: properly, to feel pain; by implication, to grieve; figuratively, to spoil
 kjv_usage: grieving, mar, have pain, make sad (sore), (be) sorrowful.
 derivation: a primitive root;
-extended_definition:
-  gloss: to pain
-  definition: 1) to be in pain, be sore, have pain, be sorrowful<br>1a) (Qal)<br>1a1)
-    to be in pain (physical)<br>1a2) to be in pain (mental)<br>1b) (Hiphil)<br>1b1)
-    to cause pain, hurt, mar<br>1b2) pain, mar (participle)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be in pain, be sore, have pain, be sorrowful
+
+  1a) (Qal)
+
+  1a1) to be in pain (physical)
+
+  1a2) to be in pain (mental)
+
+  1b) (Hiphil)
+
+  1b1) to cause pain, hurt, mar
+
+  1b2) pain, mar (participle) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5892a
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
   - strongs: H4277
-    proximity: 0.8284
+    lemma: מָחַק
+    gloss: to crush {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H56
-    proximity: 0.8279
+    proximity: 0.8279 {macula-proximity}
   - strongs: H7843
-    proximity: 0.8275
+    lemma: שָׁחַת
+    gloss: to decay {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H7670
-    proximity: 0.8258
+    lemma: שִׁבְרוֹן
+    gloss: rupture {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H4751
-    proximity: 0.8247
+    lemma: מַר
+    gloss: bitter {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H6089a
-    proximity: 0.8244
+    proximity: 0.8244 {macula-proximity}
   - strongs: H2470
-    proximity: 0.8208
+    lemma: חָלָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   - strongs: H6039
-    proximity: 0.8195
+    lemma: עֱנוּת
+    gloss: affliction {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   cross_language:
   - strongs: G3997
-    proximity: 0.8298
+    lemma: πένθος
+    gloss: grief {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G4938
-    proximity: 0.8266
+    lemma: σύντριμμα
+    gloss: concussion or utter fracture (properly {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
     language: greek
   - strongs: G4928
-    proximity: 0.8243
+    lemma: συνοχή
+    gloss: restraint {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: greek
   - strongs: G5351
-    proximity: 0.8239
+    lemma: φθείρω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G4818
-    proximity: 0.8223
+    lemma: συλλυπέω
+    gloss: to afflict jointly {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

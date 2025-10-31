@@ -6,42 +6,54 @@ pronunciation: be-oo-theme'
 definition: alarms
 kjv_usage: terrors.
 derivation: masculine plural from H1204 (בָּעַת);
-extended_definition:
-  gloss: terror
-  definition: terrors, alarms (occasioned by God)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: terrors, alarms (occasioned by God) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2729
-    proximity: 0.825
+    lemma: חָרַד
+    gloss: to shudder with terror {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: H8178
-    proximity: 0.8221
+    lemma: שַׂעַר
+    gloss: a tempest {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H3372
-    proximity: 0.8134
+    lemma: יָרֵא
+    gloss: to fear {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
   - strongs: H4048
-    proximity: 0.8129
+    lemma: מָגַר
+    gloss: to yield up {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: H6972
-    proximity: 0.8029
+    lemma: קוּץ
+    gloss: to spend the harvest season {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
   - strongs: H5892a
-    proximity: 0.8015
+    proximity: 0.8015 {macula-proximity}
   - strongs: H343
-    proximity: 0.7996
+    proximity: 0.7996 {macula-proximity}
   - strongs: H2844
-    proximity: 0.7917
+    lemma: חַת
+    gloss: concretely {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: H1089
-    proximity: 0.7827
+    lemma: בָּלַהּ
+    gloss: to palpitate {openscriptures-strongs}
+    proximity: 0.7827 {macula-proximity}
   - strongs: H3415
-    proximity: 0.7758
+    lemma: יָרַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7758 {macula-proximity}
   cross_language:
   - strongs: G5401
-    proximity: 0.7602
+    lemma: φόβος
+    gloss: alarm or fright {openscriptures-strongs}
+    proximity: 0.7602 {macula-proximity}
     language: greek
   - strongs: G4324
-    proximity: 0.7234
+    lemma: προσαπειλέω
+    gloss: to menace additionally {openscriptures-strongs}
+    proximity: 0.7234 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

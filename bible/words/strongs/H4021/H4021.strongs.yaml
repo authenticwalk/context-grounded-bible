@@ -6,21 +6,17 @@ pronunciation: mig-baw-aw'
 definition: a cap (as hemispherical)
 kjv_usage: bonnet.
 derivation: from the same as H1389 (גִּבְעָה);
-extended_definition:
-  gloss: headgear
-  definition: turban, head-gear
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: turban, head-gear {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4701
-    proximity: 0.7981
+    lemma: מִצְנֶפֶת
+    gloss: a tiara {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
   cross_language:
   - strongs: G2776
-    proximity: 0.788
+    lemma: κεφαλή
+    gloss: the head {openscriptures-strongs}
+    proximity: 0.788 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

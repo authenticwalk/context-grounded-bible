@@ -8,44 +8,62 @@ definition: entire (literally, figuratively or morally); also (as noun) integrit
 kjv_usage: without blemish, complete, full, perfect, sincerely (-ity), sound, without
   spot, undefiled, upright(-ly), whole.
 derivation: from H8552 (תָּמַם);
-extended_definition:
-  gloss: 'unblemished: Thummim'
-  definition: ': Thummim<br>1) complete, whole, entire, sound<br>1a) complete, whole,
-    entire<br>1b) whole, sound, healthful<br>1c) complete, entire (of time)<br>1d)
-    sound, wholesome, unimpaired, innocent, having integrity<br>1e) what is complete
-    or entirely in accord with truth and fact (neuter adj/subst)'
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: ': Thummim
+
+  1) complete, whole, entire, sound
+
+  1a) complete, whole, entire
+
+  1b) whole, sound, healthful
+
+  1c) complete, entire (of time)
+
+  1d) sound, wholesome, unimpaired, innocent, having integrity
+
+  1e) what is complete or entirely in accord with truth and fact (neuter adj/subst)
+  {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6662
-    proximity: 0.8228
+    lemma: צַדִּיק
+    gloss: just {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
   - strongs: H5355
-    proximity: 0.8167
+    lemma: נָקִי
+    gloss: innocent {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H3634
-    proximity: 0.81
+    lemma: כָּלַל
+    gloss: to complete {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
   - strongs: H3632
-    proximity: 0.8065
+    lemma: כָּלִיל
+    gloss: complete {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
   - strongs: H530
-    proximity: 0.8043
+    proximity: 0.8043 {macula-proximity}
   cross_language:
   - strongs: G5047
-    proximity: 0.8263
+    lemma: τελειότης
+    gloss: completeness {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
     language: greek
   - strongs: G5049
-    proximity: 0.8245
+    lemma: τελείως
+    gloss: completely {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
     language: greek
   - strongs: G227
-    proximity: 0.8219
+    proximity: 0.8219 {macula-proximity}
     language: greek
   - strongs: G5048
-    proximity: 0.8154
+    lemma: τελειόω
+    gloss: to complete {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
     language: greek
   - strongs: G3470
-    proximity: 0.8125
+    lemma: μῶμος
+    gloss: a flaw or blot {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

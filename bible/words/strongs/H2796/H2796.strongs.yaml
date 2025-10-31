@@ -7,42 +7,51 @@ definition: a fabricator or any material
 kjv_usage: artificer, ([phrase]) carpenter, craftsman, engraver, maker, [phrase] mason,
   skilful, ([phrase]) smith, worker, workman, such as wrought.
 derivation: from H2790 (חָרַשׁ);
-extended_definition:
-  gloss: artificer
-  definition: 1) craftsman, artisan, engraver, graver, artificer<br>1a) graver, artificer<br>1b)
-    skilful to destroy (warriors) (fig.)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) craftsman, artisan, engraver, graver, artificer
+
+  1a) graver, artificer
+
+  1b) skilful to destroy (warriors) (fig.) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2450
-    proximity: 0.8222
+    lemma: חָכָם
+    gloss: wise {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H7938
-    proximity: 0.8065
+    lemma: שֶׂכֶר
+    gloss: wages {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
   - strongs: H1516b
-    proximity: 0.803
+    proximity: 0.803 {macula-proximity}
   - strongs: H2672b
-    proximity: 0.7994
+    proximity: 0.7994 {macula-proximity}
   - strongs: H3335
-    proximity: 0.7918
+    lemma: יָצַר
+    gloss: to mould into a form {openscriptures-strongs}
+    proximity: 0.7918 {macula-proximity}
   - strongs: H2803a
-    proximity: 0.7913
+    proximity: 0.7913 {macula-proximity}
   - strongs: H2799
-    proximity: 0.7674
+    lemma: חֲרֹשֶׁת
+    gloss: mechanical work {openscriptures-strongs}
+    proximity: 0.7674 {macula-proximity}
   - strongs: H542
-    proximity: 0.7294
+    proximity: 0.7294 {macula-proximity}
   cross_language:
   - strongs: G1038
-    proximity: 0.8273
+    lemma: βυρσεύς
+    gloss: a tanner {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G3618
-    proximity: 0.7966
+    lemma: οἰκοδομέω
+    gloss: to be a house-builder {openscriptures-strongs}
+    proximity: 0.7966 {macula-proximity}
     language: greek
   - strongs: G2040
-    proximity: 0.7131
+    lemma: ἐργάτης
+    gloss: a toiler {openscriptures-strongs}
+    proximity: 0.7131 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,35 +6,39 @@ pronunciation: naw-dood'
 definition: properly, tossed; abstractly, a rolling (on the bed)
 kjv_usage: tossing to and fro.
 derivation: passive participle of H5074 (נָדַד);
-extended_definition:
-  gloss: tossing
-  definition: tossing (of sleeplessness)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: tossing (of sleeplessness) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A2050d
-    proximity: 0.8161
+    proximity: 0.8161 {macula-proximity}
   - strongs: H2015
-    proximity: 0.7638
+    lemma: הָפַךְ
+    gloss: to turn about or over {openscriptures-strongs}
+    proximity: 0.7638 {macula-proximity}
   cross_language:
   - strongs: G1624
-    proximity: 0.8206
+    lemma: ἐκτρέπω
+    gloss: to deflect {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G2831
-    proximity: 0.8176
+    lemma: κλυδωνίζομαι
+    gloss: to surge {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
     language: greek
   - strongs: G2532
-    proximity: 0.8158
+    lemma: καί
+    gloss: and {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
     language: greek
   - strongs: G5157
-    proximity: 0.7947
+    lemma: τροπή
+    gloss: a turn {openscriptures-strongs}
+    proximity: 0.7947 {macula-proximity}
     language: greek
   - strongs: G1994
-    proximity: 0.789
+    lemma: ἐπιστρέφω
+    gloss: to revert (literally {openscriptures-strongs}
+    proximity: 0.789 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

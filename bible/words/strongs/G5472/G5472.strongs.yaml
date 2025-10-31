@@ -5,38 +5,43 @@ transliteration: chalkēdṓn
 definition: copper-like, i.e. "chalcedony"
 kjv_usage: chalcedony
 derivation: from G5475 (χαλκός) and perhaps G1491 (εἶδος);
-extended_definition:
-  gloss: chalcedony
-  definition: '<b>χαλκηδών</b>, -όνος, ὁ <BR /> <b>chalcedony, "supposed to denote
-    a green silicate of copper found in the mines near Chalcedon " </b>(Swete): <ref=''Rev.21.19.''>Rev.21:19.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> χαλκηδών</b>, όνος, ἡ, <br /> <b>chalcedony,</b> [<a href="javascript:void(0)"
-    title=" NT.Rev. 21.19. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'χαλκηδών, -όνος, ὁ
+
+  chalcedony, "supposed to denote a green silicate of copper found in the mines near
+  Chalcedon " (Swete): Rev.21:19.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'χαλκηδών, όνος, ἡ,
+
+  chalcedony, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5191
-    proximity: 0.804
+    lemma: ὑακίνθινος
+    gloss: '"hyacinthine" or "jacinthine" {openscriptures-strongs}'
+    proximity: 0.804 {macula-proximity}
   - strongs: G4557
-    proximity: 0.7962
+    lemma: σαρδόνυξ
+    gloss: hence the "onyx" stone) {openscriptures-strongs}
+    proximity: 0.7962 {macula-proximity}
   - strongs: G5192
-    proximity: 0.7698
+    lemma: ὑάκινθος
+    gloss: the "hyacinth" or "jacinth" {openscriptures-strongs}
+    proximity: 0.7698 {macula-proximity}
   cross_language:
   - strongs: H3958
-    proximity: 0.8047
+    lemma: לֶשֶׁם
+    gloss: a gem {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
     language: hebrew
   - strongs: H7618
-    proximity: 0.7732
+    lemma: שְׁבוּ
+    gloss: a gem {openscriptures-strongs}
+    proximity: 0.7732 {macula-proximity}
     language: hebrew
   - strongs: H7718
-    proximity: 0.7396
+    lemma: שֹׁהַם
+    gloss: a gem {openscriptures-strongs}
+    proximity: 0.7396 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

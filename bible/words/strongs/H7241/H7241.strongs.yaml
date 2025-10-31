@@ -6,35 +6,42 @@ pronunciation: raw-beeb'
 definition: a rain (as an accumulation of drops)
 kjv_usage: shower.
 derivation: from H7231 (רָבַב);
-extended_definition:
-  gloss: shower
-  definition: 1) copious showers, heavy showers<br>1a) as bringing fertility<br>1b)
-    of prophetic influence (fig)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) copious showers, heavy showers
+
+  1a) as bringing fertility
+
+  1b) of prophetic influence (fig) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5130a
-    proximity: 0.8249
+    proximity: 0.8249 {macula-proximity}
   - strongs: H3384a
-    proximity: 0.8243
+    proximity: 0.8243 {macula-proximity}
   - strongs: H3138
-    proximity: 0.8194
+    lemma: יוֹרֶה
+    gloss: sprinkling {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H6080
-    proximity: 0.7912
+    lemma: עָפַר
+    gloss: to be dust {openscriptures-strongs}
+    proximity: 0.7912 {macula-proximity}
   - strongs: H2919
-    proximity: 0.7796
+    lemma: טַל
+    gloss: dew {openscriptures-strongs}
+    proximity: 0.7796 {macula-proximity}
   - strongs: H4456
-    proximity: 0.7337
+    lemma: מַלְקוֹשׁ
+    gloss: the spring rain {openscriptures-strongs}
+    proximity: 0.7337 {macula-proximity}
   cross_language:
   - strongs: G1028
-    proximity: 0.8154
+    lemma: βροχή
+    gloss: rain {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
     language: greek
   - strongs: G3655
-    proximity: 0.7212
+    lemma: ὄμβρος
+    gloss: a thunder storm {openscriptures-strongs}
+    proximity: 0.7212 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

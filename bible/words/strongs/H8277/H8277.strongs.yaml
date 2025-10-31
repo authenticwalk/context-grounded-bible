@@ -7,46 +7,62 @@ definition: properly, to puncture, i.e. (figuratively through the idea of slippi
   out) to escape or survive
 kjv_usage: remain.
 derivation: a primitive root; (compare H8279 (שֶׂרֶד))
-extended_definition:
-  gloss: to escape
-  definition: (Qal) to escape, survive
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to escape, survive {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2986
-    proximity: 0.8187
+    lemma: יָבַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
   - strongs: H5674
-    proximity: 0.8168
+    lemma: עָבַר
+    gloss: to cross over {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H3318
-    proximity: 0.8163
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
   - strongs: H1272
-    proximity: 0.7701
+    lemma: בָּרַח
+    gloss: to bolt {openscriptures-strongs}
+    proximity: 0.7701 {macula-proximity}
   - strongs: H3498
-    proximity: 0.7677
+    lemma: יָתַר
+    gloss: to jut over or exceed {openscriptures-strongs}
+    proximity: 0.7677 {macula-proximity}
   - strongs: H8300
-    proximity: 0.7648
+    lemma: שָׂרִיד
+    gloss: a survivor {openscriptures-strongs}
+    proximity: 0.7648 {macula-proximity}
   - strongs: H7604
-    proximity: 0.7405
+    lemma: שָׁאַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7405 {macula-proximity}
   - strongs: H4422
-    proximity: 0.7306
+    lemma: מָלַט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7306 {macula-proximity}
   - strongs: H6413
-    proximity: 0.711
+    lemma: פְּלֵיטָה
+    gloss: deliverance {openscriptures-strongs}
+    proximity: 0.711 {macula-proximity}
   cross_language:
   - strongs: G2176
-    proximity: 0.8195
+    lemma: εὐώνυμος
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
     language: greek
   - strongs: G710
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G1532
-    proximity: 0.8071
+    lemma: εἰστρέχω
+    gloss: to hasten inward {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
     language: greek
   - strongs: G4035
-    proximity: 0.7974
+    lemma: περιλείπω
+    gloss: to leave all around {openscriptures-strongs}
+    proximity: 0.7974 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

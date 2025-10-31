@@ -5,48 +5,49 @@ transliteration: euprósdektos
 definition: well-received, i.e. approved, favorable
 kjv_usage: acceptable(-ted)
 derivation: from G2095 (εὖ) and a derivative of G4327 (προσδέχομαι);
-extended_definition:
-  gloss: acceptable
-  definition: '<b>εὐ-πρόσ-δεκτος</b>, -ον<BR /> (εὖ, προσδέχομαι) <BR />more usual
-    than δέκτος, which see, <b>acceptable</b>: <ref=''Rom.15.16, 31''>Rom.15:16, 31</ref>,
-    <ref=''2Co.6.2; 8.12''>2Co.6:2 8:12</ref>, <ref=''1Pe.2.5''>1Pe.2:5</ref>.†<BR
-    /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> εὐπρόσ-δεκτος</b>, ον, <br /> <b>acceptable,</b> [<a href="javascript:void(0)"
-    title="NT.Rom.15.16,31; τοῖς πολλοῖς 1st-2nd c.AD: Plutarchus Biographus et Philosophus
-    2.801c ">NT+1st c.AD+</a>]; εὐχή, θυσία, [<a href="javascript:void(0)" title="
-    3rd c.AD: Porphyrius Tyrius Philosophus “ad Marcellam - Porphyrii Opuscula” 24,
-    Scholia 5th-6th c.BC: Aristophanes Comicus “Pax” 1054 ">Refs 5th c.BC+</a>]; ὥσπερ
-    οὐκ εὐ. (i.e. ὄν) with <i>infinitive</i>, [<a href="javascript:void(0)" title="
-    1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.Supp.” p.7S. ">Refs 1st c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'εὐ-πρόσ-δεκτος, -ον
+
+  (εὖ, προσδέχομαι)
+
+  more usual than δέκτος, which see, acceptable: Rom.15:16, 31, 2Co.6:2 8:12, 1Pe.2:5.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'εὐπρόσ-δεκτος, ον,
+
+  acceptable, [NT+1st c.AD+]; εὐχή, θυσία, [Refs 5th c.BC+]; ὥσπερ οὐκ εὐ. (i.e. ὄν)
+  with infinitive, [Refs 1st c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1384
-    proximity: 0.7306
+    lemma: δόκιμος
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7306 {macula-proximity}
   - strongs: G2101
-    proximity: 0.7047
+    lemma: εὐάρεστος
+    gloss: fully agreeable {openscriptures-strongs}
+    proximity: 0.7047 {macula-proximity}
   cross_language:
   - strongs: H2656
-    proximity: 0.8288
+    lemma: חֵפֶץ
+    gloss: pleasure {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
     language: hebrew
   - strongs: H977
-    proximity: 0.7982
+    proximity: 0.7982 {macula-proximity}
     language: hebrew
   - strongs: H1878
-    proximity: 0.7754
+    lemma: דָּשֵׁן
+    gloss: to be fat {openscriptures-strongs}
+    proximity: 0.7754 {macula-proximity}
     language: hebrew
   - strongs: H3190
-    proximity: 0.7628
+    lemma: יָטַב
+    gloss: to be  make well {openscriptures-strongs}
+    proximity: 0.7628 {macula-proximity}
     language: hebrew
   - strongs: H7613
-    proximity: 0.7464
+    lemma: שְׂאֵת
+    gloss: an elevation or leprous scab {openscriptures-strongs}
+    proximity: 0.7464 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

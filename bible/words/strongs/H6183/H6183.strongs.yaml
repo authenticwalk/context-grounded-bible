@@ -6,25 +6,25 @@ pronunciation: aw-reef'
 definition: the sky (as dropping at the horizon)
 kjv_usage: heaven.
 derivation: from H6201 (עָרַף);
-extended_definition:
-  gloss: cloud
-  definition: cloud, mist
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: cloud, mist {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7255a
-    proximity: 0.8091
+    proximity: 0.8091 {macula-proximity}
   - strongs: H6227
-    proximity: 0.7953
+    lemma: עָשָׁן
+    gloss: smoke {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
   - strongs: H2385
-    proximity: 0.7878
+    lemma: חֲזִיז
+    gloss: a flash of lightning {openscriptures-strongs}
+    proximity: 0.7878 {macula-proximity}
   - strongs: H5743
-    proximity: 0.755
+    lemma: עוּב
+    gloss: to be dense or dark {openscriptures-strongs}
+    proximity: 0.755 {macula-proximity}
   - strongs: H6205
-    proximity: 0.7051
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: עֲרָפֶל
+    gloss: gloom {openscriptures-strongs}
+    proximity: 0.7051 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

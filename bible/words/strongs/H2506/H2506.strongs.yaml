@@ -9,36 +9,53 @@ derivation: from H2505 (חָלַק);
 related_words:
   synonyms:
   - strongs: H2416
-    proximity: 0.8239
+    lemma: חַי
+    gloss: alive {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: H3876
-    proximity: 0.8208
+    lemma: לוֹט
+    gloss: Lot {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   - strongs: H835a
-    proximity: 0.8188
+    proximity: 0.8188 {macula-proximity}
   - strongs: H1576
-    proximity: 0.8169
+    lemma: גְּמוּל
+    gloss: treatment {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: H7704a
-    proximity: 0.8163
+    proximity: 0.8163 {macula-proximity}
   - strongs: H7622
-    proximity: 0.8126
+    lemma: שְׁבוּת
+    gloss: exile {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
   - strongs: H3010
-    proximity: 0.8066
+    lemma: יָגֵב
+    gloss: a plowed field {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
   cross_language:
   - strongs: G2697
-    proximity: 0.8249
+    lemma: κατάσχεσις
+    gloss: a holding down {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: greek
   - strongs: G3335
-    proximity: 0.824
+    lemma: μεταλαμβάνω
+    gloss: to participate {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: greek
   - strongs: G5224
-    proximity: 0.8223
+    lemma: ὑπάρχοντα
+    gloss: things extant or in hand {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G1091
-    proximity: 0.8221
+    lemma: γεώργιον
+    gloss: cultivable {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
     language: greek
   - strongs: G5561
-    proximity: 0.8208
+    lemma: χώρα
+    gloss: room {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

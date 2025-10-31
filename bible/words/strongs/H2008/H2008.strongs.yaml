@@ -7,49 +7,63 @@ definition: hither or thither (but used both of place and time)
 kjv_usage: here, hither(-to), now, on this (that) side, [phrase] since, this (that)
   way, thitherward, [phrase] thus far, to...fro, [phrase] yet.
 derivation: from H2004 (הֵן);
-extended_definition:
-  gloss: here/thus
-  definition: here, there, now, hither
-  morphology: H:Adv
-  source: STEPBible/BDB
+extended_definition: here, there, now, hither {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3651
-    proximity: 0.8264
+    lemma: כֵּן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H1992
-    proximity: 0.8254
+    lemma: הֵם
+    gloss: they {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.8247
+    proximity: 0.8247 {macula-proximity}
   - strongs: H1886c
-    proximity: 0.8246
+    proximity: 0.8246 {macula-proximity}
   - strongs: H3802
-    proximity: 0.8218
+    lemma: כָּתֵף
+    gloss: the shoulder (proper {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H4480
-    proximity: 0.8193
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H2090
-    proximity: 0.8193
+    lemma: זֹה
+    gloss: this or that {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H4616
-    proximity: 0.8189
+    lemma: מַעַן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H6256
-    proximity: 0.8185
+    lemma: עֵת
+    gloss: time {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   cross_language:
   - strongs: G2176
-    proximity: 0.8285
+    lemma: εὐώνυμος
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G3063
-    proximity: 0.8252
+    lemma: λοιπόν
+    gloss: something remaining {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: greek
   - strongs: G206
-    proximity: 0.8238
+    proximity: 0.8238 {macula-proximity}
     language: greek
   - strongs: G5128
-    proximity: 0.8237
+    lemma: τούτους
+    gloss: these (persons {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
     language: greek
   - strongs: G2443
-    proximity: 0.8221
+    lemma: ἵνα
+    gloss: compare G3588 ) {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

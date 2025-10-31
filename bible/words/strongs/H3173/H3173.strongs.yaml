@@ -7,46 +7,71 @@ definition: properly, united, i.e. sole; by implication, beloved; also lonely; (
   the life (as not to be replaced)
 kjv_usage: darling, desolate, only (child, son), solitary.
 derivation: from H3161 (יָחַד);
-extended_definition:
-  gloss: only
-  definition: adj<br>1) only, only one, solitary, one<br>1a) only, unique, one<br>1b)
-    solitary<br>1c)(TWOT) only begotten son<br>subst<br>2) one
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: 'adj
+
+  1) only, only one, solitary, one
+
+  1a) only, unique, one
+
+  1b) solitary
+
+  1c)(TWOT) only begotten son
+
+  subst
+
+  2) one {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3365
-    proximity: 0.8269
+    lemma: יָקַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: H7535
-    proximity: 0.8251
+    lemma: רַק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H7909
-    proximity: 0.8165
+    lemma: שַׁכּוּל
+    gloss: bereaved {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: H2475
-    proximity: 0.8133
+    lemma: חֲלוֹף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   - strongs: H3206
-    proximity: 0.8121
+    lemma: יֶלֶד
+    gloss: something born {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H1248
-    proximity: 0.7878
+    lemma: בַּר
+    gloss: the heir {openscriptures-strongs}
+    proximity: 0.7878 {macula-proximity}
   - strongs: H2056
-    proximity: 0.7834
+    lemma: וָלָד
+    gloss: a boy {openscriptures-strongs}
+    proximity: 0.7834 {macula-proximity}
   cross_language:
   - strongs: G3442
-    proximity: 0.8207
+    lemma: μονόφθαλμος
+    gloss: one-eyed {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
     language: greek
   - strongs: G895
-    proximity: 0.8147
+    proximity: 0.8147 {macula-proximity}
     language: greek
   - strongs: G5093
-    proximity: 0.8122
+    lemma: τίμιος
+    gloss: valuable {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
     language: greek
   - strongs: G3541
-    proximity: 0.8077
+    lemma: νόθος
+    gloss: a spurious or illegitimate son {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
     language: greek
   - strongs: G3391
-    proximity: 0.8017
+    lemma: μία
+    gloss: one or first {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

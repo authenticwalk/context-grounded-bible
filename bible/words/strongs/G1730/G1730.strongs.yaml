@@ -5,62 +5,78 @@ transliteration: éndeigma
 definition: an indication (concretely)
 kjv_usage: manifest token
 derivation: from G1731 (ἐνδείκνυμι);
-extended_definition:
-  gloss: evidence
-  definition: '<b>ἔν-δειγμα</b>, -τος<BR /> (ἐνδείκνυμι), <BR /><b>a plain token,
-    proof</b>: <ref=''2Th.1.5''>2Th.1:5</ref> (cf. ἔνδειξις, which refers rather to
-    the "act of proving"; ἔ., with the passive formation, to the thing proved, see
-    Lft., <i>Notes</i>, 100; M, <i>Th.</i>, l.with).†<BR /> <re><i>SYN.</i>: τεκμήριον
-    </re> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἔνδειγμα</b>, ατος, τό, <br /> (ἐνδείκνυμι) <b>evidence</b>,
-    ὅτι.. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Critias”
-    110b, compare 4th c.AD: Iamblichus Philosophus “de Mysteriis” 1.11 ">Refs 5th
-    c.BC+</a>]; <b>token</b>, εὐνοίας [<a href="javascript:void(0)" title=" 4th c.BC:
-    Demosthenes Orator 19.256, compare 5th-6th c.AD: Damascius Philosophus “de Principiis”
-    46. ">Refs 4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἔν-δειγμα, -τος
+
+  (ἐνδείκνυμι),
+
+  a plain token, proof: 2Th.1:5 (cf. ἔνδειξις, which refers rather to the "act of
+  proving"; ἔ., with the passive formation, to the thing proved, see Lft., Notes,
+  100; M, Th., l.with).†
+
+  SYN.: τεκμήριον  (AS) {STEPBible-TBESG}'
+etymology: 'ἔνδειγμα, ατος, τό,
+
+  (ἐνδείκνυμι) evidence, ὅτι.. [Refs 5th c.BC+]; token, εὐνοίας [Refs 4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1552
-    proximity: 0.8278
+    lemma: ἔκδηλος
+    gloss: wholly evident {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: G2154
-    proximity: 0.8238
+    lemma: εὔσημος
+    gloss: well indicated {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: G1212
-    proximity: 0.8205
+    lemma: δῆλος
+    gloss: clear {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: A1236
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
   - strongs: G4303
-    proximity: 0.7861
+    lemma: προμαρτύρομαι
+    gloss: to be a witness in advance i.e. predict {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
   - strongs: G3141
-    proximity: 0.7749
+    lemma: μαρτυρία
+    gloss: evidence given {openscriptures-strongs}
+    proximity: 0.7749 {macula-proximity}
   - strongs: G1957
-    proximity: 0.7611
+    lemma: ἐπιμαρτυρέω
+    gloss: to attest further {openscriptures-strongs}
+    proximity: 0.7611 {macula-proximity}
   - strongs: G3140
-    proximity: 0.7448
+    lemma: μαρτυρέω
+    gloss: to be a witness {openscriptures-strongs}
+    proximity: 0.7448 {macula-proximity}
   - strongs: G3142
-    proximity: 0.7155
+    lemma: μαρτύριον
+    gloss: something evidential {openscriptures-strongs}
+    proximity: 0.7155 {macula-proximity}
   cross_language:
   - strongs: H8584
-    proximity: 0.8165
+    lemma: תְּעוּדָה
+    gloss: attestation {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: hebrew
   - strongs: H7717
-    proximity: 0.8035
+    lemma: שָׂהֵד
+    gloss: a witness {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
     language: hebrew
   - strongs: H6110
-    proximity: 0.7462
+    lemma: עַצֻּמָה
+    gloss: a bulwark {openscriptures-strongs}
+    proximity: 0.7462 {macula-proximity}
     language: hebrew
   - strongs: H5713
-    proximity: 0.7338
+    lemma: עֵדָה
+    gloss: testimony {openscriptures-strongs}
+    proximity: 0.7338 {macula-proximity}
     language: hebrew
   - strongs: H5707
-    proximity: 0.7299
+    lemma: עֵד
+    gloss: concretely {openscriptures-strongs}
+    proximity: 0.7299 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

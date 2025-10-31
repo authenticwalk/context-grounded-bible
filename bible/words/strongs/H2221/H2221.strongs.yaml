@@ -6,47 +6,63 @@ pronunciation: zay-roo'-ah
 definition: something sown, i.e. a plant
 kjv_usage: sowing, thing that is sown.
 derivation: from H2232 (זָרַע);
-extended_definition:
-  gloss: sowing
-  definition: that which is sown, sowing, thing sown
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: that which is sown, sowing, thing sown {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2785
-    proximity: 0.8263
+    lemma: חַרְצַן
+    gloss: a sour grape {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: H4218
-    proximity: 0.8107
+    lemma: מִזְרָע
+    gloss: a planted field {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
   - strongs: H4901
-    proximity: 0.8006
+    lemma: מֶשֶׁךְ
+    gloss: a sowing {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
   - strongs: H4302
-    proximity: 0.7797
+    lemma: מַטָּע
+    gloss: something planted {openscriptures-strongs}
+    proximity: 0.7797 {macula-proximity}
   - strongs: H5195
-    proximity: 0.7783
+    lemma: נָטִיעַ
+    gloss: a plant {openscriptures-strongs}
+    proximity: 0.7783 {macula-proximity}
   - strongs: A2234
-    proximity: 0.7721
+    proximity: 0.7721 {macula-proximity}
   - strongs: H2233
-    proximity: 0.7428
+    lemma: זֶרַע
+    gloss: seed {openscriptures-strongs}
+    proximity: 0.7428 {macula-proximity}
   - strongs: H5193
-    proximity: 0.7356
+    lemma: נָטַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7356 {macula-proximity}
   cross_language:
   - strongs: G2277
-    proximity: 0.8298
+    lemma: ἤτω
+    gloss: let him  be {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G2077
-    proximity: 0.8142
+    lemma: ἔστω
+    gloss: be thou {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
     language: greek
   - strongs: G1762
-    proximity: 0.7937
+    lemma: ἔνι
+    gloss: impersonally {openscriptures-strongs}
+    proximity: 0.7937 {macula-proximity}
     language: greek
   - strongs: G2258
-    proximity: 0.7785
+    lemma: ἦν
+    gloss: I (thou {openscriptures-strongs}
+    proximity: 0.7785 {macula-proximity}
     language: greek
   - strongs: G2252
-    proximity: 0.7566
+    lemma: ἤμην
+    gloss: I was {openscriptures-strongs}
+    proximity: 0.7566 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

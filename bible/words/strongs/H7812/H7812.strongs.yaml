@@ -8,54 +8,85 @@ definition: to depress, i.e. prostrate (especially reflexive, in homage to royal
 kjv_usage: bow (self) down, crouch, fall down (flat), humbly beseech, do (make) obeisance,
   do reverence, make to stoop, worship.
 derivation: a primitive root;
-extended_definition:
-  gloss: to bow
-  definition: 1) to bow down<br>1a) (Qal) to bow down<br>1b)(Hiphil) to depress (fig)<br>1c)
-    (Hithpael)<br>1c1) to bow down, prostrate oneself<br>1c1a) before superior in
-    homage<br>1c1b) before God in worship<br>1c1c) before false gods<br>1c1d) before
-    angel
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to bow down
+
+  1a) (Qal) to bow down
+
+  1b)(Hiphil) to depress (fig)
+
+  1c) (Hithpael)
+
+  1c1) to bow down, prostrate oneself
+
+  1c1a) before superior in homage
+
+  1c1b) before God in worship
+
+  1c1c) before false gods
+
+  1c1d) before angel {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7252
-    proximity: 0.8226
+    lemma: רֶבַע
+    gloss: prostration {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: H7257
-    proximity: 0.8128
+    lemma: רָבַץ
+    gloss: to crouch (on all four legs folded {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
   - strongs: H7817
-    proximity: 0.807
+    lemma: שָׁחַח
+    gloss: to sink or depress {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
   - strongs: H5781
-    proximity: 0.8066
+    lemma: עוּק
+    gloss: to pack {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
   - strongs: H1794
-    proximity: 0.7982
+    lemma: דָּכָה
+    gloss: to collapse {openscriptures-strongs}
+    proximity: 0.7982 {macula-proximity}
   - strongs: H4614
-    proximity: 0.7785
+    lemma: מַעֲמָסָה
+    gloss: burdensomeness {openscriptures-strongs}
+    proximity: 0.7785 {macula-proximity}
   - strongs: H6915
-    proximity: 0.775
+    lemma: קָדַד
+    gloss: to shrivel up {openscriptures-strongs}
+    proximity: 0.775 {macula-proximity}
   - strongs: H3766
-    proximity: 0.7654
+    lemma: כָּרַע
+    gloss: to bend the knee {openscriptures-strongs}
+    proximity: 0.7654 {macula-proximity}
   - strongs: A5308
-    proximity: 0.7542
+    proximity: 0.7542 {macula-proximity}
   - strongs: H6808
-    proximity: 0.7482
+    lemma: צָעָה
+    gloss: to tip over {openscriptures-strongs}
+    proximity: 0.7482 {macula-proximity}
   cross_language:
   - strongs: G2524
-    proximity: 0.824
+    lemma: καθίημι
+    gloss: and {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: greek
   - strongs: G1119
-    proximity: 0.8229
+    lemma: γόνυ
+    gloss: the "knee" {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G5465
-    proximity: 0.8214
+    lemma: χαλάω
+    gloss: to lower {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
     language: greek
   - strongs: G2955a
-    proximity: 0.8208
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G5574
-    proximity: 0.8184
+    lemma: ψεύδομαι
+    gloss: to utter an untruth or attempt to deceive by falsehood {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

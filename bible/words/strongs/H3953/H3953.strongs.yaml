@@ -6,36 +6,45 @@ pronunciation: law-kash'
 definition: to gather the after crop
 kjv_usage: gather.
 derivation: a primitive root;
-extended_definition:
-  gloss: to glean
-  definition: 1) to glean, gather, take the aftermath, take everything<br>1a) (Piel)
-    to despoil, gather everything from, strip
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to glean, gather, take the aftermath, take everything
+
+  1a) (Piel) to despoil, gather everything from, strip {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5953
-    proximity: 0.828
+    lemma: עָלַל
+    gloss: to effect thoroughly {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
   - strongs: H1210
-    proximity: 0.8238
+    lemma: בָּצִיר
+    gloss: clipped {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H1155
-    proximity: 0.8229
+    lemma: בֹּסֶר
+    gloss: '{an immature grape} {openscriptures-strongs}'
+    proximity: 0.8229 {macula-proximity}
   - strongs: H6025
-    proximity: 0.7951
+    lemma: עֵנָב
+    gloss: a grape {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
   - strongs: H3951
-    proximity: 0.7908
+    lemma: לֶקֶט
+    gloss: the gleaning {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
   - strongs: H3950
-    proximity: 0.7443
+    lemma: לָקַט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7443 {macula-proximity}
   - strongs: H717
-    proximity: 0.7416
+    proximity: 0.7416 {macula-proximity}
   - strongs: H1219
-    proximity: 0.7111
+    lemma: בָּצַר
+    gloss: to gather grapes {openscriptures-strongs}
+    proximity: 0.7111 {macula-proximity}
   cross_language:
   - strongs: G4718
-    proximity: 0.787
+    lemma: σταφυλή
+    gloss: a cluster of grapes {openscriptures-strongs}
+    proximity: 0.787 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

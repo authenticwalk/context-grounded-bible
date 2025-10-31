@@ -10,24 +10,35 @@ derivation: from an unused root meaning to hold together;
 related_words:
   synonyms:
   - strongs: H5602
-    proximity: 0.8262
+    lemma: סֵפֶל
+    gloss: a basin {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: H4945
-    proximity: 0.8212
+    lemma: מַשְׁקֶה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   - strongs: H6894
-    proximity: 0.7702
+    lemma: קַב
+    gloss: a hollow {openscriptures-strongs}
+    proximity: 0.7702 {macula-proximity}
   - strongs: H7255
-    proximity: 0.7684
+    lemma: רֹבַע
+    gloss: a quarter {openscriptures-strongs}
+    proximity: 0.7684 {macula-proximity}
   cross_language:
   - strongs: G4094
-    proximity: 0.8258
+    lemma: πίναξ
+    gloss: a plate {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G3953
-    proximity: 0.8002
+    lemma: παροψίς
+    gloss: a side-dish {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
     language: greek
   - strongs: G3631
-    proximity: 0.712
+    lemma: οἶνος
+    gloss: '"wine" {openscriptures-strongs}'
+    proximity: 0.712 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

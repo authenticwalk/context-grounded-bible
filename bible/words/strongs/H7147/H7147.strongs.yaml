@@ -6,41 +6,48 @@ pronunciation: ker-ee'
 definition: hostile encounter
 kjv_usage: contrary.
 derivation: from H7136 (קָרָה);
-extended_definition:
-  gloss: hostility
-  definition: opposition, contrariness, encounter, contrary or hostile encounter
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: opposition, contrariness, encounter, contrary or hostile encounter
+  {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7853
-    proximity: 0.8113
+    lemma: שָׂטַן
+    gloss: to attack {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
   - strongs: H8569
-    proximity: 0.8056
+    lemma: תְּנוּאָה
+    gloss: alienation {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H6887b
-    proximity: 0.7946
+    proximity: 0.7946 {macula-proximity}
   - strongs: H4878
-    proximity: 0.7869
+    lemma: מְשׁוּבָה
+    gloss: apostasy {openscriptures-strongs}
+    proximity: 0.7869 {macula-proximity}
   - strongs: H8618
-    proximity: 0.7722
+    lemma: תְּקוֹמֵם
+    gloss: an opponent {openscriptures-strongs}
+    proximity: 0.7722 {macula-proximity}
   cross_language:
   - strongs: G1881
-    proximity: 0.8173
+    lemma: ἐπανίσταμαι
+    gloss: to stand up on {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
     language: greek
   - strongs: G2189
-    proximity: 0.8159
+    lemma: ἔχθρα
+    gloss: hostility {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
     language: greek
   - strongs: G1612
-    proximity: 0.8143
+    lemma: ἐκστρέφω
+    gloss: to pervert {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
     language: greek
   - strongs: G483
-    proximity: 0.7942
+    proximity: 0.7942 {macula-proximity}
     language: greek
   - strongs: G561
-    proximity: 0.7784
+    proximity: 0.7784 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,28 +6,24 @@ pronunciation: kash-shawf'
 definition: a magician
 kjv_usage: sorcerer.
 derivation: from H3784 (כָּשַׁף);
-extended_definition:
-  gloss: sorcerer
-  definition: sorcerer
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: sorcerer {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H328a
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
   - strongs: H3858a
-    proximity: 0.7768
+    proximity: 0.7768 {macula-proximity}
   - strongs: H3785
-    proximity: 0.7635
+    lemma: כֶּשֶׁף
+    gloss: magic {openscriptures-strongs}
+    proximity: 0.7635 {macula-proximity}
   cross_language:
   - strongs: G3095
-    proximity: 0.7994
+    lemma: μαγεία
+    gloss: '"magic" {openscriptures-strongs}'
+    proximity: 0.7994 {macula-proximity}
     language: greek
   - strongs: G5331a
-    proximity: 0.7671
+    proximity: 0.7671 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

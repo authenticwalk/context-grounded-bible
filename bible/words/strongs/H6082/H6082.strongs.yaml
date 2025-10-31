@@ -6,47 +6,59 @@ pronunciation: o'-fer
 definition: a fawn (from the dusty color)
 kjv_usage: young roe (hart).
 derivation: from H6080 (עָפַר);
-extended_definition:
-  gloss: fawn
-  definition: deer, fawn, stag, young hart
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: deer, fawn, stag, young hart {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6251
-    proximity: 0.8293
+    lemma: עַשְׁתְּרָה
+    gloss: increase {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: H5271a
-    proximity: 0.8233
+    proximity: 0.8233 {macula-proximity}
   - strongs: H8377
-    proximity: 0.8205
+    lemma: תְּאוֹ
+    gloss: a species of antelope {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: H1070
-    proximity: 0.8063
+    lemma: בֶּכֶר
+    gloss: a young camel {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
   - strongs: H1072
-    proximity: 0.8042
+    lemma: בִּכְרָה
+    gloss: a young she-camel {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: H6996
-    proximity: 0.7902
+    lemma: קָטָן
+    gloss: abbreviated {openscriptures-strongs}
+    proximity: 0.7902 {macula-proximity}
   - strongs: H1482
-    proximity: 0.7889
+    lemma: גּוּר
+    gloss: a cub {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
   - strongs: H6996a
-    proximity: 0.788
+    proximity: 0.788 {macula-proximity}
   cross_language:
   - strongs: G1393
-    proximity: 0.8284
+    lemma: Δορκάς
+    gloss: gazelle {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: greek
   - strongs: G1640
-    proximity: 0.8283
+    lemma: ἐλάσσων
+    gloss: smaller (in size {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
     language: greek
   - strongs: G3495
-    proximity: 0.8193
+    lemma: νεανίσκος
+    gloss: a youth {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
     language: greek
   - strongs: G3502a
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G3501
-    proximity: 0.8047
+    lemma: νέος
+    gloss: '"new" {openscriptures-strongs}'
+    proximity: 0.8047 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

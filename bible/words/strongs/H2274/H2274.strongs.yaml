@@ -6,42 +6,48 @@ pronunciation: kheb-raw'
 definition: association
 kjv_usage: company.
 derivation: feminine of H2267 (חֶבֶר);
-extended_definition:
-  gloss: company
-  definition: company, association
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: company, association {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1481a
-    proximity: 0.8191
+    proximity: 0.8191 {macula-proximity}
   - strongs: H736
-    proximity: 0.8187
+    proximity: 0.8187 {macula-proximity}
   - strongs: H5712
-    proximity: 0.8162
+    lemma: עֵדָה
+    gloss: a stated assemblage (specifically {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H7285
-    proximity: 0.8128
+    lemma: רֶגֶשׁ
+    gloss: a tumultuous crowd {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
   - strongs: H8229
-    proximity: 0.8108
+    lemma: שִׁפְעָה
+    gloss: copiousness {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
   - strongs: H2416e
-    proximity: 0.7958
+    proximity: 0.7958 {macula-proximity}
   - strongs: A2269
-    proximity: 0.7917
+    proximity: 0.7917 {macula-proximity}
   - strongs: H3862
-    proximity: 0.7689
+    lemma: לַהֲקָה
+    gloss: an assembly {openscriptures-strongs}
+    proximity: 0.7689 {macula-proximity}
   - strongs: H732
-    proximity: 0.755
+    proximity: 0.755 {macula-proximity}
   - strongs: H2270
-    proximity: 0.7253
+    lemma: חָבֵר
+    gloss: an associate {openscriptures-strongs}
+    proximity: 0.7253 {macula-proximity}
   cross_language:
   - strongs: G3353
-    proximity: 0.8131
+    lemma: μέτοχος
+    gloss: participant {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
     language: greek
   - strongs: G4830
-    proximity: 0.7676
+    lemma: συμμέτοχος
+    gloss: a co-participant {openscriptures-strongs}
+    proximity: 0.7676 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}
