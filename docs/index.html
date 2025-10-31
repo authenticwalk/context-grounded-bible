@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="The largest AI-readable commentary on the entire Bible to empower Bible translators, pastors and students to use AI effectively and accurately.">
+    <title>Context-Grounded Bible - AI-Readable Bible Commentary</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <!-- Logo placeholder - update with actual logo -->
+                <h1>Context-Grounded Bible</h1>
+            </div>
+            <nav>
+                <a href="#about">About</a>
+                <a href="#why">Why It Matters</a>
+                <a href="#get-started">Get Started</a>
+                <a href="https://github.com/authenticwalk/context-grounded-bible" target="_blank">GitHub</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <h2>The Largest AI-Readable Commentary on the Entire Bible</h2>
+                <p class="subtitle">Empowering Bible translators, pastors, and students to use AI effectively and accurately</p>
+                <a href="#get-started" class="cta-button">Get Started</a>
+            </div>
+        </section>
+
+        <section id="about" class="section">
+            <div class="container">
+                <h2>What is Context-Grounded Bible?</h2>
+                <p>An open-source initiative to create extensive contextual data for every verse in the Bible. By providing AI systems with comprehensive commentary (essentially "a book's worth of information" for each verse), we ground AI responses in truth rather than relying solely on compressed training data.</p>
+
+                <div class="features">
+                    <div class="feature">
+                        <h3>📖 Comprehensive Coverage</h3>
+                        <p>Data for every verse in the Bible, including original Greek and Hebrew word analysis</p>
+                    </div>
+                    <div class="feature">
+                        <h3>🤖 AI-Readable Format</h3>
+                        <p>Structured YAML files that are both human and AI-readable</p>
+                    </div>
+                    <div class="feature">
+                        <h3>🔓 Open Source</h3>
+                        <p>Free to use and contribute under MIT License</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="why" class="section gray">
+            <div class="container">
+                <h2>Why It Matters</h2>
+                <div class="problem-solution">
+                    <div class="problem">
+                        <h3>The Problem</h3>
+                        <p>AI text prediction models tend to be more confident than accurate with Biblical texts. While they perform well on commonly cited passages (like John 3:16) in popular translations (NIV, KJV), accuracy degrades significantly with:</p>
+                        <ul>
+                            <li>Lesser-quoted texts (minor prophets, Numbers, etc.)</li>
+                            <li>Rare or minority language translations</li>
+                            <li>Verses that lack extensive Internet training data</li>
+                        </ul>
+                    </div>
+                    <div class="solution">
+                        <h3>The Solution</h3>
+                        <p>By providing extensive contextual data for every verse broken into smaller task-focused files, AI systems can be grounded in truth. Since computers can read and hold an entire book in memory in under 1 second, we provide a book's worth of information for every verse.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="get-started" class="section">
+            <div class="container">
+                <h2>Get Started</h2>
+
+                <div class="install-section">
+                    <h3>Installation</h3>
+                    <p>This project works with Claude Code, an AI agent that helps create and manage the commentary data.</p>
+
+                    <div class="code-block">
+                        <code># Install Claude Code<br>
+npm install -g @anthropic-ai/claude-code<br>
+<br>
+# Clone the repository<br>
+git clone https://github.com/authenticwalk/context-grounded-bible.git<br>
+cd context-grounded-bible<br>
+<br>
+# Start Claude Code<br>
+claude</code>
+                    </div>
+
+                    <p class="note">Or use Claude Code directly at <a href="https://claude.ai/code" target="_blank">claude.ai/code</a></p>
+                </div>
+
+                <div class="usage-section">
+                    <h3>Using the Data</h3>
+
+                    <h4>Simple Command Line Access</h4>
+                    <p>Get all commentary data for a specific verse:</p>
+                    <div class="code-block">
+                        <code>cat ./bible/MAT/5/3/*.yaml > merged.yaml</code>
+                    </div>
+
+                    <h4>Data Structure</h4>
+                    <p>All generated commentary follows this directory structure:</p>
+                    <div class="code-block">
+                        <code>./bible/{book}/{chapter}/{verse}/{book}-{chapter}-{verse}-{task}.yaml</code>
+                    </div>
+                    <p class="example">Example: <code>./bible/MAT/5/3/MAT-5-3-greek-words.yaml</code></p>
+                </div>
+
+                <div class="contribute-section">
+                    <h3>Contributing</h3>
+                    <p>This project uses an AI agent self-learning loop to generate data:</p>
+                    <ol>
+                        <li>Human asks AI a question (e.g., "What are all the Greek words used in every verse?")</li>
+                        <li>AI clarifies goals and possibilities</li>
+                        <li>AI creates a sample data file and requests feedback</li>
+                        <li>Human and AI agents provide feedback</li>
+                        <li>AI refines its instructions through iteration</li>
+                        <li>Process the entire Bible with the optimized approach</li>
+                    </ol>
+                    <p>Visit our <a href="https://github.com/authenticwalk/context-grounded-bible" target="_blank">GitHub repository</a> to contribute!</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 1997-2025 Context-Grounded Bible Project</p>
+            <p>Open source under MIT License | <a href="https://github.com/authenticwalk/context-grounded-bible" target="_blank">GitHub</a></p>
+            <p class="note">Note: Update copyright year once original date is confirmed from mybibletoolbox.com</p>
+        </div>
+    </footer>
+</body>
+</html>
