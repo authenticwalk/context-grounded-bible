@@ -6,7 +6,7 @@ TBTA (The Bible Translator's Assistant) Processor
 Processes TBTA JSON export files and generates YAML commentary files
 following the Context-Grounded Bible project structure.
 
-Output structure: ./bible/commentaries/{book}/{chapter}/{verse}/{book}-{chapter}-{verse}-tbta.yaml
+Output structure: ./bible/commentary/{book}/{chapter}/{verse}/{book}-{chapter}-{verse}-tbta.yaml
 
 Usage:
     python tbta_processor.py --all                    # Process all verses
@@ -36,7 +36,7 @@ logger = logging.getLogger(__name__)
 
 # Configuration
 TBTA_JSON_DIR = Path("/tmp/tbta_db_export/json")
-OUTPUT_DIR = Path("./bible/commentaries")
+OUTPUT_DIR = Path("./bible/commentary")
 
 # Book name to USFM code mapping
 BOOK_NAME_MAP = {
