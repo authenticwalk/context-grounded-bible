@@ -212,7 +212,7 @@ def main():
         parser.parse_hebrew_file(url)
 
     # Write output files
-    output_dir = '/home/user/context-grounded-bible/data/lexicon/words/strongs'
+    output_dir = '/home/user/context-grounded-bible/data/bible/words/strongs'
     parser.write_yaml_files(output_dir)
 
     print("\n" + "=" * 70)

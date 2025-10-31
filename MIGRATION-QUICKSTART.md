@@ -2,18 +2,17 @@
 
 ## TL;DR
 
-We're splitting this repo into 3 for better performance:
+We're splitting this repo into 2 for better performance:
 1. **mybibletoolbox-code** (10MB) - Tools & scripts
-2. **mybibletoolbox-lexicon** (63MB) - Reference data
-3. **mybibletoolbox-commentary** (2.5GB) - Generated data
+2. **mybibletoolbox-data** (2.6GB) - All bible data (lexicon + commentary)
 
-**Result:** 97% faster clones for developers
+**Result:** 99.6% faster clones for developers
 
 ## Before You Start
 
 1. **Commit all changes** - Clean working directory required
 2. **Install git-filter-repo**: `pip install git-filter-repo`
-3. **GitHub repos created** - All 3 repos should exist (already done!)
+3. **GitHub repos created** - Both repos should exist (already done!)
 
 ## Run the Migration
 
@@ -24,7 +23,7 @@ We're splitting this repo into 3 for better performance:
 
 Follow the prompts. Script will:
 - ✅ Create timestamped backup
-- ✅ Split into 3 repos in `split-repos/` directory
+- ✅ Split into 2 repos in `split-repos/` directory
 - ✅ Preserve full git history
 - ✅ Provide next steps
 
@@ -37,8 +36,7 @@ cd split-repos
 
 # Check each repo
 ls -lh mybibletoolbox-code/
-ls -lh mybibletoolbox-lexicon/
-ls -lh mybibletoolbox-commentary/
+ls -lh mybibletoolbox-data/
 ```
 
 ### Push to GitHub
@@ -50,15 +48,9 @@ git remote add origin https://github.com/authenticwalk/mybibletoolbox-code
 git branch -M main
 git push -u origin main
 
-# Lexicon repo
-cd ../mybibletoolbox-lexicon
-git remote add origin https://github.com/authenticwalk/mybibletoolbox-lexicon
-git branch -M main
-git push -u origin main
-
-# Commentary repo
-cd ../mybibletoolbox-commentary
-git remote add origin https://github.com/authenticwalk/mybibletoolbox-commentary
+# Data repo
+cd ../mybibletoolbox-data
+git remote add origin https://github.com/authenticwalk/mybibletoolbox-data
 git branch -M main
 git push -u origin main
 ```
@@ -81,17 +73,14 @@ git clone https://github.com/authenticwalk/mybibletoolbox-code
 git clone https://github.com/authenticwalk/mybibletoolbox-code
 cd mybibletoolbox-code
 
-# Clone lexicon (if needed)
-git clone https://github.com/authenticwalk/mybibletoolbox-lexicon data/lexicon
-
-# Clone commentary with sparse checkout (recommended)
+# Clone data with sparse checkout (recommended)
 git clone --filter=blob:none --sparse \
-  https://github.com/authenticwalk/mybibletoolbox-commentary \
-  data/commentary
+  https://github.com/authenticwalk/mybibletoolbox-data \
+  data
 
-# Add only books you need
-cd data/commentary
-git sparse-checkout set commentary/MAT commentary/JHN
+# Add only what you need (e.g., specific books or Strong's numbers)
+cd data
+git sparse-checkout set bible/words/strongs bible/commentary/MAT bible/commentary/JHN
 ```
 
 ## What Goes Where?
@@ -99,8 +88,7 @@ git sparse-checkout set commentary/MAT commentary/JHN
 | Repository | Contents | Size | Update Frequency |
 |------------|----------|------|------------------|
 | **mybibletoolbox-code** | Tools, scripts, .claude/, docs | 10MB | Regular |
-| **mybibletoolbox-lexicon** | Strong's dictionary, word data | 63MB | Rare |
-| **mybibletoolbox-commentary** | Generated verse commentary | 2.5GB | Frequent |
+| **mybibletoolbox-data** | All bible data: Strong's dictionary, word data, verse commentary | 2.6GB | Varies (lexicon: rare, commentary: frequent) |
 
 ## Troubleshooting
 
@@ -137,9 +125,10 @@ rm -rf split-repos
 - Mixed concerns
 
 **After:**
-- Main repo: 10MB (99.6% smaller)
+- Main repo: 10MB (99.6% smaller!)
 - 5-10 second clones
 - Fast git operations
 - Clean separation
+- Sparse checkout support for minimal data loading
 
 Developers work with tools without downloading gigabytes of data they don't need.

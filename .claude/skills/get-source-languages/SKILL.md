@@ -13,29 +13,29 @@ Retrieve detailed source language (Greek/Hebrew) data for Bible verses, includin
 
 ## Data Repository Setup
 
-This skill requires the **mybibletoolbox-lexicon** repository for Strong's dictionary data.
+This skill requires the **mybibletoolbox-data** repository for Strong's dictionary data.
 
-### Auto-Clone Lexicon Data
+### Auto-Clone Bible Data
 
-Before using this skill, check if lexicon data exists. If not, auto-clone it:
+Before using this skill, check if bible data exists. If not, auto-clone it:
 
 ```bash
-# Check if lexicon exists
-if [ ! -d "data/lexicon" ]; then
-  echo "Lexicon data not found. Cloning mybibletoolbox-lexicon..."
-  git clone https://github.com/authenticwalk/mybibletoolbox-lexicon data/lexicon
-  echo "✓ Lexicon data ready"
+# Check if bible data exists
+if [ ! -d "data" ]; then
+  echo "Bible data not found. Cloning mybibletoolbox-data..."
+  git clone https://github.com/authenticwalk/mybibletoolbox-data data
+  echo "✓ Bible data ready"
 fi
 ```
 
-**Expected location:** `data/lexicon/words/strongs/`
+**Expected location:** `data/bible/words/strongs/`
 
 **What it contains:**
 - 14,197 Strong's dictionary entries (Greek + Hebrew)
-- 63MB total size
-- Rarely updated (static reference data)
+- Full bible data repository (2.6GB)
+- Use sparse checkout for minimal footprint (see setup-sparse-checkout.sh)
 
-**Note:** Scripts have been updated to use the new `data/lexicon/` location.
+**Note:** Scripts have been updated to use the new `data/bible/` location.
 
 ## When to Use
 

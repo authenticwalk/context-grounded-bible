@@ -5,7 +5,7 @@ Strong's Dictionary Fetcher - Enhanced Edition
 This script fetches Strong's Hebrew and Greek dictionary data from multiple sources
 and generates comprehensive YAML files for each entry.
 
-Directory structure: data/lexicon/words/strongs/{strongs-number}/{strongs-number}.strongs.yaml
+Directory structure: data/bible/words/strongs/{strongs-number}/{strongs-number}.strongs.yaml
 
 Strong's numbers use leading zeros:
 - Greek: G0001-G5624 (4 digits)
@@ -30,7 +30,7 @@ from collections import defaultdict
 
 # Configuration
 BASE_DIR = Path(__file__).parent
-BIBLE_WORDS_DIR = BASE_DIR / "data" / "lexicon" / "words" / "strongs"
+BIBLE_WORDS_DIR = BASE_DIR / "data" / "bible" / "words" / "strongs"
 CACHE_DIR = Path("/tmp/strongs_enhancement")
 
 # Base Strong's data URLs
