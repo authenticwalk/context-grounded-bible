@@ -58,14 +58,7 @@ ensure_commentary_book "MAT"
 - Faster initial clone
 - Less disk usage
 
-**Note:** The script paths may reference old locations. After the repository split, you can create a symlink for backward compatibility:
-
-```bash
-# Create symlink for backward compatibility (temporary solution)
-mkdir -p bible
-ln -s ../data/commentary/commentary bible/commentary
-ln -s ../data/commentary/commentaries bible/commentaries
-```
+**Note:** Scripts have been updated to use the new `data/commentary/` location.
 
 ## When to Use
 

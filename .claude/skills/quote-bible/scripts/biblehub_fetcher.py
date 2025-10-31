@@ -42,7 +42,7 @@ except ImportError:
     except ImportError:
         VERSION_NAME_PREFIXES = {}
 
-CACHE_ROOT = Path('bible/commentary')
+CACHE_ROOT = Path('data/commentary/commentary')
 # IMPORTANT: you must keep the .cache suffix as this is copyrighted works and .gitignore will skip adding it to source
 SUFFIX = "translations-biblehub.cache"
 

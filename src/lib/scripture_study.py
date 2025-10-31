@@ -130,7 +130,7 @@ def get_commentary_files(
         chapter: Chapter number
         verse: Verse number
         depth: Depth level (light/medium/full)
-        base_path: Base path to bible/commentary directory
+        base_path: Base path to data/commentary/commentary directory
         tool_registry: Tool registry dictionary
         filters: List of tool suffixes to include (None = all)
         excludes: List of tool suffixes to exclude

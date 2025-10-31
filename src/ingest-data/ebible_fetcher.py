@@ -11,7 +11,7 @@ from typing import Dict, Optional
 from ..constants.bible import get_all_verses, parse_verse_ref
 from ..util.cache import fetch_verse_from_cache
 
-CACHE_ROOT = Path('bible/commentary')
+CACHE_ROOT = Path('data/commentary/commentary')
 
 class EbibleFetchError(Exception):
     """Exception raised when eBible fetching fails."""

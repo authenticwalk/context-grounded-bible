@@ -61,14 +61,7 @@ ensure_commentary_book "MAT"
 - **Multiple books**: Add books as needed with `git sparse-checkout add`
 - **Sermon series**: Clone all needed books upfront
 
-**Note:** The script paths may reference old locations (`./bible/commentary/`). After the repository split, create symlinks for backward compatibility:
-
-```bash
-# Create symlink for backward compatibility (temporary solution)
-mkdir -p bible
-ln -s ../data/commentary/commentary bible/commentary
-ln -s ../data/commentary/commentaries bible/commentaries
-```
+**Note:** Scripts have been updated to use the new `data/commentary/` location.
 
 ## When to Use
 

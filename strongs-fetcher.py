@@ -5,7 +5,7 @@ Strong's Dictionary Fetcher
 This script fetches Strong's Hebrew and Greek dictionary data from the
 openscriptures/strongs repository and generates YAML files for each entry.
 
-Directory structure: bible/words/strongs/{strongs-number}/{strongs-number}.strongs.yaml
+Directory structure: data/lexicon/words/strongs/{strongs-number}/{strongs-number}.strongs.yaml
 
 Strong's numbers use leading zeros:
 - Greek: G0001-G5624 (4 digits)
@@ -26,7 +26,7 @@ from typing import Dict, Any
 
 # Configuration
 BASE_DIR = Path(__file__).parent
-BIBLE_WORDS_DIR = BASE_DIR / "bible" / "words" / "strongs"
+BIBLE_WORDS_DIR = BASE_DIR / "data" / "lexicon" / "words" / "strongs"
 
 GREEK_URL = "https://raw.githubusercontent.com/openscriptures/strongs/master/greek/strongs-greek-dictionary.js"
 HEBREW_URL = "https://raw.githubusercontent.com/openscriptures/strongs/master/hebrew/strongs-hebrew-dictionary.js"

@@ -35,15 +35,7 @@ fi
 - 63MB total size
 - Rarely updated (static reference data)
 
-**Note:** The script paths reference the old location (`./bible/words/strongs/`). After the repository split, these paths will need updating OR you can create a symlink:
-
-```bash
-# Create symlink for backward compatibility (temporary solution)
-mkdir -p bible
-ln -s ../data/lexicon/words bible/words
-```
-
-This allows existing scripts to continue working until they're updated to use the new `data/lexicon/` location.
+**Note:** Scripts have been updated to use the new `data/lexicon/` location.
 
 ## When to Use
 
