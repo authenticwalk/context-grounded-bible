@@ -27,6 +27,7 @@ import urllib.request
 from pathlib import Path
 from typing import Dict, Any, List, Tuple
 from collections import defaultdict
+from bs4 import BeautifulSoup
 
 # Configuration
 BASE_DIR = Path(__file__).parent
@@ -208,6 +209,35 @@ def parse_proximity_tsv(filepath: Path, min_proximity: float = 0.70) -> Dict[str
     return dict(relationships)
 
 
+def strip_html(html_text: str) -> str:
+    """
+    Strip HTML tags and convert to plain text.
+
+    Handles:
+    - Removes all HTML tags
+    - Converts <BR /> to newlines
+    - Preserves text content
+    - Cleans up extra whitespace
+    """
+    if not html_text:
+        return ""
+
+    # Replace BR tags with newlines first
+    html_text = re.sub(r'<BR\s*/?>', '\n', html_text, flags=re.IGNORECASE)
+    html_text = re.sub(r'<br\s*/?>', '\n', html_text, flags=re.IGNORECASE)
+
+    # Use BeautifulSoup to strip HTML
+    soup = BeautifulSoup(html_text, 'lxml')
+    text = soup.get_text()
+
+    # Clean up whitespace
+    lines = [line.strip() for line in text.split('\n')]
+    lines = [line for line in lines if line]  # Remove empty lines
+    text = '\n'.join(lines)
+
+    return text.strip()
+
+
 def load_all_enhancement_data() -> Dict[str, Any]:
     """Load all enhancement data sources into memory."""
     print("\n" + "="*60)
@@ -281,31 +311,32 @@ def format_strongs_number(strongs_num: str) -> str:
     return f"{prefix}{number:04d}"
 
 
-def create_strongs_yaml(strongs_num: str, entry: Dict[str, Any], enhancement_data: Dict[str, Any] = None) -> str:
+def create_strongs_yaml(strongs_num: str, entry: Dict[str, Any], enhancement_data: Dict[str, Any] = None, all_strongs: Dict[str, Dict] = None) -> str:
     """
-    Create enhanced YAML content for a Strong's entry.
+    Create enhanced YAML content for a Strong's entry following STANDARDIZATION.md.
 
-    Includes base data plus enhancements from:
-    - STEPBible extended definitions
-    - LSJ etymology (Greek only)
-    - Clear-Bible Proximity synonyms
+    Changes from previous version:
+    - Strip HTML from definitions
+    - Use inline {source-id} citations
+    - Add lemma and gloss to related_words
+    - Remove enhancements and aggregate license fields
+    - Follow citation standards
 
-    Format:
+    Format per STANDARDIZATION.md:
     ---
-    strongs_number: G0001 or H0001
-    language: greek or hebrew
-    lemma: original language word
-    transliteration: ...
-    pronunciation: ...
-    definition: ...
-    kjv_usage: ...
-    derivation: ...
-    extended_definition: ...  # NEW
-    etymology: ...            # NEW (Greek only)
-    related_words: ...        # NEW
-    source: openscriptures/strongs
-    enhancements: [...]       # NEW
-    license: CC-BY-SA + CC BY 4.0
+    strongs_number: G0001
+    language: greek
+    lemma: original word
+    definition: ... {openscriptures-strongs}
+    extended_definition: |
+      Plain text definition (HTML stripped) {STEPBible-TBESG}
+    etymology: |
+      Plain text etymology (HTML stripped) {STEPBible-TFLSJ}
+    related_words:
+      - strongs: G0025
+        lemma: ἀγαπάω
+        gloss: to love {openscriptures-strongs}
+        proximity: 0.95 {macula-proximity}
     """
     # Determine language
     language = "greek" if strongs_num.startswith('G') else "hebrew"
@@ -342,9 +373,6 @@ def create_strongs_yaml(strongs_num: str, entry: Dict[str, Any], enhancement_dat
     if "derivation" in entry:
         yaml_data["derivation"] = entry["derivation"].strip()
 
-    # Track which enhancements were added
-    enhancements = []
-
     # Add enhancement data if available
     if enhancement_data:
         # STEPBible extended definition
@@ -352,12 +380,7 @@ def create_strongs_yaml(strongs_num: str, entry: Dict[str, Any], enhancement_dat
         if strongs_num in enhancement_data.get(stepbible_key, {}):
             stepbible_entry = enhancement_data[stepbible_key][strongs_num]
 
-            extended_def = {}
-            if 'Gloss' in stepbible_entry:
-                extended_def['gloss'] = stepbible_entry['Gloss']
-
-            # Find the definition field - it might be called "Meaning" or be the last column
-            # (the last column in TBESG is "Abbott-Smith lexicon (AS)...", in TBESH it's different)
+            # Find the definition field
             definition_field = None
             for key in stepbible_entry.keys():
                 if 'Meaning' in key or 'lexicon' in key or 'BDB' in key:
@@ -365,35 +388,27 @@ def create_strongs_yaml(strongs_num: str, entry: Dict[str, Any], enhancement_dat
                     break
 
             if definition_field and definition_field.strip():
-                extended_def['definition'] = definition_field.strip()
-
-            if 'Morph' in stepbible_entry:
-                extended_def['morphology'] = stepbible_entry['Morph']
-
-            extended_def['source'] = 'STEPBible/Abbott-Smith' if language == 'greek' else 'STEPBible/BDB'
-
-            if len(extended_def) > 1:  # More than just 'source'
-                yaml_data['extended_definition'] = extended_def
-                enhancements.append(extended_def['source'])
+                # Strip HTML and add inline citation
+                plain_def = strip_html(definition_field)
+                source_id = 'STEPBible-TBESG' if language == 'greek' else 'STEPBible-TBESH'
+                yaml_data['extended_definition'] = f"{plain_def} {{{source_id}}}"
 
         # LSJ etymology (Greek only)
         if language == 'greek' and strongs_num in enhancement_data.get('greek_full', {}):
             lsj_entry = enhancement_data['greek_full'][strongs_num]
 
-            # Find LSJ content - might be in 'LSJ_Entry' or a column with 'LSJ' in the name
+            # Find LSJ content
             lsj_content = None
             for key in lsj_entry.keys():
-                if 'LSJ' in key or 'Liddell' in key or len(key) > 50:  # Long column names often contain the content
+                if 'LSJ' in key or 'Liddell' in key or len(key) > 50:
                     lsj_content = lsj_entry[key]
                     if lsj_content and lsj_content.strip():
                         break
 
             if lsj_content and lsj_content.strip():
-                yaml_data['etymology'] = {
-                    'lsj_definition': lsj_content.strip(),
-                    'source': 'STEPBible/LSJ'
-                }
-                enhancements.append('STEPBible/LSJ')
+                # Strip HTML and add inline citation
+                plain_etym = strip_html(lsj_content)
+                yaml_data['etymology'] = f"{plain_etym} {{STEPBible-TFLSJ}}"
 
         # Related words from Proximity data
         proximity_key = 'proximity_greek' if language == 'greek' else 'proximity_hebrew'
@@ -409,10 +424,30 @@ def create_strongs_yaml(strongs_num: str, entry: Dict[str, Any], enhancement_dat
                 is_cross = (language == 'greek' and related_num.startswith('H')) or \
                            (language == 'hebrew' and related_num.startswith('G'))
 
+                # Look up lemma and gloss for this Strong's number
+                lemma = None
+                gloss = None
+                if all_strongs and related_num in all_strongs:
+                    related_entry = all_strongs[related_num]
+                    lemma = related_entry.get('lemma')
+                    # Get a brief gloss from the definition (first phrase)
+                    definition = related_entry.get('strongs_def', '')
+                    if definition:
+                        # Take first part before semicolon or comma
+                        gloss = definition.split(';')[0].split(',')[0].strip()
+                        # Remove parentheticals
+                        gloss = re.sub(r'\([^)]*\)', '', gloss).strip()
+
                 rel_entry = {
                     'strongs': related_num,
-                    'proximity': round(proximity, 4)
                 }
+
+                if lemma:
+                    rel_entry['lemma'] = lemma
+                if gloss:
+                    rel_entry['gloss'] = f"{gloss} {{openscriptures-strongs}}"
+
+                rel_entry['proximity'] = f"{round(proximity, 4)} {{macula-proximity}}"
 
                 if is_cross:
                     rel_entry['language'] = 'hebrew' if related_num.startswith('H') else 'greek'
@@ -428,22 +463,15 @@ def create_strongs_yaml(strongs_num: str, entry: Dict[str, Any], enhancement_dat
 
             if related_words:
                 yaml_data['related_words'] = related_words
-                enhancements.append('Clear-Bible/proximity')
 
-    # Metadata
-    yaml_data["source"] = "openscriptures/strongs"
-
-    if enhancements:
-        yaml_data["enhancements"] = enhancements
-        yaml_data["license"] = "CC-BY-SA + CC BY 4.0"
-    else:
-        yaml_data["license"] = "CC-BY-SA"
+    # Source attribution (inline citation format per STANDARDIZATION.md)
+    yaml_data["source"] = "openscriptures/strongs {CC-BY-SA}"
 
     # Convert to YAML
     return yaml.dump(yaml_data, allow_unicode=True, sort_keys=False, default_flow_style=False)
 
 
-def create_strongs_file(strongs_num: str, entry: Dict[str, Any], enhancement_data: Dict[str, Any] = None):
+def create_strongs_file(strongs_num: str, entry: Dict[str, Any], enhancement_data: Dict[str, Any] = None, all_strongs: Dict[str, Dict] = None):
     """Create an enhanced YAML file for a Strong's entry with formatted number."""
     # Format the Strong's number with leading zeros
     formatted_num = format_strongs_number(strongs_num)
@@ -454,7 +482,7 @@ def create_strongs_file(strongs_num: str, entry: Dict[str, Any], enhancement_dat
 
     # Create YAML file with enhancements
     yaml_path = strongs_dir / f"{formatted_num}.strongs.yaml"
-    yaml_content = create_strongs_yaml(formatted_num, entry, enhancement_data)
+    yaml_content = create_strongs_yaml(formatted_num, entry, enhancement_data, all_strongs)
 
     with open(yaml_path, 'w', encoding='utf-8') as f:
         f.write(yaml_content)
@@ -462,7 +490,7 @@ def create_strongs_file(strongs_num: str, entry: Dict[str, Any], enhancement_dat
     return yaml_path
 
 
-def process_dictionary(url: str, dict_name: str, enhancement_data: Dict[str, Any] = None):
+def process_dictionary(url: str, dict_name: str, enhancement_data: Dict[str, Any] = None, all_dictionaries: Dict[str, Dict] = None):
     """Download and process a Strong's dictionary (Greek or Hebrew) with enhancements."""
     print(f"\n{'='*60}")
     print(f"Processing {dict_name} dictionary...")
@@ -477,6 +505,14 @@ def process_dictionary(url: str, dict_name: str, enhancement_data: Dict[str, Any
 
     print(f"Found {len(dictionary)} entries in {dict_name} dictionary")
 
+    # Build a complete strongs lookup (formatted numbers -> entries)
+    all_strongs = {}
+    if all_dictionaries:
+        for d in all_dictionaries.values():
+            for num, entry in d.items():
+                formatted = format_strongs_number(num)
+                all_strongs[formatted] = entry
+
     # Process each entry
     created_count = 0
     enhanced_count = 0
@@ -487,7 +523,7 @@ def process_dictionary(url: str, dict_name: str, enhancement_data: Dict[str, Any
             formatted_num = format_strongs_number(strongs_num)
 
             # Create file with enhancements
-            yaml_path = create_strongs_file(strongs_num, entry, enhancement_data)
+            yaml_path = create_strongs_file(strongs_num, entry, enhancement_data, all_strongs)
             created_count += 1
 
             # Count how many were enhanced
@@ -520,8 +556,9 @@ def main():
     print("  Hebrew: H0001-H8674")
     print("\nEnhancements:")
     print("  • STEPBible extended definitions (Abbott-Smith, BDB, LSJ)")
-    print("  • Clear-Bible proximity-based synonyms")
+    print("  • Clear-Bible proximity-based synonyms with lemmas")
     print("  • Cross-language relationships (Hebrew ↔ Greek)")
+    print("  • HTML stripped, inline citations per STANDARDIZATION.md")
     print("\n")
 
     # Create base directory
@@ -535,15 +572,41 @@ def main():
         print("  Continuing with base Strong's data only...\n")
         enhancement_data = None
 
+    # Download both dictionaries first (needed for lemma lookups in related_words)
+    print("\n" + "="*60)
+    print("Downloading base Strong's dictionaries...")
+    print("="*60 + "\n")
+
+    try:
+        greek_content = download_file(GREEK_URL)
+        greek_dict = parse_javascript_dict(greek_content)
+        print(f"✓ Loaded {len(greek_dict)} Greek entries")
+    except Exception as e:
+        print(f"✗ Error loading Greek dictionary: {e}")
+        greek_dict = {}
+
+    try:
+        hebrew_content = download_file(HEBREW_URL)
+        hebrew_dict = parse_javascript_dict(hebrew_content)
+        print(f"✓ Loaded {len(hebrew_dict)} Hebrew entries\n")
+    except Exception as e:
+        print(f"✗ Error loading Hebrew dictionary: {e}")
+        hebrew_dict = {}
+
+    all_dictionaries = {
+        'greek': greek_dict,
+        'hebrew': hebrew_dict
+    }
+
     # Process Greek dictionary
     try:
-        process_dictionary(GREEK_URL, "Greek", enhancement_data)
+        process_dictionary(GREEK_URL, "Greek", enhancement_data, all_dictionaries)
     except Exception as e:
         print(f"\n✗ Error processing Greek dictionary: {e}")
 
     # Process Hebrew dictionary
     try:
-        process_dictionary(HEBREW_URL, "Hebrew", enhancement_data)
+        process_dictionary(HEBREW_URL, "Hebrew", enhancement_data, all_dictionaries)
     except Exception as e:
         print(f"\n✗ Error processing Hebrew dictionary: {e}")
 
