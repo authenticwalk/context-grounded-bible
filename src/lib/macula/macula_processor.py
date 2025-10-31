@@ -38,7 +38,7 @@ logger = logging.getLogger(__name__)
 CACHE_DIR = Path("/tmp/macula")
 HEBREW_LOWFAT = CACHE_DIR / "hebrew" / "WLC" / "lowfat"
 GREEK_LOWFAT = CACHE_DIR / "greek" / "Nestle1904" / "lowfat"
-OUTPUT_DIR = Path("./bible/commentaries")
+OUTPUT_DIR = Path("./bible/commentary")
 
 # Book mappings (USFM 3.0 codes)
 HEBREW_BOOK_MAP = {
