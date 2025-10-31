@@ -3,9 +3,9 @@
 ## TL;DR
 
 We're splitting this repo into 3 for better performance:
-1. **Main repo** (10MB) - Tools & scripts
-2. **Lexicons** (63MB) - Reference data
-3. **Commentary** (2.5GB) - Generated data
+1. **mybibletoolbox-code** (10MB) - Tools & scripts
+2. **mybibletoolbox-lexicon** (63MB) - Reference data
+3. **mybibletoolbox-commentary** (2.5GB) - Generated data
 
 **Result:** 97% faster clones for developers
 
@@ -13,7 +13,7 @@ We're splitting this repo into 3 for better performance:
 
 1. **Commit all changes** - Clean working directory required
 2. **Install git-filter-repo**: `pip install git-filter-repo`
-3. **Backup important work** - Script creates backup automatically
+3. **GitHub repos created** - All 3 repos should exist (already done!)
 
 ## Run the Migration
 
@@ -36,40 +36,30 @@ Follow the prompts. Script will:
 cd split-repos
 
 # Check each repo
-ls -lh context-grounded-bible-main/
-ls -lh bible-data-lexicons/
-ls -lh bible-data-commentary/
-```
-
-### Create GitHub Repos
-
-**Option 1 - Web Interface:**
-1. Go to https://github.com/new
-2. Create `bible-data-lexicons`
-3. Create `bible-data-commentary`
-
-**Option 2 - CLI:**
-```bash
-gh repo create authenticwalk/bible-data-lexicons --public
-gh repo create authenticwalk/bible-data-commentary --public
+ls -lh mybibletoolbox-code/
+ls -lh mybibletoolbox-lexicon/
+ls -lh mybibletoolbox-commentary/
 ```
 
 ### Push to GitHub
 
 ```bash
-# Main repo (update existing)
-cd split-repos/context-grounded-bible-main
-git remote set-url origin https://github.com/authenticwalk/context-grounded-bible
-git push -f origin main
+# Code repo
+cd split-repos/mybibletoolbox-code
+git remote add origin https://github.com/authenticwalk/mybibletoolbox-code
+git branch -M main
+git push -u origin main
 
-# Lexicons repo
-cd ../bible-data-lexicons
-git remote add origin https://github.com/authenticwalk/bible-data-lexicons
+# Lexicon repo
+cd ../mybibletoolbox-lexicon
+git remote add origin https://github.com/authenticwalk/mybibletoolbox-lexicon
+git branch -M main
 git push -u origin main
 
 # Commentary repo
-cd ../bible-data-commentary
-git remote add origin https://github.com/authenticwalk/bible-data-commentary
+cd ../mybibletoolbox-commentary
+git remote add origin https://github.com/authenticwalk/mybibletoolbox-commentary
+git branch -M main
 git push -u origin main
 ```
 
@@ -78,8 +68,8 @@ git push -u origin main
 ### For Developers (Tools/Scripts)
 
 ```bash
-# Just clone main repo
-git clone https://github.com/authenticwalk/context-grounded-bible
+# Just clone code repo
+git clone https://github.com/authenticwalk/mybibletoolbox-code
 ```
 
 **That's it!** 10MB clone in seconds.
@@ -87,16 +77,16 @@ git clone https://github.com/authenticwalk/context-grounded-bible
 ### For Data Users
 
 ```bash
-# Clone main repo
-git clone https://github.com/authenticwalk/context-grounded-bible
-cd context-grounded-bible
+# Clone code repo
+git clone https://github.com/authenticwalk/mybibletoolbox-code
+cd mybibletoolbox-code
 
-# Clone lexicons (if needed)
-git clone https://github.com/authenticwalk/bible-data-lexicons data/lexicons
+# Clone lexicon (if needed)
+git clone https://github.com/authenticwalk/mybibletoolbox-lexicon data/lexicon
 
 # Clone commentary with sparse checkout (recommended)
 git clone --filter=blob:none --sparse \
-  https://github.com/authenticwalk/bible-data-commentary \
+  https://github.com/authenticwalk/mybibletoolbox-commentary \
   data/commentary
 
 # Add only books you need
@@ -108,9 +98,9 @@ git sparse-checkout set commentary/MAT commentary/JHN
 
 | Repository | Contents | Size | Update Frequency |
 |------------|----------|------|------------------|
-| **main** | Tools, scripts, .claude/, docs | 10MB | Regular |
-| **lexicons** | Strong's dictionary, word data | 63MB | Rare |
-| **commentary** | Generated verse commentary | 2.5GB | Frequent |
+| **mybibletoolbox-code** | Tools, scripts, .claude/, docs | 10MB | Regular |
+| **mybibletoolbox-lexicon** | Strong's dictionary, word data | 63MB | Rare |
+| **mybibletoolbox-commentary** | Generated verse commentary | 2.5GB | Frequent |
 
 ## Troubleshooting
 
@@ -128,15 +118,15 @@ git add . && git commit -m "save work"
 
 ### Need to rollback?
 ```bash
-# Backup is at parent directory
-cd ..
-mv context-grounded-bible-backup-YYYYMMDD-HHMMSS context-grounded-bible
+# Just delete split-repos directory and start over
+rm -rf split-repos
+# Original repo is unchanged until you push
 ```
 
 ## Help
 
 - **Full guide**: [plan/repository-split-guide.md](plan/repository-split-guide.md)
-- **Issues**: https://github.com/authenticwalk/context-grounded-bible/issues
+- **Issues**: https://github.com/authenticwalk/mybibletoolbox-code/issues
 
 ## The Why
 

@@ -2,14 +2,13 @@
 # Split context-grounded-bible repository into 3 separate repositories
 #
 # This script creates:
-# 1. context-grounded-bible (main) - Tools, scripts, docs (everything except bible/)
-# 2. bible-data-lexicons - Static reference data (bible/words/)
-# 3. bible-data-commentary - Generated commentary (bible/commentary/ + bible/commentaries/)
+# 1. mybibletoolbox-code - Tools, scripts, docs (everything except bible/)
+# 2. mybibletoolbox-lexicon - Static reference data (bible/words/)
+# 3. mybibletoolbox-commentary - Generated commentary (bible/commentary/ + bible/commentaries/)
 #
 # Prerequisites:
 #   - git-filter-repo installed: pip install git-filter-repo
 #   - Clean working directory (no uncommitted changes)
-#   - Backup of original repository recommended
 #
 # WARNING: This script rewrites git history. All contributors must re-clone.
 
@@ -23,9 +22,10 @@ BLUE='\033[0;34m'
 NC='\033[0m' # No Color
 
 # Configuration
-ORIGINAL_REPO="context-grounded-bible"
-BACKUP_DIR="context-grounded-bible-backup-$(date +%Y%m%d-%H%M%S)"
 SPLIT_DIR="split-repos"
+REPO_CODE_URL="https://github.com/authenticwalk/mybibletoolbox-code"
+REPO_LEXICON_URL="https://github.com/authenticwalk/mybibletoolbox-lexicon"
+REPO_COMMENTARY_URL="https://github.com/authenticwalk/mybibletoolbox-commentary"
 
 echo -e "${BLUE}========================================${NC}"
 echo -e "${BLUE}Repository Split Script${NC}"
@@ -62,9 +62,12 @@ echo ""
 
 # Confirm action
 echo -e "${YELLOW}This will:${NC}"
-echo "  1. Create a backup of your current repository"
-echo "  2. Split into 3 separate repositories preserving git history"
-echo "  3. Repositories will be created in: ./${SPLIT_DIR}/"
+echo "  1. Split into 3 separate repositories preserving git history"
+echo "  2. Repositories will be created in: ./${SPLIT_DIR}/"
+echo "  3. Push to GitHub:"
+echo "     - ${REPO_CODE_URL}"
+echo "     - ${REPO_LEXICON_URL}"
+echo "     - ${REPO_COMMENTARY_URL}"
 echo ""
 echo -e "${YELLOW}Current repository sizes:${NC}"
 du -sh bible/words bible/commentaries bible/commentary 2>/dev/null || true
@@ -80,36 +83,20 @@ if [ "$confirm" != "yes" ]; then
 fi
 
 echo ""
-echo -e "${BLUE}========================================${NC}"
-echo -e "${BLUE}Step 1: Creating backup${NC}"
-echo -e "${BLUE}========================================${NC}"
-echo ""
-
-# Get current directory
+# Get current directory and create split directory
 CURRENT_DIR=$(pwd)
-PARENT_DIR=$(dirname "$CURRENT_DIR")
-
-# Create backup
-echo "Creating backup at: ${PARENT_DIR}/${BACKUP_DIR}"
-cd "$PARENT_DIR"
-cp -r "$ORIGINAL_REPO" "$BACKUP_DIR"
-echo -e "${GREEN}✓ Backup created${NC}"
-echo ""
-
-# Create split directory
-cd "$CURRENT_DIR"
 mkdir -p "$SPLIT_DIR"
 
 echo -e "${BLUE}========================================${NC}"
-echo -e "${BLUE}Step 2: Creating bible-data-lexicons${NC}"
+echo -e "${BLUE}Step 1: Creating mybibletoolbox-lexicon${NC}"
 echo -e "${BLUE}========================================${NC}"
 echo ""
 
 # Clone for lexicons repo
 echo "Cloning repository for lexicons extraction..."
 cd "$SPLIT_DIR"
-git clone "$CURRENT_DIR" bible-data-lexicons
-cd bible-data-lexicons
+git clone "$CURRENT_DIR" mybibletoolbox-lexicon
+cd mybibletoolbox-lexicon
 
 echo "Extracting bible/words/ subdirectory..."
 git filter-repo --path bible/words/ --force
@@ -118,20 +105,20 @@ git filter-repo --path bible/words/ --force
 echo "Restructuring to root level..."
 git filter-repo --path-rename bible/words/:words/ --force
 
-echo -e "${GREEN}✓ bible-data-lexicons created (63MB)${NC}"
+echo -e "${GREEN}✓ mybibletoolbox-lexicon created (63MB)${NC}"
 echo ""
 
 cd "$CURRENT_DIR/$SPLIT_DIR"
 
 echo -e "${BLUE}========================================${NC}"
-echo -e "${BLUE}Step 3: Creating bible-data-commentary${NC}"
+echo -e "${BLUE}Step 2: Creating mybibletoolbox-commentary${NC}"
 echo -e "${BLUE}========================================${NC}"
 echo ""
 
 # Clone for commentary repo
 echo "Cloning repository for commentary extraction..."
-git clone "$CURRENT_DIR" bible-data-commentary
-cd bible-data-commentary
+git clone "$CURRENT_DIR" mybibletoolbox-commentary
+cd mybibletoolbox-commentary
 
 echo "Extracting bible/commentary/ and bible/commentaries/..."
 git filter-repo \
@@ -143,25 +130,25 @@ git filter-repo \
 echo "Restructuring to root level..."
 git filter-repo --path-rename bible/:/ --force
 
-echo -e "${GREEN}✓ bible-data-commentary created (2.5GB)${NC}"
+echo -e "${GREEN}✓ mybibletoolbox-commentary created (2.5GB)${NC}"
 echo ""
 
 cd "$CURRENT_DIR/$SPLIT_DIR"
 
 echo -e "${BLUE}========================================${NC}"
-echo -e "${BLUE}Step 4: Creating main repository${NC}"
+echo -e "${BLUE}Step 3: Creating mybibletoolbox-code${NC}"
 echo -e "${BLUE}========================================${NC}"
 echo ""
 
 # Clone for main repo (tools/scripts)
 echo "Cloning repository for main repo..."
-git clone "$CURRENT_DIR" context-grounded-bible-main
-cd context-grounded-bible-main
+git clone "$CURRENT_DIR" mybibletoolbox-code
+cd mybibletoolbox-code
 
-echo "Removing bible/ directory from main repo..."
+echo "Removing bible/ directory from code repo..."
 git filter-repo --path bible/ --invert-paths --force
 
-echo -e "${GREEN}✓ context-grounded-bible-main created${NC}"
+echo -e "${GREEN}✓ mybibletoolbox-code created${NC}"
 echo ""
 
 cd "$CURRENT_DIR"
@@ -175,16 +162,16 @@ echo -e "${GREEN}✓ Repository split complete!${NC}"
 echo ""
 echo "New repositories created in: ${SPLIT_DIR}/"
 echo ""
-echo "1. ${SPLIT_DIR}/context-grounded-bible-main/"
+echo "1. ${SPLIT_DIR}/mybibletoolbox-code/"
 echo "   - Tools, skills, scripts, documentation"
 echo "   - Size: ~10MB"
 echo ""
-echo "2. ${SPLIT_DIR}/bible-data-lexicons/"
+echo "2. ${SPLIT_DIR}/mybibletoolbox-lexicon/"
 echo "   - Static reference data (Strong's dictionary)"
 echo "   - Size: ~63MB"
 echo "   - Structure: words/strongs/"
 echo ""
-echo "3. ${SPLIT_DIR}/bible-data-commentary/"
+echo "3. ${SPLIT_DIR}/mybibletoolbox-commentary/"
 echo "   - Generated commentary data"
 echo "   - Size: ~2.5GB"
 echo "   - Structure: commentary/ and commentaries/"
@@ -195,39 +182,34 @@ echo -e "${YELLOW}Next Steps${NC}"
 echo -e "${YELLOW}========================================${NC}"
 echo ""
 echo "1. Review each repository:"
-echo "   cd ${SPLIT_DIR}/context-grounded-bible-main && git log --oneline"
-echo "   cd ${SPLIT_DIR}/bible-data-lexicons && git log --oneline"
-echo "   cd ${SPLIT_DIR}/bible-data-commentary && git log --oneline"
+echo "   cd ${SPLIT_DIR}/mybibletoolbox-code && git log --oneline"
+echo "   cd ${SPLIT_DIR}/mybibletoolbox-lexicon && git log --oneline"
+echo "   cd ${SPLIT_DIR}/mybibletoolbox-commentary && git log --oneline"
 echo ""
-echo "2. Create new GitHub repositories:"
-echo "   - authenticwalk/context-grounded-bible (rename existing)"
-echo "   - authenticwalk/bible-data-lexicons (new)"
-echo "   - authenticwalk/bible-data-commentary (new)"
-echo ""
-echo "3. Push to new remotes:"
-echo "   cd ${SPLIT_DIR}/context-grounded-bible-main"
-echo "   git remote set-url origin https://github.com/authenticwalk/context-grounded-bible"
-echo "   git push -f origin main"
-echo ""
-echo "   cd ${SPLIT_DIR}/bible-data-lexicons"
-echo "   git remote add origin https://github.com/authenticwalk/bible-data-lexicons"
+echo "2. Push to GitHub repositories:"
+echo "   cd ${SPLIT_DIR}/mybibletoolbox-code"
+echo "   git remote add origin ${REPO_CODE_URL}"
+echo "   git branch -M main"
 echo "   git push -u origin main"
 echo ""
-echo "   cd ${SPLIT_DIR}/bible-data-commentary"
-echo "   git remote add origin https://github.com/authenticwalk/bible-data-commentary"
+echo "   cd ../mybibletoolbox-lexicon"
+echo "   git remote add origin ${REPO_LEXICON_URL}"
+echo "   git branch -M main"
 echo "   git push -u origin main"
 echo ""
-echo "4. Update documentation:"
-echo "   - Update main repo README to reference data repos"
+echo "   cd ../mybibletoolbox-commentary"
+echo "   git remote add origin ${REPO_COMMENTARY_URL}"
+echo "   git branch -M main"
+echo "   git push -u origin main"
+echo ""
+echo "3. Update documentation in code repo:"
+echo "   - Update README to reference data repos"
 echo "   - Add data repo URLs to configuration files"
 echo "   - Update CLAUDE.md with new structure"
 echo ""
-echo "5. Team notification:"
+echo "4. Team notification:"
 echo "   - Notify all contributors about the split"
-echo "   - Everyone must re-clone repositories"
+echo "   - Everyone must clone the new repositories"
 echo "   - Update CI/CD configurations"
-echo ""
-
-echo -e "${GREEN}Backup location: ${PARENT_DIR}/${BACKUP_DIR}${NC}"
 echo ""
 echo -e "${BLUE}========================================${NC}"
