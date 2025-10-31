@@ -24,6 +24,7 @@ import json
 import yaml
 import csv
 import urllib.request
+import xml.etree.ElementTree as ET
 from pathlib import Path
 from typing import Dict, Any, List, Tuple
 from collections import defaultdict
@@ -48,8 +49,8 @@ STEPBIBLE_TFLSJ = STEPBIBLE_BASE + "TFLSJ%20%200-5624%20-%20Translators%20Format
 PROXIMITY_HEBREW = "https://raw.githubusercontent.com/Clear-Bible/macula-hebrew/main/sources/Clear/synonyms/Proximity.tsv"
 PROXIMITY_GREEK = "https://raw.githubusercontent.com/Clear-Bible/macula-greek/main/sources/Clear/synonyms/Proximity.tsv"
 
-# morphhb data URL (we'll use a simple approach - download JSON if available)
-MORPHHB_REPO = "https://github.com/openscriptures/morphhb.git"
+# Hebrew Lexicon cross-reference data (BDB, TWOT)
+HEBREW_LEXICON_URL = "https://raw.githubusercontent.com/openscriptures/HebrewLexicon/master/LexicalIndex.xml"
 
 
 def download_file(url: str) -> str:
@@ -209,6 +210,51 @@ def parse_proximity_tsv(filepath: Path, min_proximity: float = 0.70) -> Dict[str
     return dict(relationships)
 
 
+def parse_hebrew_lexicon_xml(filepath: Path) -> Dict[str, Dict[str, str]]:
+    """
+    Parse Hebrew Lexicon XML to extract BDB and TWOT cross-references.
+
+    Structure:
+    <entry id="aaf">
+      <w xlit="ʾābad">אָבַד</w> <pos>V</pos> <def>perish</def>
+      <xref bdb="a.ac.aa" strong="6" twot="2"/>
+      <etym root="אבד" type="main">aag, aah, aai, aaj, aak, aal</etym>
+    </entry>
+
+    Returns: {strongs_num: {bdb: "a.ac.aa", twot: "2"}}
+    """
+    result = {}
+
+    try:
+        tree = ET.parse(filepath)
+        root = tree.getroot()
+
+        # Handle namespace
+        ns = {'ns': 'http://openscriptures.github.com/morphhb/namespace'}
+
+        for entry in root.findall('.//ns:entry', ns):
+            xref = entry.find('ns:xref', ns)
+            if xref is not None:
+                strong_num = xref.get('strong')
+                if strong_num:
+                    # Format as H#### (4-digit zero-padded)
+                    formatted_num = f"H{int(strong_num):04d}"
+
+                    cross_refs = {}
+                    if xref.get('bdb'):
+                        cross_refs['bdb'] = xref.get('bdb')
+                    if xref.get('twot'):
+                        cross_refs['twot'] = xref.get('twot')
+
+                    if cross_refs:
+                        result[formatted_num] = cross_refs
+
+    except Exception as e:
+        print(f"  Warning: Error parsing Hebrew Lexicon XML: {e}")
+
+    return result
+
+
 def strip_html(html_text: str) -> str:
     """
     Strip HTML tags and convert to plain text.
@@ -250,6 +296,12 @@ def load_all_enhancement_data() -> Dict[str, Any]:
     stepbible_files = download_stepbible_lexicons()
     proximity_files = download_proximity_data()
 
+    # Download Hebrew Lexicon for cross-references
+    print("\n📥 Downloading Hebrew Lexicon (BDB/TWOT cross-references)...")
+    hebrew_lexicon_dir = CACHE_DIR / "hebrew_lexicon"
+    hebrew_lexicon_file = download_to_cache(HEBREW_LEXICON_URL, hebrew_lexicon_dir / "LexicalIndex.xml")
+    print("  ✓ Hebrew Lexicon ready\n")
+
     # Parse STEPBible lexicons
     print("📖 Parsing STEPBible lexicons...")
     data['greek_brief'] = parse_stepbible_tsv(stepbible_files['greek_brief'])
@@ -265,6 +317,11 @@ def load_all_enhancement_data() -> Dict[str, Any]:
     data['proximity_greek'] = parse_proximity_tsv(proximity_files['greek'])
     print(f"  ✓ Loaded {len(data['proximity_hebrew'])} Hebrew relationships")
     print(f"  ✓ Loaded {len(data['proximity_greek'])} Greek relationships\n")
+
+    # Parse Hebrew Lexicon cross-references
+    print("🔗 Parsing Hebrew Lexicon cross-references...")
+    data['hebrew_cross_refs'] = parse_hebrew_lexicon_xml(hebrew_lexicon_file)
+    print(f"  ✓ Loaded {len(data['hebrew_cross_refs'])} BDB/TWOT cross-references\n")
 
     print("="*60)
     print("✓ All enhancement data loaded\n")
@@ -464,6 +521,19 @@ def create_strongs_yaml(strongs_num: str, entry: Dict[str, Any], enhancement_dat
             if related_words:
                 yaml_data['related_words'] = related_words
 
+        # Cross-references (BDB, TWOT for Hebrew)
+        if language == 'hebrew' and enhancement_data and strongs_num in enhancement_data.get('hebrew_cross_refs', {}):
+            cross_refs = enhancement_data['hebrew_cross_refs'][strongs_num]
+            cross_ref_data = {}
+
+            if 'bdb' in cross_refs:
+                cross_ref_data['bdb'] = f"{cross_refs['bdb']} {{openscriptures-hebrew-lexicon}}"
+            if 'twot' in cross_refs:
+                cross_ref_data['twot'] = f"{cross_refs['twot']} {{openscriptures-hebrew-lexicon}}"
+
+            if cross_ref_data:
+                yaml_data['cross_references'] = cross_ref_data
+
     # Source attribution (inline citation format per STANDARDIZATION.md)
     yaml_data["source"] = "openscriptures/strongs {CC-BY-SA}"
 
@@ -558,6 +628,7 @@ def main():
     print("  • STEPBible extended definitions (Abbott-Smith, BDB, LSJ)")
     print("  • Clear-Bible proximity-based synonyms with lemmas")
     print("  • Cross-language relationships (Hebrew ↔ Greek)")
+    print("  • BDB and TWOT cross-references (Hebrew only)")
     print("  • HTML stripped, inline citations per STANDARDIZATION.md")
     print("\n")
 
