@@ -40,6 +40,17 @@ header h1 {
     font-weight: 600;
 }
 
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.logo-img {
+    height: 40px;
+    width: auto;
+}
+
 nav {
     display: flex;
     gap: 2rem;

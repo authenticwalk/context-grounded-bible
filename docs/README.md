@@ -37,21 +37,22 @@ Your site will be available at: `https://authenticwalk.github.io/context-grounde
 ## Updating
 
 ### Logo
-To add the original mybibletoolbox.com logo:
-1. Place the logo image in this directory (e.g., `logo.png`)
-2. Update the logo section in `index.html`:
-   ```html
-   <div class="logo">
-       <img src="logo.png" alt="Context-Grounded Bible" height="40">
-       <h1>Context-Grounded Bible</h1>
-   </div>
+The website is configured to use the original Bible Toolbox logo. To add it:
+
+1. Download the logo from the Wayback Machine:
+   - Visit: https://web.archive.org/web/20010401083600im_/http://www.authenticwalk.com/bibletoolbox/images/bible-toolbox-bottom.gif
+   - Save the image as `logo.gif` in this directory (`docs/logo.gif`)
+   - Or use your browser to save it directly
+
+2. Alternative download methods:
+   ```bash
+   # Using wget with user agent
+   wget -O docs/logo.gif --user-agent="Mozilla/5.0" "https://web.archive.org/web/20010401083600im_/http://www.authenticwalk.com/bibletoolbox/images/bible-toolbox-bottom.gif"
+
+   # Or download manually from browser and place in docs/
    ```
-3. Add CSS styling in `style.css` if needed
+
+The HTML and CSS are already configured to display the logo at 40px height next to the site title.
 
 ### Copyright Date
-Once you confirm the original date from the Wayback Machine, update the footer in `index.html`:
-```html
-<p>&copy; YYYY-2025 Context-Grounded Bible Project</p>
-```
-
-Replace YYYY with the original year from mybibletoolbox.com (appears to be 1997 based on placeholder).
+The copyright has been updated to reflect the original date: **2001-2025**
