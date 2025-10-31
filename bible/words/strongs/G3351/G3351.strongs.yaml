@@ -5,62 +5,69 @@ transliteration: metoikízō
 definition: to transfer as a settler or captive, i.e colonize or exile
 kjv_usage: carry away, remove into
 derivation: from the same as G3350 (μετοικεσία);
-extended_definition:
-  gloss: to deport
-  definition: '<b>μετ-οικίζω</b><BR /> (μέτοικος, an emigrant), [in LXX chiefly for
-    גָּלָה hi. ;] <BR /><b>to remove to a new abode, cause to migrate</b>: <ref=''Act.7.4,
-    43''>Act.7:4, 43</ref>" (LXX) .†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> μετοικ-ίζω</b>, <br /> <b>lead settlers to another abode</b>,
-    [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “Oeconomica”
-    1352a33, “OGI” 264.7 (Pergam.), NT.Act.7.4; σφᾶς αὐτοὺς εἰς Ῥώμην 1st-2nd c.AD:
-    Plutarchus Biographus et Philosophus “Romulus” 17: _metaphorically_, τὰς φρένας
-    μ. Melanth. Trag. 1:—">NT+4th c.BC+</a>]<i>passive</i>, [<a href="javascript:void(0)"
-    title="Aristeas  4 ">Refs</a>]:—<i>middle</i>, Μυτιλήνη σῶμα μετῳκίσατο [<a href="javascript:void(0)"
-    title=" “IG” 12(2).443 (Mytil.)">Refs</a>]; also, <b>go to another country, emigrate</b>,
-    [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ecclesiazusae”
-    754, 2nd c.AD: Appianus Historicus “Αιβυκή” 84: _metaphorically_, τὸν κλόνον εἰς
-    ὃν ἡ ψυχὴ μετῳκίσατο 1st c.AD: Philo Judaeus 1.232. ">Refs 5th c.BC+</a>]<br /><Level3><b>__2</b></Level3>
-    later <i>intransitive</i> in <i>active</i>, [<a href="javascript:void(0)" title="
-    “SIG” 880.45 (3rd c.AD). ">Refs 3rd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'μετ-οικίζω
+
+  (μέτοικος, an emigrant), [in LXX chiefly for גָּלָה hi. ;]
+
+  to remove to a new abode, cause to migrate: Act.7:4, 43" (LXX) .†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'μετοικ-ίζω,
+
+  lead settlers to another abode, [NT+4th c.BC+]passive, [Refs]:—middle, Μυτιλήνη
+  σῶμα μετῳκίσατο [Refs]; also, go to another country, emigrate, [Refs 5th c.BC+]
+
+  __2 later intransitive in active, [Refs 3rd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3331
-    proximity: 0.8281
+    lemma: μετάθεσις
+    gloss: transposition {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: A8332
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
   - strongs: G3327
-    proximity: 0.8246
+    lemma: μεταβαίνω
+    gloss: to change place {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: G648
-    proximity: 0.8218
+    proximity: 0.8218 {macula-proximity}
   - strongs: G3179
-    proximity: 0.8106
+    lemma: μεθίστημι
+    gloss: to transfer {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
   - strongs: G2795
-    proximity: 0.8033
+    lemma: κινέω
+    gloss: to stir {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
   - strongs: G2316
-    proximity: 0.7956
+    lemma: θεός
+    gloss: figuratively {openscriptures-strongs}
+    proximity: 0.7956 {macula-proximity}
   - strongs: A8332a
-    proximity: 0.7932
+    proximity: 0.7932 {macula-proximity}
   - strongs: G3350
-    proximity: 0.7714
+    lemma: μετοικεσία
+    gloss: a change of abode {openscriptures-strongs}
+    proximity: 0.7714 {macula-proximity}
   - strongs: G4320
-    proximity: 0.7688
+    lemma: προσαναβαίνω
+    gloss: to ascend farther {openscriptures-strongs}
+    proximity: 0.7688 {macula-proximity}
   cross_language:
   - strongs: H6813
-    proximity: 0.8265
+    lemma: צָעַן
+    gloss: to load up {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
     language: hebrew
   - strongs: H6275
-    proximity: 0.7224
+    lemma: עָתַק
+    gloss: to remove  figuratively {openscriptures-strongs}
+    proximity: 0.7224 {macula-proximity}
     language: hebrew
   - strongs: H3014
-    proximity: 0.7181
+    lemma: יָגָה
+    gloss: to push away {openscriptures-strongs}
+    proximity: 0.7181 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

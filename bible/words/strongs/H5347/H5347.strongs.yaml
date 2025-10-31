@@ -6,45 +6,59 @@ pronunciation: nek-ay-baw'
 definition: female (from the sexual form)
 kjv_usage: female.
 derivation: from H5344 (נָקַב);
-extended_definition:
-  gloss: female
-  definition: 1) female<br>1a) woman, female child<br>1b) female animal
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) female
+
+  1a) woman, female child
+
+  1b) female animal {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1397
-    proximity: 0.83
+    lemma: גֶּבֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.83 {macula-proximity}
   - strongs: H7909a
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
   - strongs: H5697
-    proximity: 0.8288
+    lemma: עֶגְלָה
+    gloss: a  calf {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: A1123
-    proximity: 0.8253
+    proximity: 0.8253 {macula-proximity}
   - strongs: H5288
-    proximity: 0.8246
+    lemma: נַעַר
+    gloss: a boy {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: H3535
-    proximity: 0.8199
+    lemma: כִּבְשָׂה
+    gloss: a ewe {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H5763
-    proximity: 0.8189
+    lemma: עוּל
+    gloss: to suckle {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H6629
-    proximity: 0.8169
+    lemma: צֹאן
+    gloss: a collective name for a flock {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: H5209
-    proximity: 0.816
+    lemma: נִין
+    gloss: progeny {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
   - strongs: H5759
-    proximity: 0.8113
+    lemma: עֲוִיל
+    gloss: a babe {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
   cross_language:
   - strongs: G5044
-    proximity: 0.8122
+    lemma: τεκνοτροφέω
+    gloss: to be a childrearer {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
     language: greek
   - strongs: G730a
-    proximity: 0.8067
+    proximity: 0.8067 {macula-proximity}
     language: greek
   - strongs: G815
-    proximity: 0.8018
+    proximity: 0.8018 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,48 +6,66 @@ pronunciation: mak-kaw-khaw'
 definition: something received, i.e. merchandise (purchased)
 kjv_usage: ware.
 derivation: from H3947 (לָקַח);
-extended_definition:
-  gloss: ware
-  definition: ware
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: ware {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4639
-    proximity: 0.8219
+    lemma: מַעֲשֶׂה
+    gloss: an action {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: H3627
-    proximity: 0.8155
+    lemma: כְּלִי
+    gloss: something prepared {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H6162
-    proximity: 0.8097
+    lemma: עֲרָבוֹן
+    gloss: a pawn {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: H1860
-    proximity: 0.8078
+    lemma: דְּרָאוֹן
+    gloss: an object of aversion {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   - strongs: H7404
-    proximity: 0.8024
+    lemma: רְכֻלָּה
+    gloss: trade {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: H3666
-    proximity: 0.7899
+    lemma: כִּנְעָה
+    gloss: a package {openscriptures-strongs}
+    proximity: 0.7899 {macula-proximity}
   - strongs: H3739
-    proximity: 0.7731
+    lemma: כָּרָה
+    gloss: to purchase {openscriptures-strongs}
+    proximity: 0.7731 {macula-proximity}
   - strongs: H3387
-    proximity: 0.7609
+    lemma: יָרוֹק
+    gloss: green {openscriptures-strongs}
+    proximity: 0.7609 {macula-proximity}
   - strongs: H1500
-    proximity: 0.7552
+    lemma: גְּזֵלָה
+    gloss: '{robbery {openscriptures-strongs}'
+    proximity: 0.7552 {macula-proximity}
   - strongs: H4536
-    proximity: 0.7538
+    lemma: מִסְחָר
+    gloss: trade {openscriptures-strongs}
+    proximity: 0.7538 {macula-proximity}
   cross_language:
   - strongs: G776
-    proximity: 0.811
+    proximity: 0.811 {macula-proximity}
     language: greek
   - strongs: G5413
-    proximity: 0.7556
+    lemma: φορτίον
+    gloss: an invoice {openscriptures-strongs}
+    proximity: 0.7556 {macula-proximity}
     language: greek
   - strongs: G1390
-    proximity: 0.7507
+    lemma: δόμα
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.7507 {macula-proximity}
     language: greek
   - strongs: G4632
-    proximity: 0.7493
+    lemma: σκεῦος
+    gloss: a vessel {openscriptures-strongs}
+    proximity: 0.7493 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

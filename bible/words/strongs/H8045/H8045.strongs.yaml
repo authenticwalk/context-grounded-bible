@@ -7,51 +7,74 @@ definition: to desolate
 kjv_usage: destory(-uction), bring to nought, overthrow, perish, pluck down, [idiom]
   utterly.
 derivation: a primitive root;
-extended_definition:
-  gloss: to destroy
-  definition: '1) to destroy, exterminate, be destroyed, be exterminated<br>1a) (Niphal)<br>1a1)
-    to be annihilated, be exterminated<br>1a2) to be destroyed, be devastated<br>1b)
-    (Hiphil)<br>1b1) to annihilate, exterminate<br>1b2) to destroy<BR>Aramaic equivalent:
-    <i>she.mad</i> (שְׁמַד "to destroy" H8046)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to destroy, exterminate, be destroyed, be exterminated
+
+  1a) (Niphal)
+
+  1a1) to be annihilated, be exterminated
+
+  1a2) to be destroyed, be devastated
+
+  1b) (Hiphil)
+
+  1b1) to annihilate, exterminate
+
+  1b2) to destroy
+
+  Aramaic equivalent: she.mad (שְׁמַד "to destroy" H8046) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6365
-    proximity: 0.8292
+    lemma: פִּיד
+    gloss: misfortune {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: H2589
-    proximity: 0.8281
+    lemma: חַנּוֹת
+    gloss: supplication {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H2015
-    proximity: 0.825
+    lemma: הָפַךְ
+    gloss: to turn about or over {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: H2193
-    proximity: 0.8232
+    lemma: זָעַךְ
+    gloss: to extinguish {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H2018
-    proximity: 0.8197
+    lemma: הֲפֵכָה
+    gloss: destruction {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
   - strongs: H4073
-    proximity: 0.8183
+    lemma: מְדַחְפָה
+    gloss: a push {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: H2256b
-    proximity: 0.8175
+    proximity: 0.8175 {macula-proximity}
   - strongs: H4288
-    proximity: 0.8158
+    lemma: מְחִתָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: H7489
-    proximity: 0.8156
+    lemma: רָעַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
   - strongs: H398
-    proximity: 0.8146
+    proximity: 0.8146 {macula-proximity}
   cross_language:
   - strongs: G2049
-    proximity: 0.8255
+    lemma: ἐρημόω
+    gloss: to lay waste {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
     language: greek
   - strongs: G4199
-    proximity: 0.8224
+    lemma: πορθέω
+    gloss: to ravage {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
     language: greek
   - strongs: G4098a
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G854
-    proximity: 0.8163
+    proximity: 0.8163 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

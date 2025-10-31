@@ -10,30 +10,41 @@ derivation: from H6004 (עָמַם);
 related_words:
   synonyms:
   - strongs: H5431
-    proximity: 0.8299
+    lemma: סָאַן
+    gloss: to shoe {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
   - strongs: H7227
-    proximity: 0.8233
+    lemma: רַב
+    gloss: abundant (in quantity {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H2138
-    proximity: 0.8092
+    lemma: זָכוּר
+    gloss: a male {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: H1471a
-    proximity: 0.7962
+    proximity: 0.7962 {macula-proximity}
   cross_language:
   - strongs: G4123
-    proximity: 0.8275
+    lemma: πλεονέκτης
+    gloss: holding  more {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
     language: greek
   - strongs: G3686
-    proximity: 0.8273
+    lemma: ὄνομα
+    gloss: a "name"  (authority {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G2475
-    proximity: 0.8182
+    lemma: Ἰσραηλίτης
+    gloss: an "Israelite" {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: greek
   - strongs: G829
-    proximity: 0.8162
+    proximity: 0.8162 {macula-proximity}
     language: greek
   - strongs: G4757
-    proximity: 0.8133
+    lemma: στρατιώτης
+    gloss: a camper-out {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

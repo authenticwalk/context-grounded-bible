@@ -6,45 +6,59 @@ pronunciation: to-hol-aw'
 definition: braggadocio, i.e. (by implication) fatuity
 kjv_usage: folly.
 derivation: feminine of an unused noun (apparently from H1984 (הָלַל)) meaning bluster;
-extended_definition:
-  gloss: error
-  definition: error
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: error {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1605
-    proximity: 0.828
+    lemma: גָּעַר
+    gloss: to chide {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
   - strongs: H7684
-    proximity: 0.8214
+    lemma: שְׁגָגָה
+    gloss: a mistake or inadvertent transgression {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H6588
-    proximity: 0.8137
+    lemma: פֶּשַׁע
+    gloss: a revolt (national {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   - strongs: H7944
-    proximity: 0.8071
+    lemma: שַׁל
+    gloss: a fault {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
   - strongs: H5771
-    proximity: 0.8038
+    lemma: עָוֺן
+    gloss: perversity {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
   - strongs: H6612a
-    proximity: 0.8022
+    proximity: 0.8022 {macula-proximity}
   - strongs: H5530
-    proximity: 0.7968
+    lemma: סָכָל
+    gloss: silly {openscriptures-strongs}
+    proximity: 0.7968 {macula-proximity}
   - strongs: H3688
-    proximity: 0.7907
+    lemma: כָּסַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7907 {macula-proximity}
   - strongs: A2248
-    proximity: 0.7856
+    proximity: 0.7856 {macula-proximity}
   - strongs: H2973
-    proximity: 0.7843
+    lemma: יָאַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7843 {macula-proximity}
   cross_language:
   - strongs: G4417
-    proximity: 0.823
+    lemma: πταίω
+    gloss: to trip {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
     language: greek
   - strongs: G4106
-    proximity: 0.8041
+    lemma: πλάνη
+    gloss: objectively {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
     language: greek
   - strongs: G3900
-    proximity: 0.7839
+    lemma: παράπτωμα
+    gloss: a side-slip {openscriptures-strongs}
+    proximity: 0.7839 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

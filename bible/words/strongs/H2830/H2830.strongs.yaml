@@ -6,33 +6,40 @@ pronunciation: khash-mal'
 definition: probably bronze or polished spectrum metal
 kjv_usage: amber.
 derivation: of uncertain derivation;
-extended_definition:
-  gloss: amber
-  definition: a shining substance, amber or electrum or bronze (uncertain)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: a shining substance, amber or electrum or bronze (uncertain)
+  {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6443
-    proximity: 0.8239
+    lemma: פָּנִין
+    gloss: probably a pearl {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: A1722
-    proximity: 0.8085
+    proximity: 0.8085 {macula-proximity}
   - strongs: H3800
-    proximity: 0.8047
+    lemma: כֶּתֶם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
   - strongs: H2742
-    proximity: 0.7995
+    lemma: חֲרוּץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
   - strongs: H4357
-    proximity: 0.7756
+    lemma: מִכְלָה
+    gloss: completion (in plural concrete adverbial {openscriptures-strongs}
+    proximity: 0.7756 {macula-proximity}
   - strongs: H6338
-    proximity: 0.7731
+    lemma: פָּזַז
+    gloss: to refine {openscriptures-strongs}
+    proximity: 0.7731 {macula-proximity}
   - strongs: H6337
-    proximity: 0.7627
+    lemma: פָּז
+    gloss: pure {openscriptures-strongs}
+    proximity: 0.7627 {macula-proximity}
   cross_language:
   - strongs: G5093
-    proximity: 0.8093
+    lemma: τίμιος
+    gloss: valuable {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

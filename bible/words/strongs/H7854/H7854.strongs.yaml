@@ -7,39 +7,41 @@ definition: an opponent; especially (with the article prefixed) Satan, the arch-
   of good
 kjv_usage: adversary, Satan, withstand.
 derivation: from H7853 (שָׂטַן);
-extended_definition:
-  gloss: Satan
-  definition: <BR> This name means  adversary, one who withstands<br>1a) adversary
-    (in general-personal or national)<br>2) superhuman adversary<br>2a) Satan (as
-    noun pr)<br>
-  morphology: H:N-M / N:N--T
-  source: STEPBible/BDB
+extended_definition: 'This name means  adversary, one who withstands
+
+  1a) adversary (in general-personal or national)
+
+  2) superhuman adversary
+
+  2a) Satan (as noun pr) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7790
-    proximity: 0.8295
+    lemma: שׁוּר
+    gloss: a foe {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H6869a
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
   - strongs: A6655
-    proximity: 0.8084
+    proximity: 0.8084 {macula-proximity}
   - strongs: H6696a
-    proximity: 0.7949
+    proximity: 0.7949 {macula-proximity}
   - strongs: H340
-    proximity: 0.7768
+    proximity: 0.7768 {macula-proximity}
   - strongs: H7009
-    proximity: 0.7394
+    lemma: קִים
+    gloss: an opponent {openscriptures-strongs}
+    proximity: 0.7394 {macula-proximity}
   cross_language:
   - strongs: G475
-    proximity: 0.7402
+    proximity: 0.7402 {macula-proximity}
     language: greek
   - strongs: G498
-    proximity: 0.7397
+    proximity: 0.7397 {macula-proximity}
     language: greek
   - strongs: G5227
-    proximity: 0.7242
+    lemma: ὑπεναντίος
+    gloss: under  contrary to {openscriptures-strongs}
+    proximity: 0.7242 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,51 +6,63 @@ pronunciation: yaw-gore'
 definition: to fear
 kjv_usage: be afraid, fear.
 derivation: a primitive root;
-extended_definition:
-  gloss: to fear
-  definition: (Qal) to fear, dread, be afraid
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to fear, dread, be afraid {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H366
-    proximity: 0.8081
+    proximity: 0.8081 {macula-proximity}
   - strongs: H2119a
-    proximity: 0.8033
+    proximity: 0.8033 {macula-proximity}
   - strongs: H1670
-    proximity: 0.8006
+    lemma: דְּאָבָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
   - strongs: H4127
-    proximity: 0.7991
+    lemma: מוּג
+    gloss: to melt {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: H7461a
-    proximity: 0.7639
+    proximity: 0.7639 {macula-proximity}
   - strongs: H8078
-    proximity: 0.7637
+    lemma: שִׁמָּמוֹן
+    gloss: stupefaction {openscriptures-strongs}
+    proximity: 0.7637 {macula-proximity}
   - strongs: H8175
-    proximity: 0.7372
+    lemma: שָׂעַר
+    gloss: to storm {openscriptures-strongs}
+    proximity: 0.7372 {macula-proximity}
   - strongs: A2112
-    proximity: 0.7342
+    proximity: 0.7342 {macula-proximity}
   - strongs: H2111
-    proximity: 0.7181
+    lemma: זוּעַ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7181 {macula-proximity}
   - strongs: H2729
-    proximity: 0.7065
+    lemma: חָרַד
+    gloss: to shudder with terror {openscriptures-strongs}
+    proximity: 0.7065 {macula-proximity}
   cross_language:
   - strongs: G4458
-    proximity: 0.8256
+    lemma: -πώς
+    gloss: an enclitic particle of indefiniteness of manner {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
     language: greek
   - strongs: G5425
-    proximity: 0.8095
+    lemma: φρίσσω
+    gloss: to "bristle" or chill {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
     language: greek
   - strongs: G870
-    proximity: 0.771
+    proximity: 0.771 {macula-proximity}
     language: greek
   - strongs: G5141
-    proximity: 0.7651
+    lemma: τρέμω
+    gloss: to "tremble" or fear {openscriptures-strongs}
+    proximity: 0.7651 {macula-proximity}
     language: greek
   - strongs: G5398
-    proximity: 0.7208
+    lemma: φοβερός
+    gloss: frightful {openscriptures-strongs}
+    proximity: 0.7208 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

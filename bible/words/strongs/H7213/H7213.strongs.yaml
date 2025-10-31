@@ -6,49 +6,65 @@ pronunciation: raw-am'
 definition: to rise
 kjv_usage: be lifted up.
 derivation: a primitive root;
-extended_definition:
-  gloss: to rise
-  definition: (Qal) to rise
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to rise {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A6966
-    proximity: 0.8208
+    proximity: 0.8208 {macula-proximity}
   - strongs: H5375
-    proximity: 0.8169
+    lemma: נָשָׂא
+    gloss: to lift {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: H7427
-    proximity: 0.8091
+    lemma: רֹמֵמֻת
+    gloss: exaltation {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
   - strongs: H1361
-    proximity: 0.792
+    lemma: גָּבַהּ
+    gloss: to soar {openscriptures-strongs}
+    proximity: 0.792 {macula-proximity}
   - strongs: H7613
-    proximity: 0.7816
+    lemma: שְׂאֵת
+    gloss: an elevation or leprous scab {openscriptures-strongs}
+    proximity: 0.7816 {macula-proximity}
   - strongs: H8524a
-    proximity: 0.7644
+    proximity: 0.7644 {macula-proximity}
   - strongs: H1336
-    proximity: 0.7615
+    lemma: בֶּתֶר
+    gloss: Bether {openscriptures-strongs}
+    proximity: 0.7615 {macula-proximity}
   - strongs: H7311
-    proximity: 0.7344
+    lemma: רוּם
+    gloss: to be high actively {openscriptures-strongs}
+    proximity: 0.7344 {macula-proximity}
   - strongs: H2210
-    proximity: 0.7111
+    lemma: זָקַף
+    gloss: to life {openscriptures-strongs}
+    proximity: 0.7111 {macula-proximity}
   cross_language:
   - strongs: G4787
-    proximity: 0.8202
+    lemma: συγκινέω
+    gloss: to move together {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
     language: greek
   - strongs: G1881
-    proximity: 0.8069
+    lemma: ἐπανίσταμαι
+    gloss: to stand up on {openscriptures-strongs}
+    proximity: 0.8069 {macula-proximity}
     language: greek
   - strongs: G1869
-    proximity: 0.783
+    lemma: ἐπαίρω
+    gloss: to raise up {openscriptures-strongs}
+    proximity: 0.783 {macula-proximity}
     language: greek
   - strongs: G1453
-    proximity: 0.7632
+    lemma: ἐγείρω
+    gloss: to waken {openscriptures-strongs}
+    proximity: 0.7632 {macula-proximity}
     language: greek
   - strongs: G1817
-    proximity: 0.7357
+    lemma: ἐξανίστημι
+    gloss: objectively {openscriptures-strongs}
+    proximity: 0.7357 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

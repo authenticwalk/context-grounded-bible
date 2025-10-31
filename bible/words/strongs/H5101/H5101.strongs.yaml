@@ -6,48 +6,58 @@ pronunciation: naw-hak'
 definition: to bray (as an ass), scream (from hunger)
 kjv_usage: bray.
 derivation: a primitive root;
-extended_definition:
-  gloss: to bray
-  definition: (Qal) to bray, cry, cry out
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to bray, cry, cry out {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5090a
-    proximity: 0.8208
+    proximity: 0.8208 {macula-proximity}
   - strongs: H7775
-    proximity: 0.818
+    lemma: שַׁוְעָה
+    gloss: a hallooing {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: H4684
-    proximity: 0.816
+    lemma: מַצְהָלָה
+    gloss: a whinnying {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
   - strongs: A7123
-    proximity: 0.8148
+    proximity: 0.8148 {macula-proximity}
   - strongs: H7771a
-    proximity: 0.8141
+    proximity: 0.8141 {macula-proximity}
   - strongs: H5099
-    proximity: 0.8056
+    lemma: נַהַם
+    gloss: a snarl {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H7768
-    proximity: 0.8004
+    lemma: שָׁוַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
   - strongs: H6850
-    proximity: 0.793
+    lemma: צָפַף
+    gloss: to coo or chirp {openscriptures-strongs}
+    proximity: 0.793 {macula-proximity}
   - strongs: H584
-    proximity: 0.7848
+    proximity: 0.7848 {macula-proximity}
   - strongs: H3214
-    proximity: 0.7781
+    lemma: יְלֵל
+    gloss: a howl {openscriptures-strongs}
+    proximity: 0.7781 {macula-proximity}
   cross_language:
   - strongs: G1852
-    proximity: 0.8067
+    lemma: ἐξυπνίζω
+    gloss: to waken {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
     language: greek
   - strongs: G5612
-    proximity: 0.7801
+    lemma: ὠρύομαι
+    gloss: to "roar" {openscriptures-strongs}
+    proximity: 0.7801 {macula-proximity}
     language: greek
   - strongs: G5455
-    proximity: 0.7719
+    lemma: φωνέω
+    gloss: to emit a sound (animal {openscriptures-strongs}
+    proximity: 0.7719 {macula-proximity}
     language: greek
   - strongs: G310
-    proximity: 0.7453
+    proximity: 0.7453 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

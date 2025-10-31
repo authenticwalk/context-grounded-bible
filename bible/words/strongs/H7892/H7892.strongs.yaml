@@ -9,36 +9,53 @@ derivation: or feminine שִׁירָה; from H7891 (שִׁיר);
 related_words:
   synonyms:
   - strongs: H8416
-    proximity: 0.8273
+    lemma: תְּהִלָּה
+    gloss: laudation {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
   - strongs: H4905
-    proximity: 0.8259
+    lemma: מַשְׂכִּיל
+    gloss: instructive {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: A7624
-    proximity: 0.8228
+    proximity: 0.8228 {macula-proximity}
   - strongs: H1998
-    proximity: 0.8179
+    lemma: הֶמְיָה
+    gloss: sound {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
   - strongs: H3939a
-    proximity: 0.8131
+    proximity: 0.8131 {macula-proximity}
   - strongs: H2686
-    proximity: 0.8075
+    lemma: חָצַץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
   - strongs: H3574
-    proximity: 0.8061
+    lemma: כּוֹשָׁרָה
+    gloss: prosperity {openscriptures-strongs}
+    proximity: 0.8061 {macula-proximity}
   - strongs: H6476
-    proximity: 0.8058
+    lemma: פָּצַח
+    gloss: to break out {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: H8426
-    proximity: 0.8037
+    lemma: תּוֹדָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
   - strongs: H6527
-    proximity: 0.7874
+    lemma: פָּרַט
+    gloss: to scatter words {openscriptures-strongs}
+    proximity: 0.7874 {macula-proximity}
   cross_language:
   - strongs: G133
-    proximity: 0.8057
+    proximity: 0.8057 {macula-proximity}
     language: greek
   - strongs: G5568
-    proximity: 0.7835
+    lemma: ψαλμός
+    gloss: a set piece of music {openscriptures-strongs}
+    proximity: 0.7835 {macula-proximity}
     language: greek
   - strongs: G3451
-    proximity: 0.7757
+    lemma: μουσικός
+    gloss: '"musical" {openscriptures-strongs}'
+    proximity: 0.7757 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

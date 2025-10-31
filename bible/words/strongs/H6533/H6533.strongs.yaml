@@ -6,36 +6,42 @@ pronunciation: paw-ram'
 definition: to tear
 kjv_usage: rend.
 derivation: a primitive root;
-extended_definition:
-  gloss: to tear
-  definition: (Qal) to tear, rend garment, rip
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to tear, rend garment, rip {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1832
-    proximity: 0.7782
+    lemma: דִּמְעָה
+    gloss: weeping {openscriptures-strongs}
+    proximity: 0.7782 {macula-proximity}
   - strongs: H5255
-    proximity: 0.7755
+    lemma: נָסַח
+    gloss: to tear away {openscriptures-strongs}
+    proximity: 0.7755 {macula-proximity}
   - strongs: H7665
-    proximity: 0.7705
+    lemma: שָׁבַר
+    gloss: to burst {openscriptures-strongs}
+    proximity: 0.7705 {macula-proximity}
   - strongs: A4804
-    proximity: 0.7673
+    proximity: 0.7673 {macula-proximity}
   cross_language:
   - strongs: G4486
-    proximity: 0.797
+    lemma: ῥήγνυμι
+    gloss: G2608  being its intensive {openscriptures-strongs}
+    proximity: 0.797 {macula-proximity}
     language: greek
   - strongs: G1288
-    proximity: 0.7819
+    lemma: διασπάω
+    gloss: to draw apart {openscriptures-strongs}
+    proximity: 0.7819 {macula-proximity}
     language: greek
   - strongs: G4978
-    proximity: 0.7444
+    lemma: σχίσμα
+    gloss: a split or gap {openscriptures-strongs}
+    proximity: 0.7444 {macula-proximity}
     language: greek
   - strongs: G1144
-    proximity: 0.721
+    lemma: δάκρυ
+    gloss: a tear {openscriptures-strongs}
+    proximity: 0.721 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

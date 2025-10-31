@@ -6,48 +6,59 @@ pronunciation: noon
 definition: to resprout, i.e. propagate by shoots; figuratively, to be perpetual
 kjv_usage: be continued.
 derivation: a primitive root;
-extended_definition:
-  gloss: to propagate
-  definition: 1) (Niphal) continue, to increase, propagate<br>2) (Hiphil) continue,
-    to increase, propagate
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Niphal) continue, to increase, propagate
+
+  2) (Hiphil) continue, to increase, propagate {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A754a
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
   - strongs: H1711
-    proximity: 0.8274
+    lemma: דָּגָה
+    gloss: to spawn {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: A7011
-    proximity: 0.823
+    proximity: 0.823 {macula-proximity}
   - strongs: H4900
-    proximity: 0.8181
+    lemma: מָשַׁךְ
+    gloss: to draw {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
   - strongs: H5331
-    proximity: 0.804
+    lemma: נֶצַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   - strongs: H5769
-    proximity: 0.7958
+    lemma: עוֹלָם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
   - strongs: H752
-    proximity: 0.7944
+    proximity: 0.7944 {macula-proximity}
   - strongs: H753
-    proximity: 0.7851
+    proximity: 0.7851 {macula-proximity}
   cross_language:
   - strongs: G1300
-    proximity: 0.8167
+    lemma: διατελέω
+    gloss: to accomplish thoroughly {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G4357
-    proximity: 0.8065
+    lemma: προσμένω
+    gloss: to stay further {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
     language: greek
   - strongs: G3887
-    proximity: 0.7984
+    lemma: παραμένω
+    gloss: to stay near {openscriptures-strongs}
+    proximity: 0.7984 {macula-proximity}
     language: greek
   - strongs: G3306
-    proximity: 0.7878
+    lemma: μένω
+    gloss: to stay (in a given place {openscriptures-strongs}
+    proximity: 0.7878 {macula-proximity}
     language: greek
   - strongs: G4035
-    proximity: 0.7875
+    lemma: περιλείπω
+    gloss: to leave all around {openscriptures-strongs}
+    proximity: 0.7875 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

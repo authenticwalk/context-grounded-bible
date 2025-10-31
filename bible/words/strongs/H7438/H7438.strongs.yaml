@@ -6,42 +6,50 @@ pronunciation: rone
 definition: a shout (of deliverance)
 kjv_usage: song.
 derivation: from H7442 (רָנַן);
-extended_definition:
-  gloss: song
-  definition: ringing cry, shout, cry (of joy)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ringing cry, shout, cry (of joy) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8173a
-    proximity: 0.828
+    proximity: 0.828 {macula-proximity}
   - strongs: H6027
-    proximity: 0.8276
+    lemma: עֹנֶג
+    gloss: luxury {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: H5058
-    proximity: 0.827
+    lemma: נְגִינָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H4485
-    proximity: 0.821
+    lemma: מַנְגִּינָה
+    gloss: a satire {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
   - strongs: H4574
-    proximity: 0.818
+    lemma: מַעֲדָן
+    gloss: a delicacy or  pleasure (adverbially {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: A2868
-    proximity: 0.8112
+    proximity: 0.8112 {macula-proximity}
   - strongs: H7442a
-    proximity: 0.8095
+    proximity: 0.8095 {macula-proximity}
   - strongs: H5937
-    proximity: 0.802
+    lemma: עָלַז
+    gloss: to jump for joy {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
   - strongs: H6026
-    proximity: 0.8015
+    lemma: עָנַג
+    gloss: to be soft or pliable {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
   - strongs: H2302a
-    proximity: 0.7988
+    proximity: 0.7988 {macula-proximity}
   cross_language:
   - strongs: G2019
-    proximity: 0.8154
+    lemma: ἐπιφωνέω
+    gloss: to call at something {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
     language: greek
   - strongs: G2752
-    proximity: 0.7908
+    lemma: κέλευμα
+    gloss: a cry of incitement {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

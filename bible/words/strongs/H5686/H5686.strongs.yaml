@@ -6,34 +6,38 @@ pronunciation: aw-bath'
 definition: to interlace, i.e. (figuratively) to pervert
 kjv_usage: wrap up.
 derivation: a primitive root;
-extended_definition:
-  gloss: to weave
-  definition: (Piel) to wind, weave, weave together
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Piel) to wind, weave, weave together {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1413
-    proximity: 0.8241
+    lemma: גָּדַד
+    gloss: to crowd {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H5773
-    proximity: 0.8146
+    lemma: עַוְעֶה
+    gloss: perversity {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
   - strongs: H5526a
-    proximity: 0.7653
+    proximity: 0.7653 {macula-proximity}
   cross_language:
   - strongs: G4822
-    proximity: 0.8192
+    lemma: συμβιβάζω
+    gloss: causative  of the base of G939 ) {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
     language: greek
   - strongs: G4945
-    proximity: 0.8167
+    lemma: συνωμοσία
+    gloss: a swearing together {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G1917
-    proximity: 0.773
+    lemma: ἐπιβουλή
+    gloss: a plan against someone {openscriptures-strongs}
+    proximity: 0.773 {macula-proximity}
     language: greek
   - strongs: G3674
-    proximity: 0.7611
+    lemma: ὁμοῦ
+    gloss: akin to G260 ) as adverb {openscriptures-strongs}
+    proximity: 0.7611 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

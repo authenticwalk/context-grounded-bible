@@ -7,39 +7,50 @@ definition: properly, to roll flat, i.e. prepare (a road); also to revolve, i.e.
   (mentally)
 kjv_usage: make, ponder, weigh.
 derivation: a primitive root;
-extended_definition:
-  gloss: to envy
-  definition: 1) (Piel) to weigh, make level, balance<br>1a) to weigh out<br>1b) to
-    make level or smooth
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Piel) to weigh, make level, balance
+
+  1a) to weigh out
+
+  1b) to make level or smooth {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8254
-    proximity: 0.8298
+    lemma: שָׁקַל
+    gloss: to suspend or poise {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: H4461
-    proximity: 0.8295
+    lemma: מֵמַד
+    gloss: a measure {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H8505
-    proximity: 0.8063
+    lemma: תָּכַן
+    gloss: to balance {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
   - strongs: A8625
-    proximity: 0.805
+    proximity: 0.805 {macula-proximity}
   - strongs: H3474
-    proximity: 0.7795
+    lemma: יָשַׁר
+    gloss: to be straight or even {openscriptures-strongs}
+    proximity: 0.7795 {macula-proximity}
   cross_language:
   - strongs: G3354
-    proximity: 0.8187
+    lemma: μετρέω
+    gloss: to measure {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
     language: greek
   - strongs: G3006
-    proximity: 0.8042
+    lemma: λεῖος
+    gloss: smooth {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
     language: greek
   - strongs: G2090
-    proximity: 0.7952
+    lemma: ἑτοιμάζω
+    gloss: to prepare {openscriptures-strongs}
+    proximity: 0.7952 {macula-proximity}
     language: greek
   - strongs: G3977
-    proximity: 0.7436
+    lemma: πεδινός
+    gloss: level {openscriptures-strongs}
+    proximity: 0.7436 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

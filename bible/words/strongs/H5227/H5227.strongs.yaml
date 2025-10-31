@@ -7,50 +7,71 @@ definition: properly, the front part; used adverbially (especially with preposit
   opposite, in front of, forward, in behalf of
 kjv_usage: (over) against, before, direct(-ly), for, right (on).
 derivation: from the same as H5226 (נֵכַח);
-extended_definition:
-  gloss: before
-  definition: 'subst<br>1) be in front of<br>adv<br>2) in front of, opposite to, in
-    the sight of, before, to the front, right on<br>prep<br>3) towards the front of,
-    in front of, on behalf of, as far as in front of<BR>Also means: <i>ne.khach</i>
-    (נֵכַח "before" H5226)'
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: 'subst
+
+  1) be in front of
+
+  adv
+
+  2) in front of, opposite to, in the sight of, before, to the front, right on
+
+  prep
+
+  3) towards the front of, in front of, on behalf of, as far as in front of
+
+  Also means: ne.khach (נֵכַח "before" H5226) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2962
-    proximity: 0.8249
+    lemma: טֶרֶם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
   - strongs: H5676
-    proximity: 0.8241
+    lemma: עֵבֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H8032
-    proximity: 0.8239
+    lemma: שִׁלְשׁוֹם
+    gloss: trebly {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: A6655
-    proximity: 0.8158
+    proximity: 0.8158 {macula-proximity}
   - strongs: H7122
-    proximity: 0.8126
+    lemma: קָרָא
+    gloss: to encounter {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
   - strongs: A871b
-    proximity: 0.8098
+    proximity: 0.8098 {macula-proximity}
   - strongs: H3320
-    proximity: 0.795
+    lemma: יָצַב
+    gloss: to place {openscriptures-strongs}
+    proximity: 0.795 {macula-proximity}
   - strongs: H5869
-    proximity: 0.7866
+    lemma: עַיִן
+    gloss: an eye {openscriptures-strongs}
+    proximity: 0.7866 {macula-proximity}
   cross_language:
   - strongs: G4281
-    proximity: 0.8216
+    lemma: προέρχομαι
+    gloss: to go onward {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
     language: greek
   - strongs: G3908
-    proximity: 0.8184
+    lemma: παρατίθημι
+    gloss: to place alongside {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
     language: greek
   - strongs: G4254
-    proximity: 0.8124
+    lemma: προάγω
+    gloss: to lead forward {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
     language: greek
   - strongs: G436
-    proximity: 0.807
+    proximity: 0.807 {macula-proximity}
     language: greek
   - strongs: G4317
-    proximity: 0.7924
+    lemma: προσάγω
+    gloss: to lead towards {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,40 +6,41 @@ definition: to thoroughly occupy oneself, i.e. (transitively and by implication)
   earn in business
 kjv_usage: gain by trading
 derivation: from G1223 (διά) and G4231 (πραγματεύομαι);
-extended_definition:
-  gloss: to gain in trade
-  definition: '<b>δια-πραγματεύομαι </b>, "perfective compound" (see M, <i>Pr.</i>,
-    118); <BR /> __1. <b>to examine thoroughly</b> (Plat.). <BR /> __2. In late writers
-    (Dion. Hal.), <b>to gain by trading</b>: <ref=''Luk.19.15.''>Luk.19:15.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> διαπραγμᾰτεύομαι</b>, <br /> <b>discuss</b> or <b>examine thoroughly,</b>
-    τοῦτον τὸν λόγον [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus
-    “Phaedo” 77d; τὴν αἰτίαν [prev. work] 95e. ">Refs 5th c.BC+</a>]<br /><Level2><b>__II</b></Level2>
-    <b>gain by trading,</b> [<a href="javascript:void(0)" title="NT.Luke.19.15. ">NT</a>]<br
-    /><Level2><b>__III</b></Level2> <b>accomplish,</b> τι πρὸς τοὺς θεούς [<a href="javascript:void(0)"
-    title=" 4th c.AD: Iamblichus Philosophus “de Mysteriis” 5.16. ">Refs 4th c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δια-πραγματεύομαι , "perfective compound" (see M, Pr., 118);
+
+  __1. to examine thoroughly (Plat.).
+
+  __2. In late writers (Dion. Hal.), to gain by trading: Luk.19:15.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'διαπραγμᾰτεύομαι,
+
+  discuss or examine thoroughly, τοῦτον τὸν λόγον [Refs 5th c.BC+]
+
+  __II gain by trading, [NT]
+
+  __III accomplish, τι πρὸς τοὺς θεούς [Refs 4th c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2038
-    proximity: 0.8199
+    lemma: ἐργάζομαι
+    gloss: to toil (as a task {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: G2039
-    proximity: 0.7582
+    lemma: ἐργασία
+    gloss: occupation {openscriptures-strongs}
+    proximity: 0.7582 {macula-proximity}
   - strongs: G1710
-    proximity: 0.7002
+    lemma: ἐμπορεύομαι
+    gloss: to travel in {openscriptures-strongs}
+    proximity: 0.7002 {macula-proximity}
   cross_language:
   - strongs: H6213
-    proximity: 0.8222
+    lemma: עָשָׂה
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
     language: hebrew
   - strongs: H3823a
-    proximity: 0.8007
+    proximity: 0.8007 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

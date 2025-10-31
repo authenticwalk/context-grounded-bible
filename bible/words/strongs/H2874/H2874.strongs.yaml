@@ -7,44 +7,59 @@ definition: properly, something slaughtered; hence, a beast (or meat, as butcher
   abstractly butchery (or concretely, a place of slaughter)
 kjv_usage: '[idiom] beast, slaughter, [idiom] slay, [idiom] sore.'
 derivation: from H2873 (טָבַח);
-extended_definition:
-  gloss: slaughter
-  definition: 1) slaughter, slaughtering, animal<br>1a) slaughtering, slaughter (of
-    animals)<br>1b) slaughter (fig.)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) slaughter, slaughtering, animal
+
+  1a) slaughtering, slaughter (of animals)
+
+  1b) slaughter (fig.) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2491
-    proximity: 0.8026
+    lemma: חָלָל
+    gloss: pierced {openscriptures-strongs}
+    proximity: 0.8026 {macula-proximity}
   - strongs: H2944
-    proximity: 0.793
+    lemma: טָעַן
+    gloss: to stab {openscriptures-strongs}
+    proximity: 0.793 {macula-proximity}
   - strongs: H6991
-    proximity: 0.7907
+    lemma: קָטַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7907 {macula-proximity}
   - strongs: H4347
-    proximity: 0.7889
+    lemma: מַכָּה
+    gloss: a wound {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
   - strongs: H7523
-    proximity: 0.7679
+    lemma: רָצַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7679 {macula-proximity}
   - strongs: H1165
-    proximity: 0.7247
+    lemma: בְּעִיר
+    gloss: cattle {openscriptures-strongs}
+    proximity: 0.7247 {macula-proximity}
   cross_language:
   - strongs: G5408
-    proximity: 0.8198
+    lemma: φόνος
+    gloss: murder {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
     language: greek
   - strongs: G5074
-    proximity: 0.8141
+    lemma: τετράπους
+    gloss: a quadruped {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
     language: greek
   - strongs: G443
-    proximity: 0.7994
+    proximity: 0.7994 {macula-proximity}
     language: greek
   - strongs: G2380
-    proximity: 0.7815
+    lemma: θύω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7815 {macula-proximity}
     language: greek
   - strongs: G2934
-    proximity: 0.7434
+    lemma: κτῆνος
+    gloss: property {openscriptures-strongs}
+    proximity: 0.7434 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

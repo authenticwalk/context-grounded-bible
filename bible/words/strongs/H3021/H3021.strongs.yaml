@@ -6,40 +6,54 @@ pronunciation: yaw-gah'
 definition: properly, to gasp; hence, to be exhausted, to tire, to toil
 kjv_usage: faint, (make to) labour, (be) weary.
 derivation: a primitive root;
-extended_definition:
-  gloss: be weary/toil
-  definition: 1) to toil, labour, grow weary, be weary<br>1a) (Qal)<br>1a1) to toil,
-    labour<br>1a2) to grow weary, be weary<br>1b) (Piel) to weary, make weary, cause
-    to go toilsomely<br>1c) (Hiphil) to make to toil, make weary, cause to be weary
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to toil, labour, grow weary, be weary
+
+  1a) (Qal)
+
+  1a1) to toil, labour
+
+  1a2) to grow weary, be weary
+
+  1b) (Piel) to weary, make weary, cause to go toilsomely
+
+  1c) (Hiphil) to make to toil, make weary, cause to be weary {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6296
-    proximity: 0.7599
+    lemma: פָּגַר
+    gloss: to relax {openscriptures-strongs}
+    proximity: 0.7599 {macula-proximity}
   - strongs: H6093
-    proximity: 0.7563
+    lemma: עִצָּבוֹן
+    gloss: worrisomeness {openscriptures-strongs}
+    proximity: 0.7563 {macula-proximity}
   - strongs: H8383
-    proximity: 0.7499
+    lemma: תְּאֻן
+    gloss: naughtiness {openscriptures-strongs}
+    proximity: 0.7499 {macula-proximity}
   - strongs: H6089a
-    proximity: 0.7296
+    proximity: 0.7296 {macula-proximity}
   - strongs: H5999
-    proximity: 0.7293
+    lemma: עָמָל
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.7293 {macula-proximity}
   cross_language:
   - strongs: G916
-    proximity: 0.8212
+    proximity: 0.8212 {macula-proximity}
     language: greek
   - strongs: G2577
-    proximity: 0.7582
+    lemma: κάμνω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7582 {macula-proximity}
     language: greek
   - strongs: G4660
-    proximity: 0.7442
+    lemma: σκύλλω
+    gloss: to flay {openscriptures-strongs}
+    proximity: 0.7442 {macula-proximity}
     language: greek
   - strongs: G3449
-    proximity: 0.7017
+    lemma: μόχθος
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.7017 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

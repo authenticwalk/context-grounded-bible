@@ -7,51 +7,75 @@ definition: to drive out from a possession; especially to expatriate or divorce
 kjv_usage: cast up (out), divorced (woman), drive away (forth, out), expel, [idiom]
   surely put away, trouble, thrust out.
 derivation: a primitive root;
-extended_definition:
-  gloss: 'to drive out: divorce'
-  definition: ': divorce<br>1) to drive out, expel, cast out, drive away, divorce,
-    put away, thrust away, trouble, cast up<br>1a) (Qal) to thrust out, cast out<br>1b)
-    (Niphal) to be driven away, be tossed<br>1c) (Piel) to drive out, drive away<br>1d)
-    (Pual) to be thrust out'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': divorce
+
+  1) to drive out, expel, cast out, drive away, divorce, put away, thrust away, trouble,
+  cast up
+
+  1a) (Qal) to thrust out, cast out
+
+  1b) (Niphal) to be driven away, be tossed
+
+  1c) (Piel) to drive out, drive away
+
+  1d) (Pual) to be thrust out {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6327
-    proximity: 0.8243
+    lemma: פּוּץ
+    gloss: to dash in pieces {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: A5111
-    proximity: 0.8218
+    proximity: 0.8218 {macula-proximity}
   - strongs: H5110
-    proximity: 0.8214
+    lemma: נוּד
+    gloss: to nod {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H1644a
-    proximity: 0.8145
+    proximity: 0.8145 {macula-proximity}
   - strongs: H7971
-    proximity: 0.814
+    lemma: שָׁלַח
+    gloss: to send away {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
   - strongs: H5800
-    proximity: 0.8021
+    lemma: עָזַב
+    gloss: to loosen {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
   - strongs: H1760
-    proximity: 0.7875
+    lemma: דָּחָה
+    gloss: to push down {openscriptures-strongs}
+    proximity: 0.7875 {macula-proximity}
   - strongs: H1629
-    proximity: 0.7864
+    lemma: גָּרַז
+    gloss: to cut off {openscriptures-strongs}
+    proximity: 0.7864 {macula-proximity}
   - strongs: H3748
-    proximity: 0.7812
+    lemma: כְּרִיתוּת
+    gloss: a cutting {openscriptures-strongs}
+    proximity: 0.7812 {macula-proximity}
   - strongs: H1898
-    proximity: 0.7716
+    lemma: הָגָה
+    gloss: to remove {openscriptures-strongs}
+    proximity: 0.7716 {macula-proximity}
   cross_language:
   - strongs: G1806
-    proximity: 0.8257
+    lemma: ἐξάγω
+    gloss: to lead forth {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G1643
-    proximity: 0.8177
+    lemma: ἐλαύνω
+    gloss: to push (as wind {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
     language: greek
   - strongs: G1808
-    proximity: 0.782
+    lemma: ἐξαίρω
+    gloss: to remove {openscriptures-strongs}
+    proximity: 0.782 {macula-proximity}
     language: greek
   - strongs: G1831
-    proximity: 0.7558
+    lemma: ἐξέρχομαι
+    gloss: to issue {openscriptures-strongs}
+    proximity: 0.7558 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

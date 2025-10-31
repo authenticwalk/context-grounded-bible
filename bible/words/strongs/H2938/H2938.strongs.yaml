@@ -6,36 +6,41 @@ pronunciation: taw-am'
 definition: to taste; figuratively, to perceive
 kjv_usage: '[idiom] but, perceive, taste.'
 derivation: a primitive root;
-extended_definition:
-  gloss: to perceive
-  definition: '1) to taste, perceive, eat<br>1a) (Qal) to taste<BR>Aramaic equivalent:
-    <i>te.am</i> (טְעֵם "to feed" H2939)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to taste, perceive, eat
+
+  1a) (Qal) to taste
+
+  Aramaic equivalent: te.am (טְעֵם "to feed" H2939) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2940
-    proximity: 0.8246
+    lemma: טַעַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: H7200
-    proximity: 0.8027
+    lemma: רָאָה
+    gloss: to see {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
   cross_language:
   - strongs: G2334
-    proximity: 0.8262
+    lemma: θεωρέω
+    gloss: to be a spectator of {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
     language: greek
   - strongs: G872
-    proximity: 0.8205
+    proximity: 0.8205 {macula-proximity}
     language: greek
   - strongs: G2467
-    proximity: 0.8202
+    lemma: ἴσημι
+    gloss: to know {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
     language: greek
   - strongs: G3471
-    proximity: 0.8186
+    lemma: μωραίνω
+    gloss: to become insipid {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
     language: greek
   - strongs: G991
-    proximity: 0.8122
+    proximity: 0.8122 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

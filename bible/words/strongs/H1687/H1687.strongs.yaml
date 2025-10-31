@@ -7,40 +7,53 @@ definition: the shrine or innermost part of the sanctuary
 kjv_usage: oracle.
 derivation: or (shortened) דְּבִר; from H1696 (דָבַר) (apparently in the sense of
   oracle);
-extended_definition:
-  gloss: sanctuary
-  definition: 1) the holy of holies, the innermost room of the temple or tabernacle<br>1a)
-    hindmost chamber, innermost room of the temple of Solomon, most holy place, holy
-    of holies<br>2) (TWOT) oracle
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) the holy of holies, the innermost room of the temple or tabernacle
+
+  1a) hindmost chamber, innermost room of the temple of Solomon, most holy place,
+  holy of holies
+
+  2) (TWOT) oracle {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4583
-    proximity: 0.8297
+    lemma: מָעוֹן
+    gloss: an abode {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: H2910
-    proximity: 0.8267
+    lemma: טֻחָה
+    gloss: the kidneys {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
   - strongs: H6918
-    proximity: 0.8212
+    lemma: קָדוֹשׁ
+    gloss: sacred {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   - strongs: H2315
-    proximity: 0.7768
+    lemma: חֶדֶר
+    gloss: an apartment {openscriptures-strongs}
+    proximity: 0.7768 {macula-proximity}
   - strongs: H1004
-    proximity: 0.7485
+    lemma: בַּיִת
+    gloss: a house (in the greatest variation of applications {openscriptures-strongs}
+    proximity: 0.7485 {macula-proximity}
   cross_language:
   - strongs: G2080
-    proximity: 0.8277
+    lemma: ἔσω
+    gloss: inside {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: greek
   - strongs: G5009
-    proximity: 0.8187
+    lemma: ταμεῖον
+    gloss: akin to {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
     language: greek
   - strongs: G2411
-    proximity: 0.8186
+    lemma: ἱερόν
+    gloss: a sacred place {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
     language: greek
   - strongs: G2082
-    proximity: 0.7983
+    lemma: ἐσώτερος
+    gloss: interior {openscriptures-strongs}
+    proximity: 0.7983 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,28 +6,28 @@ pronunciation: sef-ee-naw'
 definition: a (sea-going) vessel (as ceiled with a deck)
 kjv_usage: ship.
 derivation: from H5603 (סָפַן);
-extended_definition:
-  gloss: ship
-  definition: ship, vessel
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: ship, vessel {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7914
-    proximity: 0.7982
+    lemma: שְׂכִיָּה
+    gloss: a conspicuous object {openscriptures-strongs}
+    proximity: 0.7982 {macula-proximity}
   - strongs: H3411
-    proximity: 0.7908
+    lemma: יְרֵכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
   - strongs: H590
-    proximity: 0.7255
+    proximity: 0.7255 {macula-proximity}
   cross_language:
   - strongs: G4143
-    proximity: 0.7363
+    lemma: πλοῖον
+    gloss: a sailer {openscriptures-strongs}
+    proximity: 0.7363 {macula-proximity}
     language: greek
   - strongs: G3490
-    proximity: 0.7341
+    lemma: ναύκληρος
+    gloss: a captain {openscriptures-strongs}
+    proximity: 0.7341 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

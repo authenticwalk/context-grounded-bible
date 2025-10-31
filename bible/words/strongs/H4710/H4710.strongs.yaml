@@ -6,48 +6,60 @@ pronunciation: mits-poon'
 definition: a secret (place or thing, perhaps, treasure)
 kjv_usage: hidden thing.
 derivation: from H6845 (צָפַן);
-extended_definition:
-  gloss: treasure
-  definition: hidden treasure, treasure
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: hidden treasure, treasure {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A5642
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
   - strongs: H6239
-    proximity: 0.8208
+    lemma: עֹשֶׁר
+    gloss: wealth {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   - strongs: H2898
-    proximity: 0.8203
+    lemma: טוּב
+    gloss: good {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: H2934
-    proximity: 0.8084
+    lemma: טָמַן
+    gloss: to hide {openscriptures-strongs}
+    proximity: 0.8084 {macula-proximity}
   - strongs: H4022
-    proximity: 0.8058
+    lemma: מֶגֶד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: H3670
-    proximity: 0.7948
+    lemma: כָּנַף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
   - strongs: H2253
-    proximity: 0.7901
+    lemma: חֶבְיוֹן
+    gloss: a concealment {openscriptures-strongs}
+    proximity: 0.7901 {macula-proximity}
   - strongs: H2530a
-    proximity: 0.7888
+    proximity: 0.7888 {macula-proximity}
   - strongs: H8498
-    proximity: 0.7766
+    lemma: תְּכוּנָה
+    gloss: adjustment {openscriptures-strongs}
+    proximity: 0.7766 {macula-proximity}
   - strongs: H3366
-    proximity: 0.7563
+    lemma: יְקָר
+    gloss: value {openscriptures-strongs}
+    proximity: 0.7563 {macula-proximity}
   cross_language:
   - strongs: G852
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
     language: greek
   - strongs: G3871
-    proximity: 0.7904
+    lemma: παρακαλύπτω
+    gloss: to cover alongside {openscriptures-strongs}
+    proximity: 0.7904 {macula-proximity}
     language: greek
   - strongs: G614
-    proximity: 0.7872
+    proximity: 0.7872 {macula-proximity}
     language: greek
   - strongs: G2928
-    proximity: 0.7742
+    lemma: κρύπτω
+    gloss: to conceal (properly {openscriptures-strongs}
+    proximity: 0.7742 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

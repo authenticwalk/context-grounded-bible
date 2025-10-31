@@ -8,42 +8,55 @@ definition: properly, dark (as enveloped), i.e. the north; hence (by orientation
 kjv_usage: left (hand, side).
 derivation: or שְׂמֹאל; a primitive word (rather perhaps from the same as H8071 (שִׂמְלָה)
   (by insertion of the aleph) through the idea of wrapping up);
-extended_definition:
-  gloss: 'left: north'
-  definition: 1) the left, the left hand, the left side<br>1a) left<br>1b) left hand<br>1c)
-    north (as one faces east)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) the left, the left hand, the left side
+
+  1a) left
+
+  1b) left hand
+
+  1c) north (as one faces east) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4136
-    proximity: 0.8243
+    lemma: מוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: H3802
-    proximity: 0.7813
+    lemma: כָּתֵף
+    gloss: the shoulder (proper {openscriptures-strongs}
+    proximity: 0.7813 {macula-proximity}
   - strongs: H6654
-    proximity: 0.7798
+    lemma: צַד
+    gloss: a side {openscriptures-strongs}
+    proximity: 0.7798 {macula-proximity}
   - strongs: H3709
-    proximity: 0.7527
+    lemma: כַּף
+    gloss: the hollow hand or palm (so of the paw of an animal {openscriptures-strongs}
+    proximity: 0.7527 {macula-proximity}
   - strongs: H334
-    proximity: 0.7049
+    proximity: 0.7049 {macula-proximity}
   cross_language:
   - strongs: G402
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G3007
-    proximity: 0.8258
+    lemma: λείπω
+    gloss: to leave {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G1439
-    proximity: 0.8211
+    lemma: ἐάω
+    gloss: to let be {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
     language: greek
   - strongs: G5275
-    proximity: 0.8177
+    lemma: ὑπολείπω
+    gloss: to leave under {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
     language: greek
   - strongs: G5495
-    proximity: 0.7249
+    lemma: χείρ
+    gloss: the hand {openscriptures-strongs}
+    proximity: 0.7249 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

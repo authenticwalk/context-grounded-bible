@@ -6,42 +6,52 @@ pronunciation: mah-hal-awl'
 definition: fame
 kjv_usage: praise.
 derivation: from H1984 (הָלַל);
-extended_definition:
-  gloss: praise
-  definition: praise, boast
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: praise, boast {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2506a
-    proximity: 0.8157
+    proximity: 0.8157 {macula-proximity}
   - strongs: H2505a
-    proximity: 0.7884
+    proximity: 0.7884 {macula-proximity}
   - strongs: H5108
-    proximity: 0.7763
+    lemma: נוֹב
+    gloss: produce {openscriptures-strongs}
+    proximity: 0.7763 {macula-proximity}
   - strongs: H1974
-    proximity: 0.7729
+    lemma: הִלּוּל
+    gloss: a celebration of thanksgiving for harvest {openscriptures-strongs}
+    proximity: 0.7729 {macula-proximity}
   - strongs: H1960
-    proximity: 0.7524
+    lemma: הֻיְּדָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7524 {macula-proximity}
   - strongs: H3034
-    proximity: 0.7402
+    lemma: יָדָה
+    gloss: physically {openscriptures-strongs}
+    proximity: 0.7402 {macula-proximity}
   - strongs: H7679
-    proximity: 0.7076
+    lemma: שָׂגָא
+    gloss: to grow {openscriptures-strongs}
+    proximity: 0.7076 {macula-proximity}
   cross_language:
   - strongs: G3170
-    proximity: 0.7849
+    lemma: μεγαλύνω
+    gloss: to make  great {openscriptures-strongs}
+    proximity: 0.7849 {macula-proximity}
     language: greek
   - strongs: G1843
-    proximity: 0.7465
+    lemma: ἐξομολογέω
+    gloss: to acknowledge or (by implication {openscriptures-strongs}
+    proximity: 0.7465 {macula-proximity}
     language: greek
   - strongs: G2850
-    proximity: 0.7399
+    lemma: κολακεία
+    gloss: flattery {openscriptures-strongs}
+    proximity: 0.7399 {macula-proximity}
     language: greek
   - strongs: G2128
-    proximity: 0.7382
+    lemma: εὐλογητός
+    gloss: adorable {openscriptures-strongs}
+    proximity: 0.7382 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

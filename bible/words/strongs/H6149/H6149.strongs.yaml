@@ -7,52 +7,73 @@ definition: to be agreeable
 kjv_usage: be pleasant(-ing), take pleasure in, be sweet.
 derivation: a primitive root (rather identical with H6148 (עָרַב) through the idea
   of close association);
-extended_definition:
-  gloss: to please
-  definition: 1) (Qal) to be pleasant, be sweet, be pleasing<br>1a) (TWOT) sweet,
-    pleasant
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Qal) to be pleasant, be sweet, be pleasing
+
+  1a) (TWOT) sweet, pleasant {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2530
-    proximity: 0.8293
+    lemma: חָמַד
+    gloss: to delight in {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: H2836
-    proximity: 0.8293
+    lemma: חָשַׁק
+    gloss: to cling {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: H2974
-    proximity: 0.8276
+    lemma: יָאַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: H3474
-    proximity: 0.8254
+    lemma: יָשַׁר
+    gloss: to be straight or even {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: H2896
-    proximity: 0.8238
+    lemma: טוֹב
+    gloss: good  in the widest sense {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H5730
-    proximity: 0.8137
+    lemma: עֵדֶן
+    gloss: pleasure {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   - strongs: H8056
-    proximity: 0.8034
+    lemma: שָׂמֵחַ
+    gloss: blithe or gleeful {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
   - strongs: H8342
-    proximity: 0.7903
+    lemma: שָׂשׂוֹן
+    gloss: cheerfulness {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
   - strongs: H4885
-    proximity: 0.7898
+    lemma: מָשׂוֹשׂ
+    gloss: delight {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
   - strongs: H7797
-    proximity: 0.788
+    lemma: שׂוּשׂ
+    gloss: to be bright {openscriptures-strongs}
+    proximity: 0.788 {macula-proximity}
   cross_language:
   - strongs: G5479
-    proximity: 0.8268
+    lemma: χαρά
+    gloss: cheerfulness {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: greek
   - strongs: G4796
-    proximity: 0.8254
+    lemma: συγχαίρω
+    gloss: to sympathize in gladness {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: greek
   - strongs: G5463
-    proximity: 0.8236
+    lemma: χαίρω
+    gloss: to be "cheer"ful {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
     language: greek
   - strongs: G441
-    proximity: 0.8064
+    proximity: 0.8064 {macula-proximity}
     language: greek
   - strongs: G2107
-    proximity: 0.8012
+    lemma: εὐδοκία
+    gloss: satisfaction {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

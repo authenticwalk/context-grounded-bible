@@ -9,48 +9,63 @@ definition: properly, a region across; but used only adverbially (with or withou
 kjv_usage: '[idiom] against, beyond, by, [idiom] from, over, passage, quarter, (other,
   this) side, straight.'
 derivation: from H5674 (עָבַר);
-extended_definition:
-  gloss: 'side: west'
-  definition: ': west<br>1) region beyond or across, side<br>1a) region across or
-    beyond<br>1b) side, opposite side'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': west
+
+  1) region beyond or across, side
+
+  1a) region across or beyond
+
+  1b) side, opposite side {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H854
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
   - strongs: H5227
-    proximity: 0.8241
+    lemma: נֹכַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H2088
-    proximity: 0.8238
+    lemma: זֶה
+    gloss: the masculine demonstrative pronoun {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H8121
-    proximity: 0.8203
+    lemma: שֶׁמֶשׁ
+    gloss: the sun {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: A5085
-    proximity: 0.818
+    proximity: 0.818 {macula-proximity}
   - strongs: A5924
-    proximity: 0.8164
+    proximity: 0.8164 {macula-proximity}
   - strongs: A6925
-    proximity: 0.8145
+    proximity: 0.8145 {macula-proximity}
   - strongs: H5674
-    proximity: 0.8137
+    lemma: עָבַר
+    gloss: to cross over {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   cross_language:
   - strongs: G3846
-    proximity: 0.8288
+    lemma: παραβάλλω
+    gloss: to throw alongside {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
     language: greek
   - strongs: G1715
-    proximity: 0.8286
+    lemma: ἔμπροσθεν
+    gloss: in front of  or time) {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G2824
-    proximity: 0.8267
+    lemma: κλίμα
+    gloss: a slope {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
     language: greek
   - strongs: G2945
-    proximity: 0.8243
+    lemma: κύκλῳ
+    gloss: akin to G2947 ) {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: greek
   - strongs: G1093
-    proximity: 0.8233
+    lemma: γῆ
+    gloss: soil {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

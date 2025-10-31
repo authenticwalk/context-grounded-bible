@@ -9,52 +9,83 @@ definition: to clatter, i.e. slap (the hands together), clang (an instrument); b
 kjv_usage: blow (a trumpet), cast, clap, fasten, pitch (tent), smite, sound, strike,
   [idiom] suretiship, thrust.
 derivation: a primitive root;
-extended_definition:
-  gloss: to blow
-  definition: 1) to blow, clap, strike, sound, thrust, give a blow, blast<br>1a) (Qal)<br>1a1)
-    to thrust, drive (of weapon)<br>1a2) to give a blast, give a blow<br>1a3) to strike
-    or clap hands<br>1b) (Niphal)<br>1b1) to be blown, blast (of horn)<br>1b2) to
-    strike or pledge oneself
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to blow, clap, strike, sound, thrust, give a blow, blast
+
+  1a) (Qal)
+
+  1a1) to thrust, drive (of weapon)
+
+  1a2) to give a blast, give a blow
+
+  1a3) to strike or clap hands
+
+  1b) (Niphal)
+
+  1b1) to be blown, blast (of horn)
+
+  1b2) to strike or pledge oneself {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1468
-    proximity: 0.8293
+    lemma: גּוּז
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: H8466
-    proximity: 0.8262
+    lemma: תַּחֲנָה
+    gloss: an encampment {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: H4264
-    proximity: 0.8233
+    lemma: מַחֲנֶה
+    gloss: an encampment {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H5086
-    proximity: 0.8124
+    lemma: נָדַף
+    gloss: to shove asunder {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: H5221
-    proximity: 0.8089
+    lemma: נָכָה
+    gloss: to strike (lightly or severely {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: H8619
-    proximity: 0.7923
+    lemma: תָּקוֹעַ
+    gloss: a trumpet {openscriptures-strongs}
+    proximity: 0.7923 {macula-proximity}
   - strongs: H3709
-    proximity: 0.7789
+    lemma: כַּף
+    gloss: the hollow hand or palm (so of the paw of an animal {openscriptures-strongs}
+    proximity: 0.7789 {macula-proximity}
   - strongs: H5606
-    proximity: 0.7766
+    lemma: סָפַק
+    gloss: to clap the hands (in token of compact {openscriptures-strongs}
+    proximity: 0.7766 {macula-proximity}
   - strongs: H2689
-    proximity: 0.7641
+    lemma: חֲצֹצְרָה
+    gloss: a trumpet {openscriptures-strongs}
+    proximity: 0.7641 {macula-proximity}
   cross_language:
   - strongs: G4475
-    proximity: 0.8238
+    lemma: ῥάπισμα
+    gloss: a slap {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
     language: greek
   - strongs: G3572
-    proximity: 0.8167
+    lemma: νύσσω
+    gloss: to prick {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G4044
-    proximity: 0.814
+    lemma: περιπείρω
+    gloss: to penetrate entirely {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
     language: greek
   - strongs: G1338
-    proximity: 0.8032
+    lemma: διϊκνέομαι
+    gloss: to reach through {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
     language: greek
   - strongs: G3660
-    proximity: 0.789
+    lemma: ὀμνύω
+    gloss: to swear {openscriptures-strongs}
+    proximity: 0.789 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

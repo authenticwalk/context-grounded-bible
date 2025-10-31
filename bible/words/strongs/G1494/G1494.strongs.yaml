@@ -6,46 +6,47 @@ definition: an image-sacrifice, i.e. part of an idolatrous offering
 kjv_usage: (meat, thing that is) offered (in sacrifice, sacrificed) to (unto) idols
 derivation: neuter of a compound of G1497 (εἴδωλον) and a presumed derivative of G2380
   (θύω);
-extended_definition:
-  gloss: sacrificed to idols
-  definition: '<b>εἰδωλόθυτος</b>, -ον, <BR /> (εἴδωλον, θύω), [in LXX: <ref=''4Ma.5.2''>4Ma.5:2</ref>
-    * ;] <BR /><b>sacrificed to idols</b>: τὸ, τὰ εἰ, <ref=''Act.15.29; 21.25''>Act.15:29
-    21:25</ref>, <ref=''1Co.8.1, 4, 7, 10; 10.19''>1Co.8:1, 4 7, 10 10:19</ref>, <ref=''Rev.2.14''>Rev.2:14</ref>,
-    2o.†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> εἰδωλό-θῠτος</b>, ον, <br /> <b>sacrificed to idols</b>: <i>substantive</i>
-    εἰδωλόθυτα, τά, <b>meats offered to idols,</b> [<a href="javascript:void(0)" title="
-    NT.Acts.15.29, NT.1Cor.8.1, etc. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'εἰδωλόθυτος, -ον,
+
+  (εἴδωλον, θύω), [in LXX: 4Ma.5:2 * ;]
+
+  sacrificed to idols: τὸ, τὰ εἰ, Act.15:29 21:25, 1Co.8:1, 4 7, 10 10:19, Rev.2:14,
+  2o.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'εἰδωλό-θῠτος, ον,
+
+  sacrificed to idols: substantive εἰδωλόθυτα, τά, meats offered to idols, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2712
-    proximity: 0.8147
+    lemma: κατείδωλος
+    gloss: utterly idolatrous {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: A1685
-    proximity: 0.8074
+    proximity: 0.8074 {macula-proximity}
   - strongs: A4203
-    proximity: 0.8039
+    proximity: 0.8039 {macula-proximity}
   cross_language:
   - strongs: H1262
-    proximity: 0.8296
+    lemma: בָּרָה
+    gloss: to select {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: hebrew
   - strongs: H3807a
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
     language: hebrew
   - strongs: H8641
-    proximity: 0.8263
+    lemma: תְּרוּמָה
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
     language: hebrew
   - strongs: H6718a
-    proximity: 0.8233
+    proximity: 0.8233 {macula-proximity}
     language: hebrew
   - strongs: H5257
-    proximity: 0.8223
+    lemma: נְסִיךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,49 +6,63 @@ pronunciation: meer-maw'
 definition: fraud
 kjv_usage: craft, deceit(-ful, -fully), false, feigned, guile, subtilly, treachery.
 derivation: from H7411 (רָמָה) in the sense of deceiving;
-extended_definition:
-  gloss: deceit
-  definition: deceit, treachery
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: deceit, treachery {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A2164
-    proximity: 0.8272
+    proximity: 0.8272 {macula-proximity}
   - strongs: H5558
-    proximity: 0.8194
+    lemma: סֶלֶף
+    gloss: distortion {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H5377
-    proximity: 0.8177
+    lemma: נָשָׁא
+    gloss: to lead astray {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
   - strongs: H7411a
-    proximity: 0.8173
+    proximity: 0.8173 {macula-proximity}
   - strongs: H6117
-    proximity: 0.8144
+    lemma: עָקַב
+    gloss: to seize by the heel {openscriptures-strongs}
+    proximity: 0.8144 {macula-proximity}
   - strongs: H6231
-    proximity: 0.8117
+    lemma: עָשַׁק
+    gloss: to press upon {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
   - strongs: H2514
-    proximity: 0.7985
+    lemma: חֲלַקָּה
+    gloss: flattery {openscriptures-strongs}
+    proximity: 0.7985 {macula-proximity}
   - strongs: H6280
-    proximity: 0.7945
+    lemma: עָתַר
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7945 {macula-proximity}
   - strongs: H7723
-    proximity: 0.7885
+    lemma: שָׁוְא
+    gloss: evil {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
   cross_language:
   - strongs: G5579
-    proximity: 0.8278
+    lemma: ψεῦδος
+    gloss: a falsehood {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G538
-    proximity: 0.8267
+    proximity: 0.8267 {macula-proximity}
     language: greek
   - strongs: G4106
-    proximity: 0.8197
+    lemma: πλάνη
+    gloss: objectively {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
     language: greek
   - strongs: G1818
-    proximity: 0.8138
+    lemma: ἐξαπατάω
+    gloss: to seduce wholly {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
     language: greek
   - strongs: G3884
-    proximity: 0.8134
+    lemma: παραλογίζομαι
+    gloss: to misreckon {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

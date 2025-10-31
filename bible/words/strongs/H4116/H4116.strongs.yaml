@@ -13,36 +13,51 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H2782a
-    proximity: 0.8287
+    proximity: 0.8287 {macula-proximity}
   - strongs: H871a
-    proximity: 0.8276
+    proximity: 0.8276 {macula-proximity}
   - strongs: H7323
-    proximity: 0.8124
+    lemma: רוּץ
+    gloss: to run (for whatever reason {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: H2440
-    proximity: 0.7939
+    lemma: חִישׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
   - strongs: A871b
-    proximity: 0.779
+    proximity: 0.779 {macula-proximity}
   - strongs: H3288
-    proximity: 0.7508
+    lemma: יְעָף
+    gloss: fatigue (adverb {openscriptures-strongs}
+    proximity: 0.7508 {macula-proximity}
   - strongs: H7031
-    proximity: 0.739
+    lemma: קַל
+    gloss: light {openscriptures-strongs}
+    proximity: 0.739 {macula-proximity}
   cross_language:
   - strongs: G4709
-    proximity: 0.8211
+    lemma: σπουδαίως
+    gloss: earnestly {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
     language: greek
   - strongs: G1167
-    proximity: 0.8185
+    lemma: δειλία
+    gloss: timidity {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
     language: greek
   - strongs: G4704
-    proximity: 0.8127
+    lemma: σπουδάζω
+    gloss: to use speed {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
     language: greek
   - strongs: G4708
-    proximity: 0.8083
+    lemma: σπουδαιοτέρως
+    gloss: more speedily {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
     language: greek
   - strongs: G1722
-    proximity: 0.8078
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.8078 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

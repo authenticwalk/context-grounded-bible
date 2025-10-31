@@ -7,28 +7,31 @@ definition: Javan, the name of a son of Joktan, and of the race (Ionians, i.e. G
   descended from him, with their territory; also of a place in Arabia
 kjv_usage: Javan.
 derivation: probably from the same as H3196 (יַיִן); effervescing (i.e. hot and active);
-extended_definition:
-  gloss: Greece
-  definition: <BR> § Javan = "Ionia" or "Greece"<br> 1) Greece, Ionia, Ionians<br>2)
-    location of descendants of Javan
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Javan = "Ionia" or "Greece"
+
+  1) Greece, Ionia, Ionians
+
+  2) location of descendants of Javan {STEPBible-TBESH}'
 related_words:
   cross_language:
   - strongs: G1675
-    proximity: 0.8148
+    lemma: Ἑλληνιστής
+    gloss: a Hellenist or Greek-speaking Jew {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
     language: greek
   - strongs: G1676
-    proximity: 0.807
+    lemma: Ἑλληνιστί
+    gloss: Hellenistically {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
     language: greek
   - strongs: G1673
-    proximity: 0.795
+    lemma: Ἑλληνικός
+    gloss: Hellenic {openscriptures-strongs}
+    proximity: 0.795 {macula-proximity}
     language: greek
   - strongs: G1674
-    proximity: 0.713
+    lemma: Ἑλληνίς
+    gloss: a Grecian  woman {openscriptures-strongs}
+    proximity: 0.713 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

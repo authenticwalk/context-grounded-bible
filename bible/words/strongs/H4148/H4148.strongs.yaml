@@ -8,52 +8,73 @@ definition: properly, chastisement; figuratively, reproof, warning or instructio
 kjv_usage: bond, chastening(-eth), chastisement, check, correction, discipline, doctrine,
   instruction, rebuke.
 derivation: from H3256 (יָסַר);
-extended_definition:
-  gloss: 'discipline: bonds'
-  definition: ': bonds/noose<br>1) discipline, chastening, correction<br>1a) discipline,
-    correction<br>1b) chastening'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': bonds/noose
+
+  1) discipline, chastening, correction
+
+  1a) discipline, correction
+
+  1b) chastening {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4175b
-    proximity: 0.8252
+    proximity: 0.8252 {macula-proximity}
   - strongs: H8201
-    proximity: 0.8215
+    lemma: שֶׁפֶט
+    gloss: a sentence {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H1244
-    proximity: 0.817
+    lemma: בִּקֹּרֶת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: H3928
-    proximity: 0.8094
+    lemma: לִמּוּד
+    gloss: instructed {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
   - strongs: H5749a
-    proximity: 0.8036
+    proximity: 0.8036 {macula-proximity}
   - strongs: H1606
-    proximity: 0.7993
+    lemma: גְּעָרָה
+    gloss: a chiding {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
   - strongs: H8196
-    proximity: 0.7973
+    lemma: שְׁפוֹט
+    gloss: a judicial sentence {openscriptures-strongs}
+    proximity: 0.7973 {macula-proximity}
   - strongs: H8584
-    proximity: 0.7949
+    lemma: תְּעוּדָה
+    gloss: attestation {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
   - strongs: H8150a
-    proximity: 0.7778
+    proximity: 0.7778 {macula-proximity}
   - strongs: H6490
-    proximity: 0.7672
+    lemma: פִּקּוּד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7672 {macula-proximity}
   cross_language:
   - strongs: G3862
-    proximity: 0.8106
+    lemma: παράδοσις
+    gloss: transmission {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: greek
   - strongs: G3560
-    proximity: 0.8059
+    lemma: νουθετέω
+    gloss: to put in mind {openscriptures-strongs}
+    proximity: 0.8059 {macula-proximity}
     language: greek
   - strongs: G1969
-    proximity: 0.8019
+    lemma: ἐπιπλήσσω
+    gloss: to chastise {openscriptures-strongs}
+    proximity: 0.8019 {macula-proximity}
     language: greek
   - strongs: G4994
-    proximity: 0.7919
+    lemma: σωφρονίζω
+    gloss: to make of sound mind {openscriptures-strongs}
+    proximity: 0.7919 {macula-proximity}
     language: greek
   - strongs: G2849
-    proximity: 0.7675
+    lemma: κολάζω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7675 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

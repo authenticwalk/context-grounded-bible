@@ -5,30 +5,30 @@ transliteration: phylakízō
 definition: to incarcerate
 kjv_usage: imprison
 derivation: from G5441 (φύλαξ);
-extended_definition:
-  gloss: to imprison
-  definition: '<b>φυλακίζω </b><BR /> [in LXX: <ref=''Wis.18.4''>Wis.18:4</ref> *
-    ;] <BR /><b>to imprison</b>: <ref=''Act.22.19.''>Act.22:19.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> φῠλᾰκ-ίζω</b>, <br /> <b>throw into prison,</b> [<a href="javascript:void(0)"
-    title=" NT.Acts.22.19">NT</a>]:— <i>passive</i>, [<a href="javascript:void(0)"
-    title=" LXX.Wis.18.4. ">LXX</a>]
-  source: STEPBible/LSJ
+extended_definition: 'φυλακίζω
+
+  [in LXX: Wis.18:4 * ;]
+
+  to imprison: Act.22:19.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'φῠλᾰκ-ίζω,
+
+  throw into prison, [NT]:— passive, [LXX] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2546
-    proximity: 0.8276
+    lemma: κἀκεῖ
+    gloss: likewise in that place {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: G1201
-    proximity: 0.809
+    lemma: δεσμωτήριον
+    gloss: a place of bondage {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
   - strongs: A613
-    proximity: 0.7933
+    proximity: 0.7933 {macula-proximity}
   - strongs: G5438
-    proximity: 0.7553
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: φυλακή
+    gloss: a guarding or (concretely {openscriptures-strongs}
+    proximity: 0.7553 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,42 +6,54 @@ pronunciation: haw-lam'
 definition: to strike down; by implication, to hammer, stamp, conquer, disband
 kjv_usage: beat (down), break (down), overcome, smite (with the hammer).
 derivation: a primitive root;
-extended_definition:
-  gloss: to smite
-  definition: (Qal) to smite, strike, hammer, strike down
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to smite, strike, hammer, strike down {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6202
-    proximity: 0.8238
+    lemma: עָרַף
+    gloss: to break the neck {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H8608
-    proximity: 0.8228
+    lemma: תָּפַף
+    gloss: to drum {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
   - strongs: H7111
-    proximity: 0.8197
+    lemma: קְצָפָה
+    gloss: a fragment {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
   - strongs: H6476a
-    proximity: 0.8139
+    proximity: 0.8139 {macula-proximity}
   - strongs: H1438
-    proximity: 0.8108
+    lemma: גָּדַע
+    gloss: to fell a tree {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
   - strongs: H5422
-    proximity: 0.8087
+    lemma: נָתַץ
+    gloss: to tear down {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
   - strongs: A7490
-    proximity: 0.8069
+    proximity: 0.8069 {macula-proximity}
   - strongs: H4347
-    proximity: 0.8027
+    lemma: מַכָּה
+    gloss: a wound {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
   - strongs: H7555
-    proximity: 0.8001
+    lemma: רִקֻּעַ
+    gloss: beaten out {openscriptures-strongs}
+    proximity: 0.8001 {macula-proximity}
   - strongs: H7481
-    proximity: 0.7997
+    lemma: רָעַם
+    gloss: to tumble {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
   cross_language:
   - strongs: G4937
-    proximity: 0.8223
+    lemma: συντρίβω
+    gloss: to crush completely {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G1027
-    proximity: 0.8129
+    lemma: βροντή
+    gloss: thunder {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,39 +7,45 @@ definition: (only in plural) a dismissal, i.e. (of a wife) divorce (especially t
   document); also (of a daughter) dower
 kjv_usage: presents, have sent back.
 derivation: or שִׁלֻּחַ; from H7971 (שָׁלַח);
-extended_definition:
-  gloss: parting gift
-  definition: 1) sending away, parting gift<br>1a) sending away<br>1b) parting gift
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) sending away, parting gift
+
+  1a) sending away
+
+  1b) parting gift {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1458
-    proximity: 0.8264
+    lemma: גַּו
+    gloss: the back {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H7810
-    proximity: 0.8152
+    lemma: שַׁחַד
+    gloss: a donation {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: H4864
-    proximity: 0.8117
+    lemma: מַשְׂאֵת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
   - strongs: H5078
-    proximity: 0.7812
+    lemma: נֵדֶה
+    gloss: a bounty {openscriptures-strongs}
+    proximity: 0.7812 {macula-proximity}
   cross_language:
   - strongs: G359
-    proximity: 0.829
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G1434
-    proximity: 0.8264
+    lemma: δώρημα
+    gloss: a bestowment {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G344
-    proximity: 0.8225
+    proximity: 0.8225 {macula-proximity}
     language: greek
   - strongs: G565
-    proximity: 0.8224
+    proximity: 0.8224 {macula-proximity}
     language: greek
   - strongs: G867
-    proximity: 0.8186
+    proximity: 0.8186 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

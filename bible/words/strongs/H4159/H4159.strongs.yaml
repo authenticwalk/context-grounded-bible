@@ -6,39 +6,50 @@ pronunciation: mo-faith'
 definition: a miracle; by implication, a token or omen
 kjv_usage: miracle, sign, wonder(-ed at).
 derivation: or מֹפֵת; from H3302 (יָפָה) in the sense of conspicuousness;
-extended_definition:
-  gloss: wonder
-  definition: 1) wonder, sign, miracle, portent<br>1a) wonder (as a special display
-    of God's power)<br>1b) sign, token (of future event)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) wonder, sign, miracle, portent
+
+  1a) wonder (as a special display of God''s power)
+
+  1b) sign, token (of future event) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4659a
-    proximity: 0.7983
+    proximity: 0.7983 {macula-proximity}
   - strongs: H1420
-    proximity: 0.7957
+    lemma: גְּדוּלָה
+    gloss: greatness {openscriptures-strongs}
+    proximity: 0.7957 {macula-proximity}
   - strongs: H4652
-    proximity: 0.7903
+    lemma: מִפְלָאָה
+    gloss: a miracle {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
   - strongs: H8539
-    proximity: 0.7899
+    lemma: תָּמַהּ
+    gloss: to be in consternation {openscriptures-strongs}
+    proximity: 0.7899 {macula-proximity}
   - strongs: H6383
-    proximity: 0.7486
+    lemma: פִּלְאִי
+    gloss: remarkable {openscriptures-strongs}
+    proximity: 0.7486 {macula-proximity}
   cross_language:
   - strongs: G2285
-    proximity: 0.8083
+    lemma: θάμβος
+    gloss: stupefaction {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
     language: greek
   - strongs: G2296
-    proximity: 0.7956
+    lemma: θαυμάζω
+    gloss: to wonder {openscriptures-strongs}
+    proximity: 0.7956 {macula-proximity}
     language: greek
   - strongs: G1411
-    proximity: 0.7902
+    lemma: δύναμις
+    gloss: force {openscriptures-strongs}
+    proximity: 0.7902 {macula-proximity}
     language: greek
   - strongs: G2295
-    proximity: 0.7529
+    lemma: θαῦμα
+    gloss: wonder (properly concrete {openscriptures-strongs}
+    proximity: 0.7529 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

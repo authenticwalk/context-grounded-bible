@@ -5,56 +5,60 @@ transliteration: gynaikárion
 definition: a little (i.e. foolish) woman
 kjv_usage: silly woman
 derivation: a diminutive from G1135 (γυνή);
-extended_definition:
-  gloss: weak-willed woman
-  definition: '<b>γυναικάριον</b>, -ου, τό (diminutive of γυνή), <BR /> <b>a little
-    woman</b>; contemptuously, <b>a silly woman</b> (EV): <ref=''2Ti.3.6.''>2Ti.3:6.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> γῠναικ-άριον</b>, τό, <br /> <i>diminutive</i> of γυνή, [<a
-    href="javascript:void(0)" title=" 1st c.AD: Diocles Epigrammaticus Comedy texts
-    11, 1st-2nd c.AD: Epictetus Philosophus “Enchiridion” 7, NT.2Tim.3.6, 2nd c.AD:
-    Marcus Antoninus Imperator 5.11 ">NT+1st c.AD+</a>].'
-  source: STEPBible/LSJ
+extended_definition: 'γυναικάριον, -ου, τό (diminutive of γυνή),
+
+  a little woman; contemptuously, a silly woman (EV): 2Ti.3:6.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'γῠναικ-άριον, τό,
+
+  diminutive of γυνή, [NT+1st c.AD+]. {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1399
-    proximity: 0.8284
+    lemma: δούλη
+    gloss: a female slave {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: G770
-    proximity: 0.8266
+    proximity: 0.8266 {macula-proximity}
   - strongs: G691
-    proximity: 0.8218
+    proximity: 0.8218 {macula-proximity}
   - strongs: G453
-    proximity: 0.8163
+    proximity: 0.8163 {macula-proximity}
   - strongs: G1126
-    proximity: 0.8045
+    lemma: γραώδης
+    gloss: crone-like {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
   - strongs: G1134
-    proximity: 0.7837
+    lemma: γυναικεῖος
+    gloss: feminine {openscriptures-strongs}
+    proximity: 0.7837 {macula-proximity}
   - strongs: G772
-    proximity: 0.7776
+    proximity: 0.7776 {macula-proximity}
   - strongs: G2338
-    proximity: 0.7654
+    lemma: θῆλυς
+    gloss: female {openscriptures-strongs}
+    proximity: 0.7654 {macula-proximity}
   cross_language:
   - strongs: H3486
-    proximity: 0.8254
+    lemma: יָשֵׁשׁ
+    gloss: gray-haired {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: hebrew
   - strongs: H535a
-    proximity: 0.8196
+    proximity: 0.8196 {macula-proximity}
     language: hebrew
   - strongs: H5031
-    proximity: 0.8148
+    lemma: נְבִיאָה
+    gloss: a prophetess or  inspired woman {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
     language: hebrew
   - strongs: H2523
-    proximity: 0.7954
+    lemma: חַלָּשׁ
+    gloss: frail {openscriptures-strongs}
+    proximity: 0.7954 {macula-proximity}
     language: hebrew
   - strongs: H802
-    proximity: 0.7863
+    proximity: 0.7863 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

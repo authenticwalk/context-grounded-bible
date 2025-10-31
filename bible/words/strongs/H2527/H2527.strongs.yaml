@@ -6,39 +6,49 @@ pronunciation: khome
 definition: heat
 kjv_usage: heat, to be hot (warm).
 derivation: from H2552 (חָמַם);
-extended_definition:
-  gloss: heat
-  definition: heat, hot
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: heat, hot {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8385
-    proximity: 0.8258
+    lemma: תַּאֲנָה
+    gloss: an opportunity or  purpose {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H7957
-    proximity: 0.8099
+    lemma: שַׁלְהֶבֶת
+    gloss: a flare of fire {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
   - strongs: H7120
-    proximity: 0.8056
+    lemma: קֹר
+    gloss: cold {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H2152
-    proximity: 0.7921
+    lemma: זַלְעָפָה
+    gloss: a glow {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
   - strongs: H2750
-    proximity: 0.7718
+    lemma: חֳרִי
+    gloss: a burning  anger {openscriptures-strongs}
+    proximity: 0.7718 {macula-proximity}
   - strongs: H2525
-    proximity: 0.7609
+    lemma: חָם
+    gloss: hot {openscriptures-strongs}
+    proximity: 0.7609 {macula-proximity}
   - strongs: H2535
-    proximity: 0.7012
+    lemma: חַמָּה
+    gloss: heat {openscriptures-strongs}
+    proximity: 0.7012 {macula-proximity}
   cross_language:
   - strongs: G2741
-    proximity: 0.8287
+    lemma: καυσόω
+    gloss: to set on fire {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G2206a
-    proximity: 0.8227
+    proximity: 0.8227 {macula-proximity}
     language: greek
   - strongs: G3314
-    proximity: 0.7379
+    lemma: μεσημβρία
+    gloss: midday {openscriptures-strongs}
+    proximity: 0.7379 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

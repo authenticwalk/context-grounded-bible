@@ -5,56 +5,62 @@ transliteration: geṓrgion
 definition: cultivable, i.e. a farm
 kjv_usage: husbandry
 derivation: neuter of a (presumed) derivative of G1092 (γεωργός);
-extended_definition:
-  gloss: farm field
-  definition: '<b>γεώργιον</b>, -ου, τό <BR /> (γεωργός), [in LXX, frequently in Pr.,
-    for שָׂדֶה, etc. ;] <BR /> __1. <b>a field</b> (<ref=''Pro.24.5, 30''>Pro.24:5,
-    30</ref>, Strabo). <BR /> __2. <b>cultivation, husbandry, tillage</b> (<ref=''Pro.6.7;
-    9.12''>Pro.6:7 9:12</ref>, <ref=''Jer.28.23''>Jer.28:23</ref>, <ref=''Sir.27.6''>Sir.27:6</ref>):
-    <ref=''1Co.3.9''>1Co.3:9</ref>.<BR />† (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> γεώργ-ιον</b>, τό, <br /> <b>field</b>, [<a href="javascript:void(0)"
-    title=" 3rd-2nd c.BC: Philo Mechanicus “(Belopoeica) Excerpte aus Philons Mechanik
-    - Ath. Berl. Akad.” 96.49 (_plural_), Theagenes Historicus 17 (_plural_), “BGU”
-    1092.10 (4th c.AD)">Refs 3rd c.BC+</a>]; <b>orchard</b>, [<a href="javascript:void(0)"
-    title=" 1st c.BC-1st c.AD: Strabo Geographus 14.5.6: _metaphorically_, Θεοῦ γ.
-    NT.1Cor.3.9. ">NT+1st c.BC+</a>]<br /><Level2><b>__II</b></Level2> <b>husbandry</b>,
-    [<a href="javascript:void(0)" title=" LXX.Sir.27.6. ">LXX</a>]<br /><Level2><b>__III</b></Level2>
-    <b>crop</b>,[<a href="javascript:void(0)" title="LXX.Pro.24.5. ">LXX</a>]<br /><Level2><b>__IV</b></Level2>
-    in <i>plural</i>, <b>tax</b> on land, uncertain in [<a href="javascript:void(0)"
-    title=" “SIG” 311.9 (Lagina, 4th c.BC). ">Refs 4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'γεώργιον, -ου, τό
+
+  (γεωργός), [in LXX, frequently in Pr., for שָׂדֶה, etc. ;]
+
+  __1. a field (Pro.24:5, 30, Strabo).
+
+  __2. cultivation, husbandry, tillage (Pro.6:7 9:12, Jer.28:23, Sir.27:6): 1Co.3:9.
+
+  † (AS) {STEPBible-TBESG}'
+etymology: 'γεώργ-ιον, τό,
+
+  field, [Refs 3rd c.BC+]; orchard, [NT+1st c.BC+]
+
+  __II husbandry, [LXX]
+
+  __III crop,[LXX]
+
+  __IV in plural, tax on land, uncertain in [Refs 4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1090
-    proximity: 0.8194
+    lemma: γεωργέω
+    gloss: to till {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: G1093
-    proximity: 0.8156
+    lemma: γῆ
+    gloss: soil {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
   - strongs: G63
-    proximity: 0.7945
+    proximity: 0.7945 {macula-proximity}
   - strongs: G4702
-    proximity: 0.7889
+    lemma: σπόριμος
+    gloss: sown {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
   cross_language:
   - strongs: H1367
-    proximity: 0.8254
+    lemma: גְּבוּלָה
+    gloss: a boundary {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: hebrew
   - strongs: H2506
-    proximity: 0.8221
+    lemma: חֵלֶק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
     language: hebrew
   - strongs: H5647
-    proximity: 0.8191
+    lemma: עָבַד
+    gloss: to work {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
     language: hebrew
   - strongs: H3733a
-    proximity: 0.8189
+    proximity: 0.8189 {macula-proximity}
     language: hebrew
   - strongs: H4420
-    proximity: 0.8164
+    lemma: מְלֵחָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,39 +6,43 @@ pronunciation: naf-tool'
 definition: properly, wrestled; but used (in the plural) transitively, a struggle
 kjv_usage: wrestling.
 derivation: from H6617 (פָּתַל);
-extended_definition:
-  gloss: wrestling
-  definition: wrestlings
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: wrestlings {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7378
-    proximity: 0.8044
+    lemma: רִיב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
   - strongs: H4808
-    proximity: 0.7924
+    lemma: מְרִיבָה
+    gloss: quarrel {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
   - strongs: H7379
-    proximity: 0.771
+    lemma: רִיב
+    gloss: a contest {openscriptures-strongs}
+    proximity: 0.771 {macula-proximity}
   - strongs: H8280
-    proximity: 0.7342
+    lemma: שָׂרָה
+    gloss: to prevail {openscriptures-strongs}
+    proximity: 0.7342 {macula-proximity}
   cross_language:
   - strongs: G3163
-    proximity: 0.7972
+    lemma: μάχη
+    gloss: a battle {openscriptures-strongs}
+    proximity: 0.7972 {macula-proximity}
     language: greek
   - strongs: G269
-    proximity: 0.7859
+    proximity: 0.7859 {macula-proximity}
     language: greek
   - strongs: G73
-    proximity: 0.7785
+    proximity: 0.7785 {macula-proximity}
     language: greek
   - strongs: G3164
-    proximity: 0.7692
+    lemma: μάχομαι
+    gloss: to war {openscriptures-strongs}
+    proximity: 0.7692 {macula-proximity}
     language: greek
   - strongs: G119
-    proximity: 0.7179
+    proximity: 0.7179 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

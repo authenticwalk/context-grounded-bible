@@ -5,60 +5,61 @@ transliteration: exischýō
 definition: to have full strength, i.e. be entirely competent
 kjv_usage: be able
 derivation: from G1537 (ἐκ) and G2480 (ἰσχύω);
-extended_definition:
-  gloss: to have power
-  definition: '<b>ἐξ-ισχύω </b><BR /> [in LXX: <ref=''Sir.7.6''>Sir.7:6</ref> * ;]
-    <BR /><b>to have strength enough, to be quite able</b>: with inf., <ref=''Eph.3.18.''>Eph.3:18.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐξισχύω</b> [ῡ], <br /> <b>have strength enough, be able,</b>
-    ὥστε ποιεῖν [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus
-    17.1.3 ">Refs 1st c.BC+</a>]: with <i>infinitive</i> only, [<a href="javascript:void(0)"
-    title=" LXX.Sir.7.6, NT.Eph.3.18, 1st c.AD: Josephus Historicus “Bellum Judaicum”
-    1.23.2 ">LXX+NT+1st c.AD+</a>]; ἐξίσχυσεν τὰ βιβλείδια ἀθετηθῆναι <b>procured</b>
-    the rejection of the petition, [<a href="javascript:void(0)" title=" “POxy.” 1120.7
-    (3rd c.AD)">Refs 3rd c.AD+</a>]: <i>absolutely</i>, <b>prevail,</b> [<a href="javascript:void(0)"
-    title=" 1st c.BC-1st c.AD: Strabo Geographus 16.1.15, 4th c.AD: Julianus Imperator
-    “Orationes” 5.160c; ἐξισχῦσαι καὶ κρατῆσαι τῶν πολλῶν 1st-2nd c.AD: Plutarchus
-    Biographus et Philosophus 2.801e. ">Refs 1st c.BC+</a>]<br /><Level2><b>__II</b></Level2>
-    with <i>genitive</i>, τὸ δαιμόνιον παίδων ἐξισχῦον fate <b>prevailing over</b>
-    the children, [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Aelianus “Varia
-    Historia” 6.13, compare 7th c.AD: Stephanus Medicus “in Hp.” 1.71D. ">Refs 2nd
-    c.AD+</a>]<br /><Level2><b>__III</b></Level2> <i>middle</i>, of flames, <b>gather
-    force,</b> [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Theophrastus Philosophus
-    “de Igne” 71. ">Refs 4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐξ-ισχύω
+
+  [in LXX: Sir.7:6 * ;]
+
+  to have strength enough, to be quite able: with inf., Eph.3:18.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐξισχύω [ῡ],
+
+  have strength enough, be able, ὥστε ποιεῖν [Refs 1st c.BC+]: with infinitive only,
+  [LXX+NT+1st c.AD+]; ἐξίσχυσεν τὰ βιβλείδια ἀθετηθῆναι procured the rejection of
+  the petition, [Refs 3rd c.AD+]: absolutely, prevail, [Refs 1st c.BC+]
+
+  __II with genitive, τὸ δαιμόνιον παίδων ἐξισχῦον fate prevailing over the children,
+  [Refs 2nd c.AD+]
+
+  __III middle, of flames, gather force, [Refs 4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2480
-    proximity: 0.8292
+    lemma: ἰσχύω
+    gloss: to have  force {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: A8632
-    proximity: 0.8197
+    proximity: 0.8197 {macula-proximity}
   - strongs: G2904
-    proximity: 0.8163
+    lemma: κράτος
+    gloss: vigor {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
   - strongs: G2159
-    proximity: 0.816
+    lemma: εὐτόνως
+    gloss: in a well-strung manner {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
   cross_language:
   - strongs: H6109
-    proximity: 0.8296
+    lemma: עׇצְמָה
+    gloss: powerfulness {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: hebrew
   - strongs: H7980
-    proximity: 0.8268
+    lemma: שָׁלַט
+    gloss: to dominate {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: hebrew
   - strongs: H2428
-    proximity: 0.8243
+    lemma: חַיִל
+    gloss: probably a force {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: hebrew
   - strongs: H650a
-    proximity: 0.822
+    proximity: 0.822 {macula-proximity}
     language: hebrew
   - strongs: H2389
-    proximity: 0.8143
+    lemma: חָזָק
+    gloss: strong (usu. in a bad sense {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

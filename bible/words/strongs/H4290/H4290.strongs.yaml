@@ -6,37 +6,41 @@ pronunciation: makh-teh'-reth
 definition: a burglary; figuratively, unexpected examination
 kjv_usage: breaking up, secret search.
 derivation: from H2864 (חָתַר);
-extended_definition:
-  gloss: breaking
-  definition: a breaking in, burglary
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: a breaking in, burglary {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H871a
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
   - strongs: H6556
-    proximity: 0.8137
+    lemma: פֶּרֶץ
+    gloss: a break {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   - strongs: H2356
-    proximity: 0.7916
+    lemma: חוֹר
+    gloss: a cavity {openscriptures-strongs}
+    proximity: 0.7916 {macula-proximity}
   cross_language:
   - strongs: G1888a
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G2622
-    proximity: 0.8229
+    lemma: κατακλάω
+    gloss: to break down {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G2800
-    proximity: 0.8229
+    lemma: κλάσις
+    gloss: fracture {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G2806
-    proximity: 0.8153
+    lemma: κλάω
+    gloss: to break (specially {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
     language: greek
   - strongs: G2532
-    proximity: 0.8153
+    lemma: καί
+    gloss: and {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

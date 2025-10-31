@@ -5,40 +5,43 @@ transliteration: kōmópolis
 definition: an unwalled city
 kjv_usage: town
 derivation: from G2968 (κώμη) and G4172 (πόλις);
-extended_definition:
-  gloss: village
-  definition: '<b>κωμόπολις</b>, -εως, ἡ <BR /> <b>a country town</b>: <ref=''Mrk.1.38''>Mrk.1:38</ref>
-    (see Swete, in l).†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κωμό-πολις</b>, εως, ἡ, <br /> <b>village-town</b>, i.e. a
-    place not entitled to be called a πόλις, [<a href="javascript:void(0)" title="
-    1st c.BC-1st c.AD: Strabo Geographus 12.2.6, +others, NT.Mark.1.38. ">NT+1st c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κωμόπολις, -εως, ἡ
+
+  a country town: Mrk.1:38 (see Swete, in l).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κωμό-πολις, εως, ἡ,
+
+  village-town, i.e. a place not entitled to be called a πόλις, [NT+1st c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G68
-    proximity: 0.7486
+    proximity: 0.7486 {macula-proximity}
   cross_language:
   - strongs: H7704
-    proximity: 0.8226
+    lemma: שָׂדֶה
+    gloss: a field {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
     language: hebrew
   - strongs: H6519
-    proximity: 0.7647
+    lemma: פְּרָזָה
+    gloss: an open country {openscriptures-strongs}
+    proximity: 0.7647 {macula-proximity}
     language: hebrew
   - strongs: H5892
-    proximity: 0.7443
+    lemma: עִיר
+    gloss: a city  in the widest sense {openscriptures-strongs}
+    proximity: 0.7443 {macula-proximity}
     language: hebrew
   - strongs: H2333
-    proximity: 0.7363
+    lemma: חַוָּה
+    gloss: by implication {openscriptures-strongs}
+    proximity: 0.7363 {macula-proximity}
     language: hebrew
   - strongs: H1323
-    proximity: 0.7133
+    lemma: בַּת
+    gloss: a daughter (used in the same wide sense as other terms of relationship
+      {openscriptures-strongs}
+    proximity: 0.7133 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

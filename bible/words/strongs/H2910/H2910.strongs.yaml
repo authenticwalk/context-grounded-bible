@@ -7,39 +7,47 @@ definition: (in the plural only) the kidneys (as being covered); hence (figurati
   the inmost thought
 kjv_usage: inward parts.
 derivation: from H2909 (טָחָה) (or H2902 (טוּחַ)) in the sense of overlaying;
-extended_definition:
-  gloss: inner parts
-  definition: inner regions, hidden recesses, inward parts
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: inner regions, hidden recesses, inward parts {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1687
-    proximity: 0.8267
+    lemma: דְּבִיר
+    gloss: the shrine or innermost part of the sanctuary {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
   - strongs: H165
-    proximity: 0.8134
+    proximity: 0.8134 {macula-proximity}
   - strongs: H2315
-    proximity: 0.8056
+    lemma: חֶדֶר
+    gloss: an apartment {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H7130
-    proximity: 0.7928
+    lemma: קֶרֶב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7928 {macula-proximity}
   cross_language:
   - strongs: G2546
-    proximity: 0.8293
+    lemma: κἀκεῖ
+    gloss: likewise in that place {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G4698
-    proximity: 0.8279
+    lemma: σπλάγχνον
+    gloss: an intestine {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G5009
-    proximity: 0.8257
+    lemma: ταμεῖον
+    gloss: akin to {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G2076
-    proximity: 0.8202
+    lemma: ἐστί
+    gloss: he  is {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
     language: greek
   - strongs: G2077
-    proximity: 0.8191
+    lemma: ἔστω
+    gloss: be thou {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

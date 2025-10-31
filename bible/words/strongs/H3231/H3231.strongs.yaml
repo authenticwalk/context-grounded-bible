@@ -7,52 +7,66 @@ definition: to be right-handed or take the right-hand side
 kjv_usage: go (turn) to (on, use) the right hand.
 derivation: a primitive root; to be (physically) right (i.e. firm); but used only
   as denominative from H3225 (יָמִין) and transitive,
-extended_definition:
-  gloss: to go right
-  definition: '(Hiphil) to choose the right, go to the right, use the right hand,
-    be right handed<BR>Also means: <i>a.man</i> (אָמַן "to turn right" H0541)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '(Hiphil) to choose the right, go to the right, use the right
+  hand, be right handed
+
+  Also means: a.man (אָמַן "to turn right" H0541) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3709
-    proximity: 0.8279
+    lemma: כַּף
+    gloss: the hollow hand or palm (so of the paw of an animal {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: H7750
-    proximity: 0.8229
+    lemma: שׂוּט
+    gloss: to detrude {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8176
+    proximity: 0.8176 {macula-proximity}
   - strongs: H7847
-    proximity: 0.8135
+    lemma: שָׂטָה
+    gloss: to deviate from duty {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: H413
-    proximity: 0.8005
+    proximity: 0.8005 {macula-proximity}
   - strongs: H6437
-    proximity: 0.7978
+    lemma: פָּנָה
+    gloss: to turn {openscriptures-strongs}
+    proximity: 0.7978 {macula-proximity}
   - strongs: H2651
-    proximity: 0.7823
+    lemma: חֹפֶן
+    gloss: a fist {openscriptures-strongs}
+    proximity: 0.7823 {macula-proximity}
   - strongs: A3028
-    proximity: 0.7805
+    proximity: 0.7805 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.7765
+    proximity: 0.7765 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7501
+    proximity: 0.7501 {macula-proximity}
   cross_language:
   - strongs: G3588
-    proximity: 0.8161
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
     language: greek
   - strongs: G1994
-    proximity: 0.8063
+    lemma: ἐπιστρέφω
+    gloss: to revert (literally {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
     language: greek
   - strongs: G1624
-    proximity: 0.8061
+    lemma: ἐκτρέπω
+    gloss: to deflect {openscriptures-strongs}
+    proximity: 0.8061 {macula-proximity}
     language: greek
   - strongs: G4762
-    proximity: 0.7832
+    lemma: στρέφω
+    gloss: to twist {openscriptures-strongs}
+    proximity: 0.7832 {macula-proximity}
     language: greek
   - strongs: G5495
-    proximity: 0.7267
+    lemma: χείρ
+    gloss: the hand {openscriptures-strongs}
+    proximity: 0.7267 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

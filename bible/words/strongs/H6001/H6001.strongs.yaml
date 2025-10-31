@@ -9,36 +9,57 @@ derivation: from H5998 (עָמַל);
 related_words:
   synonyms:
   - strongs: H5999
-    proximity: 0.8289
+    lemma: עָמָל
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H7938
-    proximity: 0.8287
+    lemma: שֶׂכֶר
+    gloss: wages {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H4399
-    proximity: 0.8207
+    lemma: מְלָאכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H4522
-    proximity: 0.8171
+    lemma: מַס
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: H6040
-    proximity: 0.7986
+    lemma: עֳנִי
+    gloss: depression {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
   - strongs: H5998
-    proximity: 0.7577
+    lemma: עָמַל
+    gloss: to toil {openscriptures-strongs}
+    proximity: 0.7577 {macula-proximity}
   - strongs: H6092
-    proximity: 0.7476
+    lemma: עָצֵב
+    gloss: a  workman {openscriptures-strongs}
+    proximity: 0.7476 {macula-proximity}
   cross_language:
   - strongs: G3804
-    proximity: 0.8261
+    lemma: πάθημα
+    gloss: something undergone {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: greek
   - strongs: G2552
-    proximity: 0.8239
+    lemma: κακοπάθεια
+    gloss: hardship {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G5079
-    proximity: 0.8094
+    lemma: τεχνίτης
+    gloss: an artisan {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
     language: greek
   - strongs: G5004
-    proximity: 0.7924
+    lemma: ταλαιπωρία
+    gloss: wretchedness {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
     language: greek
   - strongs: G2872
-    proximity: 0.7617
+    lemma: κοπιάω
+    gloss: to feel fatigue {openscriptures-strongs}
+    proximity: 0.7617 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,47 +6,53 @@ pronunciation: rah-av-aw'
 definition: sight, i.e. satisfaction
 kjv_usage: behold.
 derivation: from H7200 (רָאָה);
-extended_definition:
-  gloss: to behold
-  definition: to behold
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: to behold {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A2379
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
   - strongs: A2370
-    proximity: 0.821
+    proximity: 0.821 {macula-proximity}
   - strongs: H2005
-    proximity: 0.8157
+    lemma: הֵן
+    gloss: lo! {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: A3900
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
   - strongs: H2372
-    proximity: 0.8011
+    lemma: חָזָה
+    gloss: to gaze at {openscriptures-strongs}
+    proximity: 0.8011 {macula-proximity}
   - strongs: H3740
-    proximity: 0.7976
+    lemma: כֵּרָה
+    gloss: a purchase {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: H7210
-    proximity: 0.7908
+    lemma: רֳאִי
+    gloss: sight {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
   - strongs: A431
-    proximity: 0.7726
+    proximity: 0.7726 {macula-proximity}
   cross_language:
   - strongs: G308
-    proximity: 0.8223
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G826
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
     language: greek
   - strongs: G1227
-    proximity: 0.8002
+    lemma: διαβλέπω
+    gloss: to look through {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
     language: greek
   - strongs: G4308
-    proximity: 0.7994
+    lemma: προοράω
+    gloss: to behold in advance {openscriptures-strongs}
+    proximity: 0.7994 {macula-proximity}
     language: greek
   - strongs: G1859
-    proximity: 0.7913
+    lemma: ἑορτή
+    gloss: a festival {openscriptures-strongs}
+    proximity: 0.7913 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

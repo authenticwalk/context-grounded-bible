@@ -6,27 +6,27 @@ pronunciation: kar-mele'
 definition: carmine, a deep red
 kjv_usage: crimson.
 derivation: probably of foreign origin;
-extended_definition:
-  gloss: crimson
-  definition: crimson, red, carmine
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: crimson, red, carmine {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8529
-    proximity: 0.8229
+    lemma: תָּלַע
+    gloss: to crimson {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: H8350
-    proximity: 0.8135
+    lemma: שָׁשַׁר
+    gloss: red ochre {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: H122
-    proximity: 0.7809
+    proximity: 0.7809 {macula-proximity}
   - strongs: H8504
-    proximity: 0.7596
+    lemma: תְּכֵלֶת
+    gloss: the cerulean mussel {openscriptures-strongs}
+    proximity: 0.7596 {macula-proximity}
   cross_language:
   - strongs: G4450
-    proximity: 0.825
+    lemma: πυῤῥός
+    gloss: fire-like {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

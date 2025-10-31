@@ -6,45 +6,55 @@ pronunciation: tsakh
 definition: dazzling, i.e. sunny, bright, (figuratively) evident
 kjv_usage: clear, dry, plainly, white.
 derivation: from H6705 (צָחַח);
-extended_definition:
-  gloss: dazzling
-  definition: dazzling, glowing, clear, bright
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: dazzling, glowing, clear, bright {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3836
-    proximity: 0.8067
+    lemma: לָבָן
+    gloss: white {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   - strongs: H4950
-    proximity: 0.7965
+    lemma: מִשְׁקָע
+    gloss: a settling place {openscriptures-strongs}
+    proximity: 0.7965 {macula-proximity}
   - strongs: H8273
-    proximity: 0.7939
+    lemma: שָׁרָב
+    gloss: quivering glow {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
   - strongs: H8365
-    proximity: 0.7853
+    lemma: שָׁתַם
+    gloss: to unveil {openscriptures-strongs}
+    proximity: 0.7853 {macula-proximity}
   - strongs: H2152
-    proximity: 0.769
+    lemma: זַלְעָפָה
+    gloss: a glow {openscriptures-strongs}
+    proximity: 0.769 {macula-proximity}
   - strongs: H6567
-    proximity: 0.7541
+    lemma: פָּרָשׁ
+    gloss: to separate {openscriptures-strongs}
+    proximity: 0.7541 {macula-proximity}
   - strongs: H7711a
-    proximity: 0.732
+    proximity: 0.732 {macula-proximity}
   cross_language:
   - strongs: G1227
-    proximity: 0.8284
+    lemma: διαβλέπω
+    gloss: to look through {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: greek
   - strongs: G2529
-    proximity: 0.8206
+    lemma: καθοράω
+    gloss: to behold fully {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G5320
-    proximity: 0.7828
+    lemma: φανερῶς
+    gloss: plainly {openscriptures-strongs}
+    proximity: 0.7828 {macula-proximity}
     language: greek
   - strongs: G82
-    proximity: 0.7824
+    proximity: 0.7824 {macula-proximity}
     language: greek
   - strongs: G957
-    proximity: 0.7678
+    proximity: 0.7678 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

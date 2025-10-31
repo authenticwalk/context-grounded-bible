@@ -7,49 +7,67 @@ definition: to disbranch (a tree)
 kjv_usage: top.
 derivation: a primitive root; properly, to divide up; but used only as denominative
   from H5585 (סָעִיף),
-extended_definition:
-  gloss: to lop
-  definition: (Piel) to cut off, lop off boughs
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Piel) to cut off, lop off boughs {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3381
-    proximity: 0.8298
+    lemma: יָרַד
+    gloss: to descend (literally {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: H7112
-    proximity: 0.8252
+    lemma: קָצַץ
+    gloss: to chop off {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
   - strongs: H6585
-    proximity: 0.8251
+    lemma: פָּשַׂע
+    gloss: to stride {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H7096
-    proximity: 0.8205
+    lemma: קָצָה
+    gloss: to cut off {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: H6998
-    proximity: 0.8164
+    lemma: קָטַף
+    gloss: to strip off {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
   - strongs: H1933
-    proximity: 0.8151
+    lemma: הָוָא
+    gloss: to be {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
   - strongs: H1438
-    proximity: 0.8124
+    lemma: גָּדַע
+    gloss: to fell a tree {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: H2404
-    proximity: 0.8008
+    lemma: חָטַב
+    gloss: to chop or carve wood {openscriptures-strongs}
+    proximity: 0.8008 {macula-proximity}
   - strongs: H7995
-    proximity: 0.7654
+    lemma: שַׁלֶּכֶת
+    gloss: a felling {openscriptures-strongs}
+    proximity: 0.7654 {macula-proximity}
   cross_language:
   - strongs: G1562
-    proximity: 0.8275
+    lemma: ἐκδύω
+    gloss: to cause to sink out of {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
     language: greek
   - strongs: G2597
-    proximity: 0.8249
+    lemma: καταβαίνω
+    gloss: to descend {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: greek
   - strongs: G1621
-    proximity: 0.824
+    lemma: ἐκτινάσσω
+    gloss: to shake violently {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: greek
   - strongs: G631
-    proximity: 0.8094
+    proximity: 0.8094 {macula-proximity}
     language: greek
   - strongs: G1575
-    proximity: 0.7917
+    lemma: ἐκκλάω
+    gloss: to exscind {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

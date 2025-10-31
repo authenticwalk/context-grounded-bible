@@ -6,22 +6,23 @@ pronunciation: bayth sheh'-mesh
 definition: Beth-Shemesh, a place in Palestine
 kjv_usage: Beth-shemesh.
 derivation: from H1004 (בַּיִת) and H8121 (שֶׁמֶשׁ); house of (the) sun;
-extended_definition:
-  gloss: Heliopolis
-  definition: Beth-shemesh = "house of the sun" or "sun-temple"<br>  a town in Egypt<BR>Another
-    name of <i>on</i> (אֹן "On" H0204)
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: 'Beth-shemesh = "house of the sun" or "sun-temple"
+
+  a town in Egypt
+
+  Another name of on (אֹן "On" H0204) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1008
-    proximity: 0.8136
+    lemma: בֵּית־אֵל
+    gloss: Beth-El {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: H1029
-    proximity: 0.8116
+    lemma: בֵּית הַשִּׁטָּה
+    gloss: Beth-hash-Shittah {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   - strongs: H5885
-    proximity: 0.7739
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: עֵין שֶׁמֶשׁ
+    gloss: En-Shemesh {openscriptures-strongs}
+    proximity: 0.7739 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

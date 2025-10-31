@@ -5,41 +5,42 @@ transliteration: Gáza
 definition: Gazah (i.e. Azzah), a place in Palestine
 kjv_usage: Gaza
 derivation: of Hebrew origin (H05804);
-extended_definition:
-  gloss: Gaza
-  definition: '<b>Γάζα -ης</b>, ἡ (Heb. עַזָּה), <BR /> <b>Gaza</b>, in OT, one of
-    the five chief cities of the Philistines: <ref=''Act.8.26.''>Act.8:26.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Γάζα -ης</b>, ἡ (Heb. עַזָּה), <BR /> <b>Gaza</b>, in OT, one
-    of the five chief cities of the Philistines: <ref=''Act.8.26.''>Act.8:26.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Γάζα -ης, ἡ (Heb. עַזָּה),
+
+  Gaza, in OT, one of the five chief cities of the Philistines: Act.8:26.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Γάζα -ης, ἡ (Heb. עַזָּה),
+
+  Gaza, in OT, one of the five chief cities of the Philistines: Act.8:26.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2466a
-    proximity: 0.7961
+    proximity: 0.7961 {macula-proximity}
   cross_language:
   - strongs: H7634a
-    proximity: 0.8218
+    proximity: 0.8218 {macula-proximity}
     language: hebrew
   - strongs: H4316
-    proximity: 0.8194
+    lemma: מִיכָא
+    gloss: Mica {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: hebrew
   - strongs: H1661
-    proximity: 0.8194
+    lemma: גַּת
+    gloss: Gath {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: hebrew
   - strongs: H3625
-    proximity: 0.8194
+    lemma: כֶּלַח
+    gloss: Kelach {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: hebrew
   - strongs: H5527
-    proximity: 0.8145
+    lemma: סְכָכָה
+    gloss: Secacah {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

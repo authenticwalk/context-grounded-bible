@@ -6,41 +6,49 @@ pronunciation: hay
 definition: lo!
 kjv_usage: behold, lo.
 derivation: a primitive particle;
-extended_definition:
-  gloss: behold
-  definition: behold!, lo!
-  morphology: H:Intj
-  source: STEPBible/BDB
+extended_definition: behold!, lo! {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3588
-    proximity: 0.805
+    lemma: כִּי
+    gloss: very widely used as a relative conjunction or adverb {openscriptures-strongs}
+    proximity: 0.805 {macula-proximity}
   - strongs: H2009
-    proximity: 0.7839
+    lemma: הִנֵּה
+    gloss: lo! {openscriptures-strongs}
+    proximity: 0.7839 {macula-proximity}
   - strongs: H637
-    proximity: 0.7796
+    proximity: 0.7796 {macula-proximity}
   - strongs: H2005
-    proximity: 0.7534
+    lemma: הֵן
+    gloss: lo! {openscriptures-strongs}
+    proximity: 0.7534 {macula-proximity}
   - strongs: H389
-    proximity: 0.7131
+    proximity: 0.7131 {macula-proximity}
   cross_language:
   - strongs: G1063
-    proximity: 0.8265
+    lemma: γάρ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
     language: greek
   - strongs: G5602
-    proximity: 0.8078
+    lemma: ὧδε
+    gloss: in this same spot {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
     language: greek
   - strongs: G1759
-    proximity: 0.8057
+    lemma: ἐνθάδε
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
     language: greek
   - strongs: G2573
-    proximity: 0.7968
+    lemma: καλῶς
+    gloss: well {openscriptures-strongs}
+    proximity: 0.7968 {macula-proximity}
     language: greek
   - strongs: G2396
-    proximity: 0.7869
+    lemma: ἴδε
+    gloss: used as an interjection to denote surprise {openscriptures-strongs}
+    proximity: 0.7869 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

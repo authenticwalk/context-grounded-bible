@@ -14,36 +14,49 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H2342b
-    proximity: 0.8295
+    proximity: 0.8295 {macula-proximity}
   - strongs: H1652
-    proximity: 0.8292
+    lemma: גָּשַׁם
+    gloss: to shower violently {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: H5258
-    proximity: 0.8255
+    lemma: נָסַךְ
+    gloss: to pour out {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: H4152
-    proximity: 0.8243
+    lemma: מוּעָדָה
+    gloss: an appointed place {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: H6437
-    proximity: 0.8162
+    lemma: פָּנָה
+    gloss: to turn {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H631
-    proximity: 0.8124
+    proximity: 0.8124 {macula-proximity}
   - strongs: H571
-    proximity: 0.81
+    proximity: 0.81 {macula-proximity}
   cross_language:
   - strongs: G4342
-    proximity: 0.8269
+    lemma: προσκαρτερέω
+    gloss: to be earnest towards {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
     language: greek
   - strongs: G1217
-    proximity: 0.824
+    lemma: δημιουργός
+    gloss: a worker for the people {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: greek
   - strongs: G532
-    proximity: 0.8228
+    proximity: 0.8228 {macula-proximity}
     language: greek
   - strongs: G2594
-    proximity: 0.8225
+    lemma: καρτερέω
+    gloss: to be strong {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
   - strongs: G4731
-    proximity: 0.8214
+    lemma: στερεός
+    gloss: stiff {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,46 +6,69 @@ pronunciation: maw-tar'
 definition: to rain
 kjv_usage: (cause to) rain (upon).
 derivation: a primitive root;
-extended_definition:
-  gloss: to rain
-  definition: 1) to rain<br>1a) (Niphal) to be rained on or upon<br>1b) (Hiphil)<br>1b1)
-    to rain, send rain<br>1b2) to rain hail, send hail
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to rain
+
+  1a) (Niphal) to be rained on or upon
+
+  1b) (Hiphil)
+
+  1b1) to rain, send rain
+
+  1b2) to rain hail, send hail {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1258
-    proximity: 0.8273
+    lemma: בָּרַד
+    gloss: to hail {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
   - strongs: H7971
-    proximity: 0.8255
+    lemma: שָׁלַח
+    gloss: to send away {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: H2230
-    proximity: 0.8161
+    lemma: זֶרֶם
+    gloss: a gush of water {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H4456
-    proximity: 0.8145
+    lemma: מַלְקוֹשׁ
+    gloss: the spring rain {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
   - strongs: H7950
-    proximity: 0.8139
+    lemma: שֶׁלֶג
+    gloss: snow {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H5140
-    proximity: 0.7932
+    lemma: נָזַל
+    gloss: to drip {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
   - strongs: H5311
-    proximity: 0.7903
+    lemma: נֶפֶץ
+    gloss: a storm {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
   - strongs: H3138
-    proximity: 0.7903
+    lemma: יוֹרֶה
+    gloss: sprinkling {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
   - strongs: H4175a
-    proximity: 0.7793
+    proximity: 0.7793 {macula-proximity}
   - strongs: H8164
-    proximity: 0.7773
+    lemma: שָׂעִיר
+    gloss: a shower {openscriptures-strongs}
+    proximity: 0.7773 {macula-proximity}
   cross_language:
   - strongs: G3797
-    proximity: 0.7771
+    lemma: ὄψιμος
+    gloss: later {openscriptures-strongs}
+    proximity: 0.7771 {macula-proximity}
     language: greek
   - strongs: G5204
-    proximity: 0.7702
+    lemma: ὕδωρ
+    gloss: water  literally or figuratively {openscriptures-strongs}
+    proximity: 0.7702 {macula-proximity}
     language: greek
   - strongs: G2597
-    proximity: 0.7671
+    lemma: καταβαίνω
+    gloss: to descend {openscriptures-strongs}
+    proximity: 0.7671 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

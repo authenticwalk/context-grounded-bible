@@ -5,59 +5,68 @@ transliteration: tessareskaidékatos
 definition: fourteenth
 kjv_usage: fourteenth
 derivation: from G5064 (τέσσαρες) and G2532 (καί) and G1182 (δέκατος);
-extended_definition:
-  gloss: fourteenth
-  definition: '<b>τεσσαρεσ-και-δέκατος</b>, -η, -ον <BR /> <b>fourteenth</b>: <ref=''Act.27.27,
-    33''>Act.27:27, 33</ref>.†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> τεσσᾰρεσκαιδέκᾰτος</b>, <br /> <i>Ionic dialect</i> <b>τεσσερ-</b>,
-    η, ον, <b>fourteenth</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus
-    Historicus 1.84, “PEleph.” 1.1 (4th c.BC), “SIG” 633.27 (Milet., 2nd c.BC), 2nd
-    c.AD: Soranus Medicus 1.20, etc.">Refs 5th c.BC+</a>]: also <b>τεσσᾰρασκαιδέκατος</b>,
-    [<a href="javascript:void(0)" title=" “JRS” 17.34 (Cyrene, 1st c.BC)">Refs 1st
-    c.BC+</a>]; <b>τεττ-</b>, [<a href="javascript:void(0)" title=" “Inscription Délos”
-    1408 A ii 12 (2nd c.BC)">Refs 2nd c.BC+</a>]; compare τεσσαρακαιδέκατος.'
-  source: STEPBible/LSJ
+extended_definition: 'τεσσαρεσ-και-δέκατος, -η, -ον
+
+  fourteenth: Act.27:27, 33.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'τεσσᾰρεσκαιδέκᾰτος,
+
+  Ionic dialect τεσσερ-, η, ον, fourteenth, [Refs 5th c.BC+]: also τεσσᾰρασκαιδέκατος,
+  [Refs 1st c.BC+]; τεττ-, [Refs 2nd c.BC+]; compare τεσσαρακαιδέκατος. {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3637
-    proximity: 0.8296
+    lemma: ὀκταήμερος
+    gloss: an eight-day old person or act {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: G1206
-    proximity: 0.8296
+    lemma: δευτεραῖος
+    gloss: secondary {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: G5063a
-    proximity: 0.7994
+    proximity: 0.7994 {macula-proximity}
   - strongs: G5062a
-    proximity: 0.7993
+    proximity: 0.7993 {macula-proximity}
   - strongs: G1428
-    proximity: 0.7971
+    lemma: δωδέκατος
+    gloss: twelfth {openscriptures-strongs}
+    proximity: 0.7971 {macula-proximity}
   - strongs: G4003
-    proximity: 0.7971
+    lemma: πεντεκαιδέκατος
+    gloss: five and tenth {openscriptures-strongs}
+    proximity: 0.7971 {macula-proximity}
   - strongs: G3589
-    proximity: 0.7951
+    lemma: ὀγδοήκοντα
+    gloss: ten times eight {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
   - strongs: G5067
-    proximity: 0.7855
+    lemma: τέταρτος
+    gloss: fourth {openscriptures-strongs}
+    proximity: 0.7855 {macula-proximity}
   - strongs: G5066
-    proximity: 0.7678
+    lemma: τεταρταῖος
+    gloss: pertaining to the fourth day {openscriptures-strongs}
+    proximity: 0.7678 {macula-proximity}
   - strongs: A7244
-    proximity: 0.7247
+    proximity: 0.7247 {macula-proximity}
   cross_language:
   - strongs: H7256
-    proximity: 0.825
+    lemma: רִבֵּעַ
+    gloss: a descendant of the fourth generation {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
     language: hebrew
   - strongs: H7243
-    proximity: 0.8129
+    lemma: רְבִיעִי
+    gloss: fourth {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
     language: hebrew
   - strongs: H8671
-    proximity: 0.8123
+    lemma: תְּשִׁיעִי
+    gloss: ninth {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
     language: hebrew
   - strongs: H705
-    proximity: 0.8084
+    proximity: 0.8084 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

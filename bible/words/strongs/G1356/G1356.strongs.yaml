@@ -5,56 +5,72 @@ transliteration: diopetḗs
 definition: sky-fallen (i.e. an aerolite)
 kjv_usage: which fell down from Jupiter
 derivation: from the alternate of G2203 (Ζεύς) and the alternate of G4098 (πίπτω);
-extended_definition:
-  gloss: fallen from heaven
-  definition: '<b>διοπετής</b> (written also διϊπ-), -ές <BR /> (δῖος, πίπτω, see
-    Page on Ac, l.with; <i>DB</i>, i, 605, n., <i>ext.</i>, 112a; Field, <i>Notes</i>,
-    130 f.), <BR /><b>fallen from heaven</b> (R, mg.): τὸ δ. (sc. ἄγαλμα, <b>statue</b>,
-    <b>image</b>), <ref=''Act.19.35.''>Act.19:35.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b>that fell from Zeus </b>, [<a href="javascript:void(0)" title="Euripides">Refs
-    5th c.BC</a>]  (Middle Liddel)
-  source: STEPBible/LSJ
+extended_definition: 'διοπετής (written also διϊπ-), -ές
+
+  (δῖος, πίπτω, see Page on Ac, l.with; DB, i, 605, n., ext., 112a; Field, Notes,
+  130 f.),
+
+  fallen from heaven (R, mg.): τὸ δ. (sc. ἄγαλμα, statue, image), Act.19:35.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: that fell from Zeus , [Refs 5th c.BC]  (Middle Liddel) {STEPBible-TFLSJ}
 related_words:
   synonyms:
   - strongs: G2546
-    proximity: 0.8245
+    lemma: κἀκεῖ
+    gloss: likewise in that place {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: G2667
-    proximity: 0.8238
+    lemma: καταπίπτω
+    gloss: to fall down {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: G2524
-    proximity: 0.8222
+    lemma: καθίημι
+    gloss: and {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: G3606
-    proximity: 0.8192
+    lemma: ὅθεν
+    gloss: from which place or source or cause {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: G5465
-    proximity: 0.8177
+    lemma: χαλάω
+    gloss: to lower {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
   - strongs: G1581
-    proximity: 0.8121
+    lemma: ἐκκόπτω
+    gloss: to exscind {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: G1563
-    proximity: 0.8095
+    lemma: ἐκεῖ
+    gloss: there {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
   - strongs: G1968
-    proximity: 0.8078
+    lemma: ἐπιπίπτω
+    gloss: to embrace  or seize (with more or less violence {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   - strongs: G575
-    proximity: 0.8017
+    proximity: 0.8017 {macula-proximity}
   - strongs: G2736
-    proximity: 0.7995
+    lemma: κάτω
+    gloss: downwards {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
   cross_language:
   - strongs: H4480
-    proximity: 0.8236
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
     language: hebrew
   - strongs: H834
-    proximity: 0.812
+    proximity: 0.812 {macula-proximity}
     language: hebrew
   - strongs: H8033
-    proximity: 0.8077
+    lemma: שָׁם
+    gloss: there  then {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
     language: hebrew
   - strongs: H5307
-    proximity: 0.8076
+    lemma: נָפַל
+    gloss: to fall {openscriptures-strongs}
+    proximity: 0.8076 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

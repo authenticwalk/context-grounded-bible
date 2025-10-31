@@ -5,50 +5,55 @@ transliteration: optasía
 definition: visuality, i.e. (concretely) an apparition
 kjv_usage: vision
 derivation: from a presumed derivative of G3700 (ὀπτάνομαι);
-extended_definition:
-  gloss: vision
-  definition: '<b>ὀπτασία</b>, -ας, ἡ<BR /> (ὀπτάζομαι, <ref=''Num.14.14''>Num.14:14</ref>*
-    = ὀπτάνομαι), later form of ὄψις, [in LXX: <ref=''Mal.3.2''>Mal.3:2</ref> (רָאָה
-    ni.), Da TH <ref=''Dan.9.23; 10.1, 7-8; 10.16''>Dan.9:23 10:1, 7-8 10:16</ref>
-    (מַרְאֶה, מַרְאָה LXX, ὅραμα, -σις), <ref=''Est.4.7''>Est.4:7</ref>, <ref=''Sir.43.2,
-    16''>Sir.43:2, 16</ref> * ;] <BR />__1. an appearing, coming into view (Ma, Es,
-    Sir, ll. with). <BR /> __2. <b>a vision</b>: <ref=''Luk.1.22; 24.23''>Luk.1:22
-    24:23</ref>, <ref=''Act.26.19''>Act.26:19</ref>, <ref=''2Co.12.1''>2Co.12:1</ref>
-    (Da, ll. with, also in M<i>Gr.</i>).†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὀπτᾰσία</b>, ἡ<br /> <br /><Level1><b>__A</b></Level1>, (ὀπτάζομαι)
-    <b>vision,</b> [<a href="javascript:void(0)" title=" Anthologia Graeca 6.210 codices
-    (4th-3rd c.BC: Philetas ">Refs 4th c.BC+</a>]; see at {ὁπλισία}), [<a href="javascript:void(0)"
-    title=" LXX.Est.4.17, NT.Luke.1.22 ">LXX+NT</a>]; simply, <b>appearance,</b> [<a
-    href="javascript:void(0)" title=" LXX.Mal.3.2, LXX.Sir.43.2. ">LXX</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ὀπτασία, -ας, ἡ
+
+  (ὀπτάζομαι, Num.14:14* = ὀπτάνομαι), later form of ὄψις, [in LXX: Mal.3:2 (רָאָה
+  ni.), Da TH Dan.9:23 10:1, 7-8 10:16 (מַרְאֶה, מַרְאָה LXX, ὅραμα, -σις), Est.4:7,
+  Sir.43:2, 16 * ;]
+
+  __1. an appearing, coming into view (Ma, Es, Sir, ll. with).
+
+  __2. a vision: Luk.1:22 24:23, Act.26:19, 2Co.12:1 (Da, ll. with, also in MGr.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὀπτᾰσία, ἡ
+
+  __A, (ὀπτάζομαι) vision, [Refs 4th c.BC+]; see at {ὁπλισία}), [LXX+NT]; simply,
+  appearance, [LXX] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2014
-    proximity: 0.8279
+    lemma: ἐπιφαίνω
+    gloss: to shine upon {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: G5316
-    proximity: 0.8221
+    lemma: φαίνω
+    gloss: to lighten {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: G398
-    proximity: 0.8184
+    proximity: 0.8184 {macula-proximity}
   - strongs: G1718
-    proximity: 0.8106
+    lemma: ἐμφανίζω
+    gloss: to exhibit  or disclose {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
   - strongs: G5321
-    proximity: 0.8068
+    lemma: φανέρωσις
+    gloss: exhibition {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
   - strongs: G602
-    proximity: 0.7659
+    proximity: 0.7659 {macula-proximity}
   - strongs: G5319
-    proximity: 0.7617
+    lemma: φανερόω
+    gloss: to render apparent {openscriptures-strongs}
+    proximity: 0.7617 {macula-proximity}
   - strongs: G5400
-    proximity: 0.701
+    lemma: φόβητρον
+    gloss: a frightening thing {openscriptures-strongs}
+    proximity: 0.701 {macula-proximity}
   cross_language:
   - strongs: H2372
-    proximity: 0.796
+    lemma: חָזָה
+    gloss: to gaze at {openscriptures-strongs}
+    proximity: 0.796 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

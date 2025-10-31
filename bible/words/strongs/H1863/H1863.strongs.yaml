@@ -6,32 +6,36 @@ pronunciation: dar-dar'
 definition: a thorn
 kjv_usage: thistle.
 derivation: of uncertain derivation;
-extended_definition:
-  gloss: thistle
-  definition: thistles, thorns
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: thistles, thorns {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2682
-    proximity: 0.8201
+    lemma: חָצִיר
+    gloss: grass {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: H5621
-    proximity: 0.7546
+    lemma: סָרָב
+    gloss: a thistle {openscriptures-strongs}
+    proximity: 0.7546 {macula-proximity}
   - strongs: H8068
-    proximity: 0.7192
+    lemma: שָׁמִיר
+    gloss: a thorn {openscriptures-strongs}
+    proximity: 0.7192 {macula-proximity}
   - strongs: H2312
-    proximity: 0.7176
+    lemma: חֵדֶק
+    gloss: a prickly plant {openscriptures-strongs}
+    proximity: 0.7176 {macula-proximity}
   - strongs: H1303
-    proximity: 0.7061
+    lemma: בַּרְקָן
+    gloss: a thorn {openscriptures-strongs}
+    proximity: 0.7061 {macula-proximity}
   cross_language:
   - strongs: G2215
-    proximity: 0.7963
+    lemma: ζιζάνιον
+    gloss: darnel or false grain {openscriptures-strongs}
+    proximity: 0.7963 {macula-proximity}
     language: greek
   - strongs: G942
-    proximity: 0.7672
+    proximity: 0.7672 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,50 +7,72 @@ definition: to crowd; also to gash (as if by pressing into)
 kjv_usage: assemble (selves by troops), gather (selves together, self in troops),
   cut selves.
 derivation: a primitive root (compare H1464 (גּוּד));
-extended_definition:
-  gloss: to cut
-  definition: '1) to penetrate, cut, attack, invade<br>1a) (Qal) to penetrate, cut
-    into<br>1b)(Hithpoel)<br>1b1) to cut oneself<br>1b2) to gather in troops or crowds<BR>Aramaic
-    equivalent: <i>ge.dad</i> (גְּדַד "to chop" H1414)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to penetrate, cut, attack, invade
+
+  1a) (Qal) to penetrate, cut into
+
+  1b)(Hithpoel)
+
+  1b1) to cut oneself
+
+  1b2) to gather in troops or crowds
+
+  Aramaic equivalent: ge.dad (גְּדַד "to chop" H1414) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5686
-    proximity: 0.8241
+    lemma: עָבַת
+    gloss: to interlace {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H2841
-    proximity: 0.81
+    lemma: חַשְׁרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
   - strongs: H4723a
-    proximity: 0.8091
+    proximity: 0.8091 {macula-proximity}
   - strongs: H3162
-    proximity: 0.7992
+    lemma: יַחַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7992 {macula-proximity}
   - strongs: H6899
-    proximity: 0.7924
+    lemma: קִבּוּץ
+    gloss: a throng {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
   - strongs: H5596
-    proximity: 0.7922
+    lemma: סָפַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7922 {macula-proximity}
   - strongs: H3162a
-    proximity: 0.7878
+    proximity: 0.7878 {macula-proximity}
   - strongs: H7722
-    proximity: 0.777
+    lemma: שׁוֹא
+    gloss: a tempest {openscriptures-strongs}
+    proximity: 0.777 {macula-proximity}
   - strongs: H622
-    proximity: 0.7595
+    proximity: 0.7595 {macula-proximity}
   - strongs: H3259
-    proximity: 0.7577
+    lemma: יָעַד
+    gloss: to fix upon {openscriptures-strongs}
+    proximity: 0.7577 {macula-proximity}
   cross_language:
   - strongs: G3831
-    proximity: 0.8219
+    lemma: πανήγυρις
+    gloss: a mass-meeting {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
     language: greek
   - strongs: G1865
-    proximity: 0.7976
+    lemma: ἐπαθροίζω
+    gloss: to accumulate {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
     language: greek
   - strongs: G4848
-    proximity: 0.7966
+    lemma: συμπορεύομαι
+    gloss: to journey together {openscriptures-strongs}
+    proximity: 0.7966 {macula-proximity}
     language: greek
   - strongs: G3075
-    proximity: 0.7425
+    lemma: λυμαίνομαι
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7425 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

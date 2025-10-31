@@ -6,47 +6,65 @@ pronunciation: bar
 definition: beloved; also pure, empty
 kjv_usage: choice, clean, clear, pure.
 derivation: from H1305 (בָּרַר) (in its various senses);
-extended_definition:
-  gloss: pure
-  definition: adj<br>1) pure, clear, sincere<br>2) clean, empty<br>adv<br>3) purely
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: 'adj
+
+  1) pure, clear, sincere
+
+  2) clean, empty
+
+  adv
+
+  3) purely {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6338
-    proximity: 0.8295
+    lemma: פָּזַז
+    gloss: to refine {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H2892a
-    proximity: 0.8149
+    proximity: 0.8149 {macula-proximity}
   - strongs: H8537
-    proximity: 0.8134
+    lemma: תֹּם
+    gloss: completeness {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
   - strongs: H4357
-    proximity: 0.8052
+    lemma: מִכְלָה
+    gloss: completion (in plural concrete adverbial {openscriptures-strongs}
+    proximity: 0.8052 {macula-proximity}
   - strongs: H8235
-    proximity: 0.783
+    lemma: שִׁפְרָה
+    gloss: brightness {openscriptures-strongs}
+    proximity: 0.783 {macula-proximity}
   - strongs: H925
-    proximity: 0.7819
+    proximity: 0.7819 {macula-proximity}
   - strongs: H216
-    proximity: 0.7755
+    proximity: 0.7755 {macula-proximity}
   - strongs: H6705
-    proximity: 0.772
+    lemma: צָחַח
+    gloss: to glare {openscriptures-strongs}
+    proximity: 0.772 {macula-proximity}
   cross_language:
   - strongs: G1245
-    proximity: 0.8284
+    lemma: διακαθαρίζω
+    gloss: to cleanse perfectly {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: greek
   - strongs: G573
-    proximity: 0.8214
+    proximity: 0.8214 {macula-proximity}
     language: greek
   - strongs: G2508
-    proximity: 0.8165
+    lemma: καθαίρω
+    gloss: to cleanse {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G4101
-    proximity: 0.8091
+    lemma: πιστικός
+    gloss: trustworthy {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
     language: greek
   - strongs: G2986
-    proximity: 0.7851
+    lemma: λαμπρός
+    gloss: radiant {openscriptures-strongs}
+    proximity: 0.7851 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

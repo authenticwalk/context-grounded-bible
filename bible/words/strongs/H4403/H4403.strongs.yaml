@@ -6,51 +6,71 @@ pronunciation: mal-boosh'
 definition: a garment, or (collectively) clothing
 kjv_usage: apparel, raiment, vestment.
 derivation: or מַלְבֻּשׁ; from H3847 (לָבַשׁ);
-extended_definition:
-  gloss: garment
-  definition: clothing, apparel, vestments, raiment, attire
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: clothing, apparel, vestments, raiment, attire {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5730
-    proximity: 0.8175
+    lemma: עֵדֶן
+    gloss: pleasure {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
   - strongs: H8162
-    proximity: 0.793
+    lemma: שַׁעַטְנֵז
+    gloss: linsey-woolsey {openscriptures-strongs}
+    proximity: 0.793 {macula-proximity}
   - strongs: H1094
-    proximity: 0.7823
+    lemma: בְּלוֹא
+    gloss: rags {openscriptures-strongs}
+    proximity: 0.7823 {macula-proximity}
   - strongs: H5040
-    proximity: 0.7748
+    lemma: נַבְלוּת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7748 {macula-proximity}
   - strongs: H5497
-    proximity: 0.7707
+    lemma: סוּת
+    gloss: covering {openscriptures-strongs}
+    proximity: 0.7707 {macula-proximity}
   - strongs: H8509
-    proximity: 0.7699
+    lemma: תַּכְרִיךְ
+    gloss: a wrapper or robe {openscriptures-strongs}
+    proximity: 0.7699 {macula-proximity}
   - strongs: H4594
-    proximity: 0.7564
+    lemma: מַעֲטֶה
+    gloss: a vestment {openscriptures-strongs}
+    proximity: 0.7564 {macula-proximity}
   - strongs: H4458
-    proximity: 0.7491
+    lemma: מֶלְתָּחָה
+    gloss: a wardrobe {openscriptures-strongs}
+    proximity: 0.7491 {macula-proximity}
   - strongs: H5466
-    proximity: 0.7454
+    lemma: סָדִין
+    gloss: a wrapper {openscriptures-strongs}
+    proximity: 0.7454 {macula-proximity}
   - strongs: H7757
-    proximity: 0.7451
+    lemma: שׁוּל
+    gloss: a skirt {openscriptures-strongs}
+    proximity: 0.7451 {macula-proximity}
   cross_language:
   - strongs: G2439
-    proximity: 0.8224
+    lemma: ἱματίζω
+    gloss: to dress {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
     language: greek
   - strongs: G1463
-    proximity: 0.8085
+    lemma: ἐγκομβόομαι
+    gloss: to engirdle oneself {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
     language: greek
   - strongs: G294a
-    proximity: 0.793
+    proximity: 0.793 {macula-proximity}
     language: greek
   - strongs: G1562
-    proximity: 0.7745
+    lemma: ἐκδύω
+    gloss: to cause to sink out of {openscriptures-strongs}
+    proximity: 0.7745 {macula-proximity}
     language: greek
   - strongs: G2067
-    proximity: 0.744
+    lemma: ἔσθησις
+    gloss: clothing {openscriptures-strongs}
+    proximity: 0.744 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

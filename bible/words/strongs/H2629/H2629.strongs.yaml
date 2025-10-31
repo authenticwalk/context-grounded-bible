@@ -6,25 +6,21 @@ pronunciation: khaw-sam'
 definition: to muzzle; by analogy, to stop the nose
 kjv_usage: muzzle, stop.
 derivation: a primitive root;
-extended_definition:
-  gloss: to muzzle
-  definition: (Qal) to stop up, muzzle
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to stop up, muzzle {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H944a
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
   - strongs: H5462a
-    proximity: 0.7697
+    proximity: 0.7697 {macula-proximity}
   - strongs: H4269
-    proximity: 0.7553
+    lemma: מַחְסוֹם
+    gloss: a muzzle {openscriptures-strongs}
+    proximity: 0.7553 {macula-proximity}
   cross_language:
   - strongs: G5392
-    proximity: 0.7403
+    lemma: φιμόω
+    gloss: to muzzle {openscriptures-strongs}
+    proximity: 0.7403 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

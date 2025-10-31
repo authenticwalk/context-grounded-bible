@@ -6,38 +6,43 @@ pronunciation: saw-rag'
 definition: to intwine
 kjv_usage: wrap together, wreath.
 derivation: a primitive root;
-extended_definition:
-  gloss: to intertwine
-  definition: 1) to be intertwined<br>1a) (Pual) to be intertwined<br>1b) (Hithpael)
-    to intertwine oneself
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be intertwined
+
+  1a) (Pual) to be intertwined
+
+  1b) (Hithpael) to intertwine oneself {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3162
-    proximity: 0.7793
+    lemma: יַחַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7793 {macula-proximity}
   - strongs: H3162a
-    proximity: 0.7338
+    proximity: 0.7338 {macula-proximity}
   - strongs: H5526a
-    proximity: 0.7186
+    proximity: 0.7186 {macula-proximity}
   cross_language:
   - strongs: G4896
-    proximity: 0.8233
+    lemma: σύνειμι
+    gloss: to assemble {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
     language: greek
   - strongs: G4867a
-    proximity: 0.8053
+    proximity: 0.8053 {macula-proximity}
     language: greek
   - strongs: G2075
-    proximity: 0.7993
+    lemma: ἐστέ
+    gloss: ye are {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
     language: greek
   - strongs: G2070
-    proximity: 0.7827
+    lemma: ἐσμέν
+    gloss: we are {openscriptures-strongs}
+    proximity: 0.7827 {macula-proximity}
     language: greek
   - strongs: G1488
-    proximity: 0.7377
+    lemma: εἶ
+    gloss: thou art {openscriptures-strongs}
+    proximity: 0.7377 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

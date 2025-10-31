@@ -6,45 +6,57 @@ pronunciation: ay-dooth'
 definition: testimony
 kjv_usage: testimony, witness.
 derivation: feminine of H5707 (עֵד);
-extended_definition:
-  gloss: testimony
-  definition: testimony
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: testimony {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4150
-    proximity: 0.814
+    lemma: מוֹעֵד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
   - strongs: H4561
-    proximity: 0.7987
+    lemma: מֹסָר
+    gloss: admonition {openscriptures-strongs}
+    proximity: 0.7987 {macula-proximity}
   - strongs: H5749a
-    proximity: 0.7638
+    proximity: 0.7638 {macula-proximity}
   - strongs: H1881
-    proximity: 0.7582
+    lemma: דָּת
+    gloss: a royal edict or statute {openscriptures-strongs}
+    proximity: 0.7582 {macula-proximity}
   - strongs: H4941
-    proximity: 0.7483
+    lemma: מִשְׁפָּט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7483 {macula-proximity}
   - strongs: H727
-    proximity: 0.7271
+    proximity: 0.7271 {macula-proximity}
   - strongs: H1285
-    proximity: 0.7194
+    lemma: בְּרִית
+    gloss: a compact {openscriptures-strongs}
+    proximity: 0.7194 {macula-proximity}
   cross_language:
   - strongs: G1321
-    proximity: 0.828
+    lemma: διδάσκω
+    gloss: to teach {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G1263
-    proximity: 0.8042
+    lemma: διαμαρτύρομαι
+    gloss: to attest or protest earnestly {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
     language: greek
   - strongs: G1242
-    proximity: 0.8019
+    lemma: διαθήκη
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8019 {macula-proximity}
     language: greek
   - strongs: G1785
-    proximity: 0.7976
+    lemma: ἐντολή
+    gloss: injunction {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
     language: greek
   - strongs: G5577
-    proximity: 0.7642
+    lemma: ψευδομαρτυρία
+    gloss: untrue testimony {openscriptures-strongs}
+    proximity: 0.7642 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

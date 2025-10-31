@@ -7,21 +7,15 @@ definition: a peg (as bristling from the surface)
 kjv_usage: nail.
 derivation: or מִסְמֵר; also (feminine) מַסְמְרָה; or מִסְמְרָה; or even מַשְׂמְרָה;
   (Ecclesiastes 12:11), from H5568 (סָמַר);
-extended_definition:
-  gloss: nail
-  definition: nail
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: nail {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2742b
-    proximity: 0.7958
+    proximity: 0.7958 {macula-proximity}
   - strongs: H6856
-    proximity: 0.7377
+    lemma: צִפֹּרֶן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7377 {macula-proximity}
   - strongs: A2953
-    proximity: 0.725
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    proximity: 0.725 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

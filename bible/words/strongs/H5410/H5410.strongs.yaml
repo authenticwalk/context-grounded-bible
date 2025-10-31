@@ -10,33 +10,48 @@ derivation: or (feminine) נְתִיבָה; or נְתִבָה; (Jeremiah 6:16), 
 related_words:
   synonyms:
   - strongs: H6128
-    proximity: 0.8223
+    lemma: עֲקַלְקַל
+    gloss: winding {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
   - strongs: H4547
-    proximity: 0.7917
+    lemma: מַסְלוּל
+    gloss: a thoroughfare {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: H1979
-    proximity: 0.786
+    lemma: הֲלִיכָה
+    gloss: a walking {openscriptures-strongs}
+    proximity: 0.786 {macula-proximity}
   - strongs: H7784
-    proximity: 0.776
+    lemma: שׁוּק
+    gloss: a street {openscriptures-strongs}
+    proximity: 0.776 {macula-proximity}
   - strongs: H1978
-    proximity: 0.7544
+    lemma: הָלִיךְ
+    gloss: a walk {openscriptures-strongs}
+    proximity: 0.7544 {macula-proximity}
   - strongs: A735
-    proximity: 0.7367
+    proximity: 0.7367 {macula-proximity}
   - strongs: H4934
-    proximity: 0.7127
+    lemma: מִשְׁעוֹל
+    gloss: a hollow {openscriptures-strongs}
+    proximity: 0.7127 {macula-proximity}
   cross_language:
   - strongs: G2600
-    proximity: 0.8293
+    lemma: κατάβασις
+    gloss: a declivity {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G4311
-    proximity: 0.8132
+    lemma: προπέμπω
+    gloss: to send forward {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
     language: greek
   - strongs: G296
-    proximity: 0.759
+    proximity: 0.759 {macula-proximity}
     language: greek
   - strongs: G4505
-    proximity: 0.7508
+    lemma: ῥύμη
+    gloss: an alley or avenue {openscriptures-strongs}
+    proximity: 0.7508 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

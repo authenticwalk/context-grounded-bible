@@ -6,47 +6,59 @@ pronunciation: mer-ee'
 definition: bitterness, i.e. (figuratively) rebellion; concretely, bitter, or rebellious
 kjv_usage: bitter, (most) rebel(-lion, -lious).
 derivation: from H4784 (מָרָה);
-extended_definition:
-  gloss: rebellion
-  definition: 1) rebellion<br>1a) rebellion<br>1b) rebellious (in construct)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) rebellion
+
+  1a) rebellion
+
+  1b) rebellious (in construct) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5493
-    proximity: 0.8117
+    lemma: סוּר
+    gloss: to turn off {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
   - strongs: H5753
-    proximity: 0.8018
+    lemma: עָוָה
+    gloss: to crook {openscriptures-strongs}
+    proximity: 0.8018 {macula-proximity}
   - strongs: H898
-    proximity: 0.7881
+    proximity: 0.7881 {macula-proximity}
   - strongs: H8618
-    proximity: 0.7782
+    lemma: תְּקוֹמֵם
+    gloss: an opponent {openscriptures-strongs}
+    proximity: 0.7782 {macula-proximity}
   - strongs: H8138
-    proximity: 0.7649
+    lemma: שָׁנָה
+    gloss: to fold {openscriptures-strongs}
+    proximity: 0.7649 {macula-proximity}
   - strongs: A4776
-    proximity: 0.7629
+    proximity: 0.7629 {macula-proximity}
   - strongs: H4603
-    proximity: 0.7261
+    lemma: מָעַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7261 {macula-proximity}
   - strongs: H4604
-    proximity: 0.7123
+    lemma: מַעַל
+    gloss: treachery {openscriptures-strongs}
+    proximity: 0.7123 {macula-proximity}
   cross_language:
   - strongs: G1294
-    proximity: 0.8145
+    lemma: διαστρέφω
+    gloss: to distort {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
     language: greek
   - strongs: G506
-    proximity: 0.787
+    proximity: 0.787 {macula-proximity}
     language: greek
   - strongs: G544
-    proximity: 0.7636
+    proximity: 0.7636 {macula-proximity}
     language: greek
   - strongs: G485
-    proximity: 0.7254
+    proximity: 0.7254 {macula-proximity}
     language: greek
   - strongs: G1881
-    proximity: 0.7229
+    lemma: ἐπανίσταμαι
+    gloss: to stand up on {openscriptures-strongs}
+    proximity: 0.7229 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

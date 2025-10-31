@@ -5,55 +5,69 @@ transliteration: ophthalmodouleía
 definition: sight-labor, i.e. that needs watching (remissness)
 kjv_usage: eye-service
 derivation: from G3788 (ὀφθαλμός) and G1397 (δουλεία);
-extended_definition:
-  gloss: eye-service
-  definition: '<b>ὀφθαλμο-δουλία</b> (Rec. -εία), -ας, ἡ <BR /> (ὀφθαλμός, δοῦλος),
-    <BR /><b>eye-service</b>: <ref=''Eph.6.6''>Eph.6:6</ref>, <ref=''Col.3.22''>Col.3:22</ref>
-    (not found elsewhere).†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὀφθαλμο-δουλεία</b>, ἡ, <br /> <b>eye-service,</b> [<a href="javascript:void(0)"
-    title="NT.Eph.6.6: in _plural_, NT.Col.3.22. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ὀφθαλμο-δουλία (Rec. -εία), -ας, ἡ
+
+  (ὀφθαλμός, δοῦλος),
+
+  eye-service: Eph.6:6, Col.3:22 (not found elsewhere).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὀφθαλμο-δουλεία, ἡ,
+
+  eye-service, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3000
-    proximity: 0.8233
+    lemma: λατρεύω
+    gloss: to minister {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: A6402
-    proximity: 0.8102
+    proximity: 0.8102 {macula-proximity}
   - strongs: G2108
-    proximity: 0.804
+    lemma: εὐεργεσία
+    gloss: beneficence {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   - strongs: G1248
-    proximity: 0.7892
+    lemma: διακονία
+    gloss: attendance (as a servant {openscriptures-strongs}
+    proximity: 0.7892 {macula-proximity}
   - strongs: G2145a
-    proximity: 0.7833
+    proximity: 0.7833 {macula-proximity}
   - strongs: A6399
-    proximity: 0.7748
+    proximity: 0.7748 {macula-proximity}
   - strongs: G3008
-    proximity: 0.7733
+    lemma: λειτουργέω
+    gloss: to be a public servant {openscriptures-strongs}
+    proximity: 0.7733 {macula-proximity}
   - strongs: G3010
-    proximity: 0.7637
+    lemma: λειτουργικός
+    gloss: functional publicly {openscriptures-strongs}
+    proximity: 0.7637 {macula-proximity}
   - strongs: A8120
-    proximity: 0.7621
+    proximity: 0.7621 {macula-proximity}
   - strongs: G2999
-    proximity: 0.7587
+    lemma: λατρεία
+    gloss: ministration of God {openscriptures-strongs}
+    proximity: 0.7587 {macula-proximity}
   cross_language:
   - strongs: H8281
-    proximity: 0.8286
+    lemma: שָׁרָה
+    gloss: to free {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: hebrew
   - strongs: H8334
-    proximity: 0.7659
+    lemma: שָׁרַת
+    gloss: to attend as a menial or worshipper {openscriptures-strongs}
+    proximity: 0.7659 {macula-proximity}
     language: hebrew
   - strongs: H5647
-    proximity: 0.7576
+    lemma: עָבַד
+    gloss: to work {openscriptures-strongs}
+    proximity: 0.7576 {macula-proximity}
     language: hebrew
   - strongs: H5656
-    proximity: 0.7524
+    lemma: עֲבֹדָה
+    gloss: work of any kind {openscriptures-strongs}
+    proximity: 0.7524 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

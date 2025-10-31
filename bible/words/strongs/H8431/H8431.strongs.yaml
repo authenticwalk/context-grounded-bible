@@ -6,41 +6,47 @@ pronunciation: to-kheh'-leth
 definition: expectation
 kjv_usage: hope.
 derivation: from H3176 (יָחַל);
-extended_definition:
-  gloss: hope
-  definition: hope
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: hope {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6822
-    proximity: 0.8195
+    lemma: צָפָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H3689a
-    proximity: 0.7994
+    proximity: 0.7994 {macula-proximity}
   - strongs: H7952
-    proximity: 0.789
+    lemma: שָׁלָה
+    gloss: to mislead {openscriptures-strongs}
+    proximity: 0.789 {macula-proximity}
   - strongs: H2837
-    proximity: 0.7664
+    lemma: חֵשֶׁק
+    gloss: delight {openscriptures-strongs}
+    proximity: 0.7664 {macula-proximity}
   - strongs: H1891
-    proximity: 0.7001
+    lemma: הָבַל
+    gloss: to be vain in act {openscriptures-strongs}
+    proximity: 0.7001 {macula-proximity}
   cross_language:
   - strongs: G2107
-    proximity: 0.8198
+    lemma: εὐδοκία
+    gloss: satisfaction {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
     language: greek
   - strongs: G553
-    proximity: 0.8038
+    proximity: 0.8038 {macula-proximity}
     language: greek
   - strongs: G560
-    proximity: 0.7717
+    proximity: 0.7717 {macula-proximity}
     language: greek
   - strongs: G2172
-    proximity: 0.7658
+    lemma: εὔχομαι
+    gloss: to wish {openscriptures-strongs}
+    proximity: 0.7658 {macula-proximity}
     language: greek
   - strongs: G1820
-    proximity: 0.7108
+    lemma: ἐξαπορέομαι
+    gloss: to be utterly at a loss {openscriptures-strongs}
+    proximity: 0.7108 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

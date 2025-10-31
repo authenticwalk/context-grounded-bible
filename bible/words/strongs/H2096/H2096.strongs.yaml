@@ -6,45 +6,57 @@ pronunciation: zo'-har
 definition: brilliancy
 kjv_usage: brightness.
 derivation: from H2094 (זָהַר);
-extended_definition:
-  gloss: brightness
-  definition: brightness, shining
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: brightness, shining {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3851
-    proximity: 0.8007
+    lemma: לַהַב
+    gloss: a flash {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: H1300
-    proximity: 0.7775
+    lemma: בָּרָק
+    gloss: lightning {openscriptures-strongs}
+    proximity: 0.7775 {macula-proximity}
   - strongs: H5340
-    proximity: 0.7648
+    lemma: נָצַץ
+    gloss: to glare {openscriptures-strongs}
+    proximity: 0.7648 {macula-proximity}
   - strongs: H215
-    proximity: 0.7647
+    proximity: 0.7647 {macula-proximity}
   - strongs: H1984
-    proximity: 0.7587
+    lemma: הָלַל
+    gloss: to be clear (orig. of sound {openscriptures-strongs}
+    proximity: 0.7587 {macula-proximity}
   - strongs: H3313
-    proximity: 0.7513
+    lemma: יָפַע
+    gloss: to shine {openscriptures-strongs}
+    proximity: 0.7513 {macula-proximity}
   - strongs: H5264
-    proximity: 0.7384
+    lemma: נָסַס
+    gloss: to raise a beacon {openscriptures-strongs}
+    proximity: 0.7384 {macula-proximity}
   cross_language:
   - strongs: G2986
-    proximity: 0.8241
+    lemma: λαμπρός
+    gloss: radiant {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
   - strongs: G4744
-    proximity: 0.8134
+    lemma: στίλβω
+    gloss: to gleam {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
     language: greek
   - strongs: G5460
-    proximity: 0.8109
+    lemma: φωτεινός
+    gloss: lustrous {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
     language: greek
   - strongs: G797
-    proximity: 0.7708
+    proximity: 0.7708 {macula-proximity}
     language: greek
   - strongs: G1584
-    proximity: 0.7533
+    lemma: ἐκλάμπω
+    gloss: to be resplendent {openscriptures-strongs}
+    proximity: 0.7533 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

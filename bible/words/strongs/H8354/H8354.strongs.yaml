@@ -7,49 +7,73 @@ definition: to imbibe (literally or figuratively)
 kjv_usage: '[idiom] assuredly, banquet, [idiom] certainly, drink(-er, -ing), drunk
   ([idiom] -ard), surely. (Prop. intensive of H8248 (שָׁקָה).)'
 derivation: a primitive root;
-extended_definition:
-  gloss: to drink
-  definition: '1) to drink<br>1a) (Qal)<br>1a1) to drink<br>1a1a) of drinking cup
-    of God''s wrath, of slaughter, of wicked deeds (fig)<br>1a2) to feast<br>1b) (Niphal)
-    to be drunk<BR>Aramaic equivalent: <i>she.tah</i> (שְׁתָה "to drink" H8355)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to drink
+
+  1a) (Qal)
+
+  1a1) to drink
+
+  1a1a) of drinking cup of God''s wrath, of slaughter, of wicked deeds (fig)
+
+  1a2) to feast
+
+  1b) (Niphal) to be drunk
+
+  Aramaic equivalent: she.tah (שְׁתָה "to drink" H8355) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5262
-    proximity: 0.8263
+    lemma: נֶסֶךְ
+    gloss: a libation {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: A4504
-    proximity: 0.8252
+    proximity: 0.8252 {macula-proximity}
   - strongs: H398
-    proximity: 0.8251
+    proximity: 0.8251 {macula-proximity}
   - strongs: H5258
-    proximity: 0.8201
+    lemma: נָסַךְ
+    gloss: to pour out {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: H4325
-    proximity: 0.8168
+    lemma: מַיִם
+    gloss: water {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H4711
-    proximity: 0.8155
+    lemma: מָצַץ
+    gloss: to suck {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H1572
-    proximity: 0.8048
+    lemma: גָּמָא
+    gloss: to absorb {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
   - strongs: H5257
-    proximity: 0.7951
+    lemma: נְסִיךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
   cross_language:
   - strongs: G3182
-    proximity: 0.8293
+    lemma: μεθύσκω
+    gloss: to intoxicate {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G4689
-    proximity: 0.8209
+    lemma: σπένδω
+    gloss: to pour out as a libation {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
     language: greek
   - strongs: G3183
-    proximity: 0.8205
+    lemma: μέθυσος
+    gloss: tipsy {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
     language: greek
   - strongs: G3631
-    proximity: 0.8178
+    lemma: οἶνος
+    gloss: '"wine" {openscriptures-strongs}'
+    proximity: 0.8178 {macula-proximity}
     language: greek
   - strongs: G2068
-    proximity: 0.808
+    lemma: ἐσθίω
+    gloss: used only in certain tenses {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

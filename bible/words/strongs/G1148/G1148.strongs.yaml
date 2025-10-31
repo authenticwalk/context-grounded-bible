@@ -5,41 +5,46 @@ transliteration: Dalmanouthá
 definition: Dalmanutha, a place in Palestine
 kjv_usage: Dalmanutha
 derivation: probably of Chaldee origin;
-extended_definition:
-  gloss: Dalmanutha
-  definition: '<b>Δαλμανουθά</b>, ἡ<BR /> indecl., <BR /> <b>Dalmanutha</b>, an unidentified
-    place near the Sea of Galilee: <ref=''Mrk.8.10''>Mrk.8:10</ref> (cf. Μαγαδάν).†<BR
-    /> (AS)'
-  morphology: N:N--L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Δαλμανουθά</b>, ἡ<BR /> indecl., <BR /> <b>Dalmanutha</b>, an
-    unidentified place near the Sea of Galilee: <ref=''Mrk.8.10''>Mrk.8:10</ref> (cf.
-    Μαγαδάν).†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Δαλμανουθά, ἡ
+
+  indecl.,
+
+  Dalmanutha, an unidentified place near the Sea of Galilee: Mrk.8:10 (cf. Μαγαδάν).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Δαλμανουθά, ἡ
+
+  indecl.,
+
+  Dalmanutha, an unidentified place near the Sea of Galilee: Mrk.8:10 (cf. Μαγαδάν).†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3160
-    proximity: 0.7857
+    lemma: Ματταθά
+    gloss: Mattatha {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
   cross_language:
   - strongs: H8559
-    proximity: 0.826
+    lemma: תָּמָר
+    gloss: Tamar {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
     language: hebrew
   - strongs: H4099a
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
     language: hebrew
   - strongs: H6534
-    proximity: 0.8212
+    lemma: פַּרְמַשְׁתָּא
+    gloss: Parmashta {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
     language: hebrew
   - strongs: H1862
-    proximity: 0.8202
+    lemma: דַּרְדַּע
+    gloss: Darda {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
     language: hebrew
   - strongs: H133
-    proximity: 0.81
+    proximity: 0.81 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

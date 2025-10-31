@@ -7,42 +7,52 @@ definition: a bullock (apparently as breaking forth in wild strength, or perhaps
   dividing the hoof)
 kjv_usage: ([phrase] young) bull(-ock), calf, ox.
 derivation: or פָּר; from H6565 (פָּרַר);
-extended_definition:
-  gloss: bullock
-  definition: young bull, steer, bullock
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: young bull, steer, bullock {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4770
-    proximity: 0.8269
+    lemma: מַרְבֵּק
+    gloss: a stall {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: H6629
-    proximity: 0.818
+    lemma: צֹאן
+    gloss: a collective name for a flock {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: A5796
-    proximity: 0.817
+    proximity: 0.817 {macula-proximity}
   - strongs: A6841
-    proximity: 0.8169
+    proximity: 0.8169 {macula-proximity}
   - strongs: H1423
-    proximity: 0.8107
+    lemma: גְּדִי
+    gloss: a young goat {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
   - strongs: H4806
-    proximity: 0.7801
+    lemma: מְרִיא
+    gloss: stall-fed {openscriptures-strongs}
+    proximity: 0.7801 {macula-proximity}
   - strongs: H7214
-    proximity: 0.7531
+    lemma: רְאֵם
+    gloss: a wild bull {openscriptures-strongs}
+    proximity: 0.7531 {macula-proximity}
   - strongs: H4220
-    proximity: 0.7507
+    lemma: מֵחַ
+    gloss: fat {openscriptures-strongs}
+    proximity: 0.7507 {macula-proximity}
   - strongs: H2145
-    proximity: 0.7462
+    lemma: זָכָר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7462 {macula-proximity}
   - strongs: H504
-    proximity: 0.7442
+    proximity: 0.7442 {macula-proximity}
   cross_language:
   - strongs: G1151
-    proximity: 0.7847
+    lemma: δάμαλις
+    gloss: a heifer {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
     language: greek
   - strongs: G1016
-    proximity: 0.7163
+    lemma: βοῦς
+    gloss: an ox {openscriptures-strongs}
+    proximity: 0.7163 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

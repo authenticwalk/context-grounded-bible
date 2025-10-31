@@ -5,43 +5,45 @@ transliteration: symmathētḗs
 definition: a co-learner (of Christianity)
 kjv_usage: fellow disciple
 derivation: from a compound of G4862 (σύν) and G3129 (μανθάνω);
-extended_definition:
-  gloss: fellow disciple
-  definition: '<b>συν-μαθητής</b> (Rec. συμμ-), -οῦ, ὁ <BR /> <b>a fellow-disciple</b>:
-    <ref=''Jhn.11.16''>Jhn.11:16</ref> (on the use of συν- in such compounds as this,
-    see Rutherford, <i>NPhr.</i>, 255 f.).†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συμμᾰθητής</b>, οῦ, ὁ, <br /> <b>fellow-disciple, schoolfellow</b>,
-    [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Euthydemus”
-    272c, 2nd c.AD: Galenus Medicus 12.835, 3rd c.AD: Pseudo-Callisthenes Historicus
-    1.13 ">Refs 5th c.BC+</a>]; ἐγένονθ᾽ ἑαυτῶν συμμαθηταὶ τῆς τέχνης <b>fellow-pupils</b>
-    in the art, [<a href="javascript:void(0)" title=" 4th c.BC: Anaxippus Comicus
-    1.2. ">Refs 4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συν-μαθητής (Rec. συμμ-), -οῦ, ὁ
+
+  a fellow-disciple: Jhn.11:16 (on the use of συν- in such compounds as this, see
+  Rutherford, NPhr., 255 f.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συμμᾰθητής, οῦ, ὁ,
+
+  fellow-disciple, schoolfellow, [Refs 5th c.BC+]; ἐγένονθ᾽ ἑαυτῶν συμμαθηταὶ τῆς
+  τέχνης fellow-pupils in the art, [Refs 4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4847
-    proximity: 0.8155
+    lemma: συμπολίτης
+    gloss: a native of the same town {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: G4850
-    proximity: 0.7963
+    lemma: συμπρεσβύτερος
+    gloss: a co-presbyter {openscriptures-strongs}
+    proximity: 0.7963 {macula-proximity}
   - strongs: G4889
-    proximity: 0.7952
+    lemma: σύνδουλος
+    gloss: a co-slave {openscriptures-strongs}
+    proximity: 0.7952 {macula-proximity}
   - strongs: G4904
-    proximity: 0.7791
+    lemma: συνεργός
+    gloss: a co-laborer {openscriptures-strongs}
+    proximity: 0.7791 {macula-proximity}
   - strongs: A2273
-    proximity: 0.7102
+    proximity: 0.7102 {macula-proximity}
   cross_language:
   - strongs: H2270
-    proximity: 0.8278
+    lemma: חָבֵר
+    gloss: an associate {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: hebrew
   - strongs: H3928
-    proximity: 0.7432
+    lemma: לִמּוּד
+    gloss: instructed {openscriptures-strongs}
+    proximity: 0.7432 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -10,42 +10,65 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: A5642
-    proximity: 0.8248
+    proximity: 0.8248 {macula-proximity}
   - strongs: H5956
-    proximity: 0.8242
+    lemma: עָלַם
+    gloss: to veil from sight {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H2645
-    proximity: 0.8181
+    lemma: חָפָה
+    gloss: to cover {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
   - strongs: H3271
-    proximity: 0.8159
+    lemma: יָעַט
+    gloss: to clothe {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H5259
-    proximity: 0.8123
+    lemma: נָסַךְ
+    gloss: to interweave {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
   - strongs: H4392
-    proximity: 0.8065
+    lemma: מָלֵא
+    gloss: full  or filling {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
   - strongs: H3682
-    proximity: 0.8008
+    lemma: כְּסוּת
+    gloss: a cover {openscriptures-strongs}
+    proximity: 0.8008 {macula-proximity}
   - strongs: H2926
-    proximity: 0.7931
+    lemma: טָלַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7931 {macula-proximity}
   - strongs: H3874
-    proximity: 0.7928
+    lemma: לוּט
+    gloss: to wrap up {openscriptures-strongs}
+    proximity: 0.7928 {macula-proximity}
   - strongs: H2244
-    proximity: 0.781
+    lemma: חָבָא
+    gloss: to secrete {openscriptures-strongs}
+    proximity: 0.781 {macula-proximity}
   cross_language:
   - strongs: G1942
-    proximity: 0.8042
+    lemma: ἐπικάλυμα
+    gloss: a covering {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
     language: greek
   - strongs: G2619
-    proximity: 0.7893
+    lemma: κατακαλύπτω
+    gloss: to cover wholly {openscriptures-strongs}
+    proximity: 0.7893 {macula-proximity}
     language: greek
   - strongs: G1943
-    proximity: 0.7872
+    lemma: ἐπικαλύπτω
+    gloss: to conceal {openscriptures-strongs}
+    proximity: 0.7872 {macula-proximity}
     language: greek
   - strongs: G2572
-    proximity: 0.7832
+    lemma: καλύπτω
+    gloss: to cover up {openscriptures-strongs}
+    proximity: 0.7832 {macula-proximity}
     language: greek
   - strongs: G614
-    proximity: 0.7811
+    proximity: 0.7811 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

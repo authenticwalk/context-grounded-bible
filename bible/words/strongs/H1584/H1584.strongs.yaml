@@ -6,50 +6,73 @@ pronunciation: gaw-mar'
 definition: to end (in the sense of completion or failure)
 kjv_usage: cease, come to an end, fail, perfect, perform.
 derivation: a primitive root;
-extended_definition:
-  gloss: to cease
-  definition: '1) to end, come to an end, complete, cease<br>1a) (Qal)<br>1a1) to
-    come to an end, be no more<br>1a2) to bring to an end, complete<br>2) (TWOT) to
-    fail, perfect, perform<BR>Aramaic equivalent: <i>ge.mar</i> (גְּמַר "to complete"
-    H1585)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to end, come to an end, complete, cease
+
+  1a) (Qal)
+
+  1a1) to come to an end, be no more
+
+  1a2) to bring to an end, complete
+
+  2) (TWOT) to fail, perfect, perform
+
+  Aramaic equivalent: ge.mar (גְּמַר "to complete" H1585) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2686
-    proximity: 0.8286
+    lemma: חָצַץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: H1961
-    proximity: 0.8266
+    lemma: הָיָה
+    gloss: to exist {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: H1602
-    proximity: 0.8261
+    lemma: גָּעַל
+    gloss: to detest {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: H1820
-    proximity: 0.8251
+    lemma: דָּמָה
+    gloss: to be dumb or silent {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H5627
-    proximity: 0.825
+    lemma: סָרָה
+    gloss: apostasy {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: H1504
-    proximity: 0.8192
+    lemma: גָּזַר
+    gloss: to cut down or off {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: A5487
-    proximity: 0.8187
+    proximity: 0.8187 {macula-proximity}
   - strongs: H2014
-    proximity: 0.8182
+    lemma: הֲפֻגָה
+    gloss: relaxation {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
   cross_language:
   - strongs: G4009
-    proximity: 0.8292
+    lemma: πέρας
+    gloss: an extremity {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
     language: greek
   - strongs: G5056
-    proximity: 0.8286
+    lemma: τέλος
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G1096
-    proximity: 0.8272
+    lemma: γίνομαι
+    gloss: to cause to be {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G2967
-    proximity: 0.8235
+    lemma: κωλύω
+    gloss: to estop {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: greek
   - strongs: G3756
-    proximity: 0.8231
+    lemma: οὐ
+    gloss: the absolute negative ) adverb {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

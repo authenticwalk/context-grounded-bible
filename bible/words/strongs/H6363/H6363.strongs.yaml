@@ -9,34 +9,45 @@ derivation: or פִּטְרָה; from H6362 (פָּטַר);
 related_words:
   synonyms:
   - strongs: H7223
-    proximity: 0.8159
+    lemma: רִאשׁוֹן
+    gloss: first {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: A6606
-    proximity: 0.809
+    proximity: 0.809 {macula-proximity}
   - strongs: H1062
-    proximity: 0.807
+    lemma: בְּכוֹרָה
+    gloss: the firstling of man or beast {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
   - strongs: H6491
-    proximity: 0.7708
+    lemma: פָּקַח
+    gloss: to open (the senses {openscriptures-strongs}
+    proximity: 0.7708 {macula-proximity}
   - strongs: H6605
-    proximity: 0.7652
+    lemma: פָּתַח
+    gloss: to open wide {openscriptures-strongs}
+    proximity: 0.7652 {macula-proximity}
   - strongs: H7225
-    proximity: 0.7375
+    lemma: רֵאשִׁית
+    gloss: the first {openscriptures-strongs}
+    proximity: 0.7375 {macula-proximity}
   cross_language:
   - strongs: G457
-    proximity: 0.8202
+    proximity: 0.8202 {macula-proximity}
     language: greek
   - strongs: G4412a
-    proximity: 0.807
+    proximity: 0.807 {macula-proximity}
     language: greek
   - strongs: G4413
-    proximity: 0.7927
+    lemma: πρῶτος
+    gloss: foremost (in time {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
     language: greek
   - strongs: G4412
-    proximity: 0.7689
+    lemma: πρῶτον
+    gloss: firstly (in time {openscriptures-strongs}
+    proximity: 0.7689 {macula-proximity}
     language: greek
   - strongs: G455
-    proximity: 0.7522
+    proximity: 0.7522 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

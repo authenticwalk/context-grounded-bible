@@ -8,53 +8,87 @@ definition: to chastise, literally (with blows) or figuratively (with words); he
 kjv_usage: bind, chasten, chastise, correct, instruct, punish, reform, reprove, sore,
   teach.
 derivation: a primitive root;
-extended_definition:
-  gloss: to discipline
-  definition: 1) to chasten, discipline, instruct, admonish<br>1a)(Qal)<br>1a1) to
-    chasten, admonish<br>1a2) to instruct<br>1a3) to discipline<br>1b) (Niphal) to
-    let oneself be chastened or corrected or admonished<br>1c) (Piel)<br>1c1) to discipline,
-    correct<br>1c2) to chasten, chastise<br>1d) (Hiphil) to chasten<br>1e) (Nithpael)
-    to teach
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to chasten, discipline, instruct, admonish
+
+  1a)(Qal)
+
+  1a1) to chasten, admonish
+
+  1a2) to instruct
+
+  1a3) to discipline
+
+  1b) (Niphal) to let oneself be chastened or corrected or admonished
+
+  1c) (Piel)
+
+  1c1) to discipline, correct
+
+  1c2) to chasten, chastise
+
+  1d) (Hiphil) to chasten
+
+  1e) (Nithpael) to teach {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8150a
-    proximity: 0.8291
+    proximity: 0.8291 {macula-proximity}
   - strongs: H5221
-    proximity: 0.8251
+    lemma: נָכָה
+    gloss: to strike (lightly or severely {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H6486
-    proximity: 0.8246
+    lemma: פְּקֻדָּה
+    gloss: visitation (in many senses {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: H6485
-    proximity: 0.8222
+    lemma: פָּקַד
+    gloss: to visit {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H3948
-    proximity: 0.8206
+    lemma: לֶקַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: H6064
-    proximity: 0.8195
+    lemma: עָנַשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H1605
-    proximity: 0.8179
+    lemma: גָּעַר
+    gloss: to chide {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
   - strongs: H1795
-    proximity: 0.8137
+    lemma: דַּכָּה
+    gloss: mutilated {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   - strongs: H1703
-    proximity: 0.8083
+    lemma: דַּבָּרָה
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
   cross_language:
   - strongs: G1128
-    proximity: 0.8218
+    lemma: γυμνάζω
+    gloss: to practise naked {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
     language: greek
   - strongs: G5097
-    proximity: 0.8196
+    lemma: τιμωρέω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
     language: greek
   - strongs: G3147
-    proximity: 0.818
+    lemma: μαστίζω
+    gloss: to whip {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
     language: greek
   - strongs: G2008
-    proximity: 0.8163
+    lemma: ἐπιτιμάω
+    gloss: to tax upon {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
     language: greek
   - strongs: G1556
-    proximity: 0.8109
+    lemma: ἐκδικέω
+    gloss: to vindicate {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

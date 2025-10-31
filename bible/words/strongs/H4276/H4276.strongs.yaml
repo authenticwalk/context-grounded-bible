@@ -6,40 +6,50 @@ pronunciation: makh-ats-eeth'
 definition: a halving or the middle
 kjv_usage: half (so much), mid(-day).
 derivation: from H2673 (חָצָה)lemma חָעָה ayin, corrected to חָצָה;
-extended_definition:
-  gloss: half
-  definition: 1) half, middle<br>1a) half<br>1b) middle, midday, noon
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) half, middle
+
+  1a) half
+
+  1b) middle, midday, noon {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1506
-    proximity: 0.8245
+    lemma: גֶּזֶר
+    gloss: something cut off {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: A7859
-    proximity: 0.7927
+    proximity: 0.7927 {macula-proximity}
   - strongs: H915
-    proximity: 0.791
+    proximity: 0.791 {macula-proximity}
   - strongs: A6387
-    proximity: 0.7493
+    proximity: 0.7493 {macula-proximity}
   - strongs: H1235
-    proximity: 0.7466
+    lemma: בֶּקַע
+    gloss: a section  of ashekel {openscriptures-strongs}
+    proximity: 0.7466 {macula-proximity}
   - strongs: H3963
-    proximity: 0.7126
+    lemma: לֶתֶךְ
+    gloss: a measure for things dry {openscriptures-strongs}
+    proximity: 0.7126 {macula-proximity}
   cross_language:
   - strongs: G3046
-    proximity: 0.8189
+    lemma: λίτρα
+    gloss: a pound in weight {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
     language: greek
   - strongs: G3319
-    proximity: 0.7844
+    lemma: μέσος
+    gloss: middle  noun) {openscriptures-strongs}
+    proximity: 0.7844 {macula-proximity}
     language: greek
   - strongs: G3314
-    proximity: 0.7311
+    lemma: μεσημβρία
+    gloss: midday {openscriptures-strongs}
+    proximity: 0.7311 {macula-proximity}
     language: greek
   - strongs: G2256
-    proximity: 0.7132
+    lemma: ἡμιώριον
+    gloss: a half-hour {openscriptures-strongs}
+    proximity: 0.7132 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

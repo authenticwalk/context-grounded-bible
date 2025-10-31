@@ -7,39 +7,55 @@ definition: payment of contract; concretely, salary, fare, maintenance; by impli
   compensation, benefit
 kjv_usage: hire, price, reward(-ed), wages, worth.
 derivation: from H7936 (שָׂכַר);
-extended_definition:
-  gloss: wages
-  definition: 1) hire, wages<br>1a) wages<br>1b) reward, pay<br>1c) fare, fee, passage-money
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) hire, wages
+
+  1a) wages
+
+  1b) reward, pay
+
+  1c) fare, fee, passage-money {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6467
-    proximity: 0.8258
+    lemma: פֹּעַל
+    gloss: an act or work {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H4991
-    proximity: 0.8249
+    lemma: מַתָּת
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
   - strongs: H4377
-    proximity: 0.8047
+    lemma: מֶכֶר
+    gloss: merchandise {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
   - strongs: H6059
-    proximity: 0.7847
+    lemma: עָנַק
+    gloss: to collar {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
   - strongs: H7810
-    proximity: 0.781
+    lemma: שַׁחַד
+    gloss: a donation {openscriptures-strongs}
+    proximity: 0.781 {macula-proximity}
   - strongs: H1578
-    proximity: 0.7777
+    lemma: גְּמוּלָה
+    gloss: meaning the same {openscriptures-strongs}
+    proximity: 0.7777 {macula-proximity}
   - strongs: H2500
-    proximity: 0.7188
+    lemma: חֵלֶף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7188 {macula-proximity}
   cross_language:
   - strongs: G591
-    proximity: 0.8279
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G3407
-    proximity: 0.8205
+    lemma: μίσθιος
+    gloss: a wage-earner {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
     language: greek
   - strongs: G3405
-    proximity: 0.7016
+    lemma: μισθαποδοσία
+    gloss: requital {openscriptures-strongs}
+    proximity: 0.7016 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

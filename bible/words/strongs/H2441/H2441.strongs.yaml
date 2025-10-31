@@ -7,29 +7,29 @@ definition: properly, the palate or inside of the mouth; hence, the mouth itself
   the organ of speech, taste and kissing)
 kjv_usage: (roof of the) mouth, taste.
 derivation: probably from H2596 (חָנַךְ) in the sense of tasting;
-extended_definition:
-  gloss: palate
-  definition: mouth, palate, taste, gums
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: mouth, palate, taste, gums {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8193
-    proximity: 0.8048
+    lemma: שָׂפָה
+    gloss: the lip {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
   - strongs: H8222
-    proximity: 0.7976
+    lemma: שָׂפָם
+    gloss: the beard {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: A6433
-    proximity: 0.7746
+    proximity: 0.7746 {macula-proximity}
   - strongs: H4057a
-    proximity: 0.7664
+    proximity: 0.7664 {macula-proximity}
   - strongs: H6310
-    proximity: 0.7378
+    lemma: פֶּה
+    gloss: the mouth {openscriptures-strongs}
+    proximity: 0.7378 {macula-proximity}
   cross_language:
   - strongs: G4750
-    proximity: 0.778
+    lemma: στόμα
+    gloss: the mouth {openscriptures-strongs}
+    proximity: 0.778 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

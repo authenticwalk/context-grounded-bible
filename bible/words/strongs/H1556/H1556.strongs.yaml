@@ -7,47 +7,73 @@ definition: to roll (literally or figuratively)
 kjv_usage: commit, remove, roll (away, down, together), run down, seek occasion, trust,
   wallow.
 derivation: a primitive root;
-extended_definition:
-  gloss: to roll
-  definition: '1) to roll, roll away, roll down, roll together<br>1a) (Qal) to roll<br>1b)
-    (Niphal)<br>1b1) to roll up<br>1b2) to flow down<br>1c) (Pilpel) to roll<br>1d)
-    (Poal) to be rolled<br>1e) (Hithpoel) to roll oneself<br>1f) (Hithpalpel) to roll
-    oneself<br>1g) (Hiphil) to roll away<BR>Aramaic equivalent: <i>ge.lal</i> (גְּלָל
-    "great" H1560)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to roll, roll away, roll down, roll together
+
+  1a) (Qal) to roll
+
+  1b) (Niphal)
+
+  1b1) to roll up
+
+  1b2) to flow down
+
+  1c) (Pilpel) to roll
+
+  1d) (Poal) to be rolled
+
+  1e) (Hithpoel) to roll oneself
+
+  1f) (Hithpalpel) to roll oneself
+
+  1g) (Hiphil) to roll away
+
+  Aramaic equivalent: ge.lal (גְּלָל "great" H1560) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7368
-    proximity: 0.8289
+    lemma: רָחַק
+    gloss: to widen {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H6965
-    proximity: 0.8255
+    lemma: קוּם
+    gloss: to rise (in various applications {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: H5606a
-    proximity: 0.8219
+    proximity: 0.8219 {macula-proximity}
   - strongs: H3381
-    proximity: 0.7785
+    lemma: יָרַד
+    gloss: to descend (literally {openscriptures-strongs}
+    proximity: 0.7785 {macula-proximity}
   - strongs: H3947
-    proximity: 0.772
+    lemma: לָקַח
+    gloss: to take {openscriptures-strongs}
+    proximity: 0.772 {macula-proximity}
   - strongs: H3014
-    proximity: 0.7651
+    lemma: יָגָה
+    gloss: to push away {openscriptures-strongs}
+    proximity: 0.7651 {macula-proximity}
   cross_language:
   - strongs: G2777
-    proximity: 0.8208
+    lemma: κεφαλίς
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G3908
-    proximity: 0.8206
+    lemma: παρατίθημι
+    gloss: to place alongside {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G659
-    proximity: 0.8192
+    proximity: 0.8192 {macula-proximity}
     language: greek
   - strongs: G2597
-    proximity: 0.8045
+    lemma: καταβαίνω
+    gloss: to descend {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
     language: greek
   - strongs: G3866
-    proximity: 0.7941
+    lemma: παραθήκη
+    gloss: a deposit {openscriptures-strongs}
+    proximity: 0.7941 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

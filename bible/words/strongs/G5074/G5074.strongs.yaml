@@ -5,52 +5,44 @@ transliteration: tetrápous
 definition: a quadruped
 kjv_usage: fourfooted beast
 derivation: from G5064 (τέσσαρες) and G4228 (πούς);
-extended_definition:
-  gloss: four-footed
-  definition: '<b>τετρά-πους</b>, -ουν <BR /> [in LXX chiefly for בְּהֵמָה ;] <BR
-    /><b>four-footed</b>: of beasts, neut. pl., <ref=''Act.10.12; 11.6''>Act.10:12
-    11:6</ref>, <ref=''Rom.1.23''>Rom.1:23</ref>.†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> τετρά-πους</b>, ὁ, ἡ, πουν, τό, <br /> <i>genitive</i> ποδος,
-    <i>plural</i> ποδα, <b>four-footed</b>, [<a href="javascript:void(0)" title="
-    5th c.BC: Herodotus Historicus 2.68, 5th-6th c.BC: Plato Philosophus “Timaeus”
-    92a ">Refs 5th c.BC+</a>]; λεία τ. a booty <b>of cattle</b>, [<a href="javascript:void(0)"
-    title=" 2nd c.BC: Polybius Historicus 4.75.7 ">Refs 2nd c.BC+</a>]; τετράποδα
-    ζῴδια, viz. Aries, Taurus, Leo, Sagittarius, [<a href="javascript:void(0)" title="
-    “Catalogus Codicum Astrologorum” 1.166: compare τετράποδος. ">Refs</a>]<br /><Level3><b>__2</b></Level3>
-    τετράπουν, τό, <b>quadruped, beast</b>, [<a href="javascript:void(0)" title="
-    5th-6th c.BC: Plato Philosophus “Phaedrus” 250e, 4th c.BC: Aristoteles Philosophus
-    “de Partibus Animalium” 697b23, etc.: _plural_, 5th c.BC: Herodotus Historicus
-    3.106, 5th-6th c.BC: Aristophanes Comicus “Nubes” 659, 5th c.BC: Thucydides Historicus
-    2.50, 4th c.BC: Aristoteles Philosophus “Historia Animalium” 490a29, etc.; πάντα
-    τὰ τ. καὶ ἑρπετὰ τῆς γῆς NT.Act.10.12. ">NT+5th c.BC+</a>]<br /><Level2><b>__II</b></Level2>
-    of things, δίφρος τ. [<a href="javascript:void(0)" title=" 5th c.BC: Eupolis Comicus
-    58, “POxy.” 646 (2nd c.AD).compare 5th c.BC: Epicharmus Comicus 149. ">Refs 5th
-    c.BC+</a>]<br /><Level3><b>__II.2</b></Level3> <b>of four feet</b> in length or
-    area, [<a href="javascript:void(0)" title=" “IG” 12.372.10, +others, 5th-6th c.BC:
-    Plato Philosophus “Meno” 83b; πάχος ποήσει τὸ στρῶμα τετράπουν “IG” 22.1668.14.
-    ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'τετρά-πους, -ουν
+
+  [in LXX chiefly for בְּהֵמָה ;]
+
+  four-footed: of beasts, neut. pl., Act.10:12 11:6, Rom.1:23.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'τετρά-πους, ὁ, ἡ, πουν, τό,
+
+  genitive ποδος, plural ποδα, four-footed, [Refs 5th c.BC+]; λεία τ. a booty of cattle,
+  [Refs 2nd c.BC+]; τετράποδα ζῴδια, viz. Aries, Taurus, Leo, Sagittarius, [Refs]
+
+  __2 τετράπουν, τό, quadruped, beast, [NT+5th c.BC+]
+
+  __II of things, δίφρος τ. [Refs 5th c.BC+]
+
+  __II.2 of four feet in length or area, [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4156
-    proximity: 0.8266
+    lemma: πνικτός
+    gloss: throttled {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: G2342
-    proximity: 0.7331
+    lemma: θηρίον
+    gloss: a dangerous animal {openscriptures-strongs}
+    proximity: 0.7331 {macula-proximity}
   - strongs: G2226
-    proximity: 0.7055
+    lemma: ζῶον
+    gloss: a live thing {openscriptures-strongs}
+    proximity: 0.7055 {macula-proximity}
   cross_language:
   - strongs: H2874
-    proximity: 0.8141
+    lemma: טֶבַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
     language: hebrew
   - strongs: H6728a
-    proximity: 0.8072
+    proximity: 0.8072 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

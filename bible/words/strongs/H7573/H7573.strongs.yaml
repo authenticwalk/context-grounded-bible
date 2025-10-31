@@ -6,34 +6,38 @@ pronunciation: raw-tham'
 definition: to yoke up (to the pole of a vehicle)
 kjv_usage: bind.
 derivation: a primitive root;
-extended_definition:
-  gloss: to bind
-  definition: (Qal) to bind, attach
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to bind, attach {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1102
-    proximity: 0.8167
+    lemma: בָּלַם
+    gloss: to muzzle {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H7395
-    proximity: 0.8056
+    lemma: רַכָּב
+    gloss: a charioteer {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H723
-    proximity: 0.7963
+    proximity: 0.7963 {macula-proximity}
   - strongs: H4818
-    proximity: 0.7857
+    lemma: מֶרְכָּבָה
+    gloss: a chariot {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
   - strongs: H631
-    proximity: 0.7586
+    proximity: 0.7586 {macula-proximity}
   - strongs: H7392
-    proximity: 0.7187
+    lemma: רָכַב
+    gloss: to ride {openscriptures-strongs}
+    proximity: 0.7187 {macula-proximity}
   cross_language:
   - strongs: G4060
-    proximity: 0.8083
+    lemma: περιτίθημι
+    gloss: to place around {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
     language: greek
   - strongs: G1902
-    proximity: 0.7856
+    lemma: ἐπενδύομαι
+    gloss: to invest upon oneself {openscriptures-strongs}
+    proximity: 0.7856 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

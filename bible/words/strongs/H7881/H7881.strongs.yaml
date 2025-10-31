@@ -6,44 +6,57 @@ pronunciation: see-khaw'
 definition: reflection; be extension, devotion
 kjv_usage: meditation, prayer.
 derivation: feminine of H7879 (שִׂיחַ);
-extended_definition:
-  gloss: meditation
-  definition: 1) meditation, reflection, prayer, devotion, complaint, musing<br>1a)
-    complaint<br>1b) musing, study (of object)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) meditation, reflection, prayer, devotion, complaint, musing
+
+  1a) complaint
+
+  1b) musing, study (of object) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6098a
-    proximity: 0.8177
+    proximity: 0.8177 {macula-proximity}
   - strongs: A7476
-    proximity: 0.7953
+    proximity: 0.7953 {macula-proximity}
   - strongs: H7879
-    proximity: 0.7906
+    lemma: שִׂיחַ
+    gloss: a contemplation {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
   - strongs: H2810
-    proximity: 0.7827
+    lemma: חִשָּׁבוֹן
+    gloss: a contrivance {openscriptures-strongs}
+    proximity: 0.7827 {macula-proximity}
   - strongs: H2808
-    proximity: 0.78
+    lemma: חֶשְׁבּוֹן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.78 {macula-proximity}
   - strongs: H1897
-    proximity: 0.7338
+    lemma: הָגָה
+    gloss: to murmur {openscriptures-strongs}
+    proximity: 0.7338 {macula-proximity}
   cross_language:
   - strongs: G2171
-    proximity: 0.8226
+    lemma: εὐχή
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
     language: greek
   - strongs: G2657
-    proximity: 0.81
+    lemma: κατανοέω
+    gloss: to observe fully {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
     language: greek
   - strongs: G4820
-    proximity: 0.8017
+    lemma: συμβάλλω
+    gloss: to combine {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
     language: greek
   - strongs: G1162
-    proximity: 0.7992
+    lemma: δέησις
+    gloss: a petition {openscriptures-strongs}
+    proximity: 0.7992 {macula-proximity}
     language: greek
   - strongs: G3191
-    proximity: 0.7914
+    lemma: μελετάω
+    gloss: to take care of {openscriptures-strongs}
+    proximity: 0.7914 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

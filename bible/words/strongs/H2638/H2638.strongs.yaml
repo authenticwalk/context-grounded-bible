@@ -6,49 +6,59 @@ pronunciation: khaw-sare'
 definition: lacking; hence, without
 kjv_usage: destitute, fail, lack, have need, void, want.
 derivation: from H2637 (חָסֵר);
-extended_definition:
-  gloss: lacking
-  definition: in need of, lacking, needy, in want of
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: in need of, lacking, needy, in want of {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5529
-    proximity: 0.8234
+    lemma: סֶכֶל
+    gloss: silliness {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
   - strongs: H408
-    proximity: 0.8189
+    proximity: 0.8189 {macula-proximity}
   - strongs: H1115
-    proximity: 0.8141
+    lemma: בִּלְתִּי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: H3687
-    proximity: 0.8113
+    lemma: כְּסִילוּת
+    gloss: silliness {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
   - strongs: H1198
-    proximity: 0.8089
+    lemma: בַּעַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: H371
-    proximity: 0.7995
+    proximity: 0.7995 {macula-proximity}
   - strongs: H3019
-    proximity: 0.7988
+    lemma: יָגִיעַ
+    gloss: tired {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   - strongs: H7510
-    proximity: 0.7982
+    lemma: רִפְיוֹן
+    gloss: slackness {openscriptures-strongs}
+    proximity: 0.7982 {macula-proximity}
   - strongs: H2639
-    proximity: 0.7978
+    lemma: חֶסֶר
+    gloss: lack {openscriptures-strongs}
+    proximity: 0.7978 {macula-proximity}
   cross_language:
   - strongs: G877
-    proximity: 0.8289
+    proximity: 0.8289 {macula-proximity}
     language: greek
   - strongs: G50
-    proximity: 0.8196
+    proximity: 0.8196 {macula-proximity}
     language: greek
   - strongs: G3361
-    proximity: 0.8195
+    lemma: μή
+    gloss: not {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
     language: greek
   - strongs: G3761
-    proximity: 0.8151
+    lemma: οὐδέ
+    gloss: not however {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
     language: greek
   - strongs: G521
-    proximity: 0.8081
+    proximity: 0.8081 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -10,20 +10,23 @@ derivation: from H7049 (קָלַע);
 related_words:
   synonyms:
   - strongs: H6697a
-    proximity: 0.8215
+    proximity: 0.8215 {macula-proximity}
   - strongs: H6862b
-    proximity: 0.8126
+    proximity: 0.8126 {macula-proximity}
   - strongs: H1496
-    proximity: 0.7773
+    lemma: גָּזִית
+    gloss: something cut {openscriptures-strongs}
+    proximity: 0.7773 {macula-proximity}
   - strongs: H7051
-    proximity: 0.7247
+    lemma: קַלָּע
+    gloss: a slinger {openscriptures-strongs}
+    proximity: 0.7247 {macula-proximity}
   - strongs: A69
-    proximity: 0.7228
+    proximity: 0.7228 {macula-proximity}
   cross_language:
   - strongs: G3035
-    proximity: 0.8049
+    lemma: λίθινος
+    gloss: stony {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

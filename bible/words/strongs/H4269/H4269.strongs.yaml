@@ -6,24 +6,22 @@ pronunciation: makh-sohm'
 definition: a muzzle
 kjv_usage: bridle.
 derivation: from H2629 (חָסַם);
-extended_definition:
-  gloss: muzzle
-  definition: muzzle
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: muzzle {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2629
-    proximity: 0.7553
+    lemma: חָסַם
+    gloss: to muzzle {openscriptures-strongs}
+    proximity: 0.7553 {macula-proximity}
   cross_language:
   - strongs: G4601
-    proximity: 0.8165
+    lemma: σιγάω
+    gloss: to keep silent {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G5392
-    proximity: 0.7606
+    lemma: φιμόω
+    gloss: to muzzle {openscriptures-strongs}
+    proximity: 0.7606 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

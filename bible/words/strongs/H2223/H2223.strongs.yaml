@@ -7,42 +7,45 @@ definition: properly, tightly girt, i.e. probably a racer, or some fleet animal 
   being slender in the waist)
 kjv_usage: '[phrase] greyhound.'
 derivation: by reduplication from H2115 (זוּר);
-extended_definition:
-  gloss: greyhound
-  definition: 1) girded, girt, alert, used with <i>mo.ten</i> (מׇתְנַ֫יִם "loin" H4975)
-    in <ref="Pro.30.31">Pr 30:31</ref><br>1a) perhaps an extinct animal, exact meaning
-    unknown
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) girded, girt, alert, used with mo.ten (מׇתְנַ֫יִם "loin"
+  H4975) in Pr 30:31
+
+  1a) perhaps an extinct animal, exact meaning unknown {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7826
-    proximity: 0.8294
+    lemma: שַׁחַל
+    gloss: a lion {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: H7907
-    proximity: 0.8266
+    lemma: שֶׂכְוִי
+    gloss: observant {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: H738a
-    proximity: 0.8009
+    proximity: 0.8009 {macula-proximity}
   - strongs: H738
-    proximity: 0.8006
+    proximity: 0.8006 {macula-proximity}
   - strongs: A744
-    proximity: 0.7784
+    proximity: 0.7784 {macula-proximity}
   - strongs: H4975
-    proximity: 0.7347
+    lemma: מֹתֶן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7347 {macula-proximity}
   cross_language:
   - strongs: G219
-    proximity: 0.8163
+    proximity: 0.8163 {macula-proximity}
     language: greek
   - strongs: G2224
-    proximity: 0.8107
+    lemma: ζώννυμι
+    gloss: to bind about {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
     language: greek
   - strongs: G3023
-    proximity: 0.7879
+    lemma: λέων
+    gloss: a "lion" {openscriptures-strongs}
+    proximity: 0.7879 {macula-proximity}
     language: greek
   - strongs: G220
-    proximity: 0.735
+    proximity: 0.735 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

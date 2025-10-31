@@ -6,41 +6,49 @@ pronunciation: go'-lem
 definition: a wrapped (and unformed mass, i.e. as the embryo)
 kjv_usage: substance yet being unperfect.
 derivation: from H1563 (גָּלַם);
-extended_definition:
-  gloss: embryo
-  definition: embryo, fetus
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: embryo, fetus {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3338
-    proximity: 0.8298
+    lemma: יָצֻר
+    gloss: structure {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: H1465
-    proximity: 0.816
+    lemma: גֵּוָה
+    gloss: the back {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
   - strongs: A5085
-    proximity: 0.7889
+    proximity: 0.7889 {macula-proximity}
   - strongs: H193
-    proximity: 0.7325
+    proximity: 0.7325 {macula-proximity}
   - strongs: H1472
-    proximity: 0.7063
+    lemma: גְּוִיָּה
+    gloss: a body {openscriptures-strongs}
+    proximity: 0.7063 {macula-proximity}
   cross_language:
   - strongs: G3445
-    proximity: 0.8231
+    lemma: μορφόω
+    gloss: to fashion {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
     language: greek
   - strongs: G5559
-    proximity: 0.8182
+    lemma: χρώς
+    gloss: the body (properly {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: greek
   - strongs: G4430
-    proximity: 0.8099
+    lemma: πτῶμα
+    gloss: a ruin {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
     language: greek
   - strongs: G4984
-    proximity: 0.783
+    lemma: σωματικός
+    gloss: corporeal or physical {openscriptures-strongs}
+    proximity: 0.783 {macula-proximity}
     language: greek
   - strongs: G2966
-    proximity: 0.7698
+    lemma: κῶλον
+    gloss: a limb of the body {openscriptures-strongs}
+    proximity: 0.7698 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

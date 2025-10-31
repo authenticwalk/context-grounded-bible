@@ -6,49 +6,65 @@ pronunciation: mik-tawr'
 definition: something to fume (incense) on i.e. a hearth place
 kjv_usage: to burn...upon.
 derivation: from H6999 (קָטַר);
-extended_definition:
-  gloss: fumigation
-  definition: place of sacrificial smoke, altar, hearth, incense
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: place of sacrificial smoke, altar, hearth, incense {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A3345
-    proximity: 0.8176
+    proximity: 0.8176 {macula-proximity}
   - strongs: H7531a
-    proximity: 0.8159
+    proximity: 0.8159 {macula-proximity}
   - strongs: H2746
-    proximity: 0.8136
+    lemma: חַרְחֻר
+    gloss: fever {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: H3341
-    proximity: 0.8048
+    lemma: יָצַת
+    gloss: to burn or set on fire {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
   - strongs: H7033
-    proximity: 0.802
+    lemma: קָלָה
+    gloss: to toast {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
   - strongs: H6919
-    proximity: 0.7985
+    lemma: קָדַח
+    gloss: to inflame {openscriptures-strongs}
+    proximity: 0.7985 {macula-proximity}
   - strongs: H3857
-    proximity: 0.7915
+    lemma: לָהַט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
   - strongs: H5561
-    proximity: 0.7869
+    lemma: סַם
+    gloss: an aroma {openscriptures-strongs}
+    proximity: 0.7869 {macula-proximity}
   - strongs: H3554
-    proximity: 0.7829
+    lemma: כָּוָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7829 {macula-proximity}
   cross_language:
   - strongs: G1063
-    proximity: 0.8223
+    lemma: γάρ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G4448
-    proximity: 0.8202
+    lemma: πυρόω
+    gloss: to kindle {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
     language: greek
   - strongs: G5394
-    proximity: 0.8202
+    lemma: φλογίζω
+    gloss: to cause a blaze {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
     language: greek
   - strongs: G5117
-    proximity: 0.8123
+    lemma: τόπος
+    gloss: a spot (general in space {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
     language: greek
   - strongs: G2741
-    proximity: 0.7944
+    lemma: καυσόω
+    gloss: to set on fire {openscriptures-strongs}
+    proximity: 0.7944 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

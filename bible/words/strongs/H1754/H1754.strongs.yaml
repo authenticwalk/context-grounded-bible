@@ -9,34 +9,51 @@ derivation: from H1752 (דּוּר);
 related_words:
   synonyms:
   - strongs: H2329
-    proximity: 0.8219
+    lemma: חוּג
+    gloss: a circle {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: H4692
-    proximity: 0.8164
+    lemma: מָצוֹר
+    gloss: something hemming in {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
   - strongs: H2314
-    proximity: 0.8038
+    lemma: חָדַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
   - strongs: H4524
-    proximity: 0.7996
+    lemma: מֵסַב
+    gloss: a divan {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
   - strongs: H5473
-    proximity: 0.7794
+    lemma: סוּג
+    gloss: to hem in {openscriptures-strongs}
+    proximity: 0.7794 {macula-proximity}
   - strongs: H7253
-    proximity: 0.7516
+    lemma: רֶבַע
+    gloss: a fourth {openscriptures-strongs}
+    proximity: 0.7516 {macula-proximity}
   - strongs: H5437
-    proximity: 0.7498
+    lemma: סָבַב
+    gloss: to revolve {openscriptures-strongs}
+    proximity: 0.7498 {macula-proximity}
   - strongs: H6696
-    proximity: 0.7346
+    lemma: צוּר
+    gloss: to cramp {openscriptures-strongs}
+    proximity: 0.7346 {macula-proximity}
   - strongs: H5362a
-    proximity: 0.7181
+    proximity: 0.7181 {macula-proximity}
   cross_language:
   - strongs: G3840
-    proximity: 0.8205
+    lemma: πάντοθεν
+    gloss: from  all sides {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
     language: greek
   - strongs: G2944
-    proximity: 0.8113
+    lemma: κυκλόω
+    gloss: to encircle {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
     language: greek
   - strongs: G2944a
-    proximity: 0.7081
+    proximity: 0.7081 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

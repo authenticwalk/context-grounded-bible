@@ -5,55 +5,62 @@ transliteration: epipóthēsis
 definition: a longing for
 kjv_usage: earnest (vehement) desire
 derivation: from G1971 (ἐπιποθέω);
-extended_definition:
-  gloss: longing
-  definition: '<b>ἐπι-πόθησις</b>, -εως, ἡ <BR /> [in Aq.: <ref=''Ezk.23.11''>Eze.23:11</ref>
-    * ;] <BR /><b>longing</b>: <ref=''2Co.7.7; 7.11''>2Co.7:7 7:11</ref>.† <BR />
-    (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐπιπόθ-ησις</b>, εως, ἡ, <br /> <b>longing after</b>, τινός
-    [<a href="javascript:void(0)" title=" NT.2Cor.7.7, 2nd c.AD: Aquila LXX.Eze.23.11,
-    5th-6th c.AD: Damascius Philosophus “de Principiis” 38. ">NT+2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐπι-πόθησις, -εως, ἡ
+
+  [in Aq.: Eze.23:11 * ;]
+
+  longing: 2Co.7:7 7:11.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐπιπόθ-ησις, εως, ἡ,
+
+  longing after, τινός [NT+2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A7476
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
   - strongs: G3118
-    proximity: 0.8264
+    lemma: μακροχρόνιος
+    gloss: long-timed {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: G357
-    proximity: 0.8206
+    proximity: 0.8206 {macula-proximity}
   - strongs: G901
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
   - strongs: G3053
-    proximity: 0.8078
+    lemma: λογισμός
+    gloss: computation {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   - strongs: G1760
-    proximity: 0.793
+    lemma: ἐνθυμέομαι
+    gloss: to be inspirited {openscriptures-strongs}
+    proximity: 0.793 {macula-proximity}
   - strongs: A2031
-    proximity: 0.7879
+    proximity: 0.7879 {macula-proximity}
   - strongs: G1761
-    proximity: 0.7873
+    lemma: ἐνθύμησις
+    gloss: deliberation {openscriptures-strongs}
+    proximity: 0.7873 {macula-proximity}
   cross_language:
   - strongs: H5587a
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
     language: hebrew
   - strongs: H6013
-    proximity: 0.8191
+    lemma: עָמֹק
+    gloss: deep {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
     language: hebrew
   - strongs: H3631
-    proximity: 0.8159
+    lemma: כִּלָּיוֹן
+    gloss: pining {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
     language: hebrew
   - strongs: H380a
-    proximity: 0.8109
+    proximity: 0.8109 {macula-proximity}
     language: hebrew
   - strongs: H8378
-    proximity: 0.7954
+    lemma: תַּאֲוָה
+    gloss: a longing {openscriptures-strongs}
+    proximity: 0.7954 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

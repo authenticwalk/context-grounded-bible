@@ -10,28 +10,41 @@ derivation: from H3947 (לָקַח);
 related_words:
   synonyms:
   - strongs: H6718
-    proximity: 0.8281
+    lemma: צַיִד
+    gloss: the chase {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H7633
-    proximity: 0.8173
+    lemma: שִׁבְיָה
+    gloss: exile {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
   - strongs: H4685a
-    proximity: 0.7948
+    proximity: 0.7948 {macula-proximity}
   - strongs: H1215
-    proximity: 0.7936
+    lemma: בֶּצַע
+    gloss: plunder {openscriptures-strongs}
+    proximity: 0.7936 {macula-proximity}
   - strongs: H8155
-    proximity: 0.7517
+    lemma: שָׁסַס
+    gloss: to plunder {openscriptures-strongs}
+    proximity: 0.7517 {macula-proximity}
   - strongs: H7628
-    proximity: 0.7462
+    lemma: שְׁבִי
+    gloss: exiled {openscriptures-strongs}
+    proximity: 0.7462 {macula-proximity}
   - strongs: H1500
-    proximity: 0.7442
+    lemma: גְּזֵלָה
+    gloss: '{robbery {openscriptures-strongs}'
+    proximity: 0.7442 {macula-proximity}
   - strongs: H8154
-    proximity: 0.7356
+    lemma: שָׁסָה
+    gloss: to plunder {openscriptures-strongs}
+    proximity: 0.7356 {macula-proximity}
   - strongs: H7617
-    proximity: 0.7354
+    lemma: שָׁבָה
+    gloss: to transport into captivity {openscriptures-strongs}
+    proximity: 0.7354 {macula-proximity}
   cross_language:
   - strongs: G161
-    proximity: 0.8008
+    proximity: 0.8008 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

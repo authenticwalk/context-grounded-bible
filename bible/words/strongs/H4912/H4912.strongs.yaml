@@ -8,47 +8,71 @@ definition: properly, a pithy maxim, usually of metaphorical nature; hence, a si
 kjv_usage: byword, like, parable, proverb.
 derivation: apparently from H4910 (מָשַׁל) in some original sense of superiority in
   mental action;
-extended_definition:
-  gloss: proverb
-  definition: 1) proverb, parable<br>1a) proverb, proverbial saying, aphorism<br>1b)
-    byword<br>1c) similitude, parable<br>1d) poem<br>1e) sentences of ethical wisdom,
-    ethical maxims
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) proverb, parable
+
+  1a) proverb, proverbial saying, aphorism
+
+  1b) byword
+
+  1c) similitude, parable
+
+  1d) poem
+
+  1e) sentences of ethical wisdom, ethical maxims {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H627
-    proximity: 0.83
+    proximity: 0.83 {macula-proximity}
   - strongs: H8103
-    proximity: 0.8172
+    lemma: שִׁמְצָה
+    gloss: scornful whispering {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
   - strongs: H3932
-    proximity: 0.8166
+    lemma: לָעַג
+    gloss: to deride {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
   - strongs: H1422
-    proximity: 0.81
+    lemma: גְּדוּפָה
+    gloss: a revilement {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
   - strongs: H5012
-    proximity: 0.8024
+    lemma: נָבָא
+    gloss: to prophesy {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: H3933
-    proximity: 0.7996
+    lemma: לַעַג
+    gloss: derision {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
   - strongs: H7814
-    proximity: 0.7929
+    lemma: שְׂחוֹק
+    gloss: laughter {openscriptures-strongs}
+    proximity: 0.7929 {macula-proximity}
   - strongs: H1696
-    proximity: 0.791
+    lemma: דָבַר
+    gloss: perhaps properly {openscriptures-strongs}
+    proximity: 0.791 {macula-proximity}
   - strongs: H8148
-    proximity: 0.7413
+    lemma: שְׁנִינָה
+    gloss: something pointed {openscriptures-strongs}
+    proximity: 0.7413 {macula-proximity}
   - strongs: H8322
-    proximity: 0.7275
+    lemma: שְׁרֵקָה
+    gloss: a derision {openscriptures-strongs}
+    proximity: 0.7275 {macula-proximity}
   cross_language:
   - strongs: G5512
-    proximity: 0.8134
+    lemma: χλευάζω
+    gloss: to throw out the lip {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
     language: greek
   - strongs: G3004
-    proximity: 0.8044
+    lemma: λέγω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
     language: greek
   - strongs: G2980
-    proximity: 0.7102
+    lemma: λαλέω
+    gloss: to talk {openscriptures-strongs}
+    proximity: 0.7102 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

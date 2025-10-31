@@ -6,36 +6,40 @@ pronunciation: yaw-thome'
 definition: a bereaved person
 kjv_usage: fatherless (child), orphan.
 derivation: from an unused root meaning to be lonely;
-extended_definition:
-  gloss: orphan
-  definition: an orphan, fatherless
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: an orphan, fatherless {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3329
-    proximity: 0.8206
+    lemma: יָצִיא
+    gloss: issue {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: H7909
-    proximity: 0.8063
+    lemma: שַׁכּוּל
+    gloss: bereaved {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
   - strongs: H7908
-    proximity: 0.768
+    lemma: שְׁכוֹל
+    gloss: bereavement {openscriptures-strongs}
+    proximity: 0.768 {macula-proximity}
   - strongs: H490
-    proximity: 0.7067
+    proximity: 0.7067 {macula-proximity}
   cross_language:
   - strongs: G3813
-    proximity: 0.829
+    lemma: παιδίον
+    gloss: a childling {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G540
-    proximity: 0.8272
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G5042
-    proximity: 0.8067
+    lemma: τεκνογονία
+    gloss: childbirth {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
     language: greek
   - strongs: G5043
-    proximity: 0.7633
+    lemma: τέκνον
+    gloss: a child {openscriptures-strongs}
+    proximity: 0.7633 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

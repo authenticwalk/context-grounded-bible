@@ -6,21 +6,17 @@ pronunciation: need
 definition: motion (of the lips in speech)
 kjv_usage: moving.
 derivation: from H5110 (נוּד);
-extended_definition:
-  gloss: solace
-  definition: quivering (motion) of lips
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: quivering (motion) of lips {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4496
-    proximity: 0.8222
+    lemma: מְנוּחָה
+    gloss: repose or  peacefully {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   cross_language:
   - strongs: G3870
-    proximity: 0.787
+    lemma: παρακαλέω
+    gloss: to call near {openscriptures-strongs}
+    proximity: 0.787 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

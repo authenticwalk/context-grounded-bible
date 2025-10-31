@@ -6,23 +6,21 @@ pronunciation: miz-bay'-akh
 definition: an altar
 kjv_usage: altar.
 derivation: from H2076 (זָבַח);
-extended_definition:
-  gloss: altar
-  definition: altar
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: altar {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7004
-    proximity: 0.7894
+    lemma: קְטֹרֶת
+    gloss: a fumigation {openscriptures-strongs}
+    proximity: 0.7894 {macula-proximity}
   - strongs: H5930
-    proximity: 0.7813
+    lemma: עֹלָה
+    gloss: a step or (collectively {openscriptures-strongs}
+    proximity: 0.7813 {macula-proximity}
   cross_language:
   - strongs: G2368
-    proximity: 0.8252
+    lemma: θυμίαμα
+    gloss: an aroma {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,56 +5,74 @@ transliteration: mataiológos
 definition: an idle (i.e. senseless or mischievous) talker, i.e. a wrangler
 kjv_usage: vain talker
 derivation: from G3152 (μάταιος) and G3004 (λέγω);
-extended_definition:
-  gloss: babbler
-  definition: '<b>ματαιολόγος -ον</b><BR /> (μάταιος, λέγω), <BR /><b>talking idly</b>:
-    <ref=''Tit.1.10.''>Tit.1:10.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> μᾰταιο-λόγος</b>, ον, <br /> <b>talking at random</b>, [<a
-    href="javascript:void(0)" title=" 4th c.BC: Telestes Lyricus 1.9, NT.Tit.1.10,
-    2nd c.AD: Vettius Valens Astrologus 301.11. ">NT+4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ματαιολόγος -ον
+
+  (μάταιος, λέγω),
+
+  talking idly: Tit.1:10.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'μᾰταιο-λόγος, ον,
+
+  talking at random, [NT+4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2756
-    proximity: 0.8096
+    lemma: κενός
+    gloss: empty {openscriptures-strongs}
+    proximity: 0.8096 {macula-proximity}
   - strongs: G2758
-    proximity: 0.7993
+    lemma: κενόω
+    gloss: to make empty {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
   - strongs: G3473
-    proximity: 0.798
+    lemma: μωρολογία
+    gloss: silly talk {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
   - strongs: G4354
-    proximity: 0.7959
+    lemma: προσλαλέω
+    gloss: to talk to {openscriptures-strongs}
+    proximity: 0.7959 {macula-proximity}
   - strongs: G2980
-    proximity: 0.7953
+    lemma: λαλέω
+    gloss: to talk {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
   - strongs: G3152
-    proximity: 0.7945
+    lemma: μάταιος
+    gloss: empty {openscriptures-strongs}
+    proximity: 0.7945 {macula-proximity}
   - strongs: G3150
-    proximity: 0.7938
+    lemma: ματαιολογία
+    gloss: random talk {openscriptures-strongs}
+    proximity: 0.7938 {macula-proximity}
   - strongs: G3656
-    proximity: 0.7523
+    lemma: ὁμιλέω
+    gloss: to be in company with {openscriptures-strongs}
+    proximity: 0.7523 {macula-proximity}
   - strongs: G4814
-    proximity: 0.7476
+    lemma: συλλαλέω
+    gloss: to talk together {openscriptures-strongs}
+    proximity: 0.7476 {macula-proximity}
   cross_language:
   - strongs: H7387
-    proximity: 0.8198
+    lemma: רֵיקָם
+    gloss: emptily {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
     language: hebrew
   - strongs: H1891
-    proximity: 0.8151
+    lemma: הָבַל
+    gloss: to be vain in act {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
     language: hebrew
   - strongs: H922
-    proximity: 0.7996
+    proximity: 0.7996 {macula-proximity}
     language: hebrew
   - strongs: H7386
-    proximity: 0.7903
+    lemma: רֵיק
+    gloss: empty {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
     language: hebrew
   - strongs: H950
-    proximity: 0.7762
+    proximity: 0.7762 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

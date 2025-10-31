@@ -6,30 +6,32 @@ pronunciation: dem-eh'-shek
 definition: damask (as a fabric of Damascus)
 kjv_usage: in Damascus.
 derivation: by orthographical variation from H1834 (דַּמֶּשֶׂק);
-extended_definition:
-  gloss: silk
-  definition: damask?, silk? (meaning uncertain)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: damask?, silk? (meaning uncertain) {STEPBible-TBESH}
 related_words:
   cross_language:
   - strongs: G3136
-    proximity: 0.805
+    lemma: Μάρθα
+    gloss: Martha {openscriptures-strongs}
+    proximity: 0.805 {macula-proximity}
     language: greek
   - strongs: G2899
-    proximity: 0.8011
+    lemma: κράσπεδον
+    gloss: a margin {openscriptures-strongs}
+    proximity: 0.8011 {macula-proximity}
     language: greek
   - strongs: G4344
-    proximity: 0.7847
+    lemma: προσκεφάλαιον
+    gloss: something for the head {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
     language: greek
   - strongs: G2826
-    proximity: 0.7449
+    lemma: κλινίδιον
+    gloss: a pallet or little couch {openscriptures-strongs}
+    proximity: 0.7449 {macula-proximity}
     language: greek
   - strongs: G2825
-    proximity: 0.7287
+    lemma: κλίνη
+    gloss: a couch (for sleep {openscriptures-strongs}
+    proximity: 0.7287 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

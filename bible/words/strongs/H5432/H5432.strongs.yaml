@@ -6,45 +6,51 @@ pronunciation: sah-seh-aw'
 definition: measurement, i.e. moderation
 kjv_usage: measure.
 derivation: for H5429 (סְאָה);
-extended_definition:
-  gloss: to drive away
-  definition: (Pilpel) to drive away
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Pilpel) to drive away {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7991a
-    proximity: 0.8263
+    proximity: 0.8263 {macula-proximity}
   - strongs: H7128
-    proximity: 0.8262
+    lemma: קְרָב
+    gloss: hostile encounter {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: H5615
-    proximity: 0.824
+    lemma: סְפֹרָה
+    gloss: a numeration {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: A8332
-    proximity: 0.8136
+    proximity: 0.8136 {macula-proximity}
   - strongs: H5080
-    proximity: 0.8053
+    lemma: נָדַח
+    gloss: to push off {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H4884
-    proximity: 0.7818
+    lemma: מְשׂוּרָה
+    gloss: a measure {openscriptures-strongs}
+    proximity: 0.7818 {macula-proximity}
   - strongs: A8332a
-    proximity: 0.7765
+    proximity: 0.7765 {macula-proximity}
   cross_language:
   - strongs: G4171
-    proximity: 0.8299
+    lemma: πόλεμος
+    gloss: warfare (literally or figuratively {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G488
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G4754
-    proximity: 0.826
+    lemma: στρατεύομαι
+    gloss: to serve in a military campaign {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
     language: greek
   - strongs: G497
-    proximity: 0.8204
+    proximity: 0.8204 {macula-proximity}
     language: greek
   - strongs: G3355
-    proximity: 0.8056
+    lemma: μετρητής
+    gloss: a measurer {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -9,33 +9,48 @@ derivation: from H2891 (טָהֵר);
 related_words:
   synonyms:
   - strongs: H216
-    proximity: 0.8236
+    proximity: 0.8236 {macula-proximity}
   - strongs: H3835
-    proximity: 0.8212
+    lemma: לָבַן
+    gloss: to be  white {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   - strongs: H5844a
-    proximity: 0.8195
+    proximity: 0.8195 {macula-proximity}
   - strongs: H5051
-    proximity: 0.8187
+    lemma: נֹגַהּ
+    gloss: brilliancy {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
   - strongs: H8562
-    proximity: 0.8089
+    lemma: תַּמְרוּק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: H6292
-    proximity: 0.8007
+    lemma: פִּגּוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: H1305b
-    proximity: 0.7967
+    proximity: 0.7967 {macula-proximity}
   - strongs: H6188
-    proximity: 0.7963
+    lemma: עָרֵל
+    gloss: to expose or remove the prepuce {openscriptures-strongs}
+    proximity: 0.7963 {macula-proximity}
   - strongs: H4950
-    proximity: 0.7956
+    lemma: מִשְׁקָע
+    gloss: a settling place {openscriptures-strongs}
+    proximity: 0.7956 {macula-proximity}
   - strongs: H2135
-    proximity: 0.7882
+    lemma: זָכָה
+    gloss: to be translucent {openscriptures-strongs}
+    proximity: 0.7882 {macula-proximity}
   cross_language:
   - strongs: G2839
-    proximity: 0.8152
+    lemma: κοινός
+    gloss: common {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
     language: greek
   - strongs: G5457
-    proximity: 0.8145
+    lemma: φῶς
+    gloss: compare G5316 {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

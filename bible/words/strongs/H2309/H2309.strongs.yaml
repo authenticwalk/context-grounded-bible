@@ -6,37 +6,41 @@ pronunciation: kheh'-del
 definition: rest, i.e. the state of the dead
 kjv_usage: world.
 derivation: from H2308 (חָדַל);
-extended_definition:
-  gloss: world
-  definition: rest, cessation
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: rest, cessation {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3249
-    proximity: 0.8241
+    lemma: יָסוּר
+    gloss: departing {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: A7352
-    proximity: 0.7898
+    proximity: 0.7898 {macula-proximity}
   - strongs: H2465
-    proximity: 0.7178
+    lemma: חֶלֶד
+    gloss: life {openscriptures-strongs}
+    proximity: 0.7178 {macula-proximity}
   cross_language:
   - strongs: G3938
-    proximity: 0.8125
+    lemma: πάροδος
+    gloss: a by-road {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G2888
-    proximity: 0.8088
+    lemma: κοσμοκράτωρ
+    gloss: a world-ruler {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
     language: greek
   - strongs: G1841
-    proximity: 0.8029
+    lemma: ἔξοδος
+    gloss: an exit {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
     language: greek
   - strongs: G360
-    proximity: 0.7534
+    proximity: 0.7534 {macula-proximity}
     language: greek
   - strongs: G3625
-    proximity: 0.7011
+    lemma: οἰκουμένη
+    gloss: land {openscriptures-strongs}
+    proximity: 0.7011 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

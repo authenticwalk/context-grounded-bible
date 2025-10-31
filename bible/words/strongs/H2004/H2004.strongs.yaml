@@ -7,50 +7,55 @@ definition: they (only used when emphatic)
 kjv_usage: '[idiom] in, such like, (with) them, thereby, therein, (more than) they,
   wherein, in which, whom, withal.'
 derivation: feminine plural from H1931 (הוּא);
-extended_definition:
-  gloss: they(fem.)
-  definition: they, these, the same, who<BR>A grammatical form of <i>hu</i> (הוּא
-    "he/she/it" H1931)
-  morphology: H:PerP-FP
-  source: STEPBible/BDB
+extended_definition: 'they, these, the same, who
+
+  A grammatical form of hu (הוּא "he/she/it" H1931) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H859
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
   - strongs: H2967a
-    proximity: 0.8272
+    proximity: 0.8272 {macula-proximity}
   - strongs: A997
-    proximity: 0.8256
+    proximity: 0.8256 {macula-proximity}
   - strongs: A459
-    proximity: 0.8225
+    proximity: 0.8225 {macula-proximity}
   - strongs: H859a
-    proximity: 0.8095
+    proximity: 0.8095 {macula-proximity}
   - strongs: A479
-    proximity: 0.8042
+    proximity: 0.8042 {macula-proximity}
   - strongs: A1886i
-    proximity: 0.7984
+    proximity: 0.7984 {macula-proximity}
   - strongs: H193
-    proximity: 0.7946
+    proximity: 0.7946 {macula-proximity}
   - strongs: H1454
-    proximity: 0.7946
+    lemma: גֵּה
+    gloss: this {openscriptures-strongs}
+    proximity: 0.7946 {macula-proximity}
   cross_language:
   - strongs: G1683
-    proximity: 0.825
+    lemma: ἐμαυτοῦ
+    gloss: of myself so likewise the dative case {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G4572
-    proximity: 0.8213
+    lemma: σεαυτοῦ
+    gloss: of (with {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
     language: greek
   - strongs: G1526
-    proximity: 0.82
+    lemma: εἰσί
+    gloss: they are {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
   - strongs: G2257
-    proximity: 0.8173
+    lemma: ἡμῶν
+    gloss: of  us {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
     language: greek
   - strongs: G5025
-    proximity: 0.8095
+    lemma: ταύταις
+    gloss: (to or with or by {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

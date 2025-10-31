@@ -6,45 +6,59 @@ pronunciation: meer-baw'
 definition: abundance, i.e. a great quantity
 kjv_usage: much.
 derivation: from H7235 (רָבָה);
-extended_definition:
-  gloss: much
-  definition: much
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: much {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3966
-    proximity: 0.8151
+    lemma: מְאֹד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
   - strongs: H1419
-    proximity: 0.8121
+    lemma: גָּדוֹל
+    gloss: great {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H3515
-    proximity: 0.8
+    lemma: כָּבֵד
+    gloss: heavy {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: H7235
-    proximity: 0.7676
+    lemma: רָבָה
+    gloss: to increase {openscriptures-strongs}
+    proximity: 0.7676 {macula-proximity}
   - strongs: A7690
-    proximity: 0.7597
+    proximity: 0.7597 {macula-proximity}
   - strongs: H2959
-    proximity: 0.7595
+    lemma: טָרַח
+    gloss: to overburden {openscriptures-strongs}
+    proximity: 0.7595 {macula-proximity}
   - strongs: H4392
-    proximity: 0.7527
+    lemma: מָלֵא
+    gloss: full  or filling {openscriptures-strongs}
+    proximity: 0.7527 {macula-proximity}
   cross_language:
   - strongs: G2425
-    proximity: 0.8259
+    lemma: ἱκανός
+    gloss: competent {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G1542
-    proximity: 0.8215
+    lemma: ἑκατονταπλασίων
+    gloss: a hundred times {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
     language: greek
   - strongs: G4214
-    proximity: 0.8212
+    lemma: πόσος
+    gloss: interrogative pronoun  how much (large {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
     language: greek
   - strongs: G5118
-    proximity: 0.8093
+    lemma: τοσοῦτος
+    gloss: apparently from G3588  and G3739 ) and G3778 {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
     language: greek
   - strongs: G4121
-    proximity: 0.8047
+    lemma: πλεονάζω
+    gloss: to do {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

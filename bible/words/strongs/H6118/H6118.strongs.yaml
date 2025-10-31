@@ -8,47 +8,71 @@ definition: a heel, i.e. (figuratively) the last of anything (used adverbially, 
   on account of
 kjv_usage: '[idiom] because, by, end, for, if, reward.'
 derivation: from H6117 (עָקַב) in the sense of H6119 (עָקֵב);
-extended_definition:
-  gloss: consequence
-  definition: 1) consequence<br>1a) consequence<br>1b) consequence, gain, reward<br>1c)
-    end<br>adv<br>2) as a consequence, because, consequently<br>conj<br>3) as a consequence
-    of, that, because
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) consequence
+
+  1a) consequence
+
+  1b) consequence, gain, reward
+
+  1c) end
+
+  adv
+
+  2) as a consequence, because, consequently
+
+  conj
+
+  3) as a consequence of, that, because {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2050b
-    proximity: 0.8295
+    proximity: 0.8295 {macula-proximity}
   - strongs: H1157
-    proximity: 0.8274
+    lemma: בְּעַד
+    gloss: in up to or over against {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H7938
-    proximity: 0.8235
+    lemma: שֶׂכֶר
+    gloss: wages {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: H4909
-    proximity: 0.822
+    lemma: מַשְׂכֹּרֶת
+    gloss: wages or a reward {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
   - strongs: H1700
-    proximity: 0.8096
+    lemma: דִּבְרָה
+    gloss: a reason {openscriptures-strongs}
+    proximity: 0.8096 {macula-proximity}
   - strongs: H7093
-    proximity: 0.8082
+    lemma: קֵץ
+    gloss: an extremity {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
   - strongs: H871a
-    proximity: 0.8068
+    proximity: 0.8068 {macula-proximity}
   cross_language:
   - strongs: G3588
-    proximity: 0.8289
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: greek
   - strongs: G1535
-    proximity: 0.8286
+    lemma: εἴτε
+    gloss: if too {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G1537
-    proximity: 0.8282
+    lemma: ἐκ
+    gloss: literal or figurative {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: greek
   - strongs: G1434
-    proximity: 0.8233
+    lemma: δώρημα
+    gloss: a bestowment {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
     language: greek
   - strongs: G3360
-    proximity: 0.8218
+    lemma: μέχρι
+    gloss: as far as {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,55 +7,87 @@ definition: to lie down (for rest, sexual connection, decease or any other purpo
 kjv_usage: '[idiom] at all, cast down, (lover-)lay (self) (down), (make to) lie (down,
   down to sleep, still with), lodge, ravish, take rest, sleep, stay.'
 derivation: a primitive root;
-extended_definition:
-  gloss: 'to lie down: be dead'
-  definition: ': be_dead<br>1) to lie down<br>1a) (Qal)<br>1a1) to lie, lie down,
-    lie on<br>1a2) to lodge<br>1a3) to lie (of sexual relations)<br>1a4) to lie down
-    (in death)<br>1a5) to rest, relax (fig)<br>1b) (Niphal) to be lain with (sexually)<br>1c)
-    (Pual) to be lain with (sexually)<br>1d) (Hiphil) to make to lie down<br>1e) (Hophal)
-    to be laid'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': be_dead
+
+  1) to lie down
+
+  1a) (Qal)
+
+  1a1) to lie, lie down, lie on
+
+  1a2) to lodge
+
+  1a3) to lie (of sexual relations)
+
+  1a4) to lie down (in death)
+
+  1a5) to rest, relax (fig)
+
+  1b) (Niphal) to be lain with (sexually)
+
+  1c) (Pual) to be lain with (sexually)
+
+  1d) (Hiphil) to make to lie down
+
+  1e) (Hophal) to be laid {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H871a
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
   - strongs: H4771
-    proximity: 0.8178
+    lemma: מַרְגּוֹעַ
+    gloss: a resting place {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   - strongs: H5307
-    proximity: 0.8166
+    lemma: נָפַל
+    gloss: to fall {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
   - strongs: H5973
-    proximity: 0.8156
+    lemma: עִם
+    gloss: adverb or preposition {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
   - strongs: H7250
-    proximity: 0.8111
+    lemma: רָבַע
+    gloss: to squat or lie out flat {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: H8142
-    proximity: 0.808
+    lemma: שֵׁנָה
+    gloss: sleep {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
   - strongs: H935
-    proximity: 0.8054
+    proximity: 0.8054 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.8015
+    proximity: 0.8015 {macula-proximity}
   - strongs: H5117
-    proximity: 0.7998
+    lemma: נוּחַ
+    gloss: to rest {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
   - strongs: H5123
-    proximity: 0.7876
+    lemma: נוּם
+    gloss: to slumber {openscriptures-strongs}
+    proximity: 0.7876 {macula-proximity}
   cross_language:
   - strongs: G1722
-    proximity: 0.8282
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.8282 {macula-proximity}
     language: greek
   - strongs: G2192
-    proximity: 0.8188
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
     language: greek
   - strongs: G835
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G3432
-    proximity: 0.8048
+    lemma: μοιχός
+    gloss: a  paramour {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
     language: greek
   - strongs: G2518
-    proximity: 0.7961
+    lemma: καθεύδω
+    gloss: to lie down to rest {openscriptures-strongs}
+    proximity: 0.7961 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

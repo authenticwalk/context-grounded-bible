@@ -6,25 +6,25 @@ pronunciation: mah-af-ale'
 definition: something opaque
 kjv_usage: darkness.
 derivation: from the same as H651 (אָפֵל);
-extended_definition:
-  gloss: darkness
-  definition: darkness
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: darkness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6937
-    proximity: 0.82
+    lemma: קָדַר
+    gloss: to be ashy {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
   - strongs: H6757
-    proximity: 0.7191
+    lemma: צַלְמָוֶת
+    gloss: shade of death {openscriptures-strongs}
+    proximity: 0.7191 {macula-proximity}
   - strongs: H5939
-    proximity: 0.7085
+    lemma: עֲלָטָה
+    gloss: dusk {openscriptures-strongs}
+    proximity: 0.7085 {macula-proximity}
   cross_language:
   - strongs: G4654
-    proximity: 0.8167
+    lemma: σκοτίζω
+    gloss: to obscure {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

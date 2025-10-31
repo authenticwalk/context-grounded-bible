@@ -7,51 +7,71 @@ definition: shame (the feeling and the condition, as well as its cause); by impl
   (specifically) an idol
 kjv_usage: ashamed, confusion, [phrase] greatly, (put to) shame(-ful thing).
 derivation: from H954 (בּוּשׁ);
-extended_definition:
-  gloss: shame
-  definition: 1) shame<br>1a) shame<br>1b) shameful thing
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) shame
+
+  1a) shame
+
+  1b) shameful thing {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6819
-    proximity: 0.8283
+    lemma: צָעַר
+    gloss: to be small {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H6459
-    proximity: 0.8276
+    lemma: פֶּסֶל
+    gloss: an idol {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: H5039
-    proximity: 0.8269
+    lemma: נְבָלָה
+    gloss: foolishness {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: H6091
-    proximity: 0.8023
+    lemma: עָצָב
+    gloss: an  image {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
   - strongs: H2778
-    proximity: 0.7821
+    lemma: חָרַף
+    gloss: to pull off {openscriptures-strongs}
+    proximity: 0.7821 {macula-proximity}
   - strongs: H5034a
-    proximity: 0.7773
+    proximity: 0.7773 {macula-proximity}
   - strongs: H6172
-    proximity: 0.7746
+    lemma: עֶרְוָה
+    gloss: nudity {openscriptures-strongs}
+    proximity: 0.7746 {macula-proximity}
   - strongs: H2616a
-    proximity: 0.7527
+    proximity: 0.7527 {macula-proximity}
   - strongs: H1544
-    proximity: 0.7344
+    lemma: גִּלּוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7344 {macula-proximity}
   - strongs: H5007
-    proximity: 0.7092
+    lemma: נְאָצָה
+    gloss: scorn {openscriptures-strongs}
+    proximity: 0.7092 {macula-proximity}
   cross_language:
   - strongs: G5195
-    proximity: 0.8095
+    lemma: ὑβρίζω
+    gloss: to exercise violence {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
     language: greek
   - strongs: G1165
-    proximity: 0.7883
+    lemma: δειγματίζω
+    gloss: to exhibit {openscriptures-strongs}
+    proximity: 0.7883 {macula-proximity}
     language: greek
   - strongs: G1870
-    proximity: 0.7463
+    lemma: ἐπαισχύνομαι
+    gloss: to feel shame for something {openscriptures-strongs}
+    proximity: 0.7463 {macula-proximity}
     language: greek
   - strongs: G1497
-    proximity: 0.7378
+    lemma: εἴδωλον
+    gloss: an image {openscriptures-strongs}
+    proximity: 0.7378 {macula-proximity}
     language: greek
   - strongs: G818
-    proximity: 0.7231
+    proximity: 0.7231 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

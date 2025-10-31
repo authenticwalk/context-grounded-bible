@@ -9,39 +9,58 @@ derivation: from H1523 (גִּיל);
 related_words:
   synonyms:
   - strongs: H7442a
-    proximity: 0.8203
+    proximity: 0.8203 {macula-proximity}
   - strongs: H2898
-    proximity: 0.8165
+    lemma: טוּב
+    gloss: good {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: H7832
-    proximity: 0.8161
+    lemma: שָׂחַק
+    gloss: to laugh {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H871a
-    proximity: 0.8145
+    proximity: 0.8145 {macula-proximity}
   - strongs: H2656
-    proximity: 0.8015
+    lemma: חֵפֶץ
+    gloss: pleasure {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
   - strongs: H5273
-    proximity: 0.7922
+    lemma: נָעִים
+    gloss: delightful (objective or subjective {openscriptures-strongs}
+    proximity: 0.7922 {macula-proximity}
   - strongs: H5730a
-    proximity: 0.7888
+    proximity: 0.7888 {macula-proximity}
   - strongs: H7445
-    proximity: 0.7781
+    lemma: רְנָנָה
+    gloss: a shout {openscriptures-strongs}
+    proximity: 0.7781 {macula-proximity}
   - strongs: H2655
-    proximity: 0.7777
+    lemma: חָפֵץ
+    gloss: pleased with {openscriptures-strongs}
+    proximity: 0.7777 {macula-proximity}
   - strongs: H7438
-    proximity: 0.7663
+    lemma: רֹן
+    gloss: a shout {openscriptures-strongs}
+    proximity: 0.7663 {macula-proximity}
   cross_language:
   - strongs: G2236
-    proximity: 0.8266
+    lemma: ἥδιστα
+    gloss: with great pleasure {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
     language: greek
   - strongs: G3108
-    proximity: 0.8179
+    lemma: μακαρισμός
+    gloss: beatification {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
     language: greek
   - strongs: G2432
-    proximity: 0.8124
+    lemma: ἱλαρότης
+    gloss: alacrity {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
     language: greek
   - strongs: G2431
-    proximity: 0.8042
+    lemma: ἱλαρός
+    gloss: propitious or merry {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

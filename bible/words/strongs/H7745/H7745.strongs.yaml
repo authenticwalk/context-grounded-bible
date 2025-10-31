@@ -6,45 +6,55 @@ pronunciation: shoo-khaw'
 definition: a chasm
 kjv_usage: ditch, pit.
 derivation: from H7743 (שׁוּחַ);
-extended_definition:
-  gloss: pit
-  definition: pit
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: pit {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H696
-    proximity: 0.8214
+    proximity: 0.8214 {macula-proximity}
   - strongs: H2764a
-    proximity: 0.8209
+    proximity: 0.8209 {macula-proximity}
   - strongs: H3921
-    proximity: 0.8139
+    lemma: לֶכֶד
+    gloss: something to capture with {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H2352
-    proximity: 0.8097
+    lemma: חוּר
+    gloss: the crevice of a serpent {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: H4170
-    proximity: 0.804
+    lemma: מוֹקֵשׁ
+    gloss: a noose {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   - strongs: H4204
-    proximity: 0.787
+    lemma: מָזוֹר
+    gloss: treachery {openscriptures-strongs}
+    proximity: 0.787 {macula-proximity}
   - strongs: H7568
-    proximity: 0.783
+    lemma: רֶשֶׁת
+    gloss: a net {openscriptures-strongs}
+    proximity: 0.783 {macula-proximity}
   - strongs: H6013
-    proximity: 0.7505
+    lemma: עָמֹק
+    gloss: deep {openscriptures-strongs}
+    proximity: 0.7505 {macula-proximity}
   - strongs: H953
-    proximity: 0.732
+    proximity: 0.732 {macula-proximity}
   - strongs: H7588a
-    proximity: 0.7245
+    proximity: 0.7245 {macula-proximity}
   cross_language:
   - strongs: G3803
-    proximity: 0.7888
+    lemma: παγίς
+    gloss: a trap {openscriptures-strongs}
+    proximity: 0.7888 {macula-proximity}
     language: greek
   - strongs: G2339
-    proximity: 0.7345
+    lemma: θήρα
+    gloss: hunting {openscriptures-strongs}
+    proximity: 0.7345 {macula-proximity}
     language: greek
   - strongs: G5421
-    proximity: 0.7292
+    lemma: φρέαρ
+    gloss: a hole in the ground {openscriptures-strongs}
+    proximity: 0.7292 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

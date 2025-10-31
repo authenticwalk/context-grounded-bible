@@ -7,47 +7,69 @@ definition: a plan, especially a bad one
 kjv_usage: heinous crime, lewd(-ly, -ness), mischief, purpose, thought, wicked (device,
   mind, -ness).
 derivation: or זַמָּה; from H2161 (זָמַם);
-extended_definition:
-  gloss: wickedness
-  definition: 1) plan, device, wickedness, evil plan, mischievous purpose<br>1a) plan,
-    purpose<br>1b) evil device, wickedness<br>1c) not chaste, incest, licentiousness,
-    adultery, idolatry, harlotry
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) plan, device, wickedness, evil plan, mischievous purpose
+
+  1a) plan, purpose
+
+  1b) evil device, wickedness
+
+  1c) not chaste, incest, licentiousness, adultery, idolatry, harlotry {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1942
-    proximity: 0.8232
+    lemma: הַוָּה
+    gloss: by implication {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H5765
-    proximity: 0.8225
+    lemma: עֲוַל
+    gloss: to distort {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: H5039
-    proximity: 0.8223
+    lemma: נְבָלָה
+    gloss: foolishness {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
   - strongs: H5766
-    proximity: 0.8216
+    lemma: עֶוֶל
+    gloss: evil {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   - strongs: H4156
-    proximity: 0.8208
+    lemma: מוֹעֵצָה
+    gloss: a purpose {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   - strongs: H5040
-    proximity: 0.8168
+    lemma: נַבְלוּת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H4611
-    proximity: 0.8165
+    lemma: מַעֲלָל
+    gloss: an act {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: H6466
-    proximity: 0.8111
+    lemma: פָּעַל
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: H5004
-    proximity: 0.8081
+    lemma: נִאֻף
+    gloss: adultery {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
   - strongs: H4284
-    proximity: 0.8012
+    lemma: מַחֲשָׁבָה
+    gloss: a contrivance {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
   cross_language:
   - strongs: G2845
-    proximity: 0.8173
+    lemma: κοίτη
+    gloss: a couch {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
     language: greek
   - strongs: G1608
-    proximity: 0.8106
+    lemma: ἐκπορνεύω
+    gloss: to be utterly unchaste {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: greek
   - strongs: G4191
-    proximity: 0.7959
+    lemma: πονηρότερος
+    gloss: more evil {openscriptures-strongs}
+    proximity: 0.7959 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

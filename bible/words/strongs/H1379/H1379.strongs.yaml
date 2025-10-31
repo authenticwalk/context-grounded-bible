@@ -6,50 +6,69 @@ pronunciation: gaw-bal'
 definition: properly, to twist as arope;  to bound (as by a line)
 kjv_usage: be border, set (bounds about).
 derivation: a primitive root; also as a denominative from H1366 (גְּבוּל)
-extended_definition:
-  gloss: to border
-  definition: 1) to bound, border<br>1a) (Qal) to bound, border<br>1b) (Hiphil) to
-    set bounds, set bounds for
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to bound, border
+
+  1a) (Qal) to bound, border
+
+  1b) (Hiphil) to set bounds, set bounds for {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A6966
-    proximity: 0.8255
+    proximity: 0.8255 {macula-proximity}
   - strongs: H8444
-    proximity: 0.8214
+    lemma: תּוֹצָאָה
+    gloss: exit {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H7896
-    proximity: 0.821
+    lemma: שִׁית
+    gloss: to place {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
   - strongs: H7099
-    proximity: 0.8035
+    lemma: קֶצֶו
+    gloss: a limit {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
   - strongs: H7760
-    proximity: 0.7952
+    lemma: שׂוּם
+    gloss: to put (used in a great variety of applications {openscriptures-strongs}
+    proximity: 0.7952 {macula-proximity}
   - strongs: H5324
-    proximity: 0.7814
+    lemma: נָצַב
+    gloss: to station {openscriptures-strongs}
+    proximity: 0.7814 {macula-proximity}
   - strongs: H2163
-    proximity: 0.7806
+    lemma: זָמַן
+    gloss: to fix {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
   - strongs: H8376
-    proximity: 0.7665
+    lemma: תָּאָה
+    gloss: to mark off {openscriptures-strongs}
+    proximity: 0.7665 {macula-proximity}
   - strongs: H1366
-    proximity: 0.7121
+    lemma: גְּבוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7121 {macula-proximity}
   cross_language:
   - strongs: G3734
-    proximity: 0.8268
+    lemma: ὁροθεσία
+    gloss: a limit-placing {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: greek
   - strongs: G3725
-    proximity: 0.8054
+    lemma: ὅριον
+    gloss: a boundary-line {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
     language: greek
   - strongs: G5348
-    proximity: 0.8032
+    lemma: φθάνω
+    gloss: to be beforehand {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
     language: greek
   - strongs: G1904
-    proximity: 0.7793
+    lemma: ἐπέρχομαι
+    gloss: to supervene {openscriptures-strongs}
+    proximity: 0.7793 {macula-proximity}
     language: greek
   - strongs: G1904a
-    proximity: 0.7238
+    proximity: 0.7238 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

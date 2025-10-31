@@ -6,45 +6,55 @@ pronunciation: kaw-bawl'
 definition: the presence, i.e. (adverbially) in front of
 kjv_usage: before.
 derivation: from H6901 (קָבַל) in the sense of opposite (see H6904 (קֹבֶל));
-extended_definition:
-  gloss: before
-  definition: 'before<br><BR>Aramaic equivalent: <i>qe.vel</i> (קֳבֵל "before" H6903)'
-  morphology: H:Prep
-  source: STEPBible/BDB
+extended_definition: 'before
+
+  Aramaic equivalent: qe.vel (קֳבֵל "before" H6903) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5704
-    proximity: 0.8271
+    lemma: עַד
+    gloss: as far (or long {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: H4480
-    proximity: 0.8266
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: H7737a
-    proximity: 0.8225
+    proximity: 0.8225 {macula-proximity}
   - strongs: H6927
-    proximity: 0.8192
+    lemma: קַדְמָה
+    gloss: priority {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: H241
-    proximity: 0.8178
+    proximity: 0.8178 {macula-proximity}
   - strongs: H871a
-    proximity: 0.8157
+    proximity: 0.8157 {macula-proximity}
   - strongs: H854
-    proximity: 0.8067
+    proximity: 0.8067 {macula-proximity}
   cross_language:
   - strongs: G4254
-    proximity: 0.8279
+    lemma: προάγω
+    gloss: to lead forward {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G4390
-    proximity: 0.8278
+    lemma: προτρέχω
+    gloss: to run forward {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G4315
-    proximity: 0.8269
+    lemma: προσάββατον
+    gloss: a fore-sabbath {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
     language: greek
   - strongs: G2596
-    proximity: 0.825
+    lemma: κατά
+    gloss: down {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G1519
-    proximity: 0.8248
+    lemma: εἰς
+    gloss: to or into {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

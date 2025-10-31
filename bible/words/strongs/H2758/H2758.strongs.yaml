@@ -6,49 +6,65 @@ pronunciation: khaw-reesh'
 definition: ploughing or its season
 kjv_usage: earing (time), ground.
 derivation: from H2790 (חָרַשׁ);
-extended_definition:
-  gloss: plowing
-  definition: ploughing, ploughing time
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ploughing, ploughing time {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A1251
-    proximity: 0.8058
+    proximity: 0.8058 {macula-proximity}
   - strongs: H5194
-    proximity: 0.7999
+    lemma: נֶטַע
+    gloss: a plant {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
   - strongs: H2513
-    proximity: 0.7962
+    lemma: חֶלְקָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7962 {macula-proximity}
   - strongs: H6398
-    proximity: 0.7767
+    lemma: פָּלַח
+    gloss: to slice {openscriptures-strongs}
+    proximity: 0.7767 {macula-proximity}
   - strongs: H5737
-    proximity: 0.7606
+    lemma: עֲדַר
+    gloss: to arrange as a battle {openscriptures-strongs}
+    proximity: 0.7606 {macula-proximity}
   - strongs: H7704
-    proximity: 0.7552
+    lemma: שָׂדֶה
+    gloss: a field {openscriptures-strongs}
+    proximity: 0.7552 {macula-proximity}
   - strongs: H4302
-    proximity: 0.7525
+    lemma: מַטָּע
+    gloss: something planted {openscriptures-strongs}
+    proximity: 0.7525 {macula-proximity}
   - strongs: H5215
-    proximity: 0.7501
+    lemma: נִיר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7501 {macula-proximity}
   - strongs: H3009
-    proximity: 0.7462
+    lemma: יָגַב
+    gloss: to dig or plow {openscriptures-strongs}
+    proximity: 0.7462 {macula-proximity}
   cross_language:
   - strongs: G1093
-    proximity: 0.8288
+    lemma: γῆ
+    gloss: soil {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
     language: greek
   - strongs: G5476
-    proximity: 0.823
+    lemma: χαμαί
+    gloss: earthward {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
     language: greek
   - strongs: G68
-    proximity: 0.8123
+    proximity: 0.8123 {macula-proximity}
     language: greek
   - strongs: G1721
-    proximity: 0.7961
+    lemma: ἔμφυτος
+    gloss: implanted {openscriptures-strongs}
+    proximity: 0.7961 {macula-proximity}
     language: greek
   - strongs: G5564
-    proximity: 0.7951
+    lemma: χωρίον
+    gloss: a spot or plot of ground {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

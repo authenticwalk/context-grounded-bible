@@ -6,44 +6,56 @@ pronunciation: bes-o-raw'
 definition: glad tidings; by implication, reward forgood news
 kjv_usage: reward for tidings.
 derivation: or (shortened) בְּשֹׂרָה; feminine from H1319 (בָּשַׂר);
-extended_definition:
-  gloss: good news
-  definition: 1) news, good news, tidings, reward for good news<br>1a) good tidings<br>1b)
-    tidings, news<br>1c) reward for good tidings
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) news, good news, tidings, reward for good news
+
+  1a) good tidings
+
+  1b) tidings, news
+
+  1c) reward for good tidings {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7918
-    proximity: 0.8299
+    lemma: שָׁכַךְ
+    gloss: to weave  a trap {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
   - strongs: A5017
-    proximity: 0.7895
+    proximity: 0.7895 {macula-proximity}
   - strongs: H4400
-    proximity: 0.7758
+    lemma: מַלְאֲכוּת
+    gloss: a message {openscriptures-strongs}
+    proximity: 0.7758 {macula-proximity}
   - strongs: H8089
-    proximity: 0.7498
+    lemma: שֹׁמַע
+    gloss: a report {openscriptures-strongs}
+    proximity: 0.7498 {macula-proximity}
   - strongs: H1699a
-    proximity: 0.7286
+    proximity: 0.7286 {macula-proximity}
   - strongs: H2896
-    proximity: 0.7061
+    lemma: טוֹב
+    gloss: good  in the widest sense {openscriptures-strongs}
+    proximity: 0.7061 {macula-proximity}
   cross_language:
   - strongs: G2570
-    proximity: 0.8289
+    lemma: καλός
+    proximity: 0.8289 {macula-proximity}
     language: greek
   - strongs: G3056
-    proximity: 0.8268
+    lemma: λόγος
+    gloss: something said {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: greek
   - strongs: G2909
-    proximity: 0.8185
+    lemma: κρείττων
+    gloss: stronger {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
     language: greek
   - strongs: G2783
-    proximity: 0.8084
+    lemma: κῆρυξ
+    gloss: a herald {openscriptures-strongs}
+    proximity: 0.8084 {macula-proximity}
     language: greek
   - strongs: G18
-    proximity: 0.739
+    proximity: 0.739 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

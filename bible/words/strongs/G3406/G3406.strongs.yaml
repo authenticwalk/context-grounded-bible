@@ -5,46 +5,56 @@ transliteration: misthapodótēs
 definition: a renumerator
 kjv_usage: rewarder
 derivation: from G3409 (μισθόω) and G591 (ἀποδίδωμι);
-extended_definition:
-  gloss: rewarder
-  definition: '<b>μισθ-απο-δότης</b>, -ου, ὁ <BR /> (see supr.), <BR /><b>one who
-    pays wages</b>; meton., <b>a rewarder</b>: <ref=''Heb.11.6.''>Heb.11:6.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> μισθαπο-δότης</b>, ου, ὁ, <br /> <b>one who pays wages, rewarder</b>,
-    [prev. work]11.6.
-  source: STEPBible/LSJ
+extended_definition: 'μισθ-απο-δότης, -ου, ὁ
+
+  (see supr.),
+
+  one who pays wages; meton., a rewarder: Heb.11:6.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'μισθαπο-δότης, ου, ὁ,
+
+  one who pays wages, rewarder, [prev. work]11.6. {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5486
-    proximity: 0.8174
+    lemma: χάρισμα
+    gloss: a  gratuity {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
   - strongs: G591
-    proximity: 0.7661
+    proximity: 0.7661 {macula-proximity}
   - strongs: G1394
-    proximity: 0.7631
+    lemma: δόσις
+    gloss: a giving {openscriptures-strongs}
+    proximity: 0.7631 {macula-proximity}
   - strongs: G1431
-    proximity: 0.7167
+    lemma: δωρεά
+    gloss: a gratuity {openscriptures-strongs}
+    proximity: 0.7167 {macula-proximity}
   cross_language:
   - strongs: H7725
-    proximity: 0.8122
+    lemma: שׁוּב
+    gloss: to turn back (hence {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
     language: hebrew
   - strongs: H6059
-    proximity: 0.7893
+    lemma: עָנַק
+    gloss: to collar {openscriptures-strongs}
+    proximity: 0.7893 {macula-proximity}
     language: hebrew
   - strongs: H5414
-    proximity: 0.7876
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.7876 {macula-proximity}
     language: hebrew
   - strongs: H7810
-    proximity: 0.787
+    lemma: שַׁחַד
+    gloss: a donation {openscriptures-strongs}
+    proximity: 0.787 {macula-proximity}
     language: hebrew
   - strongs: H6118
-    proximity: 0.7743
+    lemma: עֵקֶב
+    gloss: a heel {openscriptures-strongs}
+    proximity: 0.7743 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

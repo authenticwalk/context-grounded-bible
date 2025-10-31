@@ -5,36 +5,34 @@ transliteration: Laodíkeia
 definition: Laodicia, a place in Asia Minor
 kjv_usage: Laodicea
 derivation: from a compound of G2992 (λαός) and G1349 (δίκη);
-extended_definition:
-  gloss: Laodicea
-  definition: '<b>Λαοδικία</b> (Rec. -εία), -ας, ἡ <BR /> <b>Laodicea, a city on the
-    Lycus in Phrygia</b>: <ref=''Col.2.1; 4.13, 15-16''>Col.2:1 4:13, 15-16</ref>,
-    <ref=''Rev.1.11; 3.14''>Rev.1:11 3:14</ref>.†<BR /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Λαοδικία</b> (Rec. -εία), -ας, ἡ <BR /> <b>Laodicea, a city
-    on the Lycus in Phrygia</b>: <ref=''Col.2.1; 4.13, 15-16''>Col.2:1 4:13, 15-16</ref>,
-    <ref=''Rev.1.11; 3.14''>Rev.1:11 3:14</ref>.†<BR />  (From Abbott-Smith. LSJ has
-    no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Λαοδικία (Rec. -εία), -ας, ἡ
+
+  Laodicea, a city on the Lycus in Phrygia: Col.2:1 4:13, 15-16, Rev.1:11 3:14.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Λαοδικία (Rec. -εία), -ας, ἡ
+
+  Laodicea, a city on the Lycus in Phrygia: Col.2:1 4:13, 15-16, Rev.1:11 3:14.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G78
-    proximity: 0.83
+    proximity: 0.83 {macula-proximity}
   - strongs: G2804
-    proximity: 0.8209
+    lemma: Κλαύδιος
+    gloss: Claudius {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: G4099a
-    proximity: 0.818
+    proximity: 0.818 {macula-proximity}
   - strongs: G4099
-    proximity: 0.818
+    lemma: Πισιδία
+    gloss: Pisidia {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: G773
-    proximity: 0.8178
+    proximity: 0.8178 {macula-proximity}
   - strongs: G2803
-    proximity: 0.7749
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: Κλαυδία
+    gloss: Claudia {openscriptures-strongs}
+    proximity: 0.7749 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

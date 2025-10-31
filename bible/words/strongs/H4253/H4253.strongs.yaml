@@ -6,29 +6,33 @@ pronunciation: makh-law-faw'
 definition: a ringlet of hair (as gliding over each other)
 kjv_usage: lock.
 derivation: from H2498 (חָלַף);
-extended_definition:
-  gloss: lock
-  definition: 1) braid, lock, plait<br>1a) of hair
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) braid, lock, plait
+
+  1a) of hair {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4748
-    proximity: 0.8183
+    lemma: מִקְשֶׁה
+    gloss: something turned {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: H4020
-    proximity: 0.7975
+    lemma: מִגְבָּלָה
+    gloss: a border {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
   cross_language:
   - strongs: G1009
-    proximity: 0.8291
+    lemma: βότρυς
+    gloss: a bunch {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
     language: greek
   - strongs: G2864
-    proximity: 0.7713
+    lemma: κόμη
+    gloss: the hair of the head (locks {openscriptures-strongs}
+    proximity: 0.7713 {macula-proximity}
     language: greek
   - strongs: G4117
-    proximity: 0.7309
+    lemma: πλέγμα
+    gloss: a plait {openscriptures-strongs}
+    proximity: 0.7309 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

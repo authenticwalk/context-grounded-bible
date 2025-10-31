@@ -6,36 +6,42 @@ pronunciation: yeh-hoo-deeth'
 definition: the Jewish (used adverbially) language
 kjv_usage: in the Jews' language.
 derivation: feminine of H3064 (יְהוּדִי);
-extended_definition:
-  gloss: Jewish
-  definition: <BR> § in the Jewish language, in Hebrew
-  morphology: H:A-F
-  source: STEPBible/BDB
+extended_definition: § in the Jewish language, in Hebrew {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A3062
-    proximity: 0.808
+    proximity: 0.808 {macula-proximity}
   - strongs: H3057
-    proximity: 0.8067
+    lemma: יְהֻדִיָּה
+    gloss: Jehudijah {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   - strongs: H3064
-    proximity: 0.7574
+    lemma: יְהוּדִי
+    gloss: a Jehudite {openscriptures-strongs}
+    proximity: 0.7574 {macula-proximity}
   - strongs: H5680
-    proximity: 0.7175
+    lemma: עִבְרִי
+    gloss: an Eberite  or descendant of Eber {openscriptures-strongs}
+    proximity: 0.7175 {macula-proximity}
   cross_language:
   - strongs: G1722
-    proximity: 0.8233
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.8233 {macula-proximity}
     language: greek
   - strongs: G1675
-    proximity: 0.8175
+    lemma: Ἑλληνιστής
+    gloss: a Hellenist or Greek-speaking Jew {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: greek
   - strongs: G2453
-    proximity: 0.8014
+    lemma: Ἰουδαῖος
+    gloss: Judæan {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
     language: greek
   - strongs: G1676
-    proximity: 0.8007
+    lemma: Ἑλληνιστί
+    gloss: Hellenistically {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

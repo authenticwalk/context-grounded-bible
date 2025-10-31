@@ -6,45 +6,57 @@ pronunciation: khaw-faf'
 definition: to cover (in protection)
 kjv_usage: cover.
 derivation: a primitive root (compare H2645 (חָפָה), H3182 (יָחֵף));
-extended_definition:
-  gloss: to shield
-  definition: (Qal) to cover, enclose, shelter, shield, surround
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to cover, enclose, shelter, shield, surround {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4539
-    proximity: 0.8146
+    lemma: מָסָךְ
+    gloss: a cover {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
   - strongs: H3680
-    proximity: 0.7999
+    lemma: כָּסָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
   - strongs: H7159
-    proximity: 0.7972
+    lemma: קָרַם
+    gloss: to cover {openscriptures-strongs}
+    proximity: 0.7972 {macula-proximity}
   - strongs: H5643
-    proximity: 0.7962
+    lemma: סֵתֶר
+    gloss: a cover (in a good or a bad {openscriptures-strongs}
+    proximity: 0.7962 {macula-proximity}
   - strongs: H7779
-    proximity: 0.7928
+    lemma: שׁוּף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7928 {macula-proximity}
   - strongs: H5259
-    proximity: 0.7861
+    lemma: נָסַךְ
+    gloss: to interweave {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
   - strongs: H5643a
-    proximity: 0.7817
+    proximity: 0.7817 {macula-proximity}
   - strongs: H1598
-    proximity: 0.7788
+    lemma: גָּנַן
+    gloss: to hedge about {openscriptures-strongs}
+    proximity: 0.7788 {macula-proximity}
   - strongs: H6004a
-    proximity: 0.7765
+    proximity: 0.7765 {macula-proximity}
   - strongs: H5526c
-    proximity: 0.7733
+    proximity: 0.7733 {macula-proximity}
   cross_language:
   - strongs: G2572
-    proximity: 0.8157
+    lemma: καλύπτω
+    gloss: to cover up {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
     language: greek
   - strongs: G2683
-    proximity: 0.7747
+    lemma: κατασκιάζω
+    gloss: to overshade {openscriptures-strongs}
+    proximity: 0.7747 {macula-proximity}
     language: greek
   - strongs: G1982
-    proximity: 0.759
+    lemma: ἐπισκιάζω
+    gloss: to cast a shade upon {openscriptures-strongs}
+    proximity: 0.759 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

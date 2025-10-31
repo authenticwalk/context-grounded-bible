@@ -7,30 +7,35 @@ definition: properly, to be (or make) bare; but used only in the derivative sens
   (through the idea perhaps of smoothness) to be cunning (usually in a bad sense)
 kjv_usage: '[idiom] very, beware, take crafty (counsel), be prudent, deal subtilly.'
 derivation: a primitive root;
-extended_definition:
-  gloss: be shrewd
-  definition: 1) to be subtle, be shrewd, be crafty, beware, take crafty counsel,
-    be prudent<br>1a) (Qal) to be crafty, be subtle<br>1b) (Hiphil) to be crafty,
-    be or become shrewd
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be subtle, be shrewd, be crafty, beware, take crafty counsel,
+  be prudent
+
+  1a) (Qal) to be crafty, be subtle
+
+  1b) (Hiphil) to be crafty, be or become shrewd {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6195
-    proximity: 0.8072
+    lemma: עׇרְמָה
+    gloss: trickery {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
   - strongs: H6193
-    proximity: 0.7873
+    lemma: עֹרֶם
+    gloss: a stratagem {openscriptures-strongs}
+    proximity: 0.7873 {macula-proximity}
   - strongs: H6617
-    proximity: 0.7503
+    lemma: פָּתַל
+    gloss: to twine {openscriptures-strongs}
+    proximity: 0.7503 {macula-proximity}
   cross_language:
   - strongs: G5430
-    proximity: 0.7868
+    lemma: φρονίμως
+    gloss: prudently {openscriptures-strongs}
+    proximity: 0.7868 {macula-proximity}
     language: greek
   - strongs: G3834
-    proximity: 0.7178
+    lemma: πανουργία
+    gloss: adroitness {openscriptures-strongs}
+    proximity: 0.7178 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

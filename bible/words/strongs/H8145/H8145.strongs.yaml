@@ -6,49 +6,72 @@ pronunciation: shay-nee'
 definition: properly, double, i.e. second; also adverbially, again
 kjv_usage: again, either (of them), (an-) other, second (time).
 derivation: from H8138 (שָׁנָה);
-extended_definition:
-  gloss: second
-  definition: 1) second<br>1a) second (the ordinal number)<br>1b) again (a second
-    time)<br>1c) another, other (something as distinct from something else)
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: '1) second
+
+  1a) second (the ordinal number)
+
+  1b) again (a second time)
+
+  1c) another, other (something as distinct from something else) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H702
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
   - strongs: H6240
-    proximity: 0.8269
+    lemma: עָשָׂר
+    gloss: ten {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: H8141
-    proximity: 0.8258
+    lemma: שָׁנֶה
+    gloss: a year {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H3117
-    proximity: 0.8241
+    lemma: יוֹם
+    gloss: a day {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H1975
-    proximity: 0.8199
+    lemma: הַלָּז
+    gloss: this or that {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H6242
-    proximity: 0.8178
+    lemma: עֶשְׂרִים
+    gloss: twenty {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   - strongs: H6249
-    proximity: 0.8155
+    lemma: עַשְׁתֵּי
+    gloss: eleven or  eleventh {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H2549
-    proximity: 0.811
+    lemma: חֲמִישִׁי
+    gloss: fifth {openscriptures-strongs}
+    proximity: 0.811 {macula-proximity}
   - strongs: H8671
-    proximity: 0.8097
+    lemma: תְּשִׁיעִי
+    gloss: ninth {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: H2320
-    proximity: 0.7906
+    lemma: חֹדֶשׁ
+    gloss: the new moon {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
   cross_language:
   - strongs: G3391
-    proximity: 0.8243
+    lemma: μία
+    gloss: one or first {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: greek
   - strongs: G1428
-    proximity: 0.8075
+    lemma: δωδέκατος
+    gloss: twelfth {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
     language: greek
   - strongs: G2250
-    proximity: 0.8026
+    lemma: ἡμέρα
+    gloss: day {openscriptures-strongs}
+    proximity: 0.8026 {macula-proximity}
     language: greek
   - strongs: G1520
-    proximity: 0.7628
+    lemma: εἷς
+    gloss: one {openscriptures-strongs}
+    proximity: 0.7628 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

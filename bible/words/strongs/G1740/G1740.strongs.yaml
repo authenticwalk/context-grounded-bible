@@ -5,39 +5,42 @@ transliteration: endoxázō
 definition: to glorify
 kjv_usage: glorify
 derivation: from G1741 (ἔνδοξος);
-extended_definition:
-  gloss: be glorified
-  definition: '<b>ἐν-δοξάζω </b><BR /> [in LXX for כָּבַד ni., <ref=''Exo.14.4, 17-18''>Exo.14:4,
-    17-18</ref>, <ref=''Ezk.28.22''>Eze.28:22</ref>, etc.; for עָרַץ, <ref=''Psa.89.7''>Psa.89:7;</ref>
-    <ref=''Sir.38.6''>Sir.38:6</ref>, al. ;] <BR /><b>to glorify</b>: pass., <ref=''2Th.1.10-12.''>2Th.1:10-12.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ἐνδοξ-άζομαι</b>, <br /> <i>passive</i>, <b>to be glorified</b>,
-    ἔν τινι [<a href="javascript:void(0)" title=" LXX.Exo.14.4, +others, NT.2Thes.1.10,
-    “PMag.Leid.W.” 4.17. ">LXX+NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ἐν-δοξάζω
+
+  [in LXX for כָּבַד ni., Exo.14:4, 17-18, Eze.28:22, etc.; for עָרַץ, Psa.89:7; Sir.38:6,
+  al. ;]
+
+  to glorify: pass., 2Th.1:10-12.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐνδοξ-άζομαι,
+
+  passive, to be glorified, ἔν τινι [LXX+NT] {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H7623
-    proximity: 0.8264
+    lemma: שָׁבַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: hebrew
   - strongs: H1935
-    proximity: 0.8088
+    lemma: הוֹד
+    gloss: grandeur {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
     language: hebrew
   - strongs: H6643
-    proximity: 0.8022
+    lemma: צְבִי
+    gloss: splendor {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
     language: hebrew
   - strongs: H1431
-    proximity: 0.797
+    lemma: גָּדַל
+    gloss: to be  large (in various senses {openscriptures-strongs}
+    proximity: 0.797 {macula-proximity}
     language: hebrew
   - strongs: H1927
-    proximity: 0.7861
+    lemma: הֲדָרָה
+    gloss: decoration {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

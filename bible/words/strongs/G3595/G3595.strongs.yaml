@@ -5,57 +5,62 @@ transliteration: hodēgós
 definition: a conductor (literally or figuratively (teacher))
 kjv_usage: guide, leader
 derivation: from G3598 (ὁδός) and G2233 (ἡγέομαι);
-extended_definition:
-  gloss: guide/leader
-  definition: '<b>ὁδηγός</b>, -οῦ, ὁ<BR /> (ὁδός, ἡγέομαι) [in LXX : <ref=''Est.8.1''>Est.8:1</ref>,
-    <ref=''Wis.7.15; 18.3''>Wis.7:15 18:3</ref>, <ref=''1Ma.4.2''>1Ma.4:2</ref>, <ref=''2Ma.5.15''>2Ma.5:15</ref>
-    * ;] <BR /><b>a leader on the way, a guide</b>: <ref=''Act.1.16.''>Act.1:16.</ref>
-    Fig., ὁ. τυφλῶν, <ref=''Rom.2.19''>Rom.2:19;</ref> pl., <ref=''Mat.15.14; 23.16,
-    24''>Mat.15:14 23:16, 24</ref>.†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὁδηγ-ός</b>, ὁ, <br /> <b>guide,</b> [<a href="javascript:void(0)"
-    title=" 2nd c.BC: Polybius Historicus 5.5.15, 1st-2nd c.AD: Plutarchus Biographus
-    et Philosophus “Alexander” 27 ">Refs 2nd c.BC+</a>]; of a goddess, [<a href="javascript:void(0)"
-    title=" 2nd c.AD: Pausanias Periegeta 2.11.2 ">Refs 2nd c.AD+</a>]; part of a
-    dirigible χελώνη, [<a href="javascript:void(0)" title=" 2nd c.BC: Athenaeus Mechanicus
-    34.6; ταῖς Ἀριστοτελείοις τέχναις ὁδηγοῖς χρησάμενος 1st c.BC: Dionysius Halicarnassensis
-    “Amm.” 1.12, compare 1st c.BC: Philodemus Philosophus “περὶ παρρησίας” p.20 O.:
-    as ">Refs 2nd c.BC+</a>] <i>adjective</i>, ὁδηγὰ πλοῖα <b>pilot</b>-boats, [<a
-    href="javascript:void(0)" title=" “Sammelb.” 7173.16 (2nd c.AD). ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ὁδηγός, -οῦ, ὁ
+
+  (ὁδός, ἡγέομαι) [in LXX : Est.8:1, Wis.7:15 18:3, 1Ma.4:2, 2Ma.5:15 * ;]
+
+  a leader on the way, a guide: Act.1:16. Fig., ὁ. τυφλῶν, Rom.2:19; pl., Mat.15:14
+  23:16, 24.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὁδηγ-ός, ὁ,
+
+  guide, [Refs 2nd c.BC+]; of a goddess, [Refs 2nd c.AD+]; part of a dirigible χελώνη,
+  [Refs 2nd c.BC+] adjective, ὁδηγὰ πλοῖα pilot-boats, [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4414
-    proximity: 0.8146
+    lemma: πρωτοστάτης
+    gloss: one standing first in the ranks {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
   - strongs: G2519
-    proximity: 0.8028
+    lemma: καθηγητής
+    gloss: a guide {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
   - strongs: G5497
-    proximity: 0.7928
+    lemma: χειραγωγός
+    gloss: a hand-leader {openscriptures-strongs}
+    proximity: 0.7928 {macula-proximity}
   - strongs: G3807
-    proximity: 0.7784
+    lemma: παιδαγωγός
+    gloss: a boy-leader {openscriptures-strongs}
+    proximity: 0.7784 {macula-proximity}
   - strongs: G3329
-    proximity: 0.7353
+    lemma: μετάγω
+    gloss: to lead over {openscriptures-strongs}
+    proximity: 0.7353 {macula-proximity}
   cross_language:
   - strongs: H5633
-    proximity: 0.8223
+    lemma: סֶרֶן
+    gloss: an axle {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: hebrew
   - strongs: H5090
-    proximity: 0.7981
+    lemma: נָהַג
+    gloss: to drive forth (a person {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
     language: hebrew
   - strongs: H6546
-    proximity: 0.7914
+    lemma: פַּרְעָה
+    gloss: leadership (plural concretely {openscriptures-strongs}
+    proximity: 0.7914 {macula-proximity}
     language: hebrew
   - strongs: H678a
-    proximity: 0.7728
+    proximity: 0.7728 {macula-proximity}
     language: hebrew
   - strongs: H5148
-    proximity: 0.7626
+    lemma: נָחָה
+    gloss: to guide {openscriptures-strongs}
+    proximity: 0.7626 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,41 +6,51 @@ pronunciation: nesh-ee-yaw'
 definition: oblivion
 kjv_usage: forgetfulness.
 derivation: from H5382 (נָשָׁה);
-extended_definition:
-  gloss: forgetfulness
-  definition: forgetfulness, oblivion
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: forgetfulness, oblivion {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2142
-    proximity: 0.8282
+    lemma: זָכַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H8615
-    proximity: 0.8263
+    lemma: תִּקְוָה
+    gloss: literally a cord {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: H2143
-    proximity: 0.8261
+    lemma: זֵכֶר
+    gloss: a memento {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: H5136
-    proximity: 0.8261
+    lemma: נוּשׁ
+    gloss: to be sick {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: H2976
-    proximity: 0.8159
+    lemma: יָאַשׁ
+    gloss: to desist {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H109
-    proximity: 0.8079
+    proximity: 0.8079 {macula-proximity}
   - strongs: H4531a
-    proximity: 0.8054
+    proximity: 0.8054 {macula-proximity}
   - strongs: H7876
-    proximity: 0.7997
+    lemma: שָׁיָה
+    gloss: to keep in memory {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
   cross_language:
   - strongs: G1820
-    proximity: 0.7888
+    lemma: ἐξαπορέομαι
+    gloss: to be utterly at a loss {openscriptures-strongs}
+    proximity: 0.7888 {macula-proximity}
     language: greek
   - strongs: G1585
-    proximity: 0.7691
+    lemma: ἐκλανθάνομαι
+    gloss: to be utterly oblivious of {openscriptures-strongs}
+    proximity: 0.7691 {macula-proximity}
     language: greek
   - strongs: G1953
-    proximity: 0.7205
+    lemma: ἐπιλησμονή
+    gloss: negligence {openscriptures-strongs}
+    proximity: 0.7205 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,36 +5,37 @@ transliteration: Iannēs
 definition: Jannes, an Egyptian
 kjv_usage: Jannes
 derivation: of Egyptian origin;
-extended_definition:
-  gloss: Jannes
-  definition: '<b>Ἰαννῆς</b>, ὁ <BR /> <b>Jannes </b>(cf. Ἰαμβρῆς): <ref=''2Ti.3.8.''>2Ti.3:8.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἰαννῆς</b>, ὁ <BR /> <b>Jannes </b>(cf. Ἰαμβρῆς): <ref=''2Ti.3.8.''>2Ti.3:8.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἰαννῆς, ὁ
+
+  Jannes (cf. Ἰαμβρῆς): 2Ti.3:8.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἰαννῆς, ὁ
+
+  Jannes (cf. Ἰαμβρῆς): 2Ti.3:8.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H2262
-    proximity: 0.8292
+    lemma: חֲבַצַּנְיָה
+    gloss: Chabatstsanjah {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
     language: hebrew
   - strongs: H7935a
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
     language: hebrew
   - strongs: H3112
-    proximity: 0.8281
+    lemma: יוֹיָכִין
+    gloss: Jojakin {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: hebrew
   - strongs: H2970
-    proximity: 0.828
+    lemma: יַאֲזַנְיָה
+    gloss: Jaazanjah {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: hebrew
   - strongs: H2608b
-    proximity: 0.8268
+    proximity: 0.8268 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

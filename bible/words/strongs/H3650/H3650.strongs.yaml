@@ -6,42 +6,50 @@ pronunciation: kim-reer'
 definition: obscuration (as if from shrinkage of light, i.e. an eclipse (only in plural)
 kjv_usage: blackness.
 derivation: redupl. from H3648 (כָּמַר);
-extended_definition:
-  gloss: darkness
-  definition: blackness, gloominess, darkness
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: blackness, gloominess, darkness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H380a
-    proximity: 0.8266
+    proximity: 0.8266 {macula-proximity}
   - strongs: H653
-    proximity: 0.8191
+    proximity: 0.8191 {macula-proximity}
   - strongs: H2821
-    proximity: 0.8124
+    lemma: חָשַׁךְ
+    gloss: to be dark {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: H4155
-    proximity: 0.8081
+    lemma: מוּעָף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
   - strongs: H652
-    proximity: 0.8031
+    proximity: 0.8031 {macula-proximity}
   - strongs: H4588
-    proximity: 0.8015
+    lemma: מָעוּף
+    gloss: darkness {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
   - strongs: H3991
-    proximity: 0.7781
+    lemma: מַאְפֵלְיָה
+    gloss: opaqueness {openscriptures-strongs}
+    proximity: 0.7781 {macula-proximity}
   - strongs: H6205
-    proximity: 0.774
+    lemma: עֲרָפֶל
+    gloss: gloom {openscriptures-strongs}
+    proximity: 0.774 {macula-proximity}
   - strongs: A2816
-    proximity: 0.7655
+    proximity: 0.7655 {macula-proximity}
   - strongs: H4285
-    proximity: 0.714
+    lemma: מַחְשָׁךְ
+    gloss: darkness {openscriptures-strongs}
+    proximity: 0.714 {macula-proximity}
   cross_language:
   - strongs: G4654
-    proximity: 0.8158
+    lemma: σκοτίζω
+    gloss: to obscure {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
     language: greek
   - strongs: G4656
-    proximity: 0.7233
+    lemma: σκοτόω
+    gloss: to obscure or blind {openscriptures-strongs}
+    proximity: 0.7233 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

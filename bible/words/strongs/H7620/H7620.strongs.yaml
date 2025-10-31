@@ -7,39 +7,52 @@ definition: literally, sevened, i.e. a week (specifically, of years)
 kjv_usage: seven, week.
 derivation: or שָׁבֻעַ; also (feminine) שְׁבֻעָה; properly, passive participle of
   H7650 (שָׁבַע) as a denominative of H7651 (שֶׁבַע);
-extended_definition:
-  gloss: week
-  definition: 1) seven, period of seven (days or years), heptad, week<br>1a) period
-    of seven days, a week<br>1a1) Feast of Weeks<br>1b) heptad, seven (of years)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) seven, period of seven (days or years), heptad, week
+
+  1a) period of seven days, a week
+
+  1a1) Feast of Weeks
+
+  1b) heptad, seven (of years) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7659
-    proximity: 0.8255
+    lemma: שִׁבְעָתַיִם
+    gloss: seven-times {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: H7657
-    proximity: 0.8253
+    lemma: שִׁבְעִים
+    gloss: seventy {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
   - strongs: H2282
-    proximity: 0.7759
+    lemma: חַג
+    gloss: a festival {openscriptures-strongs}
+    proximity: 0.7759 {macula-proximity}
   - strongs: A7655
-    proximity: 0.7321
+    proximity: 0.7321 {macula-proximity}
   - strongs: H7651
-    proximity: 0.7208
+    lemma: שֶׁבַע
+    gloss: seven {openscriptures-strongs}
+    proximity: 0.7208 {macula-proximity}
   cross_language:
   - strongs: G2035
-    proximity: 0.8176
+    lemma: ἑπτακισχίλιοι
+    gloss: seven times a thousand {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
     language: greek
   - strongs: G2034
-    proximity: 0.803
+    lemma: ἑπτάκις
+    gloss: seven times {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
     language: greek
   - strongs: G4521
-    proximity: 0.7905
+    lemma: σάββατον
+    gloss: the Sabbath {openscriptures-strongs}
+    proximity: 0.7905 {macula-proximity}
     language: greek
   - strongs: G2033
-    proximity: 0.7088
+    lemma: ἑπτά
+    gloss: seven {openscriptures-strongs}
+    proximity: 0.7088 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

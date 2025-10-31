@@ -7,40 +7,55 @@ definition: a Shumathite (collectively) or descendants of Shumah
 kjv_usage: Shumathites.
 derivation: patronymically from an unused name from H7762 (שׁוּם) probably meaning
   garlic-smell;
-extended_definition:
-  gloss: Shumathite
-  definition: Someone descended from Shumath(?), only mentioned at 1Ch.2.53 <BR> §
-    Shumathites = "the exalted"<br> a descendant or inhabitant of Shumah<br>
-  morphology: N:N--LG
-  source: STEPBible/BDB
+extended_definition: 'Someone descended from Shumath(?), only mentioned at 1Ch.2.53
+
+  § Shumathites = "the exalted"
+
+  a descendant or inhabitant of Shumah {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7316
-    proximity: 0.8287
+    lemma: רוּמָה
+    gloss: Rumah {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H4440
-    proximity: 0.8282
+    lemma: מַלְכִּיאֵלִי
+    gloss: a Malkielite or descendant of Malkiel {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H4233
-    proximity: 0.8274
+    lemma: מַחֲוִים
+    gloss: a Machavite or inhabitant of some place named Machaveh {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H4354
-    proximity: 0.825
+    lemma: מָכִירִי
+    gloss: a Makirite or descendant of Makir {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: H4602
-    proximity: 0.8206
+    lemma: מַעֲכָתִי
+    gloss: a Maakathite {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: H5284
-    proximity: 0.8188
+    lemma: נַעֲמָתִי
+    gloss: a Naamathite {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
   - strongs: H4601b
-    proximity: 0.8172
+    proximity: 0.8172 {macula-proximity}
   - strongs: H4851
-    proximity: 0.8157
+    lemma: מַשׁ
+    gloss: Mash {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: H4075
-    proximity: 0.8073
+    lemma: מָדַי
+    gloss: a Madian or native of Madai {openscriptures-strongs}
+    proximity: 0.8073 {macula-proximity}
   - strongs: H7435
-    proximity: 0.8071
+    lemma: רָמָתִי
+    gloss: a Ramathite or inhabitant of Ramah {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
   cross_language:
   - strongs: G3370
-    proximity: 0.8276
+    lemma: Μῆδος
+    gloss: a Median {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,44 +5,60 @@ transliteration: Sidṓnios
 definition: a Sidonian, i.e. inhabitant of Sidon
 kjv_usage: of Sidon
 derivation: from G4605 (Σιδών);
-extended_definition:
-  gloss: Sidonian
-  definition: '<b>Σιδώνιος</b>, -α, -ον<BR /> (Σιδών), <BR /><b>of Sidon, Sidonian</b>;
-    <BR /> __(a) <b>the region</b>: sc. χώρα, <ref=''Luk.4.26''>Luk.4:26;</ref> <BR
-    /> __(b) <b>the people</b>: <ref=''Act.12.20.''>Act.12:20.</ref>†<BR /> (AS)'
-  morphology: N:N--LG
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Σιδώνιος</b>, -α, -ον<BR /> (Σιδών), <BR /><b>of Sidon, Sidonian</b>;
-    <BR /> __(a) <b>the region</b>: sc. χώρα, <ref=''Luk.4.26''>Luk.4:26;</ref> <BR
-    /> __(b) <b>the people</b>: <ref=''Act.12.20.''>Act.12:20.</ref>†<BR />  (From
-    Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Σιδώνιος, -α, -ον
+
+  (Σιδών),
+
+  of Sidon, Sidonian;
+
+  __(a) the region: sc. χώρα, Luk.4:26;
+
+  __(b) the people: Act.12:20.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Σιδώνιος, -α, -ον
+
+  (Σιδών),
+
+  of Sidon, Sidonian;
+
+  __(a) the region: sc. χώρα, Luk.4:26;
+
+  __(b) the people: Act.12:20.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4658
-    proximity: 0.8275
+    lemma: Σκύθης
+    gloss: a Scythene or Scythian {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: G3110
-    proximity: 0.8238
+    lemma: Μακεδών
+    gloss: a Macedon {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   cross_language:
   - strongs: H8099
-    proximity: 0.8256
+    lemma: שִׁמְעֹנִי
+    gloss: a Shimonite  or descendants of Shimon {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
     language: hebrew
   - strongs: H5434
-    proximity: 0.8226
+    lemma: סְבָא
+    gloss: Seba {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
     language: hebrew
   - strongs: H940
-    proximity: 0.8172
+    proximity: 0.8172 {macula-proximity}
     language: hebrew
   - strongs: H2104
-    proximity: 0.8142
+    lemma: זוּזִים
+    gloss: Zuzites {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
     language: hebrew
   - strongs: H5436
-    proximity: 0.8069
+    lemma: סְבָאִי
+    gloss: a Sebaite {openscriptures-strongs}
+    proximity: 0.8069 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

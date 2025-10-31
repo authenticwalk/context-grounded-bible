@@ -7,52 +7,78 @@ definition: to be (transitively, do or make) good (or well) in the widest sense
 kjv_usage: be (do) better, cheer, be (do, seem) good, (make) goodly, [idiom] please,
   (be, do, go, play) well.
 derivation: a primitive root,
-extended_definition:
-  gloss: be pleasing
-  definition: 1) to be good, be pleasing, be joyful, be beneficial, be pleasant, be
-    favourable, be happy, be right<br>1a) (Qal)<br>1a1) to be pleasant, be delightful<br>1a2)
-    to be glad, be joyful<br>1a3) to be better<br>1a4) to be well with, be good for<br>1a5)
-    to be pleasing<br>1b) (Hiphil) to do well, do good, act right, act rightly
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be good, be pleasing, be joyful, be beneficial, be pleasant,
+  be favourable, be happy, be right
+
+  1a) (Qal)
+
+  1a1) to be pleasant, be delightful
+
+  1a2) to be glad, be joyful
+
+  1a3) to be better
+
+  1a4) to be well with, be good for
+
+  1a5) to be pleasing
+
+  1b) (Hiphil) to do well, do good, act right, act rightly {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4005
-    proximity: 0.826
+    lemma: מִבְחָר
+    gloss: select {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
   - strongs: H1293
-    proximity: 0.8259
+    lemma: בְּרָכָה
+    gloss: benediction {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: H2896a
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
   - strongs: A2869
-    proximity: 0.8247
+    proximity: 0.8247 {macula-proximity}
   - strongs: H1525
-    proximity: 0.8228
+    lemma: גִּילָה
+    gloss: joy {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
   - strongs: H2532
-    proximity: 0.8184
+    lemma: חֶמְדָּה
+    gloss: delight {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   - strongs: H8173a
-    proximity: 0.8161
+    proximity: 0.8161 {macula-proximity}
   - strongs: H3276
-    proximity: 0.8146
+    lemma: יַעַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
   - strongs: H8233
-    proximity: 0.8141
+    lemma: שֶׁפֶר
+    gloss: beauty {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   cross_language:
   - strongs: G4909
-    proximity: 0.8295
+    lemma: συνευδοκέω
+    gloss: to think well of in common {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G2098
-    proximity: 0.8253
+    lemma: εὐαγγέλιον
+    gloss: a good message {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
     language: greek
   - strongs: G4284
-    proximity: 0.8233
+    lemma: προέχομαι
+    gloss: to hold oneself before others {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
     language: greek
   - strongs: G2163
-    proximity: 0.8229
+    lemma: εὔφημος
+    gloss: well spoken of {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G2431
-    proximity: 0.8225
+    lemma: ἱλαρός
+    gloss: propitious or merry {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

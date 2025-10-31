@@ -6,42 +6,52 @@ pronunciation: kaw-sas'
 definition: to lop off
 kjv_usage: cut off.
 derivation: a primitive root;
-extended_definition:
-  gloss: to strip
-  definition: (Poel) to strip off, cut off
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Poel) to strip off, cut off {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4448b
-    proximity: 0.8201
+    proximity: 0.8201 {macula-proximity}
   - strongs: H2834
-    proximity: 0.8167
+    lemma: חָשַׂף
+    gloss: to strip off {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H6584
-    proximity: 0.8151
+    lemma: פָּשַׁט
+    gloss: to spread out {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
   - strongs: H1504
-    proximity: 0.8049
+    lemma: גָּזַר
+    gloss: to cut down or off {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H1219a
-    proximity: 0.8
+    proximity: 0.8 {macula-proximity}
   - strongs: H1629
-    proximity: 0.7946
+    lemma: גָּרַז
+    gloss: to cut off {openscriptures-strongs}
+    proximity: 0.7946 {macula-proximity}
   - strongs: H6998
-    proximity: 0.7897
+    lemma: קָטַף
+    gloss: to strip off {openscriptures-strongs}
+    proximity: 0.7897 {macula-proximity}
   - strongs: H7112
-    proximity: 0.7856
+    lemma: קָצַץ
+    gloss: to chop off {openscriptures-strongs}
+    proximity: 0.7856 {macula-proximity}
   - strongs: H3772
-    proximity: 0.7714
+    lemma: כָּרַת
+    gloss: to cut (off {openscriptures-strongs}
+    proximity: 0.7714 {macula-proximity}
   - strongs: H7096
-    proximity: 0.7667
+    lemma: קָצָה
+    gloss: to cut off {openscriptures-strongs}
+    proximity: 0.7667 {macula-proximity}
   cross_language:
   - strongs: G851
-    proximity: 0.818
+    proximity: 0.818 {macula-proximity}
     language: greek
   - strongs: G1562
-    proximity: 0.8013
+    lemma: ἐκδύω
+    gloss: to cause to sink out of {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

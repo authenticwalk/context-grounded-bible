@@ -5,37 +5,40 @@ transliteration: Laodikeús
 definition: a Laodicean, i.e. inhabitant of Laodicia
 kjv_usage: Laodicean
 derivation: from G2993 (Λαοδίκεια);
-extended_definition:
-  gloss: Laodicean
-  definition: '<b>Λαοδικεύς</b>, -έως, ὁ <BR /> <b>a Laodicean</b>: <ref=''Col.4.16.''>Col.4:16.</ref>†<BR
-    /> (AS)'
-  morphology: N:N--LG
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Λαοδικεύς</b>, -έως, ὁ <BR /> <b>a Laodicean</b>: <ref=''Col.4.16.''>Col.4:16.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Λαοδικεύς, -έως, ὁ
+
+  a Laodicean: Col.4:16.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Λαοδικεύς, -έως, ὁ
+
+  a Laodicean: Col.4:16.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3079
-    proximity: 0.8295
+    lemma: Λυσίας
+    gloss: Lysias {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: G2804
-    proximity: 0.8229
+    lemma: Κλαύδιος
+    gloss: Claudius {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: G745
-    proximity: 0.8158
+    proximity: 0.8158 {macula-proximity}
   - strongs: G4099a
-    proximity: 0.8031
+    proximity: 0.8031 {macula-proximity}
   - strongs: G4099
-    proximity: 0.8031
+    lemma: Πισιδία
+    gloss: Pisidia {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
   - strongs: G78
-    proximity: 0.7967
+    proximity: 0.7967 {macula-proximity}
   - strongs: G773
-    proximity: 0.7946
+    proximity: 0.7946 {macula-proximity}
   - strongs: G2803
-    proximity: 0.7773
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: Κλαυδία
+    gloss: Claudia {openscriptures-strongs}
+    proximity: 0.7773 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

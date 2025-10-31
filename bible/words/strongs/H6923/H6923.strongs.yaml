@@ -7,42 +7,57 @@ definition: to project (one self), i.e. precede; hence, to anticipate, hasten, m
   (usually for help)
 kjv_usage: come (go, (flee)) before, [phrase] disappoint, meet, prevent.
 derivation: a primitive root;
-extended_definition:
-  gloss: to meet
-  definition: 1) to meet, come or be in front, confront, go before<br>1a) (Piel)<br>1a1)
-    to meet, confront, come to meet, receive<br>1a2) to go before, go in front, be
-    in front<br>1a3) to lead, be beforehand, anticipate, forestall<br>1b) (Hiphil)<br>1b1)
-    to come in front<br>1b2) to confront, anticipate
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to meet, come or be in front, confront, go before
+
+  1a) (Piel)
+
+  1a1) to meet, confront, come to meet, receive
+
+  1a2) to go before, go in front, be in front
+
+  1a3) to lead, be beforehand, anticipate, forestall
+
+  1b) (Hiphil)
+
+  1b1) to come in front
+
+  1b2) to confront, anticipate {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5265
-    proximity: 0.8289
+    lemma: נָסַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H8618
-    proximity: 0.8245
+    lemma: תְּקוֹמֵם
+    gloss: an opponent {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: A5922
-    proximity: 0.8204
+    proximity: 0.8204 {macula-proximity}
   - strongs: A236
-    proximity: 0.8161
+    proximity: 0.8161 {macula-proximity}
   cross_language:
   - strongs: G1926
-    proximity: 0.8294
+    lemma: ἐπιδέχομαι
+    gloss: to admit  teacher) {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G4383
-    proximity: 0.8292
+    lemma: πρόσωπον
+    gloss: the front {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
     language: greek
   - strongs: G4355
-    proximity: 0.8292
+    lemma: προσλαμβάνω
+    gloss: to take to oneself {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
     language: greek
   - strongs: G565
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
     language: greek
   - strongs: G1909
-    proximity: 0.8289
+    lemma: ἐπί
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

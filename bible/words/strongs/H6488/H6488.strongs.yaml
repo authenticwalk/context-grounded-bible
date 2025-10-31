@@ -6,49 +6,63 @@ pronunciation: pek-ee-dooth'
 definition: supervision
 kjv_usage: ward.
 derivation: from H6496 (פָּקִיד);
-extended_definition:
-  gloss: oversight
-  definition: oversight, overseer, guard
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: oversight, overseer, guard {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5975
-    proximity: 0.8225
+    lemma: עָמַד
+    gloss: to stand {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: A5894
-    proximity: 0.8184
+    proximity: 0.8184 {macula-proximity}
   - strongs: H8245
-    proximity: 0.8115
+    lemma: שָׁקַד
+    gloss: to be alert {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
   - strongs: H7778
-    proximity: 0.8041
+    lemma: שׁוֹעֵר
+    gloss: a janitor {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
   - strongs: H4931
-    proximity: 0.786
+    lemma: מִשְׁמֶרֶת
+    gloss: watch {openscriptures-strongs}
+    proximity: 0.786 {macula-proximity}
   - strongs: H8104
-    proximity: 0.7783
+    lemma: שָׁמַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7783 {macula-proximity}
   - strongs: H5341
-    proximity: 0.772
+    lemma: נָצַר
+    gloss: to guard {openscriptures-strongs}
+    proximity: 0.772 {macula-proximity}
   - strongs: H7323
-    proximity: 0.7486
+    lemma: רוּץ
+    gloss: to run (for whatever reason {openscriptures-strongs}
+    proximity: 0.7486 {macula-proximity}
   - strongs: A8652
-    proximity: 0.7458
+    proximity: 0.7458 {macula-proximity}
   cross_language:
   - strongs: G5083
-    proximity: 0.8164
+    lemma: τηρέω
+    gloss: perhaps akin to G2334 ) {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
     language: greek
   - strongs: G4755
-    proximity: 0.7931
+    lemma: στρατηγός
+    gloss: a general {openscriptures-strongs}
+    proximity: 0.7931 {macula-proximity}
     language: greek
   - strongs: G4688
-    proximity: 0.7913
+    lemma: σπεκουλάτωρ
+    gloss: a speculator {openscriptures-strongs}
+    proximity: 0.7913 {macula-proximity}
     language: greek
   - strongs: G4232
-    proximity: 0.7895
+    lemma: πραιτώριον
+    gloss: the prætorium or governor's courtroom {openscriptures-strongs}
+    proximity: 0.7895 {macula-proximity}
     language: greek
   - strongs: G805
-    proximity: 0.7838
+    proximity: 0.7838 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

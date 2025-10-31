@@ -6,43 +6,49 @@ pronunciation: hak-kaw-raw'
 definition: respect, i.e. partiality
 kjv_usage: shew.
 derivation: from H5234 (נָכַר);
-extended_definition:
-  gloss: look
-  definition: the look, appearance, expression
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: the look, appearance, expression {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7688
-    proximity: 0.8298
+    lemma: שָׁגַח
+    gloss: to peep {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: A431
-    proximity: 0.8293
+    proximity: 0.8293 {macula-proximity}
   - strongs: H2196a
-    proximity: 0.818
+    proximity: 0.818 {macula-proximity}
   - strongs: A2122
-    proximity: 0.8065
+    proximity: 0.8065 {macula-proximity}
   - strongs: H5027
-    proximity: 0.7836
+    lemma: נָבַט
+    gloss: to scan {openscriptures-strongs}
+    proximity: 0.7836 {macula-proximity}
   - strongs: H6440
-    proximity: 0.7666
+    lemma: פָּנִים
+    gloss: the face {openscriptures-strongs}
+    proximity: 0.7666 {macula-proximity}
   cross_language:
   - strongs: G991
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G2300
-    proximity: 0.8271
+    lemma: θεάομαι
+    gloss: to look closely at {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G1689
-    proximity: 0.8269
+    lemma: ἐμβλέπω
+    gloss: to look on {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
     language: greek
   - strongs: G3879
-    proximity: 0.8249
+    lemma: παρακύπτω
+    gloss: to bend beside {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: greek
   - strongs: G2334
-    proximity: 0.8204
+    lemma: θεωρέω
+    gloss: to be a spectator of {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

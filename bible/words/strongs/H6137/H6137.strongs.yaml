@@ -6,29 +6,31 @@ pronunciation: ak-rawb'
 definition: a scorpion; figuratively, a scourge or knotted whip
 kjv_usage: scorpion.
 derivation: of uncertain derivation;
-extended_definition:
-  gloss: scorpion
-  definition: scorpion
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: scorpion {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7752
-    proximity: 0.704
+    lemma: שׁוֹט
+    gloss: a lash {openscriptures-strongs}
+    proximity: 0.704 {macula-proximity}
   - strongs: H7850
-    proximity: 0.7022
+    lemma: שֹׁטֵט
+    gloss: to flog {openscriptures-strongs}
+    proximity: 0.7022 {macula-proximity}
   cross_language:
   - strongs: G3147
-    proximity: 0.8007
+    lemma: μαστίζω
+    gloss: to whip {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
     language: greek
   - strongs: G3146
-    proximity: 0.7922
+    lemma: μαστιγόω
+    gloss: to flog {openscriptures-strongs}
+    proximity: 0.7922 {macula-proximity}
     language: greek
   - strongs: G5416
-    proximity: 0.73
+    lemma: φραγέλλιον
+    gloss: a whip {openscriptures-strongs}
+    proximity: 0.73 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

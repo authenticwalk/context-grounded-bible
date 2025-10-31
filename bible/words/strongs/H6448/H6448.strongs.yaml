@@ -6,43 +6,49 @@ pronunciation: paw-sag'
 definition: to cut up, i.e. (figuratively) contemplate
 kjv_usage: consider.
 derivation: a primitive root;
-extended_definition:
-  gloss: to go through
-  definition: 1) (Piel) to pass between or within<br>1a) meaning uncertain
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Piel) to pass between or within
+
+  1a) meaning uncertain {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1980
-    proximity: 0.8201
+    lemma: הָלַךְ
+    gloss: to walk (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: A236
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
   - strongs: H2372
-    proximity: 0.8143
+    lemma: חָזָה
+    gloss: to gaze at {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
   - strongs: H6286a
-    proximity: 0.8109
+    proximity: 0.8109 {macula-proximity}
   - strongs: H8259
-    proximity: 0.8023
+    lemma: שָׁקַף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
   - strongs: H5027
-    proximity: 0.7683
+    lemma: נָבַט
+    gloss: to scan {openscriptures-strongs}
+    proximity: 0.7683 {macula-proximity}
   cross_language:
   - strongs: G4065
-    proximity: 0.8194
+    lemma: περιφρονέω
+    gloss: to think beyond {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G549
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G357
-    proximity: 0.8028
+    proximity: 0.8028 {macula-proximity}
     language: greek
   - strongs: G4648
-    proximity: 0.7992
+    lemma: σκοπέω
+    gloss: to take aim at {openscriptures-strongs}
+    proximity: 0.7992 {macula-proximity}
     language: greek
   - strongs: G991
-    proximity: 0.7931
+    proximity: 0.7931 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

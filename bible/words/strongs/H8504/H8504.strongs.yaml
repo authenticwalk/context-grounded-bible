@@ -7,22 +7,23 @@ definition: the cerulean mussel, i.e. the color (violet) obtained therefrom or s
   dyed therewith
 kjv_usage: blue.
 derivation: probably for H7827 (שְׁחֶלֶת);
-extended_definition:
-  gloss: blue
-  definition: 1) violet, violet stuff<br>1a) violet thread<br>1b) violet stuff or
-    fabric<br>2) (TWOT) blue (covering spectrum from brilliant red through deep purple)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) violet, violet stuff
+
+  1a) violet thread
+
+  1b) violet stuff or fabric
+
+  2) (TWOT) blue (covering spectrum from brilliant red through deep purple) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3758
-    proximity: 0.7596
+    lemma: כַּרְמִיל
+    gloss: carmine {openscriptures-strongs}
+    proximity: 0.7596 {macula-proximity}
   cross_language:
   - strongs: G4209
-    proximity: 0.757
+    lemma: πορφύρα
+    gloss: the "purple" mussel {openscriptures-strongs}
+    proximity: 0.757 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

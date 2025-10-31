@@ -10,39 +10,58 @@ derivation: for H5154 (נְחוּשָׁה);
 related_words:
   synonyms:
   - strongs: H1270
-    proximity: 0.8194
+    lemma: בַּרְזֶל
+    gloss: iron {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H4147
-    proximity: 0.8186
+    lemma: מוֹסֵר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: H5982
-    proximity: 0.8183
+    lemma: עַמּוּד
+    gloss: a column {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: H3595
-    proximity: 0.818
+    lemma: כִּיּוֹר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: H7572
-    proximity: 0.8154
+    lemma: רַתִּיקָה
+    gloss: a chain {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: H4350
-    proximity: 0.8129
+    lemma: מְכוֹנָה
+    gloss: a pedestal {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: H3653
-    proximity: 0.8088
+    lemma: כֵּן
+    gloss: a stand {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
   - strongs: H246
-    proximity: 0.7892
+    proximity: 0.7892 {macula-proximity}
   - strongs: H2794
-    proximity: 0.7849
+    lemma: חֹרֵשׁ
+    gloss: a fabricator or mechanic {openscriptures-strongs}
+    proximity: 0.7849 {macula-proximity}
   - strongs: H2131a
-    proximity: 0.7112
+    proximity: 0.7112 {macula-proximity}
   cross_language:
   - strongs: G3789
-    proximity: 0.8273
+    lemma: ὄφις
+    gloss: a snake {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G5474
-    proximity: 0.7472
+    lemma: χαλκολίβανον
+    gloss: burnished copper {openscriptures-strongs}
+    proximity: 0.7472 {macula-proximity}
     language: greek
   - strongs: G5471
-    proximity: 0.7288
+    lemma: χαλκεύς
+    gloss: a copper-worker or brazier {openscriptures-strongs}
+    proximity: 0.7288 {macula-proximity}
     language: greek
   - strongs: G254
-    proximity: 0.7074
+    proximity: 0.7074 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,42 +7,52 @@ definition: a eunuch; by implication, valet (especially of the female apartments
   and thus, a minister of state
 kjv_usage: chamberlain, eunuch, officer. Compare H7249 (רַב־סָרִיס).
 derivation: or סָרִס; from an unused root meaning to castrate;
-extended_definition:
-  gloss: eunuch
-  definition: official, eunuch
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: official, eunuch {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2691
-    proximity: 0.829
+    lemma: חָצֵר
+    gloss: a yard {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: H6486
-    proximity: 0.8282
+    lemma: פְּקֻדָּה
+    gloss: visitation (in many senses {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H5057
-    proximity: 0.8053
+    lemma: נָגִיד
+    gloss: a commander {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H5324
-    proximity: 0.7817
+    lemma: נָצַב
+    gloss: to station {openscriptures-strongs}
+    proximity: 0.7817 {macula-proximity}
   - strongs: H6346
-    proximity: 0.7789
+    lemma: פֶּחָה
+    gloss: a prefect {openscriptures-strongs}
+    proximity: 0.7789 {macula-proximity}
   - strongs: H8269
-    proximity: 0.7731
+    lemma: שַׂר
+    gloss: a head person {openscriptures-strongs}
+    proximity: 0.7731 {macula-proximity}
   - strongs: H6496
-    proximity: 0.7725
+    lemma: פָּקִיד
+    gloss: a superintendent (civil {openscriptures-strongs}
+    proximity: 0.7725 {macula-proximity}
   - strongs: A671
-    proximity: 0.7665
+    proximity: 0.7665 {macula-proximity}
   - strongs: A7984
-    proximity: 0.7216
+    proximity: 0.7216 {macula-proximity}
   - strongs: H5650
-    proximity: 0.7207
+    lemma: עֶבֶד
+    gloss: a servant {openscriptures-strongs}
+    proximity: 0.7207 {macula-proximity}
   cross_language:
   - strongs: G758
-    proximity: 0.8157
+    proximity: 0.8157 {macula-proximity}
     language: greek
   - strongs: G5257
-    proximity: 0.8071
+    lemma: ὑπηρέτης
+    gloss: an under-oarsman {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

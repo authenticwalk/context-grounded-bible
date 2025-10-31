@@ -7,30 +7,30 @@ definition: Chelkath Hats-tsurim, a place in Palestine
 kjv_usage: Helkath-hazzurim.
 derivation: from H2520 (חֶלְקַת) and the plural of H6697 (צוּר), with the article
   inserted; smoothness of the rocks;
-extended_definition:
-  gloss: Helkath-hazzurim
-  definition: <BR> § Helkath-hazzurim = "field of swords"<br> a place near the pool
-    of Gibeon where Ishbosheth's men were killed by David's men under Joab<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Helkath-hazzurim = "field of swords"
+
+  a place near the pool of Gibeon where Ishbosheth''s men were killed by David''s
+  men under Joab {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1251
-    proximity: 0.8263
+    proximity: 0.8263 {macula-proximity}
   - strongs: H7704a
-    proximity: 0.8234
+    proximity: 0.8234 {macula-proximity}
   - strongs: H3896
-    proximity: 0.8129
+    lemma: לֶחִי
+    gloss: Lechi {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: H7709
-    proximity: 0.812
+    lemma: שְׁדֵמָה
+    gloss: a cultivated field {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: H3010
-    proximity: 0.8103
+    lemma: יָגֵב
+    gloss: a plowed field {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   cross_language:
   - strongs: G68
-    proximity: 0.8279
+    proximity: 0.8279 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

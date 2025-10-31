@@ -9,34 +9,47 @@ derivation: or נִקָּיֹן; from H5352 (נָקָה);
 related_words:
   synonyms:
   - strongs: H2893
-    proximity: 0.803
+    lemma: טׇהֳרָה
+    gloss: ceremonial purification {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
   - strongs: H8537
-    proximity: 0.7804
+    lemma: תֹּם
+    gloss: completeness {openscriptures-strongs}
+    proximity: 0.7804 {macula-proximity}
   - strongs: H2134
-    proximity: 0.7802
+    lemma: זַךְ
+    gloss: clear {openscriptures-strongs}
+    proximity: 0.7802 {macula-proximity}
   - strongs: H2135
-    proximity: 0.7668
+    lemma: זָכָה
+    gloss: to be translucent {openscriptures-strongs}
+    proximity: 0.7668 {macula-proximity}
   - strongs: H2891
-    proximity: 0.7274
+    lemma: טָהֵר
+    gloss: to be pure (physical sound {openscriptures-strongs}
+    proximity: 0.7274 {macula-proximity}
   - strongs: H4935
-    proximity: 0.7242
+    lemma: מִשְׁעִי
+    gloss: inspection {openscriptures-strongs}
+    proximity: 0.7242 {macula-proximity}
   cross_language:
   - strongs: G338
-    proximity: 0.822
+    proximity: 0.822 {macula-proximity}
     language: greek
   - strongs: G361
-    proximity: 0.8163
+    proximity: 0.8163 {macula-proximity}
     language: greek
   - strongs: G54
-    proximity: 0.804
+    proximity: 0.804 {macula-proximity}
     language: greek
   - strongs: G2514
-    proximity: 0.7998
+    lemma: καθαρότης
+    gloss: cleanness {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
     language: greek
   - strongs: G2511
-    proximity: 0.7633
+    lemma: καθαρίζω
+    gloss: to cleanse {openscriptures-strongs}
+    proximity: 0.7633 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

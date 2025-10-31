@@ -5,33 +5,36 @@ transliteration: hyperperissōs
 definition: superabundantly, i.e. exceedingly
 kjv_usage: beyond measure
 derivation: from G5228 (ὑπέρ) and G4057 (περισσῶς);
-extended_definition:
-  gloss: exceedingly
-  definition: '<b>ὑπερ-περισσῶς </b><BR /> <i>adv.</i>, <BR /><b>beyond measure, exceedingly</b>:
-    <ref=''Mrk.7.37.''>Mrk.7:37.</ref>†<BR /> (AS)'
-  morphology: G:ADV
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ὑπερπερισσ-ῶς</b>, <br /> <i>adverb</i> <b>beyond all measure,</b>
-    [<a href="javascript:void(0)" title="NT.Mark.7.37. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ὑπερ-περισσῶς
+
+  adv.,
+
+  beyond measure, exceedingly: Mrk.7:37.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὑπερπερισσ-ῶς,
+
+  adverb beyond all measure, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3923
-    proximity: 0.7988
+    lemma: παρεισφέρω
+    gloss: to bear in alongside {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   - strongs: G1171
-    proximity: 0.7953
+    lemma: δεινῶς
+    gloss: terribly {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
   - strongs: G280
-    proximity: 0.7892
+    proximity: 0.7892 {macula-proximity}
   - strongs: G3171
-    proximity: 0.7744
+    lemma: μεγάλως
+    gloss: much {openscriptures-strongs}
+    proximity: 0.7744 {macula-proximity}
   - strongs: G4057
-    proximity: 0.7096
+    lemma: περισσῶς
+    gloss: superabundantly {openscriptures-strongs}
+    proximity: 0.7096 {macula-proximity}
   - strongs: A7690
-    proximity: 0.705
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    proximity: 0.705 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

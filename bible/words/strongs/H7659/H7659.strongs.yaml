@@ -6,42 +6,57 @@ pronunciation: shib-aw-thah'-yim
 definition: seven-times
 kjv_usage: seven(-fold, times).
 derivation: dual (adverbially) of H7651 (שֶׁבַע);
-extended_definition:
-  gloss: sevenfold
-  definition: 1) sevenfold, seven times<br>1a) sevenfold, seven times as much<br>1b)
-    seven times
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) sevenfold, seven times
+
+  1a) sevenfold, seven times as much
+
+  1b) seven times {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7620
-    proximity: 0.8255
+    lemma: שָׁבוּעַ
+    gloss: literally {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: H7637
-    proximity: 0.8193
+    lemma: שְׁבִיעִי
+    gloss: seventh {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H6256
-    proximity: 0.8032
+    lemma: עֵת
+    gloss: time {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
   - strongs: H6471
-    proximity: 0.7839
+    lemma: פַּעַם
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.7839 {macula-proximity}
   - strongs: H8180
-    proximity: 0.7596
+    lemma: שַׁעַר
+    gloss: a measure {openscriptures-strongs}
+    proximity: 0.7596 {macula-proximity}
   cross_language:
   - strongs: G3999
-    proximity: 0.8288
+    lemma: πεντάκις
+    gloss: five times {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
     language: greek
   - strongs: G5550
-    proximity: 0.8246
+    lemma: χρόνος
+    gloss: a space of time (in general {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
     language: greek
   - strongs: G1542
-    proximity: 0.8179
+    lemma: ἑκατονταπλασίων
+    gloss: a hundred times {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
     language: greek
   - strongs: G4179
-    proximity: 0.8154
+    lemma: πολλαπλασίων
+    gloss: manifold {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
     language: greek
   - strongs: G1441
-    proximity: 0.7863
+    lemma: ἑβδομηκοντάκις
+    gloss: seventy times {openscriptures-strongs}
+    proximity: 0.7863 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,40 +6,47 @@ pronunciation: tesh-oo-baw'
 definition: a recurrence (of time or place); a reply (as returned)
 kjv_usage: answer, be expired, return.
 derivation: or תְּשֻׁבָה; from H7725 (שׁוּב);
-extended_definition:
-  gloss: turn
-  definition: 1) a recurrence, an answer, return<br>1a) return<br>1a1) completion
-    of a year, return of a year<br>1b) at the return (construct)<br>1c) answer, reply
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) a recurrence, an answer, return
+
+  1a) return
+
+  1a1) completion of a year, return of a year
+
+  1b) at the return (construct)
+
+  1c) answer, reply {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A8648
-    proximity: 0.8207
+    proximity: 0.8207 {macula-proximity}
   - strongs: H559
-    proximity: 0.7938
+    proximity: 0.7938 {macula-proximity}
   - strongs: H8141
-    proximity: 0.7839
+    lemma: שָׁנֶה
+    gloss: a year {openscriptures-strongs}
+    proximity: 0.7839 {macula-proximity}
   - strongs: H6437
-    proximity: 0.7658
+    lemma: פָּנָה
+    gloss: to turn {openscriptures-strongs}
+    proximity: 0.7658 {macula-proximity}
   cross_language:
   - strongs: G600
-    proximity: 0.8237
+    proximity: 0.8237 {macula-proximity}
     language: greek
   - strongs: G5274
-    proximity: 0.8206
+    lemma: ὑπολαμβάνω
+    gloss: to take from below {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G627
-    proximity: 0.8151
+    proximity: 0.8151 {macula-proximity}
     language: greek
   - strongs: G1880
-    proximity: 0.8125
+    lemma: ἐπανέρχομαι
+    gloss: to come up on {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G1208a
-    proximity: 0.8106
+    proximity: 0.8106 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,47 +6,57 @@ pronunciation: maw-kak'
 definition: to melt; figuratively, to flow, dwindle, vanish
 kjv_usage: consume away, be corrupt, dissolve, pine away.
 derivation: ''' a primitive root;'
-extended_definition:
-  gloss: to rot
-  definition: 1) to decay, pine away, rot, fester<br>1a) (Niphal)<br>1a1) to fester
-    (of wounds)<br>1a2) to rot, rot away<br>1a3) to moulder away<br>1a4) to pine away<br>1b)
-    (Hiphil) to cause to rot
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to decay, pine away, rot, fester
+
+  1a) (Niphal)
+
+  1a1) to fester (of wounds)
+
+  1a2) to rot, rot away
+
+  1a3) to moulder away
+
+  1a4) to pine away
+
+  1b) (Hiphil) to cause to rot {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A8046
-    proximity: 0.8277
+    proximity: 0.8277 {macula-proximity}
   - strongs: H5685
-    proximity: 0.8222
+    lemma: עָבַשׁ
+    gloss: to dry up {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H5628b
-    proximity: 0.8211
+    proximity: 0.8211 {macula-proximity}
   - strongs: H76
-    proximity: 0.8181
+    proximity: 0.8181 {macula-proximity}
   - strongs: H4135a
-    proximity: 0.8123
+    proximity: 0.8123 {macula-proximity}
   - strongs: H13
-    proximity: 0.8118
+    proximity: 0.8118 {macula-proximity}
   - strongs: H8
-    proximity: 0.8065
+    proximity: 0.8065 {macula-proximity}
   - strongs: A7
-    proximity: 0.8063
+    proximity: 0.8063 {macula-proximity}
   - strongs: H7060
-    proximity: 0.8057
+    lemma: קָמַל
+    gloss: to wither {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
   - strongs: H8045
-    proximity: 0.8047
+    lemma: שָׁמַד
+    gloss: to desolate {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
   cross_language:
   - strongs: G4570
-    proximity: 0.8287
+    lemma: σβέννυμι
+    gloss: to extinguish {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G263
-    proximity: 0.8203
+    proximity: 0.8203 {macula-proximity}
     language: greek
   - strongs: G355
-    proximity: 0.816
+    proximity: 0.816 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,41 +6,53 @@ pronunciation: mid-yawn'
 definition: '{a contest or quarrel}'
 kjv_usage: brawling, contention(-ous).
 derivation: a variation for H4066 (מָדוֹן)
-extended_definition:
-  gloss: contention
-  definition: strife, contention
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: strife, contention {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4695
-    proximity: 0.7949
+    lemma: מַצּוּת
+    gloss: a quarrel {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
   - strongs: H1566
-    proximity: 0.7751
+    lemma: גָּלַע
+    gloss: to be obstinate {openscriptures-strongs}
+    proximity: 0.7751 {macula-proximity}
   - strongs: H6229
-    proximity: 0.7714
+    lemma: עָשַׂק
+    gloss: to press upon {openscriptures-strongs}
+    proximity: 0.7714 {macula-proximity}
   - strongs: H7378
-    proximity: 0.7683
+    lemma: רִיב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7683 {macula-proximity}
   - strongs: H5327
-    proximity: 0.7497
+    lemma: נָצָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7497 {macula-proximity}
   cross_language:
   - strongs: G3948
-    proximity: 0.8118
+    lemma: παροξυσμός
+    gloss: incitement {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
     language: greek
   - strongs: G5380
-    proximity: 0.8098
+    lemma: φιλόνεικος
+    gloss: probably akin to G3534 ) {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
     language: greek
   - strongs: G1267
-    proximity: 0.792
+    lemma: διαμερισμός
+    gloss: disunion {openscriptures-strongs}
+    proximity: 0.792 {macula-proximity}
     language: greek
   - strongs: G5379
-    proximity: 0.7828
+    lemma: φιλονεικία
+    gloss: quarrelsomeness {openscriptures-strongs}
+    proximity: 0.7828 {macula-proximity}
     language: greek
   - strongs: G2052
-    proximity: 0.7758
+    lemma: ἐριθεία
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7758 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

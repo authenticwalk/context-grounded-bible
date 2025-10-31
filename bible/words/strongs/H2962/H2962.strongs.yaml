@@ -6,43 +6,53 @@ pronunciation: teh'-rem
 definition: properly, non-occurrence; used adverbially, not yet or before
 kjv_usage: before, ere, not yet.
 derivation: from an unused root apparently meaning to interrupt or suspend;
-extended_definition:
-  gloss: before
-  definition: before, not yet, before that
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: before, not yet, before that {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5750
-    proximity: 0.8255
+    lemma: עוֹד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: H5227
-    proximity: 0.8249
+    lemma: נֹכַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.8227
+    proximity: 0.8227 {macula-proximity}
   - strongs: H6471
-    proximity: 0.8173
+    lemma: פַּעַם
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
   - strongs: H657
-    proximity: 0.817
+    proximity: 0.817 {macula-proximity}
   - strongs: H5048
-    proximity: 0.8052
+    lemma: נֶגֶד
+    gloss: a front {openscriptures-strongs}
+    proximity: 0.8052 {macula-proximity}
   cross_language:
   - strongs: G3371
-    proximity: 0.8274
+    lemma: μηκέτι
+    gloss: no further {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
     language: greek
   - strongs: G3908
-    proximity: 0.8258
+    lemma: παρατίθημι
+    gloss: to place alongside {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G3367
-    proximity: 0.8191
+    lemma: μηδείς
+    gloss: not even one (man {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
     language: greek
   - strongs: G1799
-    proximity: 0.8165
+    lemma: ἐνώπιον
+    gloss: in the face of {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G3755
-    proximity: 0.8141
+    lemma: ὅτου
+    gloss: during which same time {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

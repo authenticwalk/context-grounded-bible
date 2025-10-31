@@ -6,41 +6,52 @@ pronunciation: beh'-sem
 definition: fragrance; by implication, spicery; also the balsam plant
 kjv_usage: smell, spice, sweet (odour).
 derivation: or בֹּשֶׂם; from the same as H1313 (בָּשָׂם);
-extended_definition:
-  gloss: spice
-  definition: 1) spice, balsam, balsam tree, perfume<br>2) (TWOT) sweet, sweet smell,
-    sweet odour
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) spice, balsam, balsam tree, perfume
+
+  2) (TWOT) sweet, sweet smell, sweet odour {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4966
-    proximity: 0.8277
+    lemma: מָתוֹק
+    gloss: sweet {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H2590b
-    proximity: 0.8241
+    proximity: 0.8241 {macula-proximity}
   - strongs: H7548
-    proximity: 0.8158
+    lemma: רַקָּחָה
+    gloss: a female perfumer {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: H6156
-    proximity: 0.8017
+    lemma: עָרֵב
+    gloss: pleasant {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
   - strongs: H6988
-    proximity: 0.7864
+    lemma: קְטוֹרָה
+    gloss: perfume {openscriptures-strongs}
+    proximity: 0.7864 {macula-proximity}
   - strongs: A5208
-    proximity: 0.7535
+    proximity: 0.7535 {macula-proximity}
   - strongs: H5207
-    proximity: 0.7101
+    lemma: נִיחוֹחַ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7101 {macula-proximity}
   - strongs: H3828
-    proximity: 0.7082
+    lemma: לְבוֹנָה
+    gloss: frankincense {openscriptures-strongs}
+    proximity: 0.7082 {macula-proximity}
   - strongs: H4840
-    proximity: 0.7009
+    lemma: מֶרְקָח
+    gloss: a spicy herb {openscriptures-strongs}
+    proximity: 0.7009 {macula-proximity}
   cross_language:
   - strongs: G2367
-    proximity: 0.8075
+    lemma: θύϊνος
+    gloss: denoting a certain fragrant tree) {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
     language: greek
   - strongs: G3464
-    proximity: 0.8033
+    lemma: μύρον
+    gloss: '"myrrh" {openscriptures-strongs}'
+    proximity: 0.8033 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

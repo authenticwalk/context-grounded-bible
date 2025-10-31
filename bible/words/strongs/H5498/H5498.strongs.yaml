@@ -6,35 +6,35 @@ pronunciation: saw-khab'
 definition: to trail along
 kjv_usage: draw (out), tear.
 derivation: a primitive root;
-extended_definition:
-  gloss: to drag
-  definition: (Qal) to drag
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to drag {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6561
-    proximity: 0.824
+    lemma: פָּרַק
+    gloss: to break off or crunch {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: H4900
-    proximity: 0.7333
+    lemma: מָשַׁךְ
+    gloss: to draw {openscriptures-strongs}
+    proximity: 0.7333 {macula-proximity}
   cross_language:
   - strongs: G4884
-    proximity: 0.8272
+    lemma: συναρπάζω
+    gloss: to snatch together {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G307
-    proximity: 0.8135
+    proximity: 0.8135 {macula-proximity}
     language: greek
   - strongs: G522
-    proximity: 0.8091
+    proximity: 0.8091 {macula-proximity}
     language: greek
   - strongs: G667
-    proximity: 0.785
+    proximity: 0.785 {macula-proximity}
     language: greek
   - strongs: G1670
-    proximity: 0.7622
+    lemma: ἑλκύω
+    gloss: to drag {openscriptures-strongs}
+    proximity: 0.7622 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

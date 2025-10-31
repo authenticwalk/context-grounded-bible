@@ -5,36 +5,39 @@ transliteration: Maáth
 definition: Maath, an Israelite
 kjv_usage: Maath
 derivation: probably of Hebrew origin;
-extended_definition:
-  gloss: Maath
-  definition: '<b>Μαάθ</b>, ὁ <BR /> indecl., <BR /> <b>Maath</b>: <ref=''Luk.3.26.''>Luk.3:26.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Μαάθ</b>, ὁ <BR /> indecl., <BR /> <b>Maath</b>: <ref=''Luk.3.26.''>Luk.3:26.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Μαάθ, ὁ
+
+  indecl.,
+
+  Maath: Luk.3:26.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Μαάθ, ὁ
+
+  indecl.,
+
+  Maath: Luk.3:26.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H5820a
-    proximity: 0.8163
+    proximity: 0.8163 {macula-proximity}
     language: hebrew
   - strongs: H4047
-    proximity: 0.8093
+    lemma: מַגְפִּיעָשׁ
+    gloss: Magpiash {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
     language: hebrew
   - strongs: H8101
-    proximity: 0.8056
+    lemma: שִׁמְעָתִי
+    gloss: a Shimathite  or descendants of Shimah {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
     language: hebrew
   - strongs: H133
-    proximity: 0.7682
+    proximity: 0.7682 {macula-proximity}
     language: hebrew
   - strongs: H126
-    proximity: 0.725
+    proximity: 0.725 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

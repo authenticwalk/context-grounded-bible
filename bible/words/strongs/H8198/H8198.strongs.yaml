@@ -7,44 +7,57 @@ definition: a female slave (as a member of the household)
 kjv_usage: (bond-, hand-) maid(-en, -servant), wench, bondwoman, womanservant.
 derivation: feminine from an unused root meaning to spread out (as a family; see H4940
   (מִשְׁפָּחָה));
-extended_definition:
-  gloss: maidservant
-  definition: 1) maid, maid-servant, slavegirl<br>1a) maid, maid-servant (as belonging
-    to a mistress)<br>1b) of address, speaker, humility (fig)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) maid, maid-servant, slavegirl
+
+  1a) maid, maid-servant (as belonging to a mistress)
+
+  1b) of address, speaker, humility (fig) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H802
-    proximity: 0.8277
+    proximity: 0.8277 {macula-proximity}
   - strongs: H5959
-    proximity: 0.8227
+    lemma: עַלְמָה
+    gloss: a lass {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H6810
-    proximity: 0.8191
+    lemma: צָעִיר
+    gloss: little {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
   - strongs: H5288
-    proximity: 0.793
+    lemma: נַעַר
+    gloss: a boy {openscriptures-strongs}
+    proximity: 0.793 {macula-proximity}
   - strongs: H5347
-    proximity: 0.7698
+    lemma: נְקֵבָה
+    gloss: female {openscriptures-strongs}
+    proximity: 0.7698 {macula-proximity}
   - strongs: H2050b
-    proximity: 0.7577
+    proximity: 0.7577 {macula-proximity}
   cross_language:
   - strongs: G2532
-    proximity: 0.8218
+    lemma: καί
+    gloss: and {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
     language: greek
   - strongs: G1135
-    proximity: 0.8072
+    lemma: γυνή
+    gloss: a woman {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
     language: greek
   - strongs: G1249
-    proximity: 0.7944
+    lemma: διάκονος
+    gloss: an attendant {openscriptures-strongs}
+    proximity: 0.7944 {macula-proximity}
     language: greek
   - strongs: G1134
-    proximity: 0.7921
+    lemma: γυναικεῖος
+    gloss: feminine {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
     language: greek
   - strongs: G4889
-    proximity: 0.7837
+    lemma: σύνδουλος
+    gloss: a co-slave {openscriptures-strongs}
+    proximity: 0.7837 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,32 +5,31 @@ transliteration: diagongýzō
 definition: to complain throughout a crowd
 kjv_usage: murmur
 derivation: from G1223 (διά) and G1111 (γογγύζω);
-extended_definition:
-  gloss: to murmur
-  definition: '<b>δια-γογγύζω </b><BR /> [in LXX chiefly for לין, לון, as <ref=''Exo.16.2''>Exo.16:2</ref>,
-    and cf. Si 34(31):24 ;] <BR />of a number, <b>to murmur</b> or <b>mutter among
-    themselves</b>: <ref=''Luk.15.2; 19.7''>Luk.15:2 19:7</ref>.†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> διαγογγύζω</b>, <br /> <b>mutter</b> or <b>murmur among themselves,</b>
-    κατά τινος [<a href="javascript:void(0)" title=" LXX.Exo.16.7 ">LXX</a>]; ἐπί
-    τινι[<a href="javascript:void(0)" title="LXX.Num.14.2: _absolutely_, NT.Luke.15.2,
-    19.7, 3rd c.AD: Heliodorus Scriptor Eroticus 7.27. ">LXX+NT+3rd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δια-γογγύζω
+
+  [in LXX chiefly for לין, לון, as Exo.16:2, and cf. Si 34(31):24 ;]
+
+  of a number, to murmur or mutter among themselves: Luk.15:2 19:7.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'διαγογγύζω,
+
+  mutter or murmur among themselves, κατά τινος [LXX]; ἐπί τινι[LXX+NT+3rd c.AD+]
+  {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1261
-    proximity: 0.8252
+    lemma: διαλογισμός
+    gloss: discussion {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
   - strongs: G4802
-    proximity: 0.7824
+    lemma: συζητέω
+    gloss: to investigate jointly {openscriptures-strongs}
+    proximity: 0.7824 {macula-proximity}
   cross_language:
   - strongs: H8519
-    proximity: 0.7487
+    lemma: תְּלוּנָה
+    gloss: a grumbling {openscriptures-strongs}
+    proximity: 0.7487 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

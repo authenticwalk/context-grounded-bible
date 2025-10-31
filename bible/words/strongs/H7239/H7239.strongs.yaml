@@ -7,48 +7,57 @@ definition: a myriad, i.e. indefinitely, large number
 kjv_usage: great things, ten ((eight) -een, (for) -ty, [phrase] sixscore, [phrase]
   threescore, [idiom] twenty, (twen) -ty) thousand.
 derivation: from H7231 (רָבַב); or רִבּוֹא from H7231 (רָבַב);
-extended_definition:
-  gloss: ten thousand
-  definition: 'ten thousand, myriad<BR>Aramaic equivalent: <i>rib.bo</i> (רִבּוֹ "myriad"
-    H7240)'
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: 'ten thousand, myriad
+
+  Aramaic equivalent: rib.bo (רִבּוֹ "myriad" H7240) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A8361
-    proximity: 0.8297
+    proximity: 0.8297 {macula-proximity}
   - strongs: H259
-    proximity: 0.8274
+    proximity: 0.8274 {macula-proximity}
   - strongs: A6243
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
   - strongs: H6249
-    proximity: 0.8196
+    lemma: עַשְׁתֵּי
+    gloss: eleven or  eleventh {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: H503
-    proximity: 0.8174
+    proximity: 0.8174 {macula-proximity}
   - strongs: H505a
-    proximity: 0.8127
+    proximity: 0.8127 {macula-proximity}
   - strongs: H2568
-    proximity: 0.8037
+    lemma: חָמֵשׁ
+    gloss: five {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
   - strongs: H7651
-    proximity: 0.8019
+    lemma: שֶׁבַע
+    gloss: seven {openscriptures-strongs}
+    proximity: 0.8019 {macula-proximity}
   cross_language:
   - strongs: G1367
-    proximity: 0.8273
+    lemma: δισχίλιοι
+    gloss: two thousand {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G1803
-    proximity: 0.8267
+    lemma: ἕξ
+    gloss: six {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
     language: greek
   - strongs: G5070
-    proximity: 0.8149
+    lemma: τετρακισχίλιοι
+    gloss: four times a thousand {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
     language: greek
   - strongs: G1812
-    proximity: 0.8143
+    lemma: ἑξακόσιοι
+    gloss: six hundred {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
     language: greek
   - strongs: G5144
-    proximity: 0.8094
+    lemma: τριάκοντα
+    gloss: thirty {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

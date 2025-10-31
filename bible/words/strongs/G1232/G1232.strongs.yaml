@@ -5,47 +5,55 @@ transliteration: diagnōrízō
 definition: to tell abroad
 kjv_usage: make known
 derivation: from G1123 (γραπτός) and G1107 (γνωρίζω);
-extended_definition:
-  gloss: to report
-  definition: '<b>δια-γνωρίζω </b><BR /> <b>to publish abroad</b>: <BR /> <ref=''Luk.2.17''>Luk.2:17</ref>,
-    Rec. (ἐγνώρισεν, Edd.).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> διαγνωρ-ίζω</b>, <br /> <b>make known,</b> τί τινι [<a href="javascript:void(0)"
-    title=" NT.Luke.2.15 (variant)">NT</a>]; <b>speak publicly,</b> περί τινος [<a
-    href="javascript:void(0)" title="[prev. work] 17. ">Refs</a>]
-  source: STEPBible/LSJ
+extended_definition: 'δια-γνωρίζω
+
+  to publish abroad:
+
+  Luk.2:17, Rec. (ἐγνώρισεν, Edd.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'διαγνωρ-ίζω,
+
+  make known, τί τινι [NT]; speak publicly, περί τινος [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4278
-    proximity: 0.8259
+    lemma: προενάρχομαι
+    gloss: to commence already {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: G457
-    proximity: 0.8197
+    proximity: 0.8197 {macula-proximity}
   - strongs: G4267
-    proximity: 0.8167
+    lemma: προγινώσκω
+    gloss: to know beforehand {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: G518
-    proximity: 0.8148
+    proximity: 0.8148 {macula-proximity}
   - strongs: A3046
-    proximity: 0.795
+    proximity: 0.795 {macula-proximity}
   - strongs: G5334
-    proximity: 0.7843
+    lemma: φάσις
+    gloss: a saying {openscriptures-strongs}
+    proximity: 0.7843 {macula-proximity}
   - strongs: G1107
-    proximity: 0.7558
+    lemma: γνωρίζω
+    gloss: to make known {openscriptures-strongs}
+    proximity: 0.7558 {macula-proximity}
   - strongs: G2605
-    proximity: 0.7471
+    lemma: καταγγέλλω
+    gloss: to proclaim {openscriptures-strongs}
+    proximity: 0.7471 {macula-proximity}
   - strongs: G319
-    proximity: 0.7279
+    proximity: 0.7279 {macula-proximity}
   cross_language:
   - strongs: H8085
-    proximity: 0.81
+    lemma: שָׁמַע
+    gloss: to hear intelligently (often with implication of attention {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
     language: hebrew
   - strongs: H3045
-    proximity: 0.8081
+    lemma: יָדַע
+    gloss: to know (properly {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,42 +6,55 @@ pronunciation: khaw-vah'
 definition: properly, to live; by implication (intensively) to declare or show
 kjv_usage: show.
 derivation: a primitive root; (compare H2324 (חֲוָא), H2421 (חָיָה));
-extended_definition:
-  gloss: to explain
-  definition: '1) (Piel) to tell, declare, show, make known<br>2) (CLBL) to breath<BR>Aramaic
-    equivalent: <i>cha.vah</i> (חֲוָה "to show" H2324)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Piel) to tell, declare, show, make known
+
+  2) (CLBL) to breath
+
+  Aramaic equivalent: cha.vah (חֲוָה "to show" H2324) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6623
-    proximity: 0.8274
+    lemma: פִּתְרוֹן
+    gloss: interpretation {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H6567
-    proximity: 0.8247
+    lemma: פָּרָשׁ
+    gloss: to separate {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H7878
-    proximity: 0.7991
+    lemma: שִׂיחַ
+    gloss: to ponder {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: A6591
-    proximity: 0.7937
+    proximity: 0.7937 {macula-proximity}
   - strongs: H3045
-    proximity: 0.7915
+    lemma: יָדַע
+    gloss: to know (properly {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
   cross_language:
   - strongs: G1328
-    proximity: 0.8268
+    lemma: διερμηνευτής
+    gloss: an explainer {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: greek
   - strongs: G2980
-    proximity: 0.8239
+    lemma: λαλέω
+    gloss: to talk {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G4793
-    proximity: 0.8182
+    lemma: συγκρίνω
+    gloss: to judge of one thing in connection with another {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: greek
   - strongs: G5346
-    proximity: 0.8128
+    lemma: φημί
+    gloss: to show or make known one's thoughts {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
     language: greek
   - strongs: G1955
-    proximity: 0.8023
+    lemma: ἐπίλυσις
+    gloss: explanation {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

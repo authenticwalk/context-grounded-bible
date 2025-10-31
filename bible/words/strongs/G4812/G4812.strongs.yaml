@@ -5,53 +5,59 @@ transliteration: sylagōgéō
 definition: to lead away as booty, i.e. (figuratively) seduce
 kjv_usage: spoil
 derivation: from the base of G4813 (συλάω) and (the reduplicated form of) G71 (ἄγω);
-extended_definition:
-  gloss: to capture
-  definition: '<b>συλαγωγέω</b>, -ῶ<BR /> (σύλη, booty + ἄγω), <BR /><b>to carry off
-    as spoil, lead captive </b>(θυγατέρα, Heliod., Aeth., 10, 35): metaphorically,
-    <ref=''Col.2.8.''>Col.2:8.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> σῡλᾰγωγέω</b>, <br /> (σῦλον) <b>carry off as booty, lead captive</b>,
-    τινα [<a href="javascript:void(0)" title=" NT.Col.2.8, 3rd c.AD: Heliodorus Scriptor
-    Eroticus 10.35. ">NT+3rd c.AD+</a>]<br /><Level2><b>__II</b></Level2> <b>rob,
-    despoil</b>, τὸν οἶκον [<a href="javascript:void(0)" title=" 5th c.AD: Aristaenetus
-    Rhetor 2.22. ">Refs 5th c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συλαγωγέω, -ῶ
+
+  (σύλη, booty + ἄγω),
+
+  to carry off as spoil, lead captive (θυγατέρα, Heliod., Aeth., 10, 35): metaphorically,
+  Col.2:8.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'σῡλᾰγωγέω,
+
+  (σῦλον) carry off as booty, lead captive, τινα [NT+3rd c.AD+]
+
+  __II rob, despoil, τὸν οἶκον [Refs 5th c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5274
-    proximity: 0.8266
+    lemma: ὑπολαμβάνω
+    gloss: to take from below {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: G554
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
   - strongs: G3880
-    proximity: 0.8146
+    lemma: παραλαμβάνω
+    gloss: to receive near {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
   - strongs: A2987
-    proximity: 0.8064
+    proximity: 0.8064 {macula-proximity}
   - strongs: G4838
-    proximity: 0.7971
+    lemma: συμπαραλαμβάνω
+    gloss: to take along in company {openscriptures-strongs}
+    proximity: 0.7971 {macula-proximity}
   - strongs: G164
-    proximity: 0.7778
+    proximity: 0.7778 {macula-proximity}
   cross_language:
   - strongs: H7622a
-    proximity: 0.8086
+    proximity: 0.8086 {macula-proximity}
     language: hebrew
   - strongs: H871a
-    proximity: 0.8032
+    proximity: 0.8032 {macula-proximity}
     language: hebrew
   - strongs: H7953
-    proximity: 0.7983
+    lemma: שָׁלָה
+    gloss: to draw out or off {openscriptures-strongs}
+    proximity: 0.7983 {macula-proximity}
     language: hebrew
   - strongs: H5148
-    proximity: 0.7953
+    lemma: נָחָה
+    gloss: to guide {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
     language: hebrew
   - strongs: H1898
-    proximity: 0.7951
+    lemma: הָגָה
+    gloss: to remove {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

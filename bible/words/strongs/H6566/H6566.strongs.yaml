@@ -7,50 +7,82 @@ definition: to break apart, disperse, etc.
 kjv_usage: break, chop in pieces, lay open, scatter, spread (abroad, forth, selves,
   out), stretch (forth, out).
 derivation: a primitive root;
-extended_definition:
-  gloss: to spread
-  definition: 1) to spread, spread out, stretch, break in pieces<br>1a) (Qal)<br>1a1)
-    to spread out, display<br>1a2) to spread over<br>1b) (Niphal) to be scattered,
-    be spread out<br>1c) (Piel)<br>1c1) to spread out<br>1c1) to scatter
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to spread, spread out, stretch, break in pieces
+
+  1a) (Qal)
+
+  1a1) to spread out, display
+
+  1a2) to spread over
+
+  1b) (Niphal) to be scattered, be spread out
+
+  1c) (Piel)
+
+  1c1) to spread out
+
+  1c1) to scatter {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6524
-    proximity: 0.8291
+    lemma: פָּרַח
+    gloss: to break forth as a bud {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: H4669
-    proximity: 0.8256
+    lemma: מִפְתָּח
+    gloss: an aperture {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: H7311
-    proximity: 0.8245
+    lemma: רוּם
+    gloss: to be high actively {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H3680
-    proximity: 0.8193
+    lemma: כָּסָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H7971
-    proximity: 0.8167
+    lemma: שָׁלַח
+    gloss: to send away {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H6823
-    proximity: 0.8153
+    lemma: צָפָה
+    gloss: to sheet over {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
   - strongs: H6473
-    proximity: 0.8102
+    lemma: פָּעַר
+    gloss: to yawn {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
   - strongs: H6491
-    proximity: 0.8062
+    lemma: פָּקַח
+    gloss: to open (the senses {openscriptures-strongs}
+    proximity: 0.8062 {macula-proximity}
   - strongs: H3318
-    proximity: 0.8046
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
   - strongs: H6168
-    proximity: 0.7998
+    lemma: עָרָה
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
   cross_language:
   - strongs: G1607
-    proximity: 0.8248
+    lemma: ἐκπορεύομαι
+    gloss: to depart {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: greek
   - strongs: G1310
-    proximity: 0.8164
+    lemma: διαφημίζω
+    gloss: to report thoroughly {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
     language: greek
   - strongs: G1262
-    proximity: 0.8116
+    lemma: διαλύω
+    gloss: to dissolve utterly {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
     language: greek
   - strongs: G4766
-    proximity: 0.8041
+    lemma: στρώννυμι
+    gloss: to "strew {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

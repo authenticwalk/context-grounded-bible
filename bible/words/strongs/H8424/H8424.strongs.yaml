@@ -6,45 +6,55 @@ pronunciation: too-gaw'
 definition: depression (of spirits); concretely a grief
 kjv_usage: heaviness, sorrow.
 derivation: from H3013 (יָגָה);
-extended_definition:
-  gloss: grief
-  definition: grief, heaviness, sorrow
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: grief, heaviness, sorrow {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7481a
-    proximity: 0.8297
+    proximity: 0.8297 {macula-proximity}
   - strongs: H6093
-    proximity: 0.8264
+    lemma: עִצָּבוֹן
+    gloss: worrisomeness {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H6862
-    proximity: 0.8197
+    lemma: צַר
+    gloss: narrow {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
   - strongs: H4751
-    proximity: 0.8126
+    lemma: מַר
+    gloss: bitter {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
   - strongs: H5218a
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
   - strongs: H7879
-    proximity: 0.81
+    lemma: שִׂיחַ
+    gloss: a contemplation {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
   - strongs: H4843
-    proximity: 0.803
+    lemma: מָרַר
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
   - strongs: H5136
-    proximity: 0.7996
+    lemma: נוּשׁ
+    gloss: to be sick {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
   - strongs: H8386
-    proximity: 0.7957
+    lemma: תַּאֲנִיָּה
+    gloss: lamentation {openscriptures-strongs}
+    proximity: 0.7957 {macula-proximity}
   - strongs: H109
-    proximity: 0.7909
+    proximity: 0.7909 {macula-proximity}
   cross_language:
   - strongs: G4305
-    proximity: 0.8157
+    lemma: προμεριμνάω
+    gloss: to care  in advance {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
     language: greek
   - strongs: G253
-    proximity: 0.807
+    proximity: 0.807 {macula-proximity}
     language: greek
   - strongs: G3997
-    proximity: 0.8002
+    lemma: πένθος
+    gloss: grief {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

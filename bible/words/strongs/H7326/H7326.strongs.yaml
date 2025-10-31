@@ -6,43 +6,61 @@ pronunciation: roosh
 definition: to be destitute
 kjv_usage: lack, needy, (make self) poor (man).
 derivation: a primitive root;
-extended_definition:
-  gloss: be poor
-  definition: 1) to be poor, be in want, lack<br>1a) (Qal)<br>1a1) to be poor<br>1a2)
-    to be in want or hunger<br>1a3) poor man (subst)<br>1b)(Hithpolel) one impoverishing
-    himself (participle)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be poor, be in want, lack
+
+  1a) (Qal)
+
+  1a1) to be poor
+
+  1a2) to be in want or hunger
+
+  1a3) poor man (subst)
+
+  1b)(Hithpolel) one impoverishing himself (participle) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5234a
-    proximity: 0.8251
+    proximity: 0.8251 {macula-proximity}
   - strongs: H1397
-    proximity: 0.8195
+    lemma: גֶּבֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H7330
-    proximity: 0.7892
+    lemma: רָזֶה
+    gloss: thin {openscriptures-strongs}
+    proximity: 0.7892 {macula-proximity}
   - strongs: H2640
-    proximity: 0.7592
+    lemma: חֹסֶר
+    gloss: poverty {openscriptures-strongs}
+    proximity: 0.7592 {macula-proximity}
   - strongs: H2638
-    proximity: 0.7501
+    lemma: חָסֵר
+    gloss: lacking {openscriptures-strongs}
+    proximity: 0.7501 {macula-proximity}
   cross_language:
   - strongs: G5303
-    proximity: 0.8198
+    lemma: ὑστέρημα
+    gloss: a deficit {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
     language: greek
   - strongs: G5595
-    proximity: 0.8116
+    lemma: ψωμίζω
+    gloss: to supply with bits {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
     language: greek
   - strongs: G5302
-    proximity: 0.7909
+    lemma: ὑστερέω
+    gloss: to be later {openscriptures-strongs}
+    proximity: 0.7909 {macula-proximity}
     language: greek
   - strongs: G5304
-    proximity: 0.7626
+    lemma: ὑστέρησις
+    gloss: a falling short {openscriptures-strongs}
+    proximity: 0.7626 {macula-proximity}
     language: greek
   - strongs: G4432
-    proximity: 0.7345
+    lemma: πτωχεία
+    gloss: beggary {openscriptures-strongs}
+    proximity: 0.7345 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

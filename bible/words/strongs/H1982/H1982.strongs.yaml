@@ -6,38 +6,46 @@ pronunciation: hay'-lek
 definition: properly, a journey, i.e. (by implication) a wayfarer; also a flowing
 kjv_usage: '[idiom] dropped, traveller.'
 derivation: from H1980 (הָלַךְ);
-extended_definition:
-  gloss: traveller
-  definition: traveller
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: traveller {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8453
-    proximity: 0.8268
+    lemma: תּוֹשָׁב
+    gloss: resident alien {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: H2988
-    proximity: 0.8168
+    lemma: יָבָל
+    gloss: a stream {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H2100
-    proximity: 0.7958
+    lemma: זוּב
+    gloss: to flow freely {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
   - strongs: A5047
-    proximity: 0.7516
+    proximity: 0.7516 {macula-proximity}
   - strongs: H1812
-    proximity: 0.7331
+    lemma: דֶּלֶף
+    gloss: a dripping {openscriptures-strongs}
+    proximity: 0.7331 {macula-proximity}
   cross_language:
   - strongs: G1927
-    proximity: 0.8286
+    lemma: ἐπιδημέω
+    gloss: to make oneself at home {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G3939
-    proximity: 0.8236
+    lemma: παροικέω
+    gloss: to dwell near {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
     language: greek
   - strongs: G3567
-    proximity: 0.8232
+    lemma: νυμφών
+    gloss: the bridal room {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
     language: greek
   - strongs: G3581
-    proximity: 0.7626
+    lemma: ξένος
+    gloss: foreign (literally {openscriptures-strongs}
+    proximity: 0.7626 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

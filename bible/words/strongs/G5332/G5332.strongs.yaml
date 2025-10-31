@@ -5,38 +5,37 @@ transliteration: pharmakeús
 definition: a druggist ("pharmacist") or poisoner, i.e. (by extension) a magician
 kjv_usage: sorcerer
 derivation: from (a drug, i.e. spell-giving potion);
-extended_definition:
-  gloss: sorcerer
-  definition: '<b>φαρμακεύς</b>, -έως, ὁ<BR /> (φάρμακον) <BR /><b>a sorcerer</b>:
-    <ref=''Rev.21.8''>Rev.21:8</ref>, Rec.†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> φαρμᾰκ-εύς</b>, έως, ὁ, <br /> <b>poisoner, sorcerer,</b> [<a
-    href="javascript:void(0)" title=" 5th c.BC: Sophocles Tragicus “Trachiniae” 1140,
-    5th-6th c.BC: Plato Philosophus “Symposium” 203d, etc.; γνήσιοι σοφισταὶ καὶ φ.
-    4th c.AD: Julianus Imperator “Orationes” 6.197d. ">Refs 5th c.BC+</a>]<br /><Level2><b>__II</b></Level2>
-    <b>druggist, apothecary,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Aretaeus
-    Medicus “χρονίων νούσων θεραπευτικόν” 2.12. ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'φαρμακεύς, -έως, ὁ
+
+  (φάρμακον)
+
+  a sorcerer: Rev.21:8, Rec.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'φαρμᾰκ-εύς, έως, ὁ,
+
+  poisoner, sorcerer, [Refs 5th c.BC+]
+
+  __II druggist, apothecary, [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3095
-    proximity: 0.7607
+    lemma: μαγεία
+    gloss: '"magic" {openscriptures-strongs}'
+    proximity: 0.7607 {macula-proximity}
   - strongs: G3097
-    proximity: 0.7404
+    lemma: μάγος
+    gloss: a Magian {openscriptures-strongs}
+    proximity: 0.7404 {macula-proximity}
   - strongs: G5331a
-    proximity: 0.7278
+    proximity: 0.7278 {macula-proximity}
   cross_language:
   - strongs: H3858a
-    proximity: 0.7978
+    proximity: 0.7978 {macula-proximity}
     language: hebrew
   - strongs: H3785
-    proximity: 0.7766
+    lemma: כֶּשֶׁף
+    gloss: magic {openscriptures-strongs}
+    proximity: 0.7766 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

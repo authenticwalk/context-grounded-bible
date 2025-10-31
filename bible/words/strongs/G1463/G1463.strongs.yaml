@@ -6,58 +6,70 @@ definition: to engirdle oneself (for labor), i.e. figuratively (the apron as bei
   a badge of servitude) to wear (in token of mutual deference)
 kjv_usage: be clothed with
 derivation: middle voice from G1722 (ἐν) and (to gird);
-extended_definition:
-  gloss: to clothe oneself
-  definition: '<b>ἐγκομβόομαι</b>, -οῦμαι <BR /> (κόμβος, a knot, whence ἐγκόμβωμα,
-    a garment tied on over others, used especially of a frock or apron worn by slaves),
-    <BR /><b>to put on oneself</b>, as a garment, <b>gird on</b>: ἀλλήλοις τ. ταπεινοφροσύνην
-    (as for service, RV, cf. Thayer, see word, but cf. also <i>ICC</i>, in l.), <ref=''1Pe.5.5.''>1Pe.5:5.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐγκομβ-όομαι</b>, <br /> <i>middle</i>, (κόμβος) <b>bind</b>
-    a thing <b>on oneself, wear</b> it <b>constantly</b>, [<a href="javascript:void(0)"
-    title=" 4th-3rd c.BC: Apollodorus Carystius Comicus 4, NT.1Pet.5.5. ">NT+4th c.BC+</a>]<br
-    /><Level2><b>__II</b></Level2> <i>passive</i>, ={δέομαι},{ἐνειλοῦμαι} [<a href="javascript:void(0)"
-    title="(5th c.AD(?): Hesychius Legal icographus), 5th c.BC: Epicharmus Comicus
-    7. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐγκομβόομαι, -οῦμαι
+
+  (κόμβος, a knot, whence ἐγκόμβωμα, a garment tied on over others, used especially
+  of a frock or apron worn by slaves),
+
+  to put on oneself, as a garment, gird on: ἀλλήλοις τ. ταπεινοφροσύνην (as for service,
+  RV, cf. Thayer, see word, but cf. also ICC, in l.), 1Pe.5:5.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐγκομβ-όομαι,
+
+  middle, (κόμβος) bind a thing on oneself, wear it constantly, [NT+4th c.BC+]
+
+  __II passive, ={δέομαι},{ἐνειλοῦμαι} [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4895
-    proximity: 0.8287
+    lemma: σύνειμι
+    gloss: to be in company with {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: G5265
-    proximity: 0.8169
+    lemma: ὑποδέω
+    gloss: to bind under one's feet {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: G4862
-    proximity: 0.8155
+    lemma: σύν
+    gloss: with or together  or G3844 ) {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: G2066
-    proximity: 0.8005
+    lemma: ἐσθής
+    gloss: dress {openscriptures-strongs}
+    proximity: 0.8005 {macula-proximity}
   - strongs: G2441
-    proximity: 0.7975
+    lemma: ἱματισμός
+    gloss: clothing {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
   - strongs: G3751
-    proximity: 0.7932
+    lemma: ὀσφῦς
+    gloss: the loin {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
   - strongs: G328
-    proximity: 0.7766
+    proximity: 0.7766 {macula-proximity}
   cross_language:
   - strongs: H5274a
-    proximity: 0.8272
+    proximity: 0.8272 {macula-proximity}
     language: hebrew
   - strongs: H4975
-    proximity: 0.8251
+    lemma: מֹתֶן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
     language: hebrew
   - strongs: H2504
-    proximity: 0.8241
+    lemma: חָלָץ
+    gloss: the loins {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: hebrew
   - strongs: H8071
-    proximity: 0.823
+    lemma: שִׂמְלָה
+    gloss: a dress {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
     language: hebrew
   - strongs: H4403
-    proximity: 0.8085
+    lemma: מַלְבּוּשׁ
+    gloss: a garment {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

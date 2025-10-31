@@ -6,49 +6,70 @@ pronunciation: tsaw-khak'
 definition: to laugh outright (in merriment or scorn); by implication, to sport
 kjv_usage: laugh, mock, play, make sport.
 derivation: a primitive root;
-extended_definition:
-  gloss: to laugh
-  definition: 1) to laugh, mock, play<br>1a) (Qal) to laugh<br>1b) (Piel)<br>1b1)
-    to jest<br>1b2) to sport, play, make sport, toy with, make a toy of
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to laugh, mock, play
+
+  1a) (Qal) to laugh
+
+  1b) (Piel)
+
+  1b1) to jest
+
+  1b2) to sport, play, make sport, toy with, make a toy of {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3934
-    proximity: 0.8283
+    lemma: לָעֵג
+    gloss: a buffoon {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H6026
-    proximity: 0.827
+    lemma: עָנַג
+    gloss: to be soft or pliable {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H2049
-    proximity: 0.8248
+    lemma: הָתֹל
+    gloss: a derision {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: H2048a
-    proximity: 0.8233
+    proximity: 0.8233 {macula-proximity}
   - strongs: H8057
-    proximity: 0.8225
+    lemma: שִׂמְחָה
+    gloss: blithesomeness or glee {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: H4890
-    proximity: 0.8083
+    lemma: מִשְׂחַק
+    gloss: a laughing-stock {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
   - strongs: H7046
-    proximity: 0.8063
+    lemma: קָלַס
+    gloss: to disparage {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
   - strongs: H8173a
-    proximity: 0.8001
+    proximity: 0.8001 {macula-proximity}
   - strongs: H3887b
-    proximity: 0.7459
+    proximity: 0.7459 {macula-proximity}
   - strongs: H6712
-    proximity: 0.7186
+    lemma: צְחֹק
+    gloss: laughter {openscriptures-strongs}
+    proximity: 0.7186 {macula-proximity}
   cross_language:
   - strongs: G2606
-    proximity: 0.83
+    lemma: καταγελάω
+    gloss: to laugh down {openscriptures-strongs}
+    proximity: 0.83 {macula-proximity}
     language: greek
   - strongs: G2160
-    proximity: 0.828
+    lemma: εὐτραπελία
+    gloss: witticism {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G1701
-    proximity: 0.7312
+    lemma: ἐμπαιγμός
+    gloss: derision {openscriptures-strongs}
+    proximity: 0.7312 {macula-proximity}
     language: greek
   - strongs: G1071
-    proximity: 0.7198
+    lemma: γέλως
+    gloss: laughter {openscriptures-strongs}
+    proximity: 0.7198 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

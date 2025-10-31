@@ -6,32 +6,34 @@ pronunciation: kheh'-res
 definition: a piece of pottery
 kjv_usage: earth(-en), (pot-) sherd, [phrase] stone.
 derivation: a collateral form mediating between H2775 (חֶרֶס) and H2791 (חֶרֶשׁ);
-extended_definition:
-  gloss: earthenware
-  definition: earthenware, clay pottery, shard, potsherd, earthen vessel
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: earthenware, clay pottery, shard, potsherd, earthen vessel {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1228
-    proximity: 0.8248
+    lemma: בַּקְבֻּק
+    gloss: a bottle {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: A2635
-    proximity: 0.8061
+    proximity: 0.8061 {macula-proximity}
   - strongs: H3627
-    proximity: 0.801
+    lemma: כְּלִי
+    gloss: something prepared {openscriptures-strongs}
+    proximity: 0.801 {macula-proximity}
   - strongs: H7447a
-    proximity: 0.7988
+    proximity: 0.7988 {macula-proximity}
   - strongs: H5509
-    proximity: 0.7983
+    lemma: סִיג
+    gloss: scoria {openscriptures-strongs}
+    proximity: 0.7983 {macula-proximity}
   cross_language:
   - strongs: G4067
-    proximity: 0.7721
+    lemma: περίψωμα
+    gloss: something brushed all around {openscriptures-strongs}
+    proximity: 0.7721 {macula-proximity}
     language: greek
   - strongs: G2764
-    proximity: 0.7185
+    lemma: κεραμικός
+    gloss: made of clay {openscriptures-strongs}
+    proximity: 0.7185 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

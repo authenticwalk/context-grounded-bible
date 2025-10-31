@@ -6,21 +6,19 @@ pronunciation: mah-ar-eh'-keth
 definition: an arrangement, i.e. (concretely) a pile (of loaves)
 kjv_usage: row, shewbread.
 derivation: from H6186 (עָרַךְ);
-extended_definition:
-  gloss: row
-  definition: row, line
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: row, line {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6440
-    proximity: 0.8063
+    lemma: פָּנִים
+    gloss: the face {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
   - strongs: H3899
-    proximity: 0.7954
+    lemma: לֶחֶם
+    gloss: food {openscriptures-strongs}
+    proximity: 0.7954 {macula-proximity}
   - strongs: H6187
-    proximity: 0.7588
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: עֵרֶךְ
+    gloss: a pile {openscriptures-strongs}
+    proximity: 0.7588 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

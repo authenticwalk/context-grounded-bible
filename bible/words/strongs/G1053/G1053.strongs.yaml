@@ -5,47 +5,55 @@ transliteration: Galatía
 definition: Galatia, a region of Asia
 kjv_usage: Galatia
 derivation: of foreign origin;
-extended_definition:
-  gloss: Galatia
-  definition: '<b>Γαλατία</b>, -ας, ἡ, <BR /> <b>Galatia</b>; <BR />__1. a gentilic
-    region in Asia Minor, settled by Gauls (iii/B.C). <BR /> __2. <b>A Roman Province
-    which included this region </b>(<i>DB</i>, ii, 85ff.): <ref=''1Co.16.1''>1Co.16:1</ref>,
-    <ref=''Gal.1.2''>Gal.1:2</ref>, <ref=''2Ti.4.10''>2Ti.4:10</ref> (T, Tr., mg.,
-    Γαλλίαν), <ref=''1Pe.1.1.''>1Pe.1:1.</ref><BR />† (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Γαλατία</b>, -ας, ἡ, <BR /> <b>Galatia</b>; <BR />__1. a gentilic
-    region in Asia Minor, settled by Gauls (iii/B.C). <BR /> __2. <b>A Roman Province
-    which included this region </b>(<i>DB</i>, ii, 85ff.): <ref=''1Co.16.1''>1Co.16:1</ref>,
-    <ref=''Gal.1.2''>Gal.1:2</ref>, <ref=''2Ti.4.10''>2Ti.4:10</ref> (T, Tr., mg.,
-    Γαλλίαν), <ref=''1Pe.1.1.''>1Pe.1:1.</ref><BR />†  (From Abbott-Smith. LSJ has
-    no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Γαλατία, -ας, ἡ,
+
+  Galatia;
+
+  __1. a gentilic region in Asia Minor, settled by Gauls (iii/B.C).
+
+  __2. A Roman Province which included this region (DB, ii, 85ff.): 1Co.16:1, Gal.1:2,
+  2Ti.4:10 (T, Tr., mg., Γαλλίαν), 1Pe.1:1.
+
+  † (AS) {STEPBible-TBESG}'
+etymology: 'Γαλατία, -ας, ἡ,
+
+  Galatia;
+
+  __1. a gentilic region in Asia Minor, settled by Gauls (iii/B.C).
+
+  __2. A Roman Province which included this region (DB, ii, 85ff.): 1Co.16:1, Gal.1:2,
+  2Ti.4:10 (T, Tr., mg., Γαλλίαν), 1Pe.1:1.
+
+  †  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1046
-    proximity: 0.8133
+    lemma: Γαδαρηνός
+    gloss: a Gadarene or inhabitant of Gadara {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   - strongs: G4469
-    proximity: 0.8119
+    lemma: ῥακά
+    gloss: O empty one {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: G914
-    proximity: 0.7778
+    proximity: 0.7778 {macula-proximity}
   cross_language:
   - strongs: H1294
-    proximity: 0.8237
+    lemma: בְּרָכָה
+    gloss: Berakah {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
     language: hebrew
   - strongs: H1294a
-    proximity: 0.8184
+    proximity: 0.8184 {macula-proximity}
     language: hebrew
   - strongs: H1559
-    proximity: 0.7917
+    lemma: גָּלָל
+    gloss: Galal {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: hebrew
   - strongs: H3625
-    proximity: 0.7828
+    lemma: כֶּלַח
+    gloss: Kelach {openscriptures-strongs}
+    proximity: 0.7828 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

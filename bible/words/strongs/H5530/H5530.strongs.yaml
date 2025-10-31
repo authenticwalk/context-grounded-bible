@@ -6,39 +6,43 @@ pronunciation: saw-kawl'
 definition: silly
 kjv_usage: fool(-ish), sottish.
 derivation: from H5528 (סָכַל);
-extended_definition:
-  gloss: fool
-  definition: fool
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: fool {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3820
-    proximity: 0.8284
+    lemma: לֵב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H5034a
-    proximity: 0.8222
+    proximity: 0.8222 {macula-proximity}
   - strongs: H8417
-    proximity: 0.7968
+    lemma: תׇּהֳלָה
+    gloss: braggadocio {openscriptures-strongs}
+    proximity: 0.7968 {macula-proximity}
   - strongs: H2954
-    proximity: 0.7883
+    lemma: טָפַשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7883 {macula-proximity}
   - strongs: H3689a
-    proximity: 0.778
+    proximity: 0.778 {macula-proximity}
   - strongs: H3690
-    proximity: 0.7204
+    lemma: כִּסְלָה
+    gloss: in a good sense {openscriptures-strongs}
+    proximity: 0.7204 {macula-proximity}
   - strongs: H6615
-    proximity: 0.7178
+    lemma: פְּתַיּוּת
+    gloss: silliness {openscriptures-strongs}
+    proximity: 0.7178 {macula-proximity}
   cross_language:
   - strongs: G56
-    proximity: 0.8068
+    proximity: 0.8068 {macula-proximity}
     language: greek
   - strongs: G3471
-    proximity: 0.7562
+    lemma: μωραίνω
+    gloss: to become insipid {openscriptures-strongs}
+    proximity: 0.7562 {macula-proximity}
     language: greek
   - strongs: G454
-    proximity: 0.7088
+    proximity: 0.7088 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

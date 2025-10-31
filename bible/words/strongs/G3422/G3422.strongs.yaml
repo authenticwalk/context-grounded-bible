@@ -5,45 +5,41 @@ transliteration: mnēmósynon
 definition: a reminder (memorandum), i.e. record
 kjv_usage: memorial
 derivation: from G3421 (μνημονεύω);
-extended_definition:
-  gloss: memorial
-  definition: '<b>μνημόσυνον</b>, -ου, τό<BR /> (μνήμων, mindful), [in LXX frequently
-    for זֵכֶר, זִכְרוֹן and cogn. forms ;] <BR /><b>a memorial</b>: <ref=''Mat.26.13''>Mat.26:13</ref>,
-    <ref=''Mrk.14.9''>Mrk.14:9</ref>, <ref=''Act.10.4''>Act.10:4</ref> (where cf.
-    <ref=''Lev.2.9, 16; 5.12''>Lev.2:9, 16 5:12</ref>, Num_5:28, <ref=''Sir.45.16''>Sir.45:16</ref>,
-    al.).†<BR /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> μνημόσῠνον</b>, τό, <br /> <b>remembrance, memorial</b> of
-    a thing, μνημόσυνον ἑωυτοῦ λιπέσθαι [<a href="javascript:void(0)" title=" 5th
-    c.BC: Herodotus Historicus 1.185, 4.166; μνημόσυνον λιπέσθαι [prev. author] 1.186,
-    2.101; μνημόσυνα ἀποδέξασθαι [prev. work] 148, +others">Refs 5th c.BC+</a>]: rare
-    in early <i>Attic dialect</i> Prose, [<a href="javascript:void(0)" title=" 5th
-    c.BC: Thucydides Historicus 5.11; μ. στοργῆς “Anthologia Graeca” 12.68 (1st c.BC:
-    Meleager Epigrammaticus); εἰς μ. τινός NT.Matt.26.13, cf. NT.Act.10.4. ">NT+5th
-    c.BC+</a>]<br /><Level3><b>__2</b></Level3> <b>memorandum, reminder</b>, μνημόσυνα
-    γράψομαι [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus
-    “Vespae” 538; τουτὶ.. ἔστω τὸ μ. μοι [prev. work] 559. ">Refs 5th c.BC+</a>]<br
-    /><Level3><b>__3</b></Level3> <b>mark, scar</b>, μ. ὑποκαταλιπεῖν [<a href="javascript:void(0)"
-    title=" 5th c.BC: Hippocrates Medicus “προρρητικόν” 2.20. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'μνημόσυνον, -ου, τό
+
+  (μνήμων, mindful), [in LXX frequently for זֵכֶר, זִכְרוֹן and cogn. forms ;]
+
+  a memorial: Mat.26:13, Mrk.14:9, Act.10:4 (where cf. Lev.2:9, 16 5:12, Num_5:28,
+  Sir.45:16, al.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'μνημόσῠνον, τό,
+
+  remembrance, memorial of a thing, μνημόσυνον ἑωυτοῦ λιπέσθαι [Refs 5th c.BC+]: rare
+  in early Attic dialect Prose, [NT+5th c.BC+]
+
+  __2 memorandum, reminder, μνημόσυνα γράψομαι [Refs 5th c.BC+]
+
+  __3 mark, scar, μ. ὑποκαταλιπεῖν [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3421
-    proximity: 0.7514
+    lemma: μνημονεύω
+    gloss: to exercise memory {openscriptures-strongs}
+    proximity: 0.7514 {macula-proximity}
   - strongs: G3415
-    proximity: 0.7067
+    lemma: μνάομαι
+    gloss: to bear in mind {openscriptures-strongs}
+    proximity: 0.7067 {macula-proximity}
   cross_language:
   - strongs: H8567
-    proximity: 0.827
+    lemma: תָּנָה
+    gloss: to ascribe {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: hebrew
   - strongs: H7133
-    proximity: 0.8217
+    lemma: קׇרְבָּן
+    gloss: something brought near the altar {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

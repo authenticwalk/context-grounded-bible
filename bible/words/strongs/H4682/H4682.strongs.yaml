@@ -8,27 +8,31 @@ definition: properly, sweetness; concretely, sweet (i.e. not soured or bittered 
   of Passover (because no leaven was then used)
 kjv_usage: unleaved (bread, cake), without leaven.
 derivation: from H4711 (מָצַץ) in the sense of greedily devouring for sweetness;
-extended_definition:
-  gloss: unleavened bread
-  definition: unleavened (bread, cake), without leaven.
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: unleavened (bread, cake), without leaven. {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1690
-    proximity: 0.8245
+    lemma: דְּבֵלָה
+    gloss: a cake of pressed figs {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H2751
-    proximity: 0.8163
+    lemma: חֹרִי
+    gloss: white bread {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
   - strongs: H2282
-    proximity: 0.7938
+    lemma: חַג
+    gloss: a festival {openscriptures-strongs}
+    proximity: 0.7938 {macula-proximity}
   - strongs: H3834
-    proximity: 0.7934
+    lemma: לָבִיבָה
+    gloss: a cake {openscriptures-strongs}
+    proximity: 0.7934 {macula-proximity}
   - strongs: H3899
-    proximity: 0.7767
+    lemma: לֶחֶם
+    gloss: food {openscriptures-strongs}
+    proximity: 0.7767 {macula-proximity}
   - strongs: H2557
-    proximity: 0.7738
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: חָמֵץ
+    gloss: ferment {openscriptures-strongs}
+    proximity: 0.7738 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

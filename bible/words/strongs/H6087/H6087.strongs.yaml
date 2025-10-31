@@ -10,42 +10,59 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H7069a
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
   - strongs: A7739
-    proximity: 0.8242
+    proximity: 0.8242 {macula-proximity}
   - strongs: H4659
-    proximity: 0.8215
+    lemma: מִפְעָל
+    gloss: a performance {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H6816
-    proximity: 0.8207
+    lemma: צַעְצֻעַ
+    gloss: sculpture {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H6091
-    proximity: 0.8183
+    lemma: עָצָב
+    gloss: an  image {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: A2376
-    proximity: 0.8133
+    proximity: 0.8133 {macula-proximity}
   - strongs: H8246
-    proximity: 0.8122
+    lemma: שָׁקַד
+    gloss: to be (intensively {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
   - strongs: H6456
-    proximity: 0.8114
+    lemma: פְּסִיל
+    gloss: an idol {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
   - strongs: A5457
-    proximity: 0.8099
+    proximity: 0.8099 {macula-proximity}
   - strongs: H5262a
-    proximity: 0.8019
+    proximity: 0.8019 {macula-proximity}
   cross_language:
   - strongs: G4573
-    proximity: 0.8299
+    lemma: σεβάζομαι
+    gloss: to venerate {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G4352
-    proximity: 0.8293
+    lemma: προσκυνέω
+    gloss: to fawn or crouch to {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G3445
-    proximity: 0.8218
+    lemma: μορφόω
+    gloss: to fashion {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
     language: greek
   - strongs: G3667
-    proximity: 0.8172
+    lemma: ὁμοίωμα
+    gloss: a form {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
     language: greek
   - strongs: G3000
-    proximity: 0.8054
+    lemma: λατρεύω
+    gloss: to minister {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

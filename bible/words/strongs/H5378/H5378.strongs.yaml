@@ -7,41 +7,50 @@ definition: to lend on interest; by implication, to dun fordebt
 kjv_usage: '[idiom] debt, exact, giver of usury.'
 derivation: a primitive root (perhaps identical with H5377 (נָשָׁא), through the idea
   of imposition);
-extended_definition:
-  gloss: to exact
-  definition: 1) to lend on interest or usury, be a creditor<br>1a) (Qal) creditor
-    (participle)<br>1b) (Hiphil) to act as a creditor
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to lend on interest or usury, be a creditor
+
+  1a) (Qal) creditor (participle)
+
+  1b) (Hiphil) to act as a creditor {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H871a
-    proximity: 0.828
+    proximity: 0.828 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8236
+    proximity: 0.8236 {macula-proximity}
   - strongs: H5386
-    proximity: 0.8121
+    lemma: נְשִׁי
+    gloss: a debt {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H3947
-    proximity: 0.8014
+    lemma: לָקַח
+    gloss: to take {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7993
+    proximity: 0.7993 {macula-proximity}
   - strongs: H4855
-    proximity: 0.792
+    lemma: מַשָּׁא
+    gloss: a loan {openscriptures-strongs}
+    proximity: 0.792 {macula-proximity}
   cross_language:
   - strongs: G3588
-    proximity: 0.8114
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
     language: greek
   - strongs: G3781
-    proximity: 0.8113
+    lemma: ὀφειλέτης
+    gloss: an ower {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
     language: greek
   - strongs: G1156
-    proximity: 0.7877
+    lemma: δάνειον
+    gloss: probably akin to the base of G1325 {openscriptures-strongs}
+    proximity: 0.7877 {macula-proximity}
     language: greek
   - strongs: G5533
-    proximity: 0.7366
+    lemma: χρεωφειλέτης
+    gloss: a loan-ower {openscriptures-strongs}
+    proximity: 0.7366 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

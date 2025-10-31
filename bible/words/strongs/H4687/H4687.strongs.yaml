@@ -6,46 +6,59 @@ pronunciation: mits-vaw'
 definition: a command, whether human or divine (collectively, the Law)
 kjv_usage: (which was) commanded(-ment), law, ordinance, precept.
 derivation: from H6680 (צָוָה);
-extended_definition:
-  gloss: commandment
-  definition: 1) commandment<br>1a) commandment (of man)<br>1b) the commandment (of
-    God)<br>1c) commandment (of code of wisdom)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) commandment
+
+  1a) commandment (of man)
+
+  1b) the commandment (of God)
+
+  1c) commandment (of code of wisdom) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A633
-    proximity: 0.8213
+    proximity: 0.8213 {macula-proximity}
   - strongs: H4561
-    proximity: 0.8171
+    lemma: מֹסָר
+    gloss: admonition {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: A6600
-    proximity: 0.8077
+    proximity: 0.8077 {macula-proximity}
   - strongs: H1696
-    proximity: 0.7914
+    lemma: דָבַר
+    gloss: perhaps properly {openscriptures-strongs}
+    proximity: 0.7914 {macula-proximity}
   - strongs: H559
-    proximity: 0.7895
+    proximity: 0.7895 {macula-proximity}
   - strongs: H6599
-    proximity: 0.7861
+    lemma: פִּתְגָּם
+    gloss: a  sentence {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
   - strongs: A7595
-    proximity: 0.7812
+    proximity: 0.7812 {macula-proximity}
   cross_language:
   - strongs: G3004
-    proximity: 0.8297
+    lemma: λέγω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G2192
-    proximity: 0.8267
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
     language: greek
   - strongs: G1296
-    proximity: 0.8196
+    lemma: διαταγή
+    gloss: arrangement {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
     language: greek
   - strongs: G2011
-    proximity: 0.804
+    lemma: ἐπιτροπή
+    gloss: permission {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
     language: greek
   - strongs: G1844
-    proximity: 0.7878
+    lemma: ἐξορκίζω
+    gloss: to exact an oath {openscriptures-strongs}
+    proximity: 0.7878 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

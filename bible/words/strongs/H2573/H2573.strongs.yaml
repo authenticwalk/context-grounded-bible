@@ -6,35 +6,41 @@ pronunciation: klay'-meth
 definition: a skin bottle (as tied up)
 kjv_usage: bottle.
 derivation: from the same as H2346 (חוֹמָה);
-extended_definition:
-  gloss: bottle
-  definition: bottle, waterskin
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: bottle, waterskin {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8476
-    proximity: 0.8265
+    lemma: תַּחַשׁ
+    gloss: a  animal with fur {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H3599
-    proximity: 0.8194
+    lemma: כִּיס
+    gloss: a cup {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H827
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
   - strongs: H3219
-    proximity: 0.8018
+    lemma: יַלְקוּט
+    gloss: a travelling pouch {openscriptures-strongs}
+    proximity: 0.8018 {macula-proximity}
   - strongs: H5785
-    proximity: 0.7065
+    lemma: עוֹר
+    gloss: skin {openscriptures-strongs}
+    proximity: 0.7065 {macula-proximity}
   cross_language:
   - strongs: G4082
-    proximity: 0.8194
+    lemma: πήρα
+    gloss: a wallet or leather pouch for food {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G2223
-    proximity: 0.8187
+    lemma: ζώνη
+    gloss: a belt {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
     language: greek
   - strongs: G5559
-    proximity: 0.7851
+    lemma: χρώς
+    gloss: the body (properly {openscriptures-strongs}
+    proximity: 0.7851 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

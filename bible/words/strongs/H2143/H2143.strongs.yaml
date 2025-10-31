@@ -6,37 +6,49 @@ pronunciation: zay'-ker
 definition: a memento, abstractly recollection (rarely if ever); by implication, commemoration
 kjv_usage: memorial, memory, remembrance, scent.
 derivation: or זֶכֶר; from H2142 (זָכַר);
-extended_definition:
-  gloss: memorial
-  definition: 1) memorial, remembrance<br>1a) remembrance, memory<br>1b) memorial
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) memorial, remembrance
+
+  1a) remembrance, memory
+
+  1b) memorial {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5388
-    proximity: 0.8261
+    lemma: נְשִׁיָּה
+    gloss: oblivion {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: H3655
-    proximity: 0.8057
+    lemma: כָּנָה
+    gloss: to address by an additional name {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
   - strongs: H6245
-    proximity: 0.7852
+    lemma: עָשַׁת
+    gloss: probably to be sleek {openscriptures-strongs}
+    proximity: 0.7852 {macula-proximity}
   - strongs: H7911
-    proximity: 0.7735
+    lemma: שָׁכַח
+    gloss: to mislay {openscriptures-strongs}
+    proximity: 0.7735 {macula-proximity}
   - strongs: H8089
-    proximity: 0.7726
+    lemma: שֹׁמַע
+    gloss: a report {openscriptures-strongs}
+    proximity: 0.7726 {macula-proximity}
   - strongs: A8036
-    proximity: 0.701
+    proximity: 0.701 {macula-proximity}
   cross_language:
   - strongs: G5102
-    proximity: 0.8077
+    lemma: τίτλος
+    gloss: a titulus or "title" {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
     language: greek
   - strongs: G3415
-    proximity: 0.7172
+    lemma: μνάομαι
+    gloss: to bear in mind {openscriptures-strongs}
+    proximity: 0.7172 {macula-proximity}
     language: greek
   - strongs: G3421
-    proximity: 0.7016
+    lemma: μνημονεύω
+    gloss: to exercise memory {openscriptures-strongs}
+    proximity: 0.7016 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

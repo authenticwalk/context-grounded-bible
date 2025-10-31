@@ -10,39 +10,61 @@ kjv_usage: (make to) approach (nigh), bring (forth, hither, near), (cause to) co
   (hither, near, nigh), give place, go hard (up), (be, draw, go) near (nigh), offer,
   overtake, present, put, stand.
 derivation: a primitive root;
-extended_definition:
-  gloss: 'to approach: bring'
-  definition: ': bring/offer<br>1) to draw near, approach<br>1a) (Qal) to draw or
-    come near<br>1a1) of humans<br>1a1a) of sexual intercourse<br>1a2) of inanimate
-    subject<br>1a2a) to approach one another<br>1b) (Niphal) to draw near<br>1c) (Hiphil)
-    to cause to approach, bring near, bring<br>1d) (Hophal) to be brought near<br>1e)
-    (Hithpael) to draw near'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': bring/offer
+
+  1) to draw near, approach
+
+  1a) (Qal) to draw or come near
+
+  1a1) of humans
+
+  1a1a) of sexual intercourse
+
+  1a2) of inanimate subject
+
+  1a2a) to approach one another
+
+  1b) (Niphal) to draw near
+
+  1c) (Hiphil) to cause to approach, bring near, bring
+
+  1d) (Hophal) to be brought near
+
+  1e) (Hithpael) to draw near {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1973
-    proximity: 0.8243
+    lemma: הָלְאָה
+    gloss: to the distance {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: H4503
-    proximity: 0.815
+    lemma: מִנְחָה
+    gloss: a donation {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   cross_language:
   - strongs: G4376
-    proximity: 0.8291
+    lemma: προσφορά
+    gloss: presentation {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
     language: greek
   - strongs: G2345
-    proximity: 0.8279
+    lemma: θιγγάνω
+    gloss: to manipulate {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G1898
-    proximity: 0.8271
+    lemma: ἐπεισαγωγή
+    gloss: a superintroduction {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G1909
-    proximity: 0.8268
+    lemma: ἐπί
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: greek
   - strongs: G1519
-    proximity: 0.8259
+    lemma: εἰς
+    gloss: to or into {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

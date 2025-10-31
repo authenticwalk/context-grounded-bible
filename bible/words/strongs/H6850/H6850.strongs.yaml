@@ -6,37 +6,45 @@ pronunciation: tsaw-faf'
 definition: to coo or chirp (as a bird)
 kjv_usage: chatter, peep, whisper.
 derivation: a primitive root;
-extended_definition:
-  gloss: to whisper
-  definition: 1) (Pilpel) to chirp, peep<br>1a) of birds<br>1b) of ghosts
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Pilpel) to chirp, peep
+
+  1a) of birds
+
+  1b) of ghosts {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A2200
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
   - strongs: H6682
-    proximity: 0.8289
+    lemma: צְוָחָה
+    gloss: a screech {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H2201
-    proximity: 0.8265
+    lemma: זַעַק
+    gloss: a shriek or outcry {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H6818
-    proximity: 0.8191
+    lemma: צַעֲקָה
+    gloss: a shriek {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
   - strongs: H5693
-    proximity: 0.8036
+    lemma: עָגוּר
+    gloss: probably the swallow {openscriptures-strongs}
+    proximity: 0.8036 {macula-proximity}
   - strongs: H5101
-    proximity: 0.793
+    lemma: נָהַק
+    gloss: to bray {openscriptures-strongs}
+    proximity: 0.793 {macula-proximity}
   cross_language:
   - strongs: G2896
-    proximity: 0.8244
+    lemma: κράζω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: greek
   - strongs: G310
-    proximity: 0.8239
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G349
-    proximity: 0.7805
+    proximity: 0.7805 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

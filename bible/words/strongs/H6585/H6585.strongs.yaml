@@ -6,41 +6,49 @@ pronunciation: paw-sah'
 definition: to stride (from spreading the legs), i.e. rush upon
 kjv_usage: go.
 derivation: a primitive root;
-extended_definition:
-  gloss: to step
-  definition: (Qal) to step, march, step forward
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to step, march, step forward {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3318
-    proximity: 0.829
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: H935
-    proximity: 0.8265
+    proximity: 0.8265 {macula-proximity}
   - strongs: H5586
-    proximity: 0.8251
+    lemma: סָעַף
+    gloss: to disbranch {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H1869
-    proximity: 0.8219
+    lemma: דָּרַךְ
+    gloss: to tread {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: H1980
-    proximity: 0.7655
+    lemma: הָלַךְ
+    gloss: to walk (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.7655 {macula-proximity}
   cross_language:
   - strongs: G565
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G4260
-    proximity: 0.826
+    lemma: προβαίνω
+    gloss: to walk forward {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
     language: greek
   - strongs: G3855
-    proximity: 0.8216
+    lemma: παράγω
+    gloss: to lead near {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
     language: greek
   - strongs: G4313
-    proximity: 0.8166
+    lemma: προπορεύομαι
+    gloss: to precede {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
     language: greek
   - strongs: G4281
-    proximity: 0.8099
+    lemma: προέρχομαι
+    gloss: to go onward {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

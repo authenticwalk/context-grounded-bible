@@ -6,42 +6,56 @@ pronunciation: sag-reed'
 definition: a pouring rain
 kjv_usage: very rainy.
 derivation: probably from H5462 (סָגַר) in the sense of sweeping away;
-extended_definition:
-  gloss: rain
-  definition: steady or persistent rain
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: steady or persistent rain {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4456
-    proximity: 0.8291
+    lemma: מַלְקוֹשׁ
+    gloss: the spring rain {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: H3138
-    proximity: 0.8157
+    lemma: יוֹרֶה
+    gloss: sprinkling {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: H2841
-    proximity: 0.8156
+    lemma: חַשְׁרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
   - strongs: H8164
-    proximity: 0.8017
+    lemma: שָׂעִיר
+    gloss: a shower {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
   - strongs: H2230
-    proximity: 0.7949
+    lemma: זֶרֶם
+    gloss: a gush of water {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
   - strongs: H4175a
-    proximity: 0.7889
+    proximity: 0.7889 {macula-proximity}
   - strongs: H1652
-    proximity: 0.782
+    lemma: גָּשַׁם
+    gloss: to shower violently {openscriptures-strongs}
+    proximity: 0.782 {macula-proximity}
   - strongs: H5599
-    proximity: 0.7693
+    lemma: סָפִיחַ
+    gloss: something  falling off {openscriptures-strongs}
+    proximity: 0.7693 {macula-proximity}
   - strongs: H1656
-    proximity: 0.7515
+    lemma: גֹּשֶׁם
+    gloss: '{a shower} {openscriptures-strongs}'
+    proximity: 0.7515 {macula-proximity}
   - strongs: H4305
-    proximity: 0.7374
+    lemma: מָטַר
+    gloss: to rain {openscriptures-strongs}
+    proximity: 0.7374 {macula-proximity}
   cross_language:
   - strongs: G3797
-    proximity: 0.7948
+    lemma: ὄψιμος
+    gloss: later {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
     language: greek
   - strongs: G1026
-    proximity: 0.7168
+    lemma: βρέχω
+    gloss: to moisten {openscriptures-strongs}
+    proximity: 0.7168 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

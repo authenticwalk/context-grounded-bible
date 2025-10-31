@@ -6,45 +6,57 @@ pronunciation: law-ham'
 definition: properly, to burn in, i.e. (figuratively) to rankle
 kjv_usage: wound.
 derivation: a primitive root;
-extended_definition:
-  gloss: to swallow
-  definition: 1) to gulp, swallow greedily<br>1a) (Hithpael) to be gulped
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to gulp, swallow greedily
+
+  1a) (Hithpael) to be gulped {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4005
-    proximity: 0.8227
+    lemma: מִבְחָר
+    gloss: select {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H8378
-    proximity: 0.8155
+    lemma: תַּאֲוָה
+    gloss: a longing {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H6720
-    proximity: 0.8096
+    lemma: צֵידָה
+    gloss: food {openscriptures-strongs}
+    proximity: 0.8096 {macula-proximity}
   - strongs: H2530a
-    proximity: 0.8057
+    proximity: 0.8057 {macula-proximity}
   - strongs: H944
-    proximity: 0.8049
+    proximity: 0.8049 {macula-proximity}
   - strongs: H6718a
-    proximity: 0.7993
+    proximity: 0.7993 {macula-proximity}
   - strongs: H402
-    proximity: 0.7914
+    proximity: 0.7914 {macula-proximity}
   - strongs: H4004
-    proximity: 0.7774
+    lemma: מִבְחוֹר
+    gloss: select {openscriptures-strongs}
+    proximity: 0.7774 {macula-proximity}
   - strongs: H6598
-    proximity: 0.7637
+    lemma: פַּתְבַּג
+    gloss: a dainty {openscriptures-strongs}
+    proximity: 0.7637 {macula-proximity}
   - strongs: H1279
-    proximity: 0.7603
+    lemma: בִּרְיָה
+    gloss: food {openscriptures-strongs}
+    proximity: 0.7603 {macula-proximity}
   cross_language:
   - strongs: G1979
-    proximity: 0.8268
+    lemma: ἐπισιτισμός
+    gloss: a provisioning {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: greek
   - strongs: G1035
-    proximity: 0.8126
+    lemma: βρῶσις
+    gloss: eating {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
     language: greek
   - strongs: G5527
-    proximity: 0.7493
+    lemma: χόρτασμα
+    gloss: forage {openscriptures-strongs}
+    proximity: 0.7493 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

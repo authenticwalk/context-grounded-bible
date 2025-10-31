@@ -9,40 +9,63 @@ derivation: feminine of H5707 (עֵד) in its techn. sense;
 related_words:
   synonyms:
   - strongs: H7200
-    proximity: 0.8254
+    lemma: רָאָה
+    gloss: to see {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: H6952
-    proximity: 0.8088
+    lemma: קְהִלָּה
+    gloss: an assemblage {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
   - strongs: H7717
-    proximity: 0.8031
+    lemma: שָׂהֵד
+    gloss: a witness {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
   - strongs: H6110
-    proximity: 0.7949
+    lemma: עַצֻּמָה
+    gloss: a bulwark {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
   - strongs: H5706
-    proximity: 0.7873
+    lemma: עַד
+    gloss: booty {openscriptures-strongs}
+    proximity: 0.7873 {macula-proximity}
   - strongs: H8085
-    proximity: 0.781
+    lemma: שָׁמַע
+    gloss: to hear intelligently (often with implication of attention {openscriptures-strongs}
+    proximity: 0.781 {macula-proximity}
   - strongs: H6030
-    proximity: 0.7648
+    lemma: עָנָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7648 {macula-proximity}
   - strongs: H6951
-    proximity: 0.7334
+    lemma: קָהָל
+    gloss: assemblage {openscriptures-strongs}
+    proximity: 0.7334 {macula-proximity}
   - strongs: H5715
-    proximity: 0.701
+    lemma: עֵדוּת
+    gloss: testimony {openscriptures-strongs}
+    proximity: 0.701 {macula-proximity}
   cross_language:
   - strongs: G1577
-    proximity: 0.8273
+    lemma: ἐκκλησία
+    gloss: a calling out {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G2649
-    proximity: 0.795
+    lemma: καταμαρτυρέω
+    gloss: to testify against {openscriptures-strongs}
+    proximity: 0.795 {macula-proximity}
     language: greek
   - strongs: G951
-    proximity: 0.7921
+    proximity: 0.7921 {macula-proximity}
     language: greek
   - strongs: G3671
-    proximity: 0.7881
+    lemma: ὁμολογία
+    gloss: acknowledgment {openscriptures-strongs}
+    proximity: 0.7881 {macula-proximity}
     language: greek
   - strongs: G1730
-    proximity: 0.7338
+    lemma: ἔνδειγμα
+    gloss: an indication {openscriptures-strongs}
+    proximity: 0.7338 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

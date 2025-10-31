@@ -6,35 +6,37 @@ pronunciation: may-rotes'
 definition: a run (the trial of speed)
 kjv_usage: race.
 derivation: from H7323 (רוּץ);
-extended_definition:
-  gloss: race
-  definition: running, race, course
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: running, race, course {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7424
-    proximity: 0.7898
+    lemma: רַמָּךְ
+    gloss: a brood mare {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
   - strongs: H7323
-    proximity: 0.7684
+    lemma: רוּץ
+    gloss: to run (for whatever reason {openscriptures-strongs}
+    proximity: 0.7684 {macula-proximity}
   cross_language:
   - strongs: G4712
-    proximity: 0.8
+    lemma: στάδιον
+    gloss: a stade or certain measure of distance {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
     language: greek
   - strongs: G5143
-    proximity: 0.7722
+    lemma: τρέχω
+    gloss: compare G2359 ) {openscriptures-strongs}
+    proximity: 0.7722 {macula-proximity}
     language: greek
   - strongs: G1408
-    proximity: 0.7568
+    lemma: δρόμος
+    gloss: a race {openscriptures-strongs}
+    proximity: 0.7568 {macula-proximity}
     language: greek
   - strongs: G73
-    proximity: 0.7437
+    proximity: 0.7437 {macula-proximity}
     language: greek
   - strongs: G118
-    proximity: 0.7138
+    proximity: 0.7138 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

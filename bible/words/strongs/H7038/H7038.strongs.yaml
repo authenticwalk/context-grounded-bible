@@ -6,38 +6,44 @@ pronunciation: kaw-lat'
 definition: to maim
 kjv_usage: lacking in his parts.
 derivation: a primitive root;
-extended_definition:
-  gloss: be stunted
-  definition: (Qal) to be stunted, be handicapped, be deformed (of a sacrificial animal
-    lacking body parts)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to be stunted, be handicapped, be deformed (of a sacrificial
+  animal lacking body parts) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2637
-    proximity: 0.829
+    lemma: חָסֵר
+    gloss: to lack {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: H2642
-    proximity: 0.7797
+    lemma: חֶסְרוֹן
+    gloss: deficiency {openscriptures-strongs}
+    proximity: 0.7797 {macula-proximity}
   - strongs: H5737a
-    proximity: 0.7481
+    proximity: 0.7481 {macula-proximity}
   cross_language:
   - strongs: G5304
-    proximity: 0.829
+    lemma: ὑστέρησις
+    gloss: a falling short {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G5302
-    proximity: 0.8239
+    lemma: ὑστερέω
+    gloss: to be later {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G3007
-    proximity: 0.8039
+    lemma: λείπω
+    gloss: to leave {openscriptures-strongs}
+    proximity: 0.8039 {macula-proximity}
     language: greek
   - strongs: G1641
-    proximity: 0.7823
+    lemma: ἐλαττονέω
+    gloss: to diminish {openscriptures-strongs}
+    proximity: 0.7823 {macula-proximity}
     language: greek
   - strongs: G4326
-    proximity: 0.762
+    lemma: προσδέομαι
+    gloss: to require additionally {openscriptures-strongs}
+    proximity: 0.762 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -9,33 +9,50 @@ derivation: or (probably by orthographical error) דִּיפַת; of foreign ori
 related_words:
   synonyms:
   - strongs: H221
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
   - strongs: A3879
-    proximity: 0.8284
+    proximity: 0.8284 {macula-proximity}
   - strongs: H1008
-    proximity: 0.8277
+    lemma: בֵּית־אֵל
+    gloss: Beth-El {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H7575
-    proximity: 0.8275
+    lemma: רִתְמָה
+    gloss: Rithmah {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H6786
-    proximity: 0.825
+    lemma: צְמָרִי
+    gloss: a Tsemarite or branch of the Canaanites {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: H1663
-    proximity: 0.8248
+    lemma: גִּתִּי
+    gloss: a Gittite or inhabitant of Gath {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: H2850
-    proximity: 0.8233
+    lemma: חִתִּי
+    gloss: a Chittite {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H8202
-    proximity: 0.822
+    lemma: שָׁפָט
+    gloss: Shaphat {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
   - strongs: H7509
-    proximity: 0.8182
+    lemma: רְפָיָה
+    gloss: Rephajah {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
   - strongs: H7501
-    proximity: 0.8157
+    lemma: רְפָאֵל
+    gloss: Rephael {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   cross_language:
   - strongs: G3019
-    proximity: 0.8255
+    lemma: Λευΐτης
+    gloss: a Levite {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
     language: greek
   - strongs: G3020
-    proximity: 0.8197
+    lemma: Λευϊτικός
+    gloss: Levitic {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

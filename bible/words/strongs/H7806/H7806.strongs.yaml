@@ -6,33 +6,44 @@ pronunciation: shaw-zar'
 definition: to twist (a thread of straw)
 kjv_usage: twine.
 derivation: a primitive root;
-extended_definition:
-  gloss: to twist
-  definition: 1) to twist, be twisted<br>1a) (Hophal)<br>1a1) to be twisted<br>1a2)
-    twisted (participle)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to twist, be twisted
+
+  1a) (Hophal)
+
+  1a1) to be twisted
+
+  1a2) twisted (participle) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4020
-    proximity: 0.8092
+    lemma: מִגְבָּלָה
+    gloss: a border {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: H1383
-    proximity: 0.804
+    lemma: גַּבְלֻת
+    gloss: a twisted chain or lace {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   - strongs: H3601
-    proximity: 0.7919
+    lemma: כִּישׁוֹר
+    gloss: literally a director {openscriptures-strongs}
+    proximity: 0.7919 {macula-proximity}
   - strongs: H4299
-    proximity: 0.7893
+    lemma: מַטְוֶה
+    gloss: something spun {openscriptures-strongs}
+    proximity: 0.7893 {macula-proximity}
   - strongs: H2901
-    proximity: 0.7825
+    lemma: טָוָה
+    gloss: to spin {openscriptures-strongs}
+    proximity: 0.7825 {macula-proximity}
   cross_language:
   - strongs: G4120
-    proximity: 0.825
+    lemma: πλέκω
+    gloss: to twine or braid {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G3514
-    proximity: 0.7366
+    lemma: νήθω
+    gloss: to spin {openscriptures-strongs}
+    proximity: 0.7366 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

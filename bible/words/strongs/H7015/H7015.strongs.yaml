@@ -6,51 +6,63 @@ pronunciation: kee-naw'
 definition: a dirge (as accompanied by beating the breasts or on instruments)
 kjv_usage: lamentation.
 derivation: from H6969 (קוּן);
-extended_definition:
-  gloss: dirge
-  definition: lamentation, dirge, elegy
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: lamentation, dirge, elegy {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H205a
-    proximity: 0.827
+    proximity: 0.827 {macula-proximity}
   - strongs: H1065
-    proximity: 0.8179
+    lemma: בְּכִי
+    gloss: a weeping {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
   - strongs: H602
-    proximity: 0.8163
+    proximity: 0.8163 {macula-proximity}
   - strongs: H57
-    proximity: 0.8063
+    proximity: 0.8063 {macula-proximity}
   - strongs: H2201
-    proximity: 0.8041
+    lemma: זַעַק
+    gloss: a shriek or outcry {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
   - strongs: H1068
-    proximity: 0.7866
+    lemma: בְּכִית
+    gloss: a weeping {openscriptures-strongs}
+    proximity: 0.7866 {macula-proximity}
   - strongs: H8386
-    proximity: 0.7811
+    lemma: תַּאֲנִיָּה
+    gloss: lamentation {openscriptures-strongs}
+    proximity: 0.7811 {macula-proximity}
   - strongs: A6088
-    proximity: 0.772
+    proximity: 0.772 {macula-proximity}
   - strongs: H5204
-    proximity: 0.767
+    lemma: נִי
+    gloss: lamentation {openscriptures-strongs}
+    proximity: 0.767 {macula-proximity}
   - strongs: H2980
-    proximity: 0.7506
+    lemma: יָבַב
+    gloss: to bawl {openscriptures-strongs}
+    proximity: 0.7506 {macula-proximity}
   cross_language:
   - strongs: G3649
-    proximity: 0.8256
+    lemma: ὀλολύζω
+    gloss: to "howl" or "halloo" {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
     language: greek
   - strongs: G2799
-    proximity: 0.8116
+    lemma: κλαίω
+    gloss: to sob {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
     language: greek
   - strongs: G214
-    proximity: 0.8077
+    proximity: 0.8077 {macula-proximity}
     language: greek
   - strongs: G2875
-    proximity: 0.7831
+    lemma: κόπτω
+    gloss: to "chop" {openscriptures-strongs}
+    proximity: 0.7831 {macula-proximity}
     language: greek
   - strongs: G2870
-    proximity: 0.7531
+    lemma: κοπετός
+    gloss: mourning (properly {openscriptures-strongs}
+    proximity: 0.7531 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

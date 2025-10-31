@@ -6,34 +6,32 @@ pronunciation: rib-bay'-ah
 definition: a descendant of the fourth generation, i.e. great great grandchild
 kjv_usage: fourth.
 derivation: from H7251 (רָבַע);
-extended_definition:
-  gloss: fourth
-  definition: pertaining to the fourth
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: pertaining to the fourth {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H702
-    proximity: 0.8235
+    proximity: 0.8235 {macula-proximity}
   - strongs: H7255
-    proximity: 0.8056
+    lemma: רֹבַע
+    gloss: a quarter {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: A8523
-    proximity: 0.7986
+    proximity: 0.7986 {macula-proximity}
   - strongs: H7253
-    proximity: 0.7716
+    lemma: רֶבַע
+    gloss: a fourth {openscriptures-strongs}
+    proximity: 0.7716 {macula-proximity}
   - strongs: A8531
-    proximity: 0.7702
+    proximity: 0.7702 {macula-proximity}
   - strongs: H7255a
-    proximity: 0.7319
+    proximity: 0.7319 {macula-proximity}
   cross_language:
   - strongs: G5065
-    proximity: 0.825
+    lemma: τεσσαρεσκαιδέκατος
+    gloss: fourteenth {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G5154a
-    proximity: 0.8015
+    proximity: 0.8015 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

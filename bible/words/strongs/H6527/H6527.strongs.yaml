@@ -6,36 +6,44 @@ pronunciation: paw-rat'
 definition: to scatter words, i.e. prate (or hum)
 kjv_usage: chant.
 derivation: a primitive root;
-extended_definition:
-  gloss: to divide
-  definition: 1) (Qal) to improvise carelessly, chant, stammer<br>1a) meaning uncertain
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Qal) to improvise carelessly, chant, stammer
+
+  1a) meaning uncertain {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2158
-    proximity: 0.8067
+    lemma: זָמִיר
+    gloss: a song to be accompanied with instrumental music {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   - strongs: H5059
-    proximity: 0.7988
+    lemma: נָגַן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   - strongs: H2172
-    proximity: 0.7927
+    lemma: זִמְרָה
+    gloss: a musical piece or song to be accompanied by an instrument {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
   - strongs: H6031b
-    proximity: 0.7917
+    proximity: 0.7917 {macula-proximity}
   - strongs: H7892
-    proximity: 0.7874
+    lemma: שִׁיר
+    gloss: a song {openscriptures-strongs}
+    proximity: 0.7874 {macula-proximity}
   - strongs: A2171
-    proximity: 0.7347
+    proximity: 0.7347 {macula-proximity}
   - strongs: H7891
-    proximity: 0.7123
+    lemma: שִׁיר
+    gloss: to sing {openscriptures-strongs}
+    proximity: 0.7123 {macula-proximity}
   cross_language:
   - strongs: G5567
-    proximity: 0.7986
+    lemma: ψάλλω
+    gloss: compare G5597 ) {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
     language: greek
   - strongs: G3451
-    proximity: 0.7724
+    lemma: μουσικός
+    gloss: '"musical" {openscriptures-strongs}'
+    proximity: 0.7724 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

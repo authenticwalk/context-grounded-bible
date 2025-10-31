@@ -6,39 +6,43 @@ pronunciation: neh'-ked
 definition: offspring
 kjv_usage: nephew, son's son.
 derivation: from an unused root meaning to propagate;
-extended_definition:
-  gloss: progeny
-  definition: progeny, posterity
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: progeny, posterity {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H310
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
   - strongs: H4943
-    proximity: 0.8089
+    lemma: מֶשֶׁק
+    gloss: possession {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: A2234
-    proximity: 0.7896
+    proximity: 0.7896 {macula-proximity}
   - strongs: A1247
-    proximity: 0.7825
+    proximity: 0.7825 {macula-proximity}
   - strongs: H1755
-    proximity: 0.7548
+    lemma: דּוֹר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7548 {macula-proximity}
   - strongs: H319
-    proximity: 0.7536
+    proximity: 0.7536 {macula-proximity}
   - strongs: H8435
-    proximity: 0.7301
+    lemma: תּוֹלְדָה
+    gloss: descent {openscriptures-strongs}
+    proximity: 0.7301 {macula-proximity}
   cross_language:
   - strongs: G2818
-    proximity: 0.7925
+    lemma: κληρονόμος
+    gloss: a sharer by lot {openscriptures-strongs}
+    proximity: 0.7925 {macula-proximity}
     language: greek
   - strongs: G5207
-    proximity: 0.7887
+    lemma: υἱός
+    gloss: a "son" {openscriptures-strongs}
+    proximity: 0.7887 {macula-proximity}
     language: greek
   - strongs: G1081
-    proximity: 0.7728
+    lemma: γέννημα
+    gloss: offspring {openscriptures-strongs}
+    proximity: 0.7728 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

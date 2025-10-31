@@ -12,36 +12,53 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H3593
-    proximity: 0.8269
+    lemma: כִּידוֹר
+    gloss: perhaps tumult {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: H7128
-    proximity: 0.8193
+    lemma: קְרָב
+    gloss: hostile encounter {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H2502a
-    proximity: 0.8089
+    proximity: 0.8089 {macula-proximity}
   - strongs: H4634
-    proximity: 0.7878
+    lemma: מַעֲרָכָה
+    gloss: an arrangement {openscriptures-strongs}
+    proximity: 0.7878 {macula-proximity}
   - strongs: H7896
-    proximity: 0.7754
+    lemma: שִׁית
+    gloss: to place {openscriptures-strongs}
+    proximity: 0.7754 {macula-proximity}
   - strongs: H6187
-    proximity: 0.7705
+    lemma: עֵרֶךְ
+    gloss: a pile {openscriptures-strongs}
+    proximity: 0.7705 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7613
+    proximity: 0.7613 {macula-proximity}
   cross_language:
   - strongs: G3908
-    proximity: 0.8286
+    lemma: παρατίθημι
+    gloss: to place alongside {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G2091
-    proximity: 0.8207
+    lemma: ἑτοιμασία
+    gloss: preparation {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.8151
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
     language: greek
   - strongs: G4766
-    proximity: 0.8039
+    lemma: στρώννυμι
+    gloss: to "strew {openscriptures-strongs}
+    proximity: 0.8039 {macula-proximity}
     language: greek
   - strongs: G4171
-    proximity: 0.7857
+    lemma: πόλεμος
+    gloss: warfare (literally or figuratively {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

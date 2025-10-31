@@ -6,46 +6,63 @@ pronunciation: shook
 definition: to run after or over, i.e. overflow
 kjv_usage: overflow, water.
 derivation: a primitive root;
-extended_definition:
-  gloss: to overflow
-  definition: 1) to be abundant (meaning probable)<br>1a) (Polel) to give abundance
-    to<br>1b) (Hiphil) to overflow
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be abundant (meaning probable)
+
+  1a) (Polel) to give abundance to
+
+  1b) (Hiphil) to overflow {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8241
-    proximity: 0.8129
+    lemma: שֶׁצֶף
+    gloss: an outburst {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: H5042
-    proximity: 0.7954
+    lemma: נָבַע
+    gloss: to gush forth {openscriptures-strongs}
+    proximity: 0.7954 {macula-proximity}
   - strongs: H4325
-    proximity: 0.7871
+    lemma: מַיִם
+    gloss: water {openscriptures-strongs}
+    proximity: 0.7871 {macula-proximity}
   - strongs: H7302
-    proximity: 0.7838
+    lemma: רָוֶה
+    gloss: sated {openscriptures-strongs}
+    proximity: 0.7838 {macula-proximity}
   - strongs: H8248
-    proximity: 0.7828
+    lemma: שָׁקָה
+    gloss: to quaff {openscriptures-strongs}
+    proximity: 0.7828 {macula-proximity}
   - strongs: H7370
-    proximity: 0.7159
+    lemma: רָחַשׁ
+    gloss: to gush {openscriptures-strongs}
+    proximity: 0.7159 {macula-proximity}
   - strongs: H7310
-    proximity: 0.7008
+    lemma: רְוָיָה
+    gloss: satisfaction {openscriptures-strongs}
+    proximity: 0.7008 {macula-proximity}
   cross_language:
   - strongs: G1632a
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G1632
-    proximity: 0.817
+    lemma: ἐκχέω
+    gloss: to pour forth {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
     language: greek
   - strongs: G5248
-    proximity: 0.8161
+    lemma: ὑπερπερισσεύω
+    gloss: to super-abound {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
     language: greek
   - strongs: G4051
-    proximity: 0.8024
+    lemma: περίσσευμα
+    gloss: a surplus {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
     language: greek
   - strongs: G4052
-    proximity: 0.7925
+    lemma: περισσεύω
+    gloss: to superabound {openscriptures-strongs}
+    proximity: 0.7925 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

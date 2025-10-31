@@ -6,47 +6,61 @@ pronunciation: mad-kaw-raw'
 definition: a wound
 kjv_usage: piercing.
 derivation: from H1856 (דָּקַר);
-extended_definition:
-  gloss: thrust
-  definition: thrust, stab, piercing
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: thrust, stab, piercing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1105a
-    proximity: 0.8253
+    proximity: 0.8253 {macula-proximity}
   - strongs: H3979
-    proximity: 0.8229
+    lemma: מַאֲכֶלֶת
+    gloss: something to eat with {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: H2490a
-    proximity: 0.7924
+    proximity: 0.7924 {macula-proximity}
   - strongs: H6609
-    proximity: 0.7858
+    lemma: פְּתִחָה
+    gloss: something opened {openscriptures-strongs}
+    proximity: 0.7858 {macula-proximity}
   - strongs: H2944
-    proximity: 0.7844
+    lemma: טָעַן
+    gloss: to stab {openscriptures-strongs}
+    proximity: 0.7844 {macula-proximity}
   - strongs: H2719
-    proximity: 0.7721
+    lemma: חֶרֶב
+    gloss: drought {openscriptures-strongs}
+    proximity: 0.7721 {macula-proximity}
   - strongs: H4380
-    proximity: 0.7639
+    lemma: מְכֵרָה
+    gloss: a sword {openscriptures-strongs}
+    proximity: 0.7639 {macula-proximity}
   - strongs: H1856
-    proximity: 0.7476
+    lemma: דָּקַר
+    gloss: to stab {openscriptures-strongs}
+    proximity: 0.7476 {macula-proximity}
   cross_language:
   - strongs: G3019
-    proximity: 0.8287
+    lemma: Λευΐτης
+    gloss: a Levite {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G3020
-    proximity: 0.8225
+    lemma: Λευϊτικός
+    gloss: Levitic {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
   - strongs: G2660
-    proximity: 0.8056
+    lemma: κατανύσσω
+    gloss: to pierce thoroughly {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
     language: greek
   - strongs: G1057
-    proximity: 0.7957
+    lemma: Γαλιλαῖος
+    gloss: Galilean or belonging to Galilea {openscriptures-strongs}
+    proximity: 0.7957 {macula-proximity}
     language: greek
   - strongs: G3162
-    proximity: 0.7766
+    lemma: μάχαιρα
+    gloss: a knife {openscriptures-strongs}
+    proximity: 0.7766 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

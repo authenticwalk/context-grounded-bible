@@ -6,51 +6,78 @@ pronunciation: khaw-tham'
 definition: to close up; especially to seal
 kjv_usage: make an end, mark, seal (up), stop.
 derivation: a primitive root;
-extended_definition:
-  gloss: to seal
-  definition: '1) to seal, seal up, affix a seal<br>1a) (Qal)<br>1a1) to seal, affix
-    one''s seal<br>1a2) to seal up, fasten up by sealing<br>1b) (Niphal) to seal<br>1c)
-    (Piel) to lock up<br>1d) (Hiphil) to be stopped<BR>Aramaic equivalent: <i>cha.tam</i>
-    (חֲתַם "to seal" H2857)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to seal, seal up, affix a seal
+
+  1a) (Qal)
+
+  1a1) to seal, affix one''s seal
+
+  1a2) to seal up, fasten up by sealing
+
+  1b) (Niphal) to seal
+
+  1c) (Piel) to lock up
+
+  1d) (Hiphil) to be stopped
+
+  Aramaic equivalent: cha.tam (חֲתַם "to seal" H2857) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H332
-    proximity: 0.8235
+    proximity: 0.8235 {macula-proximity}
   - strongs: H5462
-    proximity: 0.8224
+    lemma: סָגַר
+    gloss: to shut up {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
   - strongs: H7092
-    proximity: 0.8189
+    lemma: קָפַץ
+    gloss: to draw together {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H2368
-    proximity: 0.8125
+    lemma: חוֹתָם
+    gloss: a signature-ring {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: H2308
-    proximity: 0.8016
+    lemma: חָדַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
   - strongs: H2858
-    proximity: 0.7942
+    lemma: חֹתֶמֶת
+    gloss: a seal {openscriptures-strongs}
+    proximity: 0.7942 {macula-proximity}
   - strongs: H6113
-    proximity: 0.7678
+    lemma: עָצָר
+    gloss: to inclose {openscriptures-strongs}
+    proximity: 0.7678 {macula-proximity}
   - strongs: H5239
-    proximity: 0.7641
+    lemma: נָלָה
+    gloss: to complete {openscriptures-strongs}
+    proximity: 0.7641 {macula-proximity}
   - strongs: H3607
-    proximity: 0.7536
+    lemma: כָּלָא
+    gloss: to restrict {openscriptures-strongs}
+    proximity: 0.7536 {macula-proximity}
   - strongs: A5463
-    proximity: 0.7406
+    proximity: 0.7406 {macula-proximity}
   cross_language:
   - strongs: G2869
-    proximity: 0.8189
+    lemma: κοπάζω
+    gloss: to tire {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
     language: greek
   - strongs: G3973
-    proximity: 0.8105
+    lemma: παύω
+    gloss: to stop {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
     language: greek
   - strongs: G2576
-    proximity: 0.7924
+    lemma: καμμύω
+    gloss: to shut down {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
     language: greek
   - strongs: G2808
-    proximity: 0.7788
+    lemma: κλείω
+    gloss: to close {openscriptures-strongs}
+    proximity: 0.7788 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

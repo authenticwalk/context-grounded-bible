@@ -7,42 +7,53 @@ definition: properly, something received, i.e. (mentally) instruction (whether o
   the part of the teacher or hearer); also (in an active and sinister sense) inveiglement
 kjv_usage: doctrine, learning, fair speech.
 derivation: from H3947 (לָקַח);
-extended_definition:
-  gloss: teaching
-  definition: 1) learning, teaching, insight<br>1a) instruction (obj)<br>1b) teaching
-    (thing taught)<br>1b1) teaching-power<br>1b2) persuasiveness
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) learning, teaching, insight
+
+  1a) instruction (obj)
+
+  1b) teaching (thing taught)
+
+  1b1) teaching-power
+
+  1b2) persuasiveness {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3045
-    proximity: 0.829
+    lemma: יָדַע
+    gloss: to know (properly {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: H3256
-    proximity: 0.8206
+    lemma: יָסַר
+    gloss: to chastise {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: H3928
-    proximity: 0.8106
+    lemma: לִמּוּד
+    gloss: instructed {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
   - strongs: H561
-    proximity: 0.7869
+    proximity: 0.7869 {macula-proximity}
   - strongs: H8150a
-    proximity: 0.7673
+    proximity: 0.7673 {macula-proximity}
   cross_language:
   - strongs: G2782
-    proximity: 0.8261
+    lemma: κήρυγμα
+    gloss: a proclamation (especially of the gospel {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: greek
   - strongs: G521
-    proximity: 0.8201
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G3056
-    proximity: 0.8126
+    lemma: λόγος
+    gloss: something said {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
     language: greek
   - strongs: G62
-    proximity: 0.8108
+    proximity: 0.8108 {macula-proximity}
     language: greek
   - strongs: G3051
-    proximity: 0.8086
+    lemma: λόγιον
+    gloss: an utterance {openscriptures-strongs}
+    proximity: 0.8086 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

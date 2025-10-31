@@ -5,41 +5,52 @@ transliteration: pseudodidáskalos
 definition: a spurious teacher, i.e. propagator of erroneous Christian doctrine
 kjv_usage: false teacher
 derivation: from G5571 (ψευδής) and G1320 (διδάσκαλος);
-extended_definition:
-  gloss: false teacher
-  definition: '<b>ψευδο-διδάσκαλος</b>, -ου, ὁ <BR /> <b>a false teacher</b>: <ref=''2Pe.2.1.''>2Pe.2:1.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ψευδο-δῐδάσκᾰλος</b>, ὁ, <br /> <b>false teacher,</b> 2 [<a
-    href="javascript:void(0)" title=" “EP.Petr.” 2.1. ">Refs</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ψευδο-διδάσκαλος, -ου, ὁ
+
+  a false teacher: 2Pe.2:1.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ψευδο-δῐδάσκᾰλος, ὁ,
+
+  false teacher, 2 [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5575a
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
   - strongs: G5577
-    proximity: 0.8285
+    lemma: ψευδομαρτυρία
+    gloss: untrue testimony {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: G5580
-    proximity: 0.8119
+    lemma: ψευδόχριστος
+    gloss: a spurious Messiah {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: G3807
-    proximity: 0.7958
+    lemma: παιδαγωγός
+    gloss: a boy-leader {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
   - strongs: G5569
-    proximity: 0.7927
+    lemma: ψευδάδελφος
+    gloss: a spurious brother {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
   - strongs: G5570
-    proximity: 0.7927
+    lemma: ψευδαπόστολος
+    gloss: a spurious apostle {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
   - strongs: G5578
-    proximity: 0.7921
+    lemma: ψευδοπροφήτης
+    gloss: a spurious prophet {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
   - strongs: G5571
-    proximity: 0.7774
+    lemma: ψευδής
+    gloss: untrue {openscriptures-strongs}
+    proximity: 0.7774 {macula-proximity}
   - strongs: G3547
-    proximity: 0.742
+    lemma: νομοδιδάσκαλος
+    gloss: an expounder of the  law {openscriptures-strongs}
+    proximity: 0.742 {macula-proximity}
   - strongs: G2519
-    proximity: 0.7337
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: καθηγητής
+    gloss: a guide {openscriptures-strongs}
+    proximity: 0.7337 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

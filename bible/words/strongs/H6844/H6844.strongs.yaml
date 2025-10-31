@@ -6,27 +6,27 @@ pronunciation: tsaw-feeth'
 definition: a sentry
 kjv_usage: watchtower.
 derivation: from H6822 (צָפָה);
-extended_definition:
-  gloss: rug
-  definition: 1) rug, carpet<br>2) (CLBL) watch
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) rug, carpet
+
+  2) (CLBL) watch {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1595a
-    proximity: 0.7861
+    proximity: 0.7861 {macula-proximity}
   - strongs: H8063
-    proximity: 0.7748
+    lemma: שְׂמִיכָה
+    gloss: a run {openscriptures-strongs}
+    proximity: 0.7748 {macula-proximity}
   - strongs: H6822
-    proximity: 0.7505
+    lemma: צָפָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7505 {macula-proximity}
   - strongs: A5894
-    proximity: 0.7071
+    proximity: 0.7071 {macula-proximity}
   cross_language:
   - strongs: G4470
-    proximity: 0.7736
+    lemma: ῥάκος
+    gloss: a "rag {openscriptures-strongs}
+    proximity: 0.7736 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,23 +6,23 @@ pronunciation: maz-zaw-law'
 definition: a constellation, i.e. Zodiacal sign (perhaps as affecting the weather)
 kjv_usage: planet. Compare H4216 (מַזָּרָה).
 derivation: apparently from H5140 (נָזַל) in the sense of raining;
-extended_definition:
-  gloss: constellation
-  definition: 1) constellations<br>1a) signs of zodiac (maybe)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) constellations
+
+  1a) signs of zodiac (maybe) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3556
-    proximity: 0.735
+    lemma: כּוֹכָב
+    gloss: a star {openscriptures-strongs}
+    proximity: 0.735 {macula-proximity}
   - strongs: H3685
-    proximity: 0.7347
+    lemma: כְּסִיל
+    gloss: any notable constellation {openscriptures-strongs}
+    proximity: 0.7347 {macula-proximity}
   cross_language:
   - strongs: G5459
-    proximity: 0.702
+    lemma: φωσφόρος
+    gloss: light-bearing {openscriptures-strongs}
+    proximity: 0.702 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

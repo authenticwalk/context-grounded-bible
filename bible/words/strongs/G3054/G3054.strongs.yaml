@@ -5,49 +5,62 @@ transliteration: logomachéō
 definition: to be disputatious (on trifles)
 kjv_usage: strive about words
 derivation: from a compound of G3056 (λόγος) and G3164 (μάχομαι);
-extended_definition:
-  gloss: to quarrel
-  definition: '<b>λογομαχέω</b>, -ῶ<BR /> (λόγος, μάχομαι), <BR /><b>to strive with
-    words</b>: <ref=''2Ti.2.14.''>2Ti.2:14.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> λογο-μᾰχέω</b>, <br /> <b>fight about words</b>, [<a href="javascript:void(0)"
-    title=" NT.2Tim.2.14. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'λογομαχέω, -ῶ
+
+  (λόγος, μάχομαι),
+
+  to strive with words: 2Ti.2:14.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'λογο-μᾰχέω,
+
+  fight about words, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A3961
-    proximity: 0.8122
+    proximity: 0.8122 {macula-proximity}
   - strongs: G5380
-    proximity: 0.8085
+    lemma: φιλόνεικος
+    gloss: probably akin to G3534 ) {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
   - strongs: G1864
-    proximity: 0.7977
+    lemma: ἐπαγωνίζομαι
+    gloss: to struggle for {openscriptures-strongs}
+    proximity: 0.7977 {macula-proximity}
   - strongs: G3056
-    proximity: 0.7798
+    lemma: λόγος
+    gloss: something said {openscriptures-strongs}
+    proximity: 0.7798 {macula-proximity}
   - strongs: G4487
-    proximity: 0.7512
+    lemma: ῥῆμα
+    gloss: an utterance (individually {openscriptures-strongs}
+    proximity: 0.7512 {macula-proximity}
   - strongs: G1264
-    proximity: 0.7497
+    lemma: διαμάχομαι
+    gloss: to fight fiercely {openscriptures-strongs}
+    proximity: 0.7497 {macula-proximity}
   cross_language:
   - strongs: H3898
-    proximity: 0.8299
+    lemma: לָחַם
+    gloss: to feed on {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: hebrew
   - strongs: H7378
-    proximity: 0.8277
+    lemma: רִיב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: hebrew
   - strongs: H1699a
-    proximity: 0.8168
+    proximity: 0.8168 {macula-proximity}
     language: hebrew
   - strongs: H1697
-    proximity: 0.8141
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
     language: hebrew
   - strongs: H5327
-    proximity: 0.7989
+    lemma: נָצָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,51 +6,59 @@ pronunciation: ats-tsoo-maw'
 definition: a bulwark, i.e. (figuratively) argument
 kjv_usage: strong.
 derivation: feminine of H6099 (עָצוּם);
-extended_definition:
-  gloss: defense
-  definition: defence, argument, strong
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: defence, argument, strong {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2390
-    proximity: 0.8211
+    lemma: חָזֵק
+    gloss: powerful {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
   - strongs: H6099
-    proximity: 0.8161
+    lemma: עָצוּם
+    gloss: powerful (specifically {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H533
-    proximity: 0.8139
+    proximity: 0.8139 {macula-proximity}
   - strongs: H1354a
-    proximity: 0.8039
+    proximity: 0.8039 {macula-proximity}
   - strongs: A8624
-    proximity: 0.8009
+    proximity: 0.8009 {macula-proximity}
   - strongs: H554
-    proximity: 0.7992
+    proximity: 0.7992 {macula-proximity}
   - strongs: H5713
-    proximity: 0.7949
+    lemma: עֵדָה
+    gloss: testimony {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
   - strongs: H8623
-    proximity: 0.7921
+    lemma: תַּקִּיף
+    gloss: powerful {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
   - strongs: A1701
-    proximity: 0.7806
+    proximity: 0.7806 {macula-proximity}
   - strongs: H555
-    proximity: 0.7639
+    proximity: 0.7639 {macula-proximity}
   cross_language:
   - strongs: G2478
-    proximity: 0.8248
+    lemma: ἰσχυρός
+    gloss: forcible {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: greek
   - strongs: G3142
-    proximity: 0.8201
+    lemma: μαρτύριον
+    gloss: something evidential {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G1743
-    proximity: 0.8196
+    lemma: ἐνδυναμόω
+    gloss: to empower {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
     language: greek
   - strongs: G267
-    proximity: 0.7999
+    proximity: 0.7999 {macula-proximity}
     language: greek
   - strongs: G2901
-    proximity: 0.762
+    lemma: κραταιόω
+    gloss: to empower {openscriptures-strongs}
+    proximity: 0.762 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -9,49 +9,70 @@ kjv_usage: able, activity, ([phrase]) army, band of men (soldiers), company, (gr
   forces, goods, host, might, power, riches, strength, strong, substance, train, ([phrase])
   valiant(-ly), valour, virtuous(-ly), war, worthy(-ily).
 derivation: from H2342 (חוּל);
-extended_definition:
-  gloss: 'strength: worthy'
-  definition: ': worthy<br>1) strength, might, efficiency, wealth, army<br>1a) strength<br>1b)
-    ability, efficiency<br>1c) wealth<br>1d) force, army'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': worthy
+
+  1) strength, might, efficiency, wealth, army
+
+  1a) strength
+
+  1b) ability, efficiency
+
+  1c) wealth
+
+  1d) force, army {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7075
-    proximity: 0.8296
+    lemma: קִנְיָן
+    gloss: creation {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H120
-    proximity: 0.8241
+    proximity: 0.8241 {macula-proximity}
   - strongs: H410a
-    proximity: 0.8239
+    proximity: 0.8239 {macula-proximity}
   - strongs: H691
-    proximity: 0.8221
+    proximity: 0.8221 {macula-proximity}
   - strongs: H3524
-    proximity: 0.8206
+    lemma: כַּבִּיר
+    gloss: vast {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: H5607
-    proximity: 0.8118
+    lemma: סֵפֶק
+    gloss: chastisement {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
   - strongs: H2256a
-    proximity: 0.8116
+    proximity: 0.8116 {macula-proximity}
   - strongs: H2626
-    proximity: 0.8104
+    lemma: חֲסִין
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
   - strongs: H8592
-    proximity: 0.8102
+    lemma: תַּעֲצֻמָה
+    gloss: might {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
   - strongs: H2715
-    proximity: 0.8102
+    lemma: חֹר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
   cross_language:
   - strongs: G1991
-    proximity: 0.8256
+    lemma: ἐπιστηρίζω
+    gloss: to support further {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
     language: greek
   - strongs: G1840
-    proximity: 0.8243
+    lemma: ἐξισχύω
+    gloss: to have full strength {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: greek
   - strongs: G1743
-    proximity: 0.8211
+    lemma: ἐνδυναμόω
+    gloss: to empower {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
     language: greek
   - strongs: G2141
-    proximity: 0.8156
+    lemma: εὐπορέω
+    gloss: to be good for passing through {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

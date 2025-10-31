@@ -9,37 +9,48 @@ derivation: from H7107 (קָצַף);
 related_words:
   synonyms:
   - strongs: A1149
-    proximity: 0.8237
+    proximity: 0.8237 {macula-proximity}
   - strongs: H6225
-    proximity: 0.8114
+    lemma: עָשַׁן
+    gloss: to smoke {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
   - strongs: H7481a
-    proximity: 0.7946
+    proximity: 0.7946 {macula-proximity}
   - strongs: H750
-    proximity: 0.7892
+    proximity: 0.7892 {macula-proximity}
   - strongs: A7108
-    proximity: 0.7683
+    proximity: 0.7683 {macula-proximity}
   - strongs: H5201
-    proximity: 0.7543
+    lemma: נָטַר
+    gloss: to guard {openscriptures-strongs}
+    proximity: 0.7543 {macula-proximity}
   - strongs: H2750
-    proximity: 0.7462
+    lemma: חֳרִי
+    gloss: a burning  anger {openscriptures-strongs}
+    proximity: 0.7462 {macula-proximity}
   - strongs: H2196
-    proximity: 0.73
+    lemma: זָעַף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.73 {macula-proximity}
   - strongs: H367
-    proximity: 0.7245
+    proximity: 0.7245 {macula-proximity}
   cross_language:
   - strongs: G3947
-    proximity: 0.819
+    lemma: παροξύνω
+    gloss: to sharpen alongside {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
     language: greek
   - strongs: G24
-    proximity: 0.805
+    proximity: 0.805 {macula-proximity}
     language: greek
   - strongs: G1693
-    proximity: 0.7889
+    lemma: ἐμμαίνομαι
+    gloss: to rave on {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
     language: greek
   - strongs: G4360
-    proximity: 0.757
+    lemma: προσοχθίζω
+    gloss: to feel indignant at {openscriptures-strongs}
+    proximity: 0.757 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

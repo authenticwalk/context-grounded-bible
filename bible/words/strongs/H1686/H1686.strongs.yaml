@@ -7,31 +7,35 @@ definition: probably some cheap vegetable, perhaps a bulbous root
 kjv_usage: dove's dung.
 derivation: in the margin for the textual reading, חֶרְיוֹן; both, (in the plural
   only and) of uncertain derivation,
-extended_definition:
-  gloss: quano
-  definition: doves dung
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: doves dung {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6569
-    proximity: 0.8249
+    lemma: פֶּרֶשׁ
+    gloss: excrement {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
   - strongs: H3123
-    proximity: 0.8115
+    lemma: יוֹנָה
+    gloss: a dove {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
   - strongs: H1828
-    proximity: 0.8025
+    lemma: דֹּמֶן
+    gloss: manure {openscriptures-strongs}
+    proximity: 0.8025 {macula-proximity}
   - strongs: H1561
-    proximity: 0.8002
+    lemma: גֵּלֶל
+    gloss: dung {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: H1557
-    proximity: 0.748
+    lemma: גָּלָל
+    gloss: dung {openscriptures-strongs}
+    proximity: 0.748 {macula-proximity}
   - strongs: H6832a
-    proximity: 0.7465
+    proximity: 0.7465 {macula-proximity}
   cross_language:
   - strongs: G4058
-    proximity: 0.7761
+    lemma: περιστερά
+    gloss: a pigeon {openscriptures-strongs}
+    proximity: 0.7761 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

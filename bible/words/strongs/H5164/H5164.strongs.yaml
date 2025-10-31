@@ -6,39 +6,43 @@ pronunciation: no'-kham
 definition: ruefulness, i.e. desistance
 kjv_usage: repentance.
 derivation: from H5162 (נָחַם);
-extended_definition:
-  gloss: repentance
-  definition: repentance, sorrow
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: repentance, sorrow {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2594
-    proximity: 0.8057
+    lemma: חֲנִינָה
+    gloss: graciousness {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
   - strongs: A2604
-    proximity: 0.7875
+    proximity: 0.7875 {macula-proximity}
   - strongs: H2603
-    proximity: 0.746
+    lemma: חָנַן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.746 {macula-proximity}
   - strongs: H5150
-    proximity: 0.7368
+    lemma: נִחוּם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7368 {macula-proximity}
   cross_language:
   - strongs: G278
-    proximity: 0.8159
+    proximity: 0.8159 {macula-proximity}
     language: greek
   - strongs: G1652
-    proximity: 0.8079
+    lemma: ἐλεεινός
+    gloss: pitiable {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
     language: greek
   - strongs: G2155
-    proximity: 0.7972
+    lemma: εὔσπλαγχνος
+    gloss: well compassioned {openscriptures-strongs}
+    proximity: 0.7972 {macula-proximity}
     language: greek
   - strongs: G3338
-    proximity: 0.755
+    lemma: μεταμέλλομαι
+    gloss: to care afterwards {openscriptures-strongs}
+    proximity: 0.755 {macula-proximity}
     language: greek
   - strongs: G415
-    proximity: 0.7532
+    proximity: 0.7532 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

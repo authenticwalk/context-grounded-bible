@@ -5,38 +5,34 @@ transliteration: molysmós
 definition: a stain; i.e. (figuratively) immorality
 kjv_usage: filthiness
 derivation: from G3435 (μολύνω);
-extended_definition:
-  gloss: defilement
-  definition: '<b>μολυσμός</b>, -οῦ, ὁ<BR /> (μολύνω), [in LXX: <ref=''Jer.23.15''>Jer.23:15</ref>
-    (חֲנֻפָה), I <ref=''Est.8.83''>Est.8:83</ref>, <ref=''2Ma.5.27''>2Ma.5:27</ref>
-    * ;] <BR /><b>defilement</b>: with genitive obj., <ref=''2Co.7.1''>2Co.7:1</ref>
-    (Plut., FlJ).†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> μολ-υσμός</b>, ὁ, <br /> <b>defilement, pollution</b>, [<a
-    href="javascript:void(0)" title=" LXX.Jer.23.15, Aristeas 166, 1st c.BC-1st c.AD:
-    Strabo Geographus 17.2.4, NT.2Cor.7.1, 1st c.AD: Josephus Historicus “contra Apionem”
-    1.32 (_plural_), 1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.779c (_plural_),
-    4th c.AD: Iamblichus Philosophus “de Mysteriis” 5.4. ">LXX+1st c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'μολυσμός, -οῦ, ὁ
+
+  (μολύνω), [in LXX: Jer.23:15 (חֲנֻפָה), I Est.8:83, 2Ma.5:27 * ;]
+
+  defilement: with genitive obj., 2Co.7:1 (Plut., FlJ).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'μολ-υσμός, ὁ,
+
+  defilement, pollution, [LXX+1st c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G283
-    proximity: 0.7734
+    proximity: 0.7734 {macula-proximity}
   cross_language:
   - strongs: H2610
-    proximity: 0.7577
+    lemma: חָנֵף
+    gloss: to soil {openscriptures-strongs}
+    proximity: 0.7577 {macula-proximity}
     language: hebrew
   - strongs: H1352
-    proximity: 0.7513
+    lemma: גֹּאֶל
+    gloss: profanation {openscriptures-strongs}
+    proximity: 0.7513 {macula-proximity}
     language: hebrew
   - strongs: H5206
-    proximity: 0.731
+    lemma: נִידָה
+    gloss: removal {openscriptures-strongs}
+    proximity: 0.731 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

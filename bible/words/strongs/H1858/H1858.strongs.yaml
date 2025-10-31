@@ -7,33 +7,37 @@ definition: properly, a pearl (from its sheen as rapidly turned); by analogy, pe
   i.e. mother-of-pearl or alabaster
 kjv_usage: '[idiom] white.'
 derivation: apparently from the same as H1865 (דְּרוֹר);
-extended_definition:
-  gloss: mother-of-pearl
-  definition: pearl, mother of pearl
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: pearl, mother of pearl {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6443
-    proximity: 0.8158
+    lemma: פָּנִין
+    gloss: probably a pearl {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: A2358
-    proximity: 0.775
+    proximity: 0.775 {macula-proximity}
   - strongs: H6705
-    proximity: 0.7639
+    lemma: צָחַח
+    gloss: to glare {openscriptures-strongs}
+    proximity: 0.7639 {macula-proximity}
   - strongs: H6715
-    proximity: 0.7639
+    lemma: צָחֹר
+    gloss: white {openscriptures-strongs}
+    proximity: 0.7639 {macula-proximity}
   - strongs: H3836
-    proximity: 0.7618
+    lemma: לָבָן
+    gloss: white {openscriptures-strongs}
+    proximity: 0.7618 {macula-proximity}
   - strongs: H2353
-    proximity: 0.7454
+    lemma: חוּר
+    gloss: white linen {openscriptures-strongs}
+    proximity: 0.7454 {macula-proximity}
   - strongs: H916
-    proximity: 0.713
+    proximity: 0.713 {macula-proximity}
   cross_language:
   - strongs: G3022
-    proximity: 0.7136
+    lemma: λευκός
+    gloss: white {openscriptures-strongs}
+    proximity: 0.7136 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

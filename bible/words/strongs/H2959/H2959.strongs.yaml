@@ -6,27 +6,27 @@ pronunciation: taw-rakh'
 definition: to overburden
 kjv_usage: weary.
 derivation: a primitive root;
-extended_definition:
-  gloss: to burden
-  definition: (Hiphil) to burden, toil, be burdened
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Hiphil) to burden, toil, be burdened {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4767
-    proximity: 0.7595
+    lemma: מִרְבָּה
+    gloss: abundance {openscriptures-strongs}
+    proximity: 0.7595 {macula-proximity}
   cross_language:
   - strongs: G1072
-    proximity: 0.8031
+    lemma: γεμίζω
+    gloss: to fill entirely {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
     language: greek
   - strongs: G3324
-    proximity: 0.7929
+    lemma: μεστός
+    gloss: replete {openscriptures-strongs}
+    proximity: 0.7929 {macula-proximity}
     language: greek
   - strongs: G1073
-    proximity: 0.7315
+    lemma: γέμω
+    gloss: to swell out {openscriptures-strongs}
+    proximity: 0.7315 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

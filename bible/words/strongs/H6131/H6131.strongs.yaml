@@ -10,34 +10,49 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H3683
-    proximity: 0.8256
+    lemma: כָּסַח
+    gloss: to cut off {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: H5423
-    proximity: 0.8219
+    lemma: נָתַק
+    gloss: to tear off {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: A6132
-    proximity: 0.8211
+    proximity: 0.8211 {macula-proximity}
   - strongs: H5483
-    proximity: 0.8122
+    lemma: סוּס
+    gloss: a horse {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
   - strongs: A7113
-    proximity: 0.7996
+    proximity: 0.7996 {macula-proximity}
   - strongs: H7096
-    proximity: 0.7991
+    lemma: קָצָה
+    gloss: to cut off {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: H1438
-    proximity: 0.7962
+    lemma: גָּדַע
+    gloss: to fell a tree {openscriptures-strongs}
+    proximity: 0.7962 {macula-proximity}
   - strongs: H8327
-    proximity: 0.776
+    lemma: שָׁרַשׁ
+    gloss: to root {openscriptures-strongs}
+    proximity: 0.776 {macula-proximity}
   - strongs: H7112
-    proximity: 0.7742
+    lemma: קָצַץ
+    gloss: to chop off {openscriptures-strongs}
+    proximity: 0.7742 {macula-proximity}
   cross_language:
   - strongs: G4685
-    proximity: 0.8222
+    lemma: σπάω
+    gloss: to draw {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
     language: greek
   - strongs: G609
-    proximity: 0.8069
+    proximity: 0.8069 {macula-proximity}
     language: greek
   - strongs: G1610
-    proximity: 0.7928
+    lemma: ἐκριζόω
+    gloss: to uproot {openscriptures-strongs}
+    proximity: 0.7928 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,36 +6,42 @@ pronunciation: mig-eh'-reth
 definition: reproof (i.e. curse)
 kjv_usage: rebuke.
 derivation: from H1605 (גָּעַר);
-extended_definition:
-  gloss: rebuke
-  definition: rebuke, reproof
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: rebuke, reproof {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4032
-    proximity: 0.8296
+    lemma: מָגוֹר
+    gloss: a fright {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H1089
-    proximity: 0.8097
+    lemma: בָּלַהּ
+    gloss: to palpitate {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: H8409
-    proximity: 0.8018
+    lemma: תִּגְרָה
+    gloss: strife {openscriptures-strongs}
+    proximity: 0.8018 {macula-proximity}
   - strongs: H6972
-    proximity: 0.7681
+    lemma: קוּץ
+    gloss: to spend the harvest season {openscriptures-strongs}
+    proximity: 0.7681 {macula-proximity}
   cross_language:
   - strongs: G1629
-    proximity: 0.7981
+    lemma: ἐκφοβέω
+    gloss: to frighten utterly {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
     language: greek
   - strongs: G547
-    proximity: 0.7731
+    proximity: 0.7731 {macula-proximity}
     language: greek
   - strongs: G3679
-    proximity: 0.7282
+    lemma: ὀνειδίζω
+    gloss: to defame {openscriptures-strongs}
+    proximity: 0.7282 {macula-proximity}
     language: greek
   - strongs: G4423
-    proximity: 0.7104
+    lemma: πτόησις
+    gloss: alarm {openscriptures-strongs}
+    proximity: 0.7104 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

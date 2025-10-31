@@ -6,43 +6,53 @@ pronunciation: maw-mothe'
 definition: a mortal disease; concretely, a corpse
 kjv_usage: death.
 derivation: from H4191 (מוּת);
-extended_definition:
-  gloss: death
-  definition: death
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: death {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7819
-    proximity: 0.8147
+    lemma: שָׁחַט
+    gloss: to slaughter {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: H4815
-    proximity: 0.8064
+    lemma: מְרִירִי
+    gloss: bitter {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
   - strongs: H8546
-    proximity: 0.7993
+    lemma: תְּמוּתָה
+    gloss: execution {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
   - strongs: H2026
-    proximity: 0.7993
+    lemma: הָרַג
+    gloss: to smite with deadly intent {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
   - strongs: H4192
-    proximity: 0.7845
+    lemma: מוּת
+    gloss: '''To die for the son'' {openscriptures-strongs}'
+    proximity: 0.7845 {macula-proximity}
   - strongs: H4191
-    proximity: 0.7408
+    lemma: מוּת
+    gloss: to die {openscriptures-strongs}
+    proximity: 0.7408 {macula-proximity}
   cross_language:
   - strongs: G337
-    proximity: 0.8261
+    proximity: 0.8261 {macula-proximity}
     language: greek
   - strongs: G3499
-    proximity: 0.8144
+    lemma: νεκρόω
+    gloss: to deaden {openscriptures-strongs}
+    proximity: 0.8144 {macula-proximity}
     language: greek
   - strongs: G1315
-    proximity: 0.8109
+    lemma: διαχειρίζομαι
+    gloss: to handle thoroughly {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
     language: greek
   - strongs: G615
-    proximity: 0.8067
+    proximity: 0.8067 {macula-proximity}
     language: greek
   - strongs: G2642
-    proximity: 0.7974
+    lemma: καταλιθάζω
+    gloss: to stone down {openscriptures-strongs}
+    proximity: 0.7974 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

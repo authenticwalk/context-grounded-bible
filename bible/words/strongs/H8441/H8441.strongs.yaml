@@ -7,53 +7,69 @@ definition: properly, something disgusting (morally), i.e. (as noun) an abhorren
   especially idolatry or (concretely) an idol
 kjv_usage: abominable (custom, thing), abomination.
 derivation: or תֹּעֵבַה; feminine active participle of H8581 (תַּעָב);
-extended_definition:
-  gloss: abomination
-  definition: 1) a disgusting thing, abomination, abominable<br>1a) in ritual sense
-    (of unclean food, idols, mixed marriages)<br>1b) in ethical sense (of wickedness
-    etc)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) a disgusting thing, abomination, abominable
+
+  1a) in ritual sense (of unclean food, idols, mixed marriages)
+
+  1b) in ethical sense (of wickedness etc) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1544
-    proximity: 0.8229
+    lemma: גִּלּוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: H4566
-    proximity: 0.82
+    lemma: מַעְבָּד
+    gloss: an act {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
   - strongs: H2194
-    proximity: 0.819
+    lemma: זָעַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   - strongs: H2114a
-    proximity: 0.8171
+    proximity: 0.8171 {macula-proximity}
   - strongs: H5010
-    proximity: 0.8164
+    lemma: נָאַר
+    gloss: to reject {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
   - strongs: A873
-    proximity: 0.806
+    proximity: 0.806 {macula-proximity}
   - strongs: H4656
-    proximity: 0.8053
+    lemma: מִפְלֶצֶת
+    gloss: a terror {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H7451
-    proximity: 0.8014
+    lemma: רַע
+    gloss: bad or  evil {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
   - strongs: H2214
-    proximity: 0.8007
+    lemma: זָרָא
+    gloss: disgust {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: H8604
-    proximity: 0.7978
+    lemma: תִּפְלָה
+    gloss: frivolity {openscriptures-strongs}
+    proximity: 0.7978 {macula-proximity}
   cross_language:
   - strongs: G4234
-    proximity: 0.8202
+    lemma: πρᾶξις
+    gloss: practice {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
     language: greek
   - strongs: G111
-    proximity: 0.8177
+    proximity: 0.8177 {macula-proximity}
     language: greek
   - strongs: G808
-    proximity: 0.8082
+    proximity: 0.8082 {macula-proximity}
     language: greek
   - strongs: G1497
-    proximity: 0.8066
+    lemma: εἴδωλον
+    gloss: an image {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
     language: greek
   - strongs: G2041
-    proximity: 0.7989
+    lemma: ἔργον
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

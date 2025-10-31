@@ -5,42 +5,50 @@ transliteration: Olympâs
 definition: Olympas, a Christian
 kjv_usage: Olympas
 derivation: probably a contraction from (Olympian-bestowed, i.e. heaven-descended);
-extended_definition:
-  gloss: Olympas
-  definition: '<b>Ὀλυμπᾶς</b><BR /> (perh. contr. fr. Ὀλνμπιόδωρος, Bl., § 29), -ᾶ,
-    <BR /><b>Olympas</b>: <ref=''Rom.16.15.''>Rom.16:15.</ref>†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ὀλυμπᾶς</b><BR /> (perh. contr. fr. Ὀλνμπιόδωρος, Bl., § 29),
-    -ᾶ, <BR /><b>Olympas</b>: <ref=''Rom.16.15.''>Rom.16:15.</ref>†<BR />  (From Abbott-Smith.
-    LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ὀλυμπᾶς
+
+  (perh. contr. fr. Ὀλνμπιόδωρος, Bl., § 29), -ᾶ,
+
+  Olympas: Rom.16:15.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ὀλυμπᾶς
+
+  (perh. contr. fr. Ὀλνμπιόδωρος, Bl., § 29), -ᾶ,
+
+  Olympas: Rom.16:15.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1003b
-    proximity: 0.8261
+    proximity: 0.8261 {macula-proximity}
   - strongs: A620
-    proximity: 0.801
+    proximity: 0.801 {macula-proximity}
   cross_language:
   - strongs: H1162
-    proximity: 0.8294
+    lemma: בֹּעַז
+    gloss: Boaz {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: hebrew
   - strongs: H1173
-    proximity: 0.8287
+    lemma: בַּעֲלָה
+    gloss: Baalah {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: hebrew
   - strongs: H6462
-    proximity: 0.8284
+    lemma: פִּסְפָּה
+    gloss: Pispah {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: hebrew
   - strongs: H7532
-    proximity: 0.8246
+    lemma: רִצְפָּה
+    gloss: Ritspah {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
     language: hebrew
   - strongs: H4709
-    proximity: 0.8163
+    lemma: מִצְפָּה
+    gloss: Mitspah {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

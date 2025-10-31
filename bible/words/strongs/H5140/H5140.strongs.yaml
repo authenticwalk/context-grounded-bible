@@ -7,50 +7,66 @@ definition: to drip, or shed by trickling
 kjv_usage: distil, drop, flood, (cause to) flow(-ing), gush out, melt, pour (down),
   running water, stream.
 derivation: a primitive root;
-extended_definition:
-  gloss: to flow
-  definition: 1) to flow, distil, flow forth or down, trickle, drop<br>1a) (Qal)<br>1a1)
-    to flow<br>1a1a) streams, floods (participle)<br>1a2) to distil<br>1b) (Hiphil)
-    to cause to flow
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to flow, distil, flow forth or down, trickle, drop
+
+  1a) (Qal)
+
+  1a1) to flow
+
+  1a1a) streams, floods (participle)
+
+  1a2) to distil
+
+  1b) (Hiphil) to cause to flow {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3154
-    proximity: 0.8245
+    lemma: יֶזַע
+    gloss: sweat {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H3105
-    proximity: 0.8233
+    lemma: יוּבַל
+    gloss: a stream {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H1680
-    proximity: 0.8232
+    lemma: דָּבַב
+    gloss: to move slowly {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H3332
-    proximity: 0.82
+    lemma: יָצַק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
   - strongs: A5308
-    proximity: 0.8188
+    proximity: 0.8188 {macula-proximity}
   - strongs: H7324a
-    proximity: 0.8071
+    proximity: 0.8071 {macula-proximity}
   - strongs: H5130a
-    proximity: 0.8005
+    proximity: 0.8005 {macula-proximity}
   - strongs: H6201
-    proximity: 0.7996
+    lemma: עָרַף
+    gloss: to droop {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
   - strongs: H7641a
-    proximity: 0.7991
+    proximity: 0.7991 {macula-proximity}
   - strongs: H1865a
-    proximity: 0.7973
+    proximity: 0.7973 {macula-proximity}
   cross_language:
   - strongs: G242
-    proximity: 0.829
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G1632
-    proximity: 0.8199
+    lemma: ἐκχέω
+    gloss: to pour forth {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
     language: greek
   - strongs: G1607
-    proximity: 0.8186
+    lemma: ἐκπορεύομαι
+    gloss: to depart {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
     language: greek
   - strongs: G1831
-    proximity: 0.8143
+    lemma: ἐξέρχομαι
+    gloss: to issue {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

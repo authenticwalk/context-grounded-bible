@@ -6,41 +6,55 @@ pronunciation: shaw-kade'
 definition: the almond (tree or nut; as being the earliest in bloom)
 kjv_usage: almond (tree).
 derivation: from H8245 (שָׁקַד);
-extended_definition:
-  gloss: almond
-  definition: 1) almond tree, almonds<br>1a) almond (the nut)<br>1b) almond-tree
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) almond tree, almonds
+
+  1a) almond (the nut)
+
+  1b) almond-tree {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6196
-    proximity: 0.8274
+    lemma: עַרְמוֹן
+    gloss: the plane tree {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H8561
-    proximity: 0.8215
+    lemma: תִּמֹּר
+    gloss: a palm-like pilaster {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H352a
-    proximity: 0.817
+    proximity: 0.817 {macula-proximity}
   - strongs: H8246
-    proximity: 0.8167
+    lemma: שָׁקַד
+    gloss: to be (intensively {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H436
-    proximity: 0.8148
+    proximity: 0.8148 {macula-proximity}
   - strongs: H8363
-    proximity: 0.8139
+    lemma: שְׁתִל
+    gloss: a sprig {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H8560
-    proximity: 0.7986
+    lemma: תֹּמֶר
+    gloss: a palm trunk {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
   - strongs: H6097
-    proximity: 0.7215
+    lemma: עֵצָה
+    gloss: timber {openscriptures-strongs}
+    proximity: 0.7215 {macula-proximity}
   cross_language:
   - strongs: G4809
-    proximity: 0.8259
+    lemma: συκομωραία
+    gloss: the "sycamore"-fig tree {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G4808
-    proximity: 0.8165
+    lemma: συκῆ
+    gloss: a fig-tree {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G4807
-    proximity: 0.8137
+    lemma: συκάμινος
+    gloss: a sycamore-fig tree {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

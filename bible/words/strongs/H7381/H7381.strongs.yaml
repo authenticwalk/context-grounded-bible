@@ -6,29 +6,33 @@ pronunciation: ray'-akh
 definition: odor (as if blown)
 kjv_usage: savour, scent, smell.
 derivation: from H7306 (רוּחַ);
-extended_definition:
-  gloss: aroma
-  definition: '1) scent, fragrance, aroma, odour<br>1a) scent, odour<br>1b) odour
-    of soothing (technical term for sacrifice to God)<BR>Aramaic equivalent: <i>re.ach</i>
-    (רֵיחַ "smell" H7382)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) scent, fragrance, aroma, odour
+
+  1a) scent, odour
+
+  1b) odour of soothing (technical term for sacrifice to God)
+
+  Aramaic equivalent: re.ach (רֵיחַ "smell" H7382) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4840
-    proximity: 0.8229
+    lemma: מֶרְקָח
+    gloss: a spicy herb {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: H7002
-    proximity: 0.8148
+    lemma: קִטֵּר
+    gloss: perfume {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: H4729a
-    proximity: 0.7973
+    proximity: 0.7973 {macula-proximity}
   - strongs: H3828
-    proximity: 0.7901
+    lemma: לְבוֹנָה
+    gloss: frankincense {openscriptures-strongs}
+    proximity: 0.7901 {macula-proximity}
   cross_language:
   - strongs: G2368
-    proximity: 0.7927
+    lemma: θυμίαμα
+    gloss: an aroma {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

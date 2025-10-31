@@ -6,30 +6,32 @@ pronunciation: sofe
 definition: a termination
 kjv_usage: conclusion, end, hinder participle
 derivation: from H5486 (סוּף);
-extended_definition:
-  gloss: end
-  definition: 'end, conclusion<BR>Aramaic equivalent: <i>soph</i> (סוֹף "end" H5491)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'end, conclusion
+
+  Aramaic equivalent: soph (סוֹף "end" H5491) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7117
-    proximity: 0.8237
+    lemma: קְצָת
+    gloss: a termination {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: H7078
-    proximity: 0.7938
+    lemma: קֶנֶץ
+    gloss: perversion {openscriptures-strongs}
+    proximity: 0.7938 {macula-proximity}
   - strongs: H314
-    proximity: 0.7702
+    proximity: 0.7702 {macula-proximity}
   - strongs: H319
-    proximity: 0.7575
+    proximity: 0.7575 {macula-proximity}
   cross_language:
   - strongs: G1545
-    proximity: 0.7964
+    lemma: ἔκβασις
+    gloss: an exit {openscriptures-strongs}
+    proximity: 0.7964 {macula-proximity}
     language: greek
   - strongs: G4009
-    proximity: 0.7167
+    lemma: πέρας
+    gloss: an extremity {openscriptures-strongs}
+    proximity: 0.7167 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,29 +6,31 @@ pronunciation: taw-faf'
 definition: to trip (with short steps) coquettishly
 kjv_usage: mince.
 derivation: a primitive root; apparently
-extended_definition:
-  gloss: to mince
-  definition: (Qal) to skip, trip, take quick little steps
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to skip, trip, take quick little steps {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4096
-    proximity: 0.826
+    lemma: מִדְרָךְ
+    gloss: a treading {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
   - strongs: H4703
-    proximity: 0.7528
+    lemma: מִצְעָד
+    gloss: a step {openscriptures-strongs}
+    proximity: 0.7528 {macula-proximity}
   - strongs: H6806
-    proximity: 0.7335
+    lemma: צַעַד
+    gloss: a pace or regular step {openscriptures-strongs}
+    proximity: 0.7335 {macula-proximity}
   - strongs: H838
-    proximity: 0.7279
+    proximity: 0.7279 {macula-proximity}
   - strongs: H6587
-    proximity: 0.7024
+    lemma: פֶּשַׂע
+    gloss: a stride {openscriptures-strongs}
+    proximity: 0.7024 {macula-proximity}
   cross_language:
   - strongs: G2487
-    proximity: 0.7651
+    lemma: ἴχνος
+    gloss: compare G2240 ) {openscriptures-strongs}
+    proximity: 0.7651 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

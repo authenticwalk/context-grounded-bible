@@ -6,36 +6,40 @@ pronunciation: nay'-kel
 definition: deceit
 kjv_usage: wile.
 derivation: from H5230 (נָכַל);
-extended_definition:
-  gloss: trick
-  definition: cunning, wiliness, craft, knavery
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: cunning, wiliness, craft, knavery {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H898a
-    proximity: 0.8262
+    proximity: 0.8262 {macula-proximity}
   - strongs: H7407
-    proximity: 0.8216
+    lemma: רֹכֶס
+    gloss: a snare {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   - strongs: H2665
-    proximity: 0.819
+    lemma: חֵפֶשׂ
+    gloss: something covert {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   - strongs: H2162
-    proximity: 0.8083
+    lemma: זָמָם
+    gloss: a plot {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
   - strongs: H8649
-    proximity: 0.8061
+    lemma: תׇּרְמָה
+    gloss: fraud {openscriptures-strongs}
+    proximity: 0.8061 {macula-proximity}
   - strongs: H391
-    proximity: 0.8009
+    proximity: 0.8009 {macula-proximity}
   - strongs: H900
-    proximity: 0.775
+    proximity: 0.775 {macula-proximity}
   cross_language:
   - strongs: G3053
-    proximity: 0.8125
+    lemma: λογισμός
+    gloss: computation {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G2686
-    proximity: 0.7857
+    lemma: κατασοφίζομαι
+    gloss: to be crafty against {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

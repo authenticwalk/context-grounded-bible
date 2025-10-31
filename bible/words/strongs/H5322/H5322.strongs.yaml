@@ -9,22 +9,29 @@ derivation: from H5340 (נָצַץ);
 related_words:
   synonyms:
   - strongs: H3
-    proximity: 0.8223
+    proximity: 0.8223 {macula-proximity}
   - strongs: H1375
-    proximity: 0.8147
+    lemma: גְּבִיעַ
+    gloss: a goblet {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: H6524
-    proximity: 0.8049
+    lemma: פָּרַח
+    gloss: to break forth as a bud {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H3724b
-    proximity: 0.7968
+    proximity: 0.7968 {macula-proximity}
   - strongs: H6358
-    proximity: 0.7712
+    lemma: פָּטוּר
+    gloss: opened {openscriptures-strongs}
+    proximity: 0.7712 {macula-proximity}
   - strongs: H6692
-    proximity: 0.757
+    lemma: צוּץ
+    gloss: to twinkle {openscriptures-strongs}
+    proximity: 0.757 {macula-proximity}
   cross_language:
   - strongs: G2918
-    proximity: 0.8224
+    lemma: κρίνον
+    gloss: a lily {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

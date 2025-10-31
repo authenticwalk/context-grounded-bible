@@ -6,45 +6,52 @@ definition: the arm, i.e. (figuratively) strength
 kjv_usage: arm
 derivation: properly, comparative of G1024 (βραχύς), but apparently in the sense of
   (to wield);
-extended_definition:
-  gloss: arm
-  definition: '<b>βραχίων</b>, -ὀνος, ὁ, <BR /> [in LXX, β. Κυρίου, frequently for
-    זְרוֹעַ יהוָֹה ;] <BR /><b>the arm</b>; as in OT, β. Κυρίου, metaphorically, <b>for
-    the Divine power</b>: <ref=''Luk.1.51''>Luk.1:51</ref>, <ref=''Jhn.12.38''>Jhn.12:38</ref>"
-    (LXX), <ref=''Act.13.17.''>Act.13:17.</ref>†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> βρᾰχίων</b> <br /> [<i>Ionic dialect</i> ῐ, <i>Attic dialect</i>
-    ῑ], <b>βράχιστος</b>, <i>comparative</i> and <i>superlative</i> of βραχύς.
-  source: STEPBible/LSJ
+extended_definition: 'βραχίων, -ὀνος, ὁ,
+
+  [in LXX, β. Κυρίου, frequently for זְרוֹעַ יהוָֹה ;]
+
+  the arm; as in OT, β. Κυρίου, metaphorically, for the Divine power: Luk.1:51, Jhn.12:38"
+  (LXX), Act.13:17.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'βρᾰχίων
+
+  [Ionic dialect ῐ, Attic dialect ῑ], βράχιστος, comparative and superlative of βραχύς.
+  {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1723
-    proximity: 0.7929
+    lemma: ἐναγκαλίζομαι
+    gloss: to take in one's arms {openscriptures-strongs}
+    proximity: 0.7929 {macula-proximity}
   - strongs: G2528
-    proximity: 0.7472
+    lemma: καθοπλίζω
+    gloss: and G3695 {openscriptures-strongs}
+    proximity: 0.7472 {macula-proximity}
   - strongs: G3695
-    proximity: 0.7407
+    lemma: ὁπλίζω
+    gloss: to equip ) {openscriptures-strongs}
+    proximity: 0.7407 {macula-proximity}
   cross_language:
   - strongs: H2571
-    proximity: 0.8153
+    lemma: חָמֻשׁ
+    gloss: staunch {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
     language: hebrew
   - strongs: H2290a
-    proximity: 0.8044
+    proximity: 0.8044 {macula-proximity}
     language: hebrew
   - strongs: H2502a
-    proximity: 0.8029
+    proximity: 0.8029 {macula-proximity}
     language: hebrew
   - strongs: H2684
-    proximity: 0.8008
+    lemma: חֹצֶן
+    gloss: '{the bosom } {openscriptures-strongs}'
+    proximity: 0.8008 {macula-proximity}
     language: hebrew
   - strongs: H4560
-    proximity: 0.775
+    lemma: מָסַר
+    gloss: to sunder {openscriptures-strongs}
+    proximity: 0.775 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

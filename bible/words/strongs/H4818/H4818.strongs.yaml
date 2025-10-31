@@ -6,33 +6,37 @@ pronunciation: mer-kaw-baw'
 definition: a chariot
 kjv_usage: chariot. See also H1024 (בֵּית הַמַּרְכָּבוֹת).
 derivation: feminine of H4817 (מֶרְכָּב);
-extended_definition:
-  gloss: chariot
-  definition: chariot
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: chariot {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H723
-    proximity: 0.8198
+    proximity: 0.8198 {macula-proximity}
   - strongs: H5483
-    proximity: 0.8022
+    lemma: סוּס
+    gloss: a horse {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
   - strongs: H6571
-    proximity: 0.8004
+    lemma: פָּרָשׁ
+    gloss: a steed (as stretched out to a vehicle {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
   - strongs: H7573
-    proximity: 0.7857
+    lemma: רָתַם
+    gloss: to yoke up {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
   - strongs: H212
-    proximity: 0.7703
+    proximity: 0.7703 {macula-proximity}
   - strongs: H7392
-    proximity: 0.7194
+    lemma: רָכַב
+    gloss: to ride {openscriptures-strongs}
+    proximity: 0.7194 {macula-proximity}
   - strongs: H1534
-    proximity: 0.7011
+    lemma: גַּלְגַּל
+    gloss: a wheel {openscriptures-strongs}
+    proximity: 0.7011 {macula-proximity}
   cross_language:
   - strongs: G2462
-    proximity: 0.7455
+    lemma: ἵππος
+    gloss: a horse {openscriptures-strongs}
+    proximity: 0.7455 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

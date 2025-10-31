@@ -6,27 +6,27 @@ pronunciation: ab-teet'
 definition: something pledged, i.e. (collectively) pawned goods
 kjv_usage: thick clay (by a false etym.).
 derivation: from H5670 (עָבַט);
-extended_definition:
-  gloss: debt
-  definition: weight of pledges, heavy debts
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: weight of pledges, heavy debts {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5670
-    proximity: 0.8073
+    lemma: עָבַט
+    gloss: to pawn {openscriptures-strongs}
+    proximity: 0.8073 {macula-proximity}
   - strongs: H5386
-    proximity: 0.7861
+    lemma: נְשִׁי
+    gloss: a debt {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
   - strongs: H2326
-    proximity: 0.7574
+    lemma: חוֹב
+    gloss: debt {openscriptures-strongs}
+    proximity: 0.7574 {macula-proximity}
   - strongs: H8667
-    proximity: 0.7149
+    lemma: תְּשׂוּמֶת
+    gloss: a deposit {openscriptures-strongs}
+    proximity: 0.7149 {macula-proximity}
   cross_language:
   - strongs: G728
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

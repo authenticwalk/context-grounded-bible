@@ -7,46 +7,65 @@ definition: to tread in pieces, i.e. (figuratively) to conquer, or (specifically
   to overlay
 kjv_usage: spend, spread, subdue.
 derivation: a primitive root;
-extended_definition:
-  gloss: to subdue
-  definition: 1) to beat down, beat out, subdue<br>1a) (Qal) to beat down (fig)<br>1b)
-    (Hiphil) to beat out
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to beat down, beat out, subdue
+
+  1a) (Qal) to beat down (fig)
+
+  1b) (Hiphil) to beat out {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6581
-    proximity: 0.8209
+    lemma: פָּשָׂה
+    gloss: to spread {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: H6360
-    proximity: 0.8194
+    lemma: פַּטִּישׁ
+    gloss: a hammer {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H4717
-    proximity: 0.8173
+    lemma: מַקָּבָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
   - strongs: H7980
-    proximity: 0.7907
+    lemma: שָׁלַט
+    gloss: to dominate {openscriptures-strongs}
+    proximity: 0.7907 {macula-proximity}
   - strongs: H4910
-    proximity: 0.7343
+    lemma: מָשַׁל
+    gloss: to rule {openscriptures-strongs}
+    proximity: 0.7343 {macula-proximity}
   - strongs: H3665
-    proximity: 0.7157
+    lemma: כָּנַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7157 {macula-proximity}
   - strongs: H3533
-    proximity: 0.7068
+    lemma: כָּבַשׁ
+    gloss: to tread down {openscriptures-strongs}
+    proximity: 0.7068 {macula-proximity}
   cross_language:
   - strongs: G2888
-    proximity: 0.8182
+    lemma: κοσμοκράτωρ
+    gloss: a world-ruler {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: greek
   - strongs: G1502
-    proximity: 0.8162
+    lemma: εἴκω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
     language: greek
   - strongs: G2715
-    proximity: 0.8132
+    lemma: κατεξουσιάζω
+    gloss: to have  full privilege over {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
     language: greek
   - strongs: G2634
-    proximity: 0.8082
+    lemma: κατακυριεύω
+    gloss: to lord against {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
     language: greek
   - strongs: G2610
-    proximity: 0.7859
+    lemma: καταγωνίζομαι
+    gloss: to struggle against {openscriptures-strongs}
+    proximity: 0.7859 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

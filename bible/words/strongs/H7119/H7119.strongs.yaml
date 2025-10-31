@@ -6,30 +6,36 @@ pronunciation: kar
 definition: cool; figuratively, quiet
 kjv_usage: cold, excellent (from the margin).
 derivation: contracted from an unused root meaning to chill;
-extended_definition:
-  gloss: cool
-  definition: 1) cool<br>1a) cool, calm, self-possessed (of spirit)
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) cool
+
+  1a) cool, calm, self-possessed (of spirit) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7140
-    proximity: 0.8262
+    lemma: קֶרַח
+    gloss: ice (as if bald {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: H4599
-    proximity: 0.8211
+    lemma: מַעְיָן
+    gloss: a fountain {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
   - strongs: H4747
-    proximity: 0.8125
+    lemma: מְקֵרָה
+    gloss: a cooling off {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: H7135
-    proximity: 0.7079
+    lemma: קָרָה
+    gloss: coolness {openscriptures-strongs}
+    proximity: 0.7079 {macula-proximity}
   cross_language:
   - strongs: G5594
-    proximity: 0.7617
+    lemma: ψύχω
+    gloss: to breathe (voluntarily but gently {openscriptures-strongs}
+    proximity: 0.7617 {macula-proximity}
     language: greek
   - strongs: G2711
-    proximity: 0.7102
+    lemma: καταψύχω
+    gloss: to cool down {openscriptures-strongs}
+    proximity: 0.7102 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

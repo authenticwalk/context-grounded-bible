@@ -8,45 +8,53 @@ definition: properly, like this, i.e. by implication, (of manner) thus (or so); 
 kjv_usage: also, here, + hitherto, like, on the other side, so (and much), such, on
   that manner, (on) this (manner, side, way, way and that way), + mean while, yonder.
 derivation: from the prefix k and H1931 (הוּא);
-extended_definition:
-  gloss: thus
-  definition: '1) thus, here, in this manner<br>1a) thus, so<br>1b) here, here and
-    there<br>1c) until now, until now...until then, meanwhile<BR>Aramaic equivalent:
-    <i>kah</i> (כָּה "thus" H3542)'
-  morphology: H:Adv
-  source: STEPBible/BDB
+extended_definition: '1) thus, here, in this manner
+
+  1a) thus, so
+
+  1b) here, here and there
+
+  1c) until now, until now...until then, meanwhile
+
+  Aramaic equivalent: kah (כָּה "thus" H3542) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A4101
-    proximity: 0.8287
+    proximity: 0.8287 {macula-proximity}
   - strongs: H413
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
   - strongs: A116
-    proximity: 0.8247
+    proximity: 0.8247 {macula-proximity}
   - strongs: H375
-    proximity: 0.8198
+    proximity: 0.8198 {macula-proximity}
   - strongs: A6903
-    proximity: 0.8158
+    proximity: 0.8158 {macula-proximity}
   - strongs: H335
-    proximity: 0.8131
+    proximity: 0.8131 {macula-proximity}
   cross_language:
   - strongs: G3748
-    proximity: 0.8281
+    lemma: ὅστις
+    gloss: which some {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G5123
-    proximity: 0.8279
+    lemma: τουτέστι
+    gloss: that is {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G4314
-    proximity: 0.8231
+    lemma: πρός
+    gloss: a preposition of direction {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
     language: greek
   - strongs: G1355
-    proximity: 0.8218
+    lemma: διόπερ
+    gloss: on which very account {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
     language: greek
   - strongs: G4571
-    proximity: 0.8211
+    lemma: σέ
+    gloss: thee {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

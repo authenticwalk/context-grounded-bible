@@ -6,37 +6,50 @@ pronunciation: aw-sheer'
 definition: rich, whether literal or figurative (noble)
 kjv_usage: rich (man).
 derivation: from H6238 (עָשַׁר);
-extended_definition:
-  gloss: rich
-  definition: adj<br>1) rich, wealthy<br>n<br>2) the rich, the wealthy, rich man
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'adj
+
+  1) rich, wealthy
+
+  n
+
+  2) the rich, the wealthy, rich man {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1432
-    proximity: 0.8274
+    lemma: גָּדֵל
+    gloss: large {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H1431
-    proximity: 0.8227
+    lemma: גָּדַל
+    gloss: to be  large (in various senses {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H4924a
-    proximity: 0.8016
+    proximity: 0.8016 {macula-proximity}
   - strongs: H8082
-    proximity: 0.772
+    lemma: שָׁמֵן
+    gloss: greasy {openscriptures-strongs}
+    proximity: 0.772 {macula-proximity}
   - strongs: H7310
-    proximity: 0.7557
+    lemma: רְוָיָה
+    gloss: satisfaction {openscriptures-strongs}
+    proximity: 0.7557 {macula-proximity}
   - strongs: H4924
-    proximity: 0.7031
+    lemma: מַשְׁמָן
+    gloss: fat {openscriptures-strongs}
+    proximity: 0.7031 {macula-proximity}
   cross_language:
   - strongs: G444
-    proximity: 0.8191
+    proximity: 0.8191 {macula-proximity}
     language: greek
   - strongs: G4149
-    proximity: 0.7902
+    lemma: πλοῦτος
+    gloss: wealth {openscriptures-strongs}
+    proximity: 0.7902 {macula-proximity}
     language: greek
   - strongs: G4096
-    proximity: 0.7085
+    lemma: πιότης
+    gloss: perhaps akin to the alternate of G4095  through the idea of repletion)
+      {openscriptures-strongs}
+    proximity: 0.7085 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

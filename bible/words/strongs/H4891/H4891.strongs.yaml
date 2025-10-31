@@ -6,41 +6,43 @@ pronunciation: mish-khawr'
 definition: dawn
 kjv_usage: morning.
 derivation: from H7836 (שָׁחַר) in the sense of day breaking;
-extended_definition:
-  gloss: dawn
-  definition: dawn
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: dawn {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1886a
-    proximity: 0.8023
+    proximity: 0.8023 {macula-proximity}
   - strongs: H1966
-    proximity: 0.779
+    lemma: הֵילֵל
+    gloss: the morning-star {openscriptures-strongs}
+    proximity: 0.779 {macula-proximity}
   - strongs: H216
-    proximity: 0.7485
+    proximity: 0.7485 {macula-proximity}
   - strongs: H219
-    proximity: 0.7321
+    proximity: 0.7321 {macula-proximity}
   - strongs: A5053
-    proximity: 0.7222
+    proximity: 0.7222 {macula-proximity}
   cross_language:
   - strongs: G2566
-    proximity: 0.8222
+    lemma: καλλίον
+    gloss: better than many {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
     language: greek
   - strongs: G3719
-    proximity: 0.8208
+    lemma: ὀρθρίζω
+    gloss: to use the dawn {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G901
-    proximity: 0.8068
+    proximity: 0.8068 {macula-proximity}
     language: greek
   - strongs: G3721
-    proximity: 0.7935
+    lemma: ὄρθριος
+    gloss: in the dawn {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
     language: greek
   - strongs: G5459
-    proximity: 0.7833
+    lemma: φωσφόρος
+    gloss: light-bearing {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

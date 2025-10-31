@@ -5,47 +5,47 @@ transliteration: gnóphos
 definition: gloom (as of a storm)
 kjv_usage: blackness
 derivation: akin to G3509 (νέφος);
-extended_definition:
-  gloss: darkness
-  definition: '<b>γνόφος</b> (later form of δν-), <BR /> [in LXX for אָפֵל, עֲרָפֶל,
-    etc. ;] <BR /><b>darkness, gloom</b> (including "an element of tempest," Tr.,
-    <i>Syn.</i>, §with): <ref=''Heb.12.18.''>Heb.12:18.</ref>†<BR /> <re><i>SYN.</i>:
-    ἀχλύς, ζόφος, σκότος (Tr., l.with; <i>DB</i>, i, 457a).</re> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> γνόφ-ος</b>, <br /> later form for δνόφος, <b>darkness,</b>
-    [<a href="javascript:void(0)" title=" Chron.Lind. 4th c.BC: Demosthenes Orator
-    28, NT.Heb.12.18, 1st-2nd c.AD: Dio Chrysostomus Sophista 34.37 (_plural_), 2nd
-    c.AD: Lucianus Sophista “Peregr.” 43 ">NT+4th c.BC+</a>]: <i>plural</i>, <b>storm-clouds</b>,
-    [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus “de Mundo”
-    391b12. ">Refs 4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'γνόφος (later form of δν-),
+
+  [in LXX for אָפֵל, עֲרָפֶל, etc. ;]
+
+  darkness, gloom (including "an element of tempest," Tr., Syn., §with): Heb.12:18.†
+
+  SYN.: ἀχλύς, ζόφος, σκότος (Tr., l.with; DB, i, 457a). (AS) {STEPBible-TBESG}'
+etymology: 'γνόφ-ος,
+
+  later form for δνόφος, darkness, [NT+4th c.BC+]: plural, storm-clouds, [Refs 4th
+  c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4654
-    proximity: 0.7686
+    lemma: σκοτίζω
+    gloss: to obscure {openscriptures-strongs}
+    proximity: 0.7686 {macula-proximity}
   - strongs: G4652
-    proximity: 0.7611
+    lemma: σκοτεινός
+    gloss: opaque {openscriptures-strongs}
+    proximity: 0.7611 {macula-proximity}
   cross_language:
   - strongs: H6051
-    proximity: 0.8124
+    lemma: עָנָן
+    gloss: a cloud {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
     language: hebrew
   - strongs: H5687a
-    proximity: 0.8053
+    proximity: 0.8053 {macula-proximity}
     language: hebrew
   - strongs: H651
-    proximity: 0.7976
+    proximity: 0.7976 {macula-proximity}
     language: hebrew
   - strongs: H6757
-    proximity: 0.7975
+    lemma: צַלְמָוֶת
+    gloss: shade of death {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
     language: hebrew
   - strongs: H2821
-    proximity: 0.7952
+    lemma: חָשַׁךְ
+    gloss: to be dark {openscriptures-strongs}
+    proximity: 0.7952 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

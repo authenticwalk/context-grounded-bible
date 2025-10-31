@@ -6,41 +6,52 @@ pronunciation: baw-thar'
 definition: to chop up
 kjv_usage: divide.
 derivation: a primitive root,
-extended_definition:
-  gloss: to cut up
-  definition: 1) to cut in two<br>1a) (Qal) to cut in two<br>1b) (Piel) to cut in
-    two
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to cut in two
+
+  1a) (Qal) to cut in two
+
+  1b) (Piel) to cut in two {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5214
-    proximity: 0.8263
+    lemma: נִיר
+    gloss: to till the soil {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: H8147
-    proximity: 0.8251
+    lemma: שְׁנַיִם
+    gloss: two {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H2686
-    proximity: 0.8157
+    lemma: חָצַץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: H2672a
-    proximity: 0.7448
+    proximity: 0.7448 {macula-proximity}
   - strongs: H1234
-    proximity: 0.7447
+    lemma: בָּקַע
+    gloss: to cleave {openscriptures-strongs}
+    proximity: 0.7447 {macula-proximity}
   - strongs: H1504
-    proximity: 0.7358
+    lemma: גָּזַר
+    gloss: to cut down or off {openscriptures-strongs}
+    proximity: 0.7358 {macula-proximity}
   cross_language:
   - strongs: G4249
-    proximity: 0.8222
+    lemma: πρίζω
+    gloss: to saw in two {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
     language: greek
   - strongs: G673
-    proximity: 0.817
+    proximity: 0.817 {macula-proximity}
     language: greek
   - strongs: G3311
-    proximity: 0.7745
+    lemma: μερισμός
+    gloss: a separation or distribution {openscriptures-strongs}
+    proximity: 0.7745 {macula-proximity}
     language: greek
   - strongs: G1417
-    proximity: 0.7011
+    lemma: δύο
+    gloss: '"two" {openscriptures-strongs}'
+    proximity: 0.7011 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

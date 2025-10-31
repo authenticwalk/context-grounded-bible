@@ -9,40 +9,55 @@ derivation: feminine of H6862 (צַר);
 related_words:
   synonyms:
   - strongs: H7667
-    proximity: 0.8296
+    lemma: שֶׁבֶר
+    gloss: a fracture {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H2256c
-    proximity: 0.8235
+    proximity: 0.8235 {macula-proximity}
   - strongs: H2427
-    proximity: 0.8221
+    lemma: חִיל
+    gloss: a throe {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H4843
-    proximity: 0.8204
+    lemma: מָרַר
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
   - strongs: H6887a
-    proximity: 0.8182
+    proximity: 0.8182 {macula-proximity}
   - strongs: H3511
-    proximity: 0.8141
+    lemma: כְּאֵב
+    gloss: suffering {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: H3906
-    proximity: 0.8066
+    lemma: לַחַץ
+    gloss: distress {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
   - strongs: H2479
-    proximity: 0.8066
+    lemma: חַלְחָלָה
+    gloss: writhing {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
   - strongs: H6089a
-    proximity: 0.8052
+    proximity: 0.8052 {macula-proximity}
   cross_language:
   - strongs: G3804
-    proximity: 0.8197
+    lemma: πάθημα
+    gloss: something undergone {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
     language: greek
   - strongs: G3076
-    proximity: 0.8196
+    lemma: λυπέω
+    gloss: to distress {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
     language: greek
   - strongs: G3601
-    proximity: 0.8137
+    lemma: ὀδύνη
+    gloss: grief {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
     language: greek
   - strongs: G74
-    proximity: 0.8114
+    proximity: 0.8114 {macula-proximity}
     language: greek
   - strongs: G5182a
-    proximity: 0.8088
+    proximity: 0.8088 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

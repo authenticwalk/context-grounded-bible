@@ -7,26 +7,26 @@ definition: bridehood (only in the plural)
 kjv_usage: espousal.
 derivation: denominative passive participle from H3618 (כַּלָּה)lemma כַּלָה missing
   dagesh, corrected to כַּלָּה;
-extended_definition:
-  gloss: betrothal
-  definition: betrothals, espousals
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: betrothals, espousals {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3618
-    proximity: 0.8078
+    lemma: כַּלָּה
+    gloss: a bride {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   - strongs: H2861
-    proximity: 0.7448
+    lemma: חֲתֻנָּה
+    gloss: a wedding {openscriptures-strongs}
+    proximity: 0.7448 {macula-proximity}
   cross_language:
   - strongs: G1062
-    proximity: 0.8078
+    lemma: γάμος
+    gloss: nuptials {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
     language: greek
   - strongs: G3565
-    proximity: 0.7399
+    lemma: νύμφη
+    gloss: compare Latin "nupto {openscriptures-strongs}
+    proximity: 0.7399 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

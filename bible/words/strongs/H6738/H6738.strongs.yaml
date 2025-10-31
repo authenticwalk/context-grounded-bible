@@ -6,36 +6,46 @@ pronunciation: tsale
 definition: shade, whether literal or figurative
 kjv_usage: defence, shade(-ow).
 derivation: from H6751 (צָלַל);
-extended_definition:
-  gloss: shadow
-  definition: '1) shadow, shade<br>1a) shadow (on dial)<br>1b) shadow, shade (as protection)<br>1c)
-    shadow (symbolic of transitoriness of life)<BR>Also means: <i>tse.lel</i> (צֵלֶל
-    "shadow" H6752)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) shadow, shade
+
+  1a) shadow (on dial)
+
+  1b) shadow, shade (as protection)
+
+  1c) shadow (symbolic of transitoriness of life)
+
+  Also means: tse.lel (צֵלֶל "shadow" H6752) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H652
-    proximity: 0.8287
+    proximity: 0.8287 {macula-proximity}
   - strongs: H2793
-    proximity: 0.8275
+    lemma: חֹרֶשׁ
+    gloss: a forest {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H5526
-    proximity: 0.7978
+    lemma: סָכַךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7978 {macula-proximity}
   - strongs: H6754a
-    proximity: 0.7458
+    proximity: 0.7458 {macula-proximity}
   - strongs: H6757
-    proximity: 0.7384
+    lemma: צַלְמָוֶת
+    gloss: shade of death {openscriptures-strongs}
+    proximity: 0.7384 {macula-proximity}
   - strongs: H2653
-    proximity: 0.7253
+    lemma: חׇפַף
+    gloss: to cover {openscriptures-strongs}
+    proximity: 0.7253 {macula-proximity}
   cross_language:
   - strongs: G1982
-    proximity: 0.8062
+    lemma: ἐπισκιάζω
+    gloss: to cast a shade upon {openscriptures-strongs}
+    proximity: 0.8062 {macula-proximity}
     language: greek
   - strongs: G1314
-    proximity: 0.7957
+    lemma: διαφυλάσσω
+    gloss: to guard thoroughly {openscriptures-strongs}
+    proximity: 0.7957 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

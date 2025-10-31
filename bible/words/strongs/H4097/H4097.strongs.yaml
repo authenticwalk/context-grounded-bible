@@ -7,18 +7,15 @@ definition: properly, an investigation, i.e. (by implication) a treatise or elab
   compilation
 kjv_usage: story.
 derivation: from H1875 (דָּרַשׁ);
-extended_definition:
-  gloss: story
-  definition: 1) study, exposition, midrash, record, story<br>1a) writings of a didactic
-    nature<br>1b) midrash-transliteration of the Hebrew word
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) study, exposition, midrash, record, story
+
+  1a) writings of a didactic nature
+
+  1b) midrash-transliteration of the Hebrew word {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4385
-    proximity: 0.7979
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: מִכְתָּב
+    gloss: a thing written {openscriptures-strongs}
+    proximity: 0.7979 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

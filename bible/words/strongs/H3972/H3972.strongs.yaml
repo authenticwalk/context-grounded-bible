@@ -7,39 +7,45 @@ definition: properly, a speck or point, i.e. (by implication) something; with ne
   nothing
 kjv_usage: fault, [phrase] no(-ught), ought, somewhat, any (no-)thing.
 derivation: apparently a form of H3971 (מאוּם);
-extended_definition:
-  gloss: anything
-  definition: anything
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: anything {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8033
-    proximity: 0.8189
+    lemma: שָׁם
+    gloss: there  then {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H657
-    proximity: 0.8151
+    proximity: 0.8151 {macula-proximity}
   - strongs: H4310
-    proximity: 0.8141
+    lemma: מִי
+    gloss: who? (occasionally {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: A606
-    proximity: 0.8119
+    proximity: 0.8119 {macula-proximity}
   cross_language:
   - strongs: G3366
-    proximity: 0.8289
+    lemma: μηδέ
+    gloss: but not {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: greek
   - strongs: G4459
-    proximity: 0.8279
+    lemma: πῶς
+    gloss: an interrogative particle of manner {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G3956
-    proximity: 0.8209
+    lemma: πᾶς
+    gloss: all {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
     language: greek
   - strongs: G3383
-    proximity: 0.8199
+    lemma: μήτε
+    gloss: not too {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
     language: greek
   - strongs: G2252
-    proximity: 0.8188
+    lemma: ἤμην
+    gloss: I was {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

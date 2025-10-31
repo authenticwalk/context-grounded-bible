@@ -5,54 +5,60 @@ transliteration: moichalís
 definition: an adulteress (literally or figuratively)
 kjv_usage: adulteress(-ous, -y)
 derivation: a prolonged form of the feminine of G3432 (μοιχός);
-extended_definition:
-  gloss: adulterous
-  definition: 1. <b>an adulteress </b>, (New Testament):as <i>adjective</i> <b>adulterous
-    </b>, (New Testament) <br>2. as <i>Substantive</i> = μοιχεία, (New Testament)
-    (ML)
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> μοιχ-ᾰλίς</b>, ίδος <br /> (also <i>accusative</i> μοιχαλίν
-    [<a href="javascript:void(0)" title=" LXX.Hos.3.1), ἡ, ={μοιχάς}, NT.Rom.7.3,
-    3rd c.AD: Heliodorus Scriptor Eroticus 8.9, “Catalogus Codicum Astrologorum” 8(1).264,
-    etc.">LXX+NT+3rd c.AD+</a>]; in religious sense, <b>unfaithful to God,</b> [<a
-    href="javascript:void(0)" title="NT.Jam.4.4">NT</a>]: so as <i>adjective</i>,
-    <b>adulterous</b>, γενεά [<a href="javascript:void(0)" title=" NT.Matt.12.39,
-    etc. ">NT</a>]<br /><Level2><b>__II</b></Level2> ={μοιχεία}, [<a href="javascript:void(0)"
-    title=" NT.2Pet.2.14. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: '1. an adulteress , (New Testament):as adjective adulterous ,
+  (New Testament)
+
+  2. as Substantive = μοιχεία, (New Testament) (ML) {STEPBible-TBESG}'
+etymology: 'μοιχ-ᾰλίς, ίδος
+
+  (also accusative μοιχαλίν [LXX+NT+3rd c.AD+]; in religious sense, unfaithful to
+  God, [NT]: so as adjective, adulterous, γενεά [NT]
+
+  __II ={μοιχεία}, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3429
-    proximity: 0.8252
+    lemma: μοιχάω
+    gloss: to commit adultery {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
   - strongs: G3431
-    proximity: 0.8125
+    lemma: μοιχεύω
+    gloss: to commit adultery {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: G4203
-    proximity: 0.7231
+    lemma: πορνεύω
+    gloss: to act the harlot {openscriptures-strongs}
+    proximity: 0.7231 {macula-proximity}
   - strongs: G4204
-    proximity: 0.7211
+    lemma: πόρνη
+    gloss: a strumpet {openscriptures-strongs}
+    proximity: 0.7211 {macula-proximity}
   - strongs: G3430
-    proximity: 0.7088
+    lemma: μοιχεία
+    gloss: adultery {openscriptures-strongs}
+    proximity: 0.7088 {macula-proximity}
   cross_language:
   - strongs: H5237
-    proximity: 0.8095
+    lemma: נׇכְרִי
+    gloss: strange {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
     language: hebrew
   - strongs: H2114b
-    proximity: 0.7911
+    proximity: 0.7911 {macula-proximity}
     language: hebrew
   - strongs: H2184
-    proximity: 0.7498
+    lemma: זְנוּת
+    gloss: adultery {openscriptures-strongs}
+    proximity: 0.7498 {macula-proximity}
     language: hebrew
   - strongs: H2154
-    proximity: 0.749
+    lemma: זִמָּה
+    gloss: a plan {openscriptures-strongs}
+    proximity: 0.749 {macula-proximity}
     language: hebrew
   - strongs: H2185
-    proximity: 0.7205
+    lemma: זֹנוֹת
+    gloss: harlots {openscriptures-strongs}
+    proximity: 0.7205 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

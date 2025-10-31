@@ -6,32 +6,34 @@ pronunciation: yeh'-zah
 definition: sweat, i.e. (by implication) a sweating dress
 kjv_usage: any thing that causeth sweat.
 derivation: from an unused root mean to ooze;
-extended_definition:
-  gloss: sweat
-  definition: sweat, perspiration
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: sweat, perspiration {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A5047
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
   - strongs: H5140
-    proximity: 0.8245
+    lemma: נָזַל
+    gloss: to drip {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H4859
-    proximity: 0.8139
+    lemma: מַשָּׁאָה
+    gloss: a loan {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H6379
-    proximity: 0.8056
+    lemma: פָּכָה
+    gloss: to pour {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H7325a
-    proximity: 0.7778
+    proximity: 0.7778 {macula-proximity}
   cross_language:
   - strongs: G3748
-    proximity: 0.8012
+    lemma: ὅστις
+    gloss: which some {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
     language: greek
   - strongs: G4482
-    proximity: 0.7857
+    lemma: ῥέω
+    gloss: for some tenses of which a prolonged form is used to flow ("run" {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

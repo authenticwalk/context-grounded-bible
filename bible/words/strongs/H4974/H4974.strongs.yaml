@@ -6,45 +6,55 @@ pronunciation: meth-ohm'
 definition: wholesomeness; also (adverb) completely
 kjv_usage: men (by reading H4962 (מַת)), soundness.
 derivation: from H8552 (תָּמַם);
-extended_definition:
-  gloss: soundness
-  definition: soundness, entirety, entire
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: soundness, entirety, entire {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H582
-    proximity: 0.8149
+    proximity: 0.8149 {macula-proximity}
   - strongs: H120
-    proximity: 0.7913
+    proximity: 0.7913 {macula-proximity}
   - strongs: H3632
-    proximity: 0.7845
+    lemma: כָּלִיל
+    gloss: complete {openscriptures-strongs}
+    proximity: 0.7845 {macula-proximity}
   - strongs: H3634
-    proximity: 0.7809
+    lemma: כָּלַל
+    gloss: to complete {openscriptures-strongs}
+    proximity: 0.7809 {macula-proximity}
   - strongs: H8538
-    proximity: 0.7782
+    lemma: תֻּמָּה
+    gloss: innocence {openscriptures-strongs}
+    proximity: 0.7782 {macula-proximity}
   - strongs: H8549
-    proximity: 0.7716
+    lemma: תָּמִים
+    gloss: entire (literally {openscriptures-strongs}
+    proximity: 0.7716 {macula-proximity}
   - strongs: H8003
-    proximity: 0.7508
+    lemma: שָׁלֵם
+    gloss: complete {openscriptures-strongs}
+    proximity: 0.7508 {macula-proximity}
   cross_language:
   - strongs: G2675
-    proximity: 0.8046
+    lemma: καταρτίζω
+    gloss: to complete thoroughly {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
     language: greek
   - strongs: G444
-    proximity: 0.7955
+    proximity: 0.7955 {macula-proximity}
     language: greek
   - strongs: G3650
-    proximity: 0.795
+    lemma: ὅλος
+    gloss: '"whole" or "all" {openscriptures-strongs}'
+    proximity: 0.795 {macula-proximity}
     language: greek
   - strongs: G5047
-    proximity: 0.7787
+    lemma: τελειότης
+    gloss: completeness {openscriptures-strongs}
+    proximity: 0.7787 {macula-proximity}
     language: greek
   - strongs: G3647
-    proximity: 0.765
+    lemma: ὁλοκληρία
+    gloss: integrity {openscriptures-strongs}
+    proximity: 0.765 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

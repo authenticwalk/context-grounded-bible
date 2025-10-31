@@ -7,51 +7,67 @@ definition: properly, a scouring, i.e. soap or perfumery forthe bath; figurative
   a detergent
 kjv_usage: '[idiom] cleanse, (thing for) purification(-fying).'
 derivation: or תַּמְרֻק; or תַּמְרִיק; from H4838 (מָרַק);
-extended_definition:
-  gloss: cosmetic
-  definition: 1) a scraping, rubbing<br>2) (CLBL) remedy (for an injury)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) a scraping, rubbing
+
+  2) (CLBL) remedy (for an injury) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1305
-    proximity: 0.8124
+    lemma: בָּרַר
+    gloss: to clarify {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: H2892
-    proximity: 0.8089
+    lemma: טֹהַר
+    gloss: literally brightness {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: H2135
-    proximity: 0.7966
+    lemma: זָכָה
+    gloss: to be translucent {openscriptures-strongs}
+    proximity: 0.7966 {macula-proximity}
   - strongs: H8235
-    proximity: 0.7934
+    lemma: שִׁפְרָה
+    gloss: brightness {openscriptures-strongs}
+    proximity: 0.7934 {macula-proximity}
   - strongs: A5208
-    proximity: 0.7911
+    proximity: 0.7911 {macula-proximity}
   - strongs: H2889
-    proximity: 0.7652
+    lemma: טָהוֹר
+    gloss: pure (in a physical {openscriptures-strongs}
+    proximity: 0.7652 {macula-proximity}
   - strongs: H2141
-    proximity: 0.7361
+    lemma: זָכַךְ
+    gloss: to be transparent or clean {openscriptures-strongs}
+    proximity: 0.7361 {macula-proximity}
   - strongs: H1740
-    proximity: 0.7338
+    lemma: דּוּחַ
+    gloss: to thrust away {openscriptures-strongs}
+    proximity: 0.7338 {macula-proximity}
   - strongs: H2931
-    proximity: 0.7308
+    lemma: טָמֵא
+    gloss: foul in a religious sense {openscriptures-strongs}
+    proximity: 0.7308 {macula-proximity}
   - strongs: H4935
-    proximity: 0.7235
+    lemma: מִשְׁעִי
+    gloss: inspection {openscriptures-strongs}
+    proximity: 0.7235 {macula-proximity}
   cross_language:
   - strongs: G53
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G2839
-    proximity: 0.8169
+    lemma: κοινός
+    gloss: common {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
     language: greek
   - strongs: G2513
-    proximity: 0.7966
+    lemma: καθαρός
+    gloss: clean {openscriptures-strongs}
+    proximity: 0.7966 {macula-proximity}
     language: greek
   - strongs: G48
-    proximity: 0.7868
+    proximity: 0.7868 {macula-proximity}
     language: greek
   - strongs: G49
-    proximity: 0.7666
+    proximity: 0.7666 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

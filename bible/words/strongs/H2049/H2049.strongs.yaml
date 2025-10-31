@@ -6,49 +6,65 @@ pronunciation: haw-thole'
 definition: a derision
 kjv_usage: mocker.
 derivation: from H2048 (הָתַל) (only in plural collectively);
-extended_definition:
-  gloss: mockery
-  definition: mockery, mocker
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: mockery, mocker {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1421
-    proximity: 0.8284
+    lemma: גִּדּוּף
+    gloss: vilification {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H6711
-    proximity: 0.8248
+    lemma: צָחַק
+    gloss: to laugh outright {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: H8322
-    proximity: 0.8008
+    lemma: שְׁרֵקָה
+    gloss: a derision {openscriptures-strongs}
+    proximity: 0.8008 {macula-proximity}
   - strongs: H6712
-    proximity: 0.7902
+    lemma: צְחֹק
+    gloss: laughter {openscriptures-strongs}
+    proximity: 0.7902 {macula-proximity}
   - strongs: H8595
-    proximity: 0.7887
+    lemma: תַּעְתֻּעַ
+    gloss: a fraud {openscriptures-strongs}
+    proximity: 0.7887 {macula-proximity}
   - strongs: H4890
-    proximity: 0.7653
+    lemma: מִשְׂחַק
+    gloss: a laughing-stock {openscriptures-strongs}
+    proximity: 0.7653 {macula-proximity}
   - strongs: H3933
-    proximity: 0.74
+    lemma: לַעַג
+    gloss: derision {openscriptures-strongs}
+    proximity: 0.74 {macula-proximity}
   - strongs: H3887b
-    proximity: 0.7334
+    proximity: 0.7334 {macula-proximity}
   - strongs: H7046
-    proximity: 0.7257
+    lemma: קָלַס
+    gloss: to disparage {openscriptures-strongs}
+    proximity: 0.7257 {macula-proximity}
   cross_language:
   - strongs: G5512
-    proximity: 0.7969
+    lemma: χλευάζω
+    gloss: to throw out the lip {openscriptures-strongs}
+    proximity: 0.7969 {macula-proximity}
     language: greek
   - strongs: G1701
-    proximity: 0.7947
+    lemma: ἐμπαιγμός
+    gloss: derision {openscriptures-strongs}
+    proximity: 0.7947 {macula-proximity}
     language: greek
   - strongs: G2160
-    proximity: 0.7937
+    lemma: εὐτραπελία
+    gloss: witticism {openscriptures-strongs}
+    proximity: 0.7937 {macula-proximity}
     language: greek
   - strongs: G5512a
-    proximity: 0.7914
+    proximity: 0.7914 {macula-proximity}
     language: greek
   - strongs: G1592
-    proximity: 0.7539
+    lemma: ἐκμυκτηρίζω
+    gloss: to sneer outright at {openscriptures-strongs}
+    proximity: 0.7539 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

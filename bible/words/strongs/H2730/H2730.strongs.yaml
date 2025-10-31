@@ -6,39 +6,47 @@ pronunciation: khaw-rade'
 definition: fearful; also reverential
 kjv_usage: afraid, trembling.
 derivation: from H2729 (חָרַד);
-extended_definition:
-  gloss: trembling
-  definition: trembling, fearful, afraid
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: trembling, fearful, afraid {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8178
-    proximity: 0.8276
+    lemma: שַׂעַר
+    gloss: a tempest {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: H2342a
-    proximity: 0.821
+    proximity: 0.821 {macula-proximity}
   - strongs: H7269
-    proximity: 0.8186
+    lemma: רׇגְזָה
+    gloss: trepidation {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: H7401
-    proximity: 0.8176
+    lemma: רָכַךְ
+    gloss: to soften {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   - strongs: H7493
-    proximity: 0.817
+    lemma: רָעַשׁ
+    gloss: to undulate (as the earth {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: H1481b
-    proximity: 0.8161
+    proximity: 0.8161 {macula-proximity}
   - strongs: H8175
-    proximity: 0.8064
+    lemma: שָׂעַר
+    gloss: to storm {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
   - strongs: H4816
-    proximity: 0.8046
+    lemma: מֹרֶךְ
+    gloss: softness {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
   - strongs: H6345
-    proximity: 0.7884
+    lemma: פַּחְדָּה
+    gloss: alarm {openscriptures-strongs}
+    proximity: 0.7884 {macula-proximity}
   - strongs: H2119a
-    proximity: 0.783
+    proximity: 0.783 {macula-proximity}
   cross_language:
   - strongs: G5401
-    proximity: 0.8142
+    lemma: φόβος
+    gloss: alarm or fright {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

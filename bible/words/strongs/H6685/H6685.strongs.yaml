@@ -6,36 +6,44 @@ pronunciation: tsome
 definition: a fast
 kjv_usage: fast(-ing).
 derivation: or צֹם; from H6684 (צוּם);
-extended_definition:
-  gloss: fast
-  definition: fast, fasting
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: fast, fasting {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8551
-    proximity: 0.7956
+    lemma: תָּמַךְ
+    gloss: to sustain {openscriptures-strongs}
+    proximity: 0.7956 {macula-proximity}
   - strongs: H7031
-    proximity: 0.785
+    lemma: קַל
+    gloss: light {openscriptures-strongs}
+    proximity: 0.785 {macula-proximity}
   - strongs: H3823
-    proximity: 0.7587
+    lemma: לָבַב
+    gloss: transport {openscriptures-strongs}
+    proximity: 0.7587 {macula-proximity}
   - strongs: H1695
-    proximity: 0.7587
+    lemma: דָּבֵק
+    gloss: adhering {openscriptures-strongs}
+    proximity: 0.7587 {macula-proximity}
   cross_language:
   - strongs: G2722
-    proximity: 0.7683
+    lemma: κατέχω
+    gloss: to hold down {openscriptures-strongs}
+    proximity: 0.7683 {macula-proximity}
     language: greek
   - strongs: G2902
-    proximity: 0.7592
+    lemma: κρατέω
+    gloss: to use strength {openscriptures-strongs}
+    proximity: 0.7592 {macula-proximity}
     language: greek
   - strongs: G5032
-    proximity: 0.7448
+    lemma: τάχιον
+    gloss: more swiftly {openscriptures-strongs}
+    proximity: 0.7448 {macula-proximity}
     language: greek
   - strongs: G2043
-    proximity: 0.7325
+    lemma: ἐρείδω
+    gloss: to prop {openscriptures-strongs}
+    proximity: 0.7325 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

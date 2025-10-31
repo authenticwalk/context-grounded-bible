@@ -7,44 +7,55 @@ definition: a departure (from striking the tents), i.e. march (not necessarily a
   day's travel); by implication, a station (or point of departure)
 kjv_usage: journey(-ing).
 derivation: from H5265 (נָסַע);
-extended_definition:
-  gloss: journey
-  definition: 1) a pulling up (of stakes), breaking camp, setting out, journey<br>1a)
-    pulling up, breaking camp<br>1b) setting out<br>1c) station, stage, journey
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) a pulling up (of stakes), breaking camp, setting out, journey
+
+  1a) pulling up, breaking camp
+
+  1b) setting out
+
+  1c) station, stage, journey {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H413
-    proximity: 0.8256
+    proximity: 0.8256 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8222
+    proximity: 0.8222 {macula-proximity}
   - strongs: H1870
-    proximity: 0.8143
+    lemma: דֶּרֶךְ
+    gloss: a road {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
   - strongs: H4794
-    proximity: 0.8075
+    lemma: מְרוּצָה
+    gloss: a race {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
   - strongs: H4480
-    proximity: 0.8014
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
   - strongs: H259
-    proximity: 0.7843
+    proximity: 0.7843 {macula-proximity}
   cross_language:
   - strongs: G575
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G3596
-    proximity: 0.8263
+    lemma: ὁδοιπορέω
+    gloss: to be a wayfarer {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
     language: greek
   - strongs: G5117
-    proximity: 0.8256
+    lemma: τόπος
+    gloss: a spot (general in space {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
     language: greek
   - strongs: G4311
-    proximity: 0.8199
+    lemma: προπέμπω
+    gloss: to send forward {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
     language: greek
   - strongs: G4898
-    proximity: 0.8163
+    lemma: συνέκδημος
+    gloss: a co-absentee from home {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,29 +6,33 @@ pronunciation: maw-shash'
 definition: to feel of; by implication, to grope
 kjv_usage: feel, grope, search.
 derivation: a primitive root;
-extended_definition:
-  gloss: to feel
-  definition: 1) to feel, grope<br>1a) (Qal) to feel, grope<br>1b) (Piel) to feel
-    over or through, grope<br>1b1) to feel through<br>1b2) to grope<br>1c)(Hiphil)
-    to feel
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to feel, grope
+
+  1a) (Qal) to feel, grope
+
+  1b) (Piel) to feel over or through, grope
+
+  1b1) to feel through
+
+  1b2) to grope
+
+  1c)(Hiphil) to feel {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5060
-    proximity: 0.749
+    lemma: נָגַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.749 {macula-proximity}
   cross_language:
   - strongs: G2045a
-    proximity: 0.7693
+    proximity: 0.7693 {macula-proximity}
     language: greek
   - strongs: G2345
-    proximity: 0.7662
+    lemma: θιγγάνω
+    gloss: to manipulate {openscriptures-strongs}
+    proximity: 0.7662 {macula-proximity}
     language: greek
   - strongs: G680
-    proximity: 0.7302
+    proximity: 0.7302 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

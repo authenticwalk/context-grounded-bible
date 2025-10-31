@@ -7,52 +7,77 @@ definition: to burst (literally or figuratively)
 kjv_usage: break (down, off, in pieces, up), broken (-hearted), bring to the birth,
   crush, destroy, hurt, quench, [idiom] quite, tear, view (by mistake for H7663 (שָׂבַר)).
 derivation: a primitive root;
-extended_definition:
-  gloss: to break
-  definition: '1) to break, break in pieces<br>1a) (Qal)<br>1a1) break, break in or
-    down, rend violently, wreck, crush, quench<br>1a2) to break, rupture (fig)<br>1b)
-    (Niphal)<br>1b1) to be broken, be maimed, be crippled, be wrecked<br>1b2) to be
-    broken, be crushed (fig)<br>1c) (Piel) to shatter, break<br>1d) (Hiphil) to cause
-    to break out, bring to the birth<br>1e) (Hophal) to be broken, be shattered<BR>Aramaic
-    equivalent: <i>te.var</i> (תְּבַר "to break" H8406)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to break, break in pieces
+
+  1a) (Qal)
+
+  1a1) break, break in or down, rend violently, wreck, crush, quench
+
+  1a2) to break, rupture (fig)
+
+  1b) (Niphal)
+
+  1b1) to be broken, be maimed, be crippled, be wrecked
+
+  1b2) to be broken, be crushed (fig)
+
+  1c) (Piel) to shatter, break
+
+  1d) (Hiphil) to cause to break out, bring to the birth
+
+  1e) (Hophal) to be broken, be shattered
+
+  Aramaic equivalent: te.var (תְּבַר "to break" H8406) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6789
-    proximity: 0.8294
+    lemma: צָמַת
+    gloss: to extirpate {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: H3615
-    proximity: 0.8274
+    lemma: כָּלָה
+    gloss: to end {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H6565
-    proximity: 0.8242
+    lemma: פָּרַר
+    gloss: to break up {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H10a
-    proximity: 0.8232
+    proximity: 0.8232 {macula-proximity}
   - strongs: H6105b
-    proximity: 0.8229
+    proximity: 0.8229 {macula-proximity}
   - strongs: H1219a
-    proximity: 0.8199
+    proximity: 0.8199 {macula-proximity}
   - strongs: H3510
-    proximity: 0.8181
+    lemma: כָּאַב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
   - strongs: A4223
-    proximity: 0.818
+    proximity: 0.818 {macula-proximity}
   cross_language:
   - strongs: G3588
-    proximity: 0.8279
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G1498
-    proximity: 0.8235
+    lemma: εἴην
+    gloss: might (could {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: greek
   - strongs: G5254
-    proximity: 0.8233
+    lemma: ὑπέχω
+    gloss: to hold oneself under {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
     language: greek
   - strongs: G4881
-    proximity: 0.8225
+    lemma: συναπόλλυμι
+    gloss: to destroy (middle voice or passively {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
   - strongs: G2704
-    proximity: 0.8211
+    lemma: καταφθείρω
+    gloss: to spoil entirely {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

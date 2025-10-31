@@ -6,42 +6,42 @@ pronunciation: meh'-lakh
 definition: properly, powder, i.e. (specifically) salt (as easily pulverized and dissolved)
 kjv_usage: salt(-pit).
 derivation: from H4414 (מָלַח);
-extended_definition:
-  gloss: salt
-  definition: salt
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: salt {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6731a
-    proximity: 0.8097
+    proximity: 0.8097 {macula-proximity}
   - strongs: A3221
-    proximity: 0.7871
+    proximity: 0.7871 {macula-proximity}
   - strongs: H4414a
-    proximity: 0.743
+    proximity: 0.743 {macula-proximity}
   - strongs: H1516c
-    proximity: 0.73
+    proximity: 0.73 {macula-proximity}
   - strongs: H4379
-    proximity: 0.7105
+    lemma: מִכְרֶה
+    gloss: a pit {openscriptures-strongs}
+    proximity: 0.7105 {macula-proximity}
   - strongs: A4416
-    proximity: 0.7062
+    proximity: 0.7062 {macula-proximity}
   - strongs: H2548
-    proximity: 0.7053
+    lemma: חָמִיץ
+    gloss: seasoned {openscriptures-strongs}
+    proximity: 0.7053 {macula-proximity}
   cross_language:
   - strongs: G252
-    proximity: 0.7922
+    proximity: 0.7922 {macula-proximity}
     language: greek
   - strongs: G2281
-    proximity: 0.7597
+    lemma: θάλασσα
+    gloss: the sea {openscriptures-strongs}
+    proximity: 0.7597 {macula-proximity}
     language: greek
   - strongs: G233
-    proximity: 0.737
+    proximity: 0.737 {macula-proximity}
     language: greek
   - strongs: G3498
-    proximity: 0.735
+    lemma: νεκρός
+    gloss: dead (literally or figuratively {openscriptures-strongs}
+    proximity: 0.735 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

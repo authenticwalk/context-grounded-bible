@@ -6,38 +6,45 @@ pronunciation: ghil-bo'-ah
 definition: Gilboa, a mountain of Palestine
 kjv_usage: Gilboa.
 derivation: from H1530 (גַּל) and H1158 (בָּעָה); fountain of ebullition;
-extended_definition:
-  gloss: (Mount) Gilboa
-  definition: 'Gilboa = "swollen heap"<br> a mountain-ridge at the southeastern end
-    of the plain of Jezreel, site of the death of Saul and Jonathan<BR>Also named:
-    <i>gil.ad</i> (גִּלְעָד "(Mount )Gilead" H1568K)'
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: 'Gilboa = "swollen heap"
+
+  a mountain-ridge at the southeastern end of the plain of Jezreel, site of the death
+  of Saul and Jonathan
+
+  Also named: gil.ad (גִּלְעָד "(Mount )Gilead" H1568K) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H89
-    proximity: 0.8218
+    proximity: 0.8218 {macula-proximity}
   - strongs: H1520
-    proximity: 0.8204
+    lemma: גִּיחַ
+    gloss: Giach {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
   - strongs: H7055
-    proximity: 0.8199
+    lemma: קְמוּאֵל
+    gloss: Kemuel {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H1437
-    proximity: 0.8183
+    lemma: גִּדַּלְתִּי
+    gloss: Giddalti {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   cross_language:
   - strongs: G4949
-    proximity: 0.8299
+    lemma: Συροφοίνισσα
+    gloss: a Syro-phœnician woman {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G2791
-    proximity: 0.8243
+    lemma: Κιλικία
+    gloss: Cilicia {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: greek
   - strongs: G4484
-    proximity: 0.8217
+    lemma: Ῥήγιον
+    gloss: Rhegium {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
     language: greek
   - strongs: G751
-    proximity: 0.8135
+    proximity: 0.8135 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

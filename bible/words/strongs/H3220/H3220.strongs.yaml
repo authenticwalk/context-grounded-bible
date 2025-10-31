@@ -8,46 +8,57 @@ definition: a sea (as breaking in noisy surf) or large body of water; specifical
   basin; locally, the west, or (rarely) the south
 kjv_usage: sea ([idiom] -faring man, (-shore)), south, west (-ern, side, -ward).
 derivation: from an unused root meaning to roar;
-extended_definition:
-  gloss: (Mt. Ephron in the) West
-  definition: This name means  sea, seaward, westward<BR>Another name of <i>eph.ron</i>
-    (עֶפְרוֹן "(Mount )Ephron" H6085H)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'This name means  sea, seaward, westward
+
+  Another name of eph.ron (עֶפְרוֹן "(Mount )Ephron" H6085H) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1886c
-    proximity: 0.8291
+    proximity: 0.8291 {macula-proximity}
   - strongs: H7172
-    proximity: 0.8246
+    lemma: קַרְקַע
+    gloss: floor {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: H6828
-    proximity: 0.823
+    lemma: צָפוֹן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: H1366
-    proximity: 0.8188
+    lemma: גְּבוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
   - strongs: H6285
-    proximity: 0.8183
+    lemma: פֵּאָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: H5045
-    proximity: 0.8083
+    lemma: נֶגֶב
+    gloss: the south {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
   - strongs: A1b
-    proximity: 0.7879
+    proximity: 0.7879 {macula-proximity}
   cross_language:
   - strongs: G3520
-    proximity: 0.8278
+    lemma: νῆσος
+    gloss: an island {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G1829
-    proximity: 0.8116
+    lemma: ἐξέραμα
+    gloss: vomit {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
     language: greek
   - strongs: G2830
-    proximity: 0.8033
+    lemma: κλύδων
+    gloss: a surge of the sea {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
     language: greek
   - strongs: G2785
-    proximity: 0.7999
+    lemma: κῆτος
+    gloss: a huge fish {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
     language: greek
   - strongs: G123
-    proximity: 0.7978
+    proximity: 0.7978 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

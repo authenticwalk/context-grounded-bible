@@ -6,32 +6,36 @@ pronunciation: khawm
 definition: hot
 kjv_usage: hot, warm.
 derivation: from H2552 (חָמַם);
-extended_definition:
-  gloss: hot
-  definition: hot, warm
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: hot, warm {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7835
-    proximity: 0.8278
+    lemma: שָׁחַר
+    gloss: to be dim or dark {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H2152
-    proximity: 0.7666
+    lemma: זַלְעָפָה
+    gloss: a glow {openscriptures-strongs}
+    proximity: 0.7666 {macula-proximity}
   - strongs: H2527
-    proximity: 0.7609
+    lemma: חֹם
+    gloss: heat {openscriptures-strongs}
+    proximity: 0.7609 {macula-proximity}
   - strongs: A228
-    proximity: 0.7567
+    proximity: 0.7567 {macula-proximity}
   - strongs: H3648
-    proximity: 0.7214
+    lemma: כָּמַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7214 {macula-proximity}
   cross_language:
   - strongs: G2742
-    proximity: 0.8211
+    lemma: καύσων
+    gloss: a glare {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
     language: greek
   - strongs: G2328
-    proximity: 0.7455
+    lemma: θερμαίνω
+    gloss: to heat {openscriptures-strongs}
+    proximity: 0.7455 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

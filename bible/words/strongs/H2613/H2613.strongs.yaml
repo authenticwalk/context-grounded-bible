@@ -6,45 +6,53 @@ pronunciation: khan-oo-faw'
 definition: impiety
 kjv_usage: profaneness.
 derivation: feminine from H2610 (חָנֵף);
-extended_definition:
-  gloss: profaneness
-  definition: profaneness, pollution, hypocrisy, godlessness
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: profaneness, pollution, hypocrisy, godlessness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7451
-    proximity: 0.8268
+    lemma: רַע
+    gloss: bad or  evil {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: H5766a
-    proximity: 0.8232
+    proximity: 0.8232 {macula-proximity}
   - strongs: H2490
-    proximity: 0.8184
+    lemma: חָלַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   - strongs: H2149
-    proximity: 0.8114
+    lemma: זֻלּוּת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
   - strongs: H2610
-    proximity: 0.791
+    lemma: חָנֵף
+    gloss: to soil {openscriptures-strongs}
+    proximity: 0.791 {macula-proximity}
   - strongs: H8371
-    proximity: 0.7907
+    lemma: שָׁתַת
+    gloss: to place {openscriptures-strongs}
+    proximity: 0.7907 {macula-proximity}
   - strongs: H5007a
-    proximity: 0.7838
+    proximity: 0.7838 {macula-proximity}
   cross_language:
   - strongs: G2556
-    proximity: 0.8186
+    lemma: κακός
+    gloss: worthless (intrinsically {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
     language: greek
   - strongs: G2153
-    proximity: 0.8178
+    lemma: εὐσεβῶς
+    gloss: piously {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
     language: greek
   - strongs: G989
-    proximity: 0.8166
+    proximity: 0.8166 {macula-proximity}
     language: greek
   - strongs: G987
-    proximity: 0.8069
+    proximity: 0.8069 {macula-proximity}
     language: greek
   - strongs: G2549
-    proximity: 0.8043
+    lemma: κακία
+    gloss: badness {openscriptures-strongs}
+    proximity: 0.8043 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

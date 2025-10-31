@@ -6,49 +6,59 @@ pronunciation: kho'-ser
 definition: poverty
 kjv_usage: in want of.
 derivation: from H2637 (חָסֵר);
-extended_definition:
-  gloss: lack
-  definition: want, lack, want of, lack of
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: want, lack, want of, lack of {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A2627
-    proximity: 0.8277
+    proximity: 0.8277 {macula-proximity}
   - strongs: H950
-    proximity: 0.8227
+    proximity: 0.8227 {macula-proximity}
   - strongs: H3426
-    proximity: 0.8194
+    lemma: יֵשׁ
+    gloss: there is or are (or any other form of the verb to be {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H5533b
-    proximity: 0.8149
+    proximity: 0.8149 {macula-proximity}
   - strongs: H4003
-    proximity: 0.8148
+    lemma: מְבוּקָה
+    gloss: emptiness {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: H1077
-    proximity: 0.8074
+    lemma: בַּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8074 {macula-proximity}
   - strongs: A2818
-    proximity: 0.8024
+    proximity: 0.8024 {macula-proximity}
   - strongs: H657
-    proximity: 0.7988
+    proximity: 0.7988 {macula-proximity}
   - strongs: H3019
-    proximity: 0.7737
+    lemma: יָגִיעַ
+    gloss: tired {openscriptures-strongs}
+    proximity: 0.7737 {macula-proximity}
   cross_language:
   - strongs: G2076
-    proximity: 0.8212
+    lemma: ἐστί
+    gloss: he  is {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
     language: greek
   - strongs: G3367
-    proximity: 0.8194
+    lemma: μηδείς
+    gloss: not even one (man {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G5225
-    proximity: 0.8152
+    lemma: ὑπάρχω
+    gloss: to begin under {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
     language: greek
   - strongs: G5535
-    proximity: 0.7984
+    lemma: χρῄζω
+    gloss: to make  necessity {openscriptures-strongs}
+    proximity: 0.7984 {macula-proximity}
     language: greek
   - strongs: G3756
-    proximity: 0.7961
+    lemma: οὐ
+    gloss: the absolute negative ) adverb {openscriptures-strongs}
+    proximity: 0.7961 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

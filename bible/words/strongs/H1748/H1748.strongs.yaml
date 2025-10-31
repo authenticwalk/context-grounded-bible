@@ -6,47 +6,65 @@ pronunciation: doo-mawm'
 definition: still; adverbially, silently
 kjv_usage: dumb, silent, quietly wait.
 derivation: from H1826 (דָּמַם);
-extended_definition:
-  gloss: silence
-  definition: 1) silence<br>adv<br>2) in silence, silently
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) silence
+
+  adv
+
+  2) in silence, silently {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2198
-    proximity: 0.8275
+    lemma: זָעֵף
+    gloss: angry {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H4832a
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
   - strongs: H7282
-    proximity: 0.8076
+    lemma: רָגֵעַ
+    gloss: restful {openscriptures-strongs}
+    proximity: 0.8076 {macula-proximity}
   - strongs: H6960
-    proximity: 0.8011
+    lemma: קָוָה
+    gloss: to bind together {openscriptures-strongs}
+    proximity: 0.8011 {macula-proximity}
   - strongs: H1745
-    proximity: 0.7921
+    lemma: דּוּמָה
+    gloss: silence {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
   - strongs: H2442
-    proximity: 0.7846
+    lemma: חָכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7846 {macula-proximity}
   - strongs: H8252
-    proximity: 0.7808
+    lemma: שָׁקַט
+    gloss: to repose {openscriptures-strongs}
+    proximity: 0.7808 {macula-proximity}
   - strongs: H2013
-    proximity: 0.7682
+    lemma: הָסָה
+    gloss: to hush {openscriptures-strongs}
+    proximity: 0.7682 {macula-proximity}
   cross_language:
   - strongs: G1722
-    proximity: 0.819
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.819 {macula-proximity}
     language: greek
   - strongs: G553
-    proximity: 0.8136
+    proximity: 0.8136 {macula-proximity}
     language: greek
   - strongs: G4328
-    proximity: 0.7926
+    lemma: προσδοκάω
+    gloss: to anticipate (in thought {openscriptures-strongs}
+    proximity: 0.7926 {macula-proximity}
     language: greek
   - strongs: G1551
-    proximity: 0.7852
+    lemma: ἐκδέχομαι
+    gloss: to accept from some source {openscriptures-strongs}
+    proximity: 0.7852 {macula-proximity}
     language: greek
   - strongs: G2272
-    proximity: 0.7799
+    lemma: ἡσύχιος
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7799 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

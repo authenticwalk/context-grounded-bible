@@ -5,53 +5,49 @@ transliteration: kraugḗ
 definition: an outcry (in notification, tumult or grief)
 kjv_usage: clamour, cry(-ing)
 derivation: from G2896 (κράζω);
-extended_definition:
-  gloss: shouting
-  definition: '<b>κραυγή</b>, -ῆς, ἡ <BR /> [in LXX for צְוָחָה, תְּרוּעָה, שַׁוְעָה,
-    etc. ;] <BR /><b>crying, outcry, clamour</b>: <ref=''Mat.25.6''>Mat.25:6</ref>,
-    <ref=''Luk.1.42''>Luk.1:42</ref>, <ref=''Act.23.9''>Act.23:9</ref>, <ref=''Eph.4.31''>Eph.4:31</ref>,
-    <ref=''Heb.5.7''>Heb.5:7</ref>, <ref=''Rev.21.4''>Rev.21:4</ref>.†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κραυγ-ή</b>, ἡ, <br /> <b>crying, screaming, shouting</b>,
-    τίς ἥδε κ.; [<a href="javascript:void(0)" title=" 5th c.BC: Teleclides Comicus
-    35; κραυγὴν θεῖναι, στῆσαι, 5th c.BC: Euripides Tragicus “Or.” 1510, 1529; ποιεῖν
-    Xenophon Historicus [{5-6th c.BC}] “Institutio Cyri (Cyropaedia)” 3.1.4; κραυγῇ
-    χρῆσθαι 5th c.BC: Thucydides Historicus 2.4; κ. γίγνεται 5th c.BC: Lysias Orator
-    13.71 ">Refs 6th c.BC+</a>]; rarely of a <b>shout of joy,</b> [<a href="javascript:void(0)"
-    title=" PPetr. 3p.334 (3rd c.BC), NT.Luke.1.42: in _plural_, 4th c.BC: Aeschines
-    Orator 1.34, 2nd c.AD: Vettius Valens Astrologus 2.35; κραυγὴ Καλλιόπης, as an
-    instance of bad taste, cited from. 5th c.BC: Dionysius Chalcus Elegiacus (7) by
-    4th c.BC: Aristoteles Philosophus “Rh.” 1405a33. ">NT+5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κραυγή, -ῆς, ἡ
+
+  [in LXX for צְוָחָה, תְּרוּעָה, שַׁוְעָה, etc. ;]
+
+  crying, outcry, clamour: Mat.25:6, Luk.1:42, Act.23:9, Eph.4:31, Heb.5:7, Rev.21:4.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κραυγ-ή, ἡ,
+
+  crying, screaming, shouting, τίς ἥδε κ.; [Refs 6th c.BC+]; rarely of a shout of
+  joy, [NT+5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G994
-    proximity: 0.824
+    proximity: 0.824 {macula-proximity}
   - strongs: G2354
-    proximity: 0.8144
+    lemma: θρηνέω
+    gloss: to bewail {openscriptures-strongs}
+    proximity: 0.8144 {macula-proximity}
   - strongs: G310
-    proximity: 0.8131
+    proximity: 0.8131 {macula-proximity}
   cross_language:
   - strongs: H7482
-    proximity: 0.8285
+    lemma: רַעַם
+    gloss: a peal of thunder {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: hebrew
   - strongs: H6463
-    proximity: 0.822
+    lemma: פָּעָה
+    gloss: to scream {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
     language: hebrew
   - strongs: H6031b
-    proximity: 0.8185
+    proximity: 0.8185 {macula-proximity}
     language: hebrew
   - strongs: H1419
-    proximity: 0.8171
+    lemma: גָּדוֹל
+    gloss: great {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
     language: hebrew
   - strongs: H2199
-    proximity: 0.8144
+    lemma: זָעַק
+    gloss: to shriek {openscriptures-strongs}
+    proximity: 0.8144 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

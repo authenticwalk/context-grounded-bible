@@ -6,45 +6,61 @@ pronunciation: shakh'-ar
 definition: dawn (literal, figurative or adverbial)
 kjv_usage: day(-spring), early, light, morning, whence riseth.
 derivation: from H7836 (שָׁחַר);
-extended_definition:
-  gloss: dawn
-  definition: 1) dawn<br>1a) dawn<br>1b) at dawn (as adverb)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) dawn
+
+  1a) dawn
+
+  1b) at dawn (as adverb) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2224
-    proximity: 0.8279
+    lemma: זָרַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: H4283
-    proximity: 0.8253
+    lemma: מׇחֳרָת
+    gloss: the morrow or  tomorrow {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.8141
+    proximity: 0.8141 {macula-proximity}
   - strongs: H5050
-    proximity: 0.7976
+    lemma: נָגַהּ
+    gloss: to glitter {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: H1966
-    proximity: 0.7923
+    lemma: הֵילֵל
+    gloss: the morning-star {openscriptures-strongs}
+    proximity: 0.7923 {macula-proximity}
   - strongs: H3117
-    proximity: 0.7894
+    lemma: יוֹם
+    gloss: a day {openscriptures-strongs}
+    proximity: 0.7894 {macula-proximity}
   - strongs: H8121
-    proximity: 0.7482
+    lemma: שֶׁמֶשׁ
+    gloss: the sun {openscriptures-strongs}
+    proximity: 0.7482 {macula-proximity}
   cross_language:
   - strongs: G4594
-    proximity: 0.8234
+    lemma: σήμερον
+    gloss: on the  day {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
     language: greek
   - strongs: G3721
-    proximity: 0.8223
+    lemma: ὄρθριος
+    gloss: in the dawn {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G839
-    proximity: 0.8208
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G2246
-    proximity: 0.798
+    lemma: ἥλιος
+    gloss: perhaps akin to the alternate of G138 ) {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
     language: greek
   - strongs: G5460
-    proximity: 0.7889
+    lemma: φωτεινός
+    gloss: lustrous {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

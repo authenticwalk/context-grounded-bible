@@ -8,51 +8,69 @@ definition: to treat a person (well or ill), i.e. benefit or requite; by implica
 kjv_usage: bestow on, deal bountifully, do (good), recompense, requite, reward, ripen,
   [phrase] serve, mean, yield.
 derivation: a primitive root;
-extended_definition:
-  gloss: to wean
-  definition: 1) to deal fully with, recompense<br>1a) (Qal)<br>1a1) to deal out to,
-    do to<br>1a2) to deal bountifully with<br>1a3) to recompense, repay, requite<br>2)
-    (Qal) to wean a child (Niphal) to be weaned<br>3) (Qal) to ripen, bear ripe (almonds)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to deal fully with, recompense
+
+  1a) (Qal)
+
+  1a1) to deal out to, do to
+
+  1a2) to deal bountifully with
+
+  1a3) to recompense, repay, requite
+
+  2) (Qal) to wean a child (Niphal) to be weaned
+
+  3) (Qal) to ripen, bear ripe (almonds) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3807a
-    proximity: 0.8297
+    proximity: 0.8297 {macula-proximity}
   - strongs: H7489
-    proximity: 0.8249
+    lemma: רָעַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
   - strongs: H854
-    proximity: 0.81
+    proximity: 0.81 {macula-proximity}
   - strongs: H3190
-    proximity: 0.7987
+    lemma: יָטַב
+    gloss: to be  make well {openscriptures-strongs}
+    proximity: 0.7987 {macula-proximity}
   - strongs: H5973
-    proximity: 0.7911
+    lemma: עִם
+    gloss: adverb or preposition {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
   - strongs: H2896b
-    proximity: 0.7871
+    proximity: 0.7871 {macula-proximity}
   - strongs: H8011
-    proximity: 0.7824
+    lemma: שִׁלֻּמָה
+    gloss: retribution {openscriptures-strongs}
+    proximity: 0.7824 {macula-proximity}
   - strongs: H1578
-    proximity: 0.7632
+    lemma: גְּמוּלָה
+    gloss: meaning the same {openscriptures-strongs}
+    proximity: 0.7632 {macula-proximity}
   - strongs: H2896
-    proximity: 0.7627
+    lemma: טוֹב
+    gloss: good  in the widest sense {openscriptures-strongs}
+    proximity: 0.7627 {macula-proximity}
   cross_language:
   - strongs: G5530
-    proximity: 0.8296
+    lemma: χράομαι
+    gloss: to furnish what is needed {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G611
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G469
-    proximity: 0.8244
+    proximity: 0.8244 {macula-proximity}
     language: greek
   - strongs: G3356
-    proximity: 0.8168
+    lemma: μετριοπαθέω
+    gloss: to be moderate in passion {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
     language: greek
   - strongs: G287
-    proximity: 0.7754
+    proximity: 0.7754 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

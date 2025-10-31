@@ -7,28 +7,27 @@ definition: Atroth-Shophan, a place in Palestine
 kjv_usage: Atroth, Shophan (as if two places).
 derivation: from the same as H5852 (עֲטָרוֹת) and a name otherwise unused (being from
   the same as H8226 (שָׂפַן)) meaning hidden; crowns of Shophan;
-extended_definition:
-  gloss: Atroth-shophan
-  definition: <BR> § Atroth-shophan = "crowns of their rapine"<br> a town in the territory
-    of Gad<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Atroth-shophan = "crowns of their rapine"
+
+  a town in the territory of Gad {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H333
-    proximity: 0.8033
+    proximity: 0.8033 {macula-proximity}
   - strongs: H6252
-    proximity: 0.7967
+    lemma: עַשְׁתָּרוֹת
+    gloss: Ashtaroth {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
   - strongs: H5852
-    proximity: 0.78
+    lemma: עֲטָרוֹת
+    gloss: Ataroth {openscriptures-strongs}
+    proximity: 0.78 {macula-proximity}
   - strongs: H5853
-    proximity: 0.7792
+    lemma: עַטְרוֹת אַדָּר
+    gloss: Atroth-Addar {openscriptures-strongs}
+    proximity: 0.7792 {macula-proximity}
   cross_language:
   - strongs: G789
-    proximity: 0.8288
+    proximity: 0.8288 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

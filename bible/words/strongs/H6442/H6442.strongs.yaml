@@ -6,39 +6,49 @@ pronunciation: pen-ee-mee'
 definition: interior
 kjv_usage: (with-) in(-ner, -ward).
 derivation: from H6440 (פָּנִים);
-extended_definition:
-  gloss: inner
-  definition: inner
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: inner {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7130
-    proximity: 0.822
+    lemma: קֶרֶב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
   - strongs: H2691
-    proximity: 0.8216
+    lemma: חָצֵר
+    gloss: a yard {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   - strongs: H6877
-    proximity: 0.8209
+    lemma: צְרִיחַ
+    gloss: a citadel {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: H8432
-    proximity: 0.8089
+    lemma: תָּוֶךְ
+    gloss: a bisection {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: A5085
-    proximity: 0.7852
+    proximity: 0.7852 {macula-proximity}
   - strongs: H1004
-    proximity: 0.7765
+    lemma: בַּיִת
+    gloss: a house (in the greatest variation of applications {openscriptures-strongs}
+    proximity: 0.7765 {macula-proximity}
   - strongs: H3411
-    proximity: 0.7219
+    lemma: יְרֵכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7219 {macula-proximity}
   cross_language:
   - strongs: G1787
-    proximity: 0.8273
+    lemma: ἐντός
+    gloss: inside {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G1751
-    proximity: 0.7903
+    lemma: ἔνειμι
+    gloss: to be within {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
     language: greek
   - strongs: G2081
-    proximity: 0.7012
+    lemma: ἔσωθεν
+    gloss: from inside {openscriptures-strongs}
+    proximity: 0.7012 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

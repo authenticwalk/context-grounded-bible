@@ -7,39 +7,55 @@ definition: a tower (from its size or height); by analogy, a rostrum; figurative
   a (pyramidal) bed of flowers
 kjv_usage: castle, flower, tower. Compare the names following.
 derivation: also (in plural) feminine מִגְדָּלָה; from H1431 (גָּדַל);
-extended_definition:
-  gloss: tower
-  definition: 1) tower<br>1a) tower<br>1b) elevated stage, pulpit<br>1c) raised bed
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) tower
+
+  1a) tower
+
+  1b) elevated stage, pulpit
+
+  1c) raised bed {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4581
-    proximity: 0.8297
+    lemma: מָעוֹז
+    gloss: a fortified place {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: H1225
-    proximity: 0.8158
+    lemma: בִּצָּרוֹן
+    gloss: a fortress {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: H1364
-    proximity: 0.815
+    lemma: גָּבֹהַּ
+    gloss: elevated {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: H1003
-    proximity: 0.8111
+    lemma: בִּירָנִית
+    gloss: a fortress {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: H4686a
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
   - strongs: H1362
-    proximity: 0.802
+    lemma: גָּבָהּ
+    gloss: lofty {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
   - strongs: H6822
-    proximity: 0.7981
+    lemma: צָפָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
   - strongs: H4013
-    proximity: 0.7952
+    lemma: מִבְצָר
+    gloss: a fortification {openscriptures-strongs}
+    proximity: 0.7952 {macula-proximity}
   - strongs: H4024a
-    proximity: 0.7889
+    proximity: 0.7889 {macula-proximity}
   - strongs: H5944
-    proximity: 0.7797
+    lemma: עֲלִיָּה
+    gloss: something lofty {openscriptures-strongs}
+    proximity: 0.7797 {macula-proximity}
   cross_language:
   - strongs: G3794
-    proximity: 0.8014
+    lemma: ὀχύρωμα
+    gloss: a castle (figuratively {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

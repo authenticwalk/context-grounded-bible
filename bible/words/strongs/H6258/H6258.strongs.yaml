@@ -6,41 +6,47 @@ pronunciation: at-taw'
 definition: at this time, whether adverb, conjunction or expletive
 kjv_usage: henceforth, now, straightway, this time, whereas.
 derivation: from H6256 (עֵת);
-extended_definition:
-  gloss: now
-  definition: 1) now<br>1a) now<br>1b) in phrases
-  morphology: H:Adv
-  source: STEPBible/BDB
+extended_definition: '1) now
+
+  1a) now
+
+  1b) in phrases {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1836
-    proximity: 0.8265
+    proximity: 0.8265 {macula-proximity}
   - strongs: H5921
-    proximity: 0.8245
+    lemma: עַל
+    gloss: above {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: A871b
-    proximity: 0.8244
+    proximity: 0.8244 {macula-proximity}
   - strongs: A311
-    proximity: 0.8169
+    proximity: 0.8169 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.7991
+    proximity: 0.7991 {macula-proximity}
   cross_language:
   - strongs: G2443
-    proximity: 0.8285
+    lemma: ἵνα
+    gloss: compare G3588 ) {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G5025
-    proximity: 0.8201
+    lemma: ταύταις
+    gloss: (to or with or by {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G575
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G3916
-    proximity: 0.8182
+    lemma: παραχρῆμα
+    gloss: at the thing itself {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: greek
   - strongs: G1360
-    proximity: 0.8157
+    lemma: διότι
+    gloss: on the very account that {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

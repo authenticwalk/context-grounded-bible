@@ -6,39 +6,45 @@ pronunciation: yif-aw'
 definition: splendor or (figuratively) beauty
 kjv_usage: brightness.
 derivation: from H3313 (יָפַע);
-extended_definition:
-  gloss: splendor
-  definition: splendour, brightness, shining
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: splendour, brightness, shining {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H216
-    proximity: 0.8249
+    proximity: 0.8249 {macula-proximity}
   - strongs: H7613
-    proximity: 0.8241
+    lemma: שְׂאֵת
+    gloss: an elevation or leprous scab {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H1347
-    proximity: 0.8197
+    lemma: גָּאוֹן
+    gloss: '{arrogance or majesty {openscriptures-strongs}'
+    proximity: 0.8197 {macula-proximity}
   - strongs: H3366
-    proximity: 0.8069
+    lemma: יְקָר
+    gloss: value {openscriptures-strongs}
+    proximity: 0.8069 {macula-proximity}
   - strongs: H5051
-    proximity: 0.7776
+    lemma: נֹגַהּ
+    gloss: brilliancy {openscriptures-strongs}
+    proximity: 0.7776 {macula-proximity}
   - strongs: A3367
-    proximity: 0.7751
+    proximity: 0.7751 {macula-proximity}
   - strongs: A1923
-    proximity: 0.7694
+    proximity: 0.7694 {macula-proximity}
   - strongs: H6643
-    proximity: 0.7446
+    lemma: צְבִי
+    gloss: splendor {openscriptures-strongs}
+    proximity: 0.7446 {macula-proximity}
   - strongs: H219
-    proximity: 0.7373
+    proximity: 0.7373 {macula-proximity}
   - strongs: H1926
-    proximity: 0.7045
+    lemma: הָדָר
+    gloss: magnificence {openscriptures-strongs}
+    proximity: 0.7045 {macula-proximity}
   cross_language:
   - strongs: G1392
-    proximity: 0.8022
+    lemma: δοξάζω
+    gloss: to render  glorious {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

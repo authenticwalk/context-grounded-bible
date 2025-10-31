@@ -5,60 +5,66 @@ transliteration: kainótēs
 definition: renewal (figuratively)
 kjv_usage: newness
 derivation: from G2537 (καινός);
-extended_definition:
-  gloss: newness
-  definition: '<b>καινότης</b>, -ητος, ἡ<BR /> (καινός), [in LXX: <ref=''3Ki.8.53''>3Ki.8:53</ref>,
-    <ref=''Ezk.47.12''>Eze.47:12</ref> * ;] <BR />__1. novelty (Thuc., Isocr., LS,
-    see word). <BR /> __2. <b>freshness, newness</b>: ἐν κ. ζωῆς (see Lft., <i>Notes</i>,
-    296), <ref=''Rom.6.4''>Rom.6:4;</ref> ἐν κ. πνεύματος, <ref=''Rom.7.6.''>Rom.7:6.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> καινότης</b>, ητος, ἡ, <br /> <b>newness, freshness</b>, [<a
-    href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus
-    “Pericles” 13; αἱ τῶν δερμάτων -τητες 2nd-3rd c.AD: Philostratus Sophista “Epistulae”
-    18. ">Refs 1st c.AD+</a>]<br /><Level3><b>__2</b></Level3> <b>novelty</b>, λόγου
-    [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 3.38; τῶν
-    εὑρημένων 5th-6th c.BC: Isocrates Orator 10.2; Χρὴ γὰρ εἰς ὄχλον φέρειν.. ὅσ᾽
-    ἄν τις καινότητ᾽ ἔχειν δοκῇ 4th c.BC: Anaxandrides Comicus 54.6 ">Refs 5th c.BC+</a>];
-    ἡ ἐν τοῖς σχηματισμοῖς κ. [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius
-    Halicarnassensis “Amm.” 2.3: _plural_, καινότητες">Refs 1st c.BC+</a>] <b>novelties</b>,
-    [<a href="javascript:void(0)" title=" 5th-6th c.BC: Isocrates Orator 2.41; αἱ
-    κ. καὶ αἱ ὑπερβολαὶ τῶν τιμῶν 2nd-3rd c.AD: Dio Cassius Historicus 44.3. ">Refs
-    5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'καινότης, -ητος, ἡ
+
+  (καινός), [in LXX: 3Ki.8:53, Eze.47:12 * ;]
+
+  __1. novelty (Thuc., Isocr., LS, see word).
+
+  __2. freshness, newness: ἐν κ. ζωῆς (see Lft., Notes, 296), Rom.6:4; ἐν κ. πνεύματος,
+  Rom.7:6.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'καινότης, ητος, ἡ,
+
+  newness, freshness, [Refs 1st c.AD+]
+
+  __2 novelty, λόγου [Refs 5th c.BC+]; ἡ ἐν τοῖς σχηματισμοῖς κ. [Refs 1st c.BC+]
+  novelties, [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3501
-    proximity: 0.8276
+    lemma: νέος
+    gloss: '"new" {openscriptures-strongs}'
+    proximity: 0.8276 {macula-proximity}
   - strongs: G313
-    proximity: 0.8225
+    proximity: 0.8225 {macula-proximity}
   - strongs: G5262
-    proximity: 0.8201
+    lemma: ὑπόδειγμα
+    gloss: an exhibit for imitation or warning (figuratively {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: G3665
-    proximity: 0.8198
+    lemma: ὁμοιότης
+    gloss: resemblance {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
   - strongs: G3821
-    proximity: 0.8136
+    lemma: παλαιότης
+    gloss: antiquatedness {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: G3504
-    proximity: 0.8021
+    lemma: νεόφυτος
+    gloss: newly planted {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
   - strongs: G3667
-    proximity: 0.8015
+    lemma: ὁμοίωμα
+    gloss: a form {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
   - strongs: G1098
-    proximity: 0.7642
+    lemma: γλεῦκος
+    gloss: sweet wine {openscriptures-strongs}
+    proximity: 0.7642 {macula-proximity}
   cross_language:
   - strongs: H2965
-    proximity: 0.8104
+    lemma: טָרָף
+    gloss: recently torn off {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
     language: hebrew
   - strongs: H8492
-    proximity: 0.8067
+    lemma: תִּירוֹשׁ
+    gloss: must or fresh grape-juice {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
     language: hebrew
   - strongs: H3759a
-    proximity: 0.7789
+    proximity: 0.7789 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

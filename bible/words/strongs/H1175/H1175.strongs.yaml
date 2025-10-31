@@ -7,47 +7,48 @@ definition: Bealoth, a place in Palestine
 kjv_usage: Bealoth, in Aloth (by mistake for a plural from H5927 (עָלָה) with prepositional
   prefix).
 derivation: plural of H1172 (בַּעֲלָה); mistresses;
-extended_definition:
-  gloss: Bealoth
-  definition: Baalath or Bealoth = "mistresses"<br> a town in south Judah<BR>Another
-    name of <i>ba.a.lat be.er</i> (בַּעֲלַת בְּאֵר "Baalath-beer" H1192)
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: 'Baalath or Bealoth = "mistresses"
+
+  a town in south Judah
+
+  Another name of ba.a.lat be.er (בַּעֲלַת בְּאֵר "Baalath-beer" H1192) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H48
-    proximity: 0.8288
+    proximity: 0.8288 {macula-proximity}
   - strongs: H21
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
   - strongs: H29
-    proximity: 0.8255
+    proximity: 0.8255 {macula-proximity}
   - strongs: H886
-    proximity: 0.8243
+    proximity: 0.8243 {macula-proximity}
   - strongs: H1388
-    proximity: 0.8205
+    lemma: גִּבְעָא
+    gloss: Giba {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: H5852
-    proximity: 0.8157
+    lemma: עֲטָרוֹת
+    gloss: Ataroth {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: H881
-    proximity: 0.8092
+    proximity: 0.8092 {macula-proximity}
   - strongs: H333
-    proximity: 0.7955
+    proximity: 0.7955 {macula-proximity}
   - strongs: H442
-    proximity: 0.7102
+    proximity: 0.7102 {macula-proximity}
   cross_language:
   - strongs: G7
-    proximity: 0.8293
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G675
-    proximity: 0.8214
+    proximity: 0.8214 {macula-proximity}
     language: greek
   - strongs: G625
-    proximity: 0.8154
+    proximity: 0.8154 {macula-proximity}
     language: greek
   - strongs: G5174
-    proximity: 0.7735
+    lemma: Τρωάς
+    gloss: the Troad {openscriptures-strongs}
+    proximity: 0.7735 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

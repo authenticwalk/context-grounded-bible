@@ -9,50 +9,66 @@ definition: properly, (abstractly) a raising (as of the hands in prayer), or ris
 kjv_usage: burden, collection, sign of fire, (great) flame, gift, lifting up, mess,
   oblation, reward.
 derivation: from H5375 (נָשָׂא);
-extended_definition:
-  gloss: tribute
-  definition: 1) uprising, utterance, burden, portion, uplifting<br>1a) that which
-    rises, uprising, uplifting, signal, rising<br>1b) utterance, oracle<br>1c) burden<br>1d)
-    portion, present, largesse, gift, contribution, offering, tribute
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) uprising, utterance, burden, portion, uplifting
+
+  1a) that which rises, uprising, uplifting, signal, rising
+
+  1b) utterance, oracle
+
+  1c) burden
+
+  1d) portion, present, largesse, gift, contribution, offering, tribute {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A2211
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
   - strongs: H4060a
-    proximity: 0.8297
+    proximity: 0.8297 {macula-proximity}
   - strongs: A4203
-    proximity: 0.8288
+    proximity: 0.8288 {macula-proximity}
   - strongs: H3899
-    proximity: 0.8286
+    lemma: לֶחֶם
+    gloss: food {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: A4061
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
   - strongs: H396
-    proximity: 0.8241
+    proximity: 0.8241 {macula-proximity}
   - strongs: H4858
-    proximity: 0.8226
+    lemma: מַשָּׂאָה
+    gloss: a conflagration {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: H6720
-    proximity: 0.8138
+    lemma: צֵידָה
+    gloss: food {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
   - strongs: H4157
-    proximity: 0.8121
+    lemma: מוּעָקָה
+    gloss: pressure {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H7964
-    proximity: 0.8117
+    lemma: שִׁלּוּחַ
+    gloss: a dismissal {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
   cross_language:
   - strongs: G5160
-    proximity: 0.8245
+    lemma: τροφή
+    gloss: nourishment {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
     language: greek
   - strongs: G5411
-    proximity: 0.8241
+    lemma: φόρος
+    gloss: a load {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
   - strongs: G1869
-    proximity: 0.8211
+    lemma: ἐπαίρω
+    gloss: to raise up {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
     language: greek
   - strongs: G2599
-    proximity: 0.8135
+    lemma: καταβαρέω
+    gloss: to impose upon {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

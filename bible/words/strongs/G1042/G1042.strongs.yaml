@@ -5,37 +5,36 @@ transliteration: gabbathá
 definition: the knoll; gabbatha, a vernacular term for the Roman tribunal in Jerusalem
 kjv_usage: Gabbatha
 derivation: of Chaldee origin (compare H01355);
-extended_definition:
-  gloss: Gabbatha
-  definition: '<b>Γαββαθα</b> (Rec. -θᾶ), ἡ, indecl., <BR /> <b>Gabbatha</b>, the
-    Greek transliteration of an uncertain Aramaic word (<i>DB</i>, see word; Dalman,
-    <i>Words</i>, 7), used as the equivalent of λιθόστρωτον, <b>stone pavement</b>:
-    <ref=''Jhn.19.13.''>Jhn.19:13.</ref>†<BR /> (AS)'
-  morphology: N:N--L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Γαββαθα</b> (Rec. -θᾶ), ἡ, indecl., <BR /> <b>Gabbatha</b>,
-    the Greek transliteration of an uncertain Aramaic word (<i>DB</i>, see word; Dalman,
-    <i>Words</i>, 7), used as the equivalent of λιθόστρωτον, <b>stone pavement</b>:
-    <ref=''Jhn.19.13.''>Jhn.19:13.</ref>†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Γαββαθα (Rec. -θᾶ), ἡ, indecl.,
+
+  Gabbatha, the Greek transliteration of an uncertain Aramaic word (DB, see word;
+  Dalman, Words, 7), used as the equivalent of λιθόστρωτον, stone pavement: Jhn.19:13.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Γαββαθα (Rec. -θᾶ), ἡ, indecl.,
+
+  Gabbatha, the Greek transliteration of an uncertain Aramaic word (DB, see word;
+  Dalman, Words, 7), used as the equivalent of λιθόστρωτον, stone pavement: Jhn.19:13.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G914
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
   cross_language:
   - strongs: H1201
-    proximity: 0.8268
+    lemma: בַּעְשָׁא
+    gloss: Basha {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: hebrew
   - strongs: H1862
-    proximity: 0.8155
+    lemma: דַּרְדַּע
+    gloss: Darda {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
     language: hebrew
   - strongs: H1708
-    proximity: 0.8086
+    lemma: דַּבֶּשֶׁת
+    gloss: Dabbesheth {openscriptures-strongs}
+    proximity: 0.8086 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,49 +7,66 @@ definition: a completion; adverb, completely; also destruction
 kjv_usage: altogether, (be, utterly) consume(-d), consummation(-ption), was determined,
   (full, utter) end, riddance.
 derivation: from H3615 (כָּלָה);
-extended_definition:
-  gloss: consumption
-  definition: 1) completion, termination, full end, complete destruction, consumption,
-    annihilation<br>1a) completion<br>1a1) completely, altogether (adv)<br>1b) complete
-    destruction, consumption, annihilation
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) completion, termination, full end, complete destruction,
+  consumption, annihilation
+
+  1a) completion
+
+  1a1) completely, altogether (adv)
+
+  1b) complete destruction, consumption, annihilation {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A8000
-    proximity: 0.8286
+    proximity: 0.8286 {macula-proximity}
   - strongs: H3582
-    proximity: 0.8239
+    lemma: כָּחַד
+    gloss: to secrete {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: H2717
-    proximity: 0.8206
+    lemma: חָרַב
+    gloss: to parch  i.e. (by analogy {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: H2040
-    proximity: 0.8175
+    lemma: הָרַס
+    gloss: to pull down or in pieces {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
   - strongs: H1197a
-    proximity: 0.8164
+    proximity: 0.8164 {macula-proximity}
   - strongs: H5362
-    proximity: 0.8108
+    lemma: נָקַף
+    gloss: to strike with more or less violence (beat {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
   - strongs: H4229
-    proximity: 0.8093
+    lemma: מָחָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
   - strongs: H3632
-    proximity: 0.8082
+    lemma: כָּלִיל
+    gloss: complete {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
   cross_language:
   - strongs: G3089
-    proximity: 0.8286
+    lemma: λύω
+    gloss: to "loosen" {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G854
-    proximity: 0.8208
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G4009
-    proximity: 0.8207
+    lemma: πέρας
+    gloss: an extremity {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
     language: greek
   - strongs: G2506
-    proximity: 0.818
+    lemma: καθαίρεσις
+    gloss: demolition {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
     language: greek
   - strongs: G2676
-    proximity: 0.8155
+    lemma: κατάρτισις
+    gloss: thorough equipment {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

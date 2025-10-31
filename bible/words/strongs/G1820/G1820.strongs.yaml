@@ -5,58 +5,59 @@ transliteration: exaporéomai
 definition: to be utterly at a loss, i.e. despond
 kjv_usage: (in) despair
 derivation: middle voice from G1537 (ἐκ) and G639 (ἀπορέω);
-extended_definition:
-  gloss: to despair
-  definition: '<b>ἐξ-απορέω</b>, -ῶ <BR /> [in LXX, pass., for פּוּן, <ref=''Psa.88.15''>Psa.88:15</ref>
-    * ;] <BR />so in NT, depon. pass., <b>to be utterly at a loss, be in despair</b>:
-    absol. (as Ps, l.with), <ref=''2Co.4.8''>2Co.4:8;</ref> τοῦ ζῆν, <ref=''2Co.1.8.''>2Co.1:8.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐξαπορέω</b>, <br /> strengthened for ἀπορέω, to be in <b>great
-    doubt</b> or <b>difficulty,</b> [<a href="javascript:void(0)" title=" 2nd c.BC:
-    Polybius Historicus 4.34.1; τοῖς πράγμασι 4th c.BC: Aristoteles Philosophus “Ἀθηναίων
-    Πολιτεία” 23.1 ">Refs 4th c.BC+</a>]:—<i>middle</i>, ἀπορούμενοι, ἀλλ᾽ οὐκ ἐ.
-    [<a href="javascript:void(0)" title=" NT.2Cor.4.8 ">NT</a>]: so in <i>aorist</i>
-    <i>passive</i> ἐξηπορήθην [<a href="javascript:void(0)" title=" LXX.Psa.87(88).15,
-    1st c.BC: Diodorus Siculus Historicus 24.1, 1st-2nd c.AD: Plutarchus Biographus
-    et Philosophus “Alcibiades” 5 ">LXX+1st c.BC+</a>]; ἐξαπορηθῆναι ἀργυρίον <b>to
-    be without</b> money, [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius
-    Halicarnassensis 7.18; τῶν κοινῶν ἐξηπορημένων “SIG” 495.12 (Olbia, 3rd c.BC),compare
-    “PEleph.” 2.10 (3rd c.BC). ">Refs 3rd c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐξ-απορέω, -ῶ
+
+  [in LXX, pass., for פּוּן, Psa.88:15 * ;]
+
+  so in NT, depon. pass., to be utterly at a loss, be in despair: absol. (as Ps, l.with),
+  2Co.4:8; τοῦ ζῆν, 2Co.1:8.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐξαπορέω,
+
+  strengthened for ἀπορέω, to be in great doubt or difficulty, [Refs 4th c.BC+]:—middle,
+  ἀπορούμενοι, ἀλλ᾽ οὐκ ἐ. [NT]: so in aorist passive ἐξηπορήθην [LXX+1st c.BC+];
+  ἐξαπορηθῆναι ἀργυρίον to be without money, [Refs 3rd c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1576
-    proximity: 0.8271
+    lemma: ἐκκλείω
+    gloss: to shut out {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: G1447
-    proximity: 0.819
+    lemma: Ἑβραϊστί
+    gloss: Hebraistically or in the Jewish  language {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   - strongs: G1722
-    proximity: 0.8157
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.8157 {macula-proximity}
   - strongs: G3380
-    proximity: 0.8136
+    lemma: μήπω
+    gloss: not yet {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: G3764
-    proximity: 0.8108
+    lemma: οὐδέπω
+    gloss: not even yet {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
   cross_language:
   - strongs: H3631
-    proximity: 0.8286
+    lemma: כִּלָּיוֹן
+    gloss: pining {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: hebrew
   - strongs: H954
-    proximity: 0.8274
+    proximity: 0.8274 {macula-proximity}
     language: hebrew
   - strongs: H3426
-    proximity: 0.8265
+    lemma: יֵשׁ
+    gloss: there is or are (or any other form of the verb to be {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
     language: hebrew
   - strongs: H871a
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
     language: hebrew
   - strongs: H7817a
-    proximity: 0.8254
+    proximity: 0.8254 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

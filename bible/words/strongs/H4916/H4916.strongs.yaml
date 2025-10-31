@@ -10,40 +10,59 @@ derivation: or מִשְׁלֹחַ; also מִשְׁלָח; from H7971 (שָׁלַ
 related_words:
   synonyms:
   - strongs: H1911
-    proximity: 0.8259
+    lemma: הָדָה
+    gloss: to stretch forth the hand {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: H3018
-    proximity: 0.8256
+    lemma: יְגִיעַ
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: H4611
-    proximity: 0.8161
+    lemma: מַעֲלָל
+    gloss: an act {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H6045
-    proximity: 0.8102
+    lemma: עִנְיָן
+    gloss: ado {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
   - strongs: H6468
-    proximity: 0.7959
+    lemma: פְּעֻלָּה
+    gloss: work {openscriptures-strongs}
+    proximity: 0.7959 {macula-proximity}
   - strongs: H5949
-    proximity: 0.7924
+    lemma: עֲלִילָה
+    gloss: an exploit {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
   - strongs: A5648
-    proximity: 0.7886
+    proximity: 0.7886 {macula-proximity}
   - strongs: H4659a
-    proximity: 0.7775
+    proximity: 0.7775 {macula-proximity}
   - strongs: H6466
-    proximity: 0.7742
+    lemma: פָּעַל
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.7742 {macula-proximity}
   cross_language:
   - strongs: G14
-    proximity: 0.8287
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G4238
-    proximity: 0.8052
+    lemma: πράσσω
+    gloss: to "practise" {openscriptures-strongs}
+    proximity: 0.8052 {macula-proximity}
     language: greek
   - strongs: G4903
-    proximity: 0.8028
+    lemma: συνεργέω
+    gloss: to be a fellow-worker {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
     language: greek
   - strongs: G2109
-    proximity: 0.7976
+    lemma: εὐεργετέω
+    gloss: to be philanthropic {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
     language: greek
   - strongs: G2554
-    proximity: 0.7897
+    lemma: κακοποιέω
+    gloss: to be a bad-doer {openscriptures-strongs}
+    proximity: 0.7897 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

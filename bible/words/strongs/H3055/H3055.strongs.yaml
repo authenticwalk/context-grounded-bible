@@ -7,18 +7,14 @@ definition: Jehud, a place in Palestine
 kjv_usage: Jehud.
 derivation: a briefer form of one corresponding to H3061 (יְהוּד)lemma יְהיּד yod,
   corrected to יְהוּד;
-extended_definition:
-  gloss: Jehud
-  definition: <BR> § Jehud = "beauty"<br> a town in Dan, located between Baalath and
-    Bene-berak and 8 miles east of Joppa<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Jehud = "beauty"
+
+  a town in Dan, located between Baalath and Bene-berak and 8 miles east of Joppa
+  {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3058
-    proximity: 0.8063
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: יֵהוּא
+    gloss: Jehu {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

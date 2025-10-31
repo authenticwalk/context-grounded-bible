@@ -5,46 +5,53 @@ transliteration: Nazarēnós
 definition: a Nazarene, i.e. inhabitant of Nazareth
 kjv_usage: of Nazareth
 derivation: from G3478 (Ναζαρέθ);
-extended_definition:
-  gloss: Nazareth
-  definition: '<b>Ναζαρηνός</b>, -οῦ, ὁ <BR /> (on the Semitic form, see Dalman, <i>Gr.</i>,
-    141 n.) <BR /><b>a Nazarene</b>: <ref=''Mrk.1.24; 10.47; 14.67; 16.6''>Mrk.1:24
-    10:47 14:67 16:6</ref>, <ref=''Luk.4.34; 24.19''>Luk.4:34 24:19</ref>.†<BR />
-    (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ναζαρηνός</b>, -οῦ, ὁ <BR /> (on the Semitic form, see Dalman,
-    <i>Gr.</i>, 141 n.) <BR /><b>a Nazarene</b>: <ref=''Mrk.1.24; 10.47; 14.67; 16.6''>Mrk.1:24
-    10:47 14:67 16:6</ref>, <ref=''Luk.4.34; 24.19''>Luk.4:34 24:19</ref>.†<BR />  (From
-    Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ναζαρηνός, -οῦ, ὁ
+
+  (on the Semitic form, see Dalman, Gr., 141 n.)
+
+  a Nazarene: Mrk.1:24 10:47 14:67 16:6, Luk.4:34 24:19.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ναζαρηνός, -οῦ, ὁ
+
+  (on the Semitic form, see Dalman, Gr., 141 n.)
+
+  a Nazarene: Mrk.1:24 10:47 14:67 16:6, Luk.4:34 24:19.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4558
-    proximity: 0.813
+    lemma: Σάρεπτα
+    gloss: Sarepta {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
   - strongs: A756
-    proximity: 0.7977
+    proximity: 0.7977 {macula-proximity}
   - strongs: G3588
-    proximity: 0.7968
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7968 {macula-proximity}
   - strongs: G2415
-    proximity: 0.7845
+    lemma: Ἱεροσολυμίτης
+    gloss: a Hierosolymite {openscriptures-strongs}
+    proximity: 0.7845 {macula-proximity}
   cross_language:
   - strongs: H3158
-    proximity: 0.8245
+    lemma: יִזְרְעֵאלִי
+    gloss: a Jizreelite or native of Jizreel {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
     language: hebrew
   - strongs: H6868
-    proximity: 0.8149
+    lemma: צְרֵדָה
+    gloss: Tseredah {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
     language: hebrew
   - strongs: H758a
-    proximity: 0.8107
+    proximity: 0.8107 {macula-proximity}
     language: hebrew
   - strongs: H7446
-    proximity: 0.8065
+    lemma: רִסָּה
+    gloss: Rissah {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

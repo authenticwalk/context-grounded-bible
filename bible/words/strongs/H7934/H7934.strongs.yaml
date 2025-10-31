@@ -6,26 +6,28 @@ pronunciation: shaw-kane'
 definition: a resident; by extension, a fellow-citizen
 kjv_usage: inhabitant, neighbour, nigh.
 derivation: from H7931 (שָׁכַן);
-extended_definition:
-  gloss: neighboring
-  definition: 1) inhabitant, neighbour<br>1a) inhabitant<br>1b) neighbour
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: '1) inhabitant, neighbour
+
+  1a) inhabitant
+
+  1b) neighbour {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1753
-    proximity: 0.7881
+    proximity: 0.7881 {macula-proximity}
   - strongs: H3427
-    proximity: 0.7145
+    lemma: יָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7145 {macula-proximity}
   cross_language:
   - strongs: G4177
-    proximity: 0.8238
+    lemma: πολίτης
+    gloss: a townsman {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
     language: greek
   - strongs: G2730
-    proximity: 0.7841
+    lemma: κατοικέω
+    gloss: to house permanently {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

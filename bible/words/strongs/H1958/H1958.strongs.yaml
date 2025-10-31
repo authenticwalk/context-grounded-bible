@@ -6,42 +6,54 @@ pronunciation: he
 definition: lamentation
 kjv_usage: woe. (For hiyr. See H1931 (הוּא), H1932 (הוּא).)
 derivation: for H5092 (נְהִי);
-extended_definition:
-  gloss: woe
-  definition: lamentation, wailing
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: lamentation, wailing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4844
-    proximity: 0.8244
+    lemma: מְרֹר
+    gloss: a bitter herb {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: H3921
-    proximity: 0.823
+    lemma: לֶכֶד
+    gloss: something to capture with {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: H7334
-    proximity: 0.8194
+    lemma: רָזִי
+    gloss: thinness {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H6294
-    proximity: 0.8025
+    lemma: פֶּגַע
+    gloss: impact {openscriptures-strongs}
+    proximity: 0.8025 {macula-proximity}
   - strongs: H5235
-    proximity: 0.8006
+    lemma: נֶכֶר
+    gloss: something strange {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
   - strongs: H6843
-    proximity: 0.798
+    lemma: צְפִירָה
+    gloss: a crown {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
   - strongs: H4341
-    proximity: 0.7928
+    lemma: מַכְאֹב
+    gloss: anguish or  affliction {openscriptures-strongs}
+    proximity: 0.7928 {macula-proximity}
   - strongs: H6735b
-    proximity: 0.7843
+    proximity: 0.7843 {macula-proximity}
   - strongs: H6365
-    proximity: 0.7749
+    lemma: פִּיד
+    gloss: misfortune {openscriptures-strongs}
+    proximity: 0.7749 {macula-proximity}
   - strongs: H2256b
-    proximity: 0.7598
+    proximity: 0.7598 {macula-proximity}
   cross_language:
   - strongs: G2870
-    proximity: 0.7953
+    lemma: κοπετός
+    gloss: mourning (properly {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
     language: greek
   - strongs: G5004
-    proximity: 0.7569
+    lemma: ταλαιπωρία
+    gloss: wretchedness {openscriptures-strongs}
+    proximity: 0.7569 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

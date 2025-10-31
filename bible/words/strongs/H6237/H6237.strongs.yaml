@@ -8,46 +8,61 @@ kjv_usage: '[idiom] surely, give (take) the tenth, (have, take) tithe(-ing, -s),
   truly.'
 derivation: a primitive root (identical with H6238 (עָשַׁר)); to accumulate; but used
   only as denominative from H6235 (עֶשֶׂר);
-extended_definition:
-  gloss: to tithe
-  definition: 1) to tithe, take the tenth part of, give a tithe, take a tithe<br>1a)
-    (Qal) to tithe<br>1b) (Piel) to give a tithe<br>1c) (Hiphil) to take a tithe
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to tithe, take the tenth part of, give a tithe, take a tithe
+
+  1a) (Qal) to tithe
+
+  1b) (Piel) to give a tithe
+
+  1c) (Hiphil) to take a tithe {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2569
-    proximity: 0.8246
+    lemma: חֹמֶשׁ
+    gloss: a fifth tax {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8114
+    proximity: 0.8114 {macula-proximity}
   - strongs: H6249
-    proximity: 0.8099
+    lemma: עַשְׁתֵּי
+    gloss: eleven or  eleventh {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
   - strongs: H3947
-    proximity: 0.7863
+    lemma: לָקַח
+    gloss: to take {openscriptures-strongs}
+    proximity: 0.7863 {macula-proximity}
   - strongs: H5414
-    proximity: 0.7858
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.7858 {macula-proximity}
   - strongs: H8341
-    proximity: 0.7726
+    lemma: שָׁשָׁה
+    gloss: to sixth or divide into sixths {openscriptures-strongs}
+    proximity: 0.7726 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7538
+    proximity: 0.7538 {macula-proximity}
   cross_language:
   - strongs: G618
-    proximity: 0.8287
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G1209
-    proximity: 0.8248
+    lemma: δέχομαι
+    gloss: to receive (in various applications {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: greek
   - strongs: G3880
-    proximity: 0.8236
+    lemma: παραλαμβάνω
+    gloss: to receive near {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
     language: greek
   - strongs: G4355
-    proximity: 0.8097
+    lemma: προσλαμβάνω
+    gloss: to take to oneself {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.7973
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7973 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

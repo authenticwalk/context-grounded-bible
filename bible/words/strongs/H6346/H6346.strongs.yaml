@@ -6,42 +6,52 @@ pronunciation: peh-khaw'
 definition: a prefect (of a city or small district)
 kjv_usage: captain, deputy, governor.
 derivation: of foreign origin;
-extended_definition:
-  gloss: governor
-  definition: 'governor<BR>Aramaic equivalent: <i>pe.chah</i> (פֶּחָה "governor" H6347)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'governor
+
+  Aramaic equivalent: pe.chah (פֶּחָה "governor" H6347) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5333
-    proximity: 0.8256
+    lemma: נְצִיב
+    gloss: something stationary {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: H6546
-    proximity: 0.8154
+    lemma: פַּרְעָה
+    gloss: leadership (plural concretely {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: A7984
-    proximity: 0.8112
+    proximity: 0.8112 {macula-proximity}
   - strongs: H6486
-    proximity: 0.78
+    lemma: פְּקֻדָּה
+    gloss: visitation (in many senses {openscriptures-strongs}
+    proximity: 0.78 {macula-proximity}
   - strongs: H5631
-    proximity: 0.7789
+    lemma: סָרִיס
+    gloss: a eunuch {openscriptures-strongs}
+    proximity: 0.7789 {macula-proximity}
   - strongs: A2942
-    proximity: 0.7623
+    proximity: 0.7623 {macula-proximity}
   - strongs: H5324
-    proximity: 0.7585
+    lemma: נָצַב
+    gloss: to station {openscriptures-strongs}
+    proximity: 0.7585 {macula-proximity}
   - strongs: H7227a
-    proximity: 0.7553
+    proximity: 0.7553 {macula-proximity}
   - strongs: H7101
-    proximity: 0.7543
+    lemma: קָצִין
+    gloss: a magistrate  or other leader {openscriptures-strongs}
+    proximity: 0.7543 {macula-proximity}
   - strongs: A671a
-    proximity: 0.7497
+    proximity: 0.7497 {macula-proximity}
   cross_language:
   - strongs: G4755
-    proximity: 0.7825
+    lemma: στρατηγός
+    gloss: a general {openscriptures-strongs}
+    proximity: 0.7825 {macula-proximity}
     language: greek
   - strongs: G5506
-    proximity: 0.7576
+    lemma: χιλίαρχος
+    gloss: the commander of a thousand soldiers ("chiliarch" {openscriptures-strongs}
+    proximity: 0.7576 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

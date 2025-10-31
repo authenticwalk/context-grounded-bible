@@ -5,59 +5,69 @@ transliteration: héx
 definition: six
 kjv_usage: six
 derivation: a primary numeral;
-extended_definition:
-  gloss: six
-  definition: '<b>ἕξ</b>, οἱ, αἱ, τά<BR /> indecl., <BR /> <b>six</b>: <ref=''Mat.17.1''>Mat.17:1</ref>,
-    <ref=''Luk.13.14''>Luk.13:14</ref>, al. <BR /> (AS)'
-  morphology: G:A-NUI
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἕξ</b>, <br /> <b>οἱ</b>, <b>αἱ</b>, <b>τά</b>, <i>indeclinable</i>,
-    <b>six,</b> [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus
-    “Illiad” 5.270, +others: _dative_ _plural_ ἑξάσιν “OGI” 200.28 (from Axum)">Refs
-    8th c.BC+</a>]; ϝέξ [<a href="javascript:void(0)" title=" “Tab.Heracl.” 2.34,
-    +others, “GDI” 1267.27 (Pamphyl.), 4968 (from Gortyn): ἓκ ποδῶν is written in
-    “IG” 12.372.175">Refs</a>]; compare ἕκπους. <br /><Level3><b>__2</b></Level3>
-    ἕξ, τό, <b>the six</b> in ἀστράγαλοι used as dice, ={Κῷον}, [<a href="javascript:void(0)"
-    title=" 2nd c.AD: Rufus Medicus “Oss.” 38">Refs 2nd c.AD+</a>]. (Cf. Sanskrit
-    <i>[snull]á[tnull].</i> Avest. <b>xšvaš,</b> Latin <i>sex,</i> Welsh <b>chwech,</b>
-    etc.)'
-  source: STEPBible/LSJ
+extended_definition: 'ἕξ, οἱ, αἱ, τά
+
+  indecl.,
+
+  six: Mat.17:1, Luk.13:14, al.
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἕξ,
+
+  οἱ, αἱ, τά, indeclinable, six, [Refs 8th c.BC+]; ϝέξ [Refs]; compare ἕκπους.
+
+  __2 ἕξ, τό, the six in ἀστράγαλοι used as dice, ={Κῷον}, [Refs 2nd c.AD+]. (Cf.
+  Sanskrit [snull]á[tnull]. Avest. xšvaš, Latin sex, Welsh chwech, etc.) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5507
-    proximity: 0.8244
+    lemma: χίλιοι
+    gloss: a thousand {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: A6236
-    proximity: 0.8198
+    proximity: 0.8198 {macula-proximity}
   - strongs: A6243
-    proximity: 0.8195
+    proximity: 0.8195 {macula-proximity}
   - strongs: G5071
-    proximity: 0.8092
+    lemma: τετρακόσιοι
+    gloss: four hundred {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: G1441
-    proximity: 0.8063
+    lemma: ἑβδομηκοντάκις
+    gloss: seventy times {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
   - strongs: G1427
-    proximity: 0.8036
+    lemma: δώδεκα
+    gloss: two and ten {openscriptures-strongs}
+    proximity: 0.8036 {macula-proximity}
   - strongs: G1501
-    proximity: 0.7969
+    lemma: εἴκοσι
+    gloss: a score {openscriptures-strongs}
+    proximity: 0.7969 {macula-proximity}
   cross_language:
   - strongs: H7239
-    proximity: 0.8267
+    lemma: רִבּוֹ
+    gloss: a myriad {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
     language: hebrew
   - strongs: H2568
-    proximity: 0.8199
+    lemma: חָמֵשׁ
+    gloss: five {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
     language: hebrew
   - strongs: H8084
-    proximity: 0.8117
+    lemma: שְׁמֹנִים
+    gloss: eighty {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
     language: hebrew
   - strongs: H2572
-    proximity: 0.8089
+    lemma: חֲמִשִּׁים
+    gloss: fifty {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
     language: hebrew
   - strongs: H8083
-    proximity: 0.8082
+    lemma: שְׁמֹנֶה
+    gloss: a cardinal number {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

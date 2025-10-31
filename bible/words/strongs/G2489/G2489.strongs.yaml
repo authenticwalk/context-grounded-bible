@@ -5,44 +5,46 @@ transliteration: Iōánna
 definition: Joanna, a Christian
 kjv_usage: Joanna
 derivation: feminine of the same as G2491 (Ἰωάννης);
-extended_definition:
-  gloss: Joanna
-  definition: '<b>Ἰωάνα</b> (TR, -ννα; see WH, <i>App.</i>, 159), ης, ἡ (Aram יוֺחַן),
-    <BR /> <b>Joanna</b>: <ref=''Luk.8.3; 24.10''>Luk.8:3 24:10</ref>.†<BR /> (AS)'
-  morphology: N:N-F-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἰωάνα</b> (TR, -ννα; see WH, <i>App.</i>, 159), ης, ἡ (Aram
-    יוֺחַן), <BR /> <b>Joanna</b>: <ref=''Luk.8.3; 24.10''>Luk.8:3 24:10</ref>.†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἰωάνα (TR, -ννα; see WH, App., 159), ης, ἡ (Aram יוֺחַן),
+
+  Joanna: Luk.8:3 24:10.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἰωάνα (TR, -ννα; see WH, App., 159), ης, ἡ (Aram יוֺחַן),
+
+  Joanna: Luk.8:3 24:10.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G284
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
   - strongs: G367
-    proximity: 0.818
+    proximity: 0.818 {macula-proximity}
   - strongs: G2502
-    proximity: 0.7917
+    lemma: Ἰωσίας
+    gloss: Josias {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   cross_language:
   - strongs: H3082
-    proximity: 0.8284
+    lemma: יְהוֹנָדָב
+    gloss: Jehonadab {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: hebrew
   - strongs: H3083
-    proximity: 0.8249
+    lemma: יְהוֹנָתָן
+    gloss: Jehonathan {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: hebrew
   - strongs: H2977a
-    proximity: 0.8237
+    proximity: 0.8237 {macula-proximity}
     language: hebrew
   - strongs: H2977
-    proximity: 0.8174
+    lemma: יֹאשִׁיָּה
+    gloss: Joshijah {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
     language: hebrew
   - strongs: H5121b
-    proximity: 0.8139
+    proximity: 0.8139 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

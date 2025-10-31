@@ -5,56 +5,71 @@ transliteration: kalopoiéō
 definition: to do well, i.e. live virtuously
 kjv_usage: well doing
 derivation: from G2570 (καλός) and G4160 (ποιέω);
-extended_definition:
-  gloss: to do good
-  definition: '<b>καλο-ποιέω</b>, -ῶ <BR /> [in LXX: <ref=''Lev.5.4''>Lev.5:4</ref>
-    F (καλῶς π., B) * ;] <BR /><b>to do well, act honourably</b>: <ref=''2Th.3.13''>2Th.3:13</ref>
-    (cf. <ref=''Gal.6.9''>Gal.6:9</ref> τὸ καλὸν π.).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κᾰλοποι-έω</b>, <br /> <b>do good</b>, [<a href="javascript:void(0)"
-    title=" NT.2Thes.3.13, 1st c.AD: Philo Judaeus 1.698, “Geoponica” 2.22.3. ">NT+1st
-    c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'καλο-ποιέω, -ῶ
+
+  [in LXX: Lev.5:4 F (καλῶς π., B) * ;]
+
+  to do well, act honourably: 2Th.3:13 (cf. Gal.6:9 τὸ καλὸν π.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κᾰλοποι-έω,
+
+  do good, [NT+1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G703
-    proximity: 0.8291
+    proximity: 0.8291 {macula-proximity}
   - strongs: G865
-    proximity: 0.8247
+    proximity: 0.8247 {macula-proximity}
   - strongs: A6665
-    proximity: 0.8239
+    proximity: 0.8239 {macula-proximity}
   - strongs: G2239
-    proximity: 0.8218
+    lemma: ἦθος
+    gloss: usage {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: G3588
-    proximity: 0.8164
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
   - strongs: G5358
-    proximity: 0.8149
+    lemma: φιλάγαθος
+    gloss: fond to good {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
   - strongs: G2555
-    proximity: 0.8146
+    lemma: κακοποιός
+    gloss: a bad-doer {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
   - strongs: G2133
-    proximity: 0.8114
+    lemma: εὔνοια
+    gloss: kindness {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
   - strongs: G2162
-    proximity: 0.8113
+    lemma: εὐφημία
+    gloss: good language {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
   - strongs: G2038
-    proximity: 0.8053
+    lemma: ἐργάζομαι
+    gloss: to toil (as a task {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   cross_language:
   - strongs: H7296
-    proximity: 0.8239
+    lemma: רֹהָב
+    gloss: pride {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: hebrew
   - strongs: H2898
-    proximity: 0.8103
+    lemma: טוּב
+    gloss: good {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
     language: hebrew
   - strongs: H2644
-    proximity: 0.8026
+    lemma: חָפָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8026 {macula-proximity}
     language: hebrew
   - strongs: H4916
-    proximity: 0.7862
+    lemma: מִשְׁלוֹחַ
+    gloss: a sending out {openscriptures-strongs}
+    proximity: 0.7862 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

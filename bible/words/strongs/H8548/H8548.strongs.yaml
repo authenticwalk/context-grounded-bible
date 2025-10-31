@@ -8,49 +8,60 @@ definition: properly, continuance (as indefinite extension); but used only (attr
   sacrifice
 kjv_usage: alway(-s), continual (employment, -ly), daily, (n-)ever(-more), perpetual.
 derivation: from an unused root meaning to stretch;
-extended_definition:
-  gloss: continually
-  definition: 1) continuity, perpetuity, to stretch<br>1a) continually, continuously
-    (as adverb)<br>1b) continuity (subst)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) continuity, perpetuity, to stretch
+
+  1a) continually, continuously (as adverb)
+
+  1b) continuity (subst) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6471
-    proximity: 0.8281
+    lemma: פַּעַם
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8202
+    proximity: 0.8202 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.8175
+    proximity: 0.8175 {macula-proximity}
   - strongs: A5957
-    proximity: 0.8163
+    proximity: 0.8163 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.8152
+    proximity: 0.8152 {macula-proximity}
   - strongs: H2956
-    proximity: 0.8115
+    lemma: טָרַד
+    gloss: to drive on {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
   - strongs: H2077
-    proximity: 0.8082
+    lemma: זֶבַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
   - strongs: A871b
-    proximity: 0.8053
+    proximity: 0.8053 {macula-proximity}
   - strongs: H5750
-    proximity: 0.8019
+    lemma: עוֹד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8019 {macula-proximity}
   - strongs: H5704
-    proximity: 0.8007
+    lemma: עַד
+    gloss: as far (or long {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   cross_language:
   - strongs: G180
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G5550
-    proximity: 0.8239
+    lemma: χρόνος
+    gloss: a space of time (in general {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G4178
-    proximity: 0.8063
+    lemma: πολλάκις
+    gloss: many times {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
     language: greek
   - strongs: G1257
-    proximity: 0.7918
+    lemma: διαλείπω
+    gloss: to leave off in the middle {openscriptures-strongs}
+    proximity: 0.7918 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

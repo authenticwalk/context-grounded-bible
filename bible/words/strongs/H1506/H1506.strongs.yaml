@@ -6,47 +6,61 @@ pronunciation: gheh'-zer
 definition: something cut off; a portion
 kjv_usage: part, piece.
 derivation: from H1504 (גָּזַר);
-extended_definition:
-  gloss: piece
-  definition: part
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: part {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H829
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
   - strongs: H4276
-    proximity: 0.8245
+    lemma: מַחֲצִית
+    gloss: a halving or the middle {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H8158
-    proximity: 0.8203
+    lemma: שָׁסַף
+    gloss: to cut in pieces {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: H7168
-    proximity: 0.8192
+    lemma: קֶרַע
+    gloss: a rag {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: H2505
-    proximity: 0.8165
+    lemma: חָלַק
+    gloss: to be smooth {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: H6504
-    proximity: 0.815
+    lemma: פָּרַד
+    gloss: to break through {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: H1234
-    proximity: 0.7948
+    lemma: בָּקַע
+    gloss: to cleave {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
   - strongs: H1335
-    proximity: 0.7917
+    lemma: בֶּתֶר
+    gloss: a section {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   cross_language:
   - strongs: G1417
-    proximity: 0.8105
+    lemma: δύο
+    gloss: '"two" {openscriptures-strongs}'
+    proximity: 0.8105 {macula-proximity}
     language: greek
   - strongs: G1266
-    proximity: 0.8068
+    lemma: διαμερίζω
+    gloss: to partition thoroughly (literally in distribution {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
     language: greek
   - strongs: G1553
-    proximity: 0.8015
+    lemma: ἐκδημέω
+    gloss: to emigrate {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
     language: greek
   - strongs: G873
-    proximity: 0.8008
+    proximity: 0.8008 {macula-proximity}
     language: greek
   - strongs: G5563
-    proximity: 0.7993
+    lemma: χωρίζω
+    gloss: to place room between {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

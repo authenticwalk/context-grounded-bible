@@ -5,30 +5,29 @@ transliteration: Kríspos
 definition: '"crisp"; Crispus, a Corinthian'
 kjv_usage: Crispus
 derivation: of Latin origin;
-extended_definition:
-  gloss: Crispus
-  definition: '<b>Κρίσπος</b>, -ου, ὁ <BR /> <b>Crispus</b>: <ref=''Act.18.8''>Act.18:8</ref>,
-    <ref=''1Co.1.14''>1Co.1:14</ref>.†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Κρίσπος</b>, -ου, ὁ <BR /> <b>Crispus</b>: <ref=''Act.18.8''>Act.18:8</ref>,
-    <ref=''1Co.1.14''>1Co.1:14</ref>.†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Κρίσπος, -ου, ὁ
+
+  Crispus: Act.18:8, 1Co.1:14.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Κρίσπος, -ου, ὁ
+
+  Crispus: Act.18:8, 1Co.1:14.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G711
-    proximity: 0.8287
+    proximity: 0.8287 {macula-proximity}
   cross_language:
   - strongs: H3609
-    proximity: 0.8259
+    lemma: כִּלְאָב
+    gloss: Kilab {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: hebrew
   - strongs: H1231
-    proximity: 0.7855
+    lemma: בֻּקִּי
+    gloss: Bukki {openscriptures-strongs}
+    proximity: 0.7855 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

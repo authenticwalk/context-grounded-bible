@@ -6,42 +6,56 @@ pronunciation: tsaw-bar'
 definition: to aggregate
 kjv_usage: gather (together), heap (up), lay up.
 derivation: a primitive root;
-extended_definition:
-  gloss: to heap
-  definition: 1) (Qal) to heap up, pile up<br>1a) of grain, dust, silver
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Qal) to heap up, pile up
+
+  1a) of grain, dust, silver {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H103
-    proximity: 0.8232
+    proximity: 0.8232 {macula-proximity}
   - strongs: H4596
-    proximity: 0.8224
+    lemma: מְעִי
+    gloss: a pile of rubbish {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
   - strongs: H6910
-    proximity: 0.8176
+    lemma: קְבֻצָה
+    gloss: a hoard {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   - strongs: H3950
-    proximity: 0.8108
+    lemma: לָקַט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
   - strongs: H8498
-    proximity: 0.7978
+    lemma: תְּכוּנָה
+    gloss: adjustment {openscriptures-strongs}
+    proximity: 0.7978 {macula-proximity}
   - strongs: H1530
-    proximity: 0.794
+    lemma: גַּל
+    gloss: something rolled {openscriptures-strongs}
+    proximity: 0.794 {macula-proximity}
   - strongs: H5549
-    proximity: 0.7571
+    lemma: סָלַל
+    gloss: to mound up {openscriptures-strongs}
+    proximity: 0.7571 {macula-proximity}
   - strongs: H6845
-    proximity: 0.7565
+    lemma: צָפַן
+    gloss: to hide {openscriptures-strongs}
+    proximity: 0.7565 {macula-proximity}
   - strongs: H3502
-    proximity: 0.7493
+    lemma: יִתְרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7493 {macula-proximity}
   - strongs: H2565a
-    proximity: 0.7485
+    proximity: 0.7485 {macula-proximity}
   cross_language:
   - strongs: G1996
-    proximity: 0.8264
+    lemma: ἐπισυνάγω
+    gloss: to collect upon the same place {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G4863
-    proximity: 0.7069
+    lemma: συνάγω
+    gloss: to lead together {openscriptures-strongs}
+    proximity: 0.7069 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

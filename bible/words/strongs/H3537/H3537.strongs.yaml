@@ -6,39 +6,43 @@ pronunciation: kad
 definition: properly, a pail; but generally of earthenware; a jar  for domestic purposes
 kjv_usage: barrel, pitcher.
 derivation: from an unused root meaning to deepen;
-extended_definition:
-  gloss: jar
-  definition: jar, large jar (portable)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: jar, large jar (portable) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1543
-    proximity: 0.8269
+    lemma: גֻּלָּה
+    gloss: a fountain {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: H3627
-    proximity: 0.8215
+    lemma: כְּלִי
+    gloss: something prepared {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H7184
-    proximity: 0.7752
+    lemma: קָשָׂה
+    gloss: a jug {openscriptures-strongs}
+    proximity: 0.7752 {macula-proximity}
   - strongs: H610
-    proximity: 0.7736
+    proximity: 0.7736 {macula-proximity}
   cross_language:
   - strongs: G2861
-    proximity: 0.8293
+    lemma: κολυμβήθρα
+    gloss: a diving-place {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G5165
-    proximity: 0.7914
+    lemma: τρύβλιον
+    gloss: a bowl {openscriptures-strongs}
+    proximity: 0.7914 {macula-proximity}
     language: greek
   - strongs: G211
-    proximity: 0.7881
+    proximity: 0.7881 {macula-proximity}
     language: greek
   - strongs: G30
-    proximity: 0.7787
+    proximity: 0.7787 {macula-proximity}
     language: greek
   - strongs: G5204
-    proximity: 0.74
+    lemma: ὕδωρ
+    gloss: water  literally or figuratively {openscriptures-strongs}
+    proximity: 0.74 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

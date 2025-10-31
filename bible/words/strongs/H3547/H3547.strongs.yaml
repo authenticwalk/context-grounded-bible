@@ -7,39 +7,47 @@ definition: to officiate as a priest; figuratively, to put on regalia
 kjv_usage: deck, be (do the office of a, execute the, minister in the) priest('s office).
 derivation: a primitive root, apparently meaning to mediate in religious services;
   but used only as denominative from H3548 (כֹּהֵן);
-extended_definition:
-  gloss: to minister
-  definition: 1) to act as a priest, minister in a priest's office<br>1a) (Piel)<br>1a1)
-    to minister as a priest, serve as a priest<br>1a2) to be or become a priest<br>1a3)
-    to play the priest
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to act as a priest, minister in a priest''s office
+
+  1a) (Piel)
+
+  1a1) to minister as a priest, serve as a priest
+
+  1a2) to be or become a priest
+
+  1a3) to play the priest {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A6399
-    proximity: 0.8297
+    proximity: 0.8297 {macula-proximity}
   - strongs: A8120
-    proximity: 0.8261
+    proximity: 0.8261 {macula-proximity}
   - strongs: H3649
-    proximity: 0.7574
+    lemma: כָּמָר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7574 {macula-proximity}
   cross_language:
   - strongs: G5256
-    proximity: 0.8209
+    lemma: ὑπηρετέω
+    gloss: to be a subordinate {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
     language: greek
   - strongs: G3008
-    proximity: 0.8149
+    lemma: λειτουργέω
+    gloss: to be a public servant {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
     language: greek
   - strongs: G3010
-    proximity: 0.8072
+    lemma: λειτουργικός
+    gloss: functional publicly {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
     language: greek
   - strongs: G1398
-    proximity: 0.8041
+    lemma: δουλεύω
+    gloss: to be a slave to (literal or figurative {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
     language: greek
   - strongs: G749
-    proximity: 0.7936
+    proximity: 0.7936 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

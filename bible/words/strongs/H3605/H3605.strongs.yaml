@@ -9,53 +9,69 @@ kjv_usage: (in) all (manner, (ye)), altogether, any (manner), enough, every (one
   place, thing), howsoever, as many as, (no-) thing, ought, whatsoever, (the) whole,
   whoso(-ever).
 derivation: or (Jeremiah 33:8) כּוֹל; from H3634 (כָּלַל);
-extended_definition:
-  gloss: all
-  definition: '1) all, the whole<br>1a) all, the whole of<br>1b) any, each, every,
-    anything<br>1c) totality, everything<BR>Aramaic equivalent: <i>kol</i> (כֹּל "all"
-    H3606)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) all, the whole
+
+  1a) all, the whole of
+
+  1b) any, each, every, anything
+
+  1c) totality, everything
+
+  Aramaic equivalent: kol (כֹּל "all" H3606) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2063
-    proximity: 0.8297
+    lemma: זֹאת
+    gloss: this {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: H935
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
   - strongs: H1097
-    proximity: 0.8295
+    lemma: בְּלִי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: A4479
-    proximity: 0.829
+    proximity: 0.829 {macula-proximity}
   - strongs: H4478a
-    proximity: 0.829
+    proximity: 0.829 {macula-proximity}
   - strongs: H120
-    proximity: 0.8289
+    proximity: 0.8289 {macula-proximity}
   - strongs: H4940
-    proximity: 0.8285
+    lemma: מִשְׁפָּחָה
+    gloss: a family {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: H165
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
   - strongs: H4310
-    proximity: 0.8277
+    lemma: מִי
+    gloss: who? (occasionally {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H4725
-    proximity: 0.8273
+    lemma: מָקוֹם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
   cross_language:
   - strongs: G4050
-    proximity: 0.83
+    lemma: περισσεία
+    gloss: surplusage {openscriptures-strongs}
+    proximity: 0.83 {macula-proximity}
     language: greek
   - strongs: G4519
-    proximity: 0.8291
+    lemma: σαβαώθ
+    gloss: armies {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
     language: greek
   - strongs: G1885
-    proximity: 0.8289
+    lemma: ἐπαρχία
+    gloss: a special region of government {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: greek
   - strongs: G3757
-    proximity: 0.8281
+    lemma: οὗ
+    gloss: at which place {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G427
-    proximity: 0.827
+    proximity: 0.827 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

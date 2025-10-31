@@ -10,39 +10,58 @@ derivation: from H5258 (נָסַךְ);
 related_words:
   synonyms:
   - strongs: H801
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
   - strongs: H4906
-    proximity: 0.825
+    lemma: מַשְׂכִּית
+    gloss: a figure (carved on stone {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: H5435
-    proximity: 0.8229
+    lemma: סֹבֶא
+    gloss: potation {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: A4504
-    proximity: 0.8166
+    proximity: 0.8166 {macula-proximity}
   - strongs: H4503
-    proximity: 0.8129
+    lemma: מִנְחָה
+    gloss: a donation {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: A6755
-    proximity: 0.8112
+    proximity: 0.8112 {macula-proximity}
   - strongs: H6736
-    proximity: 0.8091
+    lemma: צִיר
+    gloss: a form (of beauty {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
   - strongs: H7336
-    proximity: 0.8063
+    lemma: רָזַן
+    gloss: probably to be heavy {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
   - strongs: H8655
-    proximity: 0.8056
+    lemma: תְּרָפִים
+    gloss: Teraphim  a family idol {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H8360
-    proximity: 0.8025
+    lemma: שְׁתִיָּה
+    gloss: potation {openscriptures-strongs}
+    proximity: 0.8025 {macula-proximity}
   cross_language:
   - strongs: G1496
-    proximity: 0.8274
+    lemma: εἰδωλολάτρης
+    gloss: an image-  worshipper {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
     language: greek
   - strongs: G4213
-    proximity: 0.8253
+    lemma: πόσις
+    gloss: a drinking {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
     language: greek
   - strongs: G1494
-    proximity: 0.8223
+    lemma: εἰδωλόθυτον
+    gloss: an image-sacrifice {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G2378
-    proximity: 0.8202
+    lemma: θυσία
+    gloss: sacrifice (the act or the victim {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

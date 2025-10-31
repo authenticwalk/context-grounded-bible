@@ -7,40 +7,53 @@ definition: a plan, usually evil (machination), sometimes good (sagacity)
 kjv_usage: (wicked) device, discretion, intent, witty invention, lewdness, mischievous
   (device), thought, wickedly.
 derivation: from H2161 (זָמַם);
-extended_definition:
-  gloss: plot
-  definition: 1) purpose, discretion, device, plot<br>1a) purpose<br>1b) discretion<br>1c)
-    devices (evil)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) purpose, discretion, device, plot
+
+  1a) purpose
+
+  1b) discretion
+
+  1c) devices (evil) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3289
-    proximity: 0.8194
+    lemma: יָעַץ
+    gloss: to advise {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: A5843
-    proximity: 0.8172
+    proximity: 0.8172 {macula-proximity}
   - strongs: H7454
-    proximity: 0.8028
+    lemma: רֵעַ
+    gloss: a thought {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
   - strongs: H8458
-    proximity: 0.7984
+    lemma: תַּחְבֻּלָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7984 {macula-proximity}
   cross_language:
   - strongs: G1261
-    proximity: 0.8282
+    lemma: διαλογισμός
+    gloss: discussion {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: greek
   - strongs: G1106
-    proximity: 0.8252
+    lemma: γνώμη
+    gloss: cognition {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: greek
   - strongs: G2556
-    proximity: 0.8166
+    lemma: κακός
+    gloss: worthless (intrinsically {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
     language: greek
   - strongs: G1411
-    proximity: 0.8123
+    lemma: δύναμις
+    gloss: force {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
     language: greek
   - strongs: G3180
-    proximity: 0.8115
+    lemma: μεθοδεία
+    gloss: travelling over {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

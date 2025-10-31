@@ -5,65 +5,77 @@ transliteration: exēchéomai
 definition: to "echo" forth, i.e. resound (be generally reported)
 kjv_usage: sound forth
 derivation: middle voice from G1537 (ἐκ) and G2278 (ἠχέω);
-extended_definition:
-  gloss: to ring/sound out
-  definition: '<b>ἐξ-ηχέω</b>, -ῶ <BR /> [in LXX: <ref=''Jol.3.14''>Jol.3:14</ref>
-    (הָמוֹן), <ref=''Sir.40.13''>Sir.40:13</ref>, <ref=''3Ma.3.2''>3Ma.3:2</ref> *
-    ;] <BR /><b>to sound forth </b>(as a trumpet, or thunder; see M, <i>Th.</i>, l.with):
-    pass., <ref=''1Th.1.8.''>1Th.1:8.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐξηχ-έω</b>, <br /> <b>sound forth,</b> [<a href="javascript:void(0)"
-    title=" LXX “Joel” 3(4).14, 2nd c.BC(?): Nechepso Astrologus cited in 2nd c.AD:
-    Vettius Valens Astrologus 241.17: with _accusative_ _cognate_, τὸ κύκνειον ἐξηχεῖν">LXX+2nd
-    c.BC+</a>] <b>sound forth</b> the swan''s song, i.e. <b>give vent to</b> dying
-    prayers, [<a href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 30.4.7,
-    compare 1st c.AD: Philo Judaeus 2.24 ">Refs 2nd c.BC+</a>]:—<i>passive</i>, [<a
-    href="javascript:void(0)" title=" [prev. author] 2.107, NT.1Thes.1.8, 5th c.AD(?):
-    Hesychius Legal icographus, etc. ">NT+5th c.AD+</a>]<br /><Level2><b>__II</b></Level2>
-    <b>utter senseless sounds,</b> of idiots, [<a href="javascript:void(0)" title="
-    Polemo Physiognomonicus 51. ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐξ-ηχέω, -ῶ
+
+  [in LXX: Jol.3:14 (הָמוֹן), Sir.40:13, 3Ma.3:2 * ;]
+
+  to sound forth (as a trumpet, or thunder; see M, Th., l.with): pass., 1Th.1:8.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐξηχ-έω,
+
+  sound forth, [LXX+2nd c.BC+] sound forth the swan''s song, i.e. give vent to dying
+  prayers, [Refs 2nd c.BC+]:—passive, [NT+5th c.AD+]
+
+  __II utter senseless sounds, of idiots, [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2279
-    proximity: 0.8158
+    lemma: ἦχος
+    gloss: a loud or confused noise {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: A5312
-    proximity: 0.8104
+    proximity: 0.8104 {macula-proximity}
   - strongs: G1146
-    proximity: 0.8091
+    lemma: δακτύλιος
+    gloss: a finger-ring {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
   - strongs: G1584
-    proximity: 0.8016
+    lemma: ἐκλάμπω
+    gloss: to be resplendent {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
   - strongs: G1032
-    proximity: 0.8004
+    lemma: βρύω
+    gloss: to swell out {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
   - strongs: G2784
-    proximity: 0.7864
+    lemma: κηρύσσω
+    gloss: to herald {openscriptures-strongs}
+    proximity: 0.7864 {macula-proximity}
   - strongs: G1831
-    proximity: 0.7712
+    lemma: ἐξέρχομαι
+    gloss: to issue {openscriptures-strongs}
+    proximity: 0.7712 {macula-proximity}
   - strongs: G5456
-    proximity: 0.7693
+    lemma: φωνή
+    gloss: a tone (articulate {openscriptures-strongs}
+    proximity: 0.7693 {macula-proximity}
   - strongs: G1607
-    proximity: 0.7592
+    lemma: ἐκπορεύομαι
+    gloss: to depart {openscriptures-strongs}
+    proximity: 0.7592 {macula-proximity}
   cross_language:
   - strongs: H2885
-    proximity: 0.8134
+    lemma: טַבַּעַת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
     language: hebrew
   - strongs: H6315a
-    proximity: 0.8077
+    proximity: 0.8077 {macula-proximity}
     language: hebrew
   - strongs: H1998
-    proximity: 0.7958
+    lemma: הֶמְיָה
+    gloss: sound {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
     language: hebrew
   - strongs: H6963
-    proximity: 0.7712
+    lemma: קוֹל
+    gloss: a voice or sound {openscriptures-strongs}
+    proximity: 0.7712 {macula-proximity}
     language: hebrew
   - strongs: H5042
-    proximity: 0.7609
+    lemma: נָבַע
+    gloss: to gush forth {openscriptures-strongs}
+    proximity: 0.7609 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

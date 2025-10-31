@@ -6,48 +6,62 @@ pronunciation: yaw-roke'
 definition: green, i.e. an herb
 kjv_usage: green thing.
 derivation: from H3417 (יָרָק);
-extended_definition:
-  gloss: green
-  definition: greens, green plants, green thing
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: greens, green plants, green thing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1500
-    proximity: 0.829
+    lemma: גְּזֵלָה
+    gloss: '{robbery {openscriptures-strongs}'
+    proximity: 0.829 {macula-proximity}
   - strongs: H3
-    proximity: 0.8162
+    proximity: 0.8162 {macula-proximity}
   - strongs: H402
-    proximity: 0.8147
+    proximity: 0.8147 {macula-proximity}
   - strongs: H6212
-    proximity: 0.8103
+    lemma: עֶשֶׂב
+    gloss: grass {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   - strongs: H6718a
-    proximity: 0.8101
+    proximity: 0.8101 {macula-proximity}
   - strongs: H3351
-    proximity: 0.8032
+    lemma: יְקוּם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
   - strongs: H1267
-    proximity: 0.801
+    lemma: בָּרוּת
+    gloss: food {openscriptures-strongs}
+    proximity: 0.801 {macula-proximity}
   - strongs: H2214
-    proximity: 0.7982
+    lemma: זָרָא
+    gloss: disgust {openscriptures-strongs}
+    proximity: 0.7982 {macula-proximity}
   - strongs: H3892
-    proximity: 0.7781
+    lemma: לַח
+    gloss: fresh {openscriptures-strongs}
+    proximity: 0.7781 {macula-proximity}
   - strongs: H4728
-    proximity: 0.7609
+    lemma: מַקָּחָה
+    gloss: something received {openscriptures-strongs}
+    proximity: 0.7609 {macula-proximity}
   cross_language:
   - strongs: G1390
-    proximity: 0.8281
+    lemma: δόμα
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G5528
-    proximity: 0.7929
+    lemma: χόρτος
+    gloss: a "court" or "garden" {openscriptures-strongs}
+    proximity: 0.7929 {macula-proximity}
     language: greek
   - strongs: G1033
-    proximity: 0.78
+    lemma: βρῶμα
+    gloss: food {openscriptures-strongs}
+    proximity: 0.78 {macula-proximity}
     language: greek
   - strongs: G5200
-    proximity: 0.7258
+    lemma: ὑγρός
+    gloss: wet {openscriptures-strongs}
+    proximity: 0.7258 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

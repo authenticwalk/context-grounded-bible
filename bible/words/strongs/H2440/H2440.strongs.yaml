@@ -6,35 +6,41 @@ pronunciation: kheesh
 definition: properly, a hurry; hence (adverb) quickly
 kjv_usage: soon.
 derivation: from H2439 (חִישׁ);
-extended_definition:
-  gloss: quickly
-  definition: quickly
-  morphology: H:Adv
-  source: STEPBible/BDB
+extended_definition: quickly {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5789
-    proximity: 0.8189
+    lemma: עוּשׁ
+    gloss: to hasten {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H4116
-    proximity: 0.7939
+    lemma: מָהַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
   cross_language:
   - strongs: G5032
-    proximity: 0.7605
+    lemma: τάχιον
+    gloss: more swiftly {openscriptures-strongs}
+    proximity: 0.7605 {macula-proximity}
     language: greek
   - strongs: G5034
-    proximity: 0.7528
+    lemma: τάχος
+    gloss: a brief space {openscriptures-strongs}
+    proximity: 0.7528 {macula-proximity}
     language: greek
   - strongs: G5030
-    proximity: 0.744
+    lemma: ταχέως
+    gloss: briefly {openscriptures-strongs}
+    proximity: 0.744 {macula-proximity}
     language: greek
   - strongs: G5033
-    proximity: 0.7411
+    lemma: τάχιστα
+    gloss: most quickly {openscriptures-strongs}
+    proximity: 0.7411 {macula-proximity}
     language: greek
   - strongs: G4932
-    proximity: 0.7083
+    lemma: συντέμνω
+    gloss: to contract by cutting {openscriptures-strongs}
+    proximity: 0.7083 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

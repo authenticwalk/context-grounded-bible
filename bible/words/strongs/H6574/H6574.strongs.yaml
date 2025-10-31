@@ -7,41 +7,55 @@ definition: the crotch (or anus)
 kjv_usage: dirt.
 derivation: perhaps by compounding H6567 (פָּרָשׁ) and H6504 (פָּרַד) (in the sense
   of straddling) (compare H6576 (פַּרְשֵׁז));
-extended_definition:
-  gloss: refuse
-  definition: 1) excrement, faeces<br>1a) meaning uncertain
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) excrement, faeces
+
+  1a) meaning uncertain {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3985
-    proximity: 0.7983
+    lemma: מָאֵן
+    gloss: to refuse {openscriptures-strongs}
+    proximity: 0.7983 {macula-proximity}
   - strongs: H1557
-    proximity: 0.7951
+    lemma: גָּלָל
+    gloss: dung {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
   - strongs: H268
-    proximity: 0.7835
+    proximity: 0.7835 {macula-proximity}
   - strongs: H1828
-    proximity: 0.7728
+    lemma: דֹּמֶן
+    gloss: manure {openscriptures-strongs}
+    proximity: 0.7728 {macula-proximity}
   - strongs: H5478
-    proximity: 0.7636
+    lemma: סוּחָה
+    gloss: something swept away {openscriptures-strongs}
+    proximity: 0.7636 {macula-proximity}
   - strongs: H3986
-    proximity: 0.7558
+    lemma: מָאֵן
+    gloss: unwilling {openscriptures-strongs}
+    proximity: 0.7558 {macula-proximity}
   - strongs: H6627
-    proximity: 0.7311
+    lemma: צָאָה
+    gloss: issue {openscriptures-strongs}
+    proximity: 0.7311 {macula-proximity}
   - strongs: H1465
-    proximity: 0.7146
+    lemma: גֵּוָה
+    gloss: the back {openscriptures-strongs}
+    proximity: 0.7146 {macula-proximity}
   cross_language:
   - strongs: G4657
-    proximity: 0.8269
+    lemma: σκύβαλον
+    gloss: what is thrown to the dogs {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
     language: greek
   - strongs: G5289
-    proximity: 0.8056
+    lemma: ὑποστολή
+    gloss: shrinkage {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
     language: greek
   - strongs: G3693
-    proximity: 0.7969
+    lemma: ὄπισθεν
+    gloss: from G3700 ) with enclitic of source {openscriptures-strongs}
+    proximity: 0.7969 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

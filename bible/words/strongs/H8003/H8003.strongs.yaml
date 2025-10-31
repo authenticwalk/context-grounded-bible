@@ -7,53 +7,73 @@ definition: complete (literally or figuratively); especially friendly
 kjv_usage: full, just, made ready, peaceable, perfect(-ed), quiet, Shalem (by mistake
   for a name), whole.
 derivation: from H7999 (שָׁלַם);
-extended_definition:
-  gloss: complete
-  definition: 1) complete, safe, peaceful, perfect, whole, full, at peace<br>1a) complete<br>1a1)
-    full, perfect<br>1a2) finished<br>1b) safe, unharmed<br>1c) peace (of covenant
-    of peace, mind)<br>1c1) perfect, complete (of keeping covenant relation)
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) complete, safe, peaceful, perfect, whole, full, at peace
+
+  1a) complete
+
+  1a1) full, perfect
+
+  1a2) finished
+
+  1b) safe, unharmed
+
+  1c) peace (of covenant of peace, mind)
+
+  1c1) perfect, complete (of keeping covenant relation) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4274
-    proximity: 0.8278
+    lemma: מַחְצֵב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H529a
-    proximity: 0.8246
+    proximity: 0.8246 {macula-proximity}
   - strongs: H4392
-    proximity: 0.8227
+    lemma: מָלֵא
+    gloss: full  or filling {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H8552
-    proximity: 0.822
+    lemma: תָּמַם
+    gloss: to complete {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
   - strongs: A540
-    proximity: 0.8193
+    proximity: 0.8193 {macula-proximity}
   - strongs: A3606
-    proximity: 0.8118
+    proximity: 0.8118 {macula-proximity}
   - strongs: H3634
-    proximity: 0.8054
+    lemma: כָּלַל
+    gloss: to complete {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
   - strongs: H571
-    proximity: 0.8039
+    proximity: 0.8039 {macula-proximity}
   - strongs: A3635
-    proximity: 0.8002
+    proximity: 0.8002 {macula-proximity}
   - strongs: H3615
-    proximity: 0.7973
+    lemma: כָּלָה
+    gloss: to end {openscriptures-strongs}
+    proximity: 0.7973 {macula-proximity}
   cross_language:
   - strongs: G4138
-    proximity: 0.8289
+    lemma: πλήρωμα
+    gloss: repletion or completion {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: greek
   - strongs: G1615
-    proximity: 0.8237
+    lemma: ἐκτελέω
+    gloss: to complete fully {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
     language: greek
   - strongs: G4137
-    proximity: 0.8197
+    lemma: πληρόω
+    gloss: to make replete {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
     language: greek
   - strongs: G739
-    proximity: 0.8123
+    proximity: 0.8123 {macula-proximity}
     language: greek
   - strongs: G2676
-    proximity: 0.7998
+    lemma: κατάρτισις
+    gloss: thorough equipment {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

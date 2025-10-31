@@ -5,28 +5,28 @@ transliteration: Philḗmōn
 definition: friendly; Philemon, a Christian
 kjv_usage: Philemon
 derivation: from G5368 (φιλέω);
-extended_definition:
-  gloss: Philemon
-  definition: '<b>φιλήμων</b>, -ονος, ὁ <BR /> <b>Philemon</b>: Phm 1.†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>φιλήμων</b>, -ονος, ὁ <BR /> <b>Philemon</b>: Phm 1.†<BR />  (From
-    Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'φιλήμων, -ονος, ὁ
+
+  Philemon: Phm 1.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'φιλήμων, -ονος, ὁ
+
+  Philemon: Phm 1.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5376
-    proximity: 0.8216
+    lemma: Φίλιππος
+    gloss: fond of horses {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   - strongs: G1056
-    proximity: 0.8203
+    lemma: Γαλιλαία
+    gloss: Galilæa {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   cross_language:
   - strongs: H7417a
-    proximity: 0.8284
+    proximity: 0.8284 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

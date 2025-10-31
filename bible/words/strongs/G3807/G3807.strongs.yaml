@@ -6,58 +6,54 @@ definition: a boy-leader, i.e. a servant whose office it was to take the childre
   to school; (by implication, (figuratively) a tutor ("pædagogue"))
 kjv_usage: instructor, schoolmaster
 derivation: from G3816 (παῖς) and a reduplicated form of G71 (ἄγω);
-extended_definition:
-  gloss: guardian
-  definition: '<b>παιδαγωγός</b>, -oῦ, ὁ<BR /> (παῖς, ἄγω), <BR />a guide, guardian,
-    trainer of boys, a tutor (disting. from διδάσκαλος, Xen., Lac., 3, 1), <b>usually
-    a trusty slave</b>: opposite to πατήρ, <ref=''1Co.4.15''>1Co.4:15;</ref> figuratively,
-    of the Law, π. εἰς Χριστόν, <ref=''Gal.3.24-25.''>Gal.3:24-25.</ref>†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> παιδᾰγωγ-ός</b>, ὁ, <br /> ={παιδὸς ἀγωγός}, <b>slave who went
-    with a boy from home to school and back again</b>, [<a href="javascript:void(0)"
-    title=" 5th c.BC: Herodotus Historicus 8.75, 5th c.BC: Euripides Tragicus “Ion”
-    725, “El.” 287, 5th c.BC: Antipho Orator 3.3.7, 5th c.BC: Lysias Orator 32.28,
-    5th-6th c.BC: Plato Philosophus “Lysis” 208c: coupled with τίτθη, τροφός, [prev.
-    author] “R.” 373c; with ἡγεμών, [prev. work] 467d ">Refs 5th c.BC+</a>]; with
-    διδάσκαλος, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus
-    “Respublica Lacedaemoniorum” 3.1 ">Refs 5th c.BC+</a>]; of Phoenix, as the π.
-    of Achilles, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus
-    “Respublica” 390e, etc.">Refs 5th c.BC+</a>]; Fabius is called the π. of Hannibal,
-    <b>because he always followed him about</b>, [<a href="javascript:void(0)" title="
-    1st-2nd c.AD: Plutarchus Biographus et Philosophus “Fabius Maximus” 5: _metaphorically_,
-    ὁ νόμος π. εἰς Χριστόν">Refs 1st c.AD+</a>] <b>has guided us</b> until attainment
-    of faith in Christ, [<a href="javascript:void(0)" title=" NT.Gal.3.24 ">NT</a>]:
-    generally, <b>leader</b>, δημοκρατίας, τυραννίδος, [<a href="javascript:void(0)"
-    title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Aratus” 48, “Galb.”
-    17. ">Refs 1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'παιδαγωγός, -oῦ, ὁ
+
+  (παῖς, ἄγω),
+
+  a guide, guardian, trainer of boys, a tutor (disting. from διδάσκαλος, Xen., Lac.,
+  3, 1), usually a trusty slave: opposite to πατήρ, 1Co.4:15; figuratively, of the
+  Law, π. εἰς Χριστόν, Gal.3:24-25.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'παιδᾰγωγ-ός, ὁ,
+
+  ={παιδὸς ἀγωγός}, slave who went with a boy from home to school and back again,
+  [Refs 5th c.BC+]; with διδάσκαλος, [Refs 5th c.BC+]; of Phoenix, as the π. of Achilles,
+  [Refs 5th c.BC+]; Fabius is called the π. of Hannibal, because he always followed
+  him about, [Refs 1st c.AD+] has guided us until attainment of faith in Christ, [NT]:
+  generally, leader, δημοκρατίας, τυραννίδος, [Refs 1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1320
-    proximity: 0.8031
+    lemma: διδάσκαλος
+    gloss: an instructor {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
   - strongs: G5572
-    proximity: 0.7958
+    lemma: ψευδοδιδάσκαλος
+    gloss: a spurious teacher {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
   - strongs: G3595
-    proximity: 0.7784
+    lemma: ὁδηγός
+    gloss: a conductor ) {openscriptures-strongs}
+    proximity: 0.7784 {macula-proximity}
   - strongs: G3594
-    proximity: 0.7562
+    lemma: ὁδηγέω
+    gloss: to show the way ) {openscriptures-strongs}
+    proximity: 0.7562 {macula-proximity}
   - strongs: G2012
-    proximity: 0.7503
+    lemma: ἐπίτροπος
+    gloss: a commissioner {openscriptures-strongs}
+    proximity: 0.7503 {macula-proximity}
   cross_language:
   - strongs: H5095
-    proximity: 0.824
+    lemma: נָהַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: hebrew
   - strongs: H3384b
-    proximity: 0.8218
+    proximity: 0.8218 {macula-proximity}
     language: hebrew
   - strongs: H539a
-    proximity: 0.7726
+    proximity: 0.7726 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

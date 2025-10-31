@@ -5,52 +5,62 @@ transliteration: dokimḗ
 definition: test (abstractly or concretely); by implication, trustiness
 kjv_usage: experience(-riment), proof, trial
 derivation: from the same as G1384 (δόκιμος);
-extended_definition:
-  gloss: test
-  definition: '<b>δοκιμή</b>, -ῆς, ἡ<BR /> (δόκιμος), [in Sm.: <ref=''Psa.68.31''>Psa.68:31</ref>
-    * ;] <BR />__1. the process of trial, <b>proving, test</b>: <ref=''2Co.8.2; 9.13''>2Co.8:2
-    9:13</ref> <BR /> __2. The result of trial, <b>approval, approvedness, proof</b>:
-    <ref=''Rom.5.4''>Rom.5:4</ref>, <ref=''2Co.2.9; 13.3''>2Co.2:9 13:3</ref>, <ref=''Php.2.22''>Php.2:22</ref>
-    (Cremer, 212, 701).†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> δοκῐμ-ή</b>, ἡ, <br /> <b>proof, test,</b> interpolated in
-    [<a href="javascript:void(0)" title=" 1st c.AD: Dioscorides (Dioscurides) Medicus
-    4.184. ">Refs 1st c.AD+</a>]<br /><Level3><b>__2</b></Level3> <b>tried</b> or
-    <b>approved character,</b> [<a href="javascript:void(0)" title="NT.Phil.2.22,
-    cf. NT.2Cor.2.9. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δοκιμή, -ῆς, ἡ
+
+  (δόκιμος), [in Sm.: Psa.68:31 * ;]
+
+  __1. the process of trial, proving, test: 2Co.8:2 9:13
+
+  __2. The result of trial, approval, approvedness, proof: Rom.5:4, 2Co.2:9 13:3,
+  Php.2:22 (Cremer, 212, 701).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'δοκῐμ-ή, ἡ,
+
+  proof, test, interpolated in [Refs 1st c.AD+]
+
+  __2 tried or approved character, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3984
-    proximity: 0.8245
+    lemma: πεῖρα
+    gloss: a test {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: G1650
-    proximity: 0.8161
+    lemma: ἔλεγχος
+    gloss: proof {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: G728
-    proximity: 0.8155
+    proximity: 0.8155 {macula-proximity}
   - strongs: G96
-    proximity: 0.8035
+    proximity: 0.8035 {macula-proximity}
   - strongs: G1384
-    proximity: 0.7702
+    lemma: δόκιμος
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7702 {macula-proximity}
   - strongs: G3985
-    proximity: 0.7553
+    lemma: πειράζω
+    gloss: to test {openscriptures-strongs}
+    proximity: 0.7553 {macula-proximity}
   - strongs: G3986
-    proximity: 0.7466
+    lemma: πειρασμός
+    gloss: a putting to proof {openscriptures-strongs}
+    proximity: 0.7466 {macula-proximity}
   - strongs: G5039
-    proximity: 0.7263
+    lemma: τεκμήριον
+    gloss: a token {openscriptures-strongs}
+    proximity: 0.7263 {macula-proximity}
   - strongs: G1732
-    proximity: 0.7045
+    lemma: ἔνδειξις
+    gloss: indication {openscriptures-strongs}
+    proximity: 0.7045 {macula-proximity}
   cross_language:
   - strongs: H1305
-    proximity: 0.7673
+    lemma: בָּרַר
+    gloss: to clarify {openscriptures-strongs}
+    proximity: 0.7673 {macula-proximity}
     language: hebrew
   - strongs: H969
-    proximity: 0.7281
+    proximity: 0.7281 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

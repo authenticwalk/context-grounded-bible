@@ -5,52 +5,58 @@ transliteration: mammōnâs
 definition: mammonas, i.e. avarice (deified)
 kjv_usage: mammon
 derivation: of Chaldee origin (confidence, i.e. wealth, personified);
-extended_definition:
-  gloss: wealth
-  definition: '<b>μαμωνᾶς</b> (Rec. μαμμ-), -ᾶ (Bl., § 7, 4), ό (Aram. מָמוֺנָא),
-    <BR /> <b>mammon, riches</b>: <ref=''Mat.6.24''>Mat.6:24</ref>, <ref=''Luk.16.9,
-    11; 16.13''>Luk.16:9, 11 16:13</ref>.†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> μαμωνᾶς</b>, ᾶ, <br /> <b>wealth,</b> [<a href="javascript:void(0)"
-    title="NT.Luke.16.9, +others (Aramaic word.) ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'μαμωνᾶς (Rec. μαμμ-), -ᾶ (Bl., § 7, 4), ό (Aram. מָמוֺנָא),
+
+  mammon, riches: Mat.6:24, Luk.16:9, 11 16:13.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'μαμωνᾶς, ᾶ,
+
+  wealth, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A3702
-    proximity: 0.8225
+    proximity: 0.8225 {macula-proximity}
   - strongs: G2773
-    proximity: 0.8146
+    lemma: κερματιστής
+    gloss: a handler of coins {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
   - strongs: G905
-    proximity: 0.8043
+    proximity: 0.8043 {macula-proximity}
   - strongs: G1101
-    proximity: 0.8038
+    lemma: γλωσσόκομον
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
   - strongs: G694
-    proximity: 0.7947
+    proximity: 0.7947 {macula-proximity}
   - strongs: G5475
-    proximity: 0.7903
+    lemma: χαλκός
+    gloss: copper (the substance {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
   - strongs: G866
-    proximity: 0.7827
+    proximity: 0.7827 {macula-proximity}
   cross_language:
   - strongs: H7075
-    proximity: 0.8285
+    lemma: קִנְיָן
+    gloss: creation {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: hebrew
   - strongs: H214
-    proximity: 0.8248
+    proximity: 0.8248 {macula-proximity}
     language: hebrew
   - strongs: H3701
-    proximity: 0.8094
+    lemma: כֶּסֶף
+    gloss: silver {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
     language: hebrew
   - strongs: H6259
-    proximity: 0.8018
+    lemma: עָתוּד
+    gloss: prepared {openscriptures-strongs}
+    proximity: 0.8018 {macula-proximity}
     language: hebrew
   - strongs: H7399
-    proximity: 0.7931
+    lemma: רְכוּשׁ
+    gloss: property {openscriptures-strongs}
+    proximity: 0.7931 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,43 +7,48 @@ definition: properly, to ascend; figuratively, to be valuable (objectively; usef
   subjectively; benefited)
 kjv_usage: '[idiom] at all, set forward, can do good, (be, have) profit, (able).'
 derivation: a primitive root;
-extended_definition:
-  gloss: to gain
-  definition: (Hiphil) to gain, profit, benefit, avail
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Hiphil) to gain, profit, benefit, avail {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A1b
-    proximity: 0.8218
+    proximity: 0.8218 {macula-proximity}
   - strongs: H2895
-    proximity: 0.8146
+    lemma: טוֹב
+    gloss: to be (transitively {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
   - strongs: H2896b
-    proximity: 0.7945
+    proximity: 0.7945 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7845
+    proximity: 0.7845 {macula-proximity}
   - strongs: H5504
-    proximity: 0.7691
+    lemma: סַחַר
+    gloss: profit {openscriptures-strongs}
+    proximity: 0.7691 {macula-proximity}
   - strongs: H2896
-    proximity: 0.7456
+    lemma: טוֹב
+    gloss: good  in the widest sense {openscriptures-strongs}
+    proximity: 0.7456 {macula-proximity}
   cross_language:
   - strongs: G997
-    proximity: 0.8236
+    proximity: 0.8236 {macula-proximity}
     language: greek
   - strongs: G2570
-    proximity: 0.8135
+    lemma: καλός
+    proximity: 0.8135 {macula-proximity}
     language: greek
   - strongs: G4368
-    proximity: 0.8088
+    lemma: προστάτις
+    gloss: a patroness {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.8031
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
     language: greek
   - strongs: G1947
-    proximity: 0.7965
+    lemma: ἐπικουρία
+    gloss: assistance {openscriptures-strongs}
+    proximity: 0.7965 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

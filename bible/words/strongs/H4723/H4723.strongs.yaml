@@ -11,34 +11,47 @@ derivation: or מִקְוֵה; (1 Kings 10:28), or מִקְוֵאlemma מִּק�
 related_words:
   synonyms:
   - strongs: H3642
-    proximity: 0.829
+    lemma: כָּמַהּ
+    gloss: to pine after {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: H2976
-    proximity: 0.7963
+    lemma: יָאַשׁ
+    gloss: to desist {openscriptures-strongs}
+    proximity: 0.7963 {macula-proximity}
   - strongs: H3689a
-    proximity: 0.7429
+    proximity: 0.7429 {macula-proximity}
   - strongs: H7952
-    proximity: 0.7414
+    lemma: שָׁלָה
+    gloss: to mislead {openscriptures-strongs}
+    proximity: 0.7414 {macula-proximity}
   - strongs: H2837
-    proximity: 0.7012
+    lemma: חֵשֶׁק
+    gloss: delight {openscriptures-strongs}
+    proximity: 0.7012 {macula-proximity}
   - strongs: H4180a
-    proximity: 0.7002
+    proximity: 0.7002 {macula-proximity}
   cross_language:
   - strongs: G4327
-    proximity: 0.8172
+    lemma: προσδέχομαι
+    gloss: to admit (to intercourse {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
     language: greek
   - strongs: G2107
-    proximity: 0.8133
+    lemma: εὐδοκία
+    gloss: satisfaction {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
     language: greek
   - strongs: G4329
-    proximity: 0.7591
+    lemma: προσδοκία
+    gloss: apprehension {openscriptures-strongs}
+    proximity: 0.7591 {macula-proximity}
     language: greek
   - strongs: G2172
-    proximity: 0.7473
+    lemma: εὔχομαι
+    gloss: to wish {openscriptures-strongs}
+    proximity: 0.7473 {macula-proximity}
     language: greek
   - strongs: G603
-    proximity: 0.7332
+    proximity: 0.7332 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

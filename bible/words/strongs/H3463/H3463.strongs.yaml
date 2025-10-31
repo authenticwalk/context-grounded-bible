@@ -6,28 +6,28 @@ pronunciation: yaw-shane'
 definition: sleepy
 kjv_usage: asleep, (one out of) sleep(-eth, -ing), slept.
 derivation: from H3462 (יָשֵׁן);
-extended_definition:
-  gloss: sleeping
-  definition: sleeping
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: sleeping {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1724
-    proximity: 0.7799
+    lemma: דָּהַם
+    gloss: to be dumb {openscriptures-strongs}
+    proximity: 0.7799 {macula-proximity}
   - strongs: H5124
-    proximity: 0.7682
+    lemma: נוּמָה
+    gloss: sleepiness {openscriptures-strongs}
+    proximity: 0.7682 {macula-proximity}
   - strongs: H7901
-    proximity: 0.7263
+    lemma: שָׁכַב
+    gloss: to lie down (for rest {openscriptures-strongs}
+    proximity: 0.7263 {macula-proximity}
   cross_language:
   - strongs: G70
-    proximity: 0.7388
+    proximity: 0.7388 {macula-proximity}
     language: greek
   - strongs: G3573
-    proximity: 0.7028
+    lemma: νυστάζω
+    gloss: to nod {openscriptures-strongs}
+    proximity: 0.7028 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

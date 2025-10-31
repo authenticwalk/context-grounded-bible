@@ -5,46 +5,48 @@ transliteration: hierósylos
 definition: a temple-despoiler
 kjv_usage: robber of churches
 derivation: from G2411 (ἱερόν) and G4813 (συλάω);
-extended_definition:
-  gloss: temple robber
-  definition: '<b>ἱερόσυλος</b>, -ον<BR /> (ἱερόν, συλάω), [in LXX: <ref=''2Ma.4.42''>2Ma.4:42</ref>
-    (cf. -λημα, <ref=''2Ma.4.39''>2Ma.4:39;</ref> -λία, <ref=''2Ma.13.6''>2Ma.13:6</ref>)*
-    ;] <BR /><b>robbing temples</b>: <ref=''Act.19.37.''>Act.19:37.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἱερόσῡλ-ος</b>, ὁ, <br /> (<i>proparoxytone</i>) <b>temple-robber</b>,
-    or generally, <b>sacrilegious person</b>, [<a href="javascript:void(0)" title="
-    5th-6th c.BC: Aristophanes Comicus “Plutus” 30, 5th c.BC: Lysias Orator 30.21,
-    5th-6th c.BC: Plato Philosophus “Respublica” 344b, 4th-3rd c.BC: Menander Comicus
-    “Ἐπιτρέποντες” 560, etc.: _feminine_, [prev. work] 504: ἱερόσυλε γραῦ [prev. work]
-    524 ">Refs 5th c.BC+</a>]: <i>neuter</i> as <i>adjective</i>, ἱ. θηρία [<a href="javascript:void(0)"
-    title=" [prev. author] “Pk.” 176. ">Refs</a>]<br /><Level2><b>__II</b></Level2>
-    of things, <b>got by sacrilege</b>, παροψίδες [<a href="javascript:void(0)" title="
-    4th c.BC: Eubulus Comicus 7.4. ">Refs 4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἱερόσυλος, -ον
+
+  (ἱερόν, συλάω), [in LXX: 2Ma.4:42 (cf. -λημα, 2Ma.4:39; -λία, 2Ma.13:6)* ;]
+
+  robbing temples: Act.19:37.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἱερόσῡλ-ος, ὁ,
+
+  (proparoxytone) temple-robber, or generally, sacrilegious person, [Refs 5th c.BC+]:
+  neuter as adjective, ἱ. θηρία [Refs]
+
+  __II of things, got by sacrilege, παροψίδες [Refs 4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A1965
-    proximity: 0.8126
+    proximity: 0.8126 {macula-proximity}
   - strongs: G2813
-    proximity: 0.812
+    lemma: κλέπτω
+    gloss: to filch {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: G3485
-    proximity: 0.8071
+    lemma: ναός
+    gloss: a fane {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
   - strongs: G1493
-    proximity: 0.7881
+    lemma: εἰδωλεῖον
+    gloss: an image-fane {openscriptures-strongs}
+    proximity: 0.7881 {macula-proximity}
   - strongs: G2411
-    proximity: 0.7671
+    lemma: ἱερόν
+    gloss: a sacred place {openscriptures-strongs}
+    proximity: 0.7671 {macula-proximity}
   cross_language:
   - strongs: H1964
-    proximity: 0.8055
+    lemma: הֵיכָל
+    gloss: a large public building {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
     language: hebrew
   - strongs: H7541
-    proximity: 0.7488
+    lemma: רַקָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7488 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

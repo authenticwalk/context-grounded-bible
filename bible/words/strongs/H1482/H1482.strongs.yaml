@@ -6,42 +6,56 @@ pronunciation: goor
 definition: a cub (as still abiding in the lair), especially of the lion
 kjv_usage: whelp, young one.
 derivation: or (shortened) גֻּר; perhaps from H1481 (גּוּר);
-extended_definition:
-  gloss: whelp
-  definition: cub, whelp, young
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: cub, whelp, young {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5291
-    proximity: 0.8291
+    lemma: נַעֲרָה
+    gloss: a girl {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: H970
-    proximity: 0.8283
+    proximity: 0.8283 {macula-proximity}
   - strongs: H3207
-    proximity: 0.8093
+    lemma: יַלְדָּה
+    gloss: a lass {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
   - strongs: H3208
-    proximity: 0.8055
+    lemma: יַלְדוּת
+    gloss: boyhood {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
   - strongs: H3833
-    proximity: 0.8045
+    lemma: לָבִיא
+    gloss: to roar {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
   - strongs: H5288
-    proximity: 0.7996
+    lemma: נַעַר
+    gloss: a boy {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
   - strongs: H2945
-    proximity: 0.7953
+    lemma: טַף
+    gloss: a family {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
   - strongs: H5958
-    proximity: 0.7938
+    lemma: עֶלֶם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7938 {macula-proximity}
   - strongs: H6082
-    proximity: 0.7889
+    lemma: עֹפֶר
+    gloss: a fawn {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
   - strongs: H3206
-    proximity: 0.7832
+    lemma: יֶלֶד
+    gloss: something born {openscriptures-strongs}
+    proximity: 0.7832 {macula-proximity}
   cross_language:
   - strongs: G3813
-    proximity: 0.8284
+    lemma: παιδίον
+    gloss: a childling {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: greek
   - strongs: G3556
-    proximity: 0.8151
+    lemma: νοσσίον
+    gloss: a birdling {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,49 +6,68 @@ pronunciation: say-awr'
 definition: hair (as if tossed or bristling)
 kjv_usage: hair(-y), [idiom] rough.
 derivation: or שַׂעַר; (Isaiah 7:20), from H8175 (שָׂעַר) in the sense of dishevelling;
-extended_definition:
-  gloss: hair
-  definition: '1) hair<br>1a) hair (of animals, man)<br>1b) hair (of garment made
-    of hair)<BR>Aramaic equivalent: <i>se.ar</i> (שְׂעַר "hair" H8177)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) hair
+
+  1a) hair (of animals, man)
+
+  1b) hair (of garment made of hair)
+
+  Aramaic equivalent: se.ar (שְׂעַר "hair" H8177) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7298a
-    proximity: 0.8055
+    proximity: 0.8055 {macula-proximity}
   - strongs: H5596b
-    proximity: 0.7976
+    proximity: 0.7976 {macula-proximity}
   - strongs: H7872
-    proximity: 0.7709
+    lemma: שֵׂיבָה
+    gloss: old age {openscriptures-strongs}
+    proximity: 0.7709 {macula-proximity}
   - strongs: H3697
-    proximity: 0.7637
+    lemma: כָּסַם
+    gloss: to shear {openscriptures-strongs}
+    proximity: 0.7637 {macula-proximity}
   - strongs: H4177
-    proximity: 0.7634
+    lemma: מוֹרָה
+    gloss: a razor {openscriptures-strongs}
+    proximity: 0.7634 {macula-proximity}
   - strongs: H7867
-    proximity: 0.7588
+    lemma: שִׂיב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7588 {macula-proximity}
   - strongs: H5145
-    proximity: 0.7544
+    lemma: נֶזֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7544 {macula-proximity}
   - strongs: A7217
-    proximity: 0.7536
+    proximity: 0.7536 {macula-proximity}
   - strongs: H7112
-    proximity: 0.7239
+    lemma: קָצַץ
+    gloss: to chop off {openscriptures-strongs}
+    proximity: 0.7239 {macula-proximity}
   - strongs: H2206
-    proximity: 0.7166
+    lemma: זָקָן
+    gloss: the beard {openscriptures-strongs}
+    proximity: 0.7166 {macula-proximity}
   cross_language:
   - strongs: G2776
-    proximity: 0.8069
+    lemma: κεφαλή
+    gloss: the head {openscriptures-strongs}
+    proximity: 0.8069 {macula-proximity}
     language: greek
   - strongs: G3587
-    proximity: 0.7921
+    lemma: ξυράω
+    gloss: to shave or "shear" the hair {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
     language: greek
   - strongs: G5155
-    proximity: 0.7316
+    lemma: τρίχινος
+    gloss: hairy {openscriptures-strongs}
+    proximity: 0.7316 {macula-proximity}
     language: greek
   - strongs: G4117
-    proximity: 0.7009
+    lemma: πλέγμα
+    gloss: a plait {openscriptures-strongs}
+    proximity: 0.7009 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

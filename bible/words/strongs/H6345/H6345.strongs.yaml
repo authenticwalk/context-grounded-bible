@@ -6,41 +6,47 @@ pronunciation: pakh-daw'
 definition: alarm (i.e. awe)
 kjv_usage: fear.
 derivation: feminine of H6343 (פַּחַד);
-extended_definition:
-  gloss: dread
-  definition: dread, fear, awe, religious awe
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: dread, fear, awe, religious awe {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2730
-    proximity: 0.7884
+    lemma: חָרֵד
+    gloss: fearful {openscriptures-strongs}
+    proximity: 0.7884 {macula-proximity}
   - strongs: H2865
-    proximity: 0.78
+    lemma: חָתַת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.78 {macula-proximity}
   - strongs: H1672
-    proximity: 0.7597
+    lemma: דָּאַג
+    gloss: be anxious {openscriptures-strongs}
+    proximity: 0.7597 {macula-proximity}
   - strongs: H2119a
-    proximity: 0.7444
+    proximity: 0.7444 {macula-proximity}
   - strongs: H367
-    proximity: 0.7416
+    proximity: 0.7416 {macula-proximity}
   cross_language:
   - strongs: G5141
-    proximity: 0.8196
+    lemma: τρέμω
+    gloss: to "tremble" or fear {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
     language: greek
   - strongs: G2318
-    proximity: 0.8075
+    lemma: θεοσεβής
+    gloss: reverent of God {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
     language: greek
   - strongs: G2317
-    proximity: 0.7938
+    lemma: θεοσέβεια
+    gloss: devoutness {openscriptures-strongs}
+    proximity: 0.7938 {macula-proximity}
     language: greek
   - strongs: G870
-    proximity: 0.7794
+    proximity: 0.7794 {macula-proximity}
     language: greek
   - strongs: G2125
-    proximity: 0.7294
+    lemma: εὐλαβέομαι
+    gloss: to be circumspect {openscriptures-strongs}
+    proximity: 0.7294 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

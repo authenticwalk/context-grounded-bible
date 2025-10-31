@@ -5,45 +5,58 @@ transliteration: Ioulía
 definition: Julia, a Christian woman
 kjv_usage: Julia
 derivation: feminine of the same as G2457 (Ἰούλιος);
-extended_definition:
-  gloss: Julia
-  definition: '<b>Ἰουλία</b>, -ας, ἡ <BR /> <b>Julia</b>: <ref=''Rom.16.15.''>Rom.16:15.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-F-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἰουλία</b>, -ας, ἡ <BR /> <b>Julia</b>: <ref=''Rom.16.15.''>Rom.16:15.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἰουλία, -ας, ἡ
+
+  Julia: Rom.16:15.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἰουλία, -ας, ἡ
+
+  Julia: Rom.16:15.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4948
-    proximity: 0.8282
+    lemma: Σύρος
+    gloss: a Syran {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: G2243
-    proximity: 0.8242
+    lemma: Ἡλίας
+    gloss: Helias {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: G3517
-    proximity: 0.8111
+    lemma: Νηρεύς
+    gloss: Nereus {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: G3190
-    proximity: 0.8111
+    lemma: Μελεᾶς
+    gloss: Meleas {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: G3774
-    proximity: 0.8111
+    lemma: Οὐρίας
+    gloss: Urias {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: G2458
-    proximity: 0.8056
+    lemma: Ἰουνιᾶς
+    gloss: Junias {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: G4947
-    proximity: 0.8025
+    lemma: Συρία
+    gloss: Syria {openscriptures-strongs}
+    proximity: 0.8025 {macula-proximity}
   cross_language:
   - strongs: H1282
-    proximity: 0.829
+    lemma: בָּרִיחַ
+    gloss: Bariach {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: hebrew
   - strongs: H805
-    proximity: 0.815
+    proximity: 0.815 {macula-proximity}
     language: hebrew
   - strongs: H3812
-    proximity: 0.8086
+    lemma: לֵאָה
+    gloss: Leah {openscriptures-strongs}
+    proximity: 0.8086 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

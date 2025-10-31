@@ -5,42 +5,50 @@ transliteration: phragellóō
 definition: to whip, i.e. lash as a public punishment
 kjv_usage: scourge
 derivation: from a presumed equivalent of the Latin flagellum;
-extended_definition:
-  gloss: to whip
-  definition: '<b>φραγελλόω</b>, -ῶ<BR /> (φραγέλλιον, which see), <BR /><b>to scourge</b>:
-    with accusative, <ref=''Mat.27.26''>Mat.27:26</ref>, <ref=''Mrk.15.15''>Mrk.15:15</ref>
-    (eccl.).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> φραγελλ-όω</b>, <br /> = Latin <i>flagellare,</i> [<a href="javascript:void(0)"
-    title="NT.Matt.27.26, NT.Mark.15.15. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'φραγελλόω, -ῶ
+
+  (φραγέλλιον, which see),
+
+  to scourge: with accusative, Mat.27:26, Mrk.15:15 (eccl.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'φραγελλ-όω,
+
+  = Latin flagellare, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4127
-    proximity: 0.7596
+    lemma: πληγή
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.7596 {macula-proximity}
   - strongs: G5416
-    proximity: 0.7465
+    lemma: φραγέλλιον
+    gloss: a whip {openscriptures-strongs}
+    proximity: 0.7465 {macula-proximity}
   cross_language:
   - strongs: H1758
-    proximity: 0.8299
+    lemma: דּוּשׁ
+    gloss: to trample or thresh {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: hebrew
   - strongs: H7752
-    proximity: 0.7862
+    lemma: שׁוֹט
+    gloss: a lash {openscriptures-strongs}
+    proximity: 0.7862 {macula-proximity}
     language: hebrew
   - strongs: H2250
-    proximity: 0.7853
+    lemma: חַבּוּרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7853 {macula-proximity}
     language: hebrew
   - strongs: H1986
-    proximity: 0.7693
+    lemma: הָלַם
+    gloss: to strike down {openscriptures-strongs}
+    proximity: 0.7693 {macula-proximity}
     language: hebrew
   - strongs: H5217
-    proximity: 0.7413
+    lemma: נָכָא
+    gloss: to smite {openscriptures-strongs}
+    proximity: 0.7413 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

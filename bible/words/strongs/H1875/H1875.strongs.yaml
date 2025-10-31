@@ -8,51 +8,89 @@ definition: properly, to tread or frequent; usually to follow (for pursuit or se
 kjv_usage: ask, [idiom] at all, care for, [idiom] diligently, inquire, make inquisition,
   (necro-) mancer, question, require, search, seek (for, out), [idiom] surely.
 derivation: a primitive root;
-extended_definition:
-  gloss: to seek
-  definition: 1) to resort to, seek, seek with care, enquire, require<br>1a) (Qal)<br>1a1)
-    to resort to, frequent (a place), (tread a place)<br>1a2) to consult, enquire
-    of, seek<br>1a2a) of God<br>1a2b) of heathen gods, necromancers<br>1a3) to seek
-    deity in prayer and worship<br>1a3a) God<br>1a3b) heathen deities<br>1a4) to seek
-    (with a demand), demand, require<br>1a5) to investigate, enquire<br>1a6) to ask
-    for, require, demand<br>1a7) to practice, study, follow, seek with application<br>1a8)
-    to seek with care, care for<br>1b) (Niphal)<br>1b1) to allow oneself to be enquired
-    of, consulted (only of God)<br>1b2) to be sought, be sought out<br>1b3) to be
-    required (of blood)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to resort to, seek, seek with care, enquire, require
+
+  1a) (Qal)
+
+  1a1) to resort to, frequent (a place), (tread a place)
+
+  1a2) to consult, enquire of, seek
+
+  1a2a) of God
+
+  1a2b) of heathen gods, necromancers
+
+  1a3) to seek deity in prayer and worship
+
+  1a3a) God
+
+  1a3b) heathen deities
+
+  1a4) to seek (with a demand), demand, require
+
+  1a5) to investigate, enquire
+
+  1a6) to ask for, require, demand
+
+  1a7) to practice, study, follow, seek with application
+
+  1a8) to seek with care, care for
+
+  1b) (Niphal)
+
+  1b1) to allow oneself to be enquired of, consulted (only of God)
+
+  1b2) to be sought, be sought out
+
+  1b3) to be required (of blood) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H310
-    proximity: 0.8252
+    proximity: 0.8252 {macula-proximity}
   - strongs: H2714
-    proximity: 0.8151
+    lemma: חֵקֶר
+    gloss: examination {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
   - strongs: H7596
-    proximity: 0.8133
+    lemma: שְׁאֵלָה
+    gloss: a petition {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   - strongs: H2620
-    proximity: 0.809
+    lemma: חָסָה
+    gloss: to flee for protection {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
   - strongs: H7121
-    proximity: 0.8025
+    lemma: קָרָא
+    gloss: to call out to (i.e. properly {openscriptures-strongs}
+    proximity: 0.8025 {macula-proximity}
   - strongs: H1243
-    proximity: 0.8016
+    lemma: בַּקָּרָה
+    gloss: a looking after {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
   cross_language:
   - strongs: G1377
-    proximity: 0.8257
+    lemma: διώκω
+    gloss: compare the base of G1169  and G1249 ) {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G2206
-    proximity: 0.8257
+    lemma: ζηλόω
+    gloss: to have warmth of feeling for or against {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G5389
-    proximity: 0.8224
+    lemma: φιλοτιμέομαι
+    gloss: to be fond of honor {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
     language: greek
   - strongs: G1331
-    proximity: 0.8201
+    lemma: διερωτάω
+    gloss: to question throughout {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G4441
-    proximity: 0.8104
+    lemma: πυνθάνομαι
+    gloss: to question {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,45 +6,51 @@ pronunciation: tek-oo-maw'
 definition: resistfulness
 kjv_usage: power to stand.
 derivation: from H6965 (קוּם);
-extended_definition:
-  gloss: standing
-  definition: standing, ability or power to stand
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: standing, ability or power to stand {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H410a
-    proximity: 0.8277
+    proximity: 0.8277 {macula-proximity}
   - strongs: A6966
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
   - strongs: H413
-    proximity: 0.8151
+    proximity: 0.8151 {macula-proximity}
   - strongs: H3808
-    proximity: 0.8128
+    lemma: לֹא
+    gloss: not {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
   - strongs: H5797
-    proximity: 0.7975
+    lemma: עֹז
+    gloss: strength in various applications (force {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
   - strongs: H6965
-    proximity: 0.7927
+    lemma: קוּם
+    gloss: to rise (in various applications {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
   - strongs: H5324
-    proximity: 0.7895
+    lemma: נָצַב
+    gloss: to station {openscriptures-strongs}
+    proximity: 0.7895 {macula-proximity}
   cross_language:
   - strongs: G4023
-    proximity: 0.8291
+    lemma: περιέχω
+    gloss: to hold all around {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
     language: greek
   - strongs: G475
-    proximity: 0.8203
+    proximity: 0.8203 {macula-proximity}
     language: greek
   - strongs: G1257
-    proximity: 0.815
+    lemma: διαλείπω
+    gloss: to leave off in the middle {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
     language: greek
   - strongs: G4314
-    proximity: 0.8121
+    lemma: πρός
+    gloss: a preposition of direction {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
     language: greek
   - strongs: G898
-    proximity: 0.8075
+    proximity: 0.8075 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

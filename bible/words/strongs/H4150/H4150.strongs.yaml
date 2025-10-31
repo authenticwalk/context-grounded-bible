@@ -10,42 +10,63 @@ definition: properly, an appointment, i.e. a fixed time or season; specifically,
 kjv_usage: appointed (sign, time), (place of, solemn) assembly, congregation, (set,
   solemn) feast, (appointed, due) season, solemn(-ity), synogogue, (set) time (appointed).
 derivation: or מֹעֵד; or (feminine) מוֹעָדָה; (2 Chronicles 8:13), from H3259 (יָעַד);
-extended_definition:
-  gloss: 'meeting: signal appointed'
-  definition: ': signal_appointed<br>1) appointed place, appointed time, meeting<br>1a)
-    appointed time<br>1a1) appointed time (general)<br>1a2) sacred season, set feast,
-    appointed season<br>1b) appointed meeting<br>1c) appointed place<br>1d) appointed
-    sign or signal<br>1e) tent of meeting'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': signal_appointed
+
+  1) appointed place, appointed time, meeting
+
+  1a) appointed time
+
+  1a1) appointed time (general)
+
+  1a2) sacred season, set feast, appointed season
+
+  1b) appointed meeting
+
+  1c) appointed place
+
+  1d) appointed sign or signal
+
+  1e) tent of meeting {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4152
-    proximity: 0.8243
+    lemma: מוּעָדָה
+    gloss: an appointed place {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: H8385a
-    proximity: 0.815
+    proximity: 0.815 {macula-proximity}
   - strongs: H5715
-    proximity: 0.814
+    lemma: עֵדוּת
+    gloss: testimony {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
   - strongs: H6298
-    proximity: 0.7965
+    lemma: פָּגַשׁ
+    gloss: to come in contact with {openscriptures-strongs}
+    proximity: 0.7965 {macula-proximity}
   cross_language:
   - strongs: G1858
-    proximity: 0.828
+    lemma: ἑορτάζω
+    gloss: to observe a festival {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G3831
-    proximity: 0.8238
+    lemma: πανήγυρις
+    gloss: a mass-meeting {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
     language: greek
   - strongs: G4962
-    proximity: 0.8216
+    lemma: συστρέφω
+    gloss: to twist together {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
     language: greek
   - strongs: G4638
-    proximity: 0.8211
+    lemma: σκήνωμα
+    gloss: an encampment {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
     language: greek
   - strongs: G2122
-    proximity: 0.8189
+    lemma: εὐκαίρως
+    gloss: opportunely {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

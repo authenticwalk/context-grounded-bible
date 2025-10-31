@@ -5,51 +5,65 @@ transliteration: orthrízō
 definition: to use the dawn, i.e. (by implication) to repair betimes
 kjv_usage: come early in the morning
 derivation: from G3722 (ὄρθρος);
-extended_definition:
-  gloss: to rise at dawn
-  definition: '<b>ὀρθρίζω</b><BR /> (ὄρθρος), [in LXX chiefly for שָׁכַם hi., <ref=''Gen.19.2''>Gen.19:2</ref>,
-    al.; also  for שָׁחַר pi., <ref=''Psa.63.1''>Psa.63:1</ref>, al., etc. ;] <BR
-    />= cl. poët., ὀρθρεύω, <b>to rise early</b>: before πρός, with accusative of
-    person(s) (as Ps, l.with, al.), <ref=''Luk.21.38''>Luk.21:38</ref> (see Thumb,
-    Hellen., 123).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ὀρθρ-ίζω</b>, <br /> ={ὀρθρεύω}, [<a href="javascript:void(0)"
-    title=" LXX.Gen.19.27, LXX.Job.7.21, +others, NT.Luke.21.38. ">LXX+NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ὀρθρίζω
+
+  (ὄρθρος), [in LXX chiefly for שָׁכַם hi., Gen.19:2, al.; also  for שָׁחַר pi., Psa.63:1,
+  al., etc. ;]
+
+  = cl. poët., ὀρθρεύω, to rise early: before πρός, with accusative of person(s) (as
+  Ps, l.with, al.), Luk.21:38 (see Thumb, Hellen., 123).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὀρθρ-ίζω,
+
+  ={ὀρθρεύω}, [LXX+NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3796
-    proximity: 0.827
+    lemma: ὀψέ
+    gloss: late in the day {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: G1204
-    proximity: 0.8237
+    lemma: δεῦρο
+    gloss: here {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: G1461
-    proximity: 0.8233
+    lemma: ἐγκεντρίζω
+    gloss: to prick in {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: A8238
-    proximity: 0.8224
+    proximity: 0.8224 {macula-proximity}
   - strongs: G4407
-    proximity: 0.8189
+    lemma: πρωϊνός
+    gloss: pertaining to the dawn {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: G3588
-    proximity: 0.8175
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
   - strongs: G3029
-    proximity: 0.8163
+    lemma: λίαν
+    gloss: much {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
   - strongs: G305
-    proximity: 0.8163
+    proximity: 0.8163 {macula-proximity}
   - strongs: G1722
-    proximity: 0.8015
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.8015 {macula-proximity}
   - strongs: G2240
-    proximity: 0.7971
+    lemma: ἥκω
+    gloss: to arrive {openscriptures-strongs}
+    proximity: 0.7971 {macula-proximity}
   cross_language:
   - strongs: H1966
-    proximity: 0.8262
+    lemma: הֵילֵל
+    gloss: the morning-star {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
     language: hebrew
   - strongs: H4891
-    proximity: 0.8208
+    lemma: מִשְׁחָר
+    gloss: dawn {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

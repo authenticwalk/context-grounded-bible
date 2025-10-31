@@ -10,40 +10,53 @@ derivation: or שַׁעֲרִירִיָּה; or שַׁעֲרֻרִת; feminine f
 related_words:
   synonyms:
   - strongs: H7451
-    proximity: 0.8254
+    lemma: רַע
+    gloss: bad or  evil {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: H4637
-    proximity: 0.8221
+    lemma: מַעֲרָצָה
+    gloss: violence {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: A1763
-    proximity: 0.8098
+    proximity: 0.8098 {macula-proximity}
   - strongs: A873
-    proximity: 0.8091
+    proximity: 0.8091 {macula-proximity}
   - strongs: A574a
-    proximity: 0.7964
+    proximity: 0.7964 {macula-proximity}
   - strongs: H5039
-    proximity: 0.7861
+    lemma: נְבָלָה
+    gloss: foolishness {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
   - strongs: H8581
-    proximity: 0.758
+    lemma: תַּעָב
+    gloss: to loathe {openscriptures-strongs}
+    proximity: 0.758 {macula-proximity}
   - strongs: H2866
-    proximity: 0.7429
+    lemma: חֲתַת
+    gloss: dismay {openscriptures-strongs}
+    proximity: 0.7429 {macula-proximity}
   - strongs: H8251
-    proximity: 0.711
+    lemma: שִׁקּוּץ
+    gloss: disgusting {openscriptures-strongs}
+    proximity: 0.711 {macula-proximity}
   cross_language:
   - strongs: G111
-    proximity: 0.815
+    proximity: 0.815 {macula-proximity}
     language: greek
   - strongs: G3404
-    proximity: 0.8146
+    lemma: μισέω
+    gloss: to detest {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
     language: greek
   - strongs: G4767
-    proximity: 0.7899
+    lemma: στυγνητός
+    gloss: hated {openscriptures-strongs}
+    proximity: 0.7899 {macula-proximity}
     language: greek
   - strongs: G948
-    proximity: 0.7665
+    proximity: 0.7665 {macula-proximity}
     language: greek
   - strongs: G946
-    proximity: 0.7444
+    proximity: 0.7444 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

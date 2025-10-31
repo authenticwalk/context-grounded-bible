@@ -6,30 +6,34 @@ pronunciation: nes-oo-aw'
 definition: something borne, i.e. a load
 kjv_usage: carriage.
 derivation: or rather, נְשֻׂאָה; feminine. passive participle of H5375 (נָשָׂא);
-extended_definition:
-  gloss: burden
-  definition: what is borne or carried about, load
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: what is borne or carried about, load {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5445
-    proximity: 0.8237
+    lemma: סָבַל
+    gloss: to carry {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: H4132
-    proximity: 0.8185
+    lemma: מוֹט
+    gloss: a wavering {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: H4853
-    proximity: 0.7487
+    lemma: מַשָּׂא
+    gloss: a burden {openscriptures-strongs}
+    proximity: 0.7487 {macula-proximity}
   - strongs: H5449
-    proximity: 0.7085
+    lemma: סַבָּל
+    gloss: a porter {openscriptures-strongs}
+    proximity: 0.7085 {macula-proximity}
   cross_language:
   - strongs: G4064
-    proximity: 0.8197
+    lemma: περιφέρω
+    gloss: to convey around {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
     language: greek
   - strongs: G1580
-    proximity: 0.7861
+    lemma: ἐκκομίζω
+    gloss: to bear forth {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

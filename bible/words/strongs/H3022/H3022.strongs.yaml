@@ -6,39 +6,45 @@ pronunciation: yaw-gaw'
 definition: earnings (as the product of toil)
 kjv_usage: that which he laboured for.
 derivation: from H3021 (יָגַע);
-extended_definition:
-  gloss: toil
-  definition: earnings, gain (product of labour)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: earnings, gain (product of labour) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6089a
-    proximity: 0.8181
+    proximity: 0.8181 {macula-proximity}
   - strongs: A4
-    proximity: 0.7979
+    proximity: 0.7979 {macula-proximity}
   - strongs: H6093
-    proximity: 0.7853
+    lemma: עִצָּבוֹן
+    gloss: worrisomeness {openscriptures-strongs}
+    proximity: 0.7853 {macula-proximity}
   - strongs: H5999
-    proximity: 0.7556
+    lemma: עָמָל
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.7556 {macula-proximity}
   cross_language:
   - strongs: G3703
-    proximity: 0.8293
+    lemma: ὀπώρα
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G2192
-    proximity: 0.8087
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
     language: greek
   - strongs: G3449
-    proximity: 0.7889
+    lemma: μόχθος
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
     language: greek
   - strongs: G2872
-    proximity: 0.7224
+    lemma: κοπιάω
+    gloss: to feel fatigue {openscriptures-strongs}
+    proximity: 0.7224 {macula-proximity}
     language: greek
   - strongs: G2873
-    proximity: 0.7135
+    lemma: κόπος
+    gloss: a cut {openscriptures-strongs}
+    proximity: 0.7135 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,35 +7,45 @@ definition: a vehicle; by implication, a team; by extension, cavalry; by analogy
   rider, i.e. the upper millstone
 kjv_usage: chariot, (upper) millstone, multitude (from the margin), wagon.
 derivation: from H7392 (רָכַב);
-extended_definition:
-  gloss: 'chariot: millstone'
-  definition: ': millstone<br>1) a team, chariot, chariotry, mill-stone, riders<br>1a)
-    chariotry, chariots<br>1b) chariot (single)<br>1c) upper millstone (as riding
-    on lower millstone)<br>1d) riders, troop (of riders), horsemen, pair of horsemen,
-    men riding, ass-riders, camel-riders'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': millstone
+
+  1) a team, chariot, chariotry, mill-stone, riders
+
+  1a) chariotry, chariots
+
+  1b) chariot (single)
+
+  1c) upper millstone (as riding on lower millstone)
+
+  1d) riders, troop (of riders), horsemen, pair of horsemen, men riding, ass-riders,
+  camel-riders {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7409
-    proximity: 0.8109
+    lemma: רֶכֶשׁ
+    gloss: a relay of animals on a post-route {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
   - strongs: H1534
-    proximity: 0.725
+    lemma: גַּלְגַּל
+    gloss: a wheel {openscriptures-strongs}
+    proximity: 0.725 {macula-proximity}
   cross_language:
   - strongs: G4760
-    proximity: 0.8202
+    lemma: στρατόπεδον
+    gloss: a camping-ground {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
     language: greek
   - strongs: G2460
-    proximity: 0.8178
+    lemma: ἱππεύς
+    gloss: an equestrian {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
     language: greek
   - strongs: G3457
-    proximity: 0.7207
+    lemma: μυλικός
+    gloss: belonging to a mill {openscriptures-strongs}
+    proximity: 0.7207 {macula-proximity}
     language: greek
   - strongs: G3458a
-    proximity: 0.7202
+    proximity: 0.7202 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

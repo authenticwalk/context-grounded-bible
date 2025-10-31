@@ -6,42 +6,49 @@ pronunciation: naw-am'
 definition: properly, to whisper, i.e. (by implication) to utter as aoracle
 kjv_usage: say.
 derivation: a primitive root;
-extended_definition:
-  gloss: to prophesy
-  definition: 1) to prophesy, utter a prophecy, speak as prophet, say<br>1a) (Qal)
-    to utter a prophecy, speak as prophet
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to prophesy, utter a prophecy, speak as prophet, say
+
+  1a) (Qal) to utter a prophecy, speak as prophet {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1696
-    proximity: 0.8245
+    lemma: דָבַר
+    gloss: perhaps properly {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H7121
-    proximity: 0.8058
+    lemma: קָרָא
+    gloss: to call out to (i.e. properly {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: A2324
-    proximity: 0.8014
+    proximity: 0.8014 {macula-proximity}
   - strongs: H559
-    proximity: 0.7918
+    proximity: 0.7918 {macula-proximity}
   - strongs: H262
-    proximity: 0.71
+    proximity: 0.71 {macula-proximity}
   cross_language:
   - strongs: G2046
-    proximity: 0.8271
+    lemma: ἐρέω
+    gloss: an alternate for G2036  in certain tenses {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G2044
-    proximity: 0.7968
+    lemma: ἐρεύγομαι
+    gloss: to belch {openscriptures-strongs}
+    proximity: 0.7968 {macula-proximity}
     language: greek
   - strongs: G5335
-    proximity: 0.7942
+    lemma: φάσκω
+    gloss: to assert {openscriptures-strongs}
+    proximity: 0.7942 {macula-proximity}
     language: greek
   - strongs: G3004
-    proximity: 0.7791
+    lemma: λέγω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7791 {macula-proximity}
     language: greek
   - strongs: G4316
-    proximity: 0.7125
+    lemma: προσαγορεύω
+    gloss: to address {openscriptures-strongs}
+    proximity: 0.7125 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

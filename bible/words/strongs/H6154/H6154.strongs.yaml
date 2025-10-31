@@ -10,16 +10,19 @@ derivation: or עֶרֶב; (1 Kings 10:15), (with the article [prefix), from H61
 related_words:
   synonyms:
   - strongs: H707
-    proximity: 0.7898
+    proximity: 0.7898 {macula-proximity}
   - strongs: H2901
-    proximity: 0.7742
+    lemma: טָוָה
+    gloss: to spin {openscriptures-strongs}
+    proximity: 0.7742 {macula-proximity}
   - strongs: H8359
-    proximity: 0.7482
+    lemma: שְׁתִי
+    gloss: a fixture {openscriptures-strongs}
+    proximity: 0.7482 {macula-proximity}
   cross_language:
   - strongs: G3514
-    proximity: 0.7379
+    lemma: νήθω
+    gloss: to spin {openscriptures-strongs}
+    proximity: 0.7379 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

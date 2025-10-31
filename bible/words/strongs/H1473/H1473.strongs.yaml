@@ -6,35 +6,36 @@ pronunciation: go-law'
 definition: exile; concretely and collectively exiles
 kjv_usage: (carried away), captive(-ity), removing.
 derivation: or (shortened) גֹּלָה; active participle feminine of H1540 (גָּלָה);
-extended_definition:
-  gloss: captivity
-  definition: 1) exiles, exile, captivity<br>1a) exiles (coll)<br>1b) exile, captivity
-    (abstract)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) exiles, exile, captivity
+
+  1a) exiles (coll)
+
+  1b) exile, captivity (abstract) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2414
-    proximity: 0.8282
+    lemma: חָטַף
+    gloss: to clutch {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H7628a
-    proximity: 0.8158
+    proximity: 0.8158 {macula-proximity}
   - strongs: A1123
-    proximity: 0.76
+    proximity: 0.76 {macula-proximity}
   cross_language:
   - strongs: G163
-    proximity: 0.8219
+    proximity: 0.8219 {macula-proximity}
     language: greek
   - strongs: G3350
-    proximity: 0.8196
+    lemma: μετοικεσία
+    gloss: a change of abode {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
     language: greek
   - strongs: G2221
-    proximity: 0.7721
+    lemma: ζωγρέω
+    gloss: to take alive {openscriptures-strongs}
+    proximity: 0.7721 {macula-proximity}
     language: greek
   - strongs: G162
-    proximity: 0.7349
+    proximity: 0.7349 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

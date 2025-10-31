@@ -7,38 +7,48 @@ definition: properly, to plough, or (generally) break forth, i.e. (figuratively)
   inspect, admire, care for, consider
 kjv_usage: (make) inquire (-ry), (make) search, seek out.
 derivation: a primitive root;
-extended_definition:
-  gloss: to enquire
-  definition: '1) to seek, enquire, consider<br>1a) (Piel)<br>1a1) to seek, look for<br>1a2)
-    to consider, reflect<BR>Aramaic equivalent: <i>be.qar</i> (בְּקַר "to enquire"
-    H1240)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to seek, enquire, consider
+
+  1a) (Piel)
+
+  1a1) to seek, look for
+
+  1a2) to consider, reflect
+
+  Aramaic equivalent: be.qar (בְּקַר "to enquire" H1240) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7200
-    proximity: 0.8208
+    lemma: רָאָה
+    gloss: to see {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   - strongs: H2664
-    proximity: 0.82
+    lemma: חָפַשׂ
+    gloss: to seek {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
   - strongs: A1156
-    proximity: 0.754
+    proximity: 0.754 {macula-proximity}
   - strongs: H7592
-    proximity: 0.7044
+    lemma: שָׁאַל
+    gloss: to inquire {openscriptures-strongs}
+    proximity: 0.7044 {macula-proximity}
   cross_language:
   - strongs: G1760
-    proximity: 0.8267
+    lemma: ἐνθυμέομαι
+    gloss: to be inspirited {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
     language: greek
   - strongs: G1905
-    proximity: 0.8173
+    lemma: ἐπερωτάω
+    gloss: to ask for {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
     language: greek
   - strongs: G2614
-    proximity: 0.7639
+    lemma: καταδιώκω
+    gloss: to hunt down {openscriptures-strongs}
+    proximity: 0.7639 {macula-proximity}
     language: greek
   - strongs: G429
-    proximity: 0.74
+    proximity: 0.74 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

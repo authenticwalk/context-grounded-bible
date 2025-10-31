@@ -11,39 +11,54 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H3832
-    proximity: 0.8295
+    lemma: לָבַט
+    gloss: to overthrow {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H3518
-    proximity: 0.8284
+    lemma: כָּבָה
+    gloss: to expire or  to extinguish (fire {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H5557
-    proximity: 0.8272
+    lemma: סָלַף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.8251
+    proximity: 0.8251 {macula-proximity}
   - strongs: H8047
-    proximity: 0.8193
+    lemma: שַׁמָּה
+    gloss: ruin {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H7722b
-    proximity: 0.8165
+    proximity: 0.8165 {macula-proximity}
   - strongs: H8
-    proximity: 0.8147
+    proximity: 0.8147 {macula-proximity}
   - strongs: H2000a
-    proximity: 0.8124
+    proximity: 0.8124 {macula-proximity}
   - strongs: H4288
-    proximity: 0.8104
+    lemma: מְחִתָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
   - strongs: H2035
-    proximity: 0.8068
+    lemma: הֲרִיסוּת
+    gloss: demolition {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
   cross_language:
   - strongs: G854
-    proximity: 0.8271
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G5356
-    proximity: 0.8257
+    lemma: φθορά
+    gloss: decay {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G2647
-    proximity: 0.8074
+    lemma: καταλύω
+    gloss: to loosen down {openscriptures-strongs}
+    proximity: 0.8074 {macula-proximity}
     language: greek
   - strongs: G2050
-    proximity: 0.807
+    lemma: ἐρήμωσις
+    gloss: despoliation {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

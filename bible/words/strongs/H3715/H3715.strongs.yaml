@@ -10,27 +10,38 @@ derivation: from H3722 (כָּפַר);
 related_words:
   synonyms:
   - strongs: H1469
-    proximity: 0.8289
+    lemma: גּוֹזָל
+    gloss: a nestling {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H970
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
   - strongs: H3738
-    proximity: 0.8209
+    lemma: כָּרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: H3207
-    proximity: 0.8189
+    lemma: יַלְדָּה
+    gloss: a lass {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H5958
-    proximity: 0.804
+    lemma: עֶלֶם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   - strongs: H3208
-    proximity: 0.7976
+    lemma: יַלְדוּת
+    gloss: boyhood {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: H979
-    proximity: 0.7732
+    proximity: 0.7732 {macula-proximity}
   cross_language:
   - strongs: G2968
-    proximity: 0.825
+    lemma: κώμη
+    gloss: a hamlet {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G3494
-    proximity: 0.8199
+    lemma: νεανίας
+    gloss: a youth {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

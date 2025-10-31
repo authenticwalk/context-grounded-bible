@@ -9,23 +9,30 @@ derivation: from H1461 (גּוּב);
 related_words:
   synonyms:
   - strongs: H7298
-    proximity: 0.8016
+    lemma: רַהַט
+    gloss: a channel or watering-box {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
   - strongs: H2742a
-    proximity: 0.7931
+    proximity: 0.7931 {macula-proximity}
   - strongs: H98
-    proximity: 0.7421
+    proximity: 0.7421 {macula-proximity}
   - strongs: H1295
-    proximity: 0.7233
+    lemma: בְּרֵכָה
+    gloss: a reservoir {openscriptures-strongs}
+    proximity: 0.7233 {macula-proximity}
   - strongs: H4724
-    proximity: 0.7178
+    lemma: מִקְוָה
+    gloss: a collection {openscriptures-strongs}
+    proximity: 0.7178 {macula-proximity}
   cross_language:
   - strongs: G3324
-    proximity: 0.7845
+    lemma: μεστός
+    gloss: replete {openscriptures-strongs}
+    proximity: 0.7845 {macula-proximity}
     language: greek
   - strongs: G2861
-    proximity: 0.7357
+    lemma: κολυμβήθρα
+    gloss: a diving-place {openscriptures-strongs}
+    proximity: 0.7357 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

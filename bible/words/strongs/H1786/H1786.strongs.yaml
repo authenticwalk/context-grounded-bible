@@ -6,48 +6,62 @@ pronunciation: dah-yish'
 definition: threshing-time
 kjv_usage: threshing.
 derivation: from H1758 (דּוּשׁ);
-extended_definition:
-  gloss: threshing
-  definition: threshing (the process)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: threshing (the process) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4202
-    proximity: 0.8265
+    lemma: מָזוֹן
+    gloss: food {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H1267
-    proximity: 0.8133
+    lemma: בָּרוּת
+    gloss: food {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   - strongs: H7114
-    proximity: 0.8083
+    lemma: קָצַר
+    gloss: to dock off {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
   - strongs: H4361
-    proximity: 0.8051
+    lemma: מַכֹּלֶת
+    gloss: nourishment {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
   - strongs: H6720
-    proximity: 0.8017
+    lemma: צֵידָה
+    gloss: food {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
   - strongs: H7105
-    proximity: 0.7922
+    lemma: קָצִיר
+    gloss: severed {openscriptures-strongs}
+    proximity: 0.7922 {macula-proximity}
   - strongs: H1250
-    proximity: 0.7882
+    lemma: בָּר
+    gloss: grain of any kind {openscriptures-strongs}
+    proximity: 0.7882 {macula-proximity}
   - strongs: H400
-    proximity: 0.7653
+    proximity: 0.7653 {macula-proximity}
   - strongs: H1715
-    proximity: 0.7622
+    lemma: דָּגָן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7622 {macula-proximity}
   - strongs: H329b
-    proximity: 0.7616
+    proximity: 0.7616 {macula-proximity}
   cross_language:
   - strongs: G2325
-    proximity: 0.8291
+    lemma: θερίζω
+    gloss: to harvest {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
     language: greek
   - strongs: G4621a
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G2326
-    proximity: 0.7966
+    lemma: θερισμός
+    gloss: reaping {openscriptures-strongs}
+    proximity: 0.7966 {macula-proximity}
     language: greek
   - strongs: G1033
-    proximity: 0.7842
+    lemma: βρῶμα
+    gloss: food {openscriptures-strongs}
+    proximity: 0.7842 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

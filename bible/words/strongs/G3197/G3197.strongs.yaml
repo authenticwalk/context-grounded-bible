@@ -5,37 +5,37 @@ transliteration: Melchí
 definition: Melchi (i.e. Malki), the name of two Israelites
 kjv_usage: Melchi
 derivation: of Hebrew origin (H04428 with pronominal suffix, my king);
-extended_definition:
-  gloss: Melchi
-  definition: '<b>Μελχεί</b> (Rec. -χί), indecl., ὁ (Heb. מֶלֶךְ), <BR /> <b>Melchi</b>:
-    <ref=''Luk.3.24, 28''>Luk.3:24, 28</ref>.†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Μελχεί</b> (Rec. -χί), indecl., ὁ (Heb. מֶלֶךְ), <BR /> <b>Melchi</b>:
-    <ref=''Luk.3.24, 28''>Luk.3:24, 28</ref>.†<BR />  (From Abbott-Smith. LSJ has
-    no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Μελχεί (Rec. -χί), indecl., ὁ (Heb. מֶלֶךְ),
+
+  Melchi: Luk.3:24, 28.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Μελχεί (Rec. -χί), indecl., ὁ (Heb. מֶלֶךְ),
+
+  Melchi: Luk.3:24, 28.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3198
-    proximity: 0.7824
+    lemma: Μελχισεδέκ
+    gloss: Melchisedek {openscriptures-strongs}
+    proximity: 0.7824 {macula-proximity}
   cross_language:
   - strongs: H4444
-    proximity: 0.8154
+    lemma: מַלְכִּישׁוּעַ
+    gloss: Malkishua {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
     language: hebrew
   - strongs: H7104a
-    proximity: 0.8021
+    proximity: 0.8021 {macula-proximity}
     language: hebrew
   - strongs: H4442
-    proximity: 0.7948
+    lemma: מַלְכִּי־צֶדֶק
+    gloss: Malki-Tsedek {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
     language: hebrew
   - strongs: H3592a
-    proximity: 0.794
+    proximity: 0.794 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

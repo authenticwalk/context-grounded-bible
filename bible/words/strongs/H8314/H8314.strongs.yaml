@@ -10,39 +10,58 @@ derivation: from H8313 (שָׂרַף);
 related_words:
   synonyms:
   - strongs: H8577
-    proximity: 0.8183
+    lemma: תַּנִּין
+    gloss: a marine or land monster {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: A785
-    proximity: 0.8154
+    proximity: 0.8154 {macula-proximity}
   - strongs: H7632
-    proximity: 0.7968
+    lemma: שָׁבִיב
+    gloss: flame {openscriptures-strongs}
+    proximity: 0.7968 {macula-proximity}
   - strongs: H6848
-    proximity: 0.7968
+    lemma: צֶפַע
+    gloss: a viper (as thrusting out the tongue {openscriptures-strongs}
+    proximity: 0.7968 {macula-proximity}
   - strongs: H2119
-    proximity: 0.7861
+    lemma: זָחַל
+    gloss: to crawl {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
   - strongs: H660
-    proximity: 0.7858
+    proximity: 0.7858 {macula-proximity}
   - strongs: H8283
-    proximity: 0.7768
+    lemma: שָׂרָה
+    gloss: Sarah {openscriptures-strongs}
+    proximity: 0.7768 {macula-proximity}
   - strongs: H3851
-    proximity: 0.7605
+    lemma: לַהַב
+    gloss: a flash {openscriptures-strongs}
+    proximity: 0.7605 {macula-proximity}
   - strongs: A5135
-    proximity: 0.7444
+    proximity: 0.7444 {macula-proximity}
   - strongs: H3827
-    proximity: 0.7215
+    lemma: לַבָּה
+    gloss: flame {openscriptures-strongs}
+    proximity: 0.7215 {macula-proximity}
   cross_language:
   - strongs: G4564
-    proximity: 0.8242
+    lemma: Σάῤῥα
+    gloss: Sarra {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
     language: greek
   - strongs: G4447
-    proximity: 0.8229
+    lemma: πύρινος
+    gloss: fiery {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G4450
-    proximity: 0.8124
+    lemma: πυῤῥός
+    gloss: fire-like {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
     language: greek
   - strongs: G4442
-    proximity: 0.7731
+    lemma: πῦρ
+    gloss: '"fire" (literally or figuratively {openscriptures-strongs}'
+    proximity: 0.7731 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

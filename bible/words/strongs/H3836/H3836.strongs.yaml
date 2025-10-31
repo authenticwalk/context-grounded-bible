@@ -6,29 +6,31 @@ pronunciation: law-bawn'
 definition: white
 kjv_usage: white.
 derivation: or (Genesis 49:12) לָבֵן; from H3835 (לָבַן);
-extended_definition:
-  gloss: white
-  definition: white
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: white {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2357
-    proximity: 0.821
+    lemma: חָוַר
+    gloss: to blanch {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
   - strongs: H6703
-    proximity: 0.8067
+    lemma: צַח
+    gloss: dazzling {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   - strongs: H8336a
-    proximity: 0.7964
+    proximity: 0.7964 {macula-proximity}
   - strongs: H1858
-    proximity: 0.7618
+    lemma: דַּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7618 {macula-proximity}
   - strongs: H6713
-    proximity: 0.7598
+    lemma: צַחַר
+    gloss: sheen {openscriptures-strongs}
+    proximity: 0.7598 {macula-proximity}
   cross_language:
   - strongs: G2462
-    proximity: 0.8007
+    lemma: ἵππος
+    gloss: a horse {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

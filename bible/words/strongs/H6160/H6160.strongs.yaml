@@ -8,45 +8,57 @@ definition: a desert; especially (with the article prefix) the (generally) steri
 kjv_usage: Arabah, champaign, desert, evening, heaven, plain, wilderness. See also
   H1026 (בֵּית הָעֲרָבָה).
 derivation: from H6150 (עָרַב) (in the sense of sterility);
-extended_definition:
-  gloss: plain
-  definition: <BR> § desert plain, steppe, desert, wilderness
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: § desert plain, steppe, desert, wilderness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7237
-    proximity: 0.8279
+    lemma: רַבָּה
+    gloss: Rabbah {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: H5679
-    proximity: 0.819
+    lemma: עֲבָרָה
+    gloss: a crossing-place {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   - strongs: H8077
-    proximity: 0.808
+    lemma: שְׁמָמָה
+    gloss: devastation {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
   - strongs: H3603
-    proximity: 0.8064
+    lemma: כִּכָּר
+    gloss: a circle {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
   - strongs: H6724
-    proximity: 0.8016
+    lemma: צִיוֹן
+    gloss: a desert {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
   - strongs: H4569a
-    proximity: 0.7992
+    proximity: 0.7992 {macula-proximity}
   - strongs: H2723
-    proximity: 0.7924
+    lemma: חׇרְבָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
   - strongs: A6050
-    proximity: 0.7884
+    proximity: 0.7884 {macula-proximity}
   - strongs: H6723
-    proximity: 0.7832
+    lemma: צִיָּה
+    gloss: aridity {openscriptures-strongs}
+    proximity: 0.7832 {macula-proximity}
   - strongs: H1250a
-    proximity: 0.7665
+    proximity: 0.7665 {macula-proximity}
   cross_language:
   - strongs: G3507
-    proximity: 0.7571
+    lemma: νεφέλη
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7571 {macula-proximity}
     language: greek
   - strongs: G2047
-    proximity: 0.7471
+    lemma: ἐρημία
+    gloss: solitude {openscriptures-strongs}
+    proximity: 0.7471 {macula-proximity}
     language: greek
   - strongs: G3509
-    proximity: 0.7172
+    lemma: νέφος
+    gloss: a cloud {openscriptures-strongs}
+    proximity: 0.7172 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,45 +6,69 @@ pronunciation: daw-laf'
 definition: to drip; by implication, to weep
 kjv_usage: drop through, melt, pour out.
 derivation: a primitive root;
-extended_definition:
-  gloss: to drip
-  definition: 1) to drop, drip<br>1a) (Qal)<br>1a1) to leak<br>1a2) to weep (of tears)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to drop, drip
+
+  1a) (Qal)
+
+  1a1) to leak
+
+  1a2) to weep (of tears) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1830
-    proximity: 0.8231
+    lemma: דָּמַע
+    gloss: to weep {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H4127
-    proximity: 0.8105
+    lemma: מוּג
+    gloss: to melt {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
   - strongs: H2956
-    proximity: 0.8078
+    lemma: טָרַד
+    gloss: to drive on {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   - strongs: H1812
-    proximity: 0.8072
+    lemma: דֶּלֶף
+    gloss: a dripping {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
   - strongs: H1056
-    proximity: 0.8049
+    lemma: בָּכָא
+    gloss: Baca {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H4529
-    proximity: 0.8018
+    lemma: מָסָה
+    gloss: to dissolve {openscriptures-strongs}
+    proximity: 0.8018 {macula-proximity}
   - strongs: H3019
-    proximity: 0.8017
+    lemma: יָגִיעַ
+    gloss: tired {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
   - strongs: H2046
-    proximity: 0.7967
+    lemma: הִתּוּךְ
+    gloss: a melting {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
   - strongs: H4549
-    proximity: 0.7622
+    lemma: מָסַס
+    gloss: to liquefy {openscriptures-strongs}
+    proximity: 0.7622 {macula-proximity}
   - strongs: H1059
-    proximity: 0.7434
+    lemma: בֶּכֶה
+    gloss: a weeping {openscriptures-strongs}
+    proximity: 0.7434 {macula-proximity}
   cross_language:
   - strongs: G5080
-    proximity: 0.817
+    lemma: τήκω
+    gloss: to liquefy {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
     language: greek
   - strongs: G1144
-    proximity: 0.7393
+    lemma: δάκρυ
+    gloss: a tear {openscriptures-strongs}
+    proximity: 0.7393 {macula-proximity}
     language: greek
   - strongs: G1145
-    proximity: 0.7084
+    lemma: δακρύω
+    gloss: to shed tears {openscriptures-strongs}
+    proximity: 0.7084 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

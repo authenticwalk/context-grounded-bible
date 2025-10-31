@@ -11,32 +11,43 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H5788a
-    proximity: 0.8225
+    proximity: 0.8225 {macula-proximity}
   - strongs: H3543
-    proximity: 0.8217
+    lemma: כָּהָה
+    gloss: to be weak {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
   - strongs: H332
-    proximity: 0.8086
+    proximity: 0.8086 {macula-proximity}
   - strongs: H5575
-    proximity: 0.8037
+    lemma: סַנְוֵר
+    gloss: blindness {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
   - strongs: H5787
-    proximity: 0.7073
+    lemma: עִוֵּר
+    gloss: blind {openscriptures-strongs}
+    proximity: 0.7073 {macula-proximity}
   cross_language:
   - strongs: G608
-    proximity: 0.8156
+    proximity: 0.8156 {macula-proximity}
     language: greek
   - strongs: G2572
-    proximity: 0.8148
+    lemma: καλύπτω
+    gloss: to cover up {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
     language: greek
   - strongs: G4654
-    proximity: 0.8078
+    lemma: σκοτίζω
+    gloss: to obscure {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
     language: greek
   - strongs: G2659
-    proximity: 0.8055
+    lemma: κατάνυξις
+    gloss: a prickling (sensation {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
     language: greek
   - strongs: G2576
-    proximity: 0.7975
+    lemma: καμμύω
+    gloss: to shut down {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -11,30 +11,43 @@ derivation: or (feminine) נַחְלָה; (Psalm 124:4), or נַחֲלָה; (Eze
 related_words:
   synonyms:
   - strongs: H769
-    proximity: 0.822
+    proximity: 0.822 {macula-proximity}
   - strongs: H3290
-    proximity: 0.8205
+    lemma: יַעֲקֹב
+    gloss: Jaakob {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: H1237
-    proximity: 0.8002
+    lemma: בִּקְעָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: H4325
-    proximity: 0.7642
+    lemma: מַיִם
+    gloss: water {openscriptures-strongs}
+    proximity: 0.7642 {macula-proximity}
   - strongs: H5158a
-    proximity: 0.7579
+    proximity: 0.7579 {macula-proximity}
   - strongs: H3999
-    proximity: 0.7448
+    lemma: מַבּוּל
+    gloss: a deluge {openscriptures-strongs}
+    proximity: 0.7448 {macula-proximity}
   - strongs: H6010
-    proximity: 0.7398
+    lemma: עֵמֶק
+    gloss: a vale {openscriptures-strongs}
+    proximity: 0.7398 {macula-proximity}
   - strongs: H2988
-    proximity: 0.7344
+    lemma: יָבָל
+    gloss: a stream {openscriptures-strongs}
+    proximity: 0.7344 {macula-proximity}
   - strongs: H5140a
-    proximity: 0.7316
+    proximity: 0.7316 {macula-proximity}
   - strongs: H6390
-    proximity: 0.7282
+    lemma: פְּלַגָּה
+    gloss: a runlet {openscriptures-strongs}
+    proximity: 0.7282 {macula-proximity}
   cross_language:
   - strongs: G2627
-    proximity: 0.7962
+    lemma: κατακλυσμός
+    gloss: an inundation {openscriptures-strongs}
+    proximity: 0.7962 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

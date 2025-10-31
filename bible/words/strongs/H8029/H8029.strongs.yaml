@@ -6,45 +6,55 @@ pronunciation: shil-laysh'
 definition: a descendant of the third degree, i.e. great grandchild
 kjv_usage: third (generation).
 derivation: from H8027 (שָׁלַשׁ);
-extended_definition:
-  gloss: third
-  definition: pertaining to the third, third (generation)
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: pertaining to the third, third (generation) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7969
-    proximity: 0.7949
+    lemma: שָׁלוֹשׁ
+    gloss: three {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
   - strongs: H8027
-    proximity: 0.7745
+    lemma: שָׁלַשׁ
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7745 {macula-proximity}
   - strongs: A7244
-    proximity: 0.7704
+    proximity: 0.7704 {macula-proximity}
   - strongs: H7243
-    proximity: 0.7669
+    lemma: רְבִיעִי
+    gloss: fourth {openscriptures-strongs}
+    proximity: 0.7669 {macula-proximity}
   - strongs: A8532
-    proximity: 0.7591
+    proximity: 0.7591 {macula-proximity}
   - strongs: H1755
-    proximity: 0.7489
+    lemma: דּוֹר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7489 {macula-proximity}
   - strongs: A1859
-    proximity: 0.7471
+    proximity: 0.7471 {macula-proximity}
   cross_language:
   - strongs: G5067
-    proximity: 0.8292
+    lemma: τέταρτος
+    gloss: fourth {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
     language: greek
   - strongs: G5140
-    proximity: 0.829
+    lemma: τρεῖς
+    gloss: '"three" {openscriptures-strongs}'
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G5066
-    proximity: 0.8085
+    lemma: τεταρταῖος
+    gloss: pertaining to the fourth day {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
     language: greek
   - strongs: G5152
-    proximity: 0.7207
+    lemma: τρίστεγον
+    gloss: a third roof {openscriptures-strongs}
+    proximity: 0.7207 {macula-proximity}
     language: greek
   - strongs: G1074
-    proximity: 0.7144
+    lemma: γενεά
+    gloss: a generation {openscriptures-strongs}
+    proximity: 0.7144 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

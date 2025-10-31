@@ -8,30 +8,39 @@ definition: properly, something round (as excavated or bored), i.e. a chafing-di
   (for the same reason) a pulpit or platform
 kjv_usage: hearth, laver, pan, scaffold.
 derivation: or כִּיֹּר; from the same as H3564 (כּוּר);
-extended_definition:
-  gloss: basin
-  definition: 1) pot, basin, laver, pan<br>1a) pot, caldron<br>1b) fire-pot, brazier<br>1c)
-    basin, laver<br>1d) platform, stage
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) pot, basin, laver, pan
+
+  1a) pot, caldron
+
+  1b) fire-pot, brazier
+
+  1c) basin, laver
+
+  1d) platform, stage {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5178
-    proximity: 0.818
+    lemma: נְחֹשֶׁת
+    gloss: copper {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: H4219
-    proximity: 0.7934
+    lemma: מִזְרָק
+    gloss: a bowl {openscriptures-strongs}
+    proximity: 0.7934 {macula-proximity}
   - strongs: H5592a
-    proximity: 0.7707
+    proximity: 0.7707 {macula-proximity}
   - strongs: H5518
-    proximity: 0.7581
+    lemma: סִיר
+    gloss: a pot {openscriptures-strongs}
+    proximity: 0.7581 {macula-proximity}
   - strongs: H254
-    proximity: 0.7362
+    proximity: 0.7362 {macula-proximity}
   - strongs: H3653
-    proximity: 0.7123
+    lemma: כֵּן
+    gloss: a stand {openscriptures-strongs}
+    proximity: 0.7123 {macula-proximity}
   - strongs: H4350
-    proximity: 0.7078
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: מְכוֹנָה
+    gloss: a pedestal {openscriptures-strongs}
+    proximity: 0.7078 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

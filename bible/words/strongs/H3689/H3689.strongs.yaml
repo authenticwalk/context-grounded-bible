@@ -8,23 +8,25 @@ definition: properly, fatness, i.e. by implication (literally) the loin (as the 
   a good sense) trust
 kjv_usage: confidence, flank, folly, hope, loin.
 derivation: from H3688 (כָּסַל);
-extended_definition:
-  gloss: loin
-  definition: 1) loins, flank<br>2) stupidity, folly<br>3) confidence, hope
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) loins, flank
+
+  2) stupidity, folly
+
+  3) confidence, hope {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2677
-    proximity: 0.8134
+    lemma: חֵצִי
+    gloss: the half or middle {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
   - strongs: H2504
-    proximity: 0.7248
+    lemma: חָלָץ
+    gloss: the loins {openscriptures-strongs}
+    proximity: 0.7248 {macula-proximity}
   cross_language:
   - strongs: G3577
-    proximity: 0.738
+    lemma: νῶτος
+    gloss: the back {openscriptures-strongs}
+    proximity: 0.738 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

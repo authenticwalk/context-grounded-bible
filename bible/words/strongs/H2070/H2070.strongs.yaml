@@ -6,31 +6,33 @@ pronunciation: zeb-oob'
 definition: a fly (especially one of a stinging nature)
 kjv_usage: fly.
 derivation: from an unused root (meaning to flit);
-extended_definition:
-  gloss: fly
-  definition: fly
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: fly {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1675
-    proximity: 0.8125
+    lemma: דָּאָה
+    gloss: to dart {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: H5774
-    proximity: 0.7934
+    lemma: עוּף
+    gloss: to fly {openscriptures-strongs}
+    proximity: 0.7934 {macula-proximity}
   - strongs: H5323
-    proximity: 0.7818
+    lemma: נָצָא
+    gloss: to go away {openscriptures-strongs}
+    proximity: 0.7818 {macula-proximity}
   - strongs: H82
-    proximity: 0.7772
+    proximity: 0.7772 {macula-proximity}
   - strongs: H3288
-    proximity: 0.773
+    lemma: יְעָף
+    gloss: fatigue (adverb {openscriptures-strongs}
+    proximity: 0.773 {macula-proximity}
   - strongs: H6524a
-    proximity: 0.7639
+    proximity: 0.7639 {macula-proximity}
   cross_language:
   - strongs: G2373
-    proximity: 0.7684
+    lemma: θυμόω
+    gloss: to put in a passion {openscriptures-strongs}
+    proximity: 0.7684 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

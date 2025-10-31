@@ -7,48 +7,59 @@ definition: properly, crossed, i.e. (abstractly) transit; used only adverbially,
   account of, in order that
 kjv_usage: because of, for (...'s sake), (intent) that, to.
 derivation: or עָבֻר; passive participle of H5674 (עָבַר);
-extended_definition:
-  gloss: for the sake of
-  definition: prep<br>1) for the sake of, on account of, because of, in order to<br>conj<br>2)
-    in order that
-  morphology: H:Prep
-  source: STEPBible/BDB
+extended_definition: 'prep
+
+  1) for the sake of, on account of, because of, in order to
+
+  conj
+
+  2) in order that {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2088
-    proximity: 0.8287
+    lemma: זֶה
+    gloss: the masculine demonstrative pronoun {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H1697
-    proximity: 0.8269
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: H6440
-    proximity: 0.8256
+    lemma: פָּנִים
+    gloss: the face {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: A2050d
-    proximity: 0.8139
+    proximity: 0.8139 {macula-proximity}
   - strongs: A3861
-    proximity: 0.8131
+    proximity: 0.8131 {macula-proximity}
   - strongs: H1886c
-    proximity: 0.8126
+    proximity: 0.8126 {macula-proximity}
   - strongs: A1b
-    proximity: 0.805
+    proximity: 0.805 {macula-proximity}
   - strongs: H3509a
-    proximity: 0.8031
+    proximity: 0.8031 {macula-proximity}
   cross_language:
   - strongs: G575
-    proximity: 0.8272
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G5129
-    proximity: 0.8271
+    lemma: τούτῳ
+    gloss: to (in {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G3739
-    proximity: 0.8181
+    lemma: ὅς
+    gloss: the relatively  pronoun {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
     language: greek
   - strongs: G5615
-    proximity: 0.8135
+    lemma: ὡσαύτως
+    gloss: as thus {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
     language: greek
   - strongs: G5023
-    proximity: 0.8127
+    lemma: ταῦτα
+    gloss: these things {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

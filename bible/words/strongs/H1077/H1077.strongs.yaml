@@ -7,41 +7,49 @@ definition: properly, a failure; by implication nothing; usually (adverb) not at
   also lest
 kjv_usage: lest, neither, no, none (that...), not (any), nothing.
 derivation: from H1086 (בָּלָה);
-extended_definition:
-  gloss: not
-  definition: not, hardly, else
-  morphology: H:Neg
-  source: STEPBible/BDB
+extended_definition: not, hardly, else {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3818
-    proximity: 0.8296
+    lemma: לֹא עַמִּי
+    gloss: Lo-Ammi {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H1886c
-    proximity: 0.8224
+    proximity: 0.8224 {macula-proximity}
   - strongs: H3201
-    proximity: 0.8189
+    lemma: יָכֹל
+    gloss: to be able {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.8165
+    proximity: 0.8165 {macula-proximity}
   - strongs: H6519
-    proximity: 0.8146
+    lemma: פְּרָזָה
+    gloss: an open country {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
   cross_language:
   - strongs: G1576
-    proximity: 0.8279
+    lemma: ἐκκλείω
+    gloss: to shut out {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G5539
-    proximity: 0.8264
+    lemma: χρήσιμος
+    gloss: serviceable {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G5225
-    proximity: 0.8244
+    lemma: ὑπάρχω
+    gloss: to begin under {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: greek
   - strongs: G2443
-    proximity: 0.8219
+    lemma: ἵνα
+    gloss: compare G3588 ) {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
     language: greek
   - strongs: G2089
-    proximity: 0.8218
+    lemma: ἔτι
+    gloss: '"yet {openscriptures-strongs}'
+    proximity: 0.8218 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

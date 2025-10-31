@@ -6,39 +6,51 @@ pronunciation: yaw-gore'
 definition: fearful
 kjv_usage: afraid, fearest.
 derivation: from H3025 (יָגֹר);
-extended_definition:
-  gloss: fearing
-  definition: (Qal) fearful, fearing
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: (Qal) fearful, fearing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8078
-    proximity: 0.8233
+    lemma: שִׁמָּמוֹן
+    gloss: stupefaction {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H8178
-    proximity: 0.7997
+    lemma: שַׂעַר
+    gloss: a tempest {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
   - strongs: H8175
-    proximity: 0.7738
+    lemma: שָׂעַר
+    gloss: to storm {openscriptures-strongs}
+    proximity: 0.7738 {macula-proximity}
   - strongs: H1204
-    proximity: 0.7662
+    lemma: בָּעַת
+    gloss: to fear {openscriptures-strongs}
+    proximity: 0.7662 {macula-proximity}
   - strongs: H6973
-    proximity: 0.7258
+    lemma: קוּץ
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7258 {macula-proximity}
   - strongs: H2731
-    proximity: 0.7147
+    lemma: חֲרָדָה
+    gloss: fear {openscriptures-strongs}
+    proximity: 0.7147 {macula-proximity}
   - strongs: H2865
-    proximity: 0.7058
+    lemma: חָתַת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7058 {macula-proximity}
   cross_language:
   - strongs: G1169
-    proximity: 0.7681
+    lemma: δειλός
+    gloss: timid {openscriptures-strongs}
+    proximity: 0.7681 {macula-proximity}
     language: greek
   - strongs: G5398
-    proximity: 0.7398
+    lemma: φοβερός
+    gloss: frightful {openscriptures-strongs}
+    proximity: 0.7398 {macula-proximity}
     language: greek
   - strongs: G1168
-    proximity: 0.7137
+    lemma: δειλιάω
+    gloss: to be timid {openscriptures-strongs}
+    proximity: 0.7137 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

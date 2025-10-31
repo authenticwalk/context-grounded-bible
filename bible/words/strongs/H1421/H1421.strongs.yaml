@@ -7,49 +7,65 @@ definition: vilification
 kjv_usage: reproach, reviling.
 derivation: or (shortened) גִּדֻּף; and (feminine) גִּדּוּפָהxlit giddûphâh corrected
   to giddûwphâh; or גִּדֻּפָה; from H1422 (גְּדוּפָה);
-extended_definition:
-  gloss: reviling
-  definition: revilings, reviling words
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: revilings, reviling words {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2049
-    proximity: 0.8284
+    lemma: הָתֹל
+    gloss: a derision {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H1422
-    proximity: 0.825
+    lemma: גְּדוּפָה
+    gloss: a revilement {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: H7047
-    proximity: 0.8233
+    lemma: קֶלֶס
+    gloss: a laughing-stock {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H7046
-    proximity: 0.8192
+    lemma: קָלַס
+    gloss: to disparage {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: H2617a
-    proximity: 0.8078
+    proximity: 0.8078 {macula-proximity}
   - strongs: H3933
-    proximity: 0.8057
+    lemma: לַעַג
+    gloss: derision {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
   - strongs: H4890
-    proximity: 0.8031
+    lemma: מִשְׂחַק
+    gloss: a laughing-stock {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
   - strongs: H8322
-    proximity: 0.7927
+    lemma: שְׁרֵקָה
+    gloss: a derision {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
   - strongs: H1442
-    proximity: 0.7883
+    lemma: גָּדַף
+    gloss: to hack {openscriptures-strongs}
+    proximity: 0.7883 {macula-proximity}
   cross_language:
   - strongs: G1702
-    proximity: 0.8285
+    lemma: ἐμπαίζω
+    gloss: to jeer at {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G1796
-    proximity: 0.8212
+    lemma: ἐνυβρίζω
+    gloss: to insult {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
     language: greek
   - strongs: G2606
-    proximity: 0.8165
+    lemma: καταγελάω
+    gloss: to laugh down {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G989
-    proximity: 0.8105
+    proximity: 0.8105 {macula-proximity}
     language: greek
   - strongs: G3469
-    proximity: 0.7984
+    lemma: μωμάομαι
+    gloss: to carp at {openscriptures-strongs}
+    proximity: 0.7984 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

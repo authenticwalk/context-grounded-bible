@@ -6,43 +6,53 @@ pronunciation: khoof-shaw'
 definition: liberty (from slavery)
 kjv_usage: freedom.
 derivation: from H2666 (חָפַשׁ);
-extended_definition:
-  gloss: freedom
-  definition: freedom
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: freedom {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7971
-    proximity: 0.8157
+    lemma: שָׁלַח
+    gloss: to send away {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: H6308
-    proximity: 0.8079
+    lemma: פָּדַע
+    gloss: to retrieve {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
   - strongs: H6605
-    proximity: 0.8031
+    lemma: פָּתַח
+    gloss: to open wide {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
   - strongs: H4164
-    proximity: 0.7997
+    lemma: מוּצַק
+    gloss: narrowness {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
   - strongs: H8281
-    proximity: 0.7951
+    lemma: שָׁרָה
+    gloss: to free {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
   - strongs: H3574
-    proximity: 0.7056
+    lemma: כּוֹשָׁרָה
+    gloss: prosperity {openscriptures-strongs}
+    proximity: 0.7056 {macula-proximity}
   cross_language:
   - strongs: G3089
-    proximity: 0.8161
+    lemma: λύω
+    gloss: to "loosen" {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
     language: greek
   - strongs: G525
-    proximity: 0.807
+    proximity: 0.807 {macula-proximity}
     language: greek
   - strongs: G3086
-    proximity: 0.8
+    lemma: λυτρωτής
+    gloss: a redeemer {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
     language: greek
   - strongs: G3084
-    proximity: 0.7889
+    lemma: λυτρόω
+    gloss: to ransom {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
     language: greek
   - strongs: G629
-    proximity: 0.7877
+    proximity: 0.7877 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

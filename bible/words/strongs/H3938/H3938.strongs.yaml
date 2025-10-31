@@ -6,39 +6,48 @@ pronunciation: law-at'
 definition: to swallow greedily; causatively, to feed
 kjv_usage: feed.
 derivation: a primitive root;
-extended_definition:
-  gloss: to eat
-  definition: (Hiphil) to swallow greedily, devour
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Hiphil) to swallow greedily, devour {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1262
-    proximity: 0.815
+    lemma: בָּרָה
+    gloss: to select {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: H1866
-    proximity: 0.7917
+    lemma: דְּרוֹר
+    gloss: the swift {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: H8248
-    proximity: 0.7312
+    lemma: שָׁקָה
+    gloss: to quaff {openscriptures-strongs}
+    proximity: 0.7312 {macula-proximity}
   - strongs: H398
-    proximity: 0.7311
+    proximity: 0.7311 {macula-proximity}
   cross_language:
   - strongs: G5595
-    proximity: 0.8187
+    lemma: ψωμίζω
+    gloss: to supply with bits {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
     language: greek
   - strongs: G1172
-    proximity: 0.818
+    lemma: δειπνέω
+    gloss: to dine {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
     language: greek
   - strongs: G5176
-    proximity: 0.7519
+    lemma: τρώγω
+    gloss: or perhaps rather of a base of G5167  and G5149  through the idea of a
+      craunching sound {openscriptures-strongs}
+    proximity: 0.7519 {macula-proximity}
     language: greek
   - strongs: G5315
-    proximity: 0.7234
+    lemma: φάγω
+    gloss: to eat {openscriptures-strongs}
+    proximity: 0.7234 {macula-proximity}
     language: greek
   - strongs: G2068
-    proximity: 0.7127
+    lemma: ἐσθίω
+    gloss: used only in certain tenses {openscriptures-strongs}
+    proximity: 0.7127 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

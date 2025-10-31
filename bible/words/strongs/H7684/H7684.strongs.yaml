@@ -6,51 +6,63 @@ pronunciation: sheg-aw-gaw'
 definition: a mistake or inadvertent transgression
 kjv_usage: error, ignorance, at unawares; unwittingly.
 derivation: from H7683 (שָׁגַג);
-extended_definition:
-  gloss: unintentionally
-  definition: 1) sin, sin of error or inadvertence, inadvertent sin<br>1a) error
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) sin, sin of error or inadvertence, inadvertent sin
+
+  1a) error {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H871a
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
   - strongs: A2248
-    proximity: 0.8229
+    proximity: 0.8229 {macula-proximity}
   - strongs: H8417
-    proximity: 0.8214
+    lemma: תׇּהֳלָה
+    gloss: braggadocio {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H6588
-    proximity: 0.817
+    lemma: פֶּשַׁע
+    gloss: a revolt (national {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: A7960
-    proximity: 0.7861
+    proximity: 0.7861 {macula-proximity}
   - strongs: H7686
-    proximity: 0.7806
+    lemma: שָׁגָה
+    gloss: to stray (causatively {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
   - strongs: H1847
-    proximity: 0.7798
+    lemma: דַּעַת
+    gloss: knowledge {openscriptures-strongs}
+    proximity: 0.7798 {macula-proximity}
   - strongs: H7944
-    proximity: 0.7741
+    lemma: שַׁל
+    gloss: a fault {openscriptures-strongs}
+    proximity: 0.7741 {macula-proximity}
   - strongs: H1097
-    proximity: 0.7607
+    lemma: בְּלִי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7607 {macula-proximity}
   - strongs: H4870
-    proximity: 0.7537
+    lemma: מִשְׁגֶּה
+    gloss: an error {openscriptures-strongs}
+    proximity: 0.7537 {macula-proximity}
   cross_language:
   - strongs: G52
-    proximity: 0.8245
+    proximity: 0.8245 {macula-proximity}
     language: greek
   - strongs: G4106
-    proximity: 0.8152
+    lemma: πλάνη
+    gloss: objectively {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
     language: greek
   - strongs: G453
-    proximity: 0.7957
+    proximity: 0.7957 {macula-proximity}
     language: greek
   - strongs: G51
-    proximity: 0.7759
+    proximity: 0.7759 {macula-proximity}
     language: greek
   - strongs: G3900
-    proximity: 0.7496
+    lemma: παράπτωμα
+    gloss: a side-slip {openscriptures-strongs}
+    proximity: 0.7496 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,31 +7,32 @@ definition: some noted constellation (only in the plural), perhaps collectively,
   zodiac
 kjv_usage: Mazzoroth. Compare H4208 (מַזָּלָה).
 derivation: apparently from H5144 (נָזַר) in the sense of distinction;
-extended_definition:
-  gloss: Mazzaroth
-  definition: 1) Mazzaroth<br>1a) the 12 signs of the Zodiac and their 36 associated
-    constellations
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) Mazzaroth
+
+  1a) the 12 signs of the Zodiac and their 36 associated constellations {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3556
-    proximity: 0.8245
+    lemma: כּוֹכָב
+    gloss: a star {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: A6236
-    proximity: 0.8098
+    proximity: 0.8098 {macula-proximity}
   - strongs: H1966
-    proximity: 0.7946
+    lemma: הֵילֵל
+    gloss: the morning-star {openscriptures-strongs}
+    proximity: 0.7946 {macula-proximity}
   - strongs: H3685
-    proximity: 0.7695
+    lemma: כְּסִיל
+    gloss: any notable constellation {openscriptures-strongs}
+    proximity: 0.7695 {macula-proximity}
   cross_language:
   - strongs: G792
-    proximity: 0.7732
+    proximity: 0.7732 {macula-proximity}
     language: greek
   - strongs: G5459
-    proximity: 0.7223
+    lemma: φωσφόρος
+    gloss: light-bearing {openscriptures-strongs}
+    proximity: 0.7223 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

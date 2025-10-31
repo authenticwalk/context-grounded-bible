@@ -8,54 +8,85 @@ definition: to set (literally or figuratively); intensively, to found; reflexive
 kjv_usage: appoint, take counsel, establish, (lay the, lay for a) found(-ation), instruct,
   lay, ordain, set, [idiom] sure.
 derivation: a primitive root;
-extended_definition:
-  gloss: to found
-  definition: 1) to found, fix, establish, lay foundation<br>1a) (Qal) to found, establish,
-    begin<br>1b) (Niphal)<br>1b1) to fix or seat themselves close together, sit in
-    conclave<br>1b2) to be founded<br>1c) (Piel)<br>1c1) to found<br>1c2) to establish,
-    appoint, ordain<br>1d) (Pual) to be founded, be laid<br>1e) (Hophal) to be founded
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to found, fix, establish, lay foundation
+
+  1a) (Qal) to found, establish, begin
+
+  1b) (Niphal)
+
+  1b1) to fix or seat themselves close together, sit in conclave
+
+  1b2) to be founded
+
+  1c) (Piel)
+
+  1c1) to found
+
+  1c2) to establish, appoint, ordain
+
+  1d) (Pual) to be founded, be laid
+
+  1e) (Hophal) to be founded {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H92
-    proximity: 0.8199
+    proximity: 0.8199 {macula-proximity}
   - strongs: A1124
-    proximity: 0.8146
+    proximity: 0.8146 {macula-proximity}
   - strongs: H4350
-    proximity: 0.8145
+    lemma: מְכוֹנָה
+    gloss: a pedestal {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
   - strongs: H7095
-    proximity: 0.8134
+    lemma: קֶצֶב
+    gloss: shape {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
   - strongs: H2710
-    proximity: 0.8063
+    lemma: חָקַק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
   - strongs: H3322
-    proximity: 0.8056
+    lemma: יָצַג
+    gloss: to place permanently {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H5975
-    proximity: 0.8034
+    lemma: עָמַד
+    gloss: to stand {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
   - strongs: H7896
-    proximity: 0.7993
+    lemma: שִׁית
+    gloss: to place {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
   - strongs: H4725
-    proximity: 0.7955
+    lemma: מָקוֹם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7955 {macula-proximity}
   - strongs: A6966
-    proximity: 0.795
+    proximity: 0.795 {macula-proximity}
   cross_language:
   - strongs: G2476
-    proximity: 0.8198
+    lemma: ἵστημι
+    gloss: to stand {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
     language: greek
   - strongs: G3724
-    proximity: 0.8169
+    lemma: ὁρίζω
+    gloss: to mark out or bound {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
     language: greek
   - strongs: G5021
-    proximity: 0.8092
+    lemma: τάσσω
+    gloss: to arrange in an orderly manner {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.8063
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
     language: greek
   - strongs: G1299
-    proximity: 0.8013
+    lemma: διατάσσω
+    gloss: to arrange thoroughly {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,53 +5,64 @@ transliteration: nēsíon
 definition: an islet
 kjv_usage: island
 derivation: diminutive of G3520 (νῆσος);
-extended_definition:
-  gloss: small island
-  definition: '<b>νησίον</b>, -ου, τό<BR /> (dimin. of νῆσος), = νησίς (Hdt., Thuc.,
-    al.) <BR /><b>a small island</b>: <ref=''Act.27.16.''>Act.27:16.</ref>†<BR />
-    (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> νησ-ίον</b>, τό, <br /> <i>diminutive</i> of νῆσος, <b>islet,</b>
-    [<a href="javascript:void(0)" title=" 1st c.BC-1st c.AD: Strabo Geographus 2.5.23,
-    3.3.1. ">Refs 1st c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'νησίον, -ου, τό
+
+  (dimin. of νῆσος), = νησίς (Hdt., Thuc., al.)
+
+  a small island: Act.27:16.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'νησ-ίον, τό,
+
+  diminutive of νῆσος, islet, [Refs 1st c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1640
-    proximity: 0.8204
+    lemma: ἐλάσσων
+    gloss: smaller (in size {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
   - strongs: G570a
-    proximity: 0.8001
+    proximity: 0.8001 {macula-proximity}
   - strongs: G3016
-    proximity: 0.7968
+    lemma: λεπτόν
+    gloss: something scaled {openscriptures-strongs}
+    proximity: 0.7968 {macula-proximity}
   - strongs: G5040
-    proximity: 0.7946
+    lemma: τεκνίον
+    gloss: an infant {openscriptures-strongs}
+    proximity: 0.7946 {macula-proximity}
   - strongs: G3640
-    proximity: 0.7868
+    lemma: ὀλιγόπιστος
+    gloss: incredulous {openscriptures-strongs}
+    proximity: 0.7868 {macula-proximity}
   - strongs: G974
-    proximity: 0.7797
+    proximity: 0.7797 {macula-proximity}
   - strongs: G1647
-    proximity: 0.7762
+    lemma: ἐλαχιστότερος
+    gloss: far less {openscriptures-strongs}
+    proximity: 0.7762 {macula-proximity}
   cross_language:
   - strongs: H5759
-    proximity: 0.8268
+    lemma: עֲוִיל
+    gloss: a babe {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: hebrew
   - strongs: H4592
-    proximity: 0.8211
+    lemma: מְעַט
+    gloss: a little or few {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
     language: hebrew
   - strongs: H339
-    proximity: 0.807
+    proximity: 0.807 {macula-proximity}
     language: hebrew
   - strongs: H6810
-    proximity: 0.7868
+    lemma: צָעִיר
+    gloss: little {openscriptures-strongs}
+    proximity: 0.7868 {macula-proximity}
     language: hebrew
   - strongs: H6819
-    proximity: 0.7833
+    lemma: צָעַר
+    gloss: to be small {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

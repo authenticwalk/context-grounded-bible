@@ -6,49 +6,65 @@ pronunciation: shef-ote'
 definition: a judicial sentence, i.e. punishment
 kjv_usage: judgment.
 derivation: or שְׁפוּט; from H8199 (שָׁפַט);
-extended_definition:
-  gloss: judgment
-  definition: judgment, act of judgment
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: judgment, act of judgment {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6599
-    proximity: 0.8135
+    lemma: פִּתְגָּם
+    gloss: a  sentence {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: H7378
-    proximity: 0.8089
+    lemma: רִיב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: H1781
-    proximity: 0.8077
+    lemma: דַּיָּן
+    gloss: a judge or advocate {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
   - strongs: H5352
-    proximity: 0.8019
+    lemma: נָקָה
+    gloss: to be  clean {openscriptures-strongs}
+    proximity: 0.8019 {macula-proximity}
   - strongs: H4148
-    proximity: 0.7973
+    lemma: מוּסָר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7973 {macula-proximity}
   - strongs: H1779
-    proximity: 0.7843
+    lemma: דִּין
+    gloss: judgement (the suit {openscriptures-strongs}
+    proximity: 0.7843 {macula-proximity}
   - strongs: H2742d
-    proximity: 0.759
+    proximity: 0.759 {macula-proximity}
   - strongs: H5771
-    proximity: 0.7506
+    lemma: עָוֺן
+    gloss: perversity {openscriptures-strongs}
+    proximity: 0.7506 {macula-proximity}
   - strongs: H4145
-    proximity: 0.7498
+    lemma: מוּסָדָה
+    gloss: a foundation {openscriptures-strongs}
+    proximity: 0.7498 {macula-proximity}
   cross_language:
   - strongs: G1348
-    proximity: 0.8189
+    lemma: δικαστής
+    gloss: a judger {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
     language: greek
   - strongs: G2923
-    proximity: 0.7924
+    lemma: κριτής
+    gloss: a judge {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
     language: greek
   - strongs: G968
-    proximity: 0.7915
+    proximity: 0.7915 {macula-proximity}
     language: greek
   - strongs: G1231
-    proximity: 0.7872
+    lemma: διαγινώσκω
+    gloss: to know thoroughly {openscriptures-strongs}
+    proximity: 0.7872 {macula-proximity}
     language: greek
   - strongs: G5099
-    proximity: 0.758
+    lemma: τίνω
+    gloss: to pay a price {openscriptures-strongs}
+    proximity: 0.758 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,43 +6,51 @@ pronunciation: meets
 definition: pressure
 kjv_usage: churning, forcing, wringing.
 derivation: from H4160 (מוּץ);
-extended_definition:
-  gloss: pressing
-  definition: squeezing, pressing, wringing
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: squeezing, pressing, wringing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1644a
-    proximity: 0.8208
+    proximity: 0.8208 {macula-proximity}
   - strongs: H3648
-    proximity: 0.8114
+    lemma: כָּמַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
   - strongs: H6965
-    proximity: 0.7976
+    lemma: קוּם
+    gloss: to rise (in various applications {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: H7280
-    proximity: 0.7868
+    lemma: רָגַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7868 {macula-proximity}
   - strongs: H1624
-    proximity: 0.7718
+    lemma: גָּרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7718 {macula-proximity}
   - strongs: H5480a
-    proximity: 0.7643
+    proximity: 0.7643 {macula-proximity}
   cross_language:
   - strongs: G383
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G5015
-    proximity: 0.8149
+    lemma: ταράσσω
+    gloss: to stir or agitate {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
     language: greek
   - strongs: G4787
-    proximity: 0.8112
+    lemma: συγκινέω
+    gloss: to move together {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
     language: greek
   - strongs: G4393
-    proximity: 0.8019
+    lemma: προφέρω
+    gloss: to bear forward {openscriptures-strongs}
+    proximity: 0.8019 {macula-proximity}
     language: greek
   - strongs: G2042
-    proximity: 0.763
+    lemma: ἐρεθίζω
+    gloss: to stimulate {openscriptures-strongs}
+    proximity: 0.763 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

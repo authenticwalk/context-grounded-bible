@@ -6,49 +6,63 @@ pronunciation: bo'-ker
 definition: properly, dawn (as the break of day); generally, morning
 kjv_usage: ([phrase]) day, early, morning, morrow.
 derivation: from H1239 (בָּקַר);
-extended_definition:
-  gloss: morning
-  definition: 1) morning, break of day<br>1a) morning<br>1a1) of end of night<br>1a2)
-    of coming of daylight<br>1a3) of coming of sunrise<br>1a4) of beginning of day<br>1a5)
-    of bright joy after night of distress (fig.)<br>1b) morrow, next day, next morning
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) morning, break of day
+
+  1a) morning
+
+  1a1) of end of night
+
+  1a2) of coming of daylight
+
+  1a3) of coming of sunrise
+
+  1a4) of beginning of day
+
+  1a5) of bright joy after night of distress (fig.)
+
+  1b) morrow, next day, next morning {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A3118
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
   - strongs: A8578
-    proximity: 0.8172
+    proximity: 0.8172 {macula-proximity}
   - strongs: H4279
-    proximity: 0.8131
+    lemma: מָחָר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
   - strongs: H871a
-    proximity: 0.8033
+    proximity: 0.8033 {macula-proximity}
   - strongs: H6153
-    proximity: 0.7854
+    lemma: עֶרֶב
+    gloss: dusk {openscriptures-strongs}
+    proximity: 0.7854 {macula-proximity}
   - strongs: H1338
-    proximity: 0.7764
+    lemma: בִּתְרוֹן
+    gloss: Bithron {openscriptures-strongs}
+    proximity: 0.7764 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7656
+    proximity: 0.7656 {macula-proximity}
   - strongs: A5053
-    proximity: 0.7641
+    proximity: 0.7641 {macula-proximity}
   cross_language:
   - strongs: G1538
-    proximity: 0.8217
+    lemma: ἕκαστος
+    gloss: each or every {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
     language: greek
   - strongs: G1966a
-    proximity: 0.7977
+    proximity: 0.7977 {macula-proximity}
     language: greek
   - strongs: G827
-    proximity: 0.7857
+    proximity: 0.7857 {macula-proximity}
     language: greek
   - strongs: G901
-    proximity: 0.7856
+    proximity: 0.7856 {macula-proximity}
     language: greek
   - strongs: G1306
-    proximity: 0.7737
+    lemma: διαυγάζω
+    gloss: to glimmer through {openscriptures-strongs}
+    proximity: 0.7737 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

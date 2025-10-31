@@ -6,27 +6,25 @@ pronunciation: tsaw-har'
 definition: to press out oil
 kjv_usage: make oil.
 derivation: a primitive root; to glisten; used only as denominative from H3323 (יִצְהָר),
-extended_definition:
-  gloss: to press
-  definition: (Hiphil) to press oil, press out oil, glisten
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Hiphil) to press oil, press out oil, glisten {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1620
-    proximity: 0.7737
+    lemma: גַּרְגַּר
+    gloss: a berry {openscriptures-strongs}
+    proximity: 0.7737 {macula-proximity}
   cross_language:
   - strongs: G2565
-    proximity: 0.8229
+    lemma: καλλιέλαιος
+    gloss: a cultivated olive tree {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G65
-    proximity: 0.8054
+    proximity: 0.8054 {macula-proximity}
     language: greek
   - strongs: G1638
-    proximity: 0.7457
+    lemma: ἐλαιών
+    gloss: an olive-orchard {openscriptures-strongs}
+    proximity: 0.7457 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

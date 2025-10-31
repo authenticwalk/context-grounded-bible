@@ -6,52 +6,54 @@ definition: a garden plot, i.e. (by implication, of regular beds) a row (repeate
   in plural by Hebraism, to indicate an arrangement)
 kjv_usage: in ranks
 derivation: perhaps from (a leek, and so an onion-patch);
-extended_definition:
-  gloss: group
-  definition: '<b>πρασιά</b>, -ᾶς, ἡ <BR /> [in LXX: <ref=''Sir.24.31''>Sir.24:31</ref>
-    * ;] <BR /><b>a garden-bed</b>; metaphorically, of ranks or orderly groups of
-    persons: <ref=''Mrk.6.40.''>Mrk.6:40.</ref>†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> πρᾰσι-ά</b>, <br /> <i>Ionic dialect</i> <b>πρᾰσ-ιή</b>, ἡ,
-    <b>bed in a garden, garden-plot,</b> [<a href="javascript:void(0)" title=" 8th
-    c.BC: Odyssea Homerus Epicus “Odyssey” 7.127, 24.247, 4th-3rd c.BC: Theophrastus
-    Philosophus “Historia Plantarum” 4.4.3, 2nd c.BC: Nicander Epicus “Alexipharmaca”
-    532, LXX.Sir.24.31, 1st c.AD: Dioscorides (Dioscurides) Medicus 4.17, 2nd c.AD:
-    Galenus Medicus “de Usu Partium” 9.6; ἀνθῶν πρασιαί 3rd c.AD(?): Longus Scriptor
-    Eroticus 4.2: _metaphorically_, πρασιαὶ πρασιαί">LXX+8th c.BC+</a>] <b>in companies</b>
-    or <b>groups,</b> [<a href="javascript:void(0)" title="NT.Mark.6.40. (Prob. from
-    πράσον,">NT</a>] and so properly <b>bed of leeks.</b>) <br /><Level2><b>__II</b></Level2>
-    a surgical instrument, [<a href="javascript:void(0)" title=" “Hermes” 38.283.
-    ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'πρασιά, -ᾶς, ἡ
+
+  [in LXX: Sir.24:31 * ;]
+
+  a garden-bed; metaphorically, of ranks or orderly groups of persons: Mrk.6:40.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'πρᾰσι-ά,
+
+  Ionic dialect πρᾰσ-ιή, ἡ, bed in a garden, garden-plot, [LXX+8th c.BC+] in companies
+  or groups, [NT] and so properly bed of leeks.)
+
+  __II a surgical instrument, [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4934a
-    proximity: 0.8263
+    proximity: 0.8263 {macula-proximity}
   - strongs: G4128
-    proximity: 0.8244
+    lemma: πλῆθος
+    gloss: a fulness {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: G4887
-    proximity: 0.819
+    lemma: συνδέω
+    gloss: to bind with {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   - strongs: G4943
-    proximity: 0.8021
+    lemma: συνυπουργέω
+    gloss: to be a co-auxiliary {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
   cross_language:
   - strongs: H5739
-    proximity: 0.8127
+    lemma: עֵדֶר
+    gloss: an arrangement {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
     language: hebrew
   - strongs: H4917
-    proximity: 0.7562
+    lemma: מִשְׁלַחַת
+    gloss: a mission {openscriptures-strongs}
+    proximity: 0.7562 {macula-proximity}
     language: hebrew
   - strongs: H1462
-    proximity: 0.7357
+    lemma: גּוֹב
+    gloss: the locust {openscriptures-strongs}
+    proximity: 0.7357 {macula-proximity}
     language: hebrew
   - strongs: H3862
-    proximity: 0.7014
+    lemma: לַהֲקָה
+    gloss: an assembly {openscriptures-strongs}
+    proximity: 0.7014 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,63 +5,73 @@ transliteration: epeisagōgḗ
 definition: a superintroduction
 kjv_usage: bringing in
 derivation: from a compound of G1909 (ἐπί) and G1521 (εἰσάγω);
-extended_definition:
-  gloss: introduction
-  definition: '<b>ἐπ-εισ-αγωγή</b>, -ῆς, ἡ <BR /> <b>a bringing in besides or in addition
-    </b>(Hipp., FlJ, al.): <ref=''Heb.7.19''>Heb.7:19</ref> (cf. MM, <i>Exp.</i>,
-    xiv).†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐπεισ-ᾰγωγή</b>, ἡ, <br /> <b>bringing</b> <b>in besides,</b>
-    ἑτέρων ἰητρῶν [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus
-    “παραγγελίαι” 7 ">Refs 5th c.BC+</a>]; especially of a second wife, [<a href="javascript:void(0)"
-    title=" 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 11.6.2 ">Refs 1st
-    c.AD+</a>]; προσώπων ἐ. <b>introduction of new</b> characters, [<a href="javascript:void(0)"
-    title=" 1st c.BC: Dionysius Halicarnassensis “de Veterum Censura” 2.10 (_plural_),
-    compare 3.3 (_plural_); κρείττονος ἐλπίδος NT.Heb.7.19. ">NT+1st c.BC+</a>]<br
-    /><Level3><b>__2</b></Level3> <b>means of bringing</b> or <b>letting in,</b> ἐπεσαγωγὰς
-    τῶν πολεμίων [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus
-    8.92. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐπ-εισ-αγωγή, -ῆς, ἡ
+
+  a bringing in besides or in addition (Hipp., FlJ, al.): Heb.7:19 (cf. MM, Exp.,
+  xiv).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐπεισ-ᾰγωγή, ἡ,
+
+  bringing in besides, ἑτέρων ἰητρῶν [Refs 5th c.BC+]; especially of a second wife,
+  [Refs 1st c.AD+]; προσώπων ἐ. introduction of new characters, [NT+1st c.BC+]
+
+  __2 means of bringing or letting in, ἐπεσαγωγὰς τῶν πολεμίων [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1519
-    proximity: 0.8283
+    lemma: εἰς
+    gloss: to or into {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: G1530
-    proximity: 0.8256
+    lemma: εἰσπηδάω
+    gloss: to rush in {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: G1525
-    proximity: 0.8231
+    lemma: εἰσέρχομαι
+    gloss: to enter {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: G1447
-    proximity: 0.8212
+    lemma: Ἑβραϊστί
+    gloss: Hebraistically or in the Jewish  language {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   - strongs: G4911
-    proximity: 0.8171
+    lemma: συνεφίστημι
+    gloss: to stand up together {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: G520
-    proximity: 0.8153
+    proximity: 0.8153 {macula-proximity}
   - strongs: G1670
-    proximity: 0.8151
+    lemma: ἑλκύω
+    gloss: to drag {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
   - strongs: G1532
-    proximity: 0.8149
+    lemma: εἰστρέχω
+    gloss: to hasten inward {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
   - strongs: G2609
-    proximity: 0.8051
+    lemma: κατάγω
+    gloss: to lead down {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
   - strongs: G906
-    proximity: 0.7991
+    proximity: 0.7991 {macula-proximity}
   cross_language:
   - strongs: H5066
-    proximity: 0.8271
+    lemma: נָגַשׁ
+    gloss: to be or come (causatively {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: hebrew
   - strongs: H3318
-    proximity: 0.8241
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: hebrew
   - strongs: H871a
-    proximity: 0.8174
+    proximity: 0.8174 {macula-proximity}
     language: hebrew
   - strongs: H3947
-    proximity: 0.8105
+    lemma: לָקַח
+    gloss: to take {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

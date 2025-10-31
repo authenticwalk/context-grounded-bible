@@ -5,59 +5,67 @@ transliteration: proakoúō
 definition: to hear already,i.e. anticipate
 kjv_usage: hear before
 derivation: from G4253 (πρό) and G191 (ἀκούω);
-extended_definition:
-  gloss: to hear beforehand
-  definition: '<b>προ-ακούω </b><BR /> <b>to hear beforehand</b>: <ref=''Col.1.5''>Col.1:5</ref>
-    (see Lft., in l).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> προᾰκούω</b>, <br /> <b>hear beforehand,</b> τι [<a href="javascript:void(0)"
-    title=" 5th c.BC: Herodotus Historicus 2.5, 5.86, etc.; τῶν ἐνυπνίων 2nd c.BC:
-    Polybius Historicus 10.5.5; περί τινος 4th c.BC: Demosthenes Orator 22.35; προακηκόεε
-    ὅτι.. 5th c.BC: Herodotus Historicus 8.79 ">Refs 5th c.BC+</a>]; προακηκοότες
-    ὡς εἶχε how matters stood, [<a href="javascript:void(0)" title=" [prev. author]
-    6.16 ">Refs</a>]; of a horse, τοῖς ὠσὶ προακούοντα σημαίνειν [<a href="javascript:void(0)"
-    title=" 5th-6th c.BC: Xenophon Historicus “Institutio Cyri (Cyropaedia)” 4.3.21.
-    ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'προ-ακούω
+
+  to hear beforehand: Col.1:5 (see Lft., in l).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'προᾰκούω,
+
+  hear beforehand, τι [Refs 5th c.BC+]; προακηκοότες ὡς εἶχε how matters stood, [Refs];
+  of a horse, τοῖς ὠσὶ προακούοντα σημαίνειν [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5219
-    proximity: 0.8239
+    lemma: ὑπακούω
+    gloss: to hear under {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: G4270
-    proximity: 0.8047
+    lemma: προγράφω
+    gloss: to write previously {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
   - strongs: G4254
-    proximity: 0.7987
+    lemma: προάγω
+    gloss: to lead forward {openscriptures-strongs}
+    proximity: 0.7987 {macula-proximity}
   - strongs: G1873
-    proximity: 0.7854
+    lemma: ἐπακούω
+    gloss: to hearken  to {openscriptures-strongs}
+    proximity: 0.7854 {macula-proximity}
   - strongs: G4279
-    proximity: 0.7582
+    lemma: προεπαγγέλλομαι
+    gloss: to promise of old {openscriptures-strongs}
+    proximity: 0.7582 {macula-proximity}
   - strongs: G189
-    proximity: 0.752
+    proximity: 0.752 {macula-proximity}
   - strongs: G4266
-    proximity: 0.7499
+    lemma: προγίνομαι
+    gloss: to be already {openscriptures-strongs}
+    proximity: 0.7499 {macula-proximity}
   - strongs: G3878
-    proximity: 0.7449
+    lemma: παρακούω
+    gloss: to mishear {openscriptures-strongs}
+    proximity: 0.7449 {macula-proximity}
   cross_language:
   - strongs: H6931
-    proximity: 0.8255
+    lemma: קַדְמוֹנִי
+    gloss: anterior or  oriental {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
     language: hebrew
   - strongs: H6440
-    proximity: 0.8162
+    lemma: פָּנִים
+    gloss: the face {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
     language: hebrew
   - strongs: H871a
-    proximity: 0.8018
+    proximity: 0.8018 {macula-proximity}
     language: hebrew
   - strongs: H865
-    proximity: 0.7773
+    proximity: 0.7773 {macula-proximity}
     language: hebrew
   - strongs: H4926
-    proximity: 0.7574
+    lemma: מִשְׁמָע
+    gloss: a report {openscriptures-strongs}
+    proximity: 0.7574 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

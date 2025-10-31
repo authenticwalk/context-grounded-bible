@@ -5,51 +5,62 @@ transliteration: episyntréchō
 definition: to hasten together upon one place (or a particular occasion)
 kjv_usage: come running together
 derivation: from G1909 (ἐπί) and G4936 (συντρέχω);
-extended_definition:
-  gloss: to run together
-  definition: '<b>ἐπι-συν-τρέχω </b><BR /> <b>to run together again</b>: <ref=''Mrk.9.25''>Mrk.9:25</ref>
-    (see Swete, in l).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ἐπισυν-τρέχω</b>, <br /> <b>run together</b> to a place, [<a
-    href="javascript:void(0)" title=" NT.Mark.9.25. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ἐπι-συν-τρέχω
+
+  to run together again: Mrk.9:25 (see Swete, in l).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐπισυν-τρέχω,
+
+  run together to a place, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4370
-    proximity: 0.8294
+    lemma: προστρέχω
+    gloss: to run towards {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: G4867a
-    proximity: 0.8202
+    proximity: 0.8202 {macula-proximity}
   - strongs: G4816
-    proximity: 0.8176
+    lemma: συλλέγω
+    gloss: to collect {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   - strongs: G1996
-    proximity: 0.7955
+    lemma: ἐπισυνάγω
+    gloss: to collect upon the same place {openscriptures-strongs}
+    proximity: 0.7955 {macula-proximity}
   - strongs: G3674
-    proximity: 0.7681
+    lemma: ὁμοῦ
+    gloss: akin to G260 ) as adverb {openscriptures-strongs}
+    proximity: 0.7681 {macula-proximity}
   - strongs: G3952
-    proximity: 0.7503
+    lemma: παρουσία
+    gloss: a being near {openscriptures-strongs}
+    proximity: 0.7503 {macula-proximity}
   - strongs: G1660
-    proximity: 0.7119
+    lemma: ἔλευσις
+    gloss: an advent {openscriptures-strongs}
+    proximity: 0.7119 {macula-proximity}
   cross_language:
   - strongs: H3664
-    proximity: 0.8295
+    lemma: כָּנַס
+    gloss: to collect {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: hebrew
   - strongs: H3162a
-    proximity: 0.8265
+    proximity: 0.8265 {macula-proximity}
     language: hebrew
   - strongs: H6910
-    proximity: 0.8028
+    lemma: קְבֻצָה
+    gloss: a hoard {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
     language: hebrew
   - strongs: H7197
-    proximity: 0.7772
+    lemma: קָשַׁשׁ
+    gloss: to forage for straw {openscriptures-strongs}
+    proximity: 0.7772 {macula-proximity}
     language: hebrew
   - strongs: H626
-    proximity: 0.7444
+    proximity: 0.7444 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

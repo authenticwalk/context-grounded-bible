@@ -6,32 +6,34 @@ pronunciation: ag-aw-baw'
 definition: love (abstractly), i.e. amorousness
 kjv_usage: inordinate love.
 derivation: from H5689 (עֲגַב);
-extended_definition:
-  gloss: lust
-  definition: lustfulness
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: lustfulness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H183
-    proximity: 0.79
+    proximity: 0.79 {macula-proximity}
   - strongs: H2530
-    proximity: 0.7822
+    lemma: חָמַד
+    gloss: to delight in {openscriptures-strongs}
+    proximity: 0.7822 {macula-proximity}
   cross_language:
   - strongs: G3713
-    proximity: 0.8094
+    lemma: ὀρέγομαι
+    gloss: to stretch oneself {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
     language: greek
   - strongs: G3715
-    proximity: 0.7379
+    lemma: ὄρεξις
+    gloss: excitement of the mind {openscriptures-strongs}
+    proximity: 0.7379 {macula-proximity}
     language: greek
   - strongs: G1937
-    proximity: 0.7312
+    lemma: ἐπιθυμέω
+    gloss: to set the heart upon {openscriptures-strongs}
+    proximity: 0.7312 {macula-proximity}
     language: greek
   - strongs: G4140
-    proximity: 0.7222
+    lemma: πλησμονή
+    gloss: a filling up {openscriptures-strongs}
+    proximity: 0.7222 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

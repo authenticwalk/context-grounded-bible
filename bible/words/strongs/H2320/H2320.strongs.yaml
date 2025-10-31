@@ -6,44 +6,62 @@ pronunciation: kho'-desh
 definition: the new moon; by implication, a month
 kjv_usage: month(-ly), new moon.
 derivation: from H2318 (חָדַשׁ);
-extended_definition:
-  gloss: 'month: new moon'
-  definition: ': new_moon<br>1) the new moon, month, monthly<br>1a) the first day
-    of the month<br>1b) the lunar month<BR>Also means: <i>cho.desh</i> (חֹ֫דֶשׁ ":
-    month" H2320)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': new_moon
+
+  1) the new moon, month, monthly
+
+  1a) the first day of the month
+
+  1b) the lunar month
+
+  Also means: cho.desh (חֹ֫דֶשׁ ": month" H2320) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6218
-    proximity: 0.8281
+    lemma: עָשׂוֹר
+    gloss: ten {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H7969
-    proximity: 0.8256
+    lemma: שָׁלוֹשׁ
+    gloss: three {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: H5510
-    proximity: 0.8135
+    lemma: סִיוָן
+    gloss: Sivan {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.8118
+    proximity: 0.8118 {macula-proximity}
   - strongs: H6249
-    proximity: 0.8117
+    lemma: עַשְׁתֵּי
+    gloss: eleven or  eleventh {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
   - strongs: H2568
-    proximity: 0.8103
+    lemma: חָמֵשׁ
+    gloss: five {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   - strongs: H6242
-    proximity: 0.8089
+    lemma: עֶשְׂרִים
+    gloss: twenty {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: H8066
-    proximity: 0.8084
+    lemma: שְׁמִינִי
+    gloss: eight {openscriptures-strongs}
+    proximity: 0.8084 {macula-proximity}
   - strongs: H2549
-    proximity: 0.8073
+    lemma: חֲמִישִׁי
+    gloss: fifth {openscriptures-strongs}
+    proximity: 0.8073 {macula-proximity}
   - strongs: H702
-    proximity: 0.806
+    proximity: 0.806 {macula-proximity}
   cross_language:
   - strongs: G1520
-    proximity: 0.8126
+    lemma: εἷς
+    gloss: one {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
     language: greek
   - strongs: G4582
-    proximity: 0.7983
+    lemma: σελήνη
+    gloss: probably akin to the alternate of G138 {openscriptures-strongs}
+    proximity: 0.7983 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

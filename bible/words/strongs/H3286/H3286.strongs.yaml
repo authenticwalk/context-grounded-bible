@@ -6,39 +6,50 @@ pronunciation: yaw-af'
 definition: to tire (as if from wearisome flight)
 kjv_usage: faint, cause to fly, (be) weary (self).
 derivation: a primitive root;
-extended_definition:
-  gloss: to faint
-  definition: 1) to be or grow weary, be fatigued, be faint<br>1a) (Qal) to be or
-    grow weary, be fatigued, be faint<br>1b) (Hophal) wearied (participle)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be or grow weary, be fatigued, be faint
+
+  1a) (Qal) to be or grow weary, be fatigued, be faint
+
+  1b) (Hophal) wearied (participle) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6089a
-    proximity: 0.8128
+    proximity: 0.8128 {macula-proximity}
   - strongs: H5999
-    proximity: 0.8108
+    lemma: עָמָל
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
   - strongs: H1809
-    proximity: 0.8053
+    lemma: דָּלַל
+    gloss: to slacken or be feeble {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H3018
-    proximity: 0.7884
+    lemma: יְגִיעַ
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.7884 {macula-proximity}
   - strongs: H6001a
-    proximity: 0.7663
+    proximity: 0.7663 {macula-proximity}
   - strongs: H6093
-    proximity: 0.7556
+    lemma: עִצָּבוֹן
+    gloss: worrisomeness {openscriptures-strongs}
+    proximity: 0.7556 {macula-proximity}
   - strongs: H6313
-    proximity: 0.7457
+    lemma: פּוּג
+    gloss: to be sluggish {openscriptures-strongs}
+    proximity: 0.7457 {macula-proximity}
   - strongs: H5998
-    proximity: 0.7293
+    lemma: עָמַל
+    gloss: to toil {openscriptures-strongs}
+    proximity: 0.7293 {macula-proximity}
   cross_language:
   - strongs: G1590
-    proximity: 0.7886
+    lemma: ἐκλύω
+    gloss: to relax {openscriptures-strongs}
+    proximity: 0.7886 {macula-proximity}
     language: greek
   - strongs: G2873
-    proximity: 0.712
+    lemma: κόπος
+    gloss: a cut {openscriptures-strongs}
+    proximity: 0.712 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

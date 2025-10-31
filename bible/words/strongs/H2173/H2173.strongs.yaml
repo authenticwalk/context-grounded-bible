@@ -6,43 +6,52 @@ pronunciation: zim-raw'
 definition: pruned (i.e. choice) fruit
 kjv_usage: best fruit.
 derivation: from H2168 (זָמַר);
-extended_definition:
-  gloss: best
-  definition: choice fruits, choice products
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: choice fruits, choice products {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4005
-    proximity: 0.8079
+    lemma: מִבְחָר
+    gloss: select {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
   - strongs: H2896
-    proximity: 0.7875
+    lemma: טוֹב
+    gloss: good  in the widest sense {openscriptures-strongs}
+    proximity: 0.7875 {macula-proximity}
   - strongs: H2981
-    proximity: 0.7354
+    lemma: יְבוּל
+    gloss: produce {openscriptures-strongs}
+    proximity: 0.7354 {macula-proximity}
   - strongs: H8393
-    proximity: 0.7312
+    lemma: תְּבוּאָה
+    gloss: income {openscriptures-strongs}
+    proximity: 0.7312 {macula-proximity}
   - strongs: H1645
-    proximity: 0.7086
+    lemma: גֶּרֶשׁ
+    gloss: produce {openscriptures-strongs}
+    proximity: 0.7086 {macula-proximity}
   - strongs: H8570
-    proximity: 0.7047
+    lemma: תְּנוּבָה
+    gloss: produce {openscriptures-strongs}
+    proximity: 0.7047 {macula-proximity}
   cross_language:
   - strongs: G616
-    proximity: 0.8206
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G4284
-    proximity: 0.8069
+    lemma: προέχομαι
+    gloss: to hold oneself before others {openscriptures-strongs}
+    proximity: 0.8069 {macula-proximity}
     language: greek
   - strongs: G18
-    proximity: 0.7728
+    proximity: 0.7728 {macula-proximity}
     language: greek
   - strongs: G2570
-    proximity: 0.7483
+    lemma: καλός
+    proximity: 0.7483 {macula-proximity}
     language: greek
   - strongs: G2866
-    proximity: 0.7474
+    lemma: κομψότερον
+    gloss: figuratively {openscriptures-strongs}
+    proximity: 0.7474 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

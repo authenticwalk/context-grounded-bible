@@ -6,46 +6,63 @@ pronunciation: tab-neeth'
 definition: structure; by implication, a model, resemblance
 kjv_usage: figure, form, likeness, pattern, similitude.
 derivation: from H1129 (בָּנָה);
-extended_definition:
-  gloss: pattern
-  definition: 1) pattern, plan, form, construction, figure<br>1a) construction, structure<br>1a1)
-    meaning uncertain<br>1b) pattern<br>1c) figure, image (of idols)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) pattern, plan, form, construction, figure
+
+  1a) construction, structure
+
+  1a1) meaning uncertain
+
+  1b) pattern
+
+  1c) figure, image (of idols) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1825
-    proximity: 0.8181
+    lemma: דִּמְיוֹן
+    gloss: resemblance {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
   - strongs: A2376
-    proximity: 0.8155
+    proximity: 0.8155 {macula-proximity}
   - strongs: A2178
-    proximity: 0.7927
+    proximity: 0.7927 {macula-proximity}
   - strongs: H5566
-    proximity: 0.7874
+    lemma: סֶמֶל
+    gloss: a likeness {openscriptures-strongs}
+    proximity: 0.7874 {macula-proximity}
   - strongs: H8498
-    proximity: 0.7561
+    lemma: תְּכוּנָה
+    gloss: adjustment {openscriptures-strongs}
+    proximity: 0.7561 {macula-proximity}
   - strongs: H8389
-    proximity: 0.724
+    lemma: תֹּאַר
+    gloss: outline {openscriptures-strongs}
+    proximity: 0.724 {macula-proximity}
   - strongs: A7299
-    proximity: 0.7074
+    proximity: 0.7074 {macula-proximity}
   cross_language:
   - strongs: G4976
-    proximity: 0.8243
+    lemma: σχῆμα
+    gloss: a figure {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: greek
   - strongs: G4832
-    proximity: 0.8112
+    lemma: σύμμορφος
+    gloss: jointly formed {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
     language: greek
   - strongs: G3445
-    proximity: 0.7977
+    lemma: μορφόω
+    gloss: to fashion {openscriptures-strongs}
+    proximity: 0.7977 {macula-proximity}
     language: greek
   - strongs: G3446
-    proximity: 0.7973
+    lemma: μόρφωσις
+    gloss: formation {openscriptures-strongs}
+    proximity: 0.7973 {macula-proximity}
     language: greek
   - strongs: G5261
-    proximity: 0.7961
+    lemma: ὑπογραμμός
+    gloss: an underwriting {openscriptures-strongs}
+    proximity: 0.7961 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

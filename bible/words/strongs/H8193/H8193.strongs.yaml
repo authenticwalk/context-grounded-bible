@@ -9,49 +9,59 @@ kjv_usage: band, bank, binding, border, brim, brink, edge, language, lip, pratin
   (sea-)shore, side, speech, talk, (vain) words.
 derivation: or (in dual and plural) שֶׂפֶת; probably from H5595 (סָפָה) or H8192 (שָׁפָה)
   through the idea of termination (compare H5490 (סוֹף));
-extended_definition:
-  gloss: 'lip: language'
-  definition: ': language<br>1) lip, language, speech, shore, bank, brink, brim, side,
-    edge, border, binding<br>1a) lip (as body part)<br>1b) language<br>1c) edge, shore,
-    bank (of cup, sea, river, etc)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: ': language
+
+  1) lip, language, speech, shore, bank, brink, brim, side, edge, border, binding
+
+  1a) lip (as body part)
+
+  1b) language
+
+  1c) edge, shore, bank (of cup, sea, river, etc) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H871a
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
   - strongs: H565
-    proximity: 0.8266
+    proximity: 0.8266 {macula-proximity}
   - strongs: H1699a
-    proximity: 0.8237
+    proximity: 0.8237 {macula-proximity}
   - strongs: H2441
-    proximity: 0.8048
+    lemma: חֵךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
   - strongs: H4669
-    proximity: 0.8032
+    lemma: מִפְתָּח
+    gloss: an aperture {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
   - strongs: H6610
-    proximity: 0.7983
+    lemma: פִּתְחוֹן
+    gloss: opening {openscriptures-strongs}
+    proximity: 0.7983 {macula-proximity}
   - strongs: A3961
-    proximity: 0.7696
+    proximity: 0.7696 {macula-proximity}
   - strongs: A6433
-    proximity: 0.7442
+    proximity: 0.7442 {macula-proximity}
   cross_language:
   - strongs: G893
-    proximity: 0.8142
+    proximity: 0.8142 {macula-proximity}
     language: greek
   - strongs: G4086
-    proximity: 0.806
+    lemma: πιθανολογία
+    gloss: persuasive language {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
     language: greek
   - strongs: G123
-    proximity: 0.8048
+    proximity: 0.8048 {macula-proximity}
     language: greek
   - strongs: G5542
-    proximity: 0.7907
+    lemma: χρηστολογία
+    gloss: fair speech {openscriptures-strongs}
+    proximity: 0.7907 {macula-proximity}
     language: greek
   - strongs: G4487
-    proximity: 0.787
+    lemma: ῥῆμα
+    gloss: an utterance (individually {openscriptures-strongs}
+    proximity: 0.787 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,57 +5,70 @@ transliteration: entaphiázō
 definition: to inswathe with cerements for interment
 kjv_usage: bury
 derivation: from a compound of G1722 (ἐν) and G5028 (τάφος);
-extended_definition:
-  gloss: to prepare burial
-  definition: '<b>ἐνταφιάζω </b><BR /> [in LXX: <ref=''Gen.50.2''>Gen.50:2</ref> (חָנַט;
-    cf. ἐνταφιαστής, <ref=''Gen.50.2''>Gen.50:2</ref> for רָפָא; see Deiss., BS, 120
-    f.; MM, <i>Exp.</i>, xiii)* ;] <BR />a κοινή word (Deiss., <i>LAE</i>, 723), <BR
-    /> <b>to prepare for burial</b>: <ref=''Mat.26.12''>Mat.26:12</ref>, <ref=''Jhn.19.40''>Jhn.19:40</ref>.†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐντᾰφ-ιάζω</b>, <br /> <b>prepare for burial, lay out,</b>
-    [<a href="javascript:void(0)" title=" LXX.Gen.50.2, NT.Matt.26.12, 1st-2nd c.AD:
-    Plutarchus Biographus et Philosophus 2.995c, “Anthologia Graeca” 11.125: _metaphorically_,
-    τὴν τυραννίδα τῇ πόλει 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Dio”
-    44 ">LXX+NT+1st c.AD+</a>]:—<i>middle</i>, τὸ λοιπὸν ἐντεταφιασμένος περιπατεῖ
-    [<a href="javascript:void(0)" title=" 1st c.BC: Philodemus Philosophus “de Morte
-    - Papiri Ercolanesi” 38. ">Refs 1st c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐνταφιάζω
+
+  [in LXX: Gen.50:2 (חָנַט; cf. ἐνταφιαστής, Gen.50:2 for רָפָא; see Deiss., BS, 120
+  f.; MM, Exp., xiii)* ;]
+
+  a κοινή word (Deiss., LAE, 723),
+
+  to prepare for burial: Mat.26:12, Jhn.19:40.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐντᾰφ-ιάζω,
+
+  prepare for burial, lay out, [LXX+NT+1st c.AD+]:—middle, τὸ λοιπὸν ἐντεταφιασμένος
+  περιπατεῖ [Refs 1st c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2093
-    proximity: 0.8299
+    lemma: ἑτοίμως
+    gloss: in readiness {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
   - strongs: G3904
-    proximity: 0.828
+    lemma: παρασκευή
+    gloss: readiness {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
   - strongs: G1063
-    proximity: 0.8266
+    lemma: γάρ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: G4916
-    proximity: 0.826
+    lemma: συνθάπτω
+    gloss: to inter in company with {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
   - strongs: G2092
-    proximity: 0.8202
+    lemma: ἕτοιμος
+    gloss: adjusted {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   - strongs: G3903
-    proximity: 0.7885
+    lemma: παρασκευάζω
+    gloss: to furnish aside {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
   - strongs: G5027
-    proximity: 0.785
+    lemma: ταφή
+    gloss: burial {openscriptures-strongs}
+    proximity: 0.785 {macula-proximity}
   - strongs: G4282
-    proximity: 0.7705
+    lemma: προετοιμάζω
+    gloss: to fit up in advance {openscriptures-strongs}
+    proximity: 0.7705 {macula-proximity}
   - strongs: G2680
-    proximity: 0.7705
+    lemma: κατασκευάζω
+    gloss: to prepare thoroughly (properly {openscriptures-strongs}
+    proximity: 0.7705 {macula-proximity}
   cross_language:
   - strongs: H6264
-    proximity: 0.8208
+    lemma: עָתִיד
+    gloss: prepared {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: hebrew
   - strongs: H3739a
-    proximity: 0.7919
+    proximity: 0.7919 {macula-proximity}
     language: hebrew
   - strongs: H6900
-    proximity: 0.7859
+    lemma: קְבוּרָה
+    gloss: sepulture {openscriptures-strongs}
+    proximity: 0.7859 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

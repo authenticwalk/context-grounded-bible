@@ -6,31 +6,35 @@ pronunciation: tar-booth'
 definition: multiplication, i.e. progeny
 kjv_usage: increase.
 derivation: from H7235 (רָבָה);
-extended_definition:
-  gloss: increase
-  definition: increase, brood, progeny, offspring
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: increase, brood, progeny, offspring {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6280
-    proximity: 0.8214
+    lemma: עָתַר
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H2233
-    proximity: 0.7759
+    lemma: זֶרַע
+    gloss: seed {openscriptures-strongs}
+    proximity: 0.7759 {macula-proximity}
   - strongs: H6526
-    proximity: 0.7409
+    lemma: פִּרְחַח
+    gloss: progeny {openscriptures-strongs}
+    proximity: 0.7409 {macula-proximity}
   cross_language:
   - strongs: G1085
-    proximity: 0.8209
+    lemma: γένος
+    gloss: '"kin" (abstract or concrete {openscriptures-strongs}'
+    proximity: 0.8209 {macula-proximity}
     language: greek
   - strongs: G4323
-    proximity: 0.8048
+    lemma: προσανατίθημι
+    gloss: to lay up in addition {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
     language: greek
   - strongs: G3555
-    proximity: 0.7583
+    lemma: νοσσιά
+    gloss: a brood {openscriptures-strongs}
+    proximity: 0.7583 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,28 +6,28 @@ pronunciation: shel-ee'
 definition: privacy
 kjv_usage: '[phrase] quietly.'
 derivation: from H7951 (שָׁלָה);
-extended_definition:
-  gloss: quietness
-  definition: quiet, private, quietness
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: quiet, private, quietness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5643
-    proximity: 0.7849
+    lemma: סֵתֶר
+    gloss: a cover (in a good or a bad {openscriptures-strongs}
+    proximity: 0.7849 {macula-proximity}
   - strongs: H5475
-    proximity: 0.7791
+    lemma: סוֹד
+    gloss: a session {openscriptures-strongs}
+    proximity: 0.7791 {macula-proximity}
   - strongs: H4565
-    proximity: 0.7614
+    lemma: מִסְתָּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7614 {macula-proximity}
   cross_language:
   - strongs: G2927a
-    proximity: 0.8198
+    proximity: 0.8198 {macula-proximity}
     language: greek
   - strongs: G2977
-    proximity: 0.7065
+    lemma: λάθρα
+    gloss: privately {openscriptures-strongs}
+    proximity: 0.7065 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

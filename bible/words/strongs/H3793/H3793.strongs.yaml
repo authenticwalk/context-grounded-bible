@@ -6,32 +6,36 @@ pronunciation: keth-o'-beth
 definition: a letter or other mark branded on the skin
 kjv_usage: '[idiom] any (mark).'
 derivation: from H3789 (כָּתַב);
-extended_definition:
-  gloss: imprint
-  definition: 1) impression, inscription, mark<br>1a) in the flesh, perhaps a tattoo
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) impression, inscription, mark
+
+  1a) in the flesh, perhaps a tattoo {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8296
-    proximity: 0.8275
+    lemma: שֶׂרֶט
+    gloss: an incision {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H8296a
-    proximity: 0.8127
+    proximity: 0.8127 {macula-proximity}
   - strongs: H8388a
-    proximity: 0.7806
+    proximity: 0.7806 {macula-proximity}
   - strongs: H3799
-    proximity: 0.775
+    lemma: כָּתַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.775 {macula-proximity}
   - strongs: H8420
-    proximity: 0.7035
+    lemma: תָּו
+    gloss: a mark {openscriptures-strongs}
+    proximity: 0.7035 {macula-proximity}
   cross_language:
   - strongs: G3902
-    proximity: 0.7708
+    lemma: παράσημος
+    gloss: side-marked {openscriptures-strongs}
+    proximity: 0.7708 {macula-proximity}
     language: greek
   - strongs: G4742
-    proximity: 0.7593
+    lemma: στίγμα
+    gloss: a mark incised or punched {openscriptures-strongs}
+    proximity: 0.7593 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

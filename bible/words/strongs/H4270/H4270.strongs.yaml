@@ -6,50 +6,63 @@ pronunciation: makh-sore'
 definition: deficiency; hence, impoverishment
 kjv_usage: lack, need, penury, poor, poverty, want.
 derivation: or מַחְסֹר; from H2637 (חָסֵר);
-extended_definition:
-  gloss: need
-  definition: 1) need, poverty, thing needed<br>1a) need, thing needed<br>1b) lack,
-    want<br>1c) need, poverty
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) need, poverty, thing needed
+
+  1a) need, thing needed
+
+  1b) lack, want
+
+  1c) need, poverty {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2642
-    proximity: 0.8184
+    lemma: חֶסְרוֹן
+    gloss: deficiency {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   - strongs: H408
-    proximity: 0.8141
+    proximity: 0.8141 {macula-proximity}
   - strongs: H6035
-    proximity: 0.8053
+    lemma: עָנָו
+    gloss: depressed {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H1097
-    proximity: 0.7872
+    lemma: בְּלִי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7872 {macula-proximity}
   - strongs: A2818
-    proximity: 0.7733
+    proximity: 0.7733 {macula-proximity}
   - strongs: A2627
-    proximity: 0.7721
+    proximity: 0.7721 {macula-proximity}
   - strongs: H3019
-    proximity: 0.7714
+    lemma: יָגִיעַ
+    gloss: tired {openscriptures-strongs}
+    proximity: 0.7714 {macula-proximity}
   - strongs: A2819
-    proximity: 0.7567
+    proximity: 0.7567 {macula-proximity}
   - strongs: H4542
-    proximity: 0.753
+    lemma: מִסְכֵּן
+    gloss: indigent {openscriptures-strongs}
+    proximity: 0.753 {macula-proximity}
   cross_language:
   - strongs: G2192
-    proximity: 0.8288
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
     language: greek
   - strongs: G316
-    proximity: 0.7991
+    proximity: 0.7991 {macula-proximity}
     language: greek
   - strongs: G318
-    proximity: 0.7586
+    proximity: 0.7586 {macula-proximity}
     language: greek
   - strongs: G2275
-    proximity: 0.7581
+    lemma: ἥττημα
+    gloss: a deterioration {openscriptures-strongs}
+    proximity: 0.7581 {macula-proximity}
     language: greek
   - strongs: G2006
-    proximity: 0.7515
+    lemma: ἐπιτήδειος
+    gloss: serviceable {openscriptures-strongs}
+    proximity: 0.7515 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,46 +7,64 @@ definition: to liquefy; figuratively, to waste (with disease), to faint (with fa
   fear or grief)
 kjv_usage: discourage, faint, be loosed, melt (away), refuse, [idiom] utterly.
 derivation: a primitive root;
-extended_definition:
-  gloss: to melt
-  definition: 1) to dissolve, melt<br>1a) (Qal) to waste away<br>1b) (Niphal)<br>1b1)
-    to melt, vanish, drop off, melt away<br>1b2) to faint, grow fearful (fig.)<br>1b3)
-    wasted, worthless (participle)<br>1c) (Hiphil) to cause to melt
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to dissolve, melt
+
+  1a) (Qal) to waste away
+
+  1b) (Niphal)
+
+  1b1) to melt, vanish, drop off, melt away
+
+  1b2) to faint, grow fearful (fig.)
+
+  1b3) wasted, worthless (participle)
+
+  1c) (Hiphil) to cause to melt {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5848a
-    proximity: 0.8198
+    proximity: 0.8198 {macula-proximity}
   - strongs: A927
-    proximity: 0.8041
+    proximity: 0.8041 {macula-proximity}
   - strongs: H4816
-    proximity: 0.8024
+    lemma: מֹרֶךְ
+    gloss: softness {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: H5413
-    proximity: 0.7869
+    lemma: נָתַךְ
+    gloss: to flow forth {openscriptures-strongs}
+    proximity: 0.7869 {macula-proximity}
   - strongs: H2865
-    proximity: 0.7784
+    lemma: חָתַת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7784 {macula-proximity}
   - strongs: H1811
-    proximity: 0.7622
+    lemma: דָּלַף
+    gloss: to drip {openscriptures-strongs}
+    proximity: 0.7622 {macula-proximity}
   - strongs: H3820
-    proximity: 0.7411
+    lemma: לֵב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.7411 {macula-proximity}
   - strongs: H3824
-    proximity: 0.7064
+    lemma: לֵבָב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.7064 {macula-proximity}
   cross_language:
   - strongs: G120
-    proximity: 0.8288
+    proximity: 0.8288 {macula-proximity}
     language: greek
   - strongs: G4422
-    proximity: 0.8203
+    lemma: πτοέω
+    gloss: to scare {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
     language: greek
   - strongs: G1573a
-    proximity: 0.7585
+    proximity: 0.7585 {macula-proximity}
     language: greek
   - strongs: G2588
-    proximity: 0.7539
+    lemma: καρδία
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.7539 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,51 +7,71 @@ definition: to draw together, i.e. close; by implication, to leap (by contractin
   the limbs); specifically, to die (from gathering up the feet)
 kjv_usage: shut (up), skip, stop, take out of the way.
 derivation: a primitive root;
-extended_definition:
-  gloss: to gather
-  definition: 1) to draw together, close, shut, shut up, stop up<br>1a) (Qal) to shut<br>1b)
-    (Niphal)<br>1b1) to draw oneself together (of death)<br>1b2) to be shut up to
-    death<br>1c) (Piel) springing, skipping (participle)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to draw together, close, shut, shut up, stop up
+
+  1a) (Qal) to shut
+
+  1b) (Niphal)
+
+  1b1) to draw oneself together (of death)
+
+  1b2) to be shut up to death
+
+  1c) (Piel) springing, skipping (participle) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6310
-    proximity: 0.8259
+    lemma: פֶּה
+    gloss: the mouth {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: H5462
-    proximity: 0.8226
+    lemma: סָגַר
+    gloss: to shut up {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: H2856
-    proximity: 0.8189
+    lemma: חָתַם
+    gloss: to close up {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H2308
-    proximity: 0.8176
+    lemma: חָדַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   - strongs: H6105a
-    proximity: 0.8071
+    proximity: 0.8071 {macula-proximity}
   - strongs: H481
-    proximity: 0.8009
+    proximity: 0.8009 {macula-proximity}
   - strongs: H5640
-    proximity: 0.796
+    lemma: סָתַם
+    gloss: to stop up {openscriptures-strongs}
+    proximity: 0.796 {macula-proximity}
   - strongs: H2902a
-    proximity: 0.7913
+    proximity: 0.7913 {macula-proximity}
   - strongs: H1479
-    proximity: 0.7742
+    lemma: גּוּף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7742 {macula-proximity}
   cross_language:
   - strongs: G2869
-    proximity: 0.8294
+    lemma: κοπάζω
+    gloss: to tire {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G4788
-    proximity: 0.8226
+    lemma: συγκλείω
+    gloss: to shut together {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
     language: greek
   - strongs: G3973
-    proximity: 0.8132
+    lemma: παύω
+    gloss: to stop {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
     language: greek
   - strongs: G5392
-    proximity: 0.8042
+    lemma: φιμόω
+    gloss: to muzzle {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
     language: greek
   - strongs: G608
-    proximity: 0.8029
+    proximity: 0.8029 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

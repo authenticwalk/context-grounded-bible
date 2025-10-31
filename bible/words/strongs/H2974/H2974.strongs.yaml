@@ -8,44 +8,56 @@ definition: properly, to yield, especially assent; hence (pos.) to undertake as 
 kjv_usage: assay, begin, be content, please, take upon, [idiom] willingly, would.
 derivation: a primitive root (probably rather the same as H2973 (יָאַל) through the
   idea of mental weakness);
-extended_definition:
-  gloss: be willing
-  definition: 1) to begin, make a beginning, show willingness, undertake to do, be
-    pleased, be determined<br>1a) (Hiphil)<br>1a1) to agree to, show willingness,
-    acquiesce, accept an invitation, be willing<br>1a2) to undertake<br>1a3) to resolve,
-    be pleased, be determined
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to begin, make a beginning, show willingness, undertake to
+  do, be pleased, be determined
+
+  1a) (Hiphil)
+
+  1a1) to agree to, show willingness, acquiesce, accept an invitation, be willing
+
+  1a2) to undertake
+
+  1a3) to resolve, be pleased, be determined {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2837
-    proximity: 0.8299
+    lemma: חֵשֶׁק
+    gloss: delight {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
   - strongs: H5068
-    proximity: 0.8285
+    lemma: נָדַב
+    gloss: to impel {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: H6149
-    proximity: 0.8276
+    lemma: עָרֵב
+    gloss: to be agreeable {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: H2782
-    proximity: 0.827
+    lemma: חָרַץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: A8271
-    proximity: 0.8242
+    proximity: 0.8242 {macula-proximity}
   cross_language:
   - strongs: G5479
-    proximity: 0.827
+    lemma: χαρά
+    gloss: cheerfulness {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: greek
   - strongs: G1013
-    proximity: 0.8226
+    lemma: βούλημα
+    gloss: a resolve {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
     language: greek
   - strongs: G5463
-    proximity: 0.819
+    lemma: χαίρω
+    gloss: to be "cheer"ful {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
     language: greek
   - strongs: G662
-    proximity: 0.818
+    proximity: 0.818 {macula-proximity}
     language: greek
   - strongs: G2115a
-    proximity: 0.8177
+    proximity: 0.8177 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

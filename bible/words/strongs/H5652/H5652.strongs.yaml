@@ -6,45 +6,57 @@ pronunciation: ab-awd'
 definition: a deed
 kjv_usage: work.
 derivation: from H5647 (עָבַד);
-extended_definition:
-  gloss: work
-  definition: work
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: work {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A5648
-    proximity: 0.8293
+    proximity: 0.8293 {macula-proximity}
   - strongs: H6092
-    proximity: 0.8201
+    lemma: עָצֵב
+    gloss: a  workman {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: H1369
-    proximity: 0.8162
+    lemma: גְּבוּרָה
+    gloss: force {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: A8120
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
   - strongs: H5998
-    proximity: 0.8047
+    lemma: עָמַל
+    gloss: to toil {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
   - strongs: H6381
-    proximity: 0.7899
+    lemma: פָּלָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7899 {macula-proximity}
   - strongs: H6213
-    proximity: 0.7693
+    lemma: עָשָׂה
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.7693 {macula-proximity}
   cross_language:
   - strongs: G3009
-    proximity: 0.8269
+    lemma: λειτουργία
+    gloss: public function  or almsgiver) {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
     language: greek
   - strongs: G3008
-    proximity: 0.8264
+    lemma: λειτουργέω
+    gloss: to be a public servant {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G2554
-    proximity: 0.825
+    lemma: κακοποιέω
+    gloss: to be a bad-doer {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G4238
-    proximity: 0.816
+    lemma: πράσσω
+    gloss: to "practise" {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
     language: greek
   - strongs: G3716
-    proximity: 0.8078
+    lemma: ὀρθοποδέω
+    gloss: to be straight-footed {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

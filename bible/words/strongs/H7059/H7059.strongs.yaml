@@ -6,48 +6,63 @@ pronunciation: kaw-mat'
 definition: to pluck, i.e. destroy
 kjv_usage: cut down, fill with wrinkles.
 derivation: a primitive root;
-extended_definition:
-  gloss: to seize
-  definition: 1) to seize<br>1a) (Qal) to seize<br>1b) (Pual) to be snatched away
-    prematurely
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to seize
+
+  1a) (Qal) to seize
+
+  1b) (Pual) to be snatched away prematurely {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4135a
-    proximity: 0.8291
+    proximity: 0.8291 {macula-proximity}
   - strongs: H7405
-    proximity: 0.8289
+    lemma: רָכַס
+    gloss: to tie {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H3947
-    proximity: 0.8231
+    lemma: לָקַח
+    gloss: to take {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H7576
-    proximity: 0.8201
+    lemma: רָתַק
+    gloss: to fasten {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: H1197a
-    proximity: 0.8155
+    proximity: 0.8155 {macula-proximity}
   - strongs: H1898
-    proximity: 0.8018
+    lemma: הָגָה
+    gloss: to remove {openscriptures-strongs}
+    proximity: 0.8018 {macula-proximity}
   - strongs: H8045
-    proximity: 0.7896
+    lemma: שָׁמַד
+    gloss: to desolate {openscriptures-strongs}
+    proximity: 0.7896 {macula-proximity}
   - strongs: A3729
-    proximity: 0.7891
+    proximity: 0.7891 {macula-proximity}
   cross_language:
   - strongs: G1199
-    proximity: 0.8259
+    lemma: δεσμόν
+    gloss: a band {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G4815
-    proximity: 0.8209
+    lemma: συλλαμβάνω
+    gloss: to clasp {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
     language: greek
   - strongs: G1808
-    proximity: 0.8197
+    lemma: ἐξαίρω
+    gloss: to remove {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
     language: greek
   - strongs: G2902
-    proximity: 0.8132
+    lemma: κρατέω
+    gloss: to use strength {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
     language: greek
   - strongs: G5269
-    proximity: 0.8106
+    lemma: ὑποζώννυμι
+    gloss: to gird under {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

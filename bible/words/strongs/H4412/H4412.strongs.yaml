@@ -6,25 +6,23 @@ pronunciation: mel-oo-naw'
 definition: a hut, a hammock
 kjv_usage: cottage, lodge.
 derivation: feminine from H3885 (לוּן);
-extended_definition:
-  gloss: lodge
-  definition: lodge, hut
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: lodge, hut {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H168
-    proximity: 0.8159
+    proximity: 0.8159 {macula-proximity}
   - strongs: H4908
-    proximity: 0.7214
+    lemma: מִשְׁכָּן
+    gloss: a residence (including a shepherd's hut {openscriptures-strongs}
+    proximity: 0.7214 {macula-proximity}
   - strongs: H5521
-    proximity: 0.7122
+    lemma: סֻכָּה
+    gloss: a hut or lair {openscriptures-strongs}
+    proximity: 0.7122 {macula-proximity}
   cross_language:
   - strongs: G4638
-    proximity: 0.8172
+    lemma: σκήνωμα
+    gloss: an encampment {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

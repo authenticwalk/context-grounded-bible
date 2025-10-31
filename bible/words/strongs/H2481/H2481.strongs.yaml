@@ -6,38 +6,44 @@ pronunciation: khal-ee'
 definition: a trinket (as polished)
 kjv_usage: jewel, ornament.
 derivation: from H2470 (חָלָה);
-extended_definition:
-  gloss: ornament
-  definition: jewellery, ornament
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: jewellery, ornament {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3302
-    proximity: 0.8257
+    lemma: יָפָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H5351
-    proximity: 0.808
+    lemma: נְקֻדָּה
+    gloss: a boss {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
   - strongs: H3627
-    proximity: 0.794
+    lemma: כְּלִי
+    gloss: something prepared {openscriptures-strongs}
+    proximity: 0.794 {macula-proximity}
   - strongs: H4540
-    proximity: 0.7539
+    lemma: מְסֻכָּה
+    gloss: a covering {openscriptures-strongs}
+    proximity: 0.7539 {macula-proximity}
   - strongs: H7720
-    proximity: 0.7414
+    lemma: שַׂהֲרֹן
+    gloss: a round pendant for the neck {openscriptures-strongs}
+    proximity: 0.7414 {macula-proximity}
   cross_language:
   - strongs: G5558
-    proximity: 0.8027
+    lemma: χρυσόω
+    gloss: to gild {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
     language: greek
   - strongs: G294
-    proximity: 0.7878
+    proximity: 0.7878 {macula-proximity}
     language: greek
   - strongs: G2885
-    proximity: 0.7496
+    lemma: κοσμέω
+    gloss: to put in proper order {openscriptures-strongs}
+    proximity: 0.7496 {macula-proximity}
     language: greek
   - strongs: G294a
-    proximity: 0.741
+    proximity: 0.741 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

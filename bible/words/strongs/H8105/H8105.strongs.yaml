@@ -6,49 +6,65 @@ pronunciation: sheh'-mer
 definition: something preserved, i.e. the settlings (plural only) of wine
 kjv_usage: dregs, (wines on the) lees.
 derivation: from H8104 (שָׁמַר);
-extended_definition:
-  gloss: dreg
-  definition: lees, dregs
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: lees, dregs {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5501
-    proximity: 0.8176
+    lemma: סְחִי
+    gloss: refuse {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   - strongs: H3973
-    proximity: 0.7992
+    lemma: מָאוֹס
+    gloss: refuse {openscriptures-strongs}
+    proximity: 0.7992 {macula-proximity}
   - strongs: H5435
-    proximity: 0.7874
+    lemma: סֹבֶא
+    gloss: potation {openscriptures-strongs}
+    proximity: 0.7874 {macula-proximity}
   - strongs: H4469
-    proximity: 0.7784
+    lemma: מַמְסָךְ
+    gloss: mixture {openscriptures-strongs}
+    proximity: 0.7784 {macula-proximity}
   - strongs: H6907
-    proximity: 0.7739
+    lemma: קֻבַּעַת
+    gloss: a goblet {openscriptures-strongs}
+    proximity: 0.7739 {macula-proximity}
   - strongs: H913a
-    proximity: 0.7642
+    proximity: 0.7642 {macula-proximity}
   - strongs: H4197
-    proximity: 0.7585
+    lemma: מֶזֶג
+    gloss: tempered wine {openscriptures-strongs}
+    proximity: 0.7585 {macula-proximity}
   - strongs: H8492
-    proximity: 0.7235
+    lemma: תִּירוֹשׁ
+    gloss: must or fresh grape-juice {openscriptures-strongs}
+    proximity: 0.7235 {macula-proximity}
   - strongs: A2562
-    proximity: 0.7027
+    proximity: 0.7027 {macula-proximity}
   cross_language:
   - strongs: G4608
-    proximity: 0.8279
+    lemma: σίκερα
+    gloss: an intoxicant {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G1098
-    proximity: 0.8126
+    lemma: γλεῦκος
+    gloss: sweet wine {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
     language: greek
   - strongs: G3690
-    proximity: 0.803
+    lemma: ὄξος
+    gloss: vinegar {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
     language: greek
   - strongs: G3820
-    proximity: 0.7797
+    lemma: παλαιός
+    gloss: antique {openscriptures-strongs}
+    proximity: 0.7797 {macula-proximity}
     language: greek
   - strongs: G3631
-    proximity: 0.7079
+    lemma: οἶνος
+    gloss: '"wine" {openscriptures-strongs}'
+    proximity: 0.7079 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

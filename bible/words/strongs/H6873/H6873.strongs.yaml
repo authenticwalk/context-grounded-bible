@@ -6,49 +6,64 @@ pronunciation: tsaw-rakh'
 definition: to be clear (in tone, i.e. shrill), i.e. to whoop
 kjv_usage: cry, roar.
 derivation: a primitive root;
-extended_definition:
-  gloss: to cry
-  definition: 1) to cry, roar, make a shrill or clear sound<br>1a) (Qal) to roar<br>1b)
-    (Hiphil) to utter a roar, cry out (a battle cry)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to cry, roar, make a shrill or clear sound
+
+  1a) (Qal) to roar
+
+  1b) (Hiphil) to utter a roar, cry out (a battle cry) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5090a
-    proximity: 0.8243
+    proximity: 0.8243 {macula-proximity}
   - strongs: H7769a
-    proximity: 0.8228
+    proximity: 0.8228 {macula-proximity}
   - strongs: H5091
-    proximity: 0.8161
+    lemma: נָהָה
+    gloss: to groan {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H1068
-    proximity: 0.8137
+    lemma: בְּכִית
+    gloss: a weeping {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   - strongs: H1993
-    proximity: 0.8136
+    lemma: הָמָה
+    gloss: to make a loud sound {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: H5100
-    proximity: 0.8133
+    lemma: נְהָמָה
+    gloss: snarling {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   - strongs: H602
-    proximity: 0.8078
+    proximity: 0.8078 {macula-proximity}
   - strongs: H5204
-    proximity: 0.8047
+    lemma: נִי
+    gloss: lamentation {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
   - strongs: H5286
-    proximity: 0.8021
+    lemma: נָעַר
+    gloss: to growl {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
   - strongs: H1065
-    proximity: 0.8021
+    lemma: בְּכִי
+    gloss: a weeping {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
   cross_language:
   - strongs: G995
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G2875
-    proximity: 0.8114
+    lemma: κόπτω
+    gloss: to "chop" {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
     language: greek
   - strongs: G3649
-    proximity: 0.7915
+    lemma: ὀλολύζω
+    gloss: to "howl" or "halloo" {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
     language: greek
   - strongs: G4377
-    proximity: 0.7794
+    lemma: προσφωνέω
+    gloss: to sound towards {openscriptures-strongs}
+    proximity: 0.7794 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

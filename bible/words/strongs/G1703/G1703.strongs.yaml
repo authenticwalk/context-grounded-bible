@@ -5,42 +5,50 @@ transliteration: empaíktēs
 definition: a derider, i.e. (by implication) a false teacher
 kjv_usage: mocker, scoffer
 derivation: from G1702 (ἐμπαίζω);
-extended_definition:
-  gloss: a mocker
-  definition: '<b>ἐμ-παίκτης</b>, -ου, ὁ<BR /> (ἐμπαίζω, which see), [in LXX: <ref=''Isa.3.4''>Isa.3:4</ref>
-    (תַּעֲלוּל) * ;] <BR /><b>a mocker</b>: <ref=''2Pe.3.3''>2Pe.3:3</ref>, <ref=''Jude.18''>Ju
-    18</ref>.†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ἐμπαίκτης</b>, ου, ὁ, <br /> <b>mocker, deceiver</b>, [<a href="javascript:void(0)"
-    title=" LXX.Isa.3.4, NT.2Pet.3.3, NT.Jude.18. ">LXX+NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ἐμ-παίκτης, -ου, ὁ
+
+  (ἐμπαίζω, which see), [in LXX: Isa.3:4 (תַּעֲלוּל) * ;]
+
+  a mocker: 2Pe.3:3, Ju 18.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐμπαίκτης, ου, ὁ,
+
+  mocker, deceiver, [LXX+NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1702
-    proximity: 0.7532
+    lemma: ἐμπαίζω
+    gloss: to jeer at {openscriptures-strongs}
+    proximity: 0.7532 {macula-proximity}
   - strongs: G2606
-    proximity: 0.7103
+    lemma: καταγελάω
+    gloss: to laugh down {openscriptures-strongs}
+    proximity: 0.7103 {macula-proximity}
   cross_language:
   - strongs: H2778
-    proximity: 0.829
+    lemma: חָרַף
+    gloss: to pull off {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: hebrew
   - strongs: H7047
-    proximity: 0.8127
+    lemma: קֶלֶס
+    gloss: a laughing-stock {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
     language: hebrew
   - strongs: H7814
-    proximity: 0.8069
+    lemma: שְׂחוֹק
+    gloss: laughter {openscriptures-strongs}
+    proximity: 0.8069 {macula-proximity}
     language: hebrew
   - strongs: H6712
-    proximity: 0.8066
+    lemma: צְחֹק
+    gloss: laughter {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
     language: hebrew
   - strongs: H4890
-    proximity: 0.8042
+    lemma: מִשְׂחַק
+    gloss: a laughing-stock {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

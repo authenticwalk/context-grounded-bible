@@ -11,54 +11,94 @@ kjv_usage: (make to) abide(-ing), continue, (cause to, make to) dwell(-ing), eas
   return, seat, set(-tle), (down-) sit(-down, still, -ting down, -ting (place) -uate),
   take, tarry.
 derivation: a primitive root;
-extended_definition:
-  gloss: to dwell
-  definition: '1) to dwell, remain, sit, abide<br>1a) (Qal)<br>1a1) to sit, sit down<br>1a2)
-    to be set<br>1a3) to remain, stay<br>1a4) to dwell, have one''s abode<br>1b) (Niphal)
-    to be inhabited<br>1c) (Piel) to set, place<br>1d) (Hiphil)<br>1d1) to cause to
-    sit<br>1d2) to cause to abide, set<br>1d3) to cause to dwell<br>1d4) to cause
-    (cities) to be inhabited<br>1d5) to marry (give an dwelling to)<br>1e) (Hophal)<br>1e1)
-    to be inhabited<br>1e2) to make to dwell<BR>Aramaic equivalent: <i>ye.tiv</i>
-    (יְתִב "to dwell" H3488)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to dwell, remain, sit, abide
+
+  1a) (Qal)
+
+  1a1) to sit, sit down
+
+  1a2) to be set
+
+  1a3) to remain, stay
+
+  1a4) to dwell, have one''s abode
+
+  1b) (Niphal) to be inhabited
+
+  1c) (Piel) to set, place
+
+  1d) (Hiphil)
+
+  1d1) to cause to sit
+
+  1d2) to cause to abide, set
+
+  1d3) to cause to dwell
+
+  1d4) to cause (cities) to be inhabited
+
+  1d5) to marry (give an dwelling to)
+
+  1e) (Hophal)
+
+  1e1) to be inhabited
+
+  1e2) to make to dwell
+
+  Aramaic equivalent: ye.tiv (יְתִב "to dwell" H3488) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3676
-    proximity: 0.8298
+    lemma: כֵּס
+    gloss: '{a flag {openscriptures-strongs}'
+    proximity: 0.8298 {macula-proximity}
   - strongs: H6951
-    proximity: 0.8291
+    lemma: קָהָל
+    gloss: assemblage {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: H6314
-    proximity: 0.8279
+    lemma: פּוּגָה
+    gloss: intermission {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: H2247
-    proximity: 0.8268
+    lemma: חָבָה
+    gloss: to secrete {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: H4999
-    proximity: 0.8268
+    lemma: נָאָה
+    gloss: a home {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: H8239
-    proximity: 0.8257
+    lemma: שָׁפַת
+    gloss: to locate {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H413
-    proximity: 0.8252
+    proximity: 0.8252 {macula-proximity}
   - strongs: H1980
-    proximity: 0.8251
+    lemma: הָלַךְ
+    gloss: to walk (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H491
-    proximity: 0.8243
+    proximity: 0.8243 {macula-proximity}
   - strongs: H489
-    proximity: 0.8239
+    proximity: 0.8239 {macula-proximity}
   cross_language:
   - strongs: G1747
-    proximity: 0.8292
+    lemma: ἐνέδρα
+    gloss: an ambuscade {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
     language: greek
   - strongs: G362
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G5277
-    proximity: 0.8241
+    lemma: ὑπολιμπάνω
+    gloss: to leave behind {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
   - strongs: G4035
-    proximity: 0.8227
+    lemma: περιλείπω
+    gloss: to leave all around {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

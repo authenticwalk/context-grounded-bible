@@ -6,48 +6,66 @@ pronunciation: mel-ee-law'
 definition: a head of grain (as cut off)
 kjv_usage: ear.
 derivation: from H4449 (מְלַל) (in the sense of cropping (compare H4135 (מוּל)));
-extended_definition:
-  gloss: ear
-  definition: ear (of wheat), head (of wheat)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: ear (of wheat), head (of wheat) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A3737
-    proximity: 0.8286
+    proximity: 0.8286 {macula-proximity}
   - strongs: H8184
-    proximity: 0.827
+    lemma: שְׂעֹרָה
+    gloss: barley {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H7218
-    proximity: 0.8241
+    lemma: רֹאשׁ
+    gloss: the head {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H1430
-    proximity: 0.8088
+    lemma: גָּדִישׁ
+    gloss: a stack of sheaves {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
   - strongs: H1715
-    proximity: 0.8031
+    lemma: דָּגָן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
   - strongs: H2406
-    proximity: 0.7927
+    lemma: חִטָּה
+    gloss: wheat {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
   - strongs: H1643
-    proximity: 0.7909
+    lemma: גֶּרֶשׂ
+    gloss: a kernel {openscriptures-strongs}
+    proximity: 0.7909 {macula-proximity}
   - strongs: H6780
-    proximity: 0.7597
+    lemma: צֶמַח
+    gloss: a sprout {openscriptures-strongs}
+    proximity: 0.7597 {macula-proximity}
   - strongs: H7668
-    proximity: 0.7488
+    lemma: שֶׁבֶר
+    gloss: grain {openscriptures-strongs}
+    proximity: 0.7488 {macula-proximity}
   - strongs: H3951
-    proximity: 0.7464
+    lemma: לֶקֶט
+    gloss: the gleaning {openscriptures-strongs}
+    proximity: 0.7464 {macula-proximity}
   cross_language:
   - strongs: G3588
-    proximity: 0.807
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
     language: greek
   - strongs: G1009
-    proximity: 0.8011
+    lemma: βότρυς
+    gloss: a bunch {openscriptures-strongs}
+    proximity: 0.8011 {macula-proximity}
     language: greek
   - strongs: G2776
-    proximity: 0.7905
+    lemma: κεφαλή
+    gloss: the head {openscriptures-strongs}
+    proximity: 0.7905 {macula-proximity}
     language: greek
   - strongs: G2848
-    proximity: 0.7682
+    lemma: κόκκος
+    gloss: a kernel of seed {openscriptures-strongs}
+    proximity: 0.7682 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

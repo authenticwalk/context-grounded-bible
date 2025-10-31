@@ -6,41 +6,49 @@ pronunciation: meer-shah'-ath
 definition: a female wicked doer
 kjv_usage: wicked woman.
 derivation: from H7561 (רָשַׁע);
-extended_definition:
-  gloss: wickedness
-  definition: wickedness
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: wickedness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1100
-    proximity: 0.8218
+    lemma: בְּלִיַּעַל
+    gloss: without profit {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H7564
-    proximity: 0.8164
+    lemma: רִשְׁעָה
+    gloss: wrong {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
   - strongs: H7562
-    proximity: 0.7784
+    lemma: רֶשַׁע
+    gloss: a wrong {openscriptures-strongs}
+    proximity: 0.7784 {macula-proximity}
   - strongs: H5767
-    proximity: 0.7736
+    lemma: עַוָּל
+    gloss: evil {openscriptures-strongs}
+    proximity: 0.7736 {macula-proximity}
   - strongs: A873
-    proximity: 0.7225
+    proximity: 0.7225 {macula-proximity}
   cross_language:
   - strongs: G1126
-    proximity: 0.8278
+    lemma: γραώδης
+    gloss: crone-like {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G1135
-    proximity: 0.8277
+    lemma: γυνή
+    gloss: a woman {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: greek
   - strongs: G2556
-    proximity: 0.8273
+    lemma: κακός
+    gloss: worthless (intrinsically {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G113
-    proximity: 0.826
+    proximity: 0.826 {macula-proximity}
     language: greek
   - strongs: G4189
-    proximity: 0.7945
+    lemma: πονηρία
+    gloss: depravity {openscriptures-strongs}
+    proximity: 0.7945 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

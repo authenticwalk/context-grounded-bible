@@ -5,50 +5,60 @@ transliteration: isópsychos
 definition: of similar spirit
 kjv_usage: likeminded
 derivation: from G2470 (ἴσος) and G5590 (ψυχή);
-extended_definition:
-  gloss: like-minded
-  definition: '<b>ἰσόψυχος -ον</b><BR /> (ἴσος, ψυχή), [in LXX: <ref=''Psa.55.13''>Psa.55:13</ref>
-    (עֵרֶךְ)* ;] <BR />__1. of equal spirit (Æsch., Agam., 1470). <BR /> __2. <b>like-minded</b>:
-    <ref=''Php.2.20.''>Php.2:20.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἰσό-ψῡχος</b>, ον, <br /> <b>of equal spirit</b>, κράτος ἰ.
-    [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon”
-    1470 (Lyric poetry)">Refs 4th c.BC+</a>]. <i>adverb</i> -χως, μάχεσθαι [<a href="javascript:void(0)"
-    title=" 12th c.AD: Eustathius Episcopus Thessalonicensis 831.52. ">Refs</a>]<br
-    /><Level3><b>__2</b></Level3> <b>of like soul</b> or <b>mind,</b> [<a href="javascript:void(0)"
-    title="NT.Phil.2.20. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἰσόψυχος -ον
+
+  (ἴσος, ψυχή), [in LXX: Psa.55:13 (עֵרֶךְ)* ;]
+
+  __1. of equal spirit (Æsch., Agam., 1470).
+
+  __2. like-minded: Php.2:20.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἰσό-ψῡχος, ον,
+
+  of equal spirit, κράτος ἰ. [Refs 4th c.BC+]. adverb -χως, μάχεσθαι [Refs]
+
+  __2 of like soul or mind, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1106
-    proximity: 0.8251
+    lemma: γνώμη
+    gloss: cognition {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: G5426
-    proximity: 0.8094
+    lemma: φρονέω
+    gloss: to exercise the mind {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
   - strongs: G4856
-    proximity: 0.7824
+    lemma: συμφωνέω
+    gloss: to be harmonious {openscriptures-strongs}
+    proximity: 0.7824 {macula-proximity}
   - strongs: G4151
-    proximity: 0.7758
+    lemma: πνεῦμα
+    gloss: a current of air {openscriptures-strongs}
+    proximity: 0.7758 {macula-proximity}
   - strongs: G3661
-    proximity: 0.7638
+    lemma: ὁμοθυμαδόν
+    gloss: unanimously {openscriptures-strongs}
+    proximity: 0.7638 {macula-proximity}
   - strongs: A7308
-    proximity: 0.7594
+    proximity: 0.7594 {macula-proximity}
   - strongs: G4945
-    proximity: 0.7159
+    lemma: συνωμοσία
+    gloss: a swearing together {openscriptures-strongs}
+    proximity: 0.7159 {macula-proximity}
   cross_language:
   - strongs: H1847a
-    proximity: 0.8239
+    proximity: 0.8239 {macula-proximity}
     language: hebrew
   - strongs: H3045
-    proximity: 0.8182
+    lemma: יָדַע
+    gloss: to know (properly {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: hebrew
   - strongs: H3820
-    proximity: 0.7807
+    lemma: לֵב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.7807 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

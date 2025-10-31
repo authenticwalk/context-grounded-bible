@@ -7,39 +7,58 @@ definition: '{Hararite}'
 kjv_usage: Hararite.
 derivation: or הָרָרִי; (2 Samuel 23:11), or הָארָרִי; (2 Samuel 23:34, last clause
   [), apparently from H2042 (הָרָר); a mountaineer
-extended_definition:
-  gloss: Hararite
-  definition: Someone descended from Harar or Harod (cf. 2Sa.23.11, 25), first mentioned
-    at 2Sa.23.11 <BR> § Hararite = "mountain dweller"<br>adj<br>1) a resident in or
-    descendant of Harar; perhaps only a mountain dweller<br>2) Agee, a Hararite, one
-    of David's heroes<br>3) Shammah, the Hararite, one of David's heroes<br>4) Sharar,
-    the Hararite, the father of Ahiam, one of David's heroes<br>
-  morphology: N:N--LG / N:N-M-P
-  source: STEPBible/BDB
+extended_definition: 'Someone descended from Harar or Harod (cf. 2Sa.23.11, 25), first
+  mentioned at 2Sa.23.11
+
+  § Hararite = "mountain dweller"
+
+  adj
+
+  1) a resident in or descendant of Harar; perhaps only a mountain dweller
+
+  2) Agee, a Hararite, one of David''s heroes
+
+  3) Shammah, the Hararite, one of David''s heroes
+
+  4) Sharar, the Hararite, the father of Ahiam, one of David''s heroes {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H326
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
   - strongs: H3902
-    proximity: 0.8288
+    lemma: לַחְמִי
+    gloss: Lachmi {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: H2033
-    proximity: 0.8286
+    lemma: הֲרוֹרִי
+    gloss: a Harorite or mountaineer {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: H2577
-    proximity: 0.8283
+    lemma: חֲמָתִי
+    gloss: a Chamathite or native of Chamath {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H4258
-    proximity: 0.8272
+    lemma: מַחֲלַת
+    gloss: Machalath {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: H3397
-    proximity: 0.8271
+    lemma: יְרַחְמְאֵלִי
+    gloss: a Jerachmeelite or descendant of Jerachmeel {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: H3716
-    proximity: 0.826
+    lemma: כְּפִירָה
+    gloss: Kephirah {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
   - strongs: H2227
-    proximity: 0.8241
+    lemma: זַרְחִי
+    gloss: a Zarchite or descendant of Zerach {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H2599
-    proximity: 0.823
+    lemma: חֲנֹכִי
+    gloss: a Chanokite  or descendants of Chanok {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: H6553
-    proximity: 0.8219
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: פִּרְעָתוֹנִי
+    gloss: a Pirathonite or inhabitant of Pirathon {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

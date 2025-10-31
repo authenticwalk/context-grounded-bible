@@ -5,60 +5,44 @@ transliteration: érion
 definition: wool
 kjv_usage: wool
 derivation: of obscure affinity;
-extended_definition:
-  gloss: wool
-  definition: '<b>ἔριον</b>, -ου, τό <BR /> [in LXX for צֶמֶר, <ref=''Lev.13.47''>Lev.13:47</ref>,
-    <ref=''Isa.1.18''>Isa.1:18</ref>, al. ;] <BR /><b>wool</b>: <ref=''Heb.9.19''>Heb.9:19</ref>,
-    <ref=''Rev.1.14''>Rev.1:14</ref>.†<BR /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἔριον</b>, τό, <br /> <i>Ionic dialect</i> <b>εἴριον</b> [<a
-    href="javascript:void(0)" title=" “GDI” iv (Chios, 4th c.BC, also written ἔρια
-    [prev. passage]), 5th c.BC: Herodotus Historicus, 5th c.BC: Hippocrates Medicus,
-    and always in 8th c.BC: Homerus Epicus (indicating ἐρϝ-) except _genitive_ ἐρίοιο
-    in 8th c.BC: Odyssea Homerus Epicus “Odyssey” 4.124 ">Refs 8th c.BC+</a>]:— <b>wool,</b>
-    [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad”
-    12.434, Od.[same place], 5th-6th c.BC: Plato Philosophus “Symposium” 175d ">Refs
-    8th c.BC+</a>]; ἐρίῳ στέψαντες, i.e. with woollen fillets, [<a href="javascript:void(0)"
-    title=" [prev. author] “R.” 398a, etc.: frequently in _plural_, 8th c.BC: Ilias
-    Homerus Epicus “Illiad” 3.388, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 18.316
-    ">Refs 8th c.BC+</a>]; εἴρια ῥυπαρά, ἔρια οἰσυπηρά, greasy wool, [<a href="javascript:void(0)"
-    title=" 5th c.BC: Hippocrates Medicus “περὶ ἀγμῶν” 21, 1st c.AD: Dioscorides (Dioscurides)
-    Medicus 2.74; ἔρια καθαρά “PCair.Zen.” 12.62 (3rd c.BC)">Refs 5th c.BC+</a>];
-    τἄρια, crasis for τὰ ἔ., [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes
-    Comicus “Ranae” 1387; οὖλα ἔρια [prev. work] 1067 ">Refs 5th c.BC+</a>]; ἔ. πεπταμένα
-    outspread <b>flocks of wool,</b> [<a href="javascript:void(0)" title=" [prev.
-    author] “Nu.” 343; ἐρίων τάλαντον [prev. author] “V.” 1147; τὰ Μιλήσια ἔ. 4th
-    c.BC: Eubulus Comicus 90.3, compare 4th c.BC: Amphis Comicus 27.1; εἴρια ἀπὸ ξύλου
-    ">Refs 4th c.BC+</a>]<b>cotton,</b> [<a href="javascript:void(0)" title=" 5th
-    c.BC: Herodotus Historicus 3. 47, compare 106 ">Refs 5th c.BC+</a>]; τὸ ἔ. [τῆς
-    ἀράχνης] a spider''s <b>web,</b> [<a href="javascript:void(0)" title=" 2nd-3rd
-    c.AD: Philostratus Sophista “Philostrati majoris imagines” 2.28 ">Refs 2nd c.AD+</a>];
-    τὰ ἐκ τῆς θαλάττης ἔ., of the <b>byssus</b> of the pinna, [<a href="javascript:void(0)"
-    title=" 4th c.AD: Alciphro Epistolographus 1.2. (ἔρια “Schwyzer” 180 (from Crete)
-    without initial ϝ-">Refs 4th c.AD+</a>]; Latin <i>vervex</i> perhaps not <i>cognate</i>)'
-  source: STEPBible/LSJ
+extended_definition: 'ἔριον, -ου, τό
+
+  [in LXX for צֶמֶר, Lev.13:47, Isa.1:18, al. ;]
+
+  wool: Heb.9:19, Rev.1:14.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἔριον, τό,
+
+  Ionic dialect εἴριον [Refs 8th c.BC+]:— wool, [Refs 8th c.BC+]; ἐρίῳ στέψαντες,
+  i.e. with woollen fillets, [Refs 8th c.BC+]; εἴρια ῥυπαρά, ἔρια οἰσυπηρά, greasy
+  wool, [Refs 5th c.BC+]; τἄρια, crasis for τὰ ἔ., [Refs 5th c.BC+]; ἔ. πεπταμένα
+  outspread flocks of wool, [Refs 4th c.BC+]cotton, [Refs 5th c.BC+]; τὸ ἔ. [τῆς ἀράχνης]
+  a spider''s web, [Refs 2nd c.AD+]; τὰ ἐκ τῆς θαλάττης ἔ., of the byssus of the pinna,
+  [Refs 4th c.AD+]; Latin vervex perhaps not cognate) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H8163a
-    proximity: 0.8289
+    proximity: 0.8289 {macula-proximity}
     language: hebrew
   - strongs: H5795
-    proximity: 0.8238
+    lemma: עֵז
+    gloss: a she-goat {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
     language: hebrew
   - strongs: H8438
-    proximity: 0.7908
+    lemma: תּוֹלָע
+    gloss: the crimson-grub {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
     language: hebrew
   - strongs: H8144
-    proximity: 0.7804
+    lemma: שָׁנִי
+    gloss: crimson {openscriptures-strongs}
+    proximity: 0.7804 {macula-proximity}
     language: hebrew
   - strongs: H8166
-    proximity: 0.7736
+    lemma: שְׂעִירָה
+    gloss: a she-goat {openscriptures-strongs}
+    proximity: 0.7736 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

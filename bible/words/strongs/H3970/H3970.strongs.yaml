@@ -6,43 +6,53 @@ pronunciation: mah-av-ah'ee
 definition: a desire
 kjv_usage: desire.
 derivation: from H183 (אָוָה);
-extended_definition:
-  gloss: desire
-  definition: desire
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: desire {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2655
-    proximity: 0.8239
+    lemma: חָפֵץ
+    gloss: pleased with {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: H2836
-    proximity: 0.8124
+    lemma: חָשַׁק
+    gloss: to cling {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: H3700
-    proximity: 0.8108
+    lemma: כָּסַף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
   - strongs: H871a
-    proximity: 0.8083
+    proximity: 0.8083 {macula-proximity}
   - strongs: H5869
-    proximity: 0.8081
+    lemma: עַיִן
+    gloss: an eye {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
   - strongs: H7522
-    proximity: 0.7965
+    lemma: רָצוֹן
+    gloss: delight {openscriptures-strongs}
+    proximity: 0.7965 {macula-proximity}
   cross_language:
   - strongs: G1014
-    proximity: 0.8285
+    lemma: βούλομαι
+    gloss: to "will {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G3713
-    proximity: 0.8229
+    lemma: ὀρέγομαι
+    gloss: to stretch oneself {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G2206
-    proximity: 0.8142
+    lemma: ζηλόω
+    gloss: to have warmth of feeling for or against {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
     language: greek
   - strongs: G515
-    proximity: 0.8127
+    proximity: 0.8127 {macula-proximity}
     language: greek
   - strongs: G1635
-    proximity: 0.811
+    lemma: ἑκών
+    gloss: voluntary {openscriptures-strongs}
+    proximity: 0.811 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

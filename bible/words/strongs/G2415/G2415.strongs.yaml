@@ -5,61 +5,76 @@ transliteration: Hierosolymítēs
 definition: a Hierosolymite, i.e. inhabitant of Hierosolyma
 kjv_usage: of Jerusalem
 derivation: from G2414 (Ἱεροσόλυμα);
-extended_definition:
-  gloss: Jerusalem
-  definition: '<b>Ἱεροσολυμεῖτης</b> (WH, Ἰερ-; Rec. -μίτης), -ου, ὁ, <BR /> [in LXX:
-    <ref=''Sir.50.27''>Sir.50:27</ref> (28) <ref=''2Ma.4.22''>2Ma.4:22</ref> <ref=''2Mac.4.39''>2Mac
-    4:39</ref> (V* -μήτης) <ref=''2Ma.18.5''>2Ma 18:5</ref>* ;] <BR /><b>an inhabitant
-    of Jerusalem</b>: <ref=''Mrk.1.5''>Mrk.1:5</ref>, <ref=''Jhn.7.25''>Jhn.7:25</ref>.†<BR
-    /> (AS)'
-  morphology: N:N-M-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἱεροσολυμεῖτης</b> (WH, Ἰερ-; Rec. -μίτης), -ου, ὁ, <BR /> [in
-    LXX: <ref=''Sir.50.27''>Sir.50:27</ref> (28) <ref=''2Ma.4.22''>2Ma.4:22</ref>
-    <ref=''2Mac.4.39''>2Mac 4:39</ref> (V* -μήτης) <ref=''2Ma.18.5''>2Ma 18:5</ref>*
-    ;] <BR /><b>an inhabitant of Jerusalem</b>: <ref=''Mrk.1.5''>Mrk.1:5</ref>, <ref=''Jhn.7.25''>Jhn.7:25</ref>.†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἱεροσολυμεῖτης (WH, Ἰερ-; Rec. -μίτης), -ου, ὁ,
+
+  [in LXX: Sir.50:27 (28) 2Ma.4:22 2Mac 4:39 (V* -μήτης) 2Ma 18:5* ;]
+
+  an inhabitant of Jerusalem: Mrk.1:5, Jhn.7:25.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἱεροσολυμεῖτης (WH, Ἰερ-; Rec. -μίτης), -ου, ὁ,
+
+  [in LXX: Sir.50:27 (28) 2Ma.4:22 2Mac 4:39 (V* -μήτης) 2Ma 18:5* ;]
+
+  an inhabitant of Jerusalem: Mrk.1:5, Jhn.7:25.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4530
-    proximity: 0.8232
+    lemma: Σαλείμ
+    gloss: Salim {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: G3588
-    proximity: 0.8218
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: G4853
-    proximity: 0.808
+    lemma: συμφυλέτης
+    gloss: a co-tribesman {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
   - strongs: G2976
-    proximity: 0.8062
+    lemma: Λάζαρος
+    gloss: Lazarus {openscriptures-strongs}
+    proximity: 0.8062 {macula-proximity}
   - strongs: G3536
-    proximity: 0.8002
+    lemma: Νινευΐτης
+    gloss: a Ninevite {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: A5962
-    proximity: 0.7898
+    proximity: 0.7898 {macula-proximity}
   - strongs: G3479
-    proximity: 0.7845
+    lemma: Ναζαρηνός
+    gloss: a Nazarene {openscriptures-strongs}
+    proximity: 0.7845 {macula-proximity}
   - strongs: G4532
-    proximity: 0.7808
+    lemma: Σαλήμ
+    gloss: Salem {openscriptures-strongs}
+    proximity: 0.7808 {macula-proximity}
   - strongs: G2992
-    proximity: 0.7585
+    lemma: λαός
+    gloss: a people (in general {openscriptures-strongs}
+    proximity: 0.7585 {macula-proximity}
   cross_language:
   - strongs: H3158
-    proximity: 0.824
+    lemma: יִזְרְעֵאלִי
+    gloss: a Jizreelite or native of Jizreel {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: hebrew
   - strongs: H3816
-    proximity: 0.8235
+    lemma: לְאֹם
+    gloss: a community {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: hebrew
   - strongs: H5543
-    proximity: 0.7898
+    lemma: סַלּוּ
+    gloss: Sallu or Sallai {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
     language: hebrew
   - strongs: H5543a
-    proximity: 0.7898
+    proximity: 0.7898 {macula-proximity}
     language: hebrew
   - strongs: H5543c
-    proximity: 0.7771
+    proximity: 0.7771 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

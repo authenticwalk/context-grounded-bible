@@ -6,42 +6,50 @@ pronunciation: raw-kas'
 definition: to tie
 kjv_usage: bind.
 derivation: a primitive root;
-extended_definition:
-  gloss: to bind
-  definition: (Qal) to bind
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to bind {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7059
-    proximity: 0.8289
+    lemma: קָמַט
+    gloss: to pluck {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: A613
-    proximity: 0.8223
+    proximity: 0.8223 {macula-proximity}
   - strongs: H6123
-    proximity: 0.8148
+    lemma: עָקַד
+    gloss: to tie with thongs {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: H6029
-    proximity: 0.7931
+    lemma: עָנַד
+    gloss: to lace fast {openscriptures-strongs}
+    proximity: 0.7931 {macula-proximity}
   - strongs: H7576
-    proximity: 0.7827
+    lemma: רָתַק
+    gloss: to fasten {openscriptures-strongs}
+    proximity: 0.7827 {macula-proximity}
   - strongs: H640
-    proximity: 0.7775
+    proximity: 0.7775 {macula-proximity}
   - strongs: A3729
-    proximity: 0.7722
+    proximity: 0.7722 {macula-proximity}
   cross_language:
   - strongs: G1241
-    proximity: 0.8287
+    lemma: διαζώννυμι
+    gloss: to gird tightly {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G4886
-    proximity: 0.8056
+    lemma: σύνδεσμος
+    gloss: a joint tie {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
     language: greek
   - strongs: G1195
-    proximity: 0.7796
+    lemma: δεσμεύω
+    gloss: to be a binder {openscriptures-strongs}
+    proximity: 0.7796 {macula-proximity}
     language: greek
   - strongs: G1210
-    proximity: 0.7094
+    lemma: δέω
+    gloss: to bind (in various applications {openscriptures-strongs}
+    proximity: 0.7094 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

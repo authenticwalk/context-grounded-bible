@@ -5,45 +5,56 @@ transliteration: Kornḗlios
 definition: Cornelius, a Roman
 kjv_usage: Cornelius
 derivation: of Latin origin;
-extended_definition:
-  gloss: Cornelius
-  definition: '<b>Κορνήλιος</b>, -ου, ὁ (Lat.) <BR /> <b>Cornelius</b>: <ref=''Act.10.1''>Act.10:1</ref>
-    ff.†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Κορνήλιος</b>, -ου, ὁ (Lat.) <BR /> <b>Cornelius</b>: <ref=''Act.10.1''>Act.10:1</ref>
-    ff.†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Κορνήλιος, -ου, ὁ (Lat.)
+
+  Cornelius: Act.10:1 ff.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Κορνήλιος, -ου, ὁ (Lat.)
+
+  Cornelius: Act.10:1 ff.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3533
-    proximity: 0.8207
+    lemma: Νικόπολις
+    gloss: victorious city {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: G3531
-    proximity: 0.8106
+    lemma: Νικολαΐτης
+    gloss: a Nicolaite {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
   - strongs: G3532
-    proximity: 0.802
+    lemma: Νικόλαος
+    gloss: victorious over the people {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
   - strongs: G2423
-    proximity: 0.7986
+    lemma: Ἰεχονίας
+    gloss: Jechonias {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
   cross_language:
   - strongs: H5664
-    proximity: 0.8296
+    lemma: עֲבֵד נְגוֹ
+    gloss: Abed-Nego {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: hebrew
   - strongs: H3204a
-    proximity: 0.8169
+    proximity: 0.8169 {macula-proximity}
     language: hebrew
   - strongs: H5353
-    proximity: 0.8125
+    lemma: נְקוֹדָא
+    gloss: Nekoda {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: hebrew
   - strongs: H3659
-    proximity: 0.8092
+    lemma: כׇּנְיָהוּ
+    gloss: Conjah {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
     language: hebrew
   - strongs: H5224
-    proximity: 0.8023
+    lemma: נְכוֹ
+    gloss: Neko {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

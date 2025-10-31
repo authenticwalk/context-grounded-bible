@@ -7,36 +7,43 @@ definition: a wavering, i.e. fall; by implication, a pole (as shaking); hence, a
   (as essentially a bent pole)
 kjv_usage: bar, be moved, staff, yoke.
 derivation: from H4131 (מוֹט);
-extended_definition:
-  gloss: yoke
-  definition: 1) a shaking, wavering, pole, bar of yoke<br>1a) a shaking, tottering<br>1b)
-    pole, bar (for carrying)<br>1c) bar of yoke
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) a shaking, wavering, pole, bar of yoke
+
+  1a) a shaking, tottering
+
+  1b) pole, bar (for carrying)
+
+  1c) bar of yoke {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7948
-    proximity: 0.8238
+    lemma: שָׁלָב
+    gloss: a spacer or raised interval {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H6108a
-    proximity: 0.8189
+    proximity: 0.8189 {macula-proximity}
   - strongs: H5385
-    proximity: 0.8185
+    lemma: נְשׂוּאָה
+    gloss: something borne {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: H905a
-    proximity: 0.8029
+    proximity: 0.8029 {macula-proximity}
   - strongs: H4133
-    proximity: 0.7877
+    lemma: מוֹטָה
+    gloss: a pole {openscriptures-strongs}
+    proximity: 0.7877 {macula-proximity}
   cross_language:
   - strongs: G1580
-    proximity: 0.8229
+    lemma: ἐκκομίζω
+    gloss: to bear forth {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G941
-    proximity: 0.8089
+    proximity: 0.8089 {macula-proximity}
     language: greek
   - strongs: G4673
-    proximity: 0.7885
+    lemma: σορός
+    gloss: a funereal receptacle (urn {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

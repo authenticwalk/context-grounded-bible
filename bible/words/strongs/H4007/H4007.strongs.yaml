@@ -6,47 +6,55 @@ pronunciation: mab-bawt'
 definition: something expected, i.e. (abstractly) expectation
 kjv_usage: expectation.
 derivation: or מֶבָּט; from H5027 (נָבַט);
-extended_definition:
-  gloss: expectation
-  definition: expectation, object of hope or confidence
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: expectation, object of hope or confidence {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3690
-    proximity: 0.8298
+    lemma: כִּסְלָה
+    gloss: in a good sense {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: H2620
-    proximity: 0.8283
+    lemma: חָסָה
+    gloss: to flee for protection {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H4180a
-    proximity: 0.8246
+    proximity: 0.8246 {macula-proximity}
   - strongs: H985
-    proximity: 0.8185
+    proximity: 0.8185 {macula-proximity}
   - strongs: H204
-    proximity: 0.8123
+    proximity: 0.8123 {macula-proximity}
   - strongs: H4938
-    proximity: 0.8003
+    lemma: מִשְׁעֵנָה
+    gloss: support {openscriptures-strongs}
+    proximity: 0.8003 {macula-proximity}
   - strongs: H4937
-    proximity: 0.7741
+    lemma: מִשְׁעֵן
+    gloss: a support {openscriptures-strongs}
+    proximity: 0.7741 {macula-proximity}
   - strongs: A7365
-    proximity: 0.7675
+    proximity: 0.7675 {macula-proximity}
   cross_language:
   - strongs: G1909
-    proximity: 0.8297
+    lemma: ἐπί
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G4327
-    proximity: 0.8208
+    lemma: προσδέχομαι
+    gloss: to admit (to intercourse {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G1561
-    proximity: 0.8155
+    lemma: ἐκδοχή
+    gloss: expectation {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
     language: greek
   - strongs: G872
-    proximity: 0.8121
+    proximity: 0.8121 {macula-proximity}
     language: greek
   - strongs: G4276
-    proximity: 0.7934
+    lemma: προελπίζω
+    gloss: to hope in advance of other confirmation {openscriptures-strongs}
+    proximity: 0.7934 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

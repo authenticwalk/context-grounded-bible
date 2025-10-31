@@ -6,39 +6,43 @@ pronunciation: mar-tseh'-feth
 definition: a pavement
 kjv_usage: pavement.
 derivation: from H7528 (רָצַף);
-extended_definition:
-  gloss: pavement
-  definition: pavement
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: pavement {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H134
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
   - strongs: H520a
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
   - strongs: H4302
-    proximity: 0.8237
+    lemma: מַטָּע
+    gloss: something planted {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: H4527
-    proximity: 0.8202
+    lemma: מַסַּד
+    gloss: a foundation {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   - strongs: H68
-    proximity: 0.8195
+    proximity: 0.8195 {macula-proximity}
   - strongs: H4146
-    proximity: 0.7637
+    lemma: מוֹסָדָה
+    gloss: a foundation {openscriptures-strongs}
+    proximity: 0.7637 {macula-proximity}
   - strongs: H3247
-    proximity: 0.7412
+    lemma: יְסוֹד
+    gloss: a foundation {openscriptures-strongs}
+    proximity: 0.7412 {macula-proximity}
   cross_language:
   - strongs: G4075
-    proximity: 0.8255
+    lemma: πετρώδης
+    gloss: rock-like {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
     language: greek
   - strongs: G2310a
-    proximity: 0.8111
+    proximity: 0.8111 {macula-proximity}
     language: greek
   - strongs: G2310
-    proximity: 0.8082
+    lemma: θεμέλιος
+    gloss: something put down {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

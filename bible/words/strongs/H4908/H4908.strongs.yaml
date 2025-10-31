@@ -8,46 +8,63 @@ definition: a residence (including a shepherd's hut, the lair of animals, figura
   walls)
 kjv_usage: dwelleth, dwelling (place), habitation, tabernacle, tent.
 derivation: from H7931 (שָׁכַן);
-extended_definition:
-  gloss: tabernacle
-  definition: '1) dwelling place, tabernacle<br>1a) dwelling-place<br>1b) dwellings<BR>Aramaic
-    equivalent: <i>mish.kan</i> (מִשְׁכַּן "habitation" H4907)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) dwelling place, tabernacle
+
+  1a) dwelling-place
+
+  1b) dwellings
+
+  Aramaic equivalent: mish.kan (מִשְׁכַּן "habitation" H4907) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H167
-    proximity: 0.8198
+    proximity: 0.8198 {macula-proximity}
   - strongs: H4999
-    proximity: 0.8133
+    lemma: נָאָה
+    gloss: a home {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   - strongs: H4720
-    proximity: 0.8121
+    lemma: מִקְדָּשׁ
+    gloss: a consecrated thing or place {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H7871
-    proximity: 0.8025
+    lemma: שִׁיבָה
+    gloss: residence {openscriptures-strongs}
+    proximity: 0.8025 {macula-proximity}
   - strongs: H6944
-    proximity: 0.8011
+    lemma: קֹדֶשׁ
+    gloss: a sacred place or thing {openscriptures-strongs}
+    proximity: 0.8011 {macula-proximity}
   - strongs: A4070
-    proximity: 0.7948
+    proximity: 0.7948 {macula-proximity}
   - strongs: H2681
-    proximity: 0.791
+    lemma: חָצִיר
+    gloss: a court or abode {openscriptures-strongs}
+    proximity: 0.791 {macula-proximity}
   - strongs: A7932
-    proximity: 0.7891
+    proximity: 0.7891 {macula-proximity}
   - strongs: H7258
-    proximity: 0.7833
+    lemma: רֵבֶץ
+    gloss: a couch or place of repose {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
   - strongs: H4585
-    proximity: 0.7729
+    lemma: מְעוֹנָה
+    gloss: '{an abode {openscriptures-strongs}'
+    proximity: 0.7729 {macula-proximity}
   cross_language:
   - strongs: G1886
-    proximity: 0.7999
+    lemma: ἔπαυλις
+    gloss: a hut over the head {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
     language: greek
   - strongs: G3438
-    proximity: 0.7916
+    lemma: μονή
+    gloss: a staying {openscriptures-strongs}
+    proximity: 0.7916 {macula-proximity}
     language: greek
   - strongs: G3624
-    proximity: 0.7747
+    lemma: οἶκος
+    gloss: a dwelling (more or less extensive {openscriptures-strongs}
+    proximity: 0.7747 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

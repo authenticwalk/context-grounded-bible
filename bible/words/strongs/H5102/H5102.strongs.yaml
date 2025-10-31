@@ -10,30 +10,41 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H108
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
   - strongs: H2100
-    proximity: 0.8211
+    lemma: זוּב
+    gloss: to flow freely {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
   - strongs: H5569
-    proximity: 0.8021
+    lemma: סָמָר
+    gloss: bristling {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
   - strongs: H6388
-    proximity: 0.7969
+    lemma: פֶּלֶג
+    gloss: a rill (i.e. small channel of water {openscriptures-strongs}
+    proximity: 0.7969 {macula-proximity}
   - strongs: H3105
-    proximity: 0.7935
+    lemma: יוּבַל
+    gloss: a stream {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
   - strongs: H7641a
-    proximity: 0.7918
+    proximity: 0.7918 {macula-proximity}
   - strongs: A5047
-    proximity: 0.7861
+    proximity: 0.7861 {macula-proximity}
   - strongs: H1570
-    proximity: 0.7633
+    lemma: גָּלַשׁ
+    gloss: probably to caper {openscriptures-strongs}
+    proximity: 0.7633 {macula-proximity}
   - strongs: H5140a
-    proximity: 0.7583
+    proximity: 0.7583 {macula-proximity}
   - strongs: H6379
-    proximity: 0.7332
+    lemma: פָּכָה
+    gloss: to pour {openscriptures-strongs}
+    proximity: 0.7332 {macula-proximity}
   cross_language:
   - strongs: G4482
-    proximity: 0.7261
+    lemma: ῥέω
+    gloss: for some tenses of which a prolonged form is used to flow ("run" {openscriptures-strongs}
+    proximity: 0.7261 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

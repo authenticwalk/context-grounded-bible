@@ -9,42 +9,61 @@ derivation: or נָקִיא; (Joel 4:19; Jonah [1:14), from H5352 (נָקָה);
 related_words:
   synonyms:
   - strongs: H816
-    proximity: 0.8295
+    proximity: 0.8295 {macula-proximity}
   - strongs: H1865
-    proximity: 0.8278
+    lemma: דְּרוֹר
+    gloss: freedom {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H8549
-    proximity: 0.8167
+    lemma: תָּמִים
+    gloss: entire (literally {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H3808
-    proximity: 0.8138
+    lemma: לֹא
+    gloss: not {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
   - strongs: H6662
-    proximity: 0.809
+    lemma: צַדִּיק
+    gloss: just {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
   - strongs: H2666
-    proximity: 0.7862
+    lemma: חָפַשׁ
+    gloss: to spread loose {openscriptures-strongs}
+    proximity: 0.7862 {macula-proximity}
   - strongs: H8538
-    proximity: 0.7763
+    lemma: תֻּמָּה
+    gloss: innocence {openscriptures-strongs}
+    proximity: 0.7763 {macula-proximity}
   - strongs: H1097
-    proximity: 0.7703
+    lemma: בְּלִי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7703 {macula-proximity}
   - strongs: H8537
-    proximity: 0.7486
+    lemma: תֹּם
+    gloss: completeness {openscriptures-strongs}
+    proximity: 0.7486 {macula-proximity}
   - strongs: H2889
-    proximity: 0.7444
+    lemma: טָהוֹר
+    gloss: pure (in a physical {openscriptures-strongs}
+    proximity: 0.7444 {macula-proximity}
   cross_language:
   - strongs: G172
-    proximity: 0.8001
+    proximity: 0.8001 {macula-proximity}
     language: greek
   - strongs: G53
-    proximity: 0.7985
+    proximity: 0.7985 {macula-proximity}
     language: greek
   - strongs: G185
-    proximity: 0.7574
+    proximity: 0.7574 {macula-proximity}
     language: greek
   - strongs: G1658
-    proximity: 0.7529
+    lemma: ἐλεύθερος
+    gloss: unrestrained {openscriptures-strongs}
+    proximity: 0.7529 {macula-proximity}
     language: greek
   - strongs: G2513
-    proximity: 0.7298
+    lemma: καθαρός
+    gloss: clean {openscriptures-strongs}
+    proximity: 0.7298 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

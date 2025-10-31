@@ -7,42 +7,58 @@ definition: to plaster
 kjv_usage: plaister.
 derivation: a primitive root probably meaning to boil up (compare H7736 (שׁוּד));
   used only as denominative from H7875 (שִׂיד);
-extended_definition:
-  gloss: to whitewash
-  definition: (Qal) to whitewash
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to whitewash {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2915
-    proximity: 0.8238
+    lemma: טִיחַ
+    gloss: mortar or plaster {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H6823
-    proximity: 0.8205
+    lemma: צָפָה
+    gloss: to sheet over {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: H2902
-    proximity: 0.8196
+    lemma: טוּחַ
+    gloss: to smear {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: H3680
-    proximity: 0.8147
+    lemma: כָּסָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: H2926
-    proximity: 0.8119
+    lemma: טָלַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: H5844
-    proximity: 0.8038
+    lemma: עָטָה
+    gloss: to wrap {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
   - strongs: H2645
-    proximity: 0.7935
+    lemma: חָפָה
+    gloss: to cover {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
   - strongs: H3271
-    proximity: 0.7932
+    lemma: יָעַט
+    gloss: to clothe {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
   - strongs: H3681
-    proximity: 0.7857
+    lemma: כָּסוּי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
   - strongs: H2950
-    proximity: 0.778
+    lemma: טָפַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.778 {macula-proximity}
   cross_language:
   - strongs: G2572
-    proximity: 0.8117
+    lemma: καλύπτω
+    gloss: to cover up {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
     language: greek
   - strongs: G4018
-    proximity: 0.7731
+    lemma: περιβόλαιον
+    gloss: something thrown around one {openscriptures-strongs}
+    proximity: 0.7731 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,41 +6,52 @@ pronunciation: kaw-fan'
 definition: to bend
 kjv_usage: bend.
 derivation: a primitive root;
-extended_definition:
-  gloss: to hunger
-  definition: 1) (Qal) to hunger, be hungry, hungrily desire<br>2) (CLBL) to twist,
-    bend
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Qal) to hunger, be hungry, hungrily desire
+
+  2) (CLBL) to twist, bend {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6437
-    proximity: 0.8287
+    lemma: פָּנָה
+    gloss: to turn {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H7502
-    proximity: 0.8206
+    lemma: רָפַד
+    gloss: to spread {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: H7725
-    proximity: 0.8119
+    lemma: שׁוּב
+    gloss: to turn back (hence {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: H5628a
-    proximity: 0.7944
+    proximity: 0.7944 {macula-proximity}
   - strongs: H5186
-    proximity: 0.7481
+    lemma: נָטָה
+    gloss: to stretch or spread out {openscriptures-strongs}
+    proximity: 0.7481 {macula-proximity}
   - strongs: H7750
-    proximity: 0.7387
+    lemma: שׂוּט
+    gloss: to detrude {openscriptures-strongs}
+    proximity: 0.7387 {macula-proximity}
   cross_language:
   - strongs: G4781
-    proximity: 0.8241
+    lemma: συγκάμπτω
+    gloss: to bend together {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
   - strongs: G4762
-    proximity: 0.8023
+    lemma: στρέφω
+    gloss: to twist {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
     language: greek
   - strongs: G2185
-    proximity: 0.7403
+    lemma: ἐφικνέομαι
+    gloss: to arrive upon {openscriptures-strongs}
+    proximity: 0.7403 {macula-proximity}
     language: greek
   - strongs: G1624
-    proximity: 0.7274
+    lemma: ἐκτρέπω
+    gloss: to deflect {openscriptures-strongs}
+    proximity: 0.7274 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

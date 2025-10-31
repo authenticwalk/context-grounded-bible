@@ -6,36 +6,40 @@ pronunciation: rab
 definition: an archer
 kjv_usage: archer.
 derivation: by contraction from H7232 (רָבַב); (or perhaps the same as H7227 (רַב))
-extended_definition:
-  gloss: archer
-  definition: archer
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: archer {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1886a
-    proximity: 0.8176
+    proximity: 0.8176 {macula-proximity}
   - strongs: H1167
-    proximity: 0.8085
+    lemma: בַּעַל
+    gloss: a master {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
   - strongs: H5401a
-    proximity: 0.7948
+    proximity: 0.7948 {macula-proximity}
   - strongs: H8522
-    proximity: 0.7844
+    lemma: תְּלִי
+    gloss: a quiver {openscriptures-strongs}
+    proximity: 0.7844 {macula-proximity}
   - strongs: H1869
-    proximity: 0.7822
+    lemma: דָּרַךְ
+    gloss: to tread {openscriptures-strongs}
+    proximity: 0.7822 {macula-proximity}
   - strongs: H2686
-    proximity: 0.7624
+    lemma: חָצַץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7624 {macula-proximity}
   - strongs: H3384
-    proximity: 0.7027
+    lemma: יָרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7027 {macula-proximity}
   cross_language:
   - strongs: G3187
-    proximity: 0.8203
+    lemma: μείζων
+    gloss: larger (literally or figuratively {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
     language: greek
   - strongs: G956
-    proximity: 0.791
+    proximity: 0.791 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -11,50 +11,71 @@ kjv_usage: accord(-ing as, -ing to), after, appointment, assent, collar, command
   portion, [idiom] (should) say(-ing), sentence, skirt, sound, speech, [idiom] spoken,
   talk, tenor, [idiom] to, [phrase] two-edged, wish, word.
 derivation: from H6284 (פָּאָה);
-extended_definition:
-  gloss: 'lip: one third'
-  definition: ': one_third<br>peh<br>1) mouth<br>1a) mouth (of man)<br>1b) mouth (as
-    organ of speech)<br>1c) mouth (of animals)<br>1d) mouth, opening, orifice (of
-    a well, river, etc)<br>1e) extremity, end pim<br>2) a weight equal to one third
-    of a shekel, occurs only in <ref="1Sa.13.21">1Sa 13:21</ref>'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': one_third
+
+  peh
+
+  1) mouth
+
+  1a) mouth (of man)
+
+  1b) mouth (as organ of speech)
+
+  1c) mouth (of animals)
+
+  1d) mouth, opening, orifice (of a well, river, etc)
+
+  1e) extremity, end pim
+
+  2) a weight equal to one third of a shekel, occurs only in 1Sa 13:21 {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A4449
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
   - strongs: H7092
-    proximity: 0.8259
+    lemma: קָפַץ
+    gloss: to draw together {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: H4448
-    proximity: 0.8239
+    lemma: מָלַל
+    gloss: to speak  or say {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: H1699a
-    proximity: 0.8195
+    proximity: 0.8195 {macula-proximity}
   - strongs: H3926
-    proximity: 0.8193
+    lemma: לְמוֹ
+    gloss: to or for {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H5159
-    proximity: 0.8162
+    lemma: נַחֲלָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H1703
-    proximity: 0.8149
+    lemma: דַּבָּרָה
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
   - strongs: H5414
-    proximity: 0.8149
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
   cross_language:
   - strongs: G3726
-    proximity: 0.828
+    lemma: ὁρκίζω
+    gloss: to put on oath {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G1223
-    proximity: 0.8267
+    lemma: διά
+    gloss: through (in very wide applications {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
     language: greek
   - strongs: G893
-    proximity: 0.824
+    proximity: 0.824 {macula-proximity}
     language: greek
   - strongs: G575
-    proximity: 0.8217
+    proximity: 0.8217 {macula-proximity}
     language: greek
   - strongs: G455
-    proximity: 0.8196
+    proximity: 0.8196 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

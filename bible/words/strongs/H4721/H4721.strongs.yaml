@@ -6,41 +6,49 @@ pronunciation: mak-hale'
 definition: an assembly
 kjv_usage: congregation.
 derivation: or (feminine) מַקְהֵלָה; from H6950 (קָהַל);
-extended_definition:
-  gloss: assembly
-  definition: assembly, choir
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: assembly, choir {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6960a
-    proximity: 0.8214
+    proximity: 0.8214 {macula-proximity}
   - strongs: H6908
-    proximity: 0.8021
+    lemma: קָבַץ
+    gloss: to grasp {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
   - strongs: H2416e
-    proximity: 0.7753
+    proximity: 0.7753 {macula-proximity}
   - strongs: H5475
-    proximity: 0.7703
+    lemma: סוֹד
+    gloss: a session {openscriptures-strongs}
+    proximity: 0.7703 {macula-proximity}
   - strongs: H4150
-    proximity: 0.7139
+    lemma: מוֹעֵד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7139 {macula-proximity}
   cross_language:
   - strongs: G4864
-    proximity: 0.8256
+    lemma: συναγωγή
+    gloss: an assemblage of persons {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
     language: greek
   - strongs: G1996
-    proximity: 0.8165
+    lemma: ἐπισυνάγω
+    gloss: to collect upon the same place {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G4128
-    proximity: 0.8046
+    lemma: πλῆθος
+    gloss: a fulness {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
     language: greek
   - strongs: G4863
-    proximity: 0.8014
+    lemma: συνάγω
+    gloss: to lead together {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
     language: greek
   - strongs: G4905
-    proximity: 0.7834
+    lemma: συνέρχομαι
+    gloss: to convene {openscriptures-strongs}
+    proximity: 0.7834 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

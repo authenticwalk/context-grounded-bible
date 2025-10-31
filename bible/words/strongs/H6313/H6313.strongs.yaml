@@ -6,44 +6,57 @@ pronunciation: poog
 definition: to be sluggish
 kjv_usage: cease, be feeble, faint, be slacked.
 derivation: a primitive root;
-extended_definition:
-  gloss: be numb
-  definition: 1) to grow numb, be feeble, be benumbed<br>1a) (Qal) to be feeble<br>1b)
-    (Niphal) to be benumbed
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to grow numb, be feeble, be benumbed
+
+  1a) (Qal) to be feeble
+
+  1b) (Niphal) to be benumbed {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5889
-    proximity: 0.8183
+    lemma: עָיֵף
+    gloss: languid {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: H2954
-    proximity: 0.8081
+    lemma: טָפַשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
   - strongs: H5627
-    proximity: 0.7935
+    lemma: סָרָה
+    gloss: apostasy {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
   - strongs: H6296
-    proximity: 0.7898
+    lemma: פָּגַר
+    gloss: to relax {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
   - strongs: H3286
-    proximity: 0.7457
+    lemma: יָעַף
+    gloss: to tire {openscriptures-strongs}
+    proximity: 0.7457 {macula-proximity}
   - strongs: H5888
-    proximity: 0.7452
+    lemma: עָיֵף
+    gloss: to languish {openscriptures-strongs}
+    proximity: 0.7452 {macula-proximity}
   cross_language:
   - strongs: G2577
-    proximity: 0.8239
+    lemma: κάμνω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G674
-    proximity: 0.8202
+    proximity: 0.8202 {macula-proximity}
     language: greek
   - strongs: G3973
-    proximity: 0.789
+    lemma: παύω
+    gloss: to stop {openscriptures-strongs}
+    proximity: 0.789 {macula-proximity}
     language: greek
   - strongs: G180
-    proximity: 0.7806
+    proximity: 0.7806 {macula-proximity}
     language: greek
   - strongs: G3975
-    proximity: 0.7543
+    lemma: παχύνω
+    gloss: to thicken {openscriptures-strongs}
+    proximity: 0.7543 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,29 +7,31 @@ definition: '{a copse of bushes; hence, a forest; hence, honey in the comb (as h
   in trees)}'
 kjv_usage: (honey-) comb, forest.
 derivation: feminine of H3293 (יַעַר), and meaning the same
-extended_definition:
-  gloss: honeycomb
-  definition: 1) forest<br>1a) honeycomb (meton)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) forest
+
+  1a) honeycomb (meton) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1057
-    proximity: 0.8258
+    lemma: בָּכָא
+    gloss: the weeping tree (some gum-distilling tree {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H6982
-    proximity: 0.8179
+    lemma: קוֹרָה
+    gloss: a rafter {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
   - strongs: H5195
-    proximity: 0.7794
+    lemma: נָטִיעַ
+    gloss: a plant {openscriptures-strongs}
+    proximity: 0.7794 {macula-proximity}
   - strongs: H2793a
-    proximity: 0.7366
+    proximity: 0.7366 {macula-proximity}
   - strongs: H352a
-    proximity: 0.7364
+    proximity: 0.7364 {macula-proximity}
   cross_language:
   - strongs: G3586
-    proximity: 0.83
+    lemma: ξύλον
+    gloss: timber {openscriptures-strongs}
+    proximity: 0.83 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

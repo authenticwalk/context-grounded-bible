@@ -5,55 +5,63 @@ transliteration: pentakischílioi
 definition: five times a thousand
 kjv_usage: five thousand
 derivation: from G3999 (πεντάκις) and G5507 (χίλιοι);
-extended_definition:
-  gloss: five thousand
-  definition: '<b>πεντακισ-χίλιοι</b>, -αι, -α <BR /> <b>five thousand</b>: <ref=''Mat.14.21;
-    16.9''>Mat.14:21 16:9</ref>, <ref=''Mrk.6.44; 8.19''>Mrk.6:44 8:19</ref>, <ref=''Luk.9.14''>Luk.9:14</ref>,
-    <ref=''Jhn.6.10''>Jhn.6:10</ref>.†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> πεντᾰκισ-χίλιοι</b> [χῑ], αι, α, <br /> <b>five thousand</b>,
-    [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 1.194, 5th-6th
-    c.BC: Plato Philosophus “Leges” 738a: in _sing._, π. ἀσπίς">Refs 5th c.BC+</a>]
-    <b>five thousand</b> men-at-arms, [<a href="javascript:void(0)" title=" 2nd c.AD:
-    Lucianus Sophista “DMeretr.” 9.4; π. ἵππος LXX 1 LXX.Mal.4.28 ">LXX+2nd c.AD+</a>]:—<i>Doric
-    dialect</i> form <b>πεντακιχήλιοι</b> [<a href="javascript:void(0)" title=" “Abh.Berl.Akad.”
-    1925(5).25 (Cyrene, 3rd c.BC). ">Refs 3rd c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'πεντακισ-χίλιοι, -αι, -α
+
+  five thousand: Mat.14:21 16:9, Mrk.6:44 8:19, Luk.9:14, Jhn.6:10.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'πεντᾰκισ-χίλιοι [χῑ], αι, α,
+
+  five thousand, [Refs 5th c.BC+] five thousand men-at-arms, [LXX+2nd c.AD+]:—Doric
+  dialect form πεντακιχήλιοι [Refs 3rd c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4001
-    proximity: 0.8105
+    lemma: πεντακόσιοι
+    gloss: five hundred {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
   - strongs: G1367
-    proximity: 0.794
+    lemma: δισχίλιοι
+    gloss: two thousand {openscriptures-strongs}
+    proximity: 0.794 {macula-proximity}
   - strongs: G2035
-    proximity: 0.7801
+    lemma: ἑπτακισχίλιοι
+    gloss: seven times a thousand {openscriptures-strongs}
+    proximity: 0.7801 {macula-proximity}
   - strongs: G5153
-    proximity: 0.7801
+    lemma: τρισχίλιοι
+    gloss: three times a thousand {openscriptures-strongs}
+    proximity: 0.7801 {macula-proximity}
   - strongs: G3999
-    proximity: 0.7699
+    lemma: πεντάκις
+    gloss: five times {openscriptures-strongs}
+    proximity: 0.7699 {macula-proximity}
   - strongs: G5507
-    proximity: 0.7498
+    lemma: χίλιοι
+    gloss: a thousand {openscriptures-strongs}
+    proximity: 0.7498 {macula-proximity}
   - strongs: A506
-    proximity: 0.7372
+    proximity: 0.7372 {macula-proximity}
   - strongs: G5070
-    proximity: 0.732
+    lemma: τετρακισχίλιοι
+    gloss: four times a thousand {openscriptures-strongs}
+    proximity: 0.732 {macula-proximity}
   - strongs: G3461
-    proximity: 0.7139
+    lemma: μυριάς
+    gloss: a ten-thousand {openscriptures-strongs}
+    proximity: 0.7139 {macula-proximity}
   cross_language:
   - strongs: H505a
-    proximity: 0.8284
+    proximity: 0.8284 {macula-proximity}
     language: hebrew
   - strongs: H7233
-    proximity: 0.8003
+    lemma: רְבָבָה
+    gloss: abundance {openscriptures-strongs}
+    proximity: 0.8003 {macula-proximity}
     language: hebrew
   - strongs: H8136
-    proximity: 0.7901
+    lemma: שִׁנְאָן
+    gloss: change {openscriptures-strongs}
+    proximity: 0.7901 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

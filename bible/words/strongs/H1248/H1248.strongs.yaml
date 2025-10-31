@@ -6,45 +6,55 @@ pronunciation: bar
 definition: the heir (apparent to the throne)
 kjv_usage: son.
 derivation: borrowed (as a title) from H1247 (בַּר);
-extended_definition:
-  gloss: son
-  definition: 'son, heir<BR>Another spelling of <i>ben</i> (בֵּן ": child" H1121)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'son, heir
+
+  Another spelling of ben (בֵּן ": child" H1121) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1060
-    proximity: 0.8285
+    lemma: בְּכוֹר
+    gloss: firstborn {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: H5764
-    proximity: 0.8202
+    lemma: עוּל
+    gloss: a babe {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   - strongs: H1716
-    proximity: 0.8167
+    lemma: דָּגַר
+    gloss: to brood over eggs or young {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H376
-    proximity: 0.815
+    proximity: 0.815 {macula-proximity}
   - strongs: H5759
-    proximity: 0.8101
+    lemma: עֲוִיל
+    gloss: a babe {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
   - strongs: H7909a
-    proximity: 0.8093
+    proximity: 0.8093 {macula-proximity}
   - strongs: H1516a
-    proximity: 0.8088
+    proximity: 0.8088 {macula-proximity}
   - strongs: H3205
-    proximity: 0.7944
+    lemma: יָלַד
+    gloss: to bear young {openscriptures-strongs}
+    proximity: 0.7944 {macula-proximity}
   - strongs: H3357
-    proximity: 0.7881
+    lemma: יַקִּיר
+    gloss: precious {openscriptures-strongs}
+    proximity: 0.7881 {macula-proximity}
   - strongs: H3173
-    proximity: 0.7878
+    lemma: יָחִיד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7878 {macula-proximity}
   cross_language:
   - strongs: G4450a
-    proximity: 0.8266
+    proximity: 0.8266 {macula-proximity}
     language: greek
   - strongs: G5044
-    proximity: 0.8077
+    lemma: τεκνοτροφέω
+    gloss: to be a childrearer {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
     language: greek
   - strongs: G815
-    proximity: 0.7997
+    proximity: 0.7997 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

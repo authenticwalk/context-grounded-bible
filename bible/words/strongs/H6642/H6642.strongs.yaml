@@ -6,49 +6,59 @@ pronunciation: tsaw-bat'
 definition: to grasp, i.e. hand out
 kjv_usage: reach.
 derivation: a primitive root;
-extended_definition:
-  gloss: to serve
-  definition: (Qal) to reach, hold out
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to reach, hold out {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H413
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
   - strongs: H4672
-    proximity: 0.8267
+    lemma: מָצָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
   - strongs: A1684
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
   - strongs: H7133a
-    proximity: 0.8034
+    proximity: 0.8034 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.7983
+    proximity: 0.7983 {macula-proximity}
   - strongs: H7133
-    proximity: 0.7628
+    lemma: קׇרְבָּן
+    gloss: something brought near the altar {openscriptures-strongs}
+    proximity: 0.7628 {macula-proximity}
   - strongs: H5414
-    proximity: 0.7587
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.7587 {macula-proximity}
   - strongs: H5066
-    proximity: 0.7556
+    lemma: נָגַשׁ
+    gloss: to be or come (causatively {openscriptures-strongs}
+    proximity: 0.7556 {macula-proximity}
   - strongs: H7126
-    proximity: 0.7526
+    lemma: קָרַב
+    gloss: to approach (causatively {openscriptures-strongs}
+    proximity: 0.7526 {macula-proximity}
   cross_language:
   - strongs: G399
-    proximity: 0.829
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G4376
-    proximity: 0.8264
+    lemma: προσφορά
+    gloss: presentation {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G4374
-    proximity: 0.8109
+    lemma: προσφέρω
+    gloss: to bear towards {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
     language: greek
   - strongs: G5256
-    proximity: 0.807
+    lemma: ὑπηρετέω
+    gloss: to be a subordinate {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
     language: greek
   - strongs: G3938
-    proximity: 0.7963
+    lemma: πάροδος
+    gloss: a by-road {openscriptures-strongs}
+    proximity: 0.7963 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

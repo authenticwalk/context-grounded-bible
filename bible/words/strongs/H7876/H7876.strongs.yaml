@@ -7,31 +7,33 @@ definition: to keep in memory
 kjv_usage: be unmindful. (Render Deuteronomy 32:18, 'A Rock bore thee, thou must recollect;
   and (yet) thou hast forgotten,' etc.)
 derivation: a primitive root;
-extended_definition:
-  gloss: to forget
-  definition: (Qal) to forget, deprive
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to forget, deprive {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6544
-    proximity: 0.8155
+    lemma: פָּרַע
+    gloss: to loosen {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H5388
-    proximity: 0.7997
+    lemma: נְשִׁיָּה
+    gloss: oblivion {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
   - strongs: H6963a
-    proximity: 0.7464
+    proximity: 0.7464 {macula-proximity}
   cross_language:
   - strongs: G1585
-    proximity: 0.7993
+    lemma: ἐκλανθάνομαι
+    gloss: to be utterly oblivious of {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
     language: greek
   - strongs: G1953
-    proximity: 0.7583
+    lemma: ἐπιλησμονή
+    gloss: negligence {openscriptures-strongs}
+    proximity: 0.7583 {macula-proximity}
     language: greek
   - strongs: G2990
-    proximity: 0.7069
+    lemma: λανθάνω
+    gloss: to lie hid {openscriptures-strongs}
+    proximity: 0.7069 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

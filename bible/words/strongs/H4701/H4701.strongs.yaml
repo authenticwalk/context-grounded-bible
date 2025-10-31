@@ -6,38 +6,48 @@ pronunciation: mits-neh'-feth
 definition: a tiara, i.e. official turban (of a king or high priest)
 kjv_usage: diadem, mitre.
 derivation: from H6801 (צָנַף);
-extended_definition:
-  gloss: turban
-  definition: turban (of the high priest)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: turban (of the high priest) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6843
-    proximity: 0.8268
+    lemma: צְפִירָה
+    gloss: a crown {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: H5849
-    proximity: 0.8154
+    lemma: עָטַר
+    gloss: to encircle {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: H3880
-    proximity: 0.8068
+    lemma: לִוְיָה
+    gloss: something attached {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
   - strongs: H666
-    proximity: 0.8018
+    proximity: 0.8018 {macula-proximity}
   - strongs: H5145
-    proximity: 0.7989
+    lemma: נֶזֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
   - strongs: H4021
-    proximity: 0.7981
+    lemma: מִגְבָּעָה
+    gloss: a cap {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
   - strongs: H4555
-    proximity: 0.7896
+    lemma: מִסְפָּחָה
+    gloss: a veil {openscriptures-strongs}
+    proximity: 0.7896 {macula-proximity}
   - strongs: H3804
-    proximity: 0.7508
+    lemma: כֶּתֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7508 {macula-proximity}
   cross_language:
   - strongs: G1238
-    proximity: 0.7634
+    lemma: διάδημα
+    gloss: a "diadem" {openscriptures-strongs}
+    proximity: 0.7634 {macula-proximity}
     language: greek
   - strongs: G4737
-    proximity: 0.7204
+    lemma: στεφανόω
+    gloss: to adorn with an honorary wreath {openscriptures-strongs}
+    proximity: 0.7204 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

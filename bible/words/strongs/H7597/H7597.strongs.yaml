@@ -9,35 +9,52 @@ derivation: or שַׁלְתִּיאֵל; from H7592 (שָׁאַל) and H410 (א�
 related_words:
   synonyms:
   - strongs: A1113
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
   - strongs: H6317
-    proximity: 0.8229
+    lemma: פּוּטִיאֵל
+    gloss: Putiel {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: H7974
-    proximity: 0.8211
+    lemma: שֶׁלַח
+    gloss: Shelach {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
   - strongs: H6409
-    proximity: 0.8207
+    lemma: פַּלְטִיאֵל
+    gloss: Paltiel {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H1095
-    proximity: 0.8138
+    lemma: בֵּלְטְשַׁאצַּר
+    gloss: Belteshatstsar {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
   - strongs: H8515
-    proximity: 0.8121
+    lemma: תְּלַאשַּׂר
+    gloss: Telassar {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: A1096
-    proximity: 0.8035
+    proximity: 0.8035 {macula-proximity}
   - strongs: H8283
-    proximity: 0.8004
+    lemma: שָׂרָה
+    gloss: Sarah {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
   cross_language:
   - strongs: G4527
-    proximity: 0.8297
+    lemma: Σαλά
+    gloss: Sala {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G2976
-    proximity: 0.8161
+    lemma: Λάζαρος
+    gloss: Lazarus {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
     language: greek
   - strongs: G4533
-    proximity: 0.8017
+    lemma: Σαλμών
+    gloss: Salmon {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
     language: greek
   - strongs: G4564
-    proximity: 0.7868
+    lemma: Σάῤῥα
+    gloss: Sarra {openscriptures-strongs}
+    proximity: 0.7868 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

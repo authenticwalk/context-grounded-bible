@@ -6,53 +6,70 @@ pronunciation: bane
 definition: Ben, an Israelite
 kjv_usage: Ben.
 derivation: the same as H1121 (בֵּן);
-extended_definition:
-  gloss: Ben
-  definition: A man living at the time of Divided Monarchy, only mentioned at 1Ch.15.18
-    <BR> § Ben = "son"<br> a Levite, one of the porters appointed by David for the
-    ark<br>
-  morphology: N:N-M-P
-  source: STEPBible/BDB
+extended_definition: 'A man living at the time of Divided Monarchy, only mentioned
+  at 1Ch.15.18
+
+  § Ben = "son"
+
+  a Levite, one of the porters appointed by David for the ark {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5650
-    proximity: 0.8284
+    lemma: עֶבֶד
+    gloss: a servant {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H3357
-    proximity: 0.8278
+    lemma: יַקִּיר
+    gloss: precious {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H5759
-    proximity: 0.8244
+    lemma: עֲוִיל
+    gloss: a babe {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: H7921
-    proximity: 0.8148
+    lemma: שָׁכֹל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: H990
-    proximity: 0.8095
+    proximity: 0.8095 {macula-proximity}
   - strongs: H120
-    proximity: 0.8003
+    proximity: 0.8003 {macula-proximity}
   - strongs: H4578
-    proximity: 0.7986
+    lemma: מֵעֶה
+    gloss: used only in plural the intestines {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
   - strongs: H376
-    proximity: 0.7885
+    proximity: 0.7885 {macula-proximity}
   - strongs: H6529
-    proximity: 0.7821
+    lemma: פְּרִי
+    gloss: fruit {openscriptures-strongs}
+    proximity: 0.7821 {macula-proximity}
   - strongs: H3205
-    proximity: 0.7732
+    lemma: יָלַד
+    gloss: to bear young {openscriptures-strongs}
+    proximity: 0.7732 {macula-proximity}
   cross_language:
   - strongs: G2364
-    proximity: 0.8283
+    lemma: θυγάτηρ
+    gloss: a female child {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.8264
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G3813
-    proximity: 0.8256
+    lemma: παιδίον
+    gloss: a childling {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
     language: greek
   - strongs: G815
-    proximity: 0.8135
+    proximity: 0.8135 {macula-proximity}
     language: greek
   - strongs: G1549
-    proximity: 0.8064
+    lemma: ἔκγονον
+    gloss: a descendant {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -9,48 +9,71 @@ definition: a rib (as curved), literally (of the body) or figuratively (of a doo
   or plank (single or collective, i.e. a flooring)
 kjv_usage: beam, board, chamber, corner, leaf, plank, rib, side (chamber).
 derivation: or (feminine) צַלְעָה; from H6760 (צָלַע);
-extended_definition:
-  gloss: side
-  definition: '1) side, rib, beam<br>1a) rib (of man)<br>1b) rib (of hill, ridge,
-    etc)<br>1c) side-chambers or cells (of temple structure)<br>1d) rib, plank, board
-    (of cedar or fir)<br>1e) leaves (of door)<br>1f) side (of ark)<BR>Aramaic equivalent:
-    <i>a.la</i> (עֲלַע "rib" H5967)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) side, rib, beam
+
+  1a) rib (of man)
+
+  1b) rib (of hill, ridge, etc)
+
+  1c) side-chambers or cells (of temple structure)
+
+  1d) rib, plank, board (of cedar or fir)
+
+  1e) leaves (of door)
+
+  1f) side (of ark)
+
+  Aramaic equivalent: a.la (עֲלַע "rib" H5967) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6924a
-    proximity: 0.8297
+    proximity: 0.8297 {macula-proximity}
   - strongs: H1864
-    proximity: 0.8273
+    lemma: דָּרוֹם
+    gloss: the south {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
   - strongs: H2008
-    proximity: 0.8167
+    lemma: הֵנָּה
+    gloss: hither or thither {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H7253
-    proximity: 0.8157
+    lemma: רֶבַע
+    gloss: a fourth {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: H7175
-    proximity: 0.815
+    lemma: קֶרֶשׁ
+    gloss: a slab or plank {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: A5675
-    proximity: 0.8088
+    proximity: 0.8088 {macula-proximity}
   - strongs: H5045
-    proximity: 0.7866
+    lemma: נֶגֶב
+    gloss: the south {openscriptures-strongs}
+    proximity: 0.7866 {macula-proximity}
   - strongs: H3411
-    proximity: 0.7855
+    lemma: יְרֵכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7855 {macula-proximity}
   - strongs: H3409
-    proximity: 0.7824
+    lemma: יָרֵךְ
+    gloss: the thigh {openscriptures-strongs}
+    proximity: 0.7824 {macula-proximity}
   - strongs: H5393
-    proximity: 0.7774
+    lemma: נִשְׁכָּה
+    gloss: a cell {openscriptures-strongs}
+    proximity: 0.7774 {macula-proximity}
   cross_language:
   - strongs: G492
-    proximity: 0.7973
+    proximity: 0.7973 {macula-proximity}
     language: greek
   - strongs: G4008
-    proximity: 0.7959
+    lemma: πέραν
+    gloss: through {openscriptures-strongs}
+    proximity: 0.7959 {macula-proximity}
     language: greek
   - strongs: G1564
-    proximity: 0.7958
+    lemma: ἐκεῖθεν
+    gloss: thence {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

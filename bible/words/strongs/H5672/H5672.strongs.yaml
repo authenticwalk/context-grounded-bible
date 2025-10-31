@@ -6,21 +6,19 @@ pronunciation: ab-ee'
 definition: density, i.e. depth or width
 kjv_usage: thick(-ness). Compare H5645 (עָב).
 derivation: or עֳבִי]; from H5666 (עָבָה);
-extended_definition:
-  gloss: thickness
-  definition: thickness
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: thickness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7341
-    proximity: 0.822
+    lemma: רֹחַב
+    gloss: width {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
   - strongs: H2213
-    proximity: 0.8165
+    lemma: זֵר
+    gloss: a chaplet {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: H5666
-    proximity: 0.7474
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: עָבָה
+    gloss: to be dense {openscriptures-strongs}
+    proximity: 0.7474 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

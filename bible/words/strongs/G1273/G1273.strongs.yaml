@@ -5,53 +5,53 @@ transliteration: dianyktereúō
 definition: to sit up the whole night
 kjv_usage: continue all night
 derivation: from G1223 (διά) and a derivative of G3571 (νύξ);
-extended_definition:
-  gloss: to spend the night
-  definition: '<b>δια-νυκτερεύω</b><BR /> (cf. διημερεύω, <i>to pass the day</i>)
-    [in LXX: <ref=''Job.2.9''>Job.2:9</ref> * ;] <BR /><b>to pass the night</b>: before
-    ἐν τ. προσευχῆ, <ref=''Luk.6.12.''>Luk.6:12.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> διανυκτερεύω</b>, <br /> <b>pass the night,</b> νύκτα [<a href="javascript:void(0)"
-    title=" 5th-6th c.BC: Xenophon Historicus “Historia Graeca (Hellenica)” 5.4.3,
-    compare “PTeb.” 268.73 (3rd c.AD): _absolutely_, 1st c.AD: Philo Judaeus 2.488,
-    1st-2nd c.AD: Plutarchus Biographus et Philosophus “Aemilius Paulus” 16, +others;
-    ἐν τῇ προσευχῇ NT.Luke.6.12, compare 2nd c.AD: Herodianus Grammaticus 1.16.5.
-    ">NT+5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δια-νυκτερεύω
+
+  (cf. διημερεύω, to pass the day) [in LXX: Job.2:9 * ;]
+
+  to pass the night: before ἐν τ. προσευχῆ, Luk.6:12.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'διανυκτερεύω,
+
+  pass the night, νύκτα [NT+5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3648
-    proximity: 0.8028
+    lemma: ὁλόκληρος
+    gloss: complete in every part {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
   - strongs: G3574
-    proximity: 0.7925
+    lemma: νυχθήμερον
+    gloss: a day-and-night {openscriptures-strongs}
+    proximity: 0.7925 {macula-proximity}
   - strongs: A3606
-    proximity: 0.7918
+    proximity: 0.7918 {macula-proximity}
   - strongs: G3956
-    proximity: 0.7866
+    lemma: πᾶς
+    gloss: all {openscriptures-strongs}
+    proximity: 0.7866 {macula-proximity}
   - strongs: A1b
-    proximity: 0.7757
+    proximity: 0.7757 {macula-proximity}
   - strongs: G3588
-    proximity: 0.7676
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7676 {macula-proximity}
   - strongs: G537
-    proximity: 0.7642
+    proximity: 0.7642 {macula-proximity}
   cross_language:
   - strongs: H3119
-    proximity: 0.8186
+    lemma: יוֹמָם
+    gloss: daily {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
     language: hebrew
   - strongs: H570
-    proximity: 0.8116
+    proximity: 0.8116 {macula-proximity}
     language: hebrew
   - strongs: H871a
-    proximity: 0.8034
+    proximity: 0.8034 {macula-proximity}
     language: hebrew
   - strongs: H3885a
-    proximity: 0.79
+    proximity: 0.79 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

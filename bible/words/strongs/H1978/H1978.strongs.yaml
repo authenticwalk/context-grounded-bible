@@ -6,43 +6,55 @@ pronunciation: haw-leek'
 definition: a walk, i.e. (by implication) a step
 kjv_usage: step.
 derivation: from H1980 (הָלַךְ);
-extended_definition:
-  gloss: step
-  definition: step
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: step {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6471
-    proximity: 0.8137
+    lemma: פַּעַם
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   - strongs: H7364
-    proximity: 0.8131
+    lemma: רָחַץ
+    gloss: to lave {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
   - strongs: H7635
-    proximity: 0.7679
+    lemma: שָׁבִיל
+    gloss: a track or passage-way {openscriptures-strongs}
+    proximity: 0.7679 {macula-proximity}
   - strongs: H6587
-    proximity: 0.7639
+    lemma: פֶּשַׂע
+    gloss: a stride {openscriptures-strongs}
+    proximity: 0.7639 {macula-proximity}
   - strongs: H5410a
-    proximity: 0.7613
+    proximity: 0.7613 {macula-proximity}
   - strongs: H7166
-    proximity: 0.7568
+    lemma: קַרְסֹל
+    gloss: an ankle {openscriptures-strongs}
+    proximity: 0.7568 {macula-proximity}
   - strongs: H5410
-    proximity: 0.7544
+    lemma: נָתִיב
+    gloss: a  track {openscriptures-strongs}
+    proximity: 0.7544 {macula-proximity}
   - strongs: H4096
-    proximity: 0.7378
+    lemma: מִדְרָךְ
+    gloss: a treading {openscriptures-strongs}
+    proximity: 0.7378 {macula-proximity}
   - strongs: H4570a
-    proximity: 0.716
+    proximity: 0.716 {macula-proximity}
   cross_language:
   - strongs: G4158
-    proximity: 0.8069
+    lemma: ποδήρης
+    gloss: a dress  implied) reaching the ankles {openscriptures-strongs}
+    proximity: 0.8069 {macula-proximity}
     language: greek
   - strongs: G5163
-    proximity: 0.7828
+    lemma: τροχιά
+    gloss: a track {openscriptures-strongs}
+    proximity: 0.7828 {macula-proximity}
     language: greek
   - strongs: G2487
-    proximity: 0.7226
+    lemma: ἴχνος
+    gloss: compare G2240 ) {openscriptures-strongs}
+    proximity: 0.7226 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

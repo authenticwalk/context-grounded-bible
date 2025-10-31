@@ -6,37 +6,41 @@ pronunciation: shar-sher-aw'
 definition: a chain; (architectural) probably a garland
 kjv_usage: chain.
 derivation: from H8327 (שָׁרַשׁ) (compare H8331 (שַׁרְשָׁה));
-extended_definition:
-  gloss: chain
-  definition: chain
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: chain {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5246
-    proximity: 0.8194
+    lemma: נָמֵר
+    gloss: a leopard {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H6677a
-    proximity: 0.7792
+    proximity: 0.7792 {macula-proximity}
   - strongs: H685
-    proximity: 0.7632
+    proximity: 0.7632 {macula-proximity}
   - strongs: H2784
-    proximity: 0.7355
+    lemma: חַרְצֻבָּה
+    gloss: a fetter {openscriptures-strongs}
+    proximity: 0.7355 {macula-proximity}
   - strongs: H4147
-    proximity: 0.7292
+    lemma: מוֹסֵר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7292 {macula-proximity}
   - strongs: H4147a
-    proximity: 0.7208
+    proximity: 0.7208 {macula-proximity}
   cross_language:
   - strongs: G5469
-    proximity: 0.8194
+    lemma: χαλινός
+    gloss: a curb or head-stall {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G4725
-    proximity: 0.8104
+    lemma: στέμμα
+    gloss: a wreath for show {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
     language: greek
   - strongs: G1199
-    proximity: 0.7996
+    lemma: δεσμόν
+    gloss: a band {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

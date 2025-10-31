@@ -7,52 +7,61 @@ definition: properly, extent (of time); but used only adverbially (especially wi
   other particle prefixes), when (either relative or interrogative)
 kjv_usage: long, when.
 derivation: from an unused root meaning to extend;
-extended_definition:
-  gloss: how
-  definition: 1) when?<br>1a) with prep<br>1a1) against when?, until when?, how long?,
-    after how long?
-  morphology: H:Intg
-  source: STEPBible/BDB
+extended_definition: '1) when?
+
+  1a) with prep
+
+  1a1) against when?, until when?, how long?, after how long? {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H349a
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
   - strongs: H349b
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
   - strongs: H7281
-    proximity: 0.8236
+    lemma: רֶגַע
+    gloss: a wink {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.8225
+    proximity: 0.8225 {macula-proximity}
   - strongs: A5732
-    proximity: 0.817
+    proximity: 0.817 {macula-proximity}
   - strongs: H834
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
   - strongs: H5750
-    proximity: 0.8101
+    lemma: עוֹד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
   - strongs: H3117a
-    proximity: 0.8035
+    proximity: 0.8035 {macula-proximity}
   - strongs: H6256
-    proximity: 0.8035
+    lemma: עֵת
+    gloss: time {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
   - strongs: H752
-    proximity: 0.8002
+    proximity: 0.8002 {macula-proximity}
   cross_language:
   - strongs: G1875
-    proximity: 0.8286
+    lemma: ἐπάν
+    gloss: a particle of indefinite contemporaneousness {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G3819
-    proximity: 0.8268
+    lemma: πάλαι
+    gloss: formerly {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: greek
   - strongs: G4218
-    proximity: 0.8188
+    lemma: ποτέ
+    gloss: indefinite adverb {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
     language: greek
   - strongs: G4212
-    proximity: 0.809
+    lemma: ποσάκις
+    gloss: how many times {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
     language: greek
   - strongs: G302
-    proximity: 0.8068
+    proximity: 0.8068 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

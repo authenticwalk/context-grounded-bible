@@ -6,29 +6,37 @@ pronunciation: maw-thoke'
 definition: sweet
 kjv_usage: sweet(-er, -ness).
 derivation: or מָתוּק; from H4985 (מָתַק);
-extended_definition:
-  gloss: sweet
-  definition: adj<br>1) sweet<br>n m<br>2) sweetness, pleasant (thing)
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: 'adj
+
+  1) sweet
+
+  n m
+
+  2) sweetness, pleasant (thing) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1314
-    proximity: 0.8277
+    lemma: בֶּשֶׂם
+    gloss: fragrance {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H5561
-    proximity: 0.7759
+    lemma: סַם
+    gloss: an aroma {openscriptures-strongs}
+    proximity: 0.7759 {macula-proximity}
   - strongs: H6071
-    proximity: 0.752
+    lemma: עָסִיס
+    gloss: must or fresh grape-juice {openscriptures-strongs}
+    proximity: 0.752 {macula-proximity}
   - strongs: H2896a
-    proximity: 0.7329
+    proximity: 0.7329 {macula-proximity}
   - strongs: H5207
-    proximity: 0.7254
+    lemma: נִיחוֹחַ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7254 {macula-proximity}
   cross_language:
   - strongs: G1098
-    proximity: 0.811
+    lemma: γλεῦκος
+    gloss: sweet wine {openscriptures-strongs}
+    proximity: 0.811 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

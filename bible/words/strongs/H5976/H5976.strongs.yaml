@@ -6,35 +6,35 @@ pronunciation: aw-mad'
 definition: to shake
 kjv_usage: be at a stand.
 derivation: for H4571 (מָעַד);
-extended_definition:
-  gloss: to shake
-  definition: to be at a stand, stand, remain, endure
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: to be at a stand, stand, remain, endure {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5324
-    proximity: 0.8267
+    lemma: נָצַב
+    gloss: to station {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
   - strongs: A5446
-    proximity: 0.8153
+    proximity: 0.8153 {macula-proximity}
   - strongs: H7322a
-    proximity: 0.8073
+    proximity: 0.8073 {macula-proximity}
   - strongs: H8522
-    proximity: 0.7939
+    lemma: תְּלִי
+    gloss: a quiver {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
   - strongs: H827
-    proximity: 0.75
+    proximity: 0.75 {macula-proximity}
   cross_language:
   - strongs: G2476
-    proximity: 0.8085
+    lemma: ἵστημι
+    gloss: to stand {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
     language: greek
   - strongs: G898
-    proximity: 0.8074
+    proximity: 0.8074 {macula-proximity}
     language: greek
   - strongs: G4739
-    proximity: 0.72
+    lemma: στήκω
+    gloss: to be stationary {openscriptures-strongs}
+    proximity: 0.72 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

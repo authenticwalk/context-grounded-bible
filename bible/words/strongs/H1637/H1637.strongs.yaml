@@ -6,31 +6,33 @@ pronunciation: go'-ren
 definition: a threshing-floor (as made even); by analogy, any open area
 kjv_usage: (barn, corn, threshing-) floor, (threshing-, void) place.
 derivation: from an unused root meaning to smooth;
-extended_definition:
-  gloss: threshing floor
-  definition: 1) threshing-floor<br>2) (TWOT) barn, barn floor, corn floor, void place
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) threshing-floor
+
+  2) (TWOT) barn, barn floor, corn floor, void place {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2742b
-    proximity: 0.8287
+    proximity: 0.8287 {macula-proximity}
   - strongs: H7339
-    proximity: 0.8035
+    lemma: רְחֹב
+    gloss: a width {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
   - strongs: H156
-    proximity: 0.7914
+    proximity: 0.7914 {macula-proximity}
   - strongs: H4098
-    proximity: 0.7706
+    lemma: מְדֻשָּׁה
+    gloss: a threshing {openscriptures-strongs}
+    proximity: 0.7706 {macula-proximity}
   - strongs: H1758
-    proximity: 0.7517
+    lemma: דּוּשׁ
+    gloss: to trample or thresh {openscriptures-strongs}
+    proximity: 0.7517 {macula-proximity}
   - strongs: H4173
-    proximity: 0.7434
+    lemma: מוֹרַג
+    gloss: a threshing sledge {openscriptures-strongs}
+    proximity: 0.7434 {macula-proximity}
   cross_language:
   - strongs: G248
-    proximity: 0.7401
+    proximity: 0.7401 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

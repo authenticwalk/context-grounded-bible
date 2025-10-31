@@ -9,36 +9,52 @@ derivation: of doubtful origin and authenticity;
 related_words:
   synonyms:
   - strongs: H7307
-    proximity: 0.8286
+    lemma: רוּחַ
+    gloss: wind {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: H7711
-    proximity: 0.8247
+    lemma: שְׁדֵפָה
+    gloss: blight {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H5492
-    proximity: 0.8226
+    lemma: סוּפָה
+    gloss: a hurricane {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: H650a
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
   - strongs: H2626
-    proximity: 0.8194
+    lemma: חֲסִין
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H3524
-    proximity: 0.8136
+    lemma: כַּבִּיר
+    gloss: vast {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: H5591a
-    proximity: 0.8127
+    proximity: 0.8127 {macula-proximity}
   - strongs: H7710
-    proximity: 0.7976
+    lemma: שָׁדַף
+    gloss: to scorch {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: H8178a
-    proximity: 0.7967
+    proximity: 0.7967 {macula-proximity}
   - strongs: H8183
-    proximity: 0.7917
+    lemma: שְׂעָרָה
+    gloss: a hurricane {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   cross_language:
   - strongs: G2366
-    proximity: 0.7891
+    lemma: θύελλα
+    proximity: 0.7891 {macula-proximity}
     language: greek
   - strongs: G2978
-    proximity: 0.7887
+    lemma: λαῖλαψ
+    gloss: a whirlwind {openscriptures-strongs}
+    proximity: 0.7887 {macula-proximity}
     language: greek
   - strongs: G2900
-    proximity: 0.7538
+    lemma: κραταιός
+    gloss: powerful {openscriptures-strongs}
+    proximity: 0.7538 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

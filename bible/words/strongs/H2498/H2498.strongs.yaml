@@ -8,51 +8,78 @@ definition: properly, to slide by, i.e. (by implication) to hasten away, pass on
 kjv_usage: abolish, alter, change, cut off, go on forward, grow up, be over, pass
   (away, on, through), renew, sprout, strike through.
 derivation: a primitive root;
-extended_definition:
-  gloss: to pass
-  definition: '1) to pass on or away, pass through, pass by, go through, grow up,
-    change, to go on from<br>1a) (Qal)<br>1a1) to pass on quickly<br>1a2) to pass
-    away (vanish)<br>1a3) to come on anew, sprout again (of grass)<br>1a4) to pass
-    through<br>1a5) to overstep, transgress<br>1b) (Piel) to cause to pass, change<br>1c)
-    (Hiph)<br>1c1) to change, substitute, alter, change for better, renew<br>1c2)
-    to show newness (of tree)<BR>Aramaic equivalent: <i>cha.laph</i> (חֲלַף "to pass"
-    H2499)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to pass on or away, pass through, pass by, go through, grow
+  up, change, to go on from
+
+  1a) (Qal)
+
+  1a1) to pass on quickly
+
+  1a2) to pass away (vanish)
+
+  1a3) to come on anew, sprout again (of grass)
+
+  1a4) to pass through
+
+  1a5) to overstep, transgress
+
+  1b) (Piel) to cause to pass, change
+
+  1c) (Hiph)
+
+  1c1) to change, substitute, alter, change for better, renew
+
+  1c2) to show newness (of tree)
+
+  Aramaic equivalent: cha.laph (חֲלַף "to pass" H2499) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6780
-    proximity: 0.8291
+    lemma: צֶמַח
+    gloss: a sprout {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: H8138
-    proximity: 0.8217
+    lemma: שָׁנָה
+    gloss: to fold {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
   - strongs: H3318
-    proximity: 0.8202
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   - strongs: H2318
-    proximity: 0.8202
+    lemma: חָדַשׁ
+    gloss: to be new {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   - strongs: H8132
-    proximity: 0.8154
+    lemma: שָׁנָא
+    gloss: to alter {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: H2319
-    proximity: 0.8027
+    lemma: חָדָשׁ
+    gloss: new {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
   - strongs: H1980
-    proximity: 0.7989
+    lemma: הָלַךְ
+    gloss: to walk (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
   cross_language:
   - strongs: G3346
-    proximity: 0.8164
+    lemma: μετατίθημι
+    gloss: to transfer {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
     language: greek
   - strongs: G985
-    proximity: 0.8119
+    proximity: 0.8119 {macula-proximity}
     language: greek
   - strongs: G305
-    proximity: 0.8112
+    proximity: 0.8112 {macula-proximity}
     language: greek
   - strongs: G342
-    proximity: 0.8015
+    proximity: 0.8015 {macula-proximity}
     language: greek
   - strongs: G4198
-    proximity: 0.7969
+    lemma: πορεύομαι
+    gloss: to traverse {openscriptures-strongs}
+    proximity: 0.7969 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

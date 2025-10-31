@@ -5,27 +5,26 @@ transliteration: Krḗskēs
 definition: growing; Cresces (i.e. Crescens), a Christian
 kjv_usage: Crescens
 derivation: of Latin origin;
-extended_definition:
-  gloss: Crescens
-  definition: '<b>Κρήσκης</b>, -εντος (BI., § 10, 4), ὁ <BR /> <b>Crescens</b>: <ref=''2Ti.4.10.''>2Ti.4:10.</ref>†
-    <BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Κρήσκης</b>, -εντος (BI., § 10, 4), ὁ <BR /> <b>Crescens</b>:
-    <ref=''2Ti.4.10.''>2Ti.4:10.</ref>† <BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Κρήσκης, -εντος (BI., § 10, 4), ὁ
+
+  Crescens: 2Ti.4:10.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Κρήσκης, -εντος (BI., § 10, 4), ὁ
+
+  Crescens: 2Ti.4:10.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5329
-    proximity: 0.8128
+    lemma: Φάρες
+    gloss: Phares {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
   cross_language:
   - strongs: H7027
-    proximity: 0.8145
+    lemma: קִישׁ
+    gloss: Kish {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,49 +6,59 @@ pronunciation: tawv
 definition: a mark; by implication, a signature
 kjv_usage: desire, mark.
 derivation: from H8427 (תָּוָה);
-extended_definition:
-  gloss: mark
-  definition: 1) desire, mark<br>1a) mark (as a sign of exemption from judgment)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) desire, mark
+
+  1a) mark (as a sign of exemption from judgment) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7596
-    proximity: 0.8165
+    lemma: שְׁאֵלָה
+    gloss: a petition {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: A7593
-    proximity: 0.8127
+    proximity: 0.8127 {macula-proximity}
   - strongs: H226
-    proximity: 0.8059
+    proximity: 0.8059 {macula-proximity}
   - strongs: H3799
-    proximity: 0.8056
+    lemma: כָּתַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H8388a
-    proximity: 0.7828
+    proximity: 0.7828 {macula-proximity}
   - strongs: H6725
-    proximity: 0.7806
+    lemma: צִיּוּן
+    gloss: a monumental or guiding pillar {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
   - strongs: H7596a
-    proximity: 0.7639
+    proximity: 0.7639 {macula-proximity}
   - strongs: H8427
-    proximity: 0.704
+    lemma: תָּוָה
+    gloss: to mark out {openscriptures-strongs}
+    proximity: 0.704 {macula-proximity}
   - strongs: H3793
-    proximity: 0.7035
+    lemma: כְּתֹבֶת
+    gloss: a letter or other mark branded on the skin {openscriptures-strongs}
+    proximity: 0.7035 {macula-proximity}
   cross_language:
   - strongs: G154
-    proximity: 0.7983
+    proximity: 0.7983 {macula-proximity}
     language: greek
   - strongs: G4593
-    proximity: 0.7491
+    lemma: σημειόω
+    gloss: to distinguish {openscriptures-strongs}
+    proximity: 0.7491 {macula-proximity}
     language: greek
   - strongs: G155
-    proximity: 0.7339
+    proximity: 0.7339 {macula-proximity}
     language: greek
   - strongs: G4742
-    proximity: 0.7216
+    lemma: στίγμα
+    gloss: a mark incised or punched {openscriptures-strongs}
+    proximity: 0.7216 {macula-proximity}
     language: greek
   - strongs: G3138
-    proximity: 0.7179
+    lemma: Μάρκος
+    gloss: Marcus {openscriptures-strongs}
+    proximity: 0.7179 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,43 +7,63 @@ definition: to gush over, i.e. to swell; (figuratively) to desire earnestly; by 
   to ask
 kjv_usage: cause, inquire, seek up, swell out.
 derivation: a primitive root;
-extended_definition:
-  gloss: to enquire
-  definition: 1) to seek out, swell, cause to swell, boil up, enquire<br>1a) (Qal)<br>1a1)
-    to seek, enquire<br>1a2) to cause to boil up<br>1b) (Niphal)<br>1b1) to be searched
-    out<br>1b2) to be swelling, bulging, swelling out
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to seek out, swell, cause to swell, boil up, enquire
+
+  1a) (Qal)
+
+  1a1) to seek, enquire
+
+  1a2) to cause to boil up
+
+  1b) (Niphal)
+
+  1b1) to be searched out
+
+  1b2) to be swelling, bulging, swelling out {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4871
-    proximity: 0.8252
+    lemma: מָשָׁה
+    gloss: to pull out {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
   - strongs: H1245
-    proximity: 0.8194
+    lemma: בָּקַשׁ
+    gloss: to search out (by any method {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H7997a
-    proximity: 0.8063
+    proximity: 0.8063 {macula-proximity}
   - strongs: H3318
-    proximity: 0.795
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.795 {macula-proximity}
   - strongs: H1875
-    proximity: 0.7935
+    lemma: דָּרַשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
   cross_language:
   - strongs: G1807
-    proximity: 0.8259
+    lemma: ἐξαιρέω
+    gloss: actively {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G1830
-    proximity: 0.8244
+    lemma: ἐξερευνάω
+    gloss: to explore {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: greek
   - strongs: G1032
-    proximity: 0.822
+    lemma: βρύω
+    gloss: to swell out {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
     language: greek
   - strongs: G1368
-    proximity: 0.8212
+    lemma: διϋλίζω
+    gloss: to strain out {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
     language: greek
   - strongs: G1831
-    proximity: 0.8198
+    lemma: ἐξέρχομαι
+    gloss: to issue {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

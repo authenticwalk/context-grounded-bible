@@ -7,56 +7,93 @@ definition: properly, to be dense, i.e. tough or severe (in various applications
 kjv_usage: be cruel, be fiercer, make grievous, be ((ask a), be in, have, seem, would)
   hard(-en, (labour), -ly, thing), be sore, (be, make) stiff(-en, (-necked)).
 derivation: a primitive root;
-extended_definition:
-  gloss: to harden
-  definition: 1) to be hard, be severe, be fierce, be harsh<br>1a) (Qal)<br>1a1) to
-    be hard, be difficult<br>1a2) to be hard, be severe<br>1b) (Niphal)<br>1b1) to
-    be ill-treated<br>1b2) to be hard pressed<br>1c) (Piel) to have severe labour
-    (of women)<br>1d) (Hiphil)<br>1d1) to make difficult, make difficulty<br>1d2)
-    to make severe, make burdensome<br>1d3) to make hard, make stiff, make stubborn<br>1d3a)
-    of obstinacy (fig)<br>1d4) to show stubbornness
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be hard, be severe, be fierce, be harsh
+
+  1a) (Qal)
+
+  1a1) to be hard, be difficult
+
+  1a2) to be hard, be severe
+
+  1b) (Niphal)
+
+  1b1) to be ill-treated
+
+  1b2) to be hard pressed
+
+  1c) (Piel) to have severe labour (of women)
+
+  1d) (Hiphil)
+
+  1d1) to make difficult, make difficulty
+
+  1d2) to make severe, make burdensome
+
+  1d3) to make hard, make stiff, make stubborn
+
+  1d3a) of obstinacy (fig)
+
+  1d4) to show stubbornness {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4691
-    proximity: 0.8199
+    lemma: מְצוּקָה
+    gloss: narrowness {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H2389
-    proximity: 0.8136
+    lemma: חָזָק
+    gloss: strong (usu. in a bad sense {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: H553
-    proximity: 0.8129
+    proximity: 0.8129 {macula-proximity}
   - strongs: H7190
-    proximity: 0.804
+    lemma: קְשִׁי
+    gloss: obstinacy {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   - strongs: H3515
-    proximity: 0.8014
+    lemma: כָּבֵד
+    gloss: heavy {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
   - strongs: H3517
-    proximity: 0.7969
+    lemma: כְּבֵדֻת
+    gloss: difficulty {openscriptures-strongs}
+    proximity: 0.7969 {macula-proximity}
   - strongs: H6869
-    proximity: 0.7945
+    lemma: צָרָה
+    gloss: tightness (i.e. figuratively {openscriptures-strongs}
+    proximity: 0.7945 {macula-proximity}
   - strongs: H6695a
-    proximity: 0.7909
+    proximity: 0.7909 {macula-proximity}
   - strongs: H5637
-    proximity: 0.7827
+    lemma: סָרַר
+    gloss: to turn away {openscriptures-strongs}
+    proximity: 0.7827 {macula-proximity}
   - strongs: H6203
-    proximity: 0.7477
+    lemma: עֹרֶף
+    gloss: the nape or back of the neck {openscriptures-strongs}
+    proximity: 0.7477 {macula-proximity}
   cross_language:
   - strongs: G5467
-    proximity: 0.8217
+    lemma: χαλεπός
+    gloss: difficult {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
     language: greek
   - strongs: G4641
-    proximity: 0.8189
+    lemma: σκληροκαρδία
+    gloss: hard-heartedness {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
     language: greek
   - strongs: G4644
-    proximity: 0.8188
+    lemma: σκληροτράχηλος
+    gloss: hardnaped {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
     language: greek
   - strongs: G1423
-    proximity: 0.8049
+    lemma: δυσκόλως
+    gloss: impracticably {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
     language: greek
   - strongs: G840
-    proximity: 0.7699
+    proximity: 0.7699 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

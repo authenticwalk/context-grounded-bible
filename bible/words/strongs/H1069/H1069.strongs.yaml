@@ -7,48 +7,75 @@ definition: to give the birthright
 kjv_usage: make firstborn, be firstling, bring forth first child (new fruit).
 derivation: a primitive root; properly, to burst the womb, i.e. (causatively) bear
   or make early fruit (of woman or tree); also (as denominative from H1061 (בִּכּוּר))
-extended_definition:
-  gloss: to be/bear firstborn
-  definition: 1) to be born first<br>1a) (Piel)<br>1a1) to bear early, new fruit<br>1a2)
-    to give the right of the firstborn<br>1a2a) to make as firstborn<br>1a2b) to constitute
-    as firstborn<br>1b) (Pual)<br>1b1) to be born a firstling<br>1b2) to be made a
-    firstling<br>1c) (Hiphil) one bearing her first child
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be born first
+
+  1a) (Piel)
+
+  1a1) to bear early, new fruit
+
+  1a2) to give the right of the firstborn
+
+  1a2a) to make as firstborn
+
+  1a2b) to constitute as firstborn
+
+  1b) (Pual)
+
+  1b1) to be born a firstling
+
+  1b2) to be made a firstling
+
+  1c) (Hiphil) one bearing her first child {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7358
-    proximity: 0.8222
+    lemma: רֶחֶם
+    gloss: the womb {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H3206
-    proximity: 0.8189
+    lemma: יֶלֶד
+    gloss: something born {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H6211b
-    proximity: 0.8169
+    proximity: 0.8169 {macula-proximity}
   - strongs: H1121
-    proximity: 0.8118
+    lemma: בֵּן
+    gloss: a son {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
   - strongs: H3329
-    proximity: 0.8013
+    lemma: יָצִיא
+    gloss: issue {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
   - strongs: H1062
-    proximity: 0.7936
+    lemma: בְּכוֹרָה
+    gloss: the firstling of man or beast {openscriptures-strongs}
+    proximity: 0.7936 {macula-proximity}
   - strongs: H6363a
-    proximity: 0.78
+    proximity: 0.78 {macula-proximity}
   cross_language:
   - strongs: G5088
-    proximity: 0.8264
+    lemma: τίκτω
+    gloss: to produce (from seed {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G4412
-    proximity: 0.8051
+    lemma: πρῶτον
+    gloss: firstly (in time {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
     language: greek
   - strongs: G5042
-    proximity: 0.804
+    lemma: τεκνογονία
+    gloss: childbirth {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
     language: greek
   - strongs: G5040
-    proximity: 0.7958
+    lemma: τεκνίον
+    gloss: an infant {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
     language: greek
   - strongs: G4413
-    proximity: 0.7945
+    lemma: πρῶτος
+    gloss: foremost (in time {openscriptures-strongs}
+    proximity: 0.7945 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

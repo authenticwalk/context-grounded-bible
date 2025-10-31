@@ -7,28 +7,31 @@ definition: a spread of the hand, i.e. a palm-breadth (not 'span' of the fingers
   architecturally, a corbel (as a supporting palm)
 kjv_usage: coping, hand-breadth.
 derivation: from H2946 (טָפַח);
-extended_definition:
-  gloss: handbreadth
-  definition: 1) span, width of the hand, hand breadth<br>1a) a unit of measurement,
-    measurement of length<br>2) coping (an architectural term)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) span, width of the hand, hand breadth
+
+  1a) a unit of measurement, measurement of length
+
+  2) coping (an architectural term) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3027
-    proximity: 0.8254
+    lemma: יָד
+    gloss: a hand (the open one (indicating power {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: H8168
-    proximity: 0.7749
+    lemma: שֹׁעַל
+    gloss: the palm {openscriptures-strongs}
+    proximity: 0.7749 {macula-proximity}
   - strongs: H3709
-    proximity: 0.7718
+    lemma: כַּף
+    gloss: the hollow hand or palm (so of the paw of an animal {openscriptures-strongs}
+    proximity: 0.7718 {macula-proximity}
   - strongs: A3028
-    proximity: 0.7132
+    proximity: 0.7132 {macula-proximity}
   cross_language:
   - strongs: G4475
-    proximity: 0.803
+    lemma: ῥάπισμα
+    gloss: a slap {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

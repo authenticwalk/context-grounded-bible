@@ -7,45 +7,55 @@ definition: red ochre (from its piercing color)
 kjv_usage: vermillion.
 derivation: perhaps from the base of H8324 (שָׁרַר) in the sense of that of H8320
   (שָׂרֻק);
-extended_definition:
-  gloss: vermilion
-  definition: 1) red colour, vermilion<br>1a) formerly gained from 'kermes' insect
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) red colour, vermilion
+
+  1a) formerly gained from ''kermes'' insect {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8438b
-    proximity: 0.8207
+    proximity: 0.8207 {macula-proximity}
   - strongs: H3758
-    proximity: 0.8135
+    lemma: כַּרְמִיל
+    gloss: carmine {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: H2560a
-    proximity: 0.7986
+    proximity: 0.7986 {macula-proximity}
   - strongs: H8438
-    proximity: 0.7971
+    lemma: תּוֹלָע
+    gloss: the crimson-grub {openscriptures-strongs}
+    proximity: 0.7971 {macula-proximity}
   - strongs: H8144
-    proximity: 0.7885
+    lemma: שָׁנִי
+    gloss: crimson {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
   - strongs: H119
-    proximity: 0.7811
+    proximity: 0.7811 {macula-proximity}
   - strongs: H5488
-    proximity: 0.7751
+    lemma: סוּף
+    gloss: a reed {openscriptures-strongs}
+    proximity: 0.7751 {macula-proximity}
   - strongs: H125
-    proximity: 0.7568
+    proximity: 0.7568 {macula-proximity}
   - strongs: H2448
-    proximity: 0.7537
+    lemma: חַכְלִלוּת
+    gloss: flash {openscriptures-strongs}
+    proximity: 0.7537 {macula-proximity}
   - strongs: H132
-    proximity: 0.7125
+    proximity: 0.7125 {macula-proximity}
   cross_language:
   - strongs: G2847
-    proximity: 0.7758
+    lemma: κόκκινος
+    gloss: crimson-colored {openscriptures-strongs}
+    proximity: 0.7758 {macula-proximity}
     language: greek
   - strongs: G4447
-    proximity: 0.7441
+    lemma: πύρινος
+    gloss: fiery {openscriptures-strongs}
+    proximity: 0.7441 {macula-proximity}
     language: greek
   - strongs: G4449
-    proximity: 0.743
+    lemma: πυῤῥάζω
+    gloss: to redden {openscriptures-strongs}
+    proximity: 0.743 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

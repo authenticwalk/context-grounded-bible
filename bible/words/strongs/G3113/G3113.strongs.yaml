@@ -5,60 +5,75 @@ transliteration: makróthen
 definition: from a distance or afar
 kjv_usage: afar off, from far
 derivation: adverb from G3117 (μακρός);
-extended_definition:
-  gloss: from afar
-  definition: '<b>μακρόθεν</b><BR /> (μακρός), <BR />adv. (chiefly late), <BR /> [in
-    LXX for רָחוֹק, רָחַק, etc. ;] <BR /><b>from afar, afar</b>: <ref=''Luk.18.13;
-    22.54''>Luk.18:13 22:54</ref>; ἀπὸ μ. (<ref=''Psa.138.6''>Psa.138:6</ref>, <ref=''Est.3.13''>Est.3:13</ref>,
-    al.), <ref=''Mat.26.58; 27.55''>Mat.26:58 27:55</ref>, <ref=''Mrk.5.6; 8.3; 11.13;
-    14.54; 15.40''>Mrk.5:6 8:3 11:13 14:54 15:40</ref>, <ref=''Luk.16.23; 23.49''>Luk.16:23
-    23:49</ref>, <ref=''Rev.18.10, 15; 18.17''>Rev.18:10, 15 18:17</ref>.†<BR /> (AS)'
-  morphology: G:ADV
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> μάκρο-θεν</b>, <br /> <i>adverb</i> <b>from afar</b>, [<a href="javascript:void(0)"
-    title=" 3rd c.BC: Chrysippus Stoicus 3.199, LXX.Josh.9.15, “PTeb.” 230 (2nd c.BC),
-    1st c.BC-1st c.AD: Strabo Geographus 3.3.4, etc.; ἀπὸ μ. NT.Mark.5.6 ">NT+3rd
-    c.BC+</a>]; of Time, <b>from long since</b>, [<a href="javascript:void(0)" title="
-    2nd c.BC: Polybius Historicus 1.65.7. ">Refs 2nd c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'μακρόθεν
+
+  (μακρός),
+
+  adv. (chiefly late),
+
+  [in LXX for רָחוֹק, רָחַק, etc. ;]
+
+  from afar, afar: Luk.18:13 22:54; ἀπὸ μ. (Psa.138:6, Est.3:13, al.), Mat.26:58 27:55,
+  Mrk.5:6 8:3 11:13 14:54 15:40, Luk.16:23 23:49, Rev.18:10, 15 18:17.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'μάκρο-θεν,
+
+  adverb from afar, [NT+3rd c.BC+]; of Time, from long since, [Refs 2nd c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4455
-    proximity: 0.8251
+    lemma: πώποτε
+    gloss: at any time {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: G4724
-    proximity: 0.8246
+    lemma: στέλλω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: G1578
-    proximity: 0.8193
+    lemma: ἐκκλίνω
+    gloss: to deviate {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: A4481
-    proximity: 0.8147
+    proximity: 0.8147 {macula-proximity}
   - strongs: G5231
-    proximity: 0.8092
+    lemma: ὑπεράνω
+    gloss: above upward {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: G590
-    proximity: 0.8086
+    proximity: 0.8086 {macula-proximity}
   - strongs: G1576
-    proximity: 0.8022
+    lemma: ἐκκλείω
+    gloss: to shut out {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
   - strongs: G1336
-    proximity: 0.7901
+    lemma: διηνεκής
+    gloss: carried through {openscriptures-strongs}
+    proximity: 0.7901 {macula-proximity}
   cross_language:
   - strongs: H5361
-    proximity: 0.8253
+    lemma: נָקַע
+    gloss: to feel aversion {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
     language: hebrew
   - strongs: H1972
-    proximity: 0.8136
+    lemma: הָלָא
+    gloss: to remove or be remote {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
     language: hebrew
   - strongs: H3363
-    proximity: 0.8076
+    lemma: יָקַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8076 {macula-proximity}
     language: hebrew
   - strongs: H8569
-    proximity: 0.8029
+    lemma: תְּנוּאָה
+    gloss: alienation {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
     language: hebrew
   - strongs: H3411
-    proximity: 0.8017
+    lemma: יְרֵכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

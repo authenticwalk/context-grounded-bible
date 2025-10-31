@@ -7,35 +7,49 @@ definition: Beth-hak-Kerem, a place in Palestine
 kjv_usage: Beth-haccerem.
 derivation: from H1004 (בַּיִת) and H3754 (כֶּרֶם) with the article interposed; house
   of the vineyard;
-extended_definition:
-  gloss: Beth-haccherem
-  definition: <BR> § Beth-haccerem = "house of the vineyard"<br> a place in Judah<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Beth-haccerem = "house of the vineyard"
+
+  a place in Judah {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2294
-    proximity: 0.8293
+    lemma: חַגִּית
+    gloss: Chaggith {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: H1049
-    proximity: 0.8288
+    lemma: בֵּית צוּר
+    gloss: Beth-Tsur {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: H1522
-    proximity: 0.8256
+    lemma: גֵּיחֲזִי
+    gloss: Gechazi {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: H1052
-    proximity: 0.817
+    lemma: בֵּית שְׁאָן
+    gloss: Beth-Shean or Beth-Shan {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: H1031
-    proximity: 0.8167
+    lemma: בֵּית חׇגְלָה
+    gloss: Beth-Choglah {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H1029
-    proximity: 0.8124
+    lemma: בֵּית הַשִּׁטָּה
+    gloss: Beth-hash-Shittah {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: H1008
-    proximity: 0.8099
+    lemma: בֵּית־אֵל
+    gloss: Beth-El {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
   - strongs: H2766
-    proximity: 0.8034
+    lemma: חָרִם
+    gloss: Charim {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
   - strongs: H1027
-    proximity: 0.8004
+    lemma: בֵּית הָרָם
+    gloss: Beth-ha-Ram {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
   - strongs: H1028
-    proximity: 0.7962
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: בֵּית הָרָן
+    gloss: Beth-ha-Ram {openscriptures-strongs}
+    proximity: 0.7962 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,61 +6,64 @@ definition: an encounter or concurrence (with G1519 (εἰς) for infinitive, in
   to fall in with)
 kjv_usage: meeting
 derivation: from G5221 (ὑπαντάω);
-extended_definition:
-  gloss: meeting
-  definition: '<b>ὑπ-άντησις</b>, -εως, ἡ<BR /> (ὑπαντάω), [in LXX: <ref=''Jdg.11.34''>Jdg.11:34</ref>,
-    εἰς ὑ. (קִרְאָה), etc. ;] <BR /><b>a going to meet</b>: εἰς ὑ. (see M, <ref=''Pro.14.1-35''>Pro.14:1-35</ref>
-    n), <ref=''Mat.8.34; 25.1''>Mat.8:34 25:1</ref>, <ref=''Jhn.12.13''>Jhn.12:13</ref>.†<BR
-    /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὑπάντ-ησις</b>, εως, ἡ, <br /> <b>coming to meet,</b> ἐξῆλθον
-    εἰς ὑπάντησιν αὐτῷ [<a href="javascript:void(0)" title=" NT.John.12.13, compare
-    1st c.AD: Josephus Historicus “Antiquitates Judaicae” 11.8.4, 2nd c.AD: Appianus
-    Historicus “Bella Civilia” 4.6 (_plural_); ψήφισμα -ήσεως “SIG” 798.16 (Cyzicus,
-    1st c.AD). ">NT+1st c.AD+</a>]<br /><Level3><b>__2</b></Level3> Astrology texts,
-    <b>encounter</b> of a heavenly body, in ἄφεσις, [<a href="javascript:void(0)"
-    title=" 2nd c.AD: Ptolemaeus Mathematicus “Tetrabiblos” 132 (_plural_). ">Refs
-    2nd c.AD+</a>]<br /><Level2><b>__II</b></Level2> <i>metaphorically</i>, <b>retort,
-    answer,</b> [<a href="javascript:void(0)" title=" 2nd c.AD: Sextus Empiricus Philosophus
-    “adversus Mathematicos” 11.202 ">Refs 2nd c.AD+</a>]; πρός τι[<a href="javascript:void(0)"
-    title=" [prev. work] 7.278, 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;”
-    305.19. ">Refs 2nd c.AD+</a>]<br /><Level3><b>__II.2</b></Level3> <b>counter-treatment,</b>
-    [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 2.41. ">Refs 2nd
-    c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ὑπ-άντησις, -εως, ἡ
+
+  (ὑπαντάω), [in LXX: Jdg.11:34, εἰς ὑ. (קִרְאָה), etc. ;]
+
+  a going to meet: εἰς ὑ. (see M, Pro.14:1-35 n), Mat.8:34 25:1, Jhn.12:13.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὑπάντ-ησις, εως, ἡ,
+
+  coming to meet, ἐξῆλθον εἰς ὑπάντησιν αὐτῷ [NT+1st c.AD+]
+
+  __2 Astrology texts, encounter of a heavenly body, in ἄφεσις, [Refs 2nd c.AD+]
+
+  __II metaphorically, retort, answer, [Refs 2nd c.AD+]; πρός τι[Refs 2nd c.AD+]
+
+  __II.2 counter-treatment, [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4962
-    proximity: 0.7939
+    lemma: συστρέφω
+    gloss: to twist together {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
   - strongs: G4820
-    proximity: 0.7855
+    lemma: συμβάλλω
+    gloss: to combine {openscriptures-strongs}
+    proximity: 0.7855 {macula-proximity}
   - strongs: G4864
-    proximity: 0.781
+    lemma: συναγωγή
+    gloss: an assemblage of persons {openscriptures-strongs}
+    proximity: 0.781 {macula-proximity}
   - strongs: G4940
-    proximity: 0.7704
+    lemma: συντυγχάνω
+    gloss: to chance together {openscriptures-strongs}
+    proximity: 0.7704 {macula-proximity}
   - strongs: G588
-    proximity: 0.7424
+    proximity: 0.7424 {macula-proximity}
   cross_language:
   - strongs: H3807a
-    proximity: 0.8249
+    proximity: 0.8249 {macula-proximity}
     language: hebrew
   - strongs: H7200
-    proximity: 0.7981
+    lemma: רָאָה
+    gloss: to see {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
     language: hebrew
   - strongs: H6440
-    proximity: 0.7947
+    lemma: פָּנִים
+    gloss: the face {openscriptures-strongs}
+    proximity: 0.7947 {macula-proximity}
     language: hebrew
   - strongs: H6293
-    proximity: 0.7413
+    lemma: פָּגַע
+    gloss: to impinge {openscriptures-strongs}
+    proximity: 0.7413 {macula-proximity}
     language: hebrew
   - strongs: H3259
-    proximity: 0.7305
+    lemma: יָעַד
+    gloss: to fix upon {openscriptures-strongs}
+    proximity: 0.7305 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

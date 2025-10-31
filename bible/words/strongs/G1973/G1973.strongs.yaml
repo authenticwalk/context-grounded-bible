@@ -5,55 +5,68 @@ transliteration: epipóthētos
 definition: yearned upon, i.e. greatly loved
 kjv_usage: longed for
 derivation: from G1909 (ἐπί) and a derivative of the latter part of G1971 (ἐπιποθέω);
-extended_definition:
-  gloss: longed for
-  definition: '<b>ἐπι-πόθητος</b>, -ον <BR /> <b>greatly desired, longed for</b>:
-    <ref=''Php.4.1.''>Php.4:1.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐπιπόθ-ητος</b>, ον, <br /> <b>longed for, desired,</b> [<a
-    href="javascript:void(0)" title="NT.Phil.4.1">NT</a>]; <b>missed, found</b> <b>wanting</b>,
-    ὅρκοι [<a href="javascript:void(0)" title=" 2nd c.AD: Appianus Historicus “Ἰβηρική”
-    43. ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐπι-πόθητος, -ον
+
+  greatly desired, longed for: Php.4:1.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐπιπόθ-ητος, ον,
+
+  longed for, desired, [NT]; missed, found wanting, ὅρκοι [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1270
-    proximity: 0.825
+    lemma: διανόημα
+    gloss: something thought through {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: G3421
-    proximity: 0.8232
+    lemma: μνημονεύω
+    gloss: to exercise memory {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: G2207
-    proximity: 0.8169
+    lemma: ζηλωτής
+    gloss: a "zealot" {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: G3420
-    proximity: 0.8167
+    lemma: μνήμη
+    gloss: memory {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: G3588
-    proximity: 0.8105
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
   - strongs: G1063
-    proximity: 0.8014
+    lemma: γάρ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
   - strongs: G1937
-    proximity: 0.8001
+    lemma: ἐπιθυμέω
+    gloss: to set the heart upon {openscriptures-strongs}
+    proximity: 0.8001 {macula-proximity}
   - strongs: G3417
-    proximity: 0.7657
+    lemma: μνεία
+    gloss: recollection {openscriptures-strongs}
+    proximity: 0.7657 {macula-proximity}
   cross_language:
   - strongs: H7836
-    proximity: 0.8295
+    lemma: שָׁחַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: hebrew
   - strongs: H2142
-    proximity: 0.8279
+    lemma: זָכַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: hebrew
   - strongs: H1900
-    proximity: 0.8125
+    lemma: הָגוּת
+    gloss: musing {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: hebrew
   - strongs: H183
-    proximity: 0.7811
+    proximity: 0.7811 {macula-proximity}
     language: hebrew
   - strongs: H752
-    proximity: 0.7159
+    proximity: 0.7159 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

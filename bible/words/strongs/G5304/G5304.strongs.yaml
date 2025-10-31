@@ -5,45 +5,50 @@ transliteration: hystérēsis
 definition: a falling short, i.e. (specially), penury
 kjv_usage: want
 derivation: from G5302 (ὑστερέω);
-extended_definition:
-  gloss: poverty
-  definition: '<b>ὑστέρησις</b>, -εως, ἡ<BR /> (ὑστερέω), [in Aq.: <ref=''Job.30.3''>Job.30:3</ref>
-    * ;] <BR /><b>need, want</b>: opposite to τὸ περισσεῦον, <ref=''Mrk.12.44''>Mrk.12:44;</ref>
-    καθ᾽ ὑ., <ref=''Php.4.11''>Php.4:11</ref> (eccl.).†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ὑστέρ-ημα</b>, ατος, τό, <br /> <b>shortcoming, deficiency,
-    need,</b> [<a href="javascript:void(0)" title=" LXX.Psa.33(34).10, NT.Luke.21.4,
-    “Corpus Hermeticum” 13.1, etc. ">LXX+NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ὑστέρησις, -εως, ἡ
+
+  (ὑστερέω), [in Aq.: Job.30:3 * ;]
+
+  need, want: opposite to τὸ περισσεῦον, Mrk.12:44; καθ᾽ ὑ., Php.4:11 (eccl.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὑστέρ-ημα, ατος, τό,
+
+  shortcoming, deficiency, need, [LXX+NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A2818
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
   - strongs: G2275
-    proximity: 0.7808
+    lemma: ἥττημα
+    gloss: a deterioration {openscriptures-strongs}
+    proximity: 0.7808 {macula-proximity}
   - strongs: G5535
-    proximity: 0.7635
+    lemma: χρῄζω
+    gloss: to make  necessity {openscriptures-strongs}
+    proximity: 0.7635 {macula-proximity}
   cross_language:
   - strongs: H7038
-    proximity: 0.829
+    lemma: קָלַט
+    gloss: to maim {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: hebrew
   - strongs: H3019
-    proximity: 0.8272
+    lemma: יָגִיעַ
+    gloss: tired {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: hebrew
   - strongs: H6878
-    proximity: 0.8021
+    lemma: צֹרֶךְ
+    gloss: need {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
     language: hebrew
   - strongs: H5533b
-    proximity: 0.7885
+    proximity: 0.7885 {macula-proximity}
     language: hebrew
   - strongs: H7326
-    proximity: 0.7626
+    lemma: רוּשׁ
+    gloss: to be destitute {openscriptures-strongs}
+    proximity: 0.7626 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

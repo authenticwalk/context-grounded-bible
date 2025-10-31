@@ -6,45 +6,57 @@ pronunciation: deh-aw-gaw'
 definition: anxiety
 kjv_usage: care(-fulness), fear, heaviness, sorrow.
 derivation: from H1672 (דָּאַג);
-extended_definition:
-  gloss: anxiety
-  definition: anxiety, anxious care, care
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: anxiety, anxious care, care {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3373
-    proximity: 0.8205
+    lemma: יָרֵא
+    gloss: fearing {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: H4787
-    proximity: 0.8205
+    lemma: מׇרָּה
+    gloss: trouble {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: H4341
-    proximity: 0.8165
+    lemma: מַכְאֹב
+    gloss: anguish or  affliction {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: H6089a
-    proximity: 0.814
+    proximity: 0.814 {macula-proximity}
   - strongs: H6342
-    proximity: 0.8136
+    lemma: פָּחַד
+    gloss: to be startled {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: H1672
-    proximity: 0.7975
+    lemma: דָּאַג
+    gloss: be anxious {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
   - strongs: H6343
-    proximity: 0.7848
+    lemma: פַּחַד
+    gloss: a  alarm (properly {openscriptures-strongs}
+    proximity: 0.7848 {macula-proximity}
   - strongs: H4034
-    proximity: 0.7708
+    lemma: מְגוֹרַה
+    gloss: affright {openscriptures-strongs}
+    proximity: 0.7708 {macula-proximity}
   - strongs: H6098a
-    proximity: 0.7705
+    proximity: 0.7705 {macula-proximity}
   - strongs: H3374
-    proximity: 0.7702
+    lemma: יִרְאָה
+    gloss: fear {openscriptures-strongs}
+    proximity: 0.7702 {macula-proximity}
   cross_language:
   - strongs: G253
-    proximity: 0.8149
+    proximity: 0.8149 {macula-proximity}
     language: greek
   - strongs: G3077
-    proximity: 0.8113
+    lemma: λύπη
+    gloss: sadness {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
     language: greek
   - strongs: G4305
-    proximity: 0.7562
+    lemma: προμεριμνάω
+    gloss: to care  in advance {openscriptures-strongs}
+    proximity: 0.7562 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

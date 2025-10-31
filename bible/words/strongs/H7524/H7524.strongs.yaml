@@ -6,48 +6,64 @@ pronunciation: reh-tsakh
 definition: a crushing; specifically, a murder-cry
 kjv_usage: slaughter, sword.
 derivation: from H7523 (רָצַח);
-extended_definition:
-  gloss: shattering
-  definition: shattering
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: shattering {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2944
-    proximity: 0.8285
+    lemma: טָעַן
+    gloss: to stab {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: H4790
-    proximity: 0.8205
+    lemma: מְרוֹחַ
+    gloss: bruised {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: H5421
-    proximity: 0.8183
+    lemma: נָתַע
+    gloss: to tear out {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: H1743
-    proximity: 0.8177
+    lemma: דּוּךְ
+    gloss: to bruise in a mortar {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
   - strongs: H7489a
-    proximity: 0.8118
+    proximity: 0.8118 {macula-proximity}
   - strongs: H2717a
-    proximity: 0.8111
+    proximity: 0.8111 {macula-proximity}
   - strongs: H7616
-    proximity: 0.797
+    lemma: שָׁבָב
+    gloss: a fragment {openscriptures-strongs}
+    proximity: 0.797 {macula-proximity}
   - strongs: H7819
-    proximity: 0.7934
+    lemma: שָׁחַט
+    gloss: to slaughter {openscriptures-strongs}
+    proximity: 0.7934 {macula-proximity}
   - strongs: H7821
-    proximity: 0.7882
+    lemma: שְׁחִיטָה
+    gloss: slaughter {openscriptures-strongs}
+    proximity: 0.7882 {macula-proximity}
   - strongs: H7670
-    proximity: 0.787
+    lemma: שִׁבְרוֹן
+    gloss: rupture {openscriptures-strongs}
+    proximity: 0.787 {macula-proximity}
   cross_language:
   - strongs: G2622
-    proximity: 0.8127
+    lemma: κατακλάω
+    gloss: to break down {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
     language: greek
   - strongs: G2800
-    proximity: 0.8127
+    lemma: κλάσις
+    gloss: fracture {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
     language: greek
   - strongs: G2806
-    proximity: 0.8038
+    lemma: κλάω
+    gloss: to break (specially {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
     language: greek
   - strongs: G4729
-    proximity: 0.7968
+    lemma: στενοχωρέω
+    gloss: to hem in closely {openscriptures-strongs}
+    proximity: 0.7968 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

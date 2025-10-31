@@ -7,48 +7,63 @@ definition: to spy out, i.e. (generally) survey, (for evil) lurk for, (for good)
   for
 kjv_usage: behold, lay wait, look, observe, perceive, regard, see.
 derivation: a primitive root (identical with through the idea of going round for inspection);
-extended_definition:
-  gloss: to see
-  definition: 1) to see, behold, observe, regard<br>1a) (Qal)<br>1a1) to behold, observe<br>1a2)
-    to regard<br>1a3) to watch, watch (stealthily), lie in wait
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to see, behold, observe, regard
+
+  1a) (Qal)
+
+  1a1) to behold, observe
+
+  1a2) to regard
+
+  1a3) to watch, watch (stealthily), lie in wait {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H995
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
   - strongs: H8104
-    proximity: 0.8238
+    lemma: שָׁמַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H6493
-    proximity: 0.822
+    lemma: פִּקֵּחַ
+    gloss: clear-sighted {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
   - strongs: H6692a
-    proximity: 0.8184
+    proximity: 0.8184 {macula-proximity}
   - strongs: H7181
-    proximity: 0.8163
+    lemma: קָשַׁב
+    gloss: to prick up the ears {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
   - strongs: H2442
-    proximity: 0.8162
+    lemma: חָכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H6660
-    proximity: 0.8045
+    lemma: צְדִיָּה
+    gloss: design {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
   - strongs: H6658
-    proximity: 0.8025
+    lemma: צָדָה
+    gloss: to chase {openscriptures-strongs}
+    proximity: 0.8025 {macula-proximity}
   cross_language:
   - strongs: G3879
-    proximity: 0.8266
+    lemma: παρακύπτω
+    gloss: to bend beside {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
     language: greek
   - strongs: G3707
-    proximity: 0.8263
+    lemma: ὁρατός
+    gloss: gazed at {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
     language: greek
   - strongs: G398
-    proximity: 0.8149
+    proximity: 0.8149 {macula-proximity}
     language: greek
   - strongs: G578
-    proximity: 0.8124
+    proximity: 0.8124 {macula-proximity}
     language: greek
   - strongs: G816
-    proximity: 0.8118
+    proximity: 0.8118 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

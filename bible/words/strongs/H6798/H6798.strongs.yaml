@@ -6,25 +6,23 @@ pronunciation: tsaw-nam'
 definition: to blast or shrink
 kjv_usage: withered.
 derivation: a primitive root;
-extended_definition:
-  gloss: to dry
-  definition: (Qal) to dry up, harden, wither
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to dry up, harden, wither {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6244
-    proximity: 0.8103
+    lemma: עָשֵׁשׁ
+    gloss: probably to shrink {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   - strongs: H5685
-    proximity: 0.7938
+    lemma: עָבַשׁ
+    gloss: to dry up {openscriptures-strongs}
+    proximity: 0.7938 {macula-proximity}
   - strongs: H56a
-    proximity: 0.7372
+    proximity: 0.7372 {macula-proximity}
   cross_language:
   - strongs: G3133
-    proximity: 0.8061
+    lemma: μαραίνω
+    gloss: to extinguish {openscriptures-strongs}
+    proximity: 0.8061 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

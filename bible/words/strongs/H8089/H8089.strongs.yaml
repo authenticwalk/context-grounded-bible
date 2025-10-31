@@ -6,32 +6,37 @@ pronunciation: sho'-mah
 definition: a report
 kjv_usage: fame.
 derivation: from H8085 (שָׁמַע);
-extended_definition:
-  gloss: report
-  definition: report, rumour, news, fame<BR>Another spelling of <i>she.ma</i> (שֵׁ֫מַע
-    "report" H8088B)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'report, rumour, news, fame
+
+  Another spelling of she.ma (שֵׁ֫מַע "report" H8088B) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2143
-    proximity: 0.7726
+    lemma: זֵכֶר
+    gloss: a memento {openscriptures-strongs}
+    proximity: 0.7726 {macula-proximity}
   - strongs: H1309
-    proximity: 0.7498
+    lemma: בְּשׂוֹרָה
+    gloss: glad tidings {openscriptures-strongs}
+    proximity: 0.7498 {macula-proximity}
   - strongs: H8034
-    proximity: 0.704
+    lemma: שֵׁם
+    gloss: an appellation {openscriptures-strongs}
+    proximity: 0.704 {macula-proximity}
   cross_language:
   - strongs: G3686
-    proximity: 0.8229
+    lemma: ὄνομα
+    gloss: a "name"  (authority {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G1426
-    proximity: 0.7377
+    lemma: δυσφημία
+    gloss: defamation {openscriptures-strongs}
+    proximity: 0.7377 {macula-proximity}
     language: greek
   - strongs: G5334
-    proximity: 0.7071
+    lemma: φάσις
+    gloss: a saying {openscriptures-strongs}
+    proximity: 0.7071 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

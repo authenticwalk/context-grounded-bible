@@ -6,57 +6,73 @@ definition: a "sabbatism", i.e. (figuratively) the repose of Christianity (as a 
   of heaven)
 kjv_usage: rest
 derivation: from a derivative of G4521 (σάββατον);
-extended_definition:
-  gloss: Sabbath rest
-  definition: '<b>σαββατισμός</b>, -οῦ, ὁ<BR /> (σαββατίζω, to keep the sabbath, <ref=''Exo.16.30''>Exo.16:30</ref>,
-    al.), <BR /><b>a keeping sabbath, a sabbath rest</b>: metaphorically, as in Mishna
-    (Zorell, see word), <ref=''Heb.4.9.''>Heb.4:9.</ref>†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> Σαββᾰτ-ισμός</b>, ὁ, <br /> <b>a keeping of days of rest, Ep.
-    Hebrew </b> 4.9,[<a href="javascript:void(0)" title="compare 1st-2nd c.AD: Plutarchus
-    Biographus et Philosophus 2.166a (codices, βαπτισμούς Bentley). ">Refs 1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'σαββατισμός, -οῦ, ὁ
+
+  (σαββατίζω, to keep the sabbath, Exo.16:30, al.),
+
+  a keeping sabbath, a sabbath rest: metaphorically, as in Mishna (Zorell, see word),
+  Heb.4:9.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Σαββᾰτ-ισμός, ὁ,
+
+  a keeping of days of rest, Ep. Hebrew  4.9,[Refs 1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3062
-    proximity: 0.8159
+    lemma: λοιποί
+    gloss: remaining ones {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: G2838
-    proximity: 0.806
+    lemma: κοίμησις
+    gloss: sleeping {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
   - strongs: G1879
-    proximity: 0.798
+    lemma: ἐπαναπαύομαι
+    gloss: to settle on {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
   - strongs: G403
-    proximity: 0.7936
+    proximity: 0.7936 {macula-proximity}
   - strongs: G2681
-    proximity: 0.7837
+    lemma: κατασκηνόω
+    gloss: to camp down {openscriptures-strongs}
+    proximity: 0.7837 {macula-proximity}
   - strongs: G4875
-    proximity: 0.7673
+    lemma: συναναπαύομαι
+    gloss: to recruit oneself in company with {openscriptures-strongs}
+    proximity: 0.7673 {macula-proximity}
   - strongs: G2270
-    proximity: 0.7575
+    lemma: ἡσυχάζω
+    gloss: to keep still {openscriptures-strongs}
+    proximity: 0.7575 {macula-proximity}
   - strongs: G373
-    proximity: 0.7472
+    proximity: 0.7472 {macula-proximity}
   - strongs: G425
-    proximity: 0.7351
+    proximity: 0.7351 {macula-proximity}
   cross_language:
   - strongs: H3117
-    proximity: 0.8232
+    lemma: יוֹם
+    gloss: a day {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
     language: hebrew
   - strongs: H1824
-    proximity: 0.8124
+    lemma: דְּמִי
+    gloss: quiet {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
     language: hebrew
   - strongs: H1747
-    proximity: 0.8006
+    lemma: דּוּמִיָּה
+    gloss: stillness {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
     language: hebrew
   - strongs: H5115
-    proximity: 0.7634
+    lemma: נָוָה
+    gloss: to rest {openscriptures-strongs}
+    proximity: 0.7634 {macula-proximity}
     language: hebrew
   - strongs: H4496
-    proximity: 0.7534
+    lemma: מְנוּחָה
+    gloss: repose or  peacefully {openscriptures-strongs}
+    proximity: 0.7534 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

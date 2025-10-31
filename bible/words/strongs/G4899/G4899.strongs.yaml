@@ -5,49 +5,62 @@ transliteration: syneklektós
 definition: chosen in company with, i.e. co-elect (fellow Christian)
 kjv_usage: elected together with
 derivation: from a compound of G4862 (σύν) and G1586 (ἐκλέγομαι);
-extended_definition:
-  gloss: chosen with
-  definition: '<b>συν-εκ-λεκτός</b>, -ή, -όν <BR /> <b>chosen together with, co-elect</b>:
-    ἡ ἐν Βαβυλῶνι συνεκλεκτή (on the meaning, see <i>ICC</i>, in l), <ref=''1Pe.5.13.''>1Pe.5:13.</ref>†<BR
-    /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> συνεκ-λεκτός</b>, ή, όν, <br /> <b>chosen along with</b> or
-    <b>together</b>, [<a href="javascript:void(0)" title=" NT.1Pet.5.13. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'συν-εκ-λεκτός, -ή, -όν
+
+  chosen together with, co-elect: ἡ ἐν Βαβυλῶνι συνεκλεκτή (on the meaning, see ICC,
+  in l), 1Pe.5:13.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συνεκ-λεκτός, ή, όν,
+
+  chosen along with or together, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4782
-    proximity: 0.8286
+    lemma: συγκαταβαίνω
+    gloss: to descend in company with {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: G4936
-    proximity: 0.8266
+    lemma: συντρέχω
+    gloss: to rush together  or headlong {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: G4821
-    proximity: 0.8256
+    lemma: συμβασιλεύω
+    gloss: to be co-regent {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: G260
-    proximity: 0.8215
+    proximity: 0.8215 {macula-proximity}
   - strongs: G4916
-    proximity: 0.8163
+    lemma: συνθάπτω
+    gloss: to inter in company with {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
   - strongs: G4888
-    proximity: 0.812
+    lemma: συνδοξάζω
+    gloss: to exalt to dignity in company  with {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: G4903
-    proximity: 0.8106
+    lemma: συνεργέω
+    gloss: to be a fellow-worker {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
   - strongs: G4875
-    proximity: 0.8098
+    lemma: συναναπαύομαι
+    gloss: to recruit oneself in company with {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
   - strongs: G4806
-    proximity: 0.8092
+    lemma: συζωοποιέω
+    gloss: to reanimate conjointly with {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: G4828
-    proximity: 0.8048
+    lemma: συμμαρτυρέω
+    gloss: to testify jointly {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
   cross_language:
   - strongs: H5978
-    proximity: 0.8217
+    lemma: עִמָּד
+    gloss: along with {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
     language: hebrew
   - strongs: H854
-    proximity: 0.7869
+    proximity: 0.7869 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

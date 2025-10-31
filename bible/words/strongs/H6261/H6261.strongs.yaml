@@ -6,43 +6,55 @@ pronunciation: it-tee'
 definition: timely
 kjv_usage: fit.
 derivation: from H6256 (עֵת);
-extended_definition:
-  gloss: timely
-  definition: timely, ready
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: timely, ready {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5975
-    proximity: 0.8134
+    lemma: עָמַד
+    gloss: to stand {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
   - strongs: H5324
-    proximity: 0.8133
+    lemma: נָצַב
+    gloss: to station {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   - strongs: H4487
-    proximity: 0.7922
+    lemma: מָנָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7922 {macula-proximity}
   - strongs: H3559
-    proximity: 0.7852
+    lemma: כּוּן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7852 {macula-proximity}
   - strongs: H8371
-    proximity: 0.767
+    lemma: שָׁתַת
+    gloss: to place {openscriptures-strongs}
+    proximity: 0.767 {macula-proximity}
   - strongs: H4662
-    proximity: 0.7629
+    lemma: מִפְקָד
+    gloss: an appointment {openscriptures-strongs}
+    proximity: 0.7629 {macula-proximity}
   cross_language:
   - strongs: G4282
-    proximity: 0.8297
+    lemma: προετοιμάζω
+    gloss: to fit up in advance {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G532
-    proximity: 0.8268
+    proximity: 0.8268 {macula-proximity}
     language: greek
   - strongs: G4294
-    proximity: 0.8261
+    lemma: προκαταρτίζω
+    gloss: to prepare in advance {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: greek
   - strongs: G3904
-    proximity: 0.8252
+    lemma: παρασκευή
+    gloss: readiness {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: greek
   - strongs: G2680
-    proximity: 0.8248
+    lemma: κατασκευάζω
+    gloss: to prepare thoroughly (properly {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,45 +7,55 @@ definition: to till the soil
 kjv_usage: break up.
 derivation: a root probably identical with that of H5216 (נִיר), through the idea
   of the gleam of a fresh furrow;
-extended_definition:
-  gloss: to break
-  definition: (Qal) to break up, freshly plough or till
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to break up, freshly plough or till {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1334
-    proximity: 0.8263
+    lemma: בָּתַר
+    gloss: to chop up {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: H1234
-    proximity: 0.8072
+    lemma: בָּקַע
+    gloss: to cleave {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
   - strongs: H6626
-    proximity: 0.7935
+    lemma: פָּתַת
+    gloss: to open {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
   - strongs: H5823
-    proximity: 0.7626
+    lemma: עָזַק
+    gloss: to grub over {openscriptures-strongs}
+    proximity: 0.7626 {macula-proximity}
   - strongs: H6605
-    proximity: 0.7476
+    lemma: פָּתַח
+    gloss: to open wide {openscriptures-strongs}
+    proximity: 0.7476 {macula-proximity}
   - strongs: H5737
-    proximity: 0.7363
+    lemma: עֲדַר
+    gloss: to arrange as a battle {openscriptures-strongs}
+    proximity: 0.7363 {macula-proximity}
   - strongs: H1254b
-    proximity: 0.7146
+    proximity: 0.7146 {macula-proximity}
   cross_language:
   - strongs: G447
-    proximity: 0.8217
+    proximity: 0.8217 {macula-proximity}
     language: greek
   - strongs: G1284
-    proximity: 0.8212
+    lemma: διαῤῥήσσω
+    gloss: to tear asunder {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
     language: greek
   - strongs: G4919
-    proximity: 0.8175
+    lemma: συνθρύπτω
+    gloss: to crush together {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: greek
   - strongs: G2800
-    proximity: 0.7991
+    lemma: κλάσις
+    gloss: fracture {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
     language: greek
   - strongs: G455
-    proximity: 0.7953
+    proximity: 0.7953 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

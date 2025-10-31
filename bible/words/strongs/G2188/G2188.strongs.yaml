@@ -5,39 +5,35 @@ transliteration: ephphathá
 definition: be opened!
 kjv_usage: Ephphatha
 derivation: of Chaldee origin (H06606);
-extended_definition:
-  gloss: open!
-  definition: '<b>ἐφφαθά</b> (Aram. אֶתְפְּתח, see Abbott, <i>Essays</i>, 142 ff.;
-    <i>DCG</i>, i, 522) <BR /> <b>ephphatha, be opened</b>: <ref=''Mrk.7.34.''>Mrk.7:34.</ref>†<BR
-    /> (AS)'
-  morphology: A:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: Transliteration of Hebrew פְּתַח  'to open' [H6606]. Not in LSJ.
-  source: STEPBible/LSJ
+extended_definition: 'ἐφφαθά (Aram. אֶתְפְּתח, see Abbott, Essays, 142 ff.; DCG, i,
+  522)
+
+  ephphatha, be opened: Mrk.7:34.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: Transliteration of Hebrew פְּתַח  'to open' [H6606]. Not in LSJ. {STEPBible-TFLSJ}
 related_words:
   synonyms:
   - strongs: G2187
-    proximity: 0.7917
+    lemma: Ἐφραίμ
+    gloss: Ephraim {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   cross_language:
   - strongs: H5778
-    proximity: 0.8298
+    lemma: עוֹפַי
+    gloss: Ephai {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: hebrew
   - strongs: H449
-    proximity: 0.8287
+    proximity: 0.8287 {macula-proximity}
     language: hebrew
   - strongs: H669
-    proximity: 0.8262
+    proximity: 0.8262 {macula-proximity}
     language: hebrew
   - strongs: H673
-    proximity: 0.8246
+    proximity: 0.8246 {macula-proximity}
     language: hebrew
   - strongs: H450
-    proximity: 0.8238
+    proximity: 0.8238 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

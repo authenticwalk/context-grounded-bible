@@ -6,50 +6,65 @@ pronunciation: taw-kaw'
 definition: to strew, i.e. encamp
 kjv_usage: sit down.
 derivation: a primitive root;
-extended_definition:
-  gloss: to follow
-  definition: 1) (Pual) to be led, be assembled<br>1a) meaning wholly uncertain<br>2)
-    (CLBL) (Pu) to lay down, recline
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Pual) to be led, be assembled
+
+  1a) meaning wholly uncertain
+
+  2) (CLBL) (Pu) to lay down, recline {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H639
-    proximity: 0.8265
+    proximity: 0.8265 {macula-proximity}
   - strongs: H7198
-    proximity: 0.8211
+    lemma: קֶשֶׁת
+    gloss: a bow {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
   - strongs: H3381
-    proximity: 0.7857
+    lemma: יָרַד
+    gloss: to descend (literally {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
   - strongs: H5307
-    proximity: 0.781
+    lemma: נָפַל
+    gloss: to fall {openscriptures-strongs}
+    proximity: 0.781 {macula-proximity}
   - strongs: H7817a
-    proximity: 0.7638
+    proximity: 0.7638 {macula-proximity}
   - strongs: H5502
-    proximity: 0.7515
+    lemma: סָחַף
+    gloss: to scrape off {openscriptures-strongs}
+    proximity: 0.7515 {macula-proximity}
   - strongs: H3766
-    proximity: 0.7342
+    lemma: כָּרַע
+    gloss: to bend the knee {openscriptures-strongs}
+    proximity: 0.7342 {macula-proximity}
   - strongs: H7817
-    proximity: 0.7312
+    lemma: שָׁחַח
+    gloss: to sink or depress {openscriptures-strongs}
+    proximity: 0.7312 {macula-proximity}
   - strongs: H7812a
-    proximity: 0.7264
+    proximity: 0.7264 {macula-proximity}
   cross_language:
   - strongs: G1909
-    proximity: 0.8296
+    lemma: ἐπί
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G4408
-    proximity: 0.8264
+    lemma: πρῶρα
+    gloss: the prow {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G1811
-    proximity: 0.8147
+    lemma: ἐξακολουθέω
+    gloss: to follow out {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
     language: greek
   - strongs: G4383
-    proximity: 0.8114
+    lemma: πρόσωπον
+    gloss: the front {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
     language: greek
   - strongs: G190
-    proximity: 0.7875
+    proximity: 0.7875 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

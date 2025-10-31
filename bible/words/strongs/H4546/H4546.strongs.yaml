@@ -7,43 +7,51 @@ definition: a thoroughfare (as turnpiked), literally or figuratively; specifical
   a viaduct, a staircase
 kjv_usage: causeway, course, highway, path, terrace.
 derivation: from H5549 (סָלַל);
-extended_definition:
-  gloss: highway
-  definition: highway, raised way, public road
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: highway, raised way, public road {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6128
-    proximity: 0.8079
+    lemma: עֲקַלְקַל
+    gloss: winding {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
   - strongs: H6806
-    proximity: 0.7988
+    lemma: צַעַד
+    gloss: a pace or regular step {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   - strongs: H2351
-    proximity: 0.7894
+    lemma: חוּץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7894 {macula-proximity}
   - strongs: H7784
-    proximity: 0.7706
+    lemma: שׁוּק
+    gloss: a street {openscriptures-strongs}
+    proximity: 0.7706 {macula-proximity}
   - strongs: A735
-    proximity: 0.7522
+    proximity: 0.7522 {macula-proximity}
   - strongs: H4609
-    proximity: 0.7132
+    lemma: מַעֲלָה
+    gloss: elevation {openscriptures-strongs}
+    proximity: 0.7132 {macula-proximity}
   cross_language:
   - strongs: G5147
-    proximity: 0.7774
+    lemma: τρίβος
+    gloss: akin to {openscriptures-strongs}
+    proximity: 0.7774 {macula-proximity}
     language: greek
   - strongs: G4113
-    proximity: 0.7416
+    lemma: πλατεῖα
+    gloss: a wide "plat" or "place" {openscriptures-strongs}
+    proximity: 0.7416 {macula-proximity}
     language: greek
   - strongs: G296
-    proximity: 0.7344
+    proximity: 0.7344 {macula-proximity}
     language: greek
   - strongs: G304
-    proximity: 0.7302
+    proximity: 0.7302 {macula-proximity}
     language: greek
   - strongs: G4505
-    proximity: 0.71
+    lemma: ῥύμη
+    gloss: an alley or avenue {openscriptures-strongs}
+    proximity: 0.71 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

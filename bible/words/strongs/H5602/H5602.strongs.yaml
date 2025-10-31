@@ -6,29 +6,31 @@ pronunciation: say'-fel
 definition: a basin (as deepened out)
 kjv_usage: bowl, dish.
 derivation: from an unused root meaning to depress;
-extended_definition:
-  gloss: bowl
-  definition: bowl, basin
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: bowl, basin {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3563
-    proximity: 0.8262
+    lemma: כּוֹס
+    gloss: a cup {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: H1543
-    proximity: 0.8007
+    lemma: גֻּלָּה
+    gloss: a fountain {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: H1375
-    proximity: 0.7985
+    lemma: גְּבִיעַ
+    gloss: a goblet {openscriptures-strongs}
+    proximity: 0.7985 {macula-proximity}
   - strongs: H4863
-    proximity: 0.7906
+    lemma: מִשְׁאֶרֶת
+    gloss: a kneading-trough {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
   - strongs: H5592a
-    proximity: 0.7315
+    proximity: 0.7315 {macula-proximity}
   cross_language:
   - strongs: G3537
-    proximity: 0.8
+    lemma: νιπτήρ
+    gloss: a ewer {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,47 +6,63 @@ pronunciation: seh'-mel
 definition: a likeness
 kjv_usage: figure, idol, image.
 derivation: or סֵמֶל; from an unused root meaning to resemble;
-extended_definition:
-  gloss: idol
-  definition: image, statue, idol
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: image, statue, idol {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1754a
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
   - strongs: H8251
-    proximity: 0.8
+    lemma: שִׁקּוּץ
+    gloss: disgusting {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: H1825
-    proximity: 0.7962
+    lemma: דִּמְיוֹן
+    gloss: resemblance {openscriptures-strongs}
+    proximity: 0.7962 {macula-proximity}
   - strongs: H8403
-    proximity: 0.7874
+    lemma: תַּבְנִית
+    gloss: structure {openscriptures-strongs}
+    proximity: 0.7874 {macula-proximity}
   - strongs: H8246
-    proximity: 0.7819
+    lemma: שָׁקַד
+    gloss: to be (intensively {openscriptures-strongs}
+    proximity: 0.7819 {macula-proximity}
   - strongs: H7095
-    proximity: 0.7629
+    lemma: קֶצֶב
+    gloss: shape {openscriptures-strongs}
+    proximity: 0.7629 {macula-proximity}
   - strongs: H6816
-    proximity: 0.7396
+    lemma: צַעְצֻעַ
+    gloss: sculpture {openscriptures-strongs}
+    proximity: 0.7396 {macula-proximity}
   - strongs: H7295
-    proximity: 0.7106
+    lemma: רָהָב
+    gloss: insolent {openscriptures-strongs}
+    proximity: 0.7106 {macula-proximity}
   cross_language:
   - strongs: G1495
-    proximity: 0.8242
+    lemma: εἰδωλολατρεία
+    gloss: image-worship {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
     language: greek
   - strongs: G3669
-    proximity: 0.8214
+    lemma: ὁμοίωσις
+    gloss: assimilation {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
     language: greek
   - strongs: G1493
-    proximity: 0.804
+    lemma: εἰδωλεῖον
+    gloss: an image-fane {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
     language: greek
   - strongs: G1494
-    proximity: 0.7991
+    lemma: εἰδωλόθυτον
+    gloss: an image-sacrifice {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
     language: greek
   - strongs: G1496
-    proximity: 0.7921
+    lemma: εἰδωλολάτρης
+    gloss: an image-  worshipper {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

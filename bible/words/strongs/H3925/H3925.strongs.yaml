@@ -8,48 +8,67 @@ definition: properly, to goad, i.e. (by implication) to teach (the rod being an 
 kjv_usage: (un-) accustomed, [idiom] diligently, expert, instruct, learn, skilful,
   teach(-er, -ing).
 derivation: a primitive root;
-extended_definition:
-  gloss: 'to learn: learn'
-  definition: ': learn<br>1) to learn. teach, exercise in<br>1a) (Qal) to learn<br>1b)
-    (Piel) to teach<br>1c) (Pual) to be taught, be trained'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': learn
+
+  1) to learn. teach, exercise in
+
+  1a) (Qal) to learn
+
+  1b) (Piel) to teach
+
+  1c) (Pual) to be taught, be trained {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3045
-    proximity: 0.8222
+    lemma: יָדַע
+    gloss: to know (properly {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H4561
-    proximity: 0.8169
+    lemma: מֹסָר
+    gloss: admonition {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: H561
-    proximity: 0.8154
+    proximity: 0.8154 {macula-proximity}
   - strongs: H8451
-    proximity: 0.8142
+    lemma: תּוֹרָה
+    gloss: a precept or statute {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: H6490
-    proximity: 0.757
+    lemma: פִּקּוּד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.757 {macula-proximity}
   - strongs: H7919
-    proximity: 0.7544
+    lemma: שָׂכַל
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7544 {macula-proximity}
   - strongs: A3046
-    proximity: 0.7358
+    proximity: 0.7358 {macula-proximity}
   - strongs: H995
-    proximity: 0.7348
+    proximity: 0.7348 {macula-proximity}
   cross_language:
   - strongs: G3594
-    proximity: 0.8003
+    lemma: ὁδηγέω
+    gloss: to show the way ) {openscriptures-strongs}
+    proximity: 0.8003 {macula-proximity}
     language: greek
   - strongs: G2312
-    proximity: 0.7917
+    lemma: θεοδίδακτος
+    gloss: divinely instructed {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: greek
   - strongs: G3810
-    proximity: 0.7907
+    lemma: παιδευτής
+    gloss: a trainer {openscriptures-strongs}
+    proximity: 0.7907 {macula-proximity}
     language: greek
   - strongs: G3811
-    proximity: 0.7892
+    lemma: παιδεύω
+    gloss: to train up a child {openscriptures-strongs}
+    proximity: 0.7892 {macula-proximity}
     language: greek
   - strongs: G4822
-    proximity: 0.7811
+    lemma: συμβιβάζω
+    gloss: causative  of the base of G939 ) {openscriptures-strongs}
+    proximity: 0.7811 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

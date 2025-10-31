@@ -6,62 +6,74 @@ definition: to grow utterly torpid, i.e. (by implication) slothful (figuratively
   expensive)
 kjv_usage: be burdensome (chargeable)
 derivation: from G2596 (κατά) and (to be numb);
-extended_definition:
-  gloss: to burden
-  definition: <b>κατα-ναρκάω</b>, -ῶ<BR /> (ναρκάω, to grow numb, in LXX, in causal
-    sense, for יָקַע, <ref='Gen.32.25'>Gen.32:25</ref> (26); without <i>Heb.</i> equiv.,
-    <ref='Gen.32.32'>Gen.32:32</ref> (33) <ref='Job.33.19'>Job.33:19</ref>, Dan LXX
-    11:6*); <BR />__1. to cause to grow numb. <BR /> __2. Intrans., to grow numb;
-    hence metaphorically, to be inactive, be burdensome to with genitive, <ref='2Co.11.9;
-    12.13-14'>2Co.11:9 12:13-14</ref>; pass., to be quite numb (Hippocr.).†<BR />
-    (AS)
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> καταναρκάομαι</b>, <br /> <i>Ionic dialect</i> <b>καταναρκ-έομαι</b>,
-    <i>passive</i>, <b>grow quite numb</b>, [<a href="javascript:void(0)" title="
-    5th c.BC: Hippocrates Medicus “περὶ ἄρθρων ἐμβολῆς” 48 ">Refs 5th c.BC+</a>];
-    <b>to be reduced to a torpid condition</b>, [<a href="javascript:void(0)" title="
-    1st c.BC: Philodemus Gadarensis Epigrammaticus “Lib.” p.52 O. ">Refs 1st c.BC+</a>]<br
-    /><Level2><b>__II</b></Level2> <i>active</i>, καταναρκᾶν τινος <b>to be slothful
-    towards, press heavily upon.. </b>, [<a href="javascript:void(0)" title=" NT.2Cor.11.9,
-    12.13. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κατα-ναρκάω, -ῶ
+
+  (ναρκάω, to grow numb, in LXX, in causal sense, for יָקַע, Gen.32:25 (26); without
+  Heb. equiv., Gen.32:32 (33) Job.33:19, Dan LXX 11:6*);
+
+  __1. to cause to grow numb.
+
+  __2. Intrans., to grow numb; hence metaphorically, to be inactive, be burdensome
+  to with genitive, 2Co.11:9 12:13-14; pass., to be quite numb (Hippocr.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'καταναρκάομαι,
+
+  Ionic dialect καταναρκ-έομαι, passive, grow quite numb, [Refs 5th c.BC+]; to be
+  reduced to a torpid condition, [Refs 1st c.BC+]
+
+  __II active, καταναρκᾶν τινος to be slothful towards, press heavily upon.. , [NT]
+  {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G916
-    proximity: 0.8283
+    proximity: 0.8283 {macula-proximity}
   - strongs: G2070
-    proximity: 0.8181
+    lemma: ἐσμέν
+    gloss: we are {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
   - strongs: G2277
-    proximity: 0.8164
+    lemma: ἤτω
+    gloss: let him  be {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
   - strongs: G2258
-    proximity: 0.8089
+    lemma: ἦν
+    gloss: I (thou {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: G2075
-    proximity: 0.8028
+    lemma: ἐστέ
+    gloss: ye are {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
   - strongs: G5607
-    proximity: 0.8027
+    lemma: ὤν
+    gloss: being {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
   - strongs: G2077
-    proximity: 0.8018
+    lemma: ἔστω
+    gloss: be thou {openscriptures-strongs}
+    proximity: 0.8018 {macula-proximity}
   - strongs: A7739
-    proximity: 0.7975
+    proximity: 0.7975 {macula-proximity}
   - strongs: G925
-    proximity: 0.7906
+    proximity: 0.7906 {macula-proximity}
   - strongs: G4987
-    proximity: 0.788
+    lemma: σωρεύω
+    gloss: to pile up {openscriptures-strongs}
+    proximity: 0.788 {macula-proximity}
   cross_language:
   - strongs: H3513
-    proximity: 0.8284
+    lemma: כָּבַד
+    gloss: to be heavy {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: hebrew
   - strongs: H4858
-    proximity: 0.8278
+    lemma: מַשָּׂאָה
+    gloss: a conflagration {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: hebrew
   - strongs: H5445
-    proximity: 0.7807
+    lemma: סָבַל
+    gloss: to carry {openscriptures-strongs}
+    proximity: 0.7807 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

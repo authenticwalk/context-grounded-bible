@@ -8,48 +8,75 @@ kjv_usage: (a-) wake(-n, up), lift up (self), [idiom] master, raise (up), stir u
   (self).
 derivation: a primitive root (rather identical with through the idea of opening the
   eyes);
-extended_definition:
-  gloss: to rouse
-  definition: 1) to rouse oneself, awake, awaken, incite<br>1a) (Qal) to rouse oneself,
-    awake<br>1b) (Niphal) to be roused<br>1c) (Polel) to stir up, rouse, incite<br>1d)
-    (Hithpolel) to be excited, be triumphant<br>1e) (Hiphil)<br>1e1) to rouse, stir
-    up<br>1e2) to act in an aroused manner, awake
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to rouse oneself, awake, awaken, incite
+
+  1a) (Qal) to rouse oneself, awake
+
+  1b) (Niphal) to be roused
+
+  1c) (Polel) to stir up, rouse, incite
+
+  1d) (Hithpolel) to be excited, be triumphant
+
+  1e) (Hiphil)
+
+  1e1) to rouse, stir up
+
+  1e2) to act in an aroused manner, awake {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5927
-    proximity: 0.8293
+    lemma: עָלָה
+    gloss: to ascend {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: H1299
-    proximity: 0.8173
+    lemma: בָּרַק
+    gloss: to lighten {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
   - strongs: H7925
-    proximity: 0.8162
+    lemma: שָׁכַם
+    gloss: literally {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H2210
-    proximity: 0.811
+    lemma: זָקַף
+    gloss: to life {openscriptures-strongs}
+    proximity: 0.811 {macula-proximity}
   - strongs: H7311
-    proximity: 0.8093
+    lemma: רוּם
+    gloss: to be high actively {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
   - strongs: H5375
-    proximity: 0.8091
+    lemma: נָשָׂא
+    gloss: to lift {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
   - strongs: H3648
-    proximity: 0.794
+    lemma: כָּמַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.794 {macula-proximity}
   cross_language:
   - strongs: G5312
-    proximity: 0.82
+    lemma: ὑψόω
+    gloss: to elevate {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
   - strongs: G3951
-    proximity: 0.8163
+    lemma: παροτρύνω
+    gloss: to urge along {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
     language: greek
   - strongs: G5015
-    proximity: 0.8146
+    lemma: ταράσσω
+    gloss: to stir or agitate {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
     language: greek
   - strongs: G1869
-    proximity: 0.812
+    lemma: ἐπαίρω
+    gloss: to raise up {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
     language: greek
   - strongs: G3863
-    proximity: 0.8108
+    lemma: παραζηλόω
+    gloss: to stimulate alongside {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

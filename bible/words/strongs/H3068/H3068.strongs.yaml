@@ -6,48 +6,52 @@ pronunciation: yeh-ho-vaw'
 definition: Jehovah, Jewish national name of God
 kjv_usage: Jehovah, the Lord. Compare H3050 (יָהּ), H3069 (יְהֹוִה).
 derivation: from H1961 (הָיָה); (the) self-Existent or Eternal;
-extended_definition:
-  gloss: (Jerusalem of) the Lord
-  definition: <BR>Combined with <i>ye.ru.sha.laim</i> (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם
-    "Jerusalem" H3389)
-  morphology: N:N--T
-  source: STEPBible/BDB
+extended_definition: Combined with ye.ru.sha.laim (יְרוּשָׁלִַ֫ם, יְרוּשְׁלֵם "Jerusalem"
+  H3389) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A7261
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
   - strongs: H410
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.8254
+    proximity: 0.8254 {macula-proximity}
   - strongs: A426
-    proximity: 0.8196
+    proximity: 0.8196 {macula-proximity}
   - strongs: H1376
-    proximity: 0.7917
+    lemma: גְּבִיר
+    gloss: a master {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: H433
-    proximity: 0.7891
+    proximity: 0.7891 {macula-proximity}
   - strongs: A4756
-    proximity: 0.7291
+    proximity: 0.7291 {macula-proximity}
   - strongs: H113
-    proximity: 0.7103
+    proximity: 0.7103 {macula-proximity}
   cross_language:
   - strongs: G2634
-    proximity: 0.8299
+    lemma: κατακυριεύω
+    gloss: to lord against {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G2961
-    proximity: 0.8015
+    lemma: κυριεύω
+    gloss: to rule {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
     language: greek
   - strongs: G1203
-    proximity: 0.7807
+    lemma: δεσπότης
+    gloss: an absolute ruler {openscriptures-strongs}
+    proximity: 0.7807 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.7729
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7729 {macula-proximity}
     language: greek
   - strongs: G2962
-    proximity: 0.7548
+    lemma: κύριος
+    gloss: supreme in authority {openscriptures-strongs}
+    proximity: 0.7548 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

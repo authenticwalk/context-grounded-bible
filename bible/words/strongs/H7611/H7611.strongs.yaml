@@ -6,38 +6,49 @@ pronunciation: sheh-ay-reeth'
 definition: a remainder or residual (surviving, final) portion
 kjv_usage: that had escaped, be left, posterity, remain(-der), remnant, residue, rest.
 derivation: from H7604 (שָׁאַר);
-extended_definition:
-  gloss: remnant
-  definition: 1) rest, residue, remainder, remnant<br>1a) rest, what is left<br>1b)
-    remainder, descendants
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) rest, residue, remainder, remnant
+
+  1a) rest, what is left
+
+  1b) remainder, descendants {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5629
-    proximity: 0.8174
+    lemma: סֶרַח
+    gloss: a redundancy {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
   - strongs: H2233
-    proximity: 0.8105
+    lemma: זֶרַע
+    gloss: seed {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
   - strongs: H5736
-    proximity: 0.7455
+    lemma: עֲדַף
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7455 {macula-proximity}
   cross_language:
   - strongs: G2641
-    proximity: 0.8206
+    lemma: καταλείπω
+    gloss: to leave down {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G4051
-    proximity: 0.8081
+    lemma: περίσσευμα
+    gloss: a surplus {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
     language: greek
   - strongs: G5277
-    proximity: 0.8059
+    lemma: ὑπολιμπάνω
+    gloss: to leave behind {openscriptures-strongs}
+    proximity: 0.8059 {macula-proximity}
     language: greek
   - strongs: G4035
-    proximity: 0.8044
+    lemma: περιλείπω
+    gloss: to leave all around {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
     language: greek
   - strongs: G5275
-    proximity: 0.7747
+    lemma: ὑπολείπω
+    gloss: to leave under {openscriptures-strongs}
+    proximity: 0.7747 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

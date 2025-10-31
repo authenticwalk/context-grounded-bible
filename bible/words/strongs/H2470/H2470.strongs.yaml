@@ -14,40 +14,59 @@ derivation: a primitive root (compare H2342 (חוּל), H2470 (חָלָה), H249
 related_words:
   synonyms:
   - strongs: H413
-    proximity: 0.8288
+    proximity: 0.8288 {macula-proximity}
   - strongs: H537
-    proximity: 0.8283
+    proximity: 0.8283 {macula-proximity}
   - strongs: H3581
-    proximity: 0.8261
+    lemma: כֹּחַ
+    gloss: vigor {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.8261
+    proximity: 0.8261 {macula-proximity}
   - strongs: H3013
-    proximity: 0.822
+    lemma: יָגָה
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
   - strongs: H4064
-    proximity: 0.8217
+    lemma: מַדְוֶה
+    gloss: sickness {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
   - strongs: H3510
-    proximity: 0.8208
+    lemma: כָּאַב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   - strongs: H6031
-    proximity: 0.8187
+    lemma: עָנָה
+    gloss: to depress literally or figuratively {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
   - strongs: H2523
-    proximity: 0.8025
+    lemma: חַלָּשׁ
+    gloss: frail {openscriptures-strongs}
+    proximity: 0.8025 {macula-proximity}
   cross_language:
   - strongs: G2577
-    proximity: 0.8299
+    lemma: κάμνω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G3600
-    proximity: 0.8257
+    lemma: ὀδυνάω
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G1096
-    proximity: 0.818
+    lemma: γίνομαι
+    gloss: to cause to be {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
     language: greek
   - strongs: G4192
-    proximity: 0.8123
+    lemma: πόνος
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
     language: greek
   - strongs: G2347
-    proximity: 0.8079
+    lemma: θλῖψις
+    gloss: pressure {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

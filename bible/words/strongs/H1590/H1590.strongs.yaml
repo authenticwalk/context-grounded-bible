@@ -6,28 +6,30 @@ pronunciation: gaw-nab'
 definition: a stealer
 kjv_usage: thief.
 derivation: from H1589 (גָּנַב);
-extended_definition:
-  gloss: thief
-  definition: thief
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: thief {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6530
-    proximity: 0.7812
+    lemma: פְּרִיץ
+    gloss: violent {openscriptures-strongs}
+    proximity: 0.7812 {macula-proximity}
   - strongs: H2863
-    proximity: 0.7377
+    lemma: חֶתֶף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7377 {macula-proximity}
   - strongs: H1589
-    proximity: 0.731
+    lemma: גָּנַב
+    gloss: to thieve {openscriptures-strongs}
+    proximity: 0.731 {macula-proximity}
   cross_language:
   - strongs: G2813
-    proximity: 0.8193
+    lemma: κλέπτω
+    gloss: to filch {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
     language: greek
   - strongs: G2829
-    proximity: 0.804
+    lemma: κλοπή
+    gloss: stealing {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

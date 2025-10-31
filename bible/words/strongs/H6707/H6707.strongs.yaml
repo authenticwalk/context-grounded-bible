@@ -6,45 +6,57 @@ pronunciation: tsekh-ee-khaw'
 definition: a parched region, i.e. the desert
 kjv_usage: dry land.
 derivation: feminine of H6706 (צְחִיחַ);
-extended_definition:
-  gloss: parched
-  definition: scorched land, parched, scorched
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: scorched land, parched, scorched {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7711
-    proximity: 0.8286
+    lemma: שְׁדֵפָה
+    gloss: blight {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: H5215
-    proximity: 0.824
+    lemma: נִיר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: H127
-    proximity: 0.807
+    proximity: 0.807 {macula-proximity}
   - strongs: H8273
-    proximity: 0.8032
+    lemma: שָׁרָב
+    gloss: quivering glow {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
   - strongs: H2725
-    proximity: 0.79
+    lemma: חֲרָבוֹן
+    gloss: parching heat {openscriptures-strongs}
+    proximity: 0.79 {macula-proximity}
   - strongs: H6704
-    proximity: 0.7797
+    lemma: צִחֶה
+    gloss: parched {openscriptures-strongs}
+    proximity: 0.7797 {macula-proximity}
   - strongs: H1226
-    proximity: 0.7688
+    lemma: בַּצֹּרֶת
+    gloss: restraint {openscriptures-strongs}
+    proximity: 0.7688 {macula-proximity}
   - strongs: H776
-    proximity: 0.7534
+    proximity: 0.7534 {macula-proximity}
   - strongs: H7710
-    proximity: 0.7459
+    lemma: שָׁדַף
+    gloss: to scorch {openscriptures-strongs}
+    proximity: 0.7459 {macula-proximity}
   - strongs: H3006
-    proximity: 0.7414
+    lemma: יַבֶּשֶׁת
+    gloss: dry ground {openscriptures-strongs}
+    proximity: 0.7414 {macula-proximity}
   cross_language:
   - strongs: G3584
-    proximity: 0.8122
+    lemma: ξηρός
+    gloss: arid {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
     language: greek
   - strongs: G504
-    proximity: 0.7867
+    proximity: 0.7867 {macula-proximity}
     language: greek
   - strongs: G2739
-    proximity: 0.7475
+    lemma: καυματίζω
+    gloss: to burn {openscriptures-strongs}
+    proximity: 0.7475 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,58 +5,68 @@ transliteration: polýtimos
 definition: extremely valuable
 kjv_usage: very costly, of great price
 derivation: from G4183 (πολύς) and G5092 (τιμή);
-extended_definition:
-  gloss: valuable
-  definition: '<b>πολύτιμος</b>, -ον<BR /> (πολύς, τιμή) <BR />__1. much revered (Menand.).
-    <BR /> __2. <b>very costly, very precious</b>: <ref=''Mat.13.46; 26.7''>Mat.13:46
-    26:7</ref> (βαρύτιμος, WH), <ref=''Jhn.12.3''>Jhn.12:3;</ref> comparat., <ref=''1Pe.1.7.''>1Pe.1:7.</ref>†<BR
-    /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> πολῠτῑμ-ος</b>, ον, <br /> (τιμή) <b>much-revered,</b> θεοί
-    [<a href="javascript:void(0)" title=" 4th-3rd c.BC: Menander Comicus 109.1. ">Refs
-    4th c.BC+</a>]<br /><Level2><b>__II</b></Level2> <b>highly priced,</b> μουσοεργός
-    [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “περὶ φύσιος
-    παιδίου” 13 ">Refs 5th c.BC+</a>]; <b>very costly,</b> [<a href="javascript:void(0)"
-    title=" Anthologia Graeca 5.35.5 (2nd-3rd c.AD: Rufinus Epigrammaticus), 2nd c.AD:
-    Babrius Fabularum Scriptor 57.9 ">Refs 2nd c.AD+</a>]. <i>adverb</i> <b>-μως</b>[<a
-    href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 14.2.3 (nisi to
-    be read -τελῶς). ">Refs 2nd c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'πολύτιμος, -ον
+
+  (πολύς, τιμή)
+
+  __1. much revered (Menand.).
+
+  __2. very costly, very precious: Mat.13:46 26:7 (βαρύτιμος, WH), Jhn.12:3; comparat.,
+  1Pe.1:7.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'πολῠτῑμ-ος, ον,
+
+  (τιμή) much-revered, θεοί [Refs 4th c.BC+]
+
+  __II highly priced, μουσοεργός [Refs 5th c.BC+]; very costly, [Refs 2nd c.AD+].
+  adverb -μως[Refs 2nd c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3173
-    proximity: 0.8046
+    lemma: μέγας
+    gloss: big (literally or figuratively {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
   - strongs: G3176
-    proximity: 0.8028
+    lemma: μέγιστος
+    gloss: greatest or very great {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
   - strongs: G1308
-    proximity: 0.7998
+    lemma: διαφέρω
+    gloss: to bear through {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
   - strongs: G3187
-    proximity: 0.7445
+    lemma: μείζων
+    gloss: larger (literally or figuratively {openscriptures-strongs}
+    proximity: 0.7445 {macula-proximity}
   - strongs: A7690
-    proximity: 0.7408
+    proximity: 0.7408 {macula-proximity}
   - strongs: G5092
-    proximity: 0.7369
+    lemma: τιμή
+    gloss: a value {openscriptures-strongs}
+    proximity: 0.7369 {macula-proximity}
   cross_language:
   - strongs: H1419
-    proximity: 0.8092
+    lemma: גָּדוֹל
+    gloss: great {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
     language: hebrew
   - strongs: H4030
-    proximity: 0.8071
+    lemma: מִגְדָּנָה
+    gloss: preciousness {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
     language: hebrew
   - strongs: H3966
-    proximity: 0.8068
+    lemma: מְאֹד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
     language: hebrew
   - strongs: H3366
-    proximity: 0.79
+    lemma: יְקָר
+    gloss: value {openscriptures-strongs}
+    proximity: 0.79 {macula-proximity}
     language: hebrew
   - strongs: H2530a
-    proximity: 0.7585
+    proximity: 0.7585 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

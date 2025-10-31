@@ -6,45 +6,59 @@ pronunciation: shil-loo-maw'
 definition: retribution
 kjv_usage: recompense.
 derivation: feminine of H7966 (שִׁלּוּם);
-extended_definition:
-  gloss: recompense
-  definition: reward, requital, retribution
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: reward, requital, retribution {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5414
-    proximity: 0.8133
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   - strongs: H4909
-    proximity: 0.8082
+    lemma: מַשְׂכֹּרֶת
+    gloss: wages or a reward {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
   - strongs: H1580
-    proximity: 0.7824
+    lemma: גָּמַל
+    gloss: to treat a person {openscriptures-strongs}
+    proximity: 0.7824 {macula-proximity}
   - strongs: H7938
-    proximity: 0.781
+    lemma: שֶׂכֶר
+    gloss: wages {openscriptures-strongs}
+    proximity: 0.781 {macula-proximity}
   - strongs: H7999
-    proximity: 0.7555
+    lemma: שָׁלַם
+    gloss: to be safe (in mind {openscriptures-strongs}
+    proximity: 0.7555 {macula-proximity}
   - strongs: H5358
-    proximity: 0.7249
+    lemma: נָקַם
+    gloss: to grudge {openscriptures-strongs}
+    proximity: 0.7249 {macula-proximity}
   - strongs: H8545
-    proximity: 0.7166
+    lemma: תְּמוּרָה
+    gloss: barter {openscriptures-strongs}
+    proximity: 0.7166 {macula-proximity}
   cross_language:
   - strongs: G287
-    proximity: 0.8028
+    proximity: 0.8028 {macula-proximity}
     language: greek
   - strongs: G5098
-    proximity: 0.7722
+    lemma: τιμωρία
+    gloss: vindication {openscriptures-strongs}
+    proximity: 0.7722 {macula-proximity}
     language: greek
   - strongs: G3408
-    proximity: 0.7714
+    lemma: μισθός
+    gloss: pay for service {openscriptures-strongs}
+    proximity: 0.7714 {macula-proximity}
     language: greek
   - strongs: G3406
-    proximity: 0.7678
+    lemma: μισθαποδότης
+    gloss: a renumerator {openscriptures-strongs}
+    proximity: 0.7678 {macula-proximity}
     language: greek
   - strongs: G2009
-    proximity: 0.7677
+    lemma: ἐπιτιμία
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7677 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

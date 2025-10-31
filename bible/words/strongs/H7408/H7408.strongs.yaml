@@ -6,47 +6,57 @@ pronunciation: raw-kash'
 definition: to lay up, i.e. collect
 kjv_usage: gather, get.
 derivation: a primitive root;
-extended_definition:
-  gloss: to gather
-  definition: (Qal) to collect or gather property
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to collect or gather property {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4723a
-    proximity: 0.8231
+    proximity: 0.8231 {macula-proximity}
   - strongs: H1214
-    proximity: 0.8142
+    lemma: בָּצַע
+    gloss: figuratively {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: H103
-    proximity: 0.8081
+    proximity: 0.8081 {macula-proximity}
   - strongs: H7197
-    proximity: 0.779
+    lemma: קָשַׁשׁ
+    gloss: to forage for straw {openscriptures-strongs}
+    proximity: 0.779 {macula-proximity}
   - strongs: H6960a
-    proximity: 0.7714
+    proximity: 0.7714 {macula-proximity}
   - strongs: H8498
-    proximity: 0.7677
+    lemma: תְּכוּנָה
+    gloss: adjustment {openscriptures-strongs}
+    proximity: 0.7677 {macula-proximity}
   - strongs: H6910
-    proximity: 0.7619
+    lemma: קְבֻצָה
+    gloss: a hoard {openscriptures-strongs}
+    proximity: 0.7619 {macula-proximity}
   - strongs: H3502
-    proximity: 0.7102
+    lemma: יִתְרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7102 {macula-proximity}
   cross_language:
   - strongs: G2002
-    proximity: 0.8236
+    lemma: ἐπισωρεύω
+    gloss: to accumulate further {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
     language: greek
   - strongs: G597
-    proximity: 0.8222
+    proximity: 0.8222 {macula-proximity}
     language: greek
   - strongs: G1997
-    proximity: 0.82
+    lemma: ἐπισυναγωγή
+    gloss: a complete collection {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
   - strongs: G1996
-    proximity: 0.7716
+    lemma: ἐπισυνάγω
+    gloss: to collect upon the same place {openscriptures-strongs}
+    proximity: 0.7716 {macula-proximity}
     language: greek
   - strongs: G4863
-    proximity: 0.702
+    lemma: συνάγω
+    gloss: to lead together {openscriptures-strongs}
+    proximity: 0.702 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

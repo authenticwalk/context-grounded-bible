@@ -6,43 +6,51 @@ pronunciation: mits-awd'
 definition: a step; figuratively, companionship
 kjv_usage: going, step.
 derivation: from H6805 (צָעַד);
-extended_definition:
-  gloss: step
-  definition: step
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: step {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4570a
-    proximity: 0.8151
+    proximity: 0.8151 {macula-proximity}
   - strongs: H4552
-    proximity: 0.8139
+    lemma: מִסְעָד
+    gloss: a balustrade {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H7273
-    proximity: 0.7888
+    lemma: רַגְלִי
+    gloss: a footman {openscriptures-strongs}
+    proximity: 0.7888 {macula-proximity}
   - strongs: H7166
-    proximity: 0.7761
+    lemma: קַרְסֹל
+    gloss: an ankle {openscriptures-strongs}
+    proximity: 0.7761 {macula-proximity}
   - strongs: H6585
-    proximity: 0.757
+    lemma: פָּשַׂע
+    gloss: to stride {openscriptures-strongs}
+    proximity: 0.757 {macula-proximity}
   - strongs: H6471
-    proximity: 0.7539
+    lemma: פַּעַם
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.7539 {macula-proximity}
   cross_language:
   - strongs: G1396
-    proximity: 0.8284
+    lemma: δουλαγωγέω
+    gloss: to be a slave-driver {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: greek
   - strongs: G304
-    proximity: 0.8106
+    proximity: 0.8106 {macula-proximity}
     language: greek
   - strongs: G3979
-    proximity: 0.8085
+    lemma: πεζῇ
+    gloss: foot-wise {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
     language: greek
   - strongs: G506
-    proximity: 0.8079
+    proximity: 0.8079 {macula-proximity}
     language: greek
   - strongs: G5255
-    proximity: 0.8054
+    lemma: ὑπήκοος
+    gloss: attentively listening {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

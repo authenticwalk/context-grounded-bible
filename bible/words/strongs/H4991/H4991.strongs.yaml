@@ -6,48 +6,58 @@ pronunciation: mat-tawth'
 definition: a present
 kjv_usage: gift.
 derivation: feminine of H4976 (מַתָּן) abbreviated form;
-extended_definition:
-  gloss: gift
-  definition: gift, reward
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: gift, reward {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A1370
-    proximity: 0.829
+    proximity: 0.829 {macula-proximity}
   - strongs: H7939
-    proximity: 0.8249
+    lemma: שָׂכָר
+    gloss: payment of contract {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
   - strongs: A4504
-    proximity: 0.8248
+    proximity: 0.8248 {macula-proximity}
   - strongs: A3052
-    proximity: 0.822
+    proximity: 0.822 {macula-proximity}
   - strongs: H6059
-    proximity: 0.8166
+    lemma: עָנַק
+    gloss: to collar {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
   - strongs: H5807
-    proximity: 0.815
+    lemma: עֱזוּז
+    gloss: forcibleness {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: H7938
-    proximity: 0.8013
+    lemma: שֶׂכֶר
+    gloss: wages {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
   - strongs: H6468
-    proximity: 0.7921
+    lemma: פְּעֻלָּה
+    gloss: work {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
   - strongs: H410a
-    proximity: 0.7885
+    proximity: 0.7885 {macula-proximity}
   - strongs: H4909
-    proximity: 0.788
+    lemma: מַשְׂכֹּרֶת
+    gloss: wages or a reward {openscriptures-strongs}
+    proximity: 0.788 {macula-proximity}
   cross_language:
   - strongs: G5483
-    proximity: 0.8235
+    lemma: χαρίζομαι
+    gloss: to grant as a favor {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: greek
   - strongs: G591
-    proximity: 0.8222
+    proximity: 0.8222 {macula-proximity}
     language: greek
   - strongs: G5487
-    proximity: 0.8092
+    lemma: χαριτόω
+    gloss: to grace {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
     language: greek
   - strongs: G1411
-    proximity: 0.7933
+    lemma: δύναμις
+    gloss: force {openscriptures-strongs}
+    proximity: 0.7933 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

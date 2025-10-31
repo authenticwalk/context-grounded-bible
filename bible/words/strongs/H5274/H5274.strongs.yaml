@@ -10,12 +10,13 @@ derivation: a primitive root; also denominative from H5275 (נַעַל)
 related_words:
   synonyms:
   - strongs: H331
-    proximity: 0.8239
+    proximity: 0.8239 {macula-proximity}
   - strongs: H7576
-    proximity: 0.7919
+    lemma: רָתַק
+    gloss: to fasten {openscriptures-strongs}
+    proximity: 0.7919 {macula-proximity}
   - strongs: H4515
-    proximity: 0.7562
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: מִנְעָל
+    gloss: a bolt {openscriptures-strongs}
+    proximity: 0.7562 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

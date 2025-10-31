@@ -6,40 +6,51 @@ pronunciation: aw-mam'
 definition: to associate; by implication, to overshadow (by huddling together)
 kjv_usage: become dim, hide.
 derivation: a primitive root;
-extended_definition:
-  gloss: to darken
-  definition: 1) to dim, darken, grow dark<br>1a) (Qal) to dim, eclipse, be held dark<br>1b)
-    (Hophal) to be dimmed, grow dark
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to dim, darken, grow dark
+
+  1a) (Qal) to dim, eclipse, be held dark
+
+  1b) (Hophal) to be dimmed, grow dark {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2934
-    proximity: 0.8118
+    lemma: טָמַן
+    gloss: to hide {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
   - strongs: H2247
-    proximity: 0.7814
+    lemma: חָבָה
+    gloss: to secrete {openscriptures-strongs}
+    proximity: 0.7814 {macula-proximity}
   - strongs: H5956
-    proximity: 0.7793
+    lemma: עָלַם
+    gloss: to veil from sight {openscriptures-strongs}
+    proximity: 0.7793 {macula-proximity}
   - strongs: A5642
-    proximity: 0.7735
+    proximity: 0.7735 {macula-proximity}
   cross_language:
   - strongs: G2258
-    proximity: 0.829
+    lemma: ἦν
+    gloss: I (thou {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G1063
-    proximity: 0.8276
+    lemma: γάρ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: greek
   - strongs: G1511
-    proximity: 0.8267
+    lemma: εἶναι
+    gloss: to exist {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
     language: greek
   - strongs: G2076
-    proximity: 0.8239
+    lemma: ἐστί
+    gloss: he  is {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G2077
-    proximity: 0.8205
+    lemma: ἔστω
+    gloss: be thou {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

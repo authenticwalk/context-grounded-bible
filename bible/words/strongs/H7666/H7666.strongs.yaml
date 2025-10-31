@@ -6,46 +6,59 @@ pronunciation: shaw-bar'
 definition: to deal in grain
 kjv_usage: buy, sell.
 derivation: denominative from H7668 (שֶׁבֶר);
-extended_definition:
-  gloss: to buy grain
-  definition: '1) to buy or purchase grain<br>1a) (Qal) to buy grain<br>1b) (Hiphil)
-    to sell grain<BR>Aramaic equivalent: <i>ze.van</i> (זְבַן "to buy" H2084)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to buy or purchase grain
+
+  1a) (Qal) to buy grain
+
+  1b) (Hiphil) to sell grain
+
+  Aramaic equivalent: ze.van (זְבַן "to buy" H2084) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H737
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
   - strongs: H3978
-    proximity: 0.8219
+    lemma: מַאֲכָל
+    gloss: an eatable (includ. provender {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: H4202
-    proximity: 0.8141
+    lemma: מָזוֹן
+    gloss: food {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: H4465
-    proximity: 0.8089
+    lemma: מִמְכָּר
+    gloss: merchandise {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: H5541a
-    proximity: 0.7966
+    proximity: 0.7966 {macula-proximity}
   - strongs: H3899
-    proximity: 0.793
+    lemma: לֶחֶם
+    gloss: food {openscriptures-strongs}
+    proximity: 0.793 {macula-proximity}
   - strongs: H6720
-    proximity: 0.7929
+    lemma: צֵידָה
+    gloss: food {openscriptures-strongs}
+    proximity: 0.7929 {macula-proximity}
   - strongs: H3739
-    proximity: 0.7922
+    lemma: כָּרָה
+    gloss: to purchase {openscriptures-strongs}
+    proximity: 0.7922 {macula-proximity}
   - strongs: H400
-    proximity: 0.738
+    proximity: 0.738 {macula-proximity}
   - strongs: H6718a
-    proximity: 0.738
+    proximity: 0.738 {macula-proximity}
   cross_language:
   - strongs: G1033
-    proximity: 0.8251
+    lemma: βρῶμα
+    gloss: food {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
     language: greek
   - strongs: G4621a
-    proximity: 0.7189
+    proximity: 0.7189 {macula-proximity}
     language: greek
   - strongs: G4097
-    proximity: 0.7005
+    lemma: πιπράσκω
+    gloss: from the base of G4008 ) {openscriptures-strongs}
+    proximity: 0.7005 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

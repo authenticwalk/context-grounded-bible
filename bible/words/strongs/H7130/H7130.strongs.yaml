@@ -10,42 +10,61 @@ kjv_usage: '[idiom] among, [idiom] before, bowels, [idiom] unto charge, [phrase]
   midst, [phrase] out of, purtenance, [idiom] therein, [idiom] through, [idiom] within
   self.'
 derivation: from H7126 (קָרַב);
-extended_definition:
-  gloss: 'entrails: inner parts'
-  definition: ': inner_parts<br>1) midst, among, inner part, middle<br>1a) inward
-    part<br>1a1) physical sense<br>1a2) as seat of thought and emotion<br>1a3) as
-    faculty of thought and emotion<br>1b) in the midst, among, from among (of a number
-    of persons)<br>1c) entrails (of sacrificial animals)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': inner_parts
+
+  1) midst, among, inner part, middle
+
+  1a) inward part
+
+  1a1) physical sense
+
+  1a2) as seat of thought and emotion
+
+  1a3) as faculty of thought and emotion
+
+  1b) in the midst, among, from among (of a number of persons)
+
+  1c) entrails (of sacrificial animals) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7907
-    proximity: 0.8256
+    lemma: שֶׂכְוִי
+    gloss: observant {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: H5704
-    proximity: 0.8251
+    lemma: עַד
+    gloss: as far (or long {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H6442
-    proximity: 0.822
+    lemma: פְּנִימִי
+    gloss: interior {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
   - strongs: H2436
-    proximity: 0.8206
+    lemma: חֵיק
+    gloss: the bosom {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   cross_language:
   - strongs: G2252
-    proximity: 0.8295
+    lemma: ἤμην
+    gloss: I was {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.8286
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G867
-    proximity: 0.8256
+    proximity: 0.8256 {macula-proximity}
     language: greek
   - strongs: G1963
-    proximity: 0.825
+    lemma: ἐπίνοια
+    gloss: attention of the mind {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G1715
-    proximity: 0.8243
+    lemma: ἔμπροσθεν
+    gloss: in front of  or time) {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

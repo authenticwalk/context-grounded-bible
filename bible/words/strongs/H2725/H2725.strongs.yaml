@@ -6,40 +6,48 @@ pronunciation: khar-aw-bone'
 definition: parching heat
 kjv_usage: drought.
 derivation: from H2717 (חָרַב);
-extended_definition:
-  gloss: drought
-  definition: drought
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: drought {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6724
-    proximity: 0.8285
+    lemma: צִיוֹן
+    gloss: a desert {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: H1226a
-    proximity: 0.8208
+    proximity: 0.8208 {macula-proximity}
   - strongs: H2152
-    proximity: 0.8207
+    lemma: זַלְעָפָה
+    gloss: a glow {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H8273
-    proximity: 0.8091
+    lemma: שָׁרָב
+    gloss: quivering glow {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
   - strongs: A228
-    proximity: 0.8018
+    proximity: 0.8018 {macula-proximity}
   - strongs: H6707
-    proximity: 0.79
+    lemma: צְחִיחָה
+    gloss: a parched region {openscriptures-strongs}
+    proximity: 0.79 {macula-proximity}
   - strongs: H6774
-    proximity: 0.7798
+    lemma: צִמָּאוֹן
+    gloss: a thirsty place {openscriptures-strongs}
+    proximity: 0.7798 {macula-proximity}
   - strongs: H2746
-    proximity: 0.7777
+    lemma: חַרְחֻר
+    gloss: fever {openscriptures-strongs}
+    proximity: 0.7777 {macula-proximity}
   - strongs: H2788
-    proximity: 0.7466
+    lemma: חָרֵר
+    gloss: arid {openscriptures-strongs}
+    proximity: 0.7466 {macula-proximity}
   cross_language:
   - strongs: G504
-    proximity: 0.8044
+    proximity: 0.8044 {macula-proximity}
     language: greek
   - strongs: G2742
-    proximity: 0.7842
+    lemma: καύσων
+    gloss: a glare {openscriptures-strongs}
+    proximity: 0.7842 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,39 +6,47 @@ pronunciation: saw-khat'
 definition: to tread out, i.e. squeeze (grapes)
 kjv_usage: press.
 derivation: a primitive root;
-extended_definition:
-  gloss: to squeeze
-  definition: (Qal) to squeeze, press out
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to squeeze, press out {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1660
-    proximity: 0.8149
+    lemma: גַּת
+    gloss: a wine-press {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
   - strongs: H2237
-    proximity: 0.7852
+    lemma: זָרַר
+    gloss: perhaps to diffuse {openscriptures-strongs}
+    proximity: 0.7852 {macula-proximity}
   - strongs: H3905
-    proximity: 0.7695
+    lemma: לָחַץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7695 {macula-proximity}
   - strongs: H2115
-    proximity: 0.744
+    lemma: זוּר
+    gloss: to press together {openscriptures-strongs}
+    proximity: 0.744 {macula-proximity}
   cross_language:
   - strongs: G1945
-    proximity: 0.8204
+    lemma: ἐπίκειμαι
+    gloss: to rest upon {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
     language: greek
   - strongs: G5276
-    proximity: 0.8063
+    lemma: ὑπολήνιον
+    gloss: vessel or receptacle under the press {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
     language: greek
   - strongs: G3025
-    proximity: 0.7981
+    lemma: ληνός
+    gloss: a trough {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
     language: greek
   - strongs: G598
-    proximity: 0.7522
+    proximity: 0.7522 {macula-proximity}
     language: greek
   - strongs: G4918
-    proximity: 0.7083
+    lemma: συνθλίβω
+    gloss: to compress {openscriptures-strongs}
+    proximity: 0.7083 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

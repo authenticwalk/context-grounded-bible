@@ -6,40 +6,47 @@ pronunciation: shoor
 definition: properly, to turn, i.e. travel about (as a harlot or a merchant)
 kjv_usage: go, singular See also H7891 (שִׁיר).
 derivation: a primitive root;
-extended_definition:
-  gloss: to travel
-  definition: 1) (Qal) to travel, journey, go<br>1a) traveller (participle)<br>1b)
-    (BDB) meaning uncertain
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Qal) to travel, journey, go
+
+  1a) traveller (participle)
+
+  1b) (BDB) meaning uncertain {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A5111
-    proximity: 0.8227
+    proximity: 0.8227 {macula-proximity}
   - strongs: H5493
-    proximity: 0.8213
+    lemma: סוּר
+    gloss: to turn off {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
   - strongs: H2559
-    proximity: 0.821
+    lemma: חָמַק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
   - strongs: H3318
-    proximity: 0.8184
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   cross_language:
   - strongs: G522
-    proximity: 0.8295
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G549
-    proximity: 0.829
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G2064
-    proximity: 0.8288
+    lemma: ἔρχομαι
+    gloss: to come or go (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
     language: greek
   - strongs: G1607
-    proximity: 0.8278
+    lemma: ἐκπορεύομαι
+    gloss: to depart {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G1339
-    proximity: 0.8242
+    lemma: διΐστημι
+    gloss: to stand apart {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

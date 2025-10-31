@@ -5,28 +5,30 @@ transliteration: Elýmas
 definition: Elymas, a wizard
 kjv_usage: Elymas
 derivation: of foreign origin;
-extended_definition:
-  gloss: Elymas
-  definition: '<b>Ἐλύμας</b>, -α, ὁ<BR /> (Aram. or Arab., cf. <i>DB</i>, i, 246 b)
-    <BR /><b>Elymas</b>: <ref=''Act.13.8.''>Act.13:8.</ref>†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἐλύμας</b>, -α, ὁ<BR /> (Aram. or Arab., cf. <i>DB</i>, i, 246
-    b) <BR /><b>Elymas</b>: <ref=''Act.13.8.''>Act.13:8.</ref>†<BR />  (From Abbott-Smith.
-    LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἐλύμας, -α, ὁ
+
+  (Aram. or Arab., cf. DB, i, 246 b)
+
+  Elymas: Act.13:8.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἐλύμας, -α, ὁ
+
+  (Aram. or Arab., cf. DB, i, 246 b)
+
+  Elymas: Act.13:8.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1678
-    proximity: 0.8222
+    lemma: Ἐλμωδάμ
+    gloss: Elmodam {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   cross_language:
   - strongs: H5900
-    proximity: 0.8262
+    lemma: עִירוּ
+    gloss: Iru {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

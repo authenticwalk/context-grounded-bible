@@ -6,21 +6,19 @@ pronunciation: dal-lek'-keth
 definition: a burning fever
 kjv_usage: inflammation.
 derivation: ; from H1814 (דָּלַק);
-extended_definition:
-  gloss: inflammation
-  definition: inflammation
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: inflammation {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6920
-    proximity: 0.8292
+    lemma: קַדַּחַת
+    gloss: inflammation {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: H3554
-    proximity: 0.8168
+    lemma: כָּוָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H2746
-    proximity: 0.7788
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: חַרְחֻר
+    gloss: fever {openscriptures-strongs}
+    proximity: 0.7788 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

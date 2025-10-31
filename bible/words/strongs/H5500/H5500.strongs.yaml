@@ -6,29 +6,35 @@ pronunciation: saw-khaw'
 definition: to sweep away
 kjv_usage: scrape.
 derivation: a primitive root;
-extended_definition:
-  gloss: to scrape
-  definition: 1) to scrape<br>1a) (Piel) to scrape clean, scour
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to scrape
+
+  1a) (Piel) to scrape clean, scour {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1641
-    proximity: 0.8284
+    lemma: גָּרַר
+    gloss: to drag off roughly {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H5486
-    proximity: 0.8132
+    lemma: סוּף
+    gloss: to snatch away {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
   - strongs: H5595
-    proximity: 0.7994
+    lemma: סָפָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7994 {macula-proximity}
   - strongs: H7096
-    proximity: 0.788
+    lemma: קָצָה
+    gloss: to cut off {openscriptures-strongs}
+    proximity: 0.788 {macula-proximity}
   - strongs: H2894
-    proximity: 0.7431
+    lemma: טוּא
+    gloss: to sweep away {openscriptures-strongs}
+    proximity: 0.7431 {macula-proximity}
   cross_language:
   - strongs: G1571
-    proximity: 0.8167
+    lemma: ἐκκαθαίρω
+    gloss: to cleanse thoroughly {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

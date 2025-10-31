@@ -5,49 +5,54 @@ transliteration: tárachos
 definition: a disturbance, i.e. (popular) tumult
 kjv_usage: stir
 derivation: masculine from G5015 (ταράσσω);
-extended_definition:
-  gloss: disturbance
-  definition: '<b>τάραχος</b>, -ου, ὁ<BR /> (ταράσσω), [in LXX for מְהוּמָה, etc.
-    ;] <BR /><b>later form of ταραχή </b>(Xen., al.; see Thackeray, <i>Gr.</i>, 159):
-    <ref=''Act.12.18; 19.23''>Act.12:18 19:23</ref>.† <BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> τάρᾰχος</b> [τᾰ], ὁ, <br /> ={ταραχή}, [<a href="javascript:void(0)"
-    title=" 5th-6th c.BC: Xenophon Historicus “Anabasis” 1.8.2, “Cyr.” 7.1.32, “Oec.”
-    8.10, 4th-3rd c.BC: Epicurus Philosophus “Epistulae” 1p.28U., +others, LXX.Est.1.1,
-    +others, 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Pompeius” 61, “BGU”
-    889.23 (2nd c.AD), etc. ">LXX+5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'τάραχος, -ου, ὁ
+
+  (ταράσσω), [in LXX for מְהוּמָה, etc. ;]
+
+  later form of ταραχή (Xen., al.; see Thackeray, Gr., 159): Act.12:18 19:23.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'τάρᾰχος [τᾰ], ὁ,
+
+  ={ταραχή}, [LXX+5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5015
-    proximity: 0.8298
+    lemma: ταράσσω
+    gloss: to stir or agitate {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: G1776
-    proximity: 0.8012
+    lemma: ἐνοχλέω
+    gloss: to crowd in {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
   - strongs: G1999a
-    proximity: 0.7845
+    proximity: 0.7845 {macula-proximity}
   - strongs: G387
-    proximity: 0.7047
+    proximity: 0.7047 {macula-proximity}
   cross_language:
   - strongs: H2560
-    proximity: 0.8159
+    lemma: חָמַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
     language: hebrew
   - strongs: H5143
-    proximity: 0.8071
+    lemma: נֵזֶק
+    gloss: loss {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
     language: hebrew
   - strongs: H8351
-    proximity: 0.7849
+    lemma: שֵׁת
+    gloss: tumult {openscriptures-strongs}
+    proximity: 0.7849 {macula-proximity}
     language: hebrew
   - strongs: H2111
-    proximity: 0.784
+    lemma: זוּעַ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.784 {macula-proximity}
     language: hebrew
   - strongs: H2000
-    proximity: 0.7665
+    lemma: הָמַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7665 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

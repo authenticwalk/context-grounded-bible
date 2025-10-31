@@ -7,33 +7,40 @@ definition: Beth-ha-Jeshimoth, a town East of the Jordan
 kjv_usage: Beth-jeshimoth.
 derivation: from H1004 (בַּיִת) and the plural of H3451 (יְשִׁימַה) with the article
   interposed; house of the deserts;
-extended_definition:
-  gloss: Beth-jeshimoth
-  definition: <BR> § Beth-jesimoth = "house of the desolation"<br> a place in Moab
-    given to the tribe of Reuben<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Beth-jesimoth = "house of the desolation"
+
+  a place in Moab given to the tribe of Reuben {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3448
-    proximity: 0.8262
+    lemma: יִשַׁי
+    gloss: Jishai {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: H1052
-    proximity: 0.8242
+    lemma: בֵּית שְׁאָן
+    gloss: Beth-Shean or Beth-Shan {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H3406
-    proximity: 0.8167
+    lemma: יְרִימוֹת
+    gloss: Jerimoth or Jeremoth {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H1008
-    proximity: 0.8119
+    lemma: בֵּית־אֵל
+    gloss: Beth-El {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: H1014
-    proximity: 0.8096
+    lemma: בֵּית גָּמוּל
+    gloss: Beth-Gamul {openscriptures-strongs}
+    proximity: 0.8096 {macula-proximity}
   cross_language:
   - strongs: G2421
-    proximity: 0.8138
+    lemma: Ἰεσσαί
+    gloss: Jessæ {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
     language: greek
   - strongs: G3475
-    proximity: 0.796
+    lemma: Μωσεύς
+    gloss: Moseus {openscriptures-strongs}
+    proximity: 0.796 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,26 +7,23 @@ definition: properly, something very smooth; i.e. a treacherous spot; figurative
   blandishment
 kjv_usage: flattery, slippery.
 derivation: by reduplication from H2505 (חָלַק);
-extended_definition:
-  gloss: smoothness
-  definition: 1) flattery, slipperiness, fine promises, smoothness<br>1a) slipperiness<br>1b)
-    fine promises
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) flattery, slipperiness, fine promises, smoothness
+
+  1a) slipperiness
+
+  1b) fine promises {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2505a
-    proximity: 0.8055
+    proximity: 0.8055 {macula-proximity}
   - strongs: H2513a
-    proximity: 0.7671
+    proximity: 0.7671 {macula-proximity}
   - strongs: H2506a
-    proximity: 0.7597
+    proximity: 0.7597 {macula-proximity}
   cross_language:
   - strongs: G2850
-    proximity: 0.8264
+    lemma: κολακεία
+    gloss: flattery {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

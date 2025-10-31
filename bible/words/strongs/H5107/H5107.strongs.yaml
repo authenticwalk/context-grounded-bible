@@ -7,46 +7,63 @@ definition: to germinate, i.e. (figuratively) to (causatively, make) flourish; a
   (of words), to utter
 kjv_usage: bring forth (fruit), make cheerful, increase.
 derivation: a primitive root;
-extended_definition:
-  gloss: to bear fruit
-  definition: 1) to bear fruit<br>1a) (Qal) to bear fruit<br>1b) (Pilel) to make to
-    flourish (fig.)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to bear fruit
+
+  1a) (Qal) to bear fruit
+
+  1b) (Pilel) to make to flourish (fig.) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3254
-    proximity: 0.8275
+    lemma: יָסַף
+    gloss: to add or augment (often adverbial {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H8317
-    proximity: 0.8156
+    lemma: שָׁרַץ
+    gloss: to wriggle {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
   - strongs: H1711
-    proximity: 0.8093
+    lemma: דָּגָה
+    gloss: to spawn {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
   - strongs: H2981
-    proximity: 0.8002
+    lemma: יְבוּל
+    gloss: produce {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: H6692
-    proximity: 0.789
+    lemma: צוּץ
+    gloss: to twinkle {openscriptures-strongs}
+    proximity: 0.789 {macula-proximity}
   - strongs: H5577
-    proximity: 0.7877
+    lemma: סַנְסִן
+    gloss: a twig {openscriptures-strongs}
+    proximity: 0.7877 {macula-proximity}
   - strongs: H6779
-    proximity: 0.7735
+    lemma: צָמַח
+    gloss: to sprout (transitive or intransitive {openscriptures-strongs}
+    proximity: 0.7735 {macula-proximity}
   cross_language:
   - strongs: G5088
-    proximity: 0.813
+    lemma: τίκτω
+    gloss: to produce (from seed {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
     language: greek
   - strongs: G1081a
-    proximity: 0.8095
+    proximity: 0.8095 {macula-proximity}
     language: greek
   - strongs: G5052
-    proximity: 0.8045
+    lemma: τελεσφορέω
+    gloss: to be a bearer to completion {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
     language: greek
   - strongs: G4323
-    proximity: 0.7987
+    lemma: προσανατίθημι
+    gloss: to lay up in addition {openscriptures-strongs}
+    proximity: 0.7987 {macula-proximity}
     language: greek
   - strongs: G4298
-    proximity: 0.792
+    lemma: προκόπτω
+    gloss: to drive forward {openscriptures-strongs}
+    proximity: 0.792 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

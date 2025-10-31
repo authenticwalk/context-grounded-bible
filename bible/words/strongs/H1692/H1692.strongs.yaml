@@ -8,50 +8,74 @@ definition: properly, to impinge, i.e. cling or adhere; figuratively, to catch b
 kjv_usage: abide fast, cleave (fast together), follow close (hard after), be joined
   (together), keep (fast), overtake, pursue hard, stick, take.
 derivation: a primitive root;
-extended_definition:
-  gloss: to cleave
-  definition: '1) to cling, stick, stay close, cleave, keep close, stick to, stick
-    with, follow closely, join to, overtake, catch<br>1a) (Qal)<br>1a1) to cling,
-    cleave to<br>1a2) to stay with<br>1b) (Pual) to be joined together<br>1c) (Hiphil)<br>1c1)
-    to cause to cleave to<br>1c2) to pursue closely<br>1c3) to overtake<br>1d) (Hophal)
-    to be made to cleave<BR>Aramaic equivalent: <i>de.vaq</i> (דְּבֵק "to cleave"
-    H1693)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to cling, stick, stay close, cleave, keep close, stick to,
+  stick with, follow closely, join to, overtake, catch
+
+  1a) (Qal)
+
+  1a1) to cling, cleave to
+
+  1a2) to stay with
+
+  1b) (Pual) to be joined together
+
+  1c) (Hiphil)
+
+  1c1) to cause to cleave to
+
+  1c2) to pursue closely
+
+  1c3) to overtake
+
+  1d) (Hophal) to be made to cleave
+
+  Aramaic equivalent: de.vaq (דְּבֵק "to cleave" H1693) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5921
-    proximity: 0.827
+    lemma: עַל
+    gloss: above {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H310
-    proximity: 0.8161
+    proximity: 0.8161 {macula-proximity}
   - strongs: H8104
-    proximity: 0.816
+    lemma: שָׁמַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
   - strongs: H3867
-    proximity: 0.8044
+    lemma: לָוָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
   - strongs: H3162a
-    proximity: 0.7926
+    proximity: 0.7926 {macula-proximity}
   - strongs: H982
-    proximity: 0.7889
+    proximity: 0.7889 {macula-proximity}
   - strongs: H270
-    proximity: 0.7878
+    proximity: 0.7878 {macula-proximity}
   cross_language:
   - strongs: G2902
-    proximity: 0.8293
+    lemma: κρατέω
+    gloss: to use strength {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G1909
-    proximity: 0.8272
+    lemma: ἐπί
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G5277
-    proximity: 0.8191
+    lemma: ὑπολιμπάνω
+    gloss: to leave behind {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
     language: greek
   - strongs: G4357
-    proximity: 0.811
+    lemma: προσμένω
+    gloss: to stay further {openscriptures-strongs}
+    proximity: 0.811 {macula-proximity}
     language: greek
   - strongs: G2722
-    proximity: 0.8106
+    lemma: κατέχω
+    gloss: to hold down {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

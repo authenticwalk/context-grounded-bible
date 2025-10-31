@@ -8,46 +8,65 @@ definition: complete; as noun, the whole (specifically, a sacrifice entirely con
 kjv_usage: all, every whit, flame, perfect(-ion), utterly, whole burnt offering (sacrifice),
   wholly.
 derivation: from H3634 (כָּלַל);
-extended_definition:
-  gloss: entire
-  definition: adj<br>1) entire, all, perfect<br>adv<br>2) entirety<br>subst<br>3)
-    whole, whole burnt offering, holocaust, entirety
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: 'adj
+
+  1) entire, all, perfect
+
+  adv
+
+  2) entirety
+
+  subst
+
+  3) whole, whole burnt offering, holocaust, entirety {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5414a
-    proximity: 0.8209
+    proximity: 0.8209 {macula-proximity}
   - strongs: A3606
-    proximity: 0.8105
+    proximity: 0.8105 {macula-proximity}
   - strongs: H3617
-    proximity: 0.8082
+    lemma: כָּלָה
+    gloss: a completion {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
   - strongs: H8549
-    proximity: 0.8065
+    lemma: תָּמִים
+    gloss: entire (literally {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
   - strongs: H7133
-    proximity: 0.7913
+    lemma: קׇרְבָּן
+    gloss: something brought near the altar {openscriptures-strongs}
+    proximity: 0.7913 {macula-proximity}
   - strongs: H4974
-    proximity: 0.7845
+    lemma: מְתֹם
+    gloss: wholesomeness {openscriptures-strongs}
+    proximity: 0.7845 {macula-proximity}
   - strongs: H8535
-    proximity: 0.7602
+    lemma: תָּם
+    gloss: complete {openscriptures-strongs}
+    proximity: 0.7602 {macula-proximity}
   cross_language:
   - strongs: G2675
-    proximity: 0.829
+    lemma: καταρτίζω
+    gloss: to complete thoroughly {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G3654
-    proximity: 0.8183
+    lemma: ὅλως
+    gloss: completely {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
     language: greek
   - strongs: G739
-    proximity: 0.8176
+    proximity: 0.8176 {macula-proximity}
     language: greek
   - strongs: G3838
-    proximity: 0.7967
+    lemma: παντελής
+    gloss: full-ended {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
     language: greek
   - strongs: G3647
-    proximity: 0.7877
+    lemma: ὁλοκληρία
+    gloss: integrity {openscriptures-strongs}
+    proximity: 0.7877 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

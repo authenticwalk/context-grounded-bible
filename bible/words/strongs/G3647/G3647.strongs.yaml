@@ -5,63 +5,79 @@ transliteration: holoklēría
 definition: integrity, i.e. physical wholeness
 kjv_usage: perfect soundness
 derivation: from G3648 (ὁλόκληρος);
-extended_definition:
-  gloss: wholeness
-  definition: '<b>ὀλοκληρία</b>, -ας, ἡ<BR /> (ὁλόκληρος), [in LXX: <ref=''Isa.1.6''>Isa.1:6</ref>
-    (מְתֹם)* ;] <BR /><b>completeness, soundness</b>: <ref=''Act.3.16.''>Act.3:16.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὁλοκληρ-ία</b>, ἡ, <br /> <b>completeness</b> or <b>soundness
-    in all parts,</b> τοῦ σώματος, τῶν αἰσθητηρίων, [<a href="javascript:void(0)"
-    title=" 3rd c.BC: Chrysippus Stoicus 3.33, 1st-2nd c.AD: Plutarchus Biographus
-    et Philosophus 2.1041f: _absolutely_, NT.Act.3.16, 1st-2nd c.AD: Plutarchus Biographus
-    et Philosophus 2.1063f, 4th c.BC: Demetrius Phalereus Rhetor “Demetrius on Style”
-    3, “SIG” 1142 (Phrygia, 1st-2nd c.AD), “POxy.” 123.6 (3rd-4th c.AD). ">NT+4th
-    c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ὀλοκληρία, -ας, ἡ
+
+  (ὁλόκληρος), [in LXX: Isa.1:6 (מְתֹם)* ;]
+
+  completeness, soundness: Act.3:16.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὁλοκληρ-ία, ἡ,
+
+  completeness or soundness in all parts, τοῦ σώματος, τῶν αἰσθητηρίων, [NT+4th c.BC+]
+  {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3648
-    proximity: 0.8261
+    lemma: ὁλόκληρος
+    gloss: complete in every part {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: G739
-    proximity: 0.8146
+    proximity: 0.8146 {macula-proximity}
   - strongs: G2676
-    proximity: 0.8125
+    lemma: κατάρτισις
+    gloss: thorough equipment {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: G2005
-    proximity: 0.8086
+    lemma: ἐπιτελέω
+    gloss: to fulfill further {openscriptures-strongs}
+    proximity: 0.8086 {macula-proximity}
   - strongs: G573
-    proximity: 0.8013
+    proximity: 0.8013 {macula-proximity}
   - strongs: G5047
-    proximity: 0.7789
+    lemma: τελειότης
+    gloss: completeness {openscriptures-strongs}
+    proximity: 0.7789 {macula-proximity}
   - strongs: G3651
-    proximity: 0.7622
+    lemma: ὁλοτελής
+    gloss: complete to the end {openscriptures-strongs}
+    proximity: 0.7622 {macula-proximity}
   - strongs: G5199
-    proximity: 0.7356
+    lemma: ὑγιής
+    gloss: healthy {openscriptures-strongs}
+    proximity: 0.7356 {macula-proximity}
   - strongs: G5048
-    proximity: 0.728
+    lemma: τελειόω
+    gloss: to complete {openscriptures-strongs}
+    proximity: 0.728 {macula-proximity}
   - strongs: G5046
-    proximity: 0.7179
+    lemma: τέλειος
+    gloss: complete (in various applications of labor {openscriptures-strongs}
+    proximity: 0.7179 {macula-proximity}
   cross_language:
   - strongs: H3632
-    proximity: 0.7877
+    lemma: כָּלִיל
+    gloss: complete {openscriptures-strongs}
+    proximity: 0.7877 {macula-proximity}
     language: hebrew
   - strongs: H8535
-    proximity: 0.7875
+    lemma: תָּם
+    gloss: complete {openscriptures-strongs}
+    proximity: 0.7875 {macula-proximity}
     language: hebrew
   - strongs: H4359
-    proximity: 0.7789
+    lemma: מִכְלָל
+    gloss: perfection {openscriptures-strongs}
+    proximity: 0.7789 {macula-proximity}
     language: hebrew
   - strongs: H4974
-    proximity: 0.765
+    lemma: מְתֹם
+    gloss: wholesomeness {openscriptures-strongs}
+    proximity: 0.765 {macula-proximity}
     language: hebrew
   - strongs: H2492
-    proximity: 0.7561
+    lemma: חָלַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7561 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

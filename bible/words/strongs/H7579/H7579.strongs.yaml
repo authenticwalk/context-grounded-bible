@@ -6,32 +6,39 @@ pronunciation: sahw-ab'
 definition: to bale up water
 kjv_usage: (woman to) draw(-er, water).
 derivation: a primitive root;
-extended_definition:
-  gloss: to draw
-  definition: 1) to draw (water)<br>1a) (Qal)<br>1a1) to draw (water)<br>1a2) water-drawing
-    women (participle)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to draw (water)
+
+  1a) (Qal)
+
+  1a1) to draw (water)
+
+  1a2) water-drawing women (participle) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4871
-    proximity: 0.8095
+    lemma: מָשָׁה
+    gloss: to pull out {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
   - strongs: H8025
-    proximity: 0.779
+    lemma: שָׁלַף
+    gloss: to pull out {openscriptures-strongs}
+    proximity: 0.779 {macula-proximity}
   - strongs: H1639a
-    proximity: 0.7688
+    proximity: 0.7688 {macula-proximity}
   cross_language:
   - strongs: G4685
-    proximity: 0.8158
+    lemma: σπάω
+    gloss: to draw {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
     language: greek
   - strongs: G5202
-    proximity: 0.8119
+    lemma: ὑδροποτέω
+    gloss: to be a water-drinker {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
     language: greek
   - strongs: G1670
-    proximity: 0.7053
+    lemma: ἑλκύω
+    gloss: to drag {openscriptures-strongs}
+    proximity: 0.7053 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,53 +7,73 @@ definition: to be violent; by implication, to maltreat
 kjv_usage: make bare, shake off, violate, do violence, take away violently, wrong,
   imagine wrongfully.
 derivation: a primitive root;
-extended_definition:
-  gloss: to injure
-  definition: 1) to wrong, do violence to, treat violently, do wrongly<br>1a) (Qal)
-    to treat violently, do wrong<br>1a1) of physical wrong<br>1a2) of ethical wrong<br>1a3)
-    of physical and ethical wrong<br>1b) (Niphal) to be treated violently
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to wrong, do violence to, treat violently, do wrongly
+
+  1a) (Qal) to treat violently, do wrong
+
+  1a1) of physical wrong
+
+  1a2) of ethical wrong
+
+  1a3) of physical and ethical wrong
+
+  1b) (Niphal) to be treated violently {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6213
-    proximity: 0.8272
+    lemma: עָשָׂה
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: A2255
-    proximity: 0.8243
+    proximity: 0.8243 {macula-proximity}
   - strongs: A2248
-    proximity: 0.8222
+    proximity: 0.8222 {macula-proximity}
   - strongs: H4072
-    proximity: 0.8162
+    lemma: מִדְחֶה
+    gloss: overthrow {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H413
-    proximity: 0.8144
+    proximity: 0.8144 {macula-proximity}
   - strongs: H611
-    proximity: 0.7928
+    proximity: 0.7928 {macula-proximity}
   - strongs: H6481
-    proximity: 0.7884
+    lemma: פָּצַע
+    gloss: to split {openscriptures-strongs}
+    proximity: 0.7884 {macula-proximity}
   - strongs: H6482
-    proximity: 0.7794
+    lemma: פֶּצַע
+    gloss: a wound {openscriptures-strongs}
+    proximity: 0.7794 {macula-proximity}
   - strongs: H6565
-    proximity: 0.7719
+    lemma: פָּרַר
+    gloss: to break up {openscriptures-strongs}
+    proximity: 0.7719 {macula-proximity}
   - strongs: A2257
-    proximity: 0.7714
+    proximity: 0.7714 {macula-proximity}
   cross_language:
   - strongs: G4937
-    proximity: 0.8236
+    lemma: συντρίβω
+    gloss: to crush completely {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
     language: greek
   - strongs: G3848
-    proximity: 0.8158
+    lemma: παραβάτης
+    gloss: a violator {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
     language: greek
   - strongs: G3845
-    proximity: 0.8132
+    lemma: παραβαίνω
+    gloss: to go contrary to {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
     language: greek
   - strongs: G2692
-    proximity: 0.8065
+    lemma: καταστροφή
+    gloss: an overturn {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
     language: greek
   - strongs: G5196
-    proximity: 0.772
+    lemma: ὕβρις
+    gloss: insolence {openscriptures-strongs}
+    proximity: 0.772 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,51 +7,76 @@ definition: to quaff, i.e. (causatively) to irrigate or furnish apotion to
 kjv_usage: cause to (give, give to, let, make to) drink, drown, moisten, water. See
   H7937 (שָׁכַר), H8354 (שָׁתָה).
 derivation: a primitive root;
-extended_definition:
-  gloss: 'to water: cupbearer'
-  definition: ': cupbearer<br>1) to give to drink, irrigate, drink, water, cause to
-    drink water<br>1a) (Hiphil)<br>1a1) to water, irrigate<br>1a2) to water, give
-    drink to<br>1b) (Pual) to be watered<br>1c) (Niphal) variant'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': cupbearer
+
+  1) to give to drink, irrigate, drink, water, cause to drink water
+
+  1a) (Hiphil)
+
+  1a1) to water, irrigate
+
+  1a2) to water, give drink to
+
+  1b) (Pual) to be watered
+
+  1c) (Niphal) variant {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3807a
-    proximity: 0.8197
+    proximity: 0.8197 {macula-proximity}
   - strongs: A3052
-    proximity: 0.8183
+    proximity: 0.8183 {macula-proximity}
   - strongs: H413
-    proximity: 0.8168
+    proximity: 0.8168 {macula-proximity}
   - strongs: H5433
-    proximity: 0.8142
+    lemma: סָבָא
+    gloss: to quaff to satiety {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: H5258
-    proximity: 0.8129
+    lemma: נָסַךְ
+    gloss: to pour out {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: H4945
-    proximity: 0.7912
+    lemma: מַשְׁקֶה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7912 {macula-proximity}
   - strongs: H8250
-    proximity: 0.7852
+    lemma: שִׁקּוּי
+    gloss: a beverage {openscriptures-strongs}
+    proximity: 0.7852 {macula-proximity}
   - strongs: H7783
-    proximity: 0.7828
+    lemma: שׁוּק
+    gloss: to run after or over {openscriptures-strongs}
+    proximity: 0.7828 {macula-proximity}
   - strongs: H7937
-    proximity: 0.7623
+    lemma: שָׁכַר
+    gloss: to become tipsy {openscriptures-strongs}
+    proximity: 0.7623 {macula-proximity}
   cross_language:
   - strongs: G2429
-    proximity: 0.8287
+    lemma: ἱκμάς
+    gloss: dampness {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G5204
-    proximity: 0.8177
+    lemma: ὕδωρ
+    gloss: water  literally or figuratively {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
     language: greek
   - strongs: G4188
-    proximity: 0.8002
+    lemma: πόμα
+    gloss: a beverage {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
     language: greek
   - strongs: G1433
-    proximity: 0.7965
+    lemma: δωρέομαι
+    gloss: to bestow gratuitously {openscriptures-strongs}
+    proximity: 0.7965 {macula-proximity}
     language: greek
   - strongs: G5176
-    proximity: 0.7726
+    lemma: τρώγω
+    gloss: or perhaps rather of a base of G5167  and G5149  through the idea of a
+      craunching sound {openscriptures-strongs}
+    proximity: 0.7726 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

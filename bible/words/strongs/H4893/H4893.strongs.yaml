@@ -9,38 +9,51 @@ derivation: or מׇשְׁחָת; from H7843 (שָׁחַת);
 related_words:
   synonyms:
   - strongs: H4790
-    proximity: 0.8218
+    lemma: מְרוֹחַ
+    gloss: bruised {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H7111
-    proximity: 0.809
+    lemma: קְצָפָה
+    gloss: a fragment {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
   - strongs: H1200
-    proximity: 0.809
+    lemma: בְּעֵרָה
+    gloss: a burning {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
   - strongs: H2763a
-    proximity: 0.8025
+    proximity: 0.8025 {macula-proximity}
   - strongs: H1727
-    proximity: 0.8024
+    lemma: דּוּב
+    gloss: to mope {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: A2257
-    proximity: 0.7996
+    proximity: 0.7996 {macula-proximity}
   - strongs: H3971a
-    proximity: 0.7613
+    proximity: 0.7613 {macula-proximity}
   - strongs: H2742c
-    proximity: 0.759
+    proximity: 0.759 {macula-proximity}
   cross_language:
   - strongs: G1312
-    proximity: 0.8152
+    lemma: διαφθορά
+    gloss: decay {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
     language: greek
   - strongs: G2679
-    proximity: 0.8124
+    lemma: κατασκάπτω
+    gloss: to undermine {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
     language: greek
   - strongs: G5356
-    proximity: 0.8065
+    lemma: φθορά
+    gloss: decay {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
     language: greek
   - strongs: G376
-    proximity: 0.7768
+    proximity: 0.7768 {macula-proximity}
     language: greek
   - strongs: G2948
-    proximity: 0.7668
+    lemma: κυλλός
+    gloss: rocking about {openscriptures-strongs}
+    proximity: 0.7668 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

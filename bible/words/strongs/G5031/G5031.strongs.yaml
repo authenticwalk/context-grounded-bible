@@ -5,54 +5,55 @@ transliteration: tachinós
 definition: curt, i.e. impending
 kjv_usage: shortly, swift
 derivation: from G5034 (τάχος);
-extended_definition:
-  gloss: quick
-  definition: '<b>ταχινός</b>, -ή, -όν <BR /> [in LXX: <ref=''Pro.1.16''>Pro.1:16</ref>,
-    <ref=''Hab.1.6''>Hab.1:6</ref>, <ref=''Isa.59.7''>Isa.59:7</ref> (מָהַר), <ref=''Wis.13.2''>Wis.13:2</ref>,
-    <ref=''Sir.11.22; 18.26''>Sir.11:22 18:26</ref> * ;] <BR />poët. and late for
-    ταχύς, <b>swift</b>: of swift approach, <ref=''2Pe.1.14; 2.1''>2Pe.1:14 2:1</ref>.†<BR
-    /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> τᾰχῐνός</b>, ή, όν, <br /> <i>poetry</i> and late Prose for
-    ταχύς, φρένες, ἴουλοι, [<a href="javascript:void(0)" title=" 3rd c.BC: Theocritus
-    Poeta Bucolicus 2.7, 3rd c.BC: Callimachus Epicus “Hymnus in Jovem” 56, compare
-    3rd c.BC: Apollonius Rhodius Epicus 2.1044, LXX.Wis.13.2, +others, NT.2Pet.2.1,
-    “Catalogus Codicum Astrologorum” 1.137, etc.">NT+3rd c.BC+</a>]: <i>superlative</i>
-    <b>-ώτατος</b>[<a href="javascript:void(0)" title=" 4th-3rd c.BC: Aratus Epicus
-    289: _neuter_ _plural_ ταχινά, ={τάχα}, 3rd c.BC: Theocritus Poeta Bucolicus 14.40.
-    ">Refs 4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ταχινός, -ή, -όν
+
+  [in LXX: Pro.1:16, Hab.1:6, Isa.59:7 (מָהַר), Wis.13:2, Sir.11:22 18:26 * ;]
+
+  poët. and late for ταχύς, swift: of swift approach, 2Pe.1:14 2:1.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'τᾰχῐνός, ή, όν,
+
+  poetry and late Prose for ταχύς, φρένες, ἴουλοι, [NT+3rd c.BC+]: superlative -ώτατος[Refs
+  4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5036
-    proximity: 0.8125
+    lemma: ταχύς
+    gloss: fleet {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: G5030
-    proximity: 0.7619
+    lemma: ταχέως
+    gloss: briefly {openscriptures-strongs}
+    proximity: 0.7619 {macula-proximity}
   - strongs: G4932
-    proximity: 0.7281
+    lemma: συντέμνω
+    gloss: to contract by cutting {openscriptures-strongs}
+    proximity: 0.7281 {macula-proximity}
   - strongs: G5032
-    proximity: 0.7062
+    lemma: τάχιον
+    gloss: more swiftly {openscriptures-strongs}
+    proximity: 0.7062 {macula-proximity}
   cross_language:
   - strongs: H4592
-    proximity: 0.8189
+    lemma: מְעַט
+    gloss: a little or few {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
     language: hebrew
   - strongs: H6171
-    proximity: 0.7917
+    lemma: עָרוֹד
+    gloss: an onager {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: hebrew
   - strongs: H973
-    proximity: 0.7833
+    proximity: 0.7833 {macula-proximity}
     language: hebrew
   - strongs: H5483b
-    proximity: 0.7778
+    proximity: 0.7778 {macula-proximity}
     language: hebrew
   - strongs: H3288
-    proximity: 0.75
+    lemma: יְעָף
+    gloss: fatigue (adverb {openscriptures-strongs}
+    proximity: 0.75 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

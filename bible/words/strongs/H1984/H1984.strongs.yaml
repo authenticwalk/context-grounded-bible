@@ -13,39 +13,50 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H166
-    proximity: 0.8277
+    proximity: 0.8277 {macula-proximity}
   - strongs: H6692
-    proximity: 0.8172
+    lemma: צוּץ
+    gloss: to twinkle {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
   - strongs: H3974
-    proximity: 0.8139
+    lemma: מָאוֹר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H5042
-    proximity: 0.812
+    lemma: נָבַע
+    gloss: to gush forth {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: H3851
-    proximity: 0.8101
+    lemma: לַהַב
+    gloss: a flash {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
   - strongs: H2590a
-    proximity: 0.7913
+    proximity: 0.7913 {macula-proximity}
   - strongs: A5312
-    proximity: 0.7906
+    proximity: 0.7906 {macula-proximity}
   - strongs: H7335
-    proximity: 0.7895
+    lemma: רָזַם
+    gloss: to twinkle the eye {openscriptures-strongs}
+    proximity: 0.7895 {macula-proximity}
   - strongs: A5047
-    proximity: 0.7878
+    proximity: 0.7878 {macula-proximity}
   - strongs: H3318
-    proximity: 0.7876
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.7876 {macula-proximity}
   cross_language:
   - strongs: G1607
-    proximity: 0.8295
+    lemma: ἐκπορεύομαι
+    gloss: to depart {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G616
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G1166a
-    proximity: 0.8034
+    proximity: 0.8034 {macula-proximity}
     language: greek
   - strongs: G826
-    proximity: 0.7911
+    proximity: 0.7911 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

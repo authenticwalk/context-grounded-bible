@@ -5,37 +5,40 @@ transliteration: Ioudaïsmós
 definition: '"Judaism", i.e. the Jewish faith and usages'
 kjv_usage: Jews' religion
 derivation: from G2450 (Ἰουδαΐζω);
-extended_definition:
-  gloss: Judaism
-  definition: '<b>Ἰουδαϊσμός</b>, -οῦ, ὁ<BR /> (Ἰουδαΐζω), [in LXX: <ref=''2Ma.2.21''>2Ma.2:21</ref>
-    <ref=''2Mac.8.1''>2Mac 8:1</ref> <ref=''2Mac.14.38''>2Mac 14:38</ref>, <ref=''4Ma.4.26''>4Ma.4:26</ref>
-    * ;] <BR /><b>Judaism, the observance of Jewish rites</b>: <ref=''Gal.1.13-14.''>Gal.1:13-14.</ref>†<BR
-    /> (AS)'
-  morphology: N:N--T
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> Ἰουδα-ϊσμός</b>, ὁ, “<br /> Judaism”, [<a href="javascript:void(0)"
-    title=" LXX.2Mac.2.21, NT.Gal.1.13 ">LXX+NT</a>]:'
-  source: STEPBible/LSJ
+extended_definition: 'Ἰουδαϊσμός, -οῦ, ὁ
+
+  (Ἰουδαΐζω), [in LXX: 2Ma.2:21 2Mac 8:1 2Mac 14:38, 4Ma.4:26 * ;]
+
+  Judaism, the observance of Jewish rites: Gal.1:13-14.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἰουδα-ϊσμός, ὁ, “
+
+  Judaism”, [LXX+NT]: {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A3062
-    proximity: 0.8216
+    proximity: 0.8216 {macula-proximity}
   - strongs: G2453
-    proximity: 0.8071
+    lemma: Ἰουδαῖος
+    gloss: Judæan {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
   - strongs: G2451
-    proximity: 0.7778
+    lemma: Ἰουδαϊκός
+    gloss: Judaïc {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   - strongs: G4339
-    proximity: 0.7647
+    lemma: προσήλυτος
+    gloss: an arriver from a foreign region {openscriptures-strongs}
+    proximity: 0.7647 {macula-proximity}
   - strongs: G2449
-    proximity: 0.7279
+    lemma: Ἰουδαία
+    gloss: the Judæan land {openscriptures-strongs}
+    proximity: 0.7279 {macula-proximity}
   cross_language:
   - strongs: H3064
-    proximity: 0.8284
+    lemma: יְהוּדִי
+    gloss: a Jehudite {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,43 +6,51 @@ pronunciation: kaw-labe' ef-raw'-thaw
 definition: Caleb-Ephrathah, a place in Egypt (if the text is correct)
 kjv_usage: Caleb-ephrathah.
 derivation: from H3612 (כָּלֵב) and H672 (אֶפְרָת);
-extended_definition:
-  gloss: Caleb
-  definition: <BR> § Caleb-ephratah = "dog or ash heap"<br> a place in Gilead<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Caleb-ephratah = "dog or ash heap"
+
+  a place in Gilead {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H658
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
   - strongs: H3612
-    proximity: 0.8256
+    lemma: כָּלֵב
+    gloss: Caleb {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: H465
-    proximity: 0.8221
+    proximity: 0.8221 {macula-proximity}
   - strongs: H3316
-    proximity: 0.8193
+    lemma: יִפְתָּח
+    gloss: Jiphtach {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H6081
-    proximity: 0.8189
+    lemma: עֵפֶר
+    gloss: Epher {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H420
-    proximity: 0.8101
+    proximity: 0.8101 {macula-proximity}
   - strongs: H669
-    proximity: 0.7924
+    proximity: 0.7924 {macula-proximity}
   - strongs: H5891
-    proximity: 0.7595
+    lemma: עֵיפָה
+    gloss: Ephah {openscriptures-strongs}
+    proximity: 0.7595 {macula-proximity}
   - strongs: H673
-    proximity: 0.7301
+    proximity: 0.7301 {macula-proximity}
   cross_language:
   - strongs: G2181
-    proximity: 0.8263
+    lemma: Ἔφεσος
+    gloss: Ephesus {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
     language: greek
   - strongs: G2188
-    proximity: 0.8213
+    lemma: ἐφφαθά
+    gloss: be opened! {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
     language: greek
   - strongs: G5317
-    proximity: 0.8182
+    lemma: Φάλεκ
+    gloss: Phalek {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

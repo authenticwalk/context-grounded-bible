@@ -5,32 +5,28 @@ transliteration: synkyría
 definition: from the base of G2962 (κύριος)); concurrence, i.e. accident
 kjv_usage: chance
 derivation: from a comparative of G4862 (σύν) and (to light or happen;
-extended_definition:
-  gloss: coincidence
-  definition: '<b>συγκυρία</b>, -ας, ἡ<BR /> (συγκυρέω, to happen), [in Sm.: <ref=''1Sa.6.9''>1Ki.6:9</ref>
-    (מִקְרֶה) * ;] (more frequently in late writers, συγκύρησις, -ημα), <BR /><b>chance,
-    coincidence</b>: κατὰ σ. (see MM, xxiii), <ref=''Luk.10.31''>Luk.10:31</ref> (Hippocr.,
-    Eccl.).†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συγκῠρ-ία</b>, ἡ, <br /> = {συγκύρησις}, τὰ ἀπὸ συγκυρίης λυπήματα
-    γνώμης <b>chance</b> annoyances, [<a href="javascript:void(0)" title=" 5th c.BC:
-    Hippocrates Medicus “περὶ χυμῶν” 9; διὰ συγκυρίην [prev. author] “VM” 10; κατὰ
-    συγκυρίαν NT.Luke.10.31, 12th c.AD: Eustathius Episcopus Thessalonicensis 376.12.
-    ">NT+5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συγκυρία, -ας, ἡ
+
+  (συγκυρέω, to happen), [in Sm.: 1Ki.6:9 (מִקְרֶה) * ;] (more frequently in late
+  writers, συγκύρησις, -ημα),
+
+  chance, coincidence: κατὰ σ. (see MM, xxiii), Luk.10:31 (Hippocr., Eccl.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συγκῠρ-ία, ἡ,
+
+  = {συγκύρησις}, τὰ ἀπὸ συγκυρίης λυπήματα γνώμης chance annoyances, [NT+5th c.BC+]
+  {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H6294
-    proximity: 0.7964
+    lemma: פֶּגַע
+    gloss: impact {openscriptures-strongs}
+    proximity: 0.7964 {macula-proximity}
     language: hebrew
   - strongs: H7122
-    proximity: 0.7884
+    lemma: קָרָא
+    gloss: to encounter {openscriptures-strongs}
+    proximity: 0.7884 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

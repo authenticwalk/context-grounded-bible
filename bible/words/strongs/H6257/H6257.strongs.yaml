@@ -6,40 +6,45 @@ pronunciation: aw-thad'
 definition: to prepare
 kjv_usage: make fit, be ready to become.
 derivation: a primitive root;
-extended_definition:
-  gloss: be ready
-  definition: 1) to be ready, make ready, prepare<br>1a) (Piel) to make ready<br>1b)
-    (Hithpael) to be prepared
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be ready, make ready, prepare
+
+  1a) (Piel) to make ready
+
+  1b) (Hithpael) to be prepared {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1933a
-    proximity: 0.8135
+    proximity: 0.8135 {macula-proximity}
   - strongs: H6213
-    proximity: 0.8088
+    lemma: עָשָׂה
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
   - strongs: H3740
-    proximity: 0.8048
+    lemma: כֵּרָה
+    gloss: a purchase {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
   - strongs: H3739a
-    proximity: 0.7098
+    proximity: 0.7098 {macula-proximity}
   cross_language:
   - strongs: G4294
-    proximity: 0.8268
+    lemma: προκαταρτίζω
+    gloss: to prepare in advance {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: greek
   - strongs: G532
-    proximity: 0.7657
+    proximity: 0.7657 {macula-proximity}
     language: greek
   - strongs: G4265
-    proximity: 0.7562
+    lemma: προβλέπω
+    gloss: to look out beforehand {openscriptures-strongs}
+    proximity: 0.7562 {macula-proximity}
     language: greek
   - strongs: G2675
-    proximity: 0.7521
+    lemma: καταρτίζω
+    gloss: to complete thoroughly {openscriptures-strongs}
+    proximity: 0.7521 {macula-proximity}
     language: greek
   - strongs: G328
-    proximity: 0.7515
+    proximity: 0.7515 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

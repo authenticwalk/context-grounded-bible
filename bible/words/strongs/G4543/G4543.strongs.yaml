@@ -5,59 +5,64 @@ transliteration: Samothráikē
 definition: Samo-thrace (Samos of Thrace), an island in the Mediterranean
 kjv_usage: Samothracia
 derivation: from G4544 (Σάμος) and (Thrace);
-extended_definition:
-  gloss: Samothrace
-  definition: '<b>Σαμοθρᾴκη</b><BR /> (-θράκη, BE), -ης, ἡ <BR /><b>Samothrace, an
-    island in the Ægean</b>: <ref=''Act.16.11.''>Act.16:11.</ref>†<BR /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> Σᾰμοθρᾴκη</b>, <br /> <i>Ionic dialect</i> <b>Σαμοθρηΐκη</b>,
-    ἡ, [<a href="javascript:void(0)" title=" “Samothrace”, 5th c.BC: Herodotus Historicus
-    6.47 ">Refs 5th c.BC+</a>]; the seat of the mysteries of the Cabeiri, [<a href="javascript:void(0)"
-    title=" [prev. author] 2.51 ">Refs</a>]; called Σάμος Θρηϊκίη in [<a href="javascript:void(0)"
-    title=" 8th c.BC: Homerus Epicus, 8th c.BC: Ilias Homerus Epicus “Illiad” 13.12,
-    “hymnus ad Apollinem” 34 ">Refs 8th c.BC+</a>]; and simply Σάμος, [<a href="javascript:void(0)"
-    title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 24.78, 753 ">Refs 8th c.BC+</a>].
-    <i>adjective</i> <b>Σᾰμόθρᾳξ</b> (not Σαμοθρᾴξ),[<a href="javascript:void(0)"
-    title=" Hdn.Gr. 1.42, 4th-5th c.AD: Choeroboscus Grammaticus “Scholia in Theodosii
-    Canones” 1.187 ">Refs 4th c.AD+</a>] H., etc.; <i>Ionic dialect</i> <i>plural</i>
-    Σαμοθρήϊκες [<a href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus
-    2.51, 8.90 ">Refs 5th c.BC+</a>]; also <b>Σᾰμοθρᾴκιος</b>, <i>Ionic dialect</i>
-    <b>Σαμοθρηΐκιος</b>, η, ον, [<a href="javascript:void(0)" title=" [prev. author]
-    7.59, 108. ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'Σαμοθρᾴκη
+
+  (-θράκη, BE), -ης, ἡ
+
+  Samothrace, an island in the Ægean: Act.16:11.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Σᾰμοθρᾴκη,
+
+  Ionic dialect Σαμοθρηΐκη, ἡ, [Refs 5th c.BC+]; the seat of the mysteries of the
+  Cabeiri, [Refs]; called Σάμος Θρηϊκίη in [Refs 8th c.BC+]; and simply Σάμος, [Refs
+  8th c.BC+]. adjective Σᾰμόθρᾳξ (not Σαμοθρᾴξ),[Refs 4th c.AD+] H., etc.; Ionic dialect
+  plural Σαμοθρήϊκες [Refs 5th c.BC+]; also Σᾰμοθρᾴκιος, Ionic dialect Σαμοθρηΐκιος,
+  η, ον, [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4551
-    proximity: 0.825
+    lemma: Σαπφείρη
+    gloss: Sapphire {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: G2976
-    proximity: 0.8175
+    lemma: Λάζαρος
+    gloss: Lazarus {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
   - strongs: G4488
-    proximity: 0.8125
+    lemma: Ῥησά
+    gloss: Resa {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: G4544
-    proximity: 0.7841
+    lemma: Σάμος
+    gloss: Samus {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
   - strongs: G4564
-    proximity: 0.7681
+    lemma: Σάῤῥα
+    gloss: Sarra {openscriptures-strongs}
+    proximity: 0.7681 {macula-proximity}
   cross_language:
   - strongs: H3406
-    proximity: 0.8296
+    lemma: יְרִימוֹת
+    gloss: Jerimoth or Jeremoth {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: hebrew
   - strongs: H7216
-    proximity: 0.829
+    lemma: רָאמוֹת
+    gloss: Ramoth {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: hebrew
   - strongs: H8315
-    proximity: 0.8278
+    lemma: שָׂרָף
+    gloss: Saraph {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: hebrew
   - strongs: H501
-    proximity: 0.8263
+    proximity: 0.8263 {macula-proximity}
     language: hebrew
   - strongs: H8515
-    proximity: 0.8243
+    lemma: תְּלַאשַּׂר
+    gloss: Telassar {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

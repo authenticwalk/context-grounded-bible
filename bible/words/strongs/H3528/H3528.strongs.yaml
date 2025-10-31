@@ -7,36 +7,40 @@ definition: properly, extent of time, i.e. a great while; hence, long ago, forme
   hitherto
 kjv_usage: already, (seeing that which), now.
 derivation: from H3527 (כָּבַר);
-extended_definition:
-  gloss: already
-  definition: already, long ago, a great while
-  morphology: H:Adv
-  source: STEPBible/BDB
+extended_definition: already, long ago, a great while {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H227
-    proximity: 0.8195
+    proximity: 0.8195 {macula-proximity}
   - strongs: H7221
-    proximity: 0.7903
+    lemma: רִאשָׁה
+    gloss: a beginning {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
   - strongs: H865
-    proximity: 0.7591
+    proximity: 0.7591 {macula-proximity}
   - strongs: H6258
-    proximity: 0.7392
+    lemma: עַתָּה
+    gloss: at this time {openscriptures-strongs}
+    proximity: 0.7392 {macula-proximity}
   cross_language:
   - strongs: G3568
-    proximity: 0.809
+    lemma: νῦν
+    gloss: '"now" (as adverb of date {openscriptures-strongs}'
+    proximity: 0.809 {macula-proximity}
     language: greek
   - strongs: G4310
-    proximity: 0.7924
+    lemma: προπάσχω
+    gloss: to undergo hardship previously {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
     language: greek
   - strongs: G3570
-    proximity: 0.769
+    lemma: νυνί
+    gloss: just now {openscriptures-strongs}
+    proximity: 0.769 {macula-proximity}
     language: greek
   - strongs: G4296
-    proximity: 0.7058
+    lemma: προκηρύσσω
+    gloss: to herald  in advance {openscriptures-strongs}
+    proximity: 0.7058 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

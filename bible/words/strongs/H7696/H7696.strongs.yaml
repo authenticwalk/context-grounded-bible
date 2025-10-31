@@ -6,28 +6,35 @@ pronunciation: shaw-gah'
 definition: to rave through insanity
 kjv_usage: (be, play the) mad (man).
 derivation: a primitive root;
-extended_definition:
-  gloss: be mad
-  definition: 1) to be mad<br>1a) (Pual)<br>1a1) to be mad<br>1a2) to be maddened
-    (participle)<br>1b) (Hithpael) to show madness
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be mad
+
+  1a) (Pual)
+
+  1a1) to be mad
+
+  1a2) to be maddened (participle)
+
+  1b) (Hithpael) to show madness {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6277
-    proximity: 0.8154
+    lemma: עָתָק
+    gloss: impudent {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: H1948
-    proximity: 0.8139
+    lemma: הוֹלֵלוּת
+    gloss: folly {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H2102
-    proximity: 0.8136
+    lemma: זוּד
+    gloss: to seethe {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: H1984b
-    proximity: 0.7007
+    proximity: 0.7007 {macula-proximity}
   cross_language:
   - strongs: G3130
-    proximity: 0.8269
+    lemma: μανία
+    gloss: craziness {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

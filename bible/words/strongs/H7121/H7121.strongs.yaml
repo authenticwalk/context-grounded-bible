@@ -10,51 +10,79 @@ kjv_usage: bewray (self), that are bidden, call (for, forth, self, upon), cry (u
   pronounce, publish, read, renowned, say.
 derivation: a primitive root (rather identical with H7122 (קָרָא) through the idea
   of accosting a person met);
-extended_definition:
-  gloss: 'to call: read out'
-  definition: ': read_out/dictated<br>1) to call, call out, recite, read, cry out,
-    proclaim<br>1a) (Qal)<br>1a1) to call, cry, utter a loud sound<br>1a2) to call
-    unto, cry (for help), call (with name of God)<br>1a3) to proclaim<br>1a4) to read
-    aloud, read (to oneself), read<br>1a5) to summon, invite, call for, call and commission,
-    appoint, call and endow<br>1a6) to call, name, give name to, call by<br>1b) (Niphal)<br>1b1)
-    to call oneself<br>1b2) to be called, be proclaimed, be read aloud, be summoned,
-    be named<br>1c) (Pual) to be called, be named, be called out, be chosen'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': read_out/dictated
+
+  1) to call, call out, recite, read, cry out, proclaim
+
+  1a) (Qal)
+
+  1a1) to call, cry, utter a loud sound
+
+  1a2) to call unto, cry (for help), call (with name of God)
+
+  1a3) to proclaim
+
+  1a4) to read aloud, read (to oneself), read
+
+  1a5) to summon, invite, call for, call and commission, appoint, call and endow
+
+  1a6) to call, name, give name to, call by
+
+  1b) (Niphal)
+
+  1b1) to call oneself
+
+  1b2) to be called, be proclaimed, be read aloud, be summoned, be named
+
+  1c) (Pual) to be called, be named, be called out, be chosen {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8085
-    proximity: 0.8297
+    lemma: שָׁמַע
+    gloss: to hear intelligently (often with implication of attention {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: H5707
-    proximity: 0.8274
+    lemma: עֵד
+    gloss: concretely {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H833a
-    proximity: 0.8253
+    proximity: 0.8253 {macula-proximity}
   - strongs: H622
-    proximity: 0.8228
+    proximity: 0.8228 {macula-proximity}
   - strongs: H6419
-    proximity: 0.8214
+    lemma: פָּלַל
+    gloss: to judge {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H7971
-    proximity: 0.8199
+    lemma: שָׁלַח
+    gloss: to send away {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H6670
-    proximity: 0.8171
+    lemma: צָהַל
+    gloss: to gleam {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: H5012
-    proximity: 0.8161
+    lemma: נָבָא
+    gloss: to prophesy {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H6031b
-    proximity: 0.8151
+    proximity: 0.8151 {macula-proximity}
   - strongs: H1262a
-    proximity: 0.8146
+    proximity: 0.8146 {macula-proximity}
   cross_language:
   - strongs: G1189
-    proximity: 0.8253
+    lemma: δέομαι
+    gloss: to beg {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
     language: greek
   - strongs: G2004
-    proximity: 0.8221
+    lemma: ἐπιτάσσω
+    gloss: to arrange upon {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
     language: greek
   - strongs: G1229
-    proximity: 0.82
+    lemma: διαγγέλλω
+    gloss: to herald thoroughly {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

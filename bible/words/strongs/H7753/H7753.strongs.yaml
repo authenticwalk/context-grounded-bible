@@ -6,44 +6,57 @@ pronunciation: sook
 definition: to entwine, i.e. shut in (for formation, protection or restraint)
 kjv_usage: fence, (make an) hedge (up).
 derivation: a primitive root;
-extended_definition:
-  gloss: to hedge
-  definition: 1) to hedge or fence up or about<br>1a) (Qal) to fence about, hedge
-    up
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to hedge or fence up or about
+
+  1a) (Qal) to fence about, hedge up {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1443
-    proximity: 0.8235
+    lemma: גָּדַר
+    gloss: to wall in or around {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: H4697
-    proximity: 0.8019
+    lemma: מִצְחָה
+    gloss: a shinpiece of armor {openscriptures-strongs}
+    proximity: 0.8019 {macula-proximity}
   - strongs: H1448
-    proximity: 0.7743
+    lemma: גְּדֵרָה
+    gloss: enclosure {openscriptures-strongs}
+    proximity: 0.7743 {macula-proximity}
   - strongs: H5643a
-    proximity: 0.7669
+    proximity: 0.7669 {macula-proximity}
   - strongs: H4534
-    proximity: 0.7321
+    lemma: מְסוּכָה
+    gloss: a hedge {openscriptures-strongs}
+    proximity: 0.7321 {macula-proximity}
   - strongs: H1598
-    proximity: 0.7045
+    lemma: גָּנַן
+    gloss: to hedge about {openscriptures-strongs}
+    proximity: 0.7045 {macula-proximity}
   cross_language:
   - strongs: G5420
-    proximity: 0.8237
+    lemma: φράσσω
+    gloss: to fence or inclose {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
     language: greek
   - strongs: G1993
-    proximity: 0.8168
+    lemma: ἐπιστομίζω
+    gloss: to put something over the mouth {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
     language: greek
   - strongs: G5117
-    proximity: 0.8128
+    lemma: τόπος
+    gloss: a spot (general in space {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
     language: greek
   - strongs: G4933
-    proximity: 0.723
+    lemma: συντηρέω
+    gloss: to keep closely together {openscriptures-strongs}
+    proximity: 0.723 {macula-proximity}
     language: greek
   - strongs: G5418
-    proximity: 0.7064
+    lemma: φραγμός
+    gloss: a fence {openscriptures-strongs}
+    proximity: 0.7064 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

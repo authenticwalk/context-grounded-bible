@@ -6,33 +6,37 @@ pronunciation: doke
 definition: something crumbling, i.e. fine (as a thin cloth)
 kjv_usage: curtain.
 derivation: from H1854 (דָּקַק);
-extended_definition:
-  gloss: curtain
-  definition: veil, curtain
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: veil, curtain {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4329a
-    proximity: 0.797
+    proximity: 0.797 {macula-proximity}
   - strongs: H4539
-    proximity: 0.7924
+    lemma: מָסָךְ
+    gloss: a cover {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
   - strongs: H4541a
-    proximity: 0.7914
+    proximity: 0.7914 {macula-proximity}
   - strongs: H7900
-    proximity: 0.7726
+    lemma: שֹׂךְ
+    gloss: a booth {openscriptures-strongs}
+    proximity: 0.7726 {macula-proximity}
   - strongs: H3768
-    proximity: 0.7681
+    lemma: כַּרְפַּס
+    gloss: byssus or fine vegetable wool {openscriptures-strongs}
+    proximity: 0.7681 {macula-proximity}
   - strongs: H8063
-    proximity: 0.7673
+    lemma: שְׂמִיכָה
+    gloss: a run {openscriptures-strongs}
+    proximity: 0.7673 {macula-proximity}
   - strongs: H2279
-    proximity: 0.7645
+    lemma: חֹבֶרֶת
+    gloss: a joint {openscriptures-strongs}
+    proximity: 0.7645 {macula-proximity}
   cross_language:
   - strongs: G4470
-    proximity: 0.788
+    lemma: ῥάκος
+    gloss: a "rag {openscriptures-strongs}
+    proximity: 0.788 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

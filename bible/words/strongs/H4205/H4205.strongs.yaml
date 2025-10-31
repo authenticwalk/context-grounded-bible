@@ -6,40 +6,49 @@ pronunciation: maw-zore'
 definition: a bandage, i.e. remedy; hence, a sore (as needing a compress)
 kjv_usage: bound up, wound.
 derivation: or מָזֹר; from H2115 (זוּר) in the sense of binding up;
-extended_definition:
-  gloss: wound
-  definition: 1) wound<br>1a) wound (fig. of injury to or sufferings of Israel or
-    Judah)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) wound
+
+  1a) wound (fig. of injury to or sufferings of Israel or Judah) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2490a
-    proximity: 0.8246
+    proximity: 0.8246 {macula-proximity}
   - strongs: A2257
-    proximity: 0.8188
+    proximity: 0.8188 {macula-proximity}
   - strongs: H7667
-    proximity: 0.7995
+    lemma: שֶׁבֶר
+    gloss: a fracture {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
   - strongs: H6481
-    proximity: 0.7906
+    lemma: פָּצַע
+    gloss: to split {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
   - strongs: H4273
-    proximity: 0.7806
+    lemma: מַחַץ
+    gloss: a contusion {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
   - strongs: H4251
-    proximity: 0.7439
+    lemma: מַחְלֻי
+    gloss: a disease {openscriptures-strongs}
+    proximity: 0.7439 {macula-proximity}
   - strongs: H2250
-    proximity: 0.7001
+    lemma: חַבּוּרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7001 {macula-proximity}
   cross_language:
   - strongs: G2775
-    proximity: 0.8252
+    lemma: κεφαλαιόω
+    gloss: to strike on the head {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: greek
   - strongs: G1668
-    proximity: 0.7797
+    lemma: ἕλκος
+    gloss: an ulcer {openscriptures-strongs}
+    proximity: 0.7797 {macula-proximity}
     language: greek
   - strongs: G5135
-    proximity: 0.7611
+    lemma: τραυματίζω
+    gloss: to inflict a wound {openscriptures-strongs}
+    proximity: 0.7611 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

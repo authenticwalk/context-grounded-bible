@@ -7,31 +7,42 @@ definition: properly, bitterness; concretely, a bitter thing; specifically bile;
   venom (of a serpent)
 kjv_usage: bitter (thing), gall.
 derivation: or מְרוֹרָה; from H4843 (מָרַר);
-extended_definition:
-  gloss: gall
-  definition: 1) bitter thing, gall, poison<br>1a) gall, gall-bladder (seat of gall)<br>1b)
-    poison, venom<br>1c) bitter thing<br>1d) bitterness
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) bitter thing, gall, poison
+
+  1a) gall, gall-bladder (seat of gall)
+
+  1b) poison, venom
+
+  1c) bitter thing
+
+  1d) bitterness {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3516
-    proximity: 0.8103
+    lemma: כָּבֵד
+    gloss: the liver {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   - strongs: H4845
-    proximity: 0.7829
+    lemma: מְרֵרָה
+    gloss: bile {openscriptures-strongs}
+    proximity: 0.7829 {macula-proximity}
   - strongs: H4815
-    proximity: 0.78
+    lemma: מְרִירִי
+    gloss: bitter {openscriptures-strongs}
+    proximity: 0.78 {macula-proximity}
   - strongs: H4751
-    proximity: 0.7586
+    lemma: מַר
+    gloss: bitter {openscriptures-strongs}
+    proximity: 0.7586 {macula-proximity}
   cross_language:
   - strongs: G2447
-    proximity: 0.8074
+    lemma: ἰός
+    gloss: rust {openscriptures-strongs}
+    proximity: 0.8074 {macula-proximity}
     language: greek
   - strongs: G5521
-    proximity: 0.7477
+    lemma: χολή
+    gloss: '"gall" or bile {openscriptures-strongs}'
+    proximity: 0.7477 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

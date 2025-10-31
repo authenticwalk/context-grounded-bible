@@ -7,50 +7,73 @@ definition: to murmur (in pleasure or anger); by implication, to ponder
 kjv_usage: imagine, meditate, mourn, mutter, roar, [idiom] sore, speak, study, talk,
   utter.
 derivation: a primitive root (compare H1901 (הָגִיג));
-extended_definition:
-  gloss: to mutter
-  definition: 1) to moan, growl, utter, muse, mutter, meditate, devise, plot, speak<br>1a)
-    (Qal)<br>1a1) to roar, growl, groan<br>1a2) to utter, speak<br>1a3) to meditate,
-    devise, muse, imagine<br>1b) (Poal) to utter<br>1c) (Hiphil) to mutter
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to moan, growl, utter, muse, mutter, meditate, devise, plot,
+  speak
+
+  1a) (Qal)
+
+  1a1) to roar, growl, groan
+
+  1a2) to utter, speak
+
+  1a3) to meditate, devise, muse, imagine
+
+  1b) (Poal) to utter
+
+  1c) (Hiphil) to mutter {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A2324
-    proximity: 0.8286
+    proximity: 0.8286 {macula-proximity}
   - strongs: H5042
-    proximity: 0.8263
+    lemma: נָבַע
+    gloss: to gush forth {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: H56
-    proximity: 0.8254
+    proximity: 0.8254 {macula-proximity}
   - strongs: H7580
-    proximity: 0.8182
+    lemma: שָׁאַג
+    gloss: to rumble or moan {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
   - strongs: H2803
-    proximity: 0.8168
+    lemma: חָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H6963
-    proximity: 0.8111
+    lemma: קוֹל
+    gloss: a voice or sound {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: H5594
-    proximity: 0.8078
+    lemma: סָפַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   - strongs: H5090a
-    proximity: 0.8062
+    proximity: 0.8062 {macula-proximity}
   - strongs: H5046
-    proximity: 0.803
+    lemma: נָגַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
   - strongs: H5286
-    proximity: 0.7965
+    lemma: נָעַר
+    gloss: to growl {openscriptures-strongs}
+    proximity: 0.7965 {macula-proximity}
   cross_language:
   - strongs: G1260
-    proximity: 0.8187
+    lemma: διαλογίζομαι
+    gloss: to reckon thoroughly {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
     language: greek
   - strongs: G1334
-    proximity: 0.8046
+    lemma: διηγέομαι
+    gloss: to relate fully {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
     language: greek
   - strongs: G389
-    proximity: 0.8031
+    proximity: 0.8031 {macula-proximity}
     language: greek
   - strongs: G5612
-    proximity: 0.7987
+    lemma: ὠρύομαι
+    gloss: to "roar" {openscriptures-strongs}
+    proximity: 0.7987 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

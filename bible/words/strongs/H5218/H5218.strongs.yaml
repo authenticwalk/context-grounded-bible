@@ -9,40 +9,59 @@ derivation: or נָכָא; from H5217 (נָכָא);
 related_words:
   synonyms:
   - strongs: H421
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
   - strongs: H1672
-    proximity: 0.8286
+    lemma: דָּאַג
+    gloss: be anxious {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: H8428
-    proximity: 0.816
+    lemma: תָּוָה
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
   - strongs: H3015
-    proximity: 0.8027
+    lemma: יָגוֹן
+    gloss: affliction {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
   - strongs: H4470
-    proximity: 0.7747
+    lemma: מֶמֶר
+    gloss: sorrow {openscriptures-strongs}
+    proximity: 0.7747 {macula-proximity}
   - strongs: H8589
-    proximity: 0.7676
+    lemma: תַּעֲנִית
+    gloss: affliction {openscriptures-strongs}
+    proximity: 0.7676 {macula-proximity}
   - strongs: H56
-    proximity: 0.7489
+    proximity: 0.7489 {macula-proximity}
   - strongs: H3013
-    proximity: 0.7485
+    lemma: יָגָה
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.7485 {macula-proximity}
   - strongs: H7817a
-    proximity: 0.7445
+    proximity: 0.7445 {macula-proximity}
   cross_language:
   - strongs: G3602
-    proximity: 0.8261
+    lemma: ὀδυρμός
+    gloss: moaning {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: greek
   - strongs: G2870
-    proximity: 0.8236
+    lemma: κοπετός
+    gloss: mourning (properly {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
     language: greek
   - strongs: G3600
-    proximity: 0.8215
+    lemma: ὀδυνάω
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
     language: greek
   - strongs: G2669
-    proximity: 0.8166
+    lemma: καταπονέω
+    gloss: to labor down {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
     language: greek
   - strongs: G3997
-    proximity: 0.769
+    lemma: πένθος
+    gloss: grief {openscriptures-strongs}
+    proximity: 0.769 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

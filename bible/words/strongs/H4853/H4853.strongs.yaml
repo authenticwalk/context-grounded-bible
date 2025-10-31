@@ -10,40 +10,59 @@ derivation: from H5375 (נָשָׂא);
 related_words:
   synonyms:
   - strongs: H7892a
-    proximity: 0.8186
+    proximity: 0.8186 {macula-proximity}
   - strongs: H2167
-    proximity: 0.8167
+    lemma: זָמַר
+    gloss: play upon it {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H5375
-    proximity: 0.8139
+    lemma: נָשָׂא
+    gloss: to lift {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H4864
-    proximity: 0.7803
+    lemma: מַשְׂאֵת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7803 {macula-proximity}
   - strongs: H6045
-    proximity: 0.7781
+    lemma: עִנְיָן
+    gloss: ado {openscriptures-strongs}
+    proximity: 0.7781 {macula-proximity}
   - strongs: H5385
-    proximity: 0.7487
+    lemma: נְשׂוּאָה
+    gloss: something borne {openscriptures-strongs}
+    proximity: 0.7487 {macula-proximity}
   - strongs: H5923
-    proximity: 0.7421
+    lemma: עֹל
+    gloss: a yoke {openscriptures-strongs}
+    proximity: 0.7421 {macula-proximity}
   - strongs: H4972
-    proximity: 0.7306
+    lemma: מַתְּלָאָה
+    gloss: what a trouble! {openscriptures-strongs}
+    proximity: 0.7306 {macula-proximity}
   - strongs: H5445
-    proximity: 0.7238
+    lemma: סָבַל
+    gloss: to carry {openscriptures-strongs}
+    proximity: 0.7238 {macula-proximity}
   cross_language:
   - strongs: G103
-    proximity: 0.8212
+    proximity: 0.8212 {macula-proximity}
     language: greek
   - strongs: G3591
-    proximity: 0.7922
+    lemma: ὄγκος
+    gloss: a mass {openscriptures-strongs}
+    proximity: 0.7922 {macula-proximity}
     language: greek
   - strongs: G4858
-    proximity: 0.7881
+    lemma: συμφωνία
+    gloss: unison of sound {openscriptures-strongs}
+    proximity: 0.7881 {macula-proximity}
     language: greek
   - strongs: G4
-    proximity: 0.7799
+    proximity: 0.7799 {macula-proximity}
     language: greek
   - strongs: G1912
-    proximity: 0.7737
+    lemma: ἐπιβαρέω
+    gloss: to be heavy upon {openscriptures-strongs}
+    proximity: 0.7737 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

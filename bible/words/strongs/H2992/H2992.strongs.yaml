@@ -7,38 +7,38 @@ definition: to marry a (deceased) brother's widow
 kjv_usage: perform the duty of a husband's brother, marry.
 derivation: a primitive root of doubtful meaning; used only as a denominative from
   H2993 (יָבָם);
-extended_definition:
-  gloss: be brother-in-law
-  definition: 1) (Piel) to perform levirate marriage, perform the duty of a brother-in-law<br>1a)
-    the duty due to a brother who died childless - to marry his widow and have a son
-    for his name
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Piel) to perform levirate marriage, perform the duty of
+  a brother-in-law
+
+  1a) the duty due to a brother who died childless - to marry his widow and have a
+  son for his name {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1b
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7778
+    proximity: 0.7778 {macula-proximity}
   - strongs: A252
-    proximity: 0.7566
+    proximity: 0.7566 {macula-proximity}
   - strongs: H253
-    proximity: 0.7501
+    proximity: 0.7501 {macula-proximity}
   cross_language:
   - strongs: G5569
-    proximity: 0.786
+    lemma: ψευδάδελφος
+    gloss: a spurious brother {openscriptures-strongs}
+    proximity: 0.786 {macula-proximity}
     language: greek
   - strongs: G81
-    proximity: 0.7805
+    proximity: 0.7805 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.7676
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7676 {macula-proximity}
     language: greek
   - strongs: G5360
-    proximity: 0.7388
+    lemma: φιλαδελφία
+    gloss: fraternal affection {openscriptures-strongs}
+    proximity: 0.7388 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

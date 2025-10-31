@@ -10,29 +10,38 @@ derivation: a primitive root (compare H2107 (זוּל));
 related_words:
   synonyms:
   - strongs: H7589
-    proximity: 0.8231
+    lemma: שְׁאָט
+    gloss: contempt {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H7034
-    proximity: 0.7926
+    lemma: קָלָה
+    gloss: to be light {openscriptures-strongs}
+    proximity: 0.7926 {macula-proximity}
   - strongs: H5240
-    proximity: 0.7702
+    lemma: נְמִבְזֶה
+    gloss: despised {openscriptures-strongs}
+    proximity: 0.7702 {macula-proximity}
   - strongs: H1163
-    proximity: 0.7596
+    lemma: בָּעַט
+    gloss: to trample down {openscriptures-strongs}
+    proximity: 0.7596 {macula-proximity}
   - strongs: H7590a
-    proximity: 0.7046
+    proximity: 0.7046 {macula-proximity}
   cross_language:
   - strongs: G4065
-    proximity: 0.8128
+    lemma: περιφρονέω
+    gloss: to think beyond {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
     language: greek
   - strongs: G2897
-    proximity: 0.8025
+    lemma: κραιπάλη
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8025 {macula-proximity}
     language: greek
   - strongs: G810
-    proximity: 0.796
+    proximity: 0.796 {macula-proximity}
     language: greek
   - strongs: G888
-    proximity: 0.7602
+    proximity: 0.7602 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

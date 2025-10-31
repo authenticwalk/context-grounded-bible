@@ -7,46 +7,61 @@ definition: to cut off; specifically to shear aflock or shave the hair; figurati
   to destroy an enemy
 kjv_usage: cut off (down), poll, shave, (sheep-) shear(-er).
 derivation: a primitive root (akin to H1468 (גּוּז));
-extended_definition:
-  gloss: to shear
-  definition: 1) to shear, mow<br>1a) (Qal)<br>1a1) to shear<br>1a2) shearer (participle)<br>1b)
-    (Niphal) to be cut off, be destroyed
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to shear, mow
+
+  1a) (Qal)
+
+  1a1) to shear
+
+  1a2) shearer (participle)
+
+  1b) (Niphal) to be cut off, be destroyed {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6789
-    proximity: 0.83
+    lemma: צָמַת
+    gloss: to extirpate {openscriptures-strongs}
+    proximity: 0.83 {macula-proximity}
   - strongs: H8456
-    proximity: 0.8247
+    lemma: תָּזַז
+    gloss: to lop off {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H4135a
-    proximity: 0.8243
+    proximity: 0.8243 {macula-proximity}
   - strongs: H3582
-    proximity: 0.8241
+    lemma: כָּחַד
+    gloss: to secrete {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H1820a
-    proximity: 0.8153
+    proximity: 0.8153 {macula-proximity}
   - strongs: H1639
-    proximity: 0.8113
+    lemma: גָּרַע
+    gloss: to scrape off {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
   - strongs: H1214
-    proximity: 0.8103
+    lemma: בָּצַע
+    gloss: figuratively {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   - strongs: H6629
-    proximity: 0.7993
+    lemma: צֹאן
+    gloss: a collective name for a flock {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
   - strongs: H4448b
-    proximity: 0.7643
+    proximity: 0.7643 {macula-proximity}
   - strongs: H7096
-    proximity: 0.7497
+    lemma: קָצָה
+    gloss: to cut off {openscriptures-strongs}
+    proximity: 0.7497 {macula-proximity}
   cross_language:
   - strongs: G851
-    proximity: 0.8229
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G609
-    proximity: 0.8179
+    proximity: 0.8179 {macula-proximity}
     language: greek
   - strongs: G1581
-    proximity: 0.8139
+    lemma: ἐκκόπτω
+    gloss: to exscind {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

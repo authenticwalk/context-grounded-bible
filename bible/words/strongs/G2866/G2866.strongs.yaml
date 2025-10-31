@@ -6,57 +6,70 @@ definition: figuratively, convalescent
 kjv_usage: + began to amend
 derivation: neuter comparative of a derivative of the base of 2865 (meaning, properly,
   well dressed, i.e. nice);
-extended_definition:
-  gloss: better
-  definition: '<b>κομψός</b>, -ή, -όν<BR /> (κομέω, to take care of), <BR /><b>well-dressed,
-    elegant, fine</b>; compar. neut., κομψότερον ἔχειν (cf. κόμψως ἔχειν, Epict.,
-    and colloq. Eng., "to be doing finely"): <ref=''Jhn.4.52.''>Jhn.4:52.</ref>†<BR
-    /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: 'Related to: <b> κομψ-ότης</b>, ητος, ἡ, <br /> <b>elegance, prettiness,
-    daintiness</b>, especially of language, [<a href="javascript:void(0)" title="
-    5th-6th c.BC: Isocrates Orator 12.1 (variant{κοσμιότητος}), 5th-6th c.BC: Plato
-    Philosophus “Epistulae” 358c (_plural_)">Refs 5th c.BC+</a>]; κ. ἱστορική, φυσική,
-    [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus
-    2.353e. ">Refs 1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κομψός, -ή, -όν
+
+  (κομέω, to take care of),
+
+  well-dressed, elegant, fine; compar. neut., κομψότερον ἔχειν (cf. κόμψως ἔχειν,
+  Epict., and colloq. Eng., "to be doing finely"): Jhn.4:52.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Related to:  κομψ-ότης, ητος, ἡ,
+
+  elegance, prettiness, daintiness, especially of language, [Refs 5th c.BC+]; κ. ἱστορική,
+  φυσική, [Refs 1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G865
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
   - strongs: G4428
-    proximity: 0.8278
+    lemma: πτύσσω
+    gloss: and thus apparently allied to G4072  through the idea of expansion {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: G5543
-    proximity: 0.8254
+    lemma: χρηστός
+    gloss: employed {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: G3140
-    proximity: 0.8253
+    lemma: μαρτυρέω
+    gloss: to be a witness {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
   - strongs: G5358
-    proximity: 0.8231
+    lemma: φιλάγαθος
+    gloss: fond to good {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: G2105
-    proximity: 0.8201
+    lemma: εὐδία
+    gloss: a clear sky {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: G2120
-    proximity: 0.8194
+    lemma: εὐκαιρία
+    gloss: a favorable occasion {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: G15
-    proximity: 0.814
+    proximity: 0.814 {macula-proximity}
   - strongs: G4283
-    proximity: 0.8119
+    lemma: προευαγγελίζομαι
+    gloss: to announce glad news in advance {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: G2146
-    proximity: 0.8091
+    lemma: εὐπροσωπέω
+    gloss: to be of good countenance {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
   cross_language:
   - strongs: H4005
-    proximity: 0.8146
+    lemma: מִבְחָר
+    gloss: select {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
     language: hebrew
   - strongs: H2895
-    proximity: 0.8123
+    lemma: טוֹב
+    gloss: to be (transitively {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
     language: hebrew
   - strongs: H1409
-    proximity: 0.8074
+    lemma: גָּד
+    gloss: fortune {openscriptures-strongs}
+    proximity: 0.8074 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

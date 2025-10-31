@@ -7,31 +7,44 @@ definition: Hades or the world of the dead (as if a subterranean retreat), inclu
   its accessories and inmates
 kjv_usage: grave, hell, pit.
 derivation: or שְׁאֹל; from H7592 (שָׁאַל);
-extended_definition:
-  gloss: 'hell: Sheol'
-  definition: Sheol, underworld, grave, hell, pit<br>1a) the underworld<br>1b) Sheol-the
-    OT designation for the abode of the dead<br>1b1) place of no return<br>1b2) without
-    praise of God<br>1b3) wicked sent there for punishment<br>1b4) righteous not abandoned
-    to it<br>1b5) of the place of exile (fig)<br>1b6) of extreme degradation in sin<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: 'Sheol, underworld, grave, hell, pit
+
+  1a) the underworld
+
+  1b) Sheol-the OT designation for the abode of the dead
+
+  1b1) place of no return
+
+  1b2) without praise of God
+
+  1b3) wicked sent there for punishment
+
+  1b4) righteous not abandoned to it
+
+  1b5) of the place of exile (fig)
+
+  1b6) of extreme degradation in sin {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6900
-    proximity: 0.7893
+    lemma: קְבוּרָה
+    gloss: sepulture {openscriptures-strongs}
+    proximity: 0.7893 {macula-proximity}
   - strongs: H4194
-    proximity: 0.758
+    lemma: מָוֶת
+    gloss: death {openscriptures-strongs}
+    proximity: 0.758 {macula-proximity}
   - strongs: H11
-    proximity: 0.7397
+    proximity: 0.7397 {macula-proximity}
   cross_language:
   - strongs: G1067
-    proximity: 0.745
+    lemma: γέεννα
+    gloss: valley of  Hinnom {openscriptures-strongs}
+    proximity: 0.745 {macula-proximity}
     language: greek
   - strongs: G3419
-    proximity: 0.7355
+    lemma: μνημεῖον
+    gloss: a remembrance {openscriptures-strongs}
+    proximity: 0.7355 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

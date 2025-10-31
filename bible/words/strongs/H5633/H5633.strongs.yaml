@@ -9,42 +9,57 @@ derivation: from an unused root of uncertain meaning;
 related_words:
   synonyms:
   - strongs: H136
-    proximity: 0.83
+    proximity: 0.83 {macula-proximity}
   - strongs: H8199
-    proximity: 0.8186
+    lemma: שָׁפַט
+    gloss: to judge {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: A7868
-    proximity: 0.8118
+    proximity: 0.8118 {macula-proximity}
   - strongs: A7984
-    proximity: 0.8095
+    proximity: 0.8095 {macula-proximity}
   - strongs: A4756
-    proximity: 0.7962
+    proximity: 0.7962 {macula-proximity}
   - strongs: H4474
-    proximity: 0.7752
+    lemma: מִמְשָׁל
+    gloss: a ruler or  rule {openscriptures-strongs}
+    proximity: 0.7752 {macula-proximity}
   - strongs: H6260
-    proximity: 0.775
+    lemma: עַתּוּד
+    gloss: prepared {openscriptures-strongs}
+    proximity: 0.775 {macula-proximity}
   - strongs: H113
-    proximity: 0.7736
+    proximity: 0.7736 {macula-proximity}
   - strongs: H4910
-    proximity: 0.7596
+    lemma: מָשַׁל
+    gloss: to rule {openscriptures-strongs}
+    proximity: 0.7596 {macula-proximity}
   - strongs: H2205
-    proximity: 0.7515
+    lemma: זָקֵן
+    gloss: old {openscriptures-strongs}
+    proximity: 0.7515 {macula-proximity}
   cross_language:
   - strongs: G3595
-    proximity: 0.8223
+    lemma: ὁδηγός
+    gloss: a conductor ) {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G2962
-    proximity: 0.8156
+    lemma: κύριος
+    gloss: supreme in authority {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
     language: greek
   - strongs: G757
-    proximity: 0.8028
+    proximity: 0.8028 {macula-proximity}
     language: greek
   - strongs: G5383
-    proximity: 0.7976
+    lemma: φιλοπρωτεύω
+    gloss: to be fond of being first {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
     language: greek
   - strongs: G4413
-    proximity: 0.7601
+    lemma: πρῶτος
+    gloss: foremost (in time {openscriptures-strongs}
+    proximity: 0.7601 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

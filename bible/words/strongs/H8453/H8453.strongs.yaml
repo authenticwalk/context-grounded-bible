@@ -11,34 +11,41 @@ derivation: or תֹּשָׁב; (1 Kings 17:1), from H3427 (יָשַׁב); a dwel
 related_words:
   synonyms:
   - strongs: H1982
-    proximity: 0.8268
+    lemma: הֵלֶךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: A1753
-    proximity: 0.8181
+    proximity: 0.8181 {macula-proximity}
   - strongs: H6154a
-    proximity: 0.7867
+    proximity: 0.7867 {macula-proximity}
   - strongs: H3427
-    proximity: 0.7814
+    lemma: יָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7814 {macula-proximity}
   - strongs: H5237
-    proximity: 0.716
+    lemma: נׇכְרִי
+    gloss: strange {openscriptures-strongs}
+    proximity: 0.716 {macula-proximity}
   - strongs: H2114b
-    proximity: 0.7053
+    proximity: 0.7053 {macula-proximity}
   cross_language:
   - strongs: G1484
-    proximity: 0.8212
+    lemma: ἔθνος
+    gloss: a race {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
     language: greek
   - strongs: G2730
-    proximity: 0.7903
+    lemma: κατοικέω
+    gloss: to house permanently {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
     language: greek
   - strongs: G245
-    proximity: 0.7678
+    proximity: 0.7678 {macula-proximity}
     language: greek
   - strongs: G246
-    proximity: 0.761
+    proximity: 0.761 {macula-proximity}
     language: greek
   - strongs: G241
-    proximity: 0.7045
+    proximity: 0.7045 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

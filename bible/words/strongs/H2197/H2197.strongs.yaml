@@ -6,48 +6,54 @@ pronunciation: zah'-af
 definition: anger
 kjv_usage: indignation, rage(-ing), wrath.
 derivation: from H2196 (זָעַף);
-extended_definition:
-  gloss: rage
-  definition: rage, raging, storming, indignation
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: rage, raging, storming, indignation {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3708a
-    proximity: 0.8091
+    proximity: 0.8091 {macula-proximity}
   - strongs: H599
-    proximity: 0.8053
+    proximity: 0.8053 {macula-proximity}
   - strongs: H7481a
-    proximity: 0.7949
+    proximity: 0.7949 {macula-proximity}
   - strongs: H7582a
-    proximity: 0.7858
+    proximity: 0.7858 {macula-proximity}
   - strongs: H2152
-    proximity: 0.7778
+    lemma: זַלְעָפָה
+    gloss: a glow {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   - strongs: H2194
-    proximity: 0.7647
+    lemma: זָעַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7647 {macula-proximity}
   - strongs: H2196
-    proximity: 0.7637
+    lemma: זָעַף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7637 {macula-proximity}
   - strongs: H5674a
-    proximity: 0.7611
+    proximity: 0.7611 {macula-proximity}
   - strongs: H7267
-    proximity: 0.7475
+    lemma: רֹגֶז
+    gloss: commotion {openscriptures-strongs}
+    proximity: 0.7475 {macula-proximity}
   - strongs: H3708
-    proximity: 0.7472
+    lemma: כַּעַס
+    gloss: vexation {openscriptures-strongs}
+    proximity: 0.7472 {macula-proximity}
   cross_language:
   - strongs: G3710
-    proximity: 0.8026
+    lemma: ὀργίζω
+    gloss: to provoke or enrage {openscriptures-strongs}
+    proximity: 0.8026 {macula-proximity}
     language: greek
   - strongs: G454
-    proximity: 0.7993
+    proximity: 0.7993 {macula-proximity}
     language: greek
   - strongs: G24
-    proximity: 0.7656
+    proximity: 0.7656 {macula-proximity}
     language: greek
   - strongs: G1693
-    proximity: 0.7281
+    lemma: ἐμμαίνομαι
+    gloss: to rave on {openscriptures-strongs}
+    proximity: 0.7281 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

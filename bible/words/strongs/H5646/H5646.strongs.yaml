@@ -7,30 +7,36 @@ definition: an architrave (as shading the pillars)
 kjv_usage: thick (beam, plant).
 derivation: or עֹב; from an unused root meaning to cover; properly, equivalent to
   H5645 (עָב); but used only as an architectural term,
-extended_definition:
-  gloss: threshold
-  definition: 1) an architectural term<br>1a) meaning uncertain; perhaps projecting
-    roof, landing, thick beam, plank, threshold
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) an architectural term
+
+  1a) meaning uncertain; perhaps projecting roof, landing, thick beam, plank, threshold
+  {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4678
-    proximity: 0.8241
+    lemma: מַצֶּבֶת
+    gloss: something stationary {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H4609
-    proximity: 0.8123
+    lemma: מַעֲלָה
+    gloss: elevation {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
   - strongs: H5982
-    proximity: 0.8052
+    lemma: עַמּוּד
+    gloss: a column {openscriptures-strongs}
+    proximity: 0.8052 {macula-proximity}
   - strongs: H4372
-    proximity: 0.7565
+    lemma: מִכְסֶה
+    gloss: a covering {openscriptures-strongs}
+    proximity: 0.7565 {macula-proximity}
   - strongs: H4670
-    proximity: 0.7019
+    lemma: מִפְתָּן
+    gloss: a stretcher {openscriptures-strongs}
+    proximity: 0.7019 {macula-proximity}
   cross_language:
   - strongs: G4769
-    proximity: 0.8102
+    lemma: στῦλος
+    gloss: properly akin to the base of G2476 ) {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

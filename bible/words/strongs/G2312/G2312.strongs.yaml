@@ -5,54 +5,73 @@ transliteration: theodídaktos
 definition: divinely instructed
 kjv_usage: taught of God
 derivation: from G2316 (θεός) and G1321 (διδάσκω);
-extended_definition:
-  gloss: divinely instructed
-  definition: '<b>θεο-δίδακτος</b>, -ον <BR /> taught of God (cf. διδακτοὶ θεοῦ, <ref=''Jhn.6.45''>Jhn.6:45</ref>):
-    <ref=''1Th.4.9''>1Th.4:9</ref>.†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> θεο-δίδακτος</b> [ῐ], ον, <br /> <b>taught of God</b>, [<a href="javascript:void(0)"
-    title=" NT.1Thes.4.9. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'θεο-δίδακτος, -ον
+
+  taught of God (cf. διδακτοὶ θεοῦ, Jhn.6:45): 1Th.4:9.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'θεο-δίδακτος [ῐ], ον,
+
+  taught of God, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3811
-    proximity: 0.8292
+    lemma: παιδεύω
+    gloss: to train up a child {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: G1319
-    proximity: 0.8224
+    lemma: διδασκαλία
+    gloss: instruction {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
   - strongs: G1317
-    proximity: 0.8163
+    lemma: διδακτικός
+    gloss: instructive {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
   - strongs: G2319
-    proximity: 0.8099
+    lemma: θεοστυγής
+    gloss: hateful to God {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
   - strongs: G2314
-    proximity: 0.8081
+    lemma: θεομάχος
+    gloss: an opponent of deity {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
   - strongs: G2317
-    proximity: 0.7902
+    lemma: θεοσέβεια
+    gloss: devoutness {openscriptures-strongs}
+    proximity: 0.7902 {macula-proximity}
   - strongs: G112
-    proximity: 0.7744
+    proximity: 0.7744 {macula-proximity}
   - strongs: G5377
-    proximity: 0.7725
+    lemma: φιλόθεος
+    gloss: fond of God {openscriptures-strongs}
+    proximity: 0.7725 {macula-proximity}
   - strongs: G2727
-    proximity: 0.7505
+    lemma: κατηχέω
+    gloss: to sound down into the ears {openscriptures-strongs}
+    proximity: 0.7505 {macula-proximity}
   - strongs: G1322
-    proximity: 0.7442
+    lemma: διδαχή
+    gloss: instruction {openscriptures-strongs}
+    proximity: 0.7442 {macula-proximity}
   cross_language:
   - strongs: H8637
-    proximity: 0.8197
+    lemma: תִּרְגַּל
+    gloss: to cause to walk {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
     language: hebrew
   - strongs: H3069
-    proximity: 0.8037
+    lemma: יְהֹוִה
+    gloss: '{YHWH} {openscriptures-strongs}'
+    proximity: 0.8037 {macula-proximity}
     language: hebrew
   - strongs: H3928
-    proximity: 0.8018
+    lemma: לִמּוּד
+    gloss: instructed {openscriptures-strongs}
+    proximity: 0.8018 {macula-proximity}
     language: hebrew
   - strongs: H3925
-    proximity: 0.7917
+    lemma: לָמַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

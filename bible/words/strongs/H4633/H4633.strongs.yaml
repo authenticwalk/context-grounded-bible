@@ -6,34 +6,40 @@ pronunciation: mah-ar-awk'
 definition: an arrangement, i.e. (figuratively) mental disposition
 kjv_usage: preparation.
 derivation: from H6186 (עָרַךְ);
-extended_definition:
-  gloss: plan
-  definition: arrangement, plan, preparation
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: arrangement, plan, preparation {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3289
-    proximity: 0.8133
+    lemma: יָעַץ
+    gloss: to advise {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   - strongs: H4427a
-    proximity: 0.8087
+    proximity: 0.8087 {macula-proximity}
   - strongs: H6098
-    proximity: 0.7782
+    lemma: עֵצָה
+    gloss: advice {openscriptures-strongs}
+    proximity: 0.7782 {macula-proximity}
   - strongs: H2162
-    proximity: 0.7676
+    lemma: זָמָם
+    gloss: a plot {openscriptures-strongs}
+    proximity: 0.7676 {macula-proximity}
   - strongs: H2803
-    proximity: 0.7606
+    lemma: חָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7606 {macula-proximity}
   - strongs: H4284
-    proximity: 0.7586
+    lemma: מַחֲשָׁבָה
+    gloss: a contrivance {openscriptures-strongs}
+    proximity: 0.7586 {macula-proximity}
   cross_language:
   - strongs: G3191
-    proximity: 0.8205
+    lemma: μελετάω
+    gloss: to take care of {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
     language: greek
   - strongs: G1688
-    proximity: 0.7837
+    lemma: ἐμβιβάζω
+    gloss: causative of G1684 ) {openscriptures-strongs}
+    proximity: 0.7837 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

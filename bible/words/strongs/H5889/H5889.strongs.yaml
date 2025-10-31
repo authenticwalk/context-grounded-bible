@@ -6,46 +6,62 @@ pronunciation: aw-yafe'
 definition: languid
 kjv_usage: faint, thirsty, weary.
 derivation: from H5888 (עָיֵף);
-extended_definition:
-  gloss: faint
-  definition: faint, exhausted, weary
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: faint, exhausted, weary {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1809
-    proximity: 0.8237
+    lemma: דָּלַל
+    gloss: to slacken or be feeble {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: H6313
-    proximity: 0.8183
+    lemma: פּוּג
+    gloss: to be sluggish {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: H5848a
-    proximity: 0.8083
+    proximity: 0.8083 {macula-proximity}
   - strongs: H5034
-    proximity: 0.8066
+    lemma: נָבֵל
+    gloss: to wilt {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
   - strongs: H6774
-    proximity: 0.7985
+    lemma: צִמָּאוֹן
+    gloss: a thirsty place {openscriptures-strongs}
+    proximity: 0.7985 {macula-proximity}
   - strongs: H8514
-    proximity: 0.78
+    lemma: תַּלְאוּבָה
+    gloss: desiccation {openscriptures-strongs}
+    proximity: 0.78 {macula-proximity}
   - strongs: H6772
-    proximity: 0.7792
+    lemma: צָמָא
+    gloss: thirst {openscriptures-strongs}
+    proximity: 0.7792 {macula-proximity}
   - strongs: H6770
-    proximity: 0.7766
+    lemma: צָמֵא
+    gloss: to thirst {openscriptures-strongs}
+    proximity: 0.7766 {macula-proximity}
   - strongs: H6723
-    proximity: 0.7679
+    lemma: צִיָּה
+    gloss: aridity {openscriptures-strongs}
+    proximity: 0.7679 {macula-proximity}
   cross_language:
   - strongs: G1590
-    proximity: 0.8187
+    lemma: ἐκλύω
+    gloss: to relax {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
     language: greek
   - strongs: G1372
-    proximity: 0.7611
+    lemma: διψάω
+    gloss: to thirst for {openscriptures-strongs}
+    proximity: 0.7611 {macula-proximity}
     language: greek
   - strongs: G2577
-    proximity: 0.7266
+    lemma: κάμνω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7266 {macula-proximity}
     language: greek
   - strongs: G2872
-    proximity: 0.703
+    lemma: κοπιάω
+    gloss: to feel fatigue {openscriptures-strongs}
+    proximity: 0.703 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

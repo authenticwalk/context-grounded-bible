@@ -6,28 +6,29 @@ pronunciation: koor
 definition: a pot or furnace (as if excavated)
 kjv_usage: furnace. Compare H3600 (כִּיר).
 derivation: from an unused root meaning properly, to dig through;
-extended_definition:
-  gloss: furnace
-  definition: 1) furnace, forge, smelting furnace or pot<br>v<br>2) (Qal) to bore,
-    pierce, dig, hew
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) furnace, forge, smelting furnace or pot
+
+  v
+
+  2) (Qal) to bore, pierce, dig, hew {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6352
-    proximity: 0.7848
+    lemma: פֶּחָם
+    gloss: a coal {openscriptures-strongs}
+    proximity: 0.7848 {macula-proximity}
   - strongs: H4715
-    proximity: 0.7761
+    lemma: מִצְרֵף
+    gloss: a crucible {openscriptures-strongs}
+    proximity: 0.7761 {macula-proximity}
   - strongs: H254
-    proximity: 0.7354
+    proximity: 0.7354 {macula-proximity}
   - strongs: H3344a
-    proximity: 0.7353
+    proximity: 0.7353 {macula-proximity}
   cross_language:
   - strongs: G4442
-    proximity: 0.8014
+    lemma: πῦρ
+    gloss: '"fire" (literally or figuratively {openscriptures-strongs}'
+    proximity: 0.8014 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

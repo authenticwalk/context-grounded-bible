@@ -7,48 +7,62 @@ definition: properly, a taste, i.e. (figuratively) perception; by implication, i
   transitively, a mandate
 kjv_usage: advice, behaviour, decree, discretion, judgment, reason, taste, understanding.
 derivation: from H2938 (טָעַם);
-extended_definition:
-  gloss: taste
-  definition: 1) taste, judgment<br>1a) taste<br>1b) judgment (fig.)<br>1c) decision,
-    decree
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) taste, judgment
+
+  1a) taste
+
+  1b) judgment (fig.)
+
+  1c) decision, decree {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2938
-    proximity: 0.8246
+    lemma: טָעַם
+    gloss: to taste {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: H2450
-    proximity: 0.8244
+    lemma: חָכָם
+    gloss: wise {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: H7919
-    proximity: 0.8236
+    lemma: שָׂכַל
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
   - strongs: H4093
-    proximity: 0.8191
+    lemma: מַדָּע
+    gloss: intelligence or consciousness {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
   - strongs: A4486
-    proximity: 0.8066
+    proximity: 0.8066 {macula-proximity}
   - strongs: H998
-    proximity: 0.7932
+    proximity: 0.7932 {macula-proximity}
   - strongs: H2896
-    proximity: 0.7842
+    lemma: טוֹב
+    gloss: good  in the widest sense {openscriptures-strongs}
+    proximity: 0.7842 {macula-proximity}
   - strongs: A2942
-    proximity: 0.7815
+    proximity: 0.7815 {macula-proximity}
   cross_language:
   - strongs: G2570
-    proximity: 0.8165
+    lemma: καλός
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G1785
-    proximity: 0.8147
+    lemma: ἐντολή
+    gloss: injunction {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
     language: greek
   - strongs: G1297
-    proximity: 0.8132
+    lemma: διάταγμα
+    gloss: an arrangement {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
     language: greek
   - strongs: G4680
-    proximity: 0.8065
+    lemma: σοφός
+    gloss: wise {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
     language: greek
   - strongs: G18
-    proximity: 0.7975
+    proximity: 0.7975 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

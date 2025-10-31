@@ -5,29 +5,26 @@ transliteration: Rhoboám
 definition: Roboam (i.e. Rechobam), an Israelite
 kjv_usage: Roboam
 derivation: of Hebrew origin (H07346);
-extended_definition:
-  gloss: Rehoboam
-  definition: '<b>Ῥοβοάμ</b>, ὁ indecl. (Heb. רְחַבְעָם), <BR /> <b>Rehoboam</b>:
-    <ref=''Mat.1.7.''>Mat.1:7.</ref>†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ῥοβοάμ</b>, ὁ indecl. (Heb. רְחַבְעָם), <BR /> <b>Rehoboam</b>:
-    <ref=''Mat.1.7.''>Mat.1:7.</ref>†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ῥοβοάμ, ὁ indecl. (Heb. רְחַבְעָם),
+
+  Rehoboam: Mat.1:7.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ῥοβοάμ, ὁ indecl. (Heb. רְחַבְעָם),
+
+  Rehoboam: Mat.1:7.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G624
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
   - strongs: G625
-    proximity: 0.7917
+    proximity: 0.7917 {macula-proximity}
   cross_language:
   - strongs: H3379
-    proximity: 0.7809
+    lemma: יָרׇבְעָם
+    gloss: Jarobam {openscriptures-strongs}
+    proximity: 0.7809 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,48 +6,64 @@ pronunciation: tid-hawr'
 definition: enduring; a species of hard-wood or lasting tree (perhaps oak)
 kjv_usage: pine (tree).
 derivation: apparently from H1725 (דָּהַר);
-extended_definition:
-  gloss: elm
-  definition: 1) a species of hardwood tree<br>1a) perhaps boxwood, elm
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) a species of hardwood tree
+
+  1a) perhaps boxwood, elm {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6982
-    proximity: 0.8299
+    lemma: קוֹרָה
+    gloss: a rafter {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
   - strongs: H436
-    proximity: 0.8231
+    proximity: 0.8231 {macula-proximity}
   - strongs: H6196
-    proximity: 0.8222
+    lemma: עַרְמוֹן
+    gloss: the plane tree {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H1613
-    proximity: 0.821
+    lemma: גֹּפֶר
+    gloss: a kind of tree or wood {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
   - strongs: H7574
-    proximity: 0.8098
+    lemma: רֶתֶם
+    gloss: the Spanish broom {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
   - strongs: H8560
-    proximity: 0.788
+    lemma: תֹּמֶר
+    gloss: a palm trunk {openscriptures-strongs}
+    proximity: 0.788 {macula-proximity}
   - strongs: H352a
-    proximity: 0.7782
+    proximity: 0.7782 {macula-proximity}
   - strongs: H8391
-    proximity: 0.7684
+    lemma: תְּאַשּׁוּר
+    gloss: a species of cedar {openscriptures-strongs}
+    proximity: 0.7684 {macula-proximity}
   - strongs: H730
-    proximity: 0.754
+    proximity: 0.754 {macula-proximity}
   - strongs: H6086
-    proximity: 0.7299
+    lemma: עֵץ
+    gloss: a tree {openscriptures-strongs}
+    proximity: 0.7299 {macula-proximity}
   cross_language:
   - strongs: G4808
-    proximity: 0.8272
+    lemma: συκῆ
+    gloss: a fig-tree {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G4809
-    proximity: 0.8131
+    lemma: συκομωραία
+    gloss: the "sycamore"-fig tree {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
     language: greek
   - strongs: G4807
-    proximity: 0.7998
+    lemma: συκάμινος
+    gloss: a sycamore-fig tree {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
     language: greek
   - strongs: G3586
-    proximity: 0.7733
+    lemma: ξύλον
+    gloss: timber {openscriptures-strongs}
+    proximity: 0.7733 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

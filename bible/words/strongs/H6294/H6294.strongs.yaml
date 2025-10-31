@@ -6,47 +6,57 @@ pronunciation: peh'-gah
 definition: impact (casual)
 kjv_usage: chance, occurent.
 derivation: from H6293 (פָּגַע);
-extended_definition:
-  gloss: chance
-  definition: occurrence, happening, chance
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: occurrence, happening, chance {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4745
-    proximity: 0.8213
+    lemma: מִקְרֶה
+    gloss: something met with {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
   - strongs: H611
-    proximity: 0.8181
+    proximity: 0.8181 {macula-proximity}
   - strongs: H7451b
-    proximity: 0.8112
+    proximity: 0.8112 {macula-proximity}
   - strongs: H5063
-    proximity: 0.8104
+    lemma: נֶגֶף
+    gloss: a trip {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
   - strongs: H4046
-    proximity: 0.8054
+    lemma: מַגֵּפָה
+    gloss: a pestilence {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
   - strongs: H1958
-    proximity: 0.8025
+    lemma: הִי
+    gloss: lamentation {openscriptures-strongs}
+    proximity: 0.8025 {macula-proximity}
   - strongs: H7722a
-    proximity: 0.8012
+    proximity: 0.8012 {macula-proximity}
   - strongs: H6365
-    proximity: 0.7753
+    lemma: פִּיד
+    gloss: misfortune {openscriptures-strongs}
+    proximity: 0.7753 {macula-proximity}
   cross_language:
   - strongs: G3759
-    proximity: 0.8286
+    lemma: οὐαί
+    gloss: '"woe" {openscriptures-strongs}'
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G869
-    proximity: 0.828
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G2121
-    proximity: 0.8047
+    lemma: εὔκαιρος
+    gloss: well-timed {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
     language: greek
   - strongs: G4795
-    proximity: 0.7964
+    lemma: συγκυρία
+    gloss: from the base of G2962 ) {openscriptures-strongs}
+    proximity: 0.7964 {macula-proximity}
     language: greek
   - strongs: G2122
-    proximity: 0.7954
+    lemma: εὐκαίρως
+    gloss: opportunely {openscriptures-strongs}
+    proximity: 0.7954 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

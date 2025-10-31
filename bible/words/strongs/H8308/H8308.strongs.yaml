@@ -6,30 +6,36 @@ pronunciation: saw-rak'
 definition: to interlace
 kjv_usage: traverse.
 derivation: a primitive root;
-extended_definition:
-  gloss: to twist
-  definition: 1) to twist<br>1a) (Piel) to criss-cross, twist, entangle
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to twist
+
+  1a) (Piel) to criss-cross, twist, entangle {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7519
-    proximity: 0.8296
+    lemma: רָצָא
+    gloss: to run {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H7751
-    proximity: 0.8272
+    lemma: שׁוּט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: H7904
-    proximity: 0.8228
+    lemma: שָׁכָה
+    gloss: to roam {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
   - strongs: H2559
-    proximity: 0.8184
+    lemma: חָמַק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   cross_language:
   - strongs: G4107
-    proximity: 0.7932
+    lemma: πλανήτης
+    gloss: a rover {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
     language: greek
   - strongs: G3837
-    proximity: 0.7885
+    lemma: πανταχοῦ
+    gloss: universally {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

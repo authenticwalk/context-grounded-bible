@@ -6,39 +6,47 @@ pronunciation: yits-hawr'
 definition: oil (as producing light); figuratively, anointing
 kjv_usage: '[phrase] anointed oil.'
 derivation: from H6671 (צָהַר);
-extended_definition:
-  gloss: oil
-  definition: fresh oil, shining (pure) oil
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: fresh oil, shining (pure) oil {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1880
-    proximity: 0.8087
+    lemma: דֶּשֶׁן
+    gloss: the fat {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
   - strongs: H4473
-    proximity: 0.7726
+    lemma: מִמְשַׁח
+    gloss: outspread {openscriptures-strongs}
+    proximity: 0.7726 {macula-proximity}
   - strongs: H1620
-    proximity: 0.7468
+    lemma: גַּרְגַּר
+    gloss: a berry {openscriptures-strongs}
+    proximity: 0.7468 {macula-proximity}
   - strongs: H5480
-    proximity: 0.7325
+    lemma: סוּךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7325 {macula-proximity}
   cross_language:
   - strongs: G1638
-    proximity: 0.8275
+    lemma: ἐλαιών
+    gloss: an olive-orchard {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
     language: greek
   - strongs: G5548
-    proximity: 0.8217
+    lemma: χρίω
+    gloss: to smear or rub with oil {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
     language: greek
   - strongs: G65
-    proximity: 0.8091
+    proximity: 0.8091 {macula-proximity}
     language: greek
   - strongs: G3464
-    proximity: 0.8077
+    lemma: μύρον
+    gloss: '"myrrh" {openscriptures-strongs}'
+    proximity: 0.8077 {macula-proximity}
     language: greek
   - strongs: G2565
-    proximity: 0.8074
+    lemma: καλλιέλαιος
+    gloss: a cultivated olive tree {openscriptures-strongs}
+    proximity: 0.8074 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

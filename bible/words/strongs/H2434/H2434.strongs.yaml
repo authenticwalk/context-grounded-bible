@@ -6,31 +6,33 @@ pronunciation: khah'-yits
 definition: a wall
 kjv_usage: wall.
 derivation: another form for H2351 (חוּץ);
-extended_definition:
-  gloss: wall
-  definition: wall, party-wall, thin wall
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: wall, party-wall, thin wall {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2426
-    proximity: 0.8211
+    lemma: חֵיל
+    gloss: an army {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
   - strongs: H1448
-    proximity: 0.8067
+    lemma: גְּדֵרָה
+    gloss: enclosure {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   - strongs: H8284
-    proximity: 0.7941
+    lemma: שָׁרָה
+    gloss: a fortification {openscriptures-strongs}
+    proximity: 0.7941 {macula-proximity}
   - strongs: A846
-    proximity: 0.7665
+    proximity: 0.7665 {macula-proximity}
   - strongs: H1785
-    proximity: 0.7624
+    lemma: דָּיֵק
+    gloss: a battering-tower {openscriptures-strongs}
+    proximity: 0.7624 {macula-proximity}
   - strongs: H7791a
-    proximity: 0.7315
+    proximity: 0.7315 {macula-proximity}
   cross_language:
   - strongs: G3320
-    proximity: 0.7561
+    lemma: μεσότοιχον
+    gloss: a partition {openscriptures-strongs}
+    proximity: 0.7561 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

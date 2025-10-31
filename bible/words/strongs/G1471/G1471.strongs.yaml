@@ -5,61 +5,73 @@ transliteration: énkyos
 definition: swelling inside, i.e. pregnant
 kjv_usage: great with child
 derivation: from G1722 (ἐν) and the base of G2949 (κῦμα);
-extended_definition:
-  gloss: pregnant
-  definition: '<b>ἔγκυος</b>, see: ἐνκ-.<BR />  ἔνκυoς (Rec. ἐγκ-, see: ἐν), -ον <BR
-    /> (κύω, to conceive), [in LXX: <ref=''Sir.42.10''>Sir.42:10</ref> * ;] <BR /><b>pregnant,
-    big with child </b>: <ref=''Luk.2.5.''>Luk.2:5.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἔγκῠος</b>, ον, <br /> (κύω) ={ἐγκύμων}, [<a href="javascript:void(0)"
-    title=" 5th c.BC: Herodotus Historicus 1.5, 6.131, 5th c.BC: Hippocrates Medicus
-    “ἀφορισμοί” 5.42, etc.">Refs 5th c.BC+</a>]; πῶλος ἡσυχίης ἔγκυος, of the Trojan
-    horse, [<a href="javascript:void(0)" title="“Anthologia Graeca” 9.156 (1st c.AD:
-    Antiphilus Epigrammaticus); γαστρὸς ἀπωσαμέναν μόρον ἔγκυον, of one dying in child-birth,
-    “Epigr Gr.” 238 (from Smyrna),compare “IG” 12(7).301 (from Amorgos). ">Refs 1st
-    c.AD+</a>]<br /><Level3><b>__2</b></Level3> of plants, [<a href="javascript:void(0)"
-    title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 595b27. ">Refs
-    4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἔγκυος, see: ἐνκ-.
+
+  ἔνκυoς (Rec. ἐγκ-, see: ἐν), -ον
+
+  (κύω, to conceive), [in LXX: Sir.42:10 * ;]
+
+  pregnant, big with child : Luk.2:5.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἔγκῠος, ον,
+
+  (κύω) ={ἐγκύμων}, [Refs 5th c.BC+]; πῶλος ἡσυχίης ἔγκυος, of the Trojan horse, [Refs
+  1st c.AD+]
+
+  __2 of plants, [Refs 4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4815
-    proximity: 0.8176
+    lemma: συλλαμβάνω
+    gloss: to clasp {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   - strongs: G4862
-    proximity: 0.8155
+    lemma: σύν
+    gloss: with or together  or G3844 ) {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: G3813
-    proximity: 0.8146
+    lemma: παιδίον
+    gloss: a childling {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
   - strongs: G3326
-    proximity: 0.812
+    lemma: μετά
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: G1722
-    proximity: 0.8101
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.8101 {macula-proximity}
   - strongs: G5043
-    proximity: 0.8008
+    lemma: τέκνον
+    gloss: a child {openscriptures-strongs}
+    proximity: 0.8008 {macula-proximity}
   - strongs: G4723
-    proximity: 0.7688
+    lemma: στείρος
+    gloss: '"sterile" {openscriptures-strongs}'
+    proximity: 0.7688 {macula-proximity}
   - strongs: G2192
-    proximity: 0.7477
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.7477 {macula-proximity}
   cross_language:
   - strongs: H854
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
     language: hebrew
   - strongs: H5973
-    proximity: 0.8164
+    lemma: עִם
+    gloss: adverb or preposition {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
     language: hebrew
   - strongs: H2254b
-    proximity: 0.8013
+    proximity: 0.8013 {macula-proximity}
     language: hebrew
   - strongs: H2056
-    proximity: 0.7677
+    lemma: וָלָד
+    gloss: a boy {openscriptures-strongs}
+    proximity: 0.7677 {macula-proximity}
     language: hebrew
   - strongs: H2032a
-    proximity: 0.7383
+    proximity: 0.7383 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

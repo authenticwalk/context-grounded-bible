@@ -6,49 +6,65 @@ pronunciation: its-tsaw-bone'
 definition: worrisomeness, i.e. labor or pain
 kjv_usage: sorrow, toil.
 derivation: from H6087 (עָצַב);
-extended_definition:
-  gloss: toil
-  definition: pain, labour, hardship, sorrow, toil
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: pain, labour, hardship, sorrow, toil {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8424
-    proximity: 0.8264
+    lemma: תּוּגָה
+    gloss: depression {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H8383
-    proximity: 0.8243
+    lemma: תְּאֻן
+    gloss: naughtiness {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: H4815
-    proximity: 0.8083
+    lemma: מְרִירִי
+    gloss: bitter {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
   - strongs: H6234
-    proximity: 0.804
+    lemma: עׇשְׁקָה
+    gloss: anguish {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   - strongs: H4712
-    proximity: 0.8032
+    lemma: מֵצַר
+    gloss: something tight {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
   - strongs: H2254b
-    proximity: 0.793
+    proximity: 0.793 {macula-proximity}
   - strongs: H3022
-    proximity: 0.7853
+    lemma: יָגָע
+    gloss: earnings {openscriptures-strongs}
+    proximity: 0.7853 {macula-proximity}
   - strongs: H5204
-    proximity: 0.7841
+    lemma: נִי
+    gloss: lamentation {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
   - strongs: H3510
-    proximity: 0.779
+    lemma: כָּאַב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.779 {macula-proximity}
   cross_language:
   - strongs: G941
-    proximity: 0.8271
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G2347
-    proximity: 0.8258
+    lemma: θλῖψις
+    gloss: pressure {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G3600
-    proximity: 0.8188
+    lemma: ὀδυνάω
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
     language: greek
   - strongs: G4928
-    proximity: 0.8121
+    lemma: συνοχή
+    gloss: restraint {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
     language: greek
   - strongs: G4036
-    proximity: 0.79
+    lemma: περίλυπος
+    gloss: grieved all around {openscriptures-strongs}
+    proximity: 0.79 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

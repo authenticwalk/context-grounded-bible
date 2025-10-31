@@ -7,35 +7,46 @@ definition: the blast of a horn (from its continuous sound); specifically, the s
   of the silver trumpets; hence, the instrument itself and the festival thus introduced
 kjv_usage: jubile, ram's horn, trumpet.
 derivation: or יֹבֵל; apparently from H2986 (יָבַל);
-extended_definition:
-  gloss: jubilee/horn
-  definition: 1) ram, ram's horn, trumpet, cornet<br>1a) ram (only in combination)<br>1a1)
-    ram's horn, trumpet<br>1b) jubilee year (marked by the blowing of cornets) (meton)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) ram, ram''s horn, trumpet, cornet
+
+  1a) ram (only in combination)
+
+  1a1) ram''s horn, trumpet
+
+  1b) jubilee year (marked by the blowing of cornets) (meton) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8141
-    proximity: 0.8285
+    lemma: שָׁנֶה
+    gloss: a year {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: H6260
-    proximity: 0.8263
+    lemma: עַתּוּד
+    gloss: prepared {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: H8619
-    proximity: 0.7853
+    lemma: תָּקוֹעַ
+    gloss: a trumpet {openscriptures-strongs}
+    proximity: 0.7853 {macula-proximity}
   - strongs: A1798
-    proximity: 0.7851
+    proximity: 0.7851 {macula-proximity}
   - strongs: H7161
-    proximity: 0.7626
+    lemma: קֶרֶן
+    gloss: a horn {openscriptures-strongs}
+    proximity: 0.7626 {macula-proximity}
   - strongs: H2689
-    proximity: 0.7298
+    lemma: חֲצֹצְרָה
+    gloss: a trumpet {openscriptures-strongs}
+    proximity: 0.7298 {macula-proximity}
   cross_language:
   - strongs: G2768
-    proximity: 0.7846
+    lemma: κέρας
+    gloss: a horn {openscriptures-strongs}
+    proximity: 0.7846 {macula-proximity}
     language: greek
   - strongs: G1763
-    proximity: 0.7153
+    lemma: ἐνιαυτός
+    gloss: a year {openscriptures-strongs}
+    proximity: 0.7153 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

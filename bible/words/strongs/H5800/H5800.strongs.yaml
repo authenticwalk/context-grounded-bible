@@ -10,38 +10,55 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H7911
-    proximity: 0.8289
+    lemma: שָׁכַח
+    gloss: to mislay {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H1629
-    proximity: 0.8264
+    lemma: גָּרַז
+    gloss: to cut off {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H5534a
-    proximity: 0.8253
+    proximity: 0.8253 {macula-proximity}
   - strongs: H3987
-    proximity: 0.8244
+    lemma: מֵאֵן
+    gloss: refractory {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: A409
-    proximity: 0.8242
+    proximity: 0.8242 {macula-proximity}
   - strongs: H5674
-    proximity: 0.824
+    lemma: עָבַר
+    gloss: to cross over {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: H7993
-    proximity: 0.8239
+    lemma: שָׁלַךְ
+    gloss: to throw out {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: H3986
-    proximity: 0.8212
+    lemma: מָאֵן
+    gloss: unwilling {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   cross_language:
   - strongs: G525
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G3024
-    proximity: 0.8274
+    lemma: λήθη
+    gloss: forgetfulness {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
     language: greek
   - strongs: G5298
-    proximity: 0.824
+    lemma: ὑποχωρέω
+    gloss: to vacate down {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: greek
   - strongs: G4035
-    proximity: 0.8228
+    lemma: περιλείπω
+    gloss: to leave all around {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
     language: greek
   - strongs: G2673
-    proximity: 0.8224
+    lemma: καταργέω
+    gloss: to be  entirely idle {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

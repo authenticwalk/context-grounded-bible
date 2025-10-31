@@ -6,23 +6,23 @@ pronunciation: miz-more'
 definition: properly, instrumental music; by implication, a poem set to notes
 kjv_usage: psalm.
 derivation: from H2167 (זָמַר);
-extended_definition:
-  gloss: melody
-  definition: melody, psalm
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: melody, psalm {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1960
-    proximity: 0.8092
+    lemma: הֻיְּדָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: H8416
-    proximity: 0.7543
+    lemma: תְּהִלָּה
+    gloss: laudation {openscriptures-strongs}
+    proximity: 0.7543 {macula-proximity}
   - strongs: H4905
-    proximity: 0.7204
+    lemma: מַשְׂכִּיל
+    gloss: instructive {openscriptures-strongs}
+    proximity: 0.7204 {macula-proximity}
   - strongs: H7892
-    proximity: 0.7169
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: שִׁיר
+    gloss: a song {openscriptures-strongs}
+    proximity: 0.7169 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,61 +5,66 @@ transliteration: metépeita
 definition: thereafter
 kjv_usage: afterward
 derivation: from G3326 (μετά) and G1899 (ἔπειτα);
-extended_definition:
-  gloss: afterward
-  definition: '<b>μετ-έπειτα</b>, <BR /> <i> adv.</i> [in LXX: <ref=''Jdt.9.5''>Jdth.9:5</ref>,
-    <ref=''Est.3.13''>Est.3:13</ref>, <ref=''3Ma.3.24''>3Ma.3:24</ref> * ;] <BR /><b>after­wards</b>:
-    <ref=''Heb.12.17.''>Heb.12:17.</ref>†<BR /> (AS)'
-  morphology: G:ADV
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> μετέπειτα</b>, <br /> <i>adverb</i> <b>afterwards, thereafter</b>,
-    [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus “Illiad”
-    14.310, 8th c.BC: Odyssea Homerus Epicus “Odyssey” 10.519, +others, 5th c.BC:
-    Herodotus Historicus 1.25, 3.36, 7.7, 197 ">Refs 8th c.BC+</a>]: rare in early
-    Prose, ὁ μ. χρόνος [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus
-    “Epistulae” 353c, compare 4th c.BC: Aristoteles Philosophus “Ethica Nicomachea”
-    1175a9; later, “OGI” 177.14 (Egypt, 1st c.BC), LXX.Jdt.9.5, LXX.3Mac.3.24, NT.Heb.12.17.
-    ">NT+5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'μετ-έπειτα,
+
+  adv. [in LXX: Jdth.9:5, Est.3:13, 3Ma.3:24 * ;]
+
+  after­wards: Heb.12:17.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'μετέπειτα,
+
+  adverb afterwards, thereafter, [Refs 8th c.BC+]: rare in early Prose, ὁ μ. χρόνος
+  [NT+5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4064
-    proximity: 0.8286
+    lemma: περιφέρω
+    gloss: to convey around {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: G1096
-    proximity: 0.8257
+    lemma: γίνομαι
+    gloss: to cause to be {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: G2532
-    proximity: 0.8239
+    lemma: καί
+    gloss: and {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: G3767
-    proximity: 0.8233
+    lemma: οὖν
+    gloss: certainly {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: A2050d
-    proximity: 0.8186
+    proximity: 0.8186 {macula-proximity}
   - strongs: G1161
-    proximity: 0.8186
+    lemma: δέ
+    gloss: but {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: G5023
-    proximity: 0.814
+    lemma: ταῦτα
+    gloss: these things {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
   - strongs: A871b
-    proximity: 0.8127
+    proximity: 0.8127 {macula-proximity}
   - strongs: G5119
-    proximity: 0.8086
+    lemma: τότε
+    gloss: the when {openscriptures-strongs}
+    proximity: 0.8086 {macula-proximity}
   - strongs: A116
-    proximity: 0.7943
+    proximity: 0.7943 {macula-proximity}
   cross_language:
   - strongs: H4279
-    proximity: 0.8254
+    lemma: מָחָר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: hebrew
   - strongs: H227
-    proximity: 0.81
+    proximity: 0.81 {macula-proximity}
     language: hebrew
   - strongs: H935
-    proximity: 0.7999
+    proximity: 0.7999 {macula-proximity}
     language: hebrew
   - strongs: H3807a
-    proximity: 0.7898
+    proximity: 0.7898 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,38 +6,44 @@ pronunciation: aw-rabe'
 definition: pleasant
 kjv_usage: sweet.
 derivation: from H6149 (עָרֵב);
-extended_definition:
-  gloss: sweet
-  definition: sweet, pleasant
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: sweet, pleasant {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1314
-    proximity: 0.8017
+    lemma: בֶּשֶׂם
+    gloss: fragrance {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
   - strongs: H6071
-    proximity: 0.7685
+    lemma: עָסִיס
+    gloss: must or fresh grape-juice {openscriptures-strongs}
+    proximity: 0.7685 {macula-proximity}
   - strongs: H5561
-    proximity: 0.746
+    lemma: סַם
+    gloss: an aroma {openscriptures-strongs}
+    proximity: 0.746 {macula-proximity}
   - strongs: H5207
-    proximity: 0.7431
+    lemma: נִיחוֹחַ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7431 {macula-proximity}
   - strongs: H2896a
-    proximity: 0.7195
+    proximity: 0.7195 {macula-proximity}
   cross_language:
   - strongs: G4236a
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
     language: greek
   - strongs: G4239
-    proximity: 0.8033
+    lemma: πραΰς
+    gloss: mild {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
     language: greek
   - strongs: G1098
-    proximity: 0.7782
+    lemma: γλεῦκος
+    gloss: sweet wine {openscriptures-strongs}
+    proximity: 0.7782 {macula-proximity}
     language: greek
   - strongs: G4240
-    proximity: 0.7744
+    lemma: πραΰτης
+    gloss: mildness {openscriptures-strongs}
+    proximity: 0.7744 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

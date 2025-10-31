@@ -6,49 +6,70 @@ pronunciation: yaw-tsag'
 definition: to place permanently
 kjv_usage: establish, leave, make, present, put, set, stay.
 derivation: a primitive root;
-extended_definition:
-  gloss: to set
-  definition: 1) to place, set, establish<br>1a) (Hiphil)<br>1a1) to set, place<br>1a2)
-    to present<br>1a3) to exhibit<br>1b) (Hophal) to be stopped, be stayed, be detained
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to place, set, establish
+
+  1a) (Hiphil)
+
+  1a1) to set, place
+
+  1a2) to present
+
+  1a3) to exhibit
+
+  1b) (Hophal) to be stopped, be stayed, be detained {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1933a
-    proximity: 0.8166
+    proximity: 0.8166 {macula-proximity}
   - strongs: A8000
-    proximity: 0.8152
+    proximity: 0.8152 {macula-proximity}
   - strongs: H3245
-    proximity: 0.8056
+    lemma: יָסַד
+    gloss: to set {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H6983
-    proximity: 0.8046
+    lemma: קוֹשׁ
+    gloss: to set a trap {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
   - strongs: H1961
-    proximity: 0.799
+    lemma: הָיָה
+    gloss: to exist {openscriptures-strongs}
+    proximity: 0.799 {macula-proximity}
   - strongs: A7761
-    proximity: 0.7976
+    proximity: 0.7976 {macula-proximity}
   - strongs: H680
-    proximity: 0.7914
+    proximity: 0.7914 {macula-proximity}
   - strongs: H6213
-    proximity: 0.7911
+    lemma: עָשָׂה
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
   - strongs: H2883
-    proximity: 0.7906
+    lemma: טָבַע
+    gloss: to sink {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
   - strongs: H5975
-    proximity: 0.7833
+    lemma: עָמַד
+    gloss: to stand {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
   cross_language:
   - strongs: G4160
-    proximity: 0.827
+    lemma: ποιέω
+    gloss: to make or do (in a very wide application {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: greek
   - strongs: G4388
-    proximity: 0.7945
+    lemma: προτίθεμαι
+    gloss: to place before {openscriptures-strongs}
+    proximity: 0.7945 {macula-proximity}
     language: greek
   - strongs: G2641
-    proximity: 0.7888
+    lemma: καταλείπω
+    gloss: to leave down {openscriptures-strongs}
+    proximity: 0.7888 {macula-proximity}
     language: greek
   - strongs: G2476
-    proximity: 0.7881
+    lemma: ἵστημι
+    gloss: to stand {openscriptures-strongs}
+    proximity: 0.7881 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

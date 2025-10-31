@@ -5,57 +5,70 @@ transliteration: philoprōteúō
 definition: to be fond of being first, i.e. ambitious of distinction
 kjv_usage: love to have the preeminence
 derivation: from a compound of G5384 (φίλος) and G4413 (πρῶτος);
-extended_definition:
-  gloss: to love to be first
-  definition: '<b>φιλο-πρωτιύω</b><BR /> (φιλόπρωτος, Plut., al.) <BR /><b>to strive
-    to be first</b>: <ref=''3Jn.9''>III Jn 9</ref> (eccl.).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> φῐλοπρωτ-εύω</b>, <br /> <b>wish</b> or <b>strive to be first,</b>
-    [<a href="javascript:void(0)" title=" NT.3John.9. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'φιλο-πρωτιύω
+
+  (φιλόπρωτος, Plut., al.)
+
+  to strive to be first: III Jn 9 (eccl.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'φῐλοπρωτ-εύω,
+
+  wish or strive to be first, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A3807b
-    proximity: 0.8271
+    proximity: 0.8271 {macula-proximity}
   - strongs: G2698
-    proximity: 0.8229
+    lemma: κατατίθημι
+    gloss: to place down {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: G5117
-    proximity: 0.822
+    lemma: τόπος
+    gloss: a spot (general in space {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
   - strongs: G757
-    proximity: 0.8219
+    proximity: 0.8219 {macula-proximity}
   - strongs: G2277
-    proximity: 0.8214
+    lemma: ἤτω
+    gloss: let him  be {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: G4276
-    proximity: 0.8066
+    lemma: προελπίζω
+    gloss: to hope in advance of other confirmation {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
   - strongs: A4567
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
   - strongs: G25
-    proximity: 0.8021
+    proximity: 0.8021 {macula-proximity}
   - strongs: G2258
-    proximity: 0.7977
+    lemma: ἦν
+    gloss: I (thou {openscriptures-strongs}
+    proximity: 0.7977 {macula-proximity}
   - strongs: G26
-    proximity: 0.7976
+    proximity: 0.7976 {macula-proximity}
   cross_language:
   - strongs: H4725
-    proximity: 0.8272
+    lemma: מָקוֹם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: hebrew
   - strongs: H2245
-    proximity: 0.8225
+    lemma: חָבַב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: hebrew
   - strongs: H7224
-    proximity: 0.8214
+    lemma: רִאשֹׁנִי
+    gloss: first {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
     language: hebrew
   - strongs: H413
-    proximity: 0.8146
+    proximity: 0.8146 {macula-proximity}
     language: hebrew
   - strongs: H5633
-    proximity: 0.7976
+    lemma: סֶרֶן
+    gloss: an axle {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

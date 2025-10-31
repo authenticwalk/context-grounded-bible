@@ -5,59 +5,75 @@ transliteration: nékrōsis
 definition: decease; figuratively, impotency
 kjv_usage: deadness, dying
 derivation: from G3499 (νεκρόω);
-extended_definition:
-  gloss: death
-  definition: '<b>νέκρωσις</b>, -εως, ἡ <BR /> (νεκρόω), <BR />__1. a putting to death.
-    <BR /> __2. <b>a state of death, death</b>: <ref=''Rom.4.19''>Rom.4:19</ref>,
-    <ref=''2Co.4.10''>2Co.4:10</ref> (see Deiss., <i>LAE</i>, 94).†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> νέκρ-ωσις</b>, εως, ἡ, <br /> <b>mortification,</b> [<a href="javascript:void(0)"
-    title=" 2nd c.AD: Aretaeus Medicus “περὶ αἰτιῶν καὶ σημείων ὀξέων παθῶν” 2.10,
-    2nd c.AD: Galenus Medicus 18(1).156; μήτρας NT.Rom.4.19: _metaphorically_, νεκροὺς
-    ὁρῶν νέκρωσιν ἕξεις πραγμάτων 2nd c.AD: Astrampsychus Onirocriticus “Onirocritica”
-    p.6R. ">NT+2nd c.AD+</a>]<br /><Level2><b>__II</b></Level2> <b>death,</b> τὴν
-    ν. τοῦ Ἰησοῦ ἐν τῷ σώματι περιφέροντες [<a href="javascript:void(0)" title=" NT.2Cor.4.10.
-    ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'νέκρωσις, -εως, ἡ
+
+  (νεκρόω),
+
+  __1. a putting to death.
+
+  __2. a state of death, death: Rom.4:19, 2Co.4:10 (see Deiss., LAE, 94).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'νέκρ-ωσις, εως, ἡ,
+
+  mortification, [NT+2nd c.AD+]
+
+  __II death, τὴν ν. τοῦ Ἰησοῦ ἐν τῷ σώματι περιφέροντες [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2348
-    proximity: 0.8058
+    lemma: θνήσκω
+    gloss: to die {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: G5042
-    proximity: 0.8003
+    lemma: τεκνογονία
+    gloss: childbirth {openscriptures-strongs}
+    proximity: 0.8003 {macula-proximity}
   - strongs: G3388
-    proximity: 0.7819
+    lemma: μήτρα
+    gloss: the matrix {openscriptures-strongs}
+    proximity: 0.7819 {macula-proximity}
   - strongs: G4880
-    proximity: 0.7776
+    lemma: συναποθνήσκω
+    gloss: to decease  in company with {openscriptures-strongs}
+    proximity: 0.7776 {macula-proximity}
   - strongs: G1935
-    proximity: 0.7712
+    lemma: ἐπιθανάτιος
+    gloss: doomed to death {openscriptures-strongs}
+    proximity: 0.7712 {macula-proximity}
   - strongs: G2289
-    proximity: 0.7618
+    lemma: θανατόω
+    proximity: 0.7618 {macula-proximity}
   - strongs: G1634
-    proximity: 0.7371
+    lemma: ἐκψύχω
+    gloss: to expire {openscriptures-strongs}
+    proximity: 0.7371 {macula-proximity}
   - strongs: A4193
-    proximity: 0.7292
+    proximity: 0.7292 {macula-proximity}
   cross_language:
   - strongs: H6461
-    proximity: 0.8274
+    lemma: פָּסַס
+    gloss: probably to disperse {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
     language: hebrew
   - strongs: H6115
-    proximity: 0.8109
+    lemma: עֹצֶר
+    gloss: closure {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
     language: hebrew
   - strongs: H1478
-    proximity: 0.7664
+    lemma: גָּוַע
+    gloss: to breathe out {openscriptures-strongs}
+    proximity: 0.7664 {macula-proximity}
     language: hebrew
   - strongs: H4463
-    proximity: 0.7606
+    lemma: מָמוֹת
+    gloss: a mortal disease {openscriptures-strongs}
+    proximity: 0.7606 {macula-proximity}
     language: hebrew
   - strongs: H8546
-    proximity: 0.7564
+    lemma: תְּמוּתָה
+    gloss: execution {openscriptures-strongs}
+    proximity: 0.7564 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

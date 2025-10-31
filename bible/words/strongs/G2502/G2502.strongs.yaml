@@ -5,52 +5,60 @@ transliteration: Iōsías
 definition: Josias (i.e. Joshiah), an Israelite
 kjv_usage: Josias
 derivation: of Hebrew origin (H02977);
-extended_definition:
-  gloss: Josiah
-  definition: '<b>Ἰωσείας</b> (-σίας, Rec.), -ου, ὁ (Heb. יֹאשִׁיָּה), <BR /> <b>Josiah</b>:
-    <ref=''Mat.1.10-11''>Mat.1:10-11</ref> †<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἰωσείας</b> (-σίας, Rec.), -ου, ὁ (Heb. יֹאשִׁיָּה), <BR />
-    <b>Josiah</b>: <ref=''Mat.1.10-11''>Mat.1:10-11</ref> †<BR />  (From Abbott-Smith.
-    LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἰωσείας (-σίας, Rec.), -ου, ὁ (Heb. יֹאשִׁיָּה),
+
+  Josiah: Mat.1:10-11 †
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἰωσείας (-σίας, Rec.), -ου, ὁ (Heb. יֹאשִׁיָּה),
+
+  Josiah: Mat.1:10-11 †
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3079
-    proximity: 0.8297
+    lemma: Λυσίας
+    gloss: Lysias {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: G624
-    proximity: 0.8288
+    proximity: 0.8288 {macula-proximity}
   - strongs: G5617
-    proximity: 0.8282
+    lemma: Ὡσηέ
+    gloss: Hosee {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: G775
-    proximity: 0.8272
+    proximity: 0.8272 {macula-proximity}
   - strongs: G4581
-    proximity: 0.8225
+    lemma: Σελεύκεια
+    gloss: Seleuceia {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: G4099a
-    proximity: 0.8225
+    proximity: 0.8225 {macula-proximity}
   - strongs: G4099
-    proximity: 0.8225
+    lemma: Πισιδία
+    gloss: Pisidia {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   cross_language:
   - strongs: H3091
-    proximity: 0.8278
+    lemma: יְהוֹשׁוּעַ
+    gloss: Jehoshua {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: hebrew
   - strongs: H1954
-    proximity: 0.8272
+    lemma: הוֹשֵׁעַ
+    gloss: Hoshea {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: hebrew
   - strongs: H746
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
     language: hebrew
   - strongs: H621
-    proximity: 0.8209
+    proximity: 0.8209 {macula-proximity}
     language: hebrew
   - strongs: H3174
-    proximity: 0.8208
+    lemma: יְחִיָּה
+    gloss: Jechijah {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

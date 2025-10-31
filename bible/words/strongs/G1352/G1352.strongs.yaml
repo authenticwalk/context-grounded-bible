@@ -5,67 +5,79 @@ transliteration: dió
 definition: through which thing, i.e. consequently
 kjv_usage: for which cause, therefore, wherefore
 derivation: from G1223 (διά) and G3739 (ὅς);
-extended_definition:
-  gloss: therefore
-  definition: '<b>διό </b><BR /> conjunct. for δι᾽ ὅ, <BR /> <b>wherefore, on which
-    account</b>: <ref=''Mat.27.8''>Mat.27:8</ref>, <ref=''Luk.7.7''>Luk.7:7</ref>,
-    <ref=''Act.15.19''>Act.15:19</ref>, <ref=''Rom.1.24''>Rom.1:24</ref>, al.; δ.
-    καί, <ref=''Luk.1.35''>Luk.1:35</ref>, <ref=''Act.10.29; 24.26''>Act.10:29 24:26</ref>,
-    <ref=''Rom.4.22; 15.22''>Rom.4:22 15:22</ref>, <ref=''2Co.1.20; 4.13; 5.9''>2Co.1:20
-    4:13 5:9</ref>, <ref=''Php.2.9''>Php.2:9</ref>, <ref=''Heb.11.12; 13.12''>Heb.11:12
-    13:12</ref> (see Ellic. on <ref=''Gal.4.31''>Gal.4:31</ref>).<BR /> (AS)'
-  morphology: G:CONJ
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> διό</b>, <br /> <i>conjunction</i>, for δι᾽ ὅ, <b>wherefore,
-    on which account,</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato
-    Philosophus “Respublica” 358d, etc.; διὸ δή 5th c.BC: Thucydides Historicus 2.21,
-    5th-6th c.BC: Plato Philosophus “Cratylus” 412a, +others">Refs 5th c.BC+</a>];
-    διὸ καί, διὸ δὴ καί, [<a href="javascript:void(0)" title=" [prev. author] “Phdr.”
-    258e, “Smp.” 203c; διόπερ 5th c.BC: Thucydides Historicus 1.71, 120, 8.92, etc.
-    ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'διό
+
+  conjunct. for δι᾽ ὅ,
+
+  wherefore, on which account: Mat.27:8, Luk.7:7, Act.15:19, Rom.1:24, al.; δ. καί,
+  Luk.1:35, Act.10:29 24:26, Rom.4:22 15:22, 2Co.1:20 4:13 5:9, Php.2:9, Heb.11:12
+  13:12 (see Ellic. on Gal.4:31).
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'διό,
+
+  conjunction, for δι᾽ ὅ, wherefore, on which account, [Refs 5th c.BC+]; διὸ καί,
+  διὸ δὴ καί, [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A3660
-    proximity: 0.8295
+    proximity: 0.8295 {macula-proximity}
   - strongs: G2277
-    proximity: 0.8277
+    lemma: ἤτω
+    gloss: let him  be {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: G2071
-    proximity: 0.8274
+    lemma: ἔσομαι
+    gloss: will be {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: G3844
-    proximity: 0.8273
+    lemma: παρά
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
   - strongs: G2180
-    proximity: 0.8221
+    lemma: Ἐφέσιος
+    gloss: an Ephesian or inhabitant of Ephesus {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: G2532
-    proximity: 0.8075
+    lemma: καί
+    gloss: and {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
   - strongs: G2181
-    proximity: 0.807
+    lemma: Ἔφεσος
+    gloss: Ephesus {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
   - strongs: G5023
-    proximity: 0.8064
+    lemma: ταῦτα
+    gloss: these things {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
   - strongs: G5613
-    proximity: 0.8053
+    lemma: ὡς
+    gloss: which how {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: G2076
-    proximity: 0.8052
+    lemma: ἐστί
+    gloss: he  is {openscriptures-strongs}
+    proximity: 0.8052 {macula-proximity}
   cross_language:
   - strongs: H1931a
-    proximity: 0.8154
+    proximity: 0.8154 {macula-proximity}
     language: hebrew
   - strongs: H3860
-    proximity: 0.8106
+    lemma: לָהֵן
+    gloss: popularly for if {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: hebrew
   - strongs: H7578a
-    proximity: 0.8074
+    proximity: 0.8074 {macula-proximity}
     language: hebrew
   - strongs: H3282
-    proximity: 0.8063
+    lemma: יַעַן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
     language: hebrew
   - strongs: H4069
-    proximity: 0.8038
+    lemma: מַדּוּעַ
+    gloss: what  known? {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

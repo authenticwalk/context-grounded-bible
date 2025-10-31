@@ -7,46 +7,61 @@ definition: properly, to bend, i.e. (by implication) to clasp; also (reflexively
   to turn around or aside
 kjv_usage: take hold, turn aside (self).
 derivation: a primitive root;
-extended_definition:
-  gloss: to twist
-  definition: 1) to twist, grasp, turn, grasp with a twisting motion<br>1a) (Qal)
-    to grasp<br>1b) (Niphal) to twist, weave, wind
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to twist, grasp, turn, grasp with a twisting motion
+
+  1a) (Qal) to grasp
+
+  1b) (Niphal) to twist, weave, wind {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7750
-    proximity: 0.8272
+    lemma: שׂוּט
+    gloss: to detrude {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: H1911
-    proximity: 0.827
+    lemma: הָדָה
+    gloss: to stretch forth the hand {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H7369
-    proximity: 0.8203
+    lemma: רָחֵק
+    gloss: remote {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: H7726
-    proximity: 0.8196
+    lemma: שׁוֹבָב
+    gloss: apostate {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: H8388
-    proximity: 0.8141
+    lemma: תָּאַר
+    gloss: to delineate {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: H3868
-    proximity: 0.8081
+    lemma: לוּז
+    gloss: to turn aside {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
   - strongs: H2263
-    proximity: 0.8036
+    lemma: חָבַק
+    gloss: to clasp {openscriptures-strongs}
+    proximity: 0.8036 {macula-proximity}
   cross_language:
   - strongs: G565
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G620
-    proximity: 0.8253
+    proximity: 0.8253 {macula-proximity}
     language: greek
   - strongs: G4843
-    proximity: 0.8164
+    lemma: συμπεριλαμβάνω
+    gloss: to take by enclosing altogether {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
     language: greek
   - strongs: G1459
-    proximity: 0.8138
+    lemma: ἐγκαταλείπω
+    gloss: to leave behind in some place {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
     language: greek
   - strongs: G3845
-    proximity: 0.8099
+    lemma: παραβαίνω
+    gloss: to go contrary to {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

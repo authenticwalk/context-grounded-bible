@@ -9,50 +9,76 @@ definition: the tongue (of man or animals), used literally (as the instrument of
 kjv_usage: '[phrase] babbler, bay, [phrase] evil speaker, language, talker, tongue,
   wedge.'
 derivation: or לָשֹׁן; also (in plural) feminine לְשֹׁנָה; from H3960 (לָשַׁן);
-extended_definition:
-  gloss: 'tongue: bar'
-  definition: ': bar/projection/bay<br>1) tongue<br>1a) tongue (of men)<br>1a1) tongue
-    (literal)<br>1a2) tongue (organ of speech)<br>1b) language<br>1c) tongue (of animals)<br>1d)
-    tongue (of fire)<br>1e) wedge, bay of sea (tongue-shaped)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': bar/projection/bay
+
+  1) tongue
+
+  1a) tongue (of men)
+
+  1a1) tongue (literal)
+
+  1a2) tongue (organ of speech)
+
+  1b) language
+
+  1c) tongue (of animals)
+
+  1d) tongue (of fire)
+
+  1e) wedge, bay of sea (tongue-shaped) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4057a
-    proximity: 0.8207
+    proximity: 0.8207 {macula-proximity}
   - strongs: H565a
-    proximity: 0.8149
+    proximity: 0.8149 {macula-proximity}
   - strongs: H565
-    proximity: 0.8109
+    proximity: 0.8109 {macula-proximity}
   - strongs: H5372
-    proximity: 0.8101
+    lemma: נִרְגָּן
+    gloss: a slanderer {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
   - strongs: H6610
-    proximity: 0.8062
+    lemma: פִּתְחוֹן
+    gloss: opening {openscriptures-strongs}
+    proximity: 0.8062 {macula-proximity}
   - strongs: H7400
-    proximity: 0.7951
+    lemma: רָכִיל
+    gloss: a scandal-monger {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
   - strongs: H6310
-    proximity: 0.7893
+    lemma: פֶּה
+    gloss: the mouth {openscriptures-strongs}
+    proximity: 0.7893 {macula-proximity}
   - strongs: H4405
-    proximity: 0.7806
+    lemma: מִלָּה
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
   - strongs: H1697
-    proximity: 0.7505
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.7505 {macula-proximity}
   - strongs: A3961
-    proximity: 0.7385
+    proximity: 0.7385 {macula-proximity}
   cross_language:
   - strongs: G2859
-    proximity: 0.7857
+    lemma: κόλπος
+    gloss: the bosom {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
     language: greek
   - strongs: G4487
-    proximity: 0.7825
+    lemma: ῥῆμα
+    gloss: an utterance (individually {openscriptures-strongs}
+    proximity: 0.7825 {macula-proximity}
     language: greek
   - strongs: G3056
-    proximity: 0.7458
+    lemma: λόγος
+    gloss: something said {openscriptures-strongs}
+    proximity: 0.7458 {macula-proximity}
     language: greek
   - strongs: G2084
-    proximity: 0.7156
+    lemma: ἑτερόγλωσσος
+    gloss: other- tongued {openscriptures-strongs}
+    proximity: 0.7156 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

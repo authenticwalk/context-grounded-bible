@@ -6,39 +6,37 @@ pronunciation: go'-el
 definition: profanation
 kjv_usage: defile.
 derivation: from H1351 (גָּאַל);
-extended_definition:
-  gloss: defilement
-  definition: defilement, defiling
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: defilement, defiling {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5007a
-    proximity: 0.7876
+    proximity: 0.7876 {macula-proximity}
   - strongs: H8371
-    proximity: 0.7749
+    lemma: שָׁתַת
+    gloss: to place {openscriptures-strongs}
+    proximity: 0.7749 {macula-proximity}
   - strongs: H1442
-    proximity: 0.733
+    lemma: גָּדַף
+    gloss: to hack {openscriptures-strongs}
+    proximity: 0.733 {macula-proximity}
   - strongs: H5708a
-    proximity: 0.7167
+    proximity: 0.7167 {macula-proximity}
   cross_language:
   - strongs: G988
-    proximity: 0.8249
+    proximity: 0.8249 {macula-proximity}
     language: greek
   - strongs: G987
-    proximity: 0.8152
+    proximity: 0.8152 {macula-proximity}
     language: greek
   - strongs: G989
-    proximity: 0.8009
+    proximity: 0.8009 {macula-proximity}
     language: greek
   - strongs: G3394
-    proximity: 0.7698
+    lemma: μιασμός
+    gloss: contamination (properly {openscriptures-strongs}
+    proximity: 0.7698 {macula-proximity}
     language: greek
   - strongs: G283
-    proximity: 0.7609
+    proximity: 0.7609 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -8,45 +8,57 @@ definition: properly, heed, i.e. purpose; used only adverbially, on account of (
 kjv_usage: because of, to the end (intent) that, for (to,... 's sake), [phrase] lest,
   that, to.
 derivation: from H6030 (עָנָה);
-extended_definition:
-  gloss: because
-  definition: 1) purpose, intent prep<br>1a) for the sake of<br>1b) in view of, on
-    account of<br>1c) for the purpose of, to the intent that, in order to conj<br>1d)
-    to the end that
-  morphology: H:Prep / H:Conj
-  source: STEPBible/BDB
+extended_definition: '1) purpose, intent prep
+
+  1a) for the sake of
+
+  1b) in view of, on account of
+
+  1c) for the purpose of, to the intent that, in order to conj
+
+  1d) to the end that {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1931
-    proximity: 0.8277
+    lemma: הוּא
+    gloss: he {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H645
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
   - strongs: H3651a
-    proximity: 0.8241
+    proximity: 0.8241 {macula-proximity}
   - strongs: H408
-    proximity: 0.8233
+    proximity: 0.8233 {macula-proximity}
   - strongs: H2008
-    proximity: 0.8189
+    lemma: הֵנָּה
+    gloss: hither or thither {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8175
+    proximity: 0.8175 {macula-proximity}
   cross_language:
   - strongs: G4133
-    proximity: 0.8295
+    lemma: πλήν
+    gloss: moreover {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G5130
-    proximity: 0.8294
+    lemma: τούτων
+    gloss: of  these {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G3360
-    proximity: 0.8263
+    lemma: μέχρι
+    gloss: as far as {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
     language: greek
   - strongs: G3063
-    proximity: 0.8258
+    lemma: λοιπόν
+    gloss: something remaining {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G1537
-    proximity: 0.8258
+    lemma: ἐκ
+    gloss: literal or figurative {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

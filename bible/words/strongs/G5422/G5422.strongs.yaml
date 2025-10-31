@@ -5,44 +5,51 @@ transliteration: phrenapatáō
 definition: to be a mind-misleader, i.e. delude
 kjv_usage: deceive
 derivation: from G5423 (φρεναπάτης);
-extended_definition:
-  gloss: to deceive
-  definition: '<b>φρεν-απατάω</b>, -ῶ<BR /> (φρεναπάτης), <BR /><b>to deceive one''s
-    mind </b>(Lft., deceive by fancies, see <i>Ga.</i>, l.with): with accusative of
-    person(s), <ref=''Gal.6.3.''>Gal.6:3.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> φρενᾰπᾰτ-άω</b>, <br /> <b>deceive,</b> ἑαυτόν [<a href="javascript:void(0)"
-    title=" NT.Gal.6.3. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'φρεν-απατάω, -ῶ
+
+  (φρεναπάτης),
+
+  to deceive one''s mind (Lft., deceive by fancies, see Ga., l.with): with accusative
+  of person(s), Gal.6:3.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'φρενᾰπᾰτ-άω,
+
+  deceive, ἑαυτόν [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G635
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
   - strongs: G5423
-    proximity: 0.7917
+    lemma: φρεναπάτης
+    gloss: a mind-misleader {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: A2164
-    proximity: 0.7541
+    proximity: 0.7541 {macula-proximity}
   cross_language:
   - strongs: H6231
-    proximity: 0.8187
+    lemma: עָשַׁק
+    gloss: to press upon {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
     language: hebrew
   - strongs: H3585
-    proximity: 0.8138
+    lemma: כַּחַשׁ
+    gloss: literally a failure of flesh {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
     language: hebrew
   - strongs: H8267
-    proximity: 0.8003
+    lemma: שֶׁקֶר
+    gloss: an untruth {openscriptures-strongs}
+    proximity: 0.8003 {macula-proximity}
     language: hebrew
   - strongs: H8582
-    proximity: 0.7999
+    lemma: תָּעָה
+    gloss: to vacillate {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
     language: hebrew
   - strongs: H6906
-    proximity: 0.7929
+    lemma: קָבַע
+    gloss: to cover {openscriptures-strongs}
+    proximity: 0.7929 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

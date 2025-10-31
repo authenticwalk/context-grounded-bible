@@ -6,21 +6,15 @@ pronunciation: zeh'-feth
 definition: asphalt (from its tendency to soften in the sun)
 kjv_usage: pitch.
 derivation: from an unused root (meaning to liquify);
-extended_definition:
-  gloss: pitch
-  definition: pitch, tar, asphalt
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: pitch, tar, asphalt {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H167
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
   cross_language:
   - strongs: G4078
-    proximity: 0.7625
+    lemma: πήγνυμι
+    gloss: to fix {openscriptures-strongs}
+    proximity: 0.7625 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,41 +6,51 @@ pronunciation: khem-law'
 definition: commiseration
 kjv_usage: merciful, pity.
 derivation: from H2550 (חָמַל);
-extended_definition:
-  gloss: compassion
-  definition: mercy, pity, compassion
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: mercy, pity, compassion {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5546
-    proximity: 0.8041
+    lemma: סַלָּח
+    gloss: placable {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
   - strongs: H2617
-    proximity: 0.7831
+    lemma: חֵסֵד
+    gloss: kindness {openscriptures-strongs}
+    proximity: 0.7831 {macula-proximity}
   - strongs: H5162
-    proximity: 0.742
+    lemma: נָחַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.742 {macula-proximity}
   - strongs: H2594
-    proximity: 0.7105
+    lemma: חֲנִינָה
+    gloss: graciousness {openscriptures-strongs}
+    proximity: 0.7105 {macula-proximity}
   - strongs: H5150
-    proximity: 0.703
+    lemma: נִחוּם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.703 {macula-proximity}
   cross_language:
   - strongs: G5339
-    proximity: 0.8229
+    lemma: φείδομαι
+    gloss: to be chary of {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G1652
-    proximity: 0.8201
+    lemma: ἐλεεινός
+    gloss: pitiable {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G463
-    proximity: 0.805
+    proximity: 0.805 {macula-proximity}
     language: greek
   - strongs: G1914
-    proximity: 0.773
+    lemma: ἐπιβλέπω
+    gloss: to gaze at (with favor {openscriptures-strongs}
+    proximity: 0.773 {macula-proximity}
     language: greek
   - strongs: G3929
-    proximity: 0.763
+    lemma: πάρεσις
+    gloss: praetermission {openscriptures-strongs}
+    proximity: 0.763 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,48 +6,56 @@ pronunciation: khaw-thaf'
 definition: to clutch
 kjv_usage: take away.
 derivation: a primitive root;
-extended_definition:
-  gloss: to seize
-  definition: (Qal) to seize, take away, snatch away
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to seize, take away, snatch away {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5375
-    proximity: 0.8247
+    lemma: נָשָׂא
+    gloss: to lift {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H5337
-    proximity: 0.8239
+    lemma: נָצַל
+    gloss: to snatch away {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: H8437
-    proximity: 0.8063
+    lemma: תּוֹלָל
+    gloss: causing to howl {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
   - strongs: A6902
-    proximity: 0.7959
+    proximity: 0.7959 {macula-proximity}
   - strongs: A5709
-    proximity: 0.794
+    proximity: 0.794 {macula-proximity}
   - strongs: H1500
-    proximity: 0.7919
+    lemma: גְּזֵלָה
+    gloss: '{robbery {openscriptures-strongs}'
+    proximity: 0.7919 {macula-proximity}
   - strongs: H1499
-    proximity: 0.7817
+    lemma: גֵּזֶל
+    gloss: plunder {openscriptures-strongs}
+    proximity: 0.7817 {macula-proximity}
   - strongs: H1105
-    proximity: 0.7653
+    lemma: בֶּלַע
+    gloss: a gulp {openscriptures-strongs}
+    proximity: 0.7653 {macula-proximity}
   - strongs: H8155
-    proximity: 0.7472
+    lemma: שָׁסַס
+    gloss: to plunder {openscriptures-strongs}
+    proximity: 0.7472 {macula-proximity}
   - strongs: H962
-    proximity: 0.732
+    proximity: 0.732 {macula-proximity}
   cross_language:
   - strongs: G724
-    proximity: 0.8082
+    proximity: 0.8082 {macula-proximity}
     language: greek
   - strongs: G851
-    proximity: 0.7863
+    proximity: 0.7863 {macula-proximity}
     language: greek
   - strongs: G522
-    proximity: 0.782
+    proximity: 0.782 {macula-proximity}
     language: greek
   - strongs: G3911
-    proximity: 0.7335
+    lemma: παραφέρω
+    gloss: to bear along or aside {openscriptures-strongs}
+    proximity: 0.7335 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

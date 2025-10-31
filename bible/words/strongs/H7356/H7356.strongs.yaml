@@ -10,26 +10,35 @@ derivation: from H7355 (רָחַם);
 related_words:
   synonyms:
   - strongs: H5162
-    proximity: 0.8215
+    lemma: נָחַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H2587
-    proximity: 0.7827
+    lemma: חַנּוּן
+    gloss: gracious {openscriptures-strongs}
+    proximity: 0.7827 {macula-proximity}
   cross_language:
   - strongs: G5544
-    proximity: 0.8173
+    lemma: χρηστότης
+    gloss: usefulness {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
     language: greek
   - strongs: G5363
-    proximity: 0.8164
+    lemma: φιλανθρωπία
+    gloss: fondness of mankind {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
     language: greek
   - strongs: G4698
-    proximity: 0.8016
+    lemma: σπλάγχνον
+    gloss: an intestine {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
     language: greek
   - strongs: G26
-    proximity: 0.7729
+    proximity: 0.7729 {macula-proximity}
     language: greek
   - strongs: G2433
-    proximity: 0.71
+    lemma: ἱλάσκομαι
+    gloss: to conciliate {openscriptures-strongs}
+    proximity: 0.71 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

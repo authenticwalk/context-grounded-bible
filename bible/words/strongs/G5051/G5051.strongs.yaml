@@ -5,41 +5,48 @@ transliteration: teleiōtḗs
 definition: a completer, i.e. consummater
 kjv_usage: finisher
 derivation: from G5048 (τελειόω);
-extended_definition:
-  gloss: finisher
-  definition: '<b>τελειωτής</b>, -οῦ, ὁ<BR /> (τελειόω), <BR /><b>a consummator, finisher</b>:
-    <ref=''Heb.12.2''>Heb.12:2</ref> (nowhere else).†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> τελει-ωτής</b>, οῦ, ὁ, <br /> <b>accomplisher, finisher</b>,
-    τῆς πίστεως [<a href="javascript:void(0)" title=" NT.Heb.12.2. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'τελειωτής, -οῦ, ὁ
+
+  (τελειόω),
+
+  a consummator, finisher: Heb.12:2 (nowhere else).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'τελει-ωτής, οῦ, ὁ,
+
+  accomplisher, finisher, τῆς πίστεως [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5048
-    proximity: 0.8125
+    lemma: τελειόω
+    gloss: to complete {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: G4135
-    proximity: 0.7903
+    lemma: πληροφορέω
+    gloss: to carry out fully {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
   - strongs: G5050
-    proximity: 0.7899
+    lemma: τελείωσις
+    gloss: completion {openscriptures-strongs}
+    proximity: 0.7899 {macula-proximity}
   - strongs: G1822
-    proximity: 0.7735
+    lemma: ἐξαρτίζω
+    gloss: to finish out {openscriptures-strongs}
+    proximity: 0.7735 {macula-proximity}
   - strongs: G747
-    proximity: 0.7735
+    proximity: 0.7735 {macula-proximity}
   - strongs: G1615
-    proximity: 0.7674
+    lemma: ἐκτελέω
+    gloss: to complete fully {openscriptures-strongs}
+    proximity: 0.7674 {macula-proximity}
   - strongs: A3635
-    proximity: 0.7638
+    proximity: 0.7638 {macula-proximity}
   - strongs: A8000
-    proximity: 0.7539
+    proximity: 0.7539 {macula-proximity}
   - strongs: G658
-    proximity: 0.7464
+    proximity: 0.7464 {macula-proximity}
   - strongs: G2005
-    proximity: 0.7353
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: ἐπιτελέω
+    gloss: to fulfill further {openscriptures-strongs}
+    proximity: 0.7353 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

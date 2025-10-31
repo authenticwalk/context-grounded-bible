@@ -6,31 +6,33 @@ pronunciation: mas-sad'
 definition: a foundation
 kjv_usage: foundation.
 derivation: from H3245 (יָסַד);
-extended_definition:
-  gloss: foundation
-  definition: foundation
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: foundation {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4837
-    proximity: 0.8202
+    lemma: מַרְצֶפֶת
+    gloss: a pavement {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   - strongs: H808
-    proximity: 0.7933
+    proximity: 0.7933 {macula-proximity}
   - strongs: H803a
-    proximity: 0.7933
+    proximity: 0.7933 {macula-proximity}
   - strongs: H8328
-    proximity: 0.7748
+    lemma: שֶׁרֶשׁ
+    gloss: a root {openscriptures-strongs}
+    proximity: 0.7748 {macula-proximity}
   - strongs: H8356
-    proximity: 0.7746
+    lemma: שָׁתָה
+    gloss: a basis {openscriptures-strongs}
+    proximity: 0.7746 {macula-proximity}
   - strongs: H3246
-    proximity: 0.7033
+    lemma: יְסֻד
+    gloss: a foundation (figuratively {openscriptures-strongs}
+    proximity: 0.7033 {macula-proximity}
   cross_language:
   - strongs: G2602
-    proximity: 0.7625
+    lemma: καταβολή
+    gloss: a deposition {openscriptures-strongs}
+    proximity: 0.7625 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

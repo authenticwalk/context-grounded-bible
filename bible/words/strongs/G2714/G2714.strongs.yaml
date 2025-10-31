@@ -5,64 +5,74 @@ transliteration: katenṓpion
 definition: directly in front of
 kjv_usage: before (the presence of), in the sight of
 derivation: from G2596 (κατά) and G1799 (ἐνώπιον);
-extended_definition:
-  gloss: before
-  definition: '<b>κατενώπιον </b><BR /> <i>adv.</i> (= Hom., κατένωπα), [in LXX: <ref=''Psa.44.15''>Psa.44:15</ref>,
-    al. ;] <BR /><b>over against, before</b>: with genitive, τ. δόξης, <ref=''Jude.24''>Ju
-    24</ref>; metaphorically (cf. κατέναντι, and see Lft., Col., l.with), τ. θεοῦ,
-    <ref=''Eph.1.4''>Eph.1:4</ref>, <ref=''Col.1.22''>Col.1:22</ref>.†<BR /> (AS)'
-  morphology: G:PREP
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κατένωπα</b> <br /> [<a href="javascript:void(0)" title="compare
-    (2nd c.AD: Herodianus Grammaticus Gr. 2.94 ">Refs 2nd c.AD+</a>], κατενῶπα or
-    κατ᾽ ἐνῶπα [<a href="javascript:void(0)" title=" 3rd-2nd c.BC: Aristarchus Grammaticus
-    cited in Hdn.Gr.[same place])">Refs 3rd c.BC+</a>], <b>over against, right opposite</b>,
-    c.<i>genitive</i>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus
-    Epicus “Illiad” 15.320, 5th-6th c.AD: Orphica “Lithica” 132, 464: with _accusative_,
-    Puchstein “epigram Gr.” p.76 (from Memphis)">Refs 8th c.BC+</a>]:—also<b>κατεν-ενώπιον</b>,
-    τινος [<a href="javascript:void(0)" title=" LXX.Josh.1.5, NT.Eph.1.4, +others,
-    “BGU” 954.6 (6th c.AD). ">LXX+NT+6th c.AD+</a>]. <BR />Included with: <b> κατεξᾰγιάζω</b>,
-    <br /> <b>assay,</b> [<a href="javascript:void(0)" title=" Arch.Anz. 38/39.154
-    (_passive_). ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κατενώπιον
+
+  adv. (= Hom., κατένωπα), [in LXX: Psa.44:15, al. ;]
+
+  over against, before: with genitive, τ. δόξης, Ju 24; metaphorically (cf. κατέναντι,
+  and see Lft., Col., l.with), τ. θεοῦ, Eph.1:4, Col.1:22.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κατένωπα
+
+  [Refs 2nd c.AD+], κατενῶπα or κατ᾽ ἐνῶπα [Refs 3rd c.BC+], over against, right opposite,
+  c.genitive, [Refs 8th c.BC+]:—alsoκατεν-ενώπιον, τινος [LXX+NT+6th c.AD+].
+
+  Included with:  κατεξᾰγιάζω,
+
+  assay, [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4314
-    proximity: 0.8212
+    lemma: πρός
+    gloss: a preposition of direction {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   - strongs: G4334
-    proximity: 0.821
+    lemma: προσέρχομαι
+    gloss: to approach {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
   - strongs: G4365
-    proximity: 0.8194
+    lemma: προσπορεύομαι
+    gloss: to journey towards {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: G2596
-    proximity: 0.816
+    lemma: κατά
+    gloss: down {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
   - strongs: G4261
-    proximity: 0.813
+    lemma: προβάλλω
+    gloss: to throw forward {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
   - strongs: G5445
-    proximity: 0.8118
+    lemma: φύραμα
+    gloss: perhaps akin to G5453  through the idea of swelling in bulk) {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
   - strongs: G575
-    proximity: 0.8075
+    proximity: 0.8075 {macula-proximity}
   - strongs: G3693
-    proximity: 0.8044
+    lemma: ὄπισθεν
+    gloss: from G3700 ) with enclitic of source {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
   cross_language:
   - strongs: H6924
-    proximity: 0.8251
+    lemma: קֶדֶם
+    gloss: the front {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
     language: hebrew
   - strongs: H4696
-    proximity: 0.8229
+    lemma: מֵצַח
+    gloss: the forehead {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: hebrew
   - strongs: H241
-    proximity: 0.8228
+    proximity: 0.8228 {macula-proximity}
     language: hebrew
   - strongs: H935
-    proximity: 0.8224
+    proximity: 0.8224 {macula-proximity}
     language: hebrew
   - strongs: H8543
-    proximity: 0.8167
+    lemma: תְּמוֹל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

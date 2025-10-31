@@ -6,45 +6,55 @@ pronunciation: tsaw-nakh'
 definition: to alight; (transitive) to cause to descend, i.e. drive down
 kjv_usage: fasten, light (from off).
 derivation: a primitive root;
-extended_definition:
-  gloss: to descend
-  definition: (Qal) to go down, descend
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to go down, descend {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A1289
-    proximity: 0.825
+    proximity: 0.825 {macula-proximity}
   - strongs: H8213
-    proximity: 0.8153
+    lemma: שָׁפֵל
+    gloss: to depress or sink (expectation figuratively {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
   - strongs: H7725
-    proximity: 0.7917
+    lemma: שׁוּב
+    gloss: to turn back (hence {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: H5307
-    proximity: 0.7866
+    lemma: נָפַל
+    gloss: to fall {openscriptures-strongs}
+    proximity: 0.7866 {macula-proximity}
   - strongs: H5586
-    proximity: 0.7645
+    lemma: סָעַף
+    gloss: to disbranch {openscriptures-strongs}
+    proximity: 0.7645 {macula-proximity}
   - strongs: H935
-    proximity: 0.7362
+    proximity: 0.7362 {macula-proximity}
   - strongs: H1980
-    proximity: 0.7126
+    lemma: הָלַךְ
+    gloss: to walk (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.7126 {macula-proximity}
   cross_language:
   - strongs: G3920
-    proximity: 0.8244
+    lemma: παρείσακτος
+    gloss: smuggled in {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: greek
   - strongs: G4198
-    proximity: 0.8138
+    lemma: πορεύομαι
+    gloss: to traverse {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
     language: greek
   - strongs: G5087
-    proximity: 0.807
+    lemma: τίθημι
+    gloss: to place (in the widest application {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
     language: greek
   - strongs: G609
-    proximity: 0.7856
+    proximity: 0.7856 {macula-proximity}
     language: greek
   - strongs: G5217
-    proximity: 0.7755
+    lemma: ὑπάγω
+    gloss: to lead  under {openscriptures-strongs}
+    proximity: 0.7755 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

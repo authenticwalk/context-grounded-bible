@@ -6,35 +6,38 @@ pronunciation: gaw-looth'
 definition: captivity; concretely, exiles (collectively)
 kjv_usage: (they that are carried away) captives(-ity).
 derivation: feminine from H1540 (גָּלָה);
-extended_definition:
-  gloss: captivity
-  definition: '1) exile, exiles<br>2) (TWOT) captivity<BR>Aramaic equivalent: <i>ga.lut</i>
-    (גָּלוּ "captivity" H1547)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) exile, exiles
+
+  2) (TWOT) captivity
+
+  Aramaic equivalent: ga.lut (גָּלוּ "captivity" H1547) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2414
-    proximity: 0.8247
+    lemma: חָטַף
+    gloss: to clutch {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H5080
-    proximity: 0.8032
+    lemma: נָדַח
+    gloss: to push off {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
   - strongs: H7628a
-    proximity: 0.7823
+    proximity: 0.7823 {macula-proximity}
   - strongs: A1123
-    proximity: 0.7533
+    proximity: 0.7533 {macula-proximity}
   - strongs: A8332
-    proximity: 0.7116
+    proximity: 0.7116 {macula-proximity}
   - strongs: H1540
-    proximity: 0.7017
+    lemma: גָּלָה
+    gloss: to denude {openscriptures-strongs}
+    proximity: 0.7017 {macula-proximity}
   cross_language:
   - strongs: G163
-    proximity: 0.807
+    proximity: 0.807 {macula-proximity}
     language: greek
   - strongs: G2221
-    proximity: 0.7615
+    lemma: ζωγρέω
+    gloss: to take alive {openscriptures-strongs}
+    proximity: 0.7615 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

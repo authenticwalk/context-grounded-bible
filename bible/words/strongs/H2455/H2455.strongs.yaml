@@ -6,24 +6,22 @@ pronunciation: khole
 definition: properly, exposed; hence, profane
 kjv_usage: common, profane (place), unholy.
 derivation: from H2490 (חָלַל);
-extended_definition:
-  gloss: common
-  definition: profaneness, commonness, unholy, profane, common, sand
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: profaneness, commonness, unholy, profane, common, sand {STEPBible-TBESH}
 related_words:
   cross_language:
   - strongs: G2889
-    proximity: 0.822
+    lemma: κόσμος
+    gloss: orderly arrangement {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
     language: greek
   - strongs: G2886
-    proximity: 0.794
+    lemma: κοσμικός
+    gloss: terrene {openscriptures-strongs}
+    proximity: 0.794 {macula-proximity}
     language: greek
   - strongs: G2839
-    proximity: 0.7679
+    lemma: κοινός
+    gloss: common {openscriptures-strongs}
+    proximity: 0.7679 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

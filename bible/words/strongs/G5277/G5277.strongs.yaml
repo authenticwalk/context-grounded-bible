@@ -5,51 +5,57 @@ transliteration: hypolimpánō
 definition: to leave behind, i.e. bequeath
 kjv_usage: leave
 derivation: a prolonged form for G5275 (ὑπολείπω);
-extended_definition:
-  gloss: to leave behind
-  definition: '<b>ὑπο-λιμτάνω </b><BR /> collat. form of ὑπολείπω, <BR /> <b>to leave
-    behind</b>: <ref=''1Pe.2.21.''>1Pe.2:21.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὑπολιμπάνω</b>, <br /> collateral form of ὑπολείπω, <b>leave
-    behind,</b> [<a href="javascript:void(0)" title=" NT.1Pet.2.21, 4th c.AD: Themistius
-    Sophista “Orationes” 10.139d. ">NT+4th c.AD+</a>]<br /><Level3><b>__2</b></Level3>
-    <i>middle</i>, <b>leave over,</b> μὴ ὑπολιμπάνεσθε <b>leave</b> no <b>arrears</b>
-    (uncollected), [<a href="javascript:void(0)" title=" “PHib.” 1.45.13 (3rd c.BC)">Refs
-    3rd c.BC+</a>]; <b>reserve,</b> κερμάτιον εἰς τοὺς προστάντας τῆς σωτηρίας ἡμων
-    [<a href="javascript:void(0)" title=" “PSI” 4.392.4 (3rd c.BC). ">Refs 3rd c.BC+</a>]<br
-    /><Level2><b>__II</b></Level2> <i>intransitive</i>, <b>fail,</b> τὰ νάματα ὑ.
-    [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 1.23.
-    ">Refs 1st c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ὑπο-λιμτάνω
+
+  collat. form of ὑπολείπω,
+
+  to leave behind: 1Pe.2:21.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὑπολιμπάνω,
+
+  collateral form of ὑπολείπω, leave behind, [NT+4th c.AD+]
+
+  __2 middle, leave over, μὴ ὑπολιμπάνεσθε leave no arrears (uncollected), [Refs 3rd
+  c.BC+]; reserve, κερμάτιον εἰς τοὺς προστάντας τῆς σωτηρίας ἡμων [Refs 3rd c.BC+]
+
+  __II intransitive, fail, τὰ νάματα ὑ. [Refs 1st c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1325
-    proximity: 0.8251
+    lemma: δίδωμι
+    gloss: to give (used in a very wide application {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: G642
-    proximity: 0.8119
+    proximity: 0.8119 {macula-proximity}
   - strongs: G1459
-    proximity: 0.8115
+    lemma: ἐγκαταλείπω
+    gloss: to leave behind in some place {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
   cross_language:
   - strongs: H2388
-    proximity: 0.828
+    lemma: חָזַק
+    gloss: to fasten upon {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: hebrew
   - strongs: H3947
-    proximity: 0.8273
+    lemma: לָקַח
+    gloss: to take {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
     language: hebrew
   - strongs: H5975
-    proximity: 0.8271
+    lemma: עָמַד
+    gloss: to stand {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: hebrew
   - strongs: H3427
-    proximity: 0.8241
+    lemma: יָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: hebrew
   - strongs: H1692
-    proximity: 0.8191
+    lemma: דָּבַק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

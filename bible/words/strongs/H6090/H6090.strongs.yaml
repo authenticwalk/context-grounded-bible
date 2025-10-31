@@ -9,38 +9,57 @@ derivation: a variation of H6089 (עֶצֶב);
 related_words:
   synonyms:
   - strongs: H205
-    proximity: 0.8284
+    proximity: 0.8284 {macula-proximity}
   - strongs: H7295
-    proximity: 0.7812
+    lemma: רָהָב
+    gloss: insolent {openscriptures-strongs}
+    proximity: 0.7812 {macula-proximity}
   - strongs: H6089
-    proximity: 0.7778
+    lemma: עֶצֶב
+    gloss: an earthen vessel {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   - strongs: H1892
-    proximity: 0.776
+    lemma: הֶבֶל
+    gloss: emptiness or vanity {openscriptures-strongs}
+    proximity: 0.776 {macula-proximity}
   - strongs: H7723
-    proximity: 0.7755
+    lemma: שָׁוְא
+    gloss: evil {openscriptures-strongs}
+    proximity: 0.7755 {macula-proximity}
   - strongs: H430
-    proximity: 0.7702
+    proximity: 0.7702 {macula-proximity}
   - strongs: H5257
-    proximity: 0.7641
+    lemma: נְסִיךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7641 {macula-proximity}
   - strongs: H8251
-    proximity: 0.713
+    lemma: שִׁקּוּץ
+    gloss: disgusting {openscriptures-strongs}
+    proximity: 0.713 {macula-proximity}
   cross_language:
   - strongs: G1495
-    proximity: 0.8272
+    lemma: εἰδωλολατρεία
+    gloss: image-worship {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G1493
-    proximity: 0.8177
+    lemma: εἰδωλεῖον
+    gloss: an image-fane {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
     language: greek
   - strongs: G1504
-    proximity: 0.8028
+    lemma: εἰκών
+    gloss: a likeness {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
     language: greek
   - strongs: G1496
-    proximity: 0.7902
+    lemma: εἰδωλολάτρης
+    gloss: an image-  worshipper {openscriptures-strongs}
+    proximity: 0.7902 {macula-proximity}
     language: greek
   - strongs: G1494
-    proximity: 0.7354
+    lemma: εἰδωλόθυτον
+    gloss: an image-sacrifice {openscriptures-strongs}
+    proximity: 0.7354 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

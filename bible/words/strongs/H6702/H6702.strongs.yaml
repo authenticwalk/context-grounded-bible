@@ -6,46 +6,55 @@ pronunciation: tsooth
 definition: to blaze
 kjv_usage: burn.
 derivation: a primitive root;
-extended_definition:
-  gloss: to burn
-  definition: (Hiphil) to kindle, burn, set on fire<BR>A grammatical form of <i>ya.tsat</i>
-    (יָצַת "to kindle" H3341)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '(Hiphil) to kindle, burn, set on fire
+
+  A grammatical form of ya.tsat (יָצַת "to kindle" H3341) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1815
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
   - strongs: H4729a
-    proximity: 0.8126
+    proximity: 0.8126 {macula-proximity}
   - strongs: H1814
-    proximity: 0.8123
+    lemma: דָּלַק
+    gloss: to flame {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
   - strongs: H7531a
-    proximity: 0.8119
+    proximity: 0.8119 {macula-proximity}
   - strongs: H2734
-    proximity: 0.8115
+    lemma: חָרָה
+    gloss: to glow or grow warm {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
   - strongs: A3345
-    proximity: 0.8099
+    proximity: 0.8099 {macula-proximity}
   - strongs: H2746
-    proximity: 0.8088
+    lemma: חַרְחֻר
+    gloss: fever {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
   - strongs: H7033
-    proximity: 0.799
+    lemma: קָלָה
+    gloss: to toast {openscriptures-strongs}
+    proximity: 0.799 {macula-proximity}
   - strongs: H3554
-    proximity: 0.7754
+    lemma: כָּוָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7754 {macula-proximity}
   - strongs: H784
-    proximity: 0.7738
+    proximity: 0.7738 {macula-proximity}
   cross_language:
   - strongs: G2739
-    proximity: 0.8255
+    lemma: καυματίζω
+    gloss: to burn {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
     language: greek
   - strongs: G4448
-    proximity: 0.8118
+    lemma: πυρόω
+    gloss: to kindle {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
     language: greek
   - strongs: G2741
-    proximity: 0.7893
+    lemma: καυσόω
+    gloss: to set on fire {openscriptures-strongs}
+    proximity: 0.7893 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

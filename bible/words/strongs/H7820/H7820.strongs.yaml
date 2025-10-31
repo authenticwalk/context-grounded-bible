@@ -6,28 +6,33 @@ pronunciation: shaw-khat'
 definition: to hammer out
 kjv_usage: beat.
 derivation: a primitive root (identical with H7819 (שָׁחַט) through the idea of striking);
-extended_definition:
-  gloss: beaten
-  definition: 1) to beat, hammer<br>1a) (Qal) beaten (participle)<br>2) (TWOT) to
-    kill, slaughter
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to beat, hammer
+
+  1a) (Qal) beaten (participle)
+
+  2) (TWOT) to kill, slaughter {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5363
-    proximity: 0.813
+    lemma: נֹקֶף
+    gloss: a threshing {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
   - strongs: H3807
-    proximity: 0.8075
+    lemma: כָּתַת
+    gloss: to bruise or violently strike {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
   - strongs: H3597
-    proximity: 0.7442
+    lemma: כֵּילַף
+    gloss: a club or sledge-hammer {openscriptures-strongs}
+    proximity: 0.7442 {macula-proximity}
   - strongs: H3795
-    proximity: 0.7339
+    lemma: כָּתִית
+    gloss: beaten {openscriptures-strongs}
+    proximity: 0.7339 {macula-proximity}
   cross_language:
   - strongs: G4463
-    proximity: 0.8152
+    lemma: ῥαβδίζω
+    gloss: to strike with a stick {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

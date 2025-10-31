@@ -7,50 +7,66 @@ definition: an angle or recess
 kjv_usage: corner, turning.
 derivation: or מַקְצֹעַ; or (feminine) מַקְצֹעָה; from H7106 (קָצַע) in the denominative
   sense of bending;
-extended_definition:
-  gloss: corner
-  definition: '1) place of corner structure, corner buttress, inner corner-buttress<br>1a)
-    corner post, buttress-place, buttress<BR>Also means: <i>me.quts.ah</i> (מְקֻצְעָה
-    "corner" H4742)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) place of corner structure, corner buttress, inner corner-buttress
+
+  1a) corner post, buttress-place, buttress
+
+  Also means: me.quts.ah (מְקֻצְעָה "corner" H4742) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4224a
-    proximity: 0.8266
+    proximity: 0.8266 {macula-proximity}
   - strongs: A870
-    proximity: 0.8248
+    proximity: 0.8248 {macula-proximity}
   - strongs: H4411
-    proximity: 0.8218
+    lemma: מָלוֹן
+    gloss: a lodgment {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H4285
-    proximity: 0.8209
+    lemma: מַחְשָׁךְ
+    gloss: darkness {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: H4894
-    proximity: 0.8206
+    lemma: מִשְׁטוֹחַ
+    gloss: a spreading-place {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: H7161
-    proximity: 0.8106
+    lemma: קֶרֶן
+    gloss: a horn {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
   - strongs: H7098
-    proximity: 0.744
+    lemma: קָצָה
+    gloss: a termination {openscriptures-strongs}
+    proximity: 0.744 {macula-proximity}
   - strongs: H7117
-    proximity: 0.7293
+    lemma: קְצָת
+    gloss: a termination {openscriptures-strongs}
+    proximity: 0.7293 {macula-proximity}
   - strongs: H2106
-    proximity: 0.7108
+    lemma: זָוִית
+    gloss: an angle {openscriptures-strongs}
+    proximity: 0.7108 {macula-proximity}
   - strongs: H4725
-    proximity: 0.7067
+    lemma: מָקוֹם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7067 {macula-proximity}
   cross_language:
   - strongs: G3699
-    proximity: 0.8286
+    lemma: ὅπου
+    gloss: what where {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G204
-    proximity: 0.7677
+    proximity: 0.7677 {macula-proximity}
     language: greek
   - strongs: G5117
-    proximity: 0.7439
+    lemma: τόπος
+    gloss: a spot (general in space {openscriptures-strongs}
+    proximity: 0.7439 {macula-proximity}
     language: greek
   - strongs: G2768
-    proximity: 0.7242
+    lemma: κέρας
+    gloss: a horn {openscriptures-strongs}
+    proximity: 0.7242 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

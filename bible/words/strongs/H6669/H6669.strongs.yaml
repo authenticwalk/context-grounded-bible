@@ -6,27 +6,29 @@ pronunciation: tsaw-obe'
 definition: golden in color
 kjv_usage: yellow.
 derivation: from H6668 (צָהַב);
-extended_definition:
-  gloss: yellow
-  definition: gleaming, yellow (of hair)
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: gleaming, yellow (of hair) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6337
-    proximity: 0.8239
+    lemma: פָּז
+    gloss: pure {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: H2091
-    proximity: 0.82
+    lemma: זָהָב
+    gloss: gold {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
   - strongs: H3800
-    proximity: 0.8136
+    lemma: כֶּתֶם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: H2742
-    proximity: 0.8054
+    lemma: חֲרוּץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
   cross_language:
   - strongs: G5557
-    proximity: 0.8097
+    lemma: χρυσός
+    gloss: gold {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

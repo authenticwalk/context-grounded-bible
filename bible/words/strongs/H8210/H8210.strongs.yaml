@@ -8,50 +8,77 @@ definition: to spill forth (blood, a libation, liquid metal; or even a solid, i.
   intensively, to sprawl out
 kjv_usage: cast (up), gush out, pour (out), shed(-der, out), slip.
 derivation: a primitive root;
-extended_definition:
-  gloss: 'to pour: scatter'
-  definition: ': scatter<br>1) to pour, pour out, spill<br>1a) (Qal)<br>1a1) to pour,
-    pour out<br>1a2) to shed (blood)<br>1a3) to pour out (anger or heart) (fig)<br>1b)
-    (Niphal) to be poured out, be shed<br>1c) (Pual) to be poured out, be shed<br>1d)
-    (Hithpael)<br>1d1) to be poured out<br>1d2) to pour out oneself'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': scatter
+
+  1) to pour, pour out, spill
+
+  1a) (Qal)
+
+  1a1) to pour, pour out
+
+  1a2) to shed (blood)
+
+  1a3) to pour out (anger or heart) (fig)
+
+  1b) (Niphal) to be poured out, be shed
+
+  1c) (Pual) to be poured out, be shed
+
+  1d) (Hithpael)
+
+  1d1) to be poured out
+
+  1d2) to pour out oneself {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1147
-    proximity: 0.8243
+    proximity: 0.8243 {macula-proximity}
   - strongs: H7325a
-    proximity: 0.8234
+    proximity: 0.8234 {macula-proximity}
   - strongs: H1818
-    proximity: 0.8231
+    lemma: דָּם
+    gloss: blood  of man or an animal {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H7164
-    proximity: 0.8183
+    lemma: קָרַס
+    gloss: to hunch {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: H6965
-    proximity: 0.8156
+    lemma: קוּם
+    gloss: to rise (in various applications {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
   - strongs: A1124
-    proximity: 0.8097
+    proximity: 0.8097 {macula-proximity}
   - strongs: H3318
-    proximity: 0.8024
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: H8211
-    proximity: 0.7962
+    lemma: שֶׁפֶךְ
+    gloss: an emptying place {openscriptures-strongs}
+    proximity: 0.7962 {macula-proximity}
   cross_language:
   - strongs: G4689
-    proximity: 0.8298
+    lemma: σπένδω
+    gloss: to pour out as a libation {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G1217
-    proximity: 0.8192
+    lemma: δημιουργός
+    gloss: a worker for the people {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
     language: greek
   - strongs: G1032
-    proximity: 0.813
+    lemma: βρύω
+    gloss: to swell out {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
     language: greek
   - strongs: G409
-    proximity: 0.8078
+    proximity: 0.8078 {macula-proximity}
     language: greek
   - strongs: G2708
-    proximity: 0.8072
+    lemma: καταχέω
+    gloss: to pour down {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

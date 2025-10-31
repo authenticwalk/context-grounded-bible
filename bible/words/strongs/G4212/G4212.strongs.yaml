@@ -5,61 +5,75 @@ transliteration: posákis
 definition: how many times
 kjv_usage: how oft(-en)
 derivation: multiplicative from G4214 (πόσος);
-extended_definition:
-  gloss: how often!
-  definition: '<b>ποσάκις </b><BR /> interrog. num. adv., <BR /> <b>how often</b>:
-    <ref=''Mat.18.21; 23.37''>Mat.18:21 23:37</ref>, <ref=''Luk.13.34''>Luk.13:34</ref>.†<BR
-    /> (AS)'
-  morphology: G:ADV
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ποσάκις</b> [ᾰ], <br /> <i>adverb</i> <b>how many times? how
-    often?</b> [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus
-    “Epistulae” 353d ">Refs 5th c.BC+</a>]; <i>poetry</i> <b>ποσσάκι</b> [<a href="javascript:void(0)"
-    title=" 3rd c.BC: Callimachus Epicus “Hymnus in Dianam” 119. ">Refs 3rd c.BC+</a>]<br
-    /><Level2><b>__II</b></Level2> Indef., <b>so many times,</b> οἱ π. ποσοὶ [ἀριθμοί],
-    i.e. <b>square</b> numbers, and οἱ π. π. ποσοί <b>cubes,</b> [<a href="javascript:void(0)"
-    title=" 4th c.BC: Aristoteles Philosophus “Metaphysica” 1020b5. ">Refs 4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ποσάκις
+
+  interrog. num. adv.,
+
+  how often: Mat.18:21 23:37, Luk.13:34.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ποσάκις [ᾰ],
+
+  adverb how many times? how often? [Refs 5th c.BC+]; poetry ποσσάκι [Refs 3rd c.BC+]
+
+  __II Indef., so many times, οἱ π. ποσοὶ [ἀριθμοί], i.e. square numbers, and οἱ π.
+  π. ποσοί cubes, [Refs 4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5154a
-    proximity: 0.8297
+    proximity: 0.8297 {macula-proximity}
   - strongs: G4180
-    proximity: 0.826
+    lemma: πολυλογία
+    gloss: loquacity {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
   - strongs: G530
-    proximity: 0.8246
+    proximity: 0.8246 {macula-proximity}
   - strongs: G4118
-    proximity: 0.8219
+    lemma: πλεῖστος
+    gloss: the largest number or very large {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: G3641
-    proximity: 0.8203
+    lemma: ὀλίγος
+    gloss: puny (in extent {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: G4219
-    proximity: 0.8178
+    lemma: πότε
+    gloss: interrogative adverb {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   - strongs: G3999
-    proximity: 0.8054
+    lemma: πεντάκις
+    gloss: five times {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
   - strongs: G4179
-    proximity: 0.8038
+    lemma: πολλαπλασίων
+    gloss: manifold {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
   - strongs: G2034
-    proximity: 0.7898
+    lemma: ἑπτάκις
+    gloss: seven times {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
   cross_language:
   - strongs: H7235
-    proximity: 0.821
+    lemma: רָבָה
+    gloss: to increase {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: hebrew
   - strongs: H4970
-    proximity: 0.809
+    lemma: מָתַי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
     language: hebrew
   - strongs: H4100
-    proximity: 0.8072
+    lemma: מָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
     language: hebrew
   - strongs: H1963
-    proximity: 0.8063
+    lemma: הֵיךְ
+    gloss: how? {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
     language: hebrew
   - strongs: H349
-    proximity: 0.7912
+    proximity: 0.7912 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

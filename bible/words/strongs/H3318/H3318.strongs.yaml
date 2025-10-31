@@ -14,56 +14,97 @@ kjv_usage: '[idiom] after, appear, [idiom] assuredly, bear out, [idiom] begotten
   scarce, send with commandment, shoot forth, spread, spring out, stand out, [idiom]
   still, [idiom] surely, take forth (out), at any time, [idiom] to (and fro), utter.'
 derivation: a primitive root;
-extended_definition:
-  gloss: 'to come out: surrender'
-  definition: ': surrender/failed(heart)<br>1) to go out, come out, exit, go forth<br>1a)
-    (Qal)<br>1a1) to go or come out or forth, depart<br>1a2) to go forth (to a place)<br>1a3)
-    to go forward, proceed to (to or toward something)<br>1a4) to come or go forth
-    (with purpose or for result)<br>1a5) to come out of<br>1b) (Hiphil)<br>1b1) to
-    cause to go or come out, bring out, lead out<br>1b2) to bring out of<br>1b3) to
-    lead out<br>1b4) to deliver<br>1c) (Hophal) to be brought out or forth'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': surrender/failed(heart)
+
+  1) to go out, come out, exit, go forth
+
+  1a) (Qal)
+
+  1a1) to go or come out or forth, depart
+
+  1a2) to go forth (to a place)
+
+  1a3) to go forward, proceed to (to or toward something)
+
+  1a4) to come or go forth (with purpose or for result)
+
+  1a5) to come out of
+
+  1b) (Hiphil)
+
+  1b1) to cause to go or come out, bring out, lead out
+
+  1b2) to bring out of
+
+  1b3) to lead out
+
+  1b4) to deliver
+
+  1c) (Hophal) to be brought out or forth {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4042
-    proximity: 0.8295
+    lemma: מָגַן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H6585
-    proximity: 0.829
+    lemma: פָּשַׂע
+    gloss: to stride {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: H2328
-    proximity: 0.8288
+    lemma: חוּג
+    gloss: to describe a circle {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: H2559
-    proximity: 0.8286
+    lemma: חָמַק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: H3615
-    proximity: 0.8283
+    lemma: כָּלָה
+    gloss: to end {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H5046
-    proximity: 0.8282
+    lemma: נָגַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H5973
-    proximity: 0.8281
+    lemma: עִם
+    gloss: adverb or preposition {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H6495
-    proximity: 0.8277
+    lemma: פְּקַח־קוֹחַ
+    gloss: opening {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H5060
-    proximity: 0.8275
+    lemma: נָגַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H4421
-    proximity: 0.827
+    lemma: מִלְחָמָה
+    gloss: a battle {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   cross_language:
   - strongs: G1309
-    proximity: 0.8291
+    lemma: διαφεύγω
+    gloss: to flee through {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
     language: greek
   - strongs: G2980
-    proximity: 0.8281
+    lemma: λαλέω
+    gloss: to talk {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G2596
-    proximity: 0.8279
+    lemma: κατά
+    gloss: down {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G4752
-    proximity: 0.8272
+    lemma: στρατεία
+    gloss: military service {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G360
-    proximity: 0.8266
+    proximity: 0.8266 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

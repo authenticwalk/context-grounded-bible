@@ -10,49 +10,85 @@ kjv_usage: bear, beget, birth(-day), born, (make to) bring forth (children, youn
   hatch, labour, (do the office of a) midwife, declare pedigrees, be the son of, (woman
   in, woman that) travail(-eth, -ing woman).
 derivation: a primitive root;
-extended_definition:
-  gloss: to beget
-  definition: 1) to bear, bringforth, beget, gender, travail<br>1a) (Qal)<br>1a1)
-    to bear, bring forth<br>1a1a) of child birth<br>1a1b) of distress (simile)<br>1a1c)
-    of wicked (behaviour)<br>1a2) to beget<br>1b) (Niphal) to be born<br>1c) (Piel)<br>1c1)
-    to cause or help to bring forth<br>1c2) to assist or tend as a midwife<br>1c3)
-    midwife (participle)<br>1d) (Pual) to be born<br>1e) (Hiphil)<br>1e1) to beget
-    (a child)<br>1e2) to bear (fig. -of wicked bringing forth iniquity)<br>1f) (Hophal)
-    day of birth, birthday (infinitive)<br>1g) (Hithpael) to declare one's birth (pedigree)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to bear, bringforth, beget, gender, travail
+
+  1a) (Qal)
+
+  1a1) to bear, bring forth
+
+  1a1a) of child birth
+
+  1a1b) of distress (simile)
+
+  1a1c) of wicked (behaviour)
+
+  1a2) to beget
+
+  1b) (Niphal) to be born
+
+  1c) (Piel)
+
+  1c1) to cause or help to bring forth
+
+  1c2) to assist or tend as a midwife
+
+  1c3) midwife (participle)
+
+  1d) (Pual) to be born
+
+  1e) (Hiphil)
+
+  1e1) to beget (a child)
+
+  1e2) to bear (fig. -of wicked bringing forth iniquity)
+
+  1f) (Hophal) day of birth, birthday (infinitive)
+
+  1g) (Hithpael) to declare one''s birth (pedigree) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5414
-    proximity: 0.828
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
   - strongs: H1876
-    proximity: 0.8267
+    lemma: דָּשָׁא
+    gloss: to sprout {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
   - strongs: H6135
-    proximity: 0.8249
+    lemma: עָקָר
+    gloss: sterile {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
   - strongs: H371
-    proximity: 0.8248
+    proximity: 0.8248 {macula-proximity}
   - strongs: H6529
-    proximity: 0.8242
+    lemma: פְּרִי
+    gloss: fruit {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H4351
-    proximity: 0.8216
+    lemma: מְכוּרָה
+    gloss: origin {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   cross_language:
   - strongs: G3439
-    proximity: 0.829
+    lemma: μονογενής
+    gloss: only-born {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G815
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G1626
-    proximity: 0.827
+    lemma: ἔκτρωμα
+    gloss: a miscarriage {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: greek
   - strongs: G1904a
-    proximity: 0.8227
+    proximity: 0.8227 {macula-proximity}
     language: greek
   - strongs: G5044
-    proximity: 0.8225
+    lemma: τεκνοτροφέω
+    gloss: to be a childrearer {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -8,33 +8,45 @@ definition: a circle, i.e. (by implication) a circumjacent tract or region, espe
   coin)
 kjv_usage: loaf, morsel, piece, plain, talent.
 derivation: from H3769 (כָּרַר);
-extended_definition:
-  gloss: talent
-  definition: '1) round<br>1a) a round district (environs of the Jordan valley)<br>1b)
-    a round loaf (of bread)<br>1c) a round weight, talent (of gold, silver, bronze,
-    iron)<BR>Aramaic equivalent: <i>kik.ker</i> (כִּכֵּר "talent" H3604)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) round
+
+  1a) a round district (environs of the Jordan valley)
+
+  1b) a round loaf (of bread)
+
+  1c) a round weight, talent (of gold, silver, bronze, iron)
+
+  Aramaic equivalent: kik.ker (כִּכֵּר "talent" H3604) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2471
-    proximity: 0.8196
+    lemma: חַלָּה
+    gloss: a cake {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: H95
-    proximity: 0.8172
+    proximity: 0.8172 {macula-proximity}
   - strongs: H5777
-    proximity: 0.8076
+    lemma: עוֹפֶרֶת
+    gloss: lead {openscriptures-strongs}
+    proximity: 0.8076 {macula-proximity}
   - strongs: H6160
-    proximity: 0.8064
+    lemma: עֲרָבָה
+    gloss: a desert {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
   - strongs: H4334
-    proximity: 0.7956
+    lemma: מִישׁוֹר
+    gloss: a level {openscriptures-strongs}
+    proximity: 0.7956 {macula-proximity}
   - strongs: H5692
-    proximity: 0.7297
+    lemma: עֻגָּה
+    gloss: an ash-cake {openscriptures-strongs}
+    proximity: 0.7297 {macula-proximity}
   - strongs: H1237
-    proximity: 0.7224
+    lemma: בִּקְעָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7224 {macula-proximity}
   - strongs: H6010
-    proximity: 0.7009
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: עֵמֶק
+    gloss: a vale {openscriptures-strongs}
+    proximity: 0.7009 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,21 +6,17 @@ pronunciation: sawce
 definition: a moth (from the agility of the fly)
 kjv_usage: moth.
 derivation: from the same as H5483 (סוּס);
-extended_definition:
-  gloss: moth
-  definition: moth
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: moth {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8438
-    proximity: 0.8052
+    lemma: תּוֹלָע
+    gloss: the crimson-grub {openscriptures-strongs}
+    proximity: 0.8052 {macula-proximity}
   cross_language:
   - strongs: G4662
-    proximity: 0.7364
+    lemma: σκωληκόβρωτος
+    gloss: worm-eaten {openscriptures-strongs}
+    proximity: 0.7364 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

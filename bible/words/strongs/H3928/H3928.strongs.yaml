@@ -6,39 +6,49 @@ pronunciation: lim-mood'
 definition: instructed
 kjv_usage: accustomed, disciple, learned, taught, used.
 derivation: or לִמֻּד; from H3925 (לָמַד);
-extended_definition:
-  gloss: disciple
-  definition: 1) taught, learned, discipled<br>1a) taught<br>1b) accustomed to (something)
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: '1) taught, learned, discipled
+
+  1a) taught
+
+  1b) accustomed to (something) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8150a
-    proximity: 0.8135
+    proximity: 0.8135 {macula-proximity}
   - strongs: H3948
-    proximity: 0.8106
+    lemma: לֶקַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
   - strongs: H4148
-    proximity: 0.8094
+    lemma: מוּסָר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
   - strongs: H3384b
-    proximity: 0.7732
+    proximity: 0.7732 {macula-proximity}
   cross_language:
   - strongs: G1317
-    proximity: 0.8262
+    lemma: διδακτικός
+    gloss: instructive {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
     language: greek
   - strongs: G1128
-    proximity: 0.8244
+    lemma: γυμνάζω
+    gloss: to practise naked {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: greek
   - strongs: G4994
-    proximity: 0.8229
+    lemma: σωφρονίζω
+    gloss: to make of sound mind {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G4822
-    proximity: 0.8199
+    lemma: συμβιβάζω
+    gloss: causative  of the base of G939 ) {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
     language: greek
   - strongs: G3809
-    proximity: 0.8149
+    lemma: παιδεία
+    gloss: tutorage {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

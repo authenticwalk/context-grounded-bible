@@ -7,42 +7,50 @@ definition: to spawn, i.e. become numerous
 kjv_usage: grow.
 derivation: a primitive root; to move rapidly; used only as a denominative from H1709
   (דָּג);
-extended_definition:
-  gloss: to multiply
-  definition: (Qal) to multiply, increase
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to multiply, increase {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6105
-    proximity: 0.8296
+    lemma: עָצַם
+    gloss: to bind fast {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H1565
-    proximity: 0.8295
+    lemma: גַּלְמוּד
+    gloss: sterile {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H7698
-    proximity: 0.8279
+    lemma: שֶׁגֶר
+    gloss: the fetus {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: H5125
-    proximity: 0.8274
+    lemma: נוּן
+    gloss: to resprout {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H503
-    proximity: 0.827
+    proximity: 0.827 {macula-proximity}
   - strongs: A1994
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
   - strongs: H6529
-    proximity: 0.8255
+    lemma: פְּרִי
+    gloss: fruit {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: H3963a
-    proximity: 0.8242
+    proximity: 0.8242 {macula-proximity}
   - strongs: A1952a
-    proximity: 0.8185
+    proximity: 0.8185 {macula-proximity}
   - strongs: H1961
-    proximity: 0.8178
+    lemma: הָיָה
+    gloss: to exist {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   cross_language:
   - strongs: G5088
-    proximity: 0.8238
+    lemma: τίκτω
+    gloss: to produce (from seed {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
     language: greek
   - strongs: G5042
-    proximity: 0.8155
+    lemma: τεκνογονία
+    gloss: childbirth {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

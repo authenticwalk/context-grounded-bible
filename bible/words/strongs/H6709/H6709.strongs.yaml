@@ -6,24 +6,20 @@ pronunciation: tsakh-an-aw'
 definition: stench
 kjv_usage: ill savour.
 derivation: from an unused root meaning to putrefy;
-extended_definition:
-  gloss: stench
-  definition: stench, foul odour
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: stench, foul odour {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2186a
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
   cross_language:
   - strongs: G3750
-    proximity: 0.7583
+    lemma: ὄσφρησις
+    gloss: smell {openscriptures-strongs}
+    proximity: 0.7583 {macula-proximity}
     language: greek
   - strongs: G3605
-    proximity: 0.7569
+    lemma: ὄζω
+    gloss: to scent {openscriptures-strongs}
+    proximity: 0.7569 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

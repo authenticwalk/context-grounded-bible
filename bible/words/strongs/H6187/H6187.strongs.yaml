@@ -7,44 +7,61 @@ definition: a pile, equipment, estimate
 kjv_usage: equal, estimation, (things that are set in) order, price, proportion, [idiom]
   set at, suit, taxation, [idiom] valuest.
 derivation: from H6186 (עָרַךְ);
-extended_definition:
-  gloss: valuation
-  definition: '1) order, row, estimate, things that are set in order, layer, pile<br>1a)
-    order, row<br>1b) estimate, valuation<BR>Aramaic equivalent: <i>ar.ka</i> (אַרְכָֿא
-    "lengthening" H0754)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) order, row, estimate, things that are set in order, layer,
+  pile
+
+  1a) order, row
+
+  1b) estimate, valuation
+
+  Aramaic equivalent: ar.ka (אַרְכָֿא "lengthening" H0754) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3504
-    proximity: 0.8257
+    lemma: יִתְרוֹן
+    gloss: preeminence {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H4736
-    proximity: 0.822
+    lemma: מִקְנָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
   - strongs: H3365
-    proximity: 0.8139
+    lemma: יָקַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H4901
-    proximity: 0.8116
+    lemma: מֶשֶׁךְ
+    gloss: a sowing {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   - strongs: H6306a
-    proximity: 0.8098
+    proximity: 0.8098 {macula-proximity}
   - strongs: H6697b
-    proximity: 0.8082
+    proximity: 0.8082 {macula-proximity}
   - strongs: H3701
-    proximity: 0.7844
+    lemma: כֶּסֶף
+    gloss: silver {openscriptures-strongs}
+    proximity: 0.7844 {macula-proximity}
   - strongs: H6186
-    proximity: 0.7705
+    lemma: עָרַךְ
+    gloss: to set in a row {openscriptures-strongs}
+    proximity: 0.7705 {macula-proximity}
   - strongs: H4635
-    proximity: 0.7588
+    lemma: מַעֲרֶכֶת
+    gloss: an arrangement {openscriptures-strongs}
+    proximity: 0.7588 {macula-proximity}
   - strongs: H4377
-    proximity: 0.7176
+    lemma: מֶכֶר
+    gloss: merchandise {openscriptures-strongs}
+    proximity: 0.7176 {macula-proximity}
   cross_language:
   - strongs: G3444
-    proximity: 0.8206
+    lemma: μορφή
+    gloss: shape {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G5092
-    proximity: 0.7748
+    lemma: τιμή
+    gloss: a value {openscriptures-strongs}
+    proximity: 0.7748 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

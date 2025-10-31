@@ -6,23 +6,19 @@ pronunciation: mish-bawr'
 definition: a breaker (of the sea)
 kjv_usage: billow, wave.
 derivation: from H7665 (שָׁבַר);
-extended_definition:
-  gloss: wave
-  definition: breaker, breaking (of sea)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: breaker, breaking (of sea) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7641a
-    proximity: 0.7501
+    proximity: 0.7501 {macula-proximity}
   - strongs: H8534
-    proximity: 0.7125
+    lemma: תַּלְתַּל
+    gloss: a trailing bough {openscriptures-strongs}
+    proximity: 0.7125 {macula-proximity}
   cross_language:
   - strongs: G2831
-    proximity: 0.7386
+    lemma: κλυδωνίζομαι
+    gloss: to surge {openscriptures-strongs}
+    proximity: 0.7386 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

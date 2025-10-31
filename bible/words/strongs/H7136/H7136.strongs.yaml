@@ -11,40 +11,51 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H579
-    proximity: 0.8214
+    proximity: 0.8214 {macula-proximity}
   - strongs: H977
-    proximity: 0.8202
+    proximity: 0.8202 {macula-proximity}
   - strongs: A7912
-    proximity: 0.8025
+    proximity: 0.8025 {macula-proximity}
   - strongs: H1961
-    proximity: 0.7976
+    lemma: הָיָה
+    gloss: to exist {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: A1934
-    proximity: 0.7745
+    proximity: 0.7745 {macula-proximity}
   - strongs: H6293
-    proximity: 0.7609
+    lemma: פָּגַע
+    gloss: to impinge {openscriptures-strongs}
+    proximity: 0.7609 {macula-proximity}
   - strongs: A4291
-    proximity: 0.7588
+    proximity: 0.7588 {macula-proximity}
   - strongs: H6923
-    proximity: 0.7539
+    lemma: קָדַם
+    gloss: to project {openscriptures-strongs}
+    proximity: 0.7539 {macula-proximity}
   - strongs: H935
-    proximity: 0.7516
+    proximity: 0.7516 {macula-proximity}
   cross_language:
   - strongs: G5348
-    proximity: 0.8064
+    lemma: φθάνω
+    gloss: to be beforehand {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
     language: greek
   - strongs: G4045
-    proximity: 0.7896
+    lemma: περιπίπτω
+    gloss: to fall into something that is all around {openscriptures-strongs}
+    proximity: 0.7896 {macula-proximity}
     language: greek
   - strongs: G1717
-    proximity: 0.7732
+    lemma: ἐμφανής
+    gloss: apparent in self {openscriptures-strongs}
+    proximity: 0.7732 {macula-proximity}
     language: greek
   - strongs: G529
-    proximity: 0.763
+    proximity: 0.763 {macula-proximity}
     language: greek
   - strongs: G1096
-    proximity: 0.7493
+    lemma: γίνομαι
+    gloss: to cause to be {openscriptures-strongs}
+    proximity: 0.7493 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

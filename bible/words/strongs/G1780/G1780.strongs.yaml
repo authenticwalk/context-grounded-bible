@@ -5,26 +5,21 @@ transliteration: entaphiasmós
 definition: preparation for interment
 kjv_usage: burying
 derivation: from G1779 (ἐνταφιάζω);
-extended_definition:
-  gloss: burial
-  definition: '<b>ἐνταφιασμός</b>, -οῦ<BR /> (ἐνταφιάζω), <BR /><b>preparation for
-    burial</b>: <ref=''Mrk.14.8''>Mrk.14:8</ref>, <ref=''Jhn.12.7''>Jhn.12:7</ref>.†<BR
-    /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐντᾰφ-ιασμός</b>, ὁ, <br /> <b>laying out for burial, </b>
-    NT.Mark.14.8, [<a href="javascript:void(0)" title="Scholia 5th-6th c.BC: Aristophanes
-    Comicus “Plutus” 1009, etc. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐνταφιασμός, -οῦ
+
+  (ἐνταφιάζω),
+
+  preparation for burial: Mrk.14:8, Jhn.12:7.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐντᾰφ-ιασμός, ὁ,
+
+  laying out for burial,  NT.Mark.14.8, [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H6913
-    proximity: 0.8295
+    lemma: קֶבֶר
+    gloss: a sepulchre {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

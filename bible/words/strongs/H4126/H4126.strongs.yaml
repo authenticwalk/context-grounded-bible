@@ -6,41 +6,49 @@ pronunciation: mo-baw'
 definition: an entrance
 kjv_usage: coming.
 derivation: by transp. for H3996 (מָבוֹא);
-extended_definition:
-  gloss: entrance
-  definition: entrance, entering, in-coming
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: entrance, entering, in-coming {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A870
-    proximity: 0.8295
+    proximity: 0.8295 {macula-proximity}
   - strongs: H4224a
-    proximity: 0.8295
+    proximity: 0.8295 {macula-proximity}
   - strongs: H4109
-    proximity: 0.823
+    lemma: מַהֲלָךְ
+    gloss: a walk {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: H3318
-    proximity: 0.8227
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H8211
-    proximity: 0.8047
+    lemma: שֶׁפֶךְ
+    gloss: an emptying place {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
   cross_language:
   - strongs: G5561
-    proximity: 0.8277
+    lemma: χώρα
+    gloss: room {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: greek
   - strongs: G1660
-    proximity: 0.8229
+    lemma: ἔλευσις
+    gloss: an advent {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G5564
-    proximity: 0.8227
+    lemma: χωρίον
+    gloss: a spot or plot of ground {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
     language: greek
   - strongs: G3922
-    proximity: 0.8225
+    lemma: παρεισέρχομαι
+    gloss: to come in alongside {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
   - strongs: G1521
-    proximity: 0.8209
+    lemma: εἰσάγω
+    gloss: to introduce {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

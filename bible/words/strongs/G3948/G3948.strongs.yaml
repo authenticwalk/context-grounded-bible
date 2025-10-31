@@ -5,60 +5,77 @@ transliteration: paroxysmós
 definition: incitement (to good), or dispute (in anger)
 kjv_usage: contention, provoke unto
 derivation: from G3947 (παροξύνω) ("paroxysm");
-extended_definition:
-  gloss: stirring up
-  definition: '<b>παροξυσμός</b>, -οῦ, ὁ<BR /> (παροξύνω), [in LXX: <ref=''Deu.29.28''>Deu.29:28</ref>,
-    <ref=''Jer.32.37''>Jer.32:37</ref> (קֶצֶף)* ;] <BR />__1. <b>stimulation, provocation</b>:
-    π. ἀγάπης, <ref=''Heb.10.14.''>Heb.10:14.</ref> <BR /> __2. <b>irritation</b>:
-    <ref=''Act.15.39.''>Act.15:39.</ref>†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> παροξ-υσμός</b>, ὁ, <br /> <b>irritation, exasperation</b>,
-    [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 45.14, LXX.Jer.39(32).37,
-    NT.Act.15.39 ">NT+4th c.BC+</a>]; π. ἀγάπης <b>provoking </b>or <b>exciting to..,</b>
-    [<a href="javascript:void(0)" title="NT.Heb.10.24. ">NT</a>]<br /><Level3><b>__2</b></Level3>
-    <b>severe fit of a disease, paroxysm</b>, [<a href="javascript:void(0)" title="
-    5th c.BC: Hippocrates Medicus “ἀφορισμοί” 1.11, 12, 2nd c.AD: Galenus Medicus
-    17(2).387, etc. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'παροξυσμός, -οῦ, ὁ
+
+  (παροξύνω), [in LXX: Deu.29:28, Jer.32:37 (קֶצֶף)* ;]
+
+  __1. stimulation, provocation: π. ἀγάπης, Heb.10:14.
+
+  __2. irritation: Act.15:39.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'παροξ-υσμός, ὁ,
+
+  irritation, exasperation, [NT+4th c.BC+]; π. ἀγάπης provoking or exciting to..,
+  [NT]
+
+  __2 severe fit of a disease, paroxysm, [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5114
-    proximity: 0.8194
+    lemma: τομώτερος
+    gloss: more comprehensive or decisive than G2875 {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: G2214a
-    proximity: 0.8187
+    proximity: 0.8187 {macula-proximity}
   - strongs: G3691
-    proximity: 0.8186
+    lemma: ὀξύς
+    gloss: keen {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: G2213
-    proximity: 0.8102
+    lemma: ζήτημα
+    gloss: a search {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
   - strongs: G1256
-    proximity: 0.8045
+    lemma: διαλέγομαι
+    gloss: to say thoroughly {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
   - strongs: G4714
-    proximity: 0.8
+    lemma: στάσις
+    gloss: a standing (properly {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: G2042
-    proximity: 0.782
+    lemma: ἐρεθίζω
+    gloss: to stimulate {openscriptures-strongs}
+    proximity: 0.782 {macula-proximity}
   - strongs: G3164
-    proximity: 0.7759
+    lemma: μάχομαι
+    gloss: to war {openscriptures-strongs}
+    proximity: 0.7759 {macula-proximity}
   cross_language:
   - strongs: H6230
-    proximity: 0.825
+    lemma: עֵשֶׂק
+    gloss: strife {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
     language: hebrew
   - strongs: H2299
-    proximity: 0.8232
+    lemma: חַד
+    gloss: sharp {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
     language: hebrew
   - strongs: H4079
-    proximity: 0.8118
+    lemma: מִדְיָן
+    gloss: '{a contest or quarrel} {openscriptures-strongs}'
+    proximity: 0.8118 {macula-proximity}
     language: hebrew
   - strongs: H7378
-    proximity: 0.8107
+    lemma: רִיב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
     language: hebrew
   - strongs: H4066
-    proximity: 0.806
+    lemma: מָדוֹן
+    gloss: a contest or quarrel {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

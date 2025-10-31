@@ -5,53 +5,61 @@ transliteration: trietía
 definition: a three years' period (triennium)
 kjv_usage: space of three years
 derivation: from a compound of G5140 (τρεῖς) and G2094 (ἔτος);
-extended_definition:
-  gloss: three years
-  definition: '<b>τριετία</b>, -ας, ἡ<BR /> (τρεῖς, ἔτος), <BR /><b>a period of three
-    years</b>: <ref=''Act.20.31.''>Act.20:31.</ref>†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> τρῐετ-ία</b>, ἡ, <br /> <b>period of three years,</b> [<a href="javascript:void(0)"
-    title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus “C. Gracchus” 2; κατὰ
-    τ. 4th-3rd c.BC: Theophrastus Philosophus “de Causis Plantarum” 1.20.4, argument
-    ii 4th c.BC: Demosthenes Orator 22, compare 1st c.AD: Dioscorides (Dioscurides)
-    Medicus 1 “Prooem.” 8, “PAmh.” 2.1c o. 7 (2nd-3rd c.AD), etc.">Refs 4th c.BC+</a>];
-    ἐς τ. [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista “Alex.”
-    41. ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'τριετία, -ας, ἡ
+
+  (τρεῖς, ἔτος),
+
+  a period of three years: Act.20:31.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'τρῐετ-ία, ἡ,
+
+  period of three years, [Refs 4th c.BC+]; ἐς τ. [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5145
-    proximity: 0.8024
+    lemma: τριακόσιοι
+    gloss: three hundred {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: G1763
-    proximity: 0.795
+    lemma: ἐνιαυτός
+    gloss: a year {openscriptures-strongs}
+    proximity: 0.795 {macula-proximity}
   - strongs: A8140
-    proximity: 0.7647
+    proximity: 0.7647 {macula-proximity}
   - strongs: G5153
-    proximity: 0.7601
+    lemma: τρισχίλιοι
+    gloss: three times a thousand {openscriptures-strongs}
+    proximity: 0.7601 {macula-proximity}
   - strongs: G5063a
-    proximity: 0.75
+    proximity: 0.75 {macula-proximity}
   - strongs: G1333
-    proximity: 0.7434
+    lemma: διετία
+    gloss: a space of two years {openscriptures-strongs}
+    proximity: 0.7434 {macula-proximity}
   - strongs: G5151
-    proximity: 0.723
+    lemma: τρίς
+    gloss: three times {openscriptures-strongs}
+    proximity: 0.723 {macula-proximity}
   cross_language:
   - strongs: H7839
-    proximity: 0.8186
+    lemma: שַׁחֲרוּת
+    gloss: a dawning {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
     language: hebrew
   - strongs: H7992
-    proximity: 0.8018
+    lemma: שְׁלִישִׁי
+    gloss: third {openscriptures-strongs}
+    proximity: 0.8018 {macula-proximity}
     language: hebrew
   - strongs: H8141
-    proximity: 0.7856
+    lemma: שָׁנֶה
+    gloss: a year {openscriptures-strongs}
+    proximity: 0.7856 {macula-proximity}
     language: hebrew
   - strongs: H7969
-    proximity: 0.7495
+    lemma: שָׁלוֹשׁ
+    gloss: three {openscriptures-strongs}
+    proximity: 0.7495 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

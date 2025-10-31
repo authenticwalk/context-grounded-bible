@@ -9,40 +9,59 @@ derivation: from H2790 (חָרַשׁ);
 related_words:
   synonyms:
   - strongs: H5475
-    proximity: 0.8182
+    lemma: סוֹד
+    gloss: a session {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
   - strongs: H4285
-    proximity: 0.8137
+    lemma: מַחְשָׁךְ
+    gloss: darkness {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   - strongs: H5641
-    proximity: 0.8104
+    lemma: סָתַר
+    gloss: to hide {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
   - strongs: H2822
-    proximity: 0.7899
+    lemma: חֹשֶׁךְ
+    gloss: the dark {openscriptures-strongs}
+    proximity: 0.7899 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7683
+    proximity: 0.7683 {macula-proximity}
   - strongs: H2244
-    proximity: 0.7608
+    lemma: חָבָא
+    gloss: to secrete {openscriptures-strongs}
+    proximity: 0.7608 {macula-proximity}
   - strongs: A5642
-    proximity: 0.7597
+    proximity: 0.7597 {macula-proximity}
   - strongs: H2934
-    proximity: 0.7579
+    lemma: טָמַן
+    gloss: to hide {openscriptures-strongs}
+    proximity: 0.7579 {macula-proximity}
   - strongs: H3909
-    proximity: 0.7516
+    lemma: לָט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7516 {macula-proximity}
   cross_language:
   - strongs: G4655
-    proximity: 0.8219
+    lemma: σκότος
+    gloss: shadiness {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
     language: greek
   - strongs: G731
-    proximity: 0.8206
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G3920
-    proximity: 0.8028
+    lemma: παρείσακτος
+    gloss: smuggled in {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
     language: greek
   - strongs: G3919
-    proximity: 0.7889
+    lemma: παρεισάγω
+    gloss: to lead in aside {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
     language: greek
   - strongs: G5260
-    proximity: 0.7792
+    lemma: ὑποβάλλω
+    gloss: to throw in stealthily {openscriptures-strongs}
+    proximity: 0.7792 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

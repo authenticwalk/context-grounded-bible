@@ -9,17 +9,18 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: A8214
-    proximity: 0.7825
+    proximity: 0.7825 {macula-proximity}
   - strongs: H6800a
-    proximity: 0.7302
+    proximity: 0.7302 {macula-proximity}
   cross_language:
   - strongs: G5014
-    proximity: 0.8101
+    lemma: ταπείνωσις
+    gloss: depression {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
     language: greek
   - strongs: G5013
-    proximity: 0.8022
+    lemma: ταπεινόω
+    gloss: to depress {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

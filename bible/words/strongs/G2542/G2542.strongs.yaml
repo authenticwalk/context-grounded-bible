@@ -5,47 +5,54 @@ transliteration: Kaisáreia
 definition: Cæsaria, the name of two places in Palestine
 kjv_usage: Cæsarea
 derivation: from G2541 (Καῖσαρ);
-extended_definition:
-  gloss: Caesarea
-  definition: '<b>Καισαρία</b> (Rec. -άρεια), -ας, ἡ <BR /> <b>Cæsarea</b>; <BR />
-    __1. <b>Cæsarea Philippi, at the foot of Lebanon</b>: <ref=''Mat.16.13''>Mat.16:13</ref>,
-    <ref=''Mrk.8.27''>Mrk.8:27</ref>. <BR /> __2. <b>Cæsarea of Palestine, on the
-    sea-coast</b>: <ref=''Act.8.4; 9.30; 10.1, 24; 11.11; 12.19; 18.22; 21.8, 16;
-    23.23, 33; 25.1, 4; 25.6, 13''>Act.8:4 9:30 10:1, 24 11:11 12:19 18:22 21:8, 16
-    23:23, 33 25:1, 4 25:6, 13</ref>.†<BR /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Καισαρία</b> (Rec. -άρεια), -ας, ἡ <BR /> <b>Cæsarea</b>; <BR
-    /> __1. <b>Cæsarea Philippi, at the foot of Lebanon</b>: <ref=''Mat.16.13''>Mat.16:13</ref>,
-    <ref=''Mrk.8.27''>Mrk.8:27</ref>. <BR /> __2. <b>Cæsarea of Palestine, on the
-    sea-coast</b>: <ref=''Act.8.4; 9.30; 10.1, 24; 11.11; 12.19; 18.22; 21.8, 16;
-    23.23, 33; 25.1, 4; 25.6, 13''>Act.8:4 9:30 10:1, 24 11:11 12:19 18:22 21:8, 16
-    23:23, 33 25:1, 4 25:6, 13</ref>.†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Καισαρία (Rec. -άρεια), -ας, ἡ
+
+  Cæsarea;
+
+  __1. Cæsarea Philippi, at the foot of Lebanon: Mat.16:13, Mrk.8:27.
+
+  __2. Cæsarea of Palestine, on the sea-coast: Act.8:4 9:30 10:1, 24 11:11 12:19 18:22
+  21:8, 16 23:23, 33 25:1, 4 25:6, 13.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Καισαρία (Rec. -άρεια), -ας, ἡ
+
+  Cæsarea;
+
+  __1. Cæsarea Philippi, at the foot of Lebanon: Mat.16:13, Mrk.8:27.
+
+  __2. Cæsarea of Palestine, on the sea-coast: Act.8:4 9:30 10:1, 24 11:11 12:19 18:22
+  21:8, 16 23:23, 33 25:1, 4 25:6, 13.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A2148a
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
   - strongs: G760a
-    proximity: 0.8222
+    proximity: 0.8222 {macula-proximity}
   - strongs: G4542
-    proximity: 0.821
+    lemma: Σαμαρεῖτις
+    gloss: a Samaritess {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
   - strongs: G4540
-    proximity: 0.8165
+    lemma: Σαμάρεια
+    gloss: Samaria {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: G1648
-    proximity: 0.8085
+    lemma: Ἐλεάζαρ
+    gloss: Eleazar {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
   - strongs: G2197
-    proximity: 0.8038
+    lemma: Ζαχαρίας
+    gloss: Zacharias {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
   - strongs: G2541
-    proximity: 0.7959
+    lemma: Καῖσαρ
+    gloss: Cæsar {openscriptures-strongs}
+    proximity: 0.7959 {macula-proximity}
   cross_language:
   - strongs: H609
-    proximity: 0.8077
+    proximity: 0.8077 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

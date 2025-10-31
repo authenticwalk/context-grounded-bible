@@ -7,39 +7,53 @@ definition: to sustain; by implication, to obtain, keep fast; figuratively, to h
   follow close
 kjv_usage: (take, up-) hold (up), maintain, retain, stay (up).
 derivation: a primitive root;
-extended_definition:
-  gloss: to grasp
-  definition: 1) to grasp, hold, support, attain, lay hold of, hold fast<br>1a) (Qal)<br>1a1)
-    to grasp, lay hold of, attain<br>1a2) to hold up, support<br>1a3) to hold, keep<br>1a4)
-    to take hold of each other<br>1b) (Niphal) to be seized, be held
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to grasp, hold, support, attain, lay hold of, hold fast
+
+  1a) (Qal)
+
+  1a1) to grasp, lay hold of, attain
+
+  1a2) to hold up, support
+
+  1a3) to hold, keep
+
+  1a4) to take hold of each other
+
+  1b) (Niphal) to be seized, be held {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3920
-    proximity: 0.8099
+    lemma: לָכַד
+    gloss: to catch (in a net {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
   - strongs: H6684
-    proximity: 0.8078
+    lemma: צוּם
+    gloss: to cover over {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   - strongs: H6685
-    proximity: 0.7956
+    lemma: צוֹם
+    gloss: a fast {openscriptures-strongs}
+    proximity: 0.7956 {macula-proximity}
   cross_language:
   - strongs: G482
-    proximity: 0.8293
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G996
-    proximity: 0.8265
+    proximity: 0.8265 {macula-proximity}
     language: greek
   - strongs: G2192
-    proximity: 0.8254
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: greek
   - strongs: G4943
-    proximity: 0.8201
+    lemma: συνυπουργέω
+    gloss: to be a co-auxiliary {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G2983
-    proximity: 0.8192
+    lemma: λαμβάνω
+    gloss: while G138  is more violent {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

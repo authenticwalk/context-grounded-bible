@@ -6,32 +6,36 @@ pronunciation: shib-yaw'
 definition: exile (abstractly or concretely and collectively)
 kjv_usage: captives(-ity).
 derivation: feminine of H7628 (שְׁבִי);
-extended_definition:
-  gloss: captive
-  definition: 1) captivity, captives<br>1a) (state of) captivity<br>1b) captives
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) captivity, captives
+
+  1a) (state of) captivity
+
+  1b) captives {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4455
-    proximity: 0.8173
+    lemma: מַלְקוֹחַ
+    gloss: transitively  the jaws {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
   - strongs: H2414
-    proximity: 0.8096
+    lemma: חָטַף
+    gloss: to clutch {openscriptures-strongs}
+    proximity: 0.8096 {macula-proximity}
   - strongs: H631
-    proximity: 0.7992
+    proximity: 0.7992 {macula-proximity}
   - strongs: A1123
-    proximity: 0.7775
+    proximity: 0.7775 {macula-proximity}
   - strongs: H1540
-    proximity: 0.7735
+    lemma: גָּלָה
+    gloss: to denude {openscriptures-strongs}
+    proximity: 0.7735 {macula-proximity}
   cross_language:
   - strongs: G1198
-    proximity: 0.726
+    lemma: δέσμιος
+    gloss: a captive {openscriptures-strongs}
+    proximity: 0.726 {macula-proximity}
     language: greek
   - strongs: G162
-    proximity: 0.7098
+    proximity: 0.7098 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

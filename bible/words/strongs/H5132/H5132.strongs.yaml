@@ -10,38 +10,57 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H2648
-    proximity: 0.8159
+    lemma: חָפַז
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H4499
-    proximity: 0.8131
+    lemma: מְנוּסָה
+    gloss: retreat {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
   - strongs: H6412
-    proximity: 0.7688
+    lemma: פָּלִיט
+    gloss: a refugee {openscriptures-strongs}
+    proximity: 0.7688 {macula-proximity}
   - strongs: H4788
-    proximity: 0.7651
+    lemma: מָרוּד
+    gloss: an outcast {openscriptures-strongs}
+    proximity: 0.7651 {macula-proximity}
   - strongs: H1980
-    proximity: 0.7626
+    lemma: הָלַךְ
+    gloss: to walk (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.7626 {macula-proximity}
   - strongs: H6412a
-    proximity: 0.7596
+    proximity: 0.7596 {macula-proximity}
   - strongs: A5111
-    proximity: 0.7478
+    proximity: 0.7478 {macula-proximity}
   - strongs: H5110
-    proximity: 0.7436
+    lemma: נוּד
+    gloss: to nod {openscriptures-strongs}
+    proximity: 0.7436 {macula-proximity}
   cross_language:
   - strongs: G2703
-    proximity: 0.8112
+    lemma: καταφεύγω
+    gloss: to flee down {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
     language: greek
   - strongs: G3837
-    proximity: 0.7725
+    lemma: πανταχοῦ
+    gloss: universally {openscriptures-strongs}
+    proximity: 0.7725 {macula-proximity}
     language: greek
   - strongs: G5437
-    proximity: 0.7331
+    lemma: φυγή
+    gloss: a fleeing {openscriptures-strongs}
+    proximity: 0.7331 {macula-proximity}
     language: greek
   - strongs: G4107
-    proximity: 0.7305
+    lemma: πλανήτης
+    gloss: a rover {openscriptures-strongs}
+    proximity: 0.7305 {macula-proximity}
     language: greek
   - strongs: G1628
-    proximity: 0.7115
+    lemma: ἐκφεύγω
+    gloss: to flee out {openscriptures-strongs}
+    proximity: 0.7115 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

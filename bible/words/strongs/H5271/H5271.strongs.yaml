@@ -11,40 +11,61 @@ derivation: or נָעֻר; and (feminine) נְעֻרָה; properly, passive part
 related_words:
   synonyms:
   - strongs: H2208
-    proximity: 0.8282
+    lemma: זָקֻן
+    gloss: old age {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H5291
-    proximity: 0.8264
+    lemma: נַעֲרָה
+    gloss: a girl {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H2779
-    proximity: 0.755
+    lemma: חֹרֶף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.755 {macula-proximity}
   - strongs: H970
-    proximity: 0.7463
+    proximity: 0.7463 {macula-proximity}
   - strongs: H5953b
-    proximity: 0.7424
+    proximity: 0.7424 {macula-proximity}
   - strongs: H6996
-    proximity: 0.7354
+    lemma: קָטָן
+    gloss: abbreviated {openscriptures-strongs}
+    proximity: 0.7354 {macula-proximity}
   - strongs: H6256
-    proximity: 0.7339
+    lemma: עֵת
+    gloss: time {openscriptures-strongs}
+    proximity: 0.7339 {macula-proximity}
   - strongs: H3206
-    proximity: 0.7291
+    lemma: יֶלֶד
+    gloss: something born {openscriptures-strongs}
+    proximity: 0.7291 {macula-proximity}
   - strongs: H6810
-    proximity: 0.7203
+    lemma: צָעִיר
+    gloss: little {openscriptures-strongs}
+    proximity: 0.7203 {macula-proximity}
   cross_language:
   - strongs: G3398
-    proximity: 0.8264
+    lemma: μικρός
+    gloss: small (in size {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G2540
-    proximity: 0.8061
+    lemma: καιρός
+    gloss: an occasion {openscriptures-strongs}
+    proximity: 0.8061 {macula-proximity}
     language: greek
   - strongs: G3812
-    proximity: 0.7552
+    lemma: παιδιόθεν
+    gloss: from infancy {openscriptures-strongs}
+    proximity: 0.7552 {macula-proximity}
     language: greek
   - strongs: G5230
-    proximity: 0.7474
+    lemma: ὑπέρακμος
+    gloss: beyond the "acme" {openscriptures-strongs}
+    proximity: 0.7474 {macula-proximity}
     language: greek
   - strongs: G3494
-    proximity: 0.743
+    lemma: νεανίας
+    gloss: a youth {openscriptures-strongs}
+    proximity: 0.743 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

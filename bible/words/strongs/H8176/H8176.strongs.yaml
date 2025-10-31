@@ -7,33 +7,36 @@ definition: to act as gatekeeper; (figuratively) to estimate
 kjv_usage: think.
 derivation: a primitive root; to split or open, i.e. (literally, but only as denominative
   from H8179 (שַׁעַר)); compare see H7778 (שׁוֹעֵר)
-extended_definition:
-  gloss: to calculate
-  definition: 1) to split open, reason out, calculate, reckon, estimate<br>1a) (Qal)
-    to calculate <ref="Pro.23.7">Pr 23:7</ref>
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to split open, reason out, calculate, reckon, estimate
+
+  1a) (Qal) to calculate Pr 23:7 {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6248
-    proximity: 0.8245
+    lemma: עַשְׁתּוּת
+    gloss: cogitation {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H2803
-    proximity: 0.7757
+    lemma: חָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7757 {macula-proximity}
   cross_language:
   - strongs: G3049
-    proximity: 0.8091
+    lemma: λογίζομαι
+    gloss: to take an inventory {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
     language: greek
   - strongs: G705
-    proximity: 0.805
+    proximity: 0.805 {macula-proximity}
     language: greek
   - strongs: G5424
-    proximity: 0.7607
+    lemma: φρήν
+    gloss: the midrif {openscriptures-strongs}
+    proximity: 0.7607 {macula-proximity}
     language: greek
   - strongs: G1760
-    proximity: 0.7422
+    lemma: ἐνθυμέομαι
+    gloss: to be inspirited {openscriptures-strongs}
+    proximity: 0.7422 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

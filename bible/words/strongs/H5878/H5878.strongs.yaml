@@ -6,30 +6,35 @@ pronunciation: ane khar-ode'
 definition: En-Charod, a place in Palestine
 kjv_usage: well of Harod.
 derivation: from H5869 (עַיִן) and a derivative of H2729 (חָרַד); fountain of trembling;
-extended_definition:
-  gloss: Harod
-  definition: <BR> § En-harod = "spring of Herod"<br> a camping place of Gideon and
-    Israel near the hill of Moreh<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ En-harod = "spring of Herod"
+
+  a camping place of Gideon and Israel near the hill of Moreh {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1543
-    proximity: 0.8024
+    lemma: גֻּלָּה
+    gloss: a fountain {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: H5033
-    proximity: 0.7988
+    lemma: נֵבֶךְ
+    gloss: a fountain {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   - strongs: H2733
-    proximity: 0.7879
+    lemma: חֲרֹדִי
+    gloss: a Charodite {openscriptures-strongs}
+    proximity: 0.7879 {macula-proximity}
   - strongs: H2033
-    proximity: 0.7772
+    lemma: הֲרוֹרִי
+    gloss: a Harorite or mountaineer {openscriptures-strongs}
+    proximity: 0.7772 {macula-proximity}
   - strongs: H3222
-    proximity: 0.7745
+    lemma: יֵם
+    gloss: a warm spring {openscriptures-strongs}
+    proximity: 0.7745 {macula-proximity}
   cross_language:
   - strongs: G4077
-    proximity: 0.7612
+    lemma: πηγή
+    gloss: a fount {openscriptures-strongs}
+    proximity: 0.7612 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

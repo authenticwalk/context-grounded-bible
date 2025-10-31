@@ -7,42 +7,54 @@ definition: to expand
 kjv_usage: spread.
 derivation: a root apparently formed by compounding H6567 (פָּרָשׁ) and that of H6518
   (פָּרָז) (compare H6574 (פַּרְשְׁדֹן));
-extended_definition:
-  gloss: to spread
-  definition: (Pilel) spreading (verbal)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Pilel) spreading (verbal) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1696
-    proximity: 0.8296
+    lemma: דָבַר
+    gloss: perhaps properly {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H4894
-    proximity: 0.827
+    lemma: מִשְׁטוֹחַ
+    gloss: a spreading-place {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H6589
-    proximity: 0.8263
+    lemma: פָּשַׂק
+    gloss: to dispart {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: H5628a
-    proximity: 0.8231
+    proximity: 0.8231 {macula-proximity}
   - strongs: H2232
-    proximity: 0.8157
+    lemma: זָרַע
+    gloss: to sow {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: H7502
-    proximity: 0.8119
+    lemma: רָפַד
+    gloss: to spread {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: H6504
-    proximity: 0.7971
+    lemma: פָּרַד
+    gloss: to break through {openscriptures-strongs}
+    proximity: 0.7971 {macula-proximity}
   - strongs: H2946
-    proximity: 0.7933
+    lemma: טָפַח
+    gloss: to flatten out or extend {openscriptures-strongs}
+    proximity: 0.7933 {macula-proximity}
   - strongs: H4754a
-    proximity: 0.7792
+    proximity: 0.7792 {macula-proximity}
   - strongs: H5259
-    proximity: 0.7778
+    lemma: נָסַךְ
+    gloss: to interweave {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   cross_language:
   - strongs: G1600
-    proximity: 0.7898
+    lemma: ἐκπετάννυμι
+    gloss: to fly out {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
     language: greek
   - strongs: G1310
-    proximity: 0.7662
+    lemma: διαφημίζω
+    gloss: to report thoroughly {openscriptures-strongs}
+    proximity: 0.7662 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

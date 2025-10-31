@@ -5,42 +5,46 @@ transliteration: Samouḗl
 definition: Samuel (i.e. Shemuel), an Israelite
 kjv_usage: Samuel
 derivation: of Hebrew origin (H08050);
-extended_definition:
-  gloss: Samuel
-  definition: '<b>Σαμουήλ</b>, ὁ indecl. <BR /> (in FlJ, Σαμούηλος; <i>Heb.</i> שְׁמוּאֵל),
-    <BR />Samuel (<ref=''1Ki.1.20''>1Ki.1:20</ref>, al.): <ref=''Act.3.24; 13.20''>Act.3:24
-    13:20</ref>, <ref=''Heb.11.32''>Heb.11:32</ref>.†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Σαμουήλ</b>, ὁ indecl. <BR /> (in FlJ, Σαμούηλος; <i>Heb.</i>
-    שְׁמוּאֵל), <BR />Samuel (<ref=''1Ki.1.20''>1Ki.1:20</ref>, al.): <ref=''Act.3.24;
-    13.20''>Act.3:24 13:20</ref>, <ref=''Heb.11.32''>Heb.11:32</ref>.†<BR />  (From
-    Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Σαμουήλ, ὁ indecl.
+
+  (in FlJ, Σαμούηλος; Heb. שְׁמוּאֵל),
+
+  Samuel (1Ki.1:20, al.): Act.3:24 13:20, Heb.11:32.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Σαμουήλ, ὁ indecl.
+
+  (in FlJ, Σαμούηλος; Heb. שְׁמוּאֵל),
+
+  Samuel (1Ki.1:20, al.): Act.3:24 13:20, Heb.11:32.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A7598
-    proximity: 0.8203
+    proximity: 0.8203 {macula-proximity}
   cross_language:
   - strongs: H8007
-    proximity: 0.8287
+    lemma: שַׂלְמָא
+    gloss: Salma {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: hebrew
   - strongs: H2539
-    proximity: 0.8277
+    lemma: חָמוּלִי
+    gloss: a Chamulite  or descendants of Chamul {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: hebrew
   - strongs: H6756a
-    proximity: 0.826
+    proximity: 0.826 {macula-proximity}
     language: hebrew
   - strongs: H5242
-    proximity: 0.825
+    lemma: נְמוּאֵלִי
+    gloss: a Nemuelite {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
     language: hebrew
   - strongs: H3223
-    proximity: 0.8247
+    lemma: יְמוּאֵל
+    gloss: Jemuel {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

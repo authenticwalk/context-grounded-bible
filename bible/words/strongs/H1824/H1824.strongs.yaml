@@ -6,47 +6,61 @@ pronunciation: dem-ee'
 definition: quiet
 kjv_usage: cutting off, rest, silence.
 derivation: or דֳּמִי; from H1820 (דָּמָה);
-extended_definition:
-  gloss: quiet
-  definition: cessation, quiet, rest, silence, pause, peacefulness
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: cessation, quiet, rest, silence, pause, peacefulness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4494
-    proximity: 0.8222
+    lemma: מָנוֹחַ
+    gloss: quiet {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H5118
-    proximity: 0.8218
+    lemma: נוּחַ
+    gloss: quiet {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H2308
-    proximity: 0.8182
+    lemma: חָדַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
   - strongs: H7674
-    proximity: 0.8098
+    lemma: שֶׁבֶת
+    gloss: rest {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
   - strongs: H5117
-    proximity: 0.8073
+    lemma: נוּחַ
+    gloss: to rest {openscriptures-strongs}
+    proximity: 0.8073 {macula-proximity}
   - strongs: H8367
-    proximity: 0.8048
+    lemma: שָׁתַק
+    gloss: to subside {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
   - strongs: H1826b
-    proximity: 0.8002
+    proximity: 0.8002 {macula-proximity}
   - strongs: H1827
-    proximity: 0.7947
+    lemma: דְּמָמָה
+    gloss: quiet {openscriptures-strongs}
+    proximity: 0.7947 {macula-proximity}
   cross_language:
   - strongs: G3062
-    proximity: 0.827
+    lemma: λοιποί
+    gloss: remaining ones {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: greek
   - strongs: G425
-    proximity: 0.8159
+    proximity: 0.8159 {macula-proximity}
     language: greek
   - strongs: G4520
-    proximity: 0.8124
+    lemma: σαββατισμός
+    gloss: a "sabbatism" {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
     language: greek
   - strongs: G4875
-    proximity: 0.8027
+    lemma: συναναπαύομαι
+    gloss: to recruit oneself in company with {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
     language: greek
   - strongs: G5392
-    proximity: 0.7969
+    lemma: φιμόω
+    gloss: to muzzle {openscriptures-strongs}
+    proximity: 0.7969 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

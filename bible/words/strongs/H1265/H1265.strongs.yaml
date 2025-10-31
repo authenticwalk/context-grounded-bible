@@ -7,34 +7,39 @@ definition: a cypress (?) tree; hence, a lance or a musical instrument (as made 
   that wood)
 kjv_usage: fir (tree).
 derivation: of uncertain derivation;
-extended_definition:
-  gloss: cypress
-  definition: 1) cypress, fir, juniper, pine<br>1a) a noble tree (lit.)<br>1b) of
-    stateliness (fig.)<br>1c) material for temple
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) cypress, fir, juniper, pine
+
+  1a) a noble tree (lit.)
+
+  1b) of stateliness (fig.)
+
+  1c) material for temple {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6199
-    proximity: 0.8264
+    lemma: עַרעָר
+    gloss: naked {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H3724a
-    proximity: 0.8198
+    proximity: 0.8198 {macula-proximity}
   - strongs: H352a
-    proximity: 0.8118
+    proximity: 0.8118 {macula-proximity}
   - strongs: H6176
-    proximity: 0.7931
+    lemma: עֲרוֹעֵר
+    gloss: a juniper {openscriptures-strongs}
+    proximity: 0.7931 {macula-proximity}
   - strongs: A363
-    proximity: 0.7741
+    proximity: 0.7741 {macula-proximity}
   - strongs: H730
-    proximity: 0.7615
+    proximity: 0.7615 {macula-proximity}
   - strongs: H1613
-    proximity: 0.731
+    lemma: גֹּפֶר
+    gloss: a kind of tree or wood {openscriptures-strongs}
+    proximity: 0.731 {macula-proximity}
   cross_language:
   - strongs: G3586
-    proximity: 0.8083
+    lemma: ξύλον
+    gloss: timber {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

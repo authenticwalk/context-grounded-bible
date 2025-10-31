@@ -6,34 +6,36 @@ pronunciation: to'-ken
 definition: a fixed quantity
 kjv_usage: measure, tale.
 derivation: from H8505 (תָּכַן);
-extended_definition:
-  gloss: quantity
-  definition: measurement, a measured amount
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: measurement, a measured amount {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A4510
-    proximity: 0.822
+    proximity: 0.822 {macula-proximity}
   - strongs: H7991a
-    proximity: 0.8191
+    proximity: 0.8191 {macula-proximity}
   - strongs: H5615
-    proximity: 0.7972
+    lemma: סְפֹרָה
+    gloss: a numeration {openscriptures-strongs}
+    proximity: 0.7972 {macula-proximity}
   - strongs: H4971
-    proximity: 0.7898
+    lemma: מַתְכֹנֶת
+    gloss: proportion (in size {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
   - strongs: H4060
-    proximity: 0.7449
+    lemma: מִדָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7449 {macula-proximity}
   - strongs: H4058
-    proximity: 0.7286
+    lemma: מָדַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7286 {macula-proximity}
   cross_language:
   - strongs: G706
-    proximity: 0.8162
+    proximity: 0.8162 {macula-proximity}
     language: greek
   - strongs: G3354
-    proximity: 0.7154
+    lemma: μετρέω
+    gloss: to measure {openscriptures-strongs}
+    proximity: 0.7154 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

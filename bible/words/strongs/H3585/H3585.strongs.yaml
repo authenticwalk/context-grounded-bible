@@ -6,45 +6,59 @@ pronunciation: kakh'-ash
 definition: literally a failure of flesh, i.e. emaciation; figuratively, hypocrisy
 kjv_usage: leanness, lies, lying.
 derivation: from H3584 (כָּחַשׁ);
-extended_definition:
-  gloss: lie
-  definition: 1) lying, deception<br>2) leanness, failure
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) lying, deception
+
+  2) leanness, failure {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H907
-    proximity: 0.8238
+    proximity: 0.8238 {macula-proximity}
   - strongs: H6117
-    proximity: 0.814
+    lemma: עָקַב
+    gloss: to seize by the heel {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
   - strongs: H5377
-    proximity: 0.8092
+    lemma: נָשָׁא
+    gloss: to lead astray {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: H7723
-    proximity: 0.7892
+    lemma: שָׁוְא
+    gloss: evil {openscriptures-strongs}
+    proximity: 0.7892 {macula-proximity}
   - strongs: H5685
-    proximity: 0.7861
+    lemma: עָבַשׁ
+    gloss: to dry up {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
   - strongs: H7411a
-    proximity: 0.7859
+    proximity: 0.7859 {macula-proximity}
   - strongs: H4860
-    proximity: 0.7687
+    lemma: מַשָּׁאוֹן
+    gloss: dissimulation {openscriptures-strongs}
+    proximity: 0.7687 {macula-proximity}
   - strongs: H3586
-    proximity: 0.7551
+    lemma: כֶּחָשׁ
+    gloss: faithless {openscriptures-strongs}
+    proximity: 0.7551 {macula-proximity}
   - strongs: H391
-    proximity: 0.7544
+    proximity: 0.7544 {macula-proximity}
   - strongs: H3584
-    proximity: 0.7459
+    lemma: כָּחַשׁ
+    gloss: to be untrue {openscriptures-strongs}
+    proximity: 0.7459 {macula-proximity}
   cross_language:
   - strongs: G5422
-    proximity: 0.8138
+    lemma: φρεναπατάω
+    gloss: to be a mind-misleader {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
     language: greek
   - strongs: G1386
-    proximity: 0.8093
+    lemma: δόλιος
+    gloss: guileful {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
     language: greek
   - strongs: G5583
-    proximity: 0.787
+    lemma: ψεύστης
+    gloss: a falsifier {openscriptures-strongs}
+    proximity: 0.787 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

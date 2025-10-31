@@ -6,33 +6,39 @@ pronunciation: men-oo-saw'
 definition: retreat
 kjv_usage: fleeing, flight.
 derivation: or מְנֻסָה; feminine of H4498 (מָנוֹס);
-extended_definition:
-  gloss: fugitive
-  definition: flight, retreat
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: flight, retreat {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5132
-    proximity: 0.8131
+    lemma: נוּץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
   - strongs: H6413
-    proximity: 0.8086
+    lemma: פְּלֵיטָה
+    gloss: deliverance {openscriptures-strongs}
+    proximity: 0.8086 {macula-proximity}
   - strongs: A5111
-    proximity: 0.7935
+    proximity: 0.7935 {macula-proximity}
   - strongs: H4917
-    proximity: 0.7841
+    lemma: מִשְׁלַחַת
+    gloss: a mission {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
   - strongs: H6412
-    proximity: 0.7827
+    lemma: פָּלִיט
+    gloss: a refugee {openscriptures-strongs}
+    proximity: 0.7827 {macula-proximity}
   - strongs: H2648
-    proximity: 0.7641
+    lemma: חָפַז
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7641 {macula-proximity}
   - strongs: H4422
-    proximity: 0.7373
+    lemma: מָלַט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7373 {macula-proximity}
   cross_language:
   - strongs: G5437
-    proximity: 0.7282
+    lemma: φυγή
+    gloss: a fleeing {openscriptures-strongs}
+    proximity: 0.7282 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

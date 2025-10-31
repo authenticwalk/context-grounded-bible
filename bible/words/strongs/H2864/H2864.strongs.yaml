@@ -6,31 +6,40 @@ pronunciation: khaw-thar'
 definition: to force a passage, as by burglary; figuratively, with oars
 kjv_usage: dig (through), row.
 derivation: a primitive root;
-extended_definition:
-  gloss: to dig
-  definition: 1) to dig, row<br>1a) (Qal)<br>1a1) to dig (into houses-of burglary)<br>1a2)
-    to row (in water)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to dig, row
+
+  1a) (Qal)
+
+  1a1) to dig (into houses-of burglary)
+
+  1a2) to row (in water) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7885
-    proximity: 0.8065
+    lemma: שַׁיִט
+    gloss: an oar {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
   - strongs: H6979
-    proximity: 0.797
+    lemma: קוּר
+    gloss: to trench {openscriptures-strongs}
+    proximity: 0.797 {macula-proximity}
   - strongs: H2658
-    proximity: 0.7909
+    lemma: חָפַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7909 {macula-proximity}
   - strongs: H3738
-    proximity: 0.728
+    lemma: כָּרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.728 {macula-proximity}
   cross_language:
   - strongs: G3736
-    proximity: 0.777
+    lemma: ὀρύσσω
+    gloss: to "burrow" in the ground {openscriptures-strongs}
+    proximity: 0.777 {macula-proximity}
     language: greek
   - strongs: G1846
-    proximity: 0.7552
+    lemma: ἐξορύσσω
+    gloss: to dig out {openscriptures-strongs}
+    proximity: 0.7552 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

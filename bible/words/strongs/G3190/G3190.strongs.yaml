@@ -5,44 +5,52 @@ transliteration: Meleâs
 definition: Meleas, an Israelite
 kjv_usage: Meleas
 derivation: of uncertain origin;
-extended_definition:
-  gloss: Melea
-  definition: '<b>Μελεά</b> (Rec. -ᾶς, genitive, -ᾶ) <BR /> indecl., ὁ (Heb. מְלֵאָה),
-    <BR /> <b>Melea</b>: <ref=''Luk.3.31.''>Luk.3:31.</ref>†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Μελεά</b> (Rec. -ᾶς, genitive, -ᾶ) <BR /> indecl., ὁ (Heb. מְלֵאָה),
-    <BR /> <b>Melea</b>: <ref=''Luk.3.31.''>Luk.3:31.</ref>†<BR />  (From Abbott-Smith.
-    LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Μελεά (Rec. -ᾶς, genitive, -ᾶ)
+
+  indecl., ὁ (Heb. מְלֵאָה),
+
+  Melea: Luk.3:31.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Μελεά (Rec. -ᾶς, genitive, -ᾶ)
+
+  indecl., ὁ (Heb. מְלֵאָה),
+
+  Melea: Luk.3:31.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3828
-    proximity: 0.8297
+    lemma: Παμφυλία
+    gloss: every-tribal {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: A2148a
-    proximity: 0.8267
+    proximity: 0.8267 {macula-proximity}
   - strongs: G4540
-    proximity: 0.8259
+    lemma: Σαμάρεια
+    gloss: Samaria {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   cross_language:
   - strongs: H4920a
-    proximity: 0.829
+    proximity: 0.829 {macula-proximity}
     language: hebrew
   - strongs: H3968
-    proximity: 0.828
+    lemma: מֵאָה
+    gloss: Meah {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: hebrew
   - strongs: H7278
-    proximity: 0.8266
+    lemma: רֶגֶם מֶלֶךְ
+    gloss: Regem-Melek {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
     language: hebrew
   - strongs: H4990
-    proximity: 0.8265
+    lemma: מִתְרְדָת
+    gloss: Mithredath {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
     language: hebrew
   - strongs: H692
-    proximity: 0.8261
+    proximity: 0.8261 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

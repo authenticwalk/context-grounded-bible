@@ -6,49 +6,65 @@ pronunciation: shen-ee-naw'
 definition: something pointed, i.e. a gibe
 kjv_usage: byword, taunt.
 derivation: from H8150 (שָׁנַן);
-extended_definition:
-  gloss: taunt
-  definition: sharp word, sharp (cutting) word, taunt, gibe
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: sharp word, sharp (cutting) word, taunt, gibe {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8591
-    proximity: 0.8076
+    lemma: תָּעַע
+    gloss: to cheat {openscriptures-strongs}
+    proximity: 0.8076 {macula-proximity}
   - strongs: H3887a
-    proximity: 0.7971
+    proximity: 0.7971 {macula-proximity}
   - strongs: H3944
-    proximity: 0.7912
+    lemma: לָצוֹן
+    gloss: derision {openscriptures-strongs}
+    proximity: 0.7912 {macula-proximity}
   - strongs: H6712
-    proximity: 0.776
+    lemma: צְחֹק
+    gloss: laughter {openscriptures-strongs}
+    proximity: 0.776 {macula-proximity}
   - strongs: H4426
-    proximity: 0.7681
+    lemma: מְלִיצָה
+    gloss: an aphorism {openscriptures-strongs}
+    proximity: 0.7681 {macula-proximity}
   - strongs: H3931
-    proximity: 0.7596
+    lemma: לָעַב
+    gloss: to deride {openscriptures-strongs}
+    proximity: 0.7596 {macula-proximity}
   - strongs: H7046
-    proximity: 0.7544
+    lemma: קָלַס
+    gloss: to disparage {openscriptures-strongs}
+    proximity: 0.7544 {macula-proximity}
   - strongs: H2048
-    proximity: 0.7454
+    lemma: הָתַל
+    gloss: to deride {openscriptures-strongs}
+    proximity: 0.7454 {macula-proximity}
   - strongs: H4912
-    proximity: 0.7413
+    lemma: מָשָׁל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7413 {macula-proximity}
   cross_language:
   - strongs: G5195
-    proximity: 0.8201
+    lemma: ὑβρίζω
+    gloss: to exercise violence {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G818
-    proximity: 0.787
+    proximity: 0.787 {macula-proximity}
     language: greek
   - strongs: G2606
-    proximity: 0.7837
+    lemma: καταγελάω
+    gloss: to laugh down {openscriptures-strongs}
+    proximity: 0.7837 {macula-proximity}
     language: greek
   - strongs: G1592
-    proximity: 0.7828
+    lemma: ἐκμυκτηρίζω
+    gloss: to sneer outright at {openscriptures-strongs}
+    proximity: 0.7828 {macula-proximity}
     language: greek
   - strongs: G1702
-    proximity: 0.7602
+    lemma: ἐμπαίζω
+    gloss: to jeer at {openscriptures-strongs}
+    proximity: 0.7602 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

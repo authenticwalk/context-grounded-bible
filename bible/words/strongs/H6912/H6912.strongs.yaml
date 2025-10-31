@@ -6,22 +6,25 @@ pronunciation: kaw-bar'
 definition: to inter
 kjv_usage: '[idiom] in any wise, bury(-ier).'
 derivation: a primitive root;
-extended_definition:
-  gloss: to bury
-  definition: 1) to bury<br>1a) (Qal) to bury<br>1b) (Niphal) to be buried<br>1c)
-    (Piel) to bury, bury (in masses)<br>1d) (Pual) to be buried
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to bury
+
+  1a) (Qal) to bury
+
+  1b) (Niphal) to be buried
+
+  1c) (Piel) to bury, bury (in masses)
+
+  1d) (Pual) to be buried {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3680
-    proximity: 0.813
+    lemma: כָּסָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
   cross_language:
   - strongs: G4369
-    proximity: 0.8152
+    lemma: προστίθημι
+    gloss: to place additionally {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,21 +6,17 @@ pronunciation: kad-mone'
 definition: eastern
 kjv_usage: east.
 derivation: from H6923 (קָדַם);
-extended_definition:
-  gloss: eastern
-  definition: eastern
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: eastern {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1886c
-    proximity: 0.8218
+    proximity: 0.8218 {macula-proximity}
   - strongs: H1552
-    proximity: 0.8209
+    lemma: גְלִילָה
+    gloss: a circuit or region {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: H6924
-    proximity: 0.718
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: קֶדֶם
+    gloss: the front {openscriptures-strongs}
+    proximity: 0.718 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,47 +6,63 @@ pronunciation: bar-zel'
 definition: iron (as cutting); by extension, an iron implement
 kjv_usage: (ax) head, iron.
 derivation: perhaps from the root of H1269 (בִּרְזוֹת);
-extended_definition:
-  gloss: iron
-  definition: '1) iron<br>1a) iron<br>1a1) iron ore<br>1a2) as material of furniture,
-    utensils, implements<br>2) tool of iron<br>3) harshness, strength, oppression
-    (fig.)<BR>Aramaic equivalent: <i>par.zel</i> (פַּרְזֶל "iron" H6523)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) iron
+
+  1a) iron
+
+  1a1) iron ore
+
+  1a2) as material of furniture, utensils, implements
+
+  2) tool of iron
+
+  3) harshness, strength, oppression (fig.)
+
+  Aramaic equivalent: par.zel (פַּרְזֶל "iron" H6523) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2131a
-    proximity: 0.8261
+    proximity: 0.8261 {macula-proximity}
   - strongs: H5178
-    proximity: 0.8194
+    lemma: נְחֹשֶׁת
+    gloss: copper {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H4525a
-    proximity: 0.7913
+    proximity: 0.7913 {macula-proximity}
   - strongs: H3375
-    proximity: 0.7901
+    lemma: יִרְאוֹן
+    gloss: Jiron {openscriptures-strongs}
+    proximity: 0.7901 {macula-proximity}
   - strongs: H3781
-    proximity: 0.7895
+    lemma: כַּשִּׁיל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7895 {macula-proximity}
   - strongs: H5842
-    proximity: 0.7868
+    lemma: עֵט
+    gloss: a stylus or marking stick {openscriptures-strongs}
+    proximity: 0.7868 {macula-proximity}
   - strongs: H3525
-    proximity: 0.7674
+    lemma: כֶּבֶל
+    gloss: a fetter {openscriptures-strongs}
+    proximity: 0.7674 {macula-proximity}
   - strongs: H2757a
-    proximity: 0.7439
+    proximity: 0.7439 {macula-proximity}
   - strongs: H1631
-    proximity: 0.7379
+    lemma: גַּרְזֶן
+    gloss: an axe {openscriptures-strongs}
+    proximity: 0.7379 {macula-proximity}
   - strongs: H4300
-    proximity: 0.7373
+    lemma: מְטִיל
+    gloss: an iron bar {openscriptures-strongs}
+    proximity: 0.7373 {macula-proximity}
   cross_language:
   - strongs: G254
-    proximity: 0.8163
+    proximity: 0.8163 {macula-proximity}
     language: greek
   - strongs: G513
-    proximity: 0.7344
+    proximity: 0.7344 {macula-proximity}
     language: greek
   - strongs: G2743a
-    proximity: 0.7316
+    proximity: 0.7316 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

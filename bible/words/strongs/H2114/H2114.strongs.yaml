@@ -11,42 +11,63 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H8581
-    proximity: 0.8281
+    lemma: תַּעָב
+    gloss: to loathe {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H7726
-    proximity: 0.8275
+    lemma: שׁוֹבָב
+    gloss: apostate {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H1616
-    proximity: 0.8271
+    lemma: גֵּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: H5144
-    proximity: 0.8251
+    lemma: נָזַר
+    gloss: to hold aloof {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H4480
-    proximity: 0.8243
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: H7368
-    proximity: 0.8193
+    lemma: רָחַק
+    gloss: to widen {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H8569
-    proximity: 0.8129
+    lemma: תְּנוּאָה
+    gloss: alienation {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: H3937
-    proximity: 0.7991
+    lemma: לָעַז
+    gloss: to speak in a foreign tongue {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: H6973
-    proximity: 0.7915
+    lemma: קוּץ
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
   - strongs: H2114b
-    proximity: 0.7901
+    proximity: 0.7901 {macula-proximity}
   cross_language:
   - strongs: G654
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G3581
-    proximity: 0.8229
+    lemma: ξένος
+    gloss: foreign (literally {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G655
-    proximity: 0.8129
+    proximity: 0.8129 {macula-proximity}
     language: greek
   - strongs: G1576
-    proximity: 0.8127
+    lemma: ἐκκλείω
+    gloss: to shut out {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
     language: greek
   - strongs: G1369
-    proximity: 0.7918
+    lemma: διχάζω
+    gloss: to make apart {openscriptures-strongs}
+    proximity: 0.7918 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

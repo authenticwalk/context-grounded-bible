@@ -6,39 +6,45 @@ pronunciation: sit-naw'
 definition: opposition (by letter)
 kjv_usage: accusation.
 derivation: from H7853 (שָׂטַן);
-extended_definition:
-  gloss: accusation
-  definition: accusation, enmity
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: accusation, enmity {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5046
-    proximity: 0.8131
+    lemma: נָגַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
   - strongs: A399
-    proximity: 0.8114
+    proximity: 0.8114 {macula-proximity}
   - strongs: H7379
-    proximity: 0.7575
+    lemma: רִיב
+    gloss: a contest {openscriptures-strongs}
+    proximity: 0.7575 {macula-proximity}
   - strongs: A7170
-    proximity: 0.7401
+    proximity: 0.7401 {macula-proximity}
   cross_language:
   - strongs: G1583
-    proximity: 0.8298
+    lemma: ἐκλαλέω
+    gloss: to divulge {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G4811
-    proximity: 0.8214
+    lemma: συκοφαντέω
+    gloss: to be a fig-informer {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
     language: greek
   - strongs: G1718
-    proximity: 0.8127
+    lemma: ἐμφανίζω
+    gloss: to exhibit  or disclose {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
     language: greek
   - strongs: G2920
-    proximity: 0.8079
+    lemma: κρίσις
+    gloss: decision (subjectively or objectively {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
     language: greek
   - strongs: G2649
-    proximity: 0.7929
+    lemma: καταμαρτυρέω
+    gloss: to testify against {openscriptures-strongs}
+    proximity: 0.7929 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

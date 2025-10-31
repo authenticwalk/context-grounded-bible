@@ -5,45 +5,55 @@ transliteration: lamá
 definition: lama (i.e. why)
 kjv_usage: lama
 derivation: of Hebrew origin (H04100 with prepositional prefix);
-extended_definition:
-  gloss: why?
-  definition: '<b>λαμά</b> (Heb. מָה, seel. λεμά = Aram. לְמָא) <BR /> <b>why</b>:
-    <ref=''Mat.27.46''>Mat.27:46</ref> (WH, mg., λεμά TTr., WH, txt., λεμά L), <ref=''Mrk.15.34''>Mrk.15:34</ref>
-    (λεμά LT, λαμμᾶ, Rec.).†<BR /> (AS)'
-  morphology: A:PRT-I
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: Transliteration of Hebrew מָה  'what?' [H4100]. Not in LSJ.
-  source: STEPBible/LSJ
+extended_definition: 'λαμά (Heb. מָה, seel. λεμά = Aram. לְמָא)
+
+  why: Mat.27:46 (WH, mg., λεμά TTr., WH, txt., λεμά L), Mrk.15:34 (λεμά LT, λαμμᾶ,
+  Rec.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: Transliteration of Hebrew מָה  'what?' [H4100]. Not in LSJ. {STEPBible-TFLSJ}
 related_words:
   synonyms:
   - strongs: G3136
-    proximity: 0.8194
+    lemma: Μάρθα
+    gloss: Martha {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: G3157
-    proximity: 0.8194
+    lemma: Ματθάν
+    gloss: Matthan {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: G3103
-    proximity: 0.8111
+    lemma: Μαθουσάλα
+    gloss: Mathusala {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: G4515
-    proximity: 0.8039
+    lemma: Ῥωμαϊστί
+    gloss: Romaistically {openscriptures-strongs}
+    proximity: 0.8039 {macula-proximity}
   cross_language:
   - strongs: H2574
-    proximity: 0.8258
+    lemma: חֲמָת
+    gloss: Chamath {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: hebrew
   - strongs: H4977
-    proximity: 0.8194
+    lemma: מַתָּן
+    gloss: Mattan {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: hebrew
   - strongs: H3903
-    proximity: 0.8185
+    lemma: לַחְמָס
+    gloss: Lachmam or Lachmas {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
     language: hebrew
   - strongs: H4445
-    proximity: 0.8019
+    lemma: מַלְכָּם
+    gloss: Malcam or Milcom {openscriptures-strongs}
+    proximity: 0.8019 {macula-proximity}
     language: hebrew
   - strongs: H4401
-    proximity: 0.8002
+    lemma: מַלְאָכִי
+    gloss: Malaki {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

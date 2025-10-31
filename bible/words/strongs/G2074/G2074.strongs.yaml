@@ -5,45 +5,52 @@ transliteration: Esrṓm
 definition: Esrom (i.e. Chetsron), an Israelite
 kjv_usage: Esrom
 derivation: of Hebrew origin (H02696);
-extended_definition:
-  gloss: Hezron
-  definition: '<b>Ἑσρώμ </b><BR /> (Ἑσρών, Lk, l.with; Rec. Ἑσρ-), ὁ (Heb. חֶצְרוֹן,
-    <ref=''Gen.46.12''>Gen.46:12</ref>, <ref=''Num.26.21''>Num.26:21</ref>, <ref=''1Ch.25.1-31''>1Ch.25:1-31</ref>,
-    al.), [in LXX both forms, ut supr. (cf. <i>ICC</i>, on Mt, l.with; WH, § 408)
-    ;] <BR />Esrom (AV), Hezron (RV), an ancestor of Jesus: <ref=''Mat.13.1-58''>Mat.13:1-58</ref>,
-    <ref=''Luk.3.35''>Luk.3:35</ref>.†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἑσρώμ </b><BR /> (Ἑσρών, Lk, l.with; Rec. Ἑσρ-), ὁ (Heb. חֶצְרוֹן,
-    <ref=''Gen.46.12''>Gen.46:12</ref>, <ref=''Num.26.21''>Num.26:21</ref>, <ref=''1Ch.25.1-31''>1Ch.25:1-31</ref>,
-    al.), [in LXX both forms, ut supr. (cf. <i>ICC</i>, on Mt, l.with; WH, § 408)
-    ;] <BR />Esrom (AV), Hezron (RV), an ancestor of Jesus: <ref=''Mat.13.1-58''>Mat.13:1-58</ref>,
-    <ref=''Luk.3.35''>Luk.3:35</ref>.†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἑσρώμ
+
+  (Ἑσρών, Lk, l.with; Rec. Ἑσρ-), ὁ (Heb. חֶצְרוֹן, Gen.46:12, Num.26:21, 1Ch.25:1-31,
+  al.), [in LXX both forms, ut supr. (cf. ICC, on Mt, l.with; WH, § 408) ;]
+
+  Esrom (AV), Hezron (RV), an ancestor of Jesus: Mat.13:1-58, Luk.3:35.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἑσρώμ
+
+  (Ἑσρών, Lk, l.with; Rec. Ἑσρ-), ὁ (Heb. חֶצְרוֹן, Gen.46:12, Num.26:21, 1Ch.25:1-31,
+  al.), [in LXX both forms, ut supr. (cf. ICC, on Mt, l.with; WH, § 408) ;]
+
+  Esrom (AV), Hezron (RV), an ancestor of Jesus: Mat.13:1-58, Luk.3:35.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5508
-    proximity: 0.8159
+    lemma: Χίος
+    gloss: Chios {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   cross_language:
   - strongs: H2776
-    proximity: 0.8232
+    lemma: חֶרֶס
+    gloss: Cheres {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
     language: hebrew
   - strongs: H2695
-    proximity: 0.8228
+    lemma: חֶצְרוֹ
+    gloss: Chetsro {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
     language: hebrew
   - strongs: H2503
-    proximity: 0.8161
+    lemma: חֶלֶץ
+    gloss: Chelets {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
     language: hebrew
   - strongs: H7152
-    proximity: 0.8016
+    lemma: קְרִיּוֹת
+    gloss: Kerioth {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
     language: hebrew
   - strongs: H2432
-    proximity: 0.785
+    lemma: חִילֵן
+    gloss: Chilen {openscriptures-strongs}
+    proximity: 0.785 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

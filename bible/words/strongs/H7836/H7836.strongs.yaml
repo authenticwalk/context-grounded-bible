@@ -8,45 +8,61 @@ definition: properly, to dawn, i.e. (figuratively) be (up) early at any task (wi
 kjv_usage: (do something) betimes, enquire early, rise (seek) betimes, seek diligently)
   early, in the morning).
 derivation: a primitive root;
-extended_definition:
-  gloss: to seek
-  definition: 1) to seek, seek early or earnestly, look early or diligently for<br>1a)
-    (Qal) to look for diligently, seek<br>1b) (Piel) to seek, seek early
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to seek, seek early or earnestly, look early or diligently
+  for
+
+  1a) (Qal) to look for diligently, seek
+
+  1b) (Piel) to seek, seek early {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2713
-    proximity: 0.8221
+    lemma: חָקַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H6960
-    proximity: 0.8192
+    lemma: קָוָה
+    gloss: to bind together {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: H8446
-    proximity: 0.8131
+    lemma: תּוּר
+    gloss: to meander (causatively {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
   - strongs: H7592
-    proximity: 0.8012
+    lemma: שָׁאַל
+    gloss: to inquire {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
   - strongs: H2968
-    proximity: 0.7886
+    lemma: יָאַב
+    gloss: to desire {openscriptures-strongs}
+    proximity: 0.7886 {macula-proximity}
   - strongs: H8373
-    proximity: 0.785
+    lemma: תָּאַב
+    gloss: to desire {openscriptures-strongs}
+    proximity: 0.785 {macula-proximity}
   - strongs: H8375
-    proximity: 0.7811
+    lemma: תַּאֲבָה
+    gloss: desire {openscriptures-strongs}
+    proximity: 0.7811 {macula-proximity}
   - strongs: H2470a
-    proximity: 0.7665
+    proximity: 0.7665 {macula-proximity}
   cross_language:
   - strongs: G1973
-    proximity: 0.8295
+    lemma: ἐπιπόθητος
+    gloss: yearned upon {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G429
-    proximity: 0.7994
+    proximity: 0.7994 {macula-proximity}
     language: greek
   - strongs: G4709
-    proximity: 0.7724
+    lemma: σπουδαίως
+    gloss: earnestly {openscriptures-strongs}
+    proximity: 0.7724 {macula-proximity}
     language: greek
   - strongs: G2614
-    proximity: 0.7327
+    lemma: καταδιώκω
+    gloss: to hunt down {openscriptures-strongs}
+    proximity: 0.7327 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

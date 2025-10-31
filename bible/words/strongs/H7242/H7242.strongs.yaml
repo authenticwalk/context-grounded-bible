@@ -6,40 +6,46 @@ pronunciation: raw-beed'
 definition: a collar (as spread around the neck)
 kjv_usage: chain.
 derivation: from H7234 (רָבַד);
-extended_definition:
-  gloss: necklace
-  definition: chain (ornament for neck-necklace)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: chain (ornament for neck-necklace) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4147a
-    proximity: 0.8216
+    proximity: 0.8216 {macula-proximity}
   - strongs: H4665
-    proximity: 0.8126
+    lemma: מִפְרֶקֶת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
   - strongs: A6676
-    proximity: 0.8028
+    proximity: 0.8028 {macula-proximity}
   - strongs: H612
-    proximity: 0.7935
+    proximity: 0.7935 {macula-proximity}
   - strongs: H6059
-    proximity: 0.7772
+    lemma: עָנַק
+    gloss: to collar {openscriptures-strongs}
+    proximity: 0.7772 {macula-proximity}
   - strongs: H1621
-    proximity: 0.7763
+    lemma: גַּרְגְּרוֹת
+    gloss: the throat {openscriptures-strongs}
+    proximity: 0.7763 {macula-proximity}
   - strongs: H2784
-    proximity: 0.7723
+    lemma: חַרְצֻבָּה
+    gloss: a fetter {openscriptures-strongs}
+    proximity: 0.7723 {macula-proximity}
   - strongs: H4147
-    proximity: 0.7552
+    lemma: מוֹסֵר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7552 {macula-proximity}
   - strongs: H6807a
-    proximity: 0.7501
+    proximity: 0.7501 {macula-proximity}
   cross_language:
   - strongs: G5137
-    proximity: 0.8258
+    lemma: τράχηλος
+    gloss: the throat {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G1199
-    proximity: 0.8159
+    lemma: δεσμόν
+    gloss: a band {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

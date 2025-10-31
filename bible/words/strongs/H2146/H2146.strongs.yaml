@@ -6,34 +6,38 @@ pronunciation: zik-rone'
 definition: a memento (or memorable thing, day or writing)
 kjv_usage: memorial, record.
 derivation: from H2142 (זָכַר);
-extended_definition:
-  gloss: memorial
-  definition: memorial, reminder, remembrance
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: memorial, reminder, remembrance {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H226
-    proximity: 0.7841
+    proximity: 0.7841 {macula-proximity}
   - strongs: H8567
-    proximity: 0.7652
+    lemma: תָּנָה
+    gloss: to ascribe {openscriptures-strongs}
+    proximity: 0.7652 {macula-proximity}
   - strongs: H6245
-    proximity: 0.7556
+    lemma: עָשַׁת
+    gloss: probably to be sleek {openscriptures-strongs}
+    proximity: 0.7556 {macula-proximity}
   cross_language:
   - strongs: G5426
-    proximity: 0.8175
+    lemma: φρονέω
+    gloss: to exercise the mind {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: greek
   - strongs: G1164
-    proximity: 0.7943
+    lemma: δεῖγμα
+    gloss: a specimen {openscriptures-strongs}
+    proximity: 0.7943 {macula-proximity}
     language: greek
   - strongs: G5280
-    proximity: 0.7489
+    lemma: ὑπόμνησις
+    gloss: a reminding or  recollection {openscriptures-strongs}
+    proximity: 0.7489 {macula-proximity}
     language: greek
   - strongs: G3420
-    proximity: 0.7149
+    lemma: μνήμη
+    gloss: memory {openscriptures-strongs}
+    proximity: 0.7149 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

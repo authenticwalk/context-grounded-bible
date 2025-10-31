@@ -6,35 +6,45 @@ pronunciation: deh'-ber
 definition: a pestilence
 kjv_usage: murrain, pestilence, plague.
 derivation: from H1696 (דָבַר) (in the sense of destroying);
-extended_definition:
-  gloss: pestilence
-  definition: 1) pestilence, plague<br>2) murrain, cattle disease, cattle-plague
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) pestilence, plague
+
+  2) murrain, cattle disease, cattle-plague {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7332
-    proximity: 0.8156
+    lemma: רָזוֹן
+    gloss: thinness {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
   - strongs: H4064
-    proximity: 0.8058
+    lemma: מַדְוֶה
+    gloss: sickness {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: H8463
-    proximity: 0.7928
+    lemma: תַּחֲלוּא
+    gloss: a malady {openscriptures-strongs}
+    proximity: 0.7928 {macula-proximity}
   - strongs: H7565
-    proximity: 0.7519
+    lemma: רֶשֶׁף
+    gloss: a live coal {openscriptures-strongs}
+    proximity: 0.7519 {macula-proximity}
   - strongs: H5061
-    proximity: 0.7459
+    lemma: נֶגַע
+    gloss: a blow (figuratively {openscriptures-strongs}
+    proximity: 0.7459 {macula-proximity}
   cross_language:
   - strongs: G3554
-    proximity: 0.8114
+    lemma: νόσος
+    gloss: a malady (rarely figuratively {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
     language: greek
   - strongs: G3148
-    proximity: 0.7686
+    lemma: μάστιξ
+    gloss: a whip (literally {openscriptures-strongs}
+    proximity: 0.7686 {macula-proximity}
     language: greek
   - strongs: G4127
-    proximity: 0.7382
+    lemma: πληγή
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.7382 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,37 +6,39 @@ pronunciation: kip-poor'
 definition: expiation (only in plural)
 kjv_usage: atonement.
 derivation: from H3722 (כָּפַר);
-extended_definition:
-  gloss: atonement
-  definition: atonement
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: atonement {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H817
-    proximity: 0.8004
+    proximity: 0.8004 {macula-proximity}
   - strongs: H818
-    proximity: 0.7474
+    proximity: 0.7474 {macula-proximity}
   - strongs: H2401
-    proximity: 0.7409
+    lemma: חֲטָאָה
+    gloss: an offence {openscriptures-strongs}
+    proximity: 0.7409 {macula-proximity}
   cross_language:
   - strongs: G2378
-    proximity: 0.7859
+    lemma: θυσία
+    gloss: sacrifice (the act or the victim {openscriptures-strongs}
+    proximity: 0.7859 {macula-proximity}
     language: greek
   - strongs: G2435
-    proximity: 0.7773
+    lemma: ἱλαστήριον
+    gloss: an expiatory {openscriptures-strongs}
+    proximity: 0.7773 {macula-proximity}
     language: greek
   - strongs: G266
-    proximity: 0.7599
+    proximity: 0.7599 {macula-proximity}
     language: greek
   - strongs: G2434
-    proximity: 0.7264
+    lemma: ἱλασμός
+    gloss: atonement {openscriptures-strongs}
+    proximity: 0.7264 {macula-proximity}
     language: greek
   - strongs: G2433
-    proximity: 0.717
+    lemma: ἱλάσκομαι
+    gloss: to conciliate {openscriptures-strongs}
+    proximity: 0.717 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

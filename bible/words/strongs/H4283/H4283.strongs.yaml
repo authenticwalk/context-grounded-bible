@@ -6,49 +6,57 @@ pronunciation: mokh-or-awth'
 definition: the morrow or (adverbially) tomorrow
 kjv_usage: morrow, next day.
 derivation: or מׇחֳרָתָם; (1 Samuel 30:17), feminine from the same as H4279 (מָחָר);
-extended_definition:
-  gloss: morrow
-  definition: the morrow, the day after
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: the morrow, the day after {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4932
-    proximity: 0.8297
+    lemma: מִשְׁנֶה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: H7837
-    proximity: 0.8253
+    lemma: שַׁחַר
+    gloss: dawn (literal {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
   - strongs: H8671
-    proximity: 0.8251
+    lemma: תְּשִׁיעִי
+    gloss: ninth {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H312
-    proximity: 0.8237
+    proximity: 0.8237 {macula-proximity}
   - strongs: H310
-    proximity: 0.8184
+    proximity: 0.8184 {macula-proximity}
   - strongs: A8578
-    proximity: 0.8176
+    proximity: 0.8176 {macula-proximity}
   - strongs: H314
-    proximity: 0.813
+    proximity: 0.813 {macula-proximity}
   - strongs: A8579
-    proximity: 0.7947
+    proximity: 0.7947 {macula-proximity}
   - strongs: H3119
-    proximity: 0.7855
+    lemma: יוֹמָם
+    gloss: daily {openscriptures-strongs}
+    proximity: 0.7855 {macula-proximity}
   cross_language:
   - strongs: G4405
-    proximity: 0.8271
+    lemma: πρωΐα
+    gloss: day-dawn {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G3904
-    proximity: 0.8248
+    lemma: παρασκευή
+    gloss: readiness {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: greek
   - strongs: G1208
-    proximity: 0.815
+    lemma: δεύτερος
+    gloss: second (in time {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
     language: greek
   - strongs: G1208a
-    proximity: 0.8043
+    proximity: 0.8043 {macula-proximity}
     language: greek
   - strongs: G3391
-    proximity: 0.8004
+    lemma: μία
+    gloss: one or first {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

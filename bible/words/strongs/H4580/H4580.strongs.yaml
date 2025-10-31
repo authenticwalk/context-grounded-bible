@@ -6,39 +6,45 @@ pronunciation: maw-ogue'
 definition: a cake of bread; parasite
 kjv_usage: cake, feast.
 derivation: from H5746 (עוּג); also with H3934 (לָעֵג) a table-buffoon, i.e.
-extended_definition:
-  gloss: bun
-  definition: cake
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: cake {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3899
-    proximity: 0.8124
+    lemma: לֶחֶם
+    gloss: food {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: H3934
-    proximity: 0.7958
+    lemma: לָעֵג
+    gloss: a buffoon {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
   - strongs: H3740
-    proximity: 0.7434
+    lemma: כֵּרָה
+    gloss: a purchase {openscriptures-strongs}
+    proximity: 0.7434 {macula-proximity}
   - strongs: A3900
-    proximity: 0.7192
+    proximity: 0.7192 {macula-proximity}
   cross_language:
   - strongs: G4910
-    proximity: 0.8222
+    lemma: συνευωχέω
+    gloss: to entertain sumptuously in company with {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
     language: greek
   - strongs: G1859
-    proximity: 0.8217
+    lemma: ἑορτή
+    gloss: a festival {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
     language: greek
   - strongs: G712
-    proximity: 0.7929
+    proximity: 0.7929 {macula-proximity}
     language: greek
   - strongs: G1062
-    proximity: 0.7884
+    lemma: γάμος
+    gloss: nuptials {openscriptures-strongs}
+    proximity: 0.7884 {macula-proximity}
     language: greek
   - strongs: G1173
-    proximity: 0.7254
+    lemma: δεῖπνον
+    gloss: dinner {openscriptures-strongs}
+    proximity: 0.7254 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

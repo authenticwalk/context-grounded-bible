@@ -7,47 +7,65 @@ definition: to bare; figuratively, to demolish
 kjv_usage: make bare, break, raise up (perhaps by clerical error for raze), [idiom]
   utterly.
 derivation: a primitive root;
-extended_definition:
-  gloss: to strip
-  definition: 1) to strip, make bare, strip oneself<br>1a) (Qal) to strip, strip oneself<br>1b)
-    (Poel) to lay bare<br>1c) (Hithpalpel) to be utterly stripped, be utterly laid
-    bare<br>1d) (Pilpel) break
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to strip, make bare, strip oneself
+
+  1a) (Qal) to strip, strip oneself
+
+  1b) (Poel) to lay bare
+
+  1c) (Hithpalpel) to be utterly stripped, be utterly laid bare
+
+  1d) (Pilpel) break {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4334
-    proximity: 0.8288
+    lemma: מִישׁוֹר
+    gloss: a level {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: H5420
-    proximity: 0.8277
+    lemma: נָתָס
+    gloss: to tear up {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H6979a
-    proximity: 0.8237
+    proximity: 0.8237 {macula-proximity}
   - strongs: H3832
-    proximity: 0.8143
+    lemma: לָבַט
+    gloss: to overthrow {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
   - strongs: H6202
-    proximity: 0.813
+    lemma: עָרַף
+    gloss: to break the neck {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
   - strongs: H4632
-    proximity: 0.8083
+    lemma: מְעָרָה
+    gloss: Mearah {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
   - strongs: H7567
-    proximity: 0.8006
+    lemma: רָשַׁשׁ
+    gloss: to demolish {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
   - strongs: H6168
-    proximity: 0.7763
+    lemma: עָרָה
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7763 {macula-proximity}
   - strongs: A5642a
-    proximity: 0.7676
+    proximity: 0.7676 {macula-proximity}
   - strongs: A2718
-    proximity: 0.7639
+    proximity: 0.7639 {macula-proximity}
   cross_language:
   - strongs: G2679
-    proximity: 0.8225
+    lemma: κατασκάπτω
+    gloss: to undermine {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
   - strongs: G2506
-    proximity: 0.801
+    lemma: καθαίρεσις
+    gloss: demolition {openscriptures-strongs}
+    proximity: 0.801 {macula-proximity}
     language: greek
   - strongs: G2647
-    proximity: 0.733
+    lemma: καταλύω
+    gloss: to loosen down {openscriptures-strongs}
+    proximity: 0.733 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

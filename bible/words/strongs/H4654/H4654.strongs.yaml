@@ -9,39 +9,56 @@ derivation: or מַפֵּלָה; from H5307 (נָפַל);
 related_words:
   synonyms:
   - strongs: H7588a
-    proximity: 0.8219
+    proximity: 0.8219 {macula-proximity}
   - strongs: H6365
-    proximity: 0.8194
+    lemma: פִּיד
+    gloss: misfortune {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H4224a
-    proximity: 0.8189
+    proximity: 0.8189 {macula-proximity}
   - strongs: A870
-    proximity: 0.8183
+    proximity: 0.8183 {macula-proximity}
   - strongs: H3832
-    proximity: 0.8168
+    lemma: לָבַט
+    gloss: to overthrow {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H5977
-    proximity: 0.8063
+    lemma: עֹמֶד
+    gloss: a spot {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
   - strongs: H7701
-    proximity: 0.8049
+    lemma: שֹׁד
+    gloss: violence {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H7334
-    proximity: 0.8013
+    lemma: רָזִי
+    gloss: thinness {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
   - strongs: H6658a
-    proximity: 0.7966
+    proximity: 0.7966 {macula-proximity}
   - strongs: H8211
-    proximity: 0.7944
+    lemma: שֶׁפֶךְ
+    gloss: an emptying place {openscriptures-strongs}
+    proximity: 0.7944 {macula-proximity}
   cross_language:
   - strongs: G3699
-    proximity: 0.8203
+    lemma: ὅπου
+    gloss: what where {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
     language: greek
   - strongs: G5561
-    proximity: 0.8158
+    lemma: χώρα
+    gloss: room {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
     language: greek
   - strongs: G2049
-    proximity: 0.813
+    lemma: ἐρημόω
+    gloss: to lay waste {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
     language: greek
   - strongs: G5564
-    proximity: 0.8109
+    lemma: χωρίον
+    gloss: a spot or plot of ground {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

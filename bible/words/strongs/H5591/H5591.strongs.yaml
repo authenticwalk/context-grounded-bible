@@ -9,40 +9,61 @@ derivation: or (feminine) סְעָרָה; from H5590 (סָעַר);
 related_words:
   synonyms:
   - strongs: H5311
-    proximity: 0.8265
+    lemma: נֶפֶץ
+    gloss: a storm {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H5590
-    proximity: 0.8263
+    lemma: סָעַר
+    gloss: to rush upon {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: H5502
-    proximity: 0.8221
+    lemma: סָחַף
+    gloss: to scrape off {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H1653
-    proximity: 0.8196
+    lemma: גֶּשֶׁם
+    gloss: a shower {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: H3524
-    proximity: 0.8045
+    lemma: כַּבִּיר
+    gloss: vast {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
   - strongs: H1534
-    proximity: 0.7761
+    lemma: גַּלְגַּל
+    gloss: a wheel {openscriptures-strongs}
+    proximity: 0.7761 {macula-proximity}
   - strongs: H4306
-    proximity: 0.7519
+    lemma: מָטַר
+    gloss: rain {openscriptures-strongs}
+    proximity: 0.7519 {macula-proximity}
   - strongs: H7307
-    proximity: 0.7491
+    lemma: רוּחַ
+    gloss: wind {openscriptures-strongs}
+    proximity: 0.7491 {macula-proximity}
   - strongs: H1534a
-    proximity: 0.7359
+    proximity: 0.7359 {macula-proximity}
   cross_language:
   - strongs: G3655
-    proximity: 0.8079
+    lemma: ὄμβρος
+    gloss: a thunder storm {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
     language: greek
   - strongs: G4642
-    proximity: 0.8051
+    lemma: σκληρός
+    gloss: dry {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
     language: greek
   - strongs: G5189
-    proximity: 0.7706
+    lemma: τυφωνικός
+    gloss: stormy {openscriptures-strongs}
+    proximity: 0.7706 {macula-proximity}
     language: greek
   - strongs: G4578
-    proximity: 0.76
+    lemma: σεισμός
+    gloss: a commotion {openscriptures-strongs}
+    proximity: 0.76 {macula-proximity}
     language: greek
   - strongs: G972
-    proximity: 0.7451
+    proximity: 0.7451 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

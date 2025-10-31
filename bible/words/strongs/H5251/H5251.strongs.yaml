@@ -7,34 +7,39 @@ definition: a flag; also a sail; by implication, a flagstaff; generally a signal
   figuratively, a token
 kjv_usage: banner, pole, sail, (en-) sign, standard.
 derivation: from H5264 (נָסַס);
-extended_definition:
-  gloss: ensign
-  definition: 1) something lifted up, standard, signal, signal pole, ensign, banner,
-    sign, sail<br>1a) standard (as rallying point), signal<br>1b) standard (pole)<br>1c)
-    ensign, signal
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) something lifted up, standard, signal, signal pole, ensign,
+  banner, sign, sail
+
+  1a) standard (as rallying point), signal
+
+  1b) standard (pole)
+
+  1c) ensign, signal {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2094a
-    proximity: 0.814
+    proximity: 0.814 {macula-proximity}
   - strongs: H905a
-    proximity: 0.8112
+    proximity: 0.8112 {macula-proximity}
   - strongs: H8650
-    proximity: 0.7671
+    lemma: תֹּרֶן
+    gloss: a pole {openscriptures-strongs}
+    proximity: 0.7671 {macula-proximity}
   - strongs: H5982
-    proximity: 0.7571
+    lemma: עַמּוּד
+    gloss: a column {openscriptures-strongs}
+    proximity: 0.7571 {macula-proximity}
   - strongs: H1713a
-    proximity: 0.7253
+    proximity: 0.7253 {macula-proximity}
   cross_language:
   - strongs: G4592
-    proximity: 0.8286
+    lemma: σημεῖον
+    gloss: an indication {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G1164
-    proximity: 0.7938
+    lemma: δεῖγμα
+    gloss: a specimen {openscriptures-strongs}
+    proximity: 0.7938 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

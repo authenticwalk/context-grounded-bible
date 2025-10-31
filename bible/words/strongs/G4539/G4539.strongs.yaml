@@ -5,31 +5,35 @@ transliteration: Salṓmē
 definition: Salome (i.e. Shelomah), an Israelitess
 kjv_usage: Salome
 derivation: probably of Hebrew origin (feminine from H07965);
-extended_definition:
-  gloss: Salome
-  definition: '<b>Σαλώμη</b>, -ης, ἡ<BR /> (Heb. שָׁלוֹם), <BR /><b>Salome</b>: <ref=''Mrk.15.40;
-    16.1''>Mrk.15:40 16:1</ref>.†<BR /> (AS)'
-  morphology: N:N-F-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Σαλώμη</b>, -ης, ἡ<BR /> (Heb. שָׁלוֹם), <BR /><b>Salome</b>:
-    <ref=''Mrk.15.40; 16.1''>Mrk.15:40 16:1</ref>.†<BR />  (From Abbott-Smith. LSJ
-    has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Σαλώμη, -ης, ἡ
+
+  (Heb. שָׁלוֹם),
+
+  Salome: Mrk.15:40 16:1.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Σαλώμη, -ης, ἡ
+
+  (Heb. שָׁלוֹם),
+
+  Salome: Mrk.15:40 16:1.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H8015
-    proximity: 0.8208
+    lemma: שְׁלֹמִי
+    gloss: Shelomi {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: hebrew
   - strongs: H4407
-    proximity: 0.7893
+    lemma: מִלּוֹא
+    gloss: a rampart {openscriptures-strongs}
+    proximity: 0.7893 {macula-proximity}
     language: hebrew
   - strongs: H4199
-    proximity: 0.7874
+    lemma: מִזָּה
+    gloss: Mizzah {openscriptures-strongs}
+    proximity: 0.7874 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

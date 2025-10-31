@@ -6,48 +6,64 @@ pronunciation: beer-yaw'
 definition: food
 kjv_usage: meat.
 derivation: feminine from H1262 (בָּרָה);
-extended_definition:
-  gloss: food
-  definition: food
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: food {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A2908
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
   - strongs: H3557
-    proximity: 0.8261
+    lemma: כּוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: H4544
-    proximity: 0.8199
+    lemma: מִסְכֵּנֻת
+    gloss: indigence {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H5669
-    proximity: 0.8167
+    lemma: עָבוּר
+    gloss: passed {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H2557
-    proximity: 0.8161
+    lemma: חָמֵץ
+    gloss: ferment {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H6162
-    proximity: 0.8038
+    lemma: עֲרָבוֹן
+    gloss: a pawn {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
   - strongs: H1860
-    proximity: 0.803
+    lemma: דְּרָאוֹן
+    gloss: an object of aversion {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
   - strongs: H4864
-    proximity: 0.7924
+    lemma: מַשְׂאֵת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
   - strongs: H8602a
-    proximity: 0.7906
+    proximity: 0.7906 {macula-proximity}
   - strongs: H3859
-    proximity: 0.7603
+    lemma: לָהַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7603 {macula-proximity}
   cross_language:
   - strongs: G1006
-    proximity: 0.8282
+    lemma: βόσκω
+    gloss: to pasture {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: greek
   - strongs: G4632
-    proximity: 0.8063
+    lemma: σκεῦος
+    gloss: a vessel {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
     language: greek
   - strongs: G3521
-    proximity: 0.7671
+    lemma: νηστεία
+    gloss: abstinence (from lack of food {openscriptures-strongs}
+    proximity: 0.7671 {macula-proximity}
     language: greek
   - strongs: G1494
-    proximity: 0.7669
+    lemma: εἰδωλόθυτον
+    gloss: an image-sacrifice {openscriptures-strongs}
+    proximity: 0.7669 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

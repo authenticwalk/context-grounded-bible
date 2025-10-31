@@ -6,46 +6,59 @@ pronunciation: daw-khaf'
 definition: to urge, i.e. hasten
 kjv_usage: (be) haste(-ned), pressed on.
 derivation: a primitive root;
-extended_definition:
-  gloss: to hasten
-  definition: 1) to drive on, hurry, hasten<br>1a) (Qal) to hasten<br>1b) (Niphal)
-    to hasten oneself, hurry
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to drive on, hurry, hasten
+
+  1a) (Qal) to hasten
+
+  1b) (Niphal) to hasten oneself, hurry {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3288a
-    proximity: 0.8067
+    proximity: 0.8067 {macula-proximity}
   - strongs: H3288
-    proximity: 0.7903
+    lemma: יְעָף
+    gloss: fatigue (adverb {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
   - strongs: A927
-    proximity: 0.766
+    proximity: 0.766 {macula-proximity}
   - strongs: H926
-    proximity: 0.7447
+    proximity: 0.7447 {macula-proximity}
   - strongs: H4120
-    proximity: 0.7284
+    lemma: מְהֵרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7284 {macula-proximity}
   - strongs: H5789
-    proximity: 0.7128
+    lemma: עוּשׁ
+    gloss: to hasten {openscriptures-strongs}
+    proximity: 0.7128 {macula-proximity}
   - strongs: H5860
-    proximity: 0.7107
+    lemma: עִיט
+    gloss: to swoop down upon {openscriptures-strongs}
+    proximity: 0.7107 {macula-proximity}
   cross_language:
   - strongs: G5030
-    proximity: 0.8213
+    lemma: ταχέως
+    gloss: briefly {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
     language: greek
   - strongs: G3729
-    proximity: 0.8088
+    lemma: ὁρμάω
+    gloss: to start {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
     language: greek
   - strongs: G5035
-    proximity: 0.7687
+    lemma: ταχύ
+    gloss: shortly {openscriptures-strongs}
+    proximity: 0.7687 {macula-proximity}
     language: greek
   - strongs: G4708
-    proximity: 0.7628
+    lemma: σπουδαιοτέρως
+    gloss: more speedily {openscriptures-strongs}
+    proximity: 0.7628 {macula-proximity}
     language: greek
   - strongs: G4710
-    proximity: 0.7587
+    lemma: σπουδή
+    gloss: '"speed" {openscriptures-strongs}'
+    proximity: 0.7587 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

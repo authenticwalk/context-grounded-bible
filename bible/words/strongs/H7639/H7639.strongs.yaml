@@ -7,44 +7,60 @@ definition: a net-work, i.e. (in hunting) a snare, (in architecture) a ballustra
   also a reticulated ornament to apillar
 kjv_usage: checker, lattice, network, snare, wreath(-enwork).
 derivation: feminine of H7638 (שָׂבָךְ);
-extended_definition:
-  gloss: latticework
-  definition: '1) network, lattice-work, net, netting<br>1a) lattice<br>1b) net-ornament
-    (on pillars)<br>1c) network, toils (for catching animals)<BR>Also means: <i>sa.vakh</i>
-    (שָׂבָךְ "net" H7638)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) network, lattice-work, net, netting
+
+  1a) lattice
+
+  1b) net-ornament (on pillars)
+
+  1c) network, toils (for catching animals)
+
+  Also means: sa.vakh (שָׂבָךְ "net" H7638) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8260
-    proximity: 0.8103
+    lemma: שֶׁקֶף
+    gloss: a loophole {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   - strongs: H4434
-    proximity: 0.7756
+    lemma: מַלְכֹּדֶת
+    gloss: a snare {openscriptures-strongs}
+    proximity: 0.7756 {macula-proximity}
   - strongs: H4686
-    proximity: 0.7739
+    lemma: מָצוּד
+    gloss: a net {openscriptures-strongs}
+    proximity: 0.7739 {macula-proximity}
   - strongs: H4552
-    proximity: 0.7735
+    lemma: מִסְעָד
+    gloss: a balustrade {openscriptures-strongs}
+    proximity: 0.7735 {macula-proximity}
   - strongs: H2762
-    proximity: 0.7577
+    lemma: חֶרֶךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7577 {macula-proximity}
   - strongs: H4685
-    proximity: 0.7555
+    lemma: מָצוֹד
+    gloss: a net {openscriptures-strongs}
+    proximity: 0.7555 {macula-proximity}
   - strongs: A3551
-    proximity: 0.7547
+    proximity: 0.7547 {macula-proximity}
   - strongs: H822
-    proximity: 0.7536
+    proximity: 0.7536 {macula-proximity}
   - strongs: H4204
-    proximity: 0.7454
+    lemma: מָזוֹר
+    gloss: treachery {openscriptures-strongs}
+    proximity: 0.7454 {macula-proximity}
   - strongs: H4345
-    proximity: 0.7432
+    lemma: מַכְבֵּר
+    gloss: a grate {openscriptures-strongs}
+    proximity: 0.7432 {macula-proximity}
   cross_language:
   - strongs: G2339
-    proximity: 0.8155
+    lemma: θήρα
+    gloss: hunting {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
     language: greek
   - strongs: G293a
-    proximity: 0.7534
+    proximity: 0.7534 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,43 +7,58 @@ definition: to groan, i.e. bewail; hence (through the idea of crying aloud), to 
   (as if on proclamation)
 kjv_usage: lament, wail.
 derivation: a primitive root;
-extended_definition:
-  gloss: to wail
-  definition: 1) to wail, lament<br>1a) (Qal) to wail, lament<br>1b) (Niphal) to go
-    mourning after
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to wail, lament
+
+  1a) (Qal) to wail, lament
+
+  1b) (Niphal) to go mourning after {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6476
-    proximity: 0.8237
+    lemma: פָּצַח
+    gloss: to break out {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: A6088
-    proximity: 0.8221
+    proximity: 0.8221 {macula-proximity}
   - strongs: H6682
-    proximity: 0.819
+    lemma: צְוָחָה
+    gloss: a screech {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   - strongs: H5009
-    proximity: 0.8186
+    lemma: נְאָקָה
+    gloss: a groan {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: H6818
-    proximity: 0.817
+    lemma: צַעֲקָה
+    gloss: a shriek {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: H6873
-    proximity: 0.8161
+    lemma: צָרַח
+    gloss: to be clear (in tone {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H2201
-    proximity: 0.8123
+    lemma: זַעַק
+    gloss: a shriek or outcry {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
   - strongs: H5042
-    proximity: 0.8111
+    lemma: נָבַע
+    gloss: to gush forth {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: H1068
-    proximity: 0.8068
+    lemma: בְּכִית
+    gloss: a weeping {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
   - strongs: H57
-    proximity: 0.7946
+    proximity: 0.7946 {macula-proximity}
   cross_language:
   - strongs: G5462
-    proximity: 0.8218
+    lemma: φωτισμός
+    gloss: illumination {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
     language: greek
   - strongs: G3602
-    proximity: 0.7998
+    lemma: ὀδυρμός
+    gloss: moaning {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

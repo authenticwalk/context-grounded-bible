@@ -5,53 +5,54 @@ transliteration: loidoría
 definition: slander or vituperation
 kjv_usage: railing, reproach(-fully)
 derivation: from G3060 (λοίδορος);
-extended_definition:
-  gloss: reviling
-  definition: '<b>λοιδορία</b>, -ας, ἡ<BR /> (λοιδορέω), [in LXX chiefly for רִיב,
-    מְרִיבָה ;] <BR /><b>abuse, railing</b>: <ref=''1Ti.5.14''>1Ti.5:14</ref>, <ref=''1Pe.3.9''>1Pe.3:9</ref>.†<BR
-    /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> λοιδορ-ία</b>, ἡ, <br /> <b>railing, abuse, reproach</b>, [<a
-    href="javascript:void(0)" title=" 5th c.BC: Antipho Orator 2.1.4, 5th-6th c.BC:
-    Aristophanes Comicus “Fragmenta” 346, 5th c.BC: Thucydides Historicus 2.84, 5th-6th
-    c.BC: Plato Philosophus “Euthydemus” 288b, 1st c.BC: Philodemus Philosophus “περὶ
-    παρρησίας” p.29 O., etc.; εἰς γέλωτα καὶ λ. ἐμβαλόντες 4th c.BC: Demosthenes Orator
-    10.75: _plural_, 5th c.BC: Lysias Orator 21.8, 5th-6th c.BC: Plato Philosophus
-    “Theaetetus” 174c. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'λοιδορία, -ας, ἡ
+
+  (λοιδορέω), [in LXX chiefly for רִיב, מְרִיבָה ;]
+
+  abuse, railing: 1Ti.5:14, 1Pe.3:9.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'λοιδορ-ία, ἡ,
+
+  railing, abuse, reproach, [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G818
-    proximity: 0.7922
+    proximity: 0.7922 {macula-proximity}
   - strongs: G5196
-    proximity: 0.768
+    lemma: ὕβρις
+    gloss: insolence {openscriptures-strongs}
+    proximity: 0.768 {macula-proximity}
   - strongs: G5195
-    proximity: 0.7447
+    lemma: ὑβρίζω
+    gloss: to exercise violence {openscriptures-strongs}
+    proximity: 0.7447 {macula-proximity}
   - strongs: G1796
-    proximity: 0.7042
+    lemma: ἐνυβρίζω
+    gloss: to insult {openscriptures-strongs}
+    proximity: 0.7042 {macula-proximity}
   - strongs: G987
-    proximity: 0.7023
+    proximity: 0.7023 {macula-proximity}
   cross_language:
   - strongs: H1288
-    proximity: 0.8267
+    lemma: בָרַךְ
+    gloss: to kneel {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
     language: hebrew
   - strongs: H2617a
-    proximity: 0.8188
+    proximity: 0.8188 {macula-proximity}
     language: hebrew
   - strongs: H7264
-    proximity: 0.8033
+    lemma: רָגַז
+    gloss: to quiver (with any violent emotion {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
     language: hebrew
   - strongs: H7043
-    proximity: 0.7946
+    lemma: קָלַל
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7946 {macula-proximity}
     language: hebrew
   - strongs: H423
-    proximity: 0.7701
+    proximity: 0.7701 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

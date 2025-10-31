@@ -6,27 +6,30 @@ pronunciation: zaw-rak'
 definition: to sprinkle (fluid or solid particles)
 kjv_usage: be here and there, scatter, sprinkle, strew.
 derivation: a primitive root;
-extended_definition:
-  gloss: to scatter
-  definition: 1) to scatter, sprinkle, toss, throw, scatter abundantly, strew<br>1a)
-    (Qal) to scatter, sprinkle, toss<br>1b) (Pual) to be sprinkled
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to scatter, sprinkle, toss, throw, scatter abundantly, strew
+
+  1a) (Qal) to scatter, sprinkle, toss
+
+  1b) (Pual) to be sprinkled {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5137
-    proximity: 0.7536
+    lemma: נָזָה
+    gloss: to spirt {openscriptures-strongs}
+    proximity: 0.7536 {macula-proximity}
   - strongs: H2232
-    proximity: 0.7473
+    lemma: זָרַע
+    gloss: to sow {openscriptures-strongs}
+    proximity: 0.7473 {macula-proximity}
   cross_language:
   - strongs: G4687
-    proximity: 0.8206
+    lemma: σπείρω
+    gloss: to scatter {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G4472
-    proximity: 0.717
+    lemma: ῥαντίζω
+    gloss: to render besprinkled {openscriptures-strongs}
+    proximity: 0.717 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

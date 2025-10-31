@@ -5,30 +5,25 @@ transliteration: Kýprios
 definition: a Cyprian (Cypriot), i.e. inhabitant of Cyprus
 kjv_usage: of Cyprus
 derivation: from G2954 (Κύπρος);
-extended_definition:
-  gloss: Cyprus
-  definition: '<b>Κύπριος</b>, -α, -ον <BR /> <b>of Cyprus, Cyprian</b>: <ref=''Act.4.36;
-    11.20; 21.16''>Act.4:36 11:20 21:16</ref>.† <BR /> (AS)'
-  morphology: N:N--LG
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: 1. <b>of Cyprus, Cyprian </b>, [<a href="javascript:void(0)" title="Herdotus
-    Historicus">Refs 5th c.BC</a>], etc. <br>2. Κύπρια, τά, an Epic poem introductory
-    to the [<a href="javascript:void(0)" title="Iliad by Homer">8th/7th c.BC</a>,
-    <a href="javascript:void(0)" title="Herdotus Historicus">Refs 5th c.BC</a>]  (Middle
-    Liddel)
-  source: STEPBible/LSJ
+extended_definition: 'Κύπριος, -α, -ον
+
+  of Cyprus, Cyprian: Act.4:36 11:20 21:16.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: '1. of Cyprus, Cyprian , [Refs 5th c.BC], etc.
+
+  2. Κύπρια, τά, an Epic poem introductory to the [8th/7th c.BC, Refs 5th c.BC]  (Middle
+  Liddel) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H8664
-    proximity: 0.8296
+    lemma: תִּשְׁבִּי
+    gloss: a Tishbite or inhabitant of Tishbeh {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: hebrew
   - strongs: H3870
-    proximity: 0.7993
+    lemma: לוּז
+    gloss: Luz {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

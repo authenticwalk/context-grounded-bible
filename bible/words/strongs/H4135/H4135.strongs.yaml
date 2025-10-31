@@ -11,17 +11,20 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H6188
-    proximity: 0.8266
+    lemma: עָרֵל
+    gloss: to expose or remove the prepuce {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: H6189
-    proximity: 0.8013
+    lemma: עָרֵל
+    gloss: uncircumcised {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
   cross_language:
   - strongs: G564
-    proximity: 0.818
+    proximity: 0.818 {macula-proximity}
     language: greek
   - strongs: G2699
-    proximity: 0.7708
+    lemma: κατατομή
+    gloss: a cutting down {openscriptures-strongs}
+    proximity: 0.7708 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

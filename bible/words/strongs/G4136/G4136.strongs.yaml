@@ -5,61 +5,67 @@ transliteration: plērophoría
 definition: entire confidence
 kjv_usage: (full) assurance
 derivation: from G4135 (πληροφορέω);
-extended_definition:
-  gloss: assurance
-  definition: '<b>πληροφορία</b>, -ας, ἡ<BR /> (πληροφορέω), <BR /><b>full assurance,
-    confidence</b>: <ref=''1Th.1.5''>1Th.1:5;</ref> τ. συνέσεως, <ref=''Col.2.2''>Col.2:2;</ref>
-    τ. ἐλπίδος, <ref=''Heb.6.11''>Heb.6:11;</ref> πίστεως, <ref=''Heb.10.22''>Heb.10:22</ref>
-    (cf. Lft. on Col., l.with; M, <i>Th.</i>, 9).†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> πληροφορ-ία</b>, ἡ, <br /> <b>fullness of assurance, certainty,</b>
-    [<a href="javascript:void(0)" title=" NT.1Thes.1.5, NT.Col.2.2, NT.Heb.6.11. ">NT</a>]<br
-    /><Level2><b>__II</b></Level2> <b>assurance given,</b> [<a href="javascript:void(0)"
-    title=" 4th-6th c.AD: Codex Justinianus 1.1.5.4. ">Refs 4th c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'πληροφορία, -ας, ἡ
+
+  (πληροφορέω),
+
+  full assurance, confidence: 1Th.1:5; τ. συνέσεως, Col.2:2; τ. ἐλπίδος, Heb.6:11;
+  πίστεως, Heb.10:22 (cf. Lft. on Col., l.with; M, Th., 9).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'πληροφορ-ία, ἡ,
+
+  fullness of assurance, certainty, [NT]
+
+  __II assurance given, [Refs 4th c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A540
-    proximity: 0.8174
+    proximity: 0.8174 {macula-proximity}
   - strongs: G949
-    proximity: 0.8141
+    proximity: 0.8141 {macula-proximity}
   - strongs: G230
-    proximity: 0.814
+    proximity: 0.814 {macula-proximity}
   - strongs: G841
-    proximity: 0.809
+    proximity: 0.809 {macula-proximity}
   - strongs: G1705
-    proximity: 0.8009
+    lemma: ἐμπίπλημι
+    gloss: to fill in {openscriptures-strongs}
+    proximity: 0.8009 {macula-proximity}
   - strongs: G570a
-    proximity: 0.778
+    proximity: 0.778 {macula-proximity}
   - strongs: G4134
-    proximity: 0.776
+    lemma: πλήρης
+    gloss: replete {openscriptures-strongs}
+    proximity: 0.776 {macula-proximity}
   - strongs: G571
-    proximity: 0.7742
+    proximity: 0.7742 {macula-proximity}
   - strongs: G570
-    proximity: 0.7669
+    proximity: 0.7669 {macula-proximity}
   - strongs: G4135
-    proximity: 0.7546
+    lemma: πληροφορέω
+    gloss: to carry out fully {openscriptures-strongs}
+    proximity: 0.7546 {macula-proximity}
   cross_language:
   - strongs: H4392
-    proximity: 0.8272
+    lemma: מָלֵא
+    gloss: full  or filling {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: hebrew
   - strongs: H551
-    proximity: 0.8171
+    proximity: 0.8171 {macula-proximity}
     language: hebrew
   - strongs: H7649
-    proximity: 0.7917
+    lemma: שָׂבֵעַ
+    gloss: satiated {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: hebrew
   - strongs: H7648
-    proximity: 0.7847
+    lemma: שֹׂבַע
+    gloss: satisfaction  joy) {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
     language: hebrew
   - strongs: H539
-    proximity: 0.7786
+    proximity: 0.7786 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

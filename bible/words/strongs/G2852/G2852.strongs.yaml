@@ -5,48 +5,53 @@ transliteration: kolaphízō
 definition: to rap with the fist
 kjv_usage: buffet
 derivation: from a derivative of the base of G2849 (κολάζω);
-extended_definition:
-  gloss: to beat
-  definition: '<b>κολαφίζω</b><BR /> (κόλαφος = Att.., κόνδυλοι, the knuckles, the
-    closed fist) <BR /><b>to strike with the fist, to buffet</b>: <ref=''Mat.26.67''>Mat.26:67</ref>,
-    <ref=''Mrk.14.65''>Mrk.14:65</ref>, <ref=''2Co.12.7''>2Co.12:7</ref>; pass., <ref=''1Co.4.11''>1Co.4:11</ref>,
-    <ref=''1Pe.2.20''>1Pe.2:20</ref>.†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> κολᾰφ-ίζω</b>, <br /> <b>slap, buffet</b>, τινα [<a href="javascript:void(0)"
-    title=" NT.Matt.26.67, “Sammelb.” 6263.23 ">NT</a>]:— <i>passive</i>, [<a href="javascript:void(0)"
-    title=" NT.1Cor.4.11. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'κολαφίζω
+
+  (κόλαφος = Att.., κόνδυλοι, the knuckles, the closed fist)
+
+  to strike with the fist, to buffet: Mat.26:67, Mrk.14:65, 2Co.12:7; pass., 1Co.4:11,
+  1Pe.2:20.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κολᾰφ-ίζω,
+
+  slap, buffet, τινα [NT]:— passive, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2721
-    proximity: 0.826
+    lemma: κατεφίστημι
+    gloss: to stand over against {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
   - strongs: G928
-    proximity: 0.8219
+    proximity: 0.8219 {macula-proximity}
   - strongs: G929
-    proximity: 0.7999
+    proximity: 0.7999 {macula-proximity}
   - strongs: G3960
-    proximity: 0.748
+    lemma: πατάσσω
+    gloss: to knock {openscriptures-strongs}
+    proximity: 0.748 {macula-proximity}
   cross_language:
   - strongs: H5978
-    proximity: 0.8296
+    lemma: עִמָּד
+    gloss: along with {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: hebrew
   - strongs: H3807
-    proximity: 0.8225
+    lemma: כָּתַת
+    gloss: to bruise or violently strike {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: hebrew
   - strongs: H5222
-    proximity: 0.8199
+    lemma: נֵכֶה
+    gloss: a smiter {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
     language: hebrew
   - strongs: H854
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
     language: hebrew
   - strongs: H5973
-    proximity: 0.8071
+    lemma: עִם
+    gloss: adverb or preposition {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

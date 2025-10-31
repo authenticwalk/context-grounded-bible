@@ -11,38 +11,59 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H8600
-    proximity: 0.829
+    lemma: תְּפוֹצָה
+    gloss: a dispersal {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: H2963
-    proximity: 0.8259
+    lemma: טָרַף
+    gloss: to pluck off or pull to pieces {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: H3947
-    proximity: 0.8229
+    lemma: לָקַח
+    gloss: to take {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: H8027
-    proximity: 0.8172
+    lemma: שָׁלַשׁ
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
   - strongs: H8156
-    proximity: 0.8169
+    lemma: שָׁסַע
+    gloss: to split or tear {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: H1506
-    proximity: 0.8165
+    lemma: גֶּזֶר
+    gloss: something cut off {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: H6626
-    proximity: 0.8165
+    lemma: פָּתַת
+    gloss: to open {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: H5310a
-    proximity: 0.8157
+    proximity: 0.8157 {macula-proximity}
   cross_language:
   - strongs: G1267
-    proximity: 0.823
+    lemma: διαμερισμός
+    gloss: disunion {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
     language: greek
   - strongs: G3335
-    proximity: 0.8214
+    lemma: μεταλαμβάνω
+    gloss: to participate {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
     language: greek
   - strongs: G2841
-    proximity: 0.8196
+    lemma: κοινωνέω
+    gloss: to share with others {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
     language: greek
   - strongs: G3348
-    proximity: 0.8193
+    lemma: μετέχω
+    gloss: to share or participate {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
     language: greek
   - strongs: G5563
-    proximity: 0.8164
+    lemma: χωρίζω
+    gloss: to place room between {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

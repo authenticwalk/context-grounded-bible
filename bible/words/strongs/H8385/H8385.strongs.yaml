@@ -9,22 +9,29 @@ derivation: or תֹּאֲנָה; from H579 (אָנָה);
 related_words:
   synonyms:
   - strongs: H2527
-    proximity: 0.8258
+    lemma: חֹם
+    gloss: heat {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H6256
-    proximity: 0.8068
+    lemma: עֵת
+    gloss: time {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
   - strongs: A5732
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
   cross_language:
   - strongs: G2691
-    proximity: 0.8228
+    lemma: καταστρηνιάω
+    gloss: to become voluptuous against {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
     language: greek
   - strongs: G5550
-    proximity: 0.8182
+    lemma: χρόνος
+    gloss: a space of time (in general {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: greek
   - strongs: G2738
-    proximity: 0.7761
+    lemma: καῦμα
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7761 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

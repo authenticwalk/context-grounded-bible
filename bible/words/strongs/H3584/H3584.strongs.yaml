@@ -8,55 +8,80 @@ definition: to be untrue, in word (to lie, feign, disown) or deed (to disappoint
 kjv_usage: deceive, deny, dissemble, fail, deal falsely, be found liars, (be-) lie,
   lying, submit selves.
 derivation: a primitive root;
-extended_definition:
-  gloss: to deceive
-  definition: 1) to deceive, lie, fail, grow lean, be disappointing, be untrue, be
-    insufficient, be found liars, belie, deny, dissemble, deal falsely<br>1a) (Qal)
-    to become lean<br>1b) (Niphal) to cringe, feign obedience<br>1c) (Piel)<br>1c1)
-    to deceive, deny falsely<br>1c2) to act deceptively<br>1c3) to cringe<br>1c4)
-    to disappoint, fail<br>1d) (Hithpael) to cringe, feign obedience
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to deceive, lie, fail, grow lean, be disappointing, be untrue,
+  be insufficient, be found liars, belie, deny, dissemble, deal falsely
+
+  1a) (Qal) to become lean
+
+  1b) (Niphal) to cringe, feign obedience
+
+  1c) (Piel)
+
+  1c1) to deceive, deny falsely
+
+  1c2) to act deceptively
+
+  1c3) to cringe
+
+  1c4) to disappoint, fail
+
+  1d) (Hithpael) to cringe, feign obedience {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A3538
-    proximity: 0.8223
+    proximity: 0.8223 {macula-proximity}
   - strongs: H3987
-    proximity: 0.8119
+    lemma: מֵאֵן
+    gloss: refractory {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: H3349
-    proximity: 0.8072
+    lemma: יִקָּהָה
+    gloss: obedience {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
   - strongs: H2048a
-    proximity: 0.8066
+    proximity: 0.8066 {macula-proximity}
   - strongs: H8267
-    proximity: 0.8041
+    lemma: שֶׁקֶר
+    gloss: an untruth {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
   - strongs: H4775
-    proximity: 0.7986
+    lemma: מָרַד
+    gloss: to rebel {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
   - strongs: H3986
-    proximity: 0.7843
+    lemma: מָאֵן
+    gloss: unwilling {openscriptures-strongs}
+    proximity: 0.7843 {macula-proximity}
   - strongs: H898
-    proximity: 0.7788
+    proximity: 0.7788 {macula-proximity}
   - strongs: H3585
-    proximity: 0.7459
+    lemma: כַּחַשׁ
+    gloss: literally a failure of flesh {openscriptures-strongs}
+    proximity: 0.7459 {macula-proximity}
   - strongs: H3577
-    proximity: 0.742
+    lemma: כָּזָב
+    gloss: falsehood {openscriptures-strongs}
+    proximity: 0.742 {macula-proximity}
   cross_language:
   - strongs: G5293
-    proximity: 0.8195
+    lemma: ὑποτάσσω
+    gloss: to subordinate {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
     language: greek
   - strongs: G893
-    proximity: 0.8018
+    proximity: 0.8018 {macula-proximity}
     language: greek
   - strongs: G3884
-    proximity: 0.7843
+    lemma: παραλογίζομαι
+    gloss: to misreckon {openscriptures-strongs}
+    proximity: 0.7843 {macula-proximity}
     language: greek
   - strongs: G1818
-    proximity: 0.7612
+    lemma: ἐξαπατάω
+    gloss: to seduce wholly {openscriptures-strongs}
+    proximity: 0.7612 {macula-proximity}
     language: greek
   - strongs: G538
-    proximity: 0.7421
+    proximity: 0.7421 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

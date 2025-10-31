@@ -10,36 +10,51 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H955
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
   - strongs: H3830a
-    proximity: 0.8229
+    proximity: 0.8229 {macula-proximity}
   - strongs: H3637
-    proximity: 0.8202
+    lemma: כָּלַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   - strongs: H7824
-    proximity: 0.8201
+    lemma: שָׁחִיף
+    gloss: a board {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: H4374
-    proximity: 0.8157
+    lemma: מְכַסֶּה
+    gloss: a covering {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: H4541a
-    proximity: 0.8147
+    proximity: 0.8147 {macula-proximity}
   - strongs: H2659
-    proximity: 0.8119
+    lemma: חָפֵר
+    gloss: to blush {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: H270a
-    proximity: 0.8114
+    proximity: 0.8114 {macula-proximity}
   - strongs: H3639
-    proximity: 0.8111
+    lemma: כְּלִמָּה
+    gloss: disgrace {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: H4539
-    proximity: 0.8041
+    lemma: מָסָךְ
+    gloss: a cover {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
   cross_language:
   - strongs: G4722
-    proximity: 0.8248
+    lemma: στέγω
+    gloss: to roof over {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: greek
   - strongs: G4018
-    proximity: 0.8234
+    lemma: περιβόλαιον
+    gloss: something thrown around one {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
     language: greek
   - strongs: G4958
-    proximity: 0.8184
+    lemma: συστέλλω
+    gloss: to send  together {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,50 +5,58 @@ transliteration: Lasaía
 definition: Lasæa, a place in Crete
 kjv_usage: Lasea
 derivation: of uncertain origin;
-extended_definition:
-  gloss: Lasea
-  definition: '<b>Λασέα (Rec. -αία), -ας, ἡ </b><BR /> <b>Lasea, a city of Crete,
-    otherwise un­known</b>: <ref=''Act.27.8.''>Act.27:8.</ref>†<BR /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Λασέα (Rec. -αία), -ας, ἡ </b><BR /> <b>Lasea, a city of Crete,
-    otherwise un­known</b>: <ref=''Act.27.8.''>Act.27:8.</ref>†<BR />  (From Abbott-Smith.
-    LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Λασέα (Rec. -αία), -ας, ἡ
+
+  Lasea, a city of Crete, otherwise un­known: Act.27:8.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Λασέα (Rec. -αία), -ας, ἡ
+
+  Lasea, a city of Crete, otherwise un­known: Act.27:8.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G774
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
   - strongs: G1409
-    proximity: 0.825
+    lemma: Δρούσιλλα
+    gloss: Drusilla {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: G3604
-    proximity: 0.8241
+    lemma: Ὀζίας
+    gloss: Ozias {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: G4611
-    proximity: 0.8234
+    lemma: Σιλωάμ
+    gloss: Siloam {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
   - strongs: G207
-    proximity: 0.8234
+    proximity: 0.8234 {macula-proximity}
   - strongs: G4658
-    proximity: 0.8149
+    lemma: Σκύθης
+    gloss: a Scythene or Scythian {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
   cross_language:
   - strongs: H315
-    proximity: 0.8295
+    proximity: 0.8295 {macula-proximity}
     language: hebrew
   - strongs: H2977
-    proximity: 0.829
+    lemma: יֹאשִׁיָּה
+    gloss: Joshijah {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: hebrew
   - strongs: H5814
-    proximity: 0.829
+    lemma: עֻזִּיָּא
+    gloss: Uzzija {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: hebrew
   - strongs: H6166a
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
     language: hebrew
   - strongs: H7975
-    proximity: 0.827
+    lemma: שִׁלֹחַ
+    gloss: Shiloach {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

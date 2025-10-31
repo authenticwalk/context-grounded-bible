@@ -14,30 +14,39 @@ derivation: properly, the same as H5920 (עַל) used as a preposition (in the s
 related_words:
   synonyms:
   - strongs: A3561a
-    proximity: 0.83
+    proximity: 0.83 {macula-proximity}
   - strongs: H6452
-    proximity: 0.8296
+    lemma: פָּסַח
+    gloss: to hop {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H5186
-    proximity: 0.8292
+    lemma: נָטָה
+    gloss: to stretch or spread out {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: H5221
-    proximity: 0.829
+    lemma: נָכָה
+    gloss: to strike (lightly or severely {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   cross_language:
   - strongs: G911
-    proximity: 0.83
+    proximity: 0.83 {macula-proximity}
     language: greek
   - strongs: G1211
-    proximity: 0.8298
+    lemma: δή
+    gloss: a particle of emphasis or explicitness {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G1854
-    proximity: 0.8296
+    lemma: ἔξω
+    gloss: out(-side {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G5270
-    proximity: 0.8296
+    lemma: ὑποκάτω
+    gloss: down under {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G305
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

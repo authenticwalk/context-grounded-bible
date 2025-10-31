@@ -5,55 +5,78 @@ transliteration: misthapodosía
 definition: requital (good or bad)
 kjv_usage: recompence of reward
 derivation: from G3406 (μισθαποδότης);
-extended_definition:
-  gloss: recompense
-  definition: '<b>μισθαποδοσία</b>, -ας, ἡ<BR /> (μισθός, ἀποδίδωμι; cl. μισθοδοσία),
-    <BR /><b>pay­ment of wages, recompense</b>; meton., <BR /> __(a) <b>of reward</b>:
-    <ref=''Heb.10.35; 11.26''>Heb.10:35 11:26</ref>; <BR /> __(b) <b>of punishment
-    </b>: <ref=''Heb.2.2.''>Heb.2:2.</ref>†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> μισθαπο-δοσία</b>, ἡ, <br /> <b>payment of wages, recompense,</b>
-    [<a href="javascript:void(0)" title="NT.Heb.2.2, 10.35. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'μισθαποδοσία, -ας, ἡ
+
+  (μισθός, ἀποδίδωμι; cl. μισθοδοσία),
+
+  pay­ment of wages, recompense; meton.,
+
+  __(a) of reward: Heb.10:35 11:26;
+
+  __(b) of punishment : Heb.2:2.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'μισθαπο-δοσία, ἡ,
+
+  payment of wages, recompense, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5486
-    proximity: 0.8287
+    lemma: χάρισμα
+    gloss: a  gratuity {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: G5098
-    proximity: 0.8264
+    lemma: τιμωρία
+    gloss: vindication {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: G2009
-    proximity: 0.8203
+    lemma: ἐπιτιμία
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: G1390
-    proximity: 0.8061
+    lemma: δόμα
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.8061 {macula-proximity}
   - strongs: G2851
-    proximity: 0.8016
+    lemma: κόλασις
+    gloss: penal infliction {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
   - strongs: G1394
-    proximity: 0.7903
+    lemma: δόσις
+    gloss: a giving {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
   - strongs: G1362
-    proximity: 0.7765
+    lemma: διπλοῦς
+    gloss: two-fold {openscriptures-strongs}
+    proximity: 0.7765 {macula-proximity}
   - strongs: G1363
-    proximity: 0.7715
+    lemma: διπλόω
+    gloss: to render two-fold {openscriptures-strongs}
+    proximity: 0.7715 {macula-proximity}
   cross_language:
   - strongs: H7725
-    proximity: 0.8153
+    lemma: שׁוּב
+    gloss: to turn back (hence {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
     language: hebrew
   - strongs: H7810
-    proximity: 0.8054
+    lemma: שַׁחַד
+    gloss: a donation {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
     language: hebrew
   - strongs: H5414
-    proximity: 0.7911
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
     language: hebrew
   - strongs: H6059
-    proximity: 0.7875
+    lemma: עָנַק
+    gloss: to collar {openscriptures-strongs}
+    proximity: 0.7875 {macula-proximity}
     language: hebrew
   - strongs: H6118
-    proximity: 0.7855
+    lemma: עֵקֶב
+    gloss: a heel {openscriptures-strongs}
+    proximity: 0.7855 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,43 +6,53 @@ pronunciation: mish-kaw'
 definition: a settling place (of water), i.e. a pond
 kjv_usage: deep.
 derivation: from H8257 (שָׁקַע);
-extended_definition:
-  gloss: clarified
-  definition: what is settled or clarified, clear
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: what is settled or clarified, clear {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H874
-    proximity: 0.8235
+    proximity: 0.8235 {macula-proximity}
   - strongs: H8257
-    proximity: 0.8152
+    lemma: שָׁקַע
+    gloss: to subside {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: H6567
-    proximity: 0.8031
+    lemma: פָּרָשׁ
+    gloss: to separate {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
   - strongs: H6703
-    proximity: 0.7965
+    lemma: צַח
+    gloss: dazzling {openscriptures-strongs}
+    proximity: 0.7965 {macula-proximity}
   - strongs: H2892
-    proximity: 0.7956
+    lemma: טֹהַר
+    gloss: literally brightness {openscriptures-strongs}
+    proximity: 0.7956 {macula-proximity}
   - strongs: H8235
-    proximity: 0.7333
+    lemma: שִׁפְרָה
+    gloss: brightness {openscriptures-strongs}
+    proximity: 0.7333 {macula-proximity}
   cross_language:
   - strongs: G1552
-    proximity: 0.8194
+    lemma: ἔκδηλος
+    gloss: wholly evident {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G1245a
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G2929
-    proximity: 0.8104
+    lemma: κρυσταλλίζω
+    gloss: to make (i.e. intransitively {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
     language: greek
   - strongs: G1245
-    proximity: 0.8093
+    lemma: διακαθαρίζω
+    gloss: to cleanse perfectly {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
     language: greek
   - strongs: G5204
-    proximity: 0.8039
+    lemma: ὕδωρ
+    gloss: water  literally or figuratively {openscriptures-strongs}
+    proximity: 0.8039 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

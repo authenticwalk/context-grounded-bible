@@ -5,61 +5,69 @@ transliteration: toutésti
 definition: that is
 kjv_usage: that is (to say)
 derivation: contraction for G5124 (τοῦτο) and G2076 (ἐστί);
-extended_definition:
-  gloss: that is
-  definition: that is <br />that is to say, by this we mean
-  morphology: G:PRT
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> τουτέστι</b>, <br /> ={τοῦτ᾽ ἔστι}, <b>that is to say,</b>
-    [<a href="javascript:void(0)" title="NT.Mark.7.2, 1st-2nd c.AD: Plutarchus Biographus
-    et Philosophus 2.64c, 7th c.AD: Hephaestio Grammaticus 12.1, 2nd c.AD: Apollonius
-    Dyscolus Grammaticus “de Syntaxi;” 29.13, “Codex Justinianus [4th-6th c.AD]” 1.1.5.3,
-    etc.">NT+1st c.AD+</a>]; <i>falsa lectio</i> in [<a href="javascript:void(0)"
-    title=" 4th c.BC: Aristoteles Philosophus “Fragmenta” 94 (codices SM 5th c.AD:
-    Stobaeus, Joannes). ">Refs 4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'that is
+
+  that is to say, by this we mean {STEPBible-TBESG}'
+etymology: 'τουτέστι,
+
+  ={τοῦτ᾽ ἔστι}, that is to say, [NT+1st c.AD+]; falsa lectio in [Refs 4th c.BC+]
+  {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5023
-    proximity: 0.8278
+    lemma: ταῦτα
+    gloss: these things {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: A6591
-    proximity: 0.8251
+    proximity: 0.8251 {macula-proximity}
   - strongs: G5130
-    proximity: 0.825
+    lemma: τούτων
+    gloss: of  these {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: G1762
-    proximity: 0.8238
+    lemma: ἔνι
+    gloss: impersonally {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: G3704
-    proximity: 0.8233
+    lemma: ὅπως
+    gloss: what how {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: G2532
-    proximity: 0.8227
+    lemma: καί
+    gloss: and {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: G3304a
-    proximity: 0.8201
+    proximity: 0.8201 {macula-proximity}
   - strongs: G3081
-    proximity: 0.817
+    lemma: λυσιτελεῖ
+    gloss: impersonally {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: G2307
-    proximity: 0.8102
+    lemma: θέλημα
+    gloss: a determination (properly {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
   - strongs: G3754
-    proximity: 0.804
+    lemma: ὅτι
+    gloss: demonstrative {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   cross_language:
   - strongs: H3541
-    proximity: 0.8279
+    lemma: כֹּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: hebrew
   - strongs: H165
-    proximity: 0.8214
+    proximity: 0.8214 {macula-proximity}
     language: hebrew
   - strongs: H3426
-    proximity: 0.8205
+    lemma: יֵשׁ
+    gloss: there is or are (or any other form of the verb to be {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
     language: hebrew
   - strongs: H1933a
-    proximity: 0.8193
+    proximity: 0.8193 {macula-proximity}
     language: hebrew
   - strongs: H595
-    proximity: 0.8156
+    proximity: 0.8156 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

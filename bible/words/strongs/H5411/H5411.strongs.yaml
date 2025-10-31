@@ -7,41 +7,47 @@ definition: the Nethinim, or Temple-servants (as given to that duty)
 kjv_usage: Nethinims.
 derivation: or נָתוּן (Ezra 8:17), (the proper form as passive participle), from H5414
   (נָתַן); one given, i.e. (in the plural only)
-extended_definition:
-  gloss: temple servant
-  definition: '1) Nethinims<br>1a) temple slaves assigned to the Levites and priests
-    for service in the sanctuary<BR>Aramaic equivalent: <i>ne.tin</i> (נְתִין "temple
-    servant" H5412)'
-  morphology: N:N--T
-  source: STEPBible/BDB
+extended_definition: '1) Nethinims
+
+  1a) temple slaves assigned to the Levites and priests for service in the sanctuary
+
+  Aramaic equivalent: ne.tin (נְתִין "temple servant" H5412) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7541
-    proximity: 0.8249
+    lemma: רַקָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
   - strongs: A1965
-    proximity: 0.7797
+    proximity: 0.7797 {macula-proximity}
   - strongs: H1964
-    proximity: 0.7423
+    lemma: הֵיכָל
+    gloss: a large public building {openscriptures-strongs}
+    proximity: 0.7423 {macula-proximity}
   - strongs: A5649
-    proximity: 0.7239
+    proximity: 0.7239 {macula-proximity}
   cross_language:
   - strongs: G3610
-    proximity: 0.8225
+    lemma: οἰκέτης
+    gloss: a fellow resident {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
   - strongs: G2413
-    proximity: 0.8028
+    lemma: ἱερός
+    gloss: sacred {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
     language: greek
   - strongs: G3816
-    proximity: 0.7951
+    lemma: παῖς
+    gloss: a boy {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
     language: greek
   - strongs: G3011
-    proximity: 0.7926
+    lemma: λειτουργός
+    gloss: a public servant {openscriptures-strongs}
+    proximity: 0.7926 {macula-proximity}
     language: greek
   - strongs: G2878a
-    proximity: 0.7877
+    proximity: 0.7877 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

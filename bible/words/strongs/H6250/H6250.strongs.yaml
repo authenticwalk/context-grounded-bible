@@ -6,47 +6,63 @@ pronunciation: esh-to-naw'
 definition: thinking
 kjv_usage: thought.
 derivation: from H6245 (עָשַׁת);
-extended_definition:
-  gloss: thought
-  definition: thought
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: thought {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1245
-    proximity: 0.8274
+    lemma: בָּקַשׁ
+    gloss: to search out (by any method {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H8458
-    proximity: 0.8115
+    lemma: תַּחְבֻּלָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
   - strongs: H6098a
-    proximity: 0.8111
+    proximity: 0.8111 {macula-proximity}
   - strongs: H1819
-    proximity: 0.7933
+    lemma: דָּמָה
+    gloss: to compare {openscriptures-strongs}
+    proximity: 0.7933 {macula-proximity}
   - strongs: H2790
-    proximity: 0.7907
+    lemma: חָרַשׁ
+    gloss: to scratch {openscriptures-strongs}
+    proximity: 0.7907 {macula-proximity}
   - strongs: H7808
-    proximity: 0.7639
+    lemma: שֵׂחַ
+    gloss: communion {openscriptures-strongs}
+    proximity: 0.7639 {macula-proximity}
   - strongs: H3289
-    proximity: 0.7598
+    lemma: יָעַץ
+    gloss: to advise {openscriptures-strongs}
+    proximity: 0.7598 {macula-proximity}
   - strongs: H2161
-    proximity: 0.7454
+    lemma: זָמַם
+    gloss: to plan {openscriptures-strongs}
+    proximity: 0.7454 {macula-proximity}
   cross_language:
   - strongs: G5585
-    proximity: 0.8297
+    lemma: ψηφίζω
+    gloss: to use pebbles in enumeration {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G4286
-    proximity: 0.8231
+    lemma: πρόθεσις
+    gloss: a setting forth {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
     language: greek
   - strongs: G1761
-    proximity: 0.7847
+    lemma: ἐνθύμησις
+    gloss: deliberation {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
     language: greek
   - strongs: G3053
-    proximity: 0.7741
+    lemma: λογισμός
+    gloss: computation {openscriptures-strongs}
+    proximity: 0.7741 {macula-proximity}
     language: greek
   - strongs: G1270
-    proximity: 0.7689
+    lemma: διανόημα
+    gloss: something thought through {openscriptures-strongs}
+    proximity: 0.7689 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

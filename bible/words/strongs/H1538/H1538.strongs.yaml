@@ -6,48 +6,62 @@ pronunciation: gul-go'-leth
 definition: a skull (as round); by implication, a head (in enumeration of persons)
 kjv_usage: head, every man, poll, skull.
 derivation: by reduplication from H1556 (גָּלַל);
-extended_definition:
-  gloss: head
-  definition: 1) head, poll, skull<br>1a) skull<br>1b) head, poll (of census)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) head, poll, skull
+
+  1a) skull
+
+  1b) head, poll (of census) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H120
-    proximity: 0.8226
+    proximity: 0.8226 {macula-proximity}
   - strongs: H4962
-    proximity: 0.82
+    lemma: מַת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
   - strongs: H6936
-    proximity: 0.8137
+    lemma: קׇדְקֹד
+    gloss: the crown of the head {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   - strongs: A7217
-    proximity: 0.799
+    proximity: 0.799 {macula-proximity}
   - strongs: H2145
-    proximity: 0.7921
+    lemma: זָכָר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
   - strongs: H376
-    proximity: 0.7842
+    proximity: 0.7842 {macula-proximity}
   - strongs: H8366a
-    proximity: 0.7614
+    proximity: 0.7614 {macula-proximity}
   - strongs: H2138
-    proximity: 0.7589
+    lemma: זָכוּר
+    gloss: a male {openscriptures-strongs}
+    proximity: 0.7589 {macula-proximity}
   - strongs: H7218
-    proximity: 0.7355
+    lemma: רֹאשׁ
+    gloss: the head {openscriptures-strongs}
+    proximity: 0.7355 {macula-proximity}
   - strongs: H1397
-    proximity: 0.719
+    lemma: גֶּבֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.719 {macula-proximity}
   cross_language:
   - strongs: G3391
-    proximity: 0.7506
+    lemma: μία
+    gloss: one or first {openscriptures-strongs}
+    proximity: 0.7506 {macula-proximity}
     language: greek
   - strongs: G2776
-    proximity: 0.7318
+    lemma: κεφαλή
+    gloss: the head {openscriptures-strongs}
+    proximity: 0.7318 {macula-proximity}
     language: greek
   - strongs: G303
-    proximity: 0.731
+    proximity: 0.731 {macula-proximity}
     language: greek
   - strongs: G2898
-    proximity: 0.7165
+    lemma: κρανίον
+    gloss: a skull {openscriptures-strongs}
+    proximity: 0.7165 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

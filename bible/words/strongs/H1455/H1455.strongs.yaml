@@ -6,27 +6,27 @@ pronunciation: gaw-haw'
 definition: to remove (a bandage from a wound, i.e. heal it)
 kjv_usage: cure.
 derivation: a primitive root;
-extended_definition:
-  gloss: to cure
-  definition: 1) (Qal) to depart<br>1a) to be cured, healed (meton)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Qal) to depart
+
+  1a) to be cured, healed (meton) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H622
-    proximity: 0.7654
+    proximity: 0.7654 {macula-proximity}
   - strongs: H724
-    proximity: 0.7499
+    proximity: 0.7499 {macula-proximity}
   - strongs: H8644
-    proximity: 0.7138
+    lemma: תְּרוּפָה
+    gloss: a remedy {openscriptures-strongs}
+    proximity: 0.7138 {macula-proximity}
   - strongs: H1456
-    proximity: 0.7087
+    lemma: גֵּהָה
+    gloss: a cure {openscriptures-strongs}
+    proximity: 0.7087 {macula-proximity}
   cross_language:
   - strongs: G4982
-    proximity: 0.8191
+    lemma: σώζω
+    gloss: to save {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

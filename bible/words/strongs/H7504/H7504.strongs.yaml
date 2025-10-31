@@ -7,42 +7,50 @@ definition: slack (in body or mind)
 kjv_usage: weak. raphah, Raphah. See H7497 (רָפָא), H7498 (רָפָא). riphah. See H7383
   (רִיפָה).
 derivation: from H7503 (רָפָה);
-extended_definition:
-  gloss: weak
-  definition: slack
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: slack {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A2783
-    proximity: 0.8208
+    proximity: 0.8208 {macula-proximity}
   - strongs: H353
-    proximity: 0.8069
+    proximity: 0.8069 {macula-proximity}
   - strongs: H3027
-    proximity: 0.8065
+    lemma: יָד
+    gloss: a hand (the open one (indicating power {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
   - strongs: H2470
-    proximity: 0.7998
+    lemma: חָלָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
   - strongs: H410a
-    proximity: 0.7982
+    proximity: 0.7982 {macula-proximity}
   - strongs: H7390
-    proximity: 0.7852
+    lemma: רַךְ
+    gloss: tender {openscriptures-strongs}
+    proximity: 0.7852 {macula-proximity}
   - strongs: H3486
-    proximity: 0.7706
+    lemma: יָשֵׁשׁ
+    gloss: gray-haired {openscriptures-strongs}
+    proximity: 0.7706 {macula-proximity}
   - strongs: H3856a
-    proximity: 0.7701
+    proximity: 0.7701 {macula-proximity}
   - strongs: H3581
-    proximity: 0.7687
+    lemma: כֹּחַ
+    gloss: vigor {openscriptures-strongs}
+    proximity: 0.7687 {macula-proximity}
   - strongs: H4198
-    proximity: 0.7675
+    lemma: מָזֶה
+    gloss: exhausted {openscriptures-strongs}
+    proximity: 0.7675 {macula-proximity}
   cross_language:
   - strongs: G1133
-    proximity: 0.7349
+    lemma: γυναικάριον
+    gloss: a little  woman {openscriptures-strongs}
+    proximity: 0.7349 {macula-proximity}
     language: greek
   - strongs: G3935
-    proximity: 0.7194
+    lemma: παρίημι
+    gloss: to let by {openscriptures-strongs}
+    proximity: 0.7194 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

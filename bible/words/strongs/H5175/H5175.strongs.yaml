@@ -6,24 +6,25 @@ pronunciation: naw-khawsh'
 definition: a snake (from its hiss)
 kjv_usage: serpent.
 derivation: from H5172 (נָחַשׁ);
-extended_definition:
-  gloss: serpent
-  definition: 1) serpent, snake<br>1a) serpent<br>1b) image (of serpent)<br>1c) fleeing
-    serpent (mythological)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) serpent, snake
+
+  1a) serpent
+
+  1b) image (of serpent)
+
+  1c) fleeing serpent (mythological) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7091
-    proximity: 0.817
+    lemma: קִפּוֹז
+    gloss: spring forward {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: H5919
-    proximity: 0.7831
+    lemma: עַכְשׁוּב
+    gloss: an asp {openscriptures-strongs}
+    proximity: 0.7831 {macula-proximity}
   cross_language:
   - strongs: G785
-    proximity: 0.744
+    proximity: 0.744 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,38 +6,46 @@ pronunciation: peh'-resh
 definition: excrement (as eliminated)
 kjv_usage: dung.
 derivation: from H6567 (פָּרָשׁ);
-extended_definition:
-  gloss: refuse
-  definition: faecal matter, dung, offal
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: faecal matter, dung, offal {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1686
-    proximity: 0.8249
+    lemma: דִּבְיוֹן
+    gloss: probably some cheap vegetable {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
   - strongs: H3986
-    proximity: 0.8166
+    lemma: מָאֵן
+    gloss: unwilling {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
   - strongs: H3985
-    proximity: 0.8137
+    lemma: מָאֵן
+    gloss: to refuse {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   - strongs: H4087
-    proximity: 0.8084
+    lemma: מַדְמֵנָה
+    gloss: a dunghill {openscriptures-strongs}
+    proximity: 0.8084 {macula-proximity}
   - strongs: H6675
-    proximity: 0.8036
+    lemma: צוֹאָה
+    gloss: excrement {openscriptures-strongs}
+    proximity: 0.8036 {macula-proximity}
   - strongs: H5478
-    proximity: 0.7854
+    lemma: סוּחָה
+    gloss: something swept away {openscriptures-strongs}
+    proximity: 0.7854 {macula-proximity}
   - strongs: H830
-    proximity: 0.7704
+    proximity: 0.7704 {macula-proximity}
   - strongs: H6832a
-    proximity: 0.7516
+    proximity: 0.7516 {macula-proximity}
   cross_language:
   - strongs: G4067
-    proximity: 0.8216
+    lemma: περίψωμα
+    gloss: something brushed all around {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
     language: greek
   - strongs: G4657
-    proximity: 0.8102
+    lemma: σκύβαλον
+    gloss: what is thrown to the dogs {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

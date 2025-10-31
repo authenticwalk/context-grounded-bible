@@ -5,72 +5,78 @@ transliteration: lítra
 definition: a pound in weight
 kjv_usage: pound
 derivation: of Latin origin (libra);
-extended_definition:
-  gloss: pound
-  definition: '<b>λίτρα</b>, -ας, ἡ<BR /> (cf. Lat. libra), <BR />__1. a Sicilian
-    coin = Rom. libra or as. <BR /> __2. <b>In weight, a pound</b>: <ref=''Jhn.12.3;
-    19.39''>Jhn.12:3 19:39</ref>.†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> λίτρ-α</b>, ἡ, <br /> <b>a silver coin</b> of Sicily, [<a href="javascript:void(0)"
-    title=" 5th c.BC: Epicharmus Comicus 9, 5th c.BC: Sophron Comicus 72, 4th-3rd
-    c.BC: Diphilus Comicus 71, 3rd c.BC: Posidippus Comicus 8.—On its value see 4th
-    c.BC: Aristoteles Philosophus “Fragmenta” 476, 510. ">Refs 5th c.BC+</a>]<br /><Level2><b>__II</b></Level2>
-    as a weight, [<a href="javascript:void(0)" title=" 12 ounces, ">Refs</a>]<b>a
-    pound</b>, [[<a href="javascript:void(0)" title=" 4th-5th c.BC: Simonides Lyricus]
-    141, 2nd c.BC: Polybius Historicus 21.43.19, 1st c.BC: Diodorus Siculus Historicus
-    14.116, 1st c.AD: Dioscorides (Dioscurides) Medicus 1.43, 1st-2nd c.AD: Plutarchus
-    Biographus et Philosophus “Tiberius Gracchus” 2, 1st c.AD: Josephus Historicus
-    “Antiquitates Judaicae” 14.7.1: _metaphorically_, λίτρᾰν ἐτῶν ζήσας">Refs 4th
-    c.BC+</a>] having lived <b>a pound</b> of years, i.e. [<a href="javascript:void(0)"
-    title=" 72 (in late times a pound of gold was coined into 72 pieces), “Anthologia
-    Graeca” 10.97 (6th c.AD: Palladas Epigrammaticus). ">Refs 6th c.AD+</a>]<br /><Level2><b>__III</b></Level2>
-    measure of capacity, = [<a href="javascript:void(0)" title=" 1 Italic κοτύλη,
-    2nd c.AD: Galenus Medicus 6.287">Refs 2nd c.AD+</a>]. [ῑ as in Latin <i>libra</i>;
-    written λείτρα in [<a href="javascript:void(0)" title=" “CIG” “Corpus Inscriptionum
-    Graecarum” “Corpus Inscriptionum Graecarum” 2040.7 (Bosp.).] (Both λίτρα">Refs</a>]
-    and Latin <i>libra</i> probably from early Italic <b>*līprā.</b>)'
-  source: STEPBible/LSJ
+extended_definition: 'λίτρα, -ας, ἡ
+
+  (cf. Lat. libra),
+
+  __1. a Sicilian coin = Rom. libra or as.
+
+  __2. In weight, a pound: Jhn.12:3 19:39.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'λίτρ-α, ἡ,
+
+  a silver coin of Sicily, [Refs 5th c.BC+]
+
+  __II as a weight, [Refs]a pound, [[Refs 4th c.BC+] having lived a pound of years,
+  i.e. [Refs 6th c.AD+]
+
+  __III measure of capacity, = [Refs 2nd c.AD+]. [ῑ as in Latin libra; written λείτρα
+  in [Refs] and Latin libra probably from early Italic *līprā.) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G970
-    proximity: 0.8254
+    proximity: 0.8254 {macula-proximity}
   - strongs: G1501
-    proximity: 0.8237
+    lemma: εἴκοσι
+    gloss: a score {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: G5144
-    proximity: 0.8232
+    lemma: τριάκοντα
+    gloss: thirty {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: A6243
-    proximity: 0.8173
+    proximity: 0.8173 {macula-proximity}
   - strongs: G1733
-    proximity: 0.8112
+    lemma: ἕνδεκα
+    gloss: one and ten {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
   - strongs: G1427
-    proximity: 0.8053
+    lemma: δώδεκα
+    gloss: two and ten {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: A6236
-    proximity: 0.7925
+    proximity: 0.7925 {macula-proximity}
   - strongs: G2255
-    proximity: 0.7889
+    lemma: ἥμισυ
+    gloss: half {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
   - strongs: A8533
-    proximity: 0.7829
+    proximity: 0.7829 {macula-proximity}
   cross_language:
   - strongs: H6241
-    proximity: 0.8291
+    lemma: עִשָּׂרוֹן
+    gloss: a tenth part {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
     language: hebrew
   - strongs: H4276
-    proximity: 0.8189
+    lemma: מַחֲצִית
+    gloss: a halving or the middle {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
     language: hebrew
   - strongs: H6249
-    proximity: 0.8155
+    lemma: עַשְׁתֵּי
+    gloss: eleven or  eleventh {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
     language: hebrew
   - strongs: H7970
-    proximity: 0.8029
+    lemma: שְׁלוֹשִׁים
+    gloss: thirty {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
     language: hebrew
   - strongs: H4275
-    proximity: 0.7857
+    lemma: מֶחֱצָה
+    gloss: a halving {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

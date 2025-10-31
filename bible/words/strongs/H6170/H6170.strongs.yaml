@@ -7,39 +7,49 @@ definition: something piled up (as if (figuratively) raised by mental aspiration
   i.e. a paterre
 kjv_usage: bed, furrow.
 derivation: or עֲרֻגָה; feminine passive participle of H6165 (עָרַג);
-extended_definition:
-  gloss: bed
-  definition: garden terrace or bed
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: garden terrace or bed {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1593
-    proximity: 0.8136
+    lemma: גַּנָּה
+    gloss: a garden {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: H4765
-    proximity: 0.8049
+    lemma: מַרְבַד
+    gloss: a coverlet {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H6508
-    proximity: 0.8016
+    lemma: פַּרְדֵּס
+    gloss: a park {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
   - strongs: H4904
-    proximity: 0.7983
+    lemma: מִשְׁכָּב
+    gloss: a bed (figuratively {openscriptures-strongs}
+    proximity: 0.7983 {macula-proximity}
   - strongs: H6210
-    proximity: 0.7618
+    lemma: עֶרֶשׂ
+    gloss: a couch (properly {openscriptures-strongs}
+    proximity: 0.7618 {macula-proximity}
   - strongs: H4296
-    proximity: 0.7533
+    lemma: מִטָּה
+    gloss: a bed  forsleeping or eating {openscriptures-strongs}
+    proximity: 0.7533 {macula-proximity}
   - strongs: H3657
-    proximity: 0.7513
+    lemma: כַּנָּה
+    gloss: a plant {openscriptures-strongs}
+    proximity: 0.7513 {macula-proximity}
   cross_language:
   - strongs: G1917
-    proximity: 0.8033
+    lemma: ἐπιβουλή
+    gloss: a plan against someone {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
     language: greek
   - strongs: G2825
-    proximity: 0.7586
+    lemma: κλίνη
+    gloss: a couch (for sleep {openscriptures-strongs}
+    proximity: 0.7586 {macula-proximity}
     language: greek
   - strongs: G2825a
-    proximity: 0.7223
+    proximity: 0.7223 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

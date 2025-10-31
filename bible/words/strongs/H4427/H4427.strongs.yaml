@@ -11,34 +11,45 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H7101
-    proximity: 0.8263
+    lemma: קָצִין
+    gloss: a magistrate  or other leader {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: A4430
-    proximity: 0.8159
+    proximity: 0.8159 {macula-proximity}
   - strongs: H6213
-    proximity: 0.8139
+    lemma: עָשָׂה
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8135
+    proximity: 0.8135 {macula-proximity}
   - strongs: A3764
-    proximity: 0.807
+    proximity: 0.807 {macula-proximity}
   - strongs: H3427
-    proximity: 0.8018
+    lemma: יָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8018 {macula-proximity}
   cross_language:
   - strongs: G1096
-    proximity: 0.8275
+    lemma: γίνομαι
+    gloss: to cause to be {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
     language: greek
   - strongs: G1018
-    proximity: 0.8267
+    lemma: βραβεύω
+    gloss: to arbitrate {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
     language: greek
   - strongs: G4160
-    proximity: 0.8219
+    lemma: ποιέω
+    gloss: to make or do (in a very wide application {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
     language: greek
   - strongs: G932
-    proximity: 0.8209
+    proximity: 0.8209 {macula-proximity}
     language: greek
   - strongs: G1909
-    proximity: 0.8176
+    lemma: ἐπί
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,54 +7,82 @@ definition: to bend the knee; by implication, to sink, to prostrate
 kjv_usage: bow (down, self), bring down (low), cast down, couch, fall, feeble, kneeling,
   sink, smite (stoop) down, subdue, [idiom] very.
 derivation: a primitive root;
-extended_definition:
-  gloss: to bow
-  definition: 1) to bend, kneel, bow, bow down, sink down to one's knees, kneel down
-    to rest (of animals), kneel in reverence<br>1a) (Qal)<br>1a1) to bow<br>1a2) to
-    bow down, crouch<br>1a3) to bow down over<br>1a4) to tilt, lean<br>1b) (Hiphil)
-    to cause to bow
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to bend, kneel, bow, bow down, sink down to one''s knees,
+  kneel down to rest (of animals), kneel in reverence
+
+  1a) (Qal)
+
+  1a1) to bow
+
+  1a2) to bow down, crouch
+
+  1a3) to bow down over
+
+  1a4) to tilt, lean
+
+  1b) (Hiphil) to cause to bow {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8213
-    proximity: 0.827
+    lemma: שָׁפֵל
+    gloss: to depress or sink (expectation figuratively {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H3782
-    proximity: 0.8236
+    lemma: כָּשַׁל
+    gloss: to totter or waver (through weakness of the legs {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
   - strongs: H5791
-    proximity: 0.8193
+    lemma: עָוַת
+    gloss: to wrest {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H7743
-    proximity: 0.8055
+    lemma: שׁוּחַ
+    gloss: to sink {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
   - strongs: H8481
-    proximity: 0.7997
+    lemma: תַּחְתּוֹן
+    gloss: bottommost {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
   - strongs: A5457
-    proximity: 0.7993
+    proximity: 0.7993 {macula-proximity}
   - strongs: H1794
-    proximity: 0.7959
+    lemma: דָּכָה
+    gloss: to collapse {openscriptures-strongs}
+    proximity: 0.7959 {macula-proximity}
   - strongs: H3381
-    proximity: 0.7913
+    lemma: יָרַד
+    gloss: to descend (literally {openscriptures-strongs}
+    proximity: 0.7913 {macula-proximity}
   - strongs: H6808
-    proximity: 0.7707
+    lemma: צָעָה
+    gloss: to tip over {openscriptures-strongs}
+    proximity: 0.7707 {macula-proximity}
   - strongs: H7812
-    proximity: 0.7654
+    lemma: שָׁחָה
+    gloss: to depress {openscriptures-strongs}
+    proximity: 0.7654 {macula-proximity}
   cross_language:
   - strongs: G2827
-    proximity: 0.829
+    lemma: κλίνω
+    gloss: to slant or slope {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G4098a
-    proximity: 0.809
+    proximity: 0.809 {macula-proximity}
     language: greek
   - strongs: G2737
-    proximity: 0.8082
+    lemma: κατώτερος
+    gloss: inferior (locally {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
     language: greek
   - strongs: G4363
-    proximity: 0.7979
+    lemma: προσπίπτω
+    gloss: to fall towards {openscriptures-strongs}
+    proximity: 0.7979 {macula-proximity}
     language: greek
   - strongs: G2598
-    proximity: 0.7617
+    lemma: καταβάλλω
+    gloss: to throw down {openscriptures-strongs}
+    proximity: 0.7617 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

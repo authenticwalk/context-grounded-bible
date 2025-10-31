@@ -9,38 +9,51 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H5081
-    proximity: 0.8259
+    lemma: נָדִיב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: H5257a
-    proximity: 0.8157
+    proximity: 0.8157 {macula-proximity}
   - strongs: H8199
-    proximity: 0.8093
+    lemma: שָׁפַט
+    gloss: to judge {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
   - strongs: A5922
-    proximity: 0.8078
+    proximity: 0.8078 {macula-proximity}
   - strongs: H4428
-    proximity: 0.8036
+    lemma: מֶלֶךְ
+    gloss: a king {openscriptures-strongs}
+    proximity: 0.8036 {macula-proximity}
   - strongs: H4951
-    proximity: 0.8005
+    lemma: מִשְׂרָה
+    gloss: empire {openscriptures-strongs}
+    proximity: 0.8005 {macula-proximity}
   - strongs: A4756
-    proximity: 0.7894
+    proximity: 0.7894 {macula-proximity}
   - strongs: H6114
-    proximity: 0.7879
+    lemma: עֶצֶר
+    gloss: restraint {openscriptures-strongs}
+    proximity: 0.7879 {macula-proximity}
   cross_language:
   - strongs: G747
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
     language: greek
   - strongs: G746
-    proximity: 0.8204
+    proximity: 0.8204 {macula-proximity}
     language: greek
   - strongs: G1988
-    proximity: 0.8088
+    lemma: ἐπιστάτης
+    gloss: an appointee over {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
     language: greek
   - strongs: G1850
-    proximity: 0.7966
+    lemma: ἐξουσιάζω
+    gloss: to control {openscriptures-strongs}
+    proximity: 0.7966 {macula-proximity}
     language: greek
   - strongs: G1849
-    proximity: 0.7917
+    lemma: ἐξουσία
+    gloss: privilege {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

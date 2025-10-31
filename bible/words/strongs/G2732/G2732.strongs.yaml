@@ -5,47 +5,52 @@ transliteration: katoikētḗrion
 definition: a dwelling-place
 kjv_usage: habitation
 derivation: from a derivative of G2730 (κατοικέω);
-extended_definition:
-  gloss: dwelling place
-  definition: '<b>κατ-οικητήριον</b>, -ου, τό<BR /> (κατοικέω), [in LXX for מוֹשָׁב,
-    מָעוֹן, etc. ;] <BR /><b>a habitation, dwelling-place</b>: <ref=''Eph.2.22''>Eph.2:22</ref>,
-    <ref=''Rev.18.2''>Rev.18:2</ref>.†<BR /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> κατοικ-ητήριον</b>, τό, <br /> <b>dwellingplace, abode</b>,
-    [<a href="javascript:void(0)" title=" LXX.Exo.12.20 ">LXX</a>]; κ. θεοῦ, δαιμονίων,
-    [<a href="javascript:void(0)" title=" NT.Eph.2.22, NT.Rev.18.2. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'κατ-οικητήριον, -ου, τό
+
+  (κατοικέω), [in LXX for מוֹשָׁב, מָעוֹן, etc. ;]
+
+  a habitation, dwelling-place: Eph.2:22, Rev.18:2.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κατοικ-ητήριον, τό,
+
+  dwellingplace, abode, [LXX]; κ. θεοῦ, δαιμονίων, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4009
-    proximity: 0.8275
+    lemma: πέρας
+    gloss: an extremity {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: G790
-    proximity: 0.8199
+    proximity: 0.8199 {macula-proximity}
   - strongs: G3606
-    proximity: 0.8115
+    lemma: ὅθεν
+    gloss: from which place or source or cause {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
   - strongs: G5561
-    proximity: 0.7975
+    lemma: χώρα
+    gloss: room {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
   cross_language:
   - strongs: H919
-    proximity: 0.8185
+    proximity: 0.8185 {macula-proximity}
     language: hebrew
   - strongs: H776
-    proximity: 0.8176
+    proximity: 0.8176 {macula-proximity}
     language: hebrew
   - strongs: H2681
-    proximity: 0.8162
+    lemma: חָצִיר
+    gloss: a court or abode {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
     language: hebrew
   - strongs: H4285
-    proximity: 0.8124
+    lemma: מַחְשָׁךְ
+    gloss: darkness {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
     language: hebrew
   - strongs: H4801
-    proximity: 0.8099
+    lemma: מֶרְחָק
+    gloss: remoteness {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

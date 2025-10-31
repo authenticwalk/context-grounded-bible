@@ -5,50 +5,54 @@ transliteration: oktṓ
 definition: '"eight"'
 kjv_usage: eight
 derivation: a primary numeral;
-extended_definition:
-  gloss: eight
-  definition: '<b>ὀκτώ</b>, οἱ, αἱ, τά<BR /> indecl., <BR /> <b>eight</b>: <ref=''Luk.2.21''>Luk.2:21</ref>,
-    <ref=''Jhn.5.5''>Jhn.5:5</ref>, al <BR /> (AS)'
-  morphology: G:A-NUI
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὀκτώ</b>, <br /> <i>Boeotian dialect</i> <b>ὀκτό</b> [<a href="javascript:void(0)"
-    title=" “IG” 7.3193.6,9 (3rd c.BC)">Refs 3rd c.BC+</a>], Heraclean h<b>οκτώ</b>
-    [<a href="javascript:void(0)" title=" “Tab.Heracl.” 1.34">Refs</a>], Elean <b>ὀπτώ</b>
-    [<a href="javascript:void(0)" title=" “Schwyzer” 419.4 (5th-4th c.BC): οἱ, αἱ,
-    τά">Refs 5th c.BC+</a>]:— <i>indeclinable</i>, <b>eight,</b> [<a href="javascript:void(0)"
-    title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 2.313, etc.: proverbial πάντα
-    ὀ., in reference to the eight spheres, Timoth. cited in Theo Sm p.105 ">Refs 8th
-    c.BC+</a>] H. (Cf. Sanskrit <i>a[snull][tnull]ā´ a[snull][tnull]áu,</i> Latin
-    <i>octo,</i> Gothic <i>ahtau,</i> etc.)'
-  source: STEPBible/LSJ
+extended_definition: 'ὀκτώ, οἱ, αἱ, τά
+
+  indecl.,
+
+  eight: Luk.2:21, Jhn.5:5, al
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὀκτώ,
+
+  Boeotian dialect ὀκτό [Refs 3rd c.BC+], Heraclean hοκτώ [Refs], Elean ὀπτώ [Refs
+  5th c.BC+]:— indeclinable, eight, [Refs 8th c.BC+] H. (Cf. Sanskrit a[snull][tnull]ā´
+  a[snull][tnull]áu, Latin octo, Gothic ahtau, etc.) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2532
-    proximity: 0.8291
+    lemma: καί
+    gloss: and {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: G3589
-    proximity: 0.754
+    lemma: ὀγδοήκοντα
+    gloss: ten times eight {openscriptures-strongs}
+    proximity: 0.754 {macula-proximity}
   - strongs: A8533
-    proximity: 0.7247
+    proximity: 0.7247 {macula-proximity}
   cross_language:
   - strongs: H7969
-    proximity: 0.8297
+    lemma: שָׁלוֹשׁ
+    gloss: three {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: hebrew
   - strongs: H8673
-    proximity: 0.8208
+    lemma: תִּשְׁעִים
+    gloss: ninety {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: hebrew
   - strongs: H8084
-    proximity: 0.7924
+    lemma: שְׁמֹנִים
+    gloss: eighty {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
     language: hebrew
   - strongs: H7970
-    proximity: 0.7483
+    lemma: שְׁלוֹשִׁים
+    gloss: thirty {openscriptures-strongs}
+    proximity: 0.7483 {macula-proximity}
     language: hebrew
   - strongs: H6240
-    proximity: 0.7331
+    lemma: עָשָׂר
+    gloss: ten {openscriptures-strongs}
+    proximity: 0.7331 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

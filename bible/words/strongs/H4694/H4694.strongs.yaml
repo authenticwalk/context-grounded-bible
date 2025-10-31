@@ -7,51 +7,67 @@ definition: a hemming in, i.e. (objectively) a mound (of siege), or (subjectivel
   a rampart (of protection), (abstractly) fortification
 kjv_usage: fenced (city, fort, munition, strong hold.
 derivation: or מְצֻרָה; feminine of H4692 (מָצוֹר);
-extended_definition:
-  gloss: fortress
-  definition: 1) siege-works, stronghold, rampart<br>1a) siege-works<br>1b) rampart
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) siege-works, stronghold, rampart
+
+  1a) siege-works
+
+  1b) rampart {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H975
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
   - strongs: H4693
-    proximity: 0.8158
+    lemma: מָצוֹר
+    gloss: Egypt {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: H5892
-    proximity: 0.8038
+    lemma: עִיר
+    gloss: a city  in the widest sense {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
   - strongs: H1785
-    proximity: 0.7948
+    lemma: דָּיֵק
+    gloss: a battering-tower {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
   - strongs: H1002
-    proximity: 0.7827
+    lemma: בִּירָה
+    gloss: a castle or palace {openscriptures-strongs}
+    proximity: 0.7827 {macula-proximity}
   - strongs: H5797
-    proximity: 0.7783
+    lemma: עֹז
+    gloss: strength in various applications (force {openscriptures-strongs}
+    proximity: 0.7783 {macula-proximity}
   - strongs: H488a
-    proximity: 0.7532
+    proximity: 0.7532 {macula-proximity}
   - strongs: H4674
-    proximity: 0.7513
+    lemma: מֻצָּב
+    gloss: a station {openscriptures-strongs}
+    proximity: 0.7513 {macula-proximity}
   - strongs: H1219b
-    proximity: 0.7492
+    proximity: 0.7492 {macula-proximity}
   - strongs: H4869
-    proximity: 0.7442
+    lemma: מִשְׂגָּב
+    gloss: defence {openscriptures-strongs}
+    proximity: 0.7442 {macula-proximity}
   cross_language:
   - strongs: G950
-    proximity: 0.8227
+    proximity: 0.8227 {macula-proximity}
     language: greek
   - strongs: G4740
-    proximity: 0.8151
+    lemma: στηριγμός
+    gloss: stability {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
     language: greek
   - strongs: G4733
-    proximity: 0.8069
+    lemma: στερέωμα
+    gloss: something established {openscriptures-strongs}
+    proximity: 0.8069 {macula-proximity}
     language: greek
   - strongs: G4731
-    proximity: 0.7957
+    lemma: στερεός
+    gloss: stiff {openscriptures-strongs}
+    proximity: 0.7957 {macula-proximity}
     language: greek
   - strongs: G793
-    proximity: 0.7909
+    proximity: 0.7909 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

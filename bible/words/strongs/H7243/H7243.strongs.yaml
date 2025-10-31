@@ -6,47 +6,68 @@ pronunciation: reb-ee-ee'
 definition: fourth; also (fractionally) a fourth
 kjv_usage: foursquare, fourth (part).
 derivation: or רְבִעִי; from H7251 (רָבַע);
-extended_definition:
-  gloss: fourth
-  definition: '1) fourth<br>1a) fourth<br>1b) four square<br>1c) fourth part<BR>Aramaic
-    equivalent: <i>re.vi.ay</i> (רְבִיעִי "fourth" H7244)'
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) fourth
+
+  1a) fourth
+
+  1b) four square
+
+  1c) fourth part
+
+  Aramaic equivalent: re.vi.ay (רְבִיעִי "fourth" H7244) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A2298
-    proximity: 0.8166
+    proximity: 0.8166 {macula-proximity}
   - strongs: H8672
-    proximity: 0.8158
+    lemma: תֵּשַׁע
+    gloss: nine or  ninth {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: A703
-    proximity: 0.8132
+    proximity: 0.8132 {macula-proximity}
   - strongs: H6224
-    proximity: 0.8129
+    lemma: עֲשִׂירִי
+    gloss: tenth {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: H2549
-    proximity: 0.7917
+    lemma: חֲמִישִׁי
+    gloss: fifth {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: H1755
-    proximity: 0.7876
+    lemma: דּוֹר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7876 {macula-proximity}
   - strongs: H8671
-    proximity: 0.7672
+    lemma: תְּשִׁיעִי
+    gloss: ninth {openscriptures-strongs}
+    proximity: 0.7672 {macula-proximity}
   - strongs: H8029
-    proximity: 0.7669
+    lemma: שִׁלֵּשׁ
+    gloss: a descendant of the third degree {openscriptures-strongs}
+    proximity: 0.7669 {macula-proximity}
   - strongs: H8345
-    proximity: 0.7593
+    lemma: שִׁשִּׁי
+    gloss: sixth {openscriptures-strongs}
+    proximity: 0.7593 {macula-proximity}
   cross_language:
   - strongs: G5065
-    proximity: 0.8129
+    lemma: τεσσαρεσκαιδέκατος
+    gloss: fourteenth {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
     language: greek
   - strongs: G5066
-    proximity: 0.7793
+    lemma: τεταρταῖος
+    gloss: pertaining to the fourth day {openscriptures-strongs}
+    proximity: 0.7793 {macula-proximity}
     language: greek
   - strongs: G5064
-    proximity: 0.7666
+    lemma: τέσσαρες
+    gloss: four {openscriptures-strongs}
+    proximity: 0.7666 {macula-proximity}
     language: greek
   - strongs: G5072
-    proximity: 0.7637
+    lemma: τετράμηνον
+    gloss: a four months' space {openscriptures-strongs}
+    proximity: 0.7637 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

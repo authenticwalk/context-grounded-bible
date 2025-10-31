@@ -7,27 +7,29 @@ definition: Jishbo-be-Nob, a Philistine
 kjv_usage: Ishbi-benob (from the margin).
 derivation: from H3427 (יָשַׁב) and H5011 (נֹב), with a pronominal suffix and a preposition
   interposed; his dwelling (is) in Nob;
-extended_definition:
-  gloss: Ishbi-benob
-  definition: 'A man living at the time of United Monarchy, only mentioned at 2Sa.21.16;
-    <br> son of: Rapha (H7497A); <br> brother of: Goliath (H1555), Saph (H5593), Lahmi
-    (H3902) and huge_man (H4060A) <BR> § Ishbi-benob = "his dwelling is in Nob"<br>
-    son of Rapha, one of the nation of Philistine giants who attacked David in battle
-    and was slain by Abishai<br>'
-  morphology: N:N-M-P
-  source: STEPBible/BDB
+extended_definition: 'A man living at the time of United Monarchy, only mentioned
+  at 2Sa.21.16;
+
+  son of: Rapha (H7497A);
+
+  brother of: Goliath (H1555), Saph (H5593), Lahmi (H3902) and huge_man (H4060A)
+
+  § Ishbi-benob = "his dwelling is in Nob"
+
+  son of Rapha, one of the nation of Philistine giants who attacked David in battle
+  and was slain by Abishai {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2585a
-    proximity: 0.8139
+    proximity: 0.8139 {macula-proximity}
   - strongs: H2585
-    proximity: 0.8093
+    lemma: חֲנוֹךְ
+    gloss: Chanok {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
   cross_language:
   - strongs: G1802
-    proximity: 0.7463
+    lemma: Ἐνώχ
+    gloss: Enoch {openscriptures-strongs}
+    proximity: 0.7463 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

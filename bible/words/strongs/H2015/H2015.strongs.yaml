@@ -8,55 +8,93 @@ kjv_usage: '[idiom] become, change, come, be converted, give, make (a bed), over
   (-turn), perverse, retire, tumble, turn (again, aside, back, to the contrary, every
   way).'
 derivation: a primitive root;
-extended_definition:
-  gloss: to overturn
-  definition: 1) to turn, overthrow, overturn<br>1a) (Qal)<br>1a1) to overturn, overthrow<br>1a2)
-    to turn, turn about, turn over, turn around<br>1a3) to change, transform<br>1b)
-    (Niphal)<br>1b1) to turn oneself, turn, turn back<br>1b2) to change oneself<br>1b3)
-    to be perverse<br>1b4) to be turned, be turned over, be changed, be turned against<br>1b5)
-    to be reversed<br>1b6) to be overturned, be overthrown<br>1b7) to be upturned<br>1c)
-    (Hithpael)<br>1c1) to transform oneself<br>1c2) to turn this way and that, turn
-    every way<br>1d) (Hophal) to turn on someone
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to turn, overthrow, overturn
+
+  1a) (Qal)
+
+  1a1) to overturn, overthrow
+
+  1a2) to turn, turn about, turn over, turn around
+
+  1a3) to change, transform
+
+  1b) (Niphal)
+
+  1b1) to turn oneself, turn, turn back
+
+  1b2) to change oneself
+
+  1b3) to be perverse
+
+  1b4) to be turned, be turned over, be changed, be turned against
+
+  1b5) to be reversed
+
+  1b6) to be overturned, be overthrown
+
+  1b7) to be upturned
+
+  1c) (Hithpael)
+
+  1c1) to transform oneself
+
+  1c2) to turn this way and that, turn every way
+
+  1d) (Hophal) to turn on someone {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8045
-    proximity: 0.825
+    lemma: שָׁמַד
+    gloss: to desolate {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: H8132
-    proximity: 0.8238
+    lemma: שָׁנָא
+    gloss: to alter {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H7703
-    proximity: 0.8236
+    lemma: שָׁדַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
   - strongs: H5186
-    proximity: 0.8219
+    lemma: נָטָה
+    gloss: to stretch or spread out {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: H4048
-    proximity: 0.8209
+    lemma: מָגַר
+    gloss: to yield up {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: A4049
-    proximity: 0.8184
+    proximity: 0.8184 {macula-proximity}
   - strongs: H935
-    proximity: 0.8181
+    proximity: 0.8181 {macula-proximity}
   - strongs: H6289
-    proximity: 0.8149
+    lemma: פָּארוּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
   - strongs: H4524a
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
   cross_language:
   - strongs: G654
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G1096
-    proximity: 0.8252
+    lemma: γίνομαι
+    gloss: to cause to be {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: greek
   - strongs: G1519
-    proximity: 0.8242
+    lemma: εἰς
+    gloss: to or into {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
     language: greek
   - strongs: G1624
-    proximity: 0.822
+    lemma: ἐκτρέπω
+    gloss: to deflect {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
     language: greek
   - strongs: G3883
-    proximity: 0.8195
+    lemma: παραλλαγή
+    gloss: transmutation {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

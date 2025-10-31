@@ -7,47 +7,67 @@ definition: two; also (as ordinal) twofold
 kjv_usage: both, couple, double, second, twain, [phrase] twelfth, [phrase] twelve,
   [phrase] twenty (sixscore) thousand, twice, two.
 derivation: dual of H8145 (שֵׁנִי); feminine שְׁתַּיִם;
-extended_definition:
-  gloss: two
-  definition: 1) two<br>1a) two (the cardinal number)<br>1a1) two, both, double, twice<br>1b)
-    second (the ordinal number)<br>1c) in combination with other numbers<br>1d) both
-    (a dual number)
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: '1) two
+
+  1a) two (the cardinal number)
+
+  1a1) two, both, double, twice
+
+  1b) second (the ordinal number)
+
+  1c) in combination with other numbers
+
+  1d) both (a dual number) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8671
-    proximity: 0.8297
+    lemma: תְּשִׁיעִי
+    gloss: ninth {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: H6471
-    proximity: 0.8284
+    lemma: פַּעַם
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H2297
-    proximity: 0.8283
+    lemma: חַד
+    gloss: one {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H1334
-    proximity: 0.8251
+    lemma: בָּתַר
+    gloss: to chop up {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H4932
-    proximity: 0.8142
+    lemma: מִשְׁנֶה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: A8579
-    proximity: 0.8119
+    proximity: 0.8119 {macula-proximity}
   - strongs: A3969
-    proximity: 0.8102
+    proximity: 0.8102 {macula-proximity}
   cross_language:
   - strongs: G1366
-    proximity: 0.8071
+    lemma: δίστομος
+    gloss: double-edged {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
     language: greek
   - strongs: G5064
-    proximity: 0.8055
+    lemma: τέσσαρες
+    gloss: four {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
     language: greek
   - strongs: G1803
-    proximity: 0.8037
+    lemma: ἕξ
+    gloss: six {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
     language: greek
   - strongs: G5507
-    proximity: 0.8017
+    lemma: χίλιοι
+    gloss: a thousand {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
     language: greek
   - strongs: G1835
-    proximity: 0.7992
+    lemma: ἑξήκοντα
+    gloss: sixty {openscriptures-strongs}
+    proximity: 0.7992 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

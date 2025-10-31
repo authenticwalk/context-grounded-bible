@@ -5,37 +5,41 @@ transliteration: Thára
 definition: Thara (i.e. Terach), the father of Abraham
 kjv_usage: Thara
 derivation: of Hebrew origin (H08646);
-extended_definition:
-  gloss: Terah
-  definition: '<b>Θαρά</b> (Rec. Θάρα), ὁ, indecl. (Heb. תֶּרַח), <BR /> Terah (<ref=''Gen.11.24-28,
-    31-32''>Gen.11:24-28, 31-32</ref>): <ref=''Luk.3.34''>Luk.3:34</ref>.†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Θαρά</b> (Rec. Θάρα), ὁ, indecl. (Heb. תֶּרַח), <BR /> Terah
-    (<ref=''Gen.11.24-28, 31-32''>Gen.11:24-28, 31-32</ref>): <ref=''Luk.3.34''>Luk.3:34</ref>.†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Θαρά (Rec. Θάρα), ὁ, indecl. (Heb. תֶּרַח),
+
+  Terah (Gen.11:24-28, 31-32): Luk.3:34.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Θαρά (Rec. Θάρα), ὁ, indecl. (Heb. תֶּרַח),
+
+  Terah (Gen.11:24-28, 31-32): Luk.3:34.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H8470
-    proximity: 0.8278
+    lemma: תַּחֲנִי
+    gloss: a Tachanite  or descendants of Tachan {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: hebrew
   - strongs: H1689
-    proximity: 0.8268
+    lemma: דִּבְלָה
+    gloss: Diblah {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: hebrew
   - strongs: H8480
-    proximity: 0.8248
+    lemma: תַּחַת
+    gloss: Tachath {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: hebrew
   - strongs: H8590
-    proximity: 0.8248
+    lemma: תַּעֲנָךְ
+    gloss: Taanak or Tanak {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: hebrew
   - strongs: H8662
-    proximity: 0.8247
+    lemma: תַּרְתָּק
+    gloss: Tartak {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

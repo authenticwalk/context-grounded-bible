@@ -6,34 +6,42 @@ pronunciation: keh'-rakh
 definition: ice (as if bald, i.e. smooth); hence, hail; by resemblance, rock crystal
 kjv_usage: crystal, frost, ice.
 derivation: or קֹרַח; from H7139 (קָרַח);
-extended_definition:
-  gloss: ice
-  definition: 1) frost, ice, ice crystal<br>1a) frost (of night)<br>1b) ice
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) frost, ice, ice crystal
+
+  1a) frost (of night)
+
+  1b) ice {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7119
-    proximity: 0.8262
+    lemma: קַר
+    gloss: cool {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: H7135
-    proximity: 0.7968
+    lemma: קָרָה
+    gloss: coolness {openscriptures-strongs}
+    proximity: 0.7968 {macula-proximity}
   - strongs: H7120
-    proximity: 0.7939
+    lemma: קֹר
+    gloss: cold {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
   - strongs: H7087a
-    proximity: 0.7443
+    proximity: 0.7443 {macula-proximity}
   - strongs: H3713a
-    proximity: 0.7352
+    proximity: 0.7352 {macula-proximity}
   - strongs: H2137
-    proximity: 0.7291
+    lemma: זְכוּכִית
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7291 {macula-proximity}
   cross_language:
   - strongs: G5593
-    proximity: 0.8161
+    lemma: ψυχρός
+    gloss: chilly {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
     language: greek
   - strongs: G5592
-    proximity: 0.7704
+    lemma: ψύχος
+    gloss: coolness {openscriptures-strongs}
+    proximity: 0.7704 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -9,39 +9,50 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H1629
-    proximity: 0.8285
+    lemma: גָּרַז
+    gloss: to cut off {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: H2092
-    proximity: 0.8238
+    lemma: זָהַם
+    gloss: to be rancid {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H488
-    proximity: 0.8234
+    proximity: 0.8234 {macula-proximity}
   - strongs: H8581
-    proximity: 0.8117
+    lemma: תַּעָב
+    gloss: to loathe {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
   - strongs: H1604
-    proximity: 0.8091
+    lemma: גֹּעַל
+    gloss: abhorrence {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
   - strongs: H963
-    proximity: 0.8048
+    proximity: 0.8048 {macula-proximity}
   - strongs: H5800
-    proximity: 0.7828
+    lemma: עָזַב
+    gloss: to loosen {openscriptures-strongs}
+    proximity: 0.7828 {macula-proximity}
   - strongs: H5034a
-    proximity: 0.7813
+    proximity: 0.7813 {macula-proximity}
   - strongs: H936
-    proximity: 0.7686
+    proximity: 0.7686 {macula-proximity}
   - strongs: H5203
-    proximity: 0.7447
+    lemma: נָטַשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7447 {macula-proximity}
   cross_language:
   - strongs: G96
-    proximity: 0.7992
+    proximity: 0.7992 {macula-proximity}
     language: greek
   - strongs: G655
-    proximity: 0.7813
+    proximity: 0.7813 {macula-proximity}
     language: greek
   - strongs: G3868
-    proximity: 0.7479
+    lemma: παραιτέομαι
+    gloss: to beg off {openscriptures-strongs}
+    proximity: 0.7479 {macula-proximity}
     language: greek
   - strongs: G577
-    proximity: 0.7459
+    proximity: 0.7459 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

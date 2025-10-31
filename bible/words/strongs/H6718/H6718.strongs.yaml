@@ -11,33 +11,44 @@ derivation: from a form of H6679 (צוּד) and meaning the same;
 related_words:
   synonyms:
   - strongs: H4455
-    proximity: 0.8281
+    lemma: מַלְקוֹחַ
+    gloss: transitively  the jaws {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H929
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
   - strongs: H3353
-    proximity: 0.8261
+    lemma: יָקוּשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: H2123
-    proximity: 0.8185
+    lemma: זִיז
+    gloss: fulness of the breast {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: H5706
-    proximity: 0.799
+    lemma: עַד
+    gloss: booty {openscriptures-strongs}
+    proximity: 0.799 {macula-proximity}
   - strongs: H4685a
-    proximity: 0.7909
+    proximity: 0.7909 {macula-proximity}
   - strongs: A2423
-    proximity: 0.7707
+    proximity: 0.7707 {macula-proximity}
   - strongs: H4686
-    proximity: 0.7397
+    lemma: מָצוּד
+    gloss: a net {openscriptures-strongs}
+    proximity: 0.7397 {macula-proximity}
   - strongs: H2416c
-    proximity: 0.7278
+    proximity: 0.7278 {macula-proximity}
   - strongs: H2964
-    proximity: 0.7154
+    lemma: טֶרֶף
+    gloss: something torn {openscriptures-strongs}
+    proximity: 0.7154 {macula-proximity}
   cross_language:
   - strongs: G61
-    proximity: 0.8279
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G2342
-    proximity: 0.7952
+    lemma: θηρίον
+    gloss: a dangerous animal {openscriptures-strongs}
+    proximity: 0.7952 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

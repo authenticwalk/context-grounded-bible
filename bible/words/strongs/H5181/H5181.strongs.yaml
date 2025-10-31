@@ -7,49 +7,65 @@ definition: to sink, i.e. descend; causatively, to press or lead down
 kjv_usage: be broken, (cause to) come down, enter, go down, press sore, settle, stick
   fast.
 derivation: a primitive root;
-extended_definition:
-  gloss: to descend
-  definition: '1) to go down, descend<br>1a) (Qal)<br>1a1) to go down, descend<br>1a2)
-    to descend, descend into (chastisement) (fig.)<br>1b) (Niphal) to come down into,
-    penetrate<br>1c) (Piel) to cause to descend, press down, stretch (a bow)<br>1d)
-    (Hiphil) to bring down<BR>Aramaic equivalent: <i>ne.chat</i> (נְחֵת "to descend"
-    H5182)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to go down, descend
+
+  1a) (Qal)
+
+  1a1) to go down, descend
+
+  1a2) to descend, descend into (chastisement) (fig.)
+
+  1b) (Niphal) to come down into, penetrate
+
+  1c) (Piel) to cause to descend, press down, stretch (a bow)
+
+  1d) (Hiphil) to bring down
+
+  Aramaic equivalent: ne.chat (נְחֵת "to descend" H5182) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8415
-    proximity: 0.8295
+    lemma: תְּהוֹם
+    gloss: an abyss {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H5183a
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
   - strongs: H8257
-    proximity: 0.8218
+    lemma: שָׁקַע
+    gloss: to subside {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H857
-    proximity: 0.82
+    proximity: 0.82 {macula-proximity}
   - strongs: H2883
-    proximity: 0.8121
+    lemma: טָבַע
+    gloss: to sink {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H5117
-    proximity: 0.8102
+    lemma: נוּחַ
+    gloss: to rest {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
   - strongs: H5183
-    proximity: 0.8097
+    lemma: נַחַת
+    gloss: a descent {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   cross_language:
   - strongs: G5217
-    proximity: 0.8276
+    lemma: ὑπάγω
+    gloss: to lead  under {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: greek
   - strongs: G3977
-    proximity: 0.8249
+    lemma: πεδινός
+    gloss: level {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: greek
   - strongs: G634
-    proximity: 0.8239
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G549
-    proximity: 0.8211
+    proximity: 0.8211 {macula-proximity}
     language: greek
   - strongs: G925
-    proximity: 0.8202
+    proximity: 0.8202 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

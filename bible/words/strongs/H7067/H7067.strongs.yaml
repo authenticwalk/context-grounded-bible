@@ -6,27 +6,23 @@ pronunciation: kan-naw'
 definition: jealous
 kjv_usage: jealous. Compare H7072 (קַנּוֹא).
 derivation: from H7065 (קָנָא);
-extended_definition:
-  gloss: jealous
-  definition: jealous (only of God)
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: jealous (only of God) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5770a
-    proximity: 0.8186
+    proximity: 0.8186 {macula-proximity}
   cross_language:
   - strongs: G430
-    proximity: 0.7594
+    proximity: 0.7594 {macula-proximity}
     language: greek
   - strongs: G2205
-    proximity: 0.7565
+    lemma: ζῆλος
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7565 {macula-proximity}
     language: greek
   - strongs: G5159
-    proximity: 0.7179
+    lemma: τροποφορέω
+    gloss: to endure one's habits {openscriptures-strongs}
+    proximity: 0.7179 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

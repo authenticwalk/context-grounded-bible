@@ -10,47 +10,61 @@ kjv_usage: '[idiom] apparently, appearance(-reth), [idiom] as soon as beautiful(
   countenance, fair, favoured, form, goodly, to look (up) on (to), look(-eth), pattern,
   to see, seem, sight, visage, vision.'
 derivation: from H7200 (רָאָה);
-extended_definition:
-  gloss: appearance
-  definition: 1) sight, appearance, vision<br>1a) sight, phenomenon, spectacle, appearance,
-    vision<br>1b) what is seen<br>1c) a vision (supernatural)<br>1d) sight, vision
-    (power of seeing)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) sight, appearance, vision
+
+  1a) sight, phenomenon, spectacle, appearance, vision
+
+  1b) what is seen
+
+  1c) a vision (supernatural)
+
+  1d) sight, vision (power of seeing) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5027
-    proximity: 0.824
+    lemma: נָבַט
+    gloss: to scan {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: H6493
-    proximity: 0.8226
+    lemma: פִּקֵּחַ
+    gloss: clear-sighted {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: H2380
-    proximity: 0.8225
+    lemma: חָזוּת
+    gloss: a look {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: A1821
-    proximity: 0.8189
+    proximity: 0.8189 {macula-proximity}
   - strongs: H853
-    proximity: 0.8173
+    proximity: 0.8173 {macula-proximity}
   - strongs: H6440
-    proximity: 0.8069
+    lemma: פָּנִים
+    gloss: the face {openscriptures-strongs}
+    proximity: 0.8069 {macula-proximity}
   - strongs: A431
-    proximity: 0.8041
+    proximity: 0.8041 {macula-proximity}
   cross_language:
   - strongs: G398
-    proximity: 0.8234
+    proximity: 0.8234 {macula-proximity}
     language: greek
   - strongs: G5081
-    proximity: 0.8213
+    lemma: τηλαυγῶς
+    gloss: in a far-shining manner {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
     language: greek
   - strongs: G3945
-    proximity: 0.8169
+    lemma: παρομοιάζω
+    gloss: to resemble {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
     language: greek
   - strongs: G2400
-    proximity: 0.8038
+    lemma: ἰδού
+    gloss: used as imperative lo! {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
     language: greek
   - strongs: G3446
-    proximity: 0.8012
+    lemma: μόρφωσις
+    gloss: formation {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

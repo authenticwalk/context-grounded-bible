@@ -6,34 +6,39 @@ pronunciation: khaw-san'
 definition: properly, to (be) compact; by implication, to hoard
 kjv_usage: lay up.
 derivation: a primitive root;
-extended_definition:
-  gloss: to hoard
-  definition: '(Niphal) to be treasured up, be hoarded, be laid up, be stored<BR>Aramaic
-    equivalent: <i>cha.san</i> (חֲסַן "to possess" H2631)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '(Niphal) to be treasured up, be hoarded, be laid up, be stored
+
+  Aramaic equivalent: cha.san (חֲסַן "to possess" H2631) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8498
-    proximity: 0.7781
+    lemma: תְּכוּנָה
+    gloss: adjustment {openscriptures-strongs}
+    proximity: 0.7781 {macula-proximity}
   - strongs: H4543
-    proximity: 0.756
+    lemma: מִסְכְּנָה
+    gloss: a magazine {openscriptures-strongs}
+    proximity: 0.756 {macula-proximity}
   - strongs: H6845
-    proximity: 0.7187
+    lemma: צָפַן
+    gloss: to hide {openscriptures-strongs}
+    proximity: 0.7187 {macula-proximity}
   - strongs: H6651
-    proximity: 0.7045
+    lemma: צָבַר
+    gloss: to aggregate {openscriptures-strongs}
+    proximity: 0.7045 {macula-proximity}
   cross_language:
   - strongs: G4982
-    proximity: 0.8188
+    lemma: σώζω
+    gloss: to save {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
     language: greek
   - strongs: G1265
-    proximity: 0.7955
+    lemma: διαμένω
+    gloss: to stay constantly {openscriptures-strongs}
+    proximity: 0.7955 {macula-proximity}
     language: greek
   - strongs: G606
-    proximity: 0.7386
+    proximity: 0.7386 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

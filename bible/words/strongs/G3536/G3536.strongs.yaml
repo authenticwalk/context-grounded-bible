@@ -5,49 +5,54 @@ transliteration: Nineuḯtēs
 definition: a Ninevite, i.e. inhabitant of Nineveh
 kjv_usage: of Nineve, Ninevite
 derivation: from G3535 (Νινευΐ);
-extended_definition:
-  gloss: Ninevite
-  definition: '<b>Νινευείτης</b> (Rec. -ενίτης, L, -ΐτης), -ου, ὁ <BR /> <b>a Ninevite</b>:
-    <ref=''Mat.12.41''>Mat.12:41</ref>, <ref=''Luk.11.30, 32''>Luk.11:30, 32</ref>.†<BR
-    /> (AS)'
-  morphology: N:N--LG
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Νινευείτης</b> (Rec. -ενίτης, L, -ΐτης), -ου, ὁ <BR /> <b>a
-    Ninevite</b>: <ref=''Mat.12.41''>Mat.12:41</ref>, <ref=''Luk.11.30, 32''>Luk.11:30,
-    32</ref>.†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Νινευείτης (Rec. -ενίτης, L, -ΐτης), -ου, ὁ
+
+  a Ninevite: Mat.12:41, Luk.11:30, 32.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Νινευείτης (Rec. -ενίτης, L, -ΐτης), -ου, ὁ
+
+  a Ninevite: Mat.12:41, Luk.11:30, 32.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G435
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
   - strongs: A2234
-    proximity: 0.829
+    proximity: 0.829 {macula-proximity}
   - strongs: G3793
-    proximity: 0.8242
+    lemma: ὄχλος
+    gloss: a throng {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: G4853
-    proximity: 0.8194
+    lemma: συμφυλέτης
+    gloss: a co-tribesman {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: A5962
-    proximity: 0.8025
+    proximity: 0.8025 {macula-proximity}
   cross_language:
   - strongs: H5161
-    proximity: 0.8293
+    lemma: נֶחֱלָמִי
+    gloss: a Nechelamite {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: hebrew
   - strongs: H5242
-    proximity: 0.8213
+    lemma: נְמוּאֵלִי
+    gloss: a Nemuelite {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
     language: hebrew
   - strongs: H8488
-    proximity: 0.8179
+    lemma: תֵּימְנִי
+    gloss: Temeni {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
     language: hebrew
   - strongs: H8461
-    proximity: 0.816
+    lemma: תַּחְכְּמֹנִי
+    gloss: Tachkemoni {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
     language: hebrew
   - strongs: H244a
-    proximity: 0.8141
+    proximity: 0.8141 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

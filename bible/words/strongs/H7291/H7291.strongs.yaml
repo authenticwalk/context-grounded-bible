@@ -8,53 +8,84 @@ definition: to run after (usually with hostile intent; figuratively (of time) go
 kjv_usage: chase, put to flight, follow (after, on), hunt, (be under) persecute(-ion,
   -or), pursue(-r).
 derivation: a primitive root;
-extended_definition:
-  gloss: to pursue
-  definition: 1) to be behind, follow after, pursue, persecute, run after<br>1a) (Qal)<br>1a1)
-    to pursue, put to flight, chase, dog, attend closely upon<br>1a2) to persecute,
-    harass (fig)<br>1a3) to follow after, aim to secure (fig)<br>1a4) to run after
-    (a bribe) (fig)<br>1b) (Niphal)<br>1b1) to be pursued<br>1b2) one pursued (participle)<br>1c)
-    (Piel) to pursue ardently, aim eagerly to secure, pursue<br>1d) (Pual) to be pursued,
-    be chased away<br>1e) (Hiphil) to pursue, chase
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be behind, follow after, pursue, persecute, run after
+
+  1a) (Qal)
+
+  1a1) to pursue, put to flight, chase, dog, attend closely upon
+
+  1a2) to persecute, harass (fig)
+
+  1a3) to follow after, aim to secure (fig)
+
+  1a4) to run after (a bribe) (fig)
+
+  1b) (Niphal)
+
+  1b1) to be pursued
+
+  1b2) one pursued (participle)
+
+  1c) (Piel) to pursue ardently, aim eagerly to secure, pursue
+
+  1d) (Pual) to be pursued, be chased away
+
+  1e) (Hiphil) to pursue, chase {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H871a
-    proximity: 0.8242
+    proximity: 0.8242 {macula-proximity}
   - strongs: H5381
-    proximity: 0.8232
+    lemma: נָשַׂג
+    gloss: to reach {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H5265
-    proximity: 0.8227
+    lemma: נָסַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H4117
-    proximity: 0.8172
+    lemma: מָהַר
+    gloss: to bargain {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
   - strongs: H935
-    proximity: 0.8061
+    proximity: 0.8061 {macula-proximity}
   - strongs: H1245
-    proximity: 0.8048
+    lemma: בָּקַשׁ
+    gloss: to search out (by any method {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
   - strongs: H4783
-    proximity: 0.7994
+    lemma: מֻרְדָּף
+    gloss: persecuted {openscriptures-strongs}
+    proximity: 0.7994 {macula-proximity}
   - strongs: H6327
-    proximity: 0.7841
+    lemma: פּוּץ
+    gloss: to dash in pieces {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
   - strongs: H413
-    proximity: 0.771
+    proximity: 0.771 {macula-proximity}
   - strongs: H1980
-    proximity: 0.7574
+    lemma: הָלַךְ
+    gloss: to walk (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.7574 {macula-proximity}
   cross_language:
   - strongs: G1559
-    proximity: 0.8153
+    lemma: ἐκδιώκω
+    gloss: to pursue out {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
     language: greek
   - strongs: G1375
-    proximity: 0.768
+    lemma: διωγμός
+    gloss: persecution {openscriptures-strongs}
+    proximity: 0.768 {macula-proximity}
     language: greek
   - strongs: G1872
-    proximity: 0.758
+    lemma: ἐπακολουθέω
+    gloss: to accompany {openscriptures-strongs}
+    proximity: 0.758 {macula-proximity}
     language: greek
   - strongs: G1376
-    proximity: 0.7512
+    lemma: διώκτης
+    gloss: a persecutor {openscriptures-strongs}
+    proximity: 0.7512 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

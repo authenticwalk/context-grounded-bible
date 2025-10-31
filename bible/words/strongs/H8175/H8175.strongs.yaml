@@ -10,39 +10,58 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H1089
-    proximity: 0.8286
+    lemma: בָּלַהּ
+    gloss: to palpitate {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: H2342a
-    proximity: 0.8229
+    proximity: 0.8229 {macula-proximity}
   - strongs: H2730
-    proximity: 0.8064
+    lemma: חָרֵד
+    gloss: fearful {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
   - strongs: H1670
-    proximity: 0.8052
+    lemma: דְּאָבָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8052 {macula-proximity}
   - strongs: H4172
-    proximity: 0.8042
+    lemma: מוֹרָא
+    gloss: fear {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: H3373
-    proximity: 0.7967
+    lemma: יָרֵא
+    gloss: fearing {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
   - strongs: A1763
-    proximity: 0.795
+    proximity: 0.795 {macula-proximity}
   - strongs: H3998
-    proximity: 0.7944
+    lemma: מְבוּכָה
+    gloss: perplexity {openscriptures-strongs}
+    proximity: 0.7944 {macula-proximity}
   - strongs: H2844a
-    proximity: 0.7936
+    proximity: 0.7936 {macula-proximity}
   - strongs: H7461
-    proximity: 0.7902
+    lemma: רַעַד
+    gloss: a shudder {openscriptures-strongs}
+    proximity: 0.7902 {macula-proximity}
   cross_language:
   - strongs: G5156
-    proximity: 0.8232
+    lemma: τρόμος
+    gloss: a "trembling" {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
     language: greek
   - strongs: G4578
-    proximity: 0.8221
+    lemma: σεισμός
+    gloss: a commotion {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
     language: greek
   - strongs: G4423
-    proximity: 0.8201
+    lemma: πτόησις
+    gloss: alarm {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G1719
-    proximity: 0.7955
+    lemma: ἔμφοβος
+    gloss: in fear {openscriptures-strongs}
+    proximity: 0.7955 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

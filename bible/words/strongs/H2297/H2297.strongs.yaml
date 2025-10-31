@@ -6,49 +6,60 @@ pronunciation: khad
 definition: one
 kjv_usage: one.
 derivation: abridged from H259 (אֶחָד);
-extended_definition:
-  gloss: one
-  definition: 'one (number), same, single, first, each, once<BR>Aramaic equivalent:
-    <i>chad</i> (חַד "one" H2298)'
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: 'one (number), same, single, first, each, once
+
+  Aramaic equivalent: chad (חַד "one" H2298) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5973
-    proximity: 0.8297
+    lemma: עִם
+    gloss: adverb or preposition {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: H8147
-    proximity: 0.8283
+    lemma: שְׁנַיִם
+    gloss: two {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H5921
-    proximity: 0.8272
+    lemma: עַל
+    gloss: above {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: H854
-    proximity: 0.8244
+    proximity: 0.8244 {macula-proximity}
   - strongs: H413
-    proximity: 0.8241
+    proximity: 0.8241 {macula-proximity}
   - strongs: H996
-    proximity: 0.8224
+    proximity: 0.8224 {macula-proximity}
   - strongs: A2298
-    proximity: 0.821
+    proximity: 0.821 {macula-proximity}
   - strongs: H251
-    proximity: 0.8199
+    proximity: 0.8199 {macula-proximity}
   - strongs: H2090
-    proximity: 0.8174
+    lemma: זֹה
+    gloss: this or that {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
   - strongs: H3162
-    proximity: 0.8127
+    lemma: יַחַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
   cross_language:
   - strongs: G1519
-    proximity: 0.8242
+    lemma: εἰς
+    gloss: to or into {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
     language: greek
   - strongs: G3326
-    proximity: 0.8202
+    lemma: μετά
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
     language: greek
   - strongs: G2087
-    proximity: 0.8163
+    lemma: ἕτερος
+    gloss: (an- {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
     language: greek
   - strongs: G3391
-    proximity: 0.8046
+    lemma: μία
+    gloss: one or first {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

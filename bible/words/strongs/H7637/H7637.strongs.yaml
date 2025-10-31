@@ -6,51 +6,71 @@ pronunciation: sheb-ee-ee'
 definition: seventh
 kjv_usage: seventh (time).
 derivation: or שְׁבִעִי; ordinal from H7657 (שִׁבְעִים);
-extended_definition:
-  gloss: seventh
-  definition: 1) seventh<br>1a) ordinal number
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) seventh
+
+  1a) ordinal number {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7223
-    proximity: 0.8284
+    lemma: רִאשׁוֹן
+    gloss: first {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H6242
-    proximity: 0.8228
+    lemma: עֶשְׂרִים
+    gloss: twenty {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
   - strongs: H2572
-    proximity: 0.8227
+    lemma: חֲמִשִּׁים
+    gloss: fifty {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H6471
-    proximity: 0.8218
+    lemma: פַּעַם
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H7659
-    proximity: 0.8193
+    lemma: שִׁבְעָתַיִם
+    gloss: seven-times {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H7992
-    proximity: 0.8147
+    lemma: שְׁלִישִׁי
+    gloss: third {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: H7657
-    proximity: 0.8135
+    lemma: שִׁבְעִים
+    gloss: seventy {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: H2549
-    proximity: 0.8068
+    lemma: חֲמִישִׁי
+    gloss: fifth {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
   - strongs: H6249
-    proximity: 0.806
+    lemma: עַשְׁתֵּי
+    gloss: eleven or  eleventh {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7989
+    proximity: 0.7989 {macula-proximity}
   cross_language:
   - strongs: G5154a
-    proximity: 0.8236
+    proximity: 0.8236 {macula-proximity}
     language: greek
   - strongs: G2250
-    proximity: 0.8221
+    lemma: ἡμέρα
+    gloss: day {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
     language: greek
   - strongs: G3991
-    proximity: 0.8209
+    lemma: πέμπτος
+    gloss: fifth {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
     language: greek
   - strongs: G4003
-    proximity: 0.8143
+    lemma: πεντεκαιδέκατος
+    gloss: five and tenth {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
     language: greek
   - strongs: G2034
-    proximity: 0.7986
+    lemma: ἑπτάκις
+    gloss: seven times {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

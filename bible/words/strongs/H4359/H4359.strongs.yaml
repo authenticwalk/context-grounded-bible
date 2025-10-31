@@ -6,39 +6,49 @@ pronunciation: mik-lawl'
 definition: perfection (of beauty)
 kjv_usage: perfection.
 derivation: from H3634 (כָּלַל);
-extended_definition:
-  gloss: perfection
-  definition: completeness, perfection
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: completeness, perfection {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3303
-    proximity: 0.8251
+    lemma: יָפֶה
+    gloss: beautiful {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H3308
-    proximity: 0.8245
+    lemma: יֳפִי
+    gloss: beauty {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H8535
-    proximity: 0.8119
+    lemma: תָּם
+    gloss: complete {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: H8508
-    proximity: 0.796
+    lemma: תׇּכְנִית
+    gloss: admeasurement {openscriptures-strongs}
+    proximity: 0.796 {macula-proximity}
   cross_language:
   - strongs: G5048
-    proximity: 0.7927
+    lemma: τελειόω
+    gloss: to complete {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
     language: greek
   - strongs: G3647
-    proximity: 0.7789
+    lemma: ὁλοκληρία
+    gloss: integrity {openscriptures-strongs}
+    proximity: 0.7789 {macula-proximity}
     language: greek
   - strongs: G5050
-    proximity: 0.7713
+    lemma: τελείωσις
+    gloss: completion {openscriptures-strongs}
+    proximity: 0.7713 {macula-proximity}
     language: greek
   - strongs: G3651
-    proximity: 0.7602
+    lemma: ὁλοτελής
+    gloss: complete to the end {openscriptures-strongs}
+    proximity: 0.7602 {macula-proximity}
     language: greek
   - strongs: G2676
-    proximity: 0.76
+    lemma: κατάρτισις
+    gloss: thorough equipment {openscriptures-strongs}
+    proximity: 0.76 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

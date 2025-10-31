@@ -11,39 +11,50 @@ derivation: or (Zechariah 14:11) חֶרֶם; from H2763 (חָרַם);
 related_words:
   synonyms:
   - strongs: H2254a
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
   - strongs: H7722a
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
   - strongs: H2589
-    proximity: 0.8287
+    lemma: חַנּוֹת
+    gloss: supplication {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H7667
-    proximity: 0.8283
+    lemma: שֶׁבֶר
+    gloss: a fracture {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H6365
-    proximity: 0.8265
+    lemma: פִּיד
+    gloss: misfortune {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H6986
-    proximity: 0.8254
+    lemma: קֶטֶב
+    gloss: ruin {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: A7
-    proximity: 0.8178
+    proximity: 0.8178 {macula-proximity}
   - strongs: A2255
-    proximity: 0.8126
+    proximity: 0.8126 {macula-proximity}
   - strongs: H2256b
-    proximity: 0.8102
+    proximity: 0.8102 {macula-proximity}
   - strongs: H7701
-    proximity: 0.8097
+    lemma: שֹׁד
+    gloss: violence {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   cross_language:
   - strongs: G622
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G1474
-    proximity: 0.8248
+    lemma: ἐδαφίζω
+    gloss: to raze {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: greek
   - strongs: G1063
-    proximity: 0.8227
+    lemma: γάρ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
     language: greek
   - strongs: G334
-    proximity: 0.8096
+    proximity: 0.8096 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -9,42 +9,59 @@ derivation: or נָשִׂא; from H5375 (נָשָׂא);
 related_words:
   synonyms:
   - strongs: H7225
-    proximity: 0.8251
+    lemma: רֵאשִׁית
+    gloss: the first {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: A7217
-    proximity: 0.8046
+    proximity: 0.8046 {macula-proximity}
   - strongs: H352
-    proximity: 0.7979
+    proximity: 0.7979 {macula-proximity}
   - strongs: H7473
-    proximity: 0.7911
+    lemma: רֹעִי
+    gloss: pastoral {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
   - strongs: H8199
-    proximity: 0.7864
+    lemma: שָׁפַט
+    gloss: to judge {openscriptures-strongs}
+    proximity: 0.7864 {macula-proximity}
   - strongs: H7223
-    proximity: 0.7768
+    lemma: רִאשׁוֹן
+    gloss: first {openscriptures-strongs}
+    proximity: 0.7768 {macula-proximity}
   - strongs: H833
-    proximity: 0.7736
+    proximity: 0.7736 {macula-proximity}
   - strongs: H4428
-    proximity: 0.725
+    lemma: מֶלֶךְ
+    gloss: a king {openscriptures-strongs}
+    proximity: 0.725 {macula-proximity}
   - strongs: H2205
-    proximity: 0.7148
+    lemma: זָקֵן
+    gloss: old {openscriptures-strongs}
+    proximity: 0.7148 {macula-proximity}
   - strongs: H8323
-    proximity: 0.7133
+    lemma: שָׂרַר
+    gloss: to have (transitively {openscriptures-strongs}
+    proximity: 0.7133 {macula-proximity}
   cross_language:
   - strongs: G5497
-    proximity: 0.8175
+    lemma: χειραγωγός
+    gloss: a hand-leader {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: greek
   - strongs: G757
-    proximity: 0.7996
+    proximity: 0.7996 {macula-proximity}
     language: greek
   - strongs: G2232
-    proximity: 0.7677
+    lemma: ἡγεμών
+    gloss: a leader {openscriptures-strongs}
+    proximity: 0.7677 {macula-proximity}
     language: greek
   - strongs: G3595
-    proximity: 0.7609
+    lemma: ὁδηγός
+    gloss: a conductor ) {openscriptures-strongs}
+    proximity: 0.7609 {macula-proximity}
     language: greek
   - strongs: G775
-    proximity: 0.757
+    proximity: 0.757 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

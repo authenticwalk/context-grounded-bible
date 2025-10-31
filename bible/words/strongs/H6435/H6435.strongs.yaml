@@ -7,37 +7,47 @@ definition: properly, removal; used only (in the construction) adverb as conjunc
   lest
 kjv_usage: (lest) (peradventure), that...not.
 derivation: from H6437 (פָּנָה);
-extended_definition:
-  gloss: lest
-  definition: conj<br>1) lest, not, beware lest<br>adv<br>2) lest
-  morphology: H:Conj
-  source: STEPBible/BDB
+extended_definition: 'conj
+
+  1) lest, not, beware lest
+
+  adv
+
+  2) lest {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3807a
-    proximity: 0.8145
+    proximity: 0.8145 {macula-proximity}
   - strongs: H3863
-    proximity: 0.8024
+    lemma: לוּא
+    gloss: a conditional particle {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: H834
-    proximity: 0.8004
+    proximity: 0.8004 {macula-proximity}
   cross_language:
   - strongs: G1161
-    proximity: 0.8276
+    lemma: δέ
+    gloss: but {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: greek
   - strongs: G3371
-    proximity: 0.8215
+    lemma: μηκέτι
+    gloss: no further {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
     language: greek
   - strongs: G2192
-    proximity: 0.8205
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
     language: greek
   - strongs: G1535
-    proximity: 0.8133
+    lemma: εἴτε
+    gloss: if too {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
     language: greek
   - strongs: G1762
-    proximity: 0.813
+    lemma: ἔνι
+    gloss: impersonally {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

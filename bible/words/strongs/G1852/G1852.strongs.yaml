@@ -5,62 +5,67 @@ transliteration: exypnízō
 definition: to waken
 kjv_usage: awake out of sleep
 derivation: from G1853 (ἔξυπνος);
-extended_definition:
-  gloss: to awake
-  definition: '<b>ἐξ-υπνίζω </b><BR /> [in LXX: <ref=''Jdg.16.14, 20''>Jdg.16:14,
-    20</ref>, <ref=''1Ki.3.13''>3Ki.3:13</ref> (יָקַץ), <ref=''Job.14.12''>Job.14:12</ref>
-    (עוּר ni.)* ;] <BR /><b>to awaken out of sleep </b>(= ἀφυπνίζω): with accusative
-    of person(s), <ref=''Jhn.11.11.''>Jhn.11:11.</ref>† <BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐξυπν-ίζω</b>, <br /> (ὕπνος) <b>awaken from sleep,</b> οἱ
-    κόρεις εὐχρήστως -ίζουσιν ἡμᾶς [<a href="javascript:void(0)" title=" 3rd c.BC:
-    Chrysippus Stoicus 2.334, cf. NT.John.11.11 ">NT+3rd c.BC+</a>]:—<i>passive</i>,
-    <b>wake up,</b> [<a href="javascript:void(0)" title=" LXX.Judg.16.14, 1st-2nd
-    c.AD: Plutarchus Biographus et Philosophus “Antonius” 30, 2nd c.AD: Marcus Antoninus
-    Imperator 6.31. (Condemned by 2nd c.AD: Phrynichus Atticista 200, etc., uncertain
-    in “Comica Adespota” 43.) ">LXX+1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐξ-υπνίζω
+
+  [in LXX: Jdg.16:14, 20, 3Ki.3:13 (יָקַץ), Job.14:12 (עוּר ni.)* ;]
+
+  to awaken out of sleep (= ἀφυπνίζω): with accusative of person(s), Jhn.11:11.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐξυπν-ίζω,
+
+  (ὕπνος) awaken from sleep, οἱ κόρεις εὐχρήστως -ίζουσιν ἡμᾶς [NT+3rd c.BC+]:—passive,
+  wake up, [LXX+1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A8139
-    proximity: 0.827
+    proximity: 0.827 {macula-proximity}
   - strongs: G1127
-    proximity: 0.8248
+    lemma: γρηγορεύω
+    gloss: to keep awake {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: G1832
-    proximity: 0.8247
+    lemma: ἔξεστι
+    gloss: so also neuter present participle of the same  expressed) {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: A2200
-    proximity: 0.824
+    proximity: 0.824 {macula-proximity}
   - strongs: G219
-    proximity: 0.811
+    proximity: 0.811 {macula-proximity}
   - strongs: G1453
-    proximity: 0.8042
+    lemma: ἐγείρω
+    gloss: to waken {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: G349
-    proximity: 0.7786
+    proximity: 0.7786 {macula-proximity}
   - strongs: G5258
-    proximity: 0.7684
+    lemma: ὕπνος
+    gloss: sleep {openscriptures-strongs}
+    proximity: 0.7684 {macula-proximity}
   - strongs: G1853
-    proximity: 0.7248
+    lemma: ἔξυπνος
+    gloss: awake {openscriptures-strongs}
+    proximity: 0.7248 {macula-proximity}
   cross_language:
   - strongs: H8142a
-    proximity: 0.827
+    proximity: 0.827 {macula-proximity}
     language: hebrew
   - strongs: H3462
-    proximity: 0.8254
+    lemma: יָשֵׁן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: hebrew
   - strongs: H5101
-    proximity: 0.8067
+    lemma: נָהַק
+    gloss: to bray {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
     language: hebrew
   - strongs: H8142
-    proximity: 0.7837
+    lemma: שֵׁנָה
+    gloss: sleep {openscriptures-strongs}
+    proximity: 0.7837 {macula-proximity}
     language: hebrew
   - strongs: H6974a
-    proximity: 0.7788
+    proximity: 0.7788 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

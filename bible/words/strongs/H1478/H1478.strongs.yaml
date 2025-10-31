@@ -6,50 +6,64 @@ pronunciation: gaw-vah'
 definition: to breathe out, i.e. (by implication) expire
 kjv_usage: die, be dead, give up the ghost, perish.
 derivation: a primitive root;
-extended_definition:
-  gloss: to die
-  definition: 1) to expire, die, perish, give up the ghost, yield up the ghost, be
-    dead, be ready to die<br>1a) (Qal) to expire, die, be about to die
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to expire, die, perish, give up the ghost, yield up the ghost,
+  be dead, be ready to die
+
+  1a) (Qal) to expire, die, be about to die {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5397
-    proximity: 0.8295
+    lemma: נְשָׁמָה
+    gloss: a puff {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H5301
-    proximity: 0.8266
+    lemma: נָפַח
+    gloss: to puff {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: H5595
-    proximity: 0.8147
+    lemma: סָפָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: H1826b
-    proximity: 0.8134
+    proximity: 0.8134 {macula-proximity}
   - strongs: H8399
-    proximity: 0.8092
+    lemma: תַּבְלִית
+    gloss: consumption {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: H5486
-    proximity: 0.7833
+    lemma: סוּף
+    gloss: to snatch away {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
   - strongs: H10a
-    proximity: 0.7801
+    proximity: 0.7801 {macula-proximity}
   - strongs: H8045
-    proximity: 0.7751
+    lemma: שָׁמַד
+    gloss: to desolate {openscriptures-strongs}
+    proximity: 0.7751 {macula-proximity}
   - strongs: H8
-    proximity: 0.7611
+    proximity: 0.7611 {macula-proximity}
   cross_language:
   - strongs: G1709
-    proximity: 0.8239
+    lemma: ἐμπνέω
+    gloss: to inhale {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G5053
-    proximity: 0.7968
+    lemma: τελευτάω
+    gloss: to finish life (by implication {openscriptures-strongs}
+    proximity: 0.7968 {macula-proximity}
     language: greek
   - strongs: G684
-    proximity: 0.7938
+    proximity: 0.7938 {macula-proximity}
     language: greek
   - strongs: G1498
-    proximity: 0.7826
+    lemma: εἴην
+    gloss: might (could {openscriptures-strongs}
+    proximity: 0.7826 {macula-proximity}
     language: greek
   - strongs: G2288
-    proximity: 0.7808
+    lemma: θάνατος
+    gloss: (properly {openscriptures-strongs}
+    proximity: 0.7808 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

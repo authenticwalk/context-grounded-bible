@@ -7,44 +7,57 @@ definition: three; occasionally (ordinal) third, or (multiple) thrice
 kjv_usage: '[phrase] fork, [phrase] often(-times), third, thir(-teen, -teenth), three,
   [phrase] thrice. Compare H7991 (שָׁלִישׁ).'
 derivation: or שָׁלֹשׁ; masculine שְׁלוֹשָׁה; or שְׁלֹשָׁה; a primitive number;
-extended_definition:
-  gloss: three
-  definition: '1) three, triad<br>1a) 3, 300, third<BR>Aramaic equivalent: <i>te.lat</i>
-    (תְּלָת "three" H8532)'
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: '1) three, triad
+
+  1a) 3, 300, third
+
+  Aramaic equivalent: te.lat (תְּלָת "three" H8532) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6235
-    proximity: 0.8277
+    lemma: עֶשֶׂר
+    gloss: ten {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H2320
-    proximity: 0.8256
+    lemma: חֹדֶשׁ
+    gloss: the new moon {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: H143
-    proximity: 0.814
+    proximity: 0.814 {macula-proximity}
   - strongs: H8029
-    proximity: 0.7949
+    lemma: שִׁלֵּשׁ
+    gloss: a descendant of the third degree {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
   - strongs: H259
-    proximity: 0.7786
+    proximity: 0.7786 {macula-proximity}
   - strongs: H7053
-    proximity: 0.7697
+    lemma: קִלְּשׁוֹן
+    gloss: a prong {openscriptures-strongs}
+    proximity: 0.7697 {macula-proximity}
   cross_language:
   - strongs: G3638
-    proximity: 0.8297
+    lemma: ὀκτώ
+    gloss: '"eight" {openscriptures-strongs}'
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G5507
-    proximity: 0.8286
+    lemma: χίλιοι
+    gloss: a thousand {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G1250
-    proximity: 0.82
+    lemma: διακόσιοι
+    gloss: two hundred {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
   - strongs: G1427
-    proximity: 0.8196
+    lemma: δώδεκα
+    gloss: two and ten {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
     language: greek
   - strongs: G1417
-    proximity: 0.8185
+    lemma: δύο
+    gloss: '"two" {openscriptures-strongs}'
+    proximity: 0.8185 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

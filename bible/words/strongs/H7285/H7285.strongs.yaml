@@ -9,34 +9,45 @@ derivation: or (feminine) רִגְשָׁה; from H7283 (רָגַשׁ);
 related_words:
   synonyms:
   - strongs: H6776
-    proximity: 0.8209
+    lemma: צֶמֶד
+    gloss: hence {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: A606
-    proximity: 0.8186
+    proximity: 0.8186 {macula-proximity}
   - strongs: H3162a
-    proximity: 0.8172
+    proximity: 0.8172 {macula-proximity}
   - strongs: H2274
-    proximity: 0.8128
+    lemma: חֶבְרָה
+    gloss: association {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
   - strongs: H5739
-    proximity: 0.8121
+    lemma: עֵדֶר
+    gloss: an arrangement {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H1460a
-    proximity: 0.7901
+    proximity: 0.7901 {macula-proximity}
   cross_language:
   - strongs: G4897
-    proximity: 0.8293
+    lemma: συνεισέρχομαι
+    gloss: to enter in company with {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G4898
-    proximity: 0.8237
+    lemma: συνέκδημος
+    gloss: a co-absentee from home {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
     language: greek
   - strongs: G34
-    proximity: 0.8203
+    proximity: 0.8203 {macula-proximity}
     language: greek
   - strongs: G4872
-    proximity: 0.819
+    lemma: συναναβαίνω
+    gloss: to ascend in company with {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
     language: greek
   - strongs: G2252
-    proximity: 0.8175
+    lemma: ἤμην
+    gloss: I was {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

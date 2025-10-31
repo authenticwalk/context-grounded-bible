@@ -7,48 +7,69 @@ definition: to be able, literally (can, could) or morally (may, might)
 kjv_usage: be able, any at all (ways), attain, can (away with, (-not)), could, endure,
   might, overcome, have power, prevail, still, suffer.
 derivation: or (fuller) יָכוֹל; a primitive root;
-extended_definition:
-  gloss: be able
-  definition: '1) to prevail, overcome, endure, have power, be able<br>1a) (Qal)<br>1a1)
-    to be able, be able to gain or accomplish, be able to endure, be able to reach<br>1a2)
-    to prevail, prevail over or against, overcome, be victor<br>1a3) to have ability,
-    have strength<BR>Aramaic equivalent: <i>ye.khel</i> (יְכִל "be able" H3202)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to prevail, overcome, endure, have power, be able
+
+  1a) (Qal)
+
+  1a1) to be able, be able to gain or accomplish, be able to endure, be able to reach
+
+  1a2) to prevail, prevail over or against, overcome, be victor
+
+  1a3) to have ability, have strength
+
+  Aramaic equivalent: ye.khel (יְכִל "be able" H3202) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6213
-    proximity: 0.8252
+    lemma: עָשָׂה
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
   - strongs: H5797
-    proximity: 0.8227
+    lemma: עֹז
+    gloss: strength in various applications (force {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H1077
-    proximity: 0.8189
+    lemma: בַּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H3898
-    proximity: 0.8145
+    lemma: לָחַם
+    gloss: to feed on {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
   - strongs: H1369
-    proximity: 0.8106
+    lemma: גְּבוּרָה
+    gloss: force {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
   - strongs: H1396
-    proximity: 0.8106
+    lemma: גָּבַר
+    gloss: to be strong {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
   - strongs: H2391
-    proximity: 0.804
+    lemma: חֵזֶק
+    gloss: help {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   cross_language:
   - strongs: G302
-    proximity: 0.8288
+    proximity: 0.8288 {macula-proximity}
     language: greek
   - strongs: G3529
-    proximity: 0.8229
+    lemma: νίκη
+    gloss: conquest {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G2260
-    proximity: 0.8228
+    lemma: ἤπερ
+    gloss: than at all (or than perhaps {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
     language: greek
   - strongs: G4722
-    proximity: 0.8226
+    lemma: στέγω
+    gloss: to roof over {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
     language: greek
   - strongs: G1414
-    proximity: 0.8116
+    lemma: δυνατέω
+    gloss: to be efficient {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -9,38 +9,49 @@ derivation: or (feminine) סִפְרָה; (Psalm 56:8 (H9 (אֲבֵדָה))), fr
 related_words:
   synonyms:
   - strongs: H1881
-    proximity: 0.8233
+    lemma: דָּת
+    gloss: a royal edict or statute {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H7559
-    proximity: 0.8188
+    lemma: רָשַׁם
+    gloss: to record {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
   - strongs: H5608a
-    proximity: 0.8135
+    proximity: 0.8135 {macula-proximity}
   - strongs: H1697
-    proximity: 0.8087
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
   - strongs: A104
-    proximity: 0.7959
+    proximity: 0.7959 {macula-proximity}
   - strongs: A1882
-    proximity: 0.795
+    proximity: 0.795 {macula-proximity}
   - strongs: A3790
-    proximity: 0.7887
+    proximity: 0.7887 {macula-proximity}
   - strongs: H8451
-    proximity: 0.7865
+    lemma: תּוֹרָה
+    gloss: a precept or statute {openscriptures-strongs}
+    proximity: 0.7865 {macula-proximity}
   cross_language:
   - strongs: G1121
-    proximity: 0.8295
+    lemma: γράμμα
+    gloss: a writing {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G647
-    proximity: 0.8239
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G35
-    proximity: 0.8232
+    proximity: 0.8232 {macula-proximity}
     language: greek
   - strongs: G1076
-    proximity: 0.8146
+    lemma: γενεαλογία
+    gloss: tracing by generations {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
     language: greek
   - strongs: G1125
-    proximity: 0.812
+    lemma: γράφω
+    gloss: to "grave" {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

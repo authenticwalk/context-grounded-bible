@@ -6,52 +6,67 @@ pronunciation: kaw-tseen'
 definition: a magistrate (as deciding) or other leader
 kjv_usage: captain, guide, prince, ruler. Compare H6278 (עֵת קָצִין).
 derivation: from H7096 (קָצָה) in the sense of determining;
-extended_definition:
-  gloss: chief
-  definition: 1) chief, ruler, commander<br>1a) chief, commander (in war)<br>1b) dictator<br>1c)
-    ruler (of one in authority)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) chief, ruler, commander
+
+  1a) chief, commander (in war)
+
+  1b) dictator
+
+  1c) ruler (of one in authority) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4427
-    proximity: 0.8263
+    lemma: מָלַךְ
+    gloss: to reign {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: H2205
-    proximity: 0.8257
+    lemma: זָקֵן
+    gloss: old {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: A1169
-    proximity: 0.8179
+    proximity: 0.8179 {macula-proximity}
   - strongs: H2715
-    proximity: 0.8089
+    lemma: חֹר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: H6438
-    proximity: 0.8051
+    lemma: פִּנָּה
+    gloss: an angle {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
   - strongs: H5081
-    proximity: 0.7835
+    lemma: נָדִיב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7835 {macula-proximity}
   - strongs: H6496
-    proximity: 0.7831
+    lemma: פָּקִיד
+    gloss: a superintendent (civil {openscriptures-strongs}
+    proximity: 0.7831 {macula-proximity}
   - strongs: A7981
-    proximity: 0.7559
+    proximity: 0.7559 {macula-proximity}
   - strongs: H6346
-    proximity: 0.7543
+    lemma: פֶּחָה
+    gloss: a prefect {openscriptures-strongs}
+    proximity: 0.7543 {macula-proximity}
   - strongs: A7985
-    proximity: 0.7489
+    proximity: 0.7489 {macula-proximity}
   cross_language:
   - strongs: G746
-    proximity: 0.8207
+    proximity: 0.8207 {macula-proximity}
     language: greek
   - strongs: G2232
-    proximity: 0.786
+    lemma: ἡγεμών
+    gloss: a leader {openscriptures-strongs}
+    proximity: 0.786 {macula-proximity}
     language: greek
   - strongs: G935
-    proximity: 0.7808
+    proximity: 0.7808 {macula-proximity}
     language: greek
   - strongs: G4414
-    proximity: 0.7747
+    lemma: πρωτοστάτης
+    gloss: one standing first in the ranks {openscriptures-strongs}
+    proximity: 0.7747 {macula-proximity}
     language: greek
   - strongs: G757
-    proximity: 0.7583
+    proximity: 0.7583 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,46 +7,61 @@ definition: Put, a son of Ham, also the name of his descendants or their region,
   of a Persian tribe
 kjv_usage: Phut, Put.
 derivation: of foreign origin;
-extended_definition:
-  gloss: Put
-  definition: 'Phut or Put = "a bow"<br> a nation and people of northern Africa; probably
-    Libyans<BR>Also named: <i>pul</i> (פּוּל "Pul" H6322H)'
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: 'Phut or Put = "a bow"
+
+  a nation and people of northern Africa; probably Libyans
+
+  Also named: pul (פּוּל "Pul" H6322H) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A5487
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
   - strongs: H5080a
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
   - strongs: H5596
-    proximity: 0.8263
+    lemma: סָפַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: H5077
-    proximity: 0.8259
+    lemma: נָדָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: H4644
-    proximity: 0.8258
+    lemma: מֹף
+    gloss: Moph {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H8225
-    proximity: 0.8216
+    lemma: שִׁפְמִי
+    gloss: a Shiphmite or inhabitant of Shepham {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   - strongs: H2741
-    proximity: 0.8209
+    lemma: חֲרוּפִי
+    gloss: a Charuphite or inhabitant of Charuph {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   cross_language:
   - strongs: G5265
-    proximity: 0.8279
+    lemma: ὑποδέω
+    gloss: to bind under one's feet {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G4261
-    proximity: 0.825
+    lemma: προβάλλω
+    gloss: to throw forward {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G1877
-    proximity: 0.8231
+    lemma: ἐπανάγω
+    gloss: to lead up on {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
     language: greek
   - strongs: G1315
-    proximity: 0.8226
+    lemma: διαχειρίζομαι
+    gloss: to handle thoroughly {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
     language: greek
   - strongs: G1913
-    proximity: 0.8222
+    lemma: ἐπιβιβάζω
+    gloss: to cause to mount {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

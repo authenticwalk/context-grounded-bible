@@ -6,25 +6,23 @@ pronunciation: seed
 definition: lime (as boiling when slacked)
 kjv_usage: lime, plaister.
 derivation: from H7874 (שִׂיד)lemma שׂיד missing vowel, corrected to שִׂיד;
-extended_definition:
-  gloss: lime
-  definition: 1) lime, whitewash<br>1a) made by burning bones
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) lime, whitewash
+
+  1a) made by burning bones {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H871a
-    proximity: 0.8283
+    proximity: 0.8283 {macula-proximity}
   - strongs: H2902
-    proximity: 0.8227
+    lemma: טוּחַ
+    gloss: to smear {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: A1528
-    proximity: 0.8083
+    proximity: 0.8083 {macula-proximity}
   - strongs: H2915
-    proximity: 0.799
+    lemma: טִיחַ
+    gloss: mortar or plaster {openscriptures-strongs}
+    proximity: 0.799 {macula-proximity}
   - strongs: H2560b
-    proximity: 0.7338
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    proximity: 0.7338 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

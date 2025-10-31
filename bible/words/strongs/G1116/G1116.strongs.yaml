@@ -5,27 +5,23 @@ transliteration: Gómorrha
 definition: Gomorrha (i.e. Amorah), a place near the Dead Sea
 kjv_usage: Gomorrha
 derivation: of Hebrew origin (H06017);
-extended_definition:
-  gloss: Gomorrah
-  definition: '<b>Γόμορρα</b>, -ας, ἡ, and -ων, τά (Heb. עֲמֹרָה), <BR /> <b>Gomorrah</b>,
-    one of the cities of the plain (Gen.19): <ref=''Mat.10.15''>Mat.10:15</ref>, <ref=''Rom.9.29''>Rom.9:29</ref>"
-    (LXX), <ref=''2Pe.2.6''>2Pe.2:6</ref>, <ref=''Jude.7''>Ju 7</ref>.†<BR /> (AS)'
-  morphology: N:N--L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Γόμορρα</b>, -ας, ἡ, and -ων, τά (Heb. עֲמֹרָה), <BR /> <b>Gomorrah</b>,
-    one of the cities of the plain (Gen.19): <ref=''Mat.10.15''>Mat.10:15</ref>, <ref=''Rom.9.29''>Rom.9:29</ref>"
-    (LXX), <ref=''2Pe.2.6''>2Pe.2:6</ref>, <ref=''Jude.7''>Ju 7</ref>.†<BR />  (From
-    Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Γόμορρα, -ας, ἡ, and -ων, τά (Heb. עֲמֹרָה),
+
+  Gomorrah, one of the cities of the plain (Gen.19): Mat.10:15, Rom.9:29" (LXX), 2Pe.2:6,
+  Ju 7.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Γόμορρα, -ας, ἡ, and -ων, τά (Heb. עֲמֹרָה),
+
+  Gomorrah, one of the cities of the plain (Gen.19): Mat.10:15, Rom.9:29" (LXX), 2Pe.2:6,
+  Ju 7.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H4137
-    proximity: 0.8056
+    lemma: מוֹלָדָה
+    gloss: Moladah {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

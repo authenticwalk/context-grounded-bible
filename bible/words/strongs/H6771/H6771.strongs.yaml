@@ -6,29 +6,31 @@ pronunciation: tsaw-may'
 definition: thirsty (literally or figuratively)
 kjv_usage: (that) thirst(-eth, -y).
 derivation: from H6770 (צָמֵא);
-extended_definition:
-  gloss: thirsty
-  definition: thirsty
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: thirsty {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7457
-    proximity: 0.817
+    lemma: רָעֵב
+    gloss: hungry {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: H3002
-    proximity: 0.8059
+    lemma: יָבֵשׁ
+    gloss: dry {openscriptures-strongs}
+    proximity: 0.8059 {macula-proximity}
   - strongs: H2787a
-    proximity: 0.7931
+    proximity: 0.7931 {macula-proximity}
   - strongs: H6724
-    proximity: 0.785
+    lemma: צִיוֹן
+    gloss: a desert {openscriptures-strongs}
+    proximity: 0.785 {macula-proximity}
   - strongs: H6704
-    proximity: 0.7624
+    lemma: צִחֶה
+    gloss: parched {openscriptures-strongs}
+    proximity: 0.7624 {macula-proximity}
   cross_language:
   - strongs: G3584
-    proximity: 0.7536
+    lemma: ξηρός
+    gloss: arid {openscriptures-strongs}
+    proximity: 0.7536 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

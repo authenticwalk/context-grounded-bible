@@ -5,40 +5,44 @@ transliteration: proskynētḗs
 definition: an adorer
 kjv_usage: worshipper
 derivation: from G4352 (προσκυνέω);
-extended_definition:
-  gloss: worshiper
-  definition: '<b>προσ-κυνητήν</b>, -οῦ, ὁ<BR /> (προσκυνέω), <BR /><b>a worshipper</b>:
-    <ref=''Jhn.4.23.''>Jhn.4:23.</ref>†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> προσκῠν-ητής</b>, οῦ, ὁ, <br /> <b>worshipper,</b> [<a href="javascript:void(0)"
-    title="NT.John.4.23, “OGI” 262.21 (Baetocaece, 3rd c.AD), 6th c.AD: Procopius
-    Caesariensis Historicus “de Aedificiis” 5.7. ">NT+3rd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'προσ-κυνητήν, -οῦ, ὁ
+
+  (προσκυνέω),
+
+  a worshipper: Jhn.4:23.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'προσκῠν-ητής, οῦ, ὁ,
+
+  worshipper, [NT+3rd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A6399
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
   - strongs: G2999
-    proximity: 0.7806
+    lemma: λατρεία
+    gloss: ministration of God {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
   - strongs: G2356
-    proximity: 0.7179
+    lemma: θρησκεία
+    gloss: ceremonial observance {openscriptures-strongs}
+    proximity: 0.7179 {macula-proximity}
   - strongs: G3000
-    proximity: 0.7045
+    lemma: λατρεύω
+    gloss: to minister {openscriptures-strongs}
+    proximity: 0.7045 {macula-proximity}
   cross_language:
   - strongs: H5647
-    proximity: 0.7978
+    lemma: עָבַד
+    gloss: to work {openscriptures-strongs}
+    proximity: 0.7978 {macula-proximity}
     language: hebrew
   - strongs: H3373
-    proximity: 0.7931
+    lemma: יָרֵא
+    gloss: fearing {openscriptures-strongs}
+    proximity: 0.7931 {macula-proximity}
     language: hebrew
   - strongs: H7812a
-    proximity: 0.7367
+    proximity: 0.7367 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

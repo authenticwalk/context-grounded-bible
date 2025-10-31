@@ -8,54 +8,83 @@ definition: to vacillate, i.e. reel or stray (literally or figuratively); also c
 kjv_usage: (cause to) go astray, deceive, dissemble, (cause to, make to) err, pant,
   seduce, (make to) stagger, (cause to) wander, be out of the way.
 derivation: a primitive root;
-extended_definition:
-  gloss: to go astray
-  definition: 1) to err, wander, go astray, stagger<br>1a) (Qal) to err<br>1a1) to
-    wander about (physically)<br>1a2) of intoxication<br>1a3) of sin (ethically)<br>1a4)
-    wandering (of the mind)<br>1b) (Niphal)<br>1b1) to be made to wander about, be
-    made to stagger (drunkard)<br>1b2) to be led astray (ethically)<br>1c) (Hiphil)
-    to cause to wander<br>1c1) to cause to wander about (physically)<br>1c2) to cause
-    to wander (of intoxication)<br>1c3) to cause to err, mislead (mentally and morally)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to err, wander, go astray, stagger
+
+  1a) (Qal) to err
+
+  1a1) to wander about (physically)
+
+  1a2) of intoxication
+
+  1a3) of sin (ethically)
+
+  1a4) wandering (of the mind)
+
+  1b) (Niphal)
+
+  1b1) to be made to wander about, be made to stagger (drunkard)
+
+  1b2) to be led astray (ethically)
+
+  1c) (Hiphil) to cause to wander
+
+  1c1) to cause to wander about (physically)
+
+  1c2) to cause to wander (of intoxication)
+
+  1c3) to cause to err, mislead (mentally and morally) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5074
-    proximity: 0.8287
+    lemma: נָדַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H413
-    proximity: 0.8207
+    proximity: 0.8207 {macula-proximity}
   - strongs: H7847
-    proximity: 0.819
+    lemma: שָׂטָה
+    gloss: to deviate from duty {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   - strongs: H7411a
-    proximity: 0.8175
+    proximity: 0.8175 {macula-proximity}
   - strongs: H7751
-    proximity: 0.8171
+    lemma: שׁוּט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: H2048a
-    proximity: 0.8145
+    proximity: 0.8145 {macula-proximity}
   - strongs: H5496
-    proximity: 0.8104
+    lemma: סוּת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
   - strongs: H5800
-    proximity: 0.8037
+    lemma: עָזַב
+    gloss: to loosen {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
   - strongs: H943
-    proximity: 0.7983
+    proximity: 0.7983 {macula-proximity}
   cross_language:
   - strongs: G4107
-    proximity: 0.8227
+    lemma: πλανήτης
+    gloss: a rover {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
     language: greek
   - strongs: G1185
-    proximity: 0.8212
+    lemma: δελεάζω
+    gloss: to entrap {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
     language: greek
   - strongs: G4258
-    proximity: 0.8163
+    lemma: προαμαρτάνω
+    gloss: to sin previously {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
     language: greek
   - strongs: G5422
-    proximity: 0.7999
+    lemma: φρεναπατάω
+    gloss: to be a mind-misleader {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
     language: greek
   - strongs: G795
-    proximity: 0.796
+    proximity: 0.796 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

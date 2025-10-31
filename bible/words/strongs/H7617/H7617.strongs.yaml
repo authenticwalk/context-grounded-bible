@@ -7,50 +7,63 @@ definition: to transport into captivity
 kjv_usage: (bring away, carry, carry away, lead, lead away, take) captive(-s), drive
   (take) away.
 derivation: a primitive root;
-extended_definition:
-  gloss: to take captive
-  definition: 1) to take captive<br>1a) (Qal)<br>1a1) to take captive<br>1a2) captive
-    (participle)<br>1a3) to lead captive<br>1b) (Niphal) to be taken captive
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to take captive
+
+  1a) (Qal)
+
+  1a1) to take captive
+
+  1a2) captive (participle)
+
+  1a3) to lead captive
+
+  1b) (Niphal) to be taken captive {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3318
-    proximity: 0.82
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
   - strongs: A2987
-    proximity: 0.8197
+    proximity: 0.8197 {macula-proximity}
   - strongs: H935
-    proximity: 0.8142
+    proximity: 0.8142 {macula-proximity}
   - strongs: H8437
-    proximity: 0.8121
+    lemma: תּוֹלָל
+    gloss: causing to howl {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: A5312
-    proximity: 0.8099
+    proximity: 0.8099 {macula-proximity}
   - strongs: H5706
-    proximity: 0.807
+    lemma: עַד
+    gloss: booty {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
   - strongs: H961
-    proximity: 0.8001
+    proximity: 0.8001 {macula-proximity}
   - strongs: H4933
-    proximity: 0.7904
+    lemma: מְשִׁסָּה
+    gloss: plunder {openscriptures-strongs}
+    proximity: 0.7904 {macula-proximity}
   - strongs: H7622
-    proximity: 0.7892
+    lemma: שְׁבוּת
+    gloss: exile {openscriptures-strongs}
+    proximity: 0.7892 {macula-proximity}
   cross_language:
   - strongs: G142
-    proximity: 0.829
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G851
-    proximity: 0.8276
+    proximity: 0.8276 {macula-proximity}
     language: greek
   - strongs: G554
-    proximity: 0.8173
+    proximity: 0.8173 {macula-proximity}
     language: greek
   - strongs: G726
-    proximity: 0.8144
+    proximity: 0.8144 {macula-proximity}
     language: greek
   - strongs: G3880
-    proximity: 0.81
+    lemma: παραλαμβάνω
+    gloss: to receive near {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

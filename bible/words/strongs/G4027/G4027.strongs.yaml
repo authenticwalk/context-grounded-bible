@@ -5,56 +5,65 @@ transliteration: perikátharma
 definition: something cleaned off all around, i.e. refuse (figuratively)
 kjv_usage: filth
 derivation: from a compound of G4012 (περί) and G2508 (καθαίρω);
-extended_definition:
-  gloss: garbage
-  definition: '<b>περι-κάθαρμα</b>, -τος, τό<BR /> (περικαθαίρω, to purify on all
-    sides or completely, <ref=''Deu.18.10''>Deu.18:10</ref>, <ref=''Jos.5.4''>Jos.5:4</ref>,
-    <ref=''4Ma.1.29''>4Ma.1:29</ref>*), [in LXX: <ref=''Pro.21.18''>Pro.21:18</ref>
-    (כֹּפֶר)* ;] <BR />__1. a victim, expiation (Pr, l.with). <BR /> __2. <b>refuse,
-    rubbish</b>: pl., <ref=''1Co.4.13''>1Co.4:13</ref> (see <i>ICC</i>, in l).†<BR
-    /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> περικᾰθᾰρ-μα</b>, ατος, τό, <br /> <b>expiation</b>,[<a href="javascript:void(0)"
-    title="LXX.Pro.21.18. ">LXX</a>]<br /><Level2><b>__II</b></Level2> ={κάθαρμα}[<a
-    href="javascript:void(0)" title=" 1.2, περικαθάρματα τοῦ κόσμου NT.1Cor.4.13,
-    compare 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 3.22.78. ">NT+2nd
-    c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'περι-κάθαρμα, -τος, τό
+
+  (περικαθαίρω, to purify on all sides or completely, Deu.18:10, Jos.5:4, 4Ma.1:29*),
+  [in LXX: Pro.21:18 (כֹּפֶר)* ;]
+
+  __1. a victim, expiation (Pr, l.with).
+
+  __2. refuse, rubbish: pl., 1Co.4:13 (see ICC, in l).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'περικᾰθᾰρ-μα, ατος, τό,
+
+  expiation,[LXX]
+
+  __II ={κάθαρμα}[NT+2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G283
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
   - strongs: G169
-    proximity: 0.7688
+    proximity: 0.7688 {macula-proximity}
   - strongs: G4695
-    proximity: 0.7592
+    lemma: σπιλόω
+    gloss: to stain or soil {openscriptures-strongs}
+    proximity: 0.7592 {macula-proximity}
   - strongs: G4508
-    proximity: 0.7498
+    lemma: ῥυπαρός
+    gloss: dirty {openscriptures-strongs}
+    proximity: 0.7498 {macula-proximity}
   - strongs: G953
-    proximity: 0.7416
+    proximity: 0.7416 {macula-proximity}
   - strongs: G3435
-    proximity: 0.7139
+    lemma: μολύνω
+    gloss: to soil {openscriptures-strongs}
+    proximity: 0.7139 {macula-proximity}
   cross_language:
   - strongs: H5206
-    proximity: 0.8049
+    lemma: נִידָה
+    gloss: removal {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
     language: hebrew
   - strongs: H2610
-    proximity: 0.783
+    lemma: חָנֵף
+    gloss: to soil {openscriptures-strongs}
+    proximity: 0.783 {macula-proximity}
     language: hebrew
   - strongs: H1738
-    proximity: 0.7692
+    lemma: דָּוָה
+    gloss: to be sick {openscriptures-strongs}
+    proximity: 0.7692 {macula-proximity}
     language: hebrew
   - strongs: H1351
-    proximity: 0.7626
+    lemma: גָּאַל
+    gloss: to soil or  desecrate {openscriptures-strongs}
+    proximity: 0.7626 {macula-proximity}
     language: hebrew
   - strongs: H2932
-    proximity: 0.757
+    lemma: טֻמְאָה
+    gloss: religious impurity {openscriptures-strongs}
+    proximity: 0.757 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

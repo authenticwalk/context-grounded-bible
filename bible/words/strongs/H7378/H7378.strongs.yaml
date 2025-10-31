@@ -8,39 +8,59 @@ definition: properly, to toss, i.e. grapple; mostly figuratively, to wrangle, i.
 kjv_usage: adversary, chide, complain, contend, debate, [idiom] ever, [idiom] lay
   wait, plead, rebuke, strive, [idiom] thoroughly.
 derivation: or רוּב; a primitive root;
-extended_definition:
-  gloss: to contend
-  definition: 1) to strive, contend<br>1a) (Qal)<br>1a1) to strive<br>1a1a) physically<br>1a1b)
-    with words<br>1a2) to conduct a case or suit (legal), sue<br>1a3) to make complaint<br>1a4)
-    to quarrel<br>1b) (Hiphil) to contend against
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to strive, contend
+
+  1a) (Qal)
+
+  1a1) to strive
+
+  1a1a) physically
+
+  1a1b) with words
+
+  1a2) to conduct a case or suit (legal), sue
+
+  1a3) to make complaint
+
+  1a4) to quarrel
+
+  1b) (Hiphil) to contend against {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1b
-    proximity: 0.8245
+    proximity: 0.8245 {macula-proximity}
   - strongs: H4695
-    proximity: 0.8219
+    lemma: מַצּוּת
+    gloss: a quarrel {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: H3901
-    proximity: 0.8185
+    lemma: לָחֶם
+    gloss: battle {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   cross_language:
   - strongs: G4752
-    proximity: 0.8296
+    lemma: στρατεία
+    gloss: military service {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G2009
-    proximity: 0.8289
+    lemma: ἐπιτιμία
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: greek
   - strongs: G3054
-    proximity: 0.8277
+    lemma: λογομαχέω
+    gloss: to be disputatious {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: greek
   - strongs: G1969
-    proximity: 0.8262
+    lemma: ἐπιπλήσσω
+    gloss: to chastise {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
     language: greek
   - strongs: G1261
-    proximity: 0.8227
+    lemma: διαλογισμός
+    gloss: discussion {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

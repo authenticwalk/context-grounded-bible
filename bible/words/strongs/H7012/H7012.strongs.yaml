@@ -6,47 +6,59 @@ pronunciation: kee-maw'
 definition: an arising
 kjv_usage: rising up.
 derivation: from H6965 (קוּם);
-extended_definition:
-  gloss: rising
-  definition: rising up
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: rising up {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2421
-    proximity: 0.8269
+    lemma: חָיָה
+    gloss: to live {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: A6132
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
   - strongs: H4217
-    proximity: 0.826
+    lemma: מִזְרָח
+    gloss: sunrise {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
   - strongs: H1980
-    proximity: 0.8253
+    lemma: הָלַךְ
+    gloss: to walk (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
   - strongs: H6908
-    proximity: 0.8203
+    lemma: קָבַץ
+    gloss: to grasp {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: H3947
-    proximity: 0.8152
+    lemma: לָקַח
+    gloss: to take {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: H5921
-    proximity: 0.8105
+    lemma: עַל
+    gloss: above {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
   - strongs: H7311
-    proximity: 0.7981
+    lemma: רוּם
+    gloss: to be high actively {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
   cross_language:
   - strongs: G1909
-    proximity: 0.8259
+    lemma: ἐπί
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G1096
-    proximity: 0.8257
+    lemma: γίνομαι
+    gloss: to cause to be {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G329
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G381
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G5285
-    proximity: 0.8125
+    lemma: ὑποπνέω
+    gloss: to breathe gently {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

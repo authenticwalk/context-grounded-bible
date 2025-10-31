@@ -6,42 +6,54 @@ pronunciation: tsakh-tsaw-khaw'
 definition: a dry place, i.e. desert
 kjv_usage: drought.
 derivation: from H6705 (צָחַח);
-extended_definition:
-  gloss: scorched
-  definition: scorched region, parched land
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: scorched region, parched land {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7711a
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
   - strongs: H4625
-    proximity: 0.8217
+    lemma: מַעֲקָשׁ
+    gloss: a crook {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
   - strongs: H4349
-    proximity: 0.8168
+    lemma: מָכוֹן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H8273
-    proximity: 0.8151
+    lemma: שָׁרָב
+    gloss: quivering glow {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
   - strongs: H5118
-    proximity: 0.8075
+    lemma: נוּחַ
+    gloss: quiet {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
   - strongs: H7711
-    proximity: 0.8051
+    lemma: שְׁדֵפָה
+    gloss: blight {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
   - strongs: H127
-    proximity: 0.8035
+    proximity: 0.8035 {macula-proximity}
   - strongs: H6704
-    proximity: 0.8029
+    lemma: צִחֶה
+    gloss: parched {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
   - strongs: H4388
-    proximity: 0.8002
+    lemma: מַכְתֵּשׁ
+    gloss: a mortar {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: H2721
-    proximity: 0.7912
+    lemma: חֹרֶב
+    gloss: drought or desolation {openscriptures-strongs}
+    proximity: 0.7912 {macula-proximity}
   cross_language:
   - strongs: G2739
-    proximity: 0.7721
+    lemma: καυματίζω
+    gloss: to burn {openscriptures-strongs}
+    proximity: 0.7721 {macula-proximity}
     language: greek
   - strongs: G5564
-    proximity: 0.7676
+    lemma: χωρίον
+    gloss: a spot or plot of ground {openscriptures-strongs}
+    proximity: 0.7676 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

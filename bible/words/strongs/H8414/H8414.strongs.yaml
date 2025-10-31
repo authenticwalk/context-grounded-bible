@@ -8,51 +8,78 @@ definition: a desolation (of surface), i.e. desert; figuratively, a worthless th
 kjv_usage: confusion, empty place, without form, nothing, (thing of) nought, vain,
   vanity, waste, wilderness.
 derivation: from an unused root meaning to lie waste;
-extended_definition:
-  gloss: formlessness
-  definition: 1) formlessness, confusion, unreality, emptiness<br>1a) formlessness
-    (of primeval earth)<br>1a1) nothingness, empty space<br>1b) that which is empty
-    or unreal (of idols) (fig)<br>1c) wasteland, wilderness (of solitary places)<br>1d)
-    place of chaos<br>1e) vanity
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) formlessness, confusion, unreality, emptiness
+
+  1a) formlessness (of primeval earth)
+
+  1a1) nothingness, empty space
+
+  1b) that which is empty or unreal (of idols) (fig)
+
+  1c) wasteland, wilderness (of solitary places)
+
+  1d) place of chaos
+
+  1e) vanity {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2600
-    proximity: 0.8288
+    lemma: חִנָּם
+    gloss: gratis {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: H1891
-    proximity: 0.8257
+    lemma: הָבַל
+    gloss: to be vain in act {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H5014a
-    proximity: 0.8207
+    proximity: 0.8207 {macula-proximity}
   - strongs: H2717
-    proximity: 0.8116
+    lemma: חָרַב
+    gloss: to parch  i.e. (by analogy {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   - strongs: H7582
-    proximity: 0.8086
+    lemma: שָׁאָה
+    gloss: to rush {openscriptures-strongs}
+    proximity: 0.8086 {macula-proximity}
   - strongs: H8074
-    proximity: 0.8043
+    lemma: שָׁמֵם
+    gloss: to stun (or intransitively {openscriptures-strongs}
+    proximity: 0.8043 {macula-proximity}
   - strongs: H4876
-    proximity: 0.8023
+    lemma: מַשּׁוּאָה
+    gloss: ruin {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
   - strongs: H3456
-    proximity: 0.7952
+    lemma: יָשַׁם
+    gloss: to lie waste {openscriptures-strongs}
+    proximity: 0.7952 {macula-proximity}
   - strongs: H6456
-    proximity: 0.7905
+    lemma: פְּסִיל
+    gloss: an idol {openscriptures-strongs}
+    proximity: 0.7905 {macula-proximity}
   - strongs: H8076
-    proximity: 0.7874
+    lemma: שָׁמֵם
+    gloss: ruined {openscriptures-strongs}
+    proximity: 0.7874 {macula-proximity}
   cross_language:
   - strongs: G2757
-    proximity: 0.8154
+    lemma: κενοφωνία
+    gloss: empty sounding {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
     language: greek
   - strongs: G3155
-    proximity: 0.8
+    lemma: μάτην
+    gloss: folly {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
     language: greek
   - strongs: G2047
-    proximity: 0.7921
+    lemma: ἐρημία
+    gloss: solitude {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
     language: greek
   - strongs: G2761
-    proximity: 0.79
+    lemma: κενῶς
+    gloss: vainly {openscriptures-strongs}
+    proximity: 0.79 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

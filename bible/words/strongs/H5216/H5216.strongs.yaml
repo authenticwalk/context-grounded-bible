@@ -10,29 +10,38 @@ derivation: or נִר; also נֵיר; or נֵר; or (feminine) נֵרָה; from 
 related_words:
   synonyms:
   - strongs: H1543
-    proximity: 0.8148
+    lemma: גֻּלָּה
+    gloss: a fountain {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: H5105
-    proximity: 0.8013
+    lemma: נְהָרָה
+    gloss: daylight {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
   - strongs: H6594
-    proximity: 0.7573
+    lemma: פִּשְׁתָּה
+    gloss: flax {openscriptures-strongs}
+    proximity: 0.7573 {macula-proximity}
   - strongs: A5043
-    proximity: 0.751
+    proximity: 0.751 {macula-proximity}
   - strongs: A5094a
-    proximity: 0.7494
+    proximity: 0.7494 {macula-proximity}
   cross_language:
   - strongs: G5338
-    proximity: 0.8296
+    lemma: φέγγος
+    gloss: brilliancy {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G3043
-    proximity: 0.8057
+    lemma: λίνον
+    gloss: flax {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
     language: greek
   - strongs: G681
-    proximity: 0.7313
+    proximity: 0.7313 {macula-proximity}
     language: greek
   - strongs: G2985
-    proximity: 0.7219
+    lemma: λαμπάς
+    gloss: a "lamp" or flambeau {openscriptures-strongs}
+    proximity: 0.7219 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

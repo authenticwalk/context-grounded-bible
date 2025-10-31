@@ -7,42 +7,60 @@ definition: drought; also a cutting instrument (from its destructive effect), as
   knife, sword, or other sharp implement
 kjv_usage: axe, dagger, knife, mattock, sword, tool.
 derivation: from H2717 (חָרַב);
-extended_definition:
-  gloss: sword
-  definition: 1) sword, knife<br>1a) sword<br>1b) knife<br>1c) tools for cutting stone
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) sword, knife
+
+  1a) sword
+
+  1b) knife
+
+  1c) tools for cutting stone {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5325
-    proximity: 0.802
+    lemma: נִצָּב
+    gloss: fixed {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
   - strongs: H8025
-    proximity: 0.7967
+    lemma: שָׁלַף
+    gloss: to pull out {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
   - strongs: H7915
-    proximity: 0.7928
+    lemma: שַׂכִּין
+    gloss: a knife {openscriptures-strongs}
+    proximity: 0.7928 {macula-proximity}
   - strongs: H7324a
-    proximity: 0.7922
+    proximity: 0.7922 {macula-proximity}
   - strongs: H4621
-    proximity: 0.7917
+    lemma: מַעֲצָד
+    gloss: an axe {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: H8514
-    proximity: 0.791
+    lemma: תַּלְאוּבָה
+    gloss: desiccation {openscriptures-strongs}
+    proximity: 0.791 {macula-proximity}
   - strongs: H2717a
-    proximity: 0.7747
+    proximity: 0.7747 {macula-proximity}
   - strongs: H3901
-    proximity: 0.773
+    lemma: לָחֶם
+    gloss: battle {openscriptures-strongs}
+    proximity: 0.773 {macula-proximity}
   - strongs: H4094
-    proximity: 0.7721
+    lemma: מַדְקָרָה
+    gloss: a wound {openscriptures-strongs}
+    proximity: 0.7721 {macula-proximity}
   - strongs: H5402
-    proximity: 0.7637
+    lemma: נֶשֶׁק
+    gloss: military equipment {openscriptures-strongs}
+    proximity: 0.7637 {macula-proximity}
   cross_language:
   - strongs: G4604
-    proximity: 0.8259
+    lemma: σίδηρος
+    gloss: iron {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G3696
-    proximity: 0.8039
+    lemma: ὅπλον
+    gloss: an implement or utensil or tool (literally or figuratively {openscriptures-strongs}
+    proximity: 0.8039 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

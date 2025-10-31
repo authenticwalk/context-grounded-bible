@@ -6,54 +6,67 @@ pronunciation: kaw-thawb'
 definition: something written, i.e. a writing, record or book
 kjv_usage: register, scripture, writing.
 derivation: from H3789 (כָּתַב);
-extended_definition:
-  gloss: writing
-  definition: '1) a writing, document, edict<br>1a) register, enrolment, roll<br>1b)
-    mode of writing, character, letter<br>1c) letter, document, a writing<br>1d) a
-    written edict<br>1d1) of royal enactment<br>1d2) of divine authority<BR>Aramaic
-    equivalent: <i>ke.tav</i> (כְּתָב "inscription" H3792)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) a writing, document, edict
+
+  1a) register, enrolment, roll
+
+  1b) mode of writing, character, letter
+
+  1c) letter, document, a writing
+
+  1d) a written edict
+
+  1d1) of royal enactment
+
+  1d2) of divine authority
+
+  Aramaic equivalent: ke.tav (כְּתָב "inscription" H3792) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6572
-    proximity: 0.8181
+    lemma: פַּרְשֶׁגֶן
+    gloss: a transcript {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
   - strongs: A6600
-    proximity: 0.813
+    proximity: 0.813 {macula-proximity}
   - strongs: A1799
-    proximity: 0.8044
+    proximity: 0.8044 {macula-proximity}
   - strongs: A1799a
-    proximity: 0.784
+    proximity: 0.784 {macula-proximity}
   - strongs: A104
-    proximity: 0.7792
+    proximity: 0.7792 {macula-proximity}
   - strongs: H5612a
-    proximity: 0.7729
+    proximity: 0.7729 {macula-proximity}
   - strongs: A5609
-    proximity: 0.7683
+    proximity: 0.7683 {macula-proximity}
   - strongs: H7559
-    proximity: 0.7614
+    lemma: רָשַׁם
+    gloss: to record {openscriptures-strongs}
+    proximity: 0.7614 {macula-proximity}
   - strongs: H1881
-    proximity: 0.742
+    lemma: דָּת
+    gloss: a royal edict or statute {openscriptures-strongs}
+    proximity: 0.742 {macula-proximity}
   - strongs: A5407
-    proximity: 0.7352
+    proximity: 0.7352 {macula-proximity}
   cross_language:
   - strongs: G975
-    proximity: 0.8276
+    proximity: 0.8276 {macula-proximity}
     language: greek
   - strongs: G1297
-    proximity: 0.8211
+    lemma: διάταγμα
+    gloss: an arrangement {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
     language: greek
   - strongs: G1125
-    proximity: 0.8013
+    lemma: γράφω
+    gloss: to "grave" {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
     language: greek
   - strongs: G976
-    proximity: 0.785
+    proximity: 0.785 {macula-proximity}
     language: greek
   - strongs: G583
-    proximity: 0.7454
+    proximity: 0.7454 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

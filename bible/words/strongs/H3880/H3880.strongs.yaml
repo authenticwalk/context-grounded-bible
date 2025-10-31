@@ -6,32 +6,38 @@ pronunciation: liv-yaw'
 definition: something attached, i.e. a wreath
 kjv_usage: ornament.
 derivation: from H3867 (לָוָה);
-extended_definition:
-  gloss: wreath
-  definition: wreath
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: wreath {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4701
-    proximity: 0.8068
+    lemma: מִצְנֶפֶת
+    gloss: a tiara {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
   - strongs: H8597
-    proximity: 0.7902
+    lemma: תִּפְאָרָה
+    gloss: ornament (abstractly or concretely {openscriptures-strongs}
+    proximity: 0.7902 {macula-proximity}
   - strongs: H3914
-    proximity: 0.7724
+    lemma: לֹיָה
+    gloss: a wreath {openscriptures-strongs}
+    proximity: 0.7724 {macula-proximity}
   - strongs: H3804
-    proximity: 0.7518
+    lemma: כֶּתֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7518 {macula-proximity}
   - strongs: H6287
-    proximity: 0.7363
+    lemma: פְּאֵר
+    gloss: an embellishment {openscriptures-strongs}
+    proximity: 0.7363 {macula-proximity}
   cross_language:
   - strongs: G1238
-    proximity: 0.7749
+    lemma: διάδημα
+    gloss: a "diadem" {openscriptures-strongs}
+    proximity: 0.7749 {macula-proximity}
     language: greek
   - strongs: G4737
-    proximity: 0.7164
+    lemma: στεφανόω
+    gloss: to adorn with an honorary wreath {openscriptures-strongs}
+    proximity: 0.7164 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

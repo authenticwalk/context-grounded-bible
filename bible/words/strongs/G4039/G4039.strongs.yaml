@@ -5,61 +5,67 @@ transliteration: perioikéō
 definition: to reside around, i.e. be a neighbor
 kjv_usage: dwell round about
 derivation: from G4012 (περί) and G3611 (οἰκέω);
-extended_definition:
-  gloss: to dwell around
-  definition: '<b>περι-οικέω</b>, -ῶ <BR /> <b>to dwell round about</b>: with accusative,
-    <ref=''Luk.1.65.''>Luk.1:65.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> περιοικ-έω</b>, <br /> (περίοικος) <b>dwell round</b> persons
-    or places, with <i>accusative</i>, [<a href="javascript:void(0)" title=" 5th c.BC:
-    Herodotus Historicus 1.57, +others, 5th-6th c.BC: Xenophon Historicus “Anabasis”
-    5.6.16: _absolutely_, 5th c.BC: Herodotus Historicus 5.23, 5th c.BC: Lysias Orator
-    7.28 ">Refs 5th c.BC+</a>]:—<i>passive</i>, <b>to be inhabited all round</b>,
-    κύκλῳ [<a href="javascript:void(0)" title=" 4th c.BC: Aristoteles Philosophus
-    “Meteorologica” 354a4, 4th c.BC(?): Scylax Geographus 107, 2nd c.BC: Scymnus Geographus
-    766. ">Refs 4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'περι-οικέω, -ῶ
+
+  to dwell round about: with accusative, Luk.1:65.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'περιοικ-έω,
+
+  (περίοικος) dwell round persons or places, with accusative, [Refs 5th c.BC+]:—passive,
+  to be inhabited all round, κύκλῳ [Refs 4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2198
-    proximity: 0.8151
+    lemma: ζάω
+    gloss: to live {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
   - strongs: G2681
-    proximity: 0.8148
+    lemma: κατασκηνόω
+    gloss: to camp down {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: A2417
-    proximity: 0.8143
+    proximity: 0.8143 {macula-proximity}
   - strongs: A4070
-    proximity: 0.8067
+    proximity: 0.8067 {macula-proximity}
   - strongs: A3673
-    proximity: 0.805
+    proximity: 0.805 {macula-proximity}
   - strongs: G2944a
-    proximity: 0.8019
+    proximity: 0.8019 {macula-proximity}
   - strongs: G4060
-    proximity: 0.7984
+    lemma: περιτίθημι
+    gloss: to place around {openscriptures-strongs}
+    proximity: 0.7984 {macula-proximity}
   - strongs: G2944
-    proximity: 0.7969
+    lemma: κυκλόω
+    gloss: to encircle {openscriptures-strongs}
+    proximity: 0.7969 {macula-proximity}
   - strongs: G2731
-    proximity: 0.7945
+    lemma: κατοίκησις
+    gloss: residence (properly {openscriptures-strongs}
+    proximity: 0.7945 {macula-proximity}
   cross_language:
   - strongs: H1752a
-    proximity: 0.8262
+    proximity: 0.8262 {macula-proximity}
     language: hebrew
   - strongs: H7871
-    proximity: 0.8119
+    lemma: שִׁיבָה
+    gloss: residence {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
     language: hebrew
   - strongs: H4186
-    proximity: 0.811
+    lemma: מוֹשָׁב
+    gloss: a seat {openscriptures-strongs}
+    proximity: 0.811 {macula-proximity}
     language: hebrew
   - strongs: H1157
-    proximity: 0.7931
+    lemma: בְּעַד
+    gloss: in up to or over against {openscriptures-strongs}
+    proximity: 0.7931 {macula-proximity}
     language: hebrew
   - strongs: H2424
-    proximity: 0.7898
+    lemma: חַיּוּת
+    gloss: life {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

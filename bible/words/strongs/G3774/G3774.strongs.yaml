@@ -5,53 +5,66 @@ transliteration: Ourías
 definition: Urias (i.e. Urijah), a Hittite
 kjv_usage: Urias
 derivation: of Hebrew origin (H0223);
-extended_definition:
-  gloss: Uriah
-  definition: '<b>Οὐρίας</b>, -ου, ὁ (Heb. אוּרִיָּה), <BR /> <b>Uriah</b>: <ref=''Mat.1.6.''>Mat.1:6.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Οὐρίας</b>, -ου, ὁ (Heb. אוּרִיָּה), <BR /> <b>Uriah</b>: <ref=''Mat.1.6.''>Mat.1:6.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Οὐρίας, -ου, ὁ (Heb. אוּרִיָּה),
+
+  Uriah: Mat.1:6.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Οὐρίας, -ου, ὁ (Heb. אוּרִיָּה),
+
+  Uriah: Mat.1:6.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3828
-    proximity: 0.8297
+    lemma: Παμφυλία
+    gloss: every-tribal {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: A2148a
-    proximity: 0.8267
+    proximity: 0.8267 {macula-proximity}
   - strongs: G4540
-    proximity: 0.8259
+    lemma: Σαμάρεια
+    gloss: Samaria {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: G3137
-    proximity: 0.8213
+    lemma: Μαρία
+    gloss: Maria or Mariam {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
   - strongs: G3137a
-    proximity: 0.8211
+    proximity: 0.8211 {macula-proximity}
   - strongs: G9
-    proximity: 0.8206
+    proximity: 0.8206 {macula-proximity}
   - strongs: G1056
-    proximity: 0.8203
+    lemma: Γαλιλαία
+    gloss: Galilæa {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: G4542
-    proximity: 0.8202
+    lemma: Σαμαρεῖτις
+    gloss: a Samaritess {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   cross_language:
   - strongs: H3817
-    proximity: 0.8271
+    lemma: לְאֻמִּים
+    gloss: Leum mim {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: hebrew
   - strongs: H692
-    proximity: 0.8261
+    proximity: 0.8261 {macula-proximity}
     language: hebrew
   - strongs: H1555
-    proximity: 0.8241
+    lemma: גׇּלְיַת
+    gloss: Goljath {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: hebrew
   - strongs: H1284
-    proximity: 0.8239
+    lemma: בְּרִיעִי
+    gloss: a Beriite  or descendants of Beriah {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: hebrew
   - strongs: H1283
-    proximity: 0.8235
+    lemma: בְּרִיעָה
+    gloss: Beriah {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

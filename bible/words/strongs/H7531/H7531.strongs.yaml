@@ -9,16 +9,19 @@ derivation: feminine of H7529 (רֶצֶף);
 related_words:
   synonyms:
   - strongs: H68
-    proximity: 0.8253
+    proximity: 0.8253 {macula-proximity}
   - strongs: H3843
-    proximity: 0.8227
+    lemma: לְבֵנָה
+    gloss: a brick {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H4404
-    proximity: 0.7661
+    lemma: מַלְבֵּן
+    gloss: a brickkiln {openscriptures-strongs}
+    proximity: 0.7661 {macula-proximity}
   cross_language:
   - strongs: G4075
-    proximity: 0.8216
+    lemma: πετρώδης
+    gloss: rock-like {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,43 +6,50 @@ pronunciation: ro'-hab
 definition: pride
 kjv_usage: strength.
 derivation: from H7292 (רָהַב);
-extended_definition:
-  gloss: pride
-  definition: arrogance, pride, object of pride
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: arrogance, pride, object of pride {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2896
-    proximity: 0.8171
+    lemma: טוֹב
+    gloss: good  in the widest sense {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: A1467
-    proximity: 0.7847
+    proximity: 0.7847 {macula-proximity}
   - strongs: H4315
-    proximity: 0.7819
+    lemma: מֵיטָב
+    gloss: the best part {openscriptures-strongs}
+    proximity: 0.7819 {macula-proximity}
   - strongs: H907
-    proximity: 0.7798
+    proximity: 0.7798 {macula-proximity}
   - strongs: H1347
-    proximity: 0.7748
+    lemma: גָּאוֹן
+    gloss: '{arrogance or majesty {openscriptures-strongs}'
+    proximity: 0.7748 {macula-proximity}
   - strongs: H1344
-    proximity: 0.7722
+    lemma: גֵּאָה
+    gloss: arrogance {openscriptures-strongs}
+    proximity: 0.7722 {macula-proximity}
   cross_language:
   - strongs: G2620
-    proximity: 0.8243
+    lemma: κατακαυχάομαι
+    gloss: to exult against {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: greek
   - strongs: G2569
-    proximity: 0.8239
+    lemma: καλοποιέω
+    gloss: to do well {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G4284
-    proximity: 0.8194
+    lemma: προέχομαι
+    gloss: to hold oneself before others {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G2570
-    proximity: 0.8135
+    lemma: καλός
+    proximity: 0.8135 {macula-proximity}
     language: greek
   - strongs: G18
-    proximity: 0.8091
+    proximity: 0.8091 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

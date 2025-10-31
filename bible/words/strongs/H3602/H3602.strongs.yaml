@@ -6,41 +6,49 @@ pronunciation: kaw'-kaw
 definition: just so, referring to the previous or following context
 kjv_usage: after that (this) manner, this matter, (even) so, in such a case, thus.
 derivation: from H3541 (כֹּה);
-extended_definition:
-  gloss: thus
-  definition: like this, thus
-  morphology: H:Adv
-  source: STEPBible/BDB
+extended_definition: like this, thus {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1988
-    proximity: 0.8232
+    lemma: הֲלֹם
+    gloss: hither {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H4100
-    proximity: 0.8121
+    lemma: מָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H1961
-    proximity: 0.8099
+    lemma: הָיָה
+    gloss: to exist {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
   - strongs: A116
-    proximity: 0.8055
+    proximity: 0.8055 {macula-proximity}
   - strongs: A581
-    proximity: 0.8041
+    proximity: 0.8041 {macula-proximity}
   cross_language:
   - strongs: G3663
-    proximity: 0.8286
+    lemma: ὁμοιοπαθής
+    gloss: similarly affected {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G3665
-    proximity: 0.8234
+    lemma: ὁμοιότης
+    gloss: resemblance {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
     language: greek
   - strongs: G5101
-    proximity: 0.8202
+    lemma: τίς
+    gloss: an interrogative pronoun {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
     language: greek
   - strongs: G2532
-    proximity: 0.8197
+    lemma: καί
+    gloss: and {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
     language: greek
   - strongs: G5158
-    proximity: 0.8169
+    lemma: τρόπος
+    gloss: a turn {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

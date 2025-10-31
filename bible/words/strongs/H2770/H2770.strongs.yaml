@@ -6,26 +6,26 @@ pronunciation: kher-mashe'
 definition: a sickle (as cutting)
 kjv_usage: sickle.
 derivation: from H2763 (חָרַם);
-extended_definition:
-  gloss: sickle
-  definition: sickle
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: sickle {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4281
-    proximity: 0.7958
+    lemma: מַחֲרֵשָׁה
+    gloss: probably a pick-axe {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
   - strongs: H7105
-    proximity: 0.7559
+    lemma: קָצִיר
+    gloss: severed {openscriptures-strongs}
+    proximity: 0.7559 {macula-proximity}
   cross_language:
   - strongs: G2327
-    proximity: 0.7942
+    lemma: θεριστής
+    gloss: a harvester {openscriptures-strongs}
+    proximity: 0.7942 {macula-proximity}
     language: greek
   - strongs: G2326
-    proximity: 0.7714
+    lemma: θερισμός
+    gloss: reaping {openscriptures-strongs}
+    proximity: 0.7714 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

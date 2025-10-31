@@ -6,41 +6,54 @@ pronunciation: kish-rone'
 definition: success, advantage
 kjv_usage: equity, good, right.
 derivation: from H3787 (כָּשֵׁר);
-extended_definition:
-  gloss: skill
-  definition: 1) success, skill, profit<br>1a) skill<br>1b) success, profit
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) success, skill, profit
+
+  1a) skill
+
+  1b) success, profit {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4315
-    proximity: 0.8274
+    lemma: מֵיטָב
+    gloss: the best part {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H8394
-    proximity: 0.8269
+    lemma: תָּבוּן
+    gloss: intelligence {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
   - strongs: H5532
-    proximity: 0.8142
+    lemma: סָכַן
+    gloss: to be familiar with {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: H2896
-    proximity: 0.7998
+    lemma: טוֹב
+    gloss: good  in the widest sense {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
   - strongs: H3148
-    proximity: 0.7414
+    lemma: יוֹתֵר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7414 {macula-proximity}
   cross_language:
   - strongs: G2771
-    proximity: 0.8261
+    lemma: κέρδος
+    gloss: gain {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: greek
   - strongs: G5539
-    proximity: 0.8239
+    lemma: χρήσιμος
+    gloss: serviceable {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: greek
   - strongs: G2570
-    proximity: 0.8173
+    lemma: καλός
+    proximity: 0.8173 {macula-proximity}
     language: greek
   - strongs: G2909
-    proximity: 0.8066
+    lemma: κρείττων
+    gloss: stronger {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
     language: greek
   - strongs: G890
-    proximity: 0.8057
+    proximity: 0.8057 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

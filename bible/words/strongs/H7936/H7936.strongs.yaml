@@ -11,20 +11,27 @@ derivation: or (by permutation) סָכַר; (Ezra 4:5), a primitive root (appare
 related_words:
   synonyms:
   - strongs: H4242
-    proximity: 0.8249
+    lemma: מְחִיר
+    gloss: price {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
   - strongs: H4909
-    proximity: 0.7768
+    lemma: מַשְׂכֹּרֶת
+    gloss: wages or a reward {openscriptures-strongs}
+    proximity: 0.7768 {macula-proximity}
   - strongs: H7809
-    proximity: 0.7738
+    lemma: שָׁחַד
+    gloss: to donate {openscriptures-strongs}
+    proximity: 0.7738 {macula-proximity}
   - strongs: H7810
-    proximity: 0.7545
+    lemma: שַׁחַד
+    gloss: a donation {openscriptures-strongs}
+    proximity: 0.7545 {macula-proximity}
   - strongs: H868
-    proximity: 0.734
+    proximity: 0.734 {macula-proximity}
   cross_language:
   - strongs: G3408
-    proximity: 0.8284
+    lemma: μισθός
+    gloss: pay for service {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

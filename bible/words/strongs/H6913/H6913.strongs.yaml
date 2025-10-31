@@ -6,36 +6,40 @@ pronunciation: keh'-ber
 definition: a sepulchre
 kjv_usage: burying place, grave, sepulchre.
 derivation: or (feminine) קִבְרָה; from H6912 (קָבַר);
-extended_definition:
-  gloss: grave
-  definition: grave, sepulchre, tomb
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: grave, sepulchre, tomb {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6731a
-    proximity: 0.8259
+    proximity: 0.8259 {macula-proximity}
   - strongs: H953
-    proximity: 0.7483
+    proximity: 0.7483 {macula-proximity}
   - strongs: H7845
-    proximity: 0.7339
+    lemma: שַׁחַת
+    gloss: a pit {openscriptures-strongs}
+    proximity: 0.7339 {macula-proximity}
   - strongs: H4725
-    proximity: 0.7281
+    lemma: מָקוֹם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7281 {macula-proximity}
   cross_language:
   - strongs: G1780
-    proximity: 0.8295
+    lemma: ἐνταφιασμός
+    gloss: preparation for interment {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G5117
-    proximity: 0.8212
+    lemma: τόπος
+    gloss: a spot (general in space {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
     language: greek
   - strongs: G4792
-    proximity: 0.803
+    lemma: συγκομίζω
+    gloss: to convey together {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
     language: greek
   - strongs: G2290
-    proximity: 0.7219
+    lemma: θάπτω
+    gloss: to celebrate funeral rites {openscriptures-strongs}
+    proximity: 0.7219 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

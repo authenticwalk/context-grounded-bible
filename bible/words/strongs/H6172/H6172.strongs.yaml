@@ -7,51 +7,67 @@ definition: nudity, literally (especially the pudenda) or figuratively (disgrace
   blemish)
 kjv_usage: nakedness, shame, unclean(-ness).
 derivation: from H6168 (עָרָה);
-extended_definition:
-  gloss: nakedness
-  definition: '1) nakedness, nudity, shame, pudenda<br>1a) pudenda (implying shameful
-    exposure)<br>1b) nakedness of a thing, indecency, improper behaviour<br>1c) exposed,
-    undefended (fig.)<BR>Aramaic equivalent: <i>ar.vah</i> (עַרְוָה "dishonor" H6173)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) nakedness, nudity, shame, pudenda
+
+  1a) pudenda (implying shameful exposure)
+
+  1b) nakedness of a thing, indecency, improper behaviour
+
+  1c) exposed, undefended (fig.)
+
+  Aramaic equivalent: ar.vah (עַרְוָה "dishonor" H6173) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2931
-    proximity: 0.8148
+    lemma: טָמֵא
+    gloss: foul in a religious sense {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: A1655
-    proximity: 0.8144
+    proximity: 0.8144 {macula-proximity}
   - strongs: H6675
-    proximity: 0.8053
+    lemma: צוֹאָה
+    gloss: excrement {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H7036
-    proximity: 0.803
+    lemma: קָלוֹן
+    gloss: disgrace {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
   - strongs: H3640
-    proximity: 0.7984
+    lemma: כְּלִמּוּת
+    gloss: disgrace {openscriptures-strongs}
+    proximity: 0.7984 {macula-proximity}
   - strongs: H1317
-    proximity: 0.7937
+    lemma: בׇּשְׁנָה
+    gloss: shamefulness {openscriptures-strongs}
+    proximity: 0.7937 {macula-proximity}
   - strongs: H3639
-    proximity: 0.7912
+    lemma: כְּלִמָּה
+    gloss: disgrace {openscriptures-strongs}
+    proximity: 0.7912 {macula-proximity}
   - strongs: H2781
-    proximity: 0.7876
+    lemma: חֶרְפָּה
+    gloss: contumely {openscriptures-strongs}
+    proximity: 0.7876 {macula-proximity}
   - strongs: H954
-    proximity: 0.7859
+    proximity: 0.7859 {macula-proximity}
   cross_language:
   - strongs: G167
-    proximity: 0.8276
+    proximity: 0.8276 {macula-proximity}
     language: greek
   - strongs: G3196
-    proximity: 0.826
+    lemma: μέλος
+    gloss: a limb or part of the body {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
     language: greek
   - strongs: G2192
-    proximity: 0.8156
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
     language: greek
   - strongs: G819
-    proximity: 0.81
+    proximity: 0.81 {macula-proximity}
     language: greek
   - strongs: G152
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

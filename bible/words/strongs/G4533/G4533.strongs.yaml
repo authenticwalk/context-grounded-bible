@@ -5,46 +5,54 @@ transliteration: Salmṓn
 definition: Salmon, an Israelite
 kjv_usage: Salmon
 derivation: of Hebrew origin (H08012);
-extended_definition:
-  gloss: Salmon
-  definition: '<b>Σαλμών</b>, ὁ indecl. (Heb. שַׂלְמוֹן), <BR /> <b>Salmon</b>: <ref=''Mat.1.4-5''>Mat.1:4-5</ref>,
-    <ref=''Luk.3.32''>Luk.3:32</ref> (Σαλά, WH, R, mg.).†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Σαλμών</b>, ὁ indecl. (Heb. שַׂלְמוֹן), <BR /> <b>Salmon</b>:
-    <ref=''Mat.1.4-5''>Mat.1:4-5</ref>, <ref=''Luk.3.32''>Luk.3:32</ref> (Σαλά, WH,
-    R, mg.).†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Σαλμών, ὁ indecl. (Heb. שַׂלְמוֹן),
+
+  Salmon: Mat.1:4-5, Luk.3:32 (Σαλά, WH, R, mg.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Σαλμών, ὁ indecl. (Heb. שַׂלְמוֹן),
+
+  Salmon: Mat.1:4-5, Luk.3:32 (Σαλά, WH, R, mg.).†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A7598
-    proximity: 0.804
+    proximity: 0.804 {macula-proximity}
   - strongs: G4528
-    proximity: 0.8028
+    lemma: Σαλαθιήλ
+    gloss: Salathiel {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
   - strongs: G2976
-    proximity: 0.7949
+    lemma: Λάζαρος
+    gloss: Lazarus {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
   - strongs: G4564
-    proximity: 0.744
+    lemma: Σάῤῥα
+    gloss: Sarra {openscriptures-strongs}
+    proximity: 0.744 {macula-proximity}
   cross_language:
   - strongs: H8072
-    proximity: 0.8291
+    lemma: שַׂמְלָה
+    gloss: Samlah {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
     language: hebrew
   - strongs: H495
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
     language: hebrew
   - strongs: H2769
-    proximity: 0.8272
+    lemma: חֶרְמוֹנִים
+    gloss: Hermons {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: hebrew
   - strongs: H3480
-    proximity: 0.8246
+    lemma: יְשַׂרְאֵלָה
+    gloss: Jesarelah {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
     language: hebrew
   - strongs: H7597
-    proximity: 0.8017
+    lemma: שְׁאַלְתִּיאֵל
+    gloss: Shealtiel {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

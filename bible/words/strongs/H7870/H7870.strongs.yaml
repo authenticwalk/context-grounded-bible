@@ -6,32 +6,34 @@ pronunciation: shee-baw'
 definition: a return (of property)
 kjv_usage: captivity.
 derivation: by permutation from H7725 (שׁוּב);
-extended_definition:
-  gloss: captivity
-  definition: restoration
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: restoration {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1540
-    proximity: 0.7976
+    lemma: גָּלָה
+    gloss: to denude {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: H7617
-    proximity: 0.7548
+    lemma: שָׁבָה
+    gloss: to transport into captivity {openscriptures-strongs}
+    proximity: 0.7548 {macula-proximity}
   cross_language:
   - strongs: G3391
-    proximity: 0.8207
+    lemma: μία
+    gloss: one or first {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
     language: greek
   - strongs: G162
-    proximity: 0.8035
+    proximity: 0.8035 {macula-proximity}
     language: greek
   - strongs: G1520
-    proximity: 0.7914
+    lemma: εἷς
+    gloss: one {openscriptures-strongs}
+    proximity: 0.7914 {macula-proximity}
     language: greek
   - strongs: G4812
-    proximity: 0.7673
+    lemma: συλαγωγέω
+    gloss: to lead away as booty {openscriptures-strongs}
+    proximity: 0.7673 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

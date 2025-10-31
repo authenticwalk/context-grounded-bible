@@ -6,51 +6,69 @@ pronunciation: gheb-eer'
 definition: a master
 kjv_usage: lord.
 derivation: from H1396 (גָּבַר);
-extended_definition:
-  gloss: lord
-  definition: lord, ruler
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: lord, ruler {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7218
-    proximity: 0.8268
+    lemma: רֹאשׁ
+    gloss: the head {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: H8269
-    proximity: 0.8243
+    lemma: שַׂר
+    gloss: a head person {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: H3050
-    proximity: 0.7966
+    lemma: יָהּ
+    gloss: Jah {openscriptures-strongs}
+    proximity: 0.7966 {macula-proximity}
   - strongs: H1172
-    proximity: 0.7947
+    lemma: בַּעֲלָה
+    gloss: a mistress {openscriptures-strongs}
+    proximity: 0.7947 {macula-proximity}
   - strongs: H3068
-    proximity: 0.7917
+    lemma: יְהֹוָה
+    gloss: Jehovah {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
   - strongs: H4910
-    proximity: 0.7712
+    lemma: מָשַׁל
+    gloss: to rule {openscriptures-strongs}
+    proximity: 0.7712 {macula-proximity}
   - strongs: A4756
-    proximity: 0.744
+    proximity: 0.744 {macula-proximity}
   - strongs: H1167
-    proximity: 0.7419
+    lemma: בַּעַל
+    gloss: a master {openscriptures-strongs}
+    proximity: 0.7419 {macula-proximity}
   - strongs: H136
-    proximity: 0.7321
+    proximity: 0.7321 {macula-proximity}
   - strongs: H1166
-    proximity: 0.7074
+    lemma: בָּעַל
+    gloss: to be master {openscriptures-strongs}
+    proximity: 0.7074 {macula-proximity}
   cross_language:
   - strongs: G1850
-    proximity: 0.8253
+    lemma: ἐξουσιάζω
+    gloss: to control {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
     language: greek
   - strongs: G1018
-    proximity: 0.8192
+    lemma: βραβεύω
+    gloss: to arbitrate {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
     language: greek
   - strongs: G2963
-    proximity: 0.7751
+    lemma: κυριότης
+    gloss: mastery {openscriptures-strongs}
+    proximity: 0.7751 {macula-proximity}
     language: greek
   - strongs: G1988
-    proximity: 0.7296
+    lemma: ἐπιστάτης
+    gloss: an appointee over {openscriptures-strongs}
+    proximity: 0.7296 {macula-proximity}
     language: greek
   - strongs: G2960
-    proximity: 0.7101
+    lemma: κυριακός
+    gloss: belonging to the Lord {openscriptures-strongs}
+    proximity: 0.7101 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

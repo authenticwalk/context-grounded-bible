@@ -6,47 +6,59 @@ pronunciation: khah-yooth'
 definition: life
 kjv_usage: '[idiom] living.'
 derivation: from H2421 (חָיָה);
-extended_definition:
-  gloss: living
-  definition: living
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: living {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1320
-    proximity: 0.8265
+    lemma: בָּשָׂר
+    gloss: flesh {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H2416c
-    proximity: 0.82
+    proximity: 0.82 {macula-proximity}
   - strongs: H7931
-    proximity: 0.8118
+    lemma: שָׁכַן
+    gloss: to reside or permanently stay {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
   - strongs: H1980
-    proximity: 0.8083
+    lemma: הָלַךְ
+    gloss: to walk (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
   - strongs: H5315
-    proximity: 0.7989
+    lemma: נֶפֶשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
   - strongs: H3427
-    proximity: 0.797
+    lemma: יָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.797 {macula-proximity}
   - strongs: A4070
-    proximity: 0.7847
+    proximity: 0.7847 {macula-proximity}
   - strongs: A1321
-    proximity: 0.7519
+    proximity: 0.7519 {macula-proximity}
   cross_language:
   - strongs: G5590
-    proximity: 0.8297
+    lemma: ψυχή
+    gloss: breath {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G2225
-    proximity: 0.8159
+    lemma: ζωογονέω
+    gloss: to engender alive {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
     language: greek
   - strongs: G4198
-    proximity: 0.8049
+    lemma: πορεύομαι
+    gloss: to traverse {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
     language: greek
   - strongs: G4043
-    proximity: 0.8027
+    lemma: περιπατέω
+    gloss: to tread all around {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
     language: greek
   - strongs: G2688
-    proximity: 0.8005
+    lemma: κατάστημα
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8005 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

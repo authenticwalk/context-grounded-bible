@@ -6,43 +6,53 @@ pronunciation: mish-aw-law'
 definition: a request
 kjv_usage: desire, petition.
 derivation: from H7592 (שָׁאַל);
-extended_definition:
-  gloss: petition
-  definition: request, petition, desire
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: request, petition, desire {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A1159
-    proximity: 0.8237
+    proximity: 0.8237 {macula-proximity}
   - strongs: H3820
-    proximity: 0.82
+    lemma: לֵב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
   - strongs: A6634
-    proximity: 0.8168
+    proximity: 0.8168 {macula-proximity}
   - strongs: H3824
-    proximity: 0.8093
+    lemma: לֵבָב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.8093 {macula-proximity}
   - strongs: H8469
-    proximity: 0.8088
+    lemma: תַּחֲנוּן
+    gloss: earnest prayer {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
   - strongs: H7522
-    proximity: 0.8084
+    lemma: רָצוֹן
+    gloss: delight {openscriptures-strongs}
+    proximity: 0.8084 {macula-proximity}
   cross_language:
   - strongs: G2428
-    proximity: 0.8278
+    lemma: ἱκετηρία
+    gloss: intreaty {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G3715
-    proximity: 0.8243
+    lemma: ὄρεξις
+    gloss: excitement of the mind {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: greek
   - strongs: G3868
-    proximity: 0.8221
+    lemma: παραιτέομαι
+    gloss: to beg off {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
     language: greek
   - strongs: G4289
-    proximity: 0.8197
+    lemma: πρόθυμος
+    gloss: forward in spirit {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
     language: greek
   - strongs: G1014
-    proximity: 0.8185
+    lemma: βούλομαι
+    gloss: to "will {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

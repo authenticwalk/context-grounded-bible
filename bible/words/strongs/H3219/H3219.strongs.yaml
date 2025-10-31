@@ -6,33 +6,37 @@ pronunciation: yal-koot'
 definition: a travelling pouch (as if for gleanings)
 kjv_usage: scrip.
 derivation: from H3950 (לָקַט);
-extended_definition:
-  gloss: pouch
-  definition: wallet, purse, pouch, bag, receptacle
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: wallet, purse, pouch, bag, receptacle {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H178a
-    proximity: 0.809
+    proximity: 0.809 {macula-proximity}
   - strongs: H4760
-    proximity: 0.8056
+    lemma: מֻרְאָה
+    gloss: something conspicuous {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H827
-    proximity: 0.8031
+    proximity: 0.8031 {macula-proximity}
   - strongs: H2573
-    proximity: 0.8018
+    lemma: חֵמֶת
+    gloss: a skin bottle {openscriptures-strongs}
+    proximity: 0.8018 {macula-proximity}
   - strongs: H4997
-    proximity: 0.7833
+    lemma: נֹאד
+    gloss: a  bag {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
   - strongs: H4901
-    proximity: 0.7401
+    lemma: מֶשֶׁךְ
+    gloss: a sowing {openscriptures-strongs}
+    proximity: 0.7401 {macula-proximity}
   - strongs: H2754
-    proximity: 0.7153
+    lemma: חָרִיט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7153 {macula-proximity}
   cross_language:
   - strongs: G4082
-    proximity: 0.8168
+    lemma: πήρα
+    gloss: a wallet or leather pouch for food {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

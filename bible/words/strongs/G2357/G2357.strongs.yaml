@@ -5,37 +5,36 @@ transliteration: thrēskós
 definition: ceremonious in worship (as demonstrative), i.e. pious
 kjv_usage: religious
 derivation: probably from the base of G2360 (θροέω);
-extended_definition:
-  gloss: religious
-  definition: '<b>θρῆσκος</b><BR /> (-κός, WH), -ον, ό <BR />religious, careful of
-    the outward forms of divine service (see previous word)): <ref=''Jas.1.26.''>Jas.1:26.</ref>†<BR
-    /> <re><i>SYN.</i>: εὐσεβής, θεοσεβής, δεισιδαίμων (see Tr., <i>Syn.</i>, § xlviii)
-    </re> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> θρῆσκ-ος</b>, ον, <br /> <b>religious,</b> [<a href="javascript:void(0)"
-    title="NT.Jam.1.26">NT</a>]; in bad sense, <b>superstitious</b>, [<a href="javascript:void(0)"
-    title=" 5th c.AD(?): Hesychius Legal icographus (5th c.AD(?): Hesychius Legal
-    icographus ">Refs 5th c.AD+</a>] has also <b>θρεσκός.</b>)'
-  source: STEPBible/LSJ
+extended_definition: 'θρῆσκος
+
+  (-κός, WH), -ον, ό
+
+  religious, careful of the outward forms of divine service (see previous word)):
+  Jas.1:26.†
+
+  SYN.: εὐσεβής, θεοσεβής, δεισιδαίμων (see Tr., Syn., § xlviii)  (AS) {STEPBible-TBESG}'
+etymology: 'θρῆσκ-ος, ον,
+
+  religious, [NT]; in bad sense, superstitious, [Refs 5th c.AD+] has also θρεσκός.)
+  {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2207
-    proximity: 0.8242
+    lemma: ζηλωτής
+    gloss: a "zealot" {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: G765
-    proximity: 0.7915
+    proximity: 0.7915 {macula-proximity}
   - strongs: G1174a
-    proximity: 0.7439
+    proximity: 0.7439 {macula-proximity}
   - strongs: G2150
-    proximity: 0.7374
+    lemma: εὐσέβεια
+    gloss: piety {openscriptures-strongs}
+    proximity: 0.7374 {macula-proximity}
   cross_language:
   - strongs: H6941
-    proximity: 0.7338
+    lemma: קְדֹרַנִּית
+    gloss: blackish ones {openscriptures-strongs}
+    proximity: 0.7338 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -9,27 +9,38 @@ derivation: for H3225 (יָמִין);
 related_words:
   synonyms:
   - strongs: H3409
-    proximity: 0.8195
+    lemma: יָרֵךְ
+    gloss: the thigh {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.8025
+    proximity: 0.8025 {macula-proximity}
   - strongs: H3802
-    proximity: 0.756
+    lemma: כָּתֵף
+    gloss: the shoulder (proper {openscriptures-strongs}
+    proximity: 0.756 {macula-proximity}
   - strongs: H5045
-    proximity: 0.7142
+    lemma: נֶגֶב
+    gloss: the south {openscriptures-strongs}
+    proximity: 0.7142 {macula-proximity}
   cross_language:
   - strongs: G1751
-    proximity: 0.8194
+    lemma: ἔνειμι
+    gloss: to be within {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G1005
-    proximity: 0.8194
+    lemma: βοῤῥᾶς
+    gloss: the north (properly {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G1857
-    proximity: 0.8194
+    lemma: ἐξώτερος
+    gloss: exterior {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G3558
-    proximity: 0.7424
+    lemma: νότος
+    gloss: the south wind {openscriptures-strongs}
+    proximity: 0.7424 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

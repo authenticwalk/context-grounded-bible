@@ -6,27 +6,25 @@ pronunciation: saw-raw'
 definition: a mistress, i.e. female noble
 kjv_usage: lady, princess, queen.
 derivation: feminine of H8269 (שַׂר);
-extended_definition:
-  gloss: princess
-  definition: princess, noblewoman, noble lady
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: princess, noblewoman, noble lady {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2524
-    proximity: 0.8213
+    lemma: חָם
+    gloss: a father-in-law {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
   - strongs: A7695
-    proximity: 0.8144
+    proximity: 0.8144 {macula-proximity}
   - strongs: H5291
-    proximity: 0.8141
+    lemma: נַעֲרָה
+    gloss: a girl {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: A4433
-    proximity: 0.7435
+    proximity: 0.7435 {macula-proximity}
   cross_language:
   - strongs: G2959
-    proximity: 0.8105
+    lemma: Κυρία
+    gloss: Cyria {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

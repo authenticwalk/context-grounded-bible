@@ -7,50 +7,72 @@ definition: to waver; by implication, to slip, shake, fall
 kjv_usage: be carried, cast, be out of course, be fallen in decay, [idiom] exceedingly,
   fall(-ing down), be (re-) moved, be ready, shake, slide, slip.
 derivation: a primitive root;
-extended_definition:
-  gloss: to shake
-  definition: 1) to totter, shake, slip<br>1a) (Qal) to totter, shake, slip<br>1b)
-    (Niphal) to be shaken, be moved, be overthrown<br>1c) (Hiphil) to dislodge, let
-    fall, drop<br>1d) (Hithpael) to be greatly shaken
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to totter, shake, slip
+
+  1a) (Qal) to totter, shake, slip
+
+  1b) (Niphal) to be shaken, be moved, be overthrown
+
+  1c) (Hiphil) to dislodge, let fall, drop
+
+  1d) (Hithpael) to be greatly shaken {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4493
-    proximity: 0.8238
+    lemma: מָנוֹד
+    gloss: a nodding or toss {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H7494
-    proximity: 0.8159
+    lemma: רַעַשׁ
+    gloss: vibration {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H4383
-    proximity: 0.8152
+    lemma: מִכְשׁוֹל
+    gloss: a stumbling-block {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: H1949
-    proximity: 0.812
+    lemma: הוּם
+    gloss: to make an uproar {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: H4127
-    proximity: 0.808
+    lemma: מוּג
+    gloss: to melt {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
   - strongs: H7322a
-    proximity: 0.8005
+    proximity: 0.8005 {macula-proximity}
   - strongs: H3783
-    proximity: 0.7989
+    lemma: כִּשָּׁלוֹן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
   - strongs: H4185
-    proximity: 0.7947
+    lemma: מוּשׁ
+    gloss: to withdraw (both literally and figuratively {openscriptures-strongs}
+    proximity: 0.7947 {macula-proximity}
   - strongs: H6206
-    proximity: 0.7889
+    lemma: עָרַץ
+    gloss: to awe or  to dread {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
   - strongs: H5472
-    proximity: 0.7831
+    lemma: סוּג
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7831 {macula-proximity}
   cross_language:
   - strongs: G4578
-    proximity: 0.8212
+    lemma: σεισμός
+    gloss: a commotion {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
     language: greek
   - strongs: G2275
-    proximity: 0.809
+    lemma: ἥττημα
+    gloss: a deterioration {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
     language: greek
   - strongs: G4098
-    proximity: 0.791
+    lemma: πίπτω
+    gloss: to fall {openscriptures-strongs}
+    proximity: 0.791 {macula-proximity}
     language: greek
   - strongs: G186
-    proximity: 0.7859
+    proximity: 0.7859 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

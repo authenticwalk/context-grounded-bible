@@ -5,50 +5,54 @@ transliteration: proenárchomai
 definition: to commence already
 kjv_usage: begin (before)
 derivation: from G4253 (πρό) and G1728 (ἐνάρχομαι);
-extended_definition:
-  gloss: to begin beforehand
-  definition: '<b>προ-ενάρχομαι </b><BR /> <b>to begin before</b>: <ref=''2Co.8.6''>2Co.8:6;</ref>
-    with accusative, τὸ θέλειν, <ref=''2Co.8.10''>2Co.8:10</ref> (not elsewhere).†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> προεν-άρχομαι</b>, <br /> <b>begin before,</b> [<a href="javascript:void(0)"
-    title=" NT.2Cor.8.6, 10. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'προ-ενάρχομαι
+
+  to begin before: 2Co.8:6; with accusative, τὸ θέλειν, 2Co.8:10 (not elsewhere).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'προεν-άρχομαι,
+
+  begin before, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1232
-    proximity: 0.8259
+    lemma: διαγνωρίζω
+    gloss: to tell abroad {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8249
+    proximity: 0.8249 {macula-proximity}
   - strongs: G3588
-    proximity: 0.8226
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: G4412
-    proximity: 0.8121
+    lemma: πρῶτον
+    gloss: firstly (in time {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: G321
-    proximity: 0.7949
+    proximity: 0.7949 {macula-proximity}
   - strongs: G746
-    proximity: 0.7009
+    proximity: 0.7009 {macula-proximity}
   cross_language:
   - strongs: H3807a
-    proximity: 0.8268
+    proximity: 0.8268 {macula-proximity}
     language: hebrew
   - strongs: H413
-    proximity: 0.8253
+    proximity: 0.8253 {macula-proximity}
     language: hebrew
   - strongs: H2974
-    proximity: 0.8092
+    lemma: יָאַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
     language: hebrew
   - strongs: H7225
-    proximity: 0.7282
+    lemma: רֵאשִׁית
+    gloss: the first {openscriptures-strongs}
+    proximity: 0.7282 {macula-proximity}
     language: hebrew
   - strongs: H7223
-    proximity: 0.7276
+    lemma: רִאשׁוֹן
+    gloss: first {openscriptures-strongs}
+    proximity: 0.7276 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

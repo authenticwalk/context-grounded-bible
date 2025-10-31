@@ -5,43 +5,41 @@ transliteration: logía
 definition: a contribution
 kjv_usage: collection, gathering
 derivation: from G3056 (λόγος) (in the commercial sense);
-extended_definition:
-  gloss: collection
-  definition: '<b>λογία</b> <BR /> (prop., -εία, see BS, 142 ff.), -ας, ἡ (λογεύω,
-    to collect, a word found in π., see Deiss., BS, l.with; <i>LAE</i>, 70, 103; MM,
-    xvi), <BR /><b>a collection</b>: <ref=''1Co.16.1-2.''>1Co.16:1-2.</ref>†<BR />
-    (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> λογ-εία</b>, ἡ, <br /> <b>collection</b> of taxes or voluntary
-    contributions, [<a href="javascript:void(0)" title=" “PHib.” 1.51.2 (iii 5th c.BC:
-    Bacchylides Lyricus C), “PTeb.” 58.55 (2nd c.BC), “POxy.” 239.8 (1st c.AD)">Refs
-    5th c.BC+</a>]; <b>collection</b> for charity, [<a href="javascript:void(0)" title="
-    NT.1Cor.16.1, 5th c.AD(?): Hesychius Legal icographus ">NT+5th c.AD+</a>]; for
-    religious purposes, [<a href="javascript:void(0)" title=" “GDI” 4156 (from Lindos),
-    “PSI” 2.262.3 (1st c.AD)">Refs 1st c.AD+</a>]; <b>perquisite,</b> [<a href="javascript:void(0)"
-    title=" PPar. 5xxvii 6 (2nd c.BC). ">Refs 2nd c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'λογία
+
+  (prop., -εία, see BS, 142 ff.), -ας, ἡ (λογεύω, to collect, a word found in π.,
+  see Deiss., BS, l.with; LAE, 70, 103; MM, xvi),
+
+  a collection: 1Co.16:1-2.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'λογ-εία, ἡ,
+
+  collection of taxes or voluntary contributions, [Refs 5th c.BC+]; collection for
+  charity, [NT+5th c.AD+]; for religious purposes, [Refs 1st c.AD+]; perquisite, [Refs
+  2nd c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4962
-    proximity: 0.8193
+    lemma: συστρέφω
+    gloss: to twist together {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: G1395
-    proximity: 0.7569
+    lemma: δότης
+    gloss: a giver {openscriptures-strongs}
+    proximity: 0.7569 {macula-proximity}
   cross_language:
   - strongs: H4864
-    proximity: 0.7884
+    lemma: מַשְׂאֵת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7884 {macula-proximity}
     language: hebrew
   - strongs: H6910
-    proximity: 0.7708
+    lemma: קְבֻצָה
+    gloss: a hoard {openscriptures-strongs}
+    proximity: 0.7708 {macula-proximity}
     language: hebrew
   - strongs: H103
-    proximity: 0.7579
+    proximity: 0.7579 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

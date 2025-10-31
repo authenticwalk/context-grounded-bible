@@ -6,49 +6,65 @@ pronunciation: haw-gooth'
 definition: musing
 kjv_usage: meditation.
 derivation: from H1897 (הָגָה);
-extended_definition:
-  gloss: meditation
-  definition: meditation, utterance, musing
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: meditation, utterance, musing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1902
-    proximity: 0.8199
+    lemma: הִגָּיוֹן
+    gloss: a murmuring sound {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H4284
-    proximity: 0.8197
+    lemma: מַחֲשָׁבָה
+    gloss: a contrivance {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
   - strongs: H2142
-    proximity: 0.8133
+    lemma: זָכַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   - strongs: H2810
-    proximity: 0.8125
+    lemma: חִשָּׁבוֹן
+    gloss: a contrivance {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: H6098a
-    proximity: 0.8102
+    proximity: 0.8102 {macula-proximity}
   - strongs: H2808
-    proximity: 0.7964
+    lemma: חֶשְׁבּוֹן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7964 {macula-proximity}
   - strongs: H7879
-    proximity: 0.7813
+    lemma: שִׂיחַ
+    gloss: a contemplation {openscriptures-strongs}
+    proximity: 0.7813 {macula-proximity}
   - strongs: H5587a
-    proximity: 0.7653
+    proximity: 0.7653 {macula-proximity}
   - strongs: H3336
-    proximity: 0.7552
+    lemma: יֵצֶר
+    gloss: a form {openscriptures-strongs}
+    proximity: 0.7552 {macula-proximity}
   cross_language:
   - strongs: G2657
-    proximity: 0.8235
+    lemma: κατανοέω
+    gloss: to observe fully {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: greek
   - strongs: G4820
-    proximity: 0.8225
+    lemma: συμβάλλω
+    gloss: to combine {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
   - strongs: G3191
-    proximity: 0.8202
+    lemma: μελετάω
+    gloss: to take care of {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
     language: greek
   - strongs: G1973
-    proximity: 0.8125
+    lemma: ἐπιπόθητος
+    gloss: yearned upon {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G1261
-    proximity: 0.8043
+    lemma: διαλογισμός
+    gloss: discussion {openscriptures-strongs}
+    proximity: 0.8043 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

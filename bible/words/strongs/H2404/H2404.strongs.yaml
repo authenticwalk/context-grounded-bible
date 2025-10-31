@@ -6,43 +6,58 @@ pronunciation: khaw-tab'
 definition: to chop or carve wood
 kjv_usage: cut down, hew(-er), polish.
 derivation: a primitive root;
-extended_definition:
-  gloss: to chop
-  definition: 1) to cut, gather<br>1a) (Qal) to cut, gather (wood)<br>1b) (Pual) to
-    cut, carve
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to cut, gather
+
+  1a) (Qal) to cut, gather (wood)
+
+  1b) (Pual) to cut, carve {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1438
-    proximity: 0.8288
+    lemma: גָּדַע
+    gloss: to fell a tree {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: H3772
-    proximity: 0.8159
+    lemma: כָּרַת
+    gloss: to cut (off {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H6458
-    proximity: 0.8092
+    lemma: פָּסַל
+    gloss: to carve {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: H6086
-    proximity: 0.8062
+    lemma: עֵץ
+    gloss: a tree {openscriptures-strongs}
+    proximity: 0.8062 {macula-proximity}
   - strongs: H8456
-    proximity: 0.8049
+    lemma: תָּזַז
+    gloss: to lop off {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H5586
-    proximity: 0.8008
+    lemma: סָעַף
+    gloss: to disbranch {openscriptures-strongs}
+    proximity: 0.8008 {macula-proximity}
   - strongs: H7049a
-    proximity: 0.7993
+    proximity: 0.7993 {macula-proximity}
   - strongs: A7113
-    proximity: 0.7811
+    proximity: 0.7811 {macula-proximity}
   - strongs: H7995
-    proximity: 0.7741
+    lemma: שַׁלֶּכֶת
+    gloss: a felling {openscriptures-strongs}
+    proximity: 0.7741 {macula-proximity}
   - strongs: H1496
-    proximity: 0.7652
+    lemma: גָּזִית
+    gloss: something cut {openscriptures-strongs}
+    proximity: 0.7652 {macula-proximity}
   cross_language:
   - strongs: G1581
-    proximity: 0.8073
+    lemma: ἐκκόπτω
+    gloss: to exscind {openscriptures-strongs}
+    proximity: 0.8073 {macula-proximity}
     language: greek
   - strongs: G2998
-    proximity: 0.7487
+    lemma: λατομέω
+    gloss: to quarry {openscriptures-strongs}
+    proximity: 0.7487 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

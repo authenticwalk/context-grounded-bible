@@ -6,42 +6,49 @@ pronunciation: tif-sar'
 definition: a military governor
 kjv_usage: captain.
 derivation: of foreign derivation;
-extended_definition:
-  gloss: official
-  definition: scribe, official, marshal
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: scribe, official, marshal {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A1782
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
   - strongs: H2876
-    proximity: 0.814
+    lemma: טַבָּח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
   - strongs: H6635
-    proximity: 0.7937
+    lemma: צָבָא
+    gloss: a mass of persons (or figuratively {openscriptures-strongs}
+    proximity: 0.7937 {macula-proximity}
   - strongs: A671
-    proximity: 0.7882
+    proximity: 0.7882 {macula-proximity}
   - strongs: H8661
-    proximity: 0.7747
+    lemma: תַּרְתָּן
+    gloss: Tartan {openscriptures-strongs}
+    proximity: 0.7747 {macula-proximity}
   - strongs: H6346
-    proximity: 0.7468
+    lemma: פֶּחָה
+    gloss: a prefect {openscriptures-strongs}
+    proximity: 0.7468 {macula-proximity}
   - strongs: A7984
-    proximity: 0.7467
+    proximity: 0.7467 {macula-proximity}
   - strongs: H7860
-    proximity: 0.7431
+    lemma: שֹׁטֵר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7431 {macula-proximity}
   - strongs: H7227a
-    proximity: 0.7352
+    proximity: 0.7352 {macula-proximity}
   - strongs: H5461
-    proximity: 0.7144
+    lemma: סָגָן
+    gloss: a prefect of a province {openscriptures-strongs}
+    proximity: 0.7144 {macula-proximity}
   cross_language:
   - strongs: G4173
-    proximity: 0.8297
+    lemma: πολιτάρχης
+    gloss: a town-officer {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G1122
-    proximity: 0.7795
+    lemma: γραμματεύς
+    proximity: 0.7795 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

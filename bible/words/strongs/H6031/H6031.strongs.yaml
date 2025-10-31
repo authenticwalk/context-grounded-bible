@@ -14,32 +14,47 @@ derivation: a primitive root (possibly rather identical with H6030 (עָנָה) 
 related_words:
   synonyms:
   - strongs: H5999
-    proximity: 0.8248
+    lemma: עָמָל
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: H2470
-    proximity: 0.8187
+    lemma: חָלָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
   - strongs: H7492
-    proximity: 0.8171
+    lemma: רָעַץ
+    gloss: to break in pieces {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: H8437
-    proximity: 0.8141
+    lemma: תּוֹלָל
+    gloss: causing to howl {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: H6862
-    proximity: 0.8067
+    lemma: צַר
+    gloss: narrow {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   cross_language:
   - strongs: G3449
-    proximity: 0.828
+    lemma: μόχθος
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G5013
-    proximity: 0.8261
+    lemma: ταπεινόω
+    gloss: to depress {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: greek
   - strongs: G4841
-    proximity: 0.8226
+    lemma: συμπάσχω
+    gloss: to experience pain jointly or of the same kind (specially {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
     language: greek
   - strongs: G4310
-    proximity: 0.8206
+    lemma: προπάσχω
+    gloss: to undergo hardship previously {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G5391a
-    proximity: 0.8183
+    proximity: 0.8183 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

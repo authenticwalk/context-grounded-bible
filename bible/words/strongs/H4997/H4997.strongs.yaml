@@ -7,31 +7,39 @@ definition: a (skin or leather) bag (for fluids)
 kjv_usage: bottle.
 derivation: or נאוֹדlemma נֹאוד vowel, corrected to נאוֹדxlit nôʼwd corrected to nʼôwd;
   also (feminine) נֹאדָה; from an unused root of uncertain signification;
-extended_definition:
-  gloss: wineskin
-  definition: skin, bottle, skin-bottle
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: skin, bottle, skin-bottle {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6861
-    proximity: 0.8267
+    lemma: צִקְלֹן
+    gloss: a sack {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
   - strongs: H3599
-    proximity: 0.8001
+    lemma: כִּיס
+    gloss: a cup {openscriptures-strongs}
+    proximity: 0.8001 {macula-proximity}
   - strongs: H3219
-    proximity: 0.7833
+    lemma: יַלְקוּט
+    gloss: a travelling pouch {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
   - strongs: H6835
-    proximity: 0.7508
+    lemma: צַפַּחַת
+    gloss: a saucer {openscriptures-strongs}
+    proximity: 0.7508 {macula-proximity}
   - strongs: H3196
-    proximity: 0.7358
+    lemma: יַיִן
+    gloss: wine {openscriptures-strongs}
+    proximity: 0.7358 {macula-proximity}
   - strongs: H5785
-    proximity: 0.7194
+    lemma: עוֹר
+    gloss: skin {openscriptures-strongs}
+    proximity: 0.7194 {macula-proximity}
   - strongs: H2085
-    proximity: 0.7153
+    lemma: זָג
+    gloss: the skin of a grape {openscriptures-strongs}
+    proximity: 0.7153 {macula-proximity}
   - strongs: H1539
-    proximity: 0.7107
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: גֶּלֶד
+    gloss: the  skin {openscriptures-strongs}
+    proximity: 0.7107 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

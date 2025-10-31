@@ -7,48 +7,73 @@ definition: a session, i.e. company of persons (in close deliberation); by impli
   intimacy, consultation, a secret
 kjv_usage: assembly, consel, inward, secret (counsel).
 derivation: from H3245 (יָסַד);
-extended_definition:
-  gloss: counsel
-  definition: 1) council, counsel, assembly<br>1a) council (of familiar conversation)<br>1a1)
-    divan, circle (of familiar friends)<br>1a2) assembly, company<br>1b) counsel<br>1b1)
-    counsel (itself)<br>1b2) secret counsel<br>1b3) familiar converse, intimacy (with
-    God)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) council, counsel, assembly
+
+  1a) council (of familiar conversation)
+
+  1a1) divan, circle (of familiar friends)
+
+  1a2) assembly, company
+
+  1b) counsel
+
+  1b1) counsel (itself)
+
+  1b2) secret counsel
+
+  1b3) familiar converse, intimacy (with God) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4828
-    proximity: 0.8278
+    lemma: מֵרֵעַ
+    gloss: a friend {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H5779
-    proximity: 0.8251
+    lemma: עוּץ
+    gloss: to consult {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H7453
-    proximity: 0.8191
+    lemma: רֵעַ
+    gloss: an associate {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
   - strongs: H2791
-    proximity: 0.8182
+    lemma: חֶרֶשׁ
+    gloss: magical craft {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
   - strongs: H4156
-    proximity: 0.8123
+    lemma: מוֹעֵצָה
+    gloss: a purpose {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
   - strongs: H441a
-    proximity: 0.812
+    proximity: 0.812 {macula-proximity}
   - strongs: H4129
-    proximity: 0.8059
+    lemma: מוֹדַע
+    gloss: an acquaintance {openscriptures-strongs}
+    proximity: 0.8059 {macula-proximity}
   - strongs: A2269
-    proximity: 0.8059
+    proximity: 0.8059 {macula-proximity}
   - strongs: H2665
-    proximity: 0.8037
+    lemma: חֵפֶשׂ
+    gloss: something covert {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
   - strongs: H6910
-    proximity: 0.8033
+    lemma: קְבֻצָה
+    gloss: a hoard {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
   cross_language:
   - strongs: G2927
-    proximity: 0.8194
+    lemma: κρυπτός
+    gloss: concealed {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G4863
-    proximity: 0.8047
+    lemma: συνάγω
+    gloss: to lead together {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
     language: greek
   - strongs: G1577
-    proximity: 0.8037
+    lemma: ἐκκλησία
+    gloss: a calling out {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

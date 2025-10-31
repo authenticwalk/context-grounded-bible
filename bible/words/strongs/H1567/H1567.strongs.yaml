@@ -6,30 +6,35 @@ pronunciation: gal-ade'
 definition: Galed, a memorial cairn East of the Jordan
 kjv_usage: Galeed.
 derivation: from H1530 (גַּל) and H5707 (עֵד); heap of testimony;
-extended_definition:
-  gloss: Galeed
-  definition: Galeed = "witness heap"<br> the pile of stones heaped up between Jacob
-    and Laban to certify their covenant; located on Mt Gilead<BR>Another name of <i>ra.mot
-    gi.l.ad</i> (רָמֹת  "Ramoth" H7433)
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: 'Galeed = "witness heap"
+
+  the pile of stones heaped up between Jacob and Laban to certify their covenant;
+  located on Mt Gilead
+
+  Another name of ra.mot gi.l.ad (רָמֹת  "Ramoth" H7433) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1410
-    proximity: 0.8135
+    lemma: גָּד
+    gloss: Gad {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: H1569
-    proximity: 0.7723
+    lemma: גִּלְעָדִי
+    gloss: a Giladite or descendant of Gilad {openscriptures-strongs}
+    proximity: 0.7723 {macula-proximity}
   - strongs: H1568
-    proximity: 0.7515
+    lemma: גִּלְעָד
+    gloss: Gilad {openscriptures-strongs}
+    proximity: 0.7515 {macula-proximity}
   cross_language:
   - strongs: G3141
-    proximity: 0.8106
+    lemma: μαρτυρία
+    gloss: evidence given {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: greek
   - strongs: G1045
-    proximity: 0.8009
+    lemma: Γάδ
+    gloss: Gad {openscriptures-strongs}
+    proximity: 0.8009 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

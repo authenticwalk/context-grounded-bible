@@ -9,38 +9,55 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H7758
-    proximity: 0.8217
+    lemma: שׁוֹלָל
+    gloss: nude {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
   - strongs: H7703
-    proximity: 0.8217
+    lemma: שָׁדַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
   - strongs: H1952
-    proximity: 0.8216
+    lemma: הוֹן
+    gloss: wealth {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   - strongs: H8610
-    proximity: 0.8199
+    lemma: תָּפַשׂ
+    gloss: to manipulate {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H1215
-    proximity: 0.8194
+    lemma: בֶּצַע
+    gloss: plunder {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8186
+    proximity: 0.8186 {macula-proximity}
   - strongs: H2502
-    proximity: 0.8185
+    lemma: חָלַץ
+    gloss: to pull off {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: H3920
-    proximity: 0.8124
+    lemma: לָכַד
+    gloss: to catch (in a net {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   cross_language:
   - strongs: G4813
-    proximity: 0.8259
+    lemma: συλάω
+    gloss: probably akin to G138 {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G163
-    proximity: 0.8161
+    proximity: 0.8161 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.8044
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
     language: greek
   - strongs: G2221
-    proximity: 0.8022
+    lemma: ζωγρέω
+    gloss: to take alive {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
     language: greek
   - strongs: G161
-    proximity: 0.8002
+    proximity: 0.8002 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

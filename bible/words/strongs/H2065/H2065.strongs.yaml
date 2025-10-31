@@ -6,44 +6,56 @@ pronunciation: zeh'-bed
 definition: a gift
 kjv_usage: dowry.
 derivation: from H2064 (זָבַד);
-extended_definition:
-  gloss: dowry
-  definition: endowment, gift
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: endowment, gift {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1293
-    proximity: 0.8284
+    lemma: בְּרָכָה
+    gloss: benediction {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H868
-    proximity: 0.823
+    proximity: 0.823 {macula-proximity}
   - strongs: H2598
-    proximity: 0.8159
+    lemma: חֲנֻכָּה
+    gloss: initiation {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H4503
-    proximity: 0.7692
+    lemma: מִנְחָה
+    gloss: a donation {openscriptures-strongs}
+    proximity: 0.7692 {macula-proximity}
   - strongs: H8641
-    proximity: 0.7599
+    lemma: תְּרוּמָה
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.7599 {macula-proximity}
   - strongs: H7133
-    proximity: 0.7409
+    lemma: קׇרְבָּן
+    gloss: something brought near the altar {openscriptures-strongs}
+    proximity: 0.7409 {macula-proximity}
   - strongs: A4504
-    proximity: 0.7406
+    proximity: 0.7406 {macula-proximity}
   - strongs: H7810
-    proximity: 0.7187
+    lemma: שַׁחַד
+    gloss: a donation {openscriptures-strongs}
+    proximity: 0.7187 {macula-proximity}
   cross_language:
   - strongs: G5486
-    proximity: 0.7889
+    lemma: χάρισμα
+    gloss: a  gratuity {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
     language: greek
   - strongs: G4376
-    proximity: 0.7722
+    lemma: προσφορά
+    gloss: presentation {openscriptures-strongs}
+    proximity: 0.7722 {macula-proximity}
     language: greek
   - strongs: G1434
-    proximity: 0.7163
+    lemma: δώρημα
+    gloss: a bestowment {openscriptures-strongs}
+    proximity: 0.7163 {macula-proximity}
     language: greek
   - strongs: G1431
-    proximity: 0.7112
+    lemma: δωρεά
+    gloss: a gratuity {openscriptures-strongs}
+    proximity: 0.7112 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

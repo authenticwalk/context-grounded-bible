@@ -6,49 +6,64 @@ pronunciation: naw-thakh'
 definition: to dismember
 kjv_usage: cut (in pieces), divide, hew in pieces.
 derivation: a primitive root;
-extended_definition:
-  gloss: to cut
-  definition: 1) to cut, cut up, cut in pieces, divide<br>1a) (Piel) to cut up, cut
-    in pieces, divide by joints
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to cut, cut up, cut in pieces, divide
+
+  1a) (Piel) to cut up, cut in pieces, divide by joints {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3683
-    proximity: 0.8256
+    lemma: כָּסַח
+    gloss: to cut off {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: H95
-    proximity: 0.8238
+    proximity: 0.8238 {macula-proximity}
   - strongs: H6400
-    proximity: 0.8206
+    lemma: פֶּלַח
+    gloss: a slice {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: H7591
-    proximity: 0.8101
+    lemma: שְׁאִיָּה
+    gloss: desolation {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
   - strongs: H7112
-    proximity: 0.8081
+    lemma: קָצַץ
+    gloss: to chop off {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
   - strongs: H8158
-    proximity: 0.8067
+    lemma: שָׁסַף
+    gloss: to cut in pieces {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   - strongs: H1333
-    proximity: 0.8057
+    lemma: בָּתַק
+    gloss: to cut in pieces {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
   - strongs: H1234
-    proximity: 0.8053
+    lemma: בָּקַע
+    gloss: to cleave {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H958
-    proximity: 0.8021
+    proximity: 0.8021 {macula-proximity}
   - strongs: A6386
-    proximity: 0.799
+    proximity: 0.799 {macula-proximity}
   cross_language:
   - strongs: G1266
-    proximity: 0.8283
+    lemma: διαμερίζω
+    gloss: to partition thoroughly (literally in distribution {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
     language: greek
   - strongs: G1722
-    proximity: 0.819
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.819 {macula-proximity}
     language: greek
   - strongs: G2991
-    proximity: 0.8141
+    lemma: λαξευτός
+    gloss: rock-quarried {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
     language: greek
   - strongs: G2801
-    proximity: 0.8124
+    lemma: κλάσμα
+    gloss: a piece {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

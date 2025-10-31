@@ -7,30 +7,33 @@ definition: properly, something to strike with, i.e. a dart
 kjv_usage: lance, shield, spear, target.
 derivation: from the same as H3589 (כִּיד); (perhaps smaller than H2595 (חֲנִית)lemma
   חֲניִת second vowel, corrected to חֲנִית)
-extended_definition:
-  gloss: javelin
-  definition: 1) javelin, short sword, dart<br>2) gorget, a piece of armour for the
-    throat (<ref="1Sa.17.6">1Sa 17.6</ref>)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) javelin, short sword, dart
+
+  2) gorget, a piece of armour for the throat (1Sa 17.6) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2595
-    proximity: 0.7367
+    lemma: חֲנִית
+    gloss: a lance (for thrusting {openscriptures-strongs}
+    proximity: 0.7367 {macula-proximity}
   - strongs: H2719
-    proximity: 0.7068
+    lemma: חֶרֶב
+    gloss: drought {openscriptures-strongs}
+    proximity: 0.7068 {macula-proximity}
   cross_language:
   - strongs: G3057
-    proximity: 0.7722
+    lemma: λόγχη
+    gloss: a "lance" {openscriptures-strongs}
+    proximity: 0.7722 {macula-proximity}
     language: greek
   - strongs: G4501
-    proximity: 0.7485
+    lemma: ῥομφαία
+    gloss: a sabre {openscriptures-strongs}
+    proximity: 0.7485 {macula-proximity}
     language: greek
   - strongs: G3162
-    proximity: 0.7012
+    lemma: μάχαιρα
+    gloss: a knife {openscriptures-strongs}
+    proximity: 0.7012 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

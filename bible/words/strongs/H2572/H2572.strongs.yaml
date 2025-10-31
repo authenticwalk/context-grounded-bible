@@ -6,44 +6,59 @@ pronunciation: kham-ish-sheem'
 definition: fifty
 kjv_usage: fifty.
 derivation: multiple of H2568 (חָמֵשׁ);
-extended_definition:
-  gloss: fifty
-  definition: 1) fifty<br>1a) fifty (cardinal number)<br>1b) a multiple of fifty (with
-    other numbers)<br>1c) fiftieth (ordinal number)
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: '1) fifty
+
+  1a) fifty (cardinal number)
+
+  1b) a multiple of fifty (with other numbers)
+
+  1c) fiftieth (ordinal number) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A6243
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
   - strongs: H7637
-    proximity: 0.8227
+    lemma: שְׁבִיעִי
+    gloss: seventh {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H6241
-    proximity: 0.8218
+    lemma: עִשָּׂרוֹן
+    gloss: a tenth part {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: A3969
-    proximity: 0.8162
+    proximity: 0.8162 {macula-proximity}
   - strongs: H7239
-    proximity: 0.8014
+    lemma: רִבּוֹ
+    gloss: a myriad {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
   - strongs: H2549
-    proximity: 0.8013
+    lemma: חֲמִישִׁי
+    gloss: fifth {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
   cross_language:
   - strongs: G3461
-    proximity: 0.8249
+    lemma: μυριάς
+    gloss: a ten-thousand {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
     language: greek
   - strongs: G1835
-    proximity: 0.8186
+    lemma: ἑξήκοντα
+    gloss: sixty {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
     language: greek
   - strongs: G5064
-    proximity: 0.8163
+    lemma: τέσσαρες
+    gloss: four {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
     language: greek
   - strongs: G4001
-    proximity: 0.8139
+    lemma: πεντακόσιοι
+    gloss: five hundred {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: greek
   - strongs: G1803
-    proximity: 0.8089
+    lemma: ἕξ
+    gloss: six {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,46 +6,61 @@ pronunciation: gaw-ras'
 definition: to crush; also (intransitively and figuratively) to dissolve
 kjv_usage: break.
 derivation: a primitive root;
-extended_definition:
-  gloss: to break
-  definition: 1) to be crushed, be broken<br>1a) (Qal) to be crushed<br>1b) (Hiphil)
-    to crush, break (the teeth)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be crushed, be broken
+
+  1a) (Qal) to be crushed
+
+  1b) (Hiphil) to crush, break (the teeth) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3807
-    proximity: 0.8296
+    lemma: כָּתַת
+    gloss: to bruise or violently strike {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H6105b
-    proximity: 0.8263
+    proximity: 0.8263 {macula-proximity}
   - strongs: H6565
-    proximity: 0.8259
+    lemma: פָּרַר
+    gloss: to break up {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: H1643
-    proximity: 0.8085
+    lemma: גֶּרֶשׂ
+    gloss: a kernel {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
   - strongs: H1794
-    proximity: 0.8
+    lemma: דָּכָה
+    gloss: to collapse {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: H4790
-    proximity: 0.7986
+    lemma: מְרוֹחַ
+    gloss: bruised {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
   - strongs: H2912
-    proximity: 0.7939
+    lemma: טָחַן
+    gloss: to grind meal {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
   - strongs: H1633
-    proximity: 0.7928
+    lemma: גָּרַם
+    gloss: to bone {openscriptures-strongs}
+    proximity: 0.7928 {macula-proximity}
   - strongs: A7490
-    proximity: 0.7922
+    proximity: 0.7922 {macula-proximity}
   - strongs: H6476a
-    proximity: 0.7904
+    proximity: 0.7904 {macula-proximity}
   cross_language:
   - strongs: G2806
-    proximity: 0.8022
+    lemma: κλάω
+    gloss: to break (specially {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
     language: greek
   - strongs: G2622
-    proximity: 0.7967
+    lemma: κατακλάω
+    gloss: to break down {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
     language: greek
   - strongs: G2800
-    proximity: 0.7967
+    lemma: κλάσις
+    gloss: fracture {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

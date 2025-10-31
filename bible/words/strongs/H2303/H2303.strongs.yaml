@@ -6,29 +6,27 @@ pronunciation: khad-dood'
 definition: a point
 kjv_usage: sharp.
 derivation: from H2300 (חָדַד);
-extended_definition:
-  gloss: point
-  definition: sharp, pointed, sharpened
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: sharp, pointed, sharpened {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H258
-    proximity: 0.83
+    proximity: 0.83 {macula-proximity}
   - strongs: H2300
-    proximity: 0.772
+    lemma: חָדַד
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.772 {macula-proximity}
   - strongs: H4593a
-    proximity: 0.747
+    proximity: 0.747 {macula-proximity}
   - strongs: H1305a
-    proximity: 0.7194
+    proximity: 0.7194 {macula-proximity}
   - strongs: H3913
-    proximity: 0.7111
+    lemma: לָטַשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7111 {macula-proximity}
   cross_language:
   - strongs: G1056
-    proximity: 0.82
+    lemma: Γαλιλαία
+    gloss: Galilæa {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

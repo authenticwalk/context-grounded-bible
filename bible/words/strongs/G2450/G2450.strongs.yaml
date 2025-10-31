@@ -5,58 +5,78 @@ transliteration: Ioudaḯzō
 definition: to become a Judæan, i.e. "Judaize"
 kjv_usage: live as the Jews
 derivation: from G2453 (Ἰουδαῖος);
-extended_definition:
-  gloss: Jew
-  definition: '<b>Ἰουδαΐζω</b><BR /> (Ἰουδαῖος), [in LXX: <ref=''Est.8.17''>Est.8:17</ref>
-    (יָהַד hith.)* ;] <BR /><b>to can-form to Jewish practice, to Judaize</b>: <ref=''Gal.2.14.''>Gal.2:14.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> Ἰουδα-ΐζω</b>, <br /> <b>side with</b> or <b>imitate the Jews</b>,
-    [<a href="javascript:void(0)" title=" LXX.Est.8.17, NT.Gal.[same place]: ">LXX+NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'Ἰουδαΐζω
+
+  (Ἰουδαῖος), [in LXX: Est.8:17 (יָהַד hith.)* ;]
+
+  to can-form to Jewish practice, to Judaize: Gal.2:14.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἰουδα-ΐζω,
+
+  side with or imitate the Jews, [LXX+NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4800
-    proximity: 0.8297
+    lemma: συζάω
+    gloss: to continue to live in common with {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: G4924
-    proximity: 0.8221
+    lemma: συνοικέω
+    gloss: to reside together {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: G3665
-    proximity: 0.8204
+    lemma: ὁμοιότης
+    gloss: resemblance {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
   - strongs: G390
-    proximity: 0.8096
+    proximity: 0.8096 {macula-proximity}
   - strongs: G4176
-    proximity: 0.8067
+    lemma: πολιτεύομαι
+    gloss: to behave as a citizen {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   - strongs: G1675
-    proximity: 0.7818
+    lemma: Ἑλληνιστής
+    gloss: a Hellenist or Greek-speaking Jew {openscriptures-strongs}
+    proximity: 0.7818 {macula-proximity}
   - strongs: G3611
-    proximity: 0.7814
+    lemma: οἰκέω
+    gloss: to occupy a house {openscriptures-strongs}
+    proximity: 0.7814 {macula-proximity}
   - strongs: G2451
-    proximity: 0.7809
+    lemma: Ἰουδαϊκός
+    gloss: Judaïc {openscriptures-strongs}
+    proximity: 0.7809 {macula-proximity}
   - strongs: G2449
-    proximity: 0.7738
+    lemma: Ἰουδαία
+    gloss: the Judæan land {openscriptures-strongs}
+    proximity: 0.7738 {macula-proximity}
   - strongs: G2198
-    proximity: 0.7554
+    lemma: ζάω
+    gloss: to live {openscriptures-strongs}
+    proximity: 0.7554 {macula-proximity}
   cross_language:
   - strongs: H2416
-    proximity: 0.8251
+    lemma: חַי
+    gloss: alive {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
     language: hebrew
   - strongs: H3054
-    proximity: 0.8129
+    lemma: יָהַד
+    gloss: to Judaize {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
     language: hebrew
   - strongs: H3509a
-    proximity: 0.8092
+    proximity: 0.8092 {macula-proximity}
     language: hebrew
   - strongs: H2421
-    proximity: 0.7974
+    lemma: חָיָה
+    gloss: to live {openscriptures-strongs}
+    proximity: 0.7974 {macula-proximity}
     language: hebrew
   - strongs: H3644
-    proximity: 0.7711
+    lemma: כְּמוֹ
+    gloss: a form of the prefix 'k-' {openscriptures-strongs}
+    proximity: 0.7711 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

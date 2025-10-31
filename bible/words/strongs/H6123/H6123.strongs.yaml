@@ -6,37 +6,43 @@ pronunciation: aw-kad'
 definition: to tie with thongs
 kjv_usage: bind.
 derivation: a primitive root;
-extended_definition:
-  gloss: to bind
-  definition: (Qal) to bind, tie
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to bind, tie {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7405
-    proximity: 0.8148
+    lemma: רָכַס
+    gloss: to tie {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: H8379
-    proximity: 0.7986
+    lemma: תַּאֲוָה
+    gloss: a limit {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
   - strongs: H334
-    proximity: 0.7639
+    proximity: 0.7639 {macula-proximity}
   - strongs: H5921
-    proximity: 0.7487
+    lemma: עַל
+    gloss: above {openscriptures-strongs}
+    proximity: 0.7487 {macula-proximity}
   - strongs: H4147a
-    proximity: 0.7444
+    proximity: 0.7444 {macula-proximity}
   - strongs: H2280
-    proximity: 0.7069
+    lemma: חָבַשׁ
+    gloss: to wrap firmly (especially a turban {openscriptures-strongs}
+    proximity: 0.7069 {macula-proximity}
   cross_language:
   - strongs: G2086
-    proximity: 0.7939
+    lemma: ἑτεροζυγέω
+    gloss: to yoke up differently {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
     language: greek
   - strongs: G1197
-    proximity: 0.775
+    lemma: δέσμη
+    gloss: a bundle {openscriptures-strongs}
+    proximity: 0.775 {macula-proximity}
     language: greek
   - strongs: G4385
-    proximity: 0.7611
+    lemma: προτείνω
+    gloss: to protend {openscriptures-strongs}
+    proximity: 0.7611 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,42 +6,47 @@ pronunciation: dah'-ath
 definition: knowledge
 kjv_usage: cunning, (ig-) norantly, know(-ledge), (un-) awares (wittingly).
 derivation: from H3045 (יָדַע);
-extended_definition:
-  gloss: knowledge
-  definition: 1) knowledge<br>1a) knowledge, perception, skill<br>1b) discernment,
-    understanding, wisdom
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: '1) knowledge
+
+  1a) knowledge, perception, skill
+
+  1b) discernment, understanding, wisdom {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A3321
-    proximity: 0.8224
+    proximity: 0.8224 {macula-proximity}
   - strongs: A7924
-    proximity: 0.8052
+    proximity: 0.8052 {macula-proximity}
   - strongs: H2454
-    proximity: 0.7993
+    lemma: חׇכְמוֹת
+    gloss: wisdom {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
   - strongs: H3820
-    proximity: 0.7946
+    lemma: לֵב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.7946 {macula-proximity}
   - strongs: A2452
-    proximity: 0.7858
+    proximity: 0.7858 {macula-proximity}
   cross_language:
   - strongs: G225
-    proximity: 0.8287
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G4893
-    proximity: 0.8235
+    lemma: συνείδησις
+    gloss: co-perception {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: greek
   - strongs: G4441
-    proximity: 0.8193
+    lemma: πυνθάνομαι
+    gloss: to question {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
     language: greek
   - strongs: G2589
-    proximity: 0.8192
+    lemma: καρδιογνώστης
+    gloss: a heart-knower {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
     language: greek
   - strongs: G453
-    proximity: 0.8147
+    proximity: 0.8147 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

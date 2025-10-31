@@ -5,47 +5,52 @@ transliteration: metriopathéō
 definition: to be moderate in passion, i.e. gentle (to treat indulgently)
 kjv_usage: have compassion
 derivation: from a compound of the base of G3357 (μετρίως) and G3806 (πάθος);
-extended_definition:
-  gloss: be gentle
-  definition: '<b>μετριοπαθέω</b>, -ῶ<BR /> (μετριοπαθής, moderating one''s passions),
-    <BR /><b>to hold one''s passions or emotions in restraint; hence, to bear gently
-    with, feel gently towards</b>: <ref=''Heb.5.2.''>Heb.5:2.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> μετριο-πᾰθέω</b>, <br /> <b>feel moderately, bear reasonably
-    with</b>, τοῖς ἀγνοοῦσι καὶ πλανωμένοις [<a href="javascript:void(0)" title="
-    NT.Heb.5.2: _absolutely_, 1st c.AD: Philo Judaeus 1.113, 2.37, 45, 1st c.AD: Josephus
-    Historicus “Antiquitates Judaicae” 12.3.2, 2nd c.AD: Sextus Empiricus Philosophus
-    “Πυρρώνειοι ὑποτυπώσεις” 3.235. ">NT+1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'μετριοπαθέω, -ῶ
+
+  (μετριοπαθής, moderating one''s passions),
+
+  to hold one''s passions or emotions in restraint; hence, to bear gently with, feel
+  gently towards: Heb.5:2.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'μετριο-πᾰθέω,
+
+  feel moderately, bear reasonably with, τοῖς ἀγνοοῦσι καὶ πλανωμένοις [NT+1st c.AD+]
+  {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G489
-    proximity: 0.8236
+    proximity: 0.8236 {macula-proximity}
   - strongs: G4862
-    proximity: 0.8231
+    lemma: σύν
+    gloss: with or together  or G3844 ) {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: G5530
-    proximity: 0.7887
+    lemma: χράομαι
+    gloss: to furnish what is needed {openscriptures-strongs}
+    proximity: 0.7887 {macula-proximity}
   cross_language:
   - strongs: H5953
-    proximity: 0.823
+    lemma: עָלַל
+    gloss: to effect thoroughly {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
     language: hebrew
   - strongs: H1580
-    proximity: 0.8168
+    lemma: גָּמַל
+    gloss: to treat a person {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
     language: hebrew
   - strongs: H854
-    proximity: 0.7698
+    proximity: 0.7698 {macula-proximity}
     language: hebrew
   - strongs: H5978
-    proximity: 0.7688
+    lemma: עִמָּד
+    gloss: along with {openscriptures-strongs}
+    proximity: 0.7688 {macula-proximity}
     language: hebrew
   - strongs: H5973
-    proximity: 0.7667
+    lemma: עִם
+    gloss: adverb or preposition {openscriptures-strongs}
+    proximity: 0.7667 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -12,34 +12,43 @@ derivation: from H6004 (עָמַם);
 related_words:
   synonyms:
   - strongs: H2297
-    proximity: 0.8297
+    lemma: חַד
+    gloss: one {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: H371
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
   - strongs: H3318
-    proximity: 0.8281
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H1481
-    proximity: 0.8281
+    lemma: גּוּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: A6246
-    proximity: 0.8274
+    proximity: 0.8274 {macula-proximity}
   - strongs: H587
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
   cross_language:
   - strongs: G806
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G5448
-    proximity: 0.8294
+    lemma: φυσιόω
+    gloss: to inflate {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G496
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G4368
-    proximity: 0.8293
+    lemma: προστάτις
+    gloss: a patroness {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G2673
-    proximity: 0.828
+    lemma: καταργέω
+    gloss: to be  entirely idle {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

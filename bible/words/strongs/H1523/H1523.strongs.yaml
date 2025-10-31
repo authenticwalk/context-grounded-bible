@@ -7,50 +7,70 @@ definition: properly, to spin round (under the influence of any violent emotion)
   i.e. usually rejoice, or (as cringing) fear
 kjv_usage: be glad, joy, be joyful, rejoice.
 derivation: or (by permutation) גּוּל; a primitive root;
-extended_definition:
-  gloss: to rejoice
-  definition: 1) to rejoice, exult, be glad<br>1a) (Qal)<br>1a1) to rejoice<br>1a2)
-    to tremble (from fear)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to rejoice, exult, be glad
+
+  1a) (Qal)
+
+  1a1) to rejoice
+
+  1a2) to tremble (from fear) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6027
-    proximity: 0.8246
+    lemma: עֹנֶג
+    gloss: luxury {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: H5730a
-    proximity: 0.8228
+    proximity: 0.8228 {macula-proximity}
   - strongs: H6026
-    proximity: 0.8177
+    lemma: עָנַג
+    gloss: to be soft or pliable {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
   - strongs: H7306a
-    proximity: 0.8094
+    proximity: 0.8094 {macula-proximity}
   - strongs: H5276
-    proximity: 0.8069
+    lemma: נָעֵם
+    gloss: to be agreeable {openscriptures-strongs}
+    proximity: 0.8069 {macula-proximity}
   - strongs: H4574
-    proximity: 0.8067
+    lemma: מַעֲדָן
+    gloss: a delicacy or  pleasure (adverbially {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   - strongs: H6670
-    proximity: 0.8065
+    lemma: צָהַל
+    gloss: to gleam {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
   - strongs: H2896
-    proximity: 0.8054
+    lemma: טוֹב
+    gloss: good  in the widest sense {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
   - strongs: H1906
-    proximity: 0.7993
+    lemma: הֵד
+    gloss: a shout {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
   cross_language:
   - strongs: G2744
-    proximity: 0.8252
+    lemma: καυχάομαι
+    gloss: to vaunt {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: greek
   - strongs: G2115a
-    proximity: 0.8193
+    proximity: 0.8193 {macula-proximity}
     language: greek
   - strongs: G3685
-    proximity: 0.8064
+    lemma: ὀνίνημι
+    gloss: for which another prolonged form  is used as an alternate in some tenses  through
+      the idea of notoriety) {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
     language: greek
   - strongs: G2431
-    proximity: 0.8033
+    lemma: ἱλαρός
+    gloss: propitious or merry {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
     language: greek
   - strongs: G2101
-    proximity: 0.7977
+    lemma: εὐάρεστος
+    gloss: fully agreeable {openscriptures-strongs}
+    proximity: 0.7977 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

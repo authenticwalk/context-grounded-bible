@@ -6,29 +6,29 @@ pronunciation: khobe
 definition: debt
 kjv_usage: debtor.
 derivation: from H2325 (חוּב);
-extended_definition:
-  gloss: debtor
-  definition: a debt, debtor
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: a debt, debtor {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4855
-    proximity: 0.8277
+    lemma: מַשָּׁא
+    gloss: a loan {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H5391a
-    proximity: 0.798
+    proximity: 0.798 {macula-proximity}
   - strongs: H3867a
-    proximity: 0.7791
+    proximity: 0.7791 {macula-proximity}
   - strongs: H5671
-    proximity: 0.7574
+    lemma: עַבְטִיט
+    gloss: something pledged {openscriptures-strongs}
+    proximity: 0.7574 {macula-proximity}
   - strongs: H5386
-    proximity: 0.7254
+    lemma: נְשִׁי
+    gloss: a debt {openscriptures-strongs}
+    proximity: 0.7254 {macula-proximity}
   cross_language:
   - strongs: G1203
-    proximity: 0.7962
+    lemma: δεσπότης
+    gloss: an absolute ruler {openscriptures-strongs}
+    proximity: 0.7962 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

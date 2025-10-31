@@ -6,39 +6,49 @@ pronunciation: mats-tsaw'
 definition: a quarrel
 kjv_usage: contention, debate, strife.
 derivation: from H5327 (נָצָה);
-extended_definition:
-  gloss: strife
-  definition: strife, contention
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: strife, contention {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1779
-    proximity: 0.81
+    lemma: דִּין
+    gloss: judgement (the suit {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
   - strongs: H6230
-    proximity: 0.8017
+    lemma: עֵשֶׂק
+    gloss: strife {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
   - strongs: H6229
-    proximity: 0.7838
+    lemma: עָשַׂק
+    gloss: to press upon {openscriptures-strongs}
+    proximity: 0.7838 {macula-proximity}
   - strongs: H7378
-    proximity: 0.7771
+    lemma: רִיב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7771 {macula-proximity}
   cross_language:
   - strongs: G4978
-    proximity: 0.8243
+    lemma: σχίσμα
+    gloss: a split or gap {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: greek
   - strongs: G1266
-    proximity: 0.7846
+    lemma: διαμερίζω
+    gloss: to partition thoroughly (literally in distribution {openscriptures-strongs}
+    proximity: 0.7846 {macula-proximity}
     language: greek
   - strongs: G1370
-    proximity: 0.7843
+    lemma: διχοστασία
+    gloss: disunion {openscriptures-strongs}
+    proximity: 0.7843 {macula-proximity}
     language: greek
   - strongs: G3307
-    proximity: 0.7744
+    lemma: μερίζω
+    gloss: to part {openscriptures-strongs}
+    proximity: 0.7744 {macula-proximity}
     language: greek
   - strongs: G2052
-    proximity: 0.721
+    lemma: ἐριθεία
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.721 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

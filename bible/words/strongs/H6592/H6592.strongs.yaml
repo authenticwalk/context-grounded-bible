@@ -6,42 +6,48 @@ pronunciation: pay'-sher
 definition: '{an interpretation}'
 kjv_usage: interpretation.
 derivation: corresponding to H6591 (פְּשַׁר)
-extended_definition:
-  gloss: interpretation
-  definition: interpretation, solution
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: interpretation, solution {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H874
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
   - strongs: H7922
-    proximity: 0.8047
+    lemma: שֶׂכֶל
+    gloss: intelligence {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
   - strongs: A263
-    proximity: 0.7625
+    proximity: 0.7625 {macula-proximity}
   - strongs: A2324
-    proximity: 0.7527
+    proximity: 0.7527 {macula-proximity}
   - strongs: H262
-    proximity: 0.7426
+    proximity: 0.7426 {macula-proximity}
   - strongs: H2808
-    proximity: 0.7271
+    lemma: חֶשְׁבּוֹן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7271 {macula-proximity}
   - strongs: H6608
-    proximity: 0.7097
+    lemma: פֵּתַח
+    gloss: opening  i.e. disclosure {openscriptures-strongs}
+    proximity: 0.7097 {macula-proximity}
   cross_language:
   - strongs: G2031
-    proximity: 0.8283
+    lemma: ἔπος
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
     language: greek
   - strongs: G1620
-    proximity: 0.8089
+    lemma: ἐκτίθημι
+    gloss: to expose {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
     language: greek
   - strongs: G4793
-    proximity: 0.7696
+    lemma: συγκρίνω
+    gloss: to judge of one thing in connection with another {openscriptures-strongs}
+    proximity: 0.7696 {macula-proximity}
     language: greek
   - strongs: G1285
-    proximity: 0.7414
+    lemma: διασαφέω
+    gloss: to clear thoroughly {openscriptures-strongs}
+    proximity: 0.7414 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

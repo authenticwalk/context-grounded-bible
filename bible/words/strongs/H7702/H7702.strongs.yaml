@@ -6,30 +6,34 @@ pronunciation: saw-dad'
 definition: to abrade, i.e. harrow afield
 kjv_usage: break clods, harrow.
 derivation: a primitive root;
-extended_definition:
-  gloss: to harrow
-  definition: (Piel) to harrow
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Piel) to harrow {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6398
-    proximity: 0.8216
+    lemma: פָּלַח
+    gloss: to slice {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   - strongs: H3010
-    proximity: 0.8153
+    lemma: יָגֵב
+    gloss: a plowed field {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
   - strongs: H5737
-    proximity: 0.7545
+    lemma: עֲדַר
+    gloss: to arrange as a battle {openscriptures-strongs}
+    proximity: 0.7545 {macula-proximity}
   - strongs: H2758
-    proximity: 0.721
+    lemma: חָרִישׁ
+    gloss: ploughing or its season {openscriptures-strongs}
+    proximity: 0.721 {macula-proximity}
   cross_language:
   - strongs: G1091
-    proximity: 0.7936
+    lemma: γεώργιον
+    gloss: cultivable {openscriptures-strongs}
+    proximity: 0.7936 {macula-proximity}
     language: greek
   - strongs: G1090
-    proximity: 0.7208
+    lemma: γεωργέω
+    gloss: to till {openscriptures-strongs}
+    proximity: 0.7208 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,25 +6,23 @@ pronunciation: shik-kaw-rone'
 definition: intoxication
 kjv_usage: (be) drunken(-ness).
 derivation: from H7937 (שָׁכַר);
-extended_definition:
-  gloss: drunkenness
-  definition: drunkenness
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: drunkenness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8354
-    proximity: 0.7879
+    lemma: שָׁתָה
+    gloss: to imbibe {openscriptures-strongs}
+    proximity: 0.7879 {macula-proximity}
   - strongs: A8355
-    proximity: 0.7708
+    proximity: 0.7708 {macula-proximity}
   - strongs: H5433
-    proximity: 0.7361
+    lemma: סָבָא
+    gloss: to quaff to satiety {openscriptures-strongs}
+    proximity: 0.7361 {macula-proximity}
   cross_language:
   - strongs: G4095
-    proximity: 0.818
+    lemma: πίνω
+    gloss: to imbibe {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

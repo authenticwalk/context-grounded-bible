@@ -8,49 +8,73 @@ definition: properly, the upper part, used only adverbially with prefix upward, 
 kjv_usage: above, exceeding(-ly), forward, on ([idiom] very) high, over, up(-on, -ward),
   very.
 derivation: from H5927 (עָלָה);
-extended_definition:
-  gloss: above
-  definition: subst<br>1) higher part, upper part<br>adv<br>1a) above<br>prep<br>1b)
-    on the top of, above, on higher ground than<br>with locative<br>1c) upwards, higher,
-    above
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: 'subst
+
+  1) higher part, upper part
+
+  adv
+
+  1a) above
+
+  prep
+
+  1b) on the top of, above, on higher ground than
+
+  with locative
+
+  1c) upwards, higher, above {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2351
-    proximity: 0.8296
+    lemma: חוּץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: A8065
-    proximity: 0.824
+    proximity: 0.824 {macula-proximity}
   - strongs: H5978
-    proximity: 0.8219
+    lemma: עִמָּד
+    gloss: along with {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: H6440
-    proximity: 0.821
+    lemma: פָּנִים
+    gloss: the face {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
   - strongs: H5927
-    proximity: 0.8202
+    lemma: עָלָה
+    gloss: to ascend {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   - strongs: A7690
-    proximity: 0.8177
+    proximity: 0.8177 {macula-proximity}
   - strongs: H2050b
-    proximity: 0.8149
+    proximity: 0.8149 {macula-proximity}
   - strongs: H5676
-    proximity: 0.8134
+    lemma: עֵבֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
   cross_language:
   - strongs: G5251
-    proximity: 0.8268
+    lemma: ὑπερυψόω
+    gloss: to elevate above others {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: greek
   - strongs: G5308
-    proximity: 0.8266
+    lemma: ὑψηλός
+    gloss: lofty {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
     language: greek
   - strongs: G3844
-    proximity: 0.8258
+    lemma: παρά
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G4970
-    proximity: 0.8151
+    lemma: σφόδρα
+    gloss: of uncertain derivation) as adverb {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
     language: greek
   - strongs: G5228
-    proximity: 0.8128
+    lemma: ὑπέρ
+    gloss: '"over" {openscriptures-strongs}'
+    proximity: 0.8128 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,34 +6,39 @@ pronunciation: peh'-leh
 definition: a miracle
 kjv_usage: marvellous thing, wonder(-ful, -fully).
 derivation: from H6381 (פָּלָא);
-extended_definition:
-  gloss: wonder
-  definition: 1) wonder, marvel<br>1a) wonder (extraordinary, hard to understand thing)<br>1b)
-    wonder (of God's acts of judgment and redemption)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) wonder, marvel
+
+  1a) wonder (extraordinary, hard to understand thing)
+
+  1b) wonder (of God''s acts of judgment and redemption) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A8429
-    proximity: 0.8101
+    proximity: 0.8101 {macula-proximity}
   - strongs: H1420
-    proximity: 0.7877
+    lemma: גְּדוּלָה
+    gloss: greatness {openscriptures-strongs}
+    proximity: 0.7877 {macula-proximity}
   - strongs: H8539
-    proximity: 0.769
+    lemma: תָּמַהּ
+    gloss: to be in consternation {openscriptures-strongs}
+    proximity: 0.769 {macula-proximity}
   - strongs: H4659a
-    proximity: 0.7684
+    proximity: 0.7684 {macula-proximity}
   cross_language:
   - strongs: G2285
-    proximity: 0.7906
+    lemma: θάμβος
+    gloss: stupefaction {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
     language: greek
   - strongs: G3861
-    proximity: 0.7245
+    lemma: παράδοξος
+    gloss: contrary to expectation {openscriptures-strongs}
+    proximity: 0.7245 {macula-proximity}
     language: greek
   - strongs: G2295
-    proximity: 0.7167
+    lemma: θαῦμα
+    gloss: wonder (properly concrete {openscriptures-strongs}
+    proximity: 0.7167 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

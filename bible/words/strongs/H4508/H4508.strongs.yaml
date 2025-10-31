@@ -6,29 +6,35 @@ pronunciation: min-nee'
 definition: Minni, an Armenian province
 kjv_usage: Minni.
 derivation: of foreign derivation;
-extended_definition:
-  gloss: Minni
-  definition: <BR> § Minni = "division"<br> a region in Armenia<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Minni = "division"
+
+  a region in Armenia {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5210
-    proximity: 0.8205
+    lemma: נִינְוֵה
+    gloss: Nineveh {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: H5166
-    proximity: 0.8161
+    lemma: נְחֶמְיָה
+    gloss: Nechemjah {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H4509
-    proximity: 0.8159
+    lemma: מִנְיָמִין
+    gloss: Minjamin {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H8488
-    proximity: 0.8
+    lemma: תֵּימְנִי
+    gloss: Temeni {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: H4511
-    proximity: 0.7931
+    lemma: מִנִּית
+    gloss: Minnith {openscriptures-strongs}
+    proximity: 0.7931 {macula-proximity}
   cross_language:
   - strongs: G3412
-    proximity: 0.8017
+    lemma: Μιτυλήνη
+    gloss: Mitylene {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

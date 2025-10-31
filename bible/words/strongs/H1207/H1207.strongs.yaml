@@ -6,23 +6,19 @@ pronunciation: bits-tsaw'
 definition: a swamp
 kjv_usage: fen, mire(-ry place).
 derivation: intensive from H1206 (בֹץ);
-extended_definition:
-  gloss: swamp
-  definition: swamp, marsh
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: swamp, marsh {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2563a
-    proximity: 0.8049
+    proximity: 0.8049 {macula-proximity}
   - strongs: H1206
-    proximity: 0.7772
+    lemma: בֹץ
+    gloss: mud {openscriptures-strongs}
+    proximity: 0.7772 {macula-proximity}
   cross_language:
   - strongs: G2861
-    proximity: 0.8149
+    lemma: κολυμβήθρα
+    gloss: a diving-place {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

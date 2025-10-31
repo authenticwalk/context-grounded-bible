@@ -7,19 +7,13 @@ definition: wealthy
 kjv_usage: princes.
 derivation: from an unused root (probably meaning firm or capacious in resources);
   apparently
-extended_definition:
-  gloss: ambassador
-  definition: ambassadors, bronze (meaning uncertain)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ambassadors, bronze (meaning uncertain) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3887c
-    proximity: 0.7896
+    proximity: 0.7896 {macula-proximity}
   - strongs: H2524
-    proximity: 0.7818
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: חָם
+    gloss: a father-in-law {openscriptures-strongs}
+    proximity: 0.7818 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

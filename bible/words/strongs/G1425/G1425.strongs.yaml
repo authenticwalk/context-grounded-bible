@@ -5,57 +5,74 @@ transliteration: dysnóētos
 definition: difficult of perception
 kjv_usage: hard to be understood
 derivation: from G1418 (δυσ-) and a derivative of G3539 (νοιέω);
-extended_definition:
-  gloss: hard to understand
-  definition: '<b>δυσνόητος</b>, -ον<BR /> (νοέω), <BR /><b>hard to understand</b>:
-    <ref=''2Pe.3.16.''>2Pe.3:16.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> δυσ-νόητος</b>, ον, <br /> <b>hard to be understood</b>, Dariusap.
-    [<a href="javascript:void(0)" title=" 3rd c.AD(?): Diogenes Laertius 9.13, NT.2Pet.3.16;
-    χρησμοί 2nd c.AD: Lucianus Sophista “Alex.” 54. ">NT+2nd c.AD+</a>]<br /><Level2><b>__II</b></Level2>
-    <i>active</i>, <b>slow of understanding</b>, [<a href="javascript:void(0)" title="
-    2nd c.AD: Vettius Valens Astrologus 345.26. ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δυσνόητος, -ον
+
+  (νοέω),
+
+  hard to understand: 2Pe.3:16.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'δυσ-νόητος, ον,
+
+  hard to be understood, Dariusap. [NT+2nd c.AD+]
+
+  __II active, slow of understanding, [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A999
-    proximity: 0.8228
+    proximity: 0.8228 {macula-proximity}
   - strongs: G801
-    proximity: 0.8205
+    proximity: 0.8205 {macula-proximity}
   - strongs: G1921
-    proximity: 0.818
+    lemma: ἐπιγινώσκω
+    gloss: to know upon some mark {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: G4642
-    proximity: 0.814
+    lemma: σκληρός
+    gloss: dry {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
   - strongs: G1990
-    proximity: 0.8125
+    lemma: ἐπιστήμων
+    gloss: intelligent {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: G3576
-    proximity: 0.8125
+    lemma: νωθρός
+    gloss: sluggish {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: G2924
-    proximity: 0.8056
+    lemma: κριτικός
+    gloss: decisive {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: G1097
-    proximity: 0.7996
+    lemma: γινώσκω
+    gloss: to "know"  in a great variety of applications and with many implications
+      (as follow {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
   - strongs: G2638
-    proximity: 0.7934
+    lemma: καταλαμβάνω
+    gloss: to take eagerly {openscriptures-strongs}
+    proximity: 0.7934 {macula-proximity}
   - strongs: G1423
-    proximity: 0.7598
+    lemma: δυσκόλως
+    gloss: impracticably {openscriptures-strongs}
+    proximity: 0.7598 {macula-proximity}
   cross_language:
   - strongs: H7919
-    proximity: 0.8252
+    lemma: שָׂכַל
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: hebrew
   - strongs: H6012
-    proximity: 0.8239
+    lemma: עָמֵק
+    gloss: deep {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
     language: hebrew
   - strongs: H413
-    proximity: 0.8233
+    proximity: 0.8233 {macula-proximity}
     language: hebrew
   - strongs: H8394
-    proximity: 0.7643
+    lemma: תָּבוּן
+    gloss: intelligence {openscriptures-strongs}
+    proximity: 0.7643 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

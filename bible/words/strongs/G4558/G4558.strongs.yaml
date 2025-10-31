@@ -5,54 +5,68 @@ transliteration: Sárepta
 definition: Sarepta (i.e. Tsarephath), a place in Palestine
 kjv_usage: Sarepta
 derivation: of Hebrew origin (H06886);
-extended_definition:
-  gloss: Zarephath
-  definition: '<b>Σάρεπτα</b>, -ων (Ob 20), τά (Heb. צָרְפַת), <BR /> <b>Sarepta,
-    a city of Sidon</b>: <ref=''Luk.4.26.''>Luk.4:26.</ref>†<BR /> (AS)'
-  morphology: N:N--L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Σάρεπτα</b>, -ων (Ob 20), τά (Heb. צָרְפַת), <BR /> <b>Sarepta,
-    a city of Sidon</b>: <ref=''Luk.4.26.''>Luk.4:26.</ref>†<BR />  (From Abbott-Smith.
-    LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Σάρεπτα, -ων (Ob 20), τά (Heb. צָרְפַת),
+
+  Sarepta, a city of Sidon: Luk.4:26.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Σάρεπτα, -ων (Ob 20), τά (Heb. צָרְפַת),
+
+  Sarepta, a city of Sidon: Luk.4:26.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3480
-    proximity: 0.8147
+    lemma: Ναζωραῖος
+    gloss: a Nazoræan {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: G1082
-    proximity: 0.8136
+    lemma: Γεννησαρέτ
+    gloss: Gennesaret {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: G3479
-    proximity: 0.813
+    lemma: Ναζαρηνός
+    gloss: a Nazarene {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
   - strongs: G3478a
-    proximity: 0.7778
+    proximity: 0.7778 {macula-proximity}
   - strongs: G742
-    proximity: 0.7778
+    proximity: 0.7778 {macula-proximity}
   - strongs: G5329
-    proximity: 0.7778
+    lemma: Φάρες
+    gloss: Phares {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   - strongs: G3478
-    proximity: 0.7778
+    lemma: Ναζαρέθ
+    gloss: Nazareth or Nazaret {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   - strongs: G3478b
-    proximity: 0.7778
+    proximity: 0.7778 {macula-proximity}
   cross_language:
   - strongs: H2218
-    proximity: 0.8265
+    lemma: זֶרֶד
+    gloss: Zered {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
     language: hebrew
   - strongs: H7501
-    proximity: 0.8253
+    lemma: רְפָאֵל
+    gloss: Rephael {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
     language: hebrew
   - strongs: H6558
-    proximity: 0.8155
+    lemma: פַּרְצִי
+    gloss: a Partsite  or descendants of Perets {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
     language: hebrew
   - strongs: H6557
-    proximity: 0.8088
+    lemma: פֶּרֶץ
+    gloss: Perets {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
     language: hebrew
   - strongs: H7506
-    proximity: 0.8016
+    lemma: רֶפַח
+    gloss: Rephach {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

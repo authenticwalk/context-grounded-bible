@@ -6,42 +6,51 @@ pronunciation: zaw-khakh'
 definition: to shove or displace
 kjv_usage: loose.
 derivation: a primitive root;
-extended_definition:
-  gloss: to remove
-  definition: 1) to remove, displace<br>1a) (Niphal) to be removed, be loosened, be
-    displaced
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to remove, displace
+
+  1a) (Niphal) to be removed, be loosened, be displaced {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5394
-    proximity: 0.8261
+    lemma: נָשַׁל
+    gloss: to pluck off {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: H857
-    proximity: 0.8162
+    proximity: 0.8162 {macula-proximity}
   - strongs: H5425
-    proximity: 0.7932
+    lemma: נָתַר
+    gloss: to jump {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
   - strongs: H5253
-    proximity: 0.7849
+    lemma: נָסַג
+    gloss: to retreat {openscriptures-strongs}
+    proximity: 0.7849 {macula-proximity}
   - strongs: H6813
-    proximity: 0.7834
+    lemma: צָעַן
+    gloss: to load up {openscriptures-strongs}
+    proximity: 0.7834 {macula-proximity}
   cross_language:
   - strongs: G2064
-    proximity: 0.8176
+    lemma: ἔρχομαι
+    gloss: to come or go (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
     language: greek
   - strongs: G3080
-    proximity: 0.7643
+    lemma: λύσις
+    gloss: a loosening {openscriptures-strongs}
+    proximity: 0.7643 {macula-proximity}
     language: greek
   - strongs: G1204
-    proximity: 0.7586
+    lemma: δεῦρο
+    gloss: here {openscriptures-strongs}
+    proximity: 0.7586 {macula-proximity}
     language: greek
   - strongs: G33
-    proximity: 0.7474
+    proximity: 0.7474 {macula-proximity}
     language: greek
   - strongs: G1205
-    proximity: 0.7444
+    lemma: δεῦτε
+    gloss: come hither! {openscriptures-strongs}
+    proximity: 0.7444 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,43 +7,51 @@ definition: properly, drawn off, i.e. separated; hence, a small company (as divi
   from the rest)
 kjv_usage: little flock.
 derivation: from H2834 (חָשַׂף);
-extended_definition:
-  gloss: little flock
-  definition: small flocks, little flocks
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: small flocks, little flocks {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H354
-    proximity: 0.8174
+    proximity: 0.8174 {macula-proximity}
   - strongs: H6810
-    proximity: 0.8162
+    lemma: צָעִיר
+    gloss: little {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H6792
-    proximity: 0.7769
+    lemma: צֹנֵא
+    gloss: a flock {openscriptures-strongs}
+    proximity: 0.7769 {macula-proximity}
   - strongs: H6995
-    proximity: 0.773
+    lemma: קֹטֶן
+    gloss: a pettiness {openscriptures-strongs}
+    proximity: 0.773 {macula-proximity}
   - strongs: H6629
-    proximity: 0.7629
+    lemma: צֹאן
+    gloss: a collective name for a flock {openscriptures-strongs}
+    proximity: 0.7629 {macula-proximity}
   - strongs: H2191
-    proximity: 0.7604
+    lemma: זְעֵיר
+    gloss: small {openscriptures-strongs}
+    proximity: 0.7604 {macula-proximity}
   cross_language:
   - strongs: G570a
-    proximity: 0.8087
+    proximity: 0.8087 {macula-proximity}
     language: greek
   - strongs: G5040
-    proximity: 0.8077
+    lemma: τεκνίον
+    gloss: an infant {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
     language: greek
   - strongs: G3640
-    proximity: 0.7999
+    lemma: ὀλιγόπιστος
+    gloss: incredulous {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
     language: greek
   - strongs: G974
-    proximity: 0.792
+    proximity: 0.792 {macula-proximity}
     language: greek
   - strongs: G1647
-    proximity: 0.7867
+    lemma: ἐλαχιστότερος
+    gloss: far less {openscriptures-strongs}
+    proximity: 0.7867 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

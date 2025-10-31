@@ -7,54 +7,90 @@ definition: to be (causatively, make) bare; hence, to empty, pour out, demolish
 kjv_usage: leave destitute, discover, empty, make naked, pour (out), rase, spread
   self, uncover.
 derivation: a primitive root;
-extended_definition:
-  gloss: to uncover
-  definition: 1) to be bare, be nude, uncover, leave destitute, discover, empty, raze,
-    pour out<br>1a) (Piel)<br>1a1) to bare, lay bare<br>1a2) to lay bare by emptying,
-    empty<br>1a3) to pour out<br>1b) (Hiphil)<br>1b1) to make naked, strip bare (of
-    sexual offences)<br>1b2) to pour out<br>1c) (Niphal) to be poured out, be exposed<br>1d)
-    (Hithpael)<br>1d1) to expose oneself, make oneself naked<br>1d2) pouring oneself,
-    spreading oneself (participle)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be bare, be nude, uncover, leave destitute, discover,
+  empty, raze, pour out
+
+  1a) (Piel)
+
+  1a1) to bare, lay bare
+
+  1a2) to lay bare by emptying, empty
+
+  1a3) to pour out
+
+  1b) (Hiphil)
+
+  1b1) to make naked, strip bare (of sexual offences)
+
+  1b2) to pour out
+
+  1c) (Niphal) to be poured out, be exposed
+
+  1d) (Hithpael)
+
+  1d1) to expose oneself, make oneself naked
+
+  1d2) pouring oneself, spreading oneself (participle) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5255
-    proximity: 0.8188
+    lemma: נָסַח
+    gloss: to tear away {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
   - strongs: H6581
-    proximity: 0.8178
+    lemma: פָּשָׂה
+    gloss: to spread {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   - strongs: H7843
-    proximity: 0.8095
+    lemma: שָׁחַת
+    gloss: to decay {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
   - strongs: H8045
-    proximity: 0.8094
+    lemma: שָׁמַד
+    gloss: to desolate {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
   - strongs: H2040
-    proximity: 0.8053
+    lemma: הָרַס
+    gloss: to pull down or in pieces {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H2229a
-    proximity: 0.8007
+    proximity: 0.8007 {macula-proximity}
   - strongs: H6566
-    proximity: 0.7998
+    lemma: פָּרַשׂ
+    gloss: to break apart {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
   - strongs: H6555
-    proximity: 0.7958
+    lemma: פָּרַץ
+    gloss: to break out (in many applications {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
   - strongs: H2107
-    proximity: 0.7925
+    lemma: זוּל
+    gloss: probably to shake out {openscriptures-strongs}
+    proximity: 0.7925 {macula-proximity}
   cross_language:
   - strongs: G2506
-    proximity: 0.8295
+    lemma: καθαίρεσις
+    gloss: demolition {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G1132
-    proximity: 0.8271
+    lemma: γυμνότης
+    gloss: nudity {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G2758
-    proximity: 0.8172
+    lemma: κενόω
+    gloss: to make empty {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
     language: greek
   - strongs: G1651
-    proximity: 0.7923
+    lemma: ἐλέγχω
+    gloss: to confute {openscriptures-strongs}
+    proximity: 0.7923 {macula-proximity}
     language: greek
   - strongs: G1212
-    proximity: 0.7907
+    lemma: δῆλος
+    gloss: clear {openscriptures-strongs}
+    proximity: 0.7907 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

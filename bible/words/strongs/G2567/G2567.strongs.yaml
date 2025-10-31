@@ -5,54 +5,69 @@ transliteration: kalodidáskalos
 definition: a teacher of the right
 kjv_usage: teacher of good things
 derivation: from G2570 (καλός) and G1320 (διδάσκαλος);
-extended_definition:
-  gloss: teaching good
-  definition: '<b>καλο-διδάσκαλος</b>, -ου, ὁ <BR /> <b>a teacher of that which is
-    good</b>: <ref=''Tit.2.3.''>Tit.2:3.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> κᾰλο-δῐδάσκᾰλος</b>, ὁ, <br /> <b>teacher of virtue,</b> [<a
-    href="javascript:void(0)" title="NT.Tit.2.3. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'καλο-διδάσκαλος, -ου, ὁ
+
+  a teacher of that which is good: Tit.2:3.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κᾰλο-δῐδάσκᾰλος, ὁ,
+
+  teacher of virtue, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1511
-    proximity: 0.8273
+    lemma: εἶναι
+    gloss: to exist {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
   - strongs: G2071
-    proximity: 0.8246
+    lemma: ἔσομαι
+    gloss: will be {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: A4479
-    proximity: 0.8231
+    proximity: 0.8231 {macula-proximity}
   - strongs: G2108
-    proximity: 0.8207
+    lemma: εὐεργεσία
+    gloss: beneficence {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: G2076
-    proximity: 0.8201
+    lemma: ἐστί
+    gloss: he  is {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: G2095
-    proximity: 0.8131
+    lemma: εὖ
+    gloss: well {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
   - strongs: G1318
-    proximity: 0.8125
+    lemma: διδακτός
+    gloss: instructed {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: G2277
-    proximity: 0.802
+    lemma: ἤτω
+    gloss: let him  be {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
   - strongs: G2077
-    proximity: 0.8
+    lemma: ἔστω
+    gloss: be thou {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: G2727
-    proximity: 0.7996
+    lemma: κατηχέω
+    gloss: to sound down into the ears {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
   cross_language:
   - strongs: H8231
-    proximity: 0.8253
+    lemma: שָׁפַר
+    gloss: to glisten {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
     language: hebrew
   - strongs: H2642
-    proximity: 0.8064
+    lemma: חֶסְרוֹן
+    gloss: deficiency {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
     language: hebrew
   - strongs: H8150a
-    proximity: 0.8014
+    proximity: 0.8014 {macula-proximity}
     language: hebrew
   - strongs: H2896b
-    proximity: 0.7944
+    proximity: 0.7944 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

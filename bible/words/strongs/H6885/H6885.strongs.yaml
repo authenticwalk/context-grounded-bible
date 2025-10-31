@@ -6,49 +6,59 @@ pronunciation: tso-ref-ee'
 definition: Tsorephi (with the article), an Israelite
 kjv_usage: goldsmith's.
 derivation: from H6884 (צָרַף); refiner;
-extended_definition:
-  gloss: goldsmith
-  definition: goldsmiths
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: goldsmiths {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H259
-    proximity: 0.8175
+    proximity: 0.8175 {macula-proximity}
   - strongs: H7546
-    proximity: 0.8173
+    lemma: רַקָּח
+    gloss: a male perfumer {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
   - strongs: H7192
-    proximity: 0.815
+    lemma: קְשִׂיטָה
+    gloss: an ingot {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: H2091
-    proximity: 0.7967
+    lemma: זָהָב
+    gloss: gold {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
   - strongs: H1121
-    proximity: 0.7937
+    lemma: בֵּן
+    gloss: a son {openscriptures-strongs}
+    proximity: 0.7937 {macula-proximity}
   - strongs: H3701
-    proximity: 0.7792
+    lemma: כֶּסֶף
+    gloss: silver {openscriptures-strongs}
+    proximity: 0.7792 {macula-proximity}
   - strongs: A1722
-    proximity: 0.7729
+    proximity: 0.7729 {macula-proximity}
   - strongs: A1b
-    proximity: 0.7675
+    proximity: 0.7675 {macula-proximity}
   - strongs: A3702
-    proximity: 0.7653
+    proximity: 0.7653 {macula-proximity}
   cross_language:
   - strongs: G3391
-    proximity: 0.8294
+    lemma: μία
+    gloss: one or first {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G5557
-    proximity: 0.8137
+    lemma: χρυσός
+    gloss: gold {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
     language: greek
   - strongs: G693a
-    proximity: 0.8079
+    proximity: 0.8079 {macula-proximity}
     language: greek
   - strongs: G3673
-    proximity: 0.8014
+    lemma: ὁμότεχνος
+    gloss: a fellow-artificer {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
     language: greek
   - strongs: G1520
-    proximity: 0.7941
+    lemma: εἷς
+    gloss: one {openscriptures-strongs}
+    proximity: 0.7941 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -8,46 +8,61 @@ definition: a collective name for a flock (of sheep or goats); also figuratively
 kjv_usage: (small) cattle, flock ([phrase] -s), lamb ([phrase] -s), sheep(-cote, -fold,
   -shearer, -herds).
 derivation: or צאוֹן; (Psalm 144:13), from an unused root meaning to migrate;
-extended_definition:
-  gloss: Sheep (Gate)
-  definition: 'This name means  sheep and goats<BR>Also named: <i>probatikos</i> (προβατικός
-    "Sheep Gate" G4262)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: 'This name means  sheep and goats
+
+  Also named: probatikos (προβατικός "Sheep Gate" G4262) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1886a
-    proximity: 0.8293
+    proximity: 0.8293 {macula-proximity}
   - strongs: H689
-    proximity: 0.8221
+    proximity: 0.8221 {macula-proximity}
   - strongs: H3277
-    proximity: 0.8211
+    lemma: יָעֵל
+    gloss: an ibex {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
   - strongs: H6785
-    proximity: 0.8201
+    lemma: צֶמֶר
+    gloss: wool {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: H6499
-    proximity: 0.818
+    lemma: פַּר
+    gloss: a bullock (apparently as breaking forth in wild strength {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: H5347
-    proximity: 0.8169
+    lemma: נְקֵבָה
+    gloss: female {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: H6260
-    proximity: 0.8023
+    lemma: עַתּוּד
+    gloss: prepared {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
   - strongs: H8166
-    proximity: 0.8007
+    lemma: שְׂעִירָה
+    gloss: a she-goat {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: H1494
-    proximity: 0.7993
+    lemma: גַּזָז
+    gloss: to cut off {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
   - strongs: H3733
-    proximity: 0.7882
+    lemma: כַּר
+    gloss: a ram {openscriptures-strongs}
+    proximity: 0.7882 {macula-proximity}
   cross_language:
   - strongs: G4165
-    proximity: 0.8296
+    lemma: ποιμαίνω
+    gloss: to tend as a shepherd of (figuratively {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G3793
-    proximity: 0.8294
+    lemma: ὄχλος
+    gloss: a throng {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G3374
-    proximity: 0.805
+    lemma: μηλωτή
+    gloss: a sheep-skin {openscriptures-strongs}
+    proximity: 0.805 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

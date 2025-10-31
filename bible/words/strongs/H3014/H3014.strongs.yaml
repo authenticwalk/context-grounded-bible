@@ -7,42 +7,56 @@ definition: to push away
 kjv_usage: be removed.
 derivation: a primitive root (probably rather the same as H3013 (יָגָה) through the
   common idea of dissatisfaction);
-extended_definition:
-  gloss: to thrust away
-  definition: (Hiphil) to repel, thrust away, push away
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Hiphil) to repel, thrust away, push away {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1540
-    proximity: 0.8272
+    lemma: גָּלָה
+    gloss: to denude {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: H7368
-    proximity: 0.8268
+    lemma: רָחַק
+    gloss: to widen {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: H5265
-    proximity: 0.8212
+    lemma: נָסַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   - strongs: H5375
-    proximity: 0.8181
+    lemma: נָשָׂא
+    gloss: to lift {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
   - strongs: H6605
-    proximity: 0.818
+    lemma: פָּתַח
+    gloss: to open wide {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: H3318
-    proximity: 0.8159
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H5437
-    proximity: 0.8092
+    lemma: סָבַב
+    gloss: to revolve {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: H2502
-    proximity: 0.8051
+    lemma: חָלַץ
+    gloss: to pull off {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
   - strongs: H1972
-    proximity: 0.7986
+    lemma: הָלָא
+    gloss: to remove or be remote {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
   - strongs: H5674
-    proximity: 0.7979
+    lemma: עָבַר
+    gloss: to cross over {openscriptures-strongs}
+    proximity: 0.7979 {macula-proximity}
   cross_language:
   - strongs: G3334
-    proximity: 0.8101
+    lemma: μετακινέω
+    gloss: to stir to a place elsewhere {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
     language: greek
   - strongs: G673
-    proximity: 0.795
+    proximity: 0.795 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

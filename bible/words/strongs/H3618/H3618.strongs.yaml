@@ -6,24 +6,27 @@ pronunciation: kal-law'
 definition: a bride (as if perfect); hence, a son's wife
 kjv_usage: bride, daughter-in-law, spouse.
 derivation: from H3634 (כָּלַל);
-extended_definition:
-  gloss: daughter-in-law
-  definition: ': daughter-in-law<br>1) bride, daughter-in-law<br>1a) daughter-in-law<br>1b)
-    bride, young wife'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: ': daughter-in-law
+
+  1) bride, daughter-in-law
+
+  1a) daughter-in-law
+
+  1b) bride, young wife {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3623
-    proximity: 0.8078
+    lemma: כְּלוּלָה
+    gloss: bridehood {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   - strongs: H2319
-    proximity: 0.8049
+    lemma: חָדָשׁ
+    gloss: new {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   cross_language:
   - strongs: G1135
-    proximity: 0.7841
+    lemma: γυνή
+    gloss: a woman {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

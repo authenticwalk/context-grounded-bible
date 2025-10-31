@@ -6,46 +6,64 @@ pronunciation: khaw-shaw'
 definition: to hush or keep quiet
 kjv_usage: hold peace, keep silence, be silent, (be) still.
 derivation: a primitive root;
-extended_definition:
-  gloss: be silent
-  definition: 1) to be silent, quiet, still, inactive<br>1a) (Qal) to be silent, be
-    still<br>1b) (Hiphil)<br>1b1) to be silent, exhibit silence<br>1b2) to show inactivity,
-    be inactive<br>1b3) to make silent, make quiet, cause to be still
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be silent, quiet, still, inactive
+
+  1a) (Qal) to be silent, be still
+
+  1b) (Hiphil)
+
+  1b1) to be silent, exhibit silence
+
+  1b2) to show inactivity, be inactive
+
+  1b3) to make silent, make quiet, cause to be still {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5750
-    proximity: 0.8247
+    lemma: עוֹד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H7623a
-    proximity: 0.8225
+    proximity: 0.8225 {macula-proximity}
   - strongs: H1827
-    proximity: 0.8172
+    lemma: דְּמָמָה
+    gloss: quiet {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
   - strongs: H1747
-    proximity: 0.8109
+    lemma: דּוּמִיָּה
+    gloss: stillness {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
   - strongs: H1826b
-    proximity: 0.7855
+    proximity: 0.7855 {macula-proximity}
   - strongs: H8367
-    proximity: 0.7749
+    lemma: שָׁתַק
+    gloss: to subside {openscriptures-strongs}
+    proximity: 0.7749 {macula-proximity}
   - strongs: H5535
-    proximity: 0.7184
+    lemma: סָכַת
+    gloss: by implication {openscriptures-strongs}
+    proximity: 0.7184 {macula-proximity}
   - strongs: H1748
-    proximity: 0.7091
+    lemma: דּוּמָם
+    gloss: still {openscriptures-strongs}
+    proximity: 0.7091 {macula-proximity}
   cross_language:
   - strongs: G2272
-    proximity: 0.8275
+    lemma: ἡσύχιος
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
     language: greek
   - strongs: G880
-    proximity: 0.7601
+    proximity: 0.7601 {macula-proximity}
     language: greek
   - strongs: G5392
-    proximity: 0.7591
+    lemma: φιμόω
+    gloss: to muzzle {openscriptures-strongs}
+    proximity: 0.7591 {macula-proximity}
     language: greek
   - strongs: G4602
-    proximity: 0.7554
+    lemma: σιγή
+    gloss: silence {openscriptures-strongs}
+    proximity: 0.7554 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

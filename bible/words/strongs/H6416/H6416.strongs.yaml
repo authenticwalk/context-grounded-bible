@@ -6,47 +6,62 @@ pronunciation: pel-ee-lee'
 definition: judicial
 kjv_usage: judge.
 derivation: from H6414 (פָּלִיל);
-extended_definition:
-  gloss: judge
-  definition: for a judge, calling for judgment, judicial, assessable, criminal
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: for a judge, calling for judgment, judicial, assessable, criminal
+  {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2742d
-    proximity: 0.8205
+    proximity: 0.8205 {macula-proximity}
   - strongs: H6066
-    proximity: 0.8128
+    lemma: עֹנֶשׁ
+    gloss: a fine {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
   - strongs: H8433
-    proximity: 0.7906
+    lemma: תּוֹכֵחָה
+    gloss: chastisement {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
   - strongs: H1777
-    proximity: 0.7891
+    lemma: דִּין
+    gloss: a straight course {openscriptures-strongs}
+    proximity: 0.7891 {macula-proximity}
   - strongs: A8614
-    proximity: 0.7812
+    proximity: 0.7812 {macula-proximity}
   - strongs: H1244
-    proximity: 0.7806
+    lemma: בִּקֹּרֶת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
   - strongs: H4941
-    proximity: 0.7663
+    lemma: מִשְׁפָּט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7663 {macula-proximity}
   - strongs: H6486
-    proximity: 0.7629
+    lemma: פְּקֻדָּה
+    gloss: visitation (in many senses {openscriptures-strongs}
+    proximity: 0.7629 {macula-proximity}
   cross_language:
   - strongs: G2564
-    proximity: 0.8258
+    lemma: καλέω
+    gloss: to "call" (properly {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G2821
-    proximity: 0.8167
+    lemma: κλῆσις
+    gloss: an invitation {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G1063
-    proximity: 0.8164
+    lemma: γάρ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
     language: greek
   - strongs: G5534
-    proximity: 0.8083
+    lemma: χρή
+    gloss: it needs  be {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
     language: greek
   - strongs: G1349
-    proximity: 0.8043
+    lemma: δίκη
+    gloss: right {openscriptures-strongs}
+    proximity: 0.8043 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

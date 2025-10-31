@@ -7,38 +7,40 @@ definition: as abstractly (in plural masculine) a ransom
 kjv_usage: (that are) to be (that were) redeemed.
 derivation: passive participle of H6299 (פָּדָה). ransomed (and so occurring under
   H6299 (פָּדָה));
-extended_definition:
-  gloss: ransomed
-  definition: ransom
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ransom {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A1722
-    proximity: 0.822
+    proximity: 0.822 {macula-proximity}
   - strongs: H1350
-    proximity: 0.8147
+    lemma: גָּאַל
+    gloss: to be the next of kin (and as such to buy back a relative's property {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: A3702
-    proximity: 0.8131
+    proximity: 0.8131 {macula-proximity}
   - strongs: H3701
-    proximity: 0.7898
+    lemma: כֶּסֶף
+    gloss: silver {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
   - strongs: H4242
-    proximity: 0.7795
+    lemma: מְחִיר
+    gloss: price {openscriptures-strongs}
+    proximity: 0.7795 {macula-proximity}
   - strongs: H1350a
-    proximity: 0.7493
+    proximity: 0.7493 {macula-proximity}
   - strongs: H6304
-    proximity: 0.7386
+    lemma: פְּדוּת
+    gloss: distinction {openscriptures-strongs}
+    proximity: 0.7386 {macula-proximity}
   - strongs: H6299
-    proximity: 0.7261
+    lemma: פָּדָה
+    gloss: to sever {openscriptures-strongs}
+    proximity: 0.7261 {macula-proximity}
   cross_language:
   - strongs: G696
-    proximity: 0.8166
+    proximity: 0.8166 {macula-proximity}
     language: greek
   - strongs: G629
-    proximity: 0.7228
+    proximity: 0.7228 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

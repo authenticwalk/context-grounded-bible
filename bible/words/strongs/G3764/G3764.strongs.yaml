@@ -5,58 +5,57 @@ transliteration: oudépō
 definition: not even yet
 kjv_usage: as yet not, never before (yet), (not) yet
 derivation: from G3761 (οὐδέ) and G4452 (-πω);
-extended_definition:
-  gloss: not yet
-  definition: '<b>οὐδέπω </b><BR /> <i>adv.</i>, [in LXX: <ref=''Exo.9.30''>Exo.9:30</ref>
-    (טֶרֶם)* ;] <BR /><b>not yet</b>: <ref=''Luk.23.53''>Luk.23:53</ref>, <ref=''Jhn.7.39;
-    19.41; 20.9''>Jhn.7:39 19:41 20:9</ref>, <ref=''Act.8.16''>Act.8:16</ref>.†<BR
-    /> (AS)'
-  morphology: G:ADV-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> οὐδέ πω</b>, <br /> <i>conjunction</i> and <i>adverb</i> <b>and
-    not yet, not as yet</b>, [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus
-    Tragicus “Prometheus Vinctus” 322, 5th-6th c.BC: Plato Philosophus “Symposium”
-    172c, etc.: in 8th c.BC: Homerus Epicus, mostly with a word between, οὐδέ τί πω,
-    οὐδ᾽ ἄν πω, etc., always of the past (compare οὔπω)">Refs 8th c.BC+</a>]: later
-    with <i>present</i>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato
-    Philosophus “Phaedo” 106b, etc.; σὺ δὲ οὐδέπω ὁρᾷς 2nd c.AD: Lucianus Sophista
-    “Merc.Cond.” 21 ">Refs 5th c.BC+</a>]: with <i>future</i>, ὅσον οὐδέπω συμβήσεσθαι
-    [<a href="javascript:void(0)" title=" 1st c.BC: Zosimus Epigrammaticus 2.1 ">Refs
-    1st c.BC+</a>]; compare οὐδέποτε.'
-  source: STEPBible/LSJ
+extended_definition: 'οὐδέπω
+
+  adv., [in LXX: Exo.9:30 (טֶרֶם)* ;]
+
+  not yet: Luk.23:53, Jhn.7:39 19:41 20:9, Act.8:16.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'οὐδέ πω,
+
+  conjunction and adverb and not yet, not as yet, [Refs 8th c.BC+]: later with present,
+  [Refs 5th c.BC+]: with future, ὅσον οὐδέπω συμβήσεσθαι [Refs 1st c.BC+]; compare
+  οὐδέποτε. {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G178
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
   - strongs: G3653
-    proximity: 0.8243
+    lemma: ὄλυνθος
+    gloss: an unripe  fig {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: G413
-    proximity: 0.8221
+    proximity: 0.8221 {macula-proximity}
   - strongs: G1773
-    proximity: 0.8172
+    lemma: ἔννυχον
+    gloss: by night {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
   - strongs: G4250
-    proximity: 0.8142
+    lemma: πρίν
+    gloss: prior {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: G1820
-    proximity: 0.8108
+    lemma: ἐξαπορέομαι
+    gloss: to be utterly at a loss {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
   - strongs: G532
-    proximity: 0.8099
+    proximity: 0.8099 {macula-proximity}
   - strongs: G1576
-    proximity: 0.8077
+    lemma: ἐκκλείω
+    gloss: to shut out {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
   - strongs: G880
-    proximity: 0.805
+    proximity: 0.805 {macula-proximity}
   - strongs: G459
-    proximity: 0.7976
+    proximity: 0.7976 {macula-proximity}
   cross_language:
   - strongs: H648
-    proximity: 0.8202
+    proximity: 0.8202 {macula-proximity}
     language: hebrew
   - strongs: H3724
-    proximity: 0.8013
+    lemma: כֹּפֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

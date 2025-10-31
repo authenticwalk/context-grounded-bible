@@ -6,35 +6,43 @@ pronunciation: tso
 definition: soiled (as if excrementitious)
 kjv_usage: filthy.
 derivation: or צֹא; from an unused root meaning to issue;
-extended_definition:
-  gloss: filthy
-  definition: adj<br>1) (BDB) filthy<br>n m<br>2) (CLBL) filth
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: 'adj
+
+  1) (BDB) filthy
+
+  n m
+
+  2) (CLBL) filth {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2610
-    proximity: 0.7639
+    lemma: חָנֵף
+    gloss: to soil {openscriptures-strongs}
+    proximity: 0.7639 {macula-proximity}
   - strongs: H2932
-    proximity: 0.7518
+    lemma: טֻמְאָה
+    gloss: religious impurity {openscriptures-strongs}
+    proximity: 0.7518 {macula-proximity}
   - strongs: H1351
-    proximity: 0.7462
+    lemma: גָּאַל
+    gloss: to soil or  desecrate {openscriptures-strongs}
+    proximity: 0.7462 {macula-proximity}
   - strongs: H444
-    proximity: 0.7158
+    proximity: 0.7158 {macula-proximity}
   - strongs: H5079
-    proximity: 0.7083
+    lemma: נִדָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7083 {macula-proximity}
   cross_language:
   - strongs: G283
-    proximity: 0.7688
+    proximity: 0.7688 {macula-proximity}
     language: greek
   - strongs: G169
-    proximity: 0.7584
+    proximity: 0.7584 {macula-proximity}
     language: greek
   - strongs: G4695
-    proximity: 0.7009
+    lemma: σπιλόω
+    gloss: to stain or soil {openscriptures-strongs}
+    proximity: 0.7009 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

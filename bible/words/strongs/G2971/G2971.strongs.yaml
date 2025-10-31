@@ -6,33 +6,25 @@ definition: a mosquito (from its stinging proboscis)
 kjv_usage: gnat
 derivation: apparently a derivative of the base of G2759 (κέντρον) and a derivative
   of G3700 (ὀπτάνομαι);
-extended_definition:
-  gloss: gnat
-  definition: <b>a gnat, mosquito </b>, Lat. <i>culex</i>, (Herdotus Historicus),
-    etc. (ML)
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κώνωψ</b>, ωπος, ὁ, <br /> <b>gnat, mosquito</b>, [<a href="javascript:void(0)"
-    title=" 4th-5th c.BC: Aeschylus Tragicus “Agamemnon” 892, 5th c.BC: Herodotus
-    Historicus 2.95, Oracle texts cited in 5th-6th c.BC: Aristophanes Comicus “Equites”
-    1038, 4th c.BC: Aristoteles Philosophus “Historia Animalium” 535a3, 552b5; μήτε
-    ὡς λέων ἀναστρέφου μήτε ὡς κ. 4th c.AD: Metrodorus Epigrammaticus “fragment” 60.
-    ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: a gnat, mosquito , Lat. culex, (Herdotus Historicus), etc. (ML)
+  {STEPBible-TBESG}
+etymology: 'κώνωψ, ωπος, ὁ,
+
+  gnat, mosquito, [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4597
-    proximity: 0.781
+    lemma: σής
+    gloss: a moth {openscriptures-strongs}
+    proximity: 0.781 {macula-proximity}
   - strongs: G4663
-    proximity: 0.7778
+    lemma: σκώληξ
+    gloss: a grub {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   cross_language:
   - strongs: H7415
-    proximity: 0.8131
+    lemma: רִמָּה
+    gloss: a maggot {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

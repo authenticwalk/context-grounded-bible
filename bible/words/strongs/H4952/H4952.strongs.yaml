@@ -6,39 +6,47 @@ pronunciation: mish-raw'
 definition: maceration, i.e. steeped juice
 kjv_usage: liquor.
 derivation: from H8281 (שָׁרָה) in the sense of loosening;
-extended_definition:
-  gloss: juice
-  definition: juice
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: juice {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1612
-    proximity: 0.8286
+    lemma: גֶּפֶן
+    gloss: a vine {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: H809
-    proximity: 0.8201
+    proximity: 0.8201 {macula-proximity}
   - strongs: H3754
-    proximity: 0.8199
+    lemma: כֶּרֶם
+    gloss: a garden or vineyard {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H6778
-    proximity: 0.8197
+    lemma: צַמּוּק
+    gloss: a cake of dried grapes {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
   - strongs: H6071
-    proximity: 0.8162
+    lemma: עָסִיס
+    gloss: must or fresh grape-juice {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H1831
-    proximity: 0.7958
+    lemma: דֶּמַע
+    gloss: a tear {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
   - strongs: H1155
-    proximity: 0.7946
+    lemma: בֹּסֶר
+    gloss: '{an immature grape} {openscriptures-strongs}'
+    proximity: 0.7946 {macula-proximity}
   cross_language:
   - strongs: G290
-    proximity: 0.8179
+    proximity: 0.8179 {macula-proximity}
     language: greek
   - strongs: G4213
-    proximity: 0.7942
+    lemma: πόσις
+    gloss: a drinking {openscriptures-strongs}
+    proximity: 0.7942 {macula-proximity}
     language: greek
   - strongs: G4718
-    proximity: 0.7394
+    lemma: σταφυλή
+    gloss: a cluster of grapes {openscriptures-strongs}
+    proximity: 0.7394 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

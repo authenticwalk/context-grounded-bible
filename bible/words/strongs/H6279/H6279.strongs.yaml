@@ -6,49 +6,69 @@ pronunciation: aw-thar'
 definition: to burn incense in worship, i.e. intercede (reciprocally, listen to prayer)
 kjv_usage: intreat, (make) pray(-er).
 derivation: a primitive root (rather denominative from H6281 (עֶתֶר));
-extended_definition:
-  gloss: to pray
-  definition: 1) to pray, entreat, supplicate<br>1a) (Qal) to pray, entreat<br>1b)
-    (Niphal) to be supplicated, be entreated<br>1c) (Hiphil) to make supplication,
-    plead
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to pray, entreat, supplicate
+
+  1a) (Qal) to pray, entreat
+
+  1b) (Niphal) to be supplicated, be entreated
+
+  1c) (Hiphil) to make supplication, plead {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1246
-    proximity: 0.8233
+    lemma: בַּקָּשָׁה
+    gloss: a petition {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H8085
-    proximity: 0.8145
+    lemma: שָׁמַע
+    gloss: to hear intelligently (often with implication of attention {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
   - strongs: H2199
-    proximity: 0.8124
+    lemma: זָעַק
+    gloss: to shriek {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: H7773
-    proximity: 0.8034
+    lemma: שֶׁוַע
+    gloss: a halloo {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
   - strongs: A2604
-    proximity: 0.7979
+    proximity: 0.7979 {macula-proximity}
   - strongs: H6293
-    proximity: 0.746
+    lemma: פָּגַע
+    gloss: to impinge {openscriptures-strongs}
+    proximity: 0.746 {macula-proximity}
   - strongs: H7592
-    proximity: 0.7154
+    lemma: שָׁאַל
+    gloss: to inquire {openscriptures-strongs}
+    proximity: 0.7154 {macula-proximity}
   - strongs: H6030
-    proximity: 0.7009
+    lemma: עָנָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7009 {macula-proximity}
   cross_language:
   - strongs: G1656
-    proximity: 0.8258
+    lemma: ἔλεος
+    gloss: compassion (human or divine {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G1905
-    proximity: 0.817
+    lemma: ἐπερωτάω
+    gloss: to ask for {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
     language: greek
   - strongs: G1906
-    proximity: 0.8121
+    lemma: ἐπερώτημα
+    gloss: an inquiry {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
     language: greek
   - strongs: G1873
-    proximity: 0.7548
+    lemma: ἐπακούω
+    gloss: to hearken  to {openscriptures-strongs}
+    proximity: 0.7548 {macula-proximity}
     language: greek
   - strongs: G2428
-    proximity: 0.7281
+    lemma: ἱκετηρία
+    gloss: intreaty {openscriptures-strongs}
+    proximity: 0.7281 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

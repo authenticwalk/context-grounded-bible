@@ -5,48 +5,58 @@ transliteration: krýptē
 definition: a hidden place, i.e. cellar ("crypt")
 kjv_usage: secret
 derivation: feminine of G2927 (κρυπτός);
-extended_definition:
-  gloss: cellar
-  definition: '<b>κρύπτη</b> (WH, R; κρυπτή, LT, Tr.; -όν, Rec.), -ης, ἡ, <BR /> <b>a
-    crypt, cellar</b>: <ref=''Luk.11.33.''>Luk.11:33.</ref>†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κρυπ-τή</b>, ἡ, <br /> <b>crypt, vault</b>, [<a href="javascript:void(0)"
-    title=" 3rd c.BC(?): Callixinus Historicus 1. ">Refs 3rd c.BC+</a>]<br /><Level2><b>__II</b></Level2>
-    see at {κρυπτός} ad near the end'
-  source: STEPBible/LSJ
+extended_definition: 'κρύπτη (WH, R; κρυπτή, LT, Tr.; -όν, Rec.), -ης, ἡ,
+
+  a crypt, cellar: Luk.11:33.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κρυπ-τή, ἡ,
+
+  crypt, vault, [Refs 3rd c.BC+]
+
+  __II see at {κρυπτός} ad near the end {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3699
-    proximity: 0.8031
+    lemma: ὅπου
+    gloss: what where {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
   - strongs: G5561
-    proximity: 0.7928
+    lemma: χώρα
+    gloss: room {openscriptures-strongs}
+    proximity: 0.7928 {macula-proximity}
   - strongs: A2508
-    proximity: 0.7918
+    proximity: 0.7918 {macula-proximity}
   - strongs: G4009
-    proximity: 0.7916
+    lemma: πέρας
+    gloss: an extremity {openscriptures-strongs}
+    proximity: 0.7916 {macula-proximity}
   - strongs: G237a
-    proximity: 0.7894
+    proximity: 0.7894 {macula-proximity}
   cross_language:
   - strongs: H4492
-    proximity: 0.8243
+    lemma: מִנְהָרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: hebrew
   - strongs: H4774
-    proximity: 0.8236
+    lemma: מַרְגֵּעָה
+    gloss: rest {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
     language: hebrew
   - strongs: H2788
-    proximity: 0.8195
+    lemma: חָרֵר
+    gloss: arid {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
     language: hebrew
   - strongs: H4857
-    proximity: 0.8103
+    lemma: מַשְׁאָב
+    gloss: a trough for cattle to drink from {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
     language: hebrew
   - strongs: H8613
-    proximity: 0.8103
+    lemma: תׇּפְתֶּה
+    gloss: Tophteh {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

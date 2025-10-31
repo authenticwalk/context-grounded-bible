@@ -6,30 +6,38 @@ pronunciation: saw-rakh'
 definition: to extend (even to excess)
 kjv_usage: exceeding, hand, spread, stretch self, banish.
 derivation: a primitive root;
-extended_definition:
-  gloss: to overrun
-  definition: 1) to go free, be unrestrained, be overrun, exceed, overhang, grow luxuriously<br>1a)
-    (Qal)<br>1a1) to go free, be unrestrained, sprawl<br>1a1a) overrunning, spreading
-    (participle)<br>1a2) to overhang<br>1b) (Niphal) to be let loose or dismissed
-    or gone
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to go free, be unrestrained, be overrun, exceed, overhang,
+  grow luxuriously
+
+  1a) (Qal)
+
+  1a1) to go free, be unrestrained, sprawl
+
+  1a1a) overrunning, spreading (participle)
+
+  1a2) to overhang
+
+  1b) (Niphal) to be let loose or dismissed or gone {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8311
-    proximity: 0.8022
+    lemma: שָׂרַע
+    gloss: to prolong {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
   cross_language:
   - strongs: G4482
-    proximity: 0.829
+    lemma: ῥέω
+    gloss: for some tenses of which a prolonged form is used to flow ("run" {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G1614
-    proximity: 0.7599
+    lemma: ἐκτείνω
+    gloss: to extend {openscriptures-strongs}
+    proximity: 0.7599 {macula-proximity}
     language: greek
   - strongs: G3935
-    proximity: 0.7258
+    lemma: παρίημι
+    gloss: to let by {openscriptures-strongs}
+    proximity: 0.7258 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

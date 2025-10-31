@@ -7,50 +7,77 @@ definition: to gaze at; mentally to perceive, contemplate (with pleasure); speci
   to have avision of
 kjv_usage: behold, look, prophesy, provide, see.
 derivation: a primitive root;
-extended_definition:
-  gloss: to see
-  definition: '1) to see, perceive, look, behold, prophesy, provide<br>1a) (Qal)<br>1a1)
-    to see, behold<br>1a2) to see as a seer in the ecstatic state<br>1a3) to see,
-    perceive<br>1a3a) with the intelligence<br>1a3b) to see (by experience)<br>1a3c)
-    to provide<BR>Aramaic equivalent: <i>cha.zah</i> (חֲזָה "to see" H2370)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to see, perceive, look, behold, prophesy, provide
+
+  1a) (Qal)
+
+  1a1) to see, behold
+
+  1a2) to see as a seer in the ecstatic state
+
+  1a3) to see, perceive
+
+  1a3a) with the intelligence
+
+  1a3b) to see (by experience)
+
+  1a3c) to provide
+
+  Aramaic equivalent: cha.zah (חֲזָה "to see" H2370) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A7920
-    proximity: 0.8212
+    proximity: 0.8212 {macula-proximity}
   - strongs: H5234
-    proximity: 0.8211
+    lemma: נָכַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
   - strongs: H6448
-    proximity: 0.8143
+    lemma: פָּסַג
+    gloss: to cut up {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
   - strongs: H7207
-    proximity: 0.8011
+    lemma: רַאֲוָה
+    gloss: sight {openscriptures-strongs}
+    proximity: 0.8011 {macula-proximity}
   - strongs: H8259
-    proximity: 0.7928
+    lemma: שָׁקַף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7928 {macula-proximity}
   - strongs: H2378
-    proximity: 0.7861
+    lemma: חָזוֹת
+    gloss: a revelation {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
   - strongs: H2384
-    proximity: 0.7778
+    lemma: חִזָּיוֹן
+    gloss: a revelation {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   - strongs: H7805
-    proximity: 0.7724
+    lemma: שָׁזַף
+    gloss: to tan {openscriptures-strongs}
+    proximity: 0.7724 {macula-proximity}
   cross_language:
   - strongs: G4017
-    proximity: 0.8207
+    lemma: περιβλέπω
+    gloss: to look all around {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
     language: greek
   - strongs: G398
-    proximity: 0.8134
+    proximity: 0.8134 {macula-proximity}
     language: greek
   - strongs: G5316
-    proximity: 0.8087
+    lemma: φαίνω
+    gloss: to lighten {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
     language: greek
   - strongs: G4394
-    proximity: 0.8074
+    lemma: προφητεία
+    gloss: prediction {openscriptures-strongs}
+    proximity: 0.8074 {macula-proximity}
     language: greek
   - strongs: G3701
-    proximity: 0.796
+    lemma: ὀπτασία
+    gloss: visuality {openscriptures-strongs}
+    proximity: 0.796 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

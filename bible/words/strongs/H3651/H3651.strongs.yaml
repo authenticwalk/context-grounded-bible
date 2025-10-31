@@ -14,30 +14,41 @@ derivation: from H3559 (כּוּן);
 related_words:
   synonyms:
   - strongs: H2008
-    proximity: 0.8264
+    lemma: הֵנָּה
+    gloss: hither or thither {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H349b
-    proximity: 0.8256
+    proximity: 0.8256 {macula-proximity}
   - strongs: A4481
-    proximity: 0.8248
+    proximity: 0.8248 {macula-proximity}
   - strongs: H1870
-    proximity: 0.8172
+    lemma: דֶּרֶךְ
+    gloss: a road {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
   cross_language:
   - strongs: G5602
-    proximity: 0.8295
+    lemma: ὧδε
+    gloss: in this same spot {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G2505
-    proximity: 0.8295
+    lemma: καθά
+    gloss: according to which things {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G3665
-    proximity: 0.8288
+    lemma: ὁμοιότης
+    gloss: resemblance {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
     language: greek
   - strongs: G5128
-    proximity: 0.8283
+    lemma: τούτους
+    gloss: these (persons {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
     language: greek
   - strongs: G1952
-    proximity: 0.8276
+    lemma: ἐπιλείπω
+    gloss: to leave upon {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

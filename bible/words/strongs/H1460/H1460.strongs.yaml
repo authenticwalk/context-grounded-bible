@@ -9,32 +9,37 @@ derivation: from H1342 (גָּאָה) (corresponding to H1354 (גַב));
 related_words:
   synonyms:
   - strongs: H1480
-    proximity: 0.8299
+    lemma: גּוּפָה
+    gloss: a corpse {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
   - strongs: H7519
-    proximity: 0.8266
+    lemma: רָצָא
+    gloss: to run {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: A6447
-    proximity: 0.816
+    proximity: 0.816 {macula-proximity}
   - strongs: H5472
-    proximity: 0.7878
+    lemma: סוּג
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7878 {macula-proximity}
   - strongs: H310
-    proximity: 0.7857
+    proximity: 0.7857 {macula-proximity}
   cross_language:
   - strongs: G344
-    proximity: 0.8274
+    proximity: 0.8274 {macula-proximity}
     language: greek
   - strongs: G3557
-    proximity: 0.8194
+    lemma: νοσφίζομαι
+    gloss: to sequestrate for oneself {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G523
-    proximity: 0.8152
+    proximity: 0.8152 {macula-proximity}
     language: greek
   - strongs: G470
-    proximity: 0.8124
+    proximity: 0.8124 {macula-proximity}
     language: greek
   - strongs: G488
-    proximity: 0.8053
+    proximity: 0.8053 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

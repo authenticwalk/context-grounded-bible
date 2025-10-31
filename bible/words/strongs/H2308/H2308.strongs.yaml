@@ -8,46 +8,64 @@ definition: properly, to be flabby, i.e. (by implication) desist; (figuratively)
 kjv_usage: cease, end, fall, forbear, forsake, leave (off), let alone, rest, be unoccupied,
   want.
 derivation: a primitive root;
-extended_definition:
-  gloss: to cease
-  definition: 1) to stop, cease, desist, forego, cease to be, leave undone, forbear<br>1a)
-    (Qal)<br>1a1) to cease, come to an end<br>1a2) to cease, leave off
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to stop, cease, desist, forego, cease to be, leave undone,
+  forbear
+
+  1a) (Qal)
+
+  1a1) to cease, come to an end
+
+  1a2) to cease, leave off {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8367
-    proximity: 0.8293
+    lemma: שָׁתַק
+    gloss: to subside {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: A3809
-    proximity: 0.8256
+    proximity: 0.8256 {macula-proximity}
   - strongs: H5627
-    proximity: 0.8195
+    lemma: סָרָה
+    gloss: apostasy {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H1824
-    proximity: 0.8182
+    lemma: דְּמִי
+    gloss: quiet {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
   - strongs: H7092
-    proximity: 0.8176
+    lemma: קָפַץ
+    gloss: to draw together {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   - strongs: H2014
-    proximity: 0.812
+    lemma: הֲפֻגָה
+    gloss: relaxation {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: H5117
-    proximity: 0.811
+    lemma: נוּחַ
+    gloss: to rest {openscriptures-strongs}
+    proximity: 0.811 {macula-proximity}
   cross_language:
   - strongs: G2663
-    proximity: 0.829
+    lemma: κατάπαυσις
+    gloss: reposing down {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G447
-    proximity: 0.828
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G3865
-    proximity: 0.8179
+    lemma: παραθεωρέω
+    gloss: to overlook or disregard {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
     language: greek
   - strongs: G2664
-    proximity: 0.8147
+    lemma: καταπαύω
+    gloss: to settle down {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
     language: greek
   - strongs: G4930
-    proximity: 0.8122
+    lemma: συντέλεια
+    gloss: entire completion {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

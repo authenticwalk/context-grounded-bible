@@ -6,45 +6,59 @@ pronunciation: khaw-zeez'
 definition: a flash of lightning
 kjv_usage: bright cloud, lightning.
 derivation: from an unused root meaning to glare;
-extended_definition:
-  gloss: lightning
-  definition: thunderbolt, lightning flash, lightning, storm, cloud
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: thunderbolt, lightning flash, lightning, storm, cloud {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3940
-    proximity: 0.8274
+    lemma: לַפִּיד
+    gloss: a flambeau {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H6963
-    proximity: 0.8057
+    lemma: קוֹל
+    gloss: a voice or sound {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
   - strongs: H7565
-    proximity: 0.7972
+    lemma: רֶשֶׁף
+    gloss: a live coal {openscriptures-strongs}
+    proximity: 0.7972 {macula-proximity}
   - strongs: H6183
-    proximity: 0.7878
+    lemma: עָרִיף
+    gloss: the sky {openscriptures-strongs}
+    proximity: 0.7878 {macula-proximity}
   - strongs: H1999
-    proximity: 0.7877
+    lemma: הֲמֻלָּה
+    gloss: a sound {openscriptures-strongs}
+    proximity: 0.7877 {macula-proximity}
   - strongs: A6050
-    proximity: 0.7867
+    proximity: 0.7867 {macula-proximity}
   - strongs: H4306
-    proximity: 0.7821
+    lemma: מָטַר
+    gloss: rain {openscriptures-strongs}
+    proximity: 0.7821 {macula-proximity}
   - strongs: H5387a
-    proximity: 0.7723
+    proximity: 0.7723 {macula-proximity}
   - strongs: H7482
-    proximity: 0.7312
+    lemma: רַעַם
+    gloss: a peal of thunder {openscriptures-strongs}
+    proximity: 0.7312 {macula-proximity}
   - strongs: H7452
-    proximity: 0.7083
+    lemma: רֵעַ
+    gloss: a crash {openscriptures-strongs}
+    proximity: 0.7083 {macula-proximity}
   cross_language:
   - strongs: G1028
-    proximity: 0.8284
+    lemma: βροχή
+    gloss: rain {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: greek
   - strongs: G5205
-    proximity: 0.7951
+    lemma: ὑετός
+    gloss: rain {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
     language: greek
   - strongs: G3509
-    proximity: 0.767
+    lemma: νέφος
+    gloss: a cloud {openscriptures-strongs}
+    proximity: 0.767 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

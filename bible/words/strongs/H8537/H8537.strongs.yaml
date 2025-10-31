@@ -7,42 +7,51 @@ definition: completeness; figuratively, prosperity; usually (morally) innocence
 kjv_usage: full, integrity, perfect(-ion), simplicity, upright(-ly, -ness), at a venture.
   See H8550 (תֻּמִּים).
 derivation: from H8552 (תָּמַם);
-extended_definition:
-  gloss: integrity
-  definition: 1) integrity, completeness<br>1a) completeness, fulness<br>1b) innocence,
-    simplicity<br>1c) integrity
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) integrity, completeness
+
+  1a) completeness, fulness
+
+  1b) innocence, simplicity
+
+  1c) integrity {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H530
-    proximity: 0.8289
+    proximity: 0.8289 {macula-proximity}
   - strongs: H3824
-    proximity: 0.8273
+    lemma: לֵבָב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
   - strongs: H571
-    proximity: 0.8164
+    proximity: 0.8164 {macula-proximity}
   - strongs: H1249
-    proximity: 0.8134
+    lemma: בַּר
+    gloss: beloved {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
   - strongs: H1305b
-    proximity: 0.8022
+    proximity: 0.8022 {macula-proximity}
   cross_language:
   - strongs: G5198
-    proximity: 0.824
+    lemma: ὑγιαίνω
+    gloss: to have sound health {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: greek
   - strongs: G3324
-    proximity: 0.8226
+    lemma: μεστός
+    gloss: replete {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
     language: greek
   - strongs: G1346
-    proximity: 0.8215
+    lemma: δικαίως
+    gloss: equitably {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
     language: greek
   - strongs: G4138
-    proximity: 0.8195
+    lemma: πλήρωμα
+    gloss: repletion or completion {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
     language: greek
   - strongs: G47
-    proximity: 0.8154
+    proximity: 0.8154 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

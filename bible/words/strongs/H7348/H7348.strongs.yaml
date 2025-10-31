@@ -9,14 +9,17 @@ derivation: a form of H7349 (רַחוּם);
 related_words:
   synonyms:
   - strongs: H7254
-    proximity: 0.8194
+    lemma: רֶבַע
+    gloss: Reba {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H4176
-    proximity: 0.8194
+    lemma: מוֹרֶה
+    gloss: Moreh {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   cross_language:
   - strongs: G1056
-    proximity: 0.8282
+    lemma: Γαλιλαία
+    gloss: Galilæa {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

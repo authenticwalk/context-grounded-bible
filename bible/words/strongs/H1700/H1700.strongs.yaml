@@ -6,50 +6,59 @@ pronunciation: dib-raw'
 definition: a reason, suit or style
 kjv_usage: cause, end, estate, order, regard.
 derivation: feminine of H1697 (דָּבָר);
-extended_definition:
-  gloss: cause
-  definition: 'cause, manner, reason<BR>Aramaic equivalent: <i>div.rah</i> (דִּבְרָה
-    "cause" H1701)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'cause, manner, reason
+
+  Aramaic equivalent: div.rah (דִּבְרָה "cause" H1701) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5921
-    proximity: 0.8178
+    lemma: עַל
+    gloss: above {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   - strongs: H6118
-    proximity: 0.8096
+    lemma: עֵקֶב
+    gloss: a heel {openscriptures-strongs}
+    proximity: 0.8096 {macula-proximity}
   - strongs: H4480
-    proximity: 0.8003
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8003 {macula-proximity}
   - strongs: H1697
-    proximity: 0.7995
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.7949
+    proximity: 0.7949 {macula-proximity}
   - strongs: H3588
-    proximity: 0.7871
+    lemma: כִּי
+    gloss: very widely used as a relative conjunction or adverb {openscriptures-strongs}
+    proximity: 0.7871 {macula-proximity}
   - strongs: H834
-    proximity: 0.7856
+    proximity: 0.7856 {macula-proximity}
   - strongs: H871a
-    proximity: 0.785
+    proximity: 0.785 {macula-proximity}
   - strongs: H7578a
-    proximity: 0.7778
+    proximity: 0.7778 {macula-proximity}
   cross_language:
   - strongs: G3588
-    proximity: 0.811
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.811 {macula-proximity}
     language: greek
   - strongs: G1752b
-    proximity: 0.7853
+    proximity: 0.7853 {macula-proximity}
     language: greek
   - strongs: G1223
-    proximity: 0.7845
+    lemma: διά
+    gloss: through (in very wide applications {openscriptures-strongs}
+    proximity: 0.7845 {macula-proximity}
     language: greek
   - strongs: G473
-    proximity: 0.7779
+    proximity: 0.7779 {macula-proximity}
     language: greek
   - strongs: G1360
-    proximity: 0.776
+    lemma: διότι
+    gloss: on the very account that {openscriptures-strongs}
+    proximity: 0.776 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,49 +7,69 @@ definition: visitation (in many senses, chiefly official)
 kjv_usage: account, (that have the) charge, custody, that which...laid up, numbers,
   office(-r), ordering, oversight, [phrase] prison, reckoning, visitation.
 derivation: feminine passive participle of H6485 (פָּקַד);
-extended_definition:
-  gloss: punishment
-  definition: 1) oversight, care, custody, mustering, visitation, store<br>1a) visitation,
-    punishment<br>1b) oversight, charge, office, overseer, class of officers<br>1c)
-    mustering<br>1d) store
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) oversight, care, custody, mustering, visitation, store
+
+  1a) visitation, punishment
+
+  1b) oversight, charge, office, overseer, class of officers
+
+  1c) mustering
+
+  1d) store {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5352
-    proximity: 0.83
+    lemma: נָקָה
+    gloss: to be  clean {openscriptures-strongs}
+    proximity: 0.83 {macula-proximity}
   - strongs: H5631
-    proximity: 0.8282
+    lemma: סָרִיס
+    gloss: a eunuch {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H3256
-    proximity: 0.8246
+    lemma: יָסַר
+    gloss: to chastise {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: H4145
-    proximity: 0.8239
+    lemma: מוּסָדָה
+    gloss: a foundation {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: H4256
-    proximity: 0.8117
+    lemma: מַחֲלֹקֶת
+    gloss: a section (of Levites {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
   - strongs: A4510
-    proximity: 0.8097
+    proximity: 0.8097 {macula-proximity}
   - strongs: H2515
-    proximity: 0.8082
+    lemma: חֲלֻקָּה
+    gloss: a distribution {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
   - strongs: H8108
-    proximity: 0.806
+    lemma: שׇׁמְרָה
+    gloss: watchfulness {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
   cross_language:
   - strongs: G1341
-    proximity: 0.829
+    lemma: δικαιοκρισία
+    gloss: a just sentence {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G1896a
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G5432
-    proximity: 0.8265
+    lemma: φρουρέω
+    gloss: to be a watcher in advance {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
     language: greek
   - strongs: G5099
-    proximity: 0.8229
+    lemma: τίνω
+    gloss: to pay a price {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G1556
-    proximity: 0.8225
+    lemma: ἐκδικέω
+    gloss: to vindicate {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

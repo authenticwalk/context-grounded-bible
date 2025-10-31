@@ -5,42 +5,42 @@ transliteration: Eslí
 definition: Esli, an Israelite
 kjv_usage: Esli
 derivation: of Hebrew origin (probably for H0454);
-extended_definition:
-  gloss: Esli
-  definition: '<b>Ἐσλεί</b> (Rec. ''Ἐσλί, see WH, <i>Notes</i>, 155), ὁ, <BR /> <b>Esli,
-    an ancestor of Jesus</b>: <ref=''Luk.3.25.''>Luk.3:25.</ref>†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἐσλεί</b> (Rec. ''Ἐσλί, see WH, <i>Notes</i>, 155), ὁ, <BR />
-    <b>Esli, an ancestor of Jesus</b>: <ref=''Luk.3.25.''>Luk.3:25.</ref>†<BR />  (From
-    Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἐσλεί (Rec. ''Ἐσλί, see WH, Notes, 155), ὁ,
+
+  Esli, an ancestor of Jesus: Luk.3:25.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἐσλεί (Rec. ''Ἐσλί, see WH, Notes, 155), ὁ,
+
+  Esli, an ancestor of Jesus: Luk.3:25.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G559
-    proximity: 0.8251
+    proximity: 0.8251 {macula-proximity}
   - strongs: G1056
-    proximity: 0.8203
+    lemma: Γαλιλαία
+    gloss: Galilæa {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   cross_language:
   - strongs: H461
-    proximity: 0.8295
+    proximity: 0.8295 {macula-proximity}
     language: hebrew
   - strongs: H466
-    proximity: 0.8286
+    proximity: 0.8286 {macula-proximity}
     language: hebrew
   - strongs: H464
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
     language: hebrew
   - strongs: H3324
-    proximity: 0.8271
+    lemma: יִצְהָר
+    gloss: Jitshar {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: hebrew
   - strongs: H5830
-    proximity: 0.8244
+    lemma: עֶזְרָא
+    gloss: Ezra {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

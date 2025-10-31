@@ -6,39 +6,41 @@ pronunciation: moo-aw-kaw'
 definition: pressure, i.e. (figuratively) distress
 kjv_usage: affliction.
 derivation: from H5781 (עוּק);
-extended_definition:
-  gloss: distress
-  definition: compression, distress, pressure
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: compression, distress, pressure {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4864
-    proximity: 0.8121
+    lemma: מַשְׂאֵת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H6040
-    proximity: 0.7911
+    lemma: עֳנִי
+    gloss: depression {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
   - strongs: H5445
-    proximity: 0.7468
+    lemma: סָבַל
+    gloss: to carry {openscriptures-strongs}
+    proximity: 0.7468 {macula-proximity}
   - strongs: H5923
-    proximity: 0.7224
+    lemma: עֹל
+    gloss: a yoke {openscriptures-strongs}
+    proximity: 0.7224 {macula-proximity}
   cross_language:
   - strongs: G916
-    proximity: 0.7882
+    proximity: 0.7882 {macula-proximity}
     language: greek
   - strongs: G4987
-    proximity: 0.7818
+    lemma: σωρεύω
+    gloss: to pile up {openscriptures-strongs}
+    proximity: 0.7818 {macula-proximity}
     language: greek
   - strongs: G926
-    proximity: 0.7798
+    proximity: 0.7798 {macula-proximity}
     language: greek
   - strongs: G925
-    proximity: 0.7615
+    proximity: 0.7615 {macula-proximity}
     language: greek
   - strongs: G4
-    proximity: 0.738
+    proximity: 0.738 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,51 +6,65 @@ pronunciation: tsaw-baw'
 definition: to mass (an army or servants)
 kjv_usage: assemble, fight, perform, muster, wait upon, war.
 derivation: a primitive root;
-extended_definition:
-  gloss: to serve
-  definition: 1) to go forth, wage war, fight, serve<br>1a) (Qal)<br>1a1) to wage
-    war, fight, go forth to war<br>1a2) to serve (at sacred tent)<br>1b) (Hiphil)
-    to cause to go forth, muster
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to go forth, wage war, fight, serve
+
+  1a) (Qal)
+
+  1a1) to wage war, fight, go forth to war
+
+  1a2) to serve (at sacred tent)
+
+  1b) (Hiphil) to cause to go forth, muster {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5221
-    proximity: 0.8251
+    lemma: נָכָה
+    gloss: to strike (lightly or severely {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H1624
-    proximity: 0.8249
+    lemma: גָּרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
   - strongs: H5222
-    proximity: 0.8226
+    lemma: נֵכֶה
+    gloss: a smiter {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: H5656
-    proximity: 0.8216
+    lemma: עֲבֹדָה
+    gloss: work of any kind {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   - strongs: A6399
-    proximity: 0.8054
+    proximity: 0.8054 {macula-proximity}
   - strongs: H1481a
-    proximity: 0.7965
+    proximity: 0.7965 {macula-proximity}
   - strongs: H4695
-    proximity: 0.7946
+    lemma: מַצּוּת
+    gloss: a quarrel {openscriptures-strongs}
+    proximity: 0.7946 {macula-proximity}
   - strongs: H413
-    proximity: 0.7944
+    proximity: 0.7944 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.7851
+    proximity: 0.7851 {macula-proximity}
   cross_language:
   - strongs: G4332a
-    proximity: 0.8098
+    proximity: 0.8098 {macula-proximity}
     language: greek
   - strongs: G3823
-    proximity: 0.8072
+    lemma: πάλη
+    gloss: another form for G906 ) {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
     language: greek
   - strongs: G75
-    proximity: 0.806
+    proximity: 0.806 {macula-proximity}
     language: greek
   - strongs: G3000
-    proximity: 0.8002
+    lemma: λατρεύω
+    gloss: to minister {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
     language: greek
   - strongs: G3010
-    proximity: 0.7998
+    lemma: λειτουργικός
+    gloss: functional publicly {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

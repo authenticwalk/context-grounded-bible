@@ -7,43 +7,55 @@ definition: probably to shake out, i.e. (by implication) to scatter profusely; f
   to treat lightly
 kjv_usage: lavish, despise.
 derivation: a primitive root (compare H2151 (זָלַל));
-extended_definition:
-  gloss: to lavish/despise
-  definition: 1) (Qal) to pour out, lavish<br>2) (Hiphil) despise
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) (Qal) to pour out, lavish
+
+  2) (Hiphil) despise {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A5312
-    proximity: 0.8247
+    proximity: 0.8247 {macula-proximity}
   - strongs: H4871
-    proximity: 0.8209
+    lemma: מָשָׁה
+    gloss: to pull out {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: H7006
-    proximity: 0.8209
+    lemma: קָיָה
+    gloss: to vomit {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: H5365
-    proximity: 0.8183
+    lemma: נָקַר
+    gloss: to bore (penetrate {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: H1920
-    proximity: 0.8114
+    lemma: הָדַף
+    gloss: to push away or down {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
   - strongs: H3318
-    proximity: 0.8067
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   cross_language:
   - strongs: G1530a
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
     language: greek
   - strongs: G1559
-    proximity: 0.8256
+    lemma: ἐκδιώκω
+    gloss: to pursue out {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
     language: greek
   - strongs: G1807
-    proximity: 0.8254
+    lemma: ἐξαιρέω
+    gloss: actively {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: greek
   - strongs: G1831
-    proximity: 0.8237
+    lemma: ἐξέρχομαι
+    gloss: to issue {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
     language: greek
   - strongs: G1607
-    proximity: 0.8203
+    lemma: ἐκπορεύομαι
+    gloss: to depart {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

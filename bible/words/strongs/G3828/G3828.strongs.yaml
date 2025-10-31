@@ -6,40 +6,47 @@ definition: every-tribal, i.e. heterogeneous (G5561 (χώρα) being implied); P
   a region of Asia Minor
 kjv_usage: Pamphylia
 derivation: from a compound of G3956 (πᾶς) and G4443 (πυρά);
-extended_definition:
-  gloss: Pamphylia
-  definition: '<b>Παμφυλία</b>, -ας, ἡ <BR /> <b>Pamphylia, a province of Asia Minor</b>:
-    <ref=''Act.2.10; 13.13; 14.24; 15.38; 27.5''>Act.2:10 13:13 14:24 15:38 27:5</ref>.†<BR
-    /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Παμφυλία</b>, -ας, ἡ <BR /> <b>Pamphylia, a province of Asia
-    Minor</b>: <ref=''Act.2.10; 13.13; 14.24; 15.38; 27.5''>Act.2:10 13:13 14:24 15:38
-    27:5</ref>.†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Παμφυλία, -ας, ἡ
+
+  Pamphylia, a province of Asia Minor: Act.2:10 13:13 14:24 15:38 27:5.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Παμφυλία, -ας, ἡ
+
+  Pamphylia, a province of Asia Minor: Act.2:10 13:13 14:24 15:38 27:5.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3517
-    proximity: 0.8297
+    lemma: Νηρεύς
+    gloss: Nereus {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: G3190
-    proximity: 0.8297
+    lemma: Μελεᾶς
+    gloss: Meleas {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: G3774
-    proximity: 0.8297
+    lemma: Οὐρίας
+    gloss: Urias {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: G4949
-    proximity: 0.8247
+    lemma: Συροφοίνισσα
+    gloss: a Syro-phœnician woman {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: G4947
-    proximity: 0.8184
+    lemma: Συρία
+    gloss: Syria {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   cross_language:
   - strongs: H3309
-    proximity: 0.8266
+    lemma: יָפִיעַ
+    gloss: Japhia {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
     language: hebrew
   - strongs: H3812
-    proximity: 0.8214
+    lemma: לֵאָה
+    gloss: Leah {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,46 +7,55 @@ definition: something called out, i.e. a public meeting (the act, the persons, o
   the place); also a rehearsal
 kjv_usage: assembly, calling, convocation, reading.
 derivation: from H7121 (קָרָא);
-extended_definition:
-  gloss: assembly
-  definition: 1) convocation, convoking, reading, a calling together<br>1a) convocation,
-    sacred assembly<br>1b) convoking<br>1c) reading
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) convocation, convoking, reading, a calling together
+
+  1a) convocation, sacred assembly
+
+  1b) convoking
+
+  1c) reading {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3664
-    proximity: 0.8237
+    lemma: כָּנַס
+    gloss: to collect {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: H626
-    proximity: 0.8179
+    proximity: 0.8179 {macula-proximity}
   - strongs: A3673
-    proximity: 0.8175
+    proximity: 0.8175 {macula-proximity}
   - strongs: H6960a
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
   - strongs: H3259
-    proximity: 0.7914
+    lemma: יָעַד
+    gloss: to fix upon {openscriptures-strongs}
+    proximity: 0.7914 {macula-proximity}
   - strongs: A7123
-    proximity: 0.778
+    proximity: 0.778 {macula-proximity}
   - strongs: H622
-    proximity: 0.7647
+    proximity: 0.7647 {macula-proximity}
   cross_language:
   - strongs: G4836
-    proximity: 0.8282
+    lemma: συμπαραγίνομαι
+    gloss: to be present together {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: greek
   - strongs: G320
-    proximity: 0.8185
+    proximity: 0.8185 {macula-proximity}
     language: greek
   - strongs: G4864
-    proximity: 0.8169
+    lemma: συναγωγή
+    gloss: an assemblage of persons {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
     language: greek
   - strongs: G2821
-    proximity: 0.8056
+    lemma: κλῆσις
+    gloss: an invitation {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
     language: greek
   - strongs: G4779
-    proximity: 0.7957
+    lemma: συγκαλέω
+    gloss: to convoke {openscriptures-strongs}
+    proximity: 0.7957 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

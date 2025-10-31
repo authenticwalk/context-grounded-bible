@@ -5,41 +5,48 @@ transliteration: Epaphrâs
 definition: Epaphras, a Christian
 kjv_usage: Epaphras
 derivation: contracted from G1891 (Ἐπαφρόδιτος);
-extended_definition:
-  gloss: Epaphras
-  definition: '<b>Ἐπαφρᾶς</b>, -ᾶ (B1., § 7, 4), ὁ, <BR /> <b>Epaphras</b>: <ref=''Col.1.7;
-    4.12''>Col.1:7 4:12</ref>, Phm 23.*† <BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἐπαφρᾶς</b>, -ᾶ (B1., § 7, 4), ὁ, <BR /> <b>Epaphras</b>: <ref=''Col.1.7;
-    4.12''>Col.1:7 4:12</ref>, Phm 23.*† <BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἐπαφρᾶς, -ᾶ (B1., § 7, 4), ὁ,
+
+  Epaphras: Col.1:7 4:12, Phm 23.*†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἐπαφρᾶς, -ᾶ (B1., § 7, 4), ὁ,
+
+  Epaphras: Col.1:7 4:12, Phm 23.*†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2181
-    proximity: 0.8072
+    lemma: Ἔφεσος
+    gloss: Ephesus {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
   - strongs: G912
-    proximity: 0.8025
+    proximity: 0.8025 {macula-proximity}
   cross_language:
   - strongs: H5896
-    proximity: 0.8262
+    lemma: עִירָא
+    gloss: Ira {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
     language: hebrew
   - strongs: H6081
-    proximity: 0.8224
+    lemma: עֵפֶר
+    gloss: Epher {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
     language: hebrew
   - strongs: H6420
-    proximity: 0.8152
+    lemma: פָּלָל
+    gloss: Palal {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
     language: hebrew
   - strongs: H6511
-    proximity: 0.8138
+    lemma: פָּרָה
+    gloss: Parah {openscriptures-strongs}
+    proximity: 0.8138 {macula-proximity}
     language: hebrew
   - strongs: H1088
-    proximity: 0.8122
+    lemma: בָּלָה
+    gloss: Balah {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

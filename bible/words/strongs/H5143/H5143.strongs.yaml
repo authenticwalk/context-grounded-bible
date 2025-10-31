@@ -6,41 +6,45 @@ pronunciation: nay'zek
 definition: loss
 kjv_usage: damage.
 derivation: from an unused root meaning to injure;
-extended_definition:
-  gloss: injury
-  definition: injury, damage
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: injury, damage {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7722
-    proximity: 0.8234
+    lemma: שׁוֹא
+    gloss: a tempest {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
   - strongs: H611
-    proximity: 0.8103
+    proximity: 0.8103 {macula-proximity}
   - strongs: H5448
-    proximity: 0.8011
+    lemma: סֹבֶל
+    gloss: a load {openscriptures-strongs}
+    proximity: 0.8011 {macula-proximity}
   - strongs: H4347
-    proximity: 0.7973
+    lemma: מַכָּה
+    gloss: a wound {openscriptures-strongs}
+    proximity: 0.7973 {macula-proximity}
   - strongs: H1943
-    proximity: 0.7784
+    lemma: הֹוָה
+    gloss: ruin {openscriptures-strongs}
+    proximity: 0.7784 {macula-proximity}
   cross_language:
   - strongs: G580
-    proximity: 0.827
+    proximity: 0.827 {macula-proximity}
     language: greek
   - strongs: G916
-    proximity: 0.8255
+    proximity: 0.8255 {macula-proximity}
     language: greek
   - strongs: G922
-    proximity: 0.8153
+    proximity: 0.8153 {macula-proximity}
     language: greek
   - strongs: G5017
-    proximity: 0.8071
+    lemma: τάραχος
+    gloss: a disturbance {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
     language: greek
   - strongs: G4127
-    proximity: 0.7889
+    lemma: πληγή
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

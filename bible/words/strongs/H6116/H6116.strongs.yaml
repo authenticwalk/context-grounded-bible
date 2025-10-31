@@ -6,52 +6,71 @@ pronunciation: ats-aw-raw'
 definition: an assembly, especially on afestival or holiday
 kjv_usage: (solemn) assembly (meeting).
 derivation: or עֲצֶרֶת; from H6113 (עָצָר);
-extended_definition:
-  gloss: assembly
-  definition: 1) assembly, solemn assembly<br>1a) assembly (sacred or festive meeting)<br>1b)
-    assemblage, company, group
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) assembly, solemn assembly
+
+  1a) assembly (sacred or festive meeting)
+
+  1b) assemblage, company, group {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H626
-    proximity: 0.8277
+    proximity: 0.8277 {macula-proximity}
   - strongs: H3259
-    proximity: 0.826
+    lemma: יָעַד
+    gloss: to fix upon {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
   - strongs: H622
-    proximity: 0.8234
+    proximity: 0.8234 {macula-proximity}
   - strongs: H6960a
-    proximity: 0.8003
+    proximity: 0.8003 {macula-proximity}
   - strongs: H5475
-    proximity: 0.7958
+    lemma: סוֹד
+    gloss: a session {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
   - strongs: H6952
-    proximity: 0.7763
+    lemma: קְהִלָּה
+    gloss: an assemblage {openscriptures-strongs}
+    proximity: 0.7763 {macula-proximity}
   - strongs: H6950
-    proximity: 0.755
+    lemma: קָהַל
+    gloss: to convoke {openscriptures-strongs}
+    proximity: 0.755 {macula-proximity}
   - strongs: H5712
-    proximity: 0.7486
+    lemma: עֵדָה
+    gloss: a stated assemblage (specifically {openscriptures-strongs}
+    proximity: 0.7486 {macula-proximity}
   - strongs: H4150
-    proximity: 0.7416
+    lemma: מוֹעֵד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7416 {macula-proximity}
   - strongs: H6908
-    proximity: 0.7317
+    lemma: קָבַץ
+    gloss: to grasp {openscriptures-strongs}
+    proximity: 0.7317 {macula-proximity}
   cross_language:
   - strongs: G4864
-    proximity: 0.8235
+    lemma: συναγωγή
+    gloss: an assemblage of persons {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: greek
   - strongs: G1996
-    proximity: 0.7848
+    lemma: ἐπισυνάγω
+    gloss: to collect upon the same place {openscriptures-strongs}
+    proximity: 0.7848 {macula-proximity}
     language: greek
   - strongs: G4905
-    proximity: 0.7287
+    lemma: συνέρχομαι
+    gloss: to convene {openscriptures-strongs}
+    proximity: 0.7287 {macula-proximity}
     language: greek
   - strongs: G4863
-    proximity: 0.7274
+    lemma: συνάγω
+    gloss: to lead together {openscriptures-strongs}
+    proximity: 0.7274 {macula-proximity}
     language: greek
   - strongs: G1577
-    proximity: 0.7005
+    lemma: ἐκκλησία
+    gloss: a calling out {openscriptures-strongs}
+    proximity: 0.7005 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

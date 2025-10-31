@@ -5,60 +5,67 @@ transliteration: synkinéō
 definition: to move together, i.e. (specially), to excite as a mass (to sedition)
 kjv_usage: stir up
 derivation: from G4682 (σπαράσσω) and G2795 (κινέω);
-extended_definition:
-  gloss: to stir up
-  definition: '<b>συν-κινέω</b> (Rec. συγκ-), -ῶ, <BR /> to move together. Metaphorical,
-    <b>to excite, stir up</b>: τ. λαόν, <ref=''Act.6.12''>Act.6:12</ref> (Arist.,
-    Polyb., al.).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συγκῑν-έω</b>, <br /> <b>stir up</b> or <b>excite</b>, [<a
-    href="javascript:void(0)" title=" 2nd c.BC: Polybius Historicus 15.17.1, NT.Act.6.12
-    ">NT+2nd c.BC+</a>]; <b>stir up</b> a mixture, [<a href="javascript:void(0)" title="
-    2nd c.AD: Galenus Medicus 13.1041">Refs 2nd c.AD+</a>]:—<i>passive</i>, <b>move
-    along with</b> or <b>together</b>, [<a href="javascript:void(0)" title=" 4th c.BC:
-    Aristoteles Philosophus “Topica” 113a30, “Pr.” 921b28, 2nd c.AD: Galenus Medicus
-    16.520, etc.; σ. κινήσεις ἀνελευθέρους 1st-2nd c.AD: Plutarchus Biographus et
-    Philosophus 2.704d ">Refs 4th c.BC+</a>]; τὸ συγκεκινημένον <b>sympathetic emotion</b>,
-    [<a href="javascript:void(0)" title=" 3rd c.AD: Longinus Rhetor 15.2; συγκεκ.
-    λόγοι [prev. author] 29.2. ">Refs 3rd c.AD+</a>]<br /><Level2><b>__II</b></Level2>
-    apparently <i>intransitive</i>, [<a href="javascript:void(0)" title=" 4th c.BC:
-    Aristoteles Philosophus “Problemata” 949a19 (uncertain reading). ">Refs 4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συν-κινέω (Rec. συγκ-), -ῶ,
+
+  to move together. Metaphorical, to excite, stir up: τ. λαόν, Act.6:12 (Arist., Polyb.,
+  al.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συγκῑν-έω,
+
+  stir up or excite, [NT+2nd c.BC+]; stir up a mixture, [Refs 2nd c.AD+]:—passive,
+  move along with or together, [Refs 4th c.BC+]; τὸ συγκεκινημένον sympathetic emotion,
+  [Refs 3rd c.AD+]
+
+  __II apparently intransitive, [Refs 4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3949
-    proximity: 0.802
+    lemma: παροργίζω
+    gloss: to anger alongside {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
   - strongs: G4579
-    proximity: 0.7838
+    lemma: σείω
+    gloss: to rock (vibrate {openscriptures-strongs}
+    proximity: 0.7838 {macula-proximity}
   - strongs: G4531
-    proximity: 0.7567
+    lemma: σαλεύω
+    gloss: to waver {openscriptures-strongs}
+    proximity: 0.7567 {macula-proximity}
   - strongs: G1326
-    proximity: 0.7517
+    lemma: διεγείρω
+    gloss: to wake fully {openscriptures-strongs}
+    proximity: 0.7517 {macula-proximity}
   - strongs: G2042
-    proximity: 0.7349
+    lemma: ἐρεθίζω
+    gloss: to stimulate {openscriptures-strongs}
+    proximity: 0.7349 {macula-proximity}
   - strongs: G2350
-    proximity: 0.7176
+    lemma: θορυβέω
+    gloss: to be in tumult {openscriptures-strongs}
+    proximity: 0.7176 {macula-proximity}
   cross_language:
   - strongs: H7213
-    proximity: 0.8202
+    lemma: רָאַם
+    gloss: to rise {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
     language: hebrew
   - strongs: H2563a
-    proximity: 0.8202
+    proximity: 0.8202 {macula-proximity}
     language: hebrew
   - strongs: H4330
-    proximity: 0.8112
+    lemma: מִיץ
+    gloss: pressure {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
     language: hebrew
   - strongs: H2787
-    proximity: 0.8024
+    lemma: חָרַר
+    gloss: to glow {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
     language: hebrew
   - strongs: H7370
-    proximity: 0.7935
+    lemma: רָחַשׁ
+    gloss: to gush {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

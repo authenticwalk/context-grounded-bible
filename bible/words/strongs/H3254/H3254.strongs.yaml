@@ -10,52 +10,75 @@ kjv_usage: add, [idiom] again, [idiom] any more, [idiom] cease, [idiom] come mor
   longer (bring, do, make, much, put), [idiom] (the, much, yet) more (and more), proceed
   (further), prolong, put, be (strong-) er, [idiom] yet, yield.
 derivation: a primitive root;
-extended_definition:
-  gloss: to add
-  definition: ': add/more[amount]<br>1) to add, increase, do again<br>1a) (Qal) to
-    add, increase, do again<br>1b) (Niphal)<br>1b1) to join, join oneself to<br>1b2)
-    to be joined, be added to<br>1c) (Hiphil)<br>1c1) to cause to add, increase<br>1c2)
-    to do more, do again'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': add/more[amount]
+
+  1) to add, increase, do again
+
+  1a) (Qal) to add, increase, do again
+
+  1b) (Niphal)
+
+  1b1) to join, join oneself to
+
+  1b2) to be joined, be added to
+
+  1c) (Hiphil)
+
+  1c1) to cause to add, increase
+
+  1c2) to do more, do again {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A3809
-    proximity: 0.83
+    proximity: 0.83 {macula-proximity}
   - strongs: H3963a
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
   - strongs: H5107
-    proximity: 0.8275
+    lemma: נוּב
+    gloss: to germinate {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H2050b
-    proximity: 0.8203
+    proximity: 0.8203 {macula-proximity}
   - strongs: H6452
-    proximity: 0.8162
+    lemma: פָּסַח
+    gloss: to hop {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H6555
-    proximity: 0.8161
+    lemma: פָּרַץ
+    gloss: to break out (in many applications {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H1431
-    proximity: 0.8139
+    lemma: גָּדַל
+    gloss: to be  large (in various senses {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H7685
-    proximity: 0.8094
+    lemma: שָׂגָה
+    gloss: to enlarge (especially upward {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
   - strongs: A8579
-    proximity: 0.8092
+    proximity: 0.8092 {macula-proximity}
   cross_language:
   - strongs: G1325
-    proximity: 0.8246
+    lemma: δίδωμι
+    gloss: to give (used in a very wide application {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
     language: greek
   - strongs: G3777
-    proximity: 0.8228
+    lemma: οὔτε
+    gloss: not too {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
     language: greek
   - strongs: G3761
-    proximity: 0.8189
+    lemma: οὐδέ
+    gloss: not however {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
     language: greek
   - strongs: G3756
-    proximity: 0.8182
+    lemma: οὐ
+    gloss: the absolute negative ) adverb {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: greek
   - strongs: G530
-    proximity: 0.8123
+    proximity: 0.8123 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

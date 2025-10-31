@@ -6,26 +6,28 @@ pronunciation: law-khak'
 definition: to lick
 kjv_usage: lick (up).
 derivation: a primitive root;
-extended_definition:
-  gloss: to lick
-  definition: 1) to lick, lick up<br>1a) (Qal) to lick up<br>1b) (Piel) to lick up
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to lick, lick up
+
+  1a) (Qal) to lick up
+
+  1b) (Piel) to lick up {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H398
-    proximity: 0.8241
+    proximity: 0.8241 {macula-proximity}
   - strongs: H3001
-    proximity: 0.8178
+    lemma: יָבֵשׁ
+    gloss: to be ashamed {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   cross_language:
   - strongs: G2719
-    proximity: 0.8083
+    lemma: κατεσθίω
+    gloss: to eat down {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
     language: greek
   - strongs: G2618
-    proximity: 0.7735
+    lemma: κατακαίω
+    gloss: to burn down {openscriptures-strongs}
+    proximity: 0.7735 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

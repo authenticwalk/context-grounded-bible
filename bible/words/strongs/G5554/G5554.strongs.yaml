@@ -5,45 +5,50 @@ transliteration: chrysodaktýlios
 definition: gold-ringed, i.e. wearing a golden finger-ring or similar jewelry
 kjv_usage: with a gold ring
 derivation: from G5557 (χρυσός) and G1146 (δακτύλιος);
-extended_definition:
-  gloss: gold-ringed
-  definition: '<b>χρυσο-δακτύλιος</b>, -ον <BR /> <b>with a gold ring</b>: <ref=''Jas.2.2.''>Jas.2:2.</ref>†<BR
-    /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> χρῡσο-δακτύλιος</b> [ῠ], ον, <br /> <b>with ring of gold,</b>
-    ἀνήρ [<a href="javascript:void(0)" title=" NT.Jam.2.2. ">NT</a>]<br /><Level3><b>__2</b></Level3>
-    gloss on{χρυσοκόλλητος}, χ. σφραγίς <b>set in a gold ring,</b> [<a href="javascript:void(0)"
-    title=" 5th c.AD(?): Hesychius Legal icographus ">Refs 5th c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'χρυσο-δακτύλιος, -ον
+
+  with a gold ring: Jas.2:2.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'χρῡσο-δακτύλιος [ῠ], ον,
+
+  with ring of gold, ἀνήρ [NT]
+
+  __2 gloss on{χρυσοκόλλητος}, χ. σφραγίς set in a gold ring, [Refs 5th c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4591
-    proximity: 0.8292
+    lemma: σημαίνω
+    gloss: of uncertain derivation) {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: G4862
-    proximity: 0.804
+    lemma: σύν
+    gloss: with or together  or G3844 ) {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   - strongs: G5552a
-    proximity: 0.8032
+    proximity: 0.8032 {macula-proximity}
   cross_language:
   - strongs: H2858
-    proximity: 0.829
+    lemma: חֹתֶמֶת
+    gloss: a seal {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: hebrew
   - strongs: H5458a
-    proximity: 0.8097
+    proximity: 0.8097 {macula-proximity}
     language: hebrew
   - strongs: H6337
-    proximity: 0.8044
+    lemma: פָּז
+    gloss: pure {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
     language: hebrew
   - strongs: H1220
-    proximity: 0.7842
+    lemma: בֶּצֶר
+    gloss: strictly a clipping {openscriptures-strongs}
+    proximity: 0.7842 {macula-proximity}
     language: hebrew
   - strongs: H3800
-    proximity: 0.7642
+    lemma: כֶּתֶם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7642 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

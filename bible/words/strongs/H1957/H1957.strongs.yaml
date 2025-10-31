@@ -6,42 +6,46 @@ pronunciation: haw-zaw'
 definition: to dream
 kjv_usage: sleep.
 derivation: a primitive root (compare H2372 (חָזָה));
-extended_definition:
-  gloss: to dream
-  definition: (Qal) to dream, sleep, rave
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to dream, sleep, rave {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3462
-    proximity: 0.8081
+    lemma: יָשֵׁן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
   - strongs: H3823a
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.8041
+    proximity: 0.8041 {macula-proximity}
   - strongs: H8142a
-    proximity: 0.7889
+    proximity: 0.7889 {macula-proximity}
   - strongs: A8139
-    proximity: 0.7889
+    proximity: 0.7889 {macula-proximity}
   - strongs: A2370
-    proximity: 0.7622
+    proximity: 0.7622 {macula-proximity}
   - strongs: H8142
-    proximity: 0.7549
+    lemma: שֵׁנָה
+    gloss: sleep {openscriptures-strongs}
+    proximity: 0.7549 {macula-proximity}
   cross_language:
   - strongs: G5271
-    proximity: 0.827
+    lemma: ὑποκρίνομαι
+    gloss: to decide  under a false part {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: greek
   - strongs: G2518
-    proximity: 0.815
+    lemma: καθεύδω
+    gloss: to lie down to rest {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
     language: greek
   - strongs: G1018
-    proximity: 0.8056
+    lemma: βραβεύω
+    gloss: to arbitrate {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
     language: greek
   - strongs: G5258
-    proximity: 0.7444
+    lemma: ὕπνος
+    gloss: sleep {openscriptures-strongs}
+    proximity: 0.7444 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

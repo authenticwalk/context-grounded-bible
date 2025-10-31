@@ -9,37 +9,60 @@ derivation: or (feminine) מַחֲלָה; from H2470 (חָלָה);
 related_words:
   synonyms:
   - strongs: H5061
-    proximity: 0.827
+    lemma: נֶגַע
+    gloss: a blow (figuratively {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H2470
-    proximity: 0.7966
+    lemma: חָלָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7966 {macula-proximity}
   - strongs: H7829
-    proximity: 0.767
+    lemma: שַׁחֶפֶת
+    gloss: emaciation {openscriptures-strongs}
+    proximity: 0.767 {macula-proximity}
   - strongs: H8400
-    proximity: 0.7615
+    lemma: תְּבַּלֻּל
+    gloss: a cataract {openscriptures-strongs}
+    proximity: 0.7615 {macula-proximity}
   - strongs: H2746
-    proximity: 0.7588
+    lemma: חַרְחֻר
+    gloss: fever {openscriptures-strongs}
+    proximity: 0.7588 {macula-proximity}
   - strongs: H2456
-    proximity: 0.7509
+    lemma: חָלָא
+    gloss: to be sick {openscriptures-strongs}
+    proximity: 0.7509 {macula-proximity}
   - strongs: H5263
-    proximity: 0.7436
+    lemma: נָסַס
+    gloss: to wane {openscriptures-strongs}
+    proximity: 0.7436 {macula-proximity}
   - strongs: H6920
-    proximity: 0.739
+    lemma: קַדַּחַת
+    gloss: inflammation {openscriptures-strongs}
+    proximity: 0.739 {macula-proximity}
   - strongs: H1741
-    proximity: 0.7059
+    lemma: דְּוַי
+    gloss: sickness {openscriptures-strongs}
+    proximity: 0.7059 {macula-proximity}
   cross_language:
   - strongs: G2560
-    proximity: 0.8259
+    lemma: κακῶς
+    gloss: badly {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G3015
-    proximity: 0.8223
+    lemma: λεπρός
+    gloss: scaly {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G2392
-    proximity: 0.7821
+    lemma: ἴασις
+    gloss: curing {openscriptures-strongs}
+    proximity: 0.7821 {macula-proximity}
     language: greek
   - strongs: G3014
-    proximity: 0.7657
+    lemma: λέπρα
+    gloss: scaliness {openscriptures-strongs}
+    proximity: 0.7657 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

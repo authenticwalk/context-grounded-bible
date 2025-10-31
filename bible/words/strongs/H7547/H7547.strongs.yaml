@@ -6,33 +6,39 @@ pronunciation: rak-koo'-akh
 definition: a scented substance
 kjv_usage: perfume.
 derivation: from H7543 (רָקַח);
-extended_definition:
-  gloss: perfumery
-  definition: perfumery, perfume, unguent
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: perfumery, perfume, unguent {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6999
-    proximity: 0.824
+    lemma: קָטַר
+    gloss: to smoke {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: H7548
-    proximity: 0.8239
+    lemma: רַקָּחָה
+    gloss: a female perfumer {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: H8081
-    proximity: 0.7991
+    lemma: שֶׁמֶן
+    gloss: grease {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: H3828
-    proximity: 0.7365
+    lemma: לְבוֹנָה
+    gloss: frankincense {openscriptures-strongs}
+    proximity: 0.7365 {macula-proximity}
   - strongs: H6875
-    proximity: 0.7281
+    lemma: צְרִי
+    gloss: distillation {openscriptures-strongs}
+    proximity: 0.7281 {macula-proximity}
   - strongs: H5130a
-    proximity: 0.7074
+    proximity: 0.7074 {macula-proximity}
   - strongs: H5561
-    proximity: 0.7061
+    lemma: סַם
+    gloss: an aroma {openscriptures-strongs}
+    proximity: 0.7061 {macula-proximity}
   cross_language:
   - strongs: G3464
-    proximity: 0.71
+    lemma: μύρον
+    gloss: '"myrrh" {openscriptures-strongs}'
+    proximity: 0.71 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

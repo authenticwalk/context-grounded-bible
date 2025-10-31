@@ -8,55 +8,91 @@ definition: properly, to wave to and fro (rarely to flap up and down); figurativ
 kjv_usage: chase (away), [idiom] could not, depart, flee ([idiom] apace, away), (re-)
   move, thrust away, wander (abroad, -er, -ing).
 derivation: a primitive root;
-extended_definition:
-  gloss: to wander
-  definition: '1) to retreat, flee, depart, move, wander abroad, stray, flutter<br>1a)(Qal)<br>1a1)
-    to retreat, flee<br>1a2) to flee, depart<br>1a3) to wander, stray<br>1a4) to flutter
-    (of birds)<br>1b) (Poal) to flee away, be chased<br>1c) (Hiphil) to chase away<br>1d)
-    (Hophal) to be chased away<br>1e) (Hithpolel) to flee away<BR>Aramaic equivalent:
-    <i>ne.dad</i> (נְדַד "to flee" H5075)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to retreat, flee, depart, move, wander abroad, stray, flutter
+
+  1a)(Qal)
+
+  1a1) to retreat, flee
+
+  1a2) to flee, depart
+
+  1a3) to wander, stray
+
+  1a4) to flutter (of birds)
+
+  1b) (Poal) to flee away, be chased
+
+  1c) (Hiphil) to chase away
+
+  1d) (Hophal) to be chased away
+
+  1e) (Hithpolel) to flee away
+
+  Aramaic equivalent: ne.dad (נְדַד "to flee" H5075) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8582
-    proximity: 0.8287
+    lemma: תָּעָה
+    gloss: to vacillate {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H4493
-    proximity: 0.8281
+    lemma: מָנוֹד
+    gloss: a nodding or toss {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H1980
-    proximity: 0.8224
+    lemma: הָלַךְ
+    gloss: to walk (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
   - strongs: H5323
-    proximity: 0.8203
+    lemma: נָצָא
+    gloss: to go away {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: H4733
-    proximity: 0.8185
+    lemma: מִקְלָט
+    gloss: an asylum {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: H3808
-    proximity: 0.8181
+    lemma: לֹא
+    gloss: not {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
   - strongs: H5756
-    proximity: 0.8101
+    lemma: עוּז
+    gloss: to be strong {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
   - strongs: H1760a
-    proximity: 0.8097
+    proximity: 0.8097 {macula-proximity}
   - strongs: H4015
-    proximity: 0.8048
+    lemma: מִבְרָח
+    gloss: a refugee {openscriptures-strongs}
+    proximity: 0.8048 {macula-proximity}
   - strongs: H4422
-    proximity: 0.7997
+    lemma: מָלַט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
   cross_language:
   - strongs: G3780
-    proximity: 0.83
+    lemma: οὐχί
+    gloss: not indeed {openscriptures-strongs}
+    proximity: 0.83 {macula-proximity}
     language: greek
   - strongs: G2776
-    proximity: 0.8261
+    lemma: κεφαλή
+    gloss: the head {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: greek
   - strongs: G3361
-    proximity: 0.8244
+    lemma: μή
+    gloss: not {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: greek
   - strongs: G3756
-    proximity: 0.8139
+    lemma: οὐ
+    gloss: the absolute negative ) adverb {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: greek
   - strongs: G4107
-    proximity: 0.8137
+    lemma: πλανήτης
+    gloss: a rover {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

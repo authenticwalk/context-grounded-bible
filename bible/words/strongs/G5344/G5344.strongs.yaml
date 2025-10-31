@@ -5,31 +5,30 @@ transliteration: Phēlix
 definition: happy; Phelix (i.e. Felix), a Roman
 kjv_usage: Felix
 derivation: of Latin origin;
-extended_definition:
-  gloss: Felix
-  definition: '<b>φῆλιξ (L</b>, Φή-), -ικος, ὁ<BR /> <b>Felix, procurator of Judæa</b>:
-    <ref=''Act.23.24, 26; 24.3, 22; 24.24-25, 27; 25.14''>Act.23:24, 26 24:3, 22 24:24-25,
-    27 25:14</ref>.†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>φῆλιξ (L</b>, Φή-), -ικος, ὁ<BR /> <b>Felix, procurator of Judæa</b>:
-    <ref=''Act.23.24, 26; 24.3, 22; 24.24-25, 27; 25.14''>Act.23:24, 26 24:3, 22 24:24-25,
-    27 25:14</ref>.†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'φῆλιξ (L, Φή-), -ικος, ὁ
+
+  Felix, procurator of Judæa: Act.23:24, 26 24:3, 22 24:24-25, 27 25:14.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'φῆλιξ (L, Φή-), -ικος, ὁ
+
+  Felix, procurator of Judæa: Act.23:24, 26 24:3, 22 24:24-25, 27 25:14.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5372
-    proximity: 0.7962
+    lemma: Φίλητος
+    gloss: amiable {openscriptures-strongs}
+    proximity: 0.7962 {macula-proximity}
   - strongs: G5376
-    proximity: 0.7892
+    lemma: Φίλιππος
+    gloss: fond of horses {openscriptures-strongs}
+    proximity: 0.7892 {macula-proximity}
   cross_language:
   - strongs: H4825
-    proximity: 0.8219
+    lemma: מֶרֶס
+    gloss: Meres {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

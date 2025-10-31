@@ -6,35 +6,39 @@ pronunciation: kan-no'
 definition: jealous or angry
 kjv_usage: jealous.
 derivation: for H7067 (קַנָּא);
-extended_definition:
-  gloss: jealous
-  definition: jealous
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: jealous {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5770a
-    proximity: 0.8261
+    proximity: 0.8261 {macula-proximity}
   - strongs: H7564
-    proximity: 0.813
+    lemma: רִשְׁעָה
+    gloss: wrong {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
   cross_language:
   - strongs: G3115
-    proximity: 0.8276
+    lemma: μακροθυμία
+    gloss: longanimity {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: greek
   - strongs: G4722
-    proximity: 0.8207
+    lemma: στέγω
+    gloss: to roof over {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
     language: greek
   - strongs: G4774
-    proximity: 0.8182
+    lemma: συγγνώμη
+    gloss: fellow knowledge {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: greek
   - strongs: G4189
-    proximity: 0.8175
+    lemma: πονηρία
+    gloss: depravity {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: greek
   - strongs: G4190
-    proximity: 0.8043
+    lemma: πονηρός
+    gloss: hurtful {openscriptures-strongs}
+    proximity: 0.8043 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

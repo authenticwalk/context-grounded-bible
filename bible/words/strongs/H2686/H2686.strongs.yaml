@@ -11,39 +11,56 @@ derivation: a primitive root (compare H2673 (חָצָה)lemma חָעָה ayin, c
 related_words:
   synonyms:
   - strongs: A6537
-    proximity: 0.8288
+    proximity: 0.8288 {macula-proximity}
   - strongs: H1584
-    proximity: 0.8286
+    lemma: גָּמַר
+    gloss: to end {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: A6562
-    proximity: 0.8277
+    proximity: 0.8277 {macula-proximity}
   - strongs: H8522
-    proximity: 0.8271
+    lemma: תְּלִי
+    gloss: a quiver {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: H1334
-    proximity: 0.8157
+    lemma: בָּתַר
+    gloss: to chop up {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: H7892a
-    proximity: 0.8145
+    proximity: 0.8145 {macula-proximity}
   - strongs: H3384c
-    proximity: 0.8141
+    proximity: 0.8141 {macula-proximity}
   - strongs: H7892
-    proximity: 0.8075
+    lemma: שִׁיר
+    gloss: a song {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
   - strongs: H6792
-    proximity: 0.8056
+    lemma: צֹנֵא
+    gloss: a flock {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H6385
-    proximity: 0.7931
+    lemma: פָּלַג
+    gloss: to split {openscriptures-strongs}
+    proximity: 0.7931 {macula-proximity}
   cross_language:
   - strongs: G3307
-    proximity: 0.8218
+    lemma: μερίζω
+    gloss: to part {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
     language: greek
   - strongs: G5567
-    proximity: 0.8105
+    lemma: ψάλλω
+    gloss: compare G5597 ) {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
     language: greek
   - strongs: G2998
-    proximity: 0.8079
+    lemma: λατομέω
+    gloss: to quarry {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
     language: greek
   - strongs: G4009
-    proximity: 0.7903
+    lemma: πέρας
+    gloss: an extremity {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

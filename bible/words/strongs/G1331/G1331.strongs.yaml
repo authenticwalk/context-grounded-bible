@@ -5,44 +5,48 @@ transliteration: dierōtáō
 definition: to question throughout, i.e. ascertain by interrogation
 kjv_usage: make enquiry for
 derivation: from G1223 (διά) and G2065 (ἐρωτάω);
-extended_definition:
-  gloss: to ascertain
-  definition: '<b>δι-ερωτάω</b>, -ῶ <BR /> <b>to find by inquiry</b>: with accusative,
-    <ref=''Act.10.17.''>Act.10:17.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> διερωτ-άω</b>, <br /> <b>cross-question,</b> τινά [<a href="javascript:void(0)"
-    title=" 5th-6th c.BC: Plato Philosophus “Apologia” 22b, “Grg.” 458a, etc.; δ.
-    τινά τι [prev. author] “Prt.” 315c. ">Refs 5th c.BC+</a>]<br /><Level2><b>__II</b></Level2>
-    <b>ask constantly</b> or <b>continually,</b> οἱ διερωτῶντες ὑμᾶς.. τί βούλεσθ;
-    [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 3.22. ">Refs
-    4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δι-ερωτάω, -ῶ
+
+  to find by inquiry: with accusative, Act.10:17.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'διερωτ-άω,
+
+  cross-question, τινά [Refs 5th c.BC+]
+
+  __II ask constantly or continually, οἱ διερωτῶντες ὑμᾶς.. τί βούλεσθ; [Refs 4th
+  c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G154
-    proximity: 0.8025
+    proximity: 0.8025 {macula-proximity}
   - strongs: G1809
-    proximity: 0.7976
+    lemma: ἐξαιτέομαι
+    gloss: to demand {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: G2065
-    proximity: 0.7896
+    lemma: ἐρωτάω
+    gloss: to interrogate {openscriptures-strongs}
+    proximity: 0.7896 {macula-proximity}
   - strongs: G198
-    proximity: 0.7634
+    proximity: 0.7634 {macula-proximity}
   - strongs: G4441
-    proximity: 0.7476
+    lemma: πυνθάνομαι
+    gloss: to question {openscriptures-strongs}
+    proximity: 0.7476 {macula-proximity}
   - strongs: G1833
-    proximity: 0.7059
+    lemma: ἐξετάζω
+    gloss: to test thoroughly {openscriptures-strongs}
+    proximity: 0.7059 {macula-proximity}
   cross_language:
   - strongs: H1875
-    proximity: 0.8201
+    lemma: דָּרַשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: hebrew
   - strongs: H1158
-    proximity: 0.7847
+    lemma: בָּעָה
+    gloss: to gush over {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

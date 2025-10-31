@@ -6,30 +6,37 @@ pronunciation: law-tash'
 definition: properly, to hammer out (an edge), i.e. to sharpen
 kjv_usage: instructer, sharp(-en), whet.
 derivation: a primitive root;
-extended_definition:
-  gloss: to sharpen
-  definition: 1) to sharpen, hammer, whet<br>1a) (Qal)<br>1a1) to hammer<br>1a2) to
-    sharpen (sword)<br>1a3) hammerer (participle)<br>1b) (Pual) to be sharpened
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to sharpen, hammer, whet
+
+  1a) (Qal)
+
+  1a1) to hammer
+
+  1a2) to sharpen (sword)
+
+  1a3) hammerer (participle)
+
+  1b) (Pual) to be sharpened {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H258
-    proximity: 0.8104
+    proximity: 0.8104 {macula-proximity}
   - strongs: H4593a
-    proximity: 0.7481
+    proximity: 0.7481 {macula-proximity}
   - strongs: H4838
-    proximity: 0.7389
+    lemma: מָרַק
+    gloss: to polish {openscriptures-strongs}
+    proximity: 0.7389 {macula-proximity}
   - strongs: H2742b
-    proximity: 0.7119
+    proximity: 0.7119 {macula-proximity}
   - strongs: H2303
-    proximity: 0.7111
+    lemma: חַדּוּד
+    gloss: a point {openscriptures-strongs}
+    proximity: 0.7111 {macula-proximity}
   cross_language:
   - strongs: G1574
-    proximity: 0.8244
+    lemma: ἐκκεντέω
+    gloss: to transfix {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -8,50 +8,68 @@ definition: to gaze at or about (properly, for help); by implication, to inspect
 kjv_usage: depart, be dim, be dismayed, look (away), regard, have respect, spare,
   turn.
 derivation: a primitive root;
-extended_definition:
-  gloss: to gaze
-  definition: 1) to look at or to, regard, gaze at or about<br>1a) (Qal) to gaze at,
-    regard, behold, look about<br>1b) (Hiphil) to look away, cause gaze to turn away<br>1c)
-    (Hithpael) to look in dismay, gaze about (in anxiety)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to look at or to, regard, gaze at or about
+
+  1a) (Qal) to gaze at, regard, behold, look about
+
+  1b) (Hiphil) to look away, cause gaze to turn away
+
+  1c) (Hithpael) to look in dismay, gaze about (in anxiety) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7182
-    proximity: 0.8285
+    lemma: קֶשֶׁב
+    gloss: a hearkening {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: H5770a
-    proximity: 0.8283
+    proximity: 0.8283 {macula-proximity}
   - strongs: H8259
-    proximity: 0.8282
+    lemma: שָׁקַף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H8539
-    proximity: 0.8267
+    lemma: תָּמַהּ
+    gloss: to be in consternation {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
   - strongs: A2370
-    proximity: 0.8256
+    proximity: 0.8256 {macula-proximity}
   - strongs: H7583
-    proximity: 0.8242
+    lemma: שָׁאָה
+    gloss: to stun {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H7520
-    proximity: 0.8231
+    lemma: רָצַד
+    gloss: probably to look askant {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H5869
-    proximity: 0.8136
+    lemma: עַיִן
+    gloss: an eye {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: H2865
-    proximity: 0.8092
+    lemma: חָתַת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: H7200
-    proximity: 0.7943
+    lemma: רָאָה
+    gloss: to see {openscriptures-strongs}
+    proximity: 0.7943 {macula-proximity}
   cross_language:
   - strongs: G2192
-    proximity: 0.8272
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G4762
-    proximity: 0.8127
+    lemma: στρέφω
+    gloss: to twist {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
     language: greek
   - strongs: G1907
-    proximity: 0.7943
+    lemma: ἐπέχω
+    gloss: to hold upon {openscriptures-strongs}
+    proximity: 0.7943 {macula-proximity}
     language: greek
   - strongs: G872
-    proximity: 0.7727
+    proximity: 0.7727 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

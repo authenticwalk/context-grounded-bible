@@ -7,46 +7,68 @@ definition: to sate, i.e. fill to satisfaction (literally or figuratively)
 kjv_usage: have enough, fill (full, self, with), be (to the) full (of), have plenty
   of, be satiate, satisfy (with), suffice, be weary of.
 derivation: or שָׂבֵעַ; a primitive root;
-extended_definition:
-  gloss: to satisfy
-  definition: 1) to be satisfied, be sated, be fulfilled, be surfeited<br>1a) (Qal)<br>1a1)
-    to be sated (with food)<br>1a2) to be sated, be satisfied with, be fulfilled,
-    be filled, have one's fill of (have desire satisfied)<br>1a3) to have in excess,
-    be surfeited, be surfeited with<br>1a3a) to be weary of (fig)<br>1b) (Piel) to
-    satisfy<br>1c) (Hiphil)<br>1c1) to satisfy<br>1c2) to enrich<br>1c3) to sate,
-    glut (with the undesired)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be satisfied, be sated, be fulfilled, be surfeited
+
+  1a) (Qal)
+
+  1a1) to be sated (with food)
+
+  1a2) to be sated, be satisfied with, be fulfilled, be filled, have one''s fill of
+  (have desire satisfied)
+
+  1a3) to have in excess, be surfeited, be surfeited with
+
+  1a3a) to be weary of (fig)
+
+  1b) (Piel) to satisfy
+
+  1c) (Hiphil)
+
+  1c1) to satisfy
+
+  1c2) to enrich
+
+  1c3) to sate, glut (with the undesired) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6283
-    proximity: 0.819
+    lemma: עֲתֶרֶת
+    gloss: copiousness {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   - strongs: H8230b
-    proximity: 0.8155
+    proximity: 0.8155 {macula-proximity}
   - strongs: H2109a
-    proximity: 0.8143
+    proximity: 0.8143 {macula-proximity}
   - strongs: H3899
-    proximity: 0.8121
+    lemma: לֶחֶם
+    gloss: food {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: A4391
-    proximity: 0.8101
+    proximity: 0.8101 {macula-proximity}
   cross_language:
   - strongs: G2425
-    proximity: 0.8293
+    lemma: ἱκανός
+    gloss: competent {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G4138
-    proximity: 0.8292
+    lemma: πλήρωμα
+    gloss: repletion or completion {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
     language: greek
   - strongs: G3325
-    proximity: 0.826
+    lemma: μεστόω
+    gloss: to replenish {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
     language: greek
   - strongs: G1073
-    proximity: 0.8247
+    lemma: γέμω
+    gloss: to swell out {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: greek
   - strongs: G3118
-    proximity: 0.8241
+    lemma: μακροχρόνιος
+    gloss: long-timed {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

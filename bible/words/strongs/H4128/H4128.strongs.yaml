@@ -6,49 +6,65 @@ pronunciation: mood
 definition: to shake
 kjv_usage: measure.
 derivation: a primitive root;
-extended_definition:
-  gloss: to shake
-  definition: (Polel) to shake
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Polel) to shake {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5130b
-    proximity: 0.8241
+    proximity: 0.8241 {macula-proximity}
   - strongs: H5130
-    proximity: 0.8232
+    lemma: נוּף
+    gloss: to quiver (i.e. vibrate up and down {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H7460
-    proximity: 0.8152
+    lemma: רָעַד
+    gloss: to shudder {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: H4058
-    proximity: 0.7928
+    lemma: מָדַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7928 {macula-proximity}
   - strongs: H5363
-    proximity: 0.7909
+    lemma: נֹקֶף
+    gloss: a threshing {openscriptures-strongs}
+    proximity: 0.7909 {macula-proximity}
   - strongs: H4171a
-    proximity: 0.7887
+    proximity: 0.7887 {macula-proximity}
   - strongs: H6328
-    proximity: 0.7878
+    lemma: פּוּק
+    gloss: to waver {openscriptures-strongs}
+    proximity: 0.7878 {macula-proximity}
   - strongs: H7494
-    proximity: 0.7788
+    lemma: רַעַשׁ
+    gloss: vibration {openscriptures-strongs}
+    proximity: 0.7788 {macula-proximity}
   - strongs: H6813
-    proximity: 0.7681
+    lemma: צָעַן
+    gloss: to load up {openscriptures-strongs}
+    proximity: 0.7681 {macula-proximity}
   cross_language:
   - strongs: G2831
-    proximity: 0.8174
+    lemma: κλυδωνίζομαι
+    gloss: to surge {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
     language: greek
   - strongs: G3358
-    proximity: 0.8107
+    lemma: μέτρον
+    gloss: a measure {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
     language: greek
   - strongs: G3355
-    proximity: 0.7917
+    lemma: μετρητής
+    gloss: a measurer {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: greek
   - strongs: G3334
-    proximity: 0.7683
+    lemma: μετακινέω
+    gloss: to stir to a place elsewhere {openscriptures-strongs}
+    proximity: 0.7683 {macula-proximity}
     language: greek
   - strongs: G3354
-    proximity: 0.7681
+    lemma: μετρέω
+    gloss: to measure {openscriptures-strongs}
+    proximity: 0.7681 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

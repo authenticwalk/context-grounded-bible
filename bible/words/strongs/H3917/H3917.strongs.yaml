@@ -6,32 +6,35 @@ pronunciation: lee-leeth'
 definition: a night spectre
 kjv_usage: screech owl.
 derivation: from H3915 (לַיִל);
-extended_definition:
-  gloss: night-creature
-  definition: 1) "Lilith", name of a female goddess known as a night demon who haunts
-    the desolate places of Edom<br>1a) might be a nocturnal animal that inhabits desolate
-    places
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) "Lilith", name of a female goddess known as a night demon
+  who haunts the desolate places of Edom
+
+  1a) might be a nocturnal animal that inhabits desolate places {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5775
-    proximity: 0.8186
+    lemma: עוֹף
+    gloss: a bird (as covered with feathers {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: H3284
-    proximity: 0.7976
+    lemma: יַעֲנָה
+    gloss: '{the ostrich (probably from its answering cry} {openscriptures-strongs}'
+    proximity: 0.7976 {macula-proximity}
   - strongs: A6853
-    proximity: 0.7923
+    proximity: 0.7923 {macula-proximity}
   - strongs: H3915
-    proximity: 0.7108
+    lemma: לַיִל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7108 {macula-proximity}
   cross_language:
   - strongs: G4071
-    proximity: 0.8088
+    lemma: πετεινόν
+    gloss: a flying animal {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
     language: greek
   - strongs: G3571
-    proximity: 0.7083
+    lemma: νύξ
+    gloss: '"night" {openscriptures-strongs}'
+    proximity: 0.7083 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

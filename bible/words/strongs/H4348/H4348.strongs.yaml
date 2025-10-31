@@ -6,42 +6,54 @@ pronunciation: mik-vaw'
 definition: a burn
 kjv_usage: that burneth, burning.
 derivation: from H3554 (כָּוָה);
-extended_definition:
-  gloss: burn
-  definition: burnt spot, burn scar
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: burnt spot, burn scar {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H859a
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
   - strongs: H7805
-    proximity: 0.8032
+    lemma: שָׁזַף
+    gloss: to tan {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
   - strongs: H2740
-    proximity: 0.7988
+    lemma: חָרוֹן
+    gloss: a burning of anger {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   - strongs: H5327a
-    proximity: 0.7861
+    proximity: 0.7861 {macula-proximity}
   - strongs: H5050
-    proximity: 0.7843
+    lemma: נָגַהּ
+    gloss: to glitter {openscriptures-strongs}
+    proximity: 0.7843 {macula-proximity}
   - strongs: H3852
-    proximity: 0.7819
+    lemma: לֶהָבָה
+    gloss: '{a flash {openscriptures-strongs}'
+    proximity: 0.7819 {macula-proximity}
   - strongs: H1253
-    proximity: 0.7798
+    lemma: בֹּר
+    gloss: vegetable lye {openscriptures-strongs}
+    proximity: 0.7798 {macula-proximity}
   - strongs: H2750
-    proximity: 0.7705
+    lemma: חֳרִי
+    gloss: a burning  anger {openscriptures-strongs}
+    proximity: 0.7705 {macula-proximity}
   - strongs: H1614
-    proximity: 0.768
+    lemma: גׇּפְרִית
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.768 {macula-proximity}
   - strongs: H1513
-    proximity: 0.7672
+    lemma: גֶּחֶל
+    gloss: an ember {openscriptures-strongs}
+    proximity: 0.7672 {macula-proximity}
   cross_language:
   - strongs: G4442
-    proximity: 0.7947
+    lemma: πῦρ
+    gloss: '"fire" (literally or figuratively {openscriptures-strongs}'
+    proximity: 0.7947 {macula-proximity}
     language: greek
   - strongs: G2742
-    proximity: 0.7627
+    lemma: καύσων
+    gloss: a glare {openscriptures-strongs}
+    proximity: 0.7627 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

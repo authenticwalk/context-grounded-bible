@@ -6,41 +6,49 @@ pronunciation: yith-rone'
 definition: preeminence, gain
 kjv_usage: better, excellency(-leth), profit(-able).
 derivation: from H3498 (יָתַר);
-extended_definition:
-  gloss: advantage
-  definition: advantage, profit, excellency
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: advantage, profit, excellency {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6187
-    proximity: 0.8257
+    lemma: עֵרֶךְ
+    gloss: a pile {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H8636
-    proximity: 0.818
+    lemma: תַּרְבִּית
+    gloss: multiplication {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: H4242
-    proximity: 0.8111
+    lemma: מְחִיר
+    gloss: price {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: H2896
-    proximity: 0.8077
+    lemma: טוֹב
+    gloss: good  in the widest sense {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
   - strongs: H5504
-    proximity: 0.7278
+    lemma: סַחַר
+    gloss: profit {openscriptures-strongs}
+    proximity: 0.7278 {macula-proximity}
   cross_language:
   - strongs: G4122
-    proximity: 0.8256
+    lemma: πλεονεκτέω
+    gloss: to be covetous {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
     language: greek
   - strongs: G147
-    proximity: 0.8188
+    proximity: 0.8188 {macula-proximity}
     language: greek
   - strongs: G2260
-    proximity: 0.7778
+    lemma: ἤπερ
+    gloss: than at all (or than perhaps {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
     language: greek
   - strongs: G3529
-    proximity: 0.7768
+    lemma: νίκη
+    gloss: conquest {openscriptures-strongs}
+    proximity: 0.7768 {macula-proximity}
     language: greek
   - strongs: G482
-    proximity: 0.7317
+    proximity: 0.7317 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

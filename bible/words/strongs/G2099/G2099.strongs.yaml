@@ -5,38 +5,42 @@ transliteration: euangelistḗs
 definition: a preacher of the gospel
 kjv_usage: evangelist
 derivation: from G2097 (εὐαγγελίζω);
-extended_definition:
-  gloss: evangelist
-  definition: '<b>εὐαγγελιστής</b>, -οῦ, ὁ <BR /> <b>an evangelist</b>; <BR /> __(a)
-    in NT, a preacher of  the gospel: <ref=''Act.21.8''>Act.21:8</ref>, <ref=''Eph.4.11''>Eph.4:11</ref>,
-    <ref=''2Ti.4.5''>2Ti.4:5</ref>; <BR /> __(b) later, a writer of a gospel (eccl.).†<BR
-    /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> εὐαγγελ-ιστής</b>, οῦ, ὁ, <br /> <b>bringer of good tidings</b>:
-    hence, <b>evangelist, preacher of the gospel,</b> [<a href="javascript:void(0)"
-    title=" NT.Acts.21.8. ">NT</a>]<br /><Level2><b>__II</b></Level2> <b>proclaimer
-    of oracular messages,</b> [<a href="javascript:void(0)" title=" Inscriptiones
-    Graecae 12(1).675 (from Rhodes). ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'εὐαγγελιστής, -οῦ, ὁ
+
+  an evangelist;
+
+  __(a) in NT, a preacher of  the gospel: Act.21:8, Eph.4:11, 2Ti.4:5;
+
+  __(b) later, a writer of a gospel (eccl.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'εὐαγγελ-ιστής, οῦ, ὁ,
+
+  bringer of good tidings: hence, evangelist, preacher of the gospel, [NT]
+
+  __II proclaimer of oracular messages, [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4283
-    proximity: 0.8218
+    lemma: προευαγγελίζομαι
+    gloss: to announce glad news in advance {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: G2783
-    proximity: 0.7999
+    lemma: κῆρυξ
+    gloss: a herald {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
   - strongs: G2782
-    proximity: 0.7857
+    lemma: κήρυγμα
+    gloss: a proclamation (especially of the gospel {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
   - strongs: G2784
-    proximity: 0.7425
+    lemma: κηρύσσω
+    gloss: to herald {openscriptures-strongs}
+    proximity: 0.7425 {macula-proximity}
   cross_language:
   - strongs: H1319
-    proximity: 0.8136
+    lemma: בָּשַׂר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

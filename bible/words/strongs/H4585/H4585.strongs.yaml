@@ -7,52 +7,73 @@ definition: '{an abode, of God (the Tabernacle or the Temple), men (their home) 
   animals (their lair); hence, a retreat (asylum)}'
 kjv_usage: den, habitation, (dwelling) place, refuge.
 derivation: or מְעֹנָה; feminine of H4583 (מָעוֹן), and meaning the same
-extended_definition:
-  gloss: habitation
-  definition: 1) dwelling, habitation, refuge<br>1a) den, lair (of animals)<br>1b)
-    dwelling-place (of God) (fig.)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) dwelling, habitation, refuge
+
+  1a) den, lair (of animals)
+
+  1b) dwelling-place (of God) (fig.) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2288
-    proximity: 0.8222
+    lemma: חֲגָו
+    gloss: a rift in rocks {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H4033
-    proximity: 0.8192
+    lemma: מָגוּר
+    gloss: a temporary abode {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: H1481
-    proximity: 0.8137
+    lemma: גּוּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   - strongs: H5585a
-    proximity: 0.8117
+    proximity: 0.8117 {macula-proximity}
   - strongs: H4631
-    proximity: 0.7951
+    lemma: מְעָרָה
+    gloss: a cavern {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
   - strongs: H2356
-    proximity: 0.7925
+    lemma: חוֹר
+    gloss: a cavity {openscriptures-strongs}
+    proximity: 0.7925 {macula-proximity}
   - strongs: H2352
-    proximity: 0.7895
+    lemma: חוּר
+    gloss: the crevice of a serpent {openscriptures-strongs}
+    proximity: 0.7895 {macula-proximity}
   - strongs: A1358
-    proximity: 0.7811
+    proximity: 0.7811 {macula-proximity}
   - strongs: H7675
-    proximity: 0.7747
+    lemma: שֶׁבֶת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7747 {macula-proximity}
   - strongs: H4908
-    proximity: 0.7729
+    lemma: מִשְׁכָּן
+    gloss: a residence (including a shepherd's hut {openscriptures-strongs}
+    proximity: 0.7729 {macula-proximity}
   cross_language:
   - strongs: G2703
-    proximity: 0.8298
+    lemma: καταφεύγω
+    gloss: to flee down {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G5117
-    proximity: 0.8013
+    lemma: τόπος
+    gloss: a spot (general in space {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
     language: greek
   - strongs: G3578
-    proximity: 0.8001
+    lemma: ξενία
+    gloss: hospitality {openscriptures-strongs}
+    proximity: 0.8001 {macula-proximity}
     language: greek
   - strongs: G2733
-    proximity: 0.7935
+    lemma: κατοικία
+    gloss: residence (properly {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
     language: greek
   - strongs: G2731
-    proximity: 0.7719
+    lemma: κατοίκησις
+    gloss: residence (properly {openscriptures-strongs}
+    proximity: 0.7719 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

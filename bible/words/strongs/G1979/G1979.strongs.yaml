@@ -5,58 +5,68 @@ transliteration: episitismós
 definition: a provisioning, i.e. (concretely) food
 kjv_usage: victuals
 derivation: from a compound of G1909 (ἐπί) and a derivative of G4621 (σῖτος);
-extended_definition:
-  gloss: food
-  definition: '<b>ἐπισιτισμός</b>, -οῦ, ὁ<BR /> (ἐπισιτίζομαι, to supply with provisions),
-    [in LXX: <ref=''Gen.42.25''>Gen.42:25</ref>, al. (צֵידָה), <ref=''Jdt.2.18; 4.5''>Jdth.2:18
-    4:5</ref> ;] <BR />__1. a foraging. <BR /> __2. <b>provisions, food</b>: <ref=''Luk.9.12.''>Luk.9:12.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐπισῑτ-ισμός</b>, ὁ, <br /> <b>furnishing oneself with provisions,
-    foraging</b>, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus
-    “Historia Graeca (Hellenica)” 3.2.26, “An.” 1.5.9. ">Refs 5th c.BC+</a>]<br /><Level3><b>__2</b></Level3>.
-    <b>stock</b> or <b>store of provisions</b>,[<a href="javascript:void(0)" title="
-    [prev. work] 7.1.9, 4th c.BC: Demosthenes Orator 34.7, 1st c.AD: Josephus Historicus
-    “Bellum Judaicum” 3.5.3, NT.Luke.9.12">NT+4th c.BC+</a>]; ἔχοντες ἐπισιτις μὸν
-    ἡμερῶν μ Philipp. cited in [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes
-    Orator 18.157; ἐ. ἀννώνης “OGI” 200.15 (Axum, 4th c.AD): in _plural_, 2nd c.AD:
-    Herodianus Grammaticus 6.7.1. ">Refs 4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐπισιτισμός, -οῦ, ὁ
+
+  (ἐπισιτίζομαι, to supply with provisions), [in LXX: Gen.42:25, al. (צֵידָה), Jdth.2:18
+  4:5 ;]
+
+  __1. a foraging.
+
+  __2. provisions, food: Luk.9:12.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐπισῑτ-ισμός, ὁ,
+
+  furnishing oneself with provisions, foraging, [Refs 5th c.BC+]
+
+  __2. stock or store of provisions,[NT+4th c.BC+]; ἔχοντες ἐπισιτις μὸν ἡμερῶν μ
+  Philipp. cited in [Refs 4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4620
-    proximity: 0.817
+    lemma: σιτόμετρον
+    gloss: a grain-measure {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: G3521
-    proximity: 0.8117
+    lemma: νηστεία
+    gloss: abstinence (from lack of food {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
   - strongs: G5315
-    proximity: 0.8034
+    lemma: φάγω
+    gloss: to eat {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
   - strongs: G3588
-    proximity: 0.7975
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
   - strongs: G334
-    proximity: 0.7929
+    proximity: 0.7929 {macula-proximity}
   - strongs: G1494
-    proximity: 0.7781
+    lemma: εἰδωλόθυτον
+    gloss: an image-sacrifice {openscriptures-strongs}
+    proximity: 0.7781 {macula-proximity}
   cross_language:
   - strongs: H3859
-    proximity: 0.8268
+    lemma: לָהַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: hebrew
   - strongs: H3807a
-    proximity: 0.8206
+    proximity: 0.8206 {macula-proximity}
     language: hebrew
   - strongs: H6944
-    proximity: 0.8187
+    lemma: קֹדֶשׁ
+    gloss: a sacred place or thing {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
     language: hebrew
   - strongs: H5927
-    proximity: 0.8141
+    lemma: עָלָה
+    gloss: to ascend {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
     language: hebrew
   - strongs: H7668
-    proximity: 0.8122
+    lemma: שֶׁבֶר
+    gloss: grain {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,45 +6,45 @@ pronunciation: aw-meeth'
 definition: companionship; hence (concretely) a comrade or kindred man
 kjv_usage: another, fellow, neighbour.
 derivation: from a primitive root meaning to associate;
-extended_definition:
-  gloss: neighbor
-  definition: relation, neighbour, associate, fellow
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: relation, neighbour, associate, fellow {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A2273
-    proximity: 0.8248
+    proximity: 0.8248 {macula-proximity}
   - strongs: H376
-    proximity: 0.8103
+    proximity: 0.8103 {macula-proximity}
   - strongs: A3675
-    proximity: 0.8085
+    proximity: 0.8085 {macula-proximity}
   - strongs: A252
-    proximity: 0.8038
+    proximity: 0.8038 {macula-proximity}
   - strongs: A321
-    proximity: 0.803
+    proximity: 0.803 {macula-proximity}
   - strongs: H441a
-    proximity: 0.7845
+    proximity: 0.7845 {macula-proximity}
   - strongs: H312
-    proximity: 0.7736
+    proximity: 0.7736 {macula-proximity}
   cross_language:
   - strongs: G3588
-    proximity: 0.8273
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G4805
-    proximity: 0.8102
+    lemma: σύζυγος
+    gloss: co-yoked {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
     language: greek
   - strongs: G4923
-    proximity: 0.7963
+    lemma: συνοδία
+    gloss: companionship on a journey {openscriptures-strongs}
+    proximity: 0.7963 {macula-proximity}
     language: greek
   - strongs: G245
-    proximity: 0.7953
+    proximity: 0.7953 {macula-proximity}
     language: greek
   - strongs: G4773
-    proximity: 0.7939
+    lemma: συγγενής
+    gloss: a relative {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

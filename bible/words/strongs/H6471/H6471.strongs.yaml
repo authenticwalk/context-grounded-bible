@@ -8,54 +8,74 @@ kjv_usage: anvil, corner, foot(-step), going, (hundred-) fold, [idiom] now, (thi
   [phrase] once, order, rank, step, [phrase] thrice, (often-), second, this, two)
   time(-s), twice, wheel.
 derivation: or (feminine) פַּעֲמָה; from H6470 (פָּעַם);
-extended_definition:
-  gloss: beat
-  definition: 1) stroke, beat, foot, step, anvil, occurrence<br>1a) foot, hoof-beat,
-    footfall, footstep<br>1b) anvil<br>1c) occurrence, time, stroke, beat<br>1c1)
-    one time, once, twice, thrice, as time on time, at this repetition, this once,
-    now at length, now...now, at one time...at another
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) stroke, beat, foot, step, anvil, occurrence
+
+  1a) foot, hoof-beat, footfall, footstep
+
+  1b) anvil
+
+  1c) occurrence, time, stroke, beat
+
+  1c1) one time, once, twice, thrice, as time on time, at this repetition, this once,
+  now at length, now...now, at one time...at another {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8147
-    proximity: 0.8284
+    lemma: שְׁנַיִם
+    gloss: two {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H8548
-    proximity: 0.8281
+    lemma: תָּמִיד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H7281
-    proximity: 0.8278
+    lemma: רֶגַע
+    gloss: a wink {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H871a
-    proximity: 0.8259
+    proximity: 0.8259 {macula-proximity}
   - strongs: A2166
-    proximity: 0.8248
+    proximity: 0.8248 {macula-proximity}
   - strongs: H7166
-    proximity: 0.8244
+    lemma: קַרְסֹל
+    gloss: an ankle {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: H3117
-    proximity: 0.8239
+    lemma: יוֹם
+    gloss: a day {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: A3118
-    proximity: 0.8227
+    proximity: 0.8227 {macula-proximity}
   - strongs: H4932
-    proximity: 0.8218
+    lemma: מִשְׁנֶה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H7637
-    proximity: 0.8218
+    lemma: שְׁבִיעִי
+    gloss: seventh {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   cross_language:
   - strongs: G4743
-    proximity: 0.828
+    lemma: στιγμή
+    gloss: a point of time {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G823
-    proximity: 0.8277
+    proximity: 0.8277 {macula-proximity}
     language: greek
   - strongs: G3397
-    proximity: 0.8263
+    lemma: μικρόν
+    gloss: a small space of time or degree {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
     language: greek
   - strongs: G5551
-    proximity: 0.8244
+    lemma: χρονοτριβέω
+    gloss: to be a time-wearer {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: greek
   - strongs: G4183
-    proximity: 0.8229
+    lemma: πολύς
+    gloss: much  or  many {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

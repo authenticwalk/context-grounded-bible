@@ -9,25 +9,38 @@ derivation: feminine of H6806 (צַעַד);
 related_words:
   synonyms:
   - strongs: H5927
-    proximity: 0.8278
+    lemma: עָלָה
+    gloss: to ascend {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H5674
-    proximity: 0.8265
+    lemma: עָבַר
+    gloss: to cross over {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H5265
-    proximity: 0.812
+    lemma: נָסַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: H1980
-    proximity: 0.8044
+    lemma: הָלַךְ
+    gloss: to walk (in a great variety of applications {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
   - strongs: H7272
-    proximity: 0.7908
+    lemma: רֶגֶל
+    gloss: a foot {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
   - strongs: H1869
-    proximity: 0.7536
+    lemma: דָּרַךְ
+    gloss: to tread {openscriptures-strongs}
+    proximity: 0.7536 {macula-proximity}
   cross_language:
   - strongs: G2487
-    proximity: 0.8288
+    lemma: ἴχνος
+    gloss: compare G2240 ) {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
     language: greek
   - strongs: G4228
-    proximity: 0.7581
+    lemma: πούς
+    gloss: a "foot" {openscriptures-strongs}
+    proximity: 0.7581 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

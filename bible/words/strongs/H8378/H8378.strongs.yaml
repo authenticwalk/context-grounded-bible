@@ -8,48 +8,69 @@ definition: a longing; by implication, a delight (subjectively, satisfaction, ob
 kjv_usage: dainty, desire, [idiom] exceedingly, [idiom] greedily, lust(ing), pleasant.
   See also H6914 (קִבְרוֹת הַתַּאֲוָה).
 derivation: from H183 (אָוָה) (abbreviated);
-extended_definition:
-  gloss: desire
-  definition: 1) desire<br>1a) desire, wish, longings of one's heart<br>1a1) lust,
-    appetite, covetousness (bad sense)<br>1b) thing desired, object of desire
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) desire
+
+  1a) desire, wish, longings of one''s heart
+
+  1a1) lust, appetite, covetousness (bad sense)
+
+  1b) thing desired, object of desire {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5690
-    proximity: 0.8245
+    lemma: עֶגֶב
+    gloss: love {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H3859
-    proximity: 0.8155
+    lemma: לָהַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H2968
-    proximity: 0.8136
+    lemma: יָאַב
+    gloss: to desire {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: H4261
-    proximity: 0.8129
+    lemma: מַחְמָד
+    gloss: delightful {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: H2836
-    proximity: 0.8087
+    lemma: חָשַׁק
+    gloss: to cling {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
   - strongs: H5716
-    proximity: 0.8053
+    lemma: עֲדִי
+    gloss: finery {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H2531
-    proximity: 0.8027
+    lemma: חֶמֶד
+    gloss: delight {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
   - strongs: H8375
-    proximity: 0.8001
+    lemma: תַּאֲבָה
+    gloss: desire {openscriptures-strongs}
+    proximity: 0.8001 {macula-proximity}
   cross_language:
   - strongs: G2206
-    proximity: 0.8296
+    lemma: ζηλόω
+    gloss: to have warmth of feeling for or against {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G515
-    proximity: 0.8222
+    proximity: 0.8222 {macula-proximity}
     language: greek
   - strongs: G2237
-    proximity: 0.8182
+    lemma: ἡδονή
+    gloss: sensual delight {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: greek
   - strongs: G4123
-    proximity: 0.8012
+    lemma: πλεονέκτης
+    gloss: holding  more {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
     language: greek
   - strongs: G1972
-    proximity: 0.7954
+    lemma: ἐπιπόθησις
+    gloss: a longing for {openscriptures-strongs}
+    proximity: 0.7954 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

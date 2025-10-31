@@ -5,65 +5,70 @@ transliteration: promeletáō
 definition: to premeditate
 kjv_usage: meditate before
 derivation: from G4253 (πρό) and G3191 (μελετάω);
-extended_definition:
-  gloss: to premeditate
-  definition: '<b>to practise beforehand </b>: with <i>infinitive</i>, (Xenophon Historicus)
-    (ML)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> προμελετάω</b>, <br /> <b>practise beforehand,</b> ἃ δεῖλέγειν
-    [<a href="javascript:void(0)" title=" 5th-6th c.BC: Aristophanes Comicus “Ecclesiazusae”
-    117; τὴν μέθοδον 5th-6th c.BC: Plato Philosophus “Sophista” 218d ">Refs 5th c.BC+</a>]:
-    with <i>infinitive</i>, π. ἐλαύνειν [<a href="javascript:void(0)" title=" 5th-6th
-    c.BC: Xenophon Historicus “Respublica Atheniensium” 1.20: _absolutely_, 5th-6th
-    c.BC: Aristophanes Comicus “Thesmophoriazusae” 1177, 2nd c.BC: Polybius Historicus
-    10.47.3. ">Refs 5th c.BC+</a>]<br /><Level3><b>__2</b></Level3> <b>acquire a habit
-    of,</b> with <i>infinitive</i>, [<a href="javascript:void(0)" title=" Diocl.fragment
-    27:">Refs</a>] —<i>passive</i>, τὸ μὴ -ηθέν that <b>to which one is</b> not <b>accustomed,</b>
-    [<a href="javascript:void(0)" title=" 2nd c.AD: Soranus Medicus 1.26. ">Refs 2nd
-    c.AD+</a>]<br /><Level2><b>__II</b></Level2> in Medicine texts, <b>to be threatening,</b>
-    of disease [<a href="javascript:void(0)" title="compare (μελετάω 11.6)">Refs</a>],
-    in <i>middle</i>, [<a href="javascript:void(0)" title=" 2nd c.AD: Rufus Medicus
-    “fragment” 61(2). ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'to practise beforehand : with infinitive, (Xenophon Historicus)
+  (ML) {STEPBible-TBESG}'
+etymology: 'προμελετάω,
+
+  practise beforehand, ἃ δεῖλέγειν [Refs 5th c.BC+]: with infinitive, π. ἐλαύνειν
+  [Refs 5th c.BC+]
+
+  __2 acquire a habit of, with infinitive, [Refs] —passive, τὸ μὴ -ηθέν that to which
+  one is not accustomed, [Refs 2nd c.AD+]
+
+  __II in Medicine texts, to be threatening, of disease [Refs], in middle, [Refs 2nd
+  c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5550
-    proximity: 0.827
+    lemma: χρόνος
+    gloss: a space of time (in general {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: A5732
-    proximity: 0.8156
+    proximity: 0.8156 {macula-proximity}
   - strongs: G5427
-    proximity: 0.8143
+    lemma: φρόνημα
+    gloss: inclination or purpose {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
   - strongs: G3309
-    proximity: 0.8001
+    lemma: μεριμνάω
+    gloss: to be anxious about {openscriptures-strongs}
+    proximity: 0.8001 {macula-proximity}
   - strongs: G1761
-    proximity: 0.7778
+    lemma: ἐνθύμησις
+    gloss: deliberation {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   - strongs: G3053
-    proximity: 0.7621
+    lemma: λογισμός
+    gloss: computation {openscriptures-strongs}
+    proximity: 0.7621 {macula-proximity}
   - strongs: G3308
-    proximity: 0.7231
+    lemma: μέριμνα
+    gloss: solicitude {openscriptures-strongs}
+    proximity: 0.7231 {macula-proximity}
   - strongs: G5424
-    proximity: 0.7194
+    lemma: φρήν
+    gloss: the midrif {openscriptures-strongs}
+    proximity: 0.7194 {macula-proximity}
   cross_language:
   - strongs: H7760
-    proximity: 0.8179
+    lemma: שׂוּם
+    gloss: to put (used in a great variety of applications {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
     language: hebrew
   - strongs: H6256
-    proximity: 0.8153
+    lemma: עֵת
+    gloss: time {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
     language: hebrew
   - strongs: H2808
-    proximity: 0.8104
+    lemma: חֶשְׁבּוֹן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
     language: hebrew
   - strongs: H4427a
-    proximity: 0.8048
+    proximity: 0.8048 {macula-proximity}
     language: hebrew
   - strongs: H6098a
-    proximity: 0.7422
+    proximity: 0.7422 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

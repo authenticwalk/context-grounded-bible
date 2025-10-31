@@ -6,35 +6,41 @@ pronunciation: mit-pakh'-ath
 definition: a wide cloak (for a woman)
 kjv_usage: vail, wimple.
 derivation: from H2946 (טָפַח);
-extended_definition:
-  gloss: cloak
-  definition: cloak
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: cloak {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1545
-    proximity: 0.8192
+    lemma: גְּלוֹם
+    gloss: clothing {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: A5622
-    proximity: 0.798
+    proximity: 0.798 {macula-proximity}
   - strongs: H4598
-    proximity: 0.7915
+    lemma: מְעִיל
+    gloss: a robe {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
   - strongs: H3682
-    proximity: 0.7889
+    lemma: כְּסוּת
+    gloss: a cover {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
   - strongs: H4063
-    proximity: 0.7662
+    lemma: מֶדֶו
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7662 {macula-proximity}
   - strongs: H145
-    proximity: 0.7655
+    proximity: 0.7655 {macula-proximity}
   - strongs: H8071
-    proximity: 0.7414
+    lemma: שִׂמְלָה
+    gloss: a dress {openscriptures-strongs}
+    proximity: 0.7414 {macula-proximity}
   - strongs: H8008
-    proximity: 0.7377
+    lemma: שַׂלְמָה
+    gloss: a dress {openscriptures-strongs}
+    proximity: 0.7377 {macula-proximity}
   cross_language:
   - strongs: G2440
-    proximity: 0.7564
+    lemma: ἱμάτιον
+    gloss: a dress {openscriptures-strongs}
+    proximity: 0.7564 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

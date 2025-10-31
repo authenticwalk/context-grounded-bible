@@ -7,52 +7,79 @@ definition: properly, a cord (as twisted), i.e. (by implication) a boundary; by 
   the territory inclosed
 kjv_usage: border, bound, coast, [idiom] great, landmark, limit, quarter, space.
 derivation: or גְּבֻל; (shortened) from H1379 (גָּבַל);
-extended_definition:
-  gloss: 'border: area'
-  definition: ': area<br>1) border, territory<br>1a) border<br>1b) territory (enclosed
-    within boundary)<br>1c) region, territory (of darkness) (fig.)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': area
+
+  1) border, territory
+
+  1a) border
+
+  1b) territory (enclosed within boundary)
+
+  1c) region, territory (of darkness) (fig.) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4180
-    proximity: 0.8297
+    lemma: מוֹרָשׁ
+    gloss: a possession {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: H6924a
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
   - strongs: H8376
-    proximity: 0.8257
+    lemma: תָּאָה
+    gloss: to mark off {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H5045
-    proximity: 0.8227
+    lemma: נֶגֶב
+    gloss: the south {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H8503
-    proximity: 0.8222
+    lemma: תַּכְלִית
+    gloss: completion {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H4054
-    proximity: 0.8194
+    lemma: מִגְרָשׁ
+    gloss: a suburb {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H3220
-    proximity: 0.8188
+    lemma: יָם
+    gloss: a sea  or large body of water {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
   - strongs: H7704
-    proximity: 0.8116
+    lemma: שָׂדֶה
+    gloss: a field {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   - strongs: H2706
-    proximity: 0.8094
+    lemma: חֹק
+    gloss: an enactment {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
   - strongs: H5676
-    proximity: 0.7994
+    lemma: עֵבֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7994 {macula-proximity}
   cross_language:
   - strongs: G5561
-    proximity: 0.8297
+    lemma: χώρα
+    gloss: room {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G4066
-    proximity: 0.828
+    lemma: περίχωρος
+    gloss: around the region {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G2583
-    proximity: 0.8232
+    lemma: κανών
+    gloss: a rule {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
     language: greek
   - strongs: G3882
-    proximity: 0.8196
+    lemma: παράλιος
+    gloss: beside the salt {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
     language: greek
   - strongs: G5047
-    proximity: 0.8022
+    lemma: τελειότης
+    gloss: completeness {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -10,23 +10,34 @@ derivation: or צִץ; from H6692 (צוּץ);
 related_words:
   synonyms:
   - strongs: H6692
-    proximity: 0.8273
+    lemma: צוּץ
+    gloss: to twinkle {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
   - strongs: H2091
-    proximity: 0.8244
+    lemma: זָהָב
+    gloss: gold {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: H3730
-    proximity: 0.8176
+    lemma: כַּפְתֹּר
+    gloss: a chaplet {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   - strongs: H7086
-    proximity: 0.7975
+    lemma: קְעָרָה
+    gloss: a bowl {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
   - strongs: H1375
-    proximity: 0.7708
+    lemma: גְּבִיעַ
+    gloss: a goblet {openscriptures-strongs}
+    proximity: 0.7708 {macula-proximity}
   cross_language:
   - strongs: G1923
-    proximity: 0.8293
+    lemma: ἐπιγραφή
+    gloss: an inscription {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G5102
-    proximity: 0.7571
+    lemma: τίτλος
+    gloss: a titulus or "title" {openscriptures-strongs}
+    proximity: 0.7571 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

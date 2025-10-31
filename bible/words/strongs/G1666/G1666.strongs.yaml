@@ -5,42 +5,42 @@ transliteration: Elissaîos
 definition: Elissæus, an Israelite
 kjv_usage: Elissæus
 derivation: of Hebrew origin (H0477);
-extended_definition:
-  gloss: Elisha
-  definition: '<b>Ἐλισαῖος</b> (Rec. Ἐλισσαῖος; Τ, Ἑλισ-), -ου, ὁ (Heb. אֱלִישָׁע),
-    <BR /> <b>Elisha, the prophet</b>: <ref=''Luk.4.27.''>Luk.4:27.</ref>†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἐλισαῖος</b> (Rec. Ἐλισσαῖος; Τ, Ἑλισ-), -ου, ὁ (Heb. אֱלִישָׁע),
-    <BR /> <b>Elisha, the prophet</b>: <ref=''Luk.4.27.''>Luk.4:27.</ref>†<BR />  (From
-    Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἐλισαῖος (Rec. Ἐλισσαῖος; Τ, Ἑλισ-), -ου, ὁ (Heb. אֱלִישָׁע),
+
+  Elisha, the prophet: Luk.4:27.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἐλισαῖος (Rec. Ἐλισσαῖος; Τ, Ἑλισ-), -ου, ὁ (Heb. אֱלִישָׁע),
+
+  Elisha, the prophet: Luk.4:27.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1056
-    proximity: 0.8203
+    lemma: Γαλιλαία
+    gloss: Galilæa {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: G1694
-    proximity: 0.8185
+    lemma: Ἐμμανουήλ
+    gloss: God with us {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   cross_language:
   - strongs: H1190
-    proximity: 0.8299
+    lemma: בַּעַל שָׁלִשָׁה
+    gloss: Baal of Shalishah {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: hebrew
   - strongs: H461
-    proximity: 0.8295
+    proximity: 0.8295 {macula-proximity}
     language: hebrew
   - strongs: H466
-    proximity: 0.8286
+    proximity: 0.8286 {macula-proximity}
     language: hebrew
   - strongs: H464
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
     language: hebrew
   - strongs: H452
-    proximity: 0.8238
+    proximity: 0.8238 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

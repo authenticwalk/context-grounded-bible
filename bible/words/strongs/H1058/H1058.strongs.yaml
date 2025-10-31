@@ -7,45 +7,62 @@ definition: to weep; generally to bemoan
 kjv_usage: '[idiom] at all, bewail, complain, make lamentation, [idiom] more, mourn,
   [idiom] sore, [idiom] with tears, weep.'
 derivation: a primitive root;
-extended_definition:
-  gloss: to weep
-  definition: 1) to weep, bewail, cry, shed tears<br>1a) (Qal)<br>1a1) to weep (in
-    grief, humiliation, or joy)<br>1a2) to weep bitterly (with cognate acc.)<br>1a3)
-    to weep upon (embrace and weep)<br>1a4) to bewail<br>1b) (Piel) participle<br>1b1)
-    lamenting<br>1b2) bewailing
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to weep, bewail, cry, shed tears
+
+  1a) (Qal)
+
+  1a1) to weep (in grief, humiliation, or joy)
+
+  1a2) to weep bitterly (with cognate acc.)
+
+  1a3) to weep upon (embrace and weep)
+
+  1a4) to bewail
+
+  1b) (Piel) participle
+
+  1b1) lamenting
+
+  1b2) bewailing {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5091a
-    proximity: 0.8284
+    proximity: 0.8284 {macula-proximity}
   - strongs: H57
-    proximity: 0.8211
+    proximity: 0.8211 {macula-proximity}
   - strongs: H7452
-    proximity: 0.821
+    lemma: רֵעַ
+    gloss: a crash {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
   - strongs: H5090a
-    proximity: 0.8185
+    proximity: 0.8185 {macula-proximity}
   - strongs: H7235b
-    proximity: 0.8138
+    proximity: 0.8138 {macula-proximity}
   - strongs: H6937
-    proximity: 0.8119
+    lemma: קָדַר
+    gloss: to be ashy {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: H8563
-    proximity: 0.8089
+    lemma: תַּמְרוּר
+    gloss: bitterness {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: H7771a
-    proximity: 0.805
+    proximity: 0.805 {macula-proximity}
   - strongs: H602
-    proximity: 0.8013
+    proximity: 0.8013 {macula-proximity}
   - strongs: H6969
-    proximity: 0.7907
+    lemma: קוּן
+    gloss: to strike a musical note {openscriptures-strongs}
+    proximity: 0.7907 {macula-proximity}
   cross_language:
   - strongs: G3997
-    proximity: 0.8248
+    lemma: πένθος
+    gloss: grief {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: greek
   - strongs: G3996
-    proximity: 0.7823
+    lemma: πενθέω
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.7823 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

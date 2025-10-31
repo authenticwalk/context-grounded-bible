@@ -5,61 +5,62 @@ transliteration: kataskēnóō
 definition: to camp down, i.e. haunt; figuratively, to remain
 kjv_usage: lodge, rest
 derivation: from G2596 (κατά) and G4637 (σκηνόω);
-extended_definition:
-  gloss: to dwell
-  definition: '<b>κατα-σκηνόω</b>, -ῶ <BR /> [in LXX chiefly for סָכַךְ ;] <BR /><b>to
-    pitch one''s tent, lodge, dwell</b>: before ἐν, <ref=''Mat.13.32''>Mat.13:32</ref>,
-    <ref=''Luk.13.19''>Luk.13:19</ref>; ὑπό, with accusative, <ref=''Mrk.4.32''>Mrk.4:32;</ref>
-    ἐπ᾽ ἐλπιδι, <ref=''Act.2.26''>Act.2:26</ref> (LXX).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κατασκην-όω</b>, <br /> <b>take up one''s quarters, encamp</b>,
-    εἰς.. [<a href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus
-    “Cyr.” 4.5.39, “Hell.Oxy.” 16.2, etc.; ἐν.. LXX.1Ch.23.25; ἔνθα κατεσκηνώκατε
-    Xenophon Historicus [{5-6th c.BC}] “Institutio Cyri (Cyropaedia)” 6.2.2 ">LXX+6th
-    c.BC+</a>]: generally, <b>rest</b>, [<a href="javascript:void(0)" title=" ἐπ᾽
-    ἐλπίδι Vetus Testamentum Graece redditum LXX.Psa.15(16).9 ">LXX</a>]; <b>settle</b>,
-    of birds, [<a href="javascript:void(0)" title=" ἐν κλάδοις NT.Matt.13.32 ">NT</a>]:
-    <i>metaphorically</i>, [<a href="javascript:void(0)" title=" οὐ ψυχὴ ἐν μόνῳ ἀνθρώπῳ
-    κ. 3rd c.AD: Porphyrius Tyrius Philosophus “de Abstinentia - Porphyrii Opuscula”
-    4.9 ">Refs 3rd c.AD+</a>].'
-  source: STEPBible/LSJ
+extended_definition: 'κατα-σκηνόω, -ῶ
+
+  [in LXX chiefly for סָכַךְ ;]
+
+  to pitch one''s tent, lodge, dwell: before ἐν, Mat.13:32, Luk.13:19; ὑπό, with accusative,
+  Mrk.4:32; ἐπ᾽ ἐλπιδι, Act.2:26 (LXX).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κατασκην-όω,
+
+  take up one''s quarters, encamp, εἰς.. [LXX+6th c.BC+]: generally, rest, [LXX];
+  settle, of birds, [NT]: metaphorically, [Refs 3rd c.AD+]. {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A4070
-    proximity: 0.8251
+    proximity: 0.8251 {macula-proximity}
   - strongs: G2731
-    proximity: 0.8241
+    lemma: κατοίκησις
+    gloss: residence (properly {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: G4039
-    proximity: 0.8148
+    lemma: περιοικέω
+    gloss: to reside around {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: G425
-    proximity: 0.8014
+    proximity: 0.8014 {macula-proximity}
   - strongs: A7954
-    proximity: 0.7914
+    proximity: 0.7914 {macula-proximity}
   - strongs: G373
-    proximity: 0.7911
+    proximity: 0.7911 {macula-proximity}
   - strongs: G4520
-    proximity: 0.7837
+    lemma: σαββατισμός
+    gloss: a "sabbatism" {openscriptures-strongs}
+    proximity: 0.7837 {macula-proximity}
   cross_language:
   - strongs: H7258
-    proximity: 0.8261
+    lemma: רֵבֶץ
+    gloss: a couch or place of repose {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: hebrew
   - strongs: H3462a
-    proximity: 0.8189
+    proximity: 0.8189 {macula-proximity}
     language: hebrew
   - strongs: H4494
-    proximity: 0.8154
+    lemma: מָנוֹחַ
+    gloss: quiet {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
     language: hebrew
   - strongs: H5117
-    proximity: 0.8061
+    lemma: נוּחַ
+    gloss: to rest {openscriptures-strongs}
+    proximity: 0.8061 {macula-proximity}
     language: hebrew
   - strongs: H5118
-    proximity: 0.8054
+    lemma: נוּחַ
+    gloss: quiet {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

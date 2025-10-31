@@ -6,49 +6,65 @@ pronunciation: mah-ar-aw-tsaw'
 definition: violence
 kjv_usage: terror.
 derivation: from H6206 (עָרַץ);
-extended_definition:
-  gloss: terror
-  definition: awful shock, crash, terror
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: awful shock, crash, terror {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8186
-    proximity: 0.8221
+    lemma: שַׁעֲרוּרָה
+    gloss: something fearful {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H8186a
-    proximity: 0.8215
+    proximity: 0.8215 {macula-proximity}
   - strongs: H6105
-    proximity: 0.8123
+    lemma: עָצַם
+    gloss: to bind fast {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
   - strongs: H3372
-    proximity: 0.8097
+    lemma: יָרֵא
+    gloss: to fear {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: H3581
-    proximity: 0.8066
+    lemma: כֹּחַ
+    gloss: vigor {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
   - strongs: H6206
-    proximity: 0.8062
+    lemma: עָרַץ
+    gloss: to awe or  to dread {openscriptures-strongs}
+    proximity: 0.8062 {macula-proximity}
   - strongs: H46
-    proximity: 0.8041
+    proximity: 0.8041 {macula-proximity}
   - strongs: H1433
-    proximity: 0.7969
+    lemma: גֹּדֶל
+    gloss: magnitude {openscriptures-strongs}
+    proximity: 0.7969 {macula-proximity}
   - strongs: H6178
-    proximity: 0.796
+    lemma: עָרוּץ
+    gloss: feared {openscriptures-strongs}
+    proximity: 0.796 {macula-proximity}
   cross_language:
   - strongs: G1719
-    proximity: 0.8285
+    lemma: ἔμφοβος
+    gloss: in fear {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G1629
-    proximity: 0.8269
+    lemma: ἐκφοβέω
+    gloss: to frighten utterly {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
     language: greek
   - strongs: G3168
-    proximity: 0.8196
+    lemma: μεγαλειότης
+    gloss: superbness {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
     language: greek
   - strongs: G3173
-    proximity: 0.8067
+    lemma: μέγας
+    gloss: big (literally or figuratively {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
     language: greek
   - strongs: G1753
-    proximity: 0.8064
+    lemma: ἐνέργεια
+    gloss: efficiency {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

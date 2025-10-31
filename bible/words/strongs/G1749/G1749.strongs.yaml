@@ -5,48 +5,59 @@ transliteration: énedron
 definition: an ambush, i.e. (figuratively) murderous design
 kjv_usage: lying in wait
 derivation: neuter of the same as G1747 (ἐνέδρα);
-extended_definition:
-  gloss: hinderance
-  definition: '<b>ἔνεδρον</b>, -ου, τό, see: ἐνέδρα.<BR />  <b>ἐν-έδρα</b>, -ας, ἡ<BR
-    /> (ἕδρα, a seat), [in LXX: <ref=''Jos.8.7-9''>Jos.8:7-9</ref>, <ref=''Psa.10.8''>Psa.10:8</ref>
-    (אָרַב)* ;] <BR /><b>a lying in wait, an ambush</b>: <ref=''Act.23.16''>Act.23:16</ref>
-    (Rec. ἔνεδρον, a form frequently in LXX), <ref=''Act.25.8.''>Act.25:8.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ἔνεδρ-ον</b>, τό, <br /> ={ἐνέδρα} 1, [<a href="javascript:void(0)"
-    title=" LXX.Josh.8.2, 12, +others ">LXX</a>]<br /><Level2><b>__II</b></Level2>
-    <b>hindrance, obstruction,</b> [<a href="javascript:void(0)" title=" POxy. 892.11
-    (4th c.AD). ">Refs 4th c.AD+</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ἔνεδρον, -ου, τό, see: ἐνέδρα.
+
+  ἐν-έδρα, -ας, ἡ
+
+  (ἕδρα, a seat), [in LXX: Jos.8:7-9, Psa.10:8 (אָרַב)* ;]
+
+  a lying in wait, an ambush: Act.23:16 (Rec. ἔνεδρον, a form frequently in LXX),
+  Act.25:8.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἔνεδρ-ον, τό,
+
+  ={ἐνέδρα} 1, [LXX]
+
+  __II hindrance, obstruction, [Refs 4th c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1388
-    proximity: 0.7657
+    lemma: δόλος
+    gloss: compare G1185 ) {openscriptures-strongs}
+    proximity: 0.7657 {macula-proximity}
   - strongs: G3180
-    proximity: 0.7647
+    lemma: μεθοδεία
+    gloss: travelling over {openscriptures-strongs}
+    proximity: 0.7647 {macula-proximity}
   - strongs: G3834
-    proximity: 0.734
+    lemma: πανουργία
+    gloss: adroitness {openscriptures-strongs}
+    proximity: 0.734 {macula-proximity}
   cross_language:
   - strongs: H6845
-    proximity: 0.8201
+    lemma: צָפַן
+    gloss: to hide {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: hebrew
   - strongs: H4204
-    proximity: 0.7917
+    lemma: מָזוֹר
+    gloss: treachery {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: hebrew
   - strongs: H4860
-    proximity: 0.7895
+    lemma: מַשָּׁאוֹן
+    gloss: dissimulation {openscriptures-strongs}
+    proximity: 0.7895 {macula-proximity}
     language: hebrew
   - strongs: H4156
-    proximity: 0.7863
+    lemma: מוֹעֵצָה
+    gloss: a purpose {openscriptures-strongs}
+    proximity: 0.7863 {macula-proximity}
     language: hebrew
   - strongs: H2247
-    proximity: 0.7854
+    lemma: חָבָה
+    gloss: to secrete {openscriptures-strongs}
+    proximity: 0.7854 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

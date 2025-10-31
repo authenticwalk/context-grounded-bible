@@ -10,33 +10,46 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H4646
-    proximity: 0.8232
+    lemma: מַפָּח
+    gloss: a breathing out {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H6770
-    proximity: 0.82
+    lemma: צָמֵא
+    gloss: to thirst {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
   - strongs: H8264a
-    proximity: 0.8098
+    proximity: 0.8098 {macula-proximity}
   - strongs: H8378
-    proximity: 0.762
+    lemma: תַּאֲוָה
+    gloss: a longing {openscriptures-strongs}
+    proximity: 0.762 {macula-proximity}
   - strongs: H183
-    proximity: 0.7089
+    proximity: 0.7089 {macula-proximity}
   - strongs: H3700
-    proximity: 0.7048
+    lemma: כָּסַף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7048 {macula-proximity}
   - strongs: H8669
-    proximity: 0.7009
+    lemma: תְּשׁוּקָה
+    gloss: a longing {openscriptures-strongs}
+    proximity: 0.7009 {macula-proximity}
   cross_language:
   - strongs: G1939
-    proximity: 0.8152
+    lemma: ἐπιθυμία
+    gloss: a longing {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
     language: greek
   - strongs: G603
-    proximity: 0.7907
+    proximity: 0.7907 {macula-proximity}
     language: greek
   - strongs: G3713
-    proximity: 0.7627
+    lemma: ὀρέγομαι
+    gloss: to stretch oneself {openscriptures-strongs}
+    proximity: 0.7627 {macula-proximity}
     language: greek
   - strongs: G1937
-    proximity: 0.7087
+    lemma: ἐπιθυμέω
+    gloss: to set the heart upon {openscriptures-strongs}
+    proximity: 0.7087 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

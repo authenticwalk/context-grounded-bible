@@ -7,48 +7,66 @@ definition: a covering, i.e. garment; specifically, a coverlet (for a bed), an a
   (from the sun); also the omentum (as covering the intestines)
 kjv_usage: clothing, to cover, that which covereth.
 derivation: from H3680 (כָּסָה);
-extended_definition:
-  gloss: covering
-  definition: covering, that which covers
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: covering, that which covers {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2646
-    proximity: 0.8282
+    lemma: חֻפָּה
+    gloss: a canopy {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: A5622
-    proximity: 0.8211
+    proximity: 0.8211 {macula-proximity}
   - strongs: H4360
-    proximity: 0.8209
+    lemma: מִכְלֻל
+    gloss: something perfect {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: H8151
-    proximity: 0.8193
+    lemma: שָׁנַס
+    gloss: to compress {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H5844
-    proximity: 0.8157
+    lemma: עָטָה
+    gloss: to wrap {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: H5526
-    proximity: 0.8097
+    lemma: סָכַךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: H6614
-    proximity: 0.8073
+    lemma: פְּתִיגִיל
+    gloss: probably a figured mantle forholidays {openscriptures-strongs}
+    proximity: 0.8073 {macula-proximity}
   - strongs: H4418
-    proximity: 0.8072
+    lemma: מָלָח
+    gloss: a rag or old garment {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
   - strongs: H4254
-    proximity: 0.7975
+    lemma: מַחֲלָצָה
+    gloss: a mantle {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
   - strongs: H2645
-    proximity: 0.7927
+    lemma: חָפָה
+    gloss: to cover {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
   cross_language:
   - strongs: G2067
-    proximity: 0.8299
+    lemma: ἔσθησις
+    gloss: clothing {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G2689
-    proximity: 0.8299
+    lemma: καταστολή
+    gloss: a deposit {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G4018
-    proximity: 0.7994
+    lemma: περιβόλαιον
+    gloss: something thrown around one {openscriptures-strongs}
+    proximity: 0.7994 {macula-proximity}
     language: greek
   - strongs: G4780
-    proximity: 0.7929
+    lemma: συγκαλύπτω
+    gloss: to conceal altogether {openscriptures-strongs}
+    proximity: 0.7929 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -10,17 +10,22 @@ derivation: from H6750 (צָלַל) reduplicated;
 related_words:
   synonyms:
   - strongs: H2728
-    proximity: 0.8167
+    lemma: חָרְגֹּל
+    gloss: the leaping insect {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H5569
-    proximity: 0.7878
+    lemma: סָמָר
+    gloss: bristling {openscriptures-strongs}
+    proximity: 0.7878 {macula-proximity}
   cross_language:
   - strongs: G4597
-    proximity: 0.8206
+    lemma: σής
+    gloss: a moth {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G4663
-    proximity: 0.8159
+    lemma: σκώληξ
+    gloss: a grub {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

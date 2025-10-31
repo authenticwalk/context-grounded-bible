@@ -6,41 +6,56 @@ pronunciation: mah-am-awd'
 definition: (figuratively) a position
 kjv_usage: attendance, office, place, state.
 derivation: from H5975 (עָמַד);
-extended_definition:
-  gloss: office
-  definition: 1) attendance, office, function, service<br>1a) station, office, post<br>1b)
-    office, function<br>1c) service
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) attendance, office, function, service
+
+  1a) station, office, post
+
+  1b) office, function
+
+  1c) service {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4931
-    proximity: 0.8296
+    lemma: מִשְׁמֶרֶת
+    gloss: watch {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H3550
-    proximity: 0.8203
+    lemma: כְּהֻנָּה
+    gloss: priesthood {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: H5975
-    proximity: 0.789
+    lemma: עָמַד
+    gloss: to stand {openscriptures-strongs}
+    proximity: 0.789 {macula-proximity}
   - strongs: H3320
-    proximity: 0.7888
+    lemma: יָצַב
+    gloss: to place {openscriptures-strongs}
+    proximity: 0.7888 {macula-proximity}
   - strongs: H5977
-    proximity: 0.7679
+    lemma: עֹמֶד
+    gloss: a spot {openscriptures-strongs}
+    proximity: 0.7679 {macula-proximity}
   - strongs: H4725
-    proximity: 0.7431
+    lemma: מָקוֹם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7431 {macula-proximity}
   cross_language:
   - strongs: G3009
-    proximity: 0.8284
+    lemma: λειτουργία
+    gloss: public function  or almsgiver) {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: greek
   - strongs: G5117
-    proximity: 0.7907
+    lemma: τόπος
+    gloss: a spot (general in space {openscriptures-strongs}
+    proximity: 0.7907 {macula-proximity}
     language: greek
   - strongs: G2405
-    proximity: 0.7577
+    lemma: ἱερατεία
+    gloss: priestliness {openscriptures-strongs}
+    proximity: 0.7577 {macula-proximity}
     language: greek
   - strongs: G4332a
-    proximity: 0.7472
+    proximity: 0.7472 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

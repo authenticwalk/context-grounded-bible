@@ -6,37 +6,42 @@ pronunciation: keh'-shef
 definition: magic
 kjv_usage: sorcery, witchcraft.
 derivation: from H3784 (כָּשַׁף);
-extended_definition:
-  gloss: sorcery
-  definition: sorcery, witchcraft
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: sorcery, witchcraft {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3908
-    proximity: 0.8147
+    lemma: לַחַשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: A826
-    proximity: 0.807
+    proximity: 0.807 {macula-proximity}
   - strongs: H825
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
   - strongs: H3049
-    proximity: 0.7995
+    lemma: יִדְּעֹנִי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
   - strongs: H6049
-    proximity: 0.7908
+    lemma: עָנַן
+    gloss: figuratively {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
   - strongs: H3786
-    proximity: 0.7635
+    lemma: כַּשָּׁף
+    gloss: a magician {openscriptures-strongs}
+    proximity: 0.7635 {macula-proximity}
   cross_language:
   - strongs: G2940
-    proximity: 0.8079
+    lemma: κυβεία
+    gloss: gambling {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
     language: greek
   - strongs: G5332
-    proximity: 0.7766
+    lemma: φαρμακεύς
+    gloss: a druggist  or poisoner {openscriptures-strongs}
+    proximity: 0.7766 {macula-proximity}
     language: greek
   - strongs: G5333
-    proximity: 0.7766
+    lemma: φάρμακος
+    proximity: 0.7766 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

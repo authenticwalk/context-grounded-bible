@@ -7,22 +7,23 @@ definition: a stylus or marking stick
 kjv_usage: pen.
 derivation: from H5860 (עִיט) (contracted) in the sense of swooping, i.e. side-long
   stroke;
-extended_definition:
-  gloss: stylus
-  definition: 1) stylus<br>1a) iron stylus with diamond tip used to write on stone
-    or metal<br>1b) reed pen used on a roll
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) stylus
+
+  1a) iron stylus with diamond tip used to write on stone or metal
+
+  1b) reed pen used on a roll {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1223
-    proximity: 0.8214
+    lemma: בׇּצְרָה
+    gloss: an enclosure {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H1270
-    proximity: 0.7868
+    lemma: בַּרְזֶל
+    gloss: iron {openscriptures-strongs}
+    proximity: 0.7868 {macula-proximity}
   - strongs: H2747
-    proximity: 0.7769
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: חֶרֶט
+    gloss: a chisel or graver {openscriptures-strongs}
+    proximity: 0.7769 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

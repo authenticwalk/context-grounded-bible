@@ -5,50 +5,58 @@ transliteration: hekatontaplasíōn
 definition: a hundred times
 kjv_usage: hundredfold
 derivation: from G1540 (ἑκατόν) and a presumed derivative of G4111 (πλάσσω);
-extended_definition:
-  gloss: a hundred times
-  definition: <b>a hundred times as much </b> or <b>many </b>, (Xenophon Historicus)
-    (ML)
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἑκᾰτοντα-πλᾰσίων</b>, ον, <br /> <i>genitive</i> ονος, <b>a
-    hundred times as much</b> or <b>many,</b> with <i>genitive</i>, [<a href="javascript:void(0)"
-    title=" 5th-6th c.BC: Xenophon Historicus “Oeconomicus” 2.3 ">Refs 5th c.BC+</a>]:
-    without <i>genitive</i>, <b>a hundredfold,</b> [<a href="javascript:void(0)" title="
-    LXX.2Ki.24.8; καρπός NT.Luke.8.8. ">LXX+NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: a hundred times as much  or many , (Xenophon Historicus) (ML)
+  {STEPBible-TBESG}
+etymology: 'ἑκᾰτοντα-πλᾰσίων, ον,
+
+  genitive ονος, a hundred times as much or many, with genitive, [Refs 5th c.BC+]:
+  without genitive, a hundredfold, [LXX+NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1362
-    proximity: 0.7878
+    lemma: διπλοῦς
+    gloss: two-fold {openscriptures-strongs}
+    proximity: 0.7878 {macula-proximity}
   - strongs: G4183
-    proximity: 0.7852
+    lemma: πολύς
+    gloss: much  or  many {openscriptures-strongs}
+    proximity: 0.7852 {macula-proximity}
   - strongs: G5073
-    proximity: 0.7846
+    lemma: τετραπλόος
+    gloss: quadruple {openscriptures-strongs}
+    proximity: 0.7846 {macula-proximity}
   - strongs: G5550
-    proximity: 0.7775
+    lemma: χρόνος
+    gloss: a space of time (in general {openscriptures-strongs}
+    proximity: 0.7775 {macula-proximity}
   - strongs: G1541
-    proximity: 0.7294
+    lemma: ἑκατονταέτης
+    gloss: centenarian {openscriptures-strongs}
+    proximity: 0.7294 {macula-proximity}
   cross_language:
   - strongs: H6256
-    proximity: 0.825
+    lemma: עֵת
+    gloss: time {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
     language: hebrew
   - strongs: H7227
-    proximity: 0.8234
+    lemma: רַב
+    gloss: abundant (in quantity {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
     language: hebrew
   - strongs: H4767
-    proximity: 0.8215
+    lemma: מִרְבָּה
+    gloss: abundance {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
     language: hebrew
   - strongs: H7659
-    proximity: 0.8179
+    lemma: שִׁבְעָתַיִם
+    gloss: seven-times {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
     language: hebrew
   - strongs: H3968
-    proximity: 0.7717
+    lemma: מֵאָה
+    gloss: Meah {openscriptures-strongs}
+    proximity: 0.7717 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

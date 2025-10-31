@@ -8,53 +8,77 @@ definition: properly, deputyship, i.e. ministry; generally, employment (never se
 kjv_usage: business, [phrase] cattle, [phrase] industrious, occupation, ([phrase]
   -pied), [phrase] officer, thing (made), use, (manner of) work((-man), -manship).
 derivation: from the same as H4397 (מֲלְאָךְ);
-extended_definition:
-  gloss: work
-  definition: 1) occupation, work, business<br>1a) occupation, business<br>1b) property<br>1c)
-    work (something done or made)<br>1d) workmanship<br>1e) service, use<br>1f) public
-    business<br>1f1) political<br>1f2) religious
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) occupation, work, business
+
+  1a) occupation, business
+
+  1b) property
+
+  1c) work (something done or made)
+
+  1d) workmanship
+
+  1e) service, use
+
+  1f) public business
+
+  1f1) political
+
+  1f2) religious {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1778
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
   - strongs: H4735
-    proximity: 0.8255
+    lemma: מִקְנֶה
+    gloss: something bought {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: H4284
-    proximity: 0.8237
+    lemma: מַחֲשָׁבָה
+    gloss: a contrivance {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: A4479
-    proximity: 0.823
+    proximity: 0.823 {macula-proximity}
   - strongs: H4478a
-    proximity: 0.823
+    proximity: 0.823 {macula-proximity}
   - strongs: H6001
-    proximity: 0.8207
+    lemma: עָמֵל
+    gloss: toiling {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H525
-    proximity: 0.8154
+    proximity: 0.8154 {macula-proximity}
   - strongs: A846
-    proximity: 0.8146
+    proximity: 0.8146 {macula-proximity}
   - strongs: H1697
-    proximity: 0.8082
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
   - strongs: H1576
-    proximity: 0.8078
+    lemma: גְּמוּל
+    gloss: treatment {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   cross_language:
   - strongs: G1829
-    proximity: 0.8272
+    lemma: ἐξέραμα
+    gloss: vomit {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G3618
-    proximity: 0.8258
+    lemma: οἰκοδομέω
+    gloss: to be a house-builder {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G1217
-    proximity: 0.8237
+    lemma: δημιουργός
+    gloss: a worker for the people {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
     language: greek
   - strongs: G4020
-    proximity: 0.8136
+    lemma: περιεργάζομαι
+    gloss: to work all around {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
     language: greek
   - strongs: G1739a
-    proximity: 0.7981
+    proximity: 0.7981 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

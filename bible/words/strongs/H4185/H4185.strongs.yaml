@@ -8,48 +8,67 @@ definition: to withdraw (both literally and figuratively, whether intransitive o
 kjv_usage: cease, depart, go back, remove, take away.
 derivation: a primitive root (perhaps rather the same as H4184 (מוּשׁ) through the
   idea of receding by contact);
-extended_definition:
-  gloss: to remove
-  definition: 1) to depart, remove<br>1a) (Qal)<br>1a1) to depart<br>1a2) to remove<br>1a3)
-    to be removed (of inanimate objects)<br>1b) (Hiphil) to remove, depart
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to depart, remove
+
+  1a) (Qal)
+
+  1a1) to depart
+
+  1a2) to remove
+
+  1a3) to be removed (of inanimate objects)
+
+  1b) (Hiphil) to remove, depart {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1820
-    proximity: 0.8298
+    lemma: דָּמָה
+    gloss: to be dumb or silent {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: H7847
-    proximity: 0.8295
+    lemma: שָׂטָה
+    gloss: to deviate from duty {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: A6562
-    proximity: 0.8279
+    proximity: 0.8279 {macula-proximity}
   - strongs: H5800a
-    proximity: 0.8248
+    proximity: 0.8248 {macula-proximity}
   - strongs: H7369
-    proximity: 0.8242
+    lemma: רָחֵק
+    gloss: remote {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H4480
-    proximity: 0.8111
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: H5265
-    proximity: 0.8072
+    lemma: נָסַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
   - strongs: H5674
-    proximity: 0.8029
+    lemma: עָבַר
+    gloss: to cross over {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
   cross_language:
   - strongs: G447
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
     language: greek
   - strongs: G1593
-    proximity: 0.8233
+    lemma: ἐκνεύω
+    gloss: to slip off {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
     language: greek
   - strongs: G2673
-    proximity: 0.8195
+    lemma: καταργέω
+    gloss: to be  entirely idle {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
     language: greek
   - strongs: G3334
-    proximity: 0.8113
+    lemma: μετακινέω
+    gloss: to stir to a place elsewhere {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
     language: greek
   - strongs: G659
-    proximity: 0.8091
+    proximity: 0.8091 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

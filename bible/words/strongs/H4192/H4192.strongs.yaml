@@ -7,43 +7,52 @@ definition: '''To die for the son'', probably the title of a popular song'
 kjv_usage: death, Muthlabben.
 derivation: (Psalm H48 (אֲבִירָם) or מוּת לַבֵּן; from H4191 (מוּת) and H1121 (בֵּן)
   with the preposition and article interposed;
-extended_definition:
-  gloss: (Muth-)labben
-  definition: '<BR>means: of a son'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'means: of a son {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4191
-    proximity: 0.828
+    lemma: מוּת
+    gloss: to die {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
   - strongs: H7275
-    proximity: 0.8235
+    lemma: רָגַם
+    gloss: to cast together {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: H8546
-    proximity: 0.7885
+    lemma: תְּמוּתָה
+    gloss: execution {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
   - strongs: H4463
-    proximity: 0.7845
+    lemma: מָמוֹת
+    gloss: a mortal disease {openscriptures-strongs}
+    proximity: 0.7845 {macula-proximity}
   - strongs: H4194
-    proximity: 0.739
+    lemma: מָוֶת
+    gloss: death {openscriptures-strongs}
+    proximity: 0.739 {macula-proximity}
   - strongs: A4193
-    proximity: 0.712
+    proximity: 0.712 {macula-proximity}
   cross_language:
   - strongs: G3499
-    proximity: 0.8235
+    lemma: νεκρόω
+    gloss: to deaden {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: greek
   - strongs: G5053
-    proximity: 0.8184
+    lemma: τελευτάω
+    gloss: to finish life (by implication {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
     language: greek
   - strongs: G1935
-    proximity: 0.7724
+    lemma: ἐπιθανάτιος
+    gloss: doomed to death {openscriptures-strongs}
+    proximity: 0.7724 {macula-proximity}
     language: greek
   - strongs: G336
-    proximity: 0.7476
+    proximity: 0.7476 {macula-proximity}
     language: greek
   - strongs: G2289
-    proximity: 0.7389
+    lemma: θανατόω
+    proximity: 0.7389 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,23 +6,22 @@ pronunciation: ab-ote'
 definition: a pawn
 kjv_usage: pledge.
 derivation: or עֲבֹט; from H5670 (עָבַט);
-extended_definition:
-  gloss: pledge
-  definition: pledge, a thing given as security, article pledged as security for debt
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: pledge, a thing given as security, article pledged as security
+  for debt {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5670
-    proximity: 0.7821
+    lemma: עָבַט
+    gloss: to pawn {openscriptures-strongs}
+    proximity: 0.7821 {macula-proximity}
   - strongs: H6148
-    proximity: 0.7352
+    lemma: עָרַב
+    gloss: to braid {openscriptures-strongs}
+    proximity: 0.7352 {macula-proximity}
   cross_language:
   - strongs: G1906
-    proximity: 0.7767
+    lemma: ἐπερώτημα
+    gloss: an inquiry {openscriptures-strongs}
+    proximity: 0.7767 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

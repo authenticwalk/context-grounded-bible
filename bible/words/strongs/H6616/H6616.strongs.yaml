@@ -6,45 +6,55 @@ pronunciation: paw-theel'
 definition: twine
 kjv_usage: bound, bracelet, lace, line, ribband, thread, wire.
 derivation: from H6617 (פָּתַל);
-extended_definition:
-  gloss: cord
-  definition: cord, thread (twisted)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: cord, thread (twisted) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H948
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
   - strongs: H8270
-    proximity: 0.817
+    lemma: שֹׁר
+    gloss: a string {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: H3704
-    proximity: 0.8054
+    lemma: כֶּסֶת
+    gloss: a cushion or pillow {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
   - strongs: H8336
-    proximity: 0.7949
+    lemma: שֵׁשׁ
+    gloss: bleached stuff {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
   - strongs: H100
-    proximity: 0.794
+    proximity: 0.794 {macula-proximity}
   - strongs: H5364
-    proximity: 0.7859
+    lemma: נִקְפָּה
+    gloss: probably a rope {openscriptures-strongs}
+    proximity: 0.7859 {macula-proximity}
   - strongs: H6593
-    proximity: 0.7775
+    lemma: פִּשְׁתֶּה
+    gloss: linen (i.e. the thread {openscriptures-strongs}
+    proximity: 0.7775 {macula-proximity}
   - strongs: H73
-    proximity: 0.7551
+    proximity: 0.7551 {macula-proximity}
   - strongs: H2290a
-    proximity: 0.7499
+    proximity: 0.7499 {macula-proximity}
   - strongs: H2805
-    proximity: 0.7403
+    lemma: חֵשֶׁב
+    gloss: a belt or strap {openscriptures-strongs}
+    proximity: 0.7403 {macula-proximity}
   cross_language:
   - strongs: G2223
-    proximity: 0.8209
+    lemma: ζώνη
+    gloss: a belt {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
     language: greek
   - strongs: G5416
-    proximity: 0.8045
+    lemma: φραγέλλιον
+    gloss: a whip {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
     language: greek
   - strongs: G2224
-    proximity: 0.8013
+    lemma: ζώννυμι
+    gloss: to bind about {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

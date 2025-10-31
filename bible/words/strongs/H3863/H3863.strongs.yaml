@@ -6,48 +6,60 @@ pronunciation: loo
 definition: a conditional particle; if; by implication (interj. as a wish) would that!
 kjv_usage: if (haply), peradventure, I pray thee, though, I would, would God (that).
 derivation: or לֻא; or לוּ;
-extended_definition:
-  gloss: if
-  definition: 1) if, oh that!, if only!<br>1a) if (unlikely condition)<br>1b) if only!,
-    oh that!, would that!
-  morphology: H:Intj
-  source: STEPBible/BDB
+extended_definition: '1) if, oh that!, if only!
+
+  1a) if (unlikely condition)
+
+  1b) if only!, oh that!, would that! {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H408
-    proximity: 0.8231
+    proximity: 0.8231 {macula-proximity}
   - strongs: H199
-    proximity: 0.8213
+    proximity: 0.8213 {macula-proximity}
   - strongs: H7535
-    proximity: 0.8087
+    lemma: רַק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
   - strongs: H4994
-    proximity: 0.807
+    lemma: נָא
+    gloss: '''I pray'' {openscriptures-strongs}'
+    proximity: 0.807 {macula-proximity}
   - strongs: H6435
-    proximity: 0.8024
+    lemma: פֵּן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: H3588
-    proximity: 0.8008
+    lemma: כִּי
+    gloss: very widely used as a relative conjunction or adverb {openscriptures-strongs}
+    proximity: 0.8008 {macula-proximity}
   - strongs: H176
-    proximity: 0.7983
+    proximity: 0.7983 {macula-proximity}
   - strongs: H14
-    proximity: 0.7955
+    proximity: 0.7955 {macula-proximity}
   cross_language:
   - strongs: G1065
-    proximity: 0.8268
+    lemma: γέ
+    proximity: 0.8268 {macula-proximity}
     language: greek
   - strongs: G3361
-    proximity: 0.8247
+    lemma: μή
+    gloss: not {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: greek
   - strongs: G3780
-    proximity: 0.8219
+    lemma: οὐχί
+    gloss: not indeed {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
     language: greek
   - strongs: G4458
-    proximity: 0.8007
+    lemma: -πώς
+    gloss: an enclitic particle of indefiniteness of manner {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
     language: greek
   - strongs: G2481
-    proximity: 0.7995
+    lemma: ἴσως
+    gloss: likely {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

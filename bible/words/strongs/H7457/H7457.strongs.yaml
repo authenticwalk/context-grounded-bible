@@ -6,24 +6,27 @@ pronunciation: raw-abe'
 definition: hungry (more or less intensely)
 kjv_usage: hunger bitten, hungry.
 derivation: from H7456 (רָעֵב);
-extended_definition:
-  gloss: hungry
-  definition: 1) hungry<br>1a) hungry<br>1b) hungry man (subst)<br>1c) of failing
-    strength (fig)
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) hungry
+
+  1a) hungry
+
+  1b) hungry man (subst)
+
+  1c) of failing strength (fig) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8264a
-    proximity: 0.8279
+    proximity: 0.8279 {macula-proximity}
   - strongs: H6782
-    proximity: 0.8259
+    lemma: צַמִּים
+    gloss: a noose {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: H3700
-    proximity: 0.819
+    lemma: כָּסַף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   - strongs: H6771
-    proximity: 0.817
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: צָמֵא
+    gloss: thirsty {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

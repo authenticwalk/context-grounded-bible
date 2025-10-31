@@ -6,46 +6,65 @@ pronunciation: khane
 definition: graciousness, i.e. subjective (kindness, favor) or objective (beauty)
 kjv_usage: favour, grace(-ious), pleasant, precious, (well-) favoured.
 derivation: from H2603 (חָנַן);
-extended_definition:
-  gloss: favor
-  definition: 1) favour, grace, charm<br>1a) favour, grace, elegance<br>1b) favour,
-    acceptance
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) favour, grace, charm
+
+  1a) favour, grace, elegance
+
+  1b) favour, acceptance {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2589
-    proximity: 0.8284
+    lemma: חַנּוֹת
+    gloss: supplication {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H1921
-    proximity: 0.8218
+    lemma: הָדַר
+    gloss: to swell up (literally or figuratively {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H1293
-    proximity: 0.8216
+    lemma: בְּרָכָה
+    gloss: benediction {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   - strongs: H2898
-    proximity: 0.8187
+    lemma: טוּב
+    gloss: good {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
   - strongs: H1288
-    proximity: 0.816
+    lemma: בָרַךְ
+    gloss: to kneel {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
   - strongs: H1576
-    proximity: 0.8125
+    lemma: גְּמוּל
+    gloss: treatment {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: H2655
-    proximity: 0.8055
+    lemma: חָפֵץ
+    gloss: pleased with {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
   cross_language:
   - strongs: G1656
-    proximity: 0.8225
+    lemma: ἔλεος
+    gloss: compassion (human or divine {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
   - strongs: G3627
-    proximity: 0.8174
+    lemma: οἰκτείρω
+    gloss: to exercise pity {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
     language: greek
   - strongs: G1390
-    proximity: 0.8173
+    lemma: δόμα
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
     language: greek
   - strongs: G5544
-    proximity: 0.8116
+    lemma: χρηστότης
+    gloss: usefulness {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
     language: greek
   - strongs: G2147
-    proximity: 0.8106
+    lemma: εὑρίσκω
+    gloss: to find {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

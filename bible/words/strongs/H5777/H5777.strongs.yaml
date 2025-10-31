@@ -6,41 +6,49 @@ pronunciation: o-feh'-reth
 definition: lead (from its dusty color)
 kjv_usage: lead.
 derivation: or עֹפֶרֶת; feminine participle active of H6080 (עָפַר);
-extended_definition:
-  gloss: lead
-  definition: lead
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: lead {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H68
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
   - strongs: H5148
-    proximity: 0.8201
+    lemma: נָחָה
+    gloss: to guide {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: H3603
-    proximity: 0.8076
+    lemma: כִּכָּר
+    gloss: a circle {openscriptures-strongs}
+    proximity: 0.8076 {macula-proximity}
   - strongs: H5095
-    proximity: 0.7978
+    lemma: נָהַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7978 {macula-proximity}
   - strongs: H1718
-    proximity: 0.769
+    lemma: דָּדָה
+    gloss: to walk gently {openscriptures-strongs}
+    proximity: 0.769 {macula-proximity}
   cross_language:
   - strongs: G1806
-    proximity: 0.8277
+    lemma: ἐξάγω
+    gloss: to lead forth {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: greek
   - strongs: G520
-    proximity: 0.8259
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G4281
-    proximity: 0.8121
+    lemma: προέρχομαι
+    gloss: to go onward {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
     language: greek
   - strongs: G4291
-    proximity: 0.7979
+    lemma: προΐστημι
+    gloss: to stand before {openscriptures-strongs}
+    proximity: 0.7979 {macula-proximity}
     language: greek
   - strongs: G1533
-    proximity: 0.787
+    lemma: εἰσφέρω
+    gloss: to carry inward {openscriptures-strongs}
+    proximity: 0.787 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

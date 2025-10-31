@@ -7,48 +7,60 @@ definition: properly, separate by awall, i.e. outside, outdoors
 kjv_usage: abroad, field, forth, highway, more, out(-side, -ward), street, without.
 derivation: or (shortened) חֻץ; (both forms feminine in the plural) from an unused
   root meaning to sever;
-extended_definition:
-  gloss: outside
-  definition: outside, outward, street, the outside
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: outside, outward, street, the outside {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4605
-    proximity: 0.8296
+    lemma: מַעַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H7709
-    proximity: 0.8295
+    lemma: שְׁדֵמָה
+    gloss: a cultivated field {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H127
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
   - strongs: H6607
-    proximity: 0.8186
+    lemma: פֶּתַח
+    gloss: an opening {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: H3318
-    proximity: 0.8159
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H1886c
-    proximity: 0.8156
+    proximity: 0.8156 {macula-proximity}
   - strongs: H1372
-    proximity: 0.8071
+    lemma: גַּבַּחַת
+    gloss: baldness in the forehead {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
   - strongs: A1251
-    proximity: 0.8
+    proximity: 0.8 {macula-proximity}
   - strongs: H4054
-    proximity: 0.798
+    lemma: מִגְרָשׁ
+    gloss: a suburb {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
   - strongs: H4546
-    proximity: 0.7894
+    lemma: מְסִלָּה
+    gloss: a thoroughfare {openscriptures-strongs}
+    proximity: 0.7894 {macula-proximity}
   cross_language:
   - strongs: G5410
-    proximity: 0.8197
+    lemma: Φόρον
+    gloss: a forum or market-place {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
     language: greek
   - strongs: G2081
-    proximity: 0.8077
+    lemma: ἔσωθεν
+    gloss: from inside {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
     language: greek
   - strongs: G3924
-    proximity: 0.8073
+    lemma: παρεκτός
+    gloss: near outside {openscriptures-strongs}
+    proximity: 0.8073 {macula-proximity}
     language: greek
   - strongs: G68
-    proximity: 0.8018
+    proximity: 0.8018 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

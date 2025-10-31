@@ -6,23 +6,19 @@ pronunciation: toos
 definition: to pounce as a bird of prey
 kjv_usage: haste.
 derivation: a primitive root;
-extended_definition:
-  gloss: to dart
-  definition: (Qal) to dart, flutter, rush
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to dart, flutter, rush {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A5308
-    proximity: 0.7651
+    proximity: 0.7651 {macula-proximity}
   - strongs: H1675
-    proximity: 0.7377
+    lemma: דָּאָה
+    gloss: to dart {openscriptures-strongs}
+    proximity: 0.7377 {macula-proximity}
   cross_language:
   - strongs: G1931
-    proximity: 0.8015
+    lemma: ἐπιδύω
+    gloss: to set fully {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

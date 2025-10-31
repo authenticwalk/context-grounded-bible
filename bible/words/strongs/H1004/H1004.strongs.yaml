@@ -13,36 +13,49 @@ derivation: probably from H1129 (בָּנָה) abbreviated;
 related_words:
   synonyms:
   - strongs: A4907
-    proximity: 0.83
+    proximity: 0.83 {macula-proximity}
   - strongs: H4011
-    proximity: 0.8289
+    lemma: מִבְנֶה
+    gloss: a building {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H7077
-    proximity: 0.8286
+    lemma: קָנַן
+    gloss: to nestle {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: A8651
-    proximity: 0.8265
+    proximity: 0.8265 {macula-proximity}
   - strongs: H3211
-    proximity: 0.8262
+    lemma: יָלִיד
+    gloss: born {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: H4525
-    proximity: 0.8253
+    lemma: מַסְגֵּר
+    gloss: a fastener {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
   - strongs: A5972
-    proximity: 0.8251
+    proximity: 0.8251 {macula-proximity}
   - strongs: A5085
-    proximity: 0.824
+    proximity: 0.824 {macula-proximity}
   - strongs: H6980
-    proximity: 0.8229
+    lemma: קוּר
+    gloss: trenches {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: H1430a
-    proximity: 0.8227
+    proximity: 0.8227 {macula-proximity}
   cross_language:
   - strongs: G5038
-    proximity: 0.8293
+    lemma: τεῖχος
+    gloss: a wall {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G1722
-    proximity: 0.827
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.827 {macula-proximity}
     language: greek
   - strongs: G3438
-    proximity: 0.8195
+    lemma: μονή
+    gloss: a staying {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

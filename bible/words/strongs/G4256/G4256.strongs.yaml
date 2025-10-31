@@ -5,41 +5,48 @@ transliteration: proaitiáomai
 definition: to accuse already, i.e. previously charge
 kjv_usage: prove before
 derivation: from G4253 (πρό) and a derivative of G156 (αἰτία);
-extended_definition:
-  gloss: to accuse
-  definition: '<b>προ-αιτιάομαι</b>, -ῶμαι <BR /> <b>to accuse or charge beforehand</b>:
-    <ref=''Rom.3.9''>Rom.3:9</ref> (not elsewhere) .†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> προαιτιάομαι</b>, <br /> <b>accuse beforehand,</b> τινὰ εἶναι
-    [<a href="javascript:void(0)" title=" NT.Rom.3.9. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'προ-αιτιάομαι, -ῶμαι
+
+  to accuse or charge beforehand: Rom.3:9 (not elsewhere) .†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'προαιτιάομαι,
+
+  accuse beforehand, τινὰ εἶναι [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A7170
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
   - strongs: G1213
-    proximity: 0.8188
+    lemma: δηλόω
+    gloss: to make plain {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
   - strongs: G1925
-    proximity: 0.8127
+    lemma: ἐπιδείκνυμι
+    gloss: to exhibit {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
   - strongs: G4591
-    proximity: 0.8009
+    lemma: σημαίνω
+    gloss: of uncertain derivation) {openscriptures-strongs}
+    proximity: 0.8009 {macula-proximity}
   - strongs: G1732
-    proximity: 0.7868
+    lemma: ἔνδειξις
+    gloss: indication {openscriptures-strongs}
+    proximity: 0.7868 {macula-proximity}
   - strongs: G4303
-    proximity: 0.7855
+    lemma: προμαρτύρομαι
+    gloss: to be a witness in advance i.e. predict {openscriptures-strongs}
+    proximity: 0.7855 {macula-proximity}
   - strongs: G1462
-    proximity: 0.7846
+    lemma: ἔγκλημα
+    gloss: an accusation {openscriptures-strongs}
+    proximity: 0.7846 {macula-proximity}
   - strongs: G1957
-    proximity: 0.7454
+    lemma: ἐπιμαρτυρέω
+    gloss: to attest further {openscriptures-strongs}
+    proximity: 0.7454 {macula-proximity}
   - strongs: G585
-    proximity: 0.7406
+    proximity: 0.7406 {macula-proximity}
   - strongs: G157a
-    proximity: 0.7217
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    proximity: 0.7217 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

@@ -9,46 +9,73 @@ kjv_usage: cast (out), (make) confess(-ion), praise, shoot, (give) thank(-ful, -
   -sgiving).
 derivation: a primitive root; used only as denominative from H3027 (יָד); literally,
   to use (i.e. hold out) the hand;
-extended_definition:
-  gloss: to give thanks
-  definition: '1) to throw, shoot, cast<br>1a) (Qal) to shoot (arrows)<br>1b) (Piel)
-    to cast, cast down, throw down<br>1c) (Hiphil)<br>1c1) to give thanks, laud, praise<br>1c2)
-    to confess, confess (the name of God)<br>1d) (Hithpael)<br>1d1) to confess (sin)<br>1d2)
-    to give thanks<BR>Aramaic equivalent: <i>ye.da</i> (יְדָא "to praise" H3029)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to throw, shoot, cast
+
+  1a) (Qal) to shoot (arrows)
+
+  1b) (Piel) to cast, cast down, throw down
+
+  1c) (Hiphil)
+
+  1c1) to give thanks, laud, praise
+
+  1c2) to confess, confess (the name of God)
+
+  1d) (Hithpael)
+
+  1d1) to confess (sin)
+
+  1d2) to give thanks
+
+  Aramaic equivalent: ye.da (יְדָא "to praise" H3029) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5108
-    proximity: 0.8192
+    lemma: נוֹב
+    gloss: produce {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: H3051
-    proximity: 0.7874
+    lemma: יָהַב
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.7874 {macula-proximity}
   - strongs: H4110
-    proximity: 0.7402
+    lemma: מַהֲלָל
+    gloss: fame {openscriptures-strongs}
+    proximity: 0.7402 {macula-proximity}
   - strongs: H7679
-    proximity: 0.7118
+    lemma: שָׂגָא
+    gloss: to grow {openscriptures-strongs}
+    proximity: 0.7118 {macula-proximity}
   - strongs: H1974
-    proximity: 0.7107
+    lemma: הִלּוּל
+    gloss: a celebration of thanksgiving for harvest {openscriptures-strongs}
+    proximity: 0.7107 {macula-proximity}
   - strongs: A1289a
-    proximity: 0.7038
+    proximity: 0.7038 {macula-proximity}
   cross_language:
   - strongs: G3170
-    proximity: 0.8241
+    lemma: μεγαλύνω
+    gloss: to make  great {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
   - strongs: G5485
-    proximity: 0.785
+    lemma: χάρις
+    gloss: graciousness {openscriptures-strongs}
+    proximity: 0.785 {macula-proximity}
     language: greek
   - strongs: G5214
-    proximity: 0.7744
+    lemma: ὑμνέω
+    gloss: to hymn {openscriptures-strongs}
+    proximity: 0.7744 {macula-proximity}
     language: greek
   - strongs: G3670
-    proximity: 0.7543
+    lemma: ὁμολογέω
+    gloss: to assent {openscriptures-strongs}
+    proximity: 0.7543 {macula-proximity}
     language: greek
   - strongs: G1392
-    proximity: 0.7312
+    lemma: δοξάζω
+    gloss: to render  glorious {openscriptures-strongs}
+    proximity: 0.7312 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

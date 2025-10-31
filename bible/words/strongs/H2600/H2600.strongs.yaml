@@ -7,46 +7,61 @@ definition: gratis, i.e. devoid of cost, reason or advantage
 kjv_usage: without a cause (cost, wages), causeless, to cost nothing, free(-ly), innocent,
   for nothing (nought, in vain.
 derivation: from H2580 (חֵן);
-extended_definition:
-  gloss: for nothing
-  definition: 1) freely, for nothing, without cause<br>1a) gratis, gratuitously, for
-    nothing<br>1b) for no purpose, in vain<br>1c) gratuitously, without cause, undeservedly
-  morphology: H:Adv
-  source: STEPBible/BDB
+extended_definition: '1) freely, for nothing, without cause
+
+  1a) gratis, gratuitously, for nothing
+
+  1b) for no purpose, in vain
+
+  1c) gratuitously, without cause, undeservedly {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8414
-    proximity: 0.8288
+    lemma: תֹּהוּ
+    gloss: a desolation {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: H1892
-    proximity: 0.8264
+    lemma: הֶבֶל
+    gloss: emptiness or vanity {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H7723
-    proximity: 0.8163
+    lemma: שָׁוְא
+    gloss: evil {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
   - strongs: H1097
-    proximity: 0.8163
+    lemma: בְּלִי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
   - strongs: H2670
-    proximity: 0.8133
+    lemma: חׇפְשִׁי
+    gloss: exempt (from bondage {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   - strongs: A2136
-    proximity: 0.7771
+    proximity: 0.7771 {macula-proximity}
   - strongs: H2666
-    proximity: 0.7765
+    lemma: חָפַשׁ
+    gloss: to spread loose {openscriptures-strongs}
+    proximity: 0.7765 {macula-proximity}
   cross_language:
   - strongs: G338
-    proximity: 0.8293
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G3155
-    proximity: 0.8289
+    lemma: μάτην
+    gloss: folly {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: greek
   - strongs: G1063
-    proximity: 0.8287
+    lemma: γάρ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G77
-    proximity: 0.8223
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G1658
-    proximity: 0.8075
+    lemma: ἐλεύθερος
+    gloss: unrestrained {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,43 +6,53 @@ pronunciation: saw-kath'
 definition: by implication, to observe quietly
 kjv_usage: take heed.
 derivation: a primitive root to be silent;
-extended_definition:
-  gloss: be silent
-  definition: 1) to be silent<br>1a) (Hiphil) to keep silence, show silence
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be silent
+
+  1a) (Hiphil) to keep silence, show silence {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4832a
-    proximity: 0.8147
+    proximity: 0.8147 {macula-proximity}
   - strongs: H7599
-    proximity: 0.8055
+    lemma: שָׁאַן
+    gloss: to loll {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
   - strongs: H1747
-    proximity: 0.7941
+    lemma: דּוּמִיָּה
+    gloss: stillness {openscriptures-strongs}
+    proximity: 0.7941 {macula-proximity}
   - strongs: H7282
-    proximity: 0.7746
+    lemma: רָגֵעַ
+    gloss: restful {openscriptures-strongs}
+    proximity: 0.7746 {macula-proximity}
   - strongs: H5183a
-    proximity: 0.763
+    proximity: 0.763 {macula-proximity}
   - strongs: H8252
-    proximity: 0.7553
+    lemma: שָׁקַט
+    gloss: to repose {openscriptures-strongs}
+    proximity: 0.7553 {macula-proximity}
   - strongs: H1826b
-    proximity: 0.7535
+    proximity: 0.7535 {macula-proximity}
   - strongs: H481
-    proximity: 0.7472
+    proximity: 0.7472 {macula-proximity}
   - strongs: H2814
-    proximity: 0.7184
+    lemma: חָשָׁה
+    gloss: to hush or keep quiet {openscriptures-strongs}
+    proximity: 0.7184 {macula-proximity}
   cross_language:
   - strongs: G4623
-    proximity: 0.8102
+    lemma: σιωπάω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
     language: greek
   - strongs: G2687
-    proximity: 0.7603
+    lemma: καταστέλλω
+    gloss: to put down {openscriptures-strongs}
+    proximity: 0.7603 {macula-proximity}
     language: greek
   - strongs: G2272
-    proximity: 0.7295
+    lemma: ἡσύχιος
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7295 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

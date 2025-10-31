@@ -6,37 +6,39 @@ pronunciation: khaw-faw'
 definition: properly, to cover, i.e. (in a sinister sense) to act covertly
 kjv_usage: do secretly.
 derivation: an orthographical variation of H2645 (חָפָה);
-extended_definition:
-  gloss: to do secretly
-  definition: (Piel) to cover, do secretly
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Piel) to cover, do secretly {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6213
-    proximity: 0.8199
+    lemma: עָשָׂה
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: A2816
-    proximity: 0.7712
+    proximity: 0.7712 {macula-proximity}
   - strongs: H8649b
-    proximity: 0.7123
+    proximity: 0.7123 {macula-proximity}
   cross_language:
   - strongs: G4653
-    proximity: 0.8253
+    lemma: σκοτία
+    gloss: dimness {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
     language: greek
   - strongs: G4162
-    proximity: 0.8214
+    lemma: ποίησις
+    gloss: action {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
     language: greek
   - strongs: G2554
-    proximity: 0.8184
+    lemma: κακοποιέω
+    gloss: to be a bad-doer {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
     language: greek
   - strongs: G4160
-    proximity: 0.8132
+    lemma: ποιέω
+    gloss: to make or do (in a very wide application {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
     language: greek
   - strongs: G15
-    proximity: 0.8114
+    proximity: 0.8114 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

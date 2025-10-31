@@ -6,40 +6,48 @@ pronunciation: may-ray'-ah
 definition: a friend
 kjv_usage: companion, friend.
 derivation: from H7462 (רָעָה) in the sense of companionship;
-extended_definition:
-  gloss: companion
-  definition: companion, friend, confidential friend
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: companion, friend, confidential friend {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5475
-    proximity: 0.8278
+    lemma: סוֹד
+    gloss: a session {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: A3675
-    proximity: 0.8247
+    proximity: 0.8247 {macula-proximity}
   - strongs: H2278
-    proximity: 0.8209
+    lemma: חֲבֶרֶת
+    gloss: a consort {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: H5997
-    proximity: 0.7297
+    lemma: עָמִית
+    gloss: companionship {openscriptures-strongs}
+    proximity: 0.7297 {macula-proximity}
   - strongs: H4129
-    proximity: 0.7061
+    lemma: מוֹדַע
+    gloss: an acquaintance {openscriptures-strongs}
+    proximity: 0.7061 {macula-proximity}
   - strongs: H492
-    proximity: 0.7052
+    proximity: 0.7052 {macula-proximity}
   cross_language:
   - strongs: G4923
-    proximity: 0.8205
+    lemma: συνοδία
+    gloss: companionship on a journey {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
     language: greek
   - strongs: G4898
-    proximity: 0.7648
+    lemma: συνέκδημος
+    gloss: a co-absentee from home {openscriptures-strongs}
+    proximity: 0.7648 {macula-proximity}
     language: greek
   - strongs: G4902
-    proximity: 0.7557
+    lemma: συνέπομαι
+    gloss: to attend  in company with {openscriptures-strongs}
+    proximity: 0.7557 {macula-proximity}
     language: greek
   - strongs: G4805
-    proximity: 0.7331
+    lemma: σύζυγος
+    gloss: co-yoked {openscriptures-strongs}
+    proximity: 0.7331 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

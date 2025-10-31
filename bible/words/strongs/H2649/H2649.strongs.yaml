@@ -6,41 +6,49 @@ pronunciation: khip-paw-zone'
 definition: hasty flight
 kjv_usage: haste.
 derivation: from H2468 (חֻלְדָּה);
-extended_definition:
-  gloss: haste
-  definition: hurriedly, in haste, trepidation, hurried flight
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: hurriedly, in haste, trepidation, hurried flight {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3288a
-    proximity: 0.8027
+    proximity: 0.8027 {macula-proximity}
   - strongs: H4118
-    proximity: 0.7854
+    lemma: מַהֵר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7854 {macula-proximity}
   - strongs: H5789
-    proximity: 0.7779
+    lemma: עוּשׁ
+    gloss: to hasten {openscriptures-strongs}
+    proximity: 0.7779 {macula-proximity}
   - strongs: H3288
-    proximity: 0.7665
+    lemma: יְעָף
+    gloss: fatigue (adverb {openscriptures-strongs}
+    proximity: 0.7665 {macula-proximity}
   - strongs: H926
-    proximity: 0.7484
+    proximity: 0.7484 {macula-proximity}
   cross_language:
   - strongs: G4708
-    proximity: 0.8248
+    lemma: σπουδαιοτέρως
+    gloss: more speedily {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: greek
   - strongs: G5030
-    proximity: 0.7815
+    lemma: ταχέως
+    gloss: briefly {openscriptures-strongs}
+    proximity: 0.7815 {macula-proximity}
     language: greek
   - strongs: G5034
-    proximity: 0.7649
+    lemma: τάχος
+    gloss: a brief space {openscriptures-strongs}
+    proximity: 0.7649 {macula-proximity}
     language: greek
   - strongs: G5036
-    proximity: 0.7483
+    lemma: ταχύς
+    gloss: fleet {openscriptures-strongs}
+    proximity: 0.7483 {macula-proximity}
     language: greek
   - strongs: G5035
-    proximity: 0.7246
+    lemma: ταχύ
+    gloss: shortly {openscriptures-strongs}
+    proximity: 0.7246 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

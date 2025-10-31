@@ -7,49 +7,64 @@ definition: to loathe (morally)
 kjv_usage: abhor.
 derivation: a primitive root (probably identical with H8373 (תָּאַב) through the idea
   of puffing disdainfully at; compare H340 (אָיַב));
-extended_definition:
-  gloss: to loathe
-  definition: (Piel) to loathe, abhor<BR>Another spelling of <i>ta.av</i> (תַּעָב
-    "to abhor" H8581)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '(Piel) to loathe, abhor
+
+  Another spelling of ta.av (תַּעָב "to abhor" H8581) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H947
-    proximity: 0.8293
+    proximity: 0.8293 {macula-proximity}
   - strongs: H887
-    proximity: 0.8176
+    proximity: 0.8176 {macula-proximity}
   - strongs: H3988
-    proximity: 0.8097
+    lemma: מָאַס
+    gloss: to spurn {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: H5361
-    proximity: 0.8042
+    lemma: נָקַע
+    gloss: to feel aversion {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: A8131
-    proximity: 0.8042
+    proximity: 0.8042 {macula-proximity}
   - strongs: H2194
-    proximity: 0.7954
+    lemma: זָעַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7954 {macula-proximity}
   - strongs: H8441
-    proximity: 0.7463
+    lemma: תּוֹעֵבַה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7463 {macula-proximity}
   - strongs: H2214
-    proximity: 0.7286
+    lemma: זָרָא
+    gloss: disgust {openscriptures-strongs}
+    proximity: 0.7286 {macula-proximity}
   - strongs: H1860
-    proximity: 0.7233
+    lemma: דְּרָאוֹן
+    gloss: an object of aversion {openscriptures-strongs}
+    proximity: 0.7233 {macula-proximity}
   - strongs: H8135
-    proximity: 0.7205
+    lemma: שִׂנְאָה
+    gloss: hate {openscriptures-strongs}
+    proximity: 0.7205 {macula-proximity}
   cross_language:
   - strongs: G4767
-    proximity: 0.819
+    lemma: στυγνητός
+    gloss: hated {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
     language: greek
   - strongs: G4360
-    proximity: 0.7677
+    lemma: προσοχθίζω
+    gloss: to feel indignant at {openscriptures-strongs}
+    proximity: 0.7677 {macula-proximity}
     language: greek
   - strongs: G1609
-    proximity: 0.7667
+    lemma: ἐκπτύω
+    gloss: to spit out {openscriptures-strongs}
+    proximity: 0.7667 {macula-proximity}
     language: greek
   - strongs: G1693
-    proximity: 0.7212
+    lemma: ἐμμαίνομαι
+    gloss: to rave on {openscriptures-strongs}
+    proximity: 0.7212 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

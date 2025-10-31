@@ -6,49 +6,63 @@ pronunciation: khaw-lat'
 definition: to snatch at
 kjv_usage: catch.
 derivation: a primitive root;
-extended_definition:
-  gloss: to catch
-  definition: (Hiphil) to take up, catch, pick up (a word)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Hiphil) to take up, catch, pick up (a word) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4390
-    proximity: 0.8108
+    lemma: מָלֵא
+    gloss: to fill or  be full of {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
   - strongs: H2388
-    proximity: 0.7927
+    lemma: חָזַק
+    gloss: to fasten upon {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
   - strongs: H4672
-    proximity: 0.7926
+    lemma: מָצָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7926 {macula-proximity}
   - strongs: H3920
-    proximity: 0.783
+    lemma: לָכַד
+    gloss: to catch (in a net {openscriptures-strongs}
+    proximity: 0.783 {macula-proximity}
   - strongs: H5381
-    proximity: 0.7613
+    lemma: נָשַׂג
+    gloss: to reach {openscriptures-strongs}
+    proximity: 0.7613 {macula-proximity}
   - strongs: H8551
-    proximity: 0.7575
+    lemma: תָּמַךְ
+    gloss: to sustain {openscriptures-strongs}
+    proximity: 0.7575 {macula-proximity}
   - strongs: H3947
-    proximity: 0.7515
+    lemma: לָקַח
+    gloss: to take {openscriptures-strongs}
+    proximity: 0.7515 {macula-proximity}
   - strongs: A7981
-    proximity: 0.7168
+    proximity: 0.7168 {macula-proximity}
   - strongs: H5844a
-    proximity: 0.7151
+    proximity: 0.7151 {macula-proximity}
   cross_language:
   - strongs: G2696
-    proximity: 0.816
+    lemma: κατασφραγίζω
+    gloss: to seal closely {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
     language: greek
   - strongs: G1405
-    proximity: 0.8091
+    lemma: δράσσομαι
+    gloss: to grasp {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
     language: greek
   - strongs: G4788
-    proximity: 0.8072
+    lemma: συγκλείω
+    gloss: to shut together {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
     language: greek
   - strongs: G61
-    proximity: 0.7889
+    proximity: 0.7889 {macula-proximity}
     language: greek
   - strongs: G2983
-    proximity: 0.7762
+    lemma: λαμβάνω
+    gloss: while G138  is more violent {openscriptures-strongs}
+    proximity: 0.7762 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,27 +6,27 @@ pronunciation: ber-oth'
 definition: the cypress (or some elastic tree)
 kjv_usage: fir.
 derivation: a variation of H1265 (בְּרוֹשׁ);
-extended_definition:
-  gloss: cypress
-  definition: cypress, fir, juniper, pine
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: cypress, fir, juniper, pine {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H730
-    proximity: 0.7998
+    proximity: 0.7998 {macula-proximity}
   - strongs: H6097
-    proximity: 0.7653
+    lemma: עֵצָה
+    gloss: timber {openscriptures-strongs}
+    proximity: 0.7653 {macula-proximity}
   - strongs: H1613
-    proximity: 0.7318
+    lemma: גֹּפֶר
+    gloss: a kind of tree or wood {openscriptures-strongs}
+    proximity: 0.7318 {macula-proximity}
   - strongs: H6086
-    proximity: 0.7282
+    lemma: עֵץ
+    gloss: a tree {openscriptures-strongs}
+    proximity: 0.7282 {macula-proximity}
   cross_language:
   - strongs: G1186
-    proximity: 0.8146
+    lemma: δένδρον
+    gloss: a tree {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,30 +7,36 @@ definition: an Ophnite (collectively) or inhabitants of Ophen
 kjv_usage: Ophni.
 derivation: from an unused noun (denoting a place in Palestine; from an unused root
   of uncertain meaning);
-extended_definition:
-  gloss: Ophni
-  definition: <BR> § Ophni = "mouldy"<br> a town of Benjamin located 2.5 (4.5 km)
-    miles northwest of Bethel; modern 'Jifna'<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Ophni = "mouldy"
+
+  a town of Benjamin located 2.5 (4.5 km) miles northwest of Bethel; modern ''Jifna''
+  {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5210
-    proximity: 0.8295
+    lemma: נִינְוֵה
+    gloss: Nineveh {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H1126
-    proximity: 0.8289
+    lemma: בֶּן־אוֹנִי
+    gloss: Ben-Oni {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H5482
-    proximity: 0.8262
+    lemma: סְוֵנֵה
+    gloss: Seven {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: H2652
-    proximity: 0.8056
+    lemma: חׇפְנִי
+    gloss: Chophni {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H6084a
-    proximity: 0.7868
+    proximity: 0.7868 {macula-proximity}
   - strongs: H6084
-    proximity: 0.7764
+    lemma: עׇפְרָה
+    gloss: Ophrah {openscriptures-strongs}
+    proximity: 0.7764 {macula-proximity}
   - strongs: H6273
-    proximity: 0.7764
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: עׇתְנִי
+    gloss: Othni {openscriptures-strongs}
+    proximity: 0.7764 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

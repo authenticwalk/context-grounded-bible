@@ -10,17 +10,22 @@ derivation: feminine of H6791 (צֵן);
 related_words:
   synonyms:
   - strongs: H7135
-    proximity: 0.7731
+    lemma: קָרָה
+    gloss: coolness {openscriptures-strongs}
+    proximity: 0.7731 {macula-proximity}
   - strongs: H7120
-    proximity: 0.75
+    lemma: קֹר
+    gloss: cold {openscriptures-strongs}
+    proximity: 0.75 {macula-proximity}
   cross_language:
   - strongs: G2711
-    proximity: 0.791
+    lemma: καταψύχω
+    gloss: to cool down {openscriptures-strongs}
+    proximity: 0.791 {macula-proximity}
     language: greek
   - strongs: G5592
-    proximity: 0.7321
+    lemma: ψύχος
+    gloss: coolness {openscriptures-strongs}
+    proximity: 0.7321 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

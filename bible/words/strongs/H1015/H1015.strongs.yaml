@@ -7,39 +7,52 @@ definition: Beth-Diblathajim, a place East of the Jordan
 kjv_usage: Beth-diblathaim.
 derivation: from H1004 (בַּיִת) and the dual of H1690 (דְּבֵלָה); house of (the) two
   figcakes;
-extended_definition:
-  gloss: Beth-diblathaim
-  definition: Beth-diblathaim = "house of the two fig-cakes"<br> a place in Moab<BR>Another
-    name of <i>al.mon div.la.ta.ye.mah</i> (עַלְמֹן דִּבְלָתָיְמָה "Almon-diblathaim"
-    H5963)
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: 'Beth-diblathaim = "house of the two fig-cakes"
+
+  a place in Moab
+
+  Another name of al.mon div.la.ta.ye.mah (עַלְמֹן דִּבְלָתָיְמָה "Almon-diblathaim"
+  H5963) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1026
-    proximity: 0.8297
+    lemma: בֵּית הָעֲרָבָה
+    gloss: Beth-ha-Arabah {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: H1052
-    proximity: 0.8262
+    lemma: בֵּית שְׁאָן
+    gloss: Beth-Shean or Beth-Shan {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: H1039
-    proximity: 0.8217
+    lemma: בֵּית נִמְרָה
+    gloss: Beth-Nimrah {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
   - strongs: H1008
-    proximity: 0.818
+    lemma: בֵּית־אֵל
+    gloss: Beth-El {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: H1012
-    proximity: 0.8058
+    lemma: בֵּית בָּרָה
+    gloss: Beth-Barah {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: H1031
-    proximity: 0.7999
+    lemma: בֵּית חׇגְלָה
+    gloss: Beth-Choglah {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
   - strongs: H1106a
-    proximity: 0.7983
+    proximity: 0.7983 {macula-proximity}
   - strongs: H1106
-    proximity: 0.7808
+    lemma: בֶּלַע
+    gloss: Bela {openscriptures-strongs}
+    proximity: 0.7808 {macula-proximity}
   - strongs: H5963
-    proximity: 0.7613
+    lemma: עַלְמֹן דִּבְלָתָיְמָה
+    gloss: Almon-Diblathajemah {openscriptures-strongs}
+    proximity: 0.7613 {macula-proximity}
   cross_language:
   - strongs: G4461
-    proximity: 0.821
+    lemma: ῥαββί
+    gloss: my master {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

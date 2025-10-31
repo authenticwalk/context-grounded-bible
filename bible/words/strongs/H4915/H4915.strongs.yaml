@@ -9,42 +9,63 @@ derivation: (1) from H4910 (מָשַׁל); (2) from H4911 (מָשַׁל);
 related_words:
   synonyms:
   - strongs: H3581
-    proximity: 0.8274
+    lemma: כֹּחַ
+    gloss: vigor {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H4410
-    proximity: 0.8256
+    lemma: מְלוּכָה
+    gloss: something ruled {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: H4467
-    proximity: 0.8057
+    lemma: מַמְלָכָה
+    gloss: dominion {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
   - strongs: H8592
-    proximity: 0.7996
+    lemma: תַּעֲצֻמָה
+    gloss: might {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
   - strongs: A7238
-    proximity: 0.7929
+    proximity: 0.7929 {macula-proximity}
   - strongs: H4438
-    proximity: 0.789
+    lemma: מַלְכוּת
+    gloss: a rule {openscriptures-strongs}
+    proximity: 0.789 {macula-proximity}
   - strongs: H3027
-    proximity: 0.7873
+    lemma: יָד
+    gloss: a hand (the open one (indicating power {openscriptures-strongs}
+    proximity: 0.7873 {macula-proximity}
   - strongs: H4965
-    proximity: 0.7698
+    lemma: מֶתֶג הָאַמָּה
+    gloss: Metheg-ha-Ammah {openscriptures-strongs}
+    proximity: 0.7698 {macula-proximity}
   - strongs: H8323
-    proximity: 0.7654
+    lemma: שָׂרַר
+    gloss: to have (transitively {openscriptures-strongs}
+    proximity: 0.7654 {macula-proximity}
   - strongs: A8632
-    proximity: 0.7171
+    proximity: 0.7171 {macula-proximity}
   cross_language:
   - strongs: G2715
-    proximity: 0.8142
+    lemma: κατεξουσιάζω
+    gloss: to have  full privilege over {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
     language: greek
   - strongs: G2003
-    proximity: 0.7805
+    lemma: ἐπιταγή
+    gloss: an injunction or decree {openscriptures-strongs}
+    proximity: 0.7805 {macula-proximity}
     language: greek
   - strongs: G757
-    proximity: 0.7411
+    proximity: 0.7411 {macula-proximity}
     language: greek
   - strongs: G1411
-    proximity: 0.7405
+    lemma: δύναμις
+    gloss: force {openscriptures-strongs}
+    proximity: 0.7405 {macula-proximity}
     language: greek
   - strongs: G1850
-    proximity: 0.7262
+    lemma: ἐξουσιάζω
+    gloss: to control {openscriptures-strongs}
+    proximity: 0.7262 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

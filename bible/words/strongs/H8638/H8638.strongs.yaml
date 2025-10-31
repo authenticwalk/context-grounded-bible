@@ -6,21 +6,17 @@ pronunciation: teer-gam'
 definition: to transfer, i.e. translate
 kjv_usage: interpret.
 derivation: a denominative from H7275 (רָגַם) in the sense of throwing over;
-extended_definition:
-  gloss: to translate
-  definition: (Pual) to interpret, translate
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Pual) to interpret, translate {STEPBible-TBESH}
 related_words:
   cross_language:
   - strongs: G2058
-    proximity: 0.7602
+    lemma: ἑρμηνεία
+    gloss: translation {openscriptures-strongs}
+    proximity: 0.7602 {macula-proximity}
     language: greek
   - strongs: G1328
-    proximity: 0.7153
+    lemma: διερμηνευτής
+    gloss: an explainer {openscriptures-strongs}
+    proximity: 0.7153 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

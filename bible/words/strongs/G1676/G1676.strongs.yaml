@@ -5,47 +5,48 @@ transliteration: Hellēnistí
 definition: Hellenistically, i.e. in the Grecian language
 kjv_usage: Greek
 derivation: adverb from the same as G1675 (Ἑλληνιστής);
-extended_definition:
-  gloss: Greek
-  definition: '<b>Ἑλληνιστί </b><BR /> <i>adv.</i>, <BR /><b>in Greek</b>: <ref=''Jhn.19.20''>Jhn.19:20;</ref>
-    Ἑ. (sc. λαλεῖν) γινώσκεις, <ref=''Act.21.37''>Act.21:37</ref> (cf. Field, <i>Notes</i>,
-    135).†<BR /> (AS)'
-  morphology: G:ADV-T
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> Ἑλληνιστί</b> <br /> <b>in the Greek language</b>, [<a href="javascript:void(0)"
-    title=" 5th-6th c.BC: Plato Philosophus “Timaeus” 21e, “PTaur.” 1v4 (2nd c.BC),
-    1st c.AD: Philo Judaeus 2.546, 1st c.AD: Josephus Historicus “Antiquitates Judaicae”
-    14.10.2, etc.; Ἑ. συνιέναι to understand “Greek”, 5th-6th c.BC: Xenophon Historicus
-    “Anabasis” 7.6.8; Ἑ. γινώσκει; NT. _active_ 21.37; ">NT+5th c.BC+</a>]<b>in Greek
-    fashion</b>, [<a href="javascript:void(0)" title=" 2nd c.AD: Lucianus Sophista
-    “Scyth.” 3. ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'Ἑλληνιστί
+
+  adv.,
+
+  in Greek: Jhn.19:20; Ἑ. (sc. λαλεῖν) γινώσκεις, Act.21:37 (cf. Field, Notes, 135).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἑλληνιστί
+
+  in the Greek language, [NT+5th c.BC+]in Greek fashion, [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3072
-    proximity: 0.7772
+    lemma: Λυκαονιστί
+    gloss: Lycaonistically {openscriptures-strongs}
+    proximity: 0.7772 {macula-proximity}
   - strongs: G1447
-    proximity: 0.7024
+    lemma: Ἑβραϊστί
+    gloss: Hebraistically or in the Jewish  language {openscriptures-strongs}
+    proximity: 0.7024 {macula-proximity}
   cross_language:
   - strongs: H762
-    proximity: 0.817
+    proximity: 0.817 {macula-proximity}
     language: hebrew
   - strongs: H3120
-    proximity: 0.807
+    lemma: יָוָן
+    gloss: Javan {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
     language: hebrew
   - strongs: H3896
-    proximity: 0.801
+    lemma: לֶחִי
+    gloss: Lechi {openscriptures-strongs}
+    proximity: 0.801 {macula-proximity}
     language: hebrew
   - strongs: H3066
-    proximity: 0.8007
+    lemma: יְהוּדִית
+    gloss: the Jewish  language {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
     language: hebrew
   - strongs: H3125
-    proximity: 0.7454
+    lemma: יְוָנִי
+    gloss: a Jevanite {openscriptures-strongs}
+    proximity: 0.7454 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

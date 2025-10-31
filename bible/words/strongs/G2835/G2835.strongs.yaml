@@ -5,24 +5,18 @@ transliteration: kodrántēs
 definition: a quadrans, i.e. the fourth part of an as
 kjv_usage: farthing
 derivation: of Latin origin;
-extended_definition:
-  gloss: penny
-  definition: '<b>κοδράντης</b>, -ου, ὁ (Lat. quadrans, the fourth part of an as),
-    <BR /> <b>a quadrans </b>(AV, farthing): <ref=''Mat.5.26''>Mat.5:26</ref>, <ref=''Mrk.12.42''>Mrk.12:42</ref>.†<BR
-    /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> κοδράντης</b>, ου, ὁ, <br /> = Latin <i>quadrans</i>, = 1/4
-    <b>of an as,</b> [<a href="javascript:void(0)" title="NT.Matt.5.26. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'κοδράντης, -ου, ὁ (Lat. quadrans, the fourth part of an as),
+
+  a quadrans (AV, farthing): Mat.5:26, Mrk.12:42.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κοδράντης, ου, ὁ,
+
+  = Latin quadrans, = 1/4 of an as, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3016
-    proximity: 0.7602
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: λεπτόν
+    gloss: something scaled {openscriptures-strongs}
+    proximity: 0.7602 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

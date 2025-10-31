@@ -5,32 +5,33 @@ transliteration: psichíon
 definition: a little bit or morsel
 kjv_usage: crumb
 derivation: diminutive from a derivative of the base of G5567 (ψάλλω) (meaning a crumb);
-extended_definition:
-  gloss: crumb
-  definition: '<b>ψιχίον</b>, -ου, τό <BR /> dimin. of ψίξ, <BR /> <b>a crumb</b>:
-    <ref=''Mat.15.27''>Mat.15:27</ref>, <ref=''Mrk.7.28''>Mrk.7:28</ref>.†<BR /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ψῑχ-ίον</b>, τό, <br /> <i>diminutive</i> of ψίξ, <b>crumb,
-    </b> NT.Matt.15.27. <br /><Level3><b>__2</b></Level3> of stomachic residue after
-    emesis, [<a href="javascript:void(0)" title=" 2nd c.AD: Archigenes Medicus cited
-    in 4th c.AD: Oribasius Medicus 8.23.5. ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ψιχίον, -ου, τό
+
+  dimin. of ψίξ,
+
+  a crumb: Mat.15:27, Mrk.7:28.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ψῑχ-ίον, τό,
+
+  diminutive of ψίξ, crumb,  NT.Matt.15.27.
+
+  __2 of stomachic residue after emesis, [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2801
-    proximity: 0.711
+    lemma: κλάσμα
+    gloss: a piece {openscriptures-strongs}
+    proximity: 0.711 {macula-proximity}
   cross_language:
   - strongs: H2636
-    proximity: 0.7859
+    lemma: חַסְפַּס
+    gloss: a shred or scale {openscriptures-strongs}
+    proximity: 0.7859 {macula-proximity}
     language: hebrew
   - strongs: H6595
-    proximity: 0.7102
+    lemma: פַּת
+    gloss: a bit {openscriptures-strongs}
+    proximity: 0.7102 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

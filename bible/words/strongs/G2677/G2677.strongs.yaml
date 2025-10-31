@@ -5,62 +5,74 @@ transliteration: katartismós
 definition: complete furnishing (objectively)
 kjv_usage: perfecting
 derivation: from G2675 (καταρτίζω);
-extended_definition:
-  gloss: preparation
-  definition: '<b>καταρτισμός</b>, -οῦ, ὁ <BR /> [in Sm.: <ref=''Isa.38.12''>Isa.38:12</ref>
-    * ;] <BR /><b>= κατάρτισις </b>(but see <i>ICC</i>, <i>Eph.</i> l.with): <ref=''Eph.4.12.''>Eph.4:12.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> καταρτ-ισμός</b>, ὁ, <br /> <b>restoration, reconciliation</b>,
-    [<a href="javascript:void(0)" title=" 2nd-3rd c.AD: Symmachus LXX “LXX.Isa.38.12.
-    “">LXX+2nd c.AD+</a>]<br /><Level2><b>__II</b></Level2> [<a href="javascript:void(0)"
-    title="“Settling” of a limb, 1st-2nd c.AD: Heliodorus Medicus cited in 4th c.AD:
-    Oribasius Medicus 49.1.1 (_plural_), 2nd c.AD: Soranus Medicus 1.73 (_plural_).
-    ">Refs 1st c.AD+</a>]<br /><Level2><b>__III</b></Level2> <b>furnishing, preparation</b>,
-    [<a href="javascript:void(0)" title=" αὐλῆς “PTeb.” 33.12 (2nd c.BC); ἱματίον
-    “PRyl.” 127.28 (1st c.AD). ">Refs 2nd c.BC+</a>]<br /><Level2><b>__IV</b></Level2>
-    <b>training, discipline</b>, [<a href="javascript:void(0)" title=" τῶν ἁγίων “Epistle
-    to the Ephesians” 4.12 ">Refs</a>].'
-  source: STEPBible/LSJ
+extended_definition: 'καταρτισμός, -οῦ, ὁ
+
+  [in Sm.: Isa.38:12 * ;]
+
+  = κατάρτισις (but see ICC, Eph. l.with): Eph.4:12.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'καταρτ-ισμός, ὁ,
+
+  restoration, reconciliation, [LXX+2nd c.AD+]
+
+  __II [Refs 1st c.AD+]
+
+  __III furnishing, preparation, [Refs 2nd c.BC+]
+
+  __IV training, discipline, [Refs]. {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1129
-    proximity: 0.8214
+    lemma: γυμνασία
+    gloss: training {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: G2680
-    proximity: 0.8117
+    lemma: κατασκευάζω
+    gloss: to prepare thoroughly (properly {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
   - strongs: G5048
-    proximity: 0.8028
+    lemma: τελειόω
+    gloss: to complete {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
   - strongs: G2005
-    proximity: 0.8007
+    lemma: ἐπιτελέω
+    gloss: to fulfill further {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: G2675
-    proximity: 0.7806
+    lemma: καταρτίζω
+    gloss: to complete thoroughly {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
   - strongs: G739
-    proximity: 0.7764
+    proximity: 0.7764 {macula-proximity}
   - strongs: G1822
-    proximity: 0.7417
+    lemma: ἐξαρτίζω
+    gloss: to finish out {openscriptures-strongs}
+    proximity: 0.7417 {macula-proximity}
   - strongs: G1603
-    proximity: 0.7
+    lemma: ἐκπληρόω
+    gloss: to accomplish entirely {openscriptures-strongs}
+    proximity: 0.7 {macula-proximity}
   cross_language:
   - strongs: H2488
-    proximity: 0.8286
+    lemma: חֲלִיצָה
+    gloss: spoil {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: hebrew
   - strongs: H3634
-    proximity: 0.8055
+    lemma: כָּלַל
+    gloss: to complete {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
     language: hebrew
   - strongs: H240
-    proximity: 0.7817
+    proximity: 0.7817 {macula-proximity}
     language: hebrew
   - strongs: H1584
-    proximity: 0.7784
+    lemma: גָּמַר
+    gloss: to end {openscriptures-strongs}
+    proximity: 0.7784 {macula-proximity}
     language: hebrew
   - strongs: H5401a
-    proximity: 0.7653
+    proximity: 0.7653 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

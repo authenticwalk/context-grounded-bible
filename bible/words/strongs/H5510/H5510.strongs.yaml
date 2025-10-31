@@ -6,28 +6,27 @@ pronunciation: see-vawn'
 definition: Sivan, the third Hebrew month
 kjv_usage: Sivan.
 derivation: probably of Persian origin;
-extended_definition:
-  gloss: Sivan
-  definition: <BR> § Sivan = "their covering"<br> the 3rd month in the Jewish calendar
-    corresponding to May-Jun<br>
-  morphology: N:N--T
-  source: STEPBible/BDB
+extended_definition: '§ Sivan = "their covering"
+
+  the 3rd month in the Jewish calendar corresponding to May-Jun {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6242
-    proximity: 0.8244
+    lemma: עֶשְׂרִים
+    gloss: twenty {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: H2320
-    proximity: 0.8135
+    lemma: חֹדֶשׁ
+    gloss: the new moon {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: A6236
-    proximity: 0.8104
+    proximity: 0.8104 {macula-proximity}
   - strongs: A8533
-    proximity: 0.7997
+    proximity: 0.7997 {macula-proximity}
   cross_language:
   - strongs: G5144
-    proximity: 0.8281
+    lemma: τριάκοντα
+    gloss: thirty {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

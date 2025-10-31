@@ -6,27 +6,29 @@ pronunciation: khaw-nooth'
 definition: properly, a vault or cell (with an arch); by implication, a prison
 kjv_usage: cabin.
 derivation: from H2583 (חָנָה);
-extended_definition:
-  gloss: vault
-  definition: cell, vaulted room
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: cell, vaulted room {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2646
-    proximity: 0.8194
+    lemma: חֻפָּה
+    gloss: a canopy {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H2352
-    proximity: 0.7951
+    lemma: חוּר
+    gloss: the crevice of a serpent {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
   - strongs: H4525
-    proximity: 0.756
+    lemma: מַסְגֵּר
+    gloss: a fastener {openscriptures-strongs}
+    proximity: 0.756 {macula-proximity}
   - strongs: H3608
-    proximity: 0.7243
+    lemma: כֶּלֶא
+    gloss: a prison {openscriptures-strongs}
+    proximity: 0.7243 {macula-proximity}
   cross_language:
   - strongs: G1067
-    proximity: 0.7776
+    lemma: γέεννα
+    gloss: valley of  Hinnom {openscriptures-strongs}
+    proximity: 0.7776 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

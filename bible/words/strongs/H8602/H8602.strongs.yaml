@@ -9,14 +9,15 @@ derivation: from an unused root meaning to smear;
 related_words:
   synonyms:
   - strongs: H2563b
-    proximity: 0.7984
+    proximity: 0.7984 {macula-proximity}
   - strongs: H7874
-    proximity: 0.7478
+    lemma: שִׂיד
+    gloss: to plaster {openscriptures-strongs}
+    proximity: 0.7478 {macula-proximity}
   cross_language:
   - strongs: G2867
-    proximity: 0.8015
+    lemma: κονιάω
+    gloss: by analogy {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

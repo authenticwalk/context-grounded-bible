@@ -5,46 +5,55 @@ transliteration: Iēsoûs
 definition: Jesus (i.e. Jehoshua), the name of our Lord and two (three) other Israelites
 kjv_usage: Jesus
 derivation: of Hebrew origin (H03091);
-extended_definition:
-  gloss: Joshua
-  definition: '<b>Ἰωσή</b>, see: Ἰωσῆς -  -ῆ (Rec. -ή <ref=''Luk.3.29''>Luk.3:29;</ref>
-    AV, Jose; see: Ἰησοῦς, 3), and -ῆτος (Mk, ll with), ὁ, <BR /> <b>Joses</b>; <BR
-    />__1. <b>brother of our Lord</b>: <ref=''Mrk.6.3''>Mrk.6:3</ref>, <ref=''Mat.13.55''>Mat.13:55</ref>
-    (Rec., see: Ἰωσήφ). <BR /> __2. <b>Son of Mary</b>: <ref=''Mat.27.56''>Mat.27:56</ref>
-    (-σήφ), WH, txt), <ref=''Mrk.15.40, 47''>Mrk.15:40, 47</ref> <BR /> __3. see:
-    Βαρνάβας.†<BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἰωσή</b>, see: Ἰωσῆς -  -ῆ (Rec. -ή <ref=''Luk.3.29''>Luk.3:29;</ref>
-    AV, Jose; see: Ἰησοῦς, 3), and -ῆτος (Mk, ll with), ὁ, <BR /> <b>Joses</b>; <BR
-    />__1. <b>brother of our Lord</b>: <ref=''Mrk.6.3''>Mrk.6:3</ref>, <ref=''Mat.13.55''>Mat.13:55</ref>
-    (Rec., see: Ἰωσήφ). <BR /> __2. <b>Son of Mary</b>: <ref=''Mat.27.56''>Mat.27:56</ref>
-    (-σήφ), WH, txt), <ref=''Mrk.15.40, 47''>Mrk.15:40, 47</ref> <BR /> __3. see:
-    Βαρνάβας.†<BR />   (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἰωσή, see: Ἰωσῆς -  -ῆ (Rec. -ή Luk.3:29; AV, Jose; see: Ἰησοῦς,
+  3), and -ῆτος (Mk, ll with), ὁ,
+
+  Joses;
+
+  __1. brother of our Lord: Mrk.6:3, Mat.13:55 (Rec., see: Ἰωσήφ).
+
+  __2. Son of Mary: Mat.27:56 (-σήφ), WH, txt), Mrk.15:40, 47
+
+  __3. see: Βαρνάβας.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἰωσή, see: Ἰωσῆς -  -ῆ (Rec. -ή Luk.3:29; AV, Jose; see: Ἰησοῦς, 3), and
+  -ῆτος (Mk, ll with), ὁ,
+
+  Joses;
+
+  __1. brother of our Lord: Mrk.6:3, Mat.13:55 (Rec., see: Ἰωσήφ).
+
+  __2. Son of Mary: Mat.27:56 (-σήφ), WH, txt), Mrk.15:40, 47
+
+  __3. see: Βαρνάβας.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3588
-    proximity: 0.8175
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
   - strongs: G846
-    proximity: 0.7836
+    proximity: 0.7836 {macula-proximity}
   - strongs: G2499
-    proximity: 0.7785
+    lemma: Ἰωσή
+    gloss: Jose {openscriptures-strongs}
+    proximity: 0.7785 {macula-proximity}
   - strongs: G912
-    proximity: 0.7621
+    proximity: 0.7621 {macula-proximity}
   - strongs: G919
-    proximity: 0.7507
+    proximity: 0.7507 {macula-proximity}
   cross_language:
   - strongs: H5477
-    proximity: 0.8206
+    lemma: סוּחַ
+    gloss: Suach {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: hebrew
   - strongs: H3442
-    proximity: 0.745
+    lemma: יֵשׁוּעַ
+    gloss: Jeshua {openscriptures-strongs}
+    proximity: 0.745 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

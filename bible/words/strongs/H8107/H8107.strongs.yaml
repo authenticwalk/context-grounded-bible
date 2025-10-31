@@ -6,35 +6,41 @@ pronunciation: shim-moor'
 definition: an observance
 kjv_usage: '[idiom] be (much) observed.'
 derivation: from H8104 (שָׁמַר);
-extended_definition:
-  gloss: vigil
-  definition: night watch, watching, vigil
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: night watch, watching, vigil {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5341
-    proximity: 0.7142
+    lemma: נָצַר
+    gloss: to guard {openscriptures-strongs}
+    proximity: 0.7142 {macula-proximity}
   - strongs: H8104
-    proximity: 0.7062
+    lemma: שָׁמַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7062 {macula-proximity}
   cross_language:
   - strongs: G1301
-    proximity: 0.805
+    lemma: διατηρέω
+    gloss: to watch thoroughly {openscriptures-strongs}
+    proximity: 0.805 {macula-proximity}
     language: greek
   - strongs: G3525
-    proximity: 0.7983
+    lemma: νήφω
+    gloss: to abstain from wine {openscriptures-strongs}
+    proximity: 0.7983 {macula-proximity}
     language: greek
   - strongs: G1858
-    proximity: 0.7892
+    lemma: ἑορτάζω
+    gloss: to observe a festival {openscriptures-strongs}
+    proximity: 0.7892 {macula-proximity}
     language: greek
   - strongs: G5442
-    proximity: 0.7798
+    lemma: φυλάσσω
+    gloss: to watch {openscriptures-strongs}
+    proximity: 0.7798 {macula-proximity}
     language: greek
   - strongs: G5084
-    proximity: 0.7634
+    lemma: τήρησις
+    gloss: a watching {openscriptures-strongs}
+    proximity: 0.7634 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,55 +5,69 @@ transliteration: pareísaktos
 definition: smuggled in
 kjv_usage: unawares brought in
 derivation: from G3919 (παρεισάγω);
-extended_definition:
-  gloss: infiltrated
-  definition: '<b>παρ-είσ-ακτος</b>, -ον<BR /> (παρεισάγω), <BR />brought in secretly
-    (as spies or traitors) : <ref=''Gal.2.4.''>Gal.2:4.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> παρείσ-ακτος</b>, ον, <br /> <b>introduced privily,</b> [<a
-    href="javascript:void(0)" title="NT.Gal.2.4: nickname of Ptolemy XI, 1st c.BC-1st
-    c.AD: Strabo Geographus 17.1.8. ">NT+1st c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'παρ-είσ-ακτος, -ον
+
+  (παρεισάγω),
+
+  brought in secretly (as spies or traitors) : Gal.2:4.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'παρείσ-ακτος, ον,
+
+  introduced privily, [NT+1st c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1532
-    proximity: 0.8249
+    lemma: εἰστρέχω
+    gloss: to hasten inward {openscriptures-strongs}
+    proximity: 0.8249 {macula-proximity}
   - strongs: G1531
-    proximity: 0.8143
+    lemma: εἰσπορεύομαι
+    gloss: to enter {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
   - strongs: G71
-    proximity: 0.8136
+    proximity: 0.8136 {macula-proximity}
   - strongs: G1722
-    proximity: 0.8109
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.8109 {macula-proximity}
   - strongs: G1533
-    proximity: 0.787
+    lemma: εἰσφέρω
+    gloss: to carry inward {openscriptures-strongs}
+    proximity: 0.787 {macula-proximity}
   - strongs: A858
-    proximity: 0.7771
+    proximity: 0.7771 {macula-proximity}
   - strongs: A5954
-    proximity: 0.7603
+    proximity: 0.7603 {macula-proximity}
   - strongs: G1528
-    proximity: 0.7567
+    lemma: εἰσκαλέω
+    gloss: to invite in {openscriptures-strongs}
+    proximity: 0.7567 {macula-proximity}
   - strongs: G1898
-    proximity: 0.7172
+    lemma: ἐπεισαγωγή
+    gloss: a superintroduction {openscriptures-strongs}
+    proximity: 0.7172 {macula-proximity}
   - strongs: G2977
-    proximity: 0.7137
+    lemma: λάθρα
+    gloss: privately {openscriptures-strongs}
+    proximity: 0.7137 {macula-proximity}
   cross_language:
   - strongs: H871a
-    proximity: 0.8256
+    proximity: 0.8256 {macula-proximity}
     language: hebrew
   - strongs: H6795
-    proximity: 0.8244
+    lemma: צָנַח
+    gloss: to alight {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: hebrew
   - strongs: H1570
-    proximity: 0.8235
+    lemma: גָּלַשׁ
+    gloss: probably to caper {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: hebrew
   - strongs: H2791
-    proximity: 0.8028
+    lemma: חֶרֶשׁ
+    gloss: magical craft {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,39 +5,46 @@ transliteration: Rhḗgion
 definition: Rhegium, a place in Italy
 kjv_usage: Rhegium
 derivation: of Latin origin;
-extended_definition:
-  gloss: Rhegium
-  definition: '<b>Ῥήγιον</b>, -ου, τό <BR /> <b>Rhegium, a town in Sicily</b>: <ref=''Act.28.13.''>Act.28:13.</ref>†<BR
-    /> (AS)'
-  morphology: N:N--L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ῥήγιον</b>, -ου, τό <BR /> <b>Rhegium, a town in Sicily</b>:
-    <ref=''Act.28.13.''>Act.28:13.</ref>†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ῥήγιον, -ου, τό
+
+  Rhegium, a town in Sicily: Act.28:13.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ῥήγιον, -ου, τό
+
+  Rhegium, a town in Sicily: Act.28:13.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1056
-    proximity: 0.8203
+    lemma: Γαλιλαία
+    gloss: Galilæa {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   cross_language:
   - strongs: H1075
-    proximity: 0.8283
+    lemma: בִּכְרִי
+    gloss: Bikri {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
     language: hebrew
   - strongs: H1553
-    proximity: 0.8245
+    lemma: גְּלִילוֹת
+    gloss: Geliloth {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
     language: hebrew
   - strongs: H2147
-    proximity: 0.8236
+    lemma: זִכְרִי
+    gloss: Zicri {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
     language: hebrew
   - strongs: H7055
-    proximity: 0.8234
+    lemma: קְמוּאֵל
+    gloss: Kemuel {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
     language: hebrew
   - strongs: H7996
-    proximity: 0.8226
+    lemma: שַׁלֶּכֶת
+    gloss: Shalleketh {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

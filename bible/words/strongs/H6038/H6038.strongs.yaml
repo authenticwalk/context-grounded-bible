@@ -7,44 +7,57 @@ definition: condescension, human and subjective (modesty), or divine and objecti
   (clemency)
 kjv_usage: gentleness, humility, meekness.
 derivation: from H6035 (עָנָו);
-extended_definition:
-  gloss: humility
-  definition: 'humility, meekness<BR>Also means: <i>an.vah</i> (עַנְוָה "gentleness"
-    H6037)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: 'humility, meekness
+
+  Also means: an.vah (עַנְוָה "gentleness" H6037) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8213
-    proximity: 0.8265
+    lemma: שָׁפֵל
+    gloss: to depress or sink (expectation figuratively {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H3665
-    proximity: 0.8162
+    lemma: כָּנַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H328
-    proximity: 0.8148
+    proximity: 0.8148 {macula-proximity}
   - strongs: H6035
-    proximity: 0.809
+    lemma: עָנָו
+    gloss: depressed {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
   - strongs: H8217
-    proximity: 0.796
+    lemma: שָׁפָל
+    gloss: depressed {openscriptures-strongs}
+    proximity: 0.796 {macula-proximity}
   - strongs: H7515
-    proximity: 0.7402
+    lemma: רָפַשׂ
+    gloss: to trample {openscriptures-strongs}
+    proximity: 0.7402 {macula-proximity}
   cross_language:
   - strongs: G4239
-    proximity: 0.8104
+    lemma: πραΰς
+    gloss: mild {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
     language: greek
   - strongs: G2261
-    proximity: 0.7708
+    lemma: ἤπιος
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7708 {macula-proximity}
     language: greek
   - strongs: G1932
-    proximity: 0.7686
+    lemma: ἐπιείκεια
+    gloss: suitableness {openscriptures-strongs}
+    proximity: 0.7686 {macula-proximity}
     language: greek
   - strongs: G1933
-    proximity: 0.7567
+    lemma: ἐπιεικής
+    gloss: appropriate {openscriptures-strongs}
+    proximity: 0.7567 {macula-proximity}
     language: greek
   - strongs: G5013
-    proximity: 0.7494
+    lemma: ταπεινόω
+    gloss: to depress {openscriptures-strongs}
+    proximity: 0.7494 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

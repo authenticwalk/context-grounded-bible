@@ -7,51 +7,70 @@ definition: to press upon, i.e. oppress, defraud, violate, overflow
 kjv_usage: get deceitfully, deceive, defraud, drink up, (use) oppress(-ion), -or),
   do violence (wrong).
 derivation: a primitive root (compare H6229 (עָשַׂק));
-extended_definition:
-  gloss: to oppress
-  definition: 1) to press upon, oppress, violate, defraud, do violence, get deceitfully,
-    wrong, extort<br>1a) (Qal)<br>1a1) to oppress, wrong, extort<br>1a2) to oppress<br>1b)
-    (Pual) to be exploited, be crushed
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to press upon, oppress, violate, defraud, do violence, get
+  deceitfully, wrong, extort
+
+  1a) (Qal)
+
+  1a1) to oppress, wrong, extort
+
+  1a2) to oppress
+
+  1b) (Pual) to be exploited, be crushed {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8649
-    proximity: 0.8186
+    lemma: תׇּרְמָה
+    gloss: fraud {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: H2000a
-    proximity: 0.818
+    proximity: 0.818 {macula-proximity}
   - strongs: H4820
-    proximity: 0.8117
+    lemma: מִרְמָה
+    gloss: fraud {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
   - strongs: A1080
-    proximity: 0.7983
+    proximity: 0.7983 {macula-proximity}
   - strongs: H1814
-    proximity: 0.7668
+    lemma: דָּלַק
+    gloss: to flame {openscriptures-strongs}
+    proximity: 0.7668 {macula-proximity}
   - strongs: H7429
-    proximity: 0.764
+    lemma: רָמַס
+    gloss: to tread upon (as a potter {openscriptures-strongs}
+    proximity: 0.764 {macula-proximity}
   - strongs: H7701
-    proximity: 0.7512
+    lemma: שֹׁד
+    gloss: violence {openscriptures-strongs}
+    proximity: 0.7512 {macula-proximity}
   - strongs: H4160a
-    proximity: 0.751
+    proximity: 0.751 {macula-proximity}
   - strongs: H6887
-    proximity: 0.731
+    lemma: צָרַר
+    gloss: to cramp {openscriptures-strongs}
+    proximity: 0.731 {macula-proximity}
   cross_language:
   - strongs: G1377
-    proximity: 0.8267
+    lemma: διώκω
+    gloss: compare the base of G1169  and G1249 ) {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
     language: greek
   - strongs: G1386
-    proximity: 0.8222
+    lemma: δόλιος
+    gloss: guileful {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
     language: greek
   - strongs: G5422
-    proximity: 0.8187
+    lemma: φρεναπατάω
+    gloss: to be a mind-misleader {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
     language: greek
   - strongs: G2558
-    proximity: 0.8148
+    lemma: κακουχέω
+    gloss: to maltreat {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
     language: greek
   - strongs: G91
-    proximity: 0.7898
+    proximity: 0.7898 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

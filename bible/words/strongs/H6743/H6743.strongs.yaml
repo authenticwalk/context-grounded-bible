@@ -11,42 +11,59 @@ derivation: or צָלֵחַ; a primitive root;
 related_words:
   synonyms:
   - strongs: H413
-    proximity: 0.8212
+    proximity: 0.8212 {macula-proximity}
   - strongs: H371
-    proximity: 0.8163
+    proximity: 0.8163 {macula-proximity}
   - strongs: H2895
-    proximity: 0.7999
+    lemma: טוֹב
+    gloss: to be (transitively {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
   - strongs: H2342b
-    proximity: 0.7984
+    proximity: 0.7984 {macula-proximity}
   - strongs: H8454
-    proximity: 0.7968
+    lemma: תּוּשִׁיָּה
+    gloss: support or  ability {openscriptures-strongs}
+    proximity: 0.7968 {macula-proximity}
   - strongs: H5414
-    proximity: 0.7898
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
   - strongs: H6329
-    proximity: 0.789
+    lemma: פּוּק
+    gloss: to issue {openscriptures-strongs}
+    proximity: 0.789 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.7879
+    proximity: 0.7879 {macula-proximity}
   - strongs: H3808
-    proximity: 0.7664
+    lemma: לֹא
+    gloss: not {openscriptures-strongs}
+    proximity: 0.7664 {macula-proximity}
   - strongs: H7951
-    proximity: 0.7625
+    lemma: שָׁלָה
+    gloss: to be tranquil {openscriptures-strongs}
+    proximity: 0.7625 {macula-proximity}
   cross_language:
   - strongs: G5539
-    proximity: 0.8271
+    lemma: χρήσιμος
+    gloss: serviceable {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
     language: greek
   - strongs: G888
-    proximity: 0.8198
+    proximity: 0.8198 {macula-proximity}
     language: greek
   - strongs: G1325
-    proximity: 0.8172
+    lemma: δίδωμι
+    gloss: to give (used in a very wide application {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
     language: greek
   - strongs: G1762
-    proximity: 0.8106
+    lemma: ἔνι
+    gloss: impersonally {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: greek
   - strongs: G3528
-    proximity: 0.7972
+    lemma: νικάω
+    gloss: to subdue {openscriptures-strongs}
+    proximity: 0.7972 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

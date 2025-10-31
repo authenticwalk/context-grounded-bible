@@ -5,59 +5,69 @@ transliteration: synapothnḗskō
 definition: to decease (literally) in company with, or (figuratively), similarly to
 kjv_usage: be dead (die) with
 derivation: from G4862 (σύν) and G599 (ἀποθνήσκω);
-extended_definition:
-  gloss: to die with
-  definition: '<b>συν-απο-θνήσκω </b><BR /> [in LXX: <ref=''Sir.19.10''>Sir.19:10</ref>
-    * ;] <BR /><b>to die with or together</b>: <ref=''Mrk.14.31''>Mrk.14:31</ref>,
-    <ref=''2Co.7.3''>2Co.7:3</ref> (see Meyer, in l), <ref=''2Ti.2.11.''>2Ti.2:11.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> συναπο-θνήσκω</b>, <br /> <b>die together with</b>, τινι [<a
-    href="javascript:void(0)" title=" 5th c.BC: Herodotus Historicus 3.16, 5.47; αἱ
-    δυνάμεις σ. τοῖς σώμασι 5th-6th c.BC: Isocrates Orator “Epistulae” 8.5: _absolutely_,
-    opposed to συζῆν, NT.2Cor.7.3, 2nd c.AD: Athenaeus Epigrammaticus 6.249b ">NT+5th
-    c.BC+</a>]; συναποθνῄσκοντες, title of comedy by Diphilus, Ter.[<a href="javascript:void(0)"
-    title=" “Adelph.Prol.” 6; ὧν τὰ συγγράμματα τοῖς μὲν ἤδη συναπέθανε, τοῖς δὲ συντεθνήξεται
-    2nd c.AD: Galenus Medicus 15.68; τοῦ ἀποθανόντος οὐ σ. ἡ ψυχή 5th-6th c.BC: Plato
-    Philosophus “Phaedo” 88d ">Refs 5th c.BC+</a>]; σ. νοσήματα, i.e. <b>cling</b>
-    to one <b>until death</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Hippocrates
-    Medicus “ἀφορισμοί” 2.39, compare 4th c.BC: Aristoteles Philosophus “de Generatione
-    Animalium” 775b34. ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'συν-απο-θνήσκω
+
+  [in LXX: Sir.19:10 * ;]
+
+  to die with or together: Mrk.14:31, 2Co.7:3 (see Meyer, in l), 2Ti.2:11.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συναπο-θνήσκω,
+
+  die together with, τινι [NT+5th c.BC+]; συναποθνῄσκοντες, title of comedy by Diphilus,
+  Ter.[Refs 5th c.BC+]; σ. νοσήματα, i.e. cling to one until death, [Refs 5th c.BC+]
+  {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3873
-    proximity: 0.8288
+    lemma: παράκειμαι
+    gloss: to lie near {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: G2341
-    proximity: 0.8235
+    lemma: θηριομαχέω
+    gloss: to be a beast-fighter {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: G1935
-    proximity: 0.8231
+    lemma: ἐπιθανάτιος
+    gloss: doomed to death {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: G4959
-    proximity: 0.8221
+    lemma: συστενάζω
+    gloss: to moan jointly {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: G4841
-    proximity: 0.8146
+    lemma: συμπάσχω
+    gloss: to experience pain jointly or of the same kind (specially {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
   - strongs: G4901
-    proximity: 0.8123
+    lemma: συνεπιμαρτυρέω
+    gloss: to testify further jointly {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
   - strongs: G4840
-    proximity: 0.8102
+    lemma: συμπάρειμι
+    gloss: to be at hand together {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
   - strongs: G4903
-    proximity: 0.8096
+    lemma: συνεργέω
+    gloss: to be a fellow-worker {openscriptures-strongs}
+    proximity: 0.8096 {macula-proximity}
   - strongs: G4882
-    proximity: 0.8071
+    lemma: συναποστέλλω
+    gloss: to despatch  in company with {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
   - strongs: G4925
-    proximity: 0.8062
+    lemma: συνοικοδομέω
+    gloss: to construct {openscriptures-strongs}
+    proximity: 0.8062 {macula-proximity}
   cross_language:
   - strongs: H8546
-    proximity: 0.8277
+    lemma: תְּמוּתָה
+    gloss: execution {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: hebrew
   - strongs: H5978
-    proximity: 0.8031
+    lemma: עִמָּד
+    gloss: along with {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,51 +5,52 @@ transliteration: epíorkos
 definition: on oath, i.e. (falsely) a forswearer
 kjv_usage: perjured person
 derivation: from G1909 (ἐπί) and G3727 (ὅρκος);
-extended_definition:
-  gloss: perjurer
-  definition: '<b>ἐπί-ορκος</b>, -ον <BR /> [in LXX: <ref=''Zec.5.3''>Zec.5:3</ref>
-    (שָׁבַע ni.) * ;] <BR />__1. of oaths, sworn falsely. <BR /> __2. Of persons,
-    <b>perjured</b>; as subst., <b>a perjurer, false swearer</b>: <ref=''1Ti.1.10.''>1Ti.1:10.</ref>†<BR
-    /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐπίορκ-ος</b>, ον, <br /> <b>sworn falsely</b>, of oaths, εἰ
-    δέ τι τῶνδ᾽ ἐπίορκον 8th c.BC: Ilias Homerus Epicus “Illiad” 19.264: frequently
-    in the phrase ἐπίορκον ὀμόσσαι take <b>a false oath</b>, swear <b>falsely</b>,
-    [<a href="javascript:void(0)" title=" 3.279, 19.260, Hes. “Op.” 282, “Th.” 232
-    ">Refs</a>]; in full, ἐπίορκον ὅρκον ὤμοσε [<a href="javascript:void(0)" title="5th-6th
-    c.BC: Aristophanes Comicus “Ranae” 150; and so ἐ. ἐπομνύναι (see. ἐπόμνυμι); but
-    in Il. 10.332 ἐ. ἐπώμοσε">Refs</a>] he swore <b>a bootless oath</b>, i.e. one
-    which he meant to fulfil, but the gods willed otherwise. <br /><Level2><b>__II</b></Level2>.
-    of persons, <b>forsworn, perjured</b>, [<a href="javascript:void(0)" title=" Hes.
-    “Op.” 804, “Schwyzer” 179a (from Crete), E. “El.” 1355 (_anapaest meter_), Ar.
-    “Nu.” 399, +others">Refs</a>]: <i>superlative</i> <b>-ότατος</b> 5th c.BC: Antipho
-    Orator 6.48. <i>adverb</i> <b>-κως</b> 2nd c.AD: Herodianus Grammaticus 6.9.2.'
-  source: STEPBible/LSJ
+extended_definition: 'ἐπί-ορκος, -ον
+
+  [in LXX: Zec.5:3 (שָׁבַע ni.) * ;]
+
+  __1. of oaths, sworn falsely.
+
+  __2. Of persons, perjured; as subst., a perjurer, false swearer: 1Ti.1:10.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐπίορκ-ος, ον,
+
+  sworn falsely, of oaths, εἰ δέ τι τῶνδ᾽ ἐπίορκον 8th c.BC: Ilias Homerus Epicus
+  “Illiad” 19.264: frequently in the phrase ἐπίορκον ὀμόσσαι take a false oath, swear
+  falsely, [Refs]; in full, ἐπίορκον ὅρκον ὤμοσε [Refs] he swore a bootless oath,
+  i.e. one which he meant to fulfil, but the gods willed otherwise.
+
+  __II. of persons, forsworn, perjured, [Refs]: superlative -ότατος 5th c.BC: Antipho
+  Orator 6.48. adverb -κως 2nd c.AD: Herodianus Grammaticus 6.9.2. {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1844
-    proximity: 0.8216
+    lemma: ἐξορκίζω
+    gloss: to exact an oath {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   - strongs: G3728
-    proximity: 0.8212
+    lemma: ὁρκωμοσία
+    gloss: asseveration on oath {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   - strongs: G332
-    proximity: 0.7953
+    proximity: 0.7953 {macula-proximity}
   - strongs: G3727
-    proximity: 0.7365
+    lemma: ὅρκος
+    gloss: perhaps akin to G3725 ) {openscriptures-strongs}
+    proximity: 0.7365 {macula-proximity}
   cross_language:
   - strongs: H7621
-    proximity: 0.8033
+    lemma: שְׁבוּעָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
     language: hebrew
   - strongs: H7650
-    proximity: 0.7206
+    lemma: שָׁבַע
+    gloss: to seven oneself {openscriptures-strongs}
+    proximity: 0.7206 {macula-proximity}
     language: hebrew
   - strongs: H422
-    proximity: 0.7089
+    proximity: 0.7089 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

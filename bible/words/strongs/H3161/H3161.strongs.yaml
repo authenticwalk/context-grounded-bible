@@ -6,40 +6,49 @@ pronunciation: yaw-khad'
 definition: to be (or become) one
 kjv_usage: join, unite.
 derivation: a primitive root;
-extended_definition:
-  gloss: be joined
-  definition: 1) to join, unite, be joined, be united<br>1a) (Qal) to be united<br>1b)
-    (Piel) to unite
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to join, unite, be joined, be united
+
+  1a) (Qal) to be united
+
+  1b) (Piel) to unite {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H259
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
   - strongs: H3162a
-    proximity: 0.8003
+    proximity: 0.8003 {macula-proximity}
   - strongs: H2270
-    proximity: 0.7912
+    lemma: חָבֵר
+    gloss: an associate {openscriptures-strongs}
+    proximity: 0.7912 {macula-proximity}
   - strongs: H5596
-    proximity: 0.7602
+    lemma: סָפַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7602 {macula-proximity}
   cross_language:
   - strongs: G2468
-    proximity: 0.8245
+    lemma: ἴσθι
+    gloss: be thou {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
     language: greek
   - strongs: G4801
-    proximity: 0.8213
+    lemma: συζεύγνυμι
+    gloss: to yoke together {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
     language: greek
   - strongs: G4943
-    proximity: 0.8164
+    lemma: συνυπουργέω
+    gloss: to be a co-auxiliary {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
     language: greek
   - strongs: G4790
-    proximity: 0.8139
+    lemma: συγκοινωνέω
+    gloss: to share in company with {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: greek
   - strongs: G4345
-    proximity: 0.8091
+    lemma: προσκληρόω
+    gloss: to give a common lot to {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

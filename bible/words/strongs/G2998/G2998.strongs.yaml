@@ -6,63 +6,72 @@ definition: to quarry
 kjv_usage: hew
 derivation: from the same as the first part of G2991 (λαξευτός) and the base of G5114
   (τομώτερος);
-extended_definition:
-  gloss: to hew
-  definition: '<b>λατομέω</b>, -ῶ<BR /> (λατόμος, a stonecutter, <ref=''2Ki.12.12''>4Ki.12:12</ref>,
-    al.; λᾶς, τέμνω; cf. λαξευτός) [in LXX: <ref=''1Ch.22.2''>1Ch.22:2</ref>, al.
-    (חָצַב); <ref=''Exo.21.33''>Exo.21:33</ref>, Num_21:18 (כָּרָה) ;] <BR /><b>to
-    hew, hew out stones</b>: <ref=''Mat.27.60''>Mat.27:60</ref>, <ref=''Mrk.15.46''>Mrk.15:46</ref>.†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> λᾱτομ-έω</b>, <br /> <b>quarry</b>, γῆν [<a href="javascript:void(0)"
-    title=" 2nd-1st c.BC: Posidonius Historicus 57 1st c.AD: Josephus Historicus;
-    πέτραν “IG” 42(1).122.25 (Epid.), compare 1st c.BC: Diodorus Siculus Historicus
-    5.39; λίθους “PCair.Zen.” 499.38 (3rd c.BC), 3rd c.BC: Antigonus Carystius Paradoxographus
-    “Mirabilia” 161: _absolutely_, “PCair.Zen.” 296.34 (3rd c.BC), 2nd c.BC: Agatharchides
-    Geographus 25, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 8.2.9 ">Refs
-    3rd c.BC+</a>]:—<i>passive</i>, λελατόμηται [<a href="javascript:void(0)" title="
-    “PPetr.” 2p.12 (3rd c.BC)">Refs 3rd c.BC+</a>]; τὰ -ούμενα θραύματα [<a href="javascript:void(0)"
-    title=" 1st c.BC: Diodorus Siculus Historicus 3.12. ">Refs 1st c.BC+</a>]<br /><Level2><b>__II</b></Level2>
-    λ. λάκκον <b>hew</b> it <b>out</b>, [<a href="javascript:void(0)" title=" LXX.Exo.21.33,
-    cf. LXX.Deu.6.11 (_passive_). ">LXX</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'λατομέω, -ῶ
+
+  (λατόμος, a stonecutter, 4Ki.12:12, al.; λᾶς, τέμνω; cf. λαξευτός) [in LXX: 1Ch.22:2,
+  al. (חָצַב); Exo.21:33, Num_21:18 (כָּרָה) ;]
+
+  to hew, hew out stones: Mat.27:60, Mrk.15:46.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'λᾱτομ-έω,
+
+  quarry, γῆν [Refs 3rd c.BC+]:—passive, λελατόμηται [Refs 3rd c.BC+]; τὰ -ούμενα
+  θραύματα [Refs 1st c.BC+]
+
+  __II λ. λάκκον hew it out, [LXX] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1554
-    proximity: 0.826
+    lemma: ἐκδίδωμι
+    gloss: to give forth {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
   - strongs: G1600
-    proximity: 0.8254
+    lemma: ἐκπετάννυμι
+    gloss: to fly out {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: G1854
-    proximity: 0.821
+    lemma: ἔξω
+    gloss: out(-side {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
   - strongs: G5294
-    proximity: 0.819
+    lemma: ὑποτίθημι
+    gloss: to place underneath {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   - strongs: G2716
-    proximity: 0.8188
+    lemma: κατεργάζομαι
+    gloss: to work fully {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
   - strongs: G1581
-    proximity: 0.8125
+    lemma: ἐκκόπτω
+    gloss: to exscind {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: A6132
-    proximity: 0.8047
+    proximity: 0.8047 {macula-proximity}
   cross_language:
   - strongs: H7554
-    proximity: 0.8272
+    lemma: רָקַע
+    gloss: to pound the earth {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: hebrew
   - strongs: H4680
-    proximity: 0.8257
+    lemma: מָצָה
+    gloss: to suck out {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: hebrew
   - strongs: H1158
-    proximity: 0.8123
+    lemma: בָּעָה
+    gloss: to gush over {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
     language: hebrew
   - strongs: H8025
-    proximity: 0.8122
+    lemma: שָׁלַף
+    gloss: to pull out {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
     language: hebrew
   - strongs: H6694
-    proximity: 0.8109
+    lemma: צוּק
+    gloss: to pour out {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

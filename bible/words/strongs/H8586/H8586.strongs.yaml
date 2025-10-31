@@ -6,41 +6,51 @@ pronunciation: tah-al-ool'
 definition: caprice (as a fit coming on), i.e. vexation; concretely a tyrant
 kjv_usage: babe, delusion.
 derivation: from H5953 (עָלַל);
-extended_definition:
-  gloss: caprice
-  definition: wantonness, caprice, vexation
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: wantonness, caprice, vexation {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3126
-    proximity: 0.8252
+    lemma: יוֹנֵק
+    gloss: a sucker {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
   - strongs: H2937
-    proximity: 0.8126
+    lemma: טָעָה
+    gloss: to wander {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
   - strongs: H7988
-    proximity: 0.7935
+    lemma: שִׁלְיָה
+    gloss: a fetus or babe {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
   - strongs: H2945
-    proximity: 0.7719
+    lemma: טַף
+    gloss: a family {openscriptures-strongs}
+    proximity: 0.7719 {macula-proximity}
   - strongs: H3206
-    proximity: 0.7707
+    lemma: יֶלֶד
+    gloss: something born {openscriptures-strongs}
+    proximity: 0.7707 {macula-proximity}
   cross_language:
   - strongs: G793
-    proximity: 0.8254
+    proximity: 0.8254 {macula-proximity}
     language: greek
   - strongs: G5040
-    proximity: 0.8229
+    lemma: τεκνίον
+    gloss: an infant {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G4106
-    proximity: 0.8085
+    lemma: πλάνη
+    gloss: objectively {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
     language: greek
   - strongs: G2009
-    proximity: 0.7959
+    lemma: ἐπιτιμία
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7959 {macula-proximity}
     language: greek
   - strongs: G5098
-    proximity: 0.7895
+    lemma: τιμωρία
+    gloss: vindication {openscriptures-strongs}
+    proximity: 0.7895 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

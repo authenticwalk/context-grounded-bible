@@ -6,35 +6,41 @@ pronunciation: sef-awr'
 definition: a census
 kjv_usage: numbering.
 derivation: from H5608 (סָפַר);
-extended_definition:
-  gloss: numbering
-  definition: census, enumeration
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: census, enumeration {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A1240
-    proximity: 0.8225
+    proximity: 0.8225 {macula-proximity}
   - strongs: H5608
-    proximity: 0.8106
+    lemma: סָפַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
   - strongs: H7218
-    proximity: 0.8078
+    lemma: רֹאשׁ
+    gloss: the head {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   - strongs: H5375
-    proximity: 0.8073
+    lemma: נָשָׂא
+    gloss: to lift {openscriptures-strongs}
+    proximity: 0.8073 {macula-proximity}
   - strongs: H6575
-    proximity: 0.8026
+    lemma: פָּרָשָׁה
+    gloss: exposition {openscriptures-strongs}
+    proximity: 0.8026 {macula-proximity}
   - strongs: H4971
-    proximity: 0.8009
+    lemma: מַתְכֹנֶת
+    gloss: proportion (in size {openscriptures-strongs}
+    proximity: 0.8009 {macula-proximity}
   - strongs: H5615
-    proximity: 0.768
+    lemma: סְפֹרָה
+    gloss: a numeration {openscriptures-strongs}
+    proximity: 0.768 {macula-proximity}
   - strongs: H4557
-    proximity: 0.7035
+    lemma: מִסְפָּר
+    gloss: a number {openscriptures-strongs}
+    proximity: 0.7035 {macula-proximity}
   cross_language:
   - strongs: G583
-    proximity: 0.8029
+    proximity: 0.8029 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

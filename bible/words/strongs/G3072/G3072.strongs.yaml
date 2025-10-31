@@ -5,52 +5,69 @@ transliteration: Lykaonistí
 definition: Lycaonistically, i.e. in the language of the Lycaonians
 kjv_usage: in the speech of Lycaonia
 derivation: adverb from a derivative of G3071 (Λυκαονία);
-extended_definition:
-  gloss: Lycaonian
-  definition: '<b>Λυκαονιστί </b><BR /> <i>adv.</i>, <BR /><b>in Lycaonian </b>(speech):
-    <ref=''Act.14.11.''>Act.14:11.</ref>†<BR /> (AS)'
-  morphology: G:ADV-T
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Λυκαονιστί </b><BR /> <i>adv.</i>, <BR /><b>in Lycaonian </b>(speech):
-    <ref=''Act.14.11.''>Act.14:11.</ref>†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Λυκαονιστί
+
+  adv.,
+
+  in Lycaonian (speech): Act.14:11.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Λυκαονιστί
+
+  adv.,
+
+  in Lycaonian (speech): Act.14:11.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1722
-    proximity: 0.828
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.828 {macula-proximity}
   - strongs: G3518
-    proximity: 0.8261
+    lemma: Νηρί
+    gloss: Neri {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
   - strongs: G1447
-    proximity: 0.8191
+    lemma: Ἑβραϊστί
+    gloss: Hebraistically or in the Jewish  language {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8058
+    proximity: 0.8058 {macula-proximity}
   - strongs: G3517
-    proximity: 0.8016
+    lemma: Νηρεύς
+    gloss: Nereus {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
   - strongs: G1258
-    proximity: 0.78
+    lemma: διάλεκτος
+    gloss: a  discourse {openscriptures-strongs}
+    proximity: 0.78 {macula-proximity}
   - strongs: G3588
-    proximity: 0.7774
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7774 {macula-proximity}
   - strongs: G1676
-    proximity: 0.7772
+    lemma: Ἑλληνιστί
+    gloss: Hellenistically {openscriptures-strongs}
+    proximity: 0.7772 {macula-proximity}
   - strongs: A3961
-    proximity: 0.7627
+    proximity: 0.7627 {macula-proximity}
   cross_language:
   - strongs: H3812
-    proximity: 0.8293
+    lemma: לֵאָה
+    gloss: Leah {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: hebrew
   - strongs: H797
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
     language: hebrew
   - strongs: H5374
-    proximity: 0.8104
+    lemma: נֵרִיָּה
+    gloss: Nerijah {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
     language: hebrew
   - strongs: H1886a
-    proximity: 0.7809
+    proximity: 0.7809 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

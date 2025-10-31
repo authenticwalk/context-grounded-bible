@@ -7,44 +7,53 @@ definition: (figuratively) to love; by implication, a love-token, lover, friend;
   an uncle
 kjv_usage: (well-) beloved, father's brother, love, uncle.
 derivation: or (shortened) דֹּד; from an unused root meaning properly, to boil, i.e.
-extended_definition:
-  gloss: 'beloved: male relative'
-  definition: ': male_relative<br>1) beloved, love, uncle<br>1a) loved one, beloved<br>1b)
-    uncle<br>1c) love (pl. abstract)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': male_relative
+
+  1) beloved, love, uncle
+
+  1a) loved one, beloved
+
+  1b) uncle
+
+  1c) love (pl. abstract) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H269
-    proximity: 0.8222
+    proximity: 0.8222 {macula-proximity}
   - strongs: H5690
-    proximity: 0.8085
+    lemma: עֶגֶב
+    gloss: love {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
   - strongs: H159
-    proximity: 0.7883
+    proximity: 0.7883 {macula-proximity}
   - strongs: H3039a
-    proximity: 0.7511
+    proximity: 0.7511 {macula-proximity}
   - strongs: H251
-    proximity: 0.7399
+    proximity: 0.7399 {macula-proximity}
   - strongs: H3033
-    proximity: 0.7017
+    lemma: יְדִדוּת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7017 {macula-proximity}
   cross_language:
   - strongs: G4772
-    proximity: 0.8287
+    lemma: συγγένεια
+    gloss: relationship {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G5360
-    proximity: 0.8119
+    lemma: φιλαδελφία
+    gloss: fraternal affection {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
     language: greek
   - strongs: G5363
-    proximity: 0.8067
+    lemma: φιλανθρωπία
+    gloss: fondness of mankind {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
     language: greek
   - strongs: G26
-    proximity: 0.7754
+    proximity: 0.7754 {macula-proximity}
     language: greek
   - strongs: G25
-    proximity: 0.7193
+    proximity: 0.7193 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

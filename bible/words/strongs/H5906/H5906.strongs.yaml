@@ -7,19 +7,17 @@ definition: the constellation of the Great Bear (perhaps from its migration thro
   the heavens)
 kjv_usage: Arcturus.
 derivation: or עָשׁ; from H5789 (עוּשׁ);
-extended_definition:
-  gloss: Bear
-  definition: The constellation 1a) Great Bear, Ursa Major<br>1b) (TWOT) Arcturus<br>
-  morphology: N:N-F-T
-  source: STEPBible/BDB
+extended_definition: 'The constellation 1a) Great Bear, Ursa Major
+
+  1b) (TWOT) Arcturus {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3803
-    proximity: 0.8139
+    lemma: כָּתַר
+    gloss: to enclose {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H1677
-    proximity: 0.7105
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: דֹּב
+    gloss: the bear {openscriptures-strongs}
+    proximity: 0.7105 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,33 +6,39 @@ pronunciation: kaw-faw'
 definition: properly, to bend, i.e. (figuratively) to tame or subdue
 kjv_usage: pacify.
 derivation: a primitive root;
-extended_definition:
-  gloss: to subdue
-  definition: (Qal) to sooth, subdue, pacify
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to sooth, subdue, pacify {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7674
-    proximity: 0.7859
+    lemma: שֶׁבֶת
+    gloss: rest {openscriptures-strongs}
+    proximity: 0.7859 {macula-proximity}
   - strongs: H7725
-    proximity: 0.7799
+    lemma: שׁוּב
+    gloss: to turn back (hence {openscriptures-strongs}
+    proximity: 0.7799 {macula-proximity}
   - strongs: H7309
-    proximity: 0.7565
+    lemma: רְוָחָה
+    gloss: relief {openscriptures-strongs}
+    proximity: 0.7565 {macula-proximity}
   - strongs: H7918
-    proximity: 0.7182
+    lemma: שָׁכַךְ
+    gloss: to weave  a trap {openscriptures-strongs}
+    proximity: 0.7182 {macula-proximity}
   cross_language:
   - strongs: G2433
-    proximity: 0.8263
+    lemma: ἱλάσκομαι
+    gloss: to conciliate {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
     language: greek
   - strongs: G2435
-    proximity: 0.8234
+    lemma: ἱλαστήριον
+    gloss: an expiatory {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
     language: greek
   - strongs: G2434
-    proximity: 0.7706
+    lemma: ἱλασμός
+    gloss: atonement {openscriptures-strongs}
+    proximity: 0.7706 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

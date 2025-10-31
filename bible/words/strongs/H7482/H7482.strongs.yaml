@@ -6,30 +6,34 @@ pronunciation: rah'am
 definition: a peal of thunder
 kjv_usage: thunder.
 derivation: from H7481 (רָעַם);
-extended_definition:
-  gloss: thunder
-  definition: thunder
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: thunder {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7440
-    proximity: 0.8287
+    lemma: רִנָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H8643
-    proximity: 0.8195
+    lemma: תְּרוּעָה
+    gloss: clamor {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H1959
-    proximity: 0.8121
+    lemma: הֵידָד
+    gloss: acclamation {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H2385
-    proximity: 0.7312
+    lemma: חֲזִיז
+    gloss: a flash of lightning {openscriptures-strongs}
+    proximity: 0.7312 {macula-proximity}
   cross_language:
   - strongs: G2906
-    proximity: 0.8285
+    lemma: κραυγή
+    gloss: an outcry (in notification {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G2752
-    proximity: 0.7955
+    lemma: κέλευμα
+    gloss: a cry of incitement {openscriptures-strongs}
+    proximity: 0.7955 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

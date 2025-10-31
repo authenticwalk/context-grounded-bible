@@ -6,45 +6,55 @@ pronunciation: kod-kode'
 definition: the crown of the head (as the part most bowed)
 kjv_usage: crown (of the head), pate, scalp, top of the head.
 derivation: from H6915 (קָדַד);
-extended_definition:
-  gloss: crown
-  definition: head, crown of head, top of head, hairy crown, scalp
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: head, crown of head, top of head, hairy crown, scalp {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1538
-    proximity: 0.8137
+    lemma: גֻּלְגֹּלֶת
+    gloss: a skull {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   - strongs: H6858
-    proximity: 0.8013
+    lemma: צֶפֶת
+    gloss: a capital of a column {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
   - strongs: H1371
-    proximity: 0.7986
+    lemma: גִּבֵּחַ
+    gloss: bald in the forehead {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
   - strongs: A7217
-    proximity: 0.77
+    proximity: 0.77 {macula-proximity}
   - strongs: H7146
-    proximity: 0.7687
+    lemma: קָרַחַת
+    gloss: a bald spot {openscriptures-strongs}
+    proximity: 0.7687 {macula-proximity}
   - strongs: H3805
-    proximity: 0.7663
+    lemma: כֹתֶרֶת
+    gloss: the capital of a column {openscriptures-strongs}
+    proximity: 0.7663 {macula-proximity}
   - strongs: H7218
-    proximity: 0.7234
+    lemma: רֹאשׁ
+    gloss: the head {openscriptures-strongs}
+    proximity: 0.7234 {macula-proximity}
   cross_language:
   - strongs: G503
-    proximity: 0.8267
+    proximity: 0.8267 {macula-proximity}
     language: greek
   - strongs: G2619
-    proximity: 0.8254
+    lemma: κατακαλύπτω
+    gloss: to cover wholly {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: greek
   - strongs: G2898
-    proximity: 0.7936
+    lemma: κρανίον
+    gloss: a skull {openscriptures-strongs}
+    proximity: 0.7936 {macula-proximity}
     language: greek
   - strongs: G779
-    proximity: 0.7886
+    proximity: 0.7886 {macula-proximity}
     language: greek
   - strongs: G2776
-    proximity: 0.7452
+    lemma: κεφαλή
+    gloss: the head {openscriptures-strongs}
+    proximity: 0.7452 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,45 +6,59 @@ pronunciation: dem-ooth'
 definition: resemblance; concretely, model, shape; adverbially, like
 kjv_usage: fashion, like (-ness, as), manner, similitude.
 derivation: from H1819 (דָּמָה);
-extended_definition:
-  gloss: likeness
-  definition: 1) likeness, similitude<br>adv<br>2) in the likeness of, like as
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) likeness, similitude
+
+  adv
+
+  2) in the likeness of, like as {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5980
-    proximity: 0.8239
+    lemma: עֻמָּה
+    gloss: conjunction {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: H8490
-    proximity: 0.8121
+    lemma: תִּימָרָה
+    gloss: a column {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: A2376
-    proximity: 0.8099
+    proximity: 0.8099 {macula-proximity}
   - strongs: H4911
-    proximity: 0.8092
+    lemma: מָשַׁל
+    gloss: to liken {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: A3509d
-    proximity: 0.7918
+    proximity: 0.7918 {macula-proximity}
   - strongs: H1819
-    proximity: 0.7909
+    lemma: דָּמָה
+    gloss: to compare {openscriptures-strongs}
+    proximity: 0.7909 {macula-proximity}
   - strongs: H6699
-    proximity: 0.7637
+    lemma: צוּרָה
+    gloss: a rock {openscriptures-strongs}
+    proximity: 0.7637 {macula-proximity}
   cross_language:
   - strongs: G5158
-    proximity: 0.8277
+    lemma: τρόπος
+    gloss: a turn {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: greek
   - strongs: G2531
-    proximity: 0.822
+    lemma: καθώς
+    gloss: just  as {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
     language: greek
   - strongs: G3446
-    proximity: 0.8215
+    lemma: μόρφωσις
+    gloss: formation {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
     language: greek
   - strongs: G1503a
-    proximity: 0.7999
+    proximity: 0.7999 {macula-proximity}
     language: greek
   - strongs: G3666
-    proximity: 0.7914
+    lemma: ὁμοιόω
+    gloss: to assimilate {openscriptures-strongs}
+    proximity: 0.7914 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

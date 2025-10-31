@@ -5,40 +5,45 @@ transliteration: eíkō
 definition: properly, to be weak, i.e. yield
 kjv_usage: give place
 derivation: apparently a primary verb;
-extended_definition:
-  gloss: to yield
-  definition: '<b>εἴκω</b>, <BR /> [in LXX: <ref=''2Sa.12.7''>2Ki.12:7</ref> (ענה),
-    <ref=''Wis.18.25''>Wis.18:25</ref>, <ref=''4Ma.1.6''>4Ma.1:6</ref> * ;] <BR /><b>to
-    yield</b>: <ref=''Gal.2.5''>Gal.2:5</ref> (cf. ὑπ-είκω).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> εἰκτός</b>, ή, όν, <br /> (εἴκω) <b>yielding</b>, [<a href="javascript:void(0)"
-    title=" 3rd c.AD: Alexander Aphrodisiensis Philosophus “Quaestiones - pars” 62.4,
-    “Etymologicum Magnum” 297.8. ">Refs 3rd c.AD+</a>]<br /><Level2><b>__II</b></Level2>
-    (ἔοικα) <b>like</b>, [<a href="javascript:void(0)" title=" 9th c.AD: Theognostus
-    Grammaticus “Can.” 15. ">Refs 9th c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'εἴκω,
+
+  [in LXX: 2Ki.12:7 (ענה), Wis.18:25, 4Ma.1:6 * ;]
+
+  to yield: Gal.2:5 (cf. ὑπ-είκω).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'εἰκτός, ή, όν,
+
+  (εἴκω) yielding, [Refs 3rd c.AD+]
+
+  __II (ἔοικα) like, [Refs 9th c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5293
-    proximity: 0.825
+    lemma: ὑποτάσσω
+    gloss: to subordinate {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: G4285
-    proximity: 0.8097
+    lemma: προηγέομαι
+    gloss: to lead the way for others {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: G5159
-    proximity: 0.7893
+    lemma: τροποφορέω
+    gloss: to endure one's habits {openscriptures-strongs}
+    proximity: 0.7893 {macula-proximity}
   - strongs: G1325
-    proximity: 0.7855
+    lemma: δίδωμι
+    gloss: to give (used in a very wide application {openscriptures-strongs}
+    proximity: 0.7855 {macula-proximity}
   cross_language:
   - strongs: H7286
-    proximity: 0.8162
+    lemma: רָדַד
+    gloss: to tread in pieces {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
     language: hebrew
   - strongs: H5414
-    proximity: 0.7653
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.7653 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,41 +6,47 @@ pronunciation: gaw-ar'
 definition: to chide
 kjv_usage: corrupt, rebuke, reprove.
 derivation: a primitive root;
-extended_definition:
-  gloss: to rebuke
-  definition: (Qal) to rebuke, reprove, corrupt
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to rebuke, reprove, corrupt {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8417
-    proximity: 0.828
+    lemma: תׇּהֳלָה
+    gloss: braggadocio {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
   - strongs: H3256
-    proximity: 0.8179
+    lemma: יָסַר
+    gloss: to chastise {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
   - strongs: H2778
-    proximity: 0.787
+    lemma: חָרַף
+    gloss: to pull off {openscriptures-strongs}
+    proximity: 0.787 {macula-proximity}
   - strongs: H4148
-    proximity: 0.7465
+    lemma: מוּסָר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7465 {macula-proximity}
   - strongs: H7378
-    proximity: 0.713
+    lemma: רִיב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.713 {macula-proximity}
   cross_language:
   - strongs: G273
-    proximity: 0.7889
+    proximity: 0.7889 {macula-proximity}
     language: greek
   - strongs: G3201
-    proximity: 0.787
+    lemma: μέμφομαι
+    gloss: to blame {openscriptures-strongs}
+    proximity: 0.787 {macula-proximity}
     language: greek
   - strongs: G410
-    proximity: 0.7714
+    proximity: 0.7714 {macula-proximity}
     language: greek
   - strongs: G274
-    proximity: 0.7682
+    proximity: 0.7682 {macula-proximity}
     language: greek
   - strongs: G2607
-    proximity: 0.7483
+    lemma: καταγινώσκω
+    gloss: to note against {openscriptures-strongs}
+    proximity: 0.7483 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

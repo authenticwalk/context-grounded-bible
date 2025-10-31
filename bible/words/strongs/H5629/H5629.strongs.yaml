@@ -6,37 +6,43 @@ pronunciation: seh'-rakh
 definition: a redundancy
 kjv_usage: remnant.
 derivation: from H5628 (סָרַח);
-extended_definition:
-  gloss: excess
-  definition: excess, overhanging
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: excess, overhanging {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7605
-    proximity: 0.8279
+    lemma: שְׁאָר
+    gloss: a remainder {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: H7611
-    proximity: 0.8174
+    lemma: שְׁאֵרִית
+    gloss: a remainder or residual (surviving {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
   - strongs: H1335
-    proximity: 0.803
+    lemma: בֶּתֶר
+    gloss: a section {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
   cross_language:
   - strongs: G3310
-    proximity: 0.8139
+    lemma: μερίς
+    gloss: a portion {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: greek
   - strongs: G3935
-    proximity: 0.7976
+    lemma: παρίημι
+    gloss: to let by {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
     language: greek
   - strongs: G3005
-    proximity: 0.7898
+    lemma: λεῖμμα
+    gloss: a remainder {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
     language: greek
   - strongs: G3372
-    proximity: 0.7662
+    lemma: μῆκος
+    gloss: length  length. {openscriptures-strongs}
+    proximity: 0.7662 {macula-proximity}
     language: greek
   - strongs: G2640a
-    proximity: 0.7343
+    proximity: 0.7343 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

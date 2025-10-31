@@ -6,47 +6,63 @@ pronunciation: taw-fal'
 definition: properly, to stick on as apatch; figuratively, to impute falsely
 kjv_usage: forge(-r), sew up.
 derivation: a primitive root;
-extended_definition:
-  gloss: to smear
-  definition: (Qal) to smear, plaster over, stick, glue
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to smear, plaster over, stick, glue {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H908
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
   - strongs: H5526
-    proximity: 0.8097
+    lemma: סָכַךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: H3874
-    proximity: 0.8068
+    lemma: לוּט
+    gloss: to wrap up {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
   - strongs: H5844
-    proximity: 0.8036
+    lemma: עָטָה
+    gloss: to wrap {openscriptures-strongs}
+    proximity: 0.8036 {macula-proximity}
   - strongs: H3682
-    proximity: 0.7858
+    lemma: כְּסוּת
+    gloss: a cover {openscriptures-strongs}
+    proximity: 0.7858 {macula-proximity}
   - strongs: H7874
-    proximity: 0.778
+    lemma: שִׂיד
+    gloss: to plaster {openscriptures-strongs}
+    proximity: 0.778 {macula-proximity}
   - strongs: H2902
-    proximity: 0.7736
+    lemma: טוּחַ
+    gloss: to smear {openscriptures-strongs}
+    proximity: 0.7736 {macula-proximity}
   - strongs: H3681
-    proximity: 0.7724
+    lemma: כָּסוּי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7724 {macula-proximity}
   cross_language:
   - strongs: G5396
-    proximity: 0.8278
+    lemma: φλυαρέω
+    gloss: to be a babbler or trifler {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G2619
-    proximity: 0.8188
+    lemma: κατακαλύπτω
+    gloss: to cover wholly {openscriptures-strongs}
+    proximity: 0.8188 {macula-proximity}
     language: greek
   - strongs: G4862
-    proximity: 0.8187
+    lemma: σύν
+    gloss: with or together  or G3844 ) {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
     language: greek
   - strongs: G2635
-    proximity: 0.815
+    lemma: καταλαλέω
+    gloss: to be a traducer {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
     language: greek
   - strongs: G1943
-    proximity: 0.8125
+    lemma: ἐπικαλύπτω
+    gloss: to conceal {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

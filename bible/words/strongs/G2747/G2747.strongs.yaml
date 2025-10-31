@@ -5,27 +5,24 @@ transliteration: Kenchreaí
 definition: Cenchreæ, a port of Corinth
 kjv_usage: Cencrea
 derivation: probably from kegchros (millet);
-extended_definition:
-  gloss: Cenchreae
-  definition: '<b>Κενχρεαί</b> (Rec. Κεχγ-; ν. WH, <i>App.</i>, 150), -ῶν, αἱ, <BR
-    /> <b>Cenchreæ, a port of Corinth</b>: <ref=''Act.18.18''>Act.18:18</ref>, <ref=''Rom.16.1''>Rom.16:1</ref>.†<BR
-    /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Κενχρεαί</b> (Rec. Κεχγ-; ν. WH, <i>App.</i>, 150), -ῶν, αἱ,
-    <BR /> <b>Cenchreæ, a port of Corinth</b>: <ref=''Act.18.18''>Act.18:18</ref>,
-    <ref=''Rom.16.1''>Rom.16:1</ref>.†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Κενχρεαί (Rec. Κεχγ-; ν. WH, App., 150), -ῶν, αἱ,
+
+  Cenchreæ, a port of Corinth: Act.18:18, Rom.16:1.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Κενχρεαί (Rec. Κεχγ-; ν. WH, App., 150), -ῶν, αἱ,
+
+  Cenchreæ, a port of Corinth: Act.18:18, Rom.16:1.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2914
-    proximity: 0.8246
+    lemma: Κρήτη
+    gloss: Crete {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: G2912
-    proximity: 0.8234
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: Κρής
+    gloss: a Cretan {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

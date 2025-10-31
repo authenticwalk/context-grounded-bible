@@ -11,38 +11,49 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H5428
-    proximity: 0.8271
+    lemma: נָתַשׁ
+    gloss: to tear away {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: H1802
-    proximity: 0.8267
+    lemma: דָּלָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
   - strongs: H1350a
-    proximity: 0.8227
+    proximity: 0.8227 {macula-proximity}
   - strongs: H7997
-    proximity: 0.8185
+    lemma: שָׁלַל
+    gloss: to drop or strip {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: H962
-    proximity: 0.8172
+    proximity: 0.8172 {macula-proximity}
   - strongs: H5710
-    proximity: 0.8168
+    lemma: עָדָה
+    gloss: to advance {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H3014
-    proximity: 0.8051
+    lemma: יָגָה
+    gloss: to push away {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
   - strongs: H6605
-    proximity: 0.7985
+    lemma: פָּתַח
+    gloss: to open wide {openscriptures-strongs}
+    proximity: 0.7985 {macula-proximity}
   cross_language:
   - strongs: G648
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G1283
-    proximity: 0.8287
+    lemma: διαρπάζω
+    gloss: to seize asunder {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G142
-    proximity: 0.8249
+    proximity: 0.8249 {macula-proximity}
     language: greek
   - strongs: G555
-    proximity: 0.8204
+    proximity: 0.8204 {macula-proximity}
     language: greek
   - strongs: G668
-    proximity: 0.8107
+    proximity: 0.8107 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

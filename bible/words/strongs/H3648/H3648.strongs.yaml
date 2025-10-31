@@ -7,47 +7,66 @@ definition: properly, to intertwine or contract, i.e. (by implication) to shrive
   (as with heat); figuratively, to be deeply affected with passion (love or pity)
 kjv_usage: be black, be kindled, yearn.
 derivation: a primitive root;
-extended_definition:
-  gloss: to grow warm
-  definition: 1) to yearn, be kindled, be black (hot), grow warm and tender, be or
-    grow hot, become hot, become emotionally agitated<br>1a) (Niphal)<br>1a1) to grow
-    warm and tender<br>1a2) to be or grow hot
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to yearn, be kindled, be black (hot), grow warm and tender,
+  be or grow hot, become hot, become emotionally agitated
+
+  1a) (Niphal)
+
+  1a1) to grow warm and tender
+
+  1a2) to be or grow hot {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3700
-    proximity: 0.8289
+    lemma: כָּסַף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H2734
-    proximity: 0.8179
+    lemma: חָרָה
+    gloss: to glow or grow warm {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
   - strongs: H4330
-    proximity: 0.8114
+    lemma: מִיץ
+    gloss: pressure {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
   - strongs: H2552
-    proximity: 0.8101
+    lemma: חָמַם
+    gloss: to be hot {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
   - strongs: H5782
-    proximity: 0.794
+    lemma: עוּר
+    gloss: to wake {openscriptures-strongs}
+    proximity: 0.794 {macula-proximity}
   - strongs: H5480a
-    proximity: 0.7464
+    proximity: 0.7464 {macula-proximity}
   - strongs: H2525
-    proximity: 0.7214
+    lemma: חָם
+    gloss: hot {openscriptures-strongs}
+    proximity: 0.7214 {macula-proximity}
   cross_language:
   - strongs: G3863
-    proximity: 0.806
+    lemma: παραζηλόω
+    gloss: to stimulate alongside {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
     language: greek
   - strongs: G2207
-    proximity: 0.7967
+    lemma: ζηλωτής
+    gloss: a "zealot" {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
     language: greek
   - strongs: G1326
-    proximity: 0.7889
+    lemma: διεγείρω
+    gloss: to wake fully {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
     language: greek
   - strongs: G3947
-    proximity: 0.786
+    lemma: παροξύνω
+    gloss: to sharpen alongside {openscriptures-strongs}
+    proximity: 0.786 {macula-proximity}
     language: greek
   - strongs: G1892
-    proximity: 0.7708
+    lemma: ἐπεγείρω
+    gloss: to rouse upon {openscriptures-strongs}
+    proximity: 0.7708 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -8,49 +8,69 @@ definition: to prop (literally or figuratively); reflexively, to lean upon or ta
 kjv_usage: bear up, establish, (up-) hold, lay, lean, lie hard, put, rest self, set
   self, stand fast, stay (self), sustain.
 derivation: a primitive root;
-extended_definition:
-  gloss: to support
-  definition: 1) to lean, lay, rest, support, put, uphold, lean upon<br>1a) (Qal)<br>1a1)
-    to lean or lay upon, rest upon, lean against<br>1a2) to support, uphold, sustain<br>1b)
-    (Niphal) to support or brace oneself<br>1c) (Piel) to sustain, refresh, revive
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to lean, lay, rest, support, put, uphold, lean upon
+
+  1a) (Qal)
+
+  1a1) to lean or lay upon, rest upon, lean against
+
+  1a2) to support, uphold, sustain
+
+  1b) (Niphal) to support or brace oneself
+
+  1c) (Piel) to sustain, refresh, revive {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A5583
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
   - strongs: H4009
-    proximity: 0.8173
+    lemma: מִבְטָח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
   - strongs: H3557
-    proximity: 0.8131
+    lemma: כּוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
   - strongs: H4938
-    proximity: 0.8101
+    lemma: מִשְׁעֵנָה
+    gloss: support {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
   - strongs: H6965
-    proximity: 0.8074
+    lemma: קוּם
+    gloss: to rise (in various applications {openscriptures-strongs}
+    proximity: 0.8074 {macula-proximity}
   - strongs: A7365
-    proximity: 0.7933
+    proximity: 0.7933 {macula-proximity}
   - strongs: H3559
-    proximity: 0.7879
+    lemma: כּוּן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7879 {macula-proximity}
   - strongs: H2388
-    proximity: 0.7871
+    lemma: חָזַק
+    gloss: to fasten upon {openscriptures-strongs}
+    proximity: 0.7871 {macula-proximity}
   cross_language:
   - strongs: G4741
-    proximity: 0.8258
+    lemma: στηρίζω
+    gloss: to set fast {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G1879
-    proximity: 0.8238
+    lemma: ἐπαναπαύομαι
+    gloss: to settle on {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
     language: greek
   - strongs: G950
-    proximity: 0.8185
+    proximity: 0.8185 {macula-proximity}
     language: greek
   - strongs: G5495
-    proximity: 0.8181
+    lemma: χείρ
+    gloss: the hand {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
     language: greek
   - strongs: G1314
-    proximity: 0.8111
+    lemma: διαφυλάσσω
+    gloss: to guard thoroughly {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

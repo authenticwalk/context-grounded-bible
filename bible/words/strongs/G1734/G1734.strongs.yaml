@@ -5,46 +5,53 @@ transliteration: hendékatos
 definition: eleventh
 kjv_usage: eleventh
 derivation: ordinal from G1733 (ἕνδεκα);
-extended_definition:
-  gloss: eleventh
-  definition: '<b>ἑν-δέκατος</b>, -η, -ον <BR /> <b>eleventh</b>: <ref=''Mat.20.6''>Mat.20:6</ref>,
-    9, <ref=''Rev.21.20''>Rev.21:20</ref>.†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἑνδέκᾰτος</b>, η, ον, <br /> <b>eleventh</b>, [<a href="javascript:void(0)"
-    title=" 8th c.BC: Odyssea Homerus Epicus “Odyssey” 3.391, etc.">Refs 8th c.BC+</a>];
-    ἑνδεκάτη (i.e. ἡμέρη), ἡ, <b>eleventh day</b>, [<a href="javascript:void(0)" title="
-    2.374. ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἑν-δέκατος, -η, -ον
+
+  eleventh: Mat.20:6, 9, Rev.21:20.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἑνδέκᾰτος, η, ον,
+
+  eleventh, [Refs 8th c.BC+]; ἑνδεκάτη (i.e. ἡμέρη), ἡ, eleventh day, [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1428
-    proximity: 0.8254
+    lemma: δωδέκατος
+    gloss: twelfth {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: G4003
-    proximity: 0.8254
+    lemma: πεντεκαιδέκατος
+    gloss: five and tenth {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: G1182
-    proximity: 0.8111
+    lemma: δέκατος
+    gloss: tenth {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: G1733
-    proximity: 0.802
+    lemma: ἕνδεκα
+    gloss: one and ten {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
   - strongs: G4002
-    proximity: 0.7191
+    lemma: πέντε
+    gloss: '"five" {openscriptures-strongs}'
+    proximity: 0.7191 {macula-proximity}
   cross_language:
   - strongs: H6224
-    proximity: 0.7871
+    lemma: עֲשִׂירִי
+    gloss: tenth {openscriptures-strongs}
+    proximity: 0.7871 {macula-proximity}
     language: hebrew
   - strongs: H259
-    proximity: 0.7847
+    proximity: 0.7847 {macula-proximity}
     language: hebrew
   - strongs: H6240
-    proximity: 0.7796
+    lemma: עָשָׂר
+    gloss: ten {openscriptures-strongs}
+    proximity: 0.7796 {macula-proximity}
     language: hebrew
   - strongs: H2568
-    proximity: 0.7446
+    lemma: חָמֵשׁ
+    gloss: five {openscriptures-strongs}
+    proximity: 0.7446 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

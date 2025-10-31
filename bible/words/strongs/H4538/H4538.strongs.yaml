@@ -6,51 +6,63 @@ pronunciation: meh'-sek
 definition: a mixture, i.e. of wine with spices
 kjv_usage: mixture.
 derivation: from H4537 (מָסַךְ);
-extended_definition:
-  gloss: mixture
-  definition: mixture
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: mixture {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5561
-    proximity: 0.8296
+    lemma: סַם
+    gloss: an aroma {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H6148a
-    proximity: 0.8169
+    proximity: 0.8169 {macula-proximity}
   - strongs: H7545
-    proximity: 0.8168
+    lemma: רֹקַח
+    gloss: an aromatic {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H81
-    proximity: 0.8009
+    proximity: 0.8009 {macula-proximity}
   - strongs: H4107
-    proximity: 0.7971
+    lemma: מָהַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7971 {macula-proximity}
   - strongs: H4197
-    proximity: 0.7841
+    lemma: מֶזֶג
+    gloss: tempered wine {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
   - strongs: H4414a
-    proximity: 0.7777
+    proximity: 0.7777 {macula-proximity}
   - strongs: H4469
-    proximity: 0.7749
+    lemma: מַמְסָךְ
+    gloss: mixture {openscriptures-strongs}
+    proximity: 0.7749 {macula-proximity}
   - strongs: H5219
-    proximity: 0.755
+    lemma: נְכֹאת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.755 {macula-proximity}
   - strongs: H4842
-    proximity: 0.7344
+    lemma: מִרְקַחַת
+    gloss: an aromatic unguent {openscriptures-strongs}
+    proximity: 0.7344 {macula-proximity}
   cross_language:
   - strongs: G4862
-    proximity: 0.8152
+    lemma: σύν
+    gloss: with or together  or G3844 ) {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
     language: greek
   - strongs: G3395
-    proximity: 0.7975
+    lemma: μίγμα
+    gloss: a compound {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
     language: greek
   - strongs: G741
-    proximity: 0.7703
+    proximity: 0.7703 {macula-proximity}
     language: greek
   - strongs: G298a
-    proximity: 0.7457
+    proximity: 0.7457 {macula-proximity}
     language: greek
   - strongs: G4669
-    proximity: 0.7412
+    lemma: σμυρνίζω
+    gloss: to tincture with myrrh {openscriptures-strongs}
+    proximity: 0.7412 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -12,32 +12,43 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H5190
-    proximity: 0.8168
+    lemma: נָטַל
+    gloss: to lift {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: H661
-    proximity: 0.8057
+    proximity: 0.8057 {macula-proximity}
   - strongs: H5445
-    proximity: 0.7868
+    lemma: סָבַל
+    gloss: to carry {openscriptures-strongs}
+    proximity: 0.7868 {macula-proximity}
   - strongs: H5564
-    proximity: 0.7402
+    lemma: סָמַךְ
+    gloss: to prop {openscriptures-strongs}
+    proximity: 0.7402 {macula-proximity}
   - strongs: H5833
-    proximity: 0.714
+    lemma: עֶזְרָה
+    gloss: aid {openscriptures-strongs}
+    proximity: 0.714 {macula-proximity}
   cross_language:
   - strongs: G4943
-    proximity: 0.8094
+    lemma: συνυπουργέω
+    gloss: to be a co-auxiliary {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
     language: greek
   - strongs: G2024
-    proximity: 0.7689
+    lemma: ἐπιχορηγία
+    gloss: contribution {openscriptures-strongs}
+    proximity: 0.7689 {macula-proximity}
     language: greek
   - strongs: G997
-    proximity: 0.7683
+    proximity: 0.7683 {macula-proximity}
     language: greek
   - strongs: G1947
-    proximity: 0.7625
+    lemma: ἐπικουρία
+    gloss: assistance {openscriptures-strongs}
+    proximity: 0.7625 {macula-proximity}
     language: greek
   - strongs: G996
-    proximity: 0.7536
+    proximity: 0.7536 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

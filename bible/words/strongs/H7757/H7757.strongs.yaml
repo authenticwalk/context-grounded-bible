@@ -6,46 +6,65 @@ pronunciation: shool
 definition: a skirt; by implication, a bottom edge
 kjv_usage: hem, skirt, train.
 derivation: from an unused root meaning to hang down;
-extended_definition:
-  gloss: hem
-  definition: 1) skirt (of robe)<br>1a) of high priest's robe<br>1b) of God's train,
-    city as woman, ignominy, defilement (fig)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) skirt (of robe)
+
+  1a) of high priest''s robe
+
+  1b) of God''s train, city as woman, ignominy, defilement (fig) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4254
-    proximity: 0.8278
+    lemma: מַחֲלָצָה
+    gloss: a mantle {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H8516
-    proximity: 0.8191
+    lemma: תַּלְבֹּשֶׁת
+    gloss: a garment {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
   - strongs: H7897
-    proximity: 0.8183
+    lemma: שִׁית
+    gloss: a dress {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: H155
-    proximity: 0.8176
+    proximity: 0.8176 {macula-proximity}
   - strongs: H2684
-    proximity: 0.8119
+    lemma: חֹצֶן
+    gloss: '{the bosom } {openscriptures-strongs}'
+    proximity: 0.8119 {macula-proximity}
   - strongs: H3671
-    proximity: 0.8109
+    lemma: כָּנָף
+    gloss: an edge or extremity {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
   - strongs: H5497
-    proximity: 0.808
+    lemma: סוּת
+    gloss: covering {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
   - strongs: H4063
-    proximity: 0.79
+    lemma: מֶדֶו
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.79 {macula-proximity}
   - strongs: H4055
-    proximity: 0.7833
+    lemma: מַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
   - strongs: H3801
-    proximity: 0.7497
+    lemma: כְּתֹנֶת
+    gloss: a shirt {openscriptures-strongs}
+    proximity: 0.7497 {macula-proximity}
   cross_language:
   - strongs: G2737
-    proximity: 0.784
+    lemma: κατώτερος
+    gloss: inferior (locally {openscriptures-strongs}
+    proximity: 0.784 {macula-proximity}
     language: greek
   - strongs: G1742
-    proximity: 0.7565
+    lemma: ἔνδυμα
+    gloss: apparel {openscriptures-strongs}
+    proximity: 0.7565 {macula-proximity}
     language: greek
   - strongs: G2441
-    proximity: 0.7523
+    lemma: ἱματισμός
+    gloss: clothing {openscriptures-strongs}
+    proximity: 0.7523 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

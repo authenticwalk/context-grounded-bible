@@ -6,40 +6,25 @@ definition: a "Stoic" (as occupying a particular porch in Athens), i.e. adherent
   a certin philosophy
 kjv_usage: Stoick
 derivation: from G4745 (στοά);
-extended_definition:
-  gloss: Stoic
-  definition: '<b>Στωικός</b> (Rec. -ϊκός, T, Στοϊκός), -ή, -όν, <BR /> <b>Stoic</b>:
-    <ref=''Act.17.18.''>Act.17:18.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> στωϊκ-ός</b>, ή, όν, <br /> (στοά) <b>of a colonnade</b> or
-    <b>porch</b>: hence, [<a href="javascript:void(0)" title=" “Stoic” (because Zeno
-    taught in the στοὰ Ποικίλη), οἱ τῆς Σ. αἱρέσεως ἡγεμόνες 1st c.BC: Dionysius Halicarnassensis
-    “de Compositione Verborum” 2, compare 1st c.BC-1st c.AD: Strabo Geographus 13.1.57,
-    14.6.3 ">Refs 1st c.BC+</a>]; ἡ Σ. [<a href="javascript:void(0)" title=" 1st c.BC:
-    Philodemus Gadarensis Epigrammaticus “Rh.” 2.227S., 3rd c.AD(?): Diogenes Laertius
-    6.14 ">Refs 1st c.BC+</a>]; οἱ Σ. the [<a href="javascript:void(0)" title=" “Stoics”,
-    1st c.BC: Philodemus Gadarensis Epigrammaticus “Rh.” 2.296S., compare “IG” 3.1359,
-    3rd c.AD(?): Diogenes Laertius 7.5; οἱ Σ. φιλόσοφοι NT.Act.17.18 ">NT+1st c.BC+</a>].
-    (<b>Στοϊκός</b> in [<a href="javascript:void(0)" title="“Anthologia Graeca” 9.496
-    (from Athenaeus).) ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'Στωικός (Rec. -ϊκός, T, Στοϊκός), -ή, -όν,
+
+  Stoic: Act.17:18.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'στωϊκ-ός, ή, όν,
+
+  (στοά) of a colonnade or porch: hence, [Refs 1st c.BC+]; ἡ Σ. [Refs 1st c.BC+];
+  οἱ Σ. the [NT+1st c.BC+]. (Στοϊκός in [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G301
-    proximity: 0.7953
+    proximity: 0.7953 {macula-proximity}
   - strongs: G881
-    proximity: 0.7941
+    proximity: 0.7941 {macula-proximity}
   - strongs: G711
-    proximity: 0.7847
+    proximity: 0.7847 {macula-proximity}
   cross_language:
   - strongs: H151
-    proximity: 0.8146
+    proximity: 0.8146 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

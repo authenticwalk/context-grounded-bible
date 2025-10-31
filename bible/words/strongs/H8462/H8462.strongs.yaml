@@ -6,46 +6,55 @@ pronunciation: tekh-il-law'
 definition: a commencement; rel. original (adverb, -ly)
 kjv_usage: begin(-ning), first (time).
 derivation: from H2490 (חָלַל) in the sense of opening;
-extended_definition:
-  gloss: beginning
-  definition: 1) beginning, first<br>1a) the first time<br>1b) from the beginning,
-    in the beginning (with prep)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) beginning, first
+
+  1a) the first time
+
+  1b) from the beginning, in the beginning (with prep) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7224
-    proximity: 0.8233
+    lemma: רִאשֹׁנִי
+    gloss: first {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H5048
-    proximity: 0.82
+    lemma: נֶגֶד
+    gloss: a front {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
   - strongs: A6925
-    proximity: 0.8183
+    proximity: 0.8183 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.8128
+    proximity: 0.8128 {macula-proximity}
   - strongs: H6256
-    proximity: 0.8028
+    lemma: עֵת
+    gloss: time {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
   - strongs: H871a
-    proximity: 0.794
+    proximity: 0.794 {macula-proximity}
   - strongs: H865
-    proximity: 0.794
+    proximity: 0.794 {macula-proximity}
   cross_language:
   - strongs: G1715
-    proximity: 0.814
+    lemma: ἔμπροσθεν
+    gloss: in front of  or time) {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
     language: greek
   - strongs: G536
-    proximity: 0.8123
+    proximity: 0.8123 {macula-proximity}
     language: greek
   - strongs: G2020
-    proximity: 0.8074
+    lemma: ἐπιφώσκω
+    gloss: to begin to grow light {openscriptures-strongs}
+    proximity: 0.8074 {macula-proximity}
     language: greek
   - strongs: G4279
-    proximity: 0.8068
+    lemma: προεπαγγέλλομαι
+    gloss: to promise of old {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
     language: greek
   - strongs: G4254
-    proximity: 0.8024
+    lemma: προάγω
+    gloss: to lead forward {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

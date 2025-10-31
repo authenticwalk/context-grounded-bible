@@ -5,28 +5,26 @@ transliteration: Iordánēs
 definition: the Jordanes (i.e. Jarden), a river of Palestine
 kjv_usage: Jordan
 derivation: of Hebrew origin (H03383);
-extended_definition:
-  gloss: Jordan
-  definition: '<b>Ἰορδάνης</b>, -ου, ὁ (Heb. יַרְדֵּן), <BR /> <b>the Jordan</b>:
-    <ref=''Mat.3.5''>Mat.3:5</ref>, <ref=''Mrk.1.5''>Mrk.1:5</ref>, al <BR /> (AS)'
-  morphology: N:N-M-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἰορδάνης</b>, -ου, ὁ (Heb. יַרְדֵּן), <BR /> <b>the Jordan</b>:
-    <ref=''Mat.3.5''>Mat.3:5</ref>, <ref=''Mrk.1.5''>Mrk.1:5</ref>, al <BR />  (From
-    Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἰορδάνης, -ου, ὁ (Heb. יַרְדֵּן),
+
+  the Jordan: Mat.3:5, Mrk.1:5, al
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἰορδάνης, -ου, ὁ (Heb. יַרְדֵּן),
+
+  the Jordan: Mat.3:5, Mrk.1:5, al
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4567
-    proximity: 0.8284
+    lemma: Σατανᾶς
+    gloss: the accuser {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   cross_language:
   - strongs: H3147
-    proximity: 0.7529
+    lemma: יוֹתָם
+    gloss: Jotham {openscriptures-strongs}
+    proximity: 0.7529 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

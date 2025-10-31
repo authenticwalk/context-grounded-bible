@@ -6,35 +6,39 @@ pronunciation: ay-faw'
 definition: obscurity (as if from covering)
 kjv_usage: darkness.
 derivation: feminine from H5774 (עוּף);
-extended_definition:
-  gloss: darkness
-  definition: darkness
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: darkness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7838
-    proximity: 0.8139
+    lemma: שָׁחֹר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H2345
-    proximity: 0.796
+    lemma: חוּם
+    gloss: sunburnt or swarthy {openscriptures-strongs}
+    proximity: 0.796 {macula-proximity}
   - strongs: H6937
-    proximity: 0.7897
+    lemma: קָדַר
+    gloss: to be ashy {openscriptures-strongs}
+    proximity: 0.7897 {macula-proximity}
   - strongs: H3915
-    proximity: 0.755
+    lemma: לַיִל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.755 {macula-proximity}
   - strongs: H3915a
-    proximity: 0.7352
+    proximity: 0.7352 {macula-proximity}
   cross_language:
   - strongs: G4654
-    proximity: 0.8118
+    lemma: σκοτίζω
+    gloss: to obscure {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
     language: greek
   - strongs: G3571
-    proximity: 0.8009
+    lemma: νύξ
+    gloss: '"night" {openscriptures-strongs}'
+    proximity: 0.8009 {macula-proximity}
     language: greek
   - strongs: G850
-    proximity: 0.7921
+    proximity: 0.7921 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

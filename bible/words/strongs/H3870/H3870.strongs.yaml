@@ -6,36 +6,41 @@ pronunciation: looz
 definition: Luz, the name of two places in Palestine
 kjv_usage: Luz.
 derivation: probably from H3869 (לוּז) (as growing there);
-extended_definition:
-  gloss: Luz
-  definition: Luz = "almond tree"<br>  the early name of Bethel and probably the name
-    of the town in close proximity to the actual location of the altar and pillar
-    of Jacob<BR>Another name of <i>bet-el</i> (בֵּֽיתְ־אֵל "Bethel" H1008G)
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: 'Luz = "almond tree"
+
+  the early name of Bethel and probably the name of the town in close proximity to
+  the actual location of the altar and pillar of Jacob
+
+  Another name of bet-el (בֵּֽיתְ־אֵל "Bethel" H1008G) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H938
-    proximity: 0.8284
+    proximity: 0.8284 {macula-proximity}
   - strongs: H1162a
-    proximity: 0.8261
+    proximity: 0.8261 {macula-proximity}
   - strongs: H3695
-    proximity: 0.7989
+    lemma: כַּסְלֻחִים
+    gloss: Casluchim {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
   cross_language:
   - strongs: G2953
-    proximity: 0.7993
+    lemma: Κύπριος
+    gloss: a Cyprian {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
     language: greek
   - strongs: G2954
-    proximity: 0.7986
+    lemma: Κύπρος
+    gloss: Cyprus {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
     language: greek
   - strongs: G5436
-    proximity: 0.7804
+    lemma: Φύγελλος
+    gloss: fugitive {openscriptures-strongs}
+    proximity: 0.7804 {macula-proximity}
     language: greek
   - strongs: G3066
-    proximity: 0.7709
+    lemma: Λούκιος
+    gloss: illuminative {openscriptures-strongs}
+    proximity: 0.7709 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

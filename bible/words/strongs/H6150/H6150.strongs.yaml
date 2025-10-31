@@ -7,33 +7,36 @@ definition: to grow dusky at sundown
 kjv_usage: be darkened, (toward) evening.
 derivation: a primitive root (rather identical with H6148 (עָרַב) through the idea
   of covering with a texture);
-extended_definition:
-  gloss: to grow dark
-  definition: 1) to become evening, grow dark<br>1a) (Qal) to become evening, grow
-    dark<br>1b) (Hiphil) to spend the evening, do at evening
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to become evening, grow dark
+
+  1a) (Qal) to become evening, grow dark
+
+  1b) (Hiphil) to spend the evening, do at evening {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A4606
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
   - strongs: A8122
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
   - strongs: H6937
-    proximity: 0.8232
+    lemma: קָדַר
+    gloss: to be ashy {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: A1888a
-    proximity: 0.816
+    proximity: 0.816 {macula-proximity}
   - strongs: H2821
-    proximity: 0.7727
+    lemma: חָשַׁךְ
+    gloss: to be dark {openscriptures-strongs}
+    proximity: 0.7727 {macula-proximity}
   cross_language:
   - strongs: G3676
-    proximity: 0.8224
+    lemma: ὅμως
+    gloss: at the same time {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
     language: greek
   - strongs: G4656
-    proximity: 0.7263
+    lemma: σκοτόω
+    gloss: to obscure or blind {openscriptures-strongs}
+    proximity: 0.7263 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

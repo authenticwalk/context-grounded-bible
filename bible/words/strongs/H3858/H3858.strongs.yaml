@@ -6,31 +6,33 @@ pronunciation: lah'-hat
 definition: a blaze; also (from the idea of enwrapping) magic (as covert)
 kjv_usage: flaming, enchantment.
 derivation: from H3857 (לָהַט);
-extended_definition:
-  gloss: flame
-  definition: flame (of an angelic sword)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: flame (of an angelic sword) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A1b
-    proximity: 0.8099
+    proximity: 0.8099 {macula-proximity}
   - strongs: H2740
-    proximity: 0.8009
+    lemma: חָרוֹן
+    gloss: a burning of anger {openscriptures-strongs}
+    proximity: 0.8009 {macula-proximity}
   - strongs: A1768
-    proximity: 0.7995
+    proximity: 0.7995 {macula-proximity}
   - strongs: H5774
-    proximity: 0.7975
+    lemma: עוּף
+    gloss: to fly {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
   - strongs: H4168
-    proximity: 0.7577
+    lemma: מוֹקֵד
+    gloss: a fire or fuel {openscriptures-strongs}
+    proximity: 0.7577 {macula-proximity}
   - strongs: H8314
-    proximity: 0.7159
+    lemma: שָׂרָף
+    gloss: burning {openscriptures-strongs}
+    proximity: 0.7159 {macula-proximity}
   cross_language:
   - strongs: G4448
-    proximity: 0.794
+    lemma: πυρόω
+    gloss: to kindle {openscriptures-strongs}
+    proximity: 0.794 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

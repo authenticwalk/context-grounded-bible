@@ -6,39 +6,43 @@ pronunciation: bem-o'
 definition: in, with, by, etc.
 kjv_usage: for, in into, through.
 derivation: prolongation for prepositional prefix;
-extended_definition:
-  gloss: in/at/by
-  definition: in, at, by
-  morphology: H:Prep
-  source: STEPBible/BDB
+extended_definition: in, at, by {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8478
-    proximity: 0.8271
+    lemma: תַּחַת
+    gloss: the bottom {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: A6925
-    proximity: 0.8267
+    proximity: 0.8267 {macula-proximity}
   - strongs: H1157
-    proximity: 0.825
+    lemma: בְּעַד
+    gloss: in up to or over against {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: H3509a
-    proximity: 0.8229
+    proximity: 0.8229 {macula-proximity}
   cross_language:
   - strongs: G3320
-    proximity: 0.8296
+    lemma: μεσότοιχον
+    gloss: a partition {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G303
-    proximity: 0.8257
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G3322
-    proximity: 0.8247
+    lemma: μεσόω
+    gloss: to form the middle {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: greek
   - strongs: G4045
-    proximity: 0.8171
+    lemma: περιπίπτω
+    gloss: to fall into something that is all around {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
     language: greek
   - strongs: G5259
-    proximity: 0.8168
+    lemma: ὑπό
+    gloss: under {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

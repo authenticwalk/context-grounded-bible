@@ -5,44 +5,48 @@ transliteration: orthopodéō
 definition: to be straight-footed, i.e. (figuratively) to go directly forward
 kjv_usage: walk uprightly
 derivation: from a compound of G3717 (ὀρθός) and G4228 (πούς);
-extended_definition:
-  gloss: be upright
-  definition: '<b>ὀρθοποδέω</b>, -ῶ<BR /> (ὀρθό-πους, going straight), <BR />= cl.
-    εὐθυπορέω, <b>to walk straight</b>: metaphorically, <ref=''Gal.2.14''>Gal.2:14</ref>
-    (not elsewhere).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> ὀρθο-ποδέω</b>, <br /> <b>walk straight</b> or <b>uprightly,</b>
-    [<a href="javascript:void(0)" title="NT.Gal.2.14. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'ὀρθοποδέω, -ῶ
+
+  (ὀρθό-πους, going straight),
+
+  = cl. εὐθυπορέω, to walk straight: metaphorically, Gal.2:14 (not elsewhere).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὀρθο-ποδέω,
+
+  walk straight or uprightly, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G92
-    proximity: 0.8276
+    proximity: 0.8276 {macula-proximity}
   - strongs: G391
-    proximity: 0.7964
+    proximity: 0.7964 {macula-proximity}
   - strongs: A1946
-    proximity: 0.7878
+    proximity: 0.7878 {macula-proximity}
   - strongs: G4234
-    proximity: 0.7787
+    lemma: πρᾶξις
+    gloss: practice {openscriptures-strongs}
+    proximity: 0.7787 {macula-proximity}
   - strongs: G2041
-    proximity: 0.7643
+    lemma: ἔργον
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.7643 {macula-proximity}
   - strongs: G72
-    proximity: 0.7569
+    proximity: 0.7569 {macula-proximity}
   cross_language:
   - strongs: H5949
-    proximity: 0.8173
+    lemma: עֲלִילָה
+    gloss: an exploit {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
     language: hebrew
   - strongs: H5652
-    proximity: 0.8078
+    lemma: עֲבָד
+    gloss: a deed {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
     language: hebrew
   - strongs: H4611
-    proximity: 0.7139
+    lemma: מַעֲלָל
+    gloss: an act {openscriptures-strongs}
+    proximity: 0.7139 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

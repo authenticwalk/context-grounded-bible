@@ -6,28 +6,26 @@ pronunciation: beh'-ker
 definition: a young camel
 kjv_usage: dromedary.
 derivation: from H1069 (בָּכַר) (in the sense of youth);
-extended_definition:
-  gloss: young camel
-  definition: young camel, dromedary
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: young camel, dromedary {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6810
-    proximity: 0.8165
+    lemma: צָעִיר
+    gloss: little {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: H6082
-    proximity: 0.8063
+    lemma: עֹפֶר
+    gloss: a fawn {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
   - strongs: H667
-    proximity: 0.7878
+    proximity: 0.7878 {macula-proximity}
   cross_language:
   - strongs: G3502a
-    proximity: 0.8061
+    proximity: 0.8061 {macula-proximity}
     language: greek
   - strongs: G3556
-    proximity: 0.7908
+    lemma: νοσσίον
+    gloss: a birdling {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

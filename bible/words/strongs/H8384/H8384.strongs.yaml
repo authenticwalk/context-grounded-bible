@@ -6,32 +6,36 @@ pronunciation: teh-ane'
 definition: the fig (tree or fruit)
 kjv_usage: fig (tree).
 derivation: or (in the singular, feminine) תְּאֵנָה; perhaps of foreign derivation
-extended_definition:
-  gloss: fig
-  definition: fig, fig tree
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: fig, fig tree {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6086
-    proximity: 0.8291
+    lemma: עֵץ
+    gloss: a tree {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: A363
-    proximity: 0.7862
+    proximity: 0.7862 {macula-proximity}
   - strongs: H6291
-    proximity: 0.7819
+    lemma: פַּג
+    gloss: crude {openscriptures-strongs}
+    proximity: 0.7819 {macula-proximity}
   - strongs: H6097
-    proximity: 0.78
+    lemma: עֵצָה
+    gloss: timber {openscriptures-strongs}
+    proximity: 0.78 {macula-proximity}
   - strongs: H8598
-    proximity: 0.7675
+    lemma: תַּפּוּחַ
+    gloss: an apple {openscriptures-strongs}
+    proximity: 0.7675 {macula-proximity}
   cross_language:
   - strongs: G3653
-    proximity: 0.7935
+    lemma: ὄλυνθος
+    gloss: an unripe  fig {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
     language: greek
   - strongs: G1186
-    proximity: 0.7619
+    lemma: δένδρον
+    gloss: a tree {openscriptures-strongs}
+    proximity: 0.7619 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

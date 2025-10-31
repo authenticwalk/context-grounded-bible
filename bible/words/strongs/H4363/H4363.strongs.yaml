@@ -7,36 +7,48 @@ definition: Mikmas or Mikmash, a place in Palestine
 kjv_usage: Mikmas, Mikmash.
 derivation: (Ezra 2:2 or מִכְמָשׁ; or מִכְמַשׁ; (Nehemiah 11:31), from H3647 (כָּמַס);
   hidden;
-extended_definition:
-  gloss: Michmash
-  definition: <BR> § Michmas or Michmash = "hidden"<br> a city in Benjamin lying near
-    Ramah and approximately 10 miles (16 km) north of Jerusalem; probably modern 'Mukhmas'<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Michmas or Michmash = "hidden"
+
+  a city in Benjamin lying near Ramah and approximately 10 miles (16 km) north of
+  Jerusalem; probably modern ''Mukhmas'' {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4927
-    proximity: 0.829
+    lemma: מִשְׁמָע
+    gloss: Mishma {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: H4789
-    proximity: 0.8284
+    lemma: מֵרוֹז
+    gloss: Meroz {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H3224
-    proximity: 0.8264
+    lemma: יְמִימָה
+    gloss: Jemimah {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H4709
-    proximity: 0.8176
+    lemma: מִצְפָּה
+    gloss: Mitspah {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   - strongs: H4821
-    proximity: 0.8159
+    lemma: מִרְמָה
+    gloss: Mirmah {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H4586
-    proximity: 0.8112
+    lemma: מְעוּנִי
+    gloss: a Meunite {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
   - strongs: H4382
-    proximity: 0.8073
+    lemma: מְכֵרָתִי
+    gloss: a Mekerathite {openscriptures-strongs}
+    proximity: 0.8073 {macula-proximity}
   - strongs: H4088
-    proximity: 0.7829
+    lemma: מַדְמֵנָה
+    gloss: Madmenah {openscriptures-strongs}
+    proximity: 0.7829 {macula-proximity}
   cross_language:
   - strongs: G3370
-    proximity: 0.8225
+    lemma: Μῆδος
+    gloss: a Median {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

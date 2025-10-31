@@ -6,42 +6,54 @@ pronunciation: gah-ah-yone'
 definition: haughty
 kjv_usage: proud.
 derivation: from H1342 (גָּאָה);
-extended_definition:
-  gloss: proud
-  definition: proud
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: proud {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3887a
-    proximity: 0.8112
+    proximity: 0.8112 {macula-proximity}
   - strongs: H1363
-    proximity: 0.802
+    lemma: גֹּבַהּ
+    gloss: elation {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
   - strongs: H7311
-    proximity: 0.7894
+    lemma: רוּם
+    gloss: to be high actively {openscriptures-strongs}
+    proximity: 0.7894 {macula-proximity}
   - strongs: H7863
-    proximity: 0.7884
+    lemma: שִׂיא
+    gloss: elevation {openscriptures-strongs}
+    proximity: 0.7884 {macula-proximity}
   - strongs: H1348
-    proximity: 0.7842
+    lemma: גֵּאוּת
+    gloss: '{arrogance or majesty {openscriptures-strongs}'
+    proximity: 0.7842 {macula-proximity}
   - strongs: H7600
-    proximity: 0.7739
+    lemma: שַׁאֲנָן
+    gloss: secure {openscriptures-strongs}
+    proximity: 0.7739 {macula-proximity}
   - strongs: H1364
-    proximity: 0.7719
+    lemma: גָּבֹהַּ
+    gloss: elevated {openscriptures-strongs}
+    proximity: 0.7719 {macula-proximity}
   - strongs: H6277
-    proximity: 0.7621
+    lemma: עָתָק
+    gloss: impudent {openscriptures-strongs}
+    proximity: 0.7621 {macula-proximity}
   - strongs: H1984b
-    proximity: 0.7551
+    proximity: 0.7551 {macula-proximity}
   - strongs: H1361
-    proximity: 0.7405
+    lemma: גָּבַהּ
+    gloss: to soar {openscriptures-strongs}
+    proximity: 0.7405 {macula-proximity}
   cross_language:
   - strongs: G5309
-    proximity: 0.7898
+    lemma: ὑψηλοφρονέω
+    gloss: to be lofty in mind {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
     language: greek
   - strongs: G5197
-    proximity: 0.787
+    lemma: ὑβριστής
+    gloss: an insulter {openscriptures-strongs}
+    proximity: 0.787 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

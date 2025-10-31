@@ -10,42 +10,59 @@ derivation: or מִשְׁעֶנֶת; feminine of H4937 (מִשְׁעֵן);
 related_words:
   synonyms:
   - strongs: H4327
-    proximity: 0.8149
+    lemma: מִין
+    gloss: a sort {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
   - strongs: H5564
-    proximity: 0.8101
+    lemma: סָמַךְ
+    gloss: to prop {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
   - strongs: H2177
-    proximity: 0.8058
+    lemma: זַן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: H4007
-    proximity: 0.8003
+    lemma: מַבָּט
+    gloss: something expected {openscriptures-strongs}
+    proximity: 0.8003 {macula-proximity}
   - strongs: A2178
-    proximity: 0.7847
+    proximity: 0.7847 {macula-proximity}
   - strongs: H986
-    proximity: 0.7833
+    proximity: 0.7833 {macula-proximity}
   - strongs: H3689a
-    proximity: 0.7827
+    proximity: 0.7827 {macula-proximity}
   - strongs: A7365
-    proximity: 0.7806
+    proximity: 0.7806 {macula-proximity}
   - strongs: A2818a
-    proximity: 0.762
+    proximity: 0.762 {macula-proximity}
   - strongs: H6878
-    proximity: 0.743
+    lemma: צֹרֶךְ
+    gloss: need {openscriptures-strongs}
+    proximity: 0.743 {macula-proximity}
   cross_language:
   - strongs: G4943
-    proximity: 0.8292
+    lemma: συνυπουργέω
+    gloss: to be a co-auxiliary {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
     language: greek
   - strongs: G5541
-    proximity: 0.8259
+    lemma: χρηστεύομαι
+    gloss: to show oneself useful {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G2006
-    proximity: 0.8191
+    lemma: ἐπιτήδειος
+    gloss: serviceable {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
     language: greek
   - strongs: G1879
-    proximity: 0.8179
+    lemma: ἐπαναπαύομαι
+    gloss: to settle on {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
     language: greek
   - strongs: G2024
-    proximity: 0.7707
+    lemma: ἐπιχορηγία
+    gloss: contribution {openscriptures-strongs}
+    proximity: 0.7707 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

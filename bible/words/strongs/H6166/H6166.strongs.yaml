@@ -9,30 +9,35 @@ derivation: from an unused root meaning to sequester itself; fugitive;
 related_words:
   synonyms:
   - strongs: H842
-    proximity: 0.829
+    proximity: 0.829 {macula-proximity}
   - strongs: H1173
-    proximity: 0.8287
+    lemma: בַּעֲלָה
+    gloss: Baalah {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H609
-    proximity: 0.8286
+    proximity: 0.8286 {macula-proximity}
   - strongs: H5292a
-    proximity: 0.8242
+    proximity: 0.8242 {macula-proximity}
   - strongs: H6163a
-    proximity: 0.8235
+    proximity: 0.8235 {macula-proximity}
   - strongs: H5762
-    proximity: 0.8235
+    lemma: עֲוִית
+    gloss: Avvith {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: H284
-    proximity: 0.8227
+    proximity: 0.8227 {macula-proximity}
   - strongs: H282
-    proximity: 0.8227
+    proximity: 0.8227 {macula-proximity}
   - strongs: H1026
-    proximity: 0.8226
+    lemma: בֵּית הָעֲרָבָה
+    gloss: Beth-ha-Arabah {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: H719
-    proximity: 0.8221
+    proximity: 0.8221 {macula-proximity}
   cross_language:
   - strongs: G2996
-    proximity: 0.824
+    lemma: Λασαία
+    gloss: Lasæa {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

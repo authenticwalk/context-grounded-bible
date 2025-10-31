@@ -6,43 +6,45 @@ pronunciation: tsed-ee-yaw'
 definition: design
 kjv_usage: lying in wait.
 derivation: from H6658 (צָדָה); (compare H6656 (צְדָא))
-extended_definition:
-  gloss: ambush
-  definition: lying in wait, ambushing
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: lying in wait, ambushing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A6656
-    proximity: 0.8201
+    proximity: 0.8201 {macula-proximity}
   - strongs: H7789
-    proximity: 0.8045
+    lemma: שׁוּר
+    gloss: to spy out {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
   - strongs: H7760b
-    proximity: 0.7998
+    proximity: 0.7998 {macula-proximity}
   - strongs: H2247
-    proximity: 0.7902
+    lemma: חָבָה
+    gloss: to secrete {openscriptures-strongs}
+    proximity: 0.7902 {macula-proximity}
   - strongs: H871a
-    proximity: 0.7771
+    proximity: 0.7771 {macula-proximity}
   - strongs: H696
-    proximity: 0.7676
+    proximity: 0.7676 {macula-proximity}
   cross_language:
   - strongs: G1551
-    proximity: 0.8235
+    lemma: ἐκδέχομαι
+    gloss: to accept from some source {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: greek
   - strongs: G362
-    proximity: 0.8224
+    proximity: 0.8224 {macula-proximity}
     language: greek
   - strongs: G5574
-    proximity: 0.8199
+    lemma: ψεύδομαι
+    gloss: to utter an untruth or attempt to deceive by falsehood {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
     language: greek
   - strongs: G1722
-    proximity: 0.8119
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.8119 {macula-proximity}
     language: greek
   - strongs: G553
-    proximity: 0.8071
+    proximity: 0.8071 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

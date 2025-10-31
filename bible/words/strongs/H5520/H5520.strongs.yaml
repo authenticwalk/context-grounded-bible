@@ -6,45 +6,61 @@ pronunciation: soke
 definition: a hut (as of entwined boughs); also a lair
 kjv_usage: covert, den, pavilion, tabernacle.
 derivation: from H5526 (סָכַךְ);
-extended_definition:
-  gloss: lair
-  definition: thicket, lair, covert, booth
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: thicket, lair, covert, booth {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4033
-    proximity: 0.8251
+    lemma: מָגוּר
+    gloss: a temporary abode {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H3975
-    proximity: 0.8238
+    lemma: מְאוּרָה
+    gloss: something lighted {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H4631
-    proximity: 0.822
+    lemma: מְעָרָה
+    gloss: a cavern {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
   - strongs: H4999
-    proximity: 0.8196
+    lemma: נָאָה
+    gloss: a home {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: H3407
-    proximity: 0.8174
+    lemma: יְרִיעָה
+    gloss: a hanging {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
   - strongs: H2352
-    proximity: 0.8157
+    lemma: חוּר
+    gloss: the crevice of a serpent {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: H2356
-    proximity: 0.8041
+    lemma: חוֹר
+    gloss: a cavity {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
   - strongs: H3427
-    proximity: 0.8007
+    lemma: יָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: H2681
-    proximity: 0.7936
+    lemma: חָצִיר
+    gloss: a court or abode {openscriptures-strongs}
+    proximity: 0.7936 {macula-proximity}
   - strongs: A1358
-    proximity: 0.7853
+    proximity: 0.7853 {macula-proximity}
   cross_language:
   - strongs: G3578
-    proximity: 0.8078
+    lemma: ξενία
+    gloss: hospitality {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
     language: greek
   - strongs: G4634
-    proximity: 0.7911
+    lemma: σκηνοπηγία
+    gloss: the Festival of Tabernacles {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
     language: greek
   - strongs: G2731
-    proximity: 0.78
+    lemma: κατοίκησις
+    gloss: residence (properly {openscriptures-strongs}
+    proximity: 0.78 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,36 +6,40 @@ pronunciation: tar-day-maw'
 definition: a lethargy or (by implication) trance
 kjv_usage: deep sleep.
 derivation: from H7290 (רָדַם);
-extended_definition:
-  gloss: deep sleep
-  definition: deep sleep, trance
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: deep sleep, trance {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6013
-    proximity: 0.789
+    lemma: עָמֹק
+    gloss: deep {openscriptures-strongs}
+    proximity: 0.789 {macula-proximity}
   - strongs: H5123
-    proximity: 0.7851
+    lemma: נוּם
+    gloss: to slumber {openscriptures-strongs}
+    proximity: 0.7851 {macula-proximity}
   - strongs: A8139
-    proximity: 0.7099
+    proximity: 0.7099 {macula-proximity}
   - strongs: H8142a
-    proximity: 0.7011
+    proximity: 0.7011 {macula-proximity}
   cross_language:
   - strongs: G2837
-    proximity: 0.8038
+    lemma: κοιμάω
+    gloss: to put to sleep {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
     language: greek
   - strongs: G3573
-    proximity: 0.8023
+    lemma: νυστάζω
+    gloss: to nod {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
     language: greek
   - strongs: G2838
-    proximity: 0.7693
+    lemma: κοίμησις
+    gloss: sleeping {openscriptures-strongs}
+    proximity: 0.7693 {macula-proximity}
     language: greek
   - strongs: G2659
-    proximity: 0.7374
+    lemma: κατάνυξις
+    gloss: a prickling (sensation {openscriptures-strongs}
+    proximity: 0.7374 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

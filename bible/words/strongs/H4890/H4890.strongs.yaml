@@ -6,42 +6,50 @@ pronunciation: mis-khawk'
 definition: a laughing-stock
 kjv_usage: scorn.
 derivation: from H7831 (שַׁחֲצוֹם);
-extended_definition:
-  gloss: laughing
-  definition: object of derision
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: object of derision {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3934
-    proximity: 0.8265
+    lemma: לָעֵג
+    gloss: a buffoon {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H1696a
-    proximity: 0.8178
+    proximity: 0.8178 {macula-proximity}
   - strongs: H6711
-    proximity: 0.8083
+    lemma: צָחַק
+    gloss: to laugh outright {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
   - strongs: H1421
-    proximity: 0.8031
+    lemma: גִּדּוּף
+    gloss: vilification {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
   - strongs: H7590a
-    proximity: 0.8
+    proximity: 0.8 {macula-proximity}
   - strongs: H4485
-    proximity: 0.7898
+    lemma: מַנְגִּינָה
+    gloss: a satire {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
   - strongs: H3887c
-    proximity: 0.7895
+    proximity: 0.7895 {macula-proximity}
   - strongs: H3887a
-    proximity: 0.7823
+    proximity: 0.7823 {macula-proximity}
   - strongs: H8319
-    proximity: 0.7777
+    lemma: שָׁרַק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7777 {macula-proximity}
   - strongs: H2048
-    proximity: 0.7659
+    lemma: הָתַל
+    gloss: to deride {openscriptures-strongs}
+    proximity: 0.7659 {macula-proximity}
   cross_language:
   - strongs: G1703
-    proximity: 0.8042
+    lemma: ἐμπαίκτης
+    gloss: a derider {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
     language: greek
   - strongs: G1702
-    proximity: 0.781
+    lemma: ἐμπαίζω
+    gloss: to jeer at {openscriptures-strongs}
+    proximity: 0.781 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

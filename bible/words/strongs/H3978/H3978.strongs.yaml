@@ -6,49 +6,65 @@ pronunciation: mah-ak-awl'
 definition: an eatable (includ. provender, flesh and fruit)
 kjv_usage: food, fruit, (bake-)meat(-s), victual.
 derivation: from H398 (אָכַל);
-extended_definition:
-  gloss: food
-  definition: food, fruit, meat
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: food, fruit, meat {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8393
-    proximity: 0.8256
+    lemma: תְּבוּאָה
+    gloss: income {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: H7666
-    proximity: 0.8219
+    lemma: שָׁבַר
+    gloss: to deal in grain {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: H4574
-    proximity: 0.8127
+    lemma: מַעֲדָן
+    gloss: a delicacy or  pleasure (adverbially {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
   - strongs: H3894
-    proximity: 0.8036
+    lemma: לָחוּם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8036 {macula-proximity}
   - strongs: H5108
-    proximity: 0.803
+    lemma: נוֹב
+    gloss: produce {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
   - strongs: H4516
-    proximity: 0.8013
+    lemma: מַנְעַם
+    gloss: a delicacy {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
   - strongs: H4022
-    proximity: 0.7992
+    lemma: מֶגֶד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7992 {macula-proximity}
   - strongs: H1250
-    proximity: 0.7943
+    lemma: בָּר
+    gloss: grain of any kind {openscriptures-strongs}
+    proximity: 0.7943 {macula-proximity}
   - strongs: H1715
-    proximity: 0.7921
+    lemma: דָּגָן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
   cross_language:
   - strongs: G4621
-    proximity: 0.8213
+    lemma: σῖτος
+    gloss: grain {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
     language: greek
   - strongs: G5315
-    proximity: 0.8208
+    lemma: φάγω
+    gloss: to eat {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G777
-    proximity: 0.8179
+    proximity: 0.8179 {macula-proximity}
     language: greek
   - strongs: G1009
-    proximity: 0.7967
+    lemma: βότρυς
+    gloss: a bunch {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
     language: greek
   - strongs: G1081a
-    proximity: 0.7927
+    proximity: 0.7927 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

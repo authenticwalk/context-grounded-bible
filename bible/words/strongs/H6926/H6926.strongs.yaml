@@ -7,37 +7,46 @@ definition: the forward part (or relatively) East (often adverbially, on the eas
   or in front)
 kjv_usage: east(-ward).
 derivation: feminine of H6924 (קֶדֶם);
-extended_definition:
-  gloss: east
-  definition: 1) forward, front, east, antiquity, East<br>1a) in front of, over against,
-    front<br>1b) on the east of, east
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) forward, front, east, antiquity, East
+
+  1a) in front of, over against, front
+
+  1b) on the east of, east {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5921
-    proximity: 0.8224
+    lemma: עַל
+    gloss: above {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
   - strongs: H6440
-    proximity: 0.8219
+    lemma: פָּנִים
+    gloss: the face {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: H1886c
-    proximity: 0.7774
+    proximity: 0.7774 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7753
+    proximity: 0.7753 {macula-proximity}
   - strongs: H4480
-    proximity: 0.773
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.773 {macula-proximity}
   - strongs: H4161
-    proximity: 0.7712
+    lemma: מוֹצָא
+    gloss: a going forth {openscriptures-strongs}
+    proximity: 0.7712 {macula-proximity}
   - strongs: H8121
-    proximity: 0.7567
+    lemma: שֶׁמֶשׁ
+    gloss: the sun {openscriptures-strongs}
+    proximity: 0.7567 {macula-proximity}
   cross_language:
   - strongs: G1424
-    proximity: 0.8245
+    lemma: δυσμή
+    gloss: the sun-set {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
     language: greek
   - strongs: G2246
-    proximity: 0.7344
+    lemma: ἥλιος
+    gloss: perhaps akin to the alternate of G138 ) {openscriptures-strongs}
+    proximity: 0.7344 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

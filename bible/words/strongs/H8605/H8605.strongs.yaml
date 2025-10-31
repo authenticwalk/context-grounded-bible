@@ -6,49 +6,74 @@ pronunciation: tef-il-law'
 definition: intercession, supplication; by implication, a hymn
 kjv_usage: prayer.
 derivation: from H6419 (פָּלַל);
-extended_definition:
-  gloss: prayer
-  definition: 1) prayer<br>1a) prayer<br>1b) pray a prayer<br>1c) house of prayer<br>1d)
-    hear prayer<br>1e) in Ps titles (of poetic or liturgical prayer)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) prayer
+
+  1a) prayer
+
+  1b) pray a prayer
+
+  1c) house of prayer
+
+  1d) hear prayer
+
+  1e) in Ps titles (of poetic or liturgical prayer) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1697
-    proximity: 0.8287
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H7440
-    proximity: 0.8255
+    lemma: רִנָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: H1696
-    proximity: 0.8224
+    lemma: דָבַר
+    gloss: perhaps properly {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
   - strongs: H7596
-    proximity: 0.8195
+    lemma: שְׁאֵלָה
+    gloss: a petition {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H7768
-    proximity: 0.8049
+    lemma: שָׁוַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H6963
-    proximity: 0.8009
+    lemma: קוֹל
+    gloss: a voice or sound {openscriptures-strongs}
+    proximity: 0.8009 {macula-proximity}
   - strongs: H5375
-    proximity: 0.7993
+    lemma: נָשָׂא
+    gloss: to lift {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
   - strongs: H559
-    proximity: 0.7986
+    proximity: 0.7986 {macula-proximity}
   - strongs: H7592
-    proximity: 0.7892
+    lemma: שָׁאַל
+    gloss: to inquire {openscriptures-strongs}
+    proximity: 0.7892 {macula-proximity}
   - strongs: H1245
-    proximity: 0.7744
+    lemma: בָּקַשׁ
+    gloss: to search out (by any method {openscriptures-strongs}
+    proximity: 0.7744 {macula-proximity}
   cross_language:
   - strongs: G1941
-    proximity: 0.8152
+    lemma: ἐπικαλέομαι
+    gloss: to entitle {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
     language: greek
   - strongs: G1793
-    proximity: 0.7994
+    lemma: ἐντυγχάνω
+    gloss: to chance upon {openscriptures-strongs}
+    proximity: 0.7994 {macula-proximity}
     language: greek
   - strongs: G154
-    proximity: 0.7309
+    proximity: 0.7309 {macula-proximity}
     language: greek
   - strongs: G5241
-    proximity: 0.7148
+    lemma: ὑπερεντυγχάνω
+    gloss: to intercede in behalf of {openscriptures-strongs}
+    proximity: 0.7148 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

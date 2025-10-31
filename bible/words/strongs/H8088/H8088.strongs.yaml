@@ -9,26 +9,35 @@ derivation: from H8085 (שָׁמַע);
 related_words:
   synonyms:
   - strongs: H565
-    proximity: 0.8237
+    proximity: 0.8237 {macula-proximity}
   - strongs: H4405
-    proximity: 0.8124
+    lemma: מִלָּה
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: H8034
-    proximity: 0.8032
+    lemma: שֵׁם
+    gloss: an appellation {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
   - strongs: H1699a
-    proximity: 0.7959
+    proximity: 0.7959 {macula-proximity}
   - strongs: H561
-    proximity: 0.7939
+    proximity: 0.7939 {macula-proximity}
   - strongs: H1681
-    proximity: 0.7796
+    lemma: דִּבָּה
+    gloss: slander {openscriptures-strongs}
+    proximity: 0.7796 {macula-proximity}
   - strongs: H6963
-    proximity: 0.7619
+    lemma: קוֹל
+    gloss: a voice or sound {openscriptures-strongs}
+    proximity: 0.7619 {macula-proximity}
   - strongs: H1697
-    proximity: 0.7423
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.7423 {macula-proximity}
   cross_language:
   - strongs: G1426
-    proximity: 0.7939
+    lemma: δυσφημία
+    gloss: defamation {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

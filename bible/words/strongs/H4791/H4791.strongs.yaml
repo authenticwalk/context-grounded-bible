@@ -8,50 +8,75 @@ definition: altitude, i.e. concretely (an elevated place), abstractly (elevation
 kjv_usage: (far) above, dignity, haughty, height, (most, on) high (one, place), loftily,
   upward.
 derivation: from H7311 (רוּם);
-extended_definition:
-  gloss: height
-  definition: 1) height<br>1a) height, elevation, elevated place<br>1a1) in a high
-    place (adv)<br>1b) height<br>1c) proudly (adv)<br>1d) of nobles (fig.)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) height
+
+  1a) height, elevation, elevated place
+
+  1a1) in a high place (adv)
+
+  1b) height
+
+  1c) proudly (adv)
+
+  1d) of nobles (fig.) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5299
-    proximity: 0.8282
+    lemma: נָפָה
+    gloss: a height {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H4224a
-    proximity: 0.8248
+    proximity: 0.8248 {macula-proximity}
   - strongs: H3093
-    proximity: 0.8246
+    lemma: יָהִיר
+    gloss: elated {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: H136
-    proximity: 0.8228
+    proximity: 0.8228 {macula-proximity}
   - strongs: H7549
-    proximity: 0.8186
+    lemma: רָקִיעַ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: H1466
-    proximity: 0.8095
+    lemma: גֵּוָה
+    gloss: exaltation {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
   - strongs: H7413
-    proximity: 0.8052
+    lemma: רָמָה
+    gloss: a height {openscriptures-strongs}
+    proximity: 0.8052 {macula-proximity}
   - strongs: H5945
-    proximity: 0.8013
+    lemma: עֶלְיוֹן
+    gloss: an elevation {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
   - strongs: H1348
-    proximity: 0.7997
+    lemma: גֵּאוּת
+    gloss: '{arrogance or majesty {openscriptures-strongs}'
+    proximity: 0.7997 {macula-proximity}
   cross_language:
   - strongs: G5309
-    proximity: 0.8235
+    lemma: ὑψηλοφρονέω
+    gloss: to be lofty in mind {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: greek
   - strongs: G4410
-    proximity: 0.8105
+    lemma: πρωτοκαθεδρία
+    gloss: a sitting first {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
     language: greek
   - strongs: G5231
-    proximity: 0.8095
+    lemma: ὑπεράνω
+    gloss: above upward {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
     language: greek
   - strongs: G4411
-    proximity: 0.8089
+    lemma: πρωτοκλισία
+    gloss: a reclining first  at the dinner-bed {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
     language: greek
   - strongs: G3321
-    proximity: 0.808
+    lemma: μεσουράνημα
+    gloss: mid-sky {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

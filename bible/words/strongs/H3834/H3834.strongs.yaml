@@ -7,42 +7,50 @@ definition: a cake (either as fried or turned)
 kjv_usage: cake.
 derivation: or rather לְבִבָה; from H3823 (לָבַב) in its original sense of fatness
   (or perhaps of folding);
-extended_definition:
-  gloss: cake
-  definition: cakes, bread
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: cakes, bread {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3835a
-    proximity: 0.8284
+    proximity: 0.8284 {macula-proximity}
   - strongs: H3899
-    proximity: 0.8197
+    lemma: לֶחֶם
+    gloss: food {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
   - strongs: H3955
-    proximity: 0.8001
+    lemma: לְשַׁד
+    gloss: vigor {openscriptures-strongs}
+    proximity: 0.8001 {macula-proximity}
   - strongs: H1690
-    proximity: 0.7998
+    lemma: דְּבֵלָה
+    gloss: a cake of pressed figs {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
   - strongs: H2281
-    proximity: 0.7989
+    lemma: חָבֵת
+    gloss: something fried {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
   - strongs: H4682
-    proximity: 0.7934
+    lemma: מַצָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7934 {macula-proximity}
   - strongs: H5350
-    proximity: 0.7768
+    lemma: נִקֻּד
+    gloss: a crumb {openscriptures-strongs}
+    proximity: 0.7768 {macula-proximity}
   - strongs: H809
-    proximity: 0.7751
+    proximity: 0.7751 {macula-proximity}
   - strongs: H829
-    proximity: 0.7636
+    proximity: 0.7636 {macula-proximity}
   - strongs: H5692
-    proximity: 0.7556
+    lemma: עֻגָּה
+    gloss: an ash-cake {openscriptures-strongs}
+    proximity: 0.7556 {macula-proximity}
   cross_language:
   - strongs: G5596
-    proximity: 0.8155
+    lemma: ψωμίον
+    gloss: a crumb or morsel {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
     language: greek
   - strongs: G740
-    proximity: 0.7666
+    proximity: 0.7666 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

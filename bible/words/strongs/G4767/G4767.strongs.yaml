@@ -5,46 +5,48 @@ transliteration: stygnētós
 definition: hated, i.e. odious
 kjv_usage: hateful
 derivation: from a derivative of an obsolete apparently primary (to hate);
-extended_definition:
-  gloss: hated
-  definition: '<b>στυγητός</b>, -όν<BR /> (στυγέω, to hate), <BR /><b>hated, hateful</b>:
-    <ref=''Tit.3.3.''>Tit.3:3.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> στῠγ-ητός</b>, όν, <br /> <b>hated, abominated, hateful</b>,
-    Ἥρᾳ σ. [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus
-    “Prometheus Vinctus” 592: _absolutely_, 1st c.AD: Philo Judaeus 2.202, NT.Tit.3.3,
-    “POxy.” 433.28; σ. ἔρως 3rd c.AD: Heliodorus Scriptor Eroticus 5.29. ">NT+4th
-    c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'στυγητός, -όν
+
+  (στυγέω, to hate),
+
+  hated, hateful: Tit.3:3.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'στῠγ-ητός, όν,
+
+  hated, abominated, hateful, Ἥρᾳ σ. [NT+4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A873
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
   - strongs: G948
-    proximity: 0.7809
+    proximity: 0.7809 {macula-proximity}
   - strongs: G946
-    proximity: 0.7116
+    proximity: 0.7116 {macula-proximity}
   cross_language:
   - strongs: H1860
-    proximity: 0.821
+    lemma: דְּרָאוֹן
+    gloss: an object of aversion {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: hebrew
   - strongs: H8374
-    proximity: 0.819
+    lemma: תָּאַב
+    gloss: to loathe {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
     language: hebrew
   - strongs: H7852
-    proximity: 0.7977
+    lemma: שָׂטַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7977 {macula-proximity}
     language: hebrew
   - strongs: H8186
-    proximity: 0.7899
+    lemma: שַׁעֲרוּרָה
+    gloss: something fearful {openscriptures-strongs}
+    proximity: 0.7899 {macula-proximity}
     language: hebrew
   - strongs: H8262
-    proximity: 0.7819
+    lemma: שָׁקַץ
+    gloss: to be filthy {openscriptures-strongs}
+    proximity: 0.7819 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

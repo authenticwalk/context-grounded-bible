@@ -7,43 +7,60 @@ definition: a shoot, i.e. stick (with leaves on, or for walking, striking, guidi
   divining)
 kjv_usage: rod, (hand-)staff.
 derivation: or (feminine) מַקְּלָה; from an unused root meaning apparently to germinate;
-extended_definition:
-  gloss: rod
-  definition: 1) rod, staff<br>1a) rod, stick<br>1b) staff (in travel)<br>1c) wand
-    (of diviner)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) rod, staff
+
+  1a) rod, stick
+
+  1b) staff (in travel)
+
+  1c) wand (of diviner) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2150
-    proximity: 0.8248
+    lemma: זַלְזַל
+    gloss: tremulous {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: H6058
-    proximity: 0.8133
+    lemma: עָנֵף
+    gloss: branching {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   - strongs: H7641
-    proximity: 0.8021
+    lemma: שִׁבֹּל
+    gloss: a stream {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
   - strongs: H8291
-    proximity: 0.7921
+    lemma: שָׂרוּק
+    gloss: a grapevine {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
   - strongs: H6780
-    proximity: 0.7889
+    lemma: צֶמַח
+    gloss: a sprout {openscriptures-strongs}
+    proximity: 0.7889 {macula-proximity}
   - strongs: H8363
-    proximity: 0.7861
+    lemma: שְׁתִל
+    gloss: a sprig {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
   - strongs: H6086
-    proximity: 0.785
+    lemma: עֵץ
+    gloss: a tree {openscriptures-strongs}
+    proximity: 0.785 {macula-proximity}
   - strongs: H7110a
-    proximity: 0.7774
+    proximity: 0.7774 {macula-proximity}
   - strongs: H905a
-    proximity: 0.7752
+    proximity: 0.7752 {macula-proximity}
   - strongs: H7976
-    proximity: 0.7738
+    lemma: שִׁלֻּחָה
+    gloss: a shoot {openscriptures-strongs}
+    proximity: 0.7738 {macula-proximity}
   cross_language:
   - strongs: G5404
-    proximity: 0.8156
+    lemma: φοῖνιξ
+    gloss: a palm-tree {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
     language: greek
   - strongs: G2563
-    proximity: 0.795
+    lemma: κάλαμος
+    gloss: a reed (the plant or its stem {openscriptures-strongs}
+    proximity: 0.795 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

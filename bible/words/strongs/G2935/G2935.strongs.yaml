@@ -5,47 +5,52 @@ transliteration: ktḗtōr
 definition: an owner
 kjv_usage: possessor
 derivation: from G2932 (κτάομαι);
-extended_definition:
-  gloss: owner
-  definition: '<b>κτήτωρ</b>, -ορος, ὁ<BR /> (κτάομαι) [in Sm.: <ref=''Jol.1.11''>Jol.1:11</ref>
-    * ;] <BR /><b>a possessor</b>: <ref=''Act.4.34.''>Act.4:34.</ref>†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κτή-τωρ</b>, ορος, ὁ, <br /> <b>possessor, owner</b>, [<a href="javascript:void(0)"
-    title=" 1st c.BC: Diodorus Siculus Historicus 34 / 5.2.31, “POxy.” 237 viii 31
-    (1st c.AD), 2nd c.AD: Apollonius Dyscolus Grammaticus “de Pronominibus;” 22.6,
-    “Anthologia Graeca” 7.206 (6th c.AD: Damocharis Epigrammaticus), 6th c.AD: Procopius
-    Caesariensis Historicus “Historia Arcana” 26: with _genitive_, οἰκιῶν κ. NT.Act.4.34.
-    ">NT+1st c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κτήτωρ, -ορος, ὁ
+
+  (κτάομαι) [in Sm.: Jol.1:11 * ;]
+
+  a possessor: Act.4:34.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κτή-τωρ, ορος, ὁ,
+
+  possessor, owner, [NT+1st c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2398
-    proximity: 0.8201
+    lemma: ἴδιος
+    gloss: pertaining to self {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: G2192
-    proximity: 0.7349
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.7349 {macula-proximity}
   - strongs: G5224
-    proximity: 0.7269
+    lemma: ὑπάρχοντα
+    gloss: things extant or in hand {openscriptures-strongs}
+    proximity: 0.7269 {macula-proximity}
   cross_language:
   - strongs: H4672
-    proximity: 0.8297
+    lemma: מָצָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: hebrew
   - strongs: H5157
-    proximity: 0.8181
+    lemma: נָחַל
+    gloss: to inherit  mode of descent) {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
     language: hebrew
   - strongs: H6113
-    proximity: 0.817
+    lemma: עָצָר
+    gloss: to inclose {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
     language: hebrew
   - strongs: H4735
-    proximity: 0.8118
+    lemma: מִקְנֶה
+    gloss: something bought {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
     language: hebrew
   - strongs: H272
-    proximity: 0.7914
+    proximity: 0.7914 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

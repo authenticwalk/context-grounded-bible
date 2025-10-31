@@ -7,53 +7,80 @@ definition: to repose (usually figurative)
 kjv_usage: appease, idleness, (at, be at, be in, give) quiet(-ness), (be at, be in,
   give, have, take) rest, settle, be still.
 derivation: a primitive root;
-extended_definition:
-  gloss: to quiet
-  definition: 1) to be quiet, be tranquil, be at peace, be quiet, rest, lie still,
-    be undisturbed<br>1a) (Qal)<br>1a1) to be quiet, be undisturbed<br>1a1a) to be
-    at peace (of land)<br>1a2) to be quiet, be inactive<br>1b) (Hiphil)<br>1b1) to
-    show quietness<br>1b1a) quietness, display of quietness (subst)<br>1b2) to quiet,
-    be quiet<br>1b3) to cause quietness, pacify, allay
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be quiet, be tranquil, be at peace, be quiet, rest, lie
+  still, be undisturbed
+
+  1a) (Qal)
+
+  1a1) to be quiet, be undisturbed
+
+  1a1a) to be at peace (of land)
+
+  1a2) to be quiet, be inactive
+
+  1b) (Hiphil)
+
+  1b1) to show quietness
+
+  1b1a) quietness, display of quietness (subst)
+
+  1b2) to quiet, be quiet
+
+  1b3) to cause quietness, pacify, allay {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2014
-    proximity: 0.8296
+    lemma: הֲפֻגָה
+    gloss: relaxation {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H482
-    proximity: 0.8222
+    proximity: 0.8222 {macula-proximity}
   - strongs: A7963
-    proximity: 0.8128
+    proximity: 0.8128 {macula-proximity}
   - strongs: H7674
-    proximity: 0.8075
+    lemma: שֶׁבֶת
+    gloss: rest {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
   - strongs: H7677
-    proximity: 0.8027
+    lemma: שַׁבָּתוֹן
+    gloss: a sabbatism or special holiday {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
   - strongs: H8002
-    proximity: 0.7914
+    lemma: שֶׁלֶם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7914 {macula-proximity}
   - strongs: H5115
-    proximity: 0.7909
+    lemma: נָוָה
+    gloss: to rest {openscriptures-strongs}
+    proximity: 0.7909 {macula-proximity}
   - strongs: H7962
-    proximity: 0.7902
+    lemma: שַׁלְוָה
+    gloss: security {openscriptures-strongs}
+    proximity: 0.7902 {macula-proximity}
   - strongs: H6314
-    proximity: 0.7861
+    lemma: פּוּגָה
+    gloss: intermission {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
   cross_language:
   - strongs: G2838
-    proximity: 0.8102
+    lemma: κοίμησις
+    gloss: sleeping {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
     language: greek
   - strongs: G373
-    proximity: 0.8086
+    proximity: 0.8086 {macula-proximity}
     language: greek
   - strongs: G2192
-    proximity: 0.7968
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.7968 {macula-proximity}
     language: greek
   - strongs: G2869
-    proximity: 0.7908
+    lemma: κοπάζω
+    gloss: to tire {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
     language: greek
   - strongs: G372
-    proximity: 0.7904
+    proximity: 0.7904 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

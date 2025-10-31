@@ -7,43 +7,60 @@ definition: properly, hidden, i.e. dark; used only of the north as aquarter (glo
   and unknown)
 kjv_usage: north(-ern, side, -ward, wind).
 derivation: or צָפֹן; from H6845 (צָפַן);
-extended_definition:
-  gloss: Zaphon
-  definition: 'This name means  north <BR>Also named: <i>tsa.phon</i> (צָפוֹן "Zaphon"
-    H6829)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: 'This name means  north
+
+  Also named: tsa.phon (צָפוֹן "Zaphon" H6829) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3220
-    proximity: 0.823
+    lemma: יָם
+    gloss: a sea  or large body of water {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: H4628
-    proximity: 0.8207
+    lemma: מַעֲרָב
+    gloss: the west {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H6829
-    proximity: 0.8009
+    lemma: צָפוֹן
+    gloss: Tsaphon {openscriptures-strongs}
+    proximity: 0.8009 {macula-proximity}
   - strongs: H3802
-    proximity: 0.7875
+    lemma: כָּתֵף
+    gloss: the shoulder (proper {openscriptures-strongs}
+    proximity: 0.7875 {macula-proximity}
   - strongs: H6921
-    proximity: 0.7713
+    lemma: קָדִים
+    gloss: the fore or front part {openscriptures-strongs}
+    proximity: 0.7713 {macula-proximity}
   - strongs: H8486
-    proximity: 0.7706
+    lemma: תֵּימָן
+    gloss: the south {openscriptures-strongs}
+    proximity: 0.7706 {macula-proximity}
   - strongs: H6763
-    proximity: 0.7619
+    lemma: צֵלָע
+    gloss: a rib {openscriptures-strongs}
+    proximity: 0.7619 {macula-proximity}
   - strongs: H7307
-    proximity: 0.7588
+    lemma: רוּחַ
+    gloss: wind {openscriptures-strongs}
+    proximity: 0.7588 {macula-proximity}
   - strongs: H4217
-    proximity: 0.7568
+    lemma: מִזְרָח
+    gloss: sunrise {openscriptures-strongs}
+    proximity: 0.7568 {macula-proximity}
   - strongs: H3409
-    proximity: 0.7565
+    lemma: יָרֵךְ
+    gloss: the thigh {openscriptures-strongs}
+    proximity: 0.7565 {macula-proximity}
   cross_language:
   - strongs: G5566
-    proximity: 0.8235
+    lemma: χῶρος
+    gloss: the north-west wind {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: greek
   - strongs: G3558
-    proximity: 0.7922
+    lemma: νότος
+    gloss: the south wind {openscriptures-strongs}
+    proximity: 0.7922 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

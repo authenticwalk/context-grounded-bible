@@ -6,26 +6,24 @@ pronunciation: meg-ay-raw'
 definition: a saw
 kjv_usage: axe, saw.
 derivation: from H1641 (גָּרַר);
-extended_definition:
-  gloss: saw
-  definition: saw (for stone cutting)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: saw (for stone cutting) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4661
-    proximity: 0.7495
+    lemma: מַפֵּץ
+    gloss: a smiter {openscriptures-strongs}
+    proximity: 0.7495 {macula-proximity}
   - strongs: H4037
-    proximity: 0.7302
+    lemma: מַגְזֵרָה
+    gloss: a cutting implement {openscriptures-strongs}
+    proximity: 0.7302 {macula-proximity}
   cross_language:
   - strongs: G990
-    proximity: 0.7932
+    proximity: 0.7932 {macula-proximity}
     language: greek
   - strongs: G4249
-    proximity: 0.7287
+    lemma: πρίζω
+    gloss: to saw in two {openscriptures-strongs}
+    proximity: 0.7287 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

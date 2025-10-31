@@ -6,37 +6,40 @@ pronunciation: khaw-shal'
 definition: to make (intrans. be) unsteady, i.e. weak
 kjv_usage: feeble.
 derivation: a primitive root;
-extended_definition:
-  gloss: be feeble
-  definition: '1) to shatter<br>1a) (Niphal) to be feeble<BR>Aramaic equivalent: <i>cha.shal</i>
-    (חֲשַׁל "to shatter" H2827)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to shatter
+
+  1a) (Niphal) to be feeble
+
+  Aramaic equivalent: cha.shal (חֲשַׁל "to shatter" H2827) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7391
-    proximity: 0.8156
+    lemma: רֹךְ
+    gloss: softness {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
   - strongs: H7332
-    proximity: 0.7979
+    lemma: רָזוֹן
+    gloss: thinness {openscriptures-strongs}
+    proximity: 0.7979 {macula-proximity}
   - strongs: H536
-    proximity: 0.7566
+    proximity: 0.7566 {macula-proximity}
   - strongs: H537
-    proximity: 0.7383
+    proximity: 0.7383 {macula-proximity}
   cross_language:
   - strongs: G3693
-    proximity: 0.7973
+    lemma: ὄπισθεν
+    gloss: from G3700 ) with enclitic of source {openscriptures-strongs}
+    proximity: 0.7973 {macula-proximity}
     language: greek
   - strongs: G1706
-    proximity: 0.7618
+    lemma: ἐμπίπτω
+    gloss: to fall on {openscriptures-strongs}
+    proximity: 0.7618 {macula-proximity}
     language: greek
   - strongs: G770
-    proximity: 0.7336
+    proximity: 0.7336 {macula-proximity}
     language: greek
   - strongs: G771
-    proximity: 0.713
+    proximity: 0.713 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

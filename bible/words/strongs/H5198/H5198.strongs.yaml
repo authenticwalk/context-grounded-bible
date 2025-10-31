@@ -9,14 +9,17 @@ derivation: from H5197 (נָטַף);
 related_words:
   synonyms:
   - strongs: H5321
-    proximity: 0.8271
+    lemma: נַפְתָּלִי
+    gloss: Naphtali {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: H6689
-    proximity: 0.8152
+    lemma: צוּף
+    gloss: Tsuph or Tsophai or Tsiph {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   cross_language:
   - strongs: G3508
-    proximity: 0.7869
+    lemma: Νεφθαλείμ
+    gloss: Nephthaleim {openscriptures-strongs}
+    proximity: 0.7869 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

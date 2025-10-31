@@ -6,50 +6,69 @@ pronunciation: zoo-law'
 definition: probably scattering, i.e. removal; used adverbially, except
 kjv_usage: beside, but, only, save.
 derivation: from H2107 (זוּל);
-extended_definition:
-  gloss: exception
-  definition: 1) a removal, a putting away<br>prep<br>2) except, besides, with the
-    exception of, with removal of<br>conj<br>3) except that
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) a removal, a putting away
+
+  prep
+
+  2) except, besides, with the exception of, with removal of
+
+  conj
+
+  3) except that {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3808
-    proximity: 0.8229
+    lemma: לֹא
+    gloss: not {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: H5978
-    proximity: 0.8101
+    lemma: עִמָּד
+    gloss: along with {openscriptures-strongs}
+    proximity: 0.8101 {macula-proximity}
   - strongs: A1297
-    proximity: 0.8064
+    proximity: 0.8064 {macula-proximity}
   - strongs: H1973
-    proximity: 0.7884
+    lemma: הָלְאָה
+    gloss: to the distance {openscriptures-strongs}
+    proximity: 0.7884 {macula-proximity}
   - strongs: H4480
-    proximity: 0.7881
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7881 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.7784
+    proximity: 0.7784 {macula-proximity}
   - strongs: H2050b
-    proximity: 0.7659
+    proximity: 0.7659 {macula-proximity}
   - strongs: H3588
-    proximity: 0.7526
+    lemma: כִּי
+    gloss: very widely used as a relative conjunction or adverb {openscriptures-strongs}
+    proximity: 0.7526 {macula-proximity}
   - strongs: H3148
-    proximity: 0.7425
+    lemma: יוֹתֵר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7425 {macula-proximity}
   cross_language:
   - strongs: G526
-    proximity: 0.8208
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G1161
-    proximity: 0.8102
+    lemma: δέ
+    gloss: but {openscriptures-strongs}
+    proximity: 0.8102 {macula-proximity}
     language: greek
   - strongs: G3844
-    proximity: 0.7738
+    lemma: παρά
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7738 {macula-proximity}
     language: greek
   - strongs: G1900
-    proximity: 0.7475
+    lemma: ἐπέκεινα
+    gloss: upon those parts of {openscriptures-strongs}
+    proximity: 0.7475 {macula-proximity}
     language: greek
   - strongs: G3440
-    proximity: 0.7465
+    lemma: μόνον
+    gloss: merely {openscriptures-strongs}
+    proximity: 0.7465 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,30 +5,24 @@ transliteration: Ikónion
 definition: image-like; Iconium, a place in Asia Minor
 kjv_usage: Iconium
 derivation: perhaps from G1504 (εἰκών);
-extended_definition:
-  gloss: Iconium
-  definition: '<b>Ἰκόνιον</b>, -ου, τό <BR /> <b>Iconium, a city of the province of
-    Galatia</b>: <ref=''Act.13.51; 14.1, 19; 14.21; 16.2''>Act.13:51 14:1, 19 14:21
-    16:2</ref>, <ref=''2Ti.3.11''>2Ti.3:11</ref>.†<BR /> (AS)'
-  morphology: N:N--L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἰκόνιον</b>, -ου, τό <BR /> <b>Iconium, a city of the province
-    of Galatia</b>: <ref=''Act.13.51; 14.1, 19; 14.21; 16.2''>Act.13:51 14:1, 19 14:21
-    16:2</ref>, <ref=''2Ti.3.11''>2Ti.3:11</ref>.†<BR />  (From Abbott-Smith. LSJ
-    has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἰκόνιον, -ου, τό
+
+  Iconium, a city of the province of Galatia: Act.13:51 14:1, 19 14:21 16:2, 2Ti.3:11.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἰκόνιον, -ου, τό
+
+  Iconium, a city of the province of Galatia: Act.13:51 14:1, 19 14:21 16:2, 2Ti.3:11.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   cross_language:
   - strongs: H388
-    proximity: 0.8086
+    proximity: 0.8086 {macula-proximity}
     language: hebrew
   - strongs: H3507
-    proximity: 0.8054
+    lemma: יִתְרְעָם
+    gloss: Jithream {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

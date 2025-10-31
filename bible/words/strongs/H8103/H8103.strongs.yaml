@@ -6,41 +6,43 @@ pronunciation: shim-tsaw'
 definition: scornful whispering (of hostile spectators)
 kjv_usage: shame.
 derivation: feminine of H8102 (שֶׁמֶץ);
-extended_definition:
-  gloss: derision
-  definition: whisper, derision, whispering
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: whisper, derision, whispering {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4167
-    proximity: 0.8221
+    lemma: מוּק
+    gloss: to jeer {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H4912
-    proximity: 0.8172
+    lemma: מָשָׁל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
   - strongs: H2616a
-    proximity: 0.7747
+    proximity: 0.7747 {macula-proximity}
   - strongs: H7048
-    proximity: 0.7708
+    lemma: קַלָּסָה
+    gloss: ridicule {openscriptures-strongs}
+    proximity: 0.7708 {macula-proximity}
   - strongs: H955
-    proximity: 0.7522
+    proximity: 0.7522 {macula-proximity}
   cross_language:
   - strongs: G1592
-    proximity: 0.8235
+    lemma: ἐκμυκτηρίζω
+    gloss: to sneer outright at {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
     language: greek
   - strongs: G771
-    proximity: 0.8218
+    proximity: 0.8218 {macula-proximity}
     language: greek
   - strongs: G152
-    proximity: 0.8177
+    proximity: 0.8177 {macula-proximity}
     language: greek
   - strongs: G1702a
-    proximity: 0.8119
+    proximity: 0.8119 {macula-proximity}
     language: greek
   - strongs: G5512
-    proximity: 0.7917
+    lemma: χλευάζω
+    gloss: to throw out the lip {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

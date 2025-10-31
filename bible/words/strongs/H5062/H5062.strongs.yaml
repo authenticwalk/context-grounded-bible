@@ -7,49 +7,70 @@ definition: to push, gore, defeat, stub (the toe), inflict (a disease)
 kjv_usage: beat, dash, hurt, plague, slay, smite (down), strike, stumble, [idiom]
   surely, put to the worse.
 derivation: a primitive root;
-extended_definition:
-  gloss: to strike
-  definition: 1) to strike, smite<br>1a) (Qal) to strike, smite<br>1b) (Niphal) to
-    be stricken, be smitten<br>1c) (Hithpael) to stumble
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to strike, smite
+
+  1a) (Qal) to strike, smite
+
+  1b) (Niphal) to be stricken, be smitten
+
+  1c) (Hithpael) to stumble {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2250
-    proximity: 0.8293
+    lemma: חַבּוּרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: H5307
-    proximity: 0.8293
+    lemma: נָפַל
+    gloss: to fall {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: H3665
-    proximity: 0.8284
+    lemma: כָּנַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: A4223
-    proximity: 0.8274
+    proximity: 0.8274 {macula-proximity}
   - strongs: H2717a
-    proximity: 0.8226
+    proximity: 0.8226 {macula-proximity}
   - strongs: H6555
-    proximity: 0.8214
+    lemma: פָּרַץ
+    gloss: to break out (in many applications {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H5063
-    proximity: 0.8194
+    lemma: נֶגֶף
+    gloss: a trip {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H5222
-    proximity: 0.7998
+    lemma: נֵכֶה
+    gloss: a smiter {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
   - strongs: H3783
-    proximity: 0.7938
+    lemma: כִּשָּׁלוֹן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7938 {macula-proximity}
   - strongs: H1762
-    proximity: 0.7834
+    lemma: דְּחִי
+    gloss: a push {openscriptures-strongs}
+    proximity: 0.7834 {macula-proximity}
   cross_language:
   - strongs: G4624
-    proximity: 0.8195
+    lemma: σκανδαλίζω
+    gloss: to entrap {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
     language: greek
   - strongs: G2852
-    proximity: 0.7853
+    lemma: κολαφίζω
+    gloss: to rap with the fist {openscriptures-strongs}
+    proximity: 0.7853 {macula-proximity}
     language: greek
   - strongs: G4127
-    proximity: 0.7717
+    lemma: πληγή
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.7717 {macula-proximity}
     language: greek
   - strongs: G2598
-    proximity: 0.7589
+    lemma: καταβάλλω
+    gloss: to throw down {openscriptures-strongs}
+    proximity: 0.7589 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

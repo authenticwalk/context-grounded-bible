@@ -6,49 +6,65 @@ pronunciation: shil-loom'
 definition: a requital, i.e. (secure) retribution, (venal) a fee
 kjv_usage: recompense, reward.
 derivation: or שִׁלֻּם; from H7999 (שָׁלַם);
-extended_definition:
-  gloss: recompense
-  definition: 1) requital, reward<br>1a) requital, retribution<br>1b) reward, bribe
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) requital, reward
+
+  1a) requital, retribution
+
+  1b) reward, bribe {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4979
-    proximity: 0.8283
+    lemma: מַתָּנָה
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H8545
-    proximity: 0.822
+    lemma: תְּמוּרָה
+    gloss: barter {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
   - strongs: H2500
-    proximity: 0.819
+    lemma: חֵלֶף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   - strongs: H1458
-    proximity: 0.8172
+    lemma: גַּו
+    gloss: the back {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
   - strongs: H8566
-    proximity: 0.8095
+    lemma: תָּנָה
+    gloss: to present {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
   - strongs: H868
-    proximity: 0.791
+    proximity: 0.791 {macula-proximity}
   - strongs: H5360
-    proximity: 0.76
+    lemma: נְקָמָה
+    gloss: avengement {openscriptures-strongs}
+    proximity: 0.76 {macula-proximity}
   - strongs: H7999
-    proximity: 0.7583
+    lemma: שָׁלַם
+    gloss: to be safe (in mind {openscriptures-strongs}
+    proximity: 0.7583 {macula-proximity}
   - strongs: H3724c
-    proximity: 0.7423
+    proximity: 0.7423 {macula-proximity}
   cross_language:
   - strongs: G469
-    proximity: 0.8134
+    proximity: 0.8134 {macula-proximity}
     language: greek
   - strongs: G591
-    proximity: 0.791
+    proximity: 0.791 {macula-proximity}
     language: greek
   - strongs: G1557
-    proximity: 0.7857
+    lemma: ἐκδίκησις
+    gloss: vindication {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
     language: greek
   - strongs: G3800
-    proximity: 0.7744
+    lemma: ὀψώνιον
+    gloss: rations for a soldier {openscriptures-strongs}
+    proximity: 0.7744 {macula-proximity}
     language: greek
   - strongs: G1362
-    proximity: 0.7535
+    lemma: διπλοῦς
+    gloss: two-fold {openscriptures-strongs}
+    proximity: 0.7535 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

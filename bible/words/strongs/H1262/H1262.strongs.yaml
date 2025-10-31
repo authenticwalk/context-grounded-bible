@@ -7,48 +7,59 @@ definition: to select; to feed; to render clear
 kjv_usage: choose, (cause to) eat, manifest, (give) meat.
 derivation: a primitive root; to select; also (as denominative from H1250 (בָּר))
   to feed; also (as equivalent to H1305 (בָּרַר)) to render clear (Ecclesiastes 3:18)
-extended_definition:
-  gloss: to eat
-  definition: 1) to eat, consume<br>1a) (Qal) to eat<br>1b) (Piel) for eating, devouring<br>1c)
-    (Hiphil) to cause to eat
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to eat, consume
+
+  1a) (Qal) to eat
+
+  1b) (Piel) for eating, devouring
+
+  1c) (Hiphil) to cause to eat {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A5415
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
   - strongs: H2557a
-    proximity: 0.8245
+    proximity: 0.8245 {macula-proximity}
   - strongs: H737
-    proximity: 0.8173
+    proximity: 0.8173 {macula-proximity}
   - strongs: H3938
-    proximity: 0.815
+    lemma: לָעַט
+    gloss: to swallow greedily {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: H6595
-    proximity: 0.8121
+    lemma: פַּת
+    gloss: a bit {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H3740
-    proximity: 0.8011
+    lemma: כֵּרָה
+    gloss: a purchase {openscriptures-strongs}
+    proximity: 0.8011 {macula-proximity}
   - strongs: H5414
-    proximity: 0.7845
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.7845 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.7789
+    proximity: 0.7789 {macula-proximity}
   cross_language:
   - strongs: G1494
-    proximity: 0.8296
+    lemma: εἰδωλόθυτον
+    gloss: an image-sacrifice {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G712
-    proximity: 0.8283
+    proximity: 0.8283 {macula-proximity}
     language: greek
   - strongs: G377
-    proximity: 0.8223
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G1967
-    proximity: 0.8145
+    lemma: ἐπιούσιος
+    gloss: tomorrow's {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
     language: greek
   - strongs: G4871
-    proximity: 0.8088
+    lemma: συναλίζω
+    gloss: to accumulate {openscriptures-strongs}
+    proximity: 0.8088 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

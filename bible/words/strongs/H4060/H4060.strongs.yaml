@@ -12,36 +12,53 @@ derivation: feminine of H4055 (מַד);
 related_words:
   synonyms:
   - strongs: H7991a
-    proximity: 0.8265
+    proximity: 0.8265 {macula-proximity}
   - strongs: A7314
-    proximity: 0.7931
+    proximity: 0.7931 {macula-proximity}
   - strongs: H4557
-    proximity: 0.7873
+    lemma: מִסְפָּר
+    gloss: a number {openscriptures-strongs}
+    proximity: 0.7873 {macula-proximity}
   - strongs: H6957
-    proximity: 0.7822
+    lemma: קַו
+    gloss: a cord {openscriptures-strongs}
+    proximity: 0.7822 {macula-proximity}
   - strongs: H8508
-    proximity: 0.7693
+    lemma: תׇּכְנִית
+    gloss: admeasurement {openscriptures-strongs}
+    proximity: 0.7693 {macula-proximity}
   - strongs: H4067
-    proximity: 0.7468
+    lemma: מָדוֹן
+    gloss: extensiveness {openscriptures-strongs}
+    proximity: 0.7468 {macula-proximity}
   - strongs: H1419
-    proximity: 0.745
+    lemma: גָּדוֹל
+    gloss: great {openscriptures-strongs}
+    proximity: 0.745 {macula-proximity}
   - strongs: H8506
-    proximity: 0.7449
+    lemma: תֹּכֶן
+    gloss: a fixed quantity {openscriptures-strongs}
+    proximity: 0.7449 {macula-proximity}
   - strongs: H520
-    proximity: 0.7448
+    proximity: 0.7448 {macula-proximity}
   - strongs: H4058
-    proximity: 0.7273
+    lemma: מָדַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7273 {macula-proximity}
   cross_language:
   - strongs: G2244
-    proximity: 0.804
+    lemma: ἡλικία
+    gloss: maturity {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
     language: greek
   - strongs: G3173
-    proximity: 0.7635
+    lemma: μέγας
+    gloss: big (literally or figuratively {openscriptures-strongs}
+    proximity: 0.7635 {macula-proximity}
     language: greek
   - strongs: G3372
-    proximity: 0.7161
+    lemma: μῆκος
+    gloss: length  length. {openscriptures-strongs}
+    proximity: 0.7161 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

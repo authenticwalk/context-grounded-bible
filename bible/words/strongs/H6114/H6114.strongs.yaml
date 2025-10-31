@@ -6,49 +6,57 @@ pronunciation: eh'-tser
 definition: restraint
 kjv_usage: '[phrase] magistrate.'
 derivation: from H6113 (עָצָר);
-extended_definition:
-  gloss: magistrate
-  definition: restraint, oppression
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: restraint, oppression {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5461
-    proximity: 0.8201
+    lemma: סָגָן
+    gloss: a prefect of a province {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: A7984
-    proximity: 0.8194
+    proximity: 0.8194 {macula-proximity}
   - strongs: H1238a
-    proximity: 0.8044
+    proximity: 0.8044 {macula-proximity}
   - strongs: H4910
-    proximity: 0.7973
+    lemma: מָשַׁל
+    gloss: to rule {openscriptures-strongs}
+    proximity: 0.7973 {macula-proximity}
   - strongs: H2123a
-    proximity: 0.7941
+    proximity: 0.7941 {macula-proximity}
   - strongs: A7985
-    proximity: 0.7894
+    proximity: 0.7894 {macula-proximity}
   - strongs: H8323
-    proximity: 0.7879
+    lemma: שָׂרַר
+    gloss: to have (transitively {openscriptures-strongs}
+    proximity: 0.7879 {macula-proximity}
   - strongs: A7963
-    proximity: 0.7708
+    proximity: 0.7708 {macula-proximity}
   - strongs: H7336
-    proximity: 0.7695
+    lemma: רָזַן
+    gloss: probably to be heavy {openscriptures-strongs}
+    proximity: 0.7695 {macula-proximity}
   cross_language:
   - strongs: G2963
-    proximity: 0.8272
+    lemma: κυριότης
+    gloss: mastery {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G1849
-    proximity: 0.8064
+    lemma: ἐξουσία
+    gloss: privilege {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
     language: greek
   - strongs: G1413
-    proximity: 0.8028
+    lemma: δυνάστης
+    gloss: a ruler or officer {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
     language: greek
   - strongs: G936
-    proximity: 0.7916
+    proximity: 0.7916 {macula-proximity}
     language: greek
   - strongs: G2142
-    proximity: 0.7798
+    lemma: εὐπορία
+    gloss: pecuniary resources {openscriptures-strongs}
+    proximity: 0.7798 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,33 +6,35 @@ pronunciation: dah-yaw'
 definition: a falcon (from its rapid flight)
 kjv_usage: vulture.
 derivation: intensive from H1675 (דָּאָה);
-extended_definition:
-  gloss: hawk
-  definition: a bird of prey (perhaps the kite)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: a bird of prey (perhaps the kite) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6524a
-    proximity: 0.8229
+    proximity: 0.8229 {macula-proximity}
   - strongs: H8464
-    proximity: 0.8162
+    lemma: תַּחְמָס
+    gloss: a species of unclean bird {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H2964
-    proximity: 0.8116
+    lemma: טֶרֶף
+    gloss: something torn {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   - strongs: H7201
-    proximity: 0.7998
+    lemma: רָאָה
+    gloss: a bird of prey (probably the vulture {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
   - strongs: A5776
-    proximity: 0.7729
+    proximity: 0.7729 {macula-proximity}
   - strongs: H5775
-    proximity: 0.7664
+    lemma: עוֹף
+    gloss: a bird (as covered with feathers {openscriptures-strongs}
+    proximity: 0.7664 {macula-proximity}
   - strongs: A6853
-    proximity: 0.7425
+    proximity: 0.7425 {macula-proximity}
   cross_language:
   - strongs: G3732
-    proximity: 0.7387
+    lemma: ὄρνεον
+    gloss: a birdling {openscriptures-strongs}
+    proximity: 0.7387 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,46 +6,65 @@ pronunciation: bek-ore'
 definition: firstborn; hence, chief
 kjv_usage: eldest (son), firstborn(-ling).
 derivation: from H1069 (בָּכַר);
-extended_definition:
-  gloss: firstborn
-  definition: 1) firstborn, firstling<br>1a) of men and women<br>1b) of animals<br>1c)
-    noun of relation (fig.)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) firstborn, firstling
+
+  1a) of men and women
+
+  1b) of animals
+
+  1c) noun of relation (fig.) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1248
-    proximity: 0.8285
+    lemma: בַּר
+    gloss: the heir {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: H7218
-    proximity: 0.7996
+    lemma: רֹאשׁ
+    gloss: the head {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
   - strongs: H3329
-    proximity: 0.7934
+    lemma: יָצִיא
+    gloss: issue {openscriptures-strongs}
+    proximity: 0.7934 {macula-proximity}
   - strongs: H7223
-    proximity: 0.7923
+    lemma: רִאשׁוֹן
+    gloss: first {openscriptures-strongs}
+    proximity: 0.7923 {macula-proximity}
   - strongs: H1122
-    proximity: 0.7639
+    lemma: בֵּן
+    gloss: Ben {openscriptures-strongs}
+    proximity: 0.7639 {macula-proximity}
   - strongs: H6363a
-    proximity: 0.7296
+    proximity: 0.7296 {macula-proximity}
   - strongs: H1121
-    proximity: 0.7071
+    lemma: בֵּן
+    gloss: a son {openscriptures-strongs}
+    proximity: 0.7071 {macula-proximity}
   cross_language:
   - strongs: G3373
-    proximity: 0.8226
+    lemma: μηκύνω
+    gloss: to lengthen {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
     language: greek
   - strongs: G4412
-    proximity: 0.8202
+    lemma: πρῶτον
+    gloss: firstly (in time {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
     language: greek
   - strongs: G4413
-    proximity: 0.8086
+    lemma: πρῶτος
+    gloss: foremost (in time {openscriptures-strongs}
+    proximity: 0.8086 {macula-proximity}
     language: greek
   - strongs: G3388
-    proximity: 0.7809
+    lemma: μήτρα
+    gloss: the matrix {openscriptures-strongs}
+    proximity: 0.7809 {macula-proximity}
     language: greek
   - strongs: G5207
-    proximity: 0.7809
+    lemma: υἱός
+    gloss: a "son" {openscriptures-strongs}
+    proximity: 0.7809 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

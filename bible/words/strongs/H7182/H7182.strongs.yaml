@@ -6,45 +6,51 @@ pronunciation: keh'-sheb
 definition: a hearkening
 kjv_usage: '[idiom] diligently, hearing, much heed, that regarded.'
 derivation: from H7181 (קָשַׁב);
-extended_definition:
-  gloss: attentiveness
-  definition: attentiveness, attention
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: attentiveness, attention {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A8086
-    proximity: 0.8291
+    proximity: 0.8291 {macula-proximity}
   - strongs: H8159
-    proximity: 0.8285
+    lemma: שָׁעָה
+    gloss: to gaze at or about (properly {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: H8245
-    proximity: 0.828
+    lemma: שָׁקַד
+    gloss: to be alert {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
   - strongs: H3820
-    proximity: 0.8134
+    lemma: לֵב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
   - strongs: H7183a
-    proximity: 0.8041
+    proximity: 0.8041 {macula-proximity}
   - strongs: H241
-    proximity: 0.803
+    proximity: 0.803 {macula-proximity}
   - strongs: H7789
-    proximity: 0.709
+    lemma: שׁוּר
+    gloss: to spy out {openscriptures-strongs}
+    proximity: 0.709 {macula-proximity}
   cross_language:
   - strongs: G272
-    proximity: 0.8133
+    proximity: 0.8133 {macula-proximity}
     language: greek
   - strongs: G191
-    proximity: 0.8068
+    proximity: 0.8068 {macula-proximity}
     language: greek
   - strongs: G5431
-    proximity: 0.802
+    lemma: φροντίζω
+    gloss: to exercise thought {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
     language: greek
   - strongs: G1251
-    proximity: 0.7865
+    lemma: διακούομαι
+    gloss: to hear throughout {openscriptures-strongs}
+    proximity: 0.7865 {macula-proximity}
     language: greek
   - strongs: G3878
-    proximity: 0.7847
+    lemma: παρακούω
+    gloss: to mishear {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

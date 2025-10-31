@@ -9,36 +9,51 @@ derivation: from H6280 (עָתַר); also compare H6279 (עָתַר)
 related_words:
   synonyms:
   - strongs: H7592
-    proximity: 0.8239
+    lemma: שָׁאַל
+    gloss: to inquire {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: H1245
-    proximity: 0.8171
+    lemma: בָּקַשׁ
+    gloss: to search out (by any method {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: H7773
-    proximity: 0.7951
+    lemma: שֶׁוַע
+    gloss: a halloo {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
   - strongs: H782
-    proximity: 0.7868
+    proximity: 0.7868 {macula-proximity}
   - strongs: H7812a
-    proximity: 0.7813
+    proximity: 0.7813 {macula-proximity}
   - strongs: A2604
-    proximity: 0.7802
+    proximity: 0.7802 {macula-proximity}
   - strongs: H7596
-    proximity: 0.7717
+    lemma: שְׁאֵלָה
+    gloss: a petition {openscriptures-strongs}
+    proximity: 0.7717 {macula-proximity}
   cross_language:
   - strongs: G2356
-    proximity: 0.8263
+    lemma: θρησκεία
+    gloss: ceremonial observance {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
     language: greek
   - strongs: G3000
-    proximity: 0.8163
+    lemma: λατρεύω
+    gloss: to minister {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
     language: greek
   - strongs: G2065
-    proximity: 0.8098
+    lemma: ἐρωτάω
+    gloss: to interrogate {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
     language: greek
   - strongs: G3726
-    proximity: 0.8079
+    lemma: ὁρκίζω
+    gloss: to put on oath {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
     language: greek
   - strongs: G1906
-    proximity: 0.8
+    lemma: ἐπερώτημα
+    gloss: an inquiry {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

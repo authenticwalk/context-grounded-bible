@@ -6,49 +6,65 @@ pronunciation: beh-ad'
 definition: in up to or over against; generally at, beside, among, behind, for, etc.
 kjv_usage: about, at by (means of), for, over, through, up (-on), within.
 derivation: from H5704 (עַד) with prepositional prefix;
-extended_definition:
-  gloss: about/through/for
-  definition: 1) behind, through, round about, on behalf of, away from, about<br>1a)
-    through (of action)<br>1b) behind (with verbs of shutting)<br>1c) about (with
-    verbs of fencing)<br>1d) on behalf of (metaph. especially with Hithpael)
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) behind, through, round about, on behalf of, away from, about
+
+  1a) through (of action)
+
+  1b) behind (with verbs of shutting)
+
+  1c) about (with verbs of fencing)
+
+  1d) on behalf of (metaph. especially with Hithpael) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8432
-    proximity: 0.8289
+    lemma: תָּוֶךְ
+    gloss: a bisection {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H6118
-    proximity: 0.8274
+    lemma: עֵקֶב
+    gloss: a heel {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H1119
-    proximity: 0.825
+    lemma: בְּמוֹ
+    gloss: in {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: A5974
-    proximity: 0.8195
+    proximity: 0.8195 {macula-proximity}
   - strongs: H853
-    proximity: 0.8185
+    proximity: 0.8185 {macula-proximity}
   - strongs: A6903
-    proximity: 0.809
+    proximity: 0.809 {macula-proximity}
   - strongs: H5048
-    proximity: 0.8078
+    lemma: נֶגֶד
+    gloss: a front {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   - strongs: H854
-    proximity: 0.8041
+    proximity: 0.8041 {macula-proximity}
   cross_language:
   - strongs: G1854
-    proximity: 0.8269
+    lemma: ἔξω
+    gloss: out(-side {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
     language: greek
   - strongs: G1894
-    proximity: 0.8225
+    lemma: ἐπειδή
+    gloss: since now {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
   - strongs: G2081
-    proximity: 0.8218
+    lemma: ἔσωθεν
+    gloss: from inside {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
     language: greek
   - strongs: G3924
-    proximity: 0.8127
+    lemma: παρεκτός
+    gloss: near outside {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
     language: greek
   - strongs: G1360
-    proximity: 0.81
+    lemma: διότι
+    gloss: on the very account that {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

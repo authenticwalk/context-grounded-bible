@@ -6,51 +6,63 @@ pronunciation: mo-kade'
 definition: a fire or fuel; abstractly, a conflagration
 kjv_usage: burning, hearth.
 derivation: from H3344 (יָקַד);
-extended_definition:
-  gloss: burning
-  definition: a burning mass, burning, hearth
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: a burning mass, burning, hearth {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4715
-    proximity: 0.8215
+    lemma: מִצְרֵף
+    gloss: a crucible {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H3341
-    proximity: 0.8215
+    lemma: יָצַת
+    gloss: to burn or set on fire {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H6352
-    proximity: 0.8179
+    lemma: פֶּחָם
+    gloss: a coal {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
   - strongs: H6999
-    proximity: 0.8144
+    lemma: קָטַר
+    gloss: to smoke {openscriptures-strongs}
+    proximity: 0.8144 {macula-proximity}
   - strongs: H3555
-    proximity: 0.8129
+    lemma: כְּוִיָּה
+    gloss: a branding {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: H2740
-    proximity: 0.8119
+    lemma: חָרוֹן
+    gloss: a burning of anger {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: A5135
-    proximity: 0.8052
+    proximity: 0.8052 {macula-proximity}
   - strongs: H8316
-    proximity: 0.7999
+    lemma: שְׂרֵפָה
+    gloss: cremation {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
   - strongs: H181
-    proximity: 0.7977
+    proximity: 0.7977 {macula-proximity}
   - strongs: A1815
-    proximity: 0.7898
+    proximity: 0.7898 {macula-proximity}
   cross_language:
   - strongs: G762
-    proximity: 0.8207
+    proximity: 0.8207 {macula-proximity}
     language: greek
   - strongs: G439
-    proximity: 0.8169
+    proximity: 0.8169 {macula-proximity}
     language: greek
   - strongs: G2204
-    proximity: 0.8119
+    lemma: ζέω
+    gloss: to be hot (boil {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
     language: greek
   - strongs: G2618
-    proximity: 0.8062
+    lemma: κατακαίω
+    gloss: to burn down {openscriptures-strongs}
+    proximity: 0.8062 {macula-proximity}
     language: greek
   - strongs: G1572
-    proximity: 0.7932
+    lemma: ἐκκαίω
+    gloss: to inflame deeply {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

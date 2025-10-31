@@ -9,49 +9,75 @@ kjv_usage: suffer to decrease, diminish, (be, [idiom] borrow a, give, make) few 
   number, -ness), gather least (little), be (seem) little, ([idiom] give the) less,
   be minished, bring to nothing.
 derivation: a primitive root;
-extended_definition:
-  gloss: to diminish
-  definition: 1) to be or become small, be few, be diminished<br>1a) (Qal)<br>1a1)
-    to diminish<br>1a2) to be too small<br>1b) (Piel) to become few<br>1c) (Hiphil)<br>1c1)
-    to make small, make few, diminish<br>1c2) to give less
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be or become small, be few, be diminished
+
+  1a) (Qal)
+
+  1a1) to diminish
+
+  1a2) to be too small
+
+  1b) (Piel) to become few
+
+  1c) (Hiphil)
+
+  1c1) to make small, make few, diminish
+
+  1c2) to give less {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7114a
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
   - strongs: H6996a
-    proximity: 0.7953
+    proximity: 0.7953 {macula-proximity}
   - strongs: H6996
-    proximity: 0.7913
+    lemma: קָטָן
+    gloss: abbreviated {openscriptures-strongs}
+    proximity: 0.7913 {macula-proximity}
   - strongs: H2637
-    proximity: 0.7801
+    lemma: חָסֵר
+    gloss: to lack {openscriptures-strongs}
+    proximity: 0.7801 {macula-proximity}
   - strongs: H4213
-    proximity: 0.7704
+    lemma: מִזְעָר
+    gloss: fewness {openscriptures-strongs}
+    proximity: 0.7704 {macula-proximity}
   - strongs: H4962
-    proximity: 0.7689
+    lemma: מַת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7689 {macula-proximity}
   - strongs: H1809
-    proximity: 0.7653
+    lemma: דָּלַל
+    gloss: to slacken or be feeble {openscriptures-strongs}
+    proximity: 0.7653 {macula-proximity}
   - strongs: H4592
-    proximity: 0.7296
+    lemma: מְעַט
+    gloss: a little or few {openscriptures-strongs}
+    proximity: 0.7296 {macula-proximity}
   cross_language:
   - strongs: G1646
-    proximity: 0.823
+    lemma: ἐλάχιστος
+    gloss: used as equivalent to G3398 {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
     language: greek
   - strongs: G1642
-    proximity: 0.8162
+    lemma: ἐλαττόω
+    gloss: to lessen {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
     language: greek
   - strongs: G1325
-    proximity: 0.8136
+    lemma: δίδωμι
+    gloss: to give (used in a very wide application {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
     language: greek
   - strongs: G3398
-    proximity: 0.8091
+    lemma: μικρός
+    gloss: small (in size {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
     language: greek
   - strongs: G3641
-    proximity: 0.7579
+    lemma: ὀλίγος
+    gloss: puny (in extent {openscriptures-strongs}
+    proximity: 0.7579 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

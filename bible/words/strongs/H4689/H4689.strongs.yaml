@@ -6,49 +6,63 @@ pronunciation: maw-tsoke'
 definition: a narrow place, i.e. (abstractly and figuratively) confinement or disability
 kjv_usage: anguish, distress, straitness.
 derivation: from H6693 (צוּק);
-extended_definition:
-  gloss: distress
-  definition: straitness, straits, distress, stress, anguish
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: straitness, straits, distress, stress, anguish {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6039
-    proximity: 0.8298
+    lemma: עֱנוּת
+    gloss: affliction {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: A3735
-    proximity: 0.8276
+    proximity: 0.8276 {macula-proximity}
   - strongs: H8496
-    proximity: 0.8213
+    lemma: תֹּךְ
+    gloss: oppression {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
   - strongs: H4341
-    proximity: 0.8153
+    lemma: מַכְאֹב
+    gloss: anguish or  affliction {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
   - strongs: A888
-    proximity: 0.8144
+    proximity: 0.8144 {macula-proximity}
   - strongs: H6035
-    proximity: 0.8135
+    lemma: עָנָו
+    gloss: depressed {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: H7115
-    proximity: 0.8051
+    lemma: קֹצֶר
+    gloss: shortness {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
   - strongs: H2000a
-    proximity: 0.8045
+    proximity: 0.8045 {macula-proximity}
   - strongs: H6217
-    proximity: 0.8022
+    lemma: עָשׁוּק
+    gloss: used in plural masculine as abstractly {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
   cross_language:
   - strongs: G4841
-    proximity: 0.826
+    lemma: συμπάσχω
+    gloss: to experience pain jointly or of the same kind (specially {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
     language: greek
   - strongs: G2352
-    proximity: 0.823
+    lemma: θραύω
+    gloss: to crush {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
     language: greek
   - strongs: G2346
-    proximity: 0.8203
+    lemma: θλίβω
+    gloss: to crowd {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
     language: greek
   - strongs: G4777
-    proximity: 0.8069
+    lemma: συγκακοπαθέω
+    gloss: to suffer hardship in company with {openscriptures-strongs}
+    proximity: 0.8069 {macula-proximity}
     language: greek
   - strongs: G4912
-    proximity: 0.8016
+    lemma: συνέχω
+    gloss: to hold together {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

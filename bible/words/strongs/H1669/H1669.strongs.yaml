@@ -6,42 +6,48 @@ pronunciation: daw-ab'
 definition: to pine
 kjv_usage: mourn, sorrow(-ful).
 derivation: a primitive root;
-extended_definition:
-  gloss: to languish
-  definition: (Qal) to become faint, languish
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to become faint, languish {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3856a
-    proximity: 0.83
+    proximity: 0.83 {macula-proximity}
   - strongs: H1727
-    proximity: 0.8295
+    lemma: דּוּב
+    gloss: to mope {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H535
-    proximity: 0.828
+    proximity: 0.828 {macula-proximity}
   - strongs: H5969
-    proximity: 0.8256
+    lemma: עֻלְפֶּה
+    gloss: an envelope {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: H5848a
-    proximity: 0.8246
+    proximity: 0.8246 {macula-proximity}
   - strongs: H7060
-    proximity: 0.8209
+    lemma: קָמַל
+    gloss: to wither {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: H3615
-    proximity: 0.8019
+    lemma: כָּלָה
+    gloss: to end {openscriptures-strongs}
+    proximity: 0.8019 {macula-proximity}
   - strongs: H4786
-    proximity: 0.7979
+    lemma: מֹרָה
+    gloss: bitterness {openscriptures-strongs}
+    proximity: 0.7979 {macula-proximity}
   - strongs: H17
-    proximity: 0.7856
+    proximity: 0.7856 {macula-proximity}
   - strongs: H3544
-    proximity: 0.7827
+    lemma: כֵּהֶה
+    gloss: feeble {openscriptures-strongs}
+    proximity: 0.7827 {macula-proximity}
   cross_language:
   - strongs: G3077
-    proximity: 0.828
+    lemma: λύπη
+    gloss: sadness {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G674
-    proximity: 0.8236
+    proximity: 0.8236 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

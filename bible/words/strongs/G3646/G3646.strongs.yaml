@@ -6,37 +6,36 @@ definition: a wholly-consumed sacrifice ("holocaust")
 kjv_usage: (whole) burnt offering
 derivation: from a derivative of a compound of G3650 (ὅλος) and a derivative of G2545
   (καίω);
-extended_definition:
-  gloss: burnt offering
-  definition: '<b>ὁλοκαύτωμα</b>, -τος, τό<BR /> (ὅλος, καίω), [in LXX chiefly for
-    עֹלָה ;] <BR /><b>a whole burnt offering</b>: <ref=''Mrk.12.33''>Mrk.12:33</ref>,
-    <ref=''Heb.10.6''>Heb.10:6</ref>, 8" (LXX) (of. Kennedy, <i>Sources</i>, 113 f.).†<BR
-    /> <re><i>SYN.</i>: see: θυσία </re> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὁλοκαύτ-ωμα</b>, ατος, τό, <br /> <b>burnt-offering,</b> [<a
-    href="javascript:void(0)" title=" LXX.Exo.10.25, +others, 1st c.AD: Josephus Historicus
-    “Antiquitates Judaicae” 10.4.5. ">LXX+1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ὁλοκαύτωμα, -τος, τό
+
+  (ὅλος, καίω), [in LXX chiefly for עֹלָה ;]
+
+  a whole burnt offering: Mrk.12:33, Heb.10:6, 8" (LXX) (of. Kennedy, Sources, 113
+  f.).†
+
+  SYN.: see: θυσία  (AS) {STEPBible-TBESG}'
+etymology: 'ὁλοκαύτ-ωμα, ατος, τό,
+
+  burnt-offering, [LXX+1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A4504
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
   - strongs: G2378
-    proximity: 0.8273
+    lemma: θυσία
+    gloss: sacrifice (the act or the victim {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
   - strongs: A5261
-    proximity: 0.8065
+    proximity: 0.8065 {macula-proximity}
   cross_language:
   - strongs: H2077
-    proximity: 0.7896
+    lemma: זֶבַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7896 {macula-proximity}
     language: hebrew
   - strongs: H1890
-    proximity: 0.7798
+    lemma: הַבְהָב
+    gloss: gift {openscriptures-strongs}
+    proximity: 0.7798 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

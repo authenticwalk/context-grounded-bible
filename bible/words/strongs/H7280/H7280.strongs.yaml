@@ -12,40 +12,59 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H4672
-    proximity: 0.8279
+    lemma: מָצָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: H7623a
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
   - strongs: H7673
-    proximity: 0.825
+    lemma: שָׁבַת
+    gloss: to repose {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: H7676
-    proximity: 0.8248
+    lemma: שַׁבָּת
+    gloss: intermission {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: A8160
-    proximity: 0.8242
+    proximity: 0.8242 {macula-proximity}
   - strongs: H7965
-    proximity: 0.8167
+    lemma: שָׁלוֹם
+    gloss: safe {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H1826
-    proximity: 0.8095
+    lemma: דָּמַם
+    gloss: to be dumb {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
   - strongs: H8367
-    proximity: 0.809
+    lemma: שָׁתַק
+    gloss: to subside {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
   - strongs: A8627
-    proximity: 0.801
+    proximity: 0.801 {macula-proximity}
   cross_language:
   - strongs: G2838
-    proximity: 0.8266
+    lemma: κοίμησις
+    gloss: sleeping {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
     language: greek
   - strongs: G1722
-    proximity: 0.8243
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.8243 {macula-proximity}
     language: greek
   - strongs: G2147
-    proximity: 0.8195
+    lemma: εὑρίσκω
+    gloss: to find {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
     language: greek
   - strongs: G4875
-    proximity: 0.8158
+    lemma: συναναπαύομαι
+    gloss: to recruit oneself in company with {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
     language: greek
   - strongs: G1810
-    proximity: 0.7956
+    lemma: ἐξαίφνης
+    gloss: of a sudden {openscriptures-strongs}
+    proximity: 0.7956 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

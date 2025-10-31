@@ -6,45 +6,57 @@ pronunciation: rog-zaw'
 definition: trepidation
 kjv_usage: trembling.
 derivation: feminine of H7267 (רֹגֶז);
-extended_definition:
-  gloss: quivering
-  definition: trembling, quivering, quaking
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: trembling, quivering, quaking {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H367
-    proximity: 0.829
+    proximity: 0.829 {macula-proximity}
   - strongs: H928
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
   - strongs: H4032
-    proximity: 0.8257
+    lemma: מָגוֹר
+    gloss: a fright {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H1607
-    proximity: 0.8248
+    lemma: גָּעַשׁ
+    gloss: to agitate violently {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: H2865
-    proximity: 0.8222
+    lemma: חָתַת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H4816
-    proximity: 0.8201
+    lemma: מֹרֶךְ
+    gloss: softness {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: H2730
-    proximity: 0.8186
+    lemma: חָרֵד
+    gloss: fearful {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: H2648
-    proximity: 0.8171
+    lemma: חָפַז
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: H2851
-    proximity: 0.8152
+    lemma: חִתִּית
+    gloss: fear {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: A927
-    proximity: 0.8095
+    proximity: 0.8095 {macula-proximity}
   cross_language:
   - strongs: G4531
-    proximity: 0.8265
+    lemma: σαλεύω
+    gloss: to waver {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
     language: greek
   - strongs: G1568
-    proximity: 0.8157
+    lemma: ἐκθαμβέω
+    gloss: to astonish utterly {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
     language: greek
   - strongs: G1790
-    proximity: 0.803
+    lemma: ἔντρομος
+    gloss: terrified {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

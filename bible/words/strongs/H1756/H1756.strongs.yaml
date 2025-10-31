@@ -7,21 +7,21 @@ definition: Dor, a place in Palestine
 kjv_usage: Dor.
 derivation: or (by permutation) דֹּאר; (Joshua 17:11; 1 Kings 4:11), from H1755 (דּוֹר);
   dwelling;
-extended_definition:
-  gloss: Dor
-  definition: <BR> § Dor = "generation"<br> a coastal city in Manasseh, south of Carmel
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Dor = "generation"
+
+  a coastal city in Manasseh, south of Carmel {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6554
-    proximity: 0.8071
+    lemma: פַּרְפַּר
+    gloss: Parpar {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
   - strongs: H2576
-    proximity: 0.7857
+    lemma: חַמֹּת דֹּאר
+    gloss: Chammath-Dor {openscriptures-strongs}
+    proximity: 0.7857 {macula-proximity}
   - strongs: H5874
-    proximity: 0.7825
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: עֵין־דֹּאר
+    gloss: En-Dor {openscriptures-strongs}
+    proximity: 0.7825 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

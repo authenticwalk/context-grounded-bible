@@ -7,41 +7,57 @@ definition: to issue, i.e. furnish; causatively, to secure; figuratively, to suc
 kjv_usage: afford, draw out, further, get, obtain.
 derivation: a primitive root (identical with H6328 (פּוּק) through the idea of dropping
   out; compare H5312 (נְפַק));
-extended_definition:
-  gloss: to promote
-  definition: 1) to bring out, furnish, promote, go out, issue<br>1a) (Hiphil)<br>1a1)
-    to produce, furnish<br>1a2) to bring out, elicit, obtain, cause to come out from<br>1a3)
-    to promote<br>1a4) to cause to go out to
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to bring out, furnish, promote, go out, issue
+
+  1a) (Hiphil)
+
+  1a1) to produce, furnish
+
+  1a2) to bring out, elicit, obtain, cause to come out from
+
+  1a3) to promote
+
+  1a4) to cause to go out to {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7069
-    proximity: 0.8281
+    lemma: קָנָה
+    gloss: to erect {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H7069a
-    proximity: 0.8255
+    proximity: 0.8255 {macula-proximity}
   - strongs: H3787
-    proximity: 0.8061
+    lemma: כָּשֵׁר
+    gloss: by implication {openscriptures-strongs}
+    proximity: 0.8061 {macula-proximity}
   - strongs: H6743
-    proximity: 0.789
+    lemma: צָלַח
+    gloss: to push forward {openscriptures-strongs}
+    proximity: 0.789 {macula-proximity}
   cross_language:
   - strongs: G4200
-    proximity: 0.8167
+    lemma: πορισμός
+    gloss: furnishing {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G5524
-    proximity: 0.8015
+    lemma: χορηγέω
+    gloss: to be a dance-leader {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
     language: greek
   - strongs: G2638
-    proximity: 0.7964
+    lemma: καταλαμβάνω
+    gloss: to take eagerly {openscriptures-strongs}
+    proximity: 0.7964 {macula-proximity}
     language: greek
   - strongs: G2975
-    proximity: 0.7727
+    lemma: λαγχάνω
+    gloss: to lot {openscriptures-strongs}
+    proximity: 0.7727 {macula-proximity}
     language: greek
   - strongs: G2770
-    proximity: 0.7511
+    lemma: κερδαίνω
+    gloss: to gain {openscriptures-strongs}
+    proximity: 0.7511 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

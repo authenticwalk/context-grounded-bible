@@ -5,55 +5,61 @@ transliteration: proseáō
 definition: to permit further progress
 kjv_usage: suffer
 derivation: from G4314 (πρός) and G1439 (ἐάω);
-extended_definition:
-  gloss: to permit
-  definition: <b>to suffer to go further </b>, τινά (New Testament) (ML)
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> προσεάω</b>, <br /> <b>suffer to go further</b>, μὴ -εῶντος
-    ἡμᾶς τοῦ ἀνέμου [<a href="javascript:void(0)" title=" NT.Act.27.7. ">NT</a>]<br
-    /><Level3><b>__2</b></Level3> <b>permit as well,</b> [<a href="javascript:void(0)"
-    title=" PLond. 5.1790.7 (5th-6th c.AD). ">Refs 5th c.AD+</a>]
-  source: STEPBible/LSJ
+extended_definition: to suffer to go further , τινά (New Testament) (ML) {STEPBible-TBESG}
+etymology: 'προσεάω,
+
+  suffer to go further, μὴ -εῶντος ἡμᾶς τοῦ ἀνέμου [NT]
+
+  __2 permit as well, [Refs 5th c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G498
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
   - strongs: G549
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
   - strongs: G4314
-    proximity: 0.8272
+    lemma: πρός
+    gloss: a preposition of direction {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: G4198
-    proximity: 0.8254
+    lemma: πορεύομαι
+    gloss: to traverse {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: G5217
-    proximity: 0.8224
+    lemma: ὑπάγω
+    gloss: to lead  under {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
   - strongs: G4281
-    proximity: 0.8168
+    lemma: προέρχομαι
+    gloss: to go onward {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   - strongs: G4260
-    proximity: 0.8052
+    lemma: προβαίνω
+    gloss: to walk forward {openscriptures-strongs}
+    proximity: 0.8052 {macula-proximity}
   - strongs: G209
-    proximity: 0.8017
+    proximity: 0.8017 {macula-proximity}
   - strongs: G4774
-    proximity: 0.7942
+    lemma: συγγνώμη
+    gloss: fellow knowledge {openscriptures-strongs}
+    proximity: 0.7942 {macula-proximity}
   - strongs: G4334
-    proximity: 0.7893
+    lemma: προσέρχομαι
+    gloss: to approach {openscriptures-strongs}
+    proximity: 0.7893 {macula-proximity}
   cross_language:
   - strongs: H5048
-    proximity: 0.8159
+    lemma: נֶגֶד
+    gloss: a front {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
     language: hebrew
   - strongs: H1219b
-    proximity: 0.8093
+    proximity: 0.8093 {macula-proximity}
     language: hebrew
   - strongs: H413
-    proximity: 0.7855
+    proximity: 0.7855 {macula-proximity}
     language: hebrew
   - strongs: H3807a
-    proximity: 0.7657
+    proximity: 0.7657 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -9,54 +9,73 @@ kjv_usage: '[idiom] be able to endure, [idiom] according as, [idiom] after, [idi
   coming, [idiom] follow, (broken-)foot(-ed, -stool), [idiom] great toe, [idiom] haunt,
   [idiom] journey, leg, [phrase] piss, [phrase] possession, time.'
 derivation: from H7270 (רָגַל);
-extended_definition:
-  gloss: foot
-  definition: '1) foot<br>1a) foot, leg<br>1b) of God (anthropomorphic)<br>1c) of
-    seraphim, cherubim, idols, animals, table<br>1d) according to the pace of (with
-    prep)<br>1e) three times (feet, paces)<BR>Aramaic equivalent: <i>re.gal</i> (רְגַל
-    "foot" H7271)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) foot
+
+  1a) foot, leg
+
+  1b) of God (anthropomorphic)
+
+  1c) of seraphim, cherubim, idols, animals, table
+
+  1d) according to the pace of (with prep)
+
+  1e) three times (feet, paces)
+
+  Aramaic equivalent: re.gal (רְגַל "foot" H7271) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5274a
-    proximity: 0.8204
+    proximity: 0.8204 {macula-proximity}
   - strongs: H854
-    proximity: 0.8201
+    proximity: 0.8201 {macula-proximity}
   - strongs: H7097
-    proximity: 0.8181
+    lemma: קָצֶה
+    gloss: an extremity {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
   - strongs: H8482
-    proximity: 0.8167
+    lemma: תַּחְתִּי
+    gloss: lowermost {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: A677
-    proximity: 0.8166
+    proximity: 0.8166 {macula-proximity}
   - strongs: H657a
-    proximity: 0.8097
+    proximity: 0.8097 {macula-proximity}
   - strongs: H5973
-    proximity: 0.8076
+    lemma: עִם
+    gloss: adverb or preposition {openscriptures-strongs}
+    proximity: 0.8076 {macula-proximity}
   - strongs: H8478
-    proximity: 0.8032
+    lemma: תַּחַת
+    gloss: the bottom {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
   - strongs: H5977
-    proximity: 0.7989
+    lemma: עֹמֶד
+    gloss: a spot {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
   - strongs: H6807
-    proximity: 0.7908
+    lemma: צְעָדָה
+    gloss: a march {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
   cross_language:
   - strongs: G4347a
-    proximity: 0.8293
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G2628
-    proximity: 0.8258
+    lemma: κατακολουθέω
+    gloss: to accompany closely {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G679
-    proximity: 0.8186
+    proximity: 0.8186 {macula-proximity}
     language: greek
   - strongs: G4870
-    proximity: 0.8159
+    lemma: συνακολουθέω
+    gloss: to accompany {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
     language: greek
   - strongs: G3326
-    proximity: 0.8036
+    lemma: μετά
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8036 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

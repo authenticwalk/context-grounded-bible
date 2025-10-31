@@ -15,51 +15,77 @@ kjv_usage: age, [phrase] always, [phrase] chronicals, continually(-ance), daily,
   when, (a, the, within a) while (that), [idiom] whole ([phrase] age), (full) year(-ly),
   [phrase] younger.
 derivation: from an unused root meaning to be hot;
-extended_definition:
-  gloss: 'day: today'
-  definition: ': today/now<br>1) day, time, year<br>1a) day (as opposed to night)<br>1b)
-    day (24 hour period)<br>1b1) as defined by evening and morning in Genesis 1<br>1b2)
-    as a division of time<br>1b2a) a working day, a day''s journey<br>1c) days, lifetime
-    (pl.)<br>1d) time, period (general)<br>1e) year<br>1f) temporal references<br>1f1)
-    today<br>1f2) yesterday<br>1f3) tomorrow'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': today/now
+
+  1) day, time, year
+
+  1a) day (as opposed to night)
+
+  1b) day (24 hour period)
+
+  1b1) as defined by evening and morning in Genesis 1
+
+  1b2) as a division of time
+
+  1b2a) a working day, a day''s journey
+
+  1c) days, lifetime (pl.)
+
+  1d) time, period (general)
+
+  1e) year
+
+  1f) temporal references
+
+  1f1) today
+
+  1f2) yesterday
+
+  1f3) tomorrow {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A3393
-    proximity: 0.8298
+    proximity: 0.8298 {macula-proximity}
   - strongs: A5053
-    proximity: 0.8297
+    proximity: 0.8297 {macula-proximity}
   - strongs: H1524a
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
   - strongs: H2775a
-    proximity: 0.8261
+    proximity: 0.8261 {macula-proximity}
   - strongs: A3916
-    proximity: 0.8256
+    proximity: 0.8256 {macula-proximity}
   - strongs: H7869
-    proximity: 0.825
+    lemma: שֵׂיב
+    gloss: old age {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: H8145
-    proximity: 0.8241
+    lemma: שֵׁנִי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H6471
-    proximity: 0.8239
+    lemma: פַּעַם
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   cross_language:
   - strongs: G165
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G4455
-    proximity: 0.8289
+    lemma: πώποτε
+    gloss: at any time {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: greek
   - strongs: G89
-    proximity: 0.8286
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G1597
-    proximity: 0.8281
+    lemma: ἔκπαλαι
+    gloss: long ago {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G2663
-    proximity: 0.8277
+    lemma: κατάπαυσις
+    gloss: reposing down {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

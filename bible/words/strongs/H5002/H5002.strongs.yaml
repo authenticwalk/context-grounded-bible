@@ -6,49 +6,63 @@ pronunciation: neh-oom'
 definition: an oracle
 kjv_usage: (hath) said, saith.
 derivation: from H5001 (נָאַם);
-extended_definition:
-  gloss: utterance
-  definition: 1) (Qal) utterance, declaration (of prophet)<br>1a) utterance, declaration,
-    revelation (of prophet in ecstatic state)<br>1b) utterance, declaration (elsewhere
-    always preceding divine name)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) (Qal) utterance, declaration (of prophet)
+
+  1a) utterance, declaration, revelation (of prophet in ecstatic state)
+
+  1b) utterance, declaration (elsewhere always preceding divine name) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4405
-    proximity: 0.8286
+    lemma: מִלָּה
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: H8085
-    proximity: 0.8155
+    lemma: שָׁמַע
+    gloss: to hear intelligently (often with implication of attention {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H5608
-    proximity: 0.8147
+    lemma: סָפַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: H1540
-    proximity: 0.8145
+    lemma: גָּלָה
+    gloss: to denude {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
   - strongs: H565
-    proximity: 0.8135
+    proximity: 0.8135 {macula-proximity}
   - strongs: H4448
-    proximity: 0.7992
+    lemma: מָלַל
+    gloss: to speak  or say {openscriptures-strongs}
+    proximity: 0.7992 {macula-proximity}
   - strongs: H2930
-    proximity: 0.7957
+    lemma: טָמֵא
+    gloss: to be foul {openscriptures-strongs}
+    proximity: 0.7957 {macula-proximity}
   - strongs: H565a
-    proximity: 0.7875
+    proximity: 0.7875 {macula-proximity}
   cross_language:
   - strongs: G4487
-    proximity: 0.8266
+    lemma: ῥῆμα
+    gloss: an utterance (individually {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
     language: greek
   - strongs: G657
-    proximity: 0.8243
+    proximity: 0.8243 {macula-proximity}
     language: greek
   - strongs: G4316
-    proximity: 0.8196
+    lemma: προσαγορεύω
+    gloss: to address {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
     language: greek
   - strongs: G1862
-    proximity: 0.8148
+    lemma: ἐπάγγελμα
+    gloss: a self-committal {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
     language: greek
   - strongs: G2046
-    proximity: 0.7997
+    lemma: ἐρέω
+    gloss: an alternate for G2036  in certain tenses {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

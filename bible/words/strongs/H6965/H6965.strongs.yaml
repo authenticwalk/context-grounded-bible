@@ -14,32 +14,43 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H5480a
-    proximity: 0.8288
+    proximity: 0.8288 {macula-proximity}
   - strongs: H5168
-    proximity: 0.8286
+    lemma: נַחְנוּ
+    gloss: we {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: A7011
-    proximity: 0.8284
+    proximity: 0.8284 {macula-proximity}
   - strongs: H6466
-    proximity: 0.8283
+    lemma: פָּעַל
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H7896
-    proximity: 0.8281
+    lemma: שִׁית
+    gloss: to place {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   cross_language:
   - strongs: G1217
-    proximity: 0.83
+    lemma: δημιουργός
+    gloss: a worker for the people {openscriptures-strongs}
+    proximity: 0.83 {macula-proximity}
     language: greek
   - strongs: G4895
-    proximity: 0.8298
+    lemma: σύνειμι
+    gloss: to be in company with {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G867
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G1627
-    proximity: 0.8293
+    lemma: ἐκφέρω
+    gloss: to bear out {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
     language: greek
   - strongs: G1607
-    proximity: 0.8292
+    lemma: ἐκπορεύομαι
+    gloss: to depart {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

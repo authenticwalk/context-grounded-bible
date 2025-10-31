@@ -6,27 +6,29 @@ pronunciation: met-eel'
 definition: an iron bar (as forged)
 kjv_usage: bar.
 derivation: from H2904 (טוּל) in the sense of hammering out;
-extended_definition:
-  gloss: rod
-  definition: hammered bar, wrought iron bar, wrought metal rod
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: hammered bar, wrought iron bar, wrought metal rod {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4133
-    proximity: 0.8186
+    lemma: מוֹטָה
+    gloss: a pole {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: H2415
-    proximity: 0.8148
+    lemma: חֹטֵר
+    gloss: a twig {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
   - strongs: H1280
-    proximity: 0.7638
+    lemma: בְּרִיחַ
+    gloss: a bolt {openscriptures-strongs}
+    proximity: 0.7638 {macula-proximity}
   - strongs: H1270
-    proximity: 0.7373
+    lemma: בַּרְזֶל
+    gloss: iron {openscriptures-strongs}
+    proximity: 0.7373 {macula-proximity}
   cross_language:
   - strongs: G4463
-    proximity: 0.7771
+    lemma: ῥαβδίζω
+    gloss: to strike with a stick {openscriptures-strongs}
+    proximity: 0.7771 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

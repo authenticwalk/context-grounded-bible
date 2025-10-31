@@ -7,48 +7,68 @@ definition: third; feminine athird (part); by extension, a third (day, year or t
   specifically, a third-story cell)
 kjv_usage: third (part, rank, time), three (years old).
 derivation: ordinal from H7969 (שָׁלוֹשׁ);
-extended_definition:
-  gloss: third
-  definition: 1) third, one third, third part, third time<br>1a) ordinal number
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) third, one third, third part, third time
+
+  1a) ordinal number {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2549
-    proximity: 0.8257
+    lemma: חֲמִישִׁי
+    gloss: fifth {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H8345
-    proximity: 0.8233
+    lemma: שִׁשִּׁי
+    gloss: sixth {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H6249
-    proximity: 0.82
+    lemma: עַשְׁתֵּי
+    gloss: eleven or  eleventh {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
   - strongs: H6224
-    proximity: 0.8178
+    lemma: עֲשִׂירִי
+    gloss: tenth {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   - strongs: H7637
-    proximity: 0.8147
+    lemma: שְׁבִיעִי
+    gloss: seventh {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: H8141
-    proximity: 0.8132
+    lemma: שָׁנֶה
+    gloss: a year {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
   - strongs: H6241
-    proximity: 0.8045
+    lemma: עִשָּׂרוֹן
+    gloss: a tenth part {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
   - strongs: A2298
-    proximity: 0.8012
+    proximity: 0.8012 {macula-proximity}
   - strongs: H6256
-    proximity: 0.7803
+    lemma: עֵת
+    gloss: time {openscriptures-strongs}
+    proximity: 0.7803 {macula-proximity}
   - strongs: H6471
-    proximity: 0.7605
+    lemma: פַּעַם
+    gloss: a stroke {openscriptures-strongs}
+    proximity: 0.7605 {macula-proximity}
   cross_language:
   - strongs: G3391
-    proximity: 0.8259
+    lemma: μία
+    gloss: one or first {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G1520
-    proximity: 0.8037
+    lemma: εἷς
+    gloss: one {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
     language: greek
   - strongs: G5148
-    proximity: 0.8018
+    lemma: τριετία
+    gloss: a three years' period {openscriptures-strongs}
+    proximity: 0.8018 {macula-proximity}
     language: greek
   - strongs: G5152
-    proximity: 0.7163
+    lemma: τρίστεγον
+    gloss: a third roof {openscriptures-strongs}
+    proximity: 0.7163 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

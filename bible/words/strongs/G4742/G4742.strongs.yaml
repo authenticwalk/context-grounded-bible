@@ -6,63 +6,64 @@ definition: a mark incised or punched (for recognition of ownership), i.e. (figu
   scar of service
 kjv_usage: mark
 derivation: from a primary (to "stick", i.e. prick);
-extended_definition:
-  gloss: mark
-  definition: '<b>στίγμα -τος</b>, τό<BR /> (στίζω, to prick), [in LXX: <ref=''Sng.1.11''>Sng.1:11</ref>
-    (נְקֻדָּה) * ;] <BR /><b>a tattoed mark or brand</b>: τὰ σ. τοῦ Ἰησοῦ, <ref=''Gal.6.17''>Gal.6:17</ref>
-    (see Lft., in l; Deiss., BS, 349; <i>LAE</i>, 303; MM, xxiii).†<BR /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> στῐγ-μα</b>, ατος, τό, <br /> <b>tattoo-mark</b>, [<a href="javascript:void(0)"
-    title=" 5th c.BC: Herodotus Historicus 5.35, 4th c.BC: Aristoteles Philosophus
-    “Historia Animalium” 585b33, “GA” 721b32, “IG” 42(1).121.48, +others (Epid., 4th
-    c.BC), 2nd c.AD: Polyaenus Historicus 1.24 ">Refs 5th c.BC+</a>]; σ. ἱρά, showing
-    that the persons so marked were devoted to the service of the temple, [<a href="javascript:void(0)"
-    title=" 5th c.BC: Herodotus Historicus 2.113 ">Refs 5th c.BC+</a>]; especially
-    of a slave, [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Comicus
-    187, 1st c.AD(?): Pseudo-Phocylidea 225, “Codex Theodosianus [5th c.AD]” 10. 22.4;
-    or a soldier, [prev. passage], 6th c.AD: Aëtius Medicus 8.12; στίγματα ἐξαίρει
-    βατράχειον καταπλασθέν 1st c.AD: Dioscorides (Dioscurides) Medicus “Eup.” 1.110:
-    so _metaphorically_, σ. Ἰησοῦ NT.Gal.6.17 (_plural_)">NT+5th c.BC+</a>]; ἀνωφελῆ
-    σ., of inscribed laws, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Dio
-    Chrysostomus Sophista 80.5. ">Refs 1st c.AD+</a>]<br /><Level3><b>__2</b></Level3>
-    generally, <b>mark, spot</b>, as on the dragon''s skin, [<a href="javascript:void(0)"
-    title=" 8th-7th c.BC: Hesiodus Epicus “Scutum Herculis” 166, compare 2nd c.AD:
-    Pausanias Periegeta 8.2.7, 8.4.7. ">Refs 8th c.BC+</a>]<br /><Level3><b>__3</b></Level3>
-    <b>stud</b>, [<a href="javascript:void(0)" title=" LXX.Cant.1.11. ">LXX</a>]<br
-    /><Level3><b>__4</b></Level3> σ. χρυσοῦν <b>colour</b> of gold, Ps.[<a href="javascript:void(0)"
-    title=" 3rd c.AD: Democritus Epigrammaticus cited in Zos.Alch. p.119 5th c.BC:
-    Bacchylides Lyricus, comparep.126 5th c.BC: Bacchylides Lyricus ">Refs 5th c.BC+</a>]<br
-    /><Level3><b>__5</b></Level3>= <b>cicatricis signum,</b> [<a href="javascript:void(0)"
-    title="“Corpus Glossariorum Latinorum”">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'στίγμα -τος, τό
+
+  (στίζω, to prick), [in LXX: Sng.1:11 (נְקֻדָּה) * ;]
+
+  a tattoed mark or brand: τὰ σ. τοῦ Ἰησοῦ, Gal.6:17 (see Lft., in l; Deiss., BS,
+  349; LAE, 303; MM, xxiii).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'στῐγ-μα, ατος, τό,
+
+  tattoo-mark, [Refs 5th c.BC+]; σ. ἱρά, showing that the persons so marked were devoted
+  to the service of the temple, [Refs 5th c.BC+]; especially of a slave, [NT+5th c.BC+];
+  ἀνωφελῆ σ., of inscribed laws, [Refs 1st c.AD+]
+
+  __2 generally, mark, spot, as on the dragon''s skin, [Refs 8th c.BC+]
+
+  __3 stud, [LXX]
+
+  __4 σ. χρυσοῦν colour of gold, Ps.[Refs 5th c.BC+]
+
+  __5= cicatricis signum, [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4972
-    proximity: 0.8034
+    lemma: σφραγίζω
+    gloss: to stamp  for security or preservation {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
   - strongs: G4593
-    proximity: 0.789
+    lemma: σημειόω
+    gloss: to distinguish {openscriptures-strongs}
+    proximity: 0.789 {macula-proximity}
   - strongs: G3902
-    proximity: 0.7799
+    lemma: παράσημος
+    gloss: side-marked {openscriptures-strongs}
+    proximity: 0.7799 {macula-proximity}
   - strongs: G3138
-    proximity: 0.7302
+    lemma: Μάρκος
+    gloss: Marcus {openscriptures-strongs}
+    proximity: 0.7302 {macula-proximity}
   cross_language:
   - strongs: H3799
-    proximity: 0.8021
+    lemma: כָּתַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
     language: hebrew
   - strongs: H2368
-    proximity: 0.793
+    lemma: חוֹתָם
+    gloss: a signature-ring {openscriptures-strongs}
+    proximity: 0.793 {macula-proximity}
     language: hebrew
   - strongs: H3793
-    proximity: 0.7593
+    lemma: כְּתֹבֶת
+    gloss: a letter or other mark branded on the skin {openscriptures-strongs}
+    proximity: 0.7593 {macula-proximity}
     language: hebrew
   - strongs: H8420
-    proximity: 0.7216
+    lemma: תָּו
+    gloss: a mark {openscriptures-strongs}
+    proximity: 0.7216 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,40 +7,47 @@ definition: Ashtaroth, the name of a Sidonian deity, and of a place East of the 
 kjv_usage: Asharoth, Astaroth. See also H1045 (בֵּית עַשְׁתָּרוֹת), H6253 (עַשְׁתֹּרֶת),
   H6255 (עַשְׁתְּרֹת קַרְנַיִם).
 derivation: or עַשְׁתָּרֹת; plural of H6251 (עַשְׁתְּרָה);
-extended_definition:
-  gloss: Ashtaroth
-  definition: <BR> § Ashtaroth or Astaroth = "star"<br> a city in Bashan east of the
-    Jordan given to Manasseh
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Ashtaroth or Astaroth = "star"
+
+  a city in Bashan east of the Jordan given to Manasseh {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6271
-    proximity: 0.8242
+    lemma: עֲתַלְיָה
+    gloss: Athaljah {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H6271a
-    proximity: 0.824
+    proximity: 0.824 {macula-proximity}
   - strongs: H243
-    proximity: 0.8234
+    proximity: 0.8234 {macula-proximity}
   - strongs: H37
-    proximity: 0.8213
+    proximity: 0.8213 {macula-proximity}
   - strongs: H6265
-    proximity: 0.8208
+    lemma: עֲתָיָה
+    gloss: Athajah {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   - strongs: H630
-    proximity: 0.8035
+    proximity: 0.8035 {macula-proximity}
   - strongs: H5855
-    proximity: 0.7967
+    lemma: עַטְרוֹת שׁוֹפָן
+    gloss: Atroth-Shophan {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
   - strongs: H5853
-    proximity: 0.7814
+    lemma: עַטְרוֹת אַדָּר
+    gloss: Atroth-Addar {openscriptures-strongs}
+    proximity: 0.7814 {macula-proximity}
   - strongs: H1203
-    proximity: 0.7788
+    lemma: בְּעֶשְׁתְּרָה
+    gloss: Beeshterah {openscriptures-strongs}
+    proximity: 0.7788 {macula-proximity}
   - strongs: H6254
-    proximity: 0.7522
+    lemma: עַשְׁתְּרָתִי
+    gloss: an Ashterathite or inhabitant of Ashtaroth {openscriptures-strongs}
+    proximity: 0.7522 {macula-proximity}
   cross_language:
   - strongs: G5174
-    proximity: 0.8068
+    lemma: Τρωάς
+    gloss: the Troad {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

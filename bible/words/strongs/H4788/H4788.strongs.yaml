@@ -6,51 +6,65 @@ pronunciation: maw-rood'
 definition: an outcast; (abstractly) destitution
 kjv_usage: cast out, misery.
 derivation: from H7300 (רוּד) in the sense of maltreatment;
-extended_definition:
-  gloss: wandering
-  definition: restlessness, straying, wanderer, refugee
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: restlessness, straying, wanderer, refugee {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6862
-    proximity: 0.829
+    lemma: צַר
+    gloss: narrow {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: H6735b
-    proximity: 0.8272
+    proximity: 0.8272 {macula-proximity}
   - strongs: H1830
-    proximity: 0.8263
+    lemma: דָּמַע
+    gloss: to weep {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: H2256c
-    proximity: 0.8263
+    proximity: 0.8263 {macula-proximity}
   - strongs: H6234
-    proximity: 0.818
+    lemma: עׇשְׁקָה
+    gloss: anguish {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: H5112
-    proximity: 0.8113
+    lemma: נוֹד
+    gloss: exile {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
   - strongs: H6039
-    proximity: 0.8113
+    lemma: עֱנוּת
+    gloss: affliction {openscriptures-strongs}
+    proximity: 0.8113 {macula-proximity}
   - strongs: H4814
-    proximity: 0.8073
+    lemma: מְרִירוּת
+    gloss: bitterness {openscriptures-strongs}
+    proximity: 0.8073 {macula-proximity}
   - strongs: H2559
-    proximity: 0.8027
+    lemma: חָמַק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
   - strongs: H1832
-    proximity: 0.8022
+    lemma: דִּמְעָה
+    gloss: weeping {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
   cross_language:
   - strongs: G4192
-    proximity: 0.8284
+    lemma: πόνος
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: greek
   - strongs: G2346
-    proximity: 0.828
+    lemma: θλίβω
+    gloss: to crowd {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G931
-    proximity: 0.8263
+    proximity: 0.8263 {macula-proximity}
     language: greek
   - strongs: G3804
-    proximity: 0.8181
+    lemma: πάθημα
+    gloss: something undergone {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
     language: greek
   - strongs: G790
-    proximity: 0.8173
+    proximity: 0.8173 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

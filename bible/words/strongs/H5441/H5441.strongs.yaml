@@ -6,29 +6,31 @@ pronunciation: so'-bek
 definition: a copse
 kjv_usage: thicket.
 derivation: from H5440 (סָבַךְ);
-extended_definition:
-  gloss: thicket
-  definition: thicket
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: thicket {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5687
-    proximity: 0.8216
+    lemma: עָבֹת
+    gloss: intwined {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   - strongs: H2793a
-    proximity: 0.8075
+    proximity: 0.8075 {macula-proximity}
   - strongs: H6508
-    proximity: 0.7879
+    lemma: פַּרְדֵּס
+    gloss: a park {openscriptures-strongs}
+    proximity: 0.7879 {macula-proximity}
   - strongs: H5645
-    proximity: 0.7666
+    lemma: עָב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7666 {macula-proximity}
   - strongs: H7730
-    proximity: 0.7523
+    lemma: שׂוֹבֶךְ
+    gloss: a thicket {openscriptures-strongs}
+    proximity: 0.7523 {macula-proximity}
   cross_language:
   - strongs: G1186
-    proximity: 0.8016
+    lemma: δένδρον
+    gloss: a tree {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

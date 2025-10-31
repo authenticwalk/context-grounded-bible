@@ -5,45 +5,52 @@ transliteration: pagideúō
 definition: to ensnare (figuratively)
 kjv_usage: entangle
 derivation: from G3803 (παγίς);
-extended_definition:
-  gloss: to trap
-  definition: '<b>παγιδεύω</b><BR /> (παγίς), [in LXX: <ref=''1Sa.28.9''>1Ki.28:9</ref>
-    (נָקַשׁ hith.), <ref=''Ecc.9.12''>Ecc.9:12</ref> (יָקֹשׁ pu.)* ;] <BR /><b>to
-    ensnare</b>: metaphorically, with accusative, ἐν λόγῳ, <ref=''Mat.22.15''>Mat.22:15</ref>
-    (not elsewhere).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> πᾰγιδ-εύω</b>, <br /> (παγίς) <b>lay a snare for, entrap</b>,
-    [<a href="javascript:void(0)" title=" LXX.1Ki.28.9, NT.Matt.22.15. ">LXX+NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'παγιδεύω
+
+  (παγίς), [in LXX: 1Ki.28:9 (נָקַשׁ hith.), Ecc.9:12 (יָקֹשׁ pu.)* ;]
+
+  to ensnare: metaphorically, with accusative, ἐν λόγῳ, Mat.22:15 (not elsewhere).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'πᾰγιδ-εύω,
+
+  (παγίς) lay a snare for, entrap, [LXX+NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2596
-    proximity: 0.8297
+    lemma: κατά
+    gloss: down {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: G3860
-    proximity: 0.8213
+    lemma: παραδίδωμι
+    gloss: to surrender {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
   - strongs: G3803
-    proximity: 0.7414
+    lemma: παγίς
+    gloss: a trap {openscriptures-strongs}
+    proximity: 0.7414 {macula-proximity}
   cross_language:
   - strongs: H7451
-    proximity: 0.8277
+    lemma: רַע
+    gloss: bad or  evil {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: hebrew
   - strongs: H1848
-    proximity: 0.8276
+    lemma: דׇּפִי
+    gloss: a stumbling-block {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: hebrew
   - strongs: H6030
-    proximity: 0.8269
+    lemma: עָנָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
     language: hebrew
   - strongs: H7451b
-    proximity: 0.8238
+    proximity: 0.8238 {macula-proximity}
     language: hebrew
   - strongs: H7825
-    proximity: 0.7829
+    lemma: שְׁחִית
+    gloss: a pit-fall {openscriptures-strongs}
+    proximity: 0.7829 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

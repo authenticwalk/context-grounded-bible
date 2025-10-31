@@ -6,34 +6,40 @@ pronunciation: mekh-ab-ber-aw'
 definition: a joiner, i.e. brace or cramp
 kjv_usage: coupling, joining.
 derivation: from H2266 (חָבַר);
-extended_definition:
-  gloss: clamp
-  definition: binder, clamp, joint
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: binder, clamp, joint {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3773
-    proximity: 0.8282
+    lemma: כָּרֻתָה
+    gloss: something cut {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H7175
-    proximity: 0.8201
+    lemma: קֶרֶשׁ
+    gloss: a slab or plank {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
   - strongs: H3867
-    proximity: 0.7991
+    lemma: לָוָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: H2443
-    proximity: 0.7915
+    lemma: חַכָּה
+    gloss: a hook {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
   - strongs: H6791
-    proximity: 0.7688
+    lemma: צֵן
+    gloss: a thorn {openscriptures-strongs}
+    proximity: 0.7688 {macula-proximity}
   - strongs: H8240a
-    proximity: 0.7326
+    proximity: 0.7326 {macula-proximity}
   cross_language:
   - strongs: G4347
-    proximity: 0.7915
+    lemma: προσκολλάω
+    gloss: to glue to {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
     language: greek
   - strongs: G1385
-    proximity: 0.778
+    lemma: δοκός
+    gloss: a stick of timber {openscriptures-strongs}
+    proximity: 0.778 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

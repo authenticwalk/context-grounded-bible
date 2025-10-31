@@ -6,39 +6,49 @@ pronunciation: zeh'-rakh
 definition: a rising of light
 kjv_usage: rising.
 derivation: from H2224 (זָרַח);
-extended_definition:
-  gloss: dawning
-  definition: dawning, shining
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: dawning, shining {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2094
-    proximity: 0.8084
+    lemma: זָהַר
+    gloss: to gleam {openscriptures-strongs}
+    proximity: 0.8084 {macula-proximity}
   - strongs: H7426
-    proximity: 0.7919
+    lemma: רָמַם
+    gloss: to rise {openscriptures-strongs}
+    proximity: 0.7919 {macula-proximity}
   - strongs: H7012
-    proximity: 0.7919
+    lemma: קִימָה
+    gloss: an arising {openscriptures-strongs}
+    proximity: 0.7919 {macula-proximity}
   - strongs: H7427
-    proximity: 0.7598
+    lemma: רֹמֵמֻת
+    gloss: exaltation {openscriptures-strongs}
+    proximity: 0.7598 {macula-proximity}
   - strongs: H7315
-    proximity: 0.7505
+    lemma: רוֹם
+    gloss: elevation {openscriptures-strongs}
+    proximity: 0.7505 {macula-proximity}
   - strongs: H7837
-    proximity: 0.7398
+    lemma: שַׁחַר
+    gloss: dawn (literal {openscriptures-strongs}
+    proximity: 0.7398 {macula-proximity}
   - strongs: H5051
-    proximity: 0.7345
+    lemma: נֹגַהּ
+    gloss: brilliancy {openscriptures-strongs}
+    proximity: 0.7345 {macula-proximity}
   cross_language:
   - strongs: G5458
-    proximity: 0.8149
+    lemma: φωστήρ
+    gloss: an illuminator {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
     language: greek
   - strongs: G1306
-    proximity: 0.7478
+    lemma: διαυγάζω
+    gloss: to glimmer through {openscriptures-strongs}
+    proximity: 0.7478 {macula-proximity}
     language: greek
   - strongs: G541
-    proximity: 0.713
+    proximity: 0.713 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

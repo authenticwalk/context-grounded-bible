@@ -6,45 +6,56 @@ pronunciation: yek-oom'
 definition: properly, standing (extant), i.e. by implication, a living thing
 kjv_usage: (living) substance.
 derivation: from H6965 (קוּם);
-extended_definition:
-  gloss: existence
-  definition: living substance, that which stands or exists, existence, substance
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: living substance, that which stands or exists, existence, substance
+  {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1320
-    proximity: 0.8171
+    lemma: בָּשָׂר
+    gloss: flesh {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: H3387
-    proximity: 0.8032
+    lemma: יָרוֹק
+    gloss: green {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
   - strongs: H2416e
-    proximity: 0.8031
+    proximity: 0.8031 {macula-proximity}
   - strongs: H2416d
-    proximity: 0.7937
+    proximity: 0.7937 {macula-proximity}
   - strongs: H5315
-    proximity: 0.79
+    lemma: נֶפֶשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.79 {macula-proximity}
   - strongs: H8318
-    proximity: 0.7604
+    lemma: שֶׁרֶץ
+    gloss: a swarm {openscriptures-strongs}
+    proximity: 0.7604 {macula-proximity}
   - strongs: H2421
-    proximity: 0.7251
+    lemma: חָיָה
+    gloss: to live {openscriptures-strongs}
+    proximity: 0.7251 {macula-proximity}
   cross_language:
   - strongs: G4229
-    proximity: 0.8009
+    lemma: πρᾶγμα
+    gloss: a deed {openscriptures-strongs}
+    proximity: 0.8009 {macula-proximity}
     language: greek
   - strongs: G1305
-    proximity: 0.7934
+    lemma: διατροφή
+    gloss: nourishment {openscriptures-strongs}
+    proximity: 0.7934 {macula-proximity}
     language: greek
   - strongs: G2225
-    proximity: 0.7829
+    lemma: ζωογονέω
+    gloss: to engender alive {openscriptures-strongs}
+    proximity: 0.7829 {macula-proximity}
     language: greek
   - strongs: G1236
-    proximity: 0.7758
+    lemma: διάγω
+    gloss: to pass time or life {openscriptures-strongs}
+    proximity: 0.7758 {macula-proximity}
     language: greek
   - strongs: G979
-    proximity: 0.7727
+    proximity: 0.7727 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

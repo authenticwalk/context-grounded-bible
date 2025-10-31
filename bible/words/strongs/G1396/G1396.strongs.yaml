@@ -5,58 +5,65 @@ transliteration: doulagōgéō
 definition: to be a slave-driver, i.e. to enslave (figuratively, subdue)
 kjv_usage: bring into subjection
 derivation: from a presumed compound of G1401 (δοῦλος) and G71 (ἄγω);
-extended_definition:
-  gloss: to enslave
-  definition: '<b>δουλαγωγέω</b>, -ῶ<BR /> (δοῦλος, ἄγω), <BR /><b>to make a slave,
-    bring into bondage</b>: <ref=''1Co.9.27''>1Co.9:27</ref> (Cremer, 703).†<BR />
-    (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> δουλᾰγωγ-έω</b>, <br /> <b>make a slave, treat as such,</b>
-    uncertain in [<a href="javascript:void(0)" title=" 1st c.BC: Diodorus Siculus
-    Historicus 12.24, compare 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes”
-    3.24.76. ">Refs 1st c.BC+</a>]<br /><Level3><b>__2</b></Level3> <i>metaphorically</i>
-    of pleasure, etc., δ. τοὺς βίους [<a href="javascript:void(0)" title=" 3rd c.AD:
-    Longinus Rhetor 44.6, compare 2nd c.AD(?): Charito Scriptor Eroticus 2.7 ">Refs
-    2nd c.AD+</a>]; τὸ σῶμα <b>bring</b> it <b>into subjection,</b> [<a href="javascript:void(0)"
-    title=" NT.1Cor.9.27. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'δουλαγωγέω, -ῶ
+
+  (δοῦλος, ἄγω),
+
+  to make a slave, bring into bondage: 1Co.9:27 (Cremer, 703).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'δουλᾰγωγ-έω,
+
+  make a slave, treat as such, uncertain in [Refs 1st c.BC+]
+
+  __2 metaphorically of pleasure, etc., δ. τοὺς βίους [Refs 2nd c.AD+]; τὸ σῶμα bring
+  it into subjection, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5270
-    proximity: 0.8294
+    lemma: ὑποκάτω
+    gloss: down under {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: G2736a
-    proximity: 0.829
+    proximity: 0.829 {macula-proximity}
   - strongs: G506
-    proximity: 0.8274
+    proximity: 0.8274 {macula-proximity}
   - strongs: A8460
-    proximity: 0.823
+    proximity: 0.823 {macula-proximity}
   - strongs: G1402
-    proximity: 0.8209
+    lemma: δουλόω
+    gloss: to enslave {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: G1397
-    proximity: 0.8161
+    lemma: δουλεία
+    gloss: slavery {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: G544
-    proximity: 0.8016
+    proximity: 0.8016 {macula-proximity}
   - strongs: G5219
-    proximity: 0.8015
+    lemma: ὑπακούω
+    gloss: to hear under {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
   - strongs: G3876
-    proximity: 0.7975
+    lemma: παρακοή
+    gloss: inattention {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
   - strongs: G543
-    proximity: 0.7901
+    proximity: 0.7901 {macula-proximity}
   cross_language:
   - strongs: H4703
-    proximity: 0.8284
+    lemma: מִצְעָד
+    gloss: a step {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: hebrew
   - strongs: H4928
-    proximity: 0.8165
+    lemma: מִשְׁמַעַת
+    gloss: audience {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: hebrew
   - strongs: H3349
-    proximity: 0.7873
+    lemma: יִקָּהָה
+    gloss: obedience {openscriptures-strongs}
+    proximity: 0.7873 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,46 +6,65 @@ pronunciation: yeh'-shah
 definition: liberty, deliverance, prosperity
 kjv_usage: safety, salvation, saving.
 derivation: or יֵשַׁע; from H3467 (יָשַׁע);
-extended_definition:
-  gloss: salvation
-  definition: 1) deliverance, salvation, rescue, safety, welfare<br>1a) safety, welfare,
-    prosperity<br>1b) salvation<br>1c) victory
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) deliverance, salvation, rescue, safety, welfare
+
+  1a) safety, welfare, prosperity
+
+  1b) salvation
+
+  1c) victory {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H360
-    proximity: 0.8185
+    proximity: 0.8185 {macula-proximity}
   - strongs: H6475
-    proximity: 0.805
+    lemma: פָּצָה
+    gloss: to rend {openscriptures-strongs}
+    proximity: 0.805 {macula-proximity}
   - strongs: H2502
-    proximity: 0.7826
+    lemma: חָלַץ
+    gloss: to pull off {openscriptures-strongs}
+    proximity: 0.7826 {macula-proximity}
   - strongs: H4422
-    proximity: 0.7756
+    lemma: מָלַט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7756 {macula-proximity}
   - strongs: H6413
-    proximity: 0.7671
+    lemma: פְּלֵיטָה
+    gloss: deliverance {openscriptures-strongs}
+    proximity: 0.7671 {macula-proximity}
   - strongs: H6304
-    proximity: 0.7444
+    lemma: פְּדוּת
+    gloss: distinction {openscriptures-strongs}
+    proximity: 0.7444 {macula-proximity}
   - strongs: H7682
-    proximity: 0.7434
+    lemma: שָׂגַב
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7434 {macula-proximity}
   - strongs: H6308
-    proximity: 0.736
+    lemma: פָּדַע
+    gloss: to retrieve {openscriptures-strongs}
+    proximity: 0.736 {macula-proximity}
   - strongs: H1350a
-    proximity: 0.727
+    proximity: 0.727 {macula-proximity}
   - strongs: H5337
-    proximity: 0.7063
+    lemma: נָצַל
+    gloss: to snatch away {openscriptures-strongs}
+    proximity: 0.7063 {macula-proximity}
   cross_language:
   - strongs: G1314
-    proximity: 0.8063
+    lemma: διαφυλάσσω
+    gloss: to guard thoroughly {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
     language: greek
   - strongs: G3529
-    proximity: 0.7766
+    lemma: νίκη
+    gloss: conquest {openscriptures-strongs}
+    proximity: 0.7766 {macula-proximity}
     language: greek
   - strongs: G3534
-    proximity: 0.7541
+    lemma: νῖκος
+    gloss: a conquest {openscriptures-strongs}
+    proximity: 0.7541 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

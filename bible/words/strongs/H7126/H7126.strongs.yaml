@@ -8,48 +8,61 @@ kjv_usage: (cause to) approach, (cause to) bring (forth, near), (cause to) come 
   nigh), (cause to) draw near (nigh), go (near), be at hand, join, be near, offer,
   present, produce, make ready, stand, take.
 derivation: a primitive root;
-extended_definition:
-  gloss: 'to present: bring'
-  definition: ': bring/offer<br>1) to come near, approach, enter into, draw near<br>1a)
-    (Qal) to approach, draw near<br>1b) (Niphal) to be brought near<br>1c) (Piel)
-    to cause to approach, bring near, cause to draw near<br>1d) (Hiphil) to bring
-    near, bring, present'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: ': bring/offer
+
+  1) to come near, approach, enter into, draw near
+
+  1a) (Qal) to approach, draw near
+
+  1b) (Niphal) to be brought near
+
+  1c) (Piel) to cause to approach, bring near, cause to draw near
+
+  1d) (Hiphil) to bring near, bring, present {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2064
-    proximity: 0.8254
+    lemma: זָבַד
+    gloss: to confer {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: H4229a
-    proximity: 0.8229
+    proximity: 0.8229 {macula-proximity}
   - strongs: A236
-    proximity: 0.8222
+    proximity: 0.8222 {macula-proximity}
   - strongs: H6213
-    proximity: 0.8213
+    lemma: עָשָׂה
+    gloss: to do or make {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
   - strongs: H7311
-    proximity: 0.8193
+    lemma: רוּם
+    gloss: to be high actively {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H5048
-    proximity: 0.8189
+    lemma: נֶגֶד
+    gloss: a front {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
   - strongs: H5534a
-    proximity: 0.817
+    proximity: 0.817 {macula-proximity}
   cross_language:
   - strongs: G1904
-    proximity: 0.8299
+    lemma: ἐπέρχομαι
+    gloss: to supervene {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G565
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G2192
-    proximity: 0.8272
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G520
-    proximity: 0.8259
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G1863
-    proximity: 0.824
+    lemma: ἐπάγω
+    gloss: to superinduce {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

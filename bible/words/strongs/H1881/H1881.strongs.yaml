@@ -6,38 +6,49 @@ pronunciation: dawth
 definition: a royal edict or statute
 kjv_usage: commandment, commission, decree, law, manner.
 derivation: of uncertain (perhaps foreign) derivation;
-extended_definition:
-  gloss: law
-  definition: '1) decree, law, edict, regulation, usage<br>1a) decree, edict, commission<br>1b)
-    law, rule<BR>Aramaic equivalent: <i>dat</i> (דָּת "law" H1882)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) decree, law, edict, regulation, usage
+
+  1a) decree, edict, commission
+
+  1b) law, rule
+
+  Aramaic equivalent: dat (דָּת "law" H1882) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A4406
-    proximity: 0.83
+    proximity: 0.83 {macula-proximity}
   - strongs: H5612
-    proximity: 0.8233
+    lemma: סֵפֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H1697
-    proximity: 0.7841
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
   cross_language:
   - strongs: G1299
-    proximity: 0.8287
+    lemma: διατάσσω
+    gloss: to arrange thoroughly {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G3848
-    proximity: 0.828
+    lemma: παραβάτης
+    gloss: a violator {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G1291
-    proximity: 0.8261
+    lemma: διαστέλλομαι
+    gloss: to set  apart (figuratively {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: greek
   - strongs: G1778
-    proximity: 0.818
+    lemma: ἔνταλμα
+    gloss: an injunction {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
     language: greek
   - strongs: G3853
-    proximity: 0.8109
+    lemma: παραγγέλλω
+    gloss: to transmit a message {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

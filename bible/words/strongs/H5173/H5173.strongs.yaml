@@ -6,47 +6,61 @@ pronunciation: nakh'-ash
 definition: an incantation or augury
 kjv_usage: enchantment.
 derivation: from H5172 (נָחַשׁ);
-extended_definition:
-  gloss: divination
-  definition: divination, enchantment
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: divination, enchantment {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A826
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
   - strongs: H6049
-    proximity: 0.8253
+    lemma: עָנַן
+    gloss: figuratively {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
   - strongs: H779
-    proximity: 0.8251
+    proximity: 0.8251 {macula-proximity}
   - strongs: H6895
-    proximity: 0.8222
+    lemma: קָבַב
+    gloss: to scoop out {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H3908
-    proximity: 0.8143
+    lemma: לַחַשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
   - strongs: H3784
-    proximity: 0.7971
+    lemma: כָּשַׁף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7971 {macula-proximity}
   - strongs: H3994
-    proximity: 0.775
+    lemma: מְאֵרָה
+    gloss: an execration {openscriptures-strongs}
+    proximity: 0.775 {macula-proximity}
   - strongs: H3909
-    proximity: 0.7359
+    lemma: לָט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7359 {macula-proximity}
   cross_language:
   - strongs: G2671
-    proximity: 0.8278
+    lemma: κατάρα
+    gloss: imprecation {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
   - strongs: G1944
-    proximity: 0.8167
+    lemma: ἐπικατάρατος
+    gloss: imprecated {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G2940
-    proximity: 0.7851
+    lemma: κυβεία
+    gloss: gambling {openscriptures-strongs}
+    proximity: 0.7851 {macula-proximity}
     language: greek
   - strongs: G2672
-    proximity: 0.781
+    lemma: καταράομαι
+    gloss: to execrate {openscriptures-strongs}
+    proximity: 0.781 {macula-proximity}
     language: greek
   - strongs: G3096
-    proximity: 0.7648
+    lemma: μαγεύω
+    gloss: to practice magic {openscriptures-strongs}
+    proximity: 0.7648 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

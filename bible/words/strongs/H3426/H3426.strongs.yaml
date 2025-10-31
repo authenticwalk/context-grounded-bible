@@ -10,45 +10,59 @@ kjv_usage: (there) are, (he, it, shall, there, there may, there shall, there sho
   substance, it (there) was, (there) were, ye will, thou wilt, wouldest.
 derivation: perhaps from an unused root meaning to stand out, or exist; entity; used
   adverbially or as a copula for the substantive verb (H1961 (הָיָה));
-extended_definition:
-  gloss: there
-  definition: '1) being, existence, substance, there is or are<br>1a) substance<br>1b)
-    existence<br>1c) there is or are<BR>Aramaic equivalent: <i>i.tay</i> (אִיתַי "there
-    is" H0383)'
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) being, existence, substance, there is or are
+
+  1a) substance
+
+  1b) existence
+
+  1c) there is or are
+
+  Aramaic equivalent: i.tay (אִיתַי "there is" H0383) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2054
-    proximity: 0.8292
+    lemma: וָזָר
+    gloss: crime {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: H1952
-    proximity: 0.8292
+    lemma: הוֹן
+    gloss: wealth {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: A431
-    proximity: 0.8267
+    proximity: 0.8267 {macula-proximity}
   - strongs: H2400
-    proximity: 0.8218
+    lemma: חַטָּא
+    gloss: a criminal {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H3724
-    proximity: 0.8215
+    lemma: כֹּפֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: A1934
-    proximity: 0.8195
+    proximity: 0.8195 {macula-proximity}
   cross_language:
   - strongs: G361
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G1565
-    proximity: 0.8289
+    lemma: ἐκεῖνος
+    gloss: that one  thing) {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: greek
   - strongs: G3605
-    proximity: 0.8267
+    lemma: ὄζω
+    gloss: to scent {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
     language: greek
   - strongs: G1820
-    proximity: 0.8265
+    lemma: ἐξαπορέομαι
+    gloss: to be utterly at a loss {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
     language: greek
   - strongs: G1576
-    proximity: 0.8212
+    lemma: ἐκκλείω
+    gloss: to shut out {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

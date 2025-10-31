@@ -6,29 +6,39 @@ pronunciation: raw-gan'
 definition: to grumble, i.e. rebel
 kjv_usage: murmur.
 derivation: a primitive root;
-extended_definition:
-  gloss: to grumble
-  definition: '1) to murmur, whisper<br>1a) (Qal) murmurer (participle)<br>1b) (Niphal)<br>1b1)
-    to murmur<br>1b2) backbiter (participle)<BR>Also means: <i>nir.gan</i> (נִרְגָּן
-    "whisperer" H5372)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to murmur, whisper
+
+  1a) (Qal) murmurer (participle)
+
+  1b) (Niphal)
+
+  1b1) to murmur
+
+  1b2) backbiter (participle)
+
+  Also means: nir.gan (נִרְגָּן "whisperer" H5372) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1696
-    proximity: 0.8295
+    lemma: דָבַר
+    gloss: perhaps properly {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H5201
-    proximity: 0.828
+    lemma: נָטַר
+    gloss: to guard {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
   - strongs: H7879
-    proximity: 0.8115
+    lemma: שִׂיחַ
+    gloss: a contemplation {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
   - strongs: H4808
-    proximity: 0.8024
+    lemma: מְרִיבָה
+    gloss: quarrel {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   cross_language:
   - strongs: G4727
-    proximity: 0.7589
+    lemma: στενάζω
+    gloss: to make (intransitively {openscriptures-strongs}
+    proximity: 0.7589 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

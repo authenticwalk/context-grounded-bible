@@ -6,48 +6,59 @@ pronunciation: go'-al
 definition: abhorrence
 kjv_usage: loathing.
 derivation: from H1602 (גָּעַל);
-extended_definition:
-  gloss: loathing
-  definition: loathing
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: loathing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1741
-    proximity: 0.8284
+    lemma: דְּוַי
+    gloss: sickness {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H7590a
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
   - strongs: H947
-    proximity: 0.8235
+    proximity: 0.8235 {macula-proximity}
   - strongs: H5240
-    proximity: 0.8194
+    lemma: נְמִבְזֶה
+    gloss: despised {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H959
-    proximity: 0.8181
+    proximity: 0.8181 {macula-proximity}
   - strongs: H5541
-    proximity: 0.8091
+    lemma: סָלָה
+    gloss: to hang up {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
   - strongs: H2603a
-    proximity: 0.8033
+    proximity: 0.8033 {macula-proximity}
   - strongs: H3973
-    proximity: 0.798
+    lemma: מָאוֹס
+    gloss: refuse {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
   - strongs: H1860
-    proximity: 0.7782
+    lemma: דְּרָאוֹן
+    gloss: an object of aversion {openscriptures-strongs}
+    proximity: 0.7782 {macula-proximity}
   - strongs: H2310
-    proximity: 0.7724
+    lemma: חָדֵל
+    gloss: vacant {openscriptures-strongs}
+    proximity: 0.7724 {macula-proximity}
   cross_language:
   - strongs: G3404
-    proximity: 0.7989
+    lemma: μισέω
+    gloss: to detest {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
     language: greek
   - strongs: G1848
-    proximity: 0.7588
+    lemma: ἐξουθενέω
+    proximity: 0.7588 {macula-proximity}
     language: greek
   - strongs: G1693
-    proximity: 0.7359
+    lemma: ἐμμαίνομαι
+    gloss: to rave on {openscriptures-strongs}
+    proximity: 0.7359 {macula-proximity}
     language: greek
   - strongs: G4360
-    proximity: 0.7306
+    lemma: προσοχθίζω
+    gloss: to feel indignant at {openscriptures-strongs}
+    proximity: 0.7306 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

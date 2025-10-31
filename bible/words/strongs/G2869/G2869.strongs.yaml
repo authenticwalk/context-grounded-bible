@@ -5,58 +5,61 @@ transliteration: kopázō
 definition: to tire, i.e. (figuratively) to relax
 kjv_usage: cease
 derivation: from G2873 (κόπος);
-extended_definition:
-  gloss: to abate
-  definition: '<b>κοπάζω</b><BR /> (κόπος), [in LXX: <ref=''Gen.8.1''>Gen.8:1</ref>,
-    <ref=''Est.2.1; 7.10''>Est.2:1 7:10</ref> (שָׁכַךְ), <ref=''Rut.1.18''>Rut.1:18</ref>,
-    al. (חָדַל), חָדַל), <ref=''Jon.1.11-12''>Jon.1.11-12</ref> (שָׁתַק), al. ;] <BR
-    /><b>to grow weary</b>; of the wind (Hdt., Jh., l.with), <b>to abate, cease raging</b>:
-    <ref=''Mat.14.32''>Mat.14:32</ref>, <ref=''Mrk.4.39; 6.51''>Mrk.4:39 6:51</ref>.†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κοπάζω</b>, <br /> <i>aorist</i> ἐκόπασα (see. below): <i>perfect</i>
-    κεκόπακα [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal icographus
-    ">Refs 5th c.AD+</a>]:—<b>grow weary</b>, τοῦ πολέμου [<a href="javascript:void(0)"
-    title=" LXX.Josh.14.15 ">LXX</a>]; τοῦ θυμοῦ[<a href="javascript:void(0)" title="LXX.Est.2.1
-    ">LXX</a>]; of an abnormal pulsation, <b>abate</b>, [<a href="javascript:void(0)"
-    title=" 5th c.BC: Hippocrates Medicus “ἐπιδημίαι” 7.2 ">Refs 5th c.BC+</a>]; especially
-    of natural phenomena, ἐκόπασε (i.e. ὁ ἄνεμος) [<a href="javascript:void(0)" title="
-    5th c.BC: Herodotus Historicus 7.191, cf. NT.Matt.14.32; ὅταν ἡ λίμνη κοπάσῃ 4th
-    c.BC: Aristoteles Philosophus “Problemata” 935a18; ἐκόπασε τὸ πῦρ LXX.Num.11.2
-    ">NT+5th c.BC+</a>]; of heat, [<a href="javascript:void(0)" title=" 3rd c.AD(?):
-    Longus Scriptor Eroticus 1.8. ">Refs 3rd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κοπάζω
+
+  (κόπος), [in LXX: Gen.8:1, Est.2:1 7:10 (שָׁכַךְ), Rut.1:18, al. (חָדַל), חָדַל),
+  Jon.1.11-12 (שָׁתַק), al. ;]
+
+  to grow weary; of the wind (Hdt., Jh., l.with), to abate, cease raging: Mat.14:32,
+  Mrk.4:39 6:51.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κοπάζω,
+
+  aorist ἐκόπασα (see. below): perfect κεκόπακα [Refs 5th c.AD+]:—grow weary, τοῦ
+  πολέμου [LXX]; τοῦ θυμοῦ[LXX]; of an abnormal pulsation, abate, [Refs 5th c.BC+];
+  especially of natural phenomena, ἐκόπασε (i.e. ὁ ἄνεμος) [NT+5th c.BC+]; of heat,
+  [Refs 3rd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G599
-    proximity: 0.8268
+    proximity: 0.8268 {macula-proximity}
   - strongs: G2263
-    proximity: 0.8094
+    lemma: ἤρεμος
+    gloss: tranquil {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
   - strongs: G5420
-    proximity: 0.8089
+    lemma: φράσσω
+    gloss: to fence or inclose {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: G1254
-    proximity: 0.7941
+    lemma: διακωλύω
+    gloss: to hinder altogether {openscriptures-strongs}
+    proximity: 0.7941 {macula-proximity}
   cross_language:
   - strongs: H7092
-    proximity: 0.8294
+    lemma: קָפַץ
+    gloss: to draw together {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: hebrew
   - strongs: H2856
-    proximity: 0.8189
+    lemma: חָתַם
+    gloss: to close up {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
     language: hebrew
   - strongs: H7503
-    proximity: 0.8139
+    lemma: רָפָה
+    gloss: to slacken (in many applications {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: hebrew
   - strongs: H5975
-    proximity: 0.813
+    lemma: עָמַד
+    gloss: to stand {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
     language: hebrew
   - strongs: H1820
-    proximity: 0.8022
+    lemma: דָּמָה
+    gloss: to be dumb or silent {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,35 +7,37 @@ definition: a suburb (i.e. open country whither flocks are driven from pasture);
   the area around abuilding, or the margin of the sea
 kjv_usage: cast out, suburb.
 derivation: also (in plural) feminine (Ezekiel 27:28) מִגְרָשָׁה; from H1644 (גָּרַשׁ);
-extended_definition:
-  gloss: pasture
-  definition: common, common land, open land, suburb
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: common, common land, open land, suburb {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1366
-    proximity: 0.8194
+    lemma: גְּבוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H2351
-    proximity: 0.798
+    lemma: חוּץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
   - strongs: H776
-    proximity: 0.757
+    proximity: 0.757 {macula-proximity}
   - strongs: H5097
-    proximity: 0.7244
+    lemma: נַהֲלֹל
+    gloss: pasture {openscriptures-strongs}
+    proximity: 0.7244 {macula-proximity}
   - strongs: H5116
-    proximity: 0.7034
+    lemma: נָוֶה
+    gloss: at home {openscriptures-strongs}
+    proximity: 0.7034 {macula-proximity}
   cross_language:
   - strongs: G68
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G63
-    proximity: 0.8232
+    proximity: 0.8232 {macula-proximity}
     language: greek
   - strongs: G3542
-    proximity: 0.7527
+    lemma: νομή
+    gloss: pasture {openscriptures-strongs}
+    proximity: 0.7527 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

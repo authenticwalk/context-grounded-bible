@@ -7,42 +7,53 @@ definition: nine or (ordinal) ninth
 kjv_usage: nine ([phrase] -teen, [phrase] -teenth, -th).
 derivation: or (masculine) תִּשְׁעָה; perhaps from H8159 (שָׁעָה) through the idea
   of a turn to the next or full number ten;
-extended_definition:
-  gloss: nine
-  definition: 1) nine, nonad<br>1a) nine (as cardinal number)<br>1b) ninth (as ordinal
-    number)<br>1c) in combination with other numbers
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: '1) nine, nonad
+
+  1a) nine (as cardinal number)
+
+  1b) ninth (as ordinal number)
+
+  1c) in combination with other numbers {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2549
-    proximity: 0.8289
+    lemma: חֲמִישִׁי
+    gloss: fifth {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: A6243
-    proximity: 0.8221
+    proximity: 0.8221 {macula-proximity}
   - strongs: H7243
-    proximity: 0.8158
+    lemma: רְבִיעִי
+    gloss: fourth {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: A3969
-    proximity: 0.809
+    proximity: 0.809 {macula-proximity}
   - strongs: H259
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
   cross_language:
   - strongs: G5144
-    proximity: 0.826
+    lemma: τριάκοντα
+    gloss: thirty {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
     language: greek
   - strongs: G5071
-    proximity: 0.8127
+    lemma: τετρακόσιοι
+    gloss: four hundred {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
     language: greek
   - strongs: G5064
-    proximity: 0.8109
+    lemma: τέσσαρες
+    gloss: four {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
     language: greek
   - strongs: G1835
-    proximity: 0.8095
+    lemma: ἑξήκοντα
+    gloss: sixty {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
     language: greek
   - strongs: G1250
-    proximity: 0.8041
+    lemma: διακόσιοι
+    gloss: two hundred {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

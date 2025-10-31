@@ -9,39 +9,58 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H2414
-    proximity: 0.8194
+    lemma: חָטַף
+    gloss: to clutch {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H5007
-    proximity: 0.8194
+    lemma: נְאָצָה
+    gloss: scorn {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H1504a
-    proximity: 0.8176
+    proximity: 0.8176 {macula-proximity}
   - strongs: H957
-    proximity: 0.8128
+    proximity: 0.8128 {macula-proximity}
   - strongs: H1500
-    proximity: 0.8088
+    lemma: גְּזֵלָה
+    gloss: '{robbery {openscriptures-strongs}'
+    proximity: 0.8088 {macula-proximity}
   - strongs: H2616a
-    proximity: 0.8079
+    proximity: 0.8079 {macula-proximity}
   - strongs: H3639
-    proximity: 0.7946
+    lemma: כְּלִמָּה
+    gloss: disgrace {openscriptures-strongs}
+    proximity: 0.7946 {macula-proximity}
   - strongs: H1442
-    proximity: 0.7866
+    lemma: גָּדַף
+    gloss: to hack {openscriptures-strongs}
+    proximity: 0.7866 {macula-proximity}
   - strongs: H1421
-    proximity: 0.773
+    lemma: גִּדּוּף
+    gloss: vilification {openscriptures-strongs}
+    proximity: 0.773 {macula-proximity}
   - strongs: H7036
-    proximity: 0.7686
+    lemma: קָלוֹן
+    gloss: disgrace {openscriptures-strongs}
+    proximity: 0.7686 {macula-proximity}
   cross_language:
   - strongs: G4692
-    proximity: 0.813
+    lemma: σπεύδω
+    gloss: to "speed" {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
     language: greek
   - strongs: G3729
-    proximity: 0.7872
+    lemma: ὁρμάω
+    gloss: to start {openscriptures-strongs}
+    proximity: 0.7872 {macula-proximity}
     language: greek
   - strongs: G3060
-    proximity: 0.7788
+    lemma: λοίδορος
+    gloss: abusive {openscriptures-strongs}
+    proximity: 0.7788 {macula-proximity}
     language: greek
   - strongs: G1283
-    proximity: 0.7775
+    lemma: διαρπάζω
+    gloss: to seize asunder {openscriptures-strongs}
+    proximity: 0.7775 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

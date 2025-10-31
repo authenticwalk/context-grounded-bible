@@ -7,54 +7,85 @@ definition: to loathe, i.e. (morally) detest
 kjv_usage: (make to be) abhor(-red), (be, commit more, do) abominable(-y), [idiom]
   utterly.
 derivation: a primitive root;
-extended_definition:
-  gloss: to abhor
-  definition: '1) to abhor, be abominable, do abominably<br>1a) (Niphal) to be abhorred,
-    be detested<br>1a1) in the ritual sense<br>1a2) in the ethical sense<br>1b) (Piel)<br>1b1)
-    to loathe, abhor, regard as an abomination<br>1b1a) in the ritual sense<br>1b1b)
-    in the ethical sense<br>1b2) to cause to be an abomination<br>1c) (Hiphil) to
-    make abominable, do abominably<br>1c1) in the ritual sense<br>1c2) in the ethical
-    sense<BR>Also means: <i>ta.av</i> (תָּאַב "to loathe" H8374)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to abhor, be abominable, do abominably
+
+  1a) (Niphal) to be abhorred, be detested
+
+  1a1) in the ritual sense
+
+  1a2) in the ethical sense
+
+  1b) (Piel)
+
+  1b1) to loathe, abhor, regard as an abomination
+
+  1b1a) in the ritual sense
+
+  1b1b) in the ethical sense
+
+  1b2) to cause to be an abomination
+
+  1c) (Hiphil) to make abominable, do abominably
+
+  1c1) in the ritual sense
+
+  1c2) in the ethical sense
+
+  Also means: ta.av (תָּאַב "to loathe" H8374) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2114
-    proximity: 0.8281
+    lemma: זוּר
+    gloss: to turn aside {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H7489
-    proximity: 0.8141
+    lemma: רָעַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: H5541
-    proximity: 0.8117
+    lemma: סָלָה
+    gloss: to hang up {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
   - strongs: H936
-    proximity: 0.8039
+    proximity: 0.8039 {macula-proximity}
   - strongs: H6292
-    proximity: 0.7986
+    lemma: פִּגּוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
   - strongs: H1741
-    proximity: 0.798
+    lemma: דְּוַי
+    gloss: sickness {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
   - strongs: H6467
-    proximity: 0.7963
+    lemma: פֹּעַל
+    gloss: an act or work {openscriptures-strongs}
+    proximity: 0.7963 {macula-proximity}
   - strongs: H2603a
-    proximity: 0.789
+    proximity: 0.789 {macula-proximity}
   - strongs: H2214
-    proximity: 0.7864
+    lemma: זָרָא
+    gloss: disgust {openscriptures-strongs}
+    proximity: 0.7864 {macula-proximity}
   cross_language:
   - strongs: G5337
-    proximity: 0.8238
+    lemma: φαῦλος
+    gloss: '"foul" or "flawy" {openscriptures-strongs}'
+    proximity: 0.8238 {macula-proximity}
     language: greek
   - strongs: G4234
-    proximity: 0.8197
+    lemma: πρᾶξις
+    gloss: practice {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
     language: greek
   - strongs: G167
-    proximity: 0.8168
+    proximity: 0.8168 {macula-proximity}
     language: greek
   - strongs: G593
-    proximity: 0.8118
+    proximity: 0.8118 {macula-proximity}
     language: greek
   - strongs: G2555
-    proximity: 0.8081
+    lemma: κακοποιός
+    gloss: a bad-doer {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

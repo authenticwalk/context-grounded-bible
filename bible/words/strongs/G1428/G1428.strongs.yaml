@@ -5,58 +5,65 @@ transliteration: dōdékatos
 definition: twelfth
 kjv_usage: twelfth
 derivation: from G1427 (δώδεκα);
-extended_definition:
-  gloss: twelfth
-  definition: '<b>the twelfth </b>, (Homer), etc.: epic δυωδ-, (Homer) (ML)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> δωδέκᾰτος</b>, η, ον, <br /> <b>twelfth</b>, [<a href="javascript:void(0)"
-    title=" 8th c.BC: Ilias Homerus Epicus “Illiad” 24.781, etc.; δ. τόκοι, 8 1/3%,
-    “SIG” 364.74 (Ephesus, 3rd c.BC)">Refs 8th c.BC+</a>], etc.:—<i>Epic dialect</i>
-    <b>δυωδ-</b>, [<a href="javascript:void(0)" title=" 8th c.BC: Ilias Homerus Epicus
-    “Illiad” 1.493, etc. ">Refs 8th c.BC+</a>]<br /><Level2><b>__II</b></Level2> δωδεκάτη,
-    ἡ, ={Χόες}, [<a href="javascript:void(0)" title=" 5th c.AD(?): Hesychius Legal
-    icographus ">Refs 5th c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'the twelfth , (Homer), etc.: epic δυωδ-, (Homer) (ML) {STEPBible-TBESG}'
+etymology: 'δωδέκᾰτος, η, ον,
+
+  twelfth, [Refs 8th c.BC+], etc.:—Epic dialect δυωδ-, [Refs 8th c.BC+]
+
+  __II δωδεκάτη, ἡ, ={Χόες}, [Refs 5th c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1182
-    proximity: 0.8288
+    lemma: δέκατος
+    gloss: tenth {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: G1429
-    proximity: 0.8256
+    lemma: δωδεκάφυλον
+    gloss: the commonwealth of Israel {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: G1887
-    proximity: 0.8255
+    lemma: ἐπαύριον
+    gloss: occurring on the succeeding day {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: G1734
-    proximity: 0.8254
+    lemma: ἑνδέκατος
+    gloss: eleventh {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: G1501
-    proximity: 0.8207
+    lemma: εἴκοσι
+    gloss: a score {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: A6243
-    proximity: 0.8037
+    proximity: 0.8037 {macula-proximity}
   - strongs: G1966a
-    proximity: 0.8019
+    proximity: 0.8019 {macula-proximity}
   - strongs: G1208
-    proximity: 0.8002
+    lemma: δεύτερος
+    gloss: second (in time {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: A8579
-    proximity: 0.7993
+    proximity: 0.7993 {macula-proximity}
   - strongs: G1208a
-    proximity: 0.7983
+    proximity: 0.7983 {macula-proximity}
   cross_language:
   - strongs: H6224
-    proximity: 0.8237
+    lemma: עֲשִׂירִי
+    gloss: tenth {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
     language: hebrew
   - strongs: H6249
-    proximity: 0.8185
+    lemma: עַשְׁתֵּי
+    gloss: eleven or  eleventh {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
     language: hebrew
   - strongs: H8145
-    proximity: 0.8075
+    lemma: שֵׁנִי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
     language: hebrew
   - strongs: H6242
-    proximity: 0.7961
+    lemma: עֶשְׂרִים
+    gloss: twenty {openscriptures-strongs}
+    proximity: 0.7961 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

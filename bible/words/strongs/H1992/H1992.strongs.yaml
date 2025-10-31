@@ -8,47 +8,54 @@ kjv_usage: it, like, [idiom] (how, so) many (soever, more as) they (be), (the) s
   [idiom] so, [idiom] such, their, them, these, they, those, which, who, whom, withal,
   ye.
 derivation: or (prolonged) הֵמָּה; masculine plural from H1981 (הֲלַךְ);
-extended_definition:
-  gloss: they(masc.)
-  definition: they, these, the same, who
-  morphology: H:DemP
-  source: STEPBible/BDB
+extended_definition: they, these, the same, who {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2008
-    proximity: 0.8254
+    lemma: הֵנָּה
+    gloss: hither or thither {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: H2090
-    proximity: 0.8225
+    lemma: זֹה
+    gloss: this or that {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: H5921
-    proximity: 0.8216
+    lemma: עַל
+    gloss: above {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
   - strongs: H376
-    proximity: 0.8188
+    proximity: 0.8188 {macula-proximity}
   - strongs: H853
-    proximity: 0.8175
+    proximity: 0.8175 {macula-proximity}
   - strongs: H595
-    proximity: 0.8138
+    proximity: 0.8138 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.8128
+    proximity: 0.8128 {macula-proximity}
   - strongs: A116
-    proximity: 0.8124
+    proximity: 0.8124 {macula-proximity}
   cross_language:
   - strongs: G1488
-    proximity: 0.8286
+    lemma: εἶ
+    gloss: thou art {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
     language: greek
   - strongs: G2070
-    proximity: 0.8285
+    lemma: ἐσμέν
+    gloss: we are {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G1473
-    proximity: 0.8223
+    lemma: ἐγώ
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G5210
-    proximity: 0.8216
+    lemma: ὑμεῖς
+    gloss: you {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
     language: greek
   - strongs: G3754
-    proximity: 0.8175
+    lemma: ὅτι
+    gloss: demonstrative {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

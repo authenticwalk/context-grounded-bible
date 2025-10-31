@@ -6,34 +6,38 @@ pronunciation: khaw-reet'
 definition: properly, cut out (or hollow), i.e. (by implication) a pocket
 kjv_usage: bag, crisping pin.
 derivation: or חָרִט; from the same as H2747 (חֶרֶט);
-extended_definition:
-  gloss: purse
-  definition: bag, purse
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: bag, purse {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3701
-    proximity: 0.8211
+    lemma: כֶּסֶף
+    gloss: silver {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
   - strongs: H8242
-    proximity: 0.7773
+    lemma: שַׂק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7773 {macula-proximity}
   - strongs: H3219
-    proximity: 0.7153
+    lemma: יַלְקוּט
+    gloss: a travelling pouch {openscriptures-strongs}
+    proximity: 0.7153 {macula-proximity}
   cross_language:
   - strongs: G5475
-    proximity: 0.8226
+    lemma: χαλκός
+    gloss: copper (the substance {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
     language: greek
   - strongs: G5536
-    proximity: 0.7993
+    lemma: χρῆμα
+    gloss: something useful or needed {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
     language: greek
   - strongs: G694
-    proximity: 0.7662
+    proximity: 0.7662 {macula-proximity}
     language: greek
   - strongs: G1101
-    proximity: 0.7266
+    lemma: γλωσσόκομον
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7266 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

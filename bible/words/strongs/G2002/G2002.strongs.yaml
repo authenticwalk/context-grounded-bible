@@ -5,53 +5,61 @@ transliteration: episōreúō
 definition: to accumulate further, i.e. (figuratively) seek additionally
 kjv_usage: heap
 derivation: from G1909 (ἐπί) and G4987 (σωρεύω);
-extended_definition:
-  gloss: to accumulate
-  definition: '<b>ἐπι-σωρεύω </b><BR /> [in Sm.: <ref=''Job.14.17''>Job.14:17</ref>,
-    <ref=''Sng.2.4''>Sng.2:4</ref> * ;] <BR /><b>to heap together</b>; metaphorically,
-    διδασκάλους, <ref=''2Ti.4.3.''>2Ti.4:3.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐπισωρ-εύω</b>, <br /> <b>heap upon,</b> τινί τι [<a href="javascript:void(0)"
-    title=" 2nd c.AD: Athenaeus Epigrammaticus 3.123e ">Refs 2nd c.AD+</a>]; <b>heap
-    up, accumulate,</b> διδασκάλους [<a href="javascript:void(0)" title=" NT.2Tim.4.3;
-    ἓν ἐξ ἑνός 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes” 1.10.5; ἀμηχανίας
-    1st-2nd c.AD: Plutarchus Biographus et Philosophus 2.830a ">NT+1st c.AD+</a>]:—<i>passive</i>,
-    [<a href="javascript:void(0)" title=" [prev. author] “in Hes.” 34, 2nd c.AD: Vettius
-    Valens Astrologus 344.12. ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐπι-σωρεύω
+
+  [in Sm.: Job.14:17, Sng.2:4 * ;]
+
+  to heap together; metaphorically, διδασκάλους, 2Ti.4:3.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐπισωρ-εύω,
+
+  heap upon, τινί τι [Refs 2nd c.AD+]; heap up, accumulate, διδασκάλους [NT+1st c.AD+]:—passive,
+  [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4369
-    proximity: 0.8237
+    lemma: προστίθημι
+    gloss: to place additionally {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: G1928
-    proximity: 0.8167
+    lemma: ἐπιδιατάσσομαι
+    gloss: to appoint besides {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: G4323
-    proximity: 0.7826
+    lemma: προσανατίθημι
+    gloss: to lay up in addition {openscriptures-strongs}
+    proximity: 0.7826 {macula-proximity}
   - strongs: A7680
-    proximity: 0.7811
+    proximity: 0.7811 {macula-proximity}
   - strongs: G4121
-    proximity: 0.7647
+    lemma: πλεονάζω
+    gloss: to do {openscriptures-strongs}
+    proximity: 0.7647 {macula-proximity}
   cross_language:
   - strongs: H7408
-    proximity: 0.8236
+    lemma: רָכַשׁ
+    gloss: to lay up {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
     language: hebrew
   - strongs: H3254
-    proximity: 0.8006
+    lemma: יָסַף
+    gloss: to add or augment (often adverbial {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
     language: hebrew
   - strongs: H7231
-    proximity: 0.7798
+    lemma: רָבַב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7798 {macula-proximity}
     language: hebrew
   - strongs: H3527
-    proximity: 0.7141
+    lemma: כָּבַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7141 {macula-proximity}
     language: hebrew
   - strongs: H7235
-    proximity: 0.7101
+    lemma: רָבָה
+    gloss: to increase {openscriptures-strongs}
+    proximity: 0.7101 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

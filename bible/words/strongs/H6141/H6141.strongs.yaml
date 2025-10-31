@@ -6,51 +6,67 @@ pronunciation: ik-kashe'
 definition: distorted; hence, false
 kjv_usage: crooked, froward, perverse.
 derivation: from H6140 (עָקַשׁ);
-extended_definition:
-  gloss: twisted
-  definition: twisted, distorted, crooked, perverse, perverted
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: twisted, distorted, crooked, perverse, perverted {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A873
-    proximity: 0.8114
+    proximity: 0.8114 {macula-proximity}
   - strongs: H6128
-    proximity: 0.8104
+    lemma: עֲקַלְקַל
+    gloss: winding {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
   - strongs: H7423a
-    proximity: 0.8075
+    proximity: 0.8075 {macula-proximity}
   - strongs: H900
-    proximity: 0.7871
+    proximity: 0.7871 {macula-proximity}
   - strongs: H4860
-    proximity: 0.7849
+    lemma: מַשָּׁאוֹן
+    gloss: dissimulation {openscriptures-strongs}
+    proximity: 0.7849 {macula-proximity}
   - strongs: H7564
-    proximity: 0.7655
+    lemma: רִשְׁעָה
+    gloss: wrong {openscriptures-strongs}
+    proximity: 0.7655 {macula-proximity}
   - strongs: H7562
-    proximity: 0.7573
+    lemma: רֶשַׁע
+    gloss: a wrong {openscriptures-strongs}
+    proximity: 0.7573 {macula-proximity}
   - strongs: H6617
-    proximity: 0.7353
+    lemma: פָּתַל
+    gloss: to twine {openscriptures-strongs}
+    proximity: 0.7353 {macula-proximity}
   - strongs: H4820
-    proximity: 0.7319
+    lemma: מִרְמָה
+    gloss: fraud {openscriptures-strongs}
+    proximity: 0.7319 {macula-proximity}
   - strongs: H5791
-    proximity: 0.7252
+    lemma: עָוַת
+    gloss: to wrest {openscriptures-strongs}
+    proximity: 0.7252 {macula-proximity}
   cross_language:
   - strongs: G4191
-    proximity: 0.8252
+    lemma: πονηρότερος
+    gloss: more evil {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: greek
   - strongs: G4190
-    proximity: 0.7929
+    lemma: πονηρός
+    gloss: hurtful {openscriptures-strongs}
+    proximity: 0.7929 {macula-proximity}
     language: greek
   - strongs: G4189
-    proximity: 0.7903
+    lemma: πονηρία
+    gloss: depravity {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
     language: greek
   - strongs: G1388
-    proximity: 0.785
+    lemma: δόλος
+    gloss: compare G1185 ) {openscriptures-strongs}
+    proximity: 0.785 {macula-proximity}
     language: greek
   - strongs: G1386
-    proximity: 0.7394
+    lemma: δόλιος
+    gloss: guileful {openscriptures-strongs}
+    proximity: 0.7394 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

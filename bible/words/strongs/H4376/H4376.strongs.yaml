@@ -7,40 +7,58 @@ definition: to sell, literally (as merchandise, a daughter in marriage, into sla
   or figuratively (to surrender)
 kjv_usage: '[idiom] at all, sell (away, -er, self).'
 derivation: a primitive root;
-extended_definition:
-  gloss: to sell
-  definition: 1) to sell<br>1a) (Qal)<br>1a1) to sell<br>1a2) seller (participle)<br>1b)
-    (Niphal)<br>1b1) to be sold<br>1b2) to sell oneself<br>1b3) to be given over to
-    death<br>1c) (Hithpael) to sell oneself
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to sell
+
+  1a) (Qal)
+
+  1a1) to sell
+
+  1a2) seller (participle)
+
+  1b) (Niphal)
+
+  1b1) to be sold
+
+  1b2) to sell oneself
+
+  1b3) to be given over to death
+
+  1c) (Hithpael) to sell oneself {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H408
-    proximity: 0.8239
+    proximity: 0.8239 {macula-proximity}
   - strongs: H5414
-    proximity: 0.8158
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: H5462
-    proximity: 0.799
+    lemma: סָגַר
+    gloss: to shut up {openscriptures-strongs}
+    proximity: 0.799 {macula-proximity}
   - strongs: H5534a
-    proximity: 0.7902
+    proximity: 0.7902 {macula-proximity}
   - strongs: H4465
-    proximity: 0.7396
+    lemma: מִמְכָּר
+    gloss: merchandise {openscriptures-strongs}
+    proximity: 0.7396 {macula-proximity}
   cross_language:
   - strongs: G1712
-    proximity: 0.8248
+    lemma: ἐμπόριον
+    gloss: a mart {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: greek
   - strongs: G4273
-    proximity: 0.7756
+    lemma: προδότης
+    gloss: a surrender {openscriptures-strongs}
+    proximity: 0.7756 {macula-proximity}
     language: greek
   - strongs: G591
-    proximity: 0.7299
+    proximity: 0.7299 {macula-proximity}
     language: greek
   - strongs: G3860
-    proximity: 0.7225
+    lemma: παραδίδωμι
+    gloss: to surrender {openscriptures-strongs}
+    proximity: 0.7225 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

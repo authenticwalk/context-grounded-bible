@@ -6,39 +6,45 @@ pronunciation: aw-leh'
 definition: a leaf (as coming up on a tree); collectively, foliage
 kjv_usage: branch, leaf.
 derivation: from H5927 (עָלָה);
-extended_definition:
-  gloss: leaf
-  definition: leaf, leafage
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: leaf, leafage {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5687a
-    proximity: 0.8058
+    proximity: 0.8058 {macula-proximity}
   - strongs: H905a
-    proximity: 0.8033
+    proximity: 0.8033 {macula-proximity}
   - strongs: H7641
-    proximity: 0.7897
+    lemma: שִׁבֹּל
+    gloss: a stream {openscriptures-strongs}
+    proximity: 0.7897 {macula-proximity}
   - strongs: H7730
-    proximity: 0.7804
+    lemma: שׂוֹבֶךְ
+    gloss: a thicket {openscriptures-strongs}
+    proximity: 0.7804 {macula-proximity}
   - strongs: H7070
-    proximity: 0.7766
+    lemma: קָנֶה
+    gloss: a reed {openscriptures-strongs}
+    proximity: 0.7766 {macula-proximity}
   - strongs: H7050a
-    proximity: 0.7665
+    proximity: 0.7665 {macula-proximity}
   - strongs: H3127
-    proximity: 0.7616
+    lemma: יוֹנֶקֶת
+    gloss: a sprout {openscriptures-strongs}
+    proximity: 0.7616 {macula-proximity}
   - strongs: H5577
-    proximity: 0.7323
+    lemma: סַנְסִן
+    gloss: a twig {openscriptures-strongs}
+    proximity: 0.7323 {macula-proximity}
   - strongs: H6288a
-    proximity: 0.7264
+    proximity: 0.7264 {macula-proximity}
   - strongs: H8363
-    proximity: 0.7236
+    lemma: שְׁתִל
+    gloss: a sprig {openscriptures-strongs}
+    proximity: 0.7236 {macula-proximity}
   cross_language:
   - strongs: G4261
-    proximity: 0.7808
+    lemma: προβάλλω
+    gloss: to throw forward {openscriptures-strongs}
+    proximity: 0.7808 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

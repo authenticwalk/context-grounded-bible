@@ -5,34 +5,34 @@ transliteration: Libertînos
 definition: a Roman freedman
 kjv_usage: Libertine
 derivation: of Latin origin;
-extended_definition:
-  gloss: Freedmen
-  definition: '<b>Λιβερῖτνος</b>, -ου, ὁ (Lat. libertinus), <BR /> <b>a freedman</b>:
-    ἡ συναγωγὴ ἡ λεγομένη Λιβερτίνων <ref=''Act.6.9''>Act.6:9</ref> (Bl. thinks the
-    original reading was Λιβυστίνων, Phil. Gosp., 69 f.).†<BR /> (AS)'
-  morphology: N:N--T
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> λῑβερτῖνος</b>, ὁ, <br /> = Latin <i>libertinus, freedman,</i>
-    [<a href="javascript:void(0)" title=" Inscriptiones Graecae 14.1781, NT.Act.6.9
-    ">NT</a>]:—also <b>λίβερτος</b>, = Latin <i>libertus</i>, [<a href="javascript:void(0)"
-    title=" 2nd c.BC: Polybius Historicus 30.18.4. ">Refs 2nd c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'Λιβερῖτνος, -ου, ὁ (Lat. libertinus),
+
+  a freedman: ἡ συναγωγὴ ἡ λεγομένη Λιβερτίνων Act.6:9 (Bl. thinks the original reading
+  was Λιβυστίνων, Phil. Gosp., 69 f.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'λῑβερτῖνος, ὁ,
+
+  = Latin libertinus, freedman, [NT]:—also λίβερτος, = Latin libertus, [Refs 2nd c.BC+]
+  {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1057
-    proximity: 0.8031
+    lemma: Γαλιλαῖος
+    gloss: Galilean or belonging to Galilea {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
   - strongs: G1657
-    proximity: 0.7409
+    lemma: ἐλευθερία
+    gloss: freedom (legitimate or licentious {openscriptures-strongs}
+    proximity: 0.7409 {macula-proximity}
   - strongs: G1658
-    proximity: 0.7342
+    lemma: ἐλεύθερος
+    gloss: unrestrained {openscriptures-strongs}
+    proximity: 0.7342 {macula-proximity}
   cross_language:
   - strongs: H1865
-    proximity: 0.8133
+    lemma: דְּרוֹר
+    gloss: freedom {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

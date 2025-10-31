@@ -7,51 +7,74 @@ definition: properly, a burden (as causing to faint), i.e. a tax in the form of 
   labor
 kjv_usage: discomfited, levy, task(-master), tribute(-tary).
 derivation: or מִס; from H4549 (מָסַס);
-extended_definition:
-  gloss: taskworker
-  definition: 1) gang or body of forced labourers, task-workers, labour band or gang,
-    forced service, task-work, serfdom, tributary, tribute, levy, taskmasters, discomfited<br>1a)
-    labour-band, labour-gang, slave gang<br>1b) gang-overseers<br>1c) forced service,
-    serfdom, tribute, enforced payment
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) gang or body of forced labourers, task-workers, labour band
+  or gang, forced service, task-work, serfdom, tributary, tribute, levy, taskmasters,
+  discomfited
+
+  1a) labour-band, labour-gang, slave gang
+
+  1b) gang-overseers
+
+  1c) forced service, serfdom, tribute, enforced payment {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5657
-    proximity: 0.8281
+    lemma: עֲבֻדָּה
+    gloss: something wrought {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
   - strongs: H3018
-    proximity: 0.8258
+    lemma: יְגִיעַ
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H6045
-    proximity: 0.822
+    lemma: עִנְיָן
+    gloss: ado {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
   - strongs: H5999
-    proximity: 0.8198
+    lemma: עָמָל
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
   - strongs: H6001
-    proximity: 0.8171
+    lemma: עָמֵל
+    gloss: toiling {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: H6001a
-    proximity: 0.805
+    proximity: 0.805 {macula-proximity}
   - strongs: H5659
-    proximity: 0.7895
+    lemma: עַבְדוּת
+    gloss: servitude {openscriptures-strongs}
+    proximity: 0.7895 {macula-proximity}
   - strongs: H4399
-    proximity: 0.789
+    lemma: מְלָאכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.789 {macula-proximity}
   - strongs: H5998
-    proximity: 0.7805
+    lemma: עָמַל
+    gloss: to toil {openscriptures-strongs}
+    proximity: 0.7805 {macula-proximity}
   - strongs: H5650
-    proximity: 0.7741
+    lemma: עֶבֶד
+    gloss: a servant {openscriptures-strongs}
+    proximity: 0.7741 {macula-proximity}
   cross_language:
   - strongs: G2873
-    proximity: 0.8151
+    lemma: κόπος
+    gloss: a cut {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
     language: greek
   - strongs: G2040
-    proximity: 0.7977
+    lemma: ἐργάτης
+    gloss: a toiler {openscriptures-strongs}
+    proximity: 0.7977 {macula-proximity}
     language: greek
   - strongs: G2872
-    proximity: 0.7796
+    lemma: κοπιάω
+    gloss: to feel fatigue {openscriptures-strongs}
+    proximity: 0.7796 {macula-proximity}
     language: greek
   - strongs: G1402
-    proximity: 0.7663
+    lemma: δουλόω
+    gloss: to enslave {openscriptures-strongs}
+    proximity: 0.7663 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

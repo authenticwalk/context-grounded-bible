@@ -10,24 +10,31 @@ derivation: usually assigned as a primitive root, but probably only a special ap
 related_words:
   synonyms:
   - strongs: H5801
-    proximity: 0.7976
+    lemma: עִזָּבוֹן
+    gloss: trade {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: H7666
-    proximity: 0.7922
+    lemma: שָׁבַר
+    gloss: to deal in grain {openscriptures-strongs}
+    proximity: 0.7922 {macula-proximity}
   - strongs: H4728
-    proximity: 0.7731
+    lemma: מַקָּחָה
+    gloss: something received {openscriptures-strongs}
+    proximity: 0.7731 {macula-proximity}
   - strongs: A7066
-    proximity: 0.7722
+    proximity: 0.7722 {macula-proximity}
   cross_language:
   - strongs: G5608
-    proximity: 0.8194
+    lemma: ὠνέομαι
+    gloss: to purchase ) {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G59
-    proximity: 0.8145
+    proximity: 0.8145 {macula-proximity}
     language: greek
   - strongs: G1117
-    proximity: 0.75
+    lemma: γόμος
+    gloss: a load {openscriptures-strongs}
+    proximity: 0.75 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

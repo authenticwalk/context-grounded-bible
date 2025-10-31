@@ -6,45 +6,63 @@ pronunciation: sam
 definition: an aroma
 kjv_usage: sweet (spice).
 derivation: from an unused root meaning to smell sweet;
-extended_definition:
-  gloss: spice
-  definition: 1) spice<br>1a) a spice used in incense
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) spice
+
+  1a) a spice used in incense {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4538
-    proximity: 0.8296
+    lemma: מֶסֶךְ
+    gloss: a mixture {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H4477
-    proximity: 0.8238
+    lemma: מַמְתַּק
+    gloss: something sweet {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H4955
-    proximity: 0.8226
+    lemma: מִשְׂרָפָה
+    gloss: combustion {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: H7543
-    proximity: 0.8123
+    lemma: רָקַח
+    gloss: to perfume {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
   - strongs: H2553
-    proximity: 0.8025
+    lemma: חַמָּן
+    gloss: a sun-pillar {openscriptures-strongs}
+    proximity: 0.8025 {macula-proximity}
   - strongs: H4729
-    proximity: 0.7869
+    lemma: מִקְטָר
+    gloss: something to fume  on i.e. a hearth place {openscriptures-strongs}
+    proximity: 0.7869 {macula-proximity}
   - strongs: H4729a
-    proximity: 0.7869
+    proximity: 0.7869 {macula-proximity}
   - strongs: H3828
-    proximity: 0.7849
+    lemma: לְבוֹנָה
+    gloss: frankincense {openscriptures-strongs}
+    proximity: 0.7849 {macula-proximity}
   - strongs: H6875
-    proximity: 0.782
+    lemma: צְרִי
+    gloss: distillation {openscriptures-strongs}
+    proximity: 0.782 {macula-proximity}
   - strongs: H7546
-    proximity: 0.7787
+    lemma: רַקָּח
+    gloss: a male perfumer {openscriptures-strongs}
+    proximity: 0.7787 {macula-proximity}
   cross_language:
   - strongs: G3464
-    proximity: 0.8245
+    lemma: μύρον
+    gloss: '"myrrh" {openscriptures-strongs}'
+    proximity: 0.8245 {macula-proximity}
     language: greek
   - strongs: G2379
-    proximity: 0.8116
+    lemma: θυσιαστήριον
+    gloss: a place of sacrifice {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
     language: greek
   - strongs: G2369
-    proximity: 0.7839
+    lemma: θυμιαστήριον
+    gloss: a place of fumigation {openscriptures-strongs}
+    proximity: 0.7839 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

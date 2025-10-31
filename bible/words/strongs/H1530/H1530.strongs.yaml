@@ -7,53 +7,83 @@ definition: something rolled, i.e. a heap of stone or dung (plural ruins), by an
   a spring of water (plural waves)
 kjv_usage: billow, heap, spring, wave.
 derivation: from H1556 (גָּלַל);
-extended_definition:
-  gloss: 'heap: wave'
-  definition: ': wave<br>1) heap, spring, wave, billow<br>1a) heap (of stones)<br>1a1)
-    over dead body<br>1a2) alone<br>1a3) used in ratifying a covenant<br>1b) waves
-    (fig. of chastisement of Jehovah)<br>1c) spring'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ': wave
+
+  1) heap, spring, wave, billow
+
+  1a) heap (of stones)
+
+  1a1) over dead body
+
+  1a2) alone
+
+  1a3) used in ratifying a covenant
+
+  1b) waves (fig. of chastisement of Jehovah)
+
+  1c) spring {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5550
-    proximity: 0.8262
+    lemma: סֹלְלָה
+    gloss: a military mound {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: H3710
-    proximity: 0.8212
+    lemma: כֵּף
+    gloss: a hollow rock {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   - strongs: A69
-    proximity: 0.8097
+    proximity: 0.8097 {macula-proximity}
   - strongs: H2846
-    proximity: 0.7988
+    lemma: חָתָה
+    gloss: to lay hold of {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
   - strongs: H6651
-    proximity: 0.794
+    lemma: צָבַר
+    gloss: to aggregate {openscriptures-strongs}
+    proximity: 0.794 {macula-proximity}
   - strongs: H5553
-    proximity: 0.7865
+    lemma: סֶלַע
+    gloss: a craggy rock {openscriptures-strongs}
+    proximity: 0.7865 {macula-proximity}
   - strongs: H830
-    proximity: 0.7801
+    proximity: 0.7801 {macula-proximity}
   - strongs: H2723
-    proximity: 0.7799
+    lemma: חׇרְבָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7799 {macula-proximity}
   - strongs: H4654
-    proximity: 0.7718
+    lemma: מַפָּלָה
+    gloss: something fallen {openscriptures-strongs}
+    proximity: 0.7718 {macula-proximity}
   - strongs: H6697
-    proximity: 0.7658
+    lemma: צוּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7658 {macula-proximity}
   cross_language:
   - strongs: G5138
-    proximity: 0.8296
+    lemma: τραχύς
+    gloss: uneven {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G2874
-    proximity: 0.8263
+    lemma: κοπρία
+    gloss: perhaps akin to G2875 ) {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
     language: greek
   - strongs: G3035
-    proximity: 0.8215
+    lemma: λίθινος
+    gloss: stony {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
     language: greek
   - strongs: G4987
-    proximity: 0.7994
+    lemma: σωρεύω
+    gloss: to pile up {openscriptures-strongs}
+    proximity: 0.7994 {macula-proximity}
     language: greek
   - strongs: G4073
-    proximity: 0.7767
+    lemma: πέτρα
+    gloss: a  rock {openscriptures-strongs}
+    proximity: 0.7767 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

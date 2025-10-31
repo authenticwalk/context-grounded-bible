@@ -6,39 +6,49 @@ pronunciation: lah'-ag
 definition: derision, scoffing
 kjv_usage: derision, scorn (-ing).
 derivation: from H3932 (לָעַג);
-extended_definition:
-  gloss: derision
-  definition: 1) mocking, derision, stammering<br>1a) mocking, derision<br>1b) stammerings
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) mocking, derision, stammering
+
+  1a) mocking, derision
+
+  1b) stammerings {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1696a
-    proximity: 0.8293
+    proximity: 0.8293 {macula-proximity}
   - strongs: H4485
-    proximity: 0.8179
+    lemma: מַנְגִּינָה
+    gloss: a satire {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
   - strongs: H2616a
-    proximity: 0.8143
+    proximity: 0.8143 {macula-proximity}
   - strongs: H939
-    proximity: 0.8098
+    proximity: 0.8098 {macula-proximity}
   - strongs: H1421
-    proximity: 0.8057
+    lemma: גִּדּוּף
+    gloss: vilification {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
   - strongs: H2781
-    proximity: 0.8002
+    lemma: חֶרְפָּה
+    gloss: contumely {openscriptures-strongs}
+    proximity: 0.8002 {macula-proximity}
   - strongs: H4912
-    proximity: 0.7996
+    lemma: מָשָׁל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
   - strongs: H7590a
-    proximity: 0.7951
+    proximity: 0.7951 {macula-proximity}
   - strongs: H8595
-    proximity: 0.7756
+    lemma: תַּעְתֻּעַ
+    gloss: a fraud {openscriptures-strongs}
+    proximity: 0.7756 {macula-proximity}
   - strongs: H8292
-    proximity: 0.745
+    lemma: שְׁרוּקָה
+    gloss: a whistling {openscriptures-strongs}
+    proximity: 0.745 {macula-proximity}
   cross_language:
   - strongs: G1701
-    proximity: 0.7488
+    lemma: ἐμπαιγμός
+    gloss: derision {openscriptures-strongs}
+    proximity: 0.7488 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

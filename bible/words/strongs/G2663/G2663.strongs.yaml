@@ -5,58 +5,63 @@ transliteration: katápausis
 definition: reposing down, i.e. (by Hebraism) abode
 kjv_usage: rest
 derivation: from G2664 (καταπαύω);
-extended_definition:
-  gloss: rest
-  definition: '<b>κατά-παυσις</b>, -εως, ἡ<BR /> (καταπαύω), [in LXX chiefly for מְנוּחָה,
-    <ref=''Psa.95.11''>Psa.95:11</ref>, <ref=''Isa.66.1''>Isa.66:1</ref>, al.; ἡμέρα
-    τῆς κ., <ref=''2Ma.15.1''>2Ma.15:1</ref>] <BR />__1. in cl., a putting to rest,
-    causing to cease. <BR /> __2. <b>In LXX and NT, rest, repose</b>: <ref=''Act.7.49''>Act.7:49</ref>
-    (LXX), <ref=''Heb.3.11, 18; 4.1, 3; 4.5, 10-11''>Heb.3:11, 18 4:1, 3 4:5, 10-11</ref>†<BR
-    /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κατά-παυσις</b>, εως, ἡ, <br /> <b>stopping</b>: <i>metaphorically</i>,
-    <b>putting down, deposing</b>, [<a href="javascript:void(0)" title=" τυράννων
-    5th c.BC: Herodotus Historicus 5.38 ">Refs 5th c.BC+</a>]; τῆς βασιληΐης <b>deposition</b>
-    from.., [<a href="javascript:void(0)" title=" [prev\. author] 6.67; Κολλατίνου
-    Dio Cassius Historicus [{2-3rd c.AD}] 46.49 ">Refs 2nd c.AD+</a>]. <br /><Level2><b>__II</b></Level2>
-    <b>rest, calm</b>, [<a href="javascript:void(0)" title=" LXX.Isa.66.1">LXX</a>],
-    +others; <b>place of rest</b>, [<a href="javascript:void(0)" title="LXX.Psa.94(95).11,
-    +others; αἱ κ. τῶν πνευμάτων Theophrastus Philosophus [{4-3rd c.BC}] “de Ventis”
-    18 ">LXX+4-3rd c.BC+</a>]: <i>metaphorically</i>, <b>allaying</b>, [<a href="javascript:void(0)"
-    title=" στάσεως 1st c.BC: Philodemus Gadarensis Epigrammaticus “Mus.” p.86 ">Refs
-    1st c.BC+</a>] K.'
-  source: STEPBible/LSJ
+extended_definition: 'κατά-παυσις, -εως, ἡ
+
+  (καταπαύω), [in LXX chiefly for מְנוּחָה, Psa.95:11, Isa.66:1, al.; ἡμέρα τῆς κ.,
+  2Ma.15:1]
+
+  __1. in cl., a putting to rest, causing to cease.
+
+  __2. In LXX and NT, rest, repose: Act.7:49 (LXX), Heb.3:11, 18 4:1, 3 4:5, 10-11†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κατά-παυσις, εως, ἡ,
+
+  stopping: metaphorically, putting down, deposing, [Refs 5th c.BC+]; τῆς βασιληΐης
+  deposition from.., [Refs 2nd c.AD+].
+
+  __II rest, calm, [LXX], +others; place of rest, [LXX+4-3rd c.BC+]: metaphorically,
+  allaying, [Refs 1st c.BC+] K. {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3062
-    proximity: 0.7752
+    lemma: λοιποί
+    gloss: remaining ones {openscriptures-strongs}
+    proximity: 0.7752 {macula-proximity}
   - strongs: A7606
-    proximity: 0.7642
+    proximity: 0.7642 {macula-proximity}
   - strongs: G4315
-    proximity: 0.762
+    lemma: προσάββατον
+    gloss: a fore-sabbath {openscriptures-strongs}
+    proximity: 0.762 {macula-proximity}
   - strongs: G3064
-    proximity: 0.7613
+    lemma: λοιποῦ
+    gloss: remaining time {openscriptures-strongs}
+    proximity: 0.7613 {macula-proximity}
   cross_language:
   - strongs: H2308
-    proximity: 0.829
+    lemma: חָדַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: hebrew
   - strongs: H3117
-    proximity: 0.8277
+    lemma: יוֹם
+    gloss: a day {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: hebrew
   - strongs: H3148
-    proximity: 0.8222
+    lemma: יוֹתֵר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
     language: hebrew
   - strongs: H7605
-    proximity: 0.8068
+    lemma: שְׁאָר
+    gloss: a remainder {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
     language: hebrew
   - strongs: H3499
-    proximity: 0.8035
+    lemma: יֶתֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

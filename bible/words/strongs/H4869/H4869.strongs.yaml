@@ -10,33 +10,48 @@ derivation: from H7682 (שָׂגַב); properly, a cliff (or other lofty or inac
 related_words:
   synonyms:
   - strongs: H1785
-    proximity: 0.8266
+    lemma: דָּיֵק
+    gloss: a battering-tower {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: H6076a
-    proximity: 0.8232
+    proximity: 0.8232 {macula-proximity}
   - strongs: H6697
-    proximity: 0.8142
+    lemma: צוּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: H1002
-    proximity: 0.8083
+    lemma: בִּירָה
+    gloss: a castle or palace {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
   - strongs: H5643a
-    proximity: 0.8071
+    proximity: 0.8071 {macula-proximity}
   - strongs: H4526
-    proximity: 0.8068
+    lemma: מִסְגֶּרֶת
+    gloss: something enclosing {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
   - strongs: H2620
-    proximity: 0.8041
+    lemma: חָסָה
+    gloss: to flee for protection {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
   - strongs: H7413
-    proximity: 0.8035
+    lemma: רָמָה
+    gloss: a height {openscriptures-strongs}
+    proximity: 0.8035 {macula-proximity}
   - strongs: H4224
-    proximity: 0.795
+    lemma: מַחֲבֵא
+    gloss: a refuge {openscriptures-strongs}
+    proximity: 0.795 {macula-proximity}
   - strongs: H5643
-    proximity: 0.7931
+    lemma: סֵתֶר
+    gloss: a cover (in a good or a bad {openscriptures-strongs}
+    proximity: 0.7931 {macula-proximity}
   cross_language:
   - strongs: G627
-    proximity: 0.8235
+    proximity: 0.8235 {macula-proximity}
     language: greek
   - strongs: G1314
-    proximity: 0.7805
+    lemma: διαφυλάσσω
+    gloss: to guard thoroughly {openscriptures-strongs}
+    proximity: 0.7805 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

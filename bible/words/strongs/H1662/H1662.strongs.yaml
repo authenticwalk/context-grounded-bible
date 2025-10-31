@@ -7,36 +7,47 @@ definition: Gath-Chepher, a place in Palestine
 kjv_usage: Gath-kephr, Gittah-kephr.
 derivation: or (abridged) גִּתָּה־חֵפֶר; from H1660 (גַּת) and H2658 (חָפַר) with
   the article inserted; wine-press of (the) well;
-extended_definition:
-  gloss: Gath-hepher
-  definition: <BR> § Gath-hepher or Gittah-hepher = "the winepress of digging"<br>
-    home town of Jonah on the border of Zebulun<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Gath-hepher or Gittah-hepher = "the winepress of digging"
+
+  home town of Jonah on the border of Zebulun {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1667
-    proximity: 0.8273
+    lemma: גַּת־רִמּוֹן
+    gloss: Gath-Rimmon {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
   - strongs: H1665
-    proximity: 0.8232
+    lemma: גִּתִּית
+    gloss: a Gittite harp {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H3732
-    proximity: 0.8187
+    lemma: כַּפְתֹּרִי
+    gloss: a Caphtorite  or native of Caphtor {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
   - strongs: H5455
-    proximity: 0.8175
+    lemma: סַבְתְּכָא
+    gloss: Sabteca {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
   - strongs: H6316
-    proximity: 0.8118
+    lemma: פּוּט
+    gloss: Put {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
   - strongs: H2845
-    proximity: 0.7864
+    lemma: חֵת
+    gloss: Cheth {openscriptures-strongs}
+    proximity: 0.7864 {macula-proximity}
   - strongs: H2662
-    proximity: 0.7837
+    lemma: חֶפְרִי
+    gloss: a Chephrite  or descendants of Chepher {openscriptures-strongs}
+    proximity: 0.7837 {macula-proximity}
   - strongs: H2660a
-    proximity: 0.7701
+    proximity: 0.7701 {macula-proximity}
   - strongs: H2660
-    proximity: 0.7528
+    lemma: חֵפֶר
+    gloss: Chepher {openscriptures-strongs}
+    proximity: 0.7528 {macula-proximity}
   - strongs: H1663
-    proximity: 0.7508
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: גִּתִּי
+    gloss: a Gittite or inhabitant of Gath {openscriptures-strongs}
+    proximity: 0.7508 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

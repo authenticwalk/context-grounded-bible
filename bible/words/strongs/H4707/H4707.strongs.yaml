@@ -6,33 +6,39 @@ pronunciation: mits-peh'
 definition: an observatory, especially formilitary purposes
 kjv_usage: watch tower.
 derivation: from H6822 (צָפָה);
-extended_definition:
-  gloss: lookout
-  definition: watchtower, lookout point
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: watchtower, lookout point {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4725
-    proximity: 0.8238
+    lemma: מָקוֹם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H5341
-    proximity: 0.8192
+    lemma: נָצַר
+    gloss: to guard {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: H4029
-    proximity: 0.7768
+    lemma: מִגְדַּל־עֵדֶר
+    gloss: Migdal-Eder {openscriptures-strongs}
+    proximity: 0.7768 {macula-proximity}
   - strongs: A5894
-    proximity: 0.7477
+    proximity: 0.7477 {macula-proximity}
   - strongs: H6822
-    proximity: 0.7451
+    lemma: צָפָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7451 {macula-proximity}
   - strongs: H4026
-    proximity: 0.7234
+    lemma: מִגְדָּל
+    gloss: a tower {openscriptures-strongs}
+    proximity: 0.7234 {macula-proximity}
   - strongs: H6839
-    proximity: 0.7033
+    lemma: צֹפִים
+    gloss: Tsophim {openscriptures-strongs}
+    proximity: 0.7033 {macula-proximity}
   cross_language:
   - strongs: G5117
-    proximity: 0.8179
+    lemma: τόπος
+    gloss: a spot (general in space {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,47 +6,57 @@ pronunciation: av-vawl'
 definition: evil (morally)
 kjv_usage: unjust, unrighteous, wicked.
 derivation: intensive from H5765 (עֲוַל);
-extended_definition:
-  gloss: unjust
-  definition: unjust one, perverse one, unrighteous one
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: unjust one, perverse one, unrighteous one {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6663
-    proximity: 0.824
+    lemma: צָדַק
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: H2524
-    proximity: 0.8178
+    lemma: חָם
+    gloss: a father-in-law {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   - strongs: A873
-    proximity: 0.814
+    proximity: 0.814 {macula-proximity}
   - strongs: H1100
-    proximity: 0.8123
+    lemma: בְּלִיַּעַל
+    gloss: without profit {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
   - strongs: H3477
-    proximity: 0.8115
+    lemma: יָשָׁר
+    gloss: straight {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
   - strongs: H4339
-    proximity: 0.8
+    lemma: מֵישָׁר
+    gloss: evenness {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: H4941
-    proximity: 0.7994
+    lemma: מִשְׁפָּט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7994 {macula-proximity}
   - strongs: H3651a
-    proximity: 0.7964
+    proximity: 0.7964 {macula-proximity}
   cross_language:
   - strongs: G3672
-    proximity: 0.8288
+    lemma: ὁμολογουμένως
+    gloss: confessedly {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
     language: greek
   - strongs: G2471
-    proximity: 0.8224
+    lemma: ἰσότης
+    gloss: likeness {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
     language: greek
   - strongs: G91
-    proximity: 0.8128
+    proximity: 0.8128 {macula-proximity}
     language: greek
   - strongs: G444
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G2118
-    proximity: 0.8103
+    lemma: εὐθύτης
+    gloss: rectitude {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

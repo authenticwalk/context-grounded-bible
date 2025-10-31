@@ -7,34 +7,42 @@ definition: to interweave (colored) threads in squares; by implication (of retic
   to inchase gems in gold
 kjv_usage: embroider, set.
 derivation: a primitive root;
-extended_definition:
-  gloss: to weave
-  definition: 1) to weave in checkered or plaited work or pattern (meaning probable)<br>1a)
-    (Piel) to weave, plait<br>1b) (Pual) inwoven, set (participle)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to weave in checkered or plaited work or pattern (meaning
+  probable)
+
+  1a) (Piel) to weave, plait
+
+  1b) (Pual) inwoven, set (participle) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2279
-    proximity: 0.8226
+    lemma: חֹבֶרֶת
+    gloss: a joint {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: H4394
-    proximity: 0.8156
+    lemma: מִלֻּא
+    gloss: a fulfilling {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
   - strongs: A6392
-    proximity: 0.7963
+    proximity: 0.7963 {macula-proximity}
   - strongs: H8278
-    proximity: 0.7499
+    lemma: שְׂרָד
+    gloss: stitching {openscriptures-strongs}
+    proximity: 0.7499 {macula-proximity}
   - strongs: H5526a
-    proximity: 0.7417
+    proximity: 0.7417 {macula-proximity}
   - strongs: H4396
-    proximity: 0.7402
+    lemma: מִלֻּאָה
+    gloss: a filling {openscriptures-strongs}
+    proximity: 0.7402 {macula-proximity}
   - strongs: H8609
-    proximity: 0.7237
+    lemma: תָּפַר
+    gloss: to sew {openscriptures-strongs}
+    proximity: 0.7237 {macula-proximity}
   cross_language:
   - strongs: G3514
-    proximity: 0.8063
+    lemma: νήθω
+    gloss: to spin {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,45 +5,58 @@ transliteration: borrhâs
 definition: the north (properly, wind)
 kjv_usage: north
 derivation: of uncertain derivation;
-extended_definition:
-  gloss: the north
-  definition: '<b>βορρᾶς</b>, -ᾶ (Attic contr. of Βορέας, the North wind personified),
-    <BR /> [in LXX for צָפוֹן ;] <BR /> __1. <b>Boreas, the North wind</b>. <BR />
-    __2. <b>the north</b>: <ref=''Luk.13.29''>Luk.13:29</ref>, <ref=''Rev.21.13''>Rev.21:13</ref>.<BR
-    />† (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>βορρᾶς</b>, -ᾶ (Attic contr. of Βορέας, the North wind personified),
-    <BR /> [in LXX for צָפוֹן ;] <BR /> __1. <b>Boreas, the North wind</b>. <BR />
-    __2. <b>the north</b>: <ref=''Luk.13.29''>Luk.13:29</ref>, <ref=''Rev.21.13''>Rev.21:13</ref>.<BR
-    />†  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'βορρᾶς, -ᾶ (Attic contr. of Βορέας, the North wind personified),
+
+  [in LXX for צָפוֹן ;]
+
+  __1. Boreas, the North wind.
+
+  __2. the north: Luk.13:29, Rev.21:13.
+
+  † (AS) {STEPBible-TBESG}'
+etymology: 'βορρᾶς, -ᾶ (Attic contr. of Βορέας, the North wind personified),
+
+  [in LXX for צָפוֹן ;]
+
+  __1. Boreas, the North wind.
+
+  __2. the north: Luk.13:29, Rev.21:13.
+
+  †  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1751
-    proximity: 0.8056
+    lemma: ἔνειμι
+    gloss: to be within {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: G1857
-    proximity: 0.8056
+    lemma: ἐξώτερος
+    gloss: exterior {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   cross_language:
   - strongs: H3411
-    proximity: 0.8264
+    lemma: יְרֵכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: hebrew
   - strongs: H7307
-    proximity: 0.8227
+    lemma: רוּחַ
+    gloss: wind {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
     language: hebrew
   - strongs: H3802
-    proximity: 0.8216
+    lemma: כָּתֵף
+    gloss: the shoulder (proper {openscriptures-strongs}
+    proximity: 0.8216 {macula-proximity}
     language: hebrew
   - strongs: H3227
-    proximity: 0.8194
+    lemma: יְמִינִי
+    gloss: right {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: hebrew
   - strongs: H6440
-    proximity: 0.8123
+    lemma: פָּנִים
+    gloss: the face {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

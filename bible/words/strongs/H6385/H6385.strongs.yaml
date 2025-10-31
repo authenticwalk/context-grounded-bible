@@ -6,50 +6,72 @@ pronunciation: paw-lag'
 definition: to split (literally or figuratively)
 kjv_usage: divide.
 derivation: a primitive root;
-extended_definition:
-  gloss: to divide
-  definition: '1) to divide, split<br>1a) (Niphal) to be split, be divided<br>1b)
-    (Piel)<br>1b1) to split, cleave<br>1b2) to divide<BR>Aramaic equivalent: <i>pe.lag</i>
-    (פְּלַג "to divide" H6386)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to divide, split
+
+  1a) (Niphal) to be split, be divided
+
+  1b) (Piel)
+
+  1b1) to split, cleave
+
+  1b2) to divide
+
+  Aramaic equivalent: pe.lag (פְּלַג "to divide" H6386) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2219
-    proximity: 0.8203
+    lemma: זָרָה
+    gloss: to toss about {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: H8156
-    proximity: 0.8131
+    lemma: שָׁסַע
+    gloss: to split or tear {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
   - strongs: H6504
-    proximity: 0.8094
+    lemma: פָּרַד
+    gloss: to break through {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
   - strongs: H1234
-    proximity: 0.8058
+    lemma: בָּקַע
+    gloss: to cleave {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: H6335
-    proximity: 0.8043
+    lemma: פּוּשׁ
+    gloss: to spread {openscriptures-strongs}
+    proximity: 0.8043 {macula-proximity}
   - strongs: H5310a
-    proximity: 0.8036
+    proximity: 0.8036 {macula-proximity}
   - strongs: H6536
-    proximity: 0.7976
+    lemma: פָּרַס
+    gloss: to break in pieces {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: H2686
-    proximity: 0.7931
+    lemma: חָצַץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7931 {macula-proximity}
   - strongs: H2672a
-    proximity: 0.7825
+    proximity: 0.7825 {macula-proximity}
   - strongs: H967
-    proximity: 0.7785
+    proximity: 0.7785 {macula-proximity}
   cross_language:
   - strongs: G1287
-    proximity: 0.8043
+    lemma: διασκορπίζω
+    gloss: to dissipate {openscriptures-strongs}
+    proximity: 0.8043 {macula-proximity}
     language: greek
   - strongs: G4978
-    proximity: 0.7892
+    lemma: σχίσμα
+    gloss: a split or gap {openscriptures-strongs}
+    proximity: 0.7892 {macula-proximity}
     language: greek
   - strongs: G1290
-    proximity: 0.7869
+    lemma: διασπορά
+    gloss: dispersion {openscriptures-strongs}
+    proximity: 0.7869 {macula-proximity}
     language: greek
   - strongs: G1267
-    proximity: 0.7781
+    lemma: διαμερισμός
+    gloss: disunion {openscriptures-strongs}
+    proximity: 0.7781 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,54 +5,72 @@ transliteration: Nazaréth
 definition: Nazareth or Nazaret, a place in Palestine
 kjv_usage: Nazareth
 derivation: of uncertain derivation;
-extended_definition:
-  gloss: Nazareth
-  definition: '<b>Ναζαρά</b><BR /> (<ref=''Mat.4.13''>Mat.4:13</ref>­ L, -άθ­<ref=''Luk.4.16''>Luk.4:16</ref>)
-    <BR />Ναζαρέθ (<ref=''Mat.21.11''>Mat.21:11</ref>, <ref=''Act.10.38''>Act.10:38</ref>),
-    <BR /> Ναζαρέτ (so always Rec.; WH, in foll, instances, where -έθ, T), ἡ, <BR
-    /> indecl. (Semitic form uncertain), <BR /> <b>Nazareth</b>: <ref=''Mat.2.23''>Mat.2:23</ref>,
-    <ref=''Mrk.1.9''>Mrk.1:9</ref>, <ref=''Luk.1.26; 2.4, 39; 2.51''>Luk.1:26 2:4,
-    39 2:51</ref>, <ref=''Jhn.1.45-46''>Jhn.1:45-46</ref>.†<BR /> (AS)'
-  morphology: N:N--L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ναζαρά</b><BR /> (<ref=''Mat.4.13''>Mat.4:13</ref>­ L, -άθ­<ref=''Luk.4.16''>Luk.4:16</ref>)
-    <BR />Ναζαρέθ (<ref=''Mat.21.11''>Mat.21:11</ref>, <ref=''Act.10.38''>Act.10:38</ref>),
-    <BR /> Ναζαρέτ (so always Rec.; WH, in foll, instances, where -έθ, T), ἡ, <BR
-    /> indecl. (Semitic form uncertain), <BR /> <b>Nazareth</b>: <ref=''Mat.2.23''>Mat.2:23</ref>,
-    <ref=''Mrk.1.9''>Mrk.1:9</ref>, <ref=''Luk.1.26; 2.4, 39; 2.51''>Luk.1:26 2:4,
-    39 2:51</ref>, <ref=''Jhn.1.45-46''>Jhn.1:45-46</ref>.†<BR />  (From Abbott-Smith.
-    LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ναζαρά
+
+  (Mat.4:13­ L, -άθ­Luk.4:16)
+
+  Ναζαρέθ (Mat.21:11, Act.10:38),
+
+  Ναζαρέτ (so always Rec.; WH, in foll, instances, where -έθ, T), ἡ,
+
+  indecl. (Semitic form uncertain),
+
+  Nazareth: Mat.2:23, Mrk.1:9, Luk.1:26 2:4, 39 2:51, Jhn.1:45-46.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ναζαρά
+
+  (Mat.4:13­ L, -άθ­Luk.4:16)
+
+  Ναζαρέθ (Mat.21:11, Act.10:38),
+
+  Ναζαρέτ (so always Rec.; WH, in foll, instances, where -έθ, T), ἡ,
+
+  indecl. (Semitic form uncertain),
+
+  Nazareth: Mat.2:23, Mrk.1:9, Luk.1:26 2:4, 39 2:51, Jhn.1:45-46.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G575
-    proximity: 0.8117
+    proximity: 0.8117 {macula-proximity}
   - strongs: G4677
-    proximity: 0.8065
+    lemma: Σουσάννα
+    gloss: lily {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
   - strongs: G1082
-    proximity: 0.8025
+    lemma: Γεννησαρέτ
+    gloss: Gennesaret {openscriptures-strongs}
+    proximity: 0.8025 {macula-proximity}
   - strongs: G4558
-    proximity: 0.7778
+    lemma: Σάρεπτα
+    gloss: Sarepta {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   cross_language:
   - strongs: H3480
-    proximity: 0.829
+    lemma: יְשַׂרְאֵלָה
+    gloss: Jesarelah {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: hebrew
   - strongs: H6048
-    proximity: 0.8275
+    lemma: עֲנַמֶּלֶךְ
+    gloss: Anammelek {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
     language: hebrew
   - strongs: H6759
-    proximity: 0.8209
+    lemma: צַלְמֻנָּע
+    gloss: Tsalmunna {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
     language: hebrew
   - strongs: H6815
-    proximity: 0.8154
+    lemma: צַעֲנַנִּים
+    gloss: Tsaanannim or Tsaanajim {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
     language: hebrew
   - strongs: H6886
-    proximity: 0.8148
+    lemma: צָרְפַת
+    gloss: Tsarephath {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

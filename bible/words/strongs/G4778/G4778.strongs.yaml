@@ -5,52 +5,62 @@ transliteration: synkakouchéō
 definition: to maltreat in company with, i.e. (passively) endure persecution together
 kjv_usage: suffer affliction with
 derivation: from G4862 (σύν) and G2558 (κακουχέω);
-extended_definition:
-  gloss: to suffer with
-  definition: '<b>συν-κακουχέομαι</b> (Rec. συγκ-), -οῦμαι, pass. <BR /> <b>to endure
-    adversity with</b>: with dative of person(s), <ref=''Heb.11.25.''>Heb.11:25.</ref>
-    Not elsewhere.†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> συγκᾰκ-ουχέομαι</b>, <br /> <i>passive</i>, <b>endure adversity
-    with</b>, τῷ λαῷ [<a href="javascript:void(0)" title=" NT.Heb.11.25. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'συν-κακουχέομαι (Rec. συγκ-), -οῦμαι, pass.
+
+  to endure adversity with: with dative of person(s), Heb.11:25. Not elsewhere.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συγκᾰκ-ουχέομαι,
+
+  passive, endure adversity with, τῷ λαῷ [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4722
-    proximity: 0.8284
+    lemma: στέγω
+    gloss: to roof over {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: G857
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
   - strongs: G3326
-    proximity: 0.8263
+    lemma: μετά
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: A5142
-    proximity: 0.8256
+    proximity: 0.8256 {macula-proximity}
   - strongs: G984
-    proximity: 0.8235
+    proximity: 0.8235 {macula-proximity}
   - strongs: G4922
-    proximity: 0.8193
+    lemma: συνοδεύω
+    gloss: to travel in company with {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: G4887
-    proximity: 0.8086
+    lemma: συνδέω
+    gloss: to bind with {openscriptures-strongs}
+    proximity: 0.8086 {macula-proximity}
   - strongs: G4192
-    proximity: 0.8076
+    lemma: πόνος
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8076 {macula-proximity}
   - strongs: G5278
-    proximity: 0.8038
+    lemma: ὑπομένω
+    gloss: to stay under {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
   - strongs: G3600
-    proximity: 0.8027
+    lemma: ὀδυνάω
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
   cross_language:
   - strongs: H1970
-    proximity: 0.8269
+    lemma: הָכַר
+    gloss: to injure {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
     language: hebrew
   - strongs: H5978
-    proximity: 0.8214
+    lemma: עִמָּד
+    gloss: along with {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
     language: hebrew
   - strongs: H854
-    proximity: 0.8158
+    proximity: 0.8158 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

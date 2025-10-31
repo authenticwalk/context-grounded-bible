@@ -7,41 +7,59 @@ definition: a donation; euphemistically, tribute; specifically a sacrificial off
   (usually bloodless and voluntary)
 kjv_usage: gift, oblation, (meat) offering, present, sacrifice.
 derivation: from an unused root meaning to apportion, i.e. bestow;
-extended_definition:
-  gloss: 'offering: tribute'
-  definition: ': tribute<br>1) gift, tribute, offering, present, oblation, sacrifice,
-    meat offering<br>1a) gift, present<br>1b) tribute<br>1c) offering (to God)<br>1d)
-    grain offering'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: ': tribute
+
+  1) gift, tribute, offering, present, oblation, sacrifice, meat offering
+
+  1a) gift, present
+
+  1b) tribute
+
+  1c) offering (to God)
+
+  1d) grain offering {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5088
-    proximity: 0.8294
+    lemma: נֶדֶר
+    gloss: a promise {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: A1093
-    proximity: 0.8262
+    proximity: 0.8262 {macula-proximity}
   - strongs: H6999
-    proximity: 0.8247
+    lemma: קָטַר
+    gloss: to smoke {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H5083
-    proximity: 0.8238
+    lemma: נָדָן
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H8426
-    proximity: 0.8233
+    lemma: תּוֹדָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H7810
-    proximity: 0.819
+    lemma: שַׁחַד
+    gloss: a donation {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   - strongs: A2409
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
   - strongs: H5066
-    proximity: 0.815
+    lemma: נָגַשׁ
+    gloss: to be or come (causatively {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: H5257
-    proximity: 0.8129
+    lemma: נְסִיךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: H5258
-    proximity: 0.8098
+    lemma: נָסַךְ
+    gloss: to pour out {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
   cross_language:
   - strongs: G1494
-    proximity: 0.8135
+    lemma: εἰδωλόθυτον
+    gloss: an image-sacrifice {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

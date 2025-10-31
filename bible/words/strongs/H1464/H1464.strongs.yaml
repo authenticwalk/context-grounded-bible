@@ -6,40 +6,48 @@ pronunciation: goode
 definition: to crowd upon, i.e. attack
 kjv_usage: invade, overcome.
 derivation: a primitive root (akin to H1413 (גָּדַד));
-extended_definition:
-  gloss: to raid
-  definition: 1) to invade, attack<br>1a) (Qal) to attack
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to invade, attack
+
+  1a) (Qal) to attack {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5221
-    proximity: 0.8206
+    lemma: נָכָה
+    gloss: to strike (lightly or severely {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: H935
-    proximity: 0.8122
+    proximity: 0.8122 {macula-proximity}
   - strongs: A1519
-    proximity: 0.7909
+    proximity: 0.7909 {macula-proximity}
   - strongs: H2179
-    proximity: 0.7897
+    lemma: זָנַב
+    gloss: to curtail {openscriptures-strongs}
+    proximity: 0.7897 {macula-proximity}
   - strongs: H5921
-    proximity: 0.7884
+    lemma: עַל
+    gloss: above {openscriptures-strongs}
+    proximity: 0.7884 {macula-proximity}
   - strongs: H1481a
-    proximity: 0.784
+    proximity: 0.784 {macula-proximity}
   - strongs: H6584
-    proximity: 0.776
+    lemma: פָּשַׁט
+    gloss: to spread out {openscriptures-strongs}
+    proximity: 0.776 {macula-proximity}
   - strongs: H6696a
-    proximity: 0.7464
+    proximity: 0.7464 {macula-proximity}
   - strongs: H3593
-    proximity: 0.7353
+    lemma: כִּידוֹר
+    gloss: perhaps tumult {openscriptures-strongs}
+    proximity: 0.7353 {macula-proximity}
   cross_language:
   - strongs: G5492
-    proximity: 0.7963
+    lemma: χειμάζω
+    gloss: to storm {openscriptures-strongs}
+    proximity: 0.7963 {macula-proximity}
     language: greek
   - strongs: G2721
-    proximity: 0.7275
+    lemma: κατεφίστημι
+    gloss: to stand over against {openscriptures-strongs}
+    proximity: 0.7275 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

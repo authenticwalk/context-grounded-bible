@@ -5,38 +5,40 @@ transliteration: dōdekáphylon
 definition: the commonwealth of Israel
 kjv_usage: twelve tribes
 derivation: from G1427 (δώδεκα) and G5443 (φυλή);
-extended_definition:
-  gloss: twelve tribes
-  definition: '<b>δωδεκά-φυλος</b>, -ον<BR /> (δώδεκα, φυλή), <BR /><b>of twelve tribes</b>:
-    as subst. neut., τό δ. (cf. λαὸς ὁ δ., Sibyll. Orac.), <b>the twelve tribes</b>,
-    <ref=''Act.26.7.''>Act.26:7.</ref>†<BR /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> δωδεκά-φῡλος</b>, ον, <br /> <b>of twelve tribes</b>, τὸ δ.
-    <b>the twelve tribes</b> of Israel, [<a href="javascript:void(0)" title=" NT.Act.26.7.
-    ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'δωδεκά-φυλος, -ον
+
+  (δώδεκα, φυλή),
+
+  of twelve tribes: as subst. neut., τό δ. (cf. λαὸς ὁ δ., Sibyll. Orac.), the twelve
+  tribes, Act.26:7.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'δωδεκά-φῡλος, ον,
+
+  of twelve tribes, τὸ δ. the twelve tribes of Israel, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A8361
-    proximity: 0.8265
+    proximity: 0.8265 {macula-proximity}
   - strongs: G1428
-    proximity: 0.8256
+    lemma: δωδέκατος
+    gloss: twelfth {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
   - strongs: G3712
-    proximity: 0.8
+    lemma: ὀργυιά
+    gloss: a stretch of the arms {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: A8648
-    proximity: 0.7068
+    proximity: 0.7068 {macula-proximity}
   cross_language:
   - strongs: H8147
-    proximity: 0.7988
+    lemma: שְׁנַיִם
+    gloss: two {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
     language: hebrew
   - strongs: H6240
-    proximity: 0.7807
+    lemma: עָשָׂר
+    gloss: ten {openscriptures-strongs}
+    proximity: 0.7807 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

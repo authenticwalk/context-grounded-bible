@@ -5,36 +5,39 @@ transliteration: Lýstra
 definition: Lystra, a place in Asia Minor
 kjv_usage: Lystra
 derivation: of uncertain origin;
-extended_definition:
-  gloss: Lystra
-  definition: '<b>λύστρα</b>, -ας, ἡ <BR /> and (in <ref=''Act.14.8; 16.2''>Act.14:8
-    16:2</ref>, 2Ti, l.with) -ων, τά (cf. Λύδδα), <BR /> <b>Lystra, a city of Lycaonia</b>:
-    <ref=''Act.14.6, 8; 14.21; 16.1-2''>Act.14:6, 8 14:21 16:1-2</ref>, <ref=''2Ti.3.11''>2Ti.3:11</ref>.†<BR
-    /> (AS)'
-  morphology: N:N--L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>λύστρα</b>, -ας, ἡ <BR /> and (in <ref=''Act.14.8; 16.2''>Act.14:8
-    16:2</ref>, 2Ti, l.with) -ων, τά (cf. Λύδδα), <BR /> <b>Lystra, a city of Lycaonia</b>:
-    <ref=''Act.14.6, 8; 14.21; 16.1-2''>Act.14:6, 8 14:21 16:1-2</ref>, <ref=''2Ti.3.11''>2Ti.3:11</ref>.†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'λύστρα, -ας, ἡ
+
+  and (in Act.14:8 16:2, 2Ti, l.with) -ων, τά (cf. Λύδδα),
+
+  Lystra, a city of Lycaonia: Act.14:6, 8 14:21 16:1-2, 2Ti.3:11.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'λύστρα, -ας, ἡ
+
+  and (in Act.14:8 16:2, 2Ti, l.with) -ων, τά (cf. Λύδδα),
+
+  Lystra, a city of Lycaonia: Act.14:6, 8 14:21 16:1-2, 2Ti.3:11.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4200
-    proximity: 0.8233
+    lemma: πορισμός
+    gloss: furnishing {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: G4503
-    proximity: 0.7734
+    lemma: Ῥούθ
+    gloss: Ruth {openscriptures-strongs}
+    proximity: 0.7734 {macula-proximity}
   cross_language:
   - strongs: H3865
-    proximity: 0.827
+    lemma: לוּד
+    gloss: Lud {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: hebrew
   - strongs: H7327
-    proximity: 0.7713
+    lemma: רוּת
+    gloss: Ruth {openscriptures-strongs}
+    proximity: 0.7713 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

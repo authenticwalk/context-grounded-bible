@@ -6,51 +6,73 @@ pronunciation: baw-law'
 definition: to fail; by implication to wear out, decay (causatively, consume, spend)
 kjv_usage: consume, enjoy long, become (make, wax) old, spend, waste.
 derivation: a primitive root;
-extended_definition:
-  gloss: to become old
-  definition: '1) to wear out, become old<br>1a) (Qal) to wear out<br>1b) (Piel)<br>1b1)
-    to wear out<br>1b2) to wear out by use, use up completely<br>1b3) to enjoy, use
-    to the full<BR>Aramaic equivalent: <i>be.la</i> (בְּלָא "to wear out" H1080)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to wear out, become old
+
+  1a) (Qal) to wear out
+
+  1b) (Piel)
+
+  1b1) to wear out
+
+  1b2) to wear out by use, use up completely
+
+  1b3) to enjoy, use to the full
+
+  Aramaic equivalent: be.la (בְּלָא "to wear out" H1080) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1080
-    proximity: 0.8252
+    proximity: 0.8252 {macula-proximity}
   - strongs: H6789
-    proximity: 0.823
+    lemma: צָמַת
+    gloss: to extirpate {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
   - strongs: H3002
-    proximity: 0.8205
+    lemma: יָבֵשׁ
+    gloss: dry {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: H8045
-    proximity: 0.814
+    lemma: שָׁמַד
+    gloss: to desolate {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
   - strongs: H7334
-    proximity: 0.8053
+    lemma: רָזִי
+    gloss: thinness {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H3615
-    proximity: 0.8043
+    lemma: כָּלָה
+    gloss: to end {openscriptures-strongs}
+    proximity: 0.8043 {macula-proximity}
   - strongs: H6
-    proximity: 0.8029
+    proximity: 0.8029 {macula-proximity}
   - strongs: H7060
-    proximity: 0.8006
+    lemma: קָמַל
+    gloss: to wither {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
   - strongs: H535
-    proximity: 0.7813
+    proximity: 0.7813 {macula-proximity}
   cross_language:
   - strongs: G355
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G5299
-    proximity: 0.8182
+    lemma: ὑπωπιάζω
+    gloss: to hit under the eye {openscriptures-strongs}
+    proximity: 0.8182 {macula-proximity}
     language: greek
   - strongs: G3133
-    proximity: 0.8168
+    lemma: μαραίνω
+    gloss: to extinguish {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
     language: greek
   - strongs: G2616
-    proximity: 0.8117
+    lemma: καταδυναστεύω
+    gloss: to exercise dominion against {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
     language: greek
   - strongs: G1095
-    proximity: 0.8014
+    lemma: γηράσκω
+    gloss: to be senescent {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

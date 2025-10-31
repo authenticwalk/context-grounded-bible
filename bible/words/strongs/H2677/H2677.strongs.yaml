@@ -6,48 +6,60 @@ pronunciation: khay-tsee'
 definition: the half or middle
 kjv_usage: half, middle, mid(-night), midst, part, two parts.
 derivation: from H2673 (חָצָה)lemma חָעָה ayin, corrected to חָצָה;
-extended_definition:
-  gloss: half
-  definition: 1) half<br>1a) half<br>1b) middle
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) half
+
+  1a) half
+
+  1b) middle {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7255a
-    proximity: 0.8277
+    proximity: 0.8277 {macula-proximity}
   - strongs: H821
-    proximity: 0.8228
+    proximity: 0.8228 {macula-proximity}
   - strongs: A1b
-    proximity: 0.821
+    proximity: 0.821 {macula-proximity}
   - strongs: H380
-    proximity: 0.8158
+    proximity: 0.8158 {macula-proximity}
   - strongs: H3689
-    proximity: 0.8134
+    lemma: כֶּסֶל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8134 {macula-proximity}
   - strongs: H996
-    proximity: 0.7971
+    proximity: 0.7971 {macula-proximity}
   - strongs: H8147
-    proximity: 0.7964
+    lemma: שְׁנַיִם
+    gloss: two {openscriptures-strongs}
+    proximity: 0.7964 {macula-proximity}
   - strongs: H3915
-    proximity: 0.7955
+    lemma: לַיִל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7955 {macula-proximity}
   - strongs: H1506
-    proximity: 0.785
+    lemma: גֶּזֶר
+    gloss: something cut off {openscriptures-strongs}
+    proximity: 0.785 {macula-proximity}
   - strongs: H915
-    proximity: 0.7797
+    proximity: 0.7797 {macula-proximity}
   cross_language:
   - strongs: G3571
-    proximity: 0.8181
+    lemma: νύξ
+    gloss: '"night" {openscriptures-strongs}'
+    proximity: 0.8181 {macula-proximity}
     language: greek
   - strongs: G3342
-    proximity: 0.7954
+    lemma: μεταξύ
+    gloss: betwixt {openscriptures-strongs}
+    proximity: 0.7954 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.7852
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7852 {macula-proximity}
     language: greek
   - strongs: G1417
-    proximity: 0.7821
+    lemma: δύο
+    gloss: '"two" {openscriptures-strongs}'
+    proximity: 0.7821 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

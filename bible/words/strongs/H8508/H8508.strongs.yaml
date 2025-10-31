@@ -6,28 +6,30 @@ pronunciation: tok-neeth'
 definition: admeasurement, i.e. consummation
 kjv_usage: pattern, sum.
 derivation: from H8506 (תֹּכֶן);
-extended_definition:
-  gloss: proportion
-  definition: measurement, pattern, proportion
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: measurement, pattern, proportion {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4359
-    proximity: 0.796
+    lemma: מִכְלָל
+    gloss: perfection {openscriptures-strongs}
+    proximity: 0.796 {macula-proximity}
   - strongs: H4060
-    proximity: 0.7693
+    lemma: מִדָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7693 {macula-proximity}
   - strongs: H4461
-    proximity: 0.7343
+    lemma: מֵמַד
+    gloss: a measure {openscriptures-strongs}
+    proximity: 0.7343 {macula-proximity}
   cross_language:
   - strongs: G5050
-    proximity: 0.7954
+    lemma: τελείωσις
+    gloss: completion {openscriptures-strongs}
+    proximity: 0.7954 {macula-proximity}
     language: greek
   - strongs: G2676
-    proximity: 0.7875
+    lemma: κατάρτισις
+    gloss: thorough equipment {openscriptures-strongs}
+    proximity: 0.7875 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

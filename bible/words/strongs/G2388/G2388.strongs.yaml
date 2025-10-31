@@ -5,39 +5,40 @@ transliteration: Ianná
 definition: Janna, an Israelite
 kjv_usage: Janna
 derivation: probably of Hebrew origin (compare H03238);
-extended_definition:
-  gloss: Jannai
-  definition: '<b>Ἰανναί </b> (Rec. -νά), ὁ, <BR /> <b>Jannai</b>: <ref=''Luk.3.24.''>Luk.3:24.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ἰανναί </b> (Rec. -νά), ὁ, <BR /> <b>Jannai</b>: <ref=''Luk.3.24.''>Luk.3:24.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ἰανναί  (Rec. -νά), ὁ,
+
+  Jannai: Luk.3:24.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ἰανναί  (Rec. -νά), ὁ,
+
+  Jannai: Luk.3:24.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A2608a
-    proximity: 0.7859
+    proximity: 0.7859 {macula-proximity}
   cross_language:
   - strongs: H4509
-    proximity: 0.8297
+    lemma: מִנְיָמִין
+    gloss: Minjamin {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: hebrew
   - strongs: H4641a
-    proximity: 0.8277
+    proximity: 0.8277 {macula-proximity}
     language: hebrew
   - strongs: H2608
-    proximity: 0.8222
+    lemma: חֲנַנְיָה
+    gloss: Chananjah {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
     language: hebrew
   - strongs: H3663
-    proximity: 0.8105
+    lemma: כְּנַנְיָה
+    gloss: Kenanjah {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
     language: hebrew
   - strongs: H2608b
-    proximity: 0.8034
+    proximity: 0.8034 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

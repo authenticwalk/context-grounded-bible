@@ -6,47 +6,49 @@ pronunciation: gaw-lawl'
 definition: a circumstance (as rolled around); only used adverbially, on account of
 kjv_usage: because of, for (sake).
 derivation: from H1556 (גָּלַל);
-extended_definition:
-  gloss: because of
-  definition: on account of, for the sake of
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: on account of, for the sake of {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A871b
-    proximity: 0.8191
+    proximity: 0.8191 {macula-proximity}
   - strongs: H2050b
-    proximity: 0.8169
+    proximity: 0.8169 {macula-proximity}
   - strongs: H3509a
-    proximity: 0.8166
+    proximity: 0.8166 {macula-proximity}
   - strongs: H853
-    proximity: 0.8068
+    proximity: 0.8068 {macula-proximity}
   - strongs: A5922
-    proximity: 0.8022
+    proximity: 0.8022 {macula-proximity}
   - strongs: H834
-    proximity: 0.7663
+    proximity: 0.7663 {macula-proximity}
   - strongs: H1697
-    proximity: 0.754
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.754 {macula-proximity}
   - strongs: H6440
-    proximity: 0.7501
+    lemma: פָּנִים
+    gloss: the face {openscriptures-strongs}
+    proximity: 0.7501 {macula-proximity}
   cross_language:
   - strongs: G4314
-    proximity: 0.8171
+    lemma: πρός
+    gloss: a preposition of direction {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
     language: greek
   - strongs: G1895
-    proximity: 0.8079
+    lemma: ἐπειδήπερ
+    gloss: since indeed {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
     language: greek
   - strongs: G575
-    proximity: 0.8058
+    proximity: 0.8058 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.7992
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7992 {macula-proximity}
     language: greek
   - strongs: G156
-    proximity: 0.7805
+    proximity: 0.7805 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

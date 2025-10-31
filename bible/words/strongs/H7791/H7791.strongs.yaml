@@ -9,24 +9,35 @@ derivation: from H7788 (שׁוּר);
 related_words:
   synonyms:
   - strongs: H4013
-    proximity: 0.8211
+    lemma: מִבְצָר
+    gloss: a fortification {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
   - strongs: H1443
-    proximity: 0.818
+    lemma: גָּדַר
+    gloss: to wall in or around {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.8116
+    proximity: 0.8116 {macula-proximity}
   - strongs: H7151
-    proximity: 0.7659
+    lemma: קִרְיָה
+    gloss: building {openscriptures-strongs}
+    proximity: 0.7659 {macula-proximity}
   - strongs: H1785
-    proximity: 0.7508
+    lemma: דָּיֵק
+    gloss: a battering-tower {openscriptures-strongs}
+    proximity: 0.7508 {macula-proximity}
   - strongs: H7790
-    proximity: 0.75
+    lemma: שׁוּר
+    gloss: a foe {openscriptures-strongs}
+    proximity: 0.75 {macula-proximity}
   - strongs: H5067
-    proximity: 0.745
+    lemma: נֵד
+    gloss: a mound {openscriptures-strongs}
+    proximity: 0.745 {macula-proximity}
   cross_language:
   - strongs: G5418
-    proximity: 0.8082
+    lemma: φραγμός
+    gloss: a fence {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

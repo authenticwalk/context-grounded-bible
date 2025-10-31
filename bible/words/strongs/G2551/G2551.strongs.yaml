@@ -5,61 +5,66 @@ transliteration: kakologéō
 definition: to revile
 kjv_usage: curse, speak evil of
 derivation: from a compound of G2556 (κακός) and G3056 (λόγος);
-extended_definition:
-  gloss: to curse/revile
-  definition: '<b>κακολογέω</b>, -ῶ<BR /> (κακολόγος, slanderous), [in LXX: <ref=''Exo.21.16;
-    22.28''>Exo.21:16 22:28</ref>, <ref=''1Sa.3.13''>1Ki.3:13</ref>, <ref=''Pro.20.20''>Pro.20:20</ref>,
-    <ref=''Ezk.22.7''>Eze.22:7</ref> (קָלַל pi., hi.), <ref=''2Ma.4.1''>2Ma.4:1</ref>
-    * ;] <BR /><b>to speak ill of, revile, abuse</b>: with accusative of person(s),
-    <ref=''Mat.15.4''>Mat.15:4</ref>, <ref=''Mrk.7.10''>Mrk.7:10</ref>" (LXX) <ref=''Mrk.9.39''>Mrk.9:39;</ref>
-    with accusative of thing(s), <ref=''Act.19.9.''>Act.19:9.</ref>†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κᾰκολογ-έω</b>, <br /> <b>revile, abuse</b>, τινα [<a href="javascript:void(0)"
-    title=" 5th c.BC: Lysias Orator 8.5, 5th-6th c.BC: Isocrates Orator 6.98, 4th
-    c.BC: Hyperides Orator “Fragmenta” 25, LXX.Exo.21.16(17), NT.Matt.15.4, +others:
-    _absolutely_, 4th c.BC: Demosthenes Orator 36.61 ">NT+5th c.BC+</a>]:—<i>passive</i>,
-    [<a href="javascript:void(0)" title=" 5th c.BC: Gorgias Rhetor et Sophista “Hel.”
-    7, “PFay.” 12.15 (2nd c.BC). ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κακολογέω, -ῶ
+
+  (κακολόγος, slanderous), [in LXX: Exo.21:16 22:28, 1Ki.3:13, Pro.20:20, Eze.22:7
+  (קָלַל pi., hi.), 2Ma.4:1 * ;]
+
+  to speak ill of, revile, abuse: with accusative of person(s), Mat.15:4, Mrk.7:10"
+  (LXX) Mrk.9:39; with accusative of thing(s), Act.19:9.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κᾰκολογ-έω,
+
+  revile, abuse, τινα [NT+5th c.BC+]:—passive, [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G483
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
   - strongs: G3060
-    proximity: 0.8089
+    lemma: λοίδορος
+    gloss: abusive {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: G988
-    proximity: 0.8015
+    proximity: 0.8015 {macula-proximity}
   - strongs: G2560
-    proximity: 0.7949
+    lemma: κακῶς
+    gloss: badly {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
   - strongs: G5588
-    proximity: 0.77
+    lemma: ψιθυριστής
+    gloss: a secret calumniator {openscriptures-strongs}
+    proximity: 0.77 {macula-proximity}
   - strongs: G2046
-    proximity: 0.7585
+    lemma: ἐρέω
+    gloss: an alternate for G2036  in certain tenses {openscriptures-strongs}
+    proximity: 0.7585 {macula-proximity}
   - strongs: G3469
-    proximity: 0.7564
+    lemma: μωμάομαι
+    gloss: to carp at {openscriptures-strongs}
+    proximity: 0.7564 {macula-proximity}
   - strongs: G989
-    proximity: 0.7536
+    proximity: 0.7536 {macula-proximity}
   cross_language:
   - strongs: H779
-    proximity: 0.8176
+    proximity: 0.8176 {macula-proximity}
     language: hebrew
   - strongs: H3960
-    proximity: 0.8033
+    lemma: לָשַׁן
+    gloss: to wag the tongue {openscriptures-strongs}
+    proximity: 0.8033 {macula-proximity}
     language: hebrew
   - strongs: H423
-    proximity: 0.7922
+    proximity: 0.7922 {macula-proximity}
     language: hebrew
   - strongs: H1442
-    proximity: 0.7644
+    lemma: גָּדַף
+    gloss: to hack {openscriptures-strongs}
+    proximity: 0.7644 {macula-proximity}
     language: hebrew
   - strongs: H1848
-    proximity: 0.7571
+    lemma: דׇּפִי
+    gloss: a stumbling-block {openscriptures-strongs}
+    proximity: 0.7571 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

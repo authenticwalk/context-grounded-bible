@@ -7,25 +7,21 @@ definition: properly, a willow twig (as pendulous), i.e. an osier; but only as w
   into abasket
 kjv_usage: basket.
 derivation: from H5549 (סָלַל);
-extended_definition:
-  gloss: basket
-  definition: basket
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: basket {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5552
-    proximity: 0.7287
+    lemma: סַלְסִלָּה
+    gloss: a twig {openscriptures-strongs}
+    proximity: 0.7287 {macula-proximity}
   - strongs: H374
-    proximity: 0.7243
+    proximity: 0.7243 {macula-proximity}
   - strongs: H7991a
-    proximity: 0.712
+    proximity: 0.712 {macula-proximity}
   cross_language:
   - strongs: G3426
-    proximity: 0.7273
+    lemma: μόδιος
+    gloss: a modius {openscriptures-strongs}
+    proximity: 0.7273 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,29 +7,35 @@ definition: separate, i.e. consecrated (as prince, a Nazirite); hence (figurativ
   from the latter) an unpruned vine (like an unshorn Nazirite)
 kjv_usage: Nazarite (by a false alliteration with Nazareth), separate(-d), vine undressed.
 derivation: or נָזִר; from H5144 (נָזַר);
-extended_definition:
-  gloss: Nazirite
-  definition: '1) consecrated or devoted one, Nazarite <BR>1a) consecrated one <BR>1b)
-    devotee, Nazarite <BR>1c) untrimmed (vine)<BR>Also named: <i>ne.zer</i> (נֵ֫זֶר
-    ": consecration" H5145)'
-  morphology: N:N--TG
-  source: STEPBible/BDB
+extended_definition: '1) consecrated or devoted one, Nazarite
+
+  1a) consecrated one
+
+  1b) devotee, Nazarite
+
+  1c) untrimmed (vine)
+
+  Also named: ne.zer (נֵ֫זֶר ": consecration" H5145) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5081
-    proximity: 0.8229
+    lemma: נָדִיב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: H3754
-    proximity: 0.8077
+    lemma: כֶּרֶם
+    gloss: a garden or vineyard {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
   - strongs: H2715
-    proximity: 0.8027
+    lemma: חֹר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
   - strongs: H5145
-    proximity: 0.7745
+    lemma: נֶזֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7745 {macula-proximity}
   cross_language:
   - strongs: G288
-    proximity: 0.7905
+    proximity: 0.7905 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

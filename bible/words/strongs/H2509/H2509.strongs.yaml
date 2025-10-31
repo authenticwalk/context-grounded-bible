@@ -6,29 +6,31 @@ pronunciation: khaw-lawk'
 definition: smooth (especially of tongue)
 kjv_usage: flattering, smooth.
 derivation: from H2505 (חָלַק);
-extended_definition:
-  gloss: smooth
-  definition: flattering, smooth
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: flattering, smooth {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6706
-    proximity: 0.7869
+    lemma: צְחִיחַ
+    gloss: glaring {openscriptures-strongs}
+    proximity: 0.7869 {macula-proximity}
   - strongs: H4725
-    proximity: 0.7648
+    lemma: מָקוֹם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7648 {macula-proximity}
   cross_language:
   - strongs: G3006
-    proximity: 0.8206
+    lemma: λεῖος
+    gloss: smooth {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G4240
-    proximity: 0.8146
+    lemma: πραΰτης
+    gloss: mildness {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
     language: greek
   - strongs: G5117
-    proximity: 0.7614
+    lemma: τόπος
+    gloss: a spot (general in space {openscriptures-strongs}
+    proximity: 0.7614 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

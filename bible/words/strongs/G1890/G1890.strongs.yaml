@@ -5,56 +5,66 @@ transliteration: epaphrízō
 definition: to foam upon, i.e. (figuratively) to exhibit (a vile passion)
 kjv_usage: foam out
 derivation: from G1909 (ἐπί) and G875 (ἀφρίζω);
-extended_definition:
-  gloss: to foam up
-  definition: '<b>ἐπ-αφρίζω </b><BR /> <b>to foam up</b>: metaphorically, τ. αἰσχύνας,
-    <ref=''Jude.13''>Ju 13</ref>.†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐπαφρ-ίζω</b>, <br /> <b>foam up</b> or <b>on the surface,</b>
-    [<a href="javascript:void(0)" title=" 2nd c.BC: Moschus Bucolicus “fragment” 1,
-    2nd c.BC: Nicander Epicus “Alexipharmaca” 32. ">Refs 2nd c.BC+</a>]<br /><Level3><b>__2</b></Level3>
-    with <i>accusative</i>, <b>foam out,</b> αἰσχύνας [<a href="javascript:void(0)"
-    title=" NT.Jude.13. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐπ-αφρίζω
+
+  to foam up: metaphorically, τ. αἰσχύνας, Ju 13.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐπαφρ-ίζω,
+
+  foam up or on the surface, [Refs 2nd c.BC+]
+
+  __2 with accusative, foam out, αἰσχύνας [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G393
-    proximity: 0.8249
+    proximity: 0.8249 {macula-proximity}
   - strongs: G1816
-    proximity: 0.8186
+    lemma: ἐξανατέλλω
+    gloss: to start up out of the ground {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: G1920
-    proximity: 0.817
+    lemma: ἐπιγίνομαι
+    gloss: to arrive upon {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: G1667
-    proximity: 0.8151
+    lemma: ἑλίσσω
+    gloss: to coil or wrap {openscriptures-strongs}
+    proximity: 0.8151 {macula-proximity}
   - strongs: G5453
-    proximity: 0.8131
+    lemma: φύω
+    gloss: probably originally {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
   - strongs: G450a
-    proximity: 0.812
+    proximity: 0.812 {macula-proximity}
   - strongs: G1032
-    proximity: 0.79
+    lemma: βρύω
+    gloss: to swell out {openscriptures-strongs}
+    proximity: 0.79 {macula-proximity}
   - strongs: A5047
-    proximity: 0.7789
+    proximity: 0.7789 {macula-proximity}
   cross_language:
   - strongs: H7088
-    proximity: 0.821
+    lemma: קָפַד
+    gloss: to contract {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: hebrew
   - strongs: H3333
-    proximity: 0.8125
+    lemma: יְצֻקָה
+    gloss: poured out {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: hebrew
   - strongs: H2560
-    proximity: 0.812
+    lemma: חָמַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
     language: hebrew
   - strongs: H1644a
-    proximity: 0.7904
+    proximity: 0.7904 {macula-proximity}
     language: hebrew
   - strongs: H3032
-    proximity: 0.7639
+    lemma: יָדַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7639 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

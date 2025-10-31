@@ -6,25 +6,23 @@ pronunciation: saw-fawm'
 definition: the beard (as a lippiece)
 kjv_usage: beard, (upper) lip.
 derivation: from H8193 (שָׂפָה);
-extended_definition:
-  gloss: mustache
-  definition: moustache
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: moustache {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2441
-    proximity: 0.7976
+    lemma: חֵךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7976 {macula-proximity}
   - strongs: H6310
-    proximity: 0.7842
+    lemma: פֶּה
+    gloss: the mouth {openscriptures-strongs}
+    proximity: 0.7842 {macula-proximity}
   - strongs: A6433
-    proximity: 0.745
+    proximity: 0.745 {macula-proximity}
   cross_language:
   - strongs: G4750
-    proximity: 0.7796
+    lemma: στόμα
+    gloss: the mouth {openscriptures-strongs}
+    proximity: 0.7796 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

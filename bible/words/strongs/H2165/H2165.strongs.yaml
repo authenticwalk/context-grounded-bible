@@ -6,40 +6,49 @@ pronunciation: zem-awn'
 definition: an appointed occasion
 kjv_usage: season, time.
 derivation: from H2163 (זָמַן);
-extended_definition:
-  gloss: time
-  definition: 'a set time, appointed time, time<BR>Aramaic equivalent: <i>ze.man</i>
-    (זְמַן "time" H2166)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'a set time, appointed time, time
+
+  Aramaic equivalent: ze.man (זְמַן "time" H2166) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4152
-    proximity: 0.8277
+    lemma: מוּעָדָה
+    gloss: an appointed place {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H3117
-    proximity: 0.8215
+    lemma: יוֹם
+    gloss: a day {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H3117a
-    proximity: 0.7722
+    proximity: 0.7722 {macula-proximity}
   - strongs: H4150
-    proximity: 0.7218
+    lemma: מוֹעֵד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7218 {macula-proximity}
   cross_language:
   - strongs: G2121
-    proximity: 0.8217
+    lemma: εὔκαιρος
+    gloss: well-timed {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
     language: greek
   - strongs: G4400
-    proximity: 0.8217
+    lemma: προχειρίζομαι
+    gloss: to handle for oneself in advance {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
     language: greek
   - strongs: G2122
-    proximity: 0.7929
+    lemma: εὐκαίρως
+    gloss: opportunely {openscriptures-strongs}
+    proximity: 0.7929 {macula-proximity}
     language: greek
   - strongs: G5002
-    proximity: 0.7923
+    lemma: τακτός
+    gloss: arranged {openscriptures-strongs}
+    proximity: 0.7923 {macula-proximity}
     language: greek
   - strongs: G4384
-    proximity: 0.7856
+    lemma: προτάσσω
+    gloss: to pre-arrange {openscriptures-strongs}
+    proximity: 0.7856 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

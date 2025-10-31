@@ -9,42 +9,59 @@ derivation: from H6960 (קָוָה); (compare H6961 (קָוֶה))
 related_words:
   synonyms:
   - strongs: H5388
-    proximity: 0.8263
+    lemma: נְשִׁיָּה
+    gloss: oblivion {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: H782
-    proximity: 0.8232
+    proximity: 0.8232 {macula-proximity}
   - strongs: H109
-    proximity: 0.8027
+    proximity: 0.8027 {macula-proximity}
   - strongs: H3642
-    proximity: 0.7966
+    lemma: כָּמַהּ
+    gloss: to pine after {openscriptures-strongs}
+    proximity: 0.7966 {macula-proximity}
   - strongs: H2656
-    proximity: 0.784
+    lemma: חֵפֶץ
+    gloss: pleasure {openscriptures-strongs}
+    proximity: 0.784 {macula-proximity}
   - strongs: H183
-    proximity: 0.7809
+    proximity: 0.7809 {macula-proximity}
   - strongs: H4994
-    proximity: 0.7791
+    lemma: נָא
+    gloss: '''I pray'' {openscriptures-strongs}'
+    proximity: 0.7791 {macula-proximity}
   - strongs: H3863
-    proximity: 0.7767
+    lemma: לוּא
+    gloss: a conditional particle {openscriptures-strongs}
+    proximity: 0.7767 {macula-proximity}
   - strongs: H8378
-    proximity: 0.7444
+    lemma: תַּאֲוָה
+    gloss: a longing {openscriptures-strongs}
+    proximity: 0.7444 {macula-proximity}
   - strongs: H3689a
-    proximity: 0.7357
+    proximity: 0.7357 {macula-proximity}
   cross_language:
   - strongs: G2172
-    proximity: 0.8165
+    lemma: εὔχομαι
+    gloss: to wish {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G2309
-    proximity: 0.8136
+    lemma: θέλω
+    gloss: to determine (as an active option from subjective impulse {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
     language: greek
   - strongs: G4327
-    proximity: 0.8079
+    lemma: προσδέχομαι
+    gloss: to admit (to intercourse {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
     language: greek
   - strongs: G1014
-    proximity: 0.7749
+    lemma: βούλομαι
+    gloss: to "will {openscriptures-strongs}
+    proximity: 0.7749 {macula-proximity}
     language: greek
   - strongs: G560
-    proximity: 0.7523
+    proximity: 0.7523 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

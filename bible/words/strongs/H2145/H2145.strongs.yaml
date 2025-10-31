@@ -7,48 +7,68 @@ definition: properly, remembered, i.e. a male (of man or animals, as being the m
   noteworthy sex)
 kjv_usage: '[idiom] him, male, man(child, -kind).'
 derivation: from H2142 (זָכַר);
-extended_definition:
-  gloss: male
-  definition: 1) male (of humans and animals)<br>adj<br>2) male (of humans)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) male (of humans and animals)
+
+  adj
+
+  2) male (of humans) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5795
-    proximity: 0.8207
+    lemma: עֵז
+    gloss: a she-goat {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H352
-    proximity: 0.8152
+    proximity: 0.8152 {macula-proximity}
   - strongs: H7891
-    proximity: 0.8136
+    lemma: שִׁיר
+    gloss: to sing {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: H5959
-    proximity: 0.8068
+    lemma: עַלְמָה
+    gloss: a lass {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
   - strongs: H3532
-    proximity: 0.8059
+    lemma: כֶּבֶשׂ
+    gloss: a ram {openscriptures-strongs}
+    proximity: 0.8059 {macula-proximity}
   - strongs: H3207
-    proximity: 0.8012
+    lemma: יַלְדָּה
+    gloss: a lass {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
   - strongs: H1538
-    proximity: 0.7921
+    lemma: גֻּלְגֹּלֶת
+    gloss: a skull {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
   - strongs: H5895
-    proximity: 0.7817
+    lemma: עַיִר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7817 {macula-proximity}
   - strongs: H8163a
-    proximity: 0.774
+    proximity: 0.774 {macula-proximity}
   - strongs: H6945
-    proximity: 0.7723
+    lemma: קָדֵשׁ
+    gloss: a  sacred person {openscriptures-strongs}
+    proximity: 0.7723 {macula-proximity}
   cross_language:
   - strongs: G1135
-    proximity: 0.8294
+    lemma: γυνή
+    gloss: a woman {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G5022
-    proximity: 0.7867
+    lemma: ταῦρος
+    gloss: a bullock {openscriptures-strongs}
+    proximity: 0.7867 {macula-proximity}
     language: greek
   - strongs: G4246
-    proximity: 0.7805
+    lemma: πρεσβύτης
+    gloss: an old man {openscriptures-strongs}
+    proximity: 0.7805 {macula-proximity}
     language: greek
   - strongs: G3813
-    proximity: 0.7679
+    lemma: παιδίον
+    gloss: a childling {openscriptures-strongs}
+    proximity: 0.7679 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

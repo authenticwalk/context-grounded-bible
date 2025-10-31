@@ -7,44 +7,52 @@ definition: an associate (more or less close)
 kjv_usage: brother, companion, fellow, friend, husband, lover, neighbour, [idiom]
   (an-) other.
 derivation: or רֵיעַ; from H7462 (רָעָה);
-extended_definition:
-  gloss: neighbor
-  definition: 1) friend, companion, fellow, another person<br>1a) friend, intimate<br>1b)
-    fellow, fellow-citizen, another person (weaker sense)<br>1c) other, another (reciprocal
-    phrase)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) friend, companion, fellow, another person
+
+  1a) friend, intimate
+
+  1b) fellow, fellow-citizen, another person (weaker sense)
+
+  1c) other, another (reciprocal phrase) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3674
-    proximity: 0.8209
+    lemma: כְּנָת
+    gloss: a colleague {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
   - strongs: H5475
-    proximity: 0.8191
+    lemma: סוֹד
+    gloss: a session {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
   - strongs: H269
-    proximity: 0.8187
+    proximity: 0.8187 {macula-proximity}
   - strongs: H4962
-    proximity: 0.8183
+    lemma: מַת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: A3675
-    proximity: 0.8127
+    proximity: 0.8127 {macula-proximity}
   - strongs: A321
-    proximity: 0.8095
+    proximity: 0.8095 {macula-proximity}
   - strongs: H2297
-    proximity: 0.7947
+    lemma: חַד
+    gloss: one {openscriptures-strongs}
+    proximity: 0.7947 {macula-proximity}
   - strongs: H7463
-    proximity: 0.7943
+    lemma: רֵעֶה
+    gloss: a  companion {openscriptures-strongs}
+    proximity: 0.7943 {macula-proximity}
   - strongs: A252
-    proximity: 0.7912
+    proximity: 0.7912 {macula-proximity}
   - strongs: A1668
-    proximity: 0.7794
+    proximity: 0.7794 {macula-proximity}
   cross_language:
   - strongs: G435
-    proximity: 0.8287
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G4572
-    proximity: 0.8065
+    lemma: σεαυτοῦ
+    gloss: of (with {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

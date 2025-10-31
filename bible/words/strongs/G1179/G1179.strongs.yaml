@@ -5,40 +5,44 @@ transliteration: Dekápolis
 definition: the ten-city region; the Decapolis, a district in Syria
 kjv_usage: Decapolis
 derivation: from G1176 (δέκα) and G4172 (πόλις);
-extended_definition:
-  gloss: Decapolis
-  definition: '<b>Δεκά-πολις</b>, -εως, ὴ <BR /> <b>Decapolis</b>, a region east of
-    the Jordan con­taining ten cities: <ref=''Mat.4.25''>Mat.4:25</ref>, <ref=''Mrk.5.20;
-    7.31''>Mrk.5:20 7:31</ref>.†<BR /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> δεκᾰ-πολις</b>, εως, ἡ, <br /> <b>district with ten cities,
-    Decapolis,</b> [<a href="javascript:void(0)" title="NT.Matt.4.25, 1st c.AD: Josephus
-    Historicus “Bellum Judaicum” 3.9.7, “IGRom.” 3.1057 (2nd c.AD). ">NT+1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'Δεκά-πολις, -εως, ὴ
+
+  Decapolis, a region east of the Jordan con­taining ten cities: Mat.4:25, Mrk.5:20
+  7:31.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'δεκᾰ-πολις, εως, ἡ,
+
+  district with ten cities, Decapolis, [NT+1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1057
-    proximity: 0.8174
+    lemma: Γαλιλαῖος
+    gloss: Galilean or belonging to Galilea {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
   - strongs: G1056
-    proximity: 0.7431
+    lemma: Γαλιλαία
+    gloss: Galilæa {openscriptures-strongs}
+    proximity: 0.7431 {macula-proximity}
   cross_language:
   - strongs: H1218
-    proximity: 0.8137
+    lemma: בׇּצְקַת
+    gloss: Botscath {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
     language: hebrew
   - strongs: H1551
-    proximity: 0.8085
+    lemma: גָּלִיל
+    gloss: Galil  in the North of Palestine {openscriptures-strongs}
+    proximity: 0.8085 {macula-proximity}
     language: hebrew
   - strongs: H6539
-    proximity: 0.7879
+    lemma: פָּרַס
+    gloss: Paras {openscriptures-strongs}
+    proximity: 0.7879 {macula-proximity}
     language: hebrew
   - strongs: H6946
-    proximity: 0.7606
+    lemma: קָדֵשׁ
+    gloss: Kadesh {openscriptures-strongs}
+    proximity: 0.7606 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

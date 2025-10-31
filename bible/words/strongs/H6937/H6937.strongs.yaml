@@ -7,52 +7,77 @@ definition: to be ashy, i.e. darkcolored; by implication, to mourn (in sackcloth
   sordid garments)
 kjv_usage: be black(-ish), be (make) dark(-en), [idiom] heavily, (cause to) mourn.
 derivation: a primitive root;
-extended_definition:
-  gloss: be dark
-  definition: 1) to mourn, be dark<br>1a) (Qal) to be dark<br>1b) (Hiphil)<br>1b1)
-    to darken<br>1b2) to cause to mourn<br>1c) (Hithpael) to grow dark
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to mourn, be dark
+
+  1a) (Qal) to be dark
+
+  1b) (Hiphil)
+
+  1b1) to darken
+
+  1b2) to cause to mourn
+
+  1c) (Hithpael) to grow dark {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6969
-    proximity: 0.8284
+    lemma: קוּן
+    gloss: to strike a musical note {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: H653
-    proximity: 0.8274
+    proximity: 0.8274 {macula-proximity}
   - strongs: H2345
-    proximity: 0.8272
+    lemma: חוּם
+    gloss: sunburnt or swarthy {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
   - strongs: H6150
-    proximity: 0.8232
+    lemma: עָרַב
+    gloss: to grow dusky at sundown {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H3990
-    proximity: 0.82
+    lemma: מַאֲפֵל
+    gloss: something opaque {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
   - strongs: A2816
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
   - strongs: H5092
-    proximity: 0.816
+    lemma: נְהִי
+    gloss: an elegy {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
   - strongs: H1058
-    proximity: 0.8119
+    lemma: בָּכָה
+    gloss: to weep {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: A6088
-    proximity: 0.8106
+    proximity: 0.8106 {macula-proximity}
   - strongs: H3013
-    proximity: 0.8076
+    lemma: יָגָה
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.8076 {macula-proximity}
   cross_language:
   - strongs: G4036
-    proximity: 0.8232
+    lemma: περίλυπος
+    gloss: grieved all around {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
     language: greek
   - strongs: G2875
-    proximity: 0.822
+    lemma: κόπτω
+    gloss: to "chop" {openscriptures-strongs}
+    proximity: 0.822 {macula-proximity}
     language: greek
   - strongs: G2805
-    proximity: 0.8184
+    lemma: κλαυθμός
+    gloss: lamentation {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
     language: greek
   - strongs: G3601
-    proximity: 0.8157
+    lemma: ὀδύνη
+    gloss: grief {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
     language: greek
   - strongs: G2354
-    proximity: 0.7956
+    lemma: θρηνέω
+    gloss: to bewail {openscriptures-strongs}
+    proximity: 0.7956 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

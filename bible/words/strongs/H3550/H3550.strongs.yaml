@@ -6,37 +6,43 @@ pronunciation: keh-hoon-naw'
 definition: priesthood
 kjv_usage: priesthood, priest's office.
 derivation: from H3547 (כָּהַן);
-extended_definition:
-  gloss: priesthood
-  definition: priesthood
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: priesthood {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3649
-    proximity: 0.8273
+    lemma: כָּמָר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
   - strongs: H4612
-    proximity: 0.8203
+    lemma: מַעֲמָד
+    gloss: a position {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: H4931
-    proximity: 0.8195
+    lemma: מִשְׁמֶרֶת
+    gloss: watch {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   cross_language:
   - strongs: G3622
-    proximity: 0.8261
+    lemma: οἰκονομία
+    gloss: administration {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: greek
   - strongs: G749
-    proximity: 0.813
+    proximity: 0.813 {macula-proximity}
     language: greek
   - strongs: G1984
-    proximity: 0.7941
+    lemma: ἐπισκοπή
+    gloss: inspection {openscriptures-strongs}
+    proximity: 0.7941 {macula-proximity}
     language: greek
   - strongs: G2418
-    proximity: 0.7597
+    lemma: ἱερουργέω
+    gloss: to be a temple-worker {openscriptures-strongs}
+    proximity: 0.7597 {macula-proximity}
     language: greek
   - strongs: G2407
-    proximity: 0.7141
+    lemma: ἱερατεύω
+    gloss: to be a priest {openscriptures-strongs}
+    proximity: 0.7141 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

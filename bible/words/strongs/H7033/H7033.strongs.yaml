@@ -7,52 +7,77 @@ definition: to toast, i.e. scorch partially or slowly
 kjv_usage: dried, loathsome, parch, roast.
 derivation: a primitive root (rather identical with H7034 (קָלָה) through the idea
   of shrinkage by heat);
-extended_definition:
-  gloss: to roast
-  definition: 1) to roast, parch<br>1a) (Qal) to roast<br>1b) (Niphal)<br>1b1) to
-    be burned<br>1b2) burning (participle)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to roast, parch
+
+  1a) (Qal) to roast
+
+  1b) (Niphal)
+
+  1b1) to be burned
+
+  1b2) burning (participle) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3350
-    proximity: 0.8277
+    lemma: יְקוֹד
+    gloss: a burning {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H6272
-    proximity: 0.8236
+    lemma: עָתַם
+    gloss: probably to glow {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
   - strongs: A3346
-    proximity: 0.8192
+    proximity: 0.8192 {macula-proximity}
   - strongs: H6999
-    proximity: 0.8156
+    lemma: קָטַר
+    gloss: to smoke {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
   - strongs: H2787
-    proximity: 0.8072
+    lemma: חָרַר
+    gloss: to glow {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
   - strongs: H6866
-    proximity: 0.8053
+    lemma: צָרַב
+    gloss: to burn {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H4955
-    proximity: 0.8034
+    lemma: מִשְׂרָפָה
+    gloss: combustion {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
   - strongs: H8316
-    proximity: 0.8027
+    lemma: שְׂרֵפָה
+    gloss: cremation {openscriptures-strongs}
+    proximity: 0.8027 {macula-proximity}
   - strongs: H4729
-    proximity: 0.802
+    lemma: מִקְטָר
+    gloss: something to fume  on i.e. a hearth place {openscriptures-strongs}
+    proximity: 0.802 {macula-proximity}
   - strongs: H6702
-    proximity: 0.799
+    lemma: צוּת
+    gloss: to blaze {openscriptures-strongs}
+    proximity: 0.799 {macula-proximity}
   cross_language:
   - strongs: G1572
-    proximity: 0.8299
+    lemma: ἐκκαίω
+    gloss: to inflame deeply {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G1714a
-    proximity: 0.8222
+    proximity: 0.8222 {macula-proximity}
     language: greek
   - strongs: G4451
-    proximity: 0.8164
+    lemma: πύρωσις
+    gloss: ignition {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
     language: greek
   - strongs: G2739
-    proximity: 0.8073
+    lemma: καυματίζω
+    gloss: to burn {openscriptures-strongs}
+    proximity: 0.8073 {macula-proximity}
     language: greek
   - strongs: G2370
-    proximity: 0.7906
+    lemma: θυμιάω
+    gloss: to fumigate {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

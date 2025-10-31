@@ -11,38 +11,56 @@ derivation: from H3722 (כָּפַר);
 related_words:
   synonyms:
   - strongs: H657
-    proximity: 0.8286
+    proximity: 0.8286 {macula-proximity}
   - strongs: H1323
-    proximity: 0.8233
+    lemma: בַּת
+    gloss: a daughter (used in the same wide sense as other terms of relationship
+      {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H3426
-    proximity: 0.8215
+    lemma: יֵשׁ
+    gloss: there is or are (or any other form of the verb to be {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H1097
-    proximity: 0.8153
+    lemma: בְּלִי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
   - strongs: H3808
-    proximity: 0.8081
+    lemma: לֹא
+    gloss: not {openscriptures-strongs}
+    proximity: 0.8081 {macula-proximity}
   - strongs: H1447
-    proximity: 0.8066
+    lemma: גָּדֵר
+    gloss: a circumvallation {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
   - strongs: H7791a
-    proximity: 0.7883
+    proximity: 0.7883 {macula-proximity}
   - strongs: H6518
-    proximity: 0.7778
+    lemma: פָּרָז
+    gloss: decide {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   cross_language:
   - strongs: G3768
-    proximity: 0.8296
+    lemma: οὔπω
+    gloss: not yet {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G817
-    proximity: 0.8279
+    proximity: 0.8279 {macula-proximity}
     language: greek
   - strongs: G2192
-    proximity: 0.8208
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G3380
-    proximity: 0.8032
+    lemma: μήπω
+    gloss: not yet {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
     language: greek
   - strongs: G3764
-    proximity: 0.8013
+    lemma: οὐδέπω
+    gloss: not even yet {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

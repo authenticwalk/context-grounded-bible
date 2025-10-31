@@ -6,37 +6,45 @@ pronunciation: raw-veh'
 definition: sated (with drink)
 kjv_usage: drunkenness, watered.
 derivation: from H7301 (רָוָה);
-extended_definition:
-  gloss: watered
-  definition: watered, saturated
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: watered, saturated {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7372
-    proximity: 0.8243
+    lemma: רָטַב
+    gloss: to be moist {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: H4857
-    proximity: 0.8076
+    lemma: מַשְׁאָב
+    gloss: a trough for cattle to drink from {openscriptures-strongs}
+    proximity: 0.8076 {macula-proximity}
   - strongs: H7301
-    proximity: 0.8015
+    lemma: רָוָה
+    gloss: to slake the thirst {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
   - strongs: H7783
-    proximity: 0.7838
+    lemma: שׁוּק
+    gloss: to run after or over {openscriptures-strongs}
+    proximity: 0.7838 {macula-proximity}
   - strongs: H8248
-    proximity: 0.7303
+    lemma: שָׁקָה
+    gloss: to quaff {openscriptures-strongs}
+    proximity: 0.7303 {macula-proximity}
   - strongs: H4325
-    proximity: 0.7051
+    lemma: מַיִם
+    gloss: water {openscriptures-strongs}
+    proximity: 0.7051 {macula-proximity}
   cross_language:
   - strongs: G504
-    proximity: 0.8203
+    proximity: 0.8203 {macula-proximity}
     language: greek
   - strongs: G5202
-    proximity: 0.8107
+    lemma: ὑδροποτέω
+    gloss: to be a water-drinker {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
     language: greek
   - strongs: G4222
-    proximity: 0.7178
+    lemma: ποτίζω
+    gloss: to furnish drink {openscriptures-strongs}
+    proximity: 0.7178 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

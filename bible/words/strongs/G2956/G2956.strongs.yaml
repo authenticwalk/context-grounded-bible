@@ -5,40 +5,42 @@ transliteration: Kyrēnaîos
 definition: i.e. Cyrenæan, i.e. inhabitant of Cyrene
 kjv_usage: of Cyrene, Cyrenian
 derivation: from G2957 (Κυρήνη);
-extended_definition:
-  gloss: Cyrene
-  definition: '<b>Κυρηναῖος</b>, -α, -ον<BR /> (Κυρήνη), <BR /><b>of Cyrene, a Cyrenæan</b>:
-    <ref=''Mat.27.32''>Mat.27:32</ref>, <ref=''Mrk.15.21''>Mrk.15:21</ref>, <ref=''Luk.23.2''>Luk.23:2</ref>,
-    <ref=''Act.6.9; 11.20; 13.1''>Act.6:9 11:20 13:1</ref>.†<BR /> (AS)'
-  morphology: N:N--LG
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Κυρηναῖος</b>, -α, -ον<BR /> (Κυρήνη), <BR /><b>of Cyrene, a
-    Cyrenæan</b>: <ref=''Mat.27.32''>Mat.27:32</ref>, <ref=''Mrk.15.21''>Mrk.15:21</ref>,
-    <ref=''Luk.23.2''>Luk.23:2</ref>, <ref=''Act.6.9; 11.20; 13.1''>Act.6:9 11:20
-    13:1</ref>.†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Κυρηναῖος, -α, -ον
+
+  (Κυρήνη),
+
+  of Cyrene, a Cyrenæan: Mat.27:32, Mrk.15:21, Luk.23:2, Act.6:9 11:20 13:1.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Κυρηναῖος, -α, -ον
+
+  (Κυρήνη),
+
+  of Cyrene, a Cyrenæan: Mat.27:32, Mrk.15:21, Luk.23:2, Act.6:9 11:20 13:1.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3020
-    proximity: 0.8297
+    lemma: Λευϊτικός
+    gloss: Levitic {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: G444
-    proximity: 0.814
+    proximity: 0.814 {macula-proximity}
   - strongs: G1057
-    proximity: 0.804
+    lemma: Γαλιλαῖος
+    gloss: Galilean or belonging to Galilea {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   cross_language:
   - strongs: H4409a
-    proximity: 0.8242
+    proximity: 0.8242 {macula-proximity}
     language: hebrew
   - strongs: H6961a
-    proximity: 0.8137
+    proximity: 0.8137 {macula-proximity}
     language: hebrew
   - strongs: H3552
-    proximity: 0.8046
+    lemma: כּוּב
+    gloss: Kub {openscriptures-strongs}
+    proximity: 0.8046 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

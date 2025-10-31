@@ -9,55 +9,83 @@ kjv_usage: '[idiom] at all, [idiom] crying, (be) dead (body, man, one), (put to,
   [idiom] must needs, slay, [idiom] surely, [idiom] very suddenly, [idiom] in (no)
   wise.'
 derivation: a primitive root;
-extended_definition:
-  gloss: to die
-  definition: 1) to die, kill, have one executed<br>1a)(Qal)<br>1a1) to die<br>1a2)
-    to die (as penalty), be put to death<br>1a3) to die, perish (of a nation)<br>1a4)
-    to die prematurely (by neglect of wise moral conduct)<br>1b) (Polel) to kill,
-    put to death, dispatch<br>1c) (Hiphil) to kill, put to death<br>1d) (Hophal)<br>1d1)
-    to be killed, be put to death<br>1d1a) to die prematurely
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to die, kill, have one executed
+
+  1a)(Qal)
+
+  1a1) to die
+
+  1a2) to die (as penalty), be put to death
+
+  1a3) to die, perish (of a nation)
+
+  1a4) to die prematurely (by neglect of wise moral conduct)
+
+  1b) (Polel) to kill, put to death, dispatch
+
+  1c) (Hiphil) to kill, put to death
+
+  1d) (Hophal)
+
+  1d1) to be killed, be put to death
+
+  1d1a) to die prematurely {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4192
-    proximity: 0.828
+    lemma: מוּת
+    gloss: '''To die for the son'' {openscriptures-strongs}'
+    proximity: 0.828 {macula-proximity}
   - strongs: H1856
-    proximity: 0.8263
+    lemma: דָּקַר
+    gloss: to stab {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: H413
-    proximity: 0.8246
+    proximity: 0.8246 {macula-proximity}
   - strongs: H2416
-    proximity: 0.8228
+    lemma: חַי
+    gloss: alive {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
   - strongs: H5619
-    proximity: 0.8219
+    lemma: סָקַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8219 {macula-proximity}
   - strongs: A2417a
-    proximity: 0.8212
+    proximity: 0.8212 {macula-proximity}
   - strongs: H2490a
-    proximity: 0.8181
+    proximity: 0.8181 {macula-proximity}
   - strongs: H5056
-    proximity: 0.8166
+    lemma: נַגָּח
+    gloss: butting {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
   - strongs: H12
-    proximity: 0.8163
+    proximity: 0.8163 {macula-proximity}
   - strongs: H1472
-    proximity: 0.8136
+    lemma: גְּוִיָּה
+    gloss: a body {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   cross_language:
   - strongs: G2695
-    proximity: 0.824
+    lemma: κατασφάττω
+    gloss: to kill down {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: greek
   - strongs: G3375
-    proximity: 0.8197
+    lemma: μήν
+    gloss: a particle of affirmation ) {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
     language: greek
   - strongs: G2079
-    proximity: 0.8193
+    lemma: ἐσχάτως
+    gloss: finally {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
     language: greek
   - strongs: G409
-    proximity: 0.8136
+    proximity: 0.8136 {macula-proximity}
     language: greek
   - strongs: G1498
-    proximity: 0.8131
+    lemma: εἴην
+    gloss: might (could {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

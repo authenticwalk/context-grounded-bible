@@ -8,43 +8,53 @@ definition: who? (occasionally, by a peculiar idiom, of things); also (indefinit
 kjv_usage: any (man), [idiom] he, [idiom] him, [phrase] O that! what, which, who(-m,
   -se, -soever), [phrase] would to God.
 derivation: an interrogative pronoun of persons, as H4100 (מָה) is of things,
-extended_definition:
-  gloss: who?
-  definition: who?, whose?, whom?, would that, whoever, whosoever
-  morphology: H:Intg
-  source: STEPBible/BDB
+extended_definition: who?, whose?, whom?, would that, whoever, whosoever {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3605
-    proximity: 0.8277
+    lemma: כֹּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H4994
-    proximity: 0.8229
+    lemma: נָא
+    gloss: '''I pray'' {openscriptures-strongs}'
+    proximity: 0.8229 {macula-proximity}
   - strongs: H2063
-    proximity: 0.8204
+    lemma: זֹאת
+    gloss: this {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
   - strongs: A3606
-    proximity: 0.8173
+    proximity: 0.8173 {macula-proximity}
   - strongs: H3972
-    proximity: 0.8141
+    lemma: מְאוּמָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: H370
-    proximity: 0.8119
+    proximity: 0.8119 {macula-proximity}
   cross_language:
   - strongs: G5613
-    proximity: 0.8298
+    lemma: ὡς
+    gloss: which how {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
     language: greek
   - strongs: G3779
-    proximity: 0.8282
+    lemma: οὕτω
+    gloss: in this way {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: greek
   - strongs: G3756
-    proximity: 0.8179
+    lemma: οὐ
+    gloss: the absolute negative ) adverb {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
     language: greek
   - strongs: G4226
-    proximity: 0.8177
+    lemma: ποῦ
+    gloss: as adverb of place {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
     language: greek
   - strongs: G2443
-    proximity: 0.8139
+    lemma: ἵνα
+    gloss: compare G3588 ) {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

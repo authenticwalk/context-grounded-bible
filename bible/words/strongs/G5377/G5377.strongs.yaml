@@ -5,56 +5,69 @@ transliteration: philótheos
 definition: fond of God, i.e. pious
 kjv_usage: lover of God
 derivation: from G5384 (φίλος) and G2316 (θεός);
-extended_definition:
-  gloss: God-loving
-  definition: <b>loving God, pious </b>, (Aristotle Philosopher), etc. (ML)
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> φῐλό-θεος</b>, ον, <br /> <b>loving God, pious,</b> [<a href="javascript:void(0)"
-    title=" 4th c.BC: Aristoteles Philosophus “Rhetorica” 1391b2, 1st c.AD: Philo
-    Judaeus 2.8, +others, NT.2Tim.3.4, Demoph “Sent.” 44, 2nd c.AD: Lucianus Sophista
-    “Cal.” 14 ">NT+4th c.BC+</a>]: <i>adverb</i> <b>φῐλό-ως</b> [<a href="javascript:void(0)"
-    title=" 2nd c.AD(?): Pollianus Epigrammaticus 1.22. ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: loving God, pious , (Aristotle Philosopher), etc. (ML) {STEPBible-TBESG}
+etymology: 'φῐλό-θεος, ον,
+
+  loving God, pious, [NT+4th c.BC+]: adverb φῐλό-ως [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2318
-    proximity: 0.8154
+    lemma: θεοσεβής
+    gloss: reverent of God {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: G2320
-    proximity: 0.8042
+    lemma: θεότης
+    gloss: divinity {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: G2304
-    proximity: 0.8014
+    lemma: θεῖος
+    gloss: godlike (neuter as noun {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
   - strongs: G2312
-    proximity: 0.7725
+    lemma: θεοδίδακτος
+    gloss: divinely instructed {openscriptures-strongs}
+    proximity: 0.7725 {macula-proximity}
   - strongs: G2315
-    proximity: 0.7525
+    lemma: θεόπνευστος
+    gloss: divinely breathed in {openscriptures-strongs}
+    proximity: 0.7525 {macula-proximity}
   - strongs: G5367
-    proximity: 0.75
+    lemma: φίλαυτος
+    gloss: fond of self {openscriptures-strongs}
+    proximity: 0.75 {macula-proximity}
   - strongs: G2314
-    proximity: 0.7476
+    lemma: θεομάχος
+    gloss: an opponent of deity {openscriptures-strongs}
+    proximity: 0.7476 {macula-proximity}
   - strongs: G5366
-    proximity: 0.7462
+    lemma: φιλάργυρος
+    gloss: fond of silver {openscriptures-strongs}
+    proximity: 0.7462 {macula-proximity}
   - strongs: G5369
-    proximity: 0.7456
+    lemma: φιλήδονος
+    gloss: fond of pleasure {openscriptures-strongs}
+    proximity: 0.7456 {macula-proximity}
   - strongs: G2317
-    proximity: 0.7237
+    lemma: θεοσέβεια
+    gloss: devoutness {openscriptures-strongs}
+    proximity: 0.7237 {macula-proximity}
   cross_language:
   - strongs: H5719
-    proximity: 0.8261
+    lemma: עָדִין
+    gloss: voluptuous {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: hebrew
   - strongs: H5689
-    proximity: 0.8251
+    lemma: עֲגַב
+    gloss: to breathe after {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
     language: hebrew
   - strongs: H158
-    proximity: 0.7971
+    proximity: 0.7971 {macula-proximity}
     language: hebrew
   - strongs: H3069
-    proximity: 0.7773
+    lemma: יְהֹוִה
+    gloss: '{YHWH} {openscriptures-strongs}'
+    proximity: 0.7773 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

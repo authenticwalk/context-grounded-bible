@@ -5,29 +5,26 @@ transliteration: Gabriḗl
 definition: Gabriel, an archangel
 kjv_usage: Gabriel
 derivation: of Hebrew origin (H01403);
-extended_definition:
-  gloss: Gabriel
-  definition: '<b>Γαβριήλ</b>, ὁ, indecl. (Heb. גַּבְרִיאֵל, <b>hero of God</b>),
-    <BR /> the archangel <b>Gabriel</b>: <ref=''Luk.1.19, 26''>Luk.1:19, 26</ref>.†<BR
-    /> (AS)'
-  morphology: N:N--T
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Γαβριήλ</b>, ὁ, indecl. (Heb. גַּבְרִיאֵל, <b>hero of God</b>),
-    <BR /> the archangel <b>Gabriel</b>: <ref=''Luk.1.19, 26''>Luk.1:19, 26</ref>.†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Γαβριήλ, ὁ, indecl. (Heb. גַּבְרִיאֵל, hero of God),
+
+  the archangel Gabriel: Luk.1:19, 26.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Γαβριήλ, ὁ, indecl. (Heb. גַּבְרִיאֵל, hero of God),
+
+  the archangel Gabriel: Luk.1:19, 26.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4479
-    proximity: 0.813
+    lemma: Ῥεβέκκα
+    gloss: Rebecca {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
   cross_language:
   - strongs: H7259
-    proximity: 0.8136
+    lemma: רִבְקָה
+    gloss: Ribkah {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

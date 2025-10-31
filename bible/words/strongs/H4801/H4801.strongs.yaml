@@ -7,48 +7,66 @@ definition: remoteness, i.e. (concretely) a distant place; often (adverbially) f
   afar
 kjv_usage: (a-, dwell in, very) far (country, off). See also H1023 (בֵּית הַמֶּרְחָק).
 derivation: ; from H7368 (רָחַק);
-extended_definition:
-  gloss: distance
-  definition: distant place, distance, far country
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: distant place, distance, far country {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4769
-    proximity: 0.8293
+    lemma: מַרְבֵּץ
+    gloss: a reclining place {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: H4285
-    proximity: 0.8293
+    lemma: מַחְשָׁךְ
+    gloss: darkness {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: H8211
-    proximity: 0.8231
+    lemma: שֶׁפֶךְ
+    gloss: an emptying place {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H4480
-    proximity: 0.8227
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: H4565
-    proximity: 0.8206
+    lemma: מִסְתָּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
   - strongs: H4774
-    proximity: 0.8192
+    lemma: מַרְגֵּעָה
+    gloss: rest {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: H4302
-    proximity: 0.8153
+    lemma: מַטָּע
+    gloss: something planted {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
   - strongs: H5118
-    proximity: 0.8129
+    lemma: נוּחַ
+    gloss: quiet {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: H2788
-    proximity: 0.8089
+    lemma: חָרֵר
+    gloss: arid {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: H4857
-    proximity: 0.8076
+    lemma: מַשְׁאָב
+    gloss: a trough for cattle to drink from {openscriptures-strongs}
+    proximity: 0.8076 {macula-proximity}
   cross_language:
   - strongs: G3438
-    proximity: 0.8259
+    lemma: μονή
+    gloss: a staying {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G3699
-    proximity: 0.8253
+    lemma: ὅπου
+    gloss: what where {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
     language: greek
   - strongs: G2732
-    proximity: 0.8099
+    lemma: κατοικητήριον
+    gloss: a dwelling-place {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
     language: greek
   - strongs: G237a
-    proximity: 0.8083
+    proximity: 0.8083 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

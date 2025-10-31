@@ -6,29 +6,31 @@ pronunciation: tal-tay-law'
 definition: overthrow or rejection
 kjv_usage: captivity.
 derivation: from H2904 (טוּל);
-extended_definition:
-  gloss: captivity
-  definition: a hurling, captivity
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: a hurling, captivity {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7993
-    proximity: 0.8051
+    lemma: שָׁלַךְ
+    gloss: to throw out {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
   - strongs: H2904
-    proximity: 0.7033
+    lemma: טוּל
+    gloss: to pitch over or reel {openscriptures-strongs}
+    proximity: 0.7033 {macula-proximity}
   cross_language:
   - strongs: G4525
-    proximity: 0.8245
+    lemma: σαίνω
+    gloss: to wag {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
     language: greek
   - strongs: G4971
-    proximity: 0.8057
+    lemma: σφοδρῶς
+    gloss: very much {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
     language: greek
   - strongs: G4495
-    proximity: 0.7283
+    lemma: ῥιπτέω
+    gloss: to toss up {openscriptures-strongs}
+    proximity: 0.7283 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -8,50 +8,76 @@ definition: a number, definite (arithmetical) or indefinite (large, innumerable;
 kjv_usage: '[phrase] abundance, account, [idiom] all, [idiom] few, (in-) finite, (certain)
   number(-ed), tale, telling, [phrase] time.'
 derivation: from H5608 (סָפַר);
-extended_definition:
-  gloss: number
-  definition: 1) number, tale<br>1a) number<br>1a1) number<br>1a2) innumerable (with
-    negative)<br>1a3) few, numerable (alone)<br>1a4) by count, in number, according
-    to number (with prep)<br>1b) recounting, relation
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) number, tale
+
+  1a) number
+
+  1a1) number
+
+  1a2) innumerable (with negative)
+
+  1a3) few, numerable (alone)
+
+  1a4) by count, in number, according to number (with prep)
+
+  1b) recounting, relation {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1995
-    proximity: 0.8266
+    lemma: הָמוֹן
+    gloss: a noise {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: H1961
-    proximity: 0.8254
+    lemma: הָיָה
+    gloss: to exist {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: H871a
-    proximity: 0.8238
+    proximity: 0.8238 {macula-proximity}
   - strongs: H3426
-    proximity: 0.8192
+    lemma: יֵשׁ
+    gloss: there is or are (or any other form of the verb to be {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: H8141
-    proximity: 0.815
+    lemma: שָׁנֶה
+    gloss: a year {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
   - strongs: H2465
-    proximity: 0.81
+    lemma: חֶלֶד
+    gloss: life {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
   - strongs: H6486
-    proximity: 0.8042
+    lemma: פְּקֻדָּה
+    gloss: visitation (in many senses {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: H6105
-    proximity: 0.7982
+    lemma: עָצַם
+    gloss: to bind fast {openscriptures-strongs}
+    proximity: 0.7982 {macula-proximity}
   - strongs: H3515
-    proximity: 0.7943
+    lemma: כָּבֵד
+    gloss: heavy {openscriptures-strongs}
+    proximity: 0.7943 {macula-proximity}
   - strongs: H4060
-    proximity: 0.7873
+    lemma: מִדָּה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7873 {macula-proximity}
   cross_language:
   - strongs: G2076
-    proximity: 0.8178
+    lemma: ἐστί
+    gloss: he  is {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
     language: greek
   - strongs: G3463a
-    proximity: 0.8083
+    proximity: 0.8083 {macula-proximity}
     language: greek
   - strongs: G3956
-    proximity: 0.7955
+    lemma: πᾶς
+    gloss: all {openscriptures-strongs}
+    proximity: 0.7955 {macula-proximity}
     language: greek
   - strongs: G3641
-    proximity: 0.7913
+    lemma: ὀλίγος
+    gloss: puny (in extent {openscriptures-strongs}
+    proximity: 0.7913 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

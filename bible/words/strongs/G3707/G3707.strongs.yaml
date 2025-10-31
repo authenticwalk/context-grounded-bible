@@ -5,60 +5,69 @@ transliteration: horatós
 definition: gazed at, i.e. (by implication) capable of being seen
 kjv_usage: visible
 derivation: from G3708 (ὁράω);
-extended_definition:
-  gloss: visible
-  definition: '<b>ὁρατός</b>, -ή, -όν<BR /> (ὁράω) <BR /><b>visible</b>: τὰ ὁ., <ref=''Col.1.16.''>Col.1:16.</ref>†<BR
-    /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὁρ-ᾱτός</b>, ή, όν, <br /> <b>to be seen, visible,</b> [<a
-    href="javascript:void(0)" title=" 5th c.BC: Hippocrates Medicus “παραγγελίαι”
-    14: joined with ἁπτός, 5th-6th c.BC: Plato Philosophus “Timaeus” 28b, +others">Refs
-    5th c.BC+</a>]; opposed to νοητός, [<a href="javascript:void(0)" title=" [prev.
-    author] “R.” 509d, 524c, etc.">Refs</a>]; compare ὁρατικός. <i>adverb</i> <b>-τῶς</b>[<a
-    href="javascript:void(0)" title=" 4th c.BC: Aeneas Tacticus 23.4, 1st-2nd c.AD:
-    Plutarchus Biographus et Philosophus 2.1029e. ">Refs 4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ὁρατός, -ή, -όν
+
+  (ὁράω)
+
+  visible: τὰ ὁ., Col.1:16.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὁρ-ᾱτός, ή, όν,
+
+  to be seen, visible, [Refs 5th c.BC+]; opposed to νοητός, [Refs]; compare ὁρατικός.
+  adverb -τῶς[Refs 4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A7912
-    proximity: 0.8277
+    proximity: 0.8277 {macula-proximity}
   - strongs: G517
-    proximity: 0.8257
+    proximity: 0.8257 {macula-proximity}
   - strongs: G2657
-    proximity: 0.8006
+    lemma: κατανοέω
+    gloss: to observe fully {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
   - strongs: G3467
-    proximity: 0.7991
+    lemma: μυωπάζω
+    gloss: from G3700 ) {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: G5316
-    proximity: 0.7668
+    lemma: φαίνω
+    gloss: to lighten {openscriptures-strongs}
+    proximity: 0.7668 {macula-proximity}
   - strongs: G2147
-    proximity: 0.7649
+    lemma: εὑρίσκω
+    gloss: to find {openscriptures-strongs}
+    proximity: 0.7649 {macula-proximity}
   - strongs: G398
-    proximity: 0.7594
+    proximity: 0.7594 {macula-proximity}
   - strongs: A2370
-    proximity: 0.7408
+    proximity: 0.7408 {macula-proximity}
   - strongs: G1689
-    proximity: 0.7348
+    lemma: ἐμβλέπω
+    gloss: to look on {openscriptures-strongs}
+    proximity: 0.7348 {macula-proximity}
   cross_language:
   - strongs: H7789
-    proximity: 0.8263
+    lemma: שׁוּר
+    gloss: to spy out {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
     language: hebrew
   - strongs: H5027
-    proximity: 0.8058
+    lemma: נָבַט
+    gloss: to scan {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
     language: hebrew
   - strongs: H2009
-    proximity: 0.7997
+    lemma: הִנֵּה
+    gloss: lo! {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
     language: hebrew
   - strongs: H2219a
-    proximity: 0.7763
+    proximity: 0.7763 {macula-proximity}
     language: hebrew
   - strongs: H6493
-    proximity: 0.7317
+    lemma: פִּקֵּחַ
+    gloss: clear-sighted {openscriptures-strongs}
+    proximity: 0.7317 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

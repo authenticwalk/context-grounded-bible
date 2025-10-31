@@ -7,35 +7,39 @@ definition: a fountain (also collectively), figuratively, a source (of satisfact
 kjv_usage: fountain, spring, well.
 derivation: or מַעְיְנוֹ; (Psalm 114:8), or (feminine) מַעְיָנָה; from H5869 (עַיִן)
   (as a denominative in the sense of a spring);
-extended_definition:
-  gloss: spring
-  definition: spring
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: spring {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7119
-    proximity: 0.8211
+    lemma: קַר
+    gloss: cool {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
   - strongs: H875
-    proximity: 0.7982
+    proximity: 0.7982 {macula-proximity}
   - strongs: H391
-    proximity: 0.7914
+    proximity: 0.7914 {macula-proximity}
   - strongs: H8444
-    proximity: 0.7907
+    lemma: תּוֹצָאָה
+    gloss: exit {openscriptures-strongs}
+    proximity: 0.7907 {macula-proximity}
   - strongs: H8415
-    proximity: 0.7892
+    lemma: תְּהוֹם
+    gloss: an abyss {openscriptures-strongs}
+    proximity: 0.7892 {macula-proximity}
   - strongs: H5869
-    proximity: 0.7747
+    lemma: עַיִן
+    gloss: an eye {openscriptures-strongs}
+    proximity: 0.7747 {macula-proximity}
   - strongs: H4857
-    proximity: 0.7566
+    lemma: מַשְׁאָב
+    gloss: a trough for cattle to drink from {openscriptures-strongs}
+    proximity: 0.7566 {macula-proximity}
   - strongs: H4325
-    proximity: 0.7146
+    lemma: מַיִם
+    gloss: water {openscriptures-strongs}
+    proximity: 0.7146 {macula-proximity}
   cross_language:
   - strongs: G159
-    proximity: 0.8029
+    proximity: 0.8029 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

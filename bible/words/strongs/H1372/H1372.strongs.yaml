@@ -7,37 +7,45 @@ definition: baldness in the forehead; by analogy, a bare spot on the right side 
   cloth
 kjv_usage: bald forehead, [idiom] without.
 derivation: from the same as H1371 (גִּבֵּחַ);
-extended_definition:
-  gloss: baldness
-  definition: bald forehead, bald, a bare spot
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: bald forehead, bald, a bare spot {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2351
-    proximity: 0.8071
+    lemma: חוּץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8071 {macula-proximity}
   - strongs: H6596
-    proximity: 0.7964
+    lemma: פֹּת
+    gloss: a hole {openscriptures-strongs}
+    proximity: 0.7964 {macula-proximity}
   - strongs: H6440
-    proximity: 0.7943
+    lemma: פָּנִים
+    gloss: the face {openscriptures-strongs}
+    proximity: 0.7943 {macula-proximity}
   cross_language:
   - strongs: G1799
-    proximity: 0.8163
+    lemma: ἐνώπιον
+    gloss: in the face of {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
     language: greek
   - strongs: G2081
-    proximity: 0.8053
+    lemma: ἔσωθεν
+    gloss: from inside {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
     language: greek
   - strongs: G1715
-    proximity: 0.8047
+    lemma: ἔμπροσθεν
+    gloss: in front of  or time) {openscriptures-strongs}
+    proximity: 0.8047 {macula-proximity}
     language: greek
   - strongs: G1857
-    proximity: 0.7859
+    lemma: ἐξώτερος
+    gloss: exterior {openscriptures-strongs}
+    proximity: 0.7859 {macula-proximity}
     language: greek
   - strongs: G1855
-    proximity: 0.75
+    lemma: ἔξωθεν
+    gloss: external {openscriptures-strongs}
+    proximity: 0.75 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

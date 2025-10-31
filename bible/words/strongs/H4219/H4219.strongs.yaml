@@ -6,28 +6,31 @@ pronunciation: miz-rawk'
 definition: a bowl (as if for sprinkling)
 kjv_usage: bason, bowl.
 derivation: from H2236 (זָרַק);
-extended_definition:
-  gloss: bowl
-  definition: 1) bowl, basin<br>1a) bowl (for wine)<br>1b) basin (vessel for throwing
-    or tossing a liquid)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) bowl, basin
+
+  1a) bowl (for wine)
+
+  1b) basin (vessel for throwing or tossing a liquid) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1543
-    proximity: 0.7978
+    lemma: גֻּלָּה
+    gloss: a fountain {openscriptures-strongs}
+    proximity: 0.7978 {macula-proximity}
   - strongs: H3595
-    proximity: 0.7934
+    lemma: כִּיּוֹר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7934 {macula-proximity}
   - strongs: H3713
-    proximity: 0.7828
+    lemma: כְּפוֹר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7828 {macula-proximity}
   - strongs: H5592a
-    proximity: 0.7069
+    proximity: 0.7069 {macula-proximity}
   cross_language:
   - strongs: G4221
-    proximity: 0.8278
+    lemma: ποτήριον
+    gloss: a drinking-vessel {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,23 +7,21 @@ definition: bird of prey, usually thought to be the pelican (from casting itself
   the sea)
 kjv_usage: cormorant.
 derivation: from H7993 (שָׁלַךְ);
-extended_definition:
-  gloss: cormorant
-  definition: 1) bird of prey<br>1a) probably the cormorant
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) bird of prey
+
+  1a) probably the cormorant {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6893
-    proximity: 0.8194
+    lemma: קָאַת
+    gloss: probably the pelican {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H7828
-    proximity: 0.8063
+    lemma: שַׁחַף
+    gloss: the gull {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
   - strongs: H8580a
-    proximity: 0.746
+    proximity: 0.746 {macula-proximity}
   - strongs: H601
-    proximity: 0.7331
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    proximity: 0.7331 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

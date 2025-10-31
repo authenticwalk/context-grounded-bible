@@ -6,33 +6,45 @@ pronunciation: yes-ode'
 definition: a foundation (literally or figuratively)
 kjv_usage: bottom, foundation, repairing
 derivation: from H3245 (יָסַד);
-extended_definition:
-  gloss: foundation
-  definition: 1) foundation, base<br>1a) foundation<br>1b) base, bottom
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) foundation, base
+
+  1a) foundation
+
+  1b) base, bottom {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3653
-    proximity: 0.8055
+    lemma: כֵּן
+    gloss: a stand {openscriptures-strongs}
+    proximity: 0.8055 {macula-proximity}
   - strongs: H7507
-    proximity: 0.8038
+    lemma: רְפִידָה
+    gloss: a railing {openscriptures-strongs}
+    proximity: 0.8038 {macula-proximity}
   - strongs: H2436
-    proximity: 0.7791
+    lemma: חֵיק
+    gloss: the bosom {openscriptures-strongs}
+    proximity: 0.7791 {macula-proximity}
   - strongs: H8328
-    proximity: 0.7471
+    lemma: שֶׁרֶשׁ
+    gloss: a root {openscriptures-strongs}
+    proximity: 0.7471 {macula-proximity}
   - strongs: H7272
-    proximity: 0.7444
+    lemma: רֶגֶל
+    gloss: a foot {openscriptures-strongs}
+    proximity: 0.7444 {macula-proximity}
   - strongs: H4837
-    proximity: 0.7412
+    lemma: מַרְצֶפֶת
+    gloss: a pavement {openscriptures-strongs}
+    proximity: 0.7412 {macula-proximity}
   - strongs: H3246
-    proximity: 0.735
+    lemma: יְסֻד
+    gloss: a foundation (figuratively {openscriptures-strongs}
+    proximity: 0.735 {macula-proximity}
   cross_language:
   - strongs: G4228
-    proximity: 0.74
+    lemma: πούς
+    gloss: a "foot" {openscriptures-strongs}
+    proximity: 0.74 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

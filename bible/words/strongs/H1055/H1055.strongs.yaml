@@ -6,36 +6,40 @@ pronunciation: bee-thawn'
 definition: a palace (i.e. large house)
 kjv_usage: palace.
 derivation: probably from H1004 (בַּיִת);
-extended_definition:
-  gloss: palace
-  definition: house, palace
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: house, palace {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1886a
-    proximity: 0.828
+    proximity: 0.828 {macula-proximity}
   - strongs: H1004
-    proximity: 0.8192
+    lemma: בַּיִת
+    gloss: a house (in the greatest variation of applications {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: A8651
-    proximity: 0.8068
+    proximity: 0.8068 {macula-proximity}
   - strongs: H1002
-    proximity: 0.8051
+    lemma: בִּירָה
+    gloss: a castle or palace {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
   - strongs: H4438
-    proximity: 0.8011
+    lemma: מַלְכוּת
+    gloss: a rule {openscriptures-strongs}
+    proximity: 0.8011 {macula-proximity}
   - strongs: H1964
-    proximity: 0.7808
+    lemma: הֵיכָל
+    gloss: a large public building {openscriptures-strongs}
+    proximity: 0.7808 {macula-proximity}
   - strongs: H1588
-    proximity: 0.7538
+    lemma: גַּן
+    gloss: a garden {openscriptures-strongs}
+    proximity: 0.7538 {macula-proximity}
   cross_language:
   - strongs: G833
-    proximity: 0.7963
+    proximity: 0.7963 {macula-proximity}
     language: greek
   - strongs: G4232
-    proximity: 0.7839
+    lemma: πραιτώριον
+    gloss: the prætorium or governor's courtroom {openscriptures-strongs}
+    proximity: 0.7839 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,21 +6,17 @@ pronunciation: tsaw-beh'
 definition: turgid
 kjv_usage: swell.
 derivation: from H6638 (צָבָה);
-extended_definition:
-  gloss: swollen
-  definition: swelling, swollen
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: swelling, swollen {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2121
-    proximity: 0.7689
+    lemma: זֵידוֹן
+    gloss: boiling of water {openscriptures-strongs}
+    proximity: 0.7689 {macula-proximity}
   cross_language:
   - strongs: G5203
-    proximity: 0.7687
+    lemma: ὑδρωπικός
+    gloss: to be "dropsical" {openscriptures-strongs}
+    proximity: 0.7687 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

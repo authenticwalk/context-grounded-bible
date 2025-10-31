@@ -6,26 +6,24 @@ pronunciation: kho-the-meth
 definition: a seal
 kjv_usage: signet.
 derivation: feminine active participle of H2856 (חָתַם);
-extended_definition:
-  gloss: ring
-  definition: signet ring, signet seal
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: signet ring, signet seal {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A2857
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
   - strongs: H2856
-    proximity: 0.7942
+    lemma: חָתַם
+    gloss: to close up {openscriptures-strongs}
+    proximity: 0.7942 {macula-proximity}
   cross_language:
   - strongs: G5554
-    proximity: 0.829
+    lemma: χρυσοδακτύλιος
+    gloss: gold-ringed {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G4972
-    proximity: 0.7408
+    lemma: σφραγίζω
+    gloss: to stamp  for security or preservation {openscriptures-strongs}
+    proximity: 0.7408 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

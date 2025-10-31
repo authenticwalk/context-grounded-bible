@@ -5,60 +5,65 @@ transliteration: teleiótēs
 definition: (the state) completeness (mentally or morally)
 kjv_usage: perfection(-ness)
 derivation: from G5046 (τέλειος);
-extended_definition:
-  gloss: perfection
-  definition: '<b>τελειότης</b>, -ητος, ἡ<BR /> (τέλειος), [in LXX: <ref=''Jdg.9.16,
-    19''>Jdg.9:16, 19</ref> (תָּמִים), <ref=''Pro.11.3''>Pro.11:3</ref> (תֻּמָּה),
-    <ref=''Wis.6.15; 12.17''>Wis.6:15 12:17</ref>, <ref=''Jer.2.2''>Jer.2:2</ref>
-    * ;] <BR /><b>perfection, completeness</b>: <ref=''Col.3.14''>Col.3:14</ref>,
-    <ref=''Heb.6.1''>Heb.6:1</ref> <BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> τελειότης</b>, ητος, ἡ, <br /> <b>completeness, perfection</b>,
-    [<a href="javascript:void(0)" title=" 5th-6th c.BC: Plato Philosophus “Definitiones”
-    412b, 4th c.BC: Aristoteles Philosophus “Physica” 207a21, 261a36, LXX.Judg.9.16,
-    2nd c.AD: Galenus Medicus 1.315">LXX+5th c.BC+</a>]; ψυχῆς τελεότης [<a href="javascript:void(0)"
-    title=" 3rd c.AD: Democritus Epigrammaticus 187: _plural_, 3rd c.BC: Chrysippus
-    Stoicus 3.61 ">Refs 3rd c.BC+</a>].'
-  source: STEPBible/LSJ
+extended_definition: 'τελειότης, -ητος, ἡ
+
+  (τέλειος), [in LXX: Jdg.9:16, 19 (תָּמִים), Pro.11:3 (תֻּמָּה), Wis.6:15 12:17,
+  Jer.2:2 * ;]
+
+  perfection, completeness: Col.3:14, Heb.6:1
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'τελειότης, ητος, ἡ,
+
+  completeness, perfection, [LXX+5th c.BC+]; ψυχῆς τελεότης [Refs 3rd c.BC+]. {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3838
-    proximity: 0.8208
+    lemma: παντελής
+    gloss: full-ended {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   - strongs: G5055
-    proximity: 0.8191
+    lemma: τελέω
+    gloss: to end {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
   - strongs: G3648
-    proximity: 0.8021
+    lemma: ὁλόκληρος
+    gloss: complete in every part {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
   - strongs: G898
-    proximity: 0.7969
+    proximity: 0.7969 {macula-proximity}
   - strongs: G187
-    proximity: 0.7966
+    proximity: 0.7966 {macula-proximity}
   - strongs: G2675
-    proximity: 0.7956
+    lemma: καταρτίζω
+    gloss: to complete thoroughly {openscriptures-strongs}
+    proximity: 0.7956 {macula-proximity}
   - strongs: G739
-    proximity: 0.7913
+    proximity: 0.7913 {macula-proximity}
   - strongs: G3647
-    proximity: 0.7789
+    lemma: ὁλοκληρία
+    gloss: integrity {openscriptures-strongs}
+    proximity: 0.7789 {macula-proximity}
   cross_language:
   - strongs: H1367
-    proximity: 0.8299
+    lemma: גְּבוּלָה
+    gloss: a boundary {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: hebrew
   - strongs: H8549
-    proximity: 0.8263
+    lemma: תָּמִים
+    gloss: entire (literally {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
     language: hebrew
   - strongs: H5414a
-    proximity: 0.8063
+    proximity: 0.8063 {macula-proximity}
     language: hebrew
   - strongs: H2590a
-    proximity: 0.8047
+    proximity: 0.8047 {macula-proximity}
     language: hebrew
   - strongs: H1366
-    proximity: 0.8022
+    lemma: גְּבוּל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

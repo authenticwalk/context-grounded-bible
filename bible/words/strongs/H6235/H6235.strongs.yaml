@@ -6,52 +6,71 @@ pronunciation: eh'ser
 definition: ten (as an accumulation to the extent of the digits)
 kjv_usage: ten, (fif-, seven-) teen.
 derivation: masculine of term עֲשָׂרָה; from H6237 (עָשַׂר);
-extended_definition:
-  gloss: ten
-  definition: '1) ten<br>1a) ten<br>1b) with other numbers<BR>Aramaic equivalent:
-    <i>a.sar</i> (עֲשַׂר "ten" H6236)'
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: '1) ten
+
+  1a) ten
+
+  1b) with other numbers
+
+  Aramaic equivalent: a.sar (עֲשַׂר "ten" H6236) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7969
-    proximity: 0.8277
+    lemma: שָׁלוֹשׁ
+    gloss: three {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: A6243
-    proximity: 0.8251
+    proximity: 0.8251 {macula-proximity}
   - strongs: H8083
-    proximity: 0.8223
+    lemma: שְׁמֹנֶה
+    gloss: a cardinal number {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
   - strongs: H8673
-    proximity: 0.8212
+    lemma: תִּשְׁעִים
+    gloss: ninety {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   - strongs: H7970
-    proximity: 0.8161
+    lemma: שְׁלוֹשִׁים
+    gloss: thirty {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H8346
-    proximity: 0.8152
+    lemma: שִׁשִּׁים
+    gloss: sixty {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: H6242
-    proximity: 0.8139
+    lemma: עֶשְׂרִים
+    gloss: twenty {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H259
-    proximity: 0.8131
+    proximity: 0.8131 {macula-proximity}
   - strongs: A3969
-    proximity: 0.81
+    proximity: 0.81 {macula-proximity}
   - strongs: H7231
-    proximity: 0.8066
+    lemma: רָבַב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
   cross_language:
   - strongs: G586
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
     language: greek
   - strongs: G4002
-    proximity: 0.8265
+    lemma: πέντε
+    gloss: '"five" {openscriptures-strongs}'
+    proximity: 0.8265 {macula-proximity}
     language: greek
   - strongs: G1427
-    proximity: 0.8233
+    lemma: δώδεκα
+    gloss: two and ten {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
     language: greek
   - strongs: G1178
-    proximity: 0.8125
+    lemma: δεκαπέντε
+    gloss: ten and five {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G1501
-    proximity: 0.8084
+    lemma: εἴκοσι
+    gloss: a score {openscriptures-strongs}
+    proximity: 0.8084 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

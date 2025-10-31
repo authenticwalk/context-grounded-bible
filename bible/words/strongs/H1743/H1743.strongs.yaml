@@ -6,45 +6,59 @@ pronunciation: dook
 definition: to bruise in a mortar
 kjv_usage: beat.
 derivation: a primitive root;
-extended_definition:
-  gloss: to beat
-  definition: (Qal) to pound, beat (in mortar)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to pound, beat (in mortar) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6105b
-    proximity: 0.8286
+    proximity: 0.8286 {macula-proximity}
   - strongs: H7524
-    proximity: 0.8177
+    lemma: רֶצַח
+    gloss: a crushing {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
   - strongs: H7616
-    proximity: 0.8135
+    lemma: שָׁבָב
+    gloss: a fragment {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: A7490
-    proximity: 0.8121
+    proximity: 0.8121 {macula-proximity}
   - strongs: H7665
-    proximity: 0.8118
+    lemma: שָׁבַר
+    gloss: to burst {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
   - strongs: H7591
-    proximity: 0.8065
+    lemma: שְׁאִיָּה
+    gloss: desolation {openscriptures-strongs}
+    proximity: 0.8065 {macula-proximity}
   - strongs: H5310
-    proximity: 0.796
+    lemma: נָפַץ
+    gloss: to dash to pieces {openscriptures-strongs}
+    proximity: 0.796 {macula-proximity}
   - strongs: H2115
-    proximity: 0.7948
+    lemma: זוּר
+    gloss: to press together {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
   - strongs: H1633
-    proximity: 0.7816
+    lemma: גָּרַם
+    gloss: to bone {openscriptures-strongs}
+    proximity: 0.7816 {macula-proximity}
   - strongs: H4790
-    proximity: 0.7743
+    lemma: מְרוֹחַ
+    gloss: bruised {openscriptures-strongs}
+    proximity: 0.7743 {macula-proximity}
   cross_language:
   - strongs: G4729
-    proximity: 0.816
+    lemma: στενοχωρέω
+    gloss: to hem in closely {openscriptures-strongs}
+    proximity: 0.816 {macula-proximity}
     language: greek
   - strongs: G3039
-    proximity: 0.8036
+    lemma: λικμάω
+    gloss: to winnow {openscriptures-strongs}
+    proximity: 0.8036 {macula-proximity}
     language: greek
   - strongs: G4917
-    proximity: 0.7779
+    lemma: συνθλάω
+    gloss: to dash together {openscriptures-strongs}
+    proximity: 0.7779 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

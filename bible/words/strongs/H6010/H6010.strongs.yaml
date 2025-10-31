@@ -7,35 +7,37 @@ definition: a vale (i.e. broad depression)
 kjv_usage: dale, vale, valley (often used as a part of proper names). See also H1025
   (בֵּית הָעֵמֶק).
 derivation: from H6009 (עָמַק);
-extended_definition:
-  gloss: valley
-  definition: valley, vale, lowland, open country
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: valley, vale, lowland, open country {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3092a
-    proximity: 0.8224
+    proximity: 0.8224 {macula-proximity}
   - strongs: H7741
-    proximity: 0.8051
+    lemma: שָׁוֵה קִרְיָתַיִם
+    gloss: Shaveh-Kirjathajim {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
   - strongs: H3092
-    proximity: 0.8049
+    lemma: יְהוֹשָׁפָט
+    gloss: Jehoshaphat {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H7497a
-    proximity: 0.7988
+    proximity: 0.7988 {macula-proximity}
   - strongs: H5158
-    proximity: 0.7398
+    lemma: נַחַל
+    gloss: a stream {openscriptures-strongs}
+    proximity: 0.7398 {macula-proximity}
   - strongs: H1996
-    proximity: 0.7374
+    lemma: הֲמוֹן גּוֹג
+    gloss: the multitude of Gog {openscriptures-strongs}
+    proximity: 0.7374 {macula-proximity}
   - strongs: H1516b
-    proximity: 0.7355
+    proximity: 0.7355 {macula-proximity}
   - strongs: H1516a
-    proximity: 0.7316
+    proximity: 0.7316 {macula-proximity}
   - strongs: H1516c
-    proximity: 0.7261
+    proximity: 0.7261 {macula-proximity}
   - strongs: H4334
-    proximity: 0.7193
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: מִישׁוֹר
+    gloss: a level {openscriptures-strongs}
+    proximity: 0.7193 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

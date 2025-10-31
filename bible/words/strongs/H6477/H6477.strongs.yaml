@@ -6,38 +6,45 @@ pronunciation: pets-ee-raw'
 definition: bluntness
 kjv_usage: '[phrase] file.'
 derivation: from H6484 (פָּצַר);
-extended_definition:
-  gloss: bluntness
-  definition: 1) price, charge<br>1a) meaning uncertain<br>1b) perhaps (CLBL) sharpening
-    or (BDB) bluntness
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) price, charge
+
+  1a) meaning uncertain
+
+  1b) perhaps (CLBL) sharpening or (BDB) bluntness {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5391a
-    proximity: 0.8279
+    proximity: 0.8279 {macula-proximity}
   - strongs: H7043
-    proximity: 0.7932
+    lemma: קָלַל
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
   - strongs: H2299
-    proximity: 0.7865
+    lemma: חַד
+    gloss: sharp {openscriptures-strongs}
+    proximity: 0.7865 {macula-proximity}
   cross_language:
   - strongs: G5114
-    proximity: 0.8259
+    lemma: τομώτερος
+    gloss: more comprehensive or decisive than G2875 {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G1056
-    proximity: 0.8197
+    lemma: Γαλιλαία
+    gloss: Galilæa {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
     language: greek
   - strongs: G3691
-    proximity: 0.815
+    lemma: ὀξύς
+    gloss: keen {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
     language: greek
   - strongs: G157a
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G5036
-    proximity: 0.7639
+    lemma: ταχύς
+    gloss: fleet {openscriptures-strongs}
+    proximity: 0.7639 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

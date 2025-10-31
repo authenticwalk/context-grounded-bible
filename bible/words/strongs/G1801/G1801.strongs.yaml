@@ -5,51 +5,66 @@ transliteration: enōtízomai
 definition: to take in one's ear, i.e. to listen
 kjv_usage: hearken
 derivation: middle voice from a compound of G1722 (ἐν) and G3775 (οὖς);
-extended_definition:
-  gloss: to listen to
-  definition: '<b>ἐνωτίζομαι</b><BR /> (οὖς), <BR /> depon. mid., <BR /> [in LXX chiefly
-    for אָזַן hi. ;] <BR /><b>to give ear to, hearken to</b>: with accusative, <ref=''Act.2.14.''>Act.2:14.</ref>†<BR
-    /> Also used for יָחַל שָׁמַע <BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐνωτίζομαι</b>, <br /> (οὖς) <b>give ear, hearken to,</b> λόγους
-    [<a href="javascript:void(0)" title=" LXX.Gen.4.23; ῥήματα NT.Act.2.14: with _dative_,
-    ἐντολαῖς LXX.Exo.15.26. ">LXX+NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐνωτίζομαι
+
+  (οὖς),
+
+  depon. mid.,
+
+  [in LXX chiefly for אָזַן hi. ;]
+
+  to give ear to, hearken to: with accusative, Act.2:14.†
+
+  Also used for יָחַל שָׁמַע
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐνωτίζομαι,
+
+  (οὖς) give ear, hearken to, λόγους [LXX+NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5099
-    proximity: 0.8287
+    lemma: τίνω
+    gloss: to pay a price {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: A5415
-    proximity: 0.8212
+    proximity: 0.8212 {macula-proximity}
   - strongs: G4337
-    proximity: 0.8109
+    lemma: προσέχω
+    gloss: to hold the mind  towards {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
   - strongs: G3878
-    proximity: 0.8004
+    lemma: παρακούω
+    gloss: to mishear {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
   - strongs: G1907
-    proximity: 0.7969
+    lemma: ἐπέχω
+    gloss: to hold upon {openscriptures-strongs}
+    proximity: 0.7969 {macula-proximity}
   - strongs: G1251
-    proximity: 0.7679
+    lemma: διακούομαι
+    gloss: to hear throughout {openscriptures-strongs}
+    proximity: 0.7679 {macula-proximity}
   cross_language:
   - strongs: H5186
-    proximity: 0.805
+    lemma: נָטָה
+    gloss: to stretch or spread out {openscriptures-strongs}
+    proximity: 0.805 {macula-proximity}
     language: hebrew
   - strongs: H413
-    proximity: 0.7823
+    proximity: 0.7823 {macula-proximity}
     language: hebrew
   - strongs: H7182
-    proximity: 0.7609
+    lemma: קֶשֶׁב
+    gloss: a hearkening {openscriptures-strongs}
+    proximity: 0.7609 {macula-proximity}
     language: hebrew
   - strongs: H8085
-    proximity: 0.7534
+    lemma: שָׁמַע
+    gloss: to hear intelligently (often with implication of attention {openscriptures-strongs}
+    proximity: 0.7534 {macula-proximity}
     language: hebrew
   - strongs: H7183a
-    proximity: 0.7059
+    proximity: 0.7059 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

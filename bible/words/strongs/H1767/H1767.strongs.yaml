@@ -7,48 +7,61 @@ definition: enough (as noun or adverb), used chiefly with preposition in phrases
 kjv_usage: able, according to, after (ability), among, as (oft as), (more than) enough,
   from, in, since, (much as is) sufficient(-ly), too much, very, when.
 derivation: of uncertain derivation;
-extended_definition:
-  gloss: sufficiency
-  definition: 1) sufficiency, enough<br>1a) enough<br>1b) for, according to the abundance
-    of, out of the abundance of, as often as
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: '1) sufficiency, enough
+
+  1a) enough
+
+  1b) for, according to the abundance of, out of the abundance of, as often as {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3509a
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
   - strongs: A2818a
-    proximity: 0.8138
+    proximity: 0.8138 {macula-proximity}
   - strongs: H3117
-    proximity: 0.8104
+    lemma: יוֹם
+    gloss: a day {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
   - strongs: H871a
-    proximity: 0.804
+    proximity: 0.804 {macula-proximity}
   - strongs: H8141
-    proximity: 0.7956
+    lemma: שָׁנֶה
+    gloss: a year {openscriptures-strongs}
+    proximity: 0.7956 {macula-proximity}
   - strongs: A2627
-    proximity: 0.782
+    proximity: 0.782 {macula-proximity}
   - strongs: H6878
-    proximity: 0.7674
+    lemma: צֹרֶךְ
+    gloss: need {openscriptures-strongs}
+    proximity: 0.7674 {macula-proximity}
   - strongs: H4480
-    proximity: 0.763
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.763 {macula-proximity}
   cross_language:
   - strongs: G2425
-    proximity: 0.828
+    lemma: ἱκανός
+    gloss: competent {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G1763
-    proximity: 0.8257
+    lemma: ἐνιαυτός
+    gloss: a year {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G1411
-    proximity: 0.8212
+    lemma: δύναμις
+    gloss: force {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
     language: greek
   - strongs: G1063
-    proximity: 0.8133
+    lemma: γάρ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
     language: greek
   - strongs: G5610
-    proximity: 0.798
+    lemma: ὥρα
+    gloss: an "hour" {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

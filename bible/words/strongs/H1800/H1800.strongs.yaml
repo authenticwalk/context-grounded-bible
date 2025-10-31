@@ -6,43 +6,53 @@ pronunciation: dal
 definition: properly, dangling, i.e. (by implication) weak or thin
 kjv_usage: lean, needy, poor (man), weaker.
 derivation: from H1809 (דָּלַל);
-extended_definition:
-  gloss: poor
-  definition: low, poor, weak, thin, one who is low
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: low, poor, weak, thin, one who is low {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8182
-    proximity: 0.8274
+    lemma: שֹׁעָר
+    gloss: harsh or horrid {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H8217
-    proximity: 0.8017
+    lemma: שָׁפָל
+    gloss: depressed {openscriptures-strongs}
+    proximity: 0.8017 {macula-proximity}
   - strongs: H2639
-    proximity: 0.7858
+    lemma: חֶסֶר
+    gloss: lack {openscriptures-strongs}
+    proximity: 0.7858 {macula-proximity}
   - strongs: H6199
-    proximity: 0.7486
+    lemma: עַרעָר
+    gloss: naked {openscriptures-strongs}
+    proximity: 0.7486 {macula-proximity}
   - strongs: H2523
-    proximity: 0.7287
+    lemma: חַלָּשׁ
+    gloss: frail {openscriptures-strongs}
+    proximity: 0.7287 {macula-proximity}
   - strongs: H7389
-    proximity: 0.7251
+    lemma: רֵישׁ
+    gloss: poverty {openscriptures-strongs}
+    proximity: 0.7251 {macula-proximity}
   cross_language:
   - strongs: G1640
-    proximity: 0.8209
+    lemma: ἐλάσσων
+    gloss: smaller (in size {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
     language: greek
   - strongs: G5011
-    proximity: 0.8072
+    lemma: ταπεινός
+    gloss: depressed {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
     language: greek
   - strongs: G769
-    proximity: 0.8049
+    proximity: 0.8049 {macula-proximity}
     language: greek
   - strongs: G1729
-    proximity: 0.7909
+    lemma: ἐνδεής
+    gloss: deficient in {openscriptures-strongs}
+    proximity: 0.7909 {macula-proximity}
     language: greek
   - strongs: G770
-    proximity: 0.7663
+    proximity: 0.7663 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

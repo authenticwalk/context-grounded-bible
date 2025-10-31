@@ -6,26 +6,22 @@ pronunciation: bak-book'
 definition: a bottle (from the gurgling in emptying)
 kjv_usage: bottle, cruse.
 derivation: from H1238 (בָּקַק);
-extended_definition:
-  gloss: flask
-  definition: flask, bottle
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: flask, bottle {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2789
-    proximity: 0.8248
+    lemma: חֶרֶשׂ
+    gloss: a piece of pottery {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: H5035
-    proximity: 0.7445
+    lemma: נֶבֶל
+    gloss: a skin-bag for liquids {openscriptures-strongs}
+    proximity: 0.7445 {macula-proximity}
   cross_language:
   - strongs: G30
-    proximity: 0.7282
+    proximity: 0.7282 {macula-proximity}
     language: greek
   - strongs: G211
-    proximity: 0.715
+    proximity: 0.715 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,34 +6,36 @@ pronunciation: raw-kab'
 definition: to decay (as by worm-eating)
 kjv_usage: rot.
 derivation: a primitive root;
-extended_definition:
-  gloss: to rot
-  definition: (Qal) to rot
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to rot {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4072
-    proximity: 0.8246
+    lemma: מִדְחֶה
+    gloss: overthrow {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: H7060
-    proximity: 0.8125
+    lemma: קָמַל
+    gloss: to wither {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: H5628b
-    proximity: 0.7684
+    proximity: 0.7684 {macula-proximity}
   - strongs: H8182
-    proximity: 0.7621
+    lemma: שֹׁעָר
+    gloss: harsh or horrid {openscriptures-strongs}
+    proximity: 0.7621 {macula-proximity}
   - strongs: H6211a
-    proximity: 0.7396
+    proximity: 0.7396 {macula-proximity}
   - strongs: H4743
-    proximity: 0.7226
+    lemma: מָקַק
+    gloss: to melt {openscriptures-strongs}
+    proximity: 0.7226 {macula-proximity}
   cross_language:
   - strongs: G110
-    proximity: 0.8091
+    proximity: 0.8091 {macula-proximity}
     language: greek
   - strongs: G5351
-    proximity: 0.7185
+    lemma: φθείρω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7185 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,35 +6,40 @@ pronunciation: saw-kad'
 definition: to fasten
 kjv_usage: bind.
 derivation: a primitive root;
-extended_definition:
-  gloss: to bind
-  definition: 1) to bind, bind on, be kept on (meaning doubtful)<br>1a) (Niphal) to
-    be kept on
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to bind, bind on, be kept on (meaning doubtful)
+
+  1a) (Niphal) to be kept on {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3335
-    proximity: 0.8245
+    lemma: יָצַר
+    gloss: to mould into a form {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H6626
-    proximity: 0.8111
+    lemma: פָּתַת
+    gloss: to open {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: H2590a
-    proximity: 0.7921
+    proximity: 0.7921 {macula-proximity}
   cross_language:
   - strongs: G1196
-    proximity: 0.8139
+    lemma: δεσμέω
+    gloss: to tie {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: greek
   - strongs: G3792
-    proximity: 0.8052
+    lemma: ὀχλοποιέω
+    gloss: to make a crowd {openscriptures-strongs}
+    proximity: 0.8052 {macula-proximity}
     language: greek
   - strongs: G1210
-    proximity: 0.8044
+    lemma: δέω
+    gloss: to bind (in various applications {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
     language: greek
   - strongs: G3444
-    proximity: 0.7722
+    lemma: μορφή
+    gloss: shape {openscriptures-strongs}
+    proximity: 0.7722 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

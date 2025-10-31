@@ -6,44 +6,60 @@ pronunciation: tsal-maw'-veth
 definition: shade of death, i.e. the grave (figuratively, calamity)
 kjv_usage: shadow of death.
 derivation: from H6738 (צֵל) and H4194 (מָוֶת);
-extended_definition:
-  gloss: shadow
-  definition: 1) death-shadow, deep shadow, deep darkness, shadow of death<br>1a)
-    death-shadow<br>1b) death-shadow, deep shadow, darkness<br>1c) death-shadow (of
-    distress, extreme danger) (fig)<br>1d) death-shadow (of place of the dead) (fig)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) death-shadow, deep shadow, deep darkness, shadow of death
+
+  1a) death-shadow
+
+  1b) death-shadow, deep shadow, darkness
+
+  1c) death-shadow (of distress, extreme danger) (fig)
+
+  1d) death-shadow (of place of the dead) (fig) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A4193
-    proximity: 0.8132
+    proximity: 0.8132 {macula-proximity}
   - strongs: H651
-    proximity: 0.8132
+    proximity: 0.8132 {macula-proximity}
   - strongs: H6751
-    proximity: 0.796
+    lemma: צָלַל
+    gloss: to shade {openscriptures-strongs}
+    proximity: 0.796 {macula-proximity}
   - strongs: H4194
-    proximity: 0.7809
+    lemma: מָוֶת
+    gloss: death {openscriptures-strongs}
+    proximity: 0.7809 {macula-proximity}
   - strongs: H2821
-    proximity: 0.7569
+    lemma: חָשַׁךְ
+    gloss: to be dark {openscriptures-strongs}
+    proximity: 0.7569 {macula-proximity}
   - strongs: H6738
-    proximity: 0.7384
+    lemma: צֵל
+    gloss: shade {openscriptures-strongs}
+    proximity: 0.7384 {macula-proximity}
   - strongs: H7838
-    proximity: 0.7374
+    lemma: שָׁחֹר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7374 {macula-proximity}
   - strongs: H7496
-    proximity: 0.7194
+    lemma: רָפָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7194 {macula-proximity}
   - strongs: H3990
-    proximity: 0.7191
+    lemma: מַאֲפֵל
+    gloss: something opaque {openscriptures-strongs}
+    proximity: 0.7191 {macula-proximity}
   - strongs: A2816
-    proximity: 0.7185
+    proximity: 0.7185 {macula-proximity}
   cross_language:
   - strongs: G4656
-    proximity: 0.8232
+    lemma: σκοτόω
+    gloss: to obscure or blind {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
     language: greek
   - strongs: G1105
-    proximity: 0.7975
+    lemma: γνόφος
+    gloss: gloom {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

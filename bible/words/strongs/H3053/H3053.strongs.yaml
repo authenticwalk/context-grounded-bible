@@ -6,41 +6,51 @@ pronunciation: ye-hawb'
 definition: properly, what is given (by Providence), i.e. a lot
 kjv_usage: burden.
 derivation: from H3051 (יָהַב);
-extended_definition:
-  gloss: burden
-  definition: burden, lot (that which is given)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: burden, lot (that which is given) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8312
-    proximity: 0.8121
+    lemma: שַׂרְעַף
+    gloss: cogitation {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H6045
-    proximity: 0.8037
+    lemma: עִנְיָן
+    gloss: ado {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
   - strongs: H5445
-    proximity: 0.7908
+    lemma: סָבַל
+    gloss: to carry {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
   - strongs: H4864
-    proximity: 0.7827
+    lemma: מַשְׂאֵת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7827 {macula-proximity}
   - strongs: H5923
-    proximity: 0.7383
+    lemma: עֹל
+    gloss: a yoke {openscriptures-strongs}
+    proximity: 0.7383 {macula-proximity}
   cross_language:
   - strongs: G916
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G4305
-    proximity: 0.8125
+    lemma: προμεριμνάω
+    gloss: to care  in advance {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G4987
-    proximity: 0.8083
+    lemma: σωρεύω
+    gloss: to pile up {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
     language: greek
   - strongs: G1958
-    proximity: 0.7824
+    lemma: ἐπιμέλεια
+    gloss: carefulness {openscriptures-strongs}
+    proximity: 0.7824 {macula-proximity}
     language: greek
   - strongs: G3309
-    proximity: 0.7795
+    lemma: μεριμνάω
+    gloss: to be anxious about {openscriptures-strongs}
+    proximity: 0.7795 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

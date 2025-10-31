@@ -6,39 +6,45 @@ pronunciation: mal-ak-ooth'
 definition: a message
 kjv_usage: message.
 derivation: from the same as H4397 (מֲלְאָךְ);
-extended_definition:
-  gloss: message
-  definition: message
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: message {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7150
-    proximity: 0.7803
+    lemma: קְרִיאָה
+    gloss: a proclamation {openscriptures-strongs}
+    proximity: 0.7803 {macula-proximity}
   - strongs: H1309
-    proximity: 0.7758
+    lemma: בְּשׂוֹרָה
+    gloss: glad tidings {openscriptures-strongs}
+    proximity: 0.7758 {macula-proximity}
   - strongs: H8052
-    proximity: 0.7643
+    lemma: שְׁמוּעָה
+    gloss: something heard {openscriptures-strongs}
+    proximity: 0.7643 {macula-proximity}
   - strongs: H1699a
-    proximity: 0.7609
+    proximity: 0.7609 {macula-proximity}
   cross_language:
   - strongs: G2783
-    proximity: 0.8259
+    lemma: κῆρυξ
+    gloss: a herald {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G1821
-    proximity: 0.8227
+    lemma: ἐξαποστέλλω
+    gloss: to send away forth {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
     language: greek
   - strongs: G4882
-    proximity: 0.7996
+    lemma: συναποστέλλω
+    gloss: to despatch  in company with {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
     language: greek
   - strongs: G649
-    proximity: 0.7863
+    proximity: 0.7863 {macula-proximity}
     language: greek
   - strongs: G1599
-    proximity: 0.7407
+    lemma: ἐκπέμπω
+    gloss: to despatch {openscriptures-strongs}
+    proximity: 0.7407 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,45 +7,59 @@ definition: conjunction, i.e. society; mostly adverb or preposition (with prepos
   prefix), near, beside, along with
 kjv_usage: (over) against, at, beside, hard by, in points.
 derivation: from H6004 (עָמַם);
-extended_definition:
-  gloss: close
-  definition: 1) juxtaposition<br>1a) used only as a prep<br>1a1) close by, side by
-    side with, alongside of, parallel with<br>1a2) agreeing with, corresponding to,
-    exactly as, close beside<br>1a3) correspondingly to
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) juxtaposition
+
+  1a) used only as a prep
+
+  1a1) close by, side by side with, alongside of, parallel with
+
+  1a2) agreeing with, corresponding to, exactly as, close beside
+
+  1a3) correspondingly to {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6285
-    proximity: 0.8283
+    lemma: פֵּאָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H7138
-    proximity: 0.8248
+    lemma: קָרוֹב
+    gloss: near (in place {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: H1823
-    proximity: 0.8239
+    lemma: דְּמוּת
+    gloss: resemblance {openscriptures-strongs}
+    proximity: 0.8239 {macula-proximity}
   - strongs: H4480
-    proximity: 0.8172
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
   - strongs: A3807b
-    proximity: 0.8169
+    proximity: 0.8169 {macula-proximity}
   - strongs: A1821
-    proximity: 0.8153
+    proximity: 0.8153 {macula-proximity}
   cross_language:
   - strongs: G3779
-    proximity: 0.8299
+    lemma: οὕτω
+    gloss: in this way {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G1909
-    proximity: 0.8248
+    lemma: ἐπί
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: greek
   - strongs: G3864
-    proximity: 0.8247
+    lemma: παραθαλάσσιος
+    gloss: along the sea {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: greek
   - strongs: G2505
-    proximity: 0.8245
+    lemma: καθά
+    gloss: according to which things {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
     language: greek
   - strongs: G481
-    proximity: 0.8242
+    proximity: 0.8242 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

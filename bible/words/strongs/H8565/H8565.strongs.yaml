@@ -7,34 +7,34 @@ definition: a monster (as preternaturally formed), i.e. a sea-serpent (or other 
   marine animal); also a jackal (or other hideous land animal)
 kjv_usage: dragon, whale. Compare H8577 (תַּנִּין).
 derivation: from an unused root probably meaning to elongate;
-extended_definition:
-  gloss: dragon
-  definition: dragon, maybe the extinct dinosaur the plesiosaurus, whale
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: dragon, maybe the extinct dinosaur the plesiosaurus, whale {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6728a
-    proximity: 0.8248
+    proximity: 0.8248 {macula-proximity}
   - strongs: H7830
-    proximity: 0.8127
+    lemma: שַׁחַץ
+    gloss: haughtiness {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
   - strongs: H5886a
-    proximity: 0.8103
+    proximity: 0.8103 {macula-proximity}
   - strongs: H2123
-    proximity: 0.7985
+    lemma: זִיז
+    gloss: fulness of the breast {openscriptures-strongs}
+    proximity: 0.7985 {macula-proximity}
   - strongs: H2416c
-    proximity: 0.7851
+    proximity: 0.7851 {macula-proximity}
   - strongs: A2423
-    proximity: 0.7723
+    proximity: 0.7723 {macula-proximity}
   cross_language:
   - strongs: G2342
-    proximity: 0.8028
+    lemma: θηρίον
+    gloss: a dangerous animal {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
     language: greek
   - strongs: G3074
-    proximity: 0.7625
+    lemma: λύκος
+    gloss: a wolf {openscriptures-strongs}
+    proximity: 0.7625 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

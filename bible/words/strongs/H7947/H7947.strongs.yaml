@@ -6,28 +6,30 @@ pronunciation: shaw-lab'
 definition: to space off; intensive (evenly) to make equidistant
 kjv_usage: equally distant, set in order.
 derivation: a primitive root;
-extended_definition:
-  gloss: to fit
-  definition: (Pual) to be bound, be joined, be joined together
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Pual) to be bound, be joined, be joined together {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6901
-    proximity: 0.8196
+    lemma: קָבַל
+    gloss: to admit {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: H2266
-    proximity: 0.8121
+    lemma: חָבַר
+    gloss: to join {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H4237
-    proximity: 0.7824
+    lemma: מֶחֱזָה
+    gloss: a window {openscriptures-strongs}
+    proximity: 0.7824 {macula-proximity}
   cross_language:
   - strongs: G1469
-    proximity: 0.7844
+    lemma: ἐγκρίνω
+    gloss: to judge in {openscriptures-strongs}
+    proximity: 0.7844 {macula-proximity}
     language: greek
   - strongs: G4883
-    proximity: 0.7172
+    lemma: συναρμολογέω
+    gloss: to render close-jointed together {openscriptures-strongs}
+    proximity: 0.7172 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

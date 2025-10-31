@@ -6,40 +6,49 @@ pronunciation: leh'-kesh
 definition: the after crop
 kjv_usage: latter growth.
 derivation: from H3953 (לָקַשׁ);
-extended_definition:
-  gloss: spring crop
-  definition: after-growth, aftermath, spring-crop, late crop after-growth
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: after-growth, aftermath, spring-crop, late crop after-growth
+  {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6212
-    proximity: 0.8283
+    lemma: עֶשֶׂב
+    gloss: grass {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H6780
-    proximity: 0.8129
+    lemma: צֶמַח
+    gloss: a sprout {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: H7105
-    proximity: 0.7999
+    lemma: קָצִיר
+    gloss: severed {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
   - strongs: H648
-    proximity: 0.7894
+    proximity: 0.7894 {macula-proximity}
   - strongs: H2981
-    proximity: 0.771
+    lemma: יְבוּל
+    gloss: produce {openscriptures-strongs}
+    proximity: 0.771 {macula-proximity}
   - strongs: H7054
-    proximity: 0.742
+    lemma: קָמָה
+    gloss: something that rises {openscriptures-strongs}
+    proximity: 0.742 {macula-proximity}
   cross_language:
   - strongs: G1208a
-    proximity: 0.8229
+    proximity: 0.8229 {macula-proximity}
     language: greek
   - strongs: G5564
-    proximity: 0.8218
+    lemma: χωρίον
+    gloss: a spot or plot of ground {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
     language: greek
   - strongs: G2326
-    proximity: 0.7826
+    lemma: θερισμός
+    gloss: reaping {openscriptures-strongs}
+    proximity: 0.7826 {macula-proximity}
     language: greek
   - strongs: G2933
-    proximity: 0.7673
+    lemma: κτῆμα
+    gloss: an acquirement {openscriptures-strongs}
+    proximity: 0.7673 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

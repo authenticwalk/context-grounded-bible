@@ -6,45 +6,57 @@ pronunciation: raw-zeh'
 definition: thin
 kjv_usage: lean.
 derivation: from H7329 (רָזָה);
-extended_definition:
-  gloss: lean
-  definition: lean
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: lean {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H34
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
   - strongs: H6041
-    proximity: 0.8245
+    lemma: עָנִי
+    gloss: depressed {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H1851
-    proximity: 0.8169
+    lemma: דַּק
+    gloss: crushed {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: H5533b
-    proximity: 0.8149
+    proximity: 0.8149 {macula-proximity}
   - strongs: H7332
-    proximity: 0.8122
+    lemma: רָזוֹן
+    gloss: thinness {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
   - strongs: H7326
-    proximity: 0.7892
+    lemma: רוּשׁ
+    gloss: to be destitute {openscriptures-strongs}
+    proximity: 0.7892 {macula-proximity}
   - strongs: H4134
-    proximity: 0.7784
+    lemma: מוּךְ
+    gloss: to become thin {openscriptures-strongs}
+    proximity: 0.7784 {macula-proximity}
   - strongs: H7514
-    proximity: 0.7593
+    lemma: רָפַק
+    gloss: to recline {openscriptures-strongs}
+    proximity: 0.7593 {macula-proximity}
   - strongs: H5848b
-    proximity: 0.7569
+    proximity: 0.7569 {macula-proximity}
   - strongs: H4542
-    proximity: 0.7327
+    lemma: מִסְכֵּן
+    gloss: indigent {openscriptures-strongs}
+    proximity: 0.7327 {macula-proximity}
   cross_language:
   - strongs: G4433
-    proximity: 0.7807
+    lemma: πτωχεύω
+    gloss: to be a beggar {openscriptures-strongs}
+    proximity: 0.7807 {macula-proximity}
     language: greek
   - strongs: G4434
-    proximity: 0.7303
+    lemma: πτωχός
+    gloss: akin to G4422  and the alternate of G4098 ) {openscriptures-strongs}
+    proximity: 0.7303 {macula-proximity}
     language: greek
   - strongs: G3993
-    proximity: 0.713
+    lemma: πένης
+    gloss: starving {openscriptures-strongs}
+    proximity: 0.713 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

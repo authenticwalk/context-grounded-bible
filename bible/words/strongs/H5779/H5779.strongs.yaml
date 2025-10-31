@@ -6,51 +6,67 @@ pronunciation: oots
 definition: to consult
 kjv_usage: take advice ((counsel) together).
 derivation: a primitive root;
-extended_definition:
-  gloss: to plan
-  definition: (Qal) to counsel, plan
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to counsel, plan {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4427a
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
   - strongs: H5475
-    proximity: 0.8251
+    lemma: סוֹד
+    gloss: a session {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H2803
-    proximity: 0.8155
+    lemma: חָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H2162
-    proximity: 0.8072
+    lemma: זָמָם
+    gloss: a plot {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
   - strongs: H4284
-    proximity: 0.7839
+    lemma: מַחֲשָׁבָה
+    gloss: a contrivance {openscriptures-strongs}
+    proximity: 0.7839 {macula-proximity}
   - strongs: A3272
-    proximity: 0.7825
+    proximity: 0.7825 {macula-proximity}
   - strongs: H2665
-    proximity: 0.7593
+    lemma: חֵפֶשׂ
+    gloss: something covert {openscriptures-strongs}
+    proximity: 0.7593 {macula-proximity}
   - strongs: H2161
-    proximity: 0.7519
+    lemma: זָמַם
+    gloss: to plan {openscriptures-strongs}
+    proximity: 0.7519 {macula-proximity}
   - strongs: H4156
-    proximity: 0.7506
+    lemma: מוֹעֵצָה
+    gloss: a purpose {openscriptures-strongs}
+    proximity: 0.7506 {macula-proximity}
   - strongs: H6250
-    proximity: 0.7199
+    lemma: עֶשְׁתֹּנָה
+    gloss: thinking {openscriptures-strongs}
+    proximity: 0.7199 {macula-proximity}
   cross_language:
   - strongs: G4934
-    proximity: 0.8277
+    lemma: συντίθεμαι
+    gloss: to place jointly {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: greek
   - strongs: G4820
-    proximity: 0.7917
+    lemma: συμβάλλω
+    gloss: to combine {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: greek
   - strongs: G357
-    proximity: 0.7621
+    proximity: 0.7621 {macula-proximity}
     language: greek
   - strongs: G4814
-    proximity: 0.7487
+    lemma: συλλαλέω
+    gloss: to talk together {openscriptures-strongs}
+    proximity: 0.7487 {macula-proximity}
     language: greek
   - strongs: G4823
-    proximity: 0.7478
+    lemma: συμβουλεύω
+    gloss: to give  advice jointly {openscriptures-strongs}
+    proximity: 0.7478 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

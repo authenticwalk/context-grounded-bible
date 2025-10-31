@@ -7,46 +7,59 @@ definition: to shoot out horns; figuratively, rays
 kjv_usage: have horns, shine.
 derivation: a primitive root; to push or gore; used only as denominative from H7161
   (קֶרֶן),
-extended_definition:
-  gloss: to shine
-  definition: 1) to shine<br>1a) (Qal) to send out rays<br>1b) (Hiphil) to display
-    or grow horns, be horned
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to shine
+
+  1a) (Qal) to send out rays
+
+  1b) (Hiphil) to display or grow horns, be horned {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H216
-    proximity: 0.8233
+    proximity: 0.8233 {macula-proximity}
   - strongs: H3851
-    proximity: 0.8204
+    lemma: לַהַב
+    gloss: a flash {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
   - strongs: H166
-    proximity: 0.8142
+    proximity: 0.8142 {macula-proximity}
   - strongs: H6692
-    proximity: 0.8024
+    lemma: צוּץ
+    gloss: to twinkle {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: H3974
-    proximity: 0.7814
+    lemma: מָאוֹר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7814 {macula-proximity}
   - strongs: H5051
-    proximity: 0.7466
+    lemma: נֹגַהּ
+    gloss: brilliancy {openscriptures-strongs}
+    proximity: 0.7466 {macula-proximity}
   - strongs: H215
-    proximity: 0.7391
+    proximity: 0.7391 {macula-proximity}
   cross_language:
   - strongs: G5460
-    proximity: 0.8297
+    lemma: φωτεινός
+    gloss: lustrous {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G4862
-    proximity: 0.827
+    lemma: σύν
+    gloss: with or together  or G3844 ) {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: greek
   - strongs: G2014
-    proximity: 0.8255
+    lemma: ἐπιφαίνω
+    gloss: to shine upon {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
     language: greek
   - strongs: G3326
-    proximity: 0.8254
+    lemma: μετά
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: greek
   - strongs: G5462
-    proximity: 0.8194
+    lemma: φωτισμός
+    gloss: illumination {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,47 +6,63 @@ pronunciation: bak-kaw-shaw'
 definition: a petition
 kjv_usage: request.
 derivation: from H1245 (בָּקַשׁ);
-extended_definition:
-  gloss: request
-  definition: request, entreaty, petition
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: request, entreaty, petition {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6680
-    proximity: 0.8278
+    lemma: צָוָה
+    gloss: to constitute {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H977
-    proximity: 0.8241
+    proximity: 0.8241 {macula-proximity}
   - strongs: H6279
-    proximity: 0.8233
+    lemma: עָתַר
+    gloss: to burn incense in worship {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H8467
-    proximity: 0.8053
+    lemma: תְּחִנָּה
+    gloss: graciousness {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H7896
-    proximity: 0.8001
+    lemma: שִׁית
+    gloss: to place {openscriptures-strongs}
+    proximity: 0.8001 {macula-proximity}
   - strongs: H1696
-    proximity: 0.7999
+    lemma: דָבַר
+    gloss: perhaps properly {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
   - strongs: H1697
-    proximity: 0.7995
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.7995 {macula-proximity}
   - strongs: H8469
-    proximity: 0.7921
+    lemma: תַּחֲנוּן
+    gloss: earnest prayer {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
   cross_language:
   - strongs: G2309
-    proximity: 0.8225
+    lemma: θέλω
+    gloss: to determine (as an active option from subjective impulse {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
   - strongs: G3633
-    proximity: 0.821
+    lemma: οἴομαι
+    gloss: to make like {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: greek
   - strongs: G1567
-    proximity: 0.8067
+    lemma: ἐκζητέω
+    gloss: to search out {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
     language: greek
   - strongs: G3870
-    proximity: 0.7911
+    lemma: παρακαλέω
+    gloss: to call near {openscriptures-strongs}
+    proximity: 0.7911 {macula-proximity}
     language: greek
   - strongs: G1162
-    proximity: 0.7898
+    lemma: δέησις
+    gloss: a petition {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

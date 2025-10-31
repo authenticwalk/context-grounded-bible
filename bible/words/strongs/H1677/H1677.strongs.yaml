@@ -6,45 +6,55 @@ pronunciation: dobe
 definition: the bear (as slow)
 kjv_usage: bear.
 derivation: or (fully) דּוֹב; from H1680 (דָּבַב);
-extended_definition:
-  gloss: bear
-  definition: 'bear<BR>Aramaic equivalent: <i>dov</i> (דֹּב "bear" H1678)'
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: 'bear
+
+  Aramaic equivalent: dov (דֹּב "bear" H1678) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8389
-    proximity: 0.814
+    lemma: תֹּאַר
+    gloss: outline {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
   - strongs: H5201
-    proximity: 0.8062
+    lemma: נָטַר
+    gloss: to guard {openscriptures-strongs}
+    proximity: 0.8062 {macula-proximity}
   - strongs: H6006
-    proximity: 0.8007
+    lemma: עָמַס
+    gloss: to load {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: H7852
-    proximity: 0.7893
+    lemma: שָׂטַם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7893 {macula-proximity}
   - strongs: H3205a
-    proximity: 0.7649
+    proximity: 0.7649 {macula-proximity}
   - strongs: H5445
-    proximity: 0.7636
+    lemma: סָבַל
+    gloss: to carry {openscriptures-strongs}
+    proximity: 0.7636 {macula-proximity}
   - strongs: H8382
-    proximity: 0.7602
+    lemma: תָּאַם
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7602 {macula-proximity}
   cross_language:
   - strongs: G430
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G399
-    proximity: 0.8091
+    proximity: 0.8091 {macula-proximity}
     language: greek
   - strongs: G941
-    proximity: 0.8076
+    proximity: 0.8076 {macula-proximity}
     language: greek
   - strongs: G5576
-    proximity: 0.7902
+    lemma: ψευδομαρτυρέω
+    gloss: to be an untrue testifier {openscriptures-strongs}
+    proximity: 0.7902 {macula-proximity}
     language: greek
   - strongs: G2592
-    proximity: 0.7787
+    lemma: καρποφορέω
+    gloss: to be fertile {openscriptures-strongs}
+    proximity: 0.7787 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

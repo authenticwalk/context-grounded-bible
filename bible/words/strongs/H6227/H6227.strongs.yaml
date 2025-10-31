@@ -6,34 +6,48 @@ pronunciation: aw-shawn'
 definition: smoke, literally or figuratively (vapor, dust, anger)
 kjv_usage: smoke(-ing).
 derivation: from H6225 (עָשַׁן);
-extended_definition:
-  gloss: smoke
-  definition: 1) smoke<br>1a) smoke<br>1b) in metaphor, simile<br>1c) smoke (fig.)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) smoke
+
+  1a) smoke
+
+  1b) in metaphor, simile
+
+  1c) smoke (fig.) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5982
-    proximity: 0.8104
+    lemma: עַמּוּד
+    gloss: a column {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
   - strongs: H6183
-    proximity: 0.7953
+    lemma: עָרִיף
+    gloss: the sky {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
   - strongs: H6053
-    proximity: 0.7803
+    lemma: עֲנָנָה
+    gloss: cloudiness {openscriptures-strongs}
+    proximity: 0.7803 {macula-proximity}
   - strongs: H8490
-    proximity: 0.7771
+    lemma: תִּימָרָה
+    gloss: a column {openscriptures-strongs}
+    proximity: 0.7771 {macula-proximity}
   - strongs: H5645
-    proximity: 0.7689
+    lemma: עָב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7689 {macula-proximity}
   - strongs: H3514
-    proximity: 0.7602
+    lemma: כֹּבֶד
+    gloss: weight {openscriptures-strongs}
+    proximity: 0.7602 {macula-proximity}
   cross_language:
   - strongs: G3509
-    proximity: 0.8244
+    lemma: νέφος
+    gloss: a cloud {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
     language: greek
   - strongs: G3507
-    proximity: 0.7587
+    lemma: νεφέλη
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7587 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -7,35 +7,45 @@ definition: Beth-Gamul, a place East of the Jordan
 kjv_usage: Beth-gamul.
 derivation: from H1004 (בַּיִת) and the passive participle of H1576 (גְּמוּל); house
   of (the) weaned;
-extended_definition:
-  gloss: Beth-gamul
-  definition: <BR> § Beth-gamul = "house of recompense"<br> a place in Moab<br>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Beth-gamul = "house of recompense"
+
+  a place in Moab {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1042
-    proximity: 0.8296
+    lemma: בֵּית עֲנוֹת
+    gloss: Beth-Anoth {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H1009
-    proximity: 0.8294
+    lemma: בֵּית אַרְבֵּאל
+    gloss: Beth-Arbel {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
   - strongs: H1043
-    proximity: 0.8279
+    lemma: בֵּית עֲנָת
+    gloss: Beth-Anath {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: H1018
-    proximity: 0.8265
+    lemma: בֵּית הָאֵצֶל
+    gloss: Beth-ha-Etsel {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H66
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
   - strongs: H1019a
-    proximity: 0.8238
+    proximity: 0.8238 {macula-proximity}
   - strongs: H1667
-    proximity: 0.8217
+    lemma: גַּת־רִמּוֹן
+    gloss: Gath-Rimmon {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
   - strongs: H1024
-    proximity: 0.8203
+    lemma: בֵּית הַמַּרְכָּבוֹת
+    gloss: Beth-ham-Markaboth or Beth-Markaboth {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: H1049
-    proximity: 0.8155
+    lemma: בֵּית צוּר
+    gloss: Beth-Tsur {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
   - strongs: H1020
-    proximity: 0.8096
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: בֵּית הַיְשִׁימוֹת
+    gloss: Beth-ha-Jeshimoth {openscriptures-strongs}
+    proximity: 0.8096 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

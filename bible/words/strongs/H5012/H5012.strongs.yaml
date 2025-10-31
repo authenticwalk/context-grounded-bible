@@ -7,54 +7,85 @@ definition: to prophesy, i.e. speak (or sing) by inspiration (in prediction or s
   discourse)
 kjv_usage: prophesy(-ing), make self a prophet.
 derivation: a primitive root;
-extended_definition:
-  gloss: to prophesy
-  definition: '1) to prophesy<br>1a) (Niphal)<br>1a1) to prophesy<br>1a1a) under influence
-    of divine spirit<br>1a1b) of false prophets<br>1b)(Hithpael)<br>1b1) to prophesy<br>1b1a)
-    under influence of divine spirit<br>1b1b) of false prophets<BR>Aramaic equivalent:
-    <i>ne.va</i> (נבא "to prophesy" H5013)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to prophesy
+
+  1a) (Niphal)
+
+  1a1) to prophesy
+
+  1a1a) under influence of divine spirit
+
+  1a1b) of false prophets
+
+  1b)(Hithpael)
+
+  1b1) to prophesy
+
+  1b1a) under influence of divine spirit
+
+  1b1b) of false prophets
+
+  Aramaic equivalent: ne.va (נבא "to prophesy" H5013) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2374
-    proximity: 0.8248
+    lemma: חֹזֶה
+    gloss: a beholder in vision {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
   - strongs: H7150
-    proximity: 0.8247
+    lemma: קְרִיאָה
+    gloss: a proclamation {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H1697
-    proximity: 0.8238
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H3577
-    proximity: 0.8208
+    lemma: כָּזָב
+    gloss: falsehood {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
   - strongs: H7121
-    proximity: 0.8161
+    lemma: קָרָא
+    gloss: to call out to (i.e. properly {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H4853a
-    proximity: 0.8089
+    proximity: 0.8089 {macula-proximity}
   - strongs: H7081
-    proximity: 0.808
+    lemma: קֶסֶם
+    gloss: a lot {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
   - strongs: H4912
-    proximity: 0.8024
+    lemma: מָשָׁל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
   - strongs: H5046
-    proximity: 0.8021
+    lemma: נָגַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
   - strongs: A3538
-    proximity: 0.7836
+    proximity: 0.7836 {macula-proximity}
   cross_language:
   - strongs: G893
-    proximity: 0.8152
+    proximity: 0.8152 {macula-proximity}
     language: greek
   - strongs: G5574
-    proximity: 0.7956
+    lemma: ψεύδομαι
+    gloss: to utter an untruth or attempt to deceive by falsehood {openscriptures-strongs}
+    proximity: 0.7956 {macula-proximity}
     language: greek
   - strongs: G4303
-    proximity: 0.7906
+    lemma: προμαρτύρομαι
+    gloss: to be a witness in advance i.e. predict {openscriptures-strongs}
+    proximity: 0.7906 {macula-proximity}
     language: greek
   - strongs: G3132
-    proximity: 0.7849
+    lemma: μαντεύομαι
+    gloss: to divine {openscriptures-strongs}
+    proximity: 0.7849 {macula-proximity}
     language: greek
   - strongs: G3056
-    proximity: 0.7807
+    lemma: λόγος
+    gloss: something said {openscriptures-strongs}
+    proximity: 0.7807 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

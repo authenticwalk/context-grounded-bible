@@ -6,32 +6,36 @@ pronunciation: doo-maw'
 definition: silence; figuratively, death
 kjv_usage: silence.
 derivation: from an unused root meaning to be dumb (compare H1820 (דָּמָה));
-extended_definition:
-  gloss: silence
-  definition: silence
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: silence {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7845
-    proximity: 0.8225
+    lemma: שַׁחַת
+    gloss: a pit {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: H11
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
   - strongs: H1748
-    proximity: 0.7921
+    lemma: דּוּמָם
+    gloss: still {openscriptures-strongs}
+    proximity: 0.7921 {macula-proximity}
   - strongs: H1827
-    proximity: 0.7905
+    lemma: דְּמָמָה
+    gloss: quiet {openscriptures-strongs}
+    proximity: 0.7905 {macula-proximity}
   - strongs: H2013
-    proximity: 0.7614
+    lemma: הָסָה
+    gloss: to hush {openscriptures-strongs}
+    proximity: 0.7614 {macula-proximity}
   cross_language:
   - strongs: G1993
-    proximity: 0.8056
+    lemma: ἐπιστομίζω
+    gloss: to put something over the mouth {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
     language: greek
   - strongs: G2271
-    proximity: 0.766
+    lemma: ἡσυχία
+    gloss: stillness {openscriptures-strongs}
+    proximity: 0.766 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

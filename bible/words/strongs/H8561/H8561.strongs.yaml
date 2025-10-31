@@ -7,49 +7,61 @@ definition: (architectural) a palm-like pilaster (i.e. umbellate)
 kjv_usage: palm tree.
 derivation: (plural or (feminine) תִּמֹּרָה; (singular and plural), from the same
   root as H8558 (תָּמָר);
-extended_definition:
-  gloss: palm
-  definition: palm tree figure (as ornament)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: palm tree figure (as ornament) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H815
-    proximity: 0.8291
+    proximity: 0.8291 {macula-proximity}
   - strongs: H6196
-    proximity: 0.8279
+    lemma: עַרְמוֹן
+    gloss: the plane tree {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
   - strongs: H8598
-    proximity: 0.8277
+    lemma: תַּפּוּחַ
+    gloss: an apple {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H1057
-    proximity: 0.827
+    lemma: בָּכָא
+    gloss: the weeping tree (some gum-distilling tree {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: H436
-    proximity: 0.8249
+    proximity: 0.8249 {macula-proximity}
   - strongs: H8247
-    proximity: 0.8215
+    lemma: שָׁקֵד
+    gloss: the almond (tree or nut {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H534
-    proximity: 0.8147
+    proximity: 0.8147 {macula-proximity}
   - strongs: H8363
-    proximity: 0.806
+    lemma: שְׁתִל
+    gloss: a sprig {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
   - strongs: H3712
-    proximity: 0.7688
+    lemma: כִּפָּה
+    gloss: a leaf of a palmtree {openscriptures-strongs}
+    proximity: 0.7688 {macula-proximity}
   cross_language:
   - strongs: G4808
-    proximity: 0.8217
+    lemma: συκῆ
+    gloss: a fig-tree {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
     language: greek
   - strongs: G4809
-    proximity: 0.8207
+    lemma: συκομωραία
+    gloss: the "sycamore"-fig tree {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
     language: greek
   - strongs: G2565
-    proximity: 0.8159
+    lemma: καλλιέλαιος
+    gloss: a cultivated olive tree {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
     language: greek
   - strongs: G4807
-    proximity: 0.8094
+    lemma: συκάμινος
+    gloss: a sycamore-fig tree {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
     language: greek
   - strongs: G65
-    proximity: 0.8013
+    proximity: 0.8013 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

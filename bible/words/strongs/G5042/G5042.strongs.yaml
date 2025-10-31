@@ -6,46 +6,54 @@ definition: childbirth (parentage), i.e. (by implication) maternity (the perform
   of maternal duties)
 kjv_usage: childbearing
 derivation: from the same as G5041 (τεκνογονέω);
-extended_definition:
-  gloss: childbearing
-  definition: '<b>τεκνογονία</b>, -ας, ἡ, <BR /> <b>child-bearing</b>: <ref=''1Ti.2.15''>1Ti.2:15</ref>
-    (Arist.).†<BR /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> τεκνογον-ία</b>, ἡ, <br /> <b>child-bearing</b>, [<a href="javascript:void(0)"
-    title=" 4th c.BC: Aristoteles Philosophus “Historia Animalium” 582a28 (_plural_),
-    NT.1Tim.2.15, 2nd c.AD: Galenus Medicus 15.49. ">NT+4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'τεκνογονία, -ας, ἡ,
+
+  child-bearing: 1Ti.2:15 (Arist.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'τεκνογον-ία, ἡ,
+
+  child-bearing, [NT+4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3388
-    proximity: 0.8154
+    lemma: μήτρα
+    gloss: the matrix {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: G5409
-    proximity: 0.8091
+    lemma: φορέω
+    gloss: to have a burden {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
   - strongs: G2364
-    proximity: 0.8063
+    lemma: θυγάτηρ
+    gloss: a female child {openscriptures-strongs}
+    proximity: 0.8063 {macula-proximity}
   - strongs: G3541
-    proximity: 0.8041
+    lemma: νόθος
+    gloss: a spurious or illegitimate son {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
   cross_language:
   - strongs: H1121
-    proximity: 0.8282
+    lemma: בֵּן
+    gloss: a son {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: hebrew
   - strongs: H1067
-    proximity: 0.8274
+    lemma: בְּכִירָה
+    gloss: the eldest daughter {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
     language: hebrew
   - strongs: H6211b
-    proximity: 0.8201
+    proximity: 0.8201 {macula-proximity}
     language: hebrew
   - strongs: H3206
-    proximity: 0.8177
+    lemma: יֶלֶד
+    gloss: something born {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
     language: hebrew
   - strongs: H6135
-    proximity: 0.8166
+    lemma: עָקָר
+    gloss: sterile {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

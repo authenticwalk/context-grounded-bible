@@ -5,49 +5,66 @@ transliteration: Leuḯtēs
 definition: a Levite, i.e. descendant of Levi
 kjv_usage: Levite
 derivation: from G3017 (Λευΐ);
-extended_definition:
-  gloss: Levite
-  definition: '<b>Λευείτης</b><BR /> (Rec. Λευΐτης), -ου, ὁ [in LXX for לֵוִיִּי ;]
-    <BR /><b>a Levite</b>: <ref=''Luk.10.32''>Luk.10:32</ref>, <ref=''Jhn.1.19''>Jhn.1:19</ref>,
-    <ref=''Act.4.36''>Act.4:36</ref>.†<BR /> (AS)'
-  morphology: N:N--PG
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Λευείτης</b><BR /> (Rec. Λευΐτης), -ου, ὁ [in LXX for לֵוִיִּי
-    ;] <BR /><b>a Levite</b>: <ref=''Luk.10.32''>Luk.10:32</ref>, <ref=''Jhn.1.19''>Jhn.1:19</ref>,
-    <ref=''Act.4.36''>Act.4:36</ref>.†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Λευείτης
+
+  (Rec. Λευΐτης), -ου, ὁ [in LXX for לֵוִיִּי ;]
+
+  a Levite: Luk.10:32, Jhn.1:19, Act.4:36.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Λευείτης
+
+  (Rec. Λευΐτης), -ου, ὁ [in LXX for לֵוִיִּי ;]
+
+  a Levite: Luk.10:32, Jhn.1:19, Act.4:36.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1056
-    proximity: 0.8291
+    lemma: Γαλιλαία
+    gloss: Galilæa {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: G4948
-    proximity: 0.8199
+    lemma: Σύρος
+    gloss: a Syran {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: G3018
-    proximity: 0.8125
+    lemma: Λευΐς
+    gloss: Lewis {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: G1057
-    proximity: 0.7822
+    lemma: Γαλιλαῖος
+    gloss: Galilean or belonging to Galilea {openscriptures-strongs}
+    proximity: 0.7822 {macula-proximity}
   - strongs: G3017
-    proximity: 0.7313
+    lemma: Λευΐ
+    gloss: Levi {openscriptures-strongs}
+    proximity: 0.7313 {macula-proximity}
   cross_language:
   - strongs: H4094
-    proximity: 0.8287
+    lemma: מַדְקָרָה
+    gloss: a wound {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: hebrew
   - strongs: H4233
-    proximity: 0.826
+    lemma: מַחֲוִים
+    gloss: a Machavite or inhabitant of some place named Machaveh {openscriptures-strongs}
+    proximity: 0.826 {macula-proximity}
     language: hebrew
   - strongs: H7384
-    proximity: 0.8255
+    lemma: רִיפַת
+    gloss: Riphath {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
     language: hebrew
   - strongs: H6882
-    proximity: 0.8247
+    lemma: צׇרְעִי
+    gloss: a Tsorite or Tsorathite {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: hebrew
   - strongs: H6180
-    proximity: 0.8227
+    lemma: עֵרִי
+    gloss: a Erite  or descendants of Eri {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

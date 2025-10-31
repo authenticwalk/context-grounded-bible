@@ -8,52 +8,96 @@ kjv_usage: make a breach, break forth (into, out, in pieces, through, up), be re
   to burst, cleave (asunder), cut out, divide, hatch, rend (asunder), rip up, tear,
   win.
 derivation: a primitive root;
-extended_definition:
-  gloss: to break up/open
-  definition: 1) to split, cleave, break open, divide, break through, rip up, break
-    up, tear<br>1a) (Qal)<br>1a1) to cleave, cleave open<br>1a2) to break through,
-    break into<br>1b) (Niphal)<br>1b1) to be cleft, be rent open, be split open<br>1b2)
-    to be broken into<br>1c) (Piel)<br>1c1) to cleave, cut to pieces, rend open<br>1c2)
-    to break through, break down<br>1d) (Pual)<br>1d1) to be ripped open, be torn
-    open<br>1d2) to be rent<br>1d3) to be broken into<br>1e) (Hiphil)<br>1e1) to break
-    into<br>1e2) to break through<br>1f) (Hophal) to be broken into<br>1g) (Hithpael)
-    to burst (themselves) open, cleave asunder
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to split, cleave, break open, divide, break through, rip
+  up, break up, tear
+
+  1a) (Qal)
+
+  1a1) to cleave, cleave open
+
+  1a2) to break through, break into
+
+  1b) (Niphal)
+
+  1b1) to be cleft, be rent open, be split open
+
+  1b2) to be broken into
+
+  1c) (Piel)
+
+  1c1) to cleave, cut to pieces, rend open
+
+  1c2) to break through, break down
+
+  1d) (Pual)
+
+  1d1) to be ripped open, be torn open
+
+  1d2) to be rent
+
+  1d3) to be broken into
+
+  1e) (Hiphil)
+
+  1e1) to break into
+
+  1e2) to break through
+
+  1f) (Hophal) to be broken into
+
+  1g) (Hithpael) to burst (themselves) open, cleave asunder {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6398
-    proximity: 0.8278
+    lemma: פָּלַח
+    gloss: to slice {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H2040
-    proximity: 0.8268
+    lemma: הָרַס
+    gloss: to pull down or in pieces {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
   - strongs: H6504
-    proximity: 0.8255
+    lemma: פָּרַד
+    gloss: to break through {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: H6626
-    proximity: 0.8251
+    lemma: פָּתַת
+    gloss: to open {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H2672a
-    proximity: 0.8247
+    proximity: 0.8247 {macula-proximity}
   - strongs: H7493
-    proximity: 0.8225
+    lemma: רָעַשׁ
+    gloss: to undulate (as the earth {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: H6491
-    proximity: 0.8213
+    lemma: פָּקַח
+    gloss: to open (the senses {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
   - strongs: H2673
-    proximity: 0.8098
+    lemma: חָצָה
+    gloss: to cut or split in two {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
   - strongs: H1299
-    proximity: 0.8087
+    lemma: בָּרַק
+    gloss: to lighten {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
   - strongs: H5214
-    proximity: 0.8072
+    lemma: נִיר
+    gloss: to till the soil {openscriptures-strongs}
+    proximity: 0.8072 {macula-proximity}
   cross_language:
   - strongs: G1831
-    proximity: 0.821
+    lemma: ἐξέρχομαι
+    gloss: to issue {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: greek
   - strongs: G380
-    proximity: 0.8161
+    proximity: 0.8161 {macula-proximity}
     language: greek
   - strongs: G1032
-    proximity: 0.8116
+    lemma: βρύω
+    gloss: to swell out {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

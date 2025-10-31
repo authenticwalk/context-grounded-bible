@@ -6,47 +6,61 @@ pronunciation: teh-oon'
 definition: naughtiness, i.e. toil
 kjv_usage: lie.
 derivation: from H205 (אָוֶן);
-extended_definition:
-  gloss: toil
-  definition: toil
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: toil {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6093
-    proximity: 0.8243
+    lemma: עִצָּבוֹן
+    gloss: worrisomeness {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: H3981
-    proximity: 0.8212
+    lemma: מַאֲמָץ
+    gloss: strength {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   - strongs: H3581
-    proximity: 0.8131
+    lemma: כֹּחַ
+    gloss: vigor {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
   - strongs: H3018
-    proximity: 0.7967
+    lemma: יְגִיעַ
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
   - strongs: H6089a
-    proximity: 0.7856
+    proximity: 0.7856 {macula-proximity}
   - strongs: H353
-    proximity: 0.7764
+    proximity: 0.7764 {macula-proximity}
   - strongs: H3021
-    proximity: 0.7499
+    lemma: יָגַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7499 {macula-proximity}
   - strongs: H5999
-    proximity: 0.7483
+    lemma: עָמָל
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.7483 {macula-proximity}
   cross_language:
   - strongs: G4704
-    proximity: 0.8248
+    lemma: σπουδάζω
+    gloss: to use speed {openscriptures-strongs}
+    proximity: 0.8248 {macula-proximity}
     language: greek
   - strongs: G3923
-    proximity: 0.8169
+    lemma: παρεισφέρω
+    gloss: to bear in alongside {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
     language: greek
   - strongs: G2710
-    proximity: 0.8
+    lemma: καταχράομαι
+    gloss: to overuse {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
     language: greek
   - strongs: G2873
-    proximity: 0.7951
+    lemma: κόπος
+    gloss: a cut {openscriptures-strongs}
+    proximity: 0.7951 {macula-proximity}
     language: greek
   - strongs: G2872
-    proximity: 0.7461
+    lemma: κοπιάω
+    gloss: to feel fatigue {openscriptures-strongs}
+    proximity: 0.7461 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

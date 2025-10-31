@@ -6,26 +6,29 @@ pronunciation: mish-pawth'
 definition: a stall for cattle (only dual)
 kjv_usage: burden, sheepfold.
 derivation: from H8192 (שָׁפָה);
-extended_definition:
-  gloss: sheepfold
-  definition: 1) fire-places, ash-heaps<br>1a) meaning uncertain<br>2) (CLBL) sheepfolds,
-    saddlebags<br>2a) meaning uncertain
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) fire-places, ash-heaps
+
+  1a) meaning uncertain
+
+  2) (CLBL) sheepfolds, saddlebags
+
+  2a) meaning uncertain {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4999
-    proximity: 0.7611
+    lemma: נָאָה
+    gloss: a home {openscriptures-strongs}
+    proximity: 0.7611 {macula-proximity}
   - strongs: H5116
-    proximity: 0.7589
+    lemma: נָוֶה
+    gloss: at home {openscriptures-strongs}
+    proximity: 0.7589 {macula-proximity}
   - strongs: H6629
-    proximity: 0.7127
+    lemma: צֹאן
+    gloss: a collective name for a flock {openscriptures-strongs}
+    proximity: 0.7127 {macula-proximity}
   cross_language:
   - strongs: G833
-    proximity: 0.7139
+    proximity: 0.7139 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

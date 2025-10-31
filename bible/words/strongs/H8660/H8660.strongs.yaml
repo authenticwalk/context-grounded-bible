@@ -6,36 +6,41 @@ pronunciation: teer-shaw-thaw'
 definition: Tirshatha, the title of a Persian deputy or governor
 kjv_usage: Tirshatha.
 derivation: of foreign derivation;
-extended_definition:
-  gloss: governor
-  definition: 1) Tirshatha-governor<br>1a) a title used by the Persian governor in
-    Judea<br>1a1) Nehemiah used this title
-  morphology: N:N-M-T
-  source: STEPBible/BDB
+extended_definition: '1) Tirshatha-governor
+
+  1a) a title used by the Persian governor in Judea
+
+  1a1) Nehemiah used this title {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6496
-    proximity: 0.7724
+    lemma: פָּקִיד
+    gloss: a superintendent (civil {openscriptures-strongs}
+    proximity: 0.7724 {macula-proximity}
   - strongs: H441
-    proximity: 0.747
+    proximity: 0.747 {macula-proximity}
   - strongs: A671a
-    proximity: 0.7464
+    proximity: 0.7464 {macula-proximity}
   - strongs: A2942
-    proximity: 0.7402
+    proximity: 0.7402 {macula-proximity}
   - strongs: H8269
-    proximity: 0.7158
+    lemma: שַׂר
+    gloss: a head person {openscriptures-strongs}
+    proximity: 0.7158 {macula-proximity}
   cross_language:
   - strongs: G2232
-    proximity: 0.7437
+    lemma: ἡγεμών
+    gloss: a leader {openscriptures-strongs}
+    proximity: 0.7437 {macula-proximity}
     language: greek
   - strongs: G2230
-    proximity: 0.7226
+    lemma: ἡγεμονεύω
+    gloss: to act as ruler {openscriptures-strongs}
+    proximity: 0.7226 {macula-proximity}
     language: greek
   - strongs: G1481
-    proximity: 0.7194
+    lemma: ἐθνάρχης
+    gloss: the governor  of a district {openscriptures-strongs}
+    proximity: 0.7194 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

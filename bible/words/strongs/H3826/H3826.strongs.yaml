@@ -6,45 +6,47 @@ pronunciation: lib-baw'
 definition: the heart
 kjv_usage: heart.
 derivation: feminine of H3820 (לֵב);
-extended_definition:
-  gloss: heart
-  definition: heart
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: heart {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2050b
-    proximity: 0.8207
+    proximity: 0.8207 {macula-proximity}
   - strongs: A3825
-    proximity: 0.8083
+    proximity: 0.8083 {macula-proximity}
   - strongs: H4515
-    proximity: 0.8069
+    lemma: מִנְעָל
+    gloss: a bolt {openscriptures-strongs}
+    proximity: 0.8069 {macula-proximity}
   - strongs: A3821
-    proximity: 0.7738
+    proximity: 0.7738 {macula-proximity}
   - strongs: A7470a
-    proximity: 0.7696
+    proximity: 0.7696 {macula-proximity}
   - strongs: A1079
-    proximity: 0.7345
+    proximity: 0.7345 {macula-proximity}
   - strongs: H3820
-    proximity: 0.7316
+    lemma: לֵב
+    gloss: the heart {openscriptures-strongs}
+    proximity: 0.7316 {macula-proximity}
   cross_language:
   - strongs: G830
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G1573a
-    proximity: 0.8243
+    proximity: 0.8243 {macula-proximity}
     language: greek
   - strongs: G1537
-    proximity: 0.823
+    lemma: ἐκ
+    gloss: literal or figurative {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
     language: greek
   - strongs: G5259
-    proximity: 0.8228
+    lemma: ὑπό
+    gloss: under {openscriptures-strongs}
+    proximity: 0.8228 {macula-proximity}
     language: greek
   - strongs: G2307
-    proximity: 0.8203
+    lemma: θέλημα
+    gloss: a determination (properly {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

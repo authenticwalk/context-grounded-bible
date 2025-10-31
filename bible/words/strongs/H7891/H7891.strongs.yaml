@@ -7,44 +7,64 @@ definition: to sing
 kjv_usage: behold (by mistake for H7789 (שׁוּר)), sing(-er, -ing man, -ing woman).
 derivation: or (the original form) שׁוּר; (1 Samuel 18:6), a primitive root (rather
   identical with H7788 (שׁוּר) through the idea of strolling minstrelsy);
-extended_definition:
-  gloss: to sing
-  definition: 1) to sing<br>1a) (Qal)<br>1a1) to sing<br>1a2) singer, songstresses
-    (participle)<br>1b) (Polel)<br>1b1) to sing<br>1b2) singer, songstress (participle)<br>1c)
-    (Hophal) to be sung
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to sing
+
+  1a) (Qal)
+
+  1a1) to sing
+
+  1a2) singer, songstresses (participle)
+
+  1b) (Polel)
+
+  1b1) to sing
+
+  1b2) singer, songstress (participle)
+
+  1c) (Hophal) to be sung {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H376
-    proximity: 0.8276
+    proximity: 0.8276 {macula-proximity}
   - strongs: H2050b
-    proximity: 0.8274
+    proximity: 0.8274 {macula-proximity}
   - strongs: H2176
-    proximity: 0.8242
+    lemma: זִמְרָת
+    gloss: instrumental music {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: A7624
-    proximity: 0.82
+    proximity: 0.82 {macula-proximity}
   - strongs: H7878
-    proximity: 0.8195
+    lemma: שִׂיחַ
+    gloss: to ponder {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: H2145
-    proximity: 0.8136
+    lemma: זָכָר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: H7445
-    proximity: 0.8009
+    lemma: רְנָנָה
+    gloss: a shout {openscriptures-strongs}
+    proximity: 0.8009 {macula-proximity}
   - strongs: H1984a
-    proximity: 0.7951
+    proximity: 0.7951 {macula-proximity}
   - strongs: H1960
-    proximity: 0.7914
+    lemma: הֻיְּדָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7914 {macula-proximity}
   - strongs: H5058
-    proximity: 0.7681
+    lemma: נְגִינָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7681 {macula-proximity}
   cross_language:
   - strongs: G2532
-    proximity: 0.8183
+    lemma: καί
+    gloss: and {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
     language: greek
   - strongs: G2354
-    proximity: 0.7552
+    lemma: θρηνέω
+    gloss: to bewail {openscriptures-strongs}
+    proximity: 0.7552 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

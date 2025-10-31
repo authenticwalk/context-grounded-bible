@@ -7,49 +7,65 @@ definition: a puff, i.e. wind, angry or vital breath, divine inspiration, intell
   or (concretely) an animal
 kjv_usage: blast, (that) breath(-eth), inspiration, soul, spirit.
 derivation: from H5395 (נָשַׁם);
-extended_definition:
-  gloss: breath
-  definition: '1) breath, spirit<br>1a) breath (of God)<br>1b) breath (of man)<br>1c)
-    every breathing thing<br>1d) spirit (of man)<BR>Aramaic equivalent: <i>nish.ma</i>
-    (נִשְׁמָא "breath" H5396)'
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) breath, spirit
+
+  1a) breath (of God)
+
+  1b) breath (of man)
+
+  1c) every breathing thing
+
+  1d) spirit (of man)
+
+  Aramaic equivalent: nish.ma (נִשְׁמָא "breath" H5396) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1478
-    proximity: 0.8295
+    lemma: גָּוַע
+    gloss: to breathe out {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H2198
-    proximity: 0.8238
+    lemma: זָעֵף
+    gloss: angry {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: A1149
-    proximity: 0.8217
+    proximity: 0.8217 {macula-proximity}
   - strongs: H2416d
-    proximity: 0.8108
+    proximity: 0.8108 {macula-proximity}
   - strongs: A7308
-    proximity: 0.8063
+    proximity: 0.8063 {macula-proximity}
   - strongs: A383
-    proximity: 0.8043
+    proximity: 0.8043 {macula-proximity}
   - strongs: H3808
-    proximity: 0.7913
+    lemma: לֹא
+    gloss: not {openscriptures-strongs}
+    proximity: 0.7913 {macula-proximity}
   - strongs: A2417a
-    proximity: 0.7862
+    proximity: 0.7862 {macula-proximity}
   cross_language:
   - strongs: G5520
-    proximity: 0.827
+    lemma: χολάω
+    gloss: to be bilious {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: greek
   - strongs: G2192
-    proximity: 0.8178
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
     language: greek
   - strongs: G3950
-    proximity: 0.8106
+    lemma: παροργισμός
+    gloss: rage {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: greek
   - strongs: G3762
-    proximity: 0.8084
+    lemma: οὐδείς
+    gloss: not even one (man {openscriptures-strongs}
+    proximity: 0.8084 {macula-proximity}
     language: greek
   - strongs: G1709
-    proximity: 0.7925
+    lemma: ἐμπνέω
+    gloss: to inhale {openscriptures-strongs}
+    proximity: 0.7925 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

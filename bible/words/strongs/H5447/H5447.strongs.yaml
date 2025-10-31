@@ -6,36 +6,38 @@ pronunciation: say'-bel
 definition: a load (literally or figuratively)
 kjv_usage: burden, charge.
 derivation: from H5445 (סָבַל);
-extended_definition:
-  gloss: burden
-  definition: load, burden
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: load, burden {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5445
-    proximity: 0.819
+    lemma: סָבַל
+    gloss: to carry {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   - strongs: H4864
-    proximity: 0.7706
+    lemma: מַשְׂאֵת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7706 {macula-proximity}
   - strongs: H5923
-    proximity: 0.7638
+    lemma: עֹל
+    gloss: a yoke {openscriptures-strongs}
+    proximity: 0.7638 {macula-proximity}
   - strongs: H5449
-    proximity: 0.7304
+    lemma: סַבָּל
+    gloss: a porter {openscriptures-strongs}
+    proximity: 0.7304 {macula-proximity}
   cross_language:
   - strongs: G4
-    proximity: 0.8185
+    proximity: 0.8185 {macula-proximity}
     language: greek
   - strongs: G925
-    proximity: 0.8042
+    proximity: 0.8042 {macula-proximity}
     language: greek
   - strongs: G1912
-    proximity: 0.7831
+    lemma: ἐπιβαρέω
+    gloss: to be heavy upon {openscriptures-strongs}
+    proximity: 0.7831 {macula-proximity}
     language: greek
   - strongs: G926
-    proximity: 0.7714
+    proximity: 0.7714 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

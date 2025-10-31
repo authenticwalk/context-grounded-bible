@@ -6,48 +6,55 @@ definition: to render close-jointed together, i.e. organize compactly
 kjv_usage: be fitly framed (joined) together
 derivation: from G4862 (σύν) and a derivative of a compound of G719 (ἁρμός) and G3004
   (λέγω) (in its original sense of laying);
-extended_definition:
-  gloss: to join
-  definition: '<b>συν-αρμολογέω</b>, -ῶ<BR /> (ἁρμός, λέγω), = cl. συναρμόζω, <BR
-    />to fit or frame  together: of the parts of a building, <ref=''Eph.2.21''>Eph.2:21;</ref>
-    of the members of the body, <ref=''Eph.4.16''>Eph.4:16</ref> (Eccl.).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> συναρμολογέω</b>, <br /> <b>compagino,</b> [<a href="javascript:void(0)"
-    title="“Corpus Glossariorum Latinorum”">Refs</a>]:—<i>passive</i>, <b>to be fitted</b>
-    or <b>framed together,</b> [<a href="javascript:void(0)" title="NT.Eph.2.21, 4.16.
-    ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'συν-αρμολογέω, -ῶ
+
+  (ἁρμός, λέγω), = cl. συναρμόζω,
+
+  to fit or frame  together: of the parts of a building, Eph.2:21; of the members
+  of the body, Eph.4:16 (Eccl.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'συναρμολογέω,
+
+  compagino, [Refs]:—passive, to be fitted or framed together, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A1693
-    proximity: 0.8251
+    proximity: 0.8251 {macula-proximity}
   - strongs: G2111
-    proximity: 0.8243
+    lemma: εὔθετος
+    gloss: well placed {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: G3674
-    proximity: 0.7724
+    lemma: ὁμοῦ
+    gloss: akin to G260 ) as adverb {openscriptures-strongs}
+    proximity: 0.7724 {macula-proximity}
   - strongs: G4786
-    proximity: 0.7648
+    lemma: συγκεράννυμι
+    gloss: to commingle {openscriptures-strongs}
+    proximity: 0.7648 {macula-proximity}
   cross_language:
   - strongs: H1911
-    proximity: 0.8181
+    lemma: הָדָה
+    gloss: to stretch forth the hand {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
     language: hebrew
   - strongs: H3162a
-    proximity: 0.817
+    proximity: 0.817 {macula-proximity}
     language: hebrew
   - strongs: H3179
-    proximity: 0.8145
+    lemma: יָחַם
+    gloss: probably to be hot {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
     language: hebrew
   - strongs: H6316
-    proximity: 0.8116
+    lemma: פּוּט
+    gloss: Put {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
     language: hebrew
   - strongs: H2266
-    proximity: 0.7848
+    lemma: חָבַר
+    gloss: to join {openscriptures-strongs}
+    proximity: 0.7848 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

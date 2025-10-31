@@ -5,53 +5,50 @@ transliteration: kammýō
 definition: to shut down, i.e. close the eyes
 kjv_usage: close
 derivation: from a compound of G2596 (κατά) and the base of G3466 (μυστήριον);
-extended_definition:
-  gloss: to close
-  definition: '<b>καμμύω</b><BR /> (syncopated form of καταμύω, used by Ep. and κοινή
-    writers; Rutherford, <i>NPhr.</i>, 426 f.) [in LXX: <ref=''Isa.6.10''>Isa.6:10</ref>
-    (שָׁעַע hi.) <ref=''Isa.29.10; 33.15''>Isa.29:10 33:15</ref> (עָצַם), <ref=''Lam.3.44''>La
-    3:44</ref> AR* ;] <BR /><b>to shut the eyes</b>: τ. ὀφθαλμούς, <ref=''Mat.13.15''>Mat.13:15</ref>,
-    <ref=''Act.28.27''>Act.28:27</ref> (Isa, l.with).†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> καμμύω</b>, <br /> <i>Epic dialect</i> for καταμύω, variant
-    in [<a href="javascript:void(0)" title=" Batrachomyomachia 191 ">Refs</a>]: also
-    in later Gr., τοὺς ὀφθαλμοὺς ἐκάμμυσαν [<a href="javascript:void(0)" title=" LXX.Isa.6.10,
-    +others, compare 1st c.AD: Philo Judaeus 1.645, 2nd-1st c.BC(?): Hero Mechanicus
-    “Automatopoetica” 22.1, “PMag.Lond.” 121.855 (3rd c.AD), 7th c.AD: Paulus Aegineta
-    Medicus 3.22.29 ">LXX+2nd c.BC+</a>]: <i>perfect</i> κεκάμμυκα [<a href="javascript:void(0)"
-    title=" 2nd c.AD: Apollonius Dyscolus Grammaticus “de Syntaxi;” 323.22: cited
-    from 2nd c.AD: Alexander Rhetor 319 by 2nd c.AD: Phrynichus Atticista, but censured
-    as un- 2nd c.AD: Atticus Philosophus ">Refs 2nd c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'καμμύω
+
+  (syncopated form of καταμύω, used by Ep. and κοινή writers; Rutherford, NPhr., 426
+  f.) [in LXX: Isa.6:10 (שָׁעַע hi.) Isa.29:10 33:15 (עָצַם), La 3:44 AR* ;]
+
+  to shut the eyes: τ. ὀφθαλμούς, Mat.13:15, Act.28:27 (Isa, l.with).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'καμμύω,
+
+  Epic dialect for καταμύω, variant in [Refs]: also in later Gr., τοὺς ὀφθαλμοὺς ἐκάμμυσαν
+  [LXX+2nd c.BC+]: perfect κεκάμμυκα [Refs 2nd c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4428
-    proximity: 0.8264
+    lemma: πτύσσω
+    gloss: and thus apparently allied to G4072  through the idea of expansion {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: G788
-    proximity: 0.7881
+    proximity: 0.7881 {macula-proximity}
   - strongs: G5420
-    proximity: 0.7683
+    lemma: φράσσω
+    gloss: to fence or inclose {openscriptures-strongs}
+    proximity: 0.7683 {macula-proximity}
   cross_language:
   - strongs: H8173
-    proximity: 0.7975
+    lemma: שָׁעַע
+    gloss: to look upon {openscriptures-strongs}
+    proximity: 0.7975 {macula-proximity}
     language: hebrew
   - strongs: H2856
-    proximity: 0.7924
+    lemma: חָתַם
+    gloss: to close up {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
     language: hebrew
   - strongs: H2902a
-    proximity: 0.7911
+    proximity: 0.7911 {macula-proximity}
     language: hebrew
   - strongs: H6113
-    proximity: 0.7898
+    lemma: עָצָר
+    gloss: to inclose {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
     language: hebrew
   - strongs: H331
-    proximity: 0.7637
+    proximity: 0.7637 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

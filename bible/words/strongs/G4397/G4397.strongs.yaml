@@ -5,45 +5,43 @@ transliteration: prophētikós
 definition: pertaining to a foreteller ("prophetic")
 kjv_usage: of prophecy, of the prophets
 derivation: from G4396 (προφήτης);
-extended_definition:
-  gloss: prophetic
-  definition: '<b>προφητικός</b>, -ά, -όν<BR /> (προφήτης), <BR /><b>of prophecy,
-    prophetic</b>: <ref=''Rom.16.26''>Rom.16:26</ref>, <ref=''2Pe.1.19''>2Pe.1:19</ref>.†<BR
-    /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> προφητ-ικός</b>, ή, όν, <br /> <b>oracular, prophetic</b>,
-    ἀνήρ [<a href="javascript:void(0)" title=" 1st c.AD: Philo Judaeus 1.515 ">Refs
-    1st c.AD+</a>]; λόγος[<a href="javascript:void(0)" title=" [prev. work] 95, NT.2Pet.1.19;
-    νοῦς 1st c.AD: Philo Judaeus “Fragmenta” 66H. (_superlative_),compare 2nd c.AD:
-    Lucianus Sophista “Alex.” 60. ">NT+1st c.AD+</a>]<br /><Level3><b>__2</b></Level3>
-    εἰκὼν χαλκῆ π. <b>in the official robes of a</b> προφήτης, [<a href="javascript:void(0)"
-    title=" “Rev.Phil.” 44.38 (from Didyma)">Refs</a>]; so ἠμφιεσμένος π. σχήματι,
-    στολίσας σεαυτὸν π. σχήματι, [<a href="javascript:void(0)" title=" “PMag.Par.”
-    1.933, “PMag.Berol.” 1.278. ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'προφητικός, -ά, -όν
+
+  (προφήτης),
+
+  of prophecy, prophetic: Rom.16:26, 2Pe.1:19.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'προφητ-ικός, ή, όν,
+
+  oracular, prophetic, ἀνήρ [Refs 1st c.AD+]; λόγος[NT+1st c.AD+]
+
+  __2 εἰκὼν χαλκῆ π. in the official robes of a προφήτης, [Refs]; so ἠμφιεσμένος π.
+  σχήματι, στολίσας σεαυτὸν π. σχήματι, [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G40
-    proximity: 0.8184
+    proximity: 0.8184 {macula-proximity}
   - strongs: G4267
-    proximity: 0.7885
+    lemma: προγινώσκω
+    gloss: to know beforehand {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
   - strongs: G4268
-    proximity: 0.7625
+    lemma: πρόγνωσις
+    gloss: forethought {openscriptures-strongs}
+    proximity: 0.7625 {macula-proximity}
   cross_language:
   - strongs: H5197
-    proximity: 0.7688
+    lemma: נָטַף
+    gloss: to ooze {openscriptures-strongs}
+    proximity: 0.7688 {macula-proximity}
     language: hebrew
   - strongs: H5012
-    proximity: 0.7617
+    lemma: נָבָא
+    gloss: to prophesy {openscriptures-strongs}
+    proximity: 0.7617 {macula-proximity}
     language: hebrew
   - strongs: H907a
-    proximity: 0.7515
+    proximity: 0.7515 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

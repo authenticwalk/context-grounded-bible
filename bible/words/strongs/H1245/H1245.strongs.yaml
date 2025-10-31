@@ -8,50 +8,76 @@ definition: to search out (by any method, specifically in worship or prayer); by
 kjv_usage: ask, beg, beseech, desire, enquire, get, make inquisition, procure, (make)
   request, require, seek (for).
 derivation: a primitive root;
-extended_definition:
-  gloss: to seek
-  definition: 1) to seek, require, desire, exact, request<br>1a) (Piel)<br>1a1) to
-    seek to find<br>1a2) to seek to secure<br>1a3) to seek the face<br>1a4) to desire,
-    demand<br>1a5) to require, exact<br>1a6) to ask, request<br>1b) (Pual) to be sought
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to seek, require, desire, exact, request
+
+  1a) (Piel)
+
+  1a1) to seek to find
+
+  1a2) to seek to secure
+
+  1a3) to seek the face
+
+  1a4) to desire, demand
+
+  1a5) to require, exact
+
+  1a6) to ask, request
+
+  1b) (Pual) to be sought {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6250
-    proximity: 0.8274
+    lemma: עֶשְׁתֹּנָה
+    gloss: thinking {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: A1240
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
   - strongs: A1159
-    proximity: 0.8248
+    proximity: 0.8248 {macula-proximity}
   - strongs: H2803
-    proximity: 0.8221
+    lemma: חָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.8213
+    proximity: 0.8213 {macula-proximity}
   - strongs: H1158
-    proximity: 0.8194
+    lemma: בָּעָה
+    gloss: to gush over {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H8469
-    proximity: 0.8193
+    lemma: תַּחֲנוּן
+    gloss: earnest prayer {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H6282
-    proximity: 0.8171
+    lemma: עָתָר
+    gloss: incense {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
   - strongs: H2658
-    proximity: 0.8169
+    lemma: חָפַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: A6739
-    proximity: 0.8128
+    proximity: 0.8128 {macula-proximity}
   cross_language:
   - strongs: G3987
-    proximity: 0.824
+    lemma: πειράω
+    gloss: to test {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
     language: greek
   - strongs: G1014
-    proximity: 0.8192
+    lemma: βούλομαι
+    gloss: to "will {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
     language: greek
   - strongs: G2206
-    proximity: 0.817
+    lemma: ζηλόω
+    gloss: to have warmth of feeling for or against {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
     language: greek
   - strongs: G1793
-    proximity: 0.8119
+    lemma: ἐντυγχάνω
+    gloss: to chance upon {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

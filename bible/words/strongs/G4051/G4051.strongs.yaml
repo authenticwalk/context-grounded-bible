@@ -5,61 +5,71 @@ transliteration: perísseuma
 definition: a surplus, or superabundance
 kjv_usage: abundance, that was left, over and above
 derivation: from G4052 (περισσεύω);
-extended_definition:
-  gloss: overflow
-  definition: '<b>περίσσευμα</b>, -τος, τό<BR /> (περισσεύω) [in LXX: <ref=''Ecc.2.15''>Ecc.2:15</ref>
-    * ;] <BR /><b>that which is over and above, superfluity, abundance</b>: opposite
-    to ὑστέρημα (which see), <ref=''2Co.8.13-14;''>2Co.8:13-14;</ref> pl., <ref=''Mrk.8.8''>Mrk.8:8;</ref>
-    metaphorically, π. τ. καρδίας, <ref=''Mat.12.34''>Mat.12:34</ref>, <ref=''Luk.6.45''>Luk.6:45</ref>
-    (cf. Ec, l.with; Plut., al.).†<BR /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> περίσσ-ευμα</b>, <br /> <i>Attic dialect</i> <b>περίττευμα</b>,
-    ατος, τό, <b>superfluity</b>, [<a href="javascript:void(0)" title=" 4th c.AD:
-    Oribasius Medicus 22.7.1 ">Refs 4th c.AD+</a>]; <b>that which remains over</b>,
-    κλασμάτων [<a href="javascript:void(0)" title=" NT.Mark.8.8 ">NT</a>]; <b>abundance</b>,
-    opposed to ὑστέρημα, [<a href="javascript:void(0)" title=" NT.2Cor.8.14; ἐκ τοῦ
-    περισσεύματος τῆς καρδίας τὸ στόμα λαλεῖ NT.Matt.12.34. ">NT</a>]<br /><Level2><b>__II</b></Level2>
-    ={περίσσωμα}, <b>excrement</b>, [<a href="javascript:void(0)" title=" 2nd c.AD:
-    Soranus Medicus 1.108, _falsa lectio_ in 1st-2nd c.AD: Plutarchus Biographus et
-    Philosophus 2.962f. ">Refs 1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'περίσσευμα, -τος, τό
+
+  (περισσεύω) [in LXX: Ecc.2:15 * ;]
+
+  that which is over and above, superfluity, abundance: opposite to ὑστέρημα (which
+  see), 2Co.8:13-14; pl., Mrk.8:8; metaphorically, π. τ. καρδίας, Mat.12:34, Luk.6:45
+  (cf. Ec, l.with; Plut., al.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'περίσσ-ευμα,
+
+  Attic dialect περίττευμα, ατος, τό, superfluity, [Refs 4th c.AD+]; that which remains
+  over, κλασμάτων [NT]; abundance, opposed to ὑστέρημα, [NT]
+
+  __II ={περίσσωμα}, excrement, [Refs 1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G100
-    proximity: 0.8247
+    proximity: 0.8247 {macula-proximity}
   - strongs: G1954
-    proximity: 0.8107
+    lemma: ἐπίλοιπος
+    gloss: left over {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
   - strongs: G2640a
-    proximity: 0.8072
+    proximity: 0.8072 {macula-proximity}
   - strongs: G1705
-    proximity: 0.8036
+    lemma: ἐμπίπλημι
+    gloss: to fill in {openscriptures-strongs}
+    proximity: 0.8036 {macula-proximity}
   - strongs: G2641
-    proximity: 0.7967
+    lemma: καταλείπω
+    gloss: to leave down {openscriptures-strongs}
+    proximity: 0.7967 {macula-proximity}
   - strongs: G4148
-    proximity: 0.7926
+    lemma: πλουτίζω
+    gloss: to make wealthy {openscriptures-strongs}
+    proximity: 0.7926 {macula-proximity}
   - strongs: G4137
-    proximity: 0.7833
+    lemma: πληρόω
+    gloss: to make replete {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
   cross_language:
   - strongs: H4395
-    proximity: 0.8266
+    lemma: מְלֵאָה
+    gloss: something fulfilled {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
     language: hebrew
   - strongs: H8300
-    proximity: 0.8229
+    lemma: שָׂרִיד
+    gloss: a survivor {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
     language: hebrew
   - strongs: H3502
-    proximity: 0.819
+    lemma: יִתְרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
     language: hebrew
   - strongs: H7605
-    proximity: 0.8123
+    lemma: שְׁאָר
+    gloss: a remainder {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
     language: hebrew
   - strongs: H3527
-    proximity: 0.8098
+    lemma: כָּבַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

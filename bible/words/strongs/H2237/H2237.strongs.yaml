@@ -6,41 +6,49 @@ pronunciation: zaw-rar'
 definition: perhaps to diffuse, i.e. (specifically) to sneeze
 kjv_usage: sneeze.
 derivation: a primitive root (compare H2114 (זוּר));
-extended_definition:
-  gloss: to sneeze
-  definition: (Poel) to sneeze
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Poel) to sneeze {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H332
-    proximity: 0.8274
+    proximity: 0.8274 {macula-proximity}
   - strongs: H2141
-    proximity: 0.8258
+    lemma: זָכַךְ
+    gloss: to be transparent or clean {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H7818
-    proximity: 0.7852
+    lemma: שָׂחַט
+    gloss: to tread out {openscriptures-strongs}
+    proximity: 0.7852 {macula-proximity}
   - strongs: H2893
-    proximity: 0.7734
+    lemma: טׇהֳרָה
+    gloss: ceremonial purification {openscriptures-strongs}
+    proximity: 0.7734 {macula-proximity}
   - strongs: H4935
-    proximity: 0.7226
+    lemma: מִשְׁעִי
+    gloss: inspection {openscriptures-strongs}
+    proximity: 0.7226 {macula-proximity}
   cross_language:
   - strongs: G598
-    proximity: 0.8145
+    proximity: 0.8145 {macula-proximity}
     language: greek
   - strongs: G2514
-    proximity: 0.7778
+    lemma: καθαρότης
+    gloss: cleanness {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
     language: greek
   - strongs: G4918
-    proximity: 0.7773
+    lemma: συνθλίβω
+    gloss: to compress {openscriptures-strongs}
+    proximity: 0.7773 {macula-proximity}
     language: greek
   - strongs: G2511
-    proximity: 0.7734
+    lemma: καθαρίζω
+    gloss: to cleanse {openscriptures-strongs}
+    proximity: 0.7734 {macula-proximity}
     language: greek
   - strongs: G2512
-    proximity: 0.7575
+    lemma: καθαρισμός
+    gloss: a washing off {openscriptures-strongs}
+    proximity: 0.7575 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

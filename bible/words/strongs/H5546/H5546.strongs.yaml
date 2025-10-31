@@ -6,35 +6,37 @@ pronunciation: saw-lawkh'
 definition: placable
 kjv_usage: ready to forgive.
 derivation: from H5545 (סָלַח);
-extended_definition:
-  gloss: forgiving
-  definition: ready to forgive, forgiving
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: ready to forgive, forgiving {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A6263
-    proximity: 0.8244
+    proximity: 0.8244 {macula-proximity}
   - strongs: H2551
-    proximity: 0.8041
+    lemma: חֶמְלָה
+    gloss: commiseration {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
   cross_language:
   - strongs: G2092
-    proximity: 0.8154
+    lemma: ἕτοιμος
+    gloss: adjusted {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
     language: greek
   - strongs: G2093
-    proximity: 0.8057
+    lemma: ἑτοίμως
+    gloss: in readiness {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
     language: greek
   - strongs: G463
-    proximity: 0.8022
+    proximity: 0.8022 {macula-proximity}
     language: greek
   - strongs: G2436
-    proximity: 0.7841
+    lemma: ἵλεως
+    gloss: cheerful {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
     language: greek
   - strongs: G3929
-    proximity: 0.7446
+    lemma: πάρεσις
+    gloss: praetermission {openscriptures-strongs}
+    proximity: 0.7446 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,48 +6,58 @@ pronunciation: der-aw-one'
 definition: an object of aversion
 kjv_usage: abhorring, contempt.
 derivation: or דֵּרָאוֹן; from an unused root (meaning to repulse);
-extended_definition:
-  gloss: abhorrence
-  definition: aversion, abhorrence
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: aversion, abhorrence {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2114a
-    proximity: 0.8236
+    proximity: 0.8236 {macula-proximity}
   - strongs: H5361
-    proximity: 0.814
+    lemma: נָקַע
+    gloss: to feel aversion {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
   - strongs: H8670
-    proximity: 0.809
+    lemma: תְּשׁוּרָה
+    gloss: a gift {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
   - strongs: H4728
-    proximity: 0.8078
+    lemma: מַקָּחָה
+    gloss: something received {openscriptures-strongs}
+    proximity: 0.8078 {macula-proximity}
   - strongs: H9
-    proximity: 0.8055
+    proximity: 0.8055 {macula-proximity}
   - strongs: H1279
-    proximity: 0.803
+    lemma: בִּרְיָה
+    gloss: food {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
   - strongs: H2092
-    proximity: 0.7956
+    lemma: זָהַם
+    gloss: to be rancid {openscriptures-strongs}
+    proximity: 0.7956 {macula-proximity}
   - strongs: H954
-    proximity: 0.7929
+    proximity: 0.7929 {macula-proximity}
   - strongs: H3988
-    proximity: 0.7854
+    lemma: מָאַס
+    gloss: to spurn {openscriptures-strongs}
+    proximity: 0.7854 {macula-proximity}
   - strongs: H937
-    proximity: 0.7823
+    proximity: 0.7823 {macula-proximity}
   cross_language:
   - strongs: G3404
-    proximity: 0.8264
+    lemma: μισέω
+    gloss: to detest {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G4767
-    proximity: 0.821
+    lemma: στυγνητός
+    gloss: hated {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: greek
   - strongs: G947
-    proximity: 0.8026
+    proximity: 0.8026 {macula-proximity}
     language: greek
   - strongs: G1609
-    proximity: 0.7993
+    lemma: ἐκπτύω
+    gloss: to spit out {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

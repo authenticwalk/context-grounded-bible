@@ -7,39 +7,45 @@ definition: a noose (for catching animals) (literally or figuratively); by impli
   a hook (for the nose)
 kjv_usage: be ensnared, gin, (is) snare(-d), trap.
 derivation: or מֹקֵשׁ; from H3369 (יָקֹשׁ);
-extended_definition:
-  gloss: snare
-  definition: bait, lure, snare
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: bait, lure, snare {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4686a
-    proximity: 0.8283
+    proximity: 0.8283 {macula-proximity}
   - strongs: H5914
-    proximity: 0.8058
+    lemma: עֶכֶס
+    gloss: a fetter {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: H7745
-    proximity: 0.804
+    lemma: שׁוּחָה
+    gloss: a chasm {openscriptures-strongs}
+    proximity: 0.804 {macula-proximity}
   - strongs: H4889
-    proximity: 0.7805
+    lemma: מַשְׁחִית
+    gloss: destructive {openscriptures-strongs}
+    proximity: 0.7805 {macula-proximity}
   - strongs: H4686b
-    proximity: 0.7758
+    proximity: 0.7758 {macula-proximity}
   - strongs: H7825
-    proximity: 0.7756
+    lemma: שְׁחִית
+    gloss: a pit-fall {openscriptures-strongs}
+    proximity: 0.7756 {macula-proximity}
   - strongs: H1475
-    proximity: 0.7725
+    lemma: גּוּמָּץ
+    gloss: a pit {openscriptures-strongs}
+    proximity: 0.7725 {macula-proximity}
   - strongs: H7882
-    proximity: 0.7714
+    lemma: שִׁיחָה
+    gloss: a pit-fall {openscriptures-strongs}
+    proximity: 0.7714 {macula-proximity}
   - strongs: H6983
-    proximity: 0.7689
+    lemma: קוֹשׁ
+    gloss: to set a trap {openscriptures-strongs}
+    proximity: 0.7689 {macula-proximity}
   - strongs: H696
-    proximity: 0.7461
+    proximity: 0.7461 {macula-proximity}
   cross_language:
   - strongs: G64
-    proximity: 0.7988
+    proximity: 0.7988 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

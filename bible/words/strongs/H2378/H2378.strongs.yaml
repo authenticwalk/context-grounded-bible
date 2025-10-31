@@ -6,28 +6,28 @@ pronunciation: khaw-zooth'
 definition: a revelation
 kjv_usage: vision.
 derivation: from H2372 (חָזָה);
-extended_definition:
-  gloss: vision
-  definition: visions
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: visions {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7200
-    proximity: 0.8271
+    lemma: רָאָה
+    gloss: to see {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: H2372
-    proximity: 0.7861
+    lemma: חָזָה
+    gloss: to gaze at {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
   - strongs: H4758
-    proximity: 0.776
+    lemma: מַרְאֶה
+    gloss: a view {openscriptures-strongs}
+    proximity: 0.776 {macula-proximity}
   cross_language:
   - strongs: G602
-    proximity: 0.8217
+    proximity: 0.8217 {macula-proximity}
     language: greek
   - strongs: G5400
-    proximity: 0.8084
+    lemma: φόβητρον
+    gloss: a frightening thing {openscriptures-strongs}
+    proximity: 0.8084 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

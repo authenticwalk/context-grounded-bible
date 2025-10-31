@@ -9,21 +9,24 @@ derivation: or מֵזַח; from H2118 (זָחַח);
 related_words:
   synonyms:
   - strongs: A1b
-    proximity: 0.8057
+    proximity: 0.8057 {macula-proximity}
   - strongs: A1886g
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
   - strongs: H4228
-    proximity: 0.7958
+    lemma: מַחֲגֹרֶת
+    gloss: a girdle {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7831
+    proximity: 0.7831 {macula-proximity}
   cross_language:
   - strongs: G4024
-    proximity: 0.7875
+    lemma: περιζώννυμι
+    gloss: to gird all around {openscriptures-strongs}
+    proximity: 0.7875 {macula-proximity}
     language: greek
   - strongs: G2224
-    proximity: 0.7357
+    lemma: ζώννυμι
+    gloss: to bind about {openscriptures-strongs}
+    proximity: 0.7357 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

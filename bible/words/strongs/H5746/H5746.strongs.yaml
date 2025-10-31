@@ -7,34 +7,40 @@ definition: to bake (round cakes on the hearth)
 kjv_usage: bake.
 derivation: a primitive root; properly, to gyrate; but used only as a denominative
   from H5692 (עֻגָּה),
-extended_definition:
-  gloss: to bake
-  definition: (Qal) to bake, bake a cake
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to bake, bake a cake {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2787
-    proximity: 0.8237
+    lemma: חָרַר
+    gloss: to glow {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: H1310
-    proximity: 0.8135
+    lemma: בָּשַׁל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: H8313
-    proximity: 0.7871
+    lemma: שָׂרַף
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7871 {macula-proximity}
   - strongs: H644a
-    proximity: 0.7838
+    proximity: 0.7838 {macula-proximity}
   - strongs: H4227
-    proximity: 0.7748
+    lemma: מַחֲבַת
+    gloss: a pan for baking in {openscriptures-strongs}
+    proximity: 0.7748 {macula-proximity}
   - strongs: H8601
-    proximity: 0.7386
+    lemma: תֻּפִין
+    gloss: cookery {openscriptures-strongs}
+    proximity: 0.7386 {macula-proximity}
   cross_language:
   - strongs: G3702
-    proximity: 0.7444
+    lemma: ὀπτός
+    gloss: cooked {openscriptures-strongs}
+    proximity: 0.7444 {macula-proximity}
     language: greek
   - strongs: G2739
-    proximity: 0.7021
+    lemma: καυματίζω
+    gloss: to burn {openscriptures-strongs}
+    proximity: 0.7021 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

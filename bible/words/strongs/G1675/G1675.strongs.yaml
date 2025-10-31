@@ -5,50 +5,66 @@ transliteration: Hellēnistḗs
 definition: a Hellenist or Greek-speaking Jew
 kjv_usage: Grecian
 derivation: from a derivative of G1672 (Ἕλλην);
-extended_definition:
-  gloss: Hellenist
-  definition: '<b>Ἑλληνιστής</b>, -οῦ, ὁ<BR /> (Ἑλληνίζω, to Hellenize, affect Greek
-    cus­toms), <BR /><b>a Hellenist </b>(RV, Grecian Jew): <ref=''Act.6.1; 9.29; 11.20''>Act.6:1
-    9:29 11:20</ref>.†<BR /> (AS)'
-  morphology: N:N--LG
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b>one who uses the Greek language; </b> i. e., in [<a href="javascript:void(0)"
-    title="New Testament">Refs 1st c.AD</a>], <b>a Hellenist, a Greek-Jew. </b> <br>  (Middle
-    Liddel)
-  source: STEPBible/LSJ
+extended_definition: 'Ἑλληνιστής, -οῦ, ὁ
+
+  (Ἑλληνίζω, to Hellenize, affect Greek cus­toms),
+
+  a Hellenist (RV, Grecian Jew): Act.6:1 9:29 11:20.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'one who uses the Greek language;  i. e., in [Refs 1st c.AD], a Hellenist,
+  a Greek-Jew.
+
+  (Middle Liddel) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1673
-    proximity: 0.8255
+    lemma: Ἑλληνικός
+    gloss: Hellenic {openscriptures-strongs}
+    proximity: 0.8255 {macula-proximity}
   - strongs: G2451
-    proximity: 0.8083
+    lemma: Ἰουδαϊκός
+    gloss: Judaïc {openscriptures-strongs}
+    proximity: 0.8083 {macula-proximity}
   - strongs: G2452
-    proximity: 0.7923
+    lemma: Ἰουδαϊκῶς
+    gloss: Judaïcally or in a manner resembling a Judæan {openscriptures-strongs}
+    proximity: 0.7923 {macula-proximity}
   - strongs: G2450
-    proximity: 0.7818
+    lemma: Ἰουδαΐζω
+    gloss: to become a Judæan {openscriptures-strongs}
+    proximity: 0.7818 {macula-proximity}
   - strongs: G2449
-    proximity: 0.7783
+    lemma: Ἰουδαία
+    gloss: the Judæan land {openscriptures-strongs}
+    proximity: 0.7783 {macula-proximity}
   - strongs: G1445
-    proximity: 0.7747
+    lemma: Ἑβραῖος
+    gloss: a Hebræan  or Jew {openscriptures-strongs}
+    proximity: 0.7747 {macula-proximity}
   - strongs: G1674
-    proximity: 0.7539
+    lemma: Ἑλληνίς
+    gloss: a Grecian  woman {openscriptures-strongs}
+    proximity: 0.7539 {macula-proximity}
   cross_language:
   - strongs: H3063
-    proximity: 0.8279
+    lemma: יְהוּדָה
+    gloss: Jehudah {openscriptures-strongs}
+    proximity: 0.8279 {macula-proximity}
     language: hebrew
   - strongs: H3054
-    proximity: 0.8274
+    lemma: יָהַד
+    gloss: to Judaize {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
     language: hebrew
   - strongs: H3066
-    proximity: 0.8175
+    lemma: יְהוּדִית
+    gloss: the Jewish  language {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: hebrew
   - strongs: H3120
-    proximity: 0.8148
+    lemma: יָוָן
+    gloss: Javan {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

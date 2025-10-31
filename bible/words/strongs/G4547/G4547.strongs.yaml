@@ -5,42 +5,37 @@ transliteration: sandálion
 definition: of uncertain origin); a slipper or sole-pad
 kjv_usage: sandal
 derivation: neuter of a derivative of (a "sandal";
-extended_definition:
-  gloss: sandal
-  definition: '<b>σανδάλιον</b>, -ου, τό<BR /> (dimin. of σάνδαλον, prob. Persian),
-    [in LXX: <ref=''Jos.9.5''>Jos.9:5</ref>, <ref=''Isa.20.2''>Isa.20:2</ref> (נָעַל,
-    elsewhere rendered ὑπόδημα, which see), <ref=''Jdt.10.4; 16.9''>Jdth.10:4 16:9</ref>
-    * ;] <BR /><b>a sandal</b>: <ref=''Mrk.6.9''>Mrk.6:9</ref>, <ref=''Act.12.8''>Act.12:8</ref>.†<BR
-    /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> σανδάλ-ιον</b> [ᾰ], τό, <br /> <i>diminutive</i> of σάνδαλον,
-    mostly in <i>plural</i>, <b>sandals</b>, [<a href="javascript:void(0)" title="
-    5th c.BC: Herodotus Historicus 2.91 (_sing._), 5th c.BC: Cratinus Comicus 131,
-    5th-6th c.BC: Cephisodorus Comicus 4, LXX.Josh.9.5. ">LXX+5th c.BC+</a>]<br /><Level3><b>__2</b></Level3>
-    <b>horseshoe</b>, σ. ὀνικά [<a href="javascript:void(0)" title=" “POxy.” 741.10
-    (2nd c.AD). ">Refs 2nd c.AD+</a>]<br /><Level2><b>__II</b></Level2> a surgical
-    bandage, [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Heliodorus Medicus
-    (?)cited in 4th c.AD: Oribasius Medicus 49.35.3 ">Refs 1st c.AD+</a>], as variant
-    for <b>σανδάλιος</b>, ὁ, which is found also in Heraclas cited in [same work][<a
-    href="javascript:void(0)" title=" 48.4. ">Refs</a>]<br /><Level2><b>__III</b></Level2>
-    see at {σάνδαλον} [<a href="javascript:void(0)" title=" 11. ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'σανδάλιον, -ου, τό
+
+  (dimin. of σάνδαλον, prob. Persian), [in LXX: Jos.9:5, Isa.20:2 (נָעַל, elsewhere
+  rendered ὑπόδημα, which see), Jdth.10:4 16:9 * ;]
+
+  a sandal: Mrk.6:9, Act.12:8.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'σανδάλ-ιον [ᾰ], τό,
+
+  diminutive of σάνδαλον, mostly in plural, sandals, [LXX+5th c.BC+]
+
+  __2 horseshoe, σ. ὀνικά [Refs 2nd c.AD+]
+
+  __II a surgical bandage, [Refs 1st c.AD+], as variant for σανδάλιος, ὁ, which is
+  found also in Heraclas cited in [same work][Refs]
+
+  __III see at {σάνδαλον} [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2438
-    proximity: 0.8056
+    lemma: ἱμάς
+    gloss: a strap {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   cross_language:
   - strongs: H4515
-    proximity: 0.7917
+    lemma: מִנְעָל
+    gloss: a bolt {openscriptures-strongs}
+    proximity: 0.7917 {macula-proximity}
     language: hebrew
   - strongs: H5274a
-    proximity: 0.7224
+    proximity: 0.7224 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

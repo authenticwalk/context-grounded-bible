@@ -6,51 +6,59 @@ pronunciation: daw-bake'
 definition: adhering
 kjv_usage: cleave, joining, stick closer.
 derivation: from H1692 (דָּבַק);
-extended_definition:
-  gloss: cleaving
-  definition: clinging, adhering to
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: clinging, adhering to {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H529a
-    proximity: 0.8281
+    proximity: 0.8281 {macula-proximity}
   - strongs: H8172
-    proximity: 0.8202
+    lemma: שָׁעַן
+    gloss: to support one's self {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   - strongs: H2266
-    proximity: 0.8116
+    lemma: חָבַר
+    gloss: to join {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   - strongs: H4229a
-    proximity: 0.8081
+    proximity: 0.8081 {macula-proximity}
   - strongs: H982
-    proximity: 0.8023
+    proximity: 0.8023 {macula-proximity}
   - strongs: H4937
-    proximity: 0.7949
+    lemma: מִשְׁעֵן
+    gloss: a support {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
   - strongs: H4009
-    proximity: 0.7845
+    lemma: מִבְטָח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7845 {macula-proximity}
   - strongs: H5060
-    proximity: 0.7664
+    lemma: נָגַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7664 {macula-proximity}
   - strongs: H6684
-    proximity: 0.762
+    lemma: צוּם
+    gloss: to cover over {openscriptures-strongs}
+    proximity: 0.762 {macula-proximity}
   - strongs: H6685
-    proximity: 0.7587
+    lemma: צוֹם
+    gloss: a fast {openscriptures-strongs}
+    proximity: 0.7587 {macula-proximity}
   cross_language:
   - strongs: G4347a
-    proximity: 0.8297
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G472
-    proximity: 0.8295
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G190
-    proximity: 0.8255
+    proximity: 0.8255 {macula-proximity}
     language: greek
   - strongs: G3522
-    proximity: 0.81
+    lemma: νηστεύω
+    gloss: to abstain from food {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
     language: greek
   - strongs: G680
-    proximity: 0.7687
+    proximity: 0.7687 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

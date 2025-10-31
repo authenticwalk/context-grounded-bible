@@ -6,23 +6,25 @@ pronunciation: moosh
 definition: to touch
 kjv_usage: feel, handle.
 derivation: a primitive root;
-extended_definition:
-  gloss: to feel
-  definition: 1) to feel<br>1a) (Qal) to feel<br>1b) (Hiphil) to feel
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to feel
+
+  1a) (Qal) to feel
+
+  1b) (Hiphil) to feel {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H8542
-    proximity: 0.8089
+    lemma: תַּמּוּז
+    gloss: Tammuz {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: H5060
-    proximity: 0.7712
+    lemma: נָגַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7712 {macula-proximity}
   - strongs: H6213a
-    proximity: 0.7504
+    proximity: 0.7504 {macula-proximity}
   - strongs: H1659
-    proximity: 0.75
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: גָּשַׁשׁ
+    gloss: to feel about {openscriptures-strongs}
+    proximity: 0.75 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

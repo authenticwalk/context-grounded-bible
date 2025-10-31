@@ -7,46 +7,61 @@ definition: properly, to plait together, i.e. (figuratively) to augment (especia
   in number or quantity, to accumulate)
 kjv_usage: in abundance, multiply.
 derivation: a primitive root;
-extended_definition:
-  gloss: to multiply
-  definition: 1) to be much, be many, be in abundance, intertwine, multiply<br>1a)
-    (Hiphil) to make many, make great
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be much, be many, be in abundance, intertwine, multiply
+
+  1a) (Hiphil) to make many, make great {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1879
-    proximity: 0.8257
+    lemma: דָּשֵׁן
+    gloss: fat {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H3966
-    proximity: 0.8231
+    lemma: מְאֹד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H7310
-    proximity: 0.8141
+    lemma: רְוָיָה
+    gloss: satisfaction {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: H2633
-    proximity: 0.811
+    lemma: חֹסֶן
+    gloss: wealth {openscriptures-strongs}
+    proximity: 0.811 {macula-proximity}
   - strongs: H7062
-    proximity: 0.8079
+    lemma: קֹמֶץ
+    gloss: a grasp {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
   - strongs: H1995
-    proximity: 0.7989
+    lemma: הָמוֹן
+    gloss: a noise {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
   - strongs: H8230b
-    proximity: 0.7916
+    proximity: 0.7916 {macula-proximity}
   cross_language:
   - strongs: G4147
-    proximity: 0.828
+    lemma: πλουτέω
+    gloss: to be  wealthy {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
     language: greek
   - strongs: G4146
-    proximity: 0.8223
+    lemma: πλουσίως
+    gloss: copiously {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G4051
-    proximity: 0.8098
+    lemma: περίσσευμα
+    gloss: a surplus {openscriptures-strongs}
+    proximity: 0.8098 {macula-proximity}
     language: greek
   - strongs: G2164
-    proximity: 0.7824
+    lemma: εὐφορέω
+    gloss: to bear well {openscriptures-strongs}
+    proximity: 0.7824 {macula-proximity}
     language: greek
   - strongs: G4052
-    proximity: 0.7741
+    lemma: περισσεύω
+    gloss: to superabound {openscriptures-strongs}
+    proximity: 0.7741 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

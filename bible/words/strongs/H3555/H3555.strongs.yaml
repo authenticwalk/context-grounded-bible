@@ -6,48 +6,62 @@ pronunciation: kev-ee-yaw'
 definition: a branding
 kjv_usage: burning.
 derivation: from H3554 (כָּוָה);
-extended_definition:
-  gloss: burning
-  definition: burning, branding, branding scar, burn
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: burning, branding, branding scar, burn {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H181
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
   - strongs: H5400
-    proximity: 0.8194
+    lemma: נָשַׂק
+    gloss: to catch fire {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
   - strongs: H4168
-    proximity: 0.8129
+    lemma: מוֹקֵד
+    gloss: a fire or fuel {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: H6482
-    proximity: 0.8129
+    lemma: פֶּצַע
+    gloss: a wound {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
   - strongs: H2152
-    proximity: 0.811
+    lemma: זַלְעָפָה
+    gloss: a glow {openscriptures-strongs}
+    proximity: 0.811 {macula-proximity}
   - strongs: H1253
-    proximity: 0.8106
+    lemma: בֹּר
+    gloss: vegetable lye {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
   - strongs: H2787
-    proximity: 0.8087
+    lemma: חָרַר
+    gloss: to glow {openscriptures-strongs}
+    proximity: 0.8087 {macula-proximity}
   - strongs: H8316
-    proximity: 0.8042
+    lemma: שְׂרֵפָה
+    gloss: cremation {openscriptures-strongs}
+    proximity: 0.8042 {macula-proximity}
   - strongs: A3345
-    proximity: 0.7992
+    proximity: 0.7992 {macula-proximity}
   - strongs: H1197
-    proximity: 0.7968
+    lemma: בָּעַר
+    gloss: to kindle {openscriptures-strongs}
+    proximity: 0.7968 {macula-proximity}
   cross_language:
   - strongs: G381
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G2618
-    proximity: 0.8034
+    lemma: κατακαίω
+    gloss: to burn down {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
     language: greek
   - strongs: G2741
-    proximity: 0.7927
+    lemma: καυσόω
+    gloss: to set on fire {openscriptures-strongs}
+    proximity: 0.7927 {macula-proximity}
     language: greek
   - strongs: G4448
-    proximity: 0.7925
+    lemma: πυρόω
+    gloss: to kindle {openscriptures-strongs}
+    proximity: 0.7925 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

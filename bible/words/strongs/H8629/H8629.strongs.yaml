@@ -6,37 +6,45 @@ pronunciation: tay-kah'
 definition: a blast of a trumpet
 kjv_usage: sound.
 derivation: from H8628 (תָּקַע);
-extended_definition:
-  gloss: blast
-  definition: sound, blast (of horn), trumpet blast
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: sound, blast (of horn), trumpet blast {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7711
-    proximity: 0.825
+    lemma: שְׁדֵפָה
+    gloss: blight {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: H8102
-    proximity: 0.8227
+    lemma: שֶׁמֶץ
+    gloss: an inkling {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
   - strongs: A7162
-    proximity: 0.7702
+    proximity: 0.7702 {macula-proximity}
   - strongs: H6682
-    proximity: 0.747
+    lemma: צְוָחָה
+    gloss: a screech {openscriptures-strongs}
+    proximity: 0.747 {macula-proximity}
   - strongs: H8619
-    proximity: 0.7192
+    lemma: תָּקוֹעַ
+    gloss: a trumpet {openscriptures-strongs}
+    proximity: 0.7192 {macula-proximity}
   - strongs: H2689
-    proximity: 0.7143
+    lemma: חֲצֹצְרָה
+    gloss: a trumpet {openscriptures-strongs}
+    proximity: 0.7143 {macula-proximity}
   cross_language:
   - strongs: G2278
-    proximity: 0.7833
+    lemma: ἠχέω
+    gloss: to make a loud noise {openscriptures-strongs}
+    proximity: 0.7833 {macula-proximity}
     language: greek
   - strongs: G1837
-    proximity: 0.7565
+    lemma: ἐξηχέομαι
+    gloss: to "echo" forth {openscriptures-strongs}
+    proximity: 0.7565 {macula-proximity}
     language: greek
   - strongs: G5353
-    proximity: 0.7195
+    lemma: φθόγγος
+    gloss: utterance {openscriptures-strongs}
+    proximity: 0.7195 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

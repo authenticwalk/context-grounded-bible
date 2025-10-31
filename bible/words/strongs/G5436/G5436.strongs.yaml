@@ -5,27 +5,26 @@ transliteration: Phýgellos
 definition: fugitive; Phygellus, an apostate Christian
 kjv_usage: Phygellus
 derivation: probably from G5343 (φεύγω);
-extended_definition:
-  gloss: Phygelus
-  definition: '<b>φύγελος</b> (Rec. -λλος), -ου, ὁ <BR /> <b>Phygelus</b>: <ref=''2Ti.1.15.''>2Ti.1:15.</ref>†<BR
-    /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>φύγελος</b> (Rec. -λλος), -ου, ὁ <BR /> <b>Phygelus</b>: <ref=''2Ti.1.15.''>2Ti.1:15.</ref>†<BR
-    />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'φύγελος (Rec. -λλος), -ου, ὁ
+
+  Phygelus: 2Ti.1:15.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'φύγελος (Rec. -λλος), -ου, ὁ
+
+  Phygelus: 2Ti.1:15.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3066
-    proximity: 0.8222
+    lemma: Λούκιος
+    gloss: illuminative {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   cross_language:
   - strongs: H3870
-    proximity: 0.7804
+    lemma: לוּז
+    gloss: Luz {openscriptures-strongs}
+    proximity: 0.7804 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

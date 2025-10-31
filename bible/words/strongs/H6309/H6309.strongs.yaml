@@ -6,27 +6,29 @@ pronunciation: peh'der
 definition: suet
 kjv_usage: fat.
 derivation: from an unused root meaning to be greasy;
-extended_definition:
-  gloss: suet
-  definition: fat, suet
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: fat, suet {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4924a
-    proximity: 0.8291
+    proximity: 0.8291 {macula-proximity}
   - strongs: H8081
-    proximity: 0.8105
+    lemma: שֶׁמֶן
+    gloss: grease {openscriptures-strongs}
+    proximity: 0.8105 {macula-proximity}
   - strongs: H1880
-    proximity: 0.7878
+    lemma: דֶּשֶׁן
+    gloss: the fat {openscriptures-strongs}
+    proximity: 0.7878 {macula-proximity}
   - strongs: H8080
-    proximity: 0.7411
+    lemma: שָׁמַן
+    gloss: to shine {openscriptures-strongs}
+    proximity: 0.7411 {macula-proximity}
   - strongs: H6371
-    proximity: 0.7329
+    lemma: פִּימָה
+    gloss: obesity {openscriptures-strongs}
+    proximity: 0.7329 {macula-proximity}
   - strongs: H4374
-    proximity: 0.7309
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: מְכַסֶּה
+    gloss: a covering {openscriptures-strongs}
+    proximity: 0.7309 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,52 +5,60 @@ transliteration: Tarseús
 definition: a Tarsean, i.e. native of Tarsus
 kjv_usage: of Tarsus
 derivation: from G5019 (Ταρσός);
-extended_definition:
-  gloss: of Tarsus
-  definition: '<b>Ταρσεύς</b>, -έως, ὁ<BR /> (Ταρσός), <BR /><b>of Tarsus</b>: <ref=''Act.9.11;
-    21.39''>Act.9:11 21:39</ref>.†<BR /> (AS)'
-  morphology: N:N-M-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Ταρσεύς</b>, -έως, ὁ<BR /> (Ταρσός), <BR /><b>of Tarsus</b>:
-    <ref=''Act.9.11; 21.39''>Act.9:11 21:39</ref>.†<BR />  (From Abbott-Smith. LSJ
-    has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Ταρσεύς, -έως, ὁ
+
+  (Ταρσός),
+
+  of Tarsus: Act.9:11 21:39.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Ταρσεύς, -έως, ὁ
+
+  (Ταρσός),
+
+  of Tarsus: Act.9:11 21:39.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A3061
-    proximity: 0.8296
+    proximity: 0.8296 {macula-proximity}
   - strongs: G2244
-    proximity: 0.829
+    lemma: ἡλικία
+    gloss: maturity {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: G491
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
   - strongs: G3175
-    proximity: 0.8254
+    lemma: μεγιστᾶνες
+    gloss: grandees {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
   - strongs: G961
-    proximity: 0.8217
+    proximity: 0.8217 {macula-proximity}
   - strongs: A7801
-    proximity: 0.8217
+    proximity: 0.8217 {macula-proximity}
   - strongs: A756
-    proximity: 0.8163
+    proximity: 0.8163 {macula-proximity}
   - strongs: A999
-    proximity: 0.8153
+    proximity: 0.8153 {macula-proximity}
   - strongs: G575
-    proximity: 0.8116
+    proximity: 0.8116 {macula-proximity}
   - strongs: G774
-    proximity: 0.8043
+    proximity: 0.8043 {macula-proximity}
   cross_language:
   - strongs: H4067
-    proximity: 0.8284
+    lemma: מָדוֹן
+    gloss: extensiveness {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
     language: hebrew
   - strongs: H4480
-    proximity: 0.8106
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: hebrew
   - strongs: H1397
-    proximity: 0.7776
+    lemma: גֶּבֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7776 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

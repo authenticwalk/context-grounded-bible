@@ -6,36 +6,45 @@ pronunciation: raw-thakh'
 definition: to boil
 kjv_usage: boil.
 derivation: a primitive root;
-extended_definition:
-  gloss: to boil
-  definition: 1) to boil<br>1a) (Piel) to cause to boil<br>1b) (Pual) to be made to
-    boil<br>1c) (Hiphil) to cause to boil
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to boil
+
+  1a) (Piel) to cause to boil
+
+  1b) (Pual) to be made to boil
+
+  1c) (Hiphil) to cause to boil {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7822
-    proximity: 0.8233
+    lemma: שְׁחִין
+    gloss: inflammation {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H1310
-    proximity: 0.8173
+    lemma: בָּשַׁל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
   - strongs: H1311
-    proximity: 0.809
+    lemma: בָּשֵׁל
+    gloss: boiled {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
   - strongs: H3708a
-    proximity: 0.7973
+    proximity: 0.7973 {macula-proximity}
   - strongs: H1158a
-    proximity: 0.7897
+    proximity: 0.7897 {macula-proximity}
   - strongs: H2560
-    proximity: 0.7792
+    lemma: חָמַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7792 {macula-proximity}
   - strongs: H5301
-    proximity: 0.7284
+    lemma: נָפַח
+    gloss: to puff {openscriptures-strongs}
+    proximity: 0.7284 {macula-proximity}
   - strongs: H6349
-    proximity: 0.7185
+    lemma: פַּחַז
+    gloss: ebullition {openscriptures-strongs}
+    proximity: 0.7185 {macula-proximity}
   cross_language:
   - strongs: G5182a
-    proximity: 0.7537
+    proximity: 0.7537 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,48 +6,60 @@ pronunciation: shah'-ee
 definition: a gift (as available)
 kjv_usage: present.
 derivation: probably from H7737 (שָׁוָה);
-extended_definition:
-  gloss: gift
-  definition: gift, present, gift offered as homage
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: gift, present, gift offered as homage {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1293
-    proximity: 0.8266
+    lemma: בְּרָכָה
+    gloss: benediction {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: H2077
-    proximity: 0.8108
+    lemma: זֶבַח
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
   - strongs: A5260
-    proximity: 0.8079
+    proximity: 0.8079 {macula-proximity}
   - strongs: H8573
-    proximity: 0.8026
+    lemma: תְּנוּפָה
+    gloss: a brandishing {openscriptures-strongs}
+    proximity: 0.8026 {macula-proximity}
   - strongs: A4061
-    proximity: 0.7976
+    proximity: 0.7976 {macula-proximity}
   - strongs: H2076
-    proximity: 0.7881
+    lemma: זָבַח
+    gloss: to slaughter an animal {openscriptures-strongs}
+    proximity: 0.7881 {macula-proximity}
   - strongs: H2598
-    proximity: 0.7797
+    lemma: חֲנֻכָּה
+    gloss: initiation {openscriptures-strongs}
+    proximity: 0.7797 {macula-proximity}
   - strongs: A4061a
-    proximity: 0.7665
+    proximity: 0.7665 {macula-proximity}
   - strongs: A1684
-    proximity: 0.7525
+    proximity: 0.7525 {macula-proximity}
   - strongs: H7133
-    proximity: 0.7513
+    lemma: קׇרְבָּן
+    gloss: something brought near the altar {openscriptures-strongs}
+    proximity: 0.7513 {macula-proximity}
   cross_language:
   - strongs: G5486
-    proximity: 0.8117
+    lemma: χάρισμα
+    gloss: a  gratuity {openscriptures-strongs}
+    proximity: 0.8117 {macula-proximity}
     language: greek
   - strongs: G2378
-    proximity: 0.7925
+    lemma: θυσία
+    gloss: sacrifice (the act or the victim {openscriptures-strongs}
+    proximity: 0.7925 {macula-proximity}
     language: greek
   - strongs: G1434
-    proximity: 0.7614
+    lemma: δώρημα
+    gloss: a bestowment {openscriptures-strongs}
+    proximity: 0.7614 {macula-proximity}
     language: greek
   - strongs: G1431
-    proximity: 0.7407
+    lemma: δωρεά
+    gloss: a gratuity {openscriptures-strongs}
+    proximity: 0.7407 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

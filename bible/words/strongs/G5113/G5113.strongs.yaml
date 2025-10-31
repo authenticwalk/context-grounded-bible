@@ -5,56 +5,66 @@ transliteration: tolmētḗs
 definition: a daring (audacious) man
 kjv_usage: presumptuous
 derivation: from G5111 (τολμάω);
-extended_definition:
-  gloss: bold man
-  definition: '<b>τολμητής</b>, -οῦ, ὁ <BR /> (τολμάω), <BR /><b>a bold, daring man</b>:
-    <ref=''2Pe.2.10''>2Pe.2:10</ref> (Thuc.).†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> τολμ-ητής</b>, οῦ, ὁ, <br /> <b>bold, venturous man,</b> [<a
-    href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus 1.70, 1st c.AD:
-    Philo Judaeus 2.72, 1st c.AD: Josephus Historicus “Antiquitates Judaicae” 20.9.1,
-    4th c.AD: Adamantius Physiognomonicus 2.5; θυμὸς τ. “Anthologia Graeca” 9.678.
-    ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'τολμητής, -οῦ, ὁ
+
+  (τολμάω),
+
+  a bold, daring man: 2Pe.2:10 (Thuc.).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'τολμ-ητής, οῦ, ὁ,
+
+  bold, venturous man, [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A2103
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
   - strongs: G829
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
   - strongs: G5246
-    proximity: 0.7888
+    lemma: ὑπέρογκος
+    gloss: bulging over {openscriptures-strongs}
+    proximity: 0.7888 {macula-proximity}
   - strongs: G2992
-    proximity: 0.7873
+    lemma: λαός
+    gloss: a people (in general {openscriptures-strongs}
+    proximity: 0.7873 {macula-proximity}
   - strongs: G5309
-    proximity: 0.7847
+    lemma: ὑψηλοφρονέω
+    gloss: to be lofty in mind {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
   - strongs: G5112
-    proximity: 0.7801
+    lemma: τολμηρότερον
+    gloss: more daringly {openscriptures-strongs}
+    proximity: 0.7801 {macula-proximity}
   - strongs: G2292
-    proximity: 0.776
+    lemma: θαῤῥέω
+    gloss: to exercise courage {openscriptures-strongs}
+    proximity: 0.776 {macula-proximity}
   - strongs: A5972
-    proximity: 0.7302
+    proximity: 0.7302 {macula-proximity}
   cross_language:
   - strongs: H6075
-    proximity: 0.8202
+    lemma: עָפַל
+    gloss: to swell {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
     language: hebrew
   - strongs: H2974
-    proximity: 0.8169
+    lemma: יָאַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
     language: hebrew
   - strongs: H3093
-    proximity: 0.8075
+    lemma: יָהִיר
+    gloss: elated {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
     language: hebrew
   - strongs: H5971
-    proximity: 0.7732
+    lemma: עַם
+    gloss: a people {openscriptures-strongs}
+    proximity: 0.7732 {macula-proximity}
     language: hebrew
   - strongs: H5971a
-    proximity: 0.7702
+    proximity: 0.7702 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

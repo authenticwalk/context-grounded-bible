@@ -6,33 +6,35 @@ pronunciation: mif-tawn'
 definition: a stretcher, i.e. a sill
 kjv_usage: threshold.
 derivation: from the same as H6620 (פֶּתֶן);
-extended_definition:
-  gloss: threshold
-  definition: threshold
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: threshold {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2978a
-    proximity: 0.8181
+    proximity: 0.8181 {macula-proximity}
   - strongs: H8179
-    proximity: 0.7357
+    lemma: שַׁעַר
+    gloss: an opening {openscriptures-strongs}
+    proximity: 0.7357 {macula-proximity}
   - strongs: H872
-    proximity: 0.7295
+    proximity: 0.7295 {macula-proximity}
   - strongs: H5646
-    proximity: 0.7019
+    lemma: עָב
+    gloss: an architrave {openscriptures-strongs}
+    proximity: 0.7019 {macula-proximity}
   cross_language:
   - strongs: G4439
-    proximity: 0.7937
+    lemma: πύλη
+    gloss: a gate {openscriptures-strongs}
+    proximity: 0.7937 {macula-proximity}
     language: greek
   - strongs: G2374
-    proximity: 0.7724
+    lemma: θύρα
+    gloss: a portal or entrance (the opening or the closure {openscriptures-strongs}
+    proximity: 0.7724 {macula-proximity}
     language: greek
   - strongs: G4440
-    proximity: 0.7707
+    lemma: πυλών
+    gloss: a gate-way {openscriptures-strongs}
+    proximity: 0.7707 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

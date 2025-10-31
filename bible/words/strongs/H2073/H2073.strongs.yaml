@@ -6,47 +6,66 @@ pronunciation: ze-bool'
 definition: a residence
 kjv_usage: dwell in, dwelling, habitation.
 derivation: or זְבֻל; from H2082 (זָבַל);
-extended_definition:
-  gloss: elevation
-  definition: exalted, residence, elevation, lofty abode, height, habitation
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: exalted, residence, elevation, lofty abode, height, habitation
+  {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4186
-    proximity: 0.8265
+    lemma: מוֹשָׁב
+    gloss: a seat {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
   - strongs: H4999
-    proximity: 0.8202
+    lemma: נָאָה
+    gloss: a home {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
   - strongs: H7675
-    proximity: 0.7928
+    lemma: שֶׁבֶת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7928 {macula-proximity}
   - strongs: H5520
-    proximity: 0.7713
+    lemma: סֹךְ
+    gloss: a hut {openscriptures-strongs}
+    proximity: 0.7713 {macula-proximity}
   - strongs: H7931
-    proximity: 0.7702
+    lemma: שָׁכַן
+    gloss: to reside or permanently stay {openscriptures-strongs}
+    proximity: 0.7702 {macula-proximity}
   - strongs: H5131
-    proximity: 0.7676
+    lemma: נוֹף
+    gloss: elevation {openscriptures-strongs}
+    proximity: 0.7676 {macula-proximity}
   - strongs: H7258
-    proximity: 0.7481
+    lemma: רֵבֶץ
+    gloss: a couch or place of repose {openscriptures-strongs}
+    proximity: 0.7481 {macula-proximity}
   - strongs: H4349
-    proximity: 0.7462
+    lemma: מָכוֹן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7462 {macula-proximity}
   cross_language:
   - strongs: G1886
-    proximity: 0.8281
+    lemma: ἔπαυλις
+    gloss: a hut over the head {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: greek
   - strongs: G3772
-    proximity: 0.8191
+    lemma: οὐρανός
+    gloss: the sky {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
     language: greek
   - strongs: G4633
-    proximity: 0.8185
+    lemma: σκηνή
+    gloss: a tent or cloth hut {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
     language: greek
   - strongs: G2731
-    proximity: 0.805
+    lemma: κατοίκησις
+    gloss: residence (properly {openscriptures-strongs}
+    proximity: 0.805 {macula-proximity}
     language: greek
   - strongs: G2733
-    proximity: 0.8008
+    lemma: κατοικία
+    gloss: residence (properly {openscriptures-strongs}
+    proximity: 0.8008 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

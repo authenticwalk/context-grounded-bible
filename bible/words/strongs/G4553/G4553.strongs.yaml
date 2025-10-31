@@ -5,39 +5,34 @@ transliteration: sargánē
 definition: a basket (as interwoven or wicker-work
 kjv_usage: basket
 derivation: apparently of Hebrew origin (H08276);
-extended_definition:
-  gloss: basket
-  definition: '<b>σαργάνη</b>, -ης, ἡ <BR /> __1. a plaited rope (Æsch.). <BR /> __2.
-    <b>a hamper, a basket made of ropes</b>: <ref=''2Co.11.33.''>2Co.11:33.</ref>†<BR
-    /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> σαργάν-η</b> [γᾰ], ἡ,<br /> = ταργάνη, <b>plait, braid</b>,
-    [<a href="javascript:void(0)" title=" 4th-5th c.BC: Aeschylus Tragicus “Supplices”
-    788 codices (Lyric poetry). ">Refs 4th c.BC+</a>]<br /><Level3><b>__2</b></Level3>
-    <b>basket</b>, [<a href="javascript:void(0)" title=" 4th c.BC: Aeneas Tacticus
-    29.6, 4th c.BC: Timocles Comicus 21.7, NT.2Cor.11.33, 2nd c.AD: Lucianus Sophista
-    “Lex.” 6, “PFlor.” 269.7 (3rd c.AD), “PLond.” 2.236.11 (4th c.AD):—see. σάρκινος
-    111. ">NT+4th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'σαργάνη, -ης, ἡ
+
+  __1. a plaited rope (Æsch.).
+
+  __2. a hamper, a basket made of ropes: 2Co.11:33.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'σαργάν-η [γᾰ], ἡ,
+
+  = ταργάνη, plait, braid, [Refs 4th c.BC+]
+
+  __2 basket, [NT+4th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G3426
-    proximity: 0.7579
+    lemma: μόδιος
+    gloss: a modius {openscriptures-strongs}
+    proximity: 0.7579 {macula-proximity}
   cross_language:
   - strongs: H374
-    proximity: 0.7884
+    proximity: 0.7884 {macula-proximity}
     language: hebrew
   - strongs: H7991a
-    proximity: 0.7708
+    proximity: 0.7708 {macula-proximity}
     language: hebrew
   - strongs: H5552
-    proximity: 0.7162
+    lemma: סַלְסִלָּה
+    gloss: a twig {openscriptures-strongs}
+    proximity: 0.7162 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

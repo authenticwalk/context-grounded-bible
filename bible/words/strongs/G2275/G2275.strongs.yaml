@@ -5,53 +5,65 @@ transliteration: hḗttēma
 definition: a deterioration, i.e. (objectively) failure or (subjectively) loss
 kjv_usage: diminishing, fault
 derivation: from G2274 (ἡττάω);
-extended_definition:
-  gloss: loss
-  definition: '<b>ἥττημα</b>, -τος, τό <BR /> [in LXX for מַס, <ref=''Isa.31.8''>Isa.31:8</ref>
-    * ;] <BR /><b>defect, loss, defeat</b>: <ref=''Rom.11.12''>Rom.11:12</ref> (cf.
-    Isa, l.with), <ref=''1Co.6.7''>1Co.6:7</ref> (cf. Field, <i>Notes</i>, 160 f.,
-    171 f.; Lft., <i>Notes</i>, 212).†<BR /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἥττημα</b>, ατος, τό, <br /> <b>discomfiture</b>, [<a href="javascript:void(0)"
-    title=" LXX.Isa.31.8 ">LXX</a>]; <b>loss</b>, [<a href="javascript:void(0)" title="
-    NT.1Cor.6.7 ">NT</a>]: <b>ἥττησις</b>, εως, ἡ, = {ἧττα}, [<a href="javascript:void(0)"
-    title=" 10th c.AD: Suidas Legal icographus see at {ἧττα}. ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἥττημα, -τος, τό
+
+  [in LXX for מַס, Isa.31:8 * ;]
+
+  defect, loss, defeat: Rom.11:12 (cf. Isa, l.with), 1Co.6:7 (cf. Field, Notes, 160
+  f., 171 f.; Lft., Notes, 212).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἥττημα, ατος, τό,
+
+  discomfiture, [LXX]; loss, [NT]: ἥττησις, εως, ἡ, = {ἧττα}, [Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5302
-    proximity: 0.8124
+    lemma: ὑστερέω
+    gloss: to be later {openscriptures-strongs}
+    proximity: 0.8124 {macula-proximity}
   - strongs: G3007
-    proximity: 0.796
+    lemma: λείπω
+    gloss: to leave {openscriptures-strongs}
+    proximity: 0.796 {macula-proximity}
   - strongs: G1641
-    proximity: 0.7848
+    lemma: ἐλαττονέω
+    gloss: to diminish {openscriptures-strongs}
+    proximity: 0.7848 {macula-proximity}
   - strongs: G5304
-    proximity: 0.7808
+    lemma: ὑστέρησις
+    gloss: a falling short {openscriptures-strongs}
+    proximity: 0.7808 {macula-proximity}
   - strongs: G2871
-    proximity: 0.7484
+    lemma: κοπή
+    gloss: cutting {openscriptures-strongs}
+    proximity: 0.7484 {macula-proximity}
   - strongs: G5303
-    proximity: 0.7331
+    lemma: ὑστέρημα
+    gloss: a deficit {openscriptures-strongs}
+    proximity: 0.7331 {macula-proximity}
   cross_language:
   - strongs: H2639
-    proximity: 0.8201
+    lemma: חֶסֶר
+    gloss: lack {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: hebrew
   - strongs: H4131
-    proximity: 0.809
+    lemma: מוֹט
+    gloss: to waver {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
     language: hebrew
   - strongs: H5737a
-    proximity: 0.8015
+    proximity: 0.8015 {macula-proximity}
     language: hebrew
   - strongs: H2638
-    proximity: 0.7862
+    lemma: חָסֵר
+    gloss: lacking {openscriptures-strongs}
+    proximity: 0.7862 {macula-proximity}
     language: hebrew
   - strongs: H4544
-    proximity: 0.7796
+    lemma: מִסְכֵּנֻת
+    gloss: indigence {openscriptures-strongs}
+    proximity: 0.7796 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

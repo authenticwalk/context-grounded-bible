@@ -7,52 +7,73 @@ definition: to be alert, i.e. sleepless; hence to be on the lookout (whether for
   or ill)
 kjv_usage: hasten, remain, wake, watch (for).
 derivation: a primitive root;
-extended_definition:
-  gloss: to watch
-  definition: 1) to wake, watch, awake, be alert<br>1a) (Qal)<br>1a1) to keep watch
-    of, be wakeful over<br>1a2) to be wakeful, wake (as mourner or sufferer)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to wake, watch, awake, be alert
+
+  1a) (Qal)
+
+  1a1) to keep watch of, be wakeful over
+
+  1a2) to be wakeful, wake (as mourner or sufferer) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7182
-    proximity: 0.828
+    lemma: קֶשֶׁב
+    gloss: a hearkening {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
   - strongs: H3176
-    proximity: 0.8258
+    lemma: יָחַל
+    gloss: to wait {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H7200
-    proximity: 0.8226
+    lemma: רָאָה
+    gloss: to see {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: H3175
-    proximity: 0.819
+    lemma: יָחִיל
+    gloss: expectant {openscriptures-strongs}
+    proximity: 0.819 {macula-proximity}
   - strongs: H5027
-    proximity: 0.8175
+    lemma: נָבַט
+    gloss: to scan {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
   - strongs: H6488
-    proximity: 0.8115
+    lemma: פְּקִדֻת
+    gloss: supervision {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
   - strongs: H7663
-    proximity: 0.7961
+    lemma: שָׂבַר
+    gloss: to scrutinize {openscriptures-strongs}
+    proximity: 0.7961 {macula-proximity}
   - strongs: H4931
-    proximity: 0.7956
+    lemma: מִשְׁמֶרֶת
+    gloss: watch {openscriptures-strongs}
+    proximity: 0.7956 {macula-proximity}
   - strongs: A2095
-    proximity: 0.776
+    proximity: 0.776 {macula-proximity}
   - strongs: H7688
-    proximity: 0.7563
+    lemma: שָׁגַח
+    gloss: to peep {openscriptures-strongs}
+    proximity: 0.7563 {macula-proximity}
   cross_language:
   - strongs: G5438
-    proximity: 0.8201
+    lemma: φυλακή
+    gloss: a guarding or (concretely {openscriptures-strongs}
+    proximity: 0.8201 {macula-proximity}
     language: greek
   - strongs: G991
-    proximity: 0.8164
+    proximity: 0.8164 {macula-proximity}
     language: greek
   - strongs: G4337
-    proximity: 0.8036
+    lemma: προσέχω
+    gloss: to hold the mind  towards {openscriptures-strongs}
+    proximity: 0.8036 {macula-proximity}
     language: greek
   - strongs: G872
-    proximity: 0.8006
+    proximity: 0.8006 {macula-proximity}
     language: greek
   - strongs: G5441
-    proximity: 0.7557
+    lemma: φύλαξ
+    gloss: a watcher or sentry {openscriptures-strongs}
+    proximity: 0.7557 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

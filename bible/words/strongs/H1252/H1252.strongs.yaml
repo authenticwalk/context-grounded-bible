@@ -6,38 +6,42 @@ pronunciation: bore
 definition: purify
 kjv_usage: cleanness, pureness.
 derivation: from H1305 (בָּרַר);
-extended_definition:
-  gloss: cleanness
-  definition: cleanness, pureness
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: cleanness, pureness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1305
-    proximity: 0.7997
+    lemma: בָּרַר
+    gloss: to clarify {openscriptures-strongs}
+    proximity: 0.7997 {macula-proximity}
   - strongs: A2358
-    proximity: 0.7951
+    proximity: 0.7951 {macula-proximity}
   - strongs: H8537
-    proximity: 0.7948
+    lemma: תֹּם
+    gloss: completeness {openscriptures-strongs}
+    proximity: 0.7948 {macula-proximity}
   - strongs: H2889
-    proximity: 0.7143
+    lemma: טָהוֹר
+    gloss: pure (in a physical {openscriptures-strongs}
+    proximity: 0.7143 {macula-proximity}
   - strongs: H2134
-    proximity: 0.7116
+    lemma: זַךְ
+    gloss: clear {openscriptures-strongs}
+    proximity: 0.7116 {macula-proximity}
   cross_language:
   - strongs: G3742
-    proximity: 0.8125
+    lemma: ὁσιότης
+    gloss: piety {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
     language: greek
   - strongs: G121
-    proximity: 0.8117
+    proximity: 0.8117 {macula-proximity}
     language: greek
   - strongs: G2514
-    proximity: 0.796
+    lemma: καθαρότης
+    gloss: cleanness {openscriptures-strongs}
+    proximity: 0.796 {macula-proximity}
     language: greek
   - strongs: G48
-    proximity: 0.7429
+    proximity: 0.7429 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

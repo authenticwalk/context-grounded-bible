@@ -6,43 +6,55 @@ pronunciation: rag-lee'
 definition: a footman (soldier)
 kjv_usage: (on) foot(-man).
 derivation: from H7272 (רֶגֶל);
-extended_definition:
-  gloss: on foot
-  definition: 1) on foot<br>1a) man on foot, footman, foot soldier
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) on foot
+
+  1a) man on foot, footman, foot soldier {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1401
-    proximity: 0.8179
+    proximity: 0.8179 {macula-proximity}
   - strongs: H1869
-    proximity: 0.8144
+    lemma: דָּרַךְ
+    gloss: to tread {openscriptures-strongs}
+    proximity: 0.8144 {macula-proximity}
   - strongs: H838
-    proximity: 0.8016
+    proximity: 0.8016 {macula-proximity}
   - strongs: H4703
-    proximity: 0.7888
+    lemma: מִצְעָד
+    gloss: a step {openscriptures-strongs}
+    proximity: 0.7888 {macula-proximity}
   - strongs: H6806
-    proximity: 0.7586
+    lemma: צַעַד
+    gloss: a pace or regular step {openscriptures-strongs}
+    proximity: 0.7586 {macula-proximity}
   - strongs: H7272
-    proximity: 0.7052
+    lemma: רֶגֶל
+    gloss: a foot {openscriptures-strongs}
+    proximity: 0.7052 {macula-proximity}
   cross_language:
   - strongs: G4753
-    proximity: 0.8254
+    lemma: στράτευμα
+    gloss: an armament {openscriptures-strongs}
+    proximity: 0.8254 {macula-proximity}
     language: greek
   - strongs: G4961
-    proximity: 0.8181
+    lemma: συστρατιώτης
+    gloss: a co-campaigner {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
     language: greek
   - strongs: G4758
-    proximity: 0.815
+    lemma: στρατολογέω
+    gloss: to gather  as a warrior {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
     language: greek
   - strongs: G4228
-    proximity: 0.7448
+    lemma: πούς
+    gloss: a "foot" {openscriptures-strongs}
+    proximity: 0.7448 {macula-proximity}
     language: greek
   - strongs: G3978
-    proximity: 0.7409
+    lemma: πεζεύω
+    gloss: to foot a journey {openscriptures-strongs}
+    proximity: 0.7409 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

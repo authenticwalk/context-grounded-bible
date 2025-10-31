@@ -8,52 +8,81 @@ definition: properly, to prostrate; hence, to break down, either (literally) by 
 kjv_usage: abolish, affright, be (make) afraid, amaze, beat down, discourage, (cause
   to) dismay, go down, scare, terrify.
 derivation: a primitive root;
-extended_definition:
-  gloss: to to be dismayed
-  definition: 1) to be shattered, be dismayed, be broken, be abolished, be afraid<br>1a)
-    (Qal)<br>1a1) to be shattered, be broken<br>1a2) to be dismayed<br>1b) (Niphal)
-    to be broken, be dismayed<br>1c) (Piel) to be shattered, be dismayed, be scared<br>1d)
-    (Hiphil)<br>1d1) to cause to be dismayed<br>1d2) to dismay, terrify<br>1d3) to
-    shatter
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be shattered, be dismayed, be broken, be abolished, be
+  afraid
+
+  1a) (Qal)
+
+  1a1) to be shattered, be broken
+
+  1a2) to be dismayed
+
+  1b) (Niphal) to be broken, be dismayed
+
+  1c) (Piel) to be shattered, be dismayed, be scared
+
+  1d) (Hiphil)
+
+  1d1) to cause to be dismayed
+
+  1d2) to dismay, terrify
+
+  1d3) to shatter {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A8075
-    proximity: 0.826
+    proximity: 0.826 {macula-proximity}
   - strongs: H5421
-    proximity: 0.8251
+    lemma: נָתַע
+    gloss: to tear out {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
   - strongs: H1089
-    proximity: 0.8247
+    lemma: בָּלַהּ
+    gloss: to palpitate {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H2119a
-    proximity: 0.8226
+    proximity: 0.8226 {macula-proximity}
   - strongs: H7269
-    proximity: 0.8222
+    lemma: רׇגְזָה
+    gloss: trepidation {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H2254a
-    proximity: 0.8165
+    proximity: 0.8165 {macula-proximity}
   - strongs: H2851
-    proximity: 0.8157
+    lemma: חִתִּית
+    gloss: fear {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   - strongs: H1438
-    proximity: 0.8147
+    lemma: גָּדַע
+    gloss: to fell a tree {openscriptures-strongs}
+    proximity: 0.8147 {macula-proximity}
   - strongs: H7703
-    proximity: 0.8135
+    lemma: שָׁדַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: H1672
-    proximity: 0.813
+    lemma: דָּאַג
+    gloss: be anxious {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
   cross_language:
   - strongs: G1568
-    proximity: 0.8274
+    lemma: ἐκθαμβέω
+    gloss: to astonish utterly {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
     language: greek
   - strongs: G3642
-    proximity: 0.8262
+    lemma: ὀλιγόψυχος
+    gloss: little-spirited {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
     language: greek
   - strongs: G4928
-    proximity: 0.8148
+    lemma: συνοχή
+    gloss: restraint {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
     language: greek
   - strongs: G4426
-    proximity: 0.813
+    lemma: πτύρω
+    gloss: to frighten {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

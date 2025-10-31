@@ -6,48 +6,62 @@ pronunciation: map-pawkh'
 definition: a breathing out (of life), i.e. expiring
 kjv_usage: giving up.
 derivation: from H5301 (נָפַח);
-extended_definition:
-  gloss: exhalation
-  definition: breathing out, expiring, exhaling (of life)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: breathing out, expiring, exhaling (of life) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5301
-    proximity: 0.825
+    lemma: נָפַח
+    gloss: to puff {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: H7602
-    proximity: 0.8232
+    lemma: שָׁאַף
+    gloss: to inhale eagerly {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H3307
-    proximity: 0.8118
+    lemma: יָפֵחַ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
   - strongs: H7020
-    proximity: 0.8067
+    lemma: קִיצוֹן
+    gloss: terminal {openscriptures-strongs}
+    proximity: 0.8067 {macula-proximity}
   - strongs: H314
-    proximity: 0.7995
+    proximity: 0.7995 {macula-proximity}
   - strongs: A6562
-    proximity: 0.7644
+    proximity: 0.7644 {macula-proximity}
   - strongs: H5395
-    proximity: 0.7583
+    lemma: נָשַׁם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7583 {macula-proximity}
   - strongs: H5397
-    proximity: 0.7532
+    lemma: נְשָׁמָה
+    gloss: a puff {openscriptures-strongs}
+    proximity: 0.7532 {macula-proximity}
   - strongs: H1478
-    proximity: 0.7279
+    lemma: גָּוַע
+    gloss: to breathe out {openscriptures-strongs}
+    proximity: 0.7279 {macula-proximity}
   - strongs: A318
-    proximity: 0.7049
+    proximity: 0.7049 {macula-proximity}
   cross_language:
   - strongs: G4157
-    proximity: 0.8175
+    lemma: πνοή
+    gloss: respiration {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: greek
   - strongs: G5305
-    proximity: 0.7777
+    lemma: ὕστερον
+    gloss: more lately {openscriptures-strongs}
+    proximity: 0.7777 {macula-proximity}
     language: greek
   - strongs: G2209
-    proximity: 0.7718
+    lemma: ζημία
+    gloss: detriment {openscriptures-strongs}
+    proximity: 0.7718 {macula-proximity}
     language: greek
   - strongs: G1720
-    proximity: 0.7467
+    lemma: ἐμφυσάω
+    gloss: to blow at or on {openscriptures-strongs}
+    proximity: 0.7467 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

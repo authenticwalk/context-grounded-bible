@@ -7,46 +7,65 @@ definition: something planted, i.e. the place (a garden or vineyard), or the thi
   (a plant, figuratively or men); by implication, the act, planting
 kjv_usage: plant(-ation, -ing).
 derivation: from H5193 (נָטַע);
-extended_definition:
-  gloss: plantation
-  definition: 1) place or act of planting, planting, plantation<br>1a) planting place<br>1b)
-    act of planting<br>1c) plantation
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) place or act of planting, planting, plantation
+
+  1a) planting place
+
+  1b) act of planting
+
+  1c) plantation {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7406
-    proximity: 0.8287
+    lemma: רֶכֶס
+    gloss: a mountain ridge {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H776
-    proximity: 0.8269
+    proximity: 0.8269 {macula-proximity}
   - strongs: H4018
-    proximity: 0.8244
+    lemma: מְבַשְּׁלָה
+    gloss: a cooking hearth {openscriptures-strongs}
+    proximity: 0.8244 {macula-proximity}
   - strongs: H4837
-    proximity: 0.8237
+    lemma: מַרְצֶפֶת
+    gloss: a pavement {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
   - strongs: H4673
-    proximity: 0.8225
+    lemma: מַצָּב
+    gloss: a fixed spot {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: H4662
-    proximity: 0.8196
+    lemma: מִפְקָד
+    gloss: an appointment {openscriptures-strongs}
+    proximity: 0.8196 {macula-proximity}
   - strongs: H5979
-    proximity: 0.8177
+    lemma: עֶמְדָּה
+    gloss: a station {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
   - strongs: H4285
-    proximity: 0.8158
+    lemma: מַחְשָׁךְ
+    gloss: darkness {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: H4801
-    proximity: 0.8153
+    lemma: מֶרְחָק
+    gloss: remoteness {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
   - strongs: H1877
-    proximity: 0.8137
+    lemma: דֶּשֶׁא
+    gloss: a sprout {openscriptures-strongs}
+    proximity: 0.8137 {macula-proximity}
   cross_language:
   - strongs: G237a
-    proximity: 0.8297
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G3438
-    proximity: 0.8191
+    lemma: μονή
+    gloss: a staying {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
     language: greek
   - strongs: G5561
-    proximity: 0.8185
+    lemma: χώρα
+    gloss: room {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

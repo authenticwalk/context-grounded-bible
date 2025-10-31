@@ -6,50 +6,59 @@ pronunciation: maw-sar'
 definition: to sunder, i.e. (transitively) set apart, or (reflex.) apostatize
 kjv_usage: commit, deliver.
 derivation: a primitive root;
-extended_definition:
-  gloss: to commit
-  definition: 1) to set apart, deliver up, offer<br>1a) (Qal) to set apart<br>1b)
-    (Niphal) to be delivered over, be assigned to, be set apart
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to set apart, deliver up, offer
+
+  1a) (Qal) to set apart
+
+  1b) (Niphal) to be delivered over, be assigned to, be set apart {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5627a
-    proximity: 0.8254
+    proximity: 0.8254 {macula-proximity}
   - strongs: H2398
-    proximity: 0.8217
+    lemma: חָטָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8217 {macula-proximity}
   - strongs: A1872
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
   - strongs: H7148
-    proximity: 0.8097
+    lemma: קָרִיא
+    gloss: called {openscriptures-strongs}
+    proximity: 0.8097 {macula-proximity}
   - strongs: H4604
-    proximity: 0.8058
+    lemma: מַעַל
+    gloss: treachery {openscriptures-strongs}
+    proximity: 0.8058 {macula-proximity}
   - strongs: H819
-    proximity: 0.8049
+    proximity: 0.8049 {macula-proximity}
   - strongs: H4603
-    proximity: 0.7954
+    lemma: מָעַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7954 {macula-proximity}
   - strongs: H248
-    proximity: 0.7824
+    proximity: 0.7824 {macula-proximity}
   - strongs: H4784
-    proximity: 0.7757
+    lemma: מָרָה
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7757 {macula-proximity}
   cross_language:
   - strongs: G485
-    proximity: 0.8238
+    proximity: 0.8238 {macula-proximity}
     language: greek
   - strongs: G264
-    proximity: 0.8185
+    proximity: 0.8185 {macula-proximity}
     language: greek
   - strongs: G3845
-    proximity: 0.8172
+    lemma: παραβαίνω
+    gloss: to go contrary to {openscriptures-strongs}
+    proximity: 0.8172 {macula-proximity}
     language: greek
   - strongs: G43
-    proximity: 0.8091
+    proximity: 0.8091 {macula-proximity}
     language: greek
   - strongs: G1586
-    proximity: 0.8004
+    lemma: ἐκλέγομαι
+    gloss: to select {openscriptures-strongs}
+    proximity: 0.8004 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

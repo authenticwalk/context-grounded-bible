@@ -6,45 +6,55 @@ pronunciation: yaw-bab
 definition: to bawl
 kjv_usage: cry out.
 derivation: a primitive root;
-extended_definition:
-  gloss: to cry
-  definition: (Piel) to cry, cry shrilly
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Piel) to cry, cry shrilly {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8643
-    proximity: 0.8287
+    lemma: תְּרוּעָה
+    gloss: clamor {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H1959
-    proximity: 0.8264
+    lemma: הֵידָד
+    gloss: acclamation {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H6165
-    proximity: 0.8234
+    lemma: עָרַג
+    gloss: to long for {openscriptures-strongs}
+    proximity: 0.8234 {macula-proximity}
   - strongs: H7581
-    proximity: 0.8178
+    lemma: שְׁאָגָה
+    gloss: a rumbling or moan {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   - strongs: H56
-    proximity: 0.8165
+    proximity: 0.8165 {macula-proximity}
   - strongs: H6963
-    proximity: 0.8135
+    lemma: קוֹל
+    gloss: a voice or sound {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: H7773
-    proximity: 0.7986
+    lemma: שֶׁוַע
+    gloss: a halloo {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
   - strongs: H7442
-    proximity: 0.7844
+    lemma: רָנַן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7844 {macula-proximity}
   - strongs: H7769a
-    proximity: 0.7843
+    proximity: 0.7843 {macula-proximity}
   - strongs: H602
-    proximity: 0.7713
+    proximity: 0.7713 {macula-proximity}
   cross_language:
   - strongs: G2875
-    proximity: 0.8241
+    lemma: κόπτω
+    gloss: to "chop" {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
   - strongs: G2906
-    proximity: 0.8029
+    lemma: κραυγή
+    gloss: an outcry (in notification {openscriptures-strongs}
+    proximity: 0.8029 {macula-proximity}
     language: greek
   - strongs: G995
-    proximity: 0.7829
+    proximity: 0.7829 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

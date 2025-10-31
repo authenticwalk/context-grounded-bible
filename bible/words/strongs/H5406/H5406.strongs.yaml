@@ -6,38 +6,45 @@ pronunciation: nish-tev-awn'
 definition: an epistle
 kjv_usage: letter.
 derivation: probably of Persian origin;
-extended_definition:
-  gloss: letter
-  definition: 'letter<BR>Aramaic equivalent: <i>nish.te.van</i> (נִשְׁתְּוָן "document"
-    H5407)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: 'letter
+
+  Aramaic equivalent: nish.te.van (נִשְׁתְּוָן "document" H5407) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A633
-    proximity: 0.8209
+    proximity: 0.8209 {macula-proximity}
   - strongs: H5612
-    proximity: 0.7854
+    lemma: סֵפֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7854 {macula-proximity}
   - strongs: A2942
-    proximity: 0.7617
+    proximity: 0.7617 {macula-proximity}
   - strongs: H4385
-    proximity: 0.7507
+    lemma: מִכְתָּב
+    gloss: a thing written {openscriptures-strongs}
+    proximity: 0.7507 {macula-proximity}
   - strongs: H6599
-    proximity: 0.7283
+    lemma: פִּתְגָּם
+    gloss: a  sentence {openscriptures-strongs}
+    proximity: 0.7283 {macula-proximity}
   - strongs: H1881
-    proximity: 0.701
+    lemma: דָּת
+    gloss: a royal edict or statute {openscriptures-strongs}
+    proximity: 0.701 {macula-proximity}
   cross_language:
   - strongs: G1378
-    proximity: 0.8089
+    lemma: δόγμα
+    gloss: a law (civil {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
     language: greek
   - strongs: G1121
-    proximity: 0.7847
+    lemma: γράμμα
+    gloss: a writing {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
     language: greek
   - strongs: G1989
-    proximity: 0.7832
+    lemma: ἐπιστέλλω
+    gloss: to enjoin {openscriptures-strongs}
+    proximity: 0.7832 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

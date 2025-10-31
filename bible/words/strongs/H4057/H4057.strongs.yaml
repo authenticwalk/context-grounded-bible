@@ -10,16 +10,19 @@ derivation: from H1696 (דָבַר) in the sense of driving;
 related_words:
   synonyms:
   - strongs: H7704a
-    proximity: 0.8267
+    proximity: 0.8267 {macula-proximity}
   - strongs: H1509
-    proximity: 0.8119
+    lemma: גְּזֵרָה
+    gloss: a desert {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: H4875
-    proximity: 0.7939
+    lemma: מְשׁוֹאָה
+    gloss: ruin {openscriptures-strongs}
+    proximity: 0.7939 {macula-proximity}
   - strongs: H6724
-    proximity: 0.7377
+    lemma: צִיוֹן
+    gloss: a desert {openscriptures-strongs}
+    proximity: 0.7377 {macula-proximity}
   - strongs: H776
-    proximity: 0.729
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    proximity: 0.729 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

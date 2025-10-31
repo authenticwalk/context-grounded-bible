@@ -7,21 +7,15 @@ definition: properly, shut up, i.e. the breast (as enclosing the heart); also go
   (as generally shut up safely)
 kjv_usage: caul, gold.
 derivation: from H5462 (סָגַר);
-extended_definition:
-  gloss: enclosure
-  definition: enclosure, encasement, fine gold
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: enclosure, encasement, fine gold {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A5967
-    proximity: 0.8032
+    proximity: 0.8032 {macula-proximity}
   cross_language:
   - strongs: G3149
-    proximity: 0.7919
+    lemma: μαστός
+    gloss: a (properly {openscriptures-strongs}
+    proximity: 0.7919 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

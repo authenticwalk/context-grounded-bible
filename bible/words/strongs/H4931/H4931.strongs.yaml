@@ -8,51 +8,69 @@ definition: watch, i.e. the act (custody), or (concretely) the sentry, the post;
   or (objectively) a usage or party
 kjv_usage: charge, keep, or to be kept, office, ordinace, safeguard, ward, watch.
 derivation: feminine of H4929 (מִשְׁמָר);
-extended_definition:
-  gloss: charge
-  definition: 1) guard, charge, function, obligation, service, watch<br>1a) guard,
-    watch, house of detention or confinement<br>1b) keeping, preserving<br>1c) charge,
-    injunction<br>1d) office, function (ceremonial)
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) guard, charge, function, obligation, service, watch
+
+  1a) guard, watch, house of detention or confinement
+
+  1b) keeping, preserving
+
+  1c) charge, injunction
+
+  1d) office, function (ceremonial) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4612
-    proximity: 0.8296
+    lemma: מַעֲמָד
+    gloss: a position {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H5201
-    proximity: 0.8276
+    lemma: נָטַר
+    gloss: to guard {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8265
+    proximity: 0.8265 {macula-proximity}
   - strongs: H5975
-    proximity: 0.8246
+    lemma: עָמַד
+    gloss: to stand {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: H2515
-    proximity: 0.8212
+    lemma: חֲלֻקָּה
+    gloss: a distribution {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   - strongs: H3550
-    proximity: 0.8195
+    lemma: כְּהֻנָּה
+    gloss: priesthood {openscriptures-strongs}
+    proximity: 0.8195 {macula-proximity}
   - strongs: A5673
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
   - strongs: H1633a
-    proximity: 0.8138
+    proximity: 0.8138 {macula-proximity}
   - strongs: H2708
-    proximity: 0.8127
+    lemma: חֻקָּה
+    gloss: '{an enactment {openscriptures-strongs}'
+    proximity: 0.8127 {macula-proximity}
   cross_language:
   - strongs: G805
-    proximity: 0.8223
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G5441
-    proximity: 0.8212
+    lemma: φύλαξ
+    gloss: a watcher or sentry {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
     language: greek
   - strongs: G5277
-    proximity: 0.818
+    lemma: ὑπολιμπάνω
+    gloss: to leave behind {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
     language: greek
   - strongs: G3622
-    proximity: 0.8179
+    lemma: οἰκονομία
+    gloss: administration {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
     language: greek
   - strongs: G3009
-    proximity: 0.8016
+    lemma: λειτουργία
+    gloss: public function  or almsgiver) {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

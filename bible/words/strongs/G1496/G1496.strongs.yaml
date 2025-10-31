@@ -5,45 +5,52 @@ transliteration: eidōlolátrēs
 definition: an image- (servant or) worshipper (literally or figuratively)
 kjv_usage: idolater
 derivation: from G1497 (εἴδωλον) and the base of G3000 (λατρεύω);
-extended_definition:
-  gloss: idolater
-  definition: '<b>εἰδωλολάτρης</b>, -ου, ὁ <BR /> (εἴδωλου + λάτρις, <i>a hireling</i>),
-    <BR /><b>an idolator</b>: <ref=''1Co.5.10, 11; 6.9; 10.7''>1Co.5:10, 11 6:9 10:7</ref>
-    <ref=''Eph.5.5''>Eph.5:5</ref> <ref=''Rev.21.8; 22.15''>Rev.21:8 22:15</ref> (Cremer,
-    709).†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> εἰδωλο-λάτρης</b>, ου, ὁ, ἡ, <br /> <b>idol-worshipper, idolater</b>,
-    [prev. work] 5.10, etc.
-  source: STEPBible/LSJ
+extended_definition: 'εἰδωλολάτρης, -ου, ὁ
+
+  (εἴδωλου + λάτρις, a hireling),
+
+  an idolator: 1Co.5:10, 11 6:9 10:7 Eph.5:5 Rev.21:8 22:15 (Cremer, 709).†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'εἰδωλο-λάτρης, ου, ὁ, ἡ,
+
+  idol-worshipper, idolater, [prev. work] 5.10, etc. {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2712
-    proximity: 0.7991
+    lemma: κατείδωλος
+    gloss: utterly idolatrous {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: G1493
-    proximity: 0.7961
+    lemma: εἰδωλεῖον
+    gloss: an image-fane {openscriptures-strongs}
+    proximity: 0.7961 {macula-proximity}
   - strongs: G1482
-    proximity: 0.7792
+    lemma: ἐθνικός
+    gloss: national {openscriptures-strongs}
+    proximity: 0.7792 {macula-proximity}
   cross_language:
   - strongs: H5257
-    proximity: 0.8274
+    lemma: נְסִיךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
     language: hebrew
   - strongs: H6754
-    proximity: 0.8273
+    lemma: צֶלֶם
+    gloss: a phantom {openscriptures-strongs}
+    proximity: 0.8273 {macula-proximity}
     language: hebrew
   - strongs: H7295
-    proximity: 0.8263
+    lemma: רָהָב
+    gloss: insolent {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
     language: hebrew
   - strongs: H4656
-    proximity: 0.8209
+    lemma: מִפְלֶצֶת
+    gloss: a terror {openscriptures-strongs}
+    proximity: 0.8209 {macula-proximity}
     language: hebrew
   - strongs: H5262a
-    proximity: 0.8208
+    proximity: 0.8208 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

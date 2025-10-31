@@ -6,31 +6,33 @@ pronunciation: mak
 definition: properly, a melting, i.e. putridity
 kjv_usage: rottenness, stink.
 derivation: from H4743 (מָקַק);
-extended_definition:
-  gloss: decay
-  definition: decay, rottenness
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: decay, rottenness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2186a
-    proximity: 0.8061
+    proximity: 0.8061 {macula-proximity}
   - strongs: H8182
-    proximity: 0.8032
+    lemma: שֹׁעָר
+    gloss: harsh or horrid {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
   - strongs: H5685
-    proximity: 0.7495
+    lemma: עָבַשׁ
+    gloss: to dry up {openscriptures-strongs}
+    proximity: 0.7495 {macula-proximity}
   cross_language:
   - strongs: G3605
-    proximity: 0.8034
+    lemma: ὄζω
+    gloss: to scent {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
     language: greek
   - strongs: G4595
-    proximity: 0.7212
+    lemma: σήπω
+    gloss: to putrefy {openscriptures-strongs}
+    proximity: 0.7212 {macula-proximity}
     language: greek
   - strongs: G1312
-    proximity: 0.7208
+    lemma: διαφθορά
+    gloss: decay {openscriptures-strongs}
+    proximity: 0.7208 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

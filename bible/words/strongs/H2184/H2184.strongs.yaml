@@ -6,39 +6,41 @@ pronunciation: zen-ooth'
 definition: adultery, i.e. (figuratively) infidelity, idolatry
 kjv_usage: whoredom.
 derivation: from H2181 (זָנָה);
-extended_definition:
-  gloss: fornication
-  definition: fornication, harlotry
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: fornication, harlotry {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4604
-    proximity: 0.8232
+    lemma: מַעַל
+    gloss: treachery {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H898
-    proximity: 0.8171
+    proximity: 0.8171 {macula-proximity}
   - strongs: H2185
-    proximity: 0.7668
+    lemma: זֹנוֹת
+    gloss: harlots {openscriptures-strongs}
+    proximity: 0.7668 {macula-proximity}
   - strongs: H2154
-    proximity: 0.7467
+    lemma: זִמָּה
+    gloss: a plan {openscriptures-strongs}
+    proximity: 0.7467 {macula-proximity}
   cross_language:
   - strongs: G569
-    proximity: 0.7942
+    proximity: 0.7942 {macula-proximity}
     language: greek
   - strongs: G571
-    proximity: 0.7511
+    proximity: 0.7511 {macula-proximity}
     language: greek
   - strongs: G766
-    proximity: 0.7506
+    proximity: 0.7506 {macula-proximity}
     language: greek
   - strongs: G3428
-    proximity: 0.7498
+    lemma: μοιχαλίς
+    gloss: an adulteress {openscriptures-strongs}
+    proximity: 0.7498 {macula-proximity}
     language: greek
   - strongs: G4205
-    proximity: 0.7315
+    lemma: πόρνος
+    gloss: akin to the base of G4097 ) {openscriptures-strongs}
+    proximity: 0.7315 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

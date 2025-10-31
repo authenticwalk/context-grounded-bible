@@ -6,49 +6,63 @@ pronunciation: sheg-ee-aw'
 definition: a moral mistake
 kjv_usage: error.
 derivation: from H7686 (שָׁגָה);
-extended_definition:
-  gloss: error
-  definition: error
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: error {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H819
-    proximity: 0.801
+    proximity: 0.801 {macula-proximity}
   - strongs: H6580
-    proximity: 0.7935
+    lemma: פַּשׁ
+    gloss: stupidity {openscriptures-strongs}
+    proximity: 0.7935 {macula-proximity}
   - strongs: H8442
-    proximity: 0.7773
+    lemma: תּוֹעָה
+    gloss: mistake {openscriptures-strongs}
+    proximity: 0.7773 {macula-proximity}
   - strongs: H2400a
-    proximity: 0.7593
+    proximity: 0.7593 {macula-proximity}
   - strongs: H4870
-    proximity: 0.7583
+    lemma: מִשְׁגֶּה
+    gloss: an error {openscriptures-strongs}
+    proximity: 0.7583 {macula-proximity}
   - strongs: H7686
-    proximity: 0.75
+    lemma: שָׁגָה
+    gloss: to stray (causatively {openscriptures-strongs}
+    proximity: 0.75 {macula-proximity}
   - strongs: H5771
-    proximity: 0.7476
+    lemma: עָוֺן
+    gloss: perversity {openscriptures-strongs}
+    proximity: 0.7476 {macula-proximity}
   - strongs: H2403
-    proximity: 0.7192
+    lemma: חַטָּאָה
+    gloss: an offence {openscriptures-strongs}
+    proximity: 0.7192 {macula-proximity}
   - strongs: H2398
-    proximity: 0.7112
+    lemma: חָטָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7112 {macula-proximity}
   cross_language:
   - strongs: G4258
-    proximity: 0.8165
+    lemma: προαμαρτάνω
+    gloss: to sin previously {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G4417
-    proximity: 0.7624
+    lemma: πταίω
+    gloss: to trip {openscriptures-strongs}
+    proximity: 0.7624 {macula-proximity}
     language: greek
   - strongs: G266
-    proximity: 0.7609
+    proximity: 0.7609 {macula-proximity}
     language: greek
   - strongs: G3892
-    proximity: 0.7278
+    lemma: παρανομία
+    gloss: transgression {openscriptures-strongs}
+    proximity: 0.7278 {macula-proximity}
     language: greek
   - strongs: G3847
-    proximity: 0.7246
+    lemma: παράβασις
+    gloss: violation {openscriptures-strongs}
+    proximity: 0.7246 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

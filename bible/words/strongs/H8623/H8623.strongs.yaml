@@ -6,45 +6,57 @@ pronunciation: tak-keef'
 definition: powerful
 kjv_usage: mightier.
 derivation: from H8630 (תָּקַף);
-extended_definition:
-  gloss: mighty
-  definition: 'mighty<BR>Aramaic equivalent: <i>taq.qiph</i> (תַּקִּיף "strong" H8624)'
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: 'mighty
+
+  Aramaic equivalent: taq.qiph (תַּקִּיף "strong" H8624) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1401
-    proximity: 0.8292
+    proximity: 0.8292 {macula-proximity}
   - strongs: H2388
-    proximity: 0.8278
+    lemma: חָזַק
+    gloss: to fasten upon {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
   - strongs: H7227
-    proximity: 0.8266
+    lemma: רַב
+    gloss: abundant (in quantity {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
   - strongs: H1396
-    proximity: 0.8116
+    lemma: גָּבַר
+    gloss: to be strong {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
   - strongs: H2220
-    proximity: 0.8092
+    lemma: זְרוֹעַ
+    gloss: the arm {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
   - strongs: H117
-    proximity: 0.8072
+    proximity: 0.8072 {macula-proximity}
   - strongs: H46
-    proximity: 0.8036
+    proximity: 0.8036 {macula-proximity}
   - strongs: H1433
-    proximity: 0.8032
+    lemma: גֹּדֶל
+    gloss: magnitude {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
   - strongs: A8631
-    proximity: 0.7974
+    proximity: 0.7974 {macula-proximity}
   - strongs: H2390
-    proximity: 0.797
+    lemma: חָזֵק
+    gloss: powerful {openscriptures-strongs}
+    proximity: 0.797 {macula-proximity}
   cross_language:
   - strongs: G3167
-    proximity: 0.8177
+    lemma: μεγαλεῖος
+    gloss: magnificent {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
     language: greek
   - strongs: G1412
-    proximity: 0.7958
+    lemma: δυναμόω
+    gloss: to enable {openscriptures-strongs}
+    proximity: 0.7958 {macula-proximity}
     language: greek
   - strongs: G4732
-    proximity: 0.7933
+    lemma: στερεόω
+    gloss: to solidify {openscriptures-strongs}
+    proximity: 0.7933 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

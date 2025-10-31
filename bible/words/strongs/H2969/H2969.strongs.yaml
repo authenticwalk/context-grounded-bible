@@ -6,33 +6,35 @@ pronunciation: yaw-aw'
 definition: to be suitable
 kjv_usage: appertain.
 derivation: a primitive root;
-extended_definition:
-  gloss: to befit
-  definition: (Qal) to pertain to, befit, be befitting
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to pertain to, befit, be befitting {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5000
-    proximity: 0.7423
+    lemma: נָאוֶה
+    gloss: suitable {openscriptures-strongs}
+    proximity: 0.7423 {macula-proximity}
   cross_language:
   - strongs: G2158
-    proximity: 0.8015
+    lemma: εὐσχήμων
+    gloss: well-formed {openscriptures-strongs}
+    proximity: 0.8015 {macula-proximity}
     language: greek
   - strongs: G1163
-    proximity: 0.7998
+    lemma: δεῖ
+    gloss: also deon deh-on' {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
     language: greek
   - strongs: G3784
-    proximity: 0.7937
+    lemma: ὀφείλω
+    gloss: to owe {openscriptures-strongs}
+    proximity: 0.7937 {macula-proximity}
     language: greek
   - strongs: G701
-    proximity: 0.7858
+    proximity: 0.7858 {macula-proximity}
     language: greek
   - strongs: G3545
-    proximity: 0.7761
+    lemma: νομίμως
+    gloss: legitimately (specially {openscriptures-strongs}
+    proximity: 0.7761 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

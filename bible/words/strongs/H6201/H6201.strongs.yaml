@@ -6,41 +6,49 @@ pronunciation: aw-raf'
 definition: to droop; hence, to drip
 kjv_usage: drop (down).
 derivation: a primitive root;
-extended_definition:
-  gloss: to drop
-  definition: 1) to drop, drip<br>1a) (Qal) to drop, trickle
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to drop, drip
+
+  1a) (Qal) to drop, trickle {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5140
-    proximity: 0.7996
+    lemma: נָזַל
+    gloss: to drip {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
   - strongs: H8257
-    proximity: 0.7786
+    lemma: שָׁקַע
+    gloss: to subside {openscriptures-strongs}
+    proximity: 0.7786 {macula-proximity}
   - strongs: H96
-    proximity: 0.7755
+    proximity: 0.7755 {macula-proximity}
   - strongs: H2229a
-    proximity: 0.7572
+    proximity: 0.7572 {macula-proximity}
   - strongs: A5182
-    proximity: 0.7525
+    proximity: 0.7525 {macula-proximity}
   cross_language:
   - strongs: G2701
-    proximity: 0.8268
+    lemma: κατατρέχω
+    gloss: to run down {openscriptures-strongs}
+    proximity: 0.8268 {macula-proximity}
     language: greek
   - strongs: G2600
-    proximity: 0.8165
+    lemma: κατάβασις
+    gloss: a declivity {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G2736
-    proximity: 0.8074
+    lemma: κάτω
+    gloss: downwards {openscriptures-strongs}
+    proximity: 0.8074 {macula-proximity}
     language: greek
   - strongs: G1120
-    proximity: 0.7993
+    lemma: γονυπετέω
+    gloss: to fall on the knee {openscriptures-strongs}
+    proximity: 0.7993 {macula-proximity}
     language: greek
   - strongs: G2524
-    proximity: 0.7895
+    lemma: καθίημι
+    gloss: and {openscriptures-strongs}
+    proximity: 0.7895 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

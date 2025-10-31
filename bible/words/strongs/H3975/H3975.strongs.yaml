@@ -7,33 +7,37 @@ definition: something lighted, i.e. an aperture; by implication, a crevice or ho
   (of a serpent)
 kjv_usage: den.
 derivation: feminine passive participle of H215 (אוֹר);
-extended_definition:
-  gloss: hole
-  definition: light hole, den
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: light hole, den {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4631
-    proximity: 0.8242
+    lemma: מְעָרָה
+    gloss: a cavern {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: H5520
-    proximity: 0.8238
+    lemma: סֹךְ
+    gloss: a hut {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H695
-    proximity: 0.8063
+    proximity: 0.8063 {macula-proximity}
   - strongs: H4492
-    proximity: 0.7712
+    lemma: מִנְהָרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7712 {macula-proximity}
   - strongs: H4585
-    proximity: 0.7675
+    lemma: מְעוֹנָה
+    gloss: '{an abode {openscriptures-strongs}'
+    proximity: 0.7675 {macula-proximity}
   - strongs: H7077
-    proximity: 0.7553
+    lemma: קָנַן
+    gloss: to nestle {openscriptures-strongs}
+    proximity: 0.7553 {macula-proximity}
   - strongs: A1358
-    proximity: 0.7156
+    proximity: 0.7156 {macula-proximity}
   cross_language:
   - strongs: G2681
-    proximity: 0.7639
+    lemma: κατασκηνόω
+    gloss: to camp down {openscriptures-strongs}
+    proximity: 0.7639 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

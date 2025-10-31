@@ -7,51 +7,74 @@ definition: to gush forth; figuratively, to utter (good or bad words); specifica
   to emit (a foul odor)
 kjv_usage: belch out, flowing, pour out, send forth, utter (abundantly).
 derivation: a primitive root;
-extended_definition:
-  gloss: to bubble
-  definition: 1) to flow, pour out, pour, gush forth, spring, bubble up, ferment<br>1a)
-    (Qal) to flow<br>1b)(Hiphil) to pour out, emit, cause to bubble, belch forth<br>1b1)
-    to pour out<br>1b2) to cause to bubble, ferment<br>1b3) to pour forth, emit, belch
-    forth
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to flow, pour out, pour, gush forth, spring, bubble up, ferment
+
+  1a) (Qal) to flow
+
+  1b)(Hiphil) to pour out, emit, cause to bubble, belch forth
+
+  1b1) to pour out
+
+  1b2) to cause to bubble, ferment
+
+  1b3) to pour forth, emit, belch forth {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1897
-    proximity: 0.8263
+    lemma: הָגָה
+    gloss: to murmur {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: H6476
-    proximity: 0.8245
+    lemma: פָּצַח
+    gloss: to break out {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
   - strongs: H5608
-    proximity: 0.8149
+    lemma: סָפַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
   - strongs: H1984
-    proximity: 0.812
+    lemma: הָלַל
+    gloss: to be clear (orig. of sound {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: H5091
-    proximity: 0.8111
+    lemma: נָהָה
+    gloss: to groan {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   - strongs: A5312
-    proximity: 0.8099
+    proximity: 0.8099 {macula-proximity}
   - strongs: H2186a
-    proximity: 0.8052
+    proximity: 0.8052 {macula-proximity}
   - strongs: H7783
-    proximity: 0.7954
+    lemma: שׁוּק
+    gloss: to run after or over {openscriptures-strongs}
+    proximity: 0.7954 {macula-proximity}
   - strongs: H2107
-    proximity: 0.7934
+    lemma: זוּל
+    gloss: probably to shake out {openscriptures-strongs}
+    proximity: 0.7934 {macula-proximity}
   - strongs: H2100
-    proximity: 0.7875
+    lemma: זוּב
+    gloss: to flow freely {openscriptures-strongs}
+    proximity: 0.7875 {macula-proximity}
   cross_language:
   - strongs: G1834
-    proximity: 0.8157
+    lemma: ἐξηγέομαι
+    gloss: to consider out {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
     language: greek
   - strongs: G5462
-    proximity: 0.8109
+    lemma: φωτισμός
+    gloss: illumination {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
     language: greek
   - strongs: G1607
-    proximity: 0.8054
+    lemma: ἐκπορεύομαι
+    gloss: to depart {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
     language: greek
   - strongs: G5350
-    proximity: 0.7953
+    lemma: φθέγγομαι
+    gloss: to utter a clear sound {openscriptures-strongs}
+    proximity: 0.7953 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -8,49 +8,70 @@ definition: (concretely) a boy (as active), from the age of infancy to adolescen
   in age)
 kjv_usage: babe, boy, child, damsel (from the margin), lad, servant, young (man).
 derivation: from H5287 (נָעַר);
-extended_definition:
-  gloss: youth
-  definition: 1) a boy, lad, servant, youth, retainer<br>1a) boy, lad, youth<br>1b)
-    servant, retainer
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) a boy, lad, servant, youth, retainer
+
+  1a) boy, lad, youth
+
+  1b) servant, retainer {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2233
-    proximity: 0.8291
+    lemma: זֶרַע
+    gloss: seed {openscriptures-strongs}
+    proximity: 0.8291 {macula-proximity}
   - strongs: H5347
-    proximity: 0.8246
+    lemma: נְקֵבָה
+    gloss: female {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
   - strongs: H2205
-    proximity: 0.8187
+    lemma: זָקֵן
+    gloss: old {openscriptures-strongs}
+    proximity: 0.8187 {macula-proximity}
   - strongs: H1397
-    proximity: 0.8176
+    lemma: גֶּבֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   - strongs: H6185
-    proximity: 0.8095
+    lemma: עֲרִירִי
+    gloss: bare {openscriptures-strongs}
+    proximity: 0.8095 {macula-proximity}
   - strongs: A1247
-    proximity: 0.8074
+    proximity: 0.8074 {macula-proximity}
   - strongs: H2138
-    proximity: 0.8044
+    lemma: זָכוּר
+    gloss: a male {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
   - strongs: H5959
-    proximity: 0.7999
+    lemma: עַלְמָה
+    gloss: a lass {openscriptures-strongs}
+    proximity: 0.7999 {macula-proximity}
   - strongs: H1482
-    proximity: 0.7996
+    lemma: גּוּר
+    gloss: a cub {openscriptures-strongs}
+    proximity: 0.7996 {macula-proximity}
   - strongs: H8198
-    proximity: 0.793
+    lemma: שִׁפְחָה
+    gloss: a female slave {openscriptures-strongs}
+    proximity: 0.793 {macula-proximity}
   cross_language:
   - strongs: G4690
-    proximity: 0.8287
+    lemma: σπέρμα
+    gloss: something sown {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
     language: greek
   - strongs: G3011
-    proximity: 0.8277
+    lemma: λειτουργός
+    gloss: a public servant {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
     language: greek
   - strongs: G3812
-    proximity: 0.8257
+    lemma: παιδιόθεν
+    gloss: from infancy {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G4889
-    proximity: 0.808
+    lemma: σύνδουλος
+    gloss: a co-slave {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

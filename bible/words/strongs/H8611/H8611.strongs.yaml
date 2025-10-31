@@ -6,27 +6,23 @@ pronunciation: to'-feth
 definition: a smiting, i.e. (figuratively) contempt
 kjv_usage: tabret.
 derivation: from the base of H8608 (תָּפַף);
-extended_definition:
-  gloss: spit
-  definition: act of spitting, spit
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: act of spitting, spit {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7388
-    proximity: 0.7626
+    lemma: רִיר
+    gloss: saliva {openscriptures-strongs}
+    proximity: 0.7626 {macula-proximity}
   cross_language:
   - strongs: G876
-    proximity: 0.8235
+    proximity: 0.8235 {macula-proximity}
     language: greek
   - strongs: G875
-    proximity: 0.7785
+    proximity: 0.7785 {macula-proximity}
     language: greek
   - strongs: G4427
-    proximity: 0.7302
+    lemma: πτύσμα
+    gloss: saliva {openscriptures-strongs}
+    proximity: 0.7302 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

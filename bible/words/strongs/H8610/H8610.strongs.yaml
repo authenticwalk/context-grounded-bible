@@ -8,52 +8,71 @@ definition: to manipulate, i.e. seize; chiefly to capture, wield, specifically, 
 kjv_usage: catch, handle, (lay, take) hold (on, over), stop, [idiom] surely, surprise,
   take.
 derivation: a primitive root;
-extended_definition:
-  gloss: to capture
-  definition: 1) to catch, handle, lay hold, take hold of, seize, wield<br>1a) (Qal)<br>1a1)
-    to lay hold of, seize, arrest, catch<br>1a2) to grasp (in order to) wield, wield,
-    use skilfully<br>1b) (Niphal) to be seized, be arrested, be caught, be taken,
-    captured<br>1c) (Piel) to catch, grasp (with the hands)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to catch, handle, lay hold, take hold of, seize, wield
+
+  1a) (Qal)
+
+  1a1) to lay hold of, seize, arrest, catch
+
+  1a2) to grasp (in order to) wield, wield, use skilfully
+
+  1b) (Niphal) to be seized, be arrested, be caught, be taken, captured
+
+  1c) (Piel) to catch, grasp (with the hands) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2490
-    proximity: 0.8243
+    lemma: חָלַל
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: A1547
-    proximity: 0.8201
+    proximity: 0.8201 {macula-proximity}
   - strongs: H7997
-    proximity: 0.8199
+    lemma: שָׁלַל
+    gloss: to drop or strip {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H3423
-    proximity: 0.8119
+    lemma: יָרַשׁ
+    gloss: to occupy (by driving out previous tenants {openscriptures-strongs}
+    proximity: 0.8119 {macula-proximity}
   - strongs: H6823
-    proximity: 0.8094
+    lemma: צָפָה
+    gloss: to sheet over {openscriptures-strongs}
+    proximity: 0.8094 {macula-proximity}
   - strongs: H7059
-    proximity: 0.7879
+    lemma: קָמַט
+    gloss: to pluck {openscriptures-strongs}
+    proximity: 0.7879 {macula-proximity}
   - strongs: H5844a
-    proximity: 0.7873
+    proximity: 0.7873 {macula-proximity}
   - strongs: H2388
-    proximity: 0.7831
+    lemma: חָזַק
+    gloss: to fasten upon {openscriptures-strongs}
+    proximity: 0.7831 {macula-proximity}
   - strongs: H2846
-    proximity: 0.7789
+    lemma: חָתָה
+    gloss: to lay hold of {openscriptures-strongs}
+    proximity: 0.7789 {macula-proximity}
   cross_language:
   - strongs: G4593
-    proximity: 0.8232
+    lemma: σημειόω
+    gloss: to distinguish {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
     language: greek
   - strongs: G164
-    proximity: 0.8225
+    proximity: 0.8225 {macula-proximity}
     language: greek
   - strongs: G1405
-    proximity: 0.82
+    lemma: δράσσομαι
+    gloss: to grasp {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
   - strongs: G4023
-    proximity: 0.8115
+    lemma: περιέχω
+    gloss: to hold all around {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
     language: greek
   - strongs: G142
-    proximity: 0.7908
+    proximity: 0.7908 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

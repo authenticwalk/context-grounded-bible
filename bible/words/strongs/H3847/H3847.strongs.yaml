@@ -8,50 +8,71 @@ definition: properly, wrap around, i.e. (by implication) to put on agarment or c
 kjv_usage: (in) apparel, arm, array (self), clothe (self), come upon, put (on, upon),
   wear.
 derivation: or לָבֵשׁ; a primitive root;
-extended_definition:
-  gloss: to clothe
-  definition: '1) to dress, wear, clothe, put on clothing, be clothed<br>1a) (Qal)<br>1a1)
-    to put on clothes, be clothed, wear<br>1a2) to put on, be clothed with (fig.)<br>1b)
-    (Pual) to be fully clothed<br>1c) (Hiphil) to clothe, array with, dress<BR>Aramaic
-    equivalent: <i>le.vash</i> (לְבֵשׁ "to clothe" H3848)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to dress, wear, clothe, put on clothing, be clothed
+
+  1a) (Qal)
+
+  1a1) to put on clothes, be clothed, wear
+
+  1a2) to put on, be clothed with (fig.)
+
+  1b) (Pual) to be fully clothed
+
+  1c) (Hiphil) to clothe, array with, dress
+
+  Aramaic equivalent: le.vash (לְבֵשׁ "to clothe" H3848) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5414
-    proximity: 0.8296
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
   - strongs: H6823
-    proximity: 0.8285
+    lemma: צָפָה
+    gloss: to sheet over {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
   - strongs: H247
-    proximity: 0.8258
+    proximity: 0.8258 {macula-proximity}
   - strongs: H5849
-    proximity: 0.824
+    lemma: עָטַר
+    gloss: to encircle {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: H5259
-    proximity: 0.8221
+    lemma: נָסַךְ
+    gloss: to interweave {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H5480
-    proximity: 0.8207
+    lemma: סוּךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H5844a
-    proximity: 0.8136
+    proximity: 0.8136 {macula-proximity}
   - strongs: H6826
-    proximity: 0.8032
+    lemma: צִפּוּי
+    gloss: encasement {openscriptures-strongs}
+    proximity: 0.8032 {macula-proximity}
   cross_language:
   - strongs: G2066
-    proximity: 0.8243
+    lemma: ἐσθής
+    gloss: dress {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
     language: greek
   - strongs: G1688
-    proximity: 0.8233
+    lemma: ἐμβιβάζω
+    gloss: causative of G1684 ) {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
     language: greek
   - strongs: G1904a
-    proximity: 0.8203
+    proximity: 0.8203 {macula-proximity}
     language: greek
   - strongs: G2572
-    proximity: 0.8175
+    lemma: καλύπτω
+    gloss: to cover up {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
     language: greek
   - strongs: G1909
-    proximity: 0.806
+    lemma: ἐπί
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,47 +6,59 @@ pronunciation: sheeth
 definition: a dress (as put on)
 kjv_usage: attire.
 derivation: from H7896 (שִׁית);
-extended_definition:
-  gloss: garment
-  definition: garment
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: garment {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7757
-    proximity: 0.8183
+    lemma: שׁוּל
+    gloss: a skirt {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: H6648
-    proximity: 0.8127
+    lemma: צֶבַע
+    gloss: a dye {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
   - strongs: H5466
-    proximity: 0.8026
+    lemma: סָדִין
+    gloss: a wrapper {openscriptures-strongs}
+    proximity: 0.8026 {macula-proximity}
   - strongs: H8516
-    proximity: 0.7661
+    lemma: תַּלְבֹּשֶׁת
+    gloss: a garment {openscriptures-strongs}
+    proximity: 0.7661 {macula-proximity}
   - strongs: H8509
-    proximity: 0.7355
+    lemma: תַּכְרִיךְ
+    gloss: a wrapper or robe {openscriptures-strongs}
+    proximity: 0.7355 {macula-proximity}
   - strongs: A3831
-    proximity: 0.7349
+    proximity: 0.7349 {macula-proximity}
   - strongs: H3682
-    proximity: 0.7321
+    lemma: כְּסוּת
+    gloss: a cover {openscriptures-strongs}
+    proximity: 0.7321 {macula-proximity}
   - strongs: H155
-    proximity: 0.7145
+    proximity: 0.7145 {macula-proximity}
   cross_language:
   - strongs: G4018
-    proximity: 0.8225
+    lemma: περιβόλαιον
+    gloss: something thrown around one {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
     language: greek
   - strongs: G2067
-    proximity: 0.8143
+    lemma: ἔσθησις
+    gloss: clothing {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
     language: greek
   - strongs: G294
-    proximity: 0.8109
+    proximity: 0.8109 {macula-proximity}
     language: greek
   - strongs: G2439
-    proximity: 0.801
+    lemma: ἱματίζω
+    gloss: to dress {openscriptures-strongs}
+    proximity: 0.801 {macula-proximity}
     language: greek
   - strongs: G5511
-    proximity: 0.7923
+    lemma: χλαμύς
+    gloss: a military cloak {openscriptures-strongs}
+    proximity: 0.7923 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

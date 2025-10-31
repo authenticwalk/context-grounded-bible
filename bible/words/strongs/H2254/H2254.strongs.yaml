@@ -11,18 +11,23 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H6161
-    proximity: 0.8274
+    lemma: עֲרֻבָּה
+    gloss: something given as security {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
   - strongs: H5670
-    proximity: 0.8026
+    lemma: עָבַט
+    gloss: to pawn {openscriptures-strongs}
+    proximity: 0.8026 {macula-proximity}
   - strongs: H3947
-    proximity: 0.7978
+    lemma: לָקַח
+    gloss: to take {openscriptures-strongs}
+    proximity: 0.7978 {macula-proximity}
   - strongs: H8667
-    proximity: 0.7691
+    lemma: תְּשׂוּמֶת
+    gloss: a deposit {openscriptures-strongs}
+    proximity: 0.7691 {macula-proximity}
   cross_language:
   - strongs: G728
-    proximity: 0.7782
+    proximity: 0.7782 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

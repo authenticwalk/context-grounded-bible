@@ -6,31 +6,31 @@ pronunciation: haw
 definition: ah! expressing grief
 kjv_usage: woe worth.
 derivation: a shortened form of H162 (אֲהָהּ);
-extended_definition:
-  gloss: alas!
-  definition: alas!
-  morphology: H:Intj
-  source: STEPBible/BDB
+extended_definition: alas! {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3015
-    proximity: 0.8264
+    lemma: יָגוֹן
+    gloss: affliction {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
   - strongs: H60
-    proximity: 0.8191
+    proximity: 0.8191 {macula-proximity}
   - strongs: H8386
-    proximity: 0.8133
+    lemma: תַּאֲנִיָּה
+    gloss: lamentation {openscriptures-strongs}
+    proximity: 0.8133 {macula-proximity}
   - strongs: H56a
-    proximity: 0.7524
+    proximity: 0.7524 {macula-proximity}
   - strongs: H4553
-    proximity: 0.741
+    lemma: מִסְפֵּד
+    gloss: a lamentation {openscriptures-strongs}
+    proximity: 0.741 {macula-proximity}
   - strongs: H56
-    proximity: 0.7273
+    proximity: 0.7273 {macula-proximity}
   cross_language:
   - strongs: G3996
-    proximity: 0.7417
+    lemma: πενθέω
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.7417 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

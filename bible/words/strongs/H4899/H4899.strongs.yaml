@@ -7,36 +7,40 @@ definition: anointed; usually a consecrated person (as a king, priest, or saint)
   specifically, the Messiah
 kjv_usage: anointed, Messiah.
 derivation: from H4886 (מָשַׁח);
-extended_definition:
-  gloss: anointed
-  definition: 1) anointed, anointed one<br>1a) of the Messiah, Messianic prince<br>1b)
-    of the king of Israel<br>1c) of the high priest of Israel<br>1d) of Cyrus<br>1e)
-    of the patriarchs as anointed kings
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) anointed, anointed one
+
+  1a) of the Messiah, Messianic prince
+
+  1b) of the king of Israel
+
+  1c) of the high priest of Israel
+
+  1d) of Cyrus
+
+  1e) of the patriarchs as anointed kings {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1101
-    proximity: 0.8158
+    lemma: בָּלַל
+    gloss: to overflow {openscriptures-strongs}
+    proximity: 0.8158 {macula-proximity}
   - strongs: H972
-    proximity: 0.8115
+    proximity: 0.8115 {macula-proximity}
   - strongs: A4887
-    proximity: 0.7954
+    proximity: 0.7954 {macula-proximity}
   - strongs: H977
-    proximity: 0.7763
+    proximity: 0.7763 {macula-proximity}
   - strongs: H5480
-    proximity: 0.7699
+    lemma: סוּךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7699 {macula-proximity}
   - strongs: H4888a
-    proximity: 0.7138
+    proximity: 0.7138 {macula-proximity}
   cross_language:
   - strongs: G140
-    proximity: 0.7931
+    proximity: 0.7931 {macula-proximity}
     language: greek
   - strongs: G218
-    proximity: 0.708
+    proximity: 0.708 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

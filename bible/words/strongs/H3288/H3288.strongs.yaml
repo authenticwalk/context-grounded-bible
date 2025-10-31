@@ -6,45 +6,57 @@ pronunciation: yeh-awf'
 definition: fatigue (adverb, utterly exhausted)
 kjv_usage: swiftly.e
 derivation: from H3286 (יָעַף);
-extended_definition:
-  gloss: weariness
-  definition: weariness, fatigue, faintness
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: weariness, fatigue, faintness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1468
-    proximity: 0.8176
+    lemma: גּוּז
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   - strongs: H82
-    proximity: 0.8126
+    proximity: 0.8126 {macula-proximity}
   - strongs: H7031
-    proximity: 0.8076
+    lemma: קַל
+    gloss: light {openscriptures-strongs}
+    proximity: 0.8076 {macula-proximity}
   - strongs: H4120
-    proximity: 0.7949
+    lemma: מְהֵרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7949 {macula-proximity}
   - strongs: H1765
-    proximity: 0.7903
+    lemma: דָּחַף
+    gloss: to urge {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
   - strongs: H2363
-    proximity: 0.7902
+    lemma: חוּשׁ
+    gloss: to hurry {openscriptures-strongs}
+    proximity: 0.7902 {macula-proximity}
   - strongs: H6524a
-    proximity: 0.786
+    proximity: 0.786 {macula-proximity}
   - strongs: A924
-    proximity: 0.7798
+    proximity: 0.7798 {macula-proximity}
   - strongs: H2070
-    proximity: 0.773
+    lemma: זְבוּב
+    gloss: a fly {openscriptures-strongs}
+    proximity: 0.773 {macula-proximity}
   - strongs: H4118
-    proximity: 0.7726
+    lemma: מַהֵר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7726 {macula-proximity}
   cross_language:
   - strongs: G5036
-    proximity: 0.8194
+    lemma: ταχύς
+    gloss: fleet {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G1722
-    proximity: 0.8193
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.8193 {macula-proximity}
     language: greek
   - strongs: G4708
-    proximity: 0.76
+    lemma: σπουδαιοτέρως
+    gloss: more speedily {openscriptures-strongs}
+    proximity: 0.76 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

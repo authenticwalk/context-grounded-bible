@@ -8,52 +8,73 @@ kjv_usage: abundance(-antly), all, [idiom] common (sort), excellent, great(-ly, 
   number), huge, be increased, long, many, more in number, most, much, multitude,
   plenty(-ifully), [idiom] very (age).
 derivation: from H7231 (רָבַב);
-extended_definition:
-  gloss: abundance
-  definition: 1) multitude, abundance, greatness<br>1a) multitude<br>1a1) abundance,
-    abundantly<br>1a2) numerous<br>1b) greatness
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) multitude, abundance, greatness
+
+  1a) multitude
+
+  1a1) abundance, abundantly
+
+  1a2) numerous
+
+  1b) greatness {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3581
-    proximity: 0.8286
+    lemma: כֹּחַ
+    gloss: vigor {openscriptures-strongs}
+    proximity: 0.8286 {macula-proximity}
   - strongs: H871a
-    proximity: 0.8276
+    proximity: 0.8276 {macula-proximity}
   - strongs: H8228
-    proximity: 0.8275
+    lemma: שֶׁפַע
+    gloss: resources {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H2123a
-    proximity: 0.8263
+    proximity: 0.8263 {macula-proximity}
   - strongs: H4390
-    proximity: 0.8243
+    lemma: מָלֵא
+    gloss: to fill or  be full of {openscriptures-strongs}
+    proximity: 0.8243 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.8231
+    proximity: 0.8231 {macula-proximity}
   - strongs: H533
-    proximity: 0.8222
+    proximity: 0.8222 {macula-proximity}
   - strongs: H3524
-    proximity: 0.8198
+    lemma: כַּבִּיר
+    gloss: vast {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
   - strongs: H7653
-    proximity: 0.8183
+    lemma: שִׂבְעָה
+    gloss: satiety {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
   - strongs: H5519
-    proximity: 0.8157
+    lemma: סָךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8157 {macula-proximity}
   cross_language:
   - strongs: G5081
-    proximity: 0.8251
+    lemma: τηλαυγῶς
+    gloss: in a far-shining manner {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
     language: greek
   - strongs: G4179
-    proximity: 0.8212
+    lemma: πολλαπλασίων
+    gloss: manifold {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
     language: greek
   - strongs: G3123
-    proximity: 0.8202
+    lemma: μᾶλλον
+    gloss: more ) or rather {openscriptures-strongs}
+    proximity: 0.8202 {macula-proximity}
     language: greek
   - strongs: G4055
-    proximity: 0.8192
+    lemma: περισσότερος
+    gloss: more superabundant (in number {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
     language: greek
   - strongs: G4050
-    proximity: 0.8185
+    lemma: περισσεία
+    gloss: surplusage {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

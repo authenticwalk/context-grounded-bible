@@ -6,45 +6,57 @@ pronunciation: paw-kaw'
 definition: to pour
 kjv_usage: run out.
 derivation: a primitive root;
-extended_definition:
-  gloss: to trickle
-  definition: 1) to trickle, pour<br>1a) (Piel) to trickle, drop down (water)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to trickle, pour
+
+  1a) (Piel) to trickle, drop down (water) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7324a
-    proximity: 0.8265
+    proximity: 0.8265 {macula-proximity}
   - strongs: H2187
-    proximity: 0.8238
+    lemma: זָנַק
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H1680
-    proximity: 0.8236
+    lemma: דָּבַב
+    gloss: to move slowly {openscriptures-strongs}
+    proximity: 0.8236 {macula-proximity}
   - strongs: H7997a
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
   - strongs: H3154
-    proximity: 0.8056
+    lemma: יֶזַע
+    gloss: sweat {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H1865a
-    proximity: 0.7972
+    proximity: 0.7972 {macula-proximity}
   - strongs: H5042
-    proximity: 0.7647
+    lemma: נָבַע
+    gloss: to gush forth {openscriptures-strongs}
+    proximity: 0.7647 {macula-proximity}
   cross_language:
   - strongs: G1806
-    proximity: 0.83
+    lemma: ἐξάγω
+    gloss: to lead forth {openscriptures-strongs}
+    proximity: 0.83 {macula-proximity}
     language: greek
   - strongs: G1368
-    proximity: 0.8289
+    lemma: διϋλίζω
+    gloss: to strain out {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: greek
   - strongs: G1204
-    proximity: 0.8274
+    lemma: δεῦρο
+    gloss: here {openscriptures-strongs}
+    proximity: 0.8274 {macula-proximity}
     language: greek
   - strongs: G1633
-    proximity: 0.8264
+    lemma: ἐκχωρέω
+    gloss: to depart {openscriptures-strongs}
+    proximity: 0.8264 {macula-proximity}
     language: greek
   - strongs: G1831
-    proximity: 0.8227
+    lemma: ἐξέρχομαι
+    gloss: to issue {openscriptures-strongs}
+    proximity: 0.8227 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

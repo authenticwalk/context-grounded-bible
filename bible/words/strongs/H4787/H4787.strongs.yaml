@@ -6,48 +6,64 @@ pronunciation: mor-raw'
 definition: trouble
 kjv_usage: bitterness.
 derivation: a form of H4786 (מֹרָה);
-extended_definition:
-  gloss: bitterness
-  definition: bitterness
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: bitterness {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4786
-    proximity: 0.8207
+    lemma: מֹרָה
+    gloss: bitterness {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: H1674
-    proximity: 0.8205
+    lemma: דְּאָגָה
+    gloss: anxiety {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
   - strongs: H6089a
-    proximity: 0.8176
+    proximity: 0.8176 {macula-proximity}
   - strongs: H17
-    proximity: 0.8088
+    proximity: 0.8088 {macula-proximity}
   - strongs: H3015
-    proximity: 0.7983
+    lemma: יָגוֹן
+    gloss: affliction {openscriptures-strongs}
+    proximity: 0.7983 {macula-proximity}
   - strongs: H3511
-    proximity: 0.7943
+    lemma: כְּאֵב
+    gloss: suffering {openscriptures-strongs}
+    proximity: 0.7943 {macula-proximity}
   - strongs: H6094
-    proximity: 0.7924
+    lemma: עַצֶּבֶת
+    gloss: a idol {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
   - strongs: H8589
-    proximity: 0.7861
+    lemma: תַּעֲנִית
+    gloss: affliction {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
   - strongs: H7115
-    proximity: 0.7819
+    lemma: קֹצֶר
+    gloss: shortness {openscriptures-strongs}
+    proximity: 0.7819 {macula-proximity}
   - strongs: H3939
-    proximity: 0.7813
+    lemma: לַעֲנָה
+    gloss: wormwood (regarded as poisonous {openscriptures-strongs}
+    proximity: 0.7813 {macula-proximity}
   cross_language:
   - strongs: G3077
-    proximity: 0.7905
+    lemma: λύπη
+    gloss: sadness {openscriptures-strongs}
+    proximity: 0.7905 {macula-proximity}
     language: greek
   - strongs: G4730
-    proximity: 0.79
+    lemma: στενοχωρία
+    gloss: narrowness of room {openscriptures-strongs}
+    proximity: 0.79 {macula-proximity}
     language: greek
   - strongs: G3804
-    proximity: 0.779
+    lemma: πάθημα
+    gloss: something undergone {openscriptures-strongs}
+    proximity: 0.779 {macula-proximity}
     language: greek
   - strongs: G3601
-    proximity: 0.7672
+    lemma: ὀδύνη
+    gloss: grief {openscriptures-strongs}
+    proximity: 0.7672 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

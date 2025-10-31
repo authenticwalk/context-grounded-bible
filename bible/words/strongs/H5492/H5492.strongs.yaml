@@ -9,30 +9,43 @@ derivation: from H5486 (סוּף);
 related_words:
   synonyms:
   - strongs: H5868
-    proximity: 0.8226
+    lemma: עֲיָם
+    gloss: probably meaning strength {openscriptures-strongs}
+    proximity: 0.8226 {macula-proximity}
   - strongs: H5590
-    proximity: 0.8039
+    lemma: סָעַר
+    gloss: to rush upon {openscriptures-strongs}
+    proximity: 0.8039 {macula-proximity}
   - strongs: H7307
-    proximity: 0.7878
+    lemma: רוּחַ
+    gloss: wind {openscriptures-strongs}
+    proximity: 0.7878 {macula-proximity}
   - strongs: H5502
-    proximity: 0.774
+    lemma: סָחַף
+    gloss: to scrape off {openscriptures-strongs}
+    proximity: 0.774 {macula-proximity}
   - strongs: H4306
-    proximity: 0.7678
+    lemma: מָטַר
+    gloss: rain {openscriptures-strongs}
+    proximity: 0.7678 {macula-proximity}
   - strongs: H1534a
-    proximity: 0.7343
+    proximity: 0.7343 {macula-proximity}
   - strongs: H7722a
-    proximity: 0.7334
+    proximity: 0.7334 {macula-proximity}
   cross_language:
   - strongs: G5189
-    proximity: 0.7894
+    lemma: τυφωνικός
+    gloss: stormy {openscriptures-strongs}
+    proximity: 0.7894 {macula-proximity}
     language: greek
   - strongs: G4578
-    proximity: 0.7521
+    lemma: σεισμός
+    gloss: a commotion {openscriptures-strongs}
+    proximity: 0.7521 {macula-proximity}
     language: greek
   - strongs: G5492
-    proximity: 0.7107
+    lemma: χειμάζω
+    gloss: to storm {openscriptures-strongs}
+    proximity: 0.7107 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

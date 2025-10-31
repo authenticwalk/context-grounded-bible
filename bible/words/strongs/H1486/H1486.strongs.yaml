@@ -7,44 +7,58 @@ definition: properly, a pebble, i.e. a lot (small stones being used for that pur
   figuratively, a portion or destiny (as if determined by lot)
 kjv_usage: lot.
 derivation: or (shortened) גֹּרָל; from an unused root meaning to be rough (as stone);
-extended_definition:
-  gloss: allotted
-  definition: 1) lot<br>1a) lot-pebbles used for systematically making decisions<br>2)
-    portion<br>2a) lot, portion (thing assigned by casting lots)<br>2b) recompense,
-    retribution
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) lot
+
+  1a) lot-pebbles used for systematically making decisions
+
+  2) portion
+
+  2a) lot, portion (thing assigned by casting lots)
+
+  2b) recompense, retribution {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4725
-    proximity: 0.8252
+    lemma: מָקוֹם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
   - strongs: H5307
-    proximity: 0.8125
+    lemma: נָפַל
+    gloss: to fall {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: H2904
-    proximity: 0.812
+    lemma: טוּל
+    gloss: to pitch over or reel {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: H3425
-    proximity: 0.8006
+    lemma: יְרֻשָּׁה
+    gloss: something occupied {openscriptures-strongs}
+    proximity: 0.8006 {macula-proximity}
   - strongs: H127
-    proximity: 0.7846
+    proximity: 0.7846 {macula-proximity}
   - strongs: H7993
-    proximity: 0.7844
+    lemma: שָׁלַךְ
+    gloss: to throw out {openscriptures-strongs}
+    proximity: 0.7844 {macula-proximity}
   - strongs: H2256
-    proximity: 0.7728
+    lemma: חֶבֶל
+    gloss: a rope {openscriptures-strongs}
+    proximity: 0.7728 {macula-proximity}
   - strongs: H272
-    proximity: 0.7707
+    proximity: 0.7707 {macula-proximity}
   - strongs: H3384
-    proximity: 0.7631
+    lemma: יָרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7631 {macula-proximity}
   - strongs: H776
-    proximity: 0.7383
+    proximity: 0.7383 {macula-proximity}
   cross_language:
   - strongs: G906
-    proximity: 0.7926
+    proximity: 0.7926 {macula-proximity}
     language: greek
   - strongs: G3091
-    proximity: 0.7425
+    lemma: Λώτ
+    gloss: Lot {openscriptures-strongs}
+    proximity: 0.7425 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

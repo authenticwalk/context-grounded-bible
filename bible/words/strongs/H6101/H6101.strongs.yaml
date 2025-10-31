@@ -6,34 +6,32 @@ pronunciation: aw-tsal'
 definition: to lean idly, i.e. to be indolent or slack
 kjv_usage: be slothful.
 derivation: a primitive root;
-extended_definition:
-  gloss: be sluggish
-  definition: (Niphal) to be sluggish
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Niphal) to be sluggish {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6452a
-    proximity: 0.8179
+    proximity: 0.8179 {macula-proximity}
   - strongs: H6102
-    proximity: 0.788
+    lemma: עָצֵל
+    gloss: indolent {openscriptures-strongs}
+    proximity: 0.788 {macula-proximity}
   - strongs: H6103a
-    proximity: 0.7283
+    proximity: 0.7283 {macula-proximity}
   cross_language:
   - strongs: G3636
-    proximity: 0.8091
+    lemma: ὀκνηρός
+    gloss: tardy {openscriptures-strongs}
+    proximity: 0.8091 {macula-proximity}
     language: greek
   - strongs: G3576
-    proximity: 0.7924
+    lemma: νωθρός
+    gloss: sluggish {openscriptures-strongs}
+    proximity: 0.7924 {macula-proximity}
     language: greek
   - strongs: G691
-    proximity: 0.7039
+    proximity: 0.7039 {macula-proximity}
     language: greek
   - strongs: G311
-    proximity: 0.7011
+    proximity: 0.7011 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

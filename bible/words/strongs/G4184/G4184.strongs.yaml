@@ -5,47 +5,56 @@ transliteration: polýsplanchnos
 definition: extremely compassionate
 kjv_usage: very pitiful
 derivation: from G4183 (πολύς) and G4698 (σπλάγχνον) (figuratively);
-extended_definition:
-  gloss: very compassionate
-  definition: '<b>πολύσπλαγχνος</b>, -ον<BR /> (πολύς, σπλάγχνον), <BR /><b>very pitiful</b>:
-    <ref=''Jas.5.11.''>Jas.5:11.</ref>†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> πολύ-σπλαγχνος</b>, ον, <br /> <b>of great mercy,</b> [<a href="javascript:void(0)"
-    title="NT.Jam.5.11. ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'πολύσπλαγχνος, -ον
+
+  (πολύς, σπλάγχνον),
+
+  very pitiful: Jas.5:11.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'πολύ-σπλαγχνος, ον,
+
+  of great mercy, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A4391
-    proximity: 0.8132
+    proximity: 0.8132 {macula-proximity}
   - strongs: G3325
-    proximity: 0.8131
+    lemma: μεστόω
+    gloss: to replenish {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
   - strongs: G2712
-    proximity: 0.8045
+    lemma: κατείδωλος
+    gloss: utterly idolatrous {openscriptures-strongs}
+    proximity: 0.8045 {macula-proximity}
   - strongs: A2604
-    proximity: 0.7949
+    proximity: 0.7949 {macula-proximity}
   - strongs: G415
-    proximity: 0.7931
+    proximity: 0.7931 {macula-proximity}
   cross_language:
   - strongs: H2550
-    proximity: 0.8294
+    lemma: חָמַל
+    gloss: to commiserate {openscriptures-strongs}
+    proximity: 0.8294 {macula-proximity}
     language: hebrew
   - strongs: H6058
-    proximity: 0.8213
+    lemma: עָנֵף
+    gloss: branching {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
     language: hebrew
   - strongs: H2347
-    proximity: 0.8186
+    lemma: חוּס
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
     language: hebrew
   - strongs: H2594
-    proximity: 0.8153
+    lemma: חֲנִינָה
+    gloss: graciousness {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
     language: hebrew
   - strongs: H2587
-    proximity: 0.8148
+    lemma: חַנּוּן
+    gloss: gracious {openscriptures-strongs}
+    proximity: 0.8148 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

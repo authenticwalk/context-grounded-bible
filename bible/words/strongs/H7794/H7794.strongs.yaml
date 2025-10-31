@@ -6,49 +6,64 @@ pronunciation: shore
 definition: a bullock (as a traveller)
 kjv_usage: bull(-ock), cow, ox, wall (by mistake for H7791 (שׁוּר)).
 derivation: from H7788 (שׁוּר);
-extended_definition:
-  gloss: cattle
-  definition: '1) ox, bull, a head of cattle<br>1a) for plowing, for food, as sacrifice<BR>Aramaic
-    equivalent: <i>tor</i> (תּוֹר "bullock" H8450)'
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) ox, bull, a head of cattle
+
+  1a) for plowing, for food, as sacrifice
+
+  Aramaic equivalent: tor (תּוֹר "bullock" H8450) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H75
-    proximity: 0.8242
+    proximity: 0.8242 {macula-proximity}
   - strongs: H5763
-    proximity: 0.8152
+    lemma: עוּל
+    gloss: to suckle {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: H4770
-    proximity: 0.8149
+    lemma: מַרְבֵּק
+    gloss: a stall {openscriptures-strongs}
+    proximity: 0.8149 {macula-proximity}
   - strongs: A1123
-    proximity: 0.81
+    proximity: 0.81 {macula-proximity}
   - strongs: H2543
-    proximity: 0.8057
+    lemma: חֲמוֹר
+    gloss: a male ass {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
   - strongs: H929
-    proximity: 0.8006
+    proximity: 0.8006 {macula-proximity}
   - strongs: H4735
-    proximity: 0.7883
+    lemma: מִקְנֶה
+    gloss: something bought {openscriptures-strongs}
+    proximity: 0.7883 {macula-proximity}
   - strongs: H6776
-    proximity: 0.7866
+    lemma: צֶמֶד
+    gloss: hence {openscriptures-strongs}
+    proximity: 0.7866 {macula-proximity}
   - strongs: H4220
-    proximity: 0.7716
+    lemma: מֵחַ
+    gloss: fat {openscriptures-strongs}
+    proximity: 0.7716 {macula-proximity}
   - strongs: H5739
-    proximity: 0.7668
+    lemma: עֵדֶר
+    gloss: an arrangement {openscriptures-strongs}
+    proximity: 0.7668 {macula-proximity}
   cross_language:
   - strongs: G3447
-    proximity: 0.8106
+    lemma: μοσχοποιέω
+    gloss: to fabricate the image of a bullock {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
     language: greek
   - strongs: G34
-    proximity: 0.7878
+    proximity: 0.7878 {macula-proximity}
     language: greek
   - strongs: G4263
-    proximity: 0.7861
+    lemma: πρόβατον
+    gloss: something that walks forward {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
     language: greek
   - strongs: G1151
-    proximity: 0.7625
+    lemma: δάμαλις
+    gloss: a heifer {openscriptures-strongs}
+    proximity: 0.7625 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -8,48 +8,63 @@ kjv_usage: '[phrase] after, (al-) ways, [idiom] certain, [phrase] continually, [
   evening, long, (due) season, so (long) as, (even-, evening-, noon-) tide, (meal-),
   what) time, when.'
 derivation: from H5703 (עַד);
-extended_definition:
-  gloss: time
-  definition: 1) time<br>1a) time (of an event)<br>1b) time (usual)<br>1c) experiences,
-    fortunes<br>1d) occurrence, occasion
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: '1) time
+
+  1a) time (of an event)
+
+  1b) time (usual)
+
+  1c) experiences, fortunes
+
+  1d) occurrence, occasion {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A8578
-    proximity: 0.828
+    proximity: 0.828 {macula-proximity}
   - strongs: A2050d
-    proximity: 0.8277
+    proximity: 0.8277 {macula-proximity}
   - strongs: H1931
-    proximity: 0.8258
+    lemma: הוּא
+    gloss: he {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H4175a
-    proximity: 0.8236
+    proximity: 0.8236 {macula-proximity}
   - strongs: H60
-    proximity: 0.8206
+    proximity: 0.8206 {macula-proximity}
   - strongs: H2008
-    proximity: 0.8185
+    lemma: הֵנָּה
+    gloss: hither or thither {openscriptures-strongs}
+    proximity: 0.8185 {macula-proximity}
   - strongs: H4480
-    proximity: 0.8143
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
   - strongs: H2050b
-    proximity: 0.8119
+    proximity: 0.8119 {macula-proximity}
   cross_language:
   - strongs: G4282
-    proximity: 0.8252
+    lemma: προετοιμάζω
+    gloss: to fit up in advance {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: greek
   - strongs: G1336
-    proximity: 0.8251
+    lemma: διηνεκής
+    gloss: carried through {openscriptures-strongs}
+    proximity: 0.8251 {macula-proximity}
     language: greek
   - strongs: G1542
-    proximity: 0.825
+    lemma: ἑκατονταπλασίων
+    gloss: a hundred times {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
     language: greek
   - strongs: G5073
-    proximity: 0.8237
+    lemma: τετραπλόος
+    gloss: quadruple {openscriptures-strongs}
+    proximity: 0.8237 {macula-proximity}
     language: greek
   - strongs: G2596
-    proximity: 0.8169
+    lemma: κατά
+    gloss: down {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

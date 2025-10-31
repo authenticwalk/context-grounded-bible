@@ -5,62 +5,72 @@ transliteration: klydōnízomai
 definition: to surge, i.e. (figuratively) to fluctuate
 kjv_usage: toss to and fro
 derivation: middle voice from G2830 (κλύδων);
-extended_definition:
-  gloss: to toss
-  definition: '<b>κλυδωνίζομαι</b><BR /> (κλύδων), [in LXX: <ref=''Isa.57.20''>Isa.57:20</ref>
-    (גָּרַשׁ)* ;] <BR /><b>to be tossed by waves</b>; metaphorically, <b>to be tossed
-    like waves </b>(cf. FlJ, <i>Ant.</i>, ix, 11, 3): <ref=''Eph.4.14.''>Eph.4:14.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κλῠδων-ίζω</b>, <br /> [<a href="javascript:void(0)" title="
-    10th c.AD: Suidas Legal icographus ">Refs</a>]:—elsewhere in <i>passive</i>, <b>to
-    be buffeted, swept by heavy seas</b>, τὸν κυβερνήτην -ίζεσθαι καὶ ἀστοχεῖν θαλασσομαχοῦντα
-    Vett.[<a href="javascript:void(0)" title=" Val. 354.26; - ομένη ναῦς 6th c.AD:
-    Philoponus, Joannes Philosophus “in Aristotelis Analytica Posteriora commentaria
-    - pars” 381.7 ">Refs 6th c.AD+</a>]: usually <i>metaphorically</i>, <b>to be disturbed,
-    thrown into confusion</b>, οἱ ἄδικοι κλυδωνισθήσονται [<a href="javascript:void(0)"
-    title=" LXX.Isa.57.20; δῆμος ταρασσόμενος καὶ -ιζόμενος 1st c.AD: Josephus Historicus
-    “Antiquitates Judaicae” 9.11.3 ">LXX+1st c.AD+</a>]; <b>to be tossed about</b>,
-    παντὶ ἀνέμῳ τῆς διδασκαλίας [<a href="javascript:void(0)" title=" NT.Eph.4.14.
-    ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κλυδωνίζομαι
+
+  (κλύδων), [in LXX: Isa.57:20 (גָּרַשׁ)* ;]
+
+  to be tossed by waves; metaphorically, to be tossed like waves (cf. FlJ, Ant., ix,
+  11, 3): Eph.4:14.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κλῠδων-ίζω,
+
+  [Refs]:—elsewhere in passive, to be buffeted, swept by heavy seas, τὸν κυβερνήτην
+  -ίζεσθαι καὶ ἀστοχεῖν θαλασσομαχοῦντα Vett.[Refs 6th c.AD+]: usually metaphorically,
+  to be disturbed, thrown into confusion, οἱ ἄδικοι κλυδωνισθήσονται [LXX+1st c.AD+];
+  to be tossed about, παντὶ ἀνέμῳ τῆς διδασκαλίας [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4494
-    proximity: 0.8103
+    lemma: ῥιπίζω
+    gloss: to breeze up {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8041
+    proximity: 0.8041 {macula-proximity}
   - strongs: G2830
-    proximity: 0.7943
+    lemma: κλύδων
+    gloss: a surge of the sea {openscriptures-strongs}
+    proximity: 0.7943 {macula-proximity}
   - strongs: G3588
-    proximity: 0.7932
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
   - strongs: G5492
-    proximity: 0.7777
+    lemma: χειμάζω
+    gloss: to storm {openscriptures-strongs}
+    proximity: 0.7777 {macula-proximity}
   - strongs: G4535
-    proximity: 0.775
+    lemma: σάλος
+    gloss: a vibration {openscriptures-strongs}
+    proximity: 0.775 {macula-proximity}
   - strongs: G4064
-    proximity: 0.7183
+    lemma: περιφέρω
+    gloss: to convey around {openscriptures-strongs}
+    proximity: 0.7183 {macula-proximity}
   cross_language:
   - strongs: H5130
-    proximity: 0.8258
+    lemma: נוּף
+    gloss: to quiver (i.e. vibrate up and down {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: hebrew
   - strongs: H5076
-    proximity: 0.8176
+    lemma: נָדֻד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
     language: hebrew
   - strongs: H4128
-    proximity: 0.8174
+    lemma: מוּד
+    gloss: to shake {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
     language: hebrew
   - strongs: H5128
-    proximity: 0.815
+    lemma: נוּעַ
+    gloss: to waver {openscriptures-strongs}
+    proximity: 0.815 {macula-proximity}
     language: hebrew
   - strongs: H1796
-    proximity: 0.8122
+    lemma: דֳּכִי
+    gloss: a dashing of surf {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

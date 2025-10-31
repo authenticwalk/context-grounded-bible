@@ -6,37 +6,41 @@ pronunciation: rakh'-ats
 definition: a bath
 kjv_usage: wash(-pot).
 derivation: from H7364 (רָחַץ);
-extended_definition:
-  gloss: washing
-  definition: washing
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: washing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2881
-    proximity: 0.783
+    lemma: טָבַל
+    gloss: to dip {openscriptures-strongs}
+    proximity: 0.783 {macula-proximity}
   - strongs: H3526
-    proximity: 0.712
+    lemma: כָּבַס
+    gloss: to trample {openscriptures-strongs}
+    proximity: 0.712 {macula-proximity}
   - strongs: H7367
-    proximity: 0.7
+    lemma: רַחְצָה
+    gloss: a bathing place {openscriptures-strongs}
+    proximity: 0.7 {macula-proximity}
   cross_language:
   - strongs: G628
-    proximity: 0.7953
+    proximity: 0.7953 {macula-proximity}
     language: greek
   - strongs: G3068
-    proximity: 0.7602
+    lemma: λούω
+    gloss: to bathe (the whole person {openscriptures-strongs}
+    proximity: 0.7602 {macula-proximity}
     language: greek
   - strongs: G633
-    proximity: 0.7277
+    proximity: 0.7277 {macula-proximity}
     language: greek
   - strongs: G3067
-    proximity: 0.7084
+    lemma: λουτρόν
+    gloss: a bath {openscriptures-strongs}
+    proximity: 0.7084 {macula-proximity}
     language: greek
   - strongs: G4150
-    proximity: 0.701
+    lemma: πλύνω
+    gloss: to "plunge" {openscriptures-strongs}
+    proximity: 0.701 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

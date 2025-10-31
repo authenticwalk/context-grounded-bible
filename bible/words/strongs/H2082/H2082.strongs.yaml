@@ -6,47 +6,57 @@ pronunciation: zaw-bal'
 definition: to reside
 kjv_usage: dwell with.
 derivation: a primitive root; apparently properly, to inclose, i.e.
-extended_definition:
-  gloss: to honour
-  definition: (Qal) to exalt, honour, (possible) dwell exaltedly
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to exalt, honour, (possible) dwell exaltedly {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: A7932
-    proximity: 0.8254
+    proximity: 0.8254 {macula-proximity}
   - strongs: H4583
-    proximity: 0.8238
+    lemma: מָעוֹן
+    gloss: an abode {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
   - strongs: H3513
-    proximity: 0.7914
+    lemma: כָּבַד
+    gloss: to be heavy {openscriptures-strongs}
+    proximity: 0.7914 {macula-proximity}
   - strongs: H7900
-    proximity: 0.7872
+    lemma: שֹׂךְ
+    gloss: a booth {openscriptures-strongs}
+    proximity: 0.7872 {macula-proximity}
   - strongs: A1753
-    proximity: 0.7824
+    proximity: 0.7824 {macula-proximity}
   - strongs: H3427
-    proximity: 0.767
+    lemma: יָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.767 {macula-proximity}
   - strongs: H1755a
-    proximity: 0.7662
+    proximity: 0.7662 {macula-proximity}
   - strongs: H1752a
-    proximity: 0.7634
+    proximity: 0.7634 {macula-proximity}
   cross_language:
   - strongs: G5092
-    proximity: 0.8256
+    lemma: τιμή
+    gloss: a value {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
     language: greek
   - strongs: G2733
-    proximity: 0.8241
+    lemma: κατοικία
+    gloss: residence (properly {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
   - strongs: G1886
-    proximity: 0.8223
+    lemma: ἔπαυλις
+    gloss: a hut over the head {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G1914
-    proximity: 0.8208
+    lemma: ἐπιβλέπω
+    gloss: to gaze at (with favor {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
     language: greek
   - strongs: G5229
-    proximity: 0.8189
+    lemma: ὑπεραίρομαι
+    gloss: to raise oneself over {openscriptures-strongs}
+    proximity: 0.8189 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

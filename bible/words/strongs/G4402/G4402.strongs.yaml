@@ -5,25 +5,24 @@ transliteration: Próchoros
 definition: before the dance; Prochorus, a Christian
 kjv_usage: Prochorus
 derivation: from G4253 (πρό) and G5525 (χορός);
-extended_definition:
-  gloss: Prochorus
-  definition: '<b>Πρόχορος</b>, -ου, ὁ <BR /> <b>Prochorus</b>: <ref=''Act.6.5''>Act.6:5</ref>
-    <BR /> (AS)'
-  morphology: N:N-M-P
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Πρόχορος</b>, -ου, ὁ <BR /> <b>Prochorus</b>: <ref=''Act.6.5''>Act.6:5</ref>
-    <BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Πρόχορος, -ου, ὁ
+
+  Prochorus: Act.6:5
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Πρόχορος, -ου, ὁ
+
+  Prochorus: Act.6:5
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2857
-    proximity: 0.8298
+    lemma: Κολοσσαί
+    gloss: Colossæ {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   - strongs: G5378
-    proximity: 0.8208
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: Φιλόλογος
+    gloss: fond of words {openscriptures-strongs}
+    proximity: 0.8208 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

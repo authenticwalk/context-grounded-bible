@@ -6,42 +6,54 @@ pronunciation: shish-shee'
 definition: sixth, ord. or (feminine) fractional
 kjv_usage: sixth (part).
 derivation: from H8337 (שֵׁשׁ);
-extended_definition:
-  gloss: sixth
-  definition: 1) sixth<br>1a) sixth (ordinal number)<br>1b) sixth (as fraction)
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: '1) sixth
+
+  1a) sixth (ordinal number)
+
+  1b) sixth (as fraction) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2549
-    proximity: 0.8289
+    lemma: חֲמִישִׁי
+    gloss: fifth {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
   - strongs: H7992
-    proximity: 0.8233
+    lemma: שְׁלִישִׁי
+    gloss: third {openscriptures-strongs}
+    proximity: 0.8233 {macula-proximity}
   - strongs: H259
-    proximity: 0.8231
+    proximity: 0.8231 {macula-proximity}
   - strongs: H7255a
-    proximity: 0.8213
+    proximity: 0.8213 {macula-proximity}
   - strongs: A8648
-    proximity: 0.7959
+    proximity: 0.7959 {macula-proximity}
   - strongs: A2298
-    proximity: 0.7717
+    proximity: 0.7717 {macula-proximity}
   - strongs: H7243
-    proximity: 0.7593
+    lemma: רְבִיעִי
+    gloss: fourth {openscriptures-strongs}
+    proximity: 0.7593 {macula-proximity}
   - strongs: H8341
-    proximity: 0.7339
+    lemma: שָׁשָׁה
+    gloss: to sixth or divide into sixths {openscriptures-strongs}
+    proximity: 0.7339 {macula-proximity}
   - strongs: H7255
-    proximity: 0.7272
+    lemma: רֹבַע
+    gloss: a quarter {openscriptures-strongs}
+    proximity: 0.7272 {macula-proximity}
   - strongs: H8337
-    proximity: 0.7197
+    lemma: שֵׁשׁ
+    gloss: six {openscriptures-strongs}
+    proximity: 0.7197 {macula-proximity}
   cross_language:
   - strongs: G1182
-    proximity: 0.8256
+    lemma: δέκατος
+    gloss: tenth {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
     language: greek
   - strongs: G5067
-    proximity: 0.7066
+    lemma: τέταρτος
+    gloss: fourth {openscriptures-strongs}
+    proximity: 0.7066 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

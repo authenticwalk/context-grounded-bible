@@ -6,41 +6,49 @@ pronunciation: gheh'-resh
 definition: produce (as if expelled)
 kjv_usage: put forth.
 derivation: from H1644 (גָּרַשׁ);
-extended_definition:
-  gloss: produce
-  definition: a thing put forth, yield, produce, thing thrust forth
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: a thing put forth, yield, produce, thing thrust forth {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6529
-    proximity: 0.8247
+    lemma: פְּרִי
+    gloss: fruit {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: H2590a
-    proximity: 0.8167
+    proximity: 0.8167 {macula-proximity}
   - strongs: H6779
-    proximity: 0.812
+    lemma: צָמַח
+    gloss: to sprout (transitive or intransitive {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: H4395
-    proximity: 0.7373
+    lemma: מְלֵאָה
+    gloss: something fulfilled {openscriptures-strongs}
+    proximity: 0.7373 {macula-proximity}
   - strongs: H2173
-    proximity: 0.7086
+    lemma: זִמְרָה
+    gloss: pruned  fruit {openscriptures-strongs}
+    proximity: 0.7086 {macula-proximity}
   cross_language:
   - strongs: G985
-    proximity: 0.8254
+    proximity: 0.8254 {macula-proximity}
     language: greek
   - strongs: G2590
-    proximity: 0.8198
+    lemma: καρπός
+    gloss: fruit {openscriptures-strongs}
+    proximity: 0.8198 {macula-proximity}
     language: greek
   - strongs: G5052
-    proximity: 0.8123
+    lemma: τελεσφορέω
+    gloss: to be a bearer to completion {openscriptures-strongs}
+    proximity: 0.8123 {macula-proximity}
     language: greek
   - strongs: G5088
-    proximity: 0.8024
+    lemma: τίκτω
+    gloss: to produce (from seed {openscriptures-strongs}
+    proximity: 0.8024 {macula-proximity}
     language: greek
   - strongs: G2716
-    proximity: 0.8005
+    lemma: κατεργάζομαι
+    gloss: to work fully {openscriptures-strongs}
+    proximity: 0.8005 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,42 +6,63 @@ pronunciation: aw-daf'
 definition: to be (causatively, have) redundant
 kjv_usage: be more, odd number, be (have) over (and above), overplus, remain.
 derivation: a primitive root;
-extended_definition:
-  gloss: to remain
-  definition: 1) to remain over, be in excess<br>1a) (Qal)<br>1a1) to be in excess<br>1a1a)
-    excess (subst)<br>1a1b) surplus (participle)<br>1b) (Hiphil) to have a surplus
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to remain over, be in excess
+
+  1a) (Qal)
+
+  1a1) to be in excess
+
+  1a1a) excess (subst)
+
+  1a1b) surplus (participle)
+
+  1b) (Hiphil) to have a surplus {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1107
-    proximity: 0.8232
+    lemma: בִּלְעֲדֵי
+    gloss: except {openscriptures-strongs}
+    proximity: 0.8232 {macula-proximity}
   - strongs: H8300
-    proximity: 0.7492
+    lemma: שָׂרִיד
+    gloss: a survivor {openscriptures-strongs}
+    proximity: 0.7492 {macula-proximity}
   - strongs: H7611
-    proximity: 0.7455
+    lemma: שְׁאֵרִית
+    gloss: a remainder or residual (surviving {openscriptures-strongs}
+    proximity: 0.7455 {macula-proximity}
   - strongs: H3499
-    proximity: 0.7436
+    lemma: יֶתֶר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7436 {macula-proximity}
   - strongs: H7605
-    proximity: 0.7329
+    lemma: שְׁאָר
+    gloss: a remainder {openscriptures-strongs}
+    proximity: 0.7329 {macula-proximity}
   cross_language:
   - strongs: G1722
-    proximity: 0.8133
+    lemma: ἐν
+    gloss: '"in {openscriptures-strongs}'
+    proximity: 0.8133 {macula-proximity}
     language: greek
   - strongs: G5238
-    proximity: 0.8118
+    lemma: ὑπερέκεινα
+    gloss: above those parts {openscriptures-strongs}
+    proximity: 0.8118 {macula-proximity}
     language: greek
   - strongs: G3062
-    proximity: 0.7884
+    lemma: λοιποί
+    gloss: remaining ones {openscriptures-strongs}
+    proximity: 0.7884 {macula-proximity}
     language: greek
   - strongs: G2641
-    proximity: 0.7863
+    lemma: καταλείπω
+    gloss: to leave down {openscriptures-strongs}
+    proximity: 0.7863 {macula-proximity}
     language: greek
   - strongs: G3005
-    proximity: 0.7475
+    lemma: λεῖμμα
+    gloss: a remainder {openscriptures-strongs}
+    proximity: 0.7475 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

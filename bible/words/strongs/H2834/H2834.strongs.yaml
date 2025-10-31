@@ -7,53 +7,73 @@ definition: to strip off, i.e. generally to make naked (for exertion or in disgr
   to drain away or bail up (a liquid)
 kjv_usage: make bare, clean, discover, draw out, take, uncover.
 derivation: a primitive root;
-extended_definition:
-  gloss: to strip
-  definition: 1) to strip, strip off, lay bare, make bare, draw out<br>1a) (Qal)<br>1a1)
-    to strip off<br>1a2) to strip, lay bare<br>1a3) to draw (water), skim, take from
-    the surface
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to strip, strip off, lay bare, make bare, draw out
+
+  1a) (Qal)
+
+  1a1) to strip off
+
+  1a2) to strip, lay bare
+
+  1a3) to draw (water), skim, take from the surface {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6706
-    proximity: 0.8271
+    lemma: צְחִיחַ
+    gloss: glaring {openscriptures-strongs}
+    proximity: 0.8271 {macula-proximity}
   - strongs: H6479
-    proximity: 0.8259
+    lemma: פְּצָלָה
+    gloss: a peeling {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: H7758
-    proximity: 0.8229
+    lemma: שׁוֹלָל
+    gloss: nude {openscriptures-strongs}
+    proximity: 0.8229 {macula-proximity}
   - strongs: H7082
-    proximity: 0.8167
+    lemma: קָסַס
+    gloss: to lop off {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H3947
-    proximity: 0.8159
+    lemma: לָקַח
+    gloss: to take {openscriptures-strongs}
+    proximity: 0.8159 {macula-proximity}
   - strongs: H5394
-    proximity: 0.8099
+    lemma: נָשַׁל
+    gloss: to pluck off {openscriptures-strongs}
+    proximity: 0.8099 {macula-proximity}
   - strongs: H5903
-    proximity: 0.7913
+    lemma: עֵירֹם
+    gloss: nudity {openscriptures-strongs}
+    proximity: 0.7913 {macula-proximity}
   - strongs: H8192
-    proximity: 0.7896
+    lemma: שָׁפָה
+    gloss: to abrade {openscriptures-strongs}
+    proximity: 0.7896 {macula-proximity}
   - strongs: H6478
-    proximity: 0.7746
+    lemma: פָּצַל
+    gloss: to peel {openscriptures-strongs}
+    proximity: 0.7746 {macula-proximity}
   - strongs: H3182
-    proximity: 0.7647
+    lemma: יָחֵף
+    gloss: unsandalled {openscriptures-strongs}
+    proximity: 0.7647 {macula-proximity}
   cross_language:
   - strongs: G4048
-    proximity: 0.8262
+    lemma: περιῤῥήγνυμι
+    gloss: to tear all around {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
     language: greek
   - strongs: G659
-    proximity: 0.815
+    proximity: 0.815 {macula-proximity}
     language: greek
   - strongs: G554
-    proximity: 0.8084
+    proximity: 0.8084 {macula-proximity}
     language: greek
   - strongs: G601
-    proximity: 0.7934
+    proximity: 0.7934 {macula-proximity}
     language: greek
   - strongs: G555
-    proximity: 0.7624
+    proximity: 0.7624 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

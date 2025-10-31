@@ -9,39 +9,54 @@ derivation: from H5927 (עָלָה);
 related_words:
   synonyms:
   - strongs: H1431
-    proximity: 0.8299
+    lemma: גָּדַל
+    gloss: to be  large (in various senses {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
   - strongs: H1634
-    proximity: 0.8277
+    lemma: גֶּרֶם
+    gloss: a bone {openscriptures-strongs}
+    proximity: 0.8277 {macula-proximity}
   - strongs: H1295
-    proximity: 0.8259
+    lemma: בְּרֵכָה
+    gloss: a reservoir {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
   - strongs: H5945a
-    proximity: 0.8242
+    proximity: 0.8242 {macula-proximity}
   - strongs: A5952
-    proximity: 0.8214
+    proximity: 0.8214 {macula-proximity}
   - strongs: H6967
-    proximity: 0.8211
+    lemma: קוֹמָה
+    gloss: height {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
   - strongs: A5924
-    proximity: 0.8182
+    proximity: 0.8182 {macula-proximity}
   - strongs: H7682
-    proximity: 0.8106
+    lemma: שָׂגַב
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.8106 {macula-proximity}
   - strongs: H1361
-    proximity: 0.8054
+    lemma: גָּבַהּ
+    gloss: to soar {openscriptures-strongs}
+    proximity: 0.8054 {macula-proximity}
   - strongs: H4791
-    proximity: 0.8013
+    lemma: מָרוֹם
+    gloss: altitude {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
   cross_language:
   - strongs: G5308
-    proximity: 0.8272
+    lemma: ὑψηλός
+    gloss: lofty {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G507
-    proximity: 0.8244
+    proximity: 0.8244 {macula-proximity}
     language: greek
   - strongs: G5253
-    proximity: 0.8194
+    lemma: ὑπερῷον
+    gloss: a higher part of the house {openscriptures-strongs}
+    proximity: 0.8194 {macula-proximity}
     language: greek
   - strongs: G511
-    proximity: 0.8039
+    proximity: 0.8039 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

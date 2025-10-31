@@ -5,41 +5,43 @@ transliteration: katákrima
 definition: an adverse sentence (the verdict)
 kjv_usage: condemnation
 derivation: from G2632 (κατακρίνω);
-extended_definition:
-  gloss: condemnation
-  definition: '<b>κατά-κριμα</b>, -τος, τό<BR /> (κατακρίνω), <BR /><b>penalty </b>(RV,
-    condemnation; but cf. Deiss., BS, 264 f.; MM, <i>Exp.</i>, xv): <ref=''Rom.5.16,
-    18; 8.1''>Rom.5:16, 18 8:1</ref>.†<BR /> (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> κατά-κρῐμα</b>, ατος, τό, <br /> <b>condemnation, judgement</b>,
-    [<a href="javascript:void(0)" title=" 1st c.BC: Dionysius Halicarnassensis 6.61.
-    ">Refs 1st c.BC+</a>]<br /><Level3><b>__2</b></Level3> <b>punishment, fine, damage</b>,
-    [<a href="javascript:void(0)" title=" “CPR” 1.16 (1st c.AD), “PAmh.” 2.114.8 (2nd
-    c.AD), NT.Rom.5.16, 8.1. ">NT+1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κατά-κριμα, -τος, τό
+
+  (κατακρίνω),
+
+  penalty (RV, condemnation; but cf. Deiss., BS, 264 f.; MM, Exp., xv): Rom.5:16,
+  18 8:1.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'κατά-κρῐμα, ατος, τό,
+
+  condemnation, judgement, [Refs 1st c.BC+]
+
+  __2 punishment, fine, damage, [NT+1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G843
-    proximity: 0.7861
+    proximity: 0.7861 {macula-proximity}
   - strongs: G1935
-    proximity: 0.742
+    lemma: ἐπιθανάτιος
+    gloss: doomed to death {openscriptures-strongs}
+    proximity: 0.742 {macula-proximity}
   - strongs: G2919
-    proximity: 0.7396
+    lemma: κρίνω
+    gloss: by implication {openscriptures-strongs}
+    proximity: 0.7396 {macula-proximity}
   cross_language:
   - strongs: H4941
-    proximity: 0.8139
+    lemma: מִשְׁפָּט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: hebrew
   - strongs: H7561
-    proximity: 0.7504
+    lemma: רָשַׁע
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7504 {macula-proximity}
     language: hebrew
   - strongs: H816
-    proximity: 0.7318
+    proximity: 0.7318 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

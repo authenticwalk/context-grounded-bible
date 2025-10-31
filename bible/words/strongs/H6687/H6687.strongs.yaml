@@ -6,49 +6,70 @@ pronunciation: tsoof
 definition: to overflow
 kjv_usage: (make to over-) flow, swim.
 derivation: a primitive root;
-extended_definition:
-  gloss: to flow
-  definition: 1) to flow, overflow, flood, float<br>1a) (Qal) to flood<br>1b) (Hiphil)<br>1b1)
-    to cause to flow over<br>1b2) to cause to float
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to flow, overflow, flood, float
+
+  1a) (Qal) to flood
+
+  1b) (Hiphil)
+
+  1b1) to cause to flow over
+
+  1b2) to cause to float {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3807a
-    proximity: 0.8293
+    proximity: 0.8293 {macula-proximity}
   - strongs: H5704
-    proximity: 0.8287
+    lemma: עַד
+    gloss: as far (or long {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H5287
-    proximity: 0.8283
+    lemma: נָעַר
+    gloss: to tumble about {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H7858
-    proximity: 0.8258
+    lemma: שֶׁטֶף
+    gloss: a deluge {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
   - strongs: H5921
-    proximity: 0.8178
+    lemma: עַל
+    gloss: above {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
   - strongs: H3999
-    proximity: 0.8163
+    lemma: מַבּוּל
+    gloss: a deluge {openscriptures-strongs}
+    proximity: 0.8163 {macula-proximity}
   - strongs: H1886c
-    proximity: 0.8152
+    proximity: 0.8152 {macula-proximity}
   - strongs: H413
-    proximity: 0.8124
+    proximity: 0.8124 {macula-proximity}
   - strongs: H5674
-    proximity: 0.7804
+    lemma: עָבַר
+    gloss: to cross over {openscriptures-strongs}
+    proximity: 0.7804 {macula-proximity}
   - strongs: H7811
-    proximity: 0.7267
+    lemma: שָׂחָה
+    gloss: to swim {openscriptures-strongs}
+    proximity: 0.7267 {macula-proximity}
   cross_language:
   - strongs: G4370
-    proximity: 0.8258
+    lemma: προστρέχω
+    gloss: to run towards {openscriptures-strongs}
+    proximity: 0.8258 {macula-proximity}
     language: greek
   - strongs: G4314
-    proximity: 0.8206
+    lemma: πρός
+    gloss: a preposition of direction {openscriptures-strongs}
+    proximity: 0.8206 {macula-proximity}
     language: greek
   - strongs: G2627
-    proximity: 0.8165
+    lemma: κατακλυσμός
+    gloss: an inundation {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
     language: greek
   - strongs: G2666
-    proximity: 0.7988
+    lemma: καταπίνω
+    gloss: to drink down {openscriptures-strongs}
+    proximity: 0.7988 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

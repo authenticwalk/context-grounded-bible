@@ -7,42 +7,56 @@ definition: to be (causatively, make) zealous, i.e. (in a bad sense) jealous or 
 kjv_usage: (be) envy(-ious), be (move to, provoke to) jealous(-y), [idiom] very, (be)
   zeal(-ous).
 derivation: a primitive root;
-extended_definition:
-  gloss: be jealous
-  definition: 1) to envy, be jealous, be envious, be zealous<br>1a) (Piel)<br>1a1)
-    to be jealous of<br>1a2) to be envious of<br>1a3) to be zealous for<br>1a4) to
-    excite to jealous anger<br>1b) (Hiphil) to provoke to jealous anger, cause jealousy
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to envy, be jealous, be envious, be zealous
+
+  1a) (Piel)
+
+  1a1) to be jealous of
+
+  1a2) to be envious of
+
+  1a3) to be zealous for
+
+  1a4) to excite to jealous anger
+
+  1b) (Hiphil) to provoke to jealous anger, cause jealousy {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A7265
-    proximity: 0.8236
+    proximity: 0.8236 {macula-proximity}
   - strongs: H639
-    proximity: 0.8134
+    proximity: 0.8134 {macula-proximity}
   - strongs: H5770a
-    proximity: 0.8129
+    proximity: 0.8129 {macula-proximity}
   - strongs: H2734
-    proximity: 0.807
+    lemma: חָרָה
+    gloss: to glow or grow warm {openscriptures-strongs}
+    proximity: 0.807 {macula-proximity}
   - strongs: H7107
-    proximity: 0.7618
+    lemma: קָצַף
+    gloss: to crack off {openscriptures-strongs}
+    proximity: 0.7618 {macula-proximity}
   - strongs: H3707
-    proximity: 0.7069
+    lemma: כַּעַס
+    gloss: to trouble {openscriptures-strongs}
+    proximity: 0.7069 {macula-proximity}
   cross_language:
   - strongs: G2204
-    proximity: 0.8
+    lemma: ζέω
+    gloss: to be hot (boil {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
     language: greek
   - strongs: G3949
-    proximity: 0.7973
+    lemma: παροργίζω
+    gloss: to anger alongside {openscriptures-strongs}
+    proximity: 0.7973 {macula-proximity}
     language: greek
   - strongs: G2207
-    proximity: 0.7694
+    lemma: ζηλωτής
+    gloss: a "zealot" {openscriptures-strongs}
+    proximity: 0.7694 {macula-proximity}
     language: greek
   - strongs: G2206a
-    proximity: 0.7078
+    proximity: 0.7078 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

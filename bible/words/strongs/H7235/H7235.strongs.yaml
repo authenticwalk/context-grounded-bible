@@ -15,36 +15,51 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H3807a
-    proximity: 0.8267
+    proximity: 0.8267 {macula-proximity}
   - strongs: H1995
-    proximity: 0.8192
+    lemma: הָמוֹן
+    gloss: a noise {openscriptures-strongs}
+    proximity: 0.8192 {macula-proximity}
   - strongs: A7229
-    proximity: 0.8159
+    proximity: 0.8159 {macula-proximity}
   - strongs: H5414
-    proximity: 0.8154
+    lemma: נָתַן
+    gloss: to give {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: H1396
-    proximity: 0.8145
+    lemma: גָּבַר
+    gloss: to be strong {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
   - strongs: H3515
-    proximity: 0.8103
+    lemma: כָּבֵד
+    gloss: heavy {openscriptures-strongs}
+    proximity: 0.8103 {macula-proximity}
   - strongs: H752
-    proximity: 0.8079
+    proximity: 0.8079 {macula-proximity}
   cross_language:
   - strongs: G3187
-    proximity: 0.829
+    lemma: μείζων
+    gloss: larger (literally or figuratively {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
     language: greek
   - strongs: G4437
-    proximity: 0.8276
+    lemma: πυκνός
+    gloss: clasped {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
     language: greek
   - strongs: G5234
-    proximity: 0.8256
+    lemma: ὑπερβαλλόντως
+    gloss: excessively {openscriptures-strongs}
+    proximity: 0.8256 {macula-proximity}
     language: greek
   - strongs: G4212
-    proximity: 0.821
+    lemma: ποσάκις
+    gloss: how many times {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: greek
   - strongs: G3173
-    proximity: 0.8184
+    lemma: μέγας
+    gloss: big (literally or figuratively {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

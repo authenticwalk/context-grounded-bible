@@ -7,25 +7,27 @@ definition: a cooking range (consisting of two parallel stones, across which the
   is set)
 kjv_usage: ranges for pots.
 derivation: a form for H3564 (כּוּר) (only in the dual);
-extended_definition:
-  gloss: stove
-  definition: stove, range, cooking furnace
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: stove, range, cooking furnace {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4715
-    proximity: 0.7851
+    lemma: מִצְרֵף
+    gloss: a crucible {openscriptures-strongs}
+    proximity: 0.7851 {macula-proximity}
   - strongs: H5518
-    proximity: 0.7822
+    lemma: סִיר
+    gloss: a pot {openscriptures-strongs}
+    proximity: 0.7822 {macula-proximity}
   - strongs: H4018
-    proximity: 0.7573
+    lemma: מְבַשְּׁלָה
+    gloss: a cooking hearth {openscriptures-strongs}
+    proximity: 0.7573 {macula-proximity}
   - strongs: H6517
-    proximity: 0.7226
+    lemma: פָּרוּר
+    gloss: a skillet {openscriptures-strongs}
+    proximity: 0.7226 {macula-proximity}
   - strongs: H8574
-    proximity: 0.7057
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: תַּנּוּר
+    gloss: a fire-pot {openscriptures-strongs}
+    proximity: 0.7057 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

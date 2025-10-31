@@ -10,18 +10,21 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H7993
-    proximity: 0.8297
+    lemma: שָׁלַךְ
+    gloss: to throw out {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: H7189a
-    proximity: 0.7825
+    proximity: 0.7825 {macula-proximity}
   - strongs: H2671
-    proximity: 0.7794
+    lemma: חֵץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7794 {macula-proximity}
   - strongs: H7198
-    proximity: 0.7156
+    lemma: קֶשֶׁת
+    gloss: a bow {openscriptures-strongs}
+    proximity: 0.7156 {macula-proximity}
   cross_language:
   - strongs: G906
-    proximity: 0.7225
+    proximity: 0.7225 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

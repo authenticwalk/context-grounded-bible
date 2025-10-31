@@ -7,38 +7,44 @@ definition: a missile of attack, i.e. spear; also (figuratively) a shoot of grow
   i.e. branch
 kjv_usage: dart, plant, [idiom] put off, sword, weapon.
 derivation: from H7971 (שָׁלַח);
-extended_definition:
-  gloss: missile
-  definition: 1) weapon, missile, sprout<br>1a) missile, weapon<br>1b) sprout, shoot
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) weapon, missile, sprout
+
+  1a) missile, weapon
+
+  1b) sprout, shoot {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5401a
-    proximity: 0.8236
+    proximity: 0.8236 {macula-proximity}
   - strongs: H2502a
-    proximity: 0.8219
+    proximity: 0.8219 {macula-proximity}
   - strongs: H6635
-    proximity: 0.8193
+    lemma: צָבָא
+    gloss: a mass of persons (or figuratively {openscriptures-strongs}
+    proximity: 0.8193 {macula-proximity}
   - strongs: H2290a
-    proximity: 0.7993
+    proximity: 0.7993 {macula-proximity}
   - strongs: H4421
-    proximity: 0.7879
+    lemma: מִלְחָמָה
+    gloss: a battle {openscriptures-strongs}
+    proximity: 0.7879 {macula-proximity}
   - strongs: H240
-    proximity: 0.7755
+    proximity: 0.7755 {macula-proximity}
   - strongs: H8530
-    proximity: 0.7699
+    lemma: תַּלְפִּיָּה
+    gloss: something tall {openscriptures-strongs}
+    proximity: 0.7699 {macula-proximity}
   - strongs: H2571
-    proximity: 0.7652
+    lemma: חָמֻשׁ
+    gloss: staunch {openscriptures-strongs}
+    proximity: 0.7652 {macula-proximity}
   cross_language:
   - strongs: G3695
-    proximity: 0.8127
+    lemma: ὁπλίζω
+    gloss: to equip ) {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
     language: greek
   - strongs: G627
-    proximity: 0.7783
+    proximity: 0.7783 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

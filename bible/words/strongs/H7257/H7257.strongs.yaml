@@ -8,46 +8,65 @@ definition: to crouch (on all four legs folded, like a recumbent animal); be imp
 kjv_usage: crouch (down), fall down, make a fold, lay, (cause to, make to) lie (down),
   make to rest, sit.
 derivation: a primitive root;
-extended_definition:
-  gloss: to stretch
-  definition: 1) to stretch oneself out, lie down, lie stretched out<br>1a) (Qal)
-    to lie down, lie<br>1b)(Hiphil) to cause to lie down<br>1b1) laying (stones)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to stretch oneself out, lie down, lie stretched out
+
+  1a) (Qal) to lie down, lie
+
+  1b)(Hiphil) to cause to lie down
+
+  1b1) laying (stones) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H693
-    proximity: 0.8264
+    proximity: 0.8264 {macula-proximity}
   - strongs: H7812
-    proximity: 0.8128
+    lemma: שָׁחָה
+    gloss: to depress {openscriptures-strongs}
+    proximity: 0.8128 {macula-proximity}
   - strongs: H5307
-    proximity: 0.8022
+    lemma: נָפַל
+    gloss: to fall {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
   - strongs: H7677
-    proximity: 0.7892
+    lemma: שַׁבָּתוֹן
+    gloss: a sabbatism or special holiday {openscriptures-strongs}
+    proximity: 0.7892 {macula-proximity}
   - strongs: H6314
-    proximity: 0.7821
+    lemma: פּוּגָה
+    gloss: intermission {openscriptures-strongs}
+    proximity: 0.7821 {macula-proximity}
   - strongs: H8239
-    proximity: 0.7742
+    lemma: שָׁפַת
+    gloss: to locate {openscriptures-strongs}
+    proximity: 0.7742 {macula-proximity}
   - strongs: H4904
-    proximity: 0.7689
+    lemma: מִשְׁכָּב
+    gloss: a bed (figuratively {openscriptures-strongs}
+    proximity: 0.7689 {macula-proximity}
   - strongs: H7931
-    proximity: 0.7675
+    lemma: שָׁכַן
+    gloss: to reside or permanently stay {openscriptures-strongs}
+    proximity: 0.7675 {macula-proximity}
   - strongs: H3462
-    proximity: 0.7646
+    lemma: יָשֵׁן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7646 {macula-proximity}
   - strongs: H5117
-    proximity: 0.7639
+    lemma: נוּחַ
+    gloss: to rest {openscriptures-strongs}
+    proximity: 0.7639 {macula-proximity}
   cross_language:
   - strongs: G373
-    proximity: 0.8257
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G2749
-    proximity: 0.7994
+    lemma: κεῖμαι
+    gloss: to lie outstretched {openscriptures-strongs}
+    proximity: 0.7994 {macula-proximity}
     language: greek
   - strongs: G2663
-    proximity: 0.7309
+    lemma: κατάπαυσις
+    gloss: reposing down {openscriptures-strongs}
+    proximity: 0.7309 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

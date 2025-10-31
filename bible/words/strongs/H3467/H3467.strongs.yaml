@@ -8,43 +8,63 @@ definition: properly, to be open, wide or free, i.e. (by implication) to be safe
 kjv_usage: '[idiom] at all, avenging, defend, deliver(-er), help, preserve, rescue,
   be safe, bring (having) salvation, save(-iour), get victory.'
 derivation: a primitive root;
-extended_definition:
-  gloss: to save
-  definition: 1) to save, be saved, be delivered<br>1a) (Niphal)<br>1a1) to be liberated,
-    be saved, be delivered<br>1a2) to be saved (in battle), be victorious<br>1b) (Hiphil)<br>1b1)
-    to save, deliver<br>1b2) to save from moral troubles<br>1b3) to give victory to
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to save, be saved, be delivered
+
+  1a) (Niphal)
+
+  1a1) to be liberated, be saved, be delivered
+
+  1a2) to be saved (in battle), be victorious
+
+  1b) (Hiphil)
+
+  1b1) to save, deliver
+
+  1b2) to save from moral troubles
+
+  1b3) to give victory to {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6666
-    proximity: 0.8175
+    lemma: צְדָקָה
+    gloss: rightness {openscriptures-strongs}
+    proximity: 0.8175 {macula-proximity}
   - strongs: H6561
-    proximity: 0.8132
+    lemma: פָּרַק
+    gloss: to break off or crunch {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
   - strongs: H3318
-    proximity: 0.7956
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.7956 {macula-proximity}
   - strongs: H5833
-    proximity: 0.78
+    lemma: עֶזְרָה
+    gloss: aid {openscriptures-strongs}
+    proximity: 0.78 {macula-proximity}
   - strongs: H2421
-    proximity: 0.7388
+    lemma: חָיָה
+    gloss: to live {openscriptures-strongs}
+    proximity: 0.7388 {macula-proximity}
   cross_language:
   - strongs: G1949
-    proximity: 0.8245
+    lemma: ἐπιλαμβάνομαι
+    gloss: to seize (for help {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
     language: greek
   - strongs: G1314
-    proximity: 0.8238
+    lemma: διαφυλάσσω
+    gloss: to guard thoroughly {openscriptures-strongs}
+    proximity: 0.8238 {macula-proximity}
     language: greek
   - strongs: G484
-    proximity: 0.8211
+    proximity: 0.8211 {macula-proximity}
     language: greek
   - strongs: G4368
-    proximity: 0.8153
+    lemma: προστάτις
+    gloss: a patroness {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
     language: greek
   - strongs: G998
-    proximity: 0.8085
+    proximity: 0.8085 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

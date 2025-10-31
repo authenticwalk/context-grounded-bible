@@ -6,31 +6,33 @@ pronunciation: han-aw-khaw'
 definition: permission of rest, i.e. quiet
 kjv_usage: release.
 derivation: from H5117 (נוּחַ);
-extended_definition:
-  gloss: holiday
-  definition: a day of rest, holiday, a giving of rest, holiday making
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: a day of rest, holiday, a giving of rest, holiday making {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2670
-    proximity: 0.7932
+    lemma: חׇפְשִׁי
+    gloss: exempt (from bondage {openscriptures-strongs}
+    proximity: 0.7932 {macula-proximity}
   - strongs: H2666
-    proximity: 0.7689
+    lemma: חָפַשׁ
+    gloss: to spread loose {openscriptures-strongs}
+    proximity: 0.7689 {macula-proximity}
   - strongs: H2013
-    proximity: 0.7498
+    lemma: הָסָה
+    gloss: to hush {openscriptures-strongs}
+    proximity: 0.7498 {macula-proximity}
   cross_language:
   - strongs: G2687
-    proximity: 0.8171
+    lemma: καταστέλλω
+    gloss: to put down {openscriptures-strongs}
+    proximity: 0.8171 {macula-proximity}
     language: greek
   - strongs: G1658
-    proximity: 0.79
+    lemma: ἐλεύθερος
+    gloss: unrestrained {openscriptures-strongs}
+    proximity: 0.79 {macula-proximity}
     language: greek
   - strongs: G859
-    proximity: 0.7804
+    proximity: 0.7804 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

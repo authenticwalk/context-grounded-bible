@@ -6,27 +6,29 @@ pronunciation: paw-gar'
 definition: to relax, i.e. become exhausted
 kjv_usage: be faint.
 derivation: a primitive root;
-extended_definition:
-  gloss: to faint
-  definition: (Piel) to be exhausted, be faint
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Piel) to be exhausted, be faint {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5034
-    proximity: 0.8161
+    lemma: נָבֵל
+    gloss: to wilt {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
   - strongs: H6313
-    proximity: 0.7898
+    lemma: פּוּג
+    gloss: to be sluggish {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
   - strongs: H3021
-    proximity: 0.7599
+    lemma: יָגַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7599 {macula-proximity}
   - strongs: H3023
-    proximity: 0.7473
+    lemma: יָגֵעַ
+    gloss: tired {openscriptures-strongs}
+    proximity: 0.7473 {macula-proximity}
   cross_language:
   - strongs: G2577
-    proximity: 0.7984
+    lemma: κάμνω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7984 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

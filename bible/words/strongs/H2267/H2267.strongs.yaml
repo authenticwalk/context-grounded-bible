@@ -6,40 +6,49 @@ pronunciation: kheh'-ber
 definition: a society; also a spell
 kjv_usage: '[phrase] charmer(-ing), company, enchantment, [idiom] wide.'
 derivation: from H2266 (חָבַר);
-extended_definition:
-  gloss: spell
-  definition: 1) association, company, band<br>2) shared, association, society<br>3)
-    a magician, charmer, spell
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) association, company, band
+
+  2) shared, association, society
+
+  3) a magician, charmer, spell {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H328a
-    proximity: 0.8265
+    proximity: 0.8265 {macula-proximity}
   - strongs: H2838
-    proximity: 0.812
+    lemma: חָשֻׁק
+    gloss: attached {openscriptures-strongs}
+    proximity: 0.812 {macula-proximity}
   - strongs: H3704
-    proximity: 0.7955
+    lemma: כֶּסֶת
+    gloss: a cushion or pillow {openscriptures-strongs}
+    proximity: 0.7955 {macula-proximity}
   - strongs: A4070
-    proximity: 0.7865
+    proximity: 0.7865 {macula-proximity}
   - strongs: H2266
-    proximity: 0.7647
+    lemma: חָבַר
+    gloss: to join {openscriptures-strongs}
+    proximity: 0.7647 {macula-proximity}
   - strongs: H2274
-    proximity: 0.7094
+    lemma: חֶבְרָה
+    gloss: association {openscriptures-strongs}
+    proximity: 0.7094 {macula-proximity}
   - strongs: H3908
-    proximity: 0.7084
+    lemma: לַחַשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7084 {macula-proximity}
   cross_language:
   - strongs: G4829
-    proximity: 0.8223
+    lemma: συμμερίζομαι
+    gloss: to share jointly {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G1736
-    proximity: 0.7812
+    lemma: ἐνδημέω
+    gloss: to be in one's own country {openscriptures-strongs}
+    proximity: 0.7812 {macula-proximity}
     language: greek
   - strongs: G666
-    proximity: 0.7645
+    proximity: 0.7645 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

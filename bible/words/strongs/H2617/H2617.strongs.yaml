@@ -11,40 +11,59 @@ derivation: from H2616 (חָסַד);
 related_words:
   synonyms:
   - strongs: H2550
-    proximity: 0.8282
+    lemma: חָמַל
+    gloss: to commiserate {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
   - strongs: H7474
-    proximity: 0.824
+    lemma: רַעְיָה
+    gloss: a female associate {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: H7521
-    proximity: 0.8222
+    lemma: רָצָה
+    gloss: to be pleased with {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
   - strongs: H3033
-    proximity: 0.8167
+    lemma: יְדִדוּת
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H3039
-    proximity: 0.8126
+    lemma: יְדִיד
+    gloss: loved {openscriptures-strongs}
+    proximity: 0.8126 {macula-proximity}
   - strongs: H3039a
-    proximity: 0.8027
+    proximity: 0.8027 {macula-proximity}
   - strongs: H2347
-    proximity: 0.794
+    lemma: חוּס
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.794 {macula-proximity}
   - strongs: H2551
-    proximity: 0.7831
+    lemma: חֶמְלָה
+    gloss: commiseration {openscriptures-strongs}
+    proximity: 0.7831 {macula-proximity}
   - strongs: H158
-    proximity: 0.7817
+    proximity: 0.7817 {macula-proximity}
   cross_language:
   - strongs: G18
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G5365
-    proximity: 0.8272
+    lemma: φιλαργυρία
+    gloss: avarice {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G5358
-    proximity: 0.8263
+    lemma: φιλάγαθος
+    gloss: fond to good {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
     language: greek
   - strongs: G5368
-    proximity: 0.8051
+    lemma: φιλέω
+    gloss: to be a friend to ) {openscriptures-strongs}
+    proximity: 0.8051 {macula-proximity}
     language: greek
   - strongs: G2126
-    proximity: 0.8013
+    lemma: εὐλαβής
+    gloss: taking well {openscriptures-strongs}
+    proximity: 0.8013 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

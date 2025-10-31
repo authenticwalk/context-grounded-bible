@@ -10,42 +10,61 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H7283
-    proximity: 0.8023
+    lemma: רָגַשׁ
+    gloss: to be tumultuous {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
   - strongs: H2717a
-    proximity: 0.7931
+    proximity: 0.7931 {macula-proximity}
   - strongs: H4695
-    proximity: 0.7886
+    lemma: מַצּוּת
+    gloss: a quarrel {openscriptures-strongs}
+    proximity: 0.7886 {macula-proximity}
   - strongs: H1566
-    proximity: 0.7796
+    lemma: גָּלַע
+    gloss: to be obstinate {openscriptures-strongs}
+    proximity: 0.7796 {macula-proximity}
   - strongs: H4808
-    proximity: 0.7752
+    lemma: מְרִיבָה
+    gloss: quarrel {openscriptures-strongs}
+    proximity: 0.7752 {macula-proximity}
   - strongs: A7129
-    proximity: 0.775
+    proximity: 0.775 {macula-proximity}
   - strongs: H7379
-    proximity: 0.7719
+    lemma: רִיב
+    gloss: a contest {openscriptures-strongs}
+    proximity: 0.7719 {macula-proximity}
   - strongs: H4775
-    proximity: 0.7713
+    lemma: מָרַד
+    gloss: to rebel {openscriptures-strongs}
+    proximity: 0.7713 {macula-proximity}
   - strongs: H1624
-    proximity: 0.7677
+    lemma: גָּרָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7677 {macula-proximity}
   - strongs: H3901
-    proximity: 0.76
+    lemma: לָחֶם
+    gloss: battle {openscriptures-strongs}
+    proximity: 0.76 {macula-proximity}
   cross_language:
   - strongs: G3859a
-    proximity: 0.8294
+    proximity: 0.8294 {macula-proximity}
     language: greek
   - strongs: G497
-    proximity: 0.8256
+    proximity: 0.8256 {macula-proximity}
     language: greek
   - strongs: G3054
-    proximity: 0.7989
+    lemma: λογομαχέω
+    gloss: to be disputatious {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
     language: greek
   - strongs: G2051
-    proximity: 0.7829
+    lemma: ἐρίζω
+    gloss: to wrangle {openscriptures-strongs}
+    proximity: 0.7829 {macula-proximity}
     language: greek
   - strongs: G4754
-    proximity: 0.7719
+    lemma: στρατεύομαι
+    gloss: to serve in a military campaign {openscriptures-strongs}
+    proximity: 0.7719 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

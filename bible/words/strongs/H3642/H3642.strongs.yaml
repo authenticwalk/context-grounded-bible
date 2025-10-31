@@ -6,45 +6,55 @@ pronunciation: kaw-mah
 definition: to pine after
 kjv_usage: long.
 derivation: a primitive root;
-extended_definition:
-  gloss: to pine
-  definition: (Qal) to long for, faint, faint with longing
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Qal) to long for, faint, faint with longing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4723
-    proximity: 0.829
+    lemma: מִקְוֶה
+    gloss: something waited for {openscriptures-strongs}
+    proximity: 0.829 {macula-proximity}
   - strongs: H2442
-    proximity: 0.8221
+    lemma: חָכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H8615
-    proximity: 0.7966
+    lemma: תִּקְוָה
+    gloss: literally a cord {openscriptures-strongs}
+    proximity: 0.7966 {macula-proximity}
   - strongs: H2837
-    proximity: 0.7645
+    lemma: חֵשֶׁק
+    gloss: delight {openscriptures-strongs}
+    proximity: 0.7645 {macula-proximity}
   - strongs: H183
-    proximity: 0.759
+    proximity: 0.759 {macula-proximity}
   - strongs: H6770
-    proximity: 0.7442
+    lemma: צָמֵא
+    gloss: to thirst {openscriptures-strongs}
+    proximity: 0.7442 {macula-proximity}
   - strongs: H752
-    proximity: 0.7374
+    proximity: 0.7374 {macula-proximity}
   cross_language:
   - strongs: G2207
-    proximity: 0.8181
+    lemma: ζηλωτής
+    gloss: a "zealot" {openscriptures-strongs}
+    proximity: 0.8181 {macula-proximity}
     language: greek
   - strongs: G674
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
     language: greek
   - strongs: G1680
-    proximity: 0.7838
+    lemma: ἐλπίς
+    gloss: expectation  or confidence {openscriptures-strongs}
+    proximity: 0.7838 {macula-proximity}
     language: greek
   - strongs: G1937
-    proximity: 0.7664
+    lemma: ἐπιθυμέω
+    gloss: to set the heart upon {openscriptures-strongs}
+    proximity: 0.7664 {macula-proximity}
     language: greek
   - strongs: G2206
-    proximity: 0.7656
+    lemma: ζηλόω
+    gloss: to have warmth of feeling for or against {openscriptures-strongs}
+    proximity: 0.7656 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

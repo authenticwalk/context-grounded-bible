@@ -7,34 +7,42 @@ definition: a (male) calf (as frisking round), especially one nearly grown (i.e.
   steer)
 kjv_usage: bullock, calf.
 derivation: from the same as H5696 (עָגֹל);
-extended_definition:
-  gloss: calf
-  definition: calf, bull-calf
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: calf, bull-calf {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6403
-    proximity: 0.8212
+    lemma: פָּלַט
+    gloss: to slip out {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   - strongs: H5763
-    proximity: 0.821
+    lemma: עוּל
+    gloss: to suckle {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
   - strongs: H3649
-    proximity: 0.8169
+    lemma: כָּמָר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: H1121
-    proximity: 0.8167
+    lemma: בֵּן
+    gloss: a son {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
   - strongs: H7214
-    proximity: 0.7859
+    lemma: רְאֵם
+    gloss: a wild bull {openscriptures-strongs}
+    proximity: 0.7859 {macula-proximity}
   - strongs: H4806
-    proximity: 0.7058
+    lemma: מְרִיא
+    gloss: stall-fed {openscriptures-strongs}
+    proximity: 0.7058 {macula-proximity}
   cross_language:
   - strongs: G1151
-    proximity: 0.772
+    lemma: δάμαλις
+    gloss: a heifer {openscriptures-strongs}
+    proximity: 0.772 {macula-proximity}
     language: greek
   - strongs: G5022
-    proximity: 0.7206
+    lemma: ταῦρος
+    gloss: a bullock {openscriptures-strongs}
+    proximity: 0.7206 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

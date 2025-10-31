@@ -5,51 +5,52 @@ transliteration: kataphrontḗs
 definition: a contemner
 kjv_usage: despiser
 derivation: from G2706 (καταφρονέω);
-extended_definition:
-  gloss: despiser
-  definition: '<b>κατα-φρονητής</b>, -οῦ, ὁ <BR /> [in LXX for בָּגַד, בֹּגְדוֹת,
-    <ref=''Hab.1.5; 2.5''>Hab.1:5 2:5</ref>, <ref=''Zep.3.4''>Zep.3:4</ref> * ;] <BR
-    /><b>a despiser</b>: <ref=''Act.13.41.''>Act.13:41.</ref>†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> καταφρον-ητής</b>, οῦ, ὁ, <br /> <b>despiser</b>, νόμων [<a
-    href="javascript:void(0)" title=" 2nd c.AD: Arrianus Historicus “Epicteti Dissertationes”
-    4.7.33; θανάτου 1st-2nd c.AD: Plutarchus Biographus et Philosophus “Brutus” 12;
-    πλούτου 1st c.AD: Josephus Historicus “Bellum Judaicum” 2.8.3: _absolutely_, LXX.Hab.1.5,
-    LXX.Zeph.3.4, 2nd c.AD: Vettius Valens Astrologus 47.33. ">LXX+1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'κατα-φρονητής, -οῦ, ὁ
+
+  [in LXX for בָּגַד, בֹּגְדוֹת, Hab.1:5 2:5, Zep.3:4 * ;]
+
+  a despiser: Act.13:41.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'καταφρον-ητής, οῦ, ὁ,
+
+  despiser, νόμων [LXX+1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5512
-    proximity: 0.8242
+    lemma: χλευάζω
+    gloss: to throw out the lip {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
   - strongs: G1904a
-    proximity: 0.8228
+    proximity: 0.8228 {macula-proximity}
   - strongs: G5512a
-    proximity: 0.8119
+    proximity: 0.8119 {macula-proximity}
   - strongs: G557
-    proximity: 0.7899
+    proximity: 0.7899 {macula-proximity}
   - strongs: G2706
-    proximity: 0.7569
+    lemma: καταφρονέω
+    gloss: to think against {openscriptures-strongs}
+    proximity: 0.7569 {macula-proximity}
   cross_language:
   - strongs: H7048
-    proximity: 0.827
+    lemma: קַלָּסָה
+    gloss: ridicule {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
     language: hebrew
   - strongs: H1343
-    proximity: 0.8241
+    lemma: גֵּאֶה
+    gloss: lofty {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: hebrew
   - strongs: H8591
-    proximity: 0.8183
+    lemma: תָּעַע
+    gloss: to cheat {openscriptures-strongs}
+    proximity: 0.8183 {macula-proximity}
     language: hebrew
   - strongs: H7590a
-    proximity: 0.8118
+    proximity: 0.8118 {macula-proximity}
     language: hebrew
   - strongs: H3887b
-    proximity: 0.8093
+    proximity: 0.8093 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

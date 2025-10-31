@@ -9,25 +9,34 @@ derivation: or סַלּוּא; or סָלוּא; or סַלַּי; from H5541 (ס�
 related_words:
   synonyms:
   - strongs: H3389
-    proximity: 0.8056
+    lemma: יְרוּשָׁלַ͏ִם
+    gloss: Jerushalaim or Jerushalem {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: A3390
-    proximity: 0.7901
+    proximity: 0.7901 {macula-proximity}
   - strongs: H8004
-    proximity: 0.7813
+    lemma: שָׁלֵם
+    gloss: Shalem {openscriptures-strongs}
+    proximity: 0.7813 {macula-proximity}
   cross_language:
   - strongs: G2419
-    proximity: 0.791
+    lemma: Ἱερουσαλήμ
+    gloss: Hierusalem {openscriptures-strongs}
+    proximity: 0.791 {macula-proximity}
     language: greek
   - strongs: G2414
-    proximity: 0.7909
+    lemma: Ἱεροσόλυμα
+    gloss: Hierosolyma {openscriptures-strongs}
+    proximity: 0.7909 {macula-proximity}
     language: greek
   - strongs: G2415
-    proximity: 0.7898
+    lemma: Ἱεροσολυμίτης
+    gloss: a Hierosolymite {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
     language: greek
   - strongs: G2976
-    proximity: 0.7472
+    lemma: Λάζαρος
+    gloss: Lazarus {openscriptures-strongs}
+    proximity: 0.7472 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

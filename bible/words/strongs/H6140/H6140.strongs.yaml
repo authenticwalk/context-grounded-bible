@@ -6,53 +6,76 @@ pronunciation: aw-kash'
 definition: to knot or distort; figuratively, to pervert (act or declare perverse)
 kjv_usage: make crooked, (prove, that is) perverse(-rt).
 derivation: a primitive root;
-extended_definition:
-  gloss: to twist
-  definition: 1) to be perverse, twist, pervert, make crooked, prove perverse, declare
-    perverse<br>1a) (Niphal) to be crooked<br>1b) (Piel) to twist, distort, pervert,
-    make crooked<br>1c) (Hiphil) to declare crooked<br>1d) (Qal) perverse
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be perverse, twist, pervert, make crooked, prove perverse,
+  declare perverse
+
+  1a) (Niphal) to be crooked
+
+  1b) (Piel) to twist, distort, pervert, make crooked
+
+  1c) (Hiphil) to declare crooked
+
+  1d) (Qal) perverse {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5792
-    proximity: 0.825
+    lemma: עַוָּתָה
+    gloss: oppression {openscriptures-strongs}
+    proximity: 0.825 {macula-proximity}
   - strongs: H4860
-    proximity: 0.8112
+    lemma: מַשָּׁאוֹן
+    gloss: dissimulation {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
   - strongs: H6617
-    proximity: 0.8014
+    lemma: פָּתַל
+    gloss: to twine {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
   - strongs: H4625
-    proximity: 0.8007
+    lemma: מַעֲקָשׁ
+    gloss: a crook {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: H7481a
-    proximity: 0.7888
+    proximity: 0.7888 {macula-proximity}
   - strongs: H900
-    proximity: 0.7866
+    proximity: 0.7866 {macula-proximity}
   - strongs: H5753
-    proximity: 0.7587
+    lemma: עָוָה
+    gloss: to crook {openscriptures-strongs}
+    proximity: 0.7587 {macula-proximity}
   - strongs: H4820
-    proximity: 0.7537
+    lemma: מִרְמָה
+    gloss: fraud {openscriptures-strongs}
+    proximity: 0.7537 {macula-proximity}
   - strongs: H7423a
-    proximity: 0.7512
+    proximity: 0.7512 {macula-proximity}
   - strongs: H6129
-    proximity: 0.7437
+    lemma: עֲקַלָּתוֹן
+    gloss: tortuous {openscriptures-strongs}
+    proximity: 0.7437 {macula-proximity}
   cross_language:
   - strongs: G4761
-    proximity: 0.8205
+    lemma: στρεβλόω
+    gloss: to wrench {openscriptures-strongs}
+    proximity: 0.8205 {macula-proximity}
     language: greek
   - strongs: G3834
-    proximity: 0.8068
+    lemma: πανουργία
+    gloss: adroitness {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
     language: greek
   - strongs: G1294
-    proximity: 0.7989
+    lemma: διαστρέφω
+    gloss: to distort {openscriptures-strongs}
+    proximity: 0.7989 {macula-proximity}
     language: greek
   - strongs: G1386
-    proximity: 0.7922
+    lemma: δόλιος
+    gloss: guileful {openscriptures-strongs}
+    proximity: 0.7922 {macula-proximity}
     language: greek
   - strongs: G4781
-    proximity: 0.7506
+    lemma: συγκάμπτω
+    gloss: to bend together {openscriptures-strongs}
+    proximity: 0.7506 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

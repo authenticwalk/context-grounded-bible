@@ -7,23 +7,21 @@ definition: properly, something poured out, i.e. a casting (of metal); by implic
   a tube (as cast)
 kjv_usage: when it was cast, pipe.
 derivation: or מֻצָקָה; from H3332 (יָצַק);
-extended_definition:
-  gloss: casting
-  definition: 1) pipe<br>2) a casting
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) pipe
+
+  2) a casting {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3333
-    proximity: 0.7933
+    lemma: יְצֻקָה
+    gloss: poured out {openscriptures-strongs}
+    proximity: 0.7933 {macula-proximity}
   - strongs: H3032
-    proximity: 0.76
+    lemma: יָדַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.76 {macula-proximity}
   cross_language:
   - strongs: G293a
-    proximity: 0.7967
+    proximity: 0.7967 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

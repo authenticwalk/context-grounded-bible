@@ -6,47 +6,59 @@ pronunciation: sheh-awt'
 definition: contempt
 kjv_usage: despite(-ful).
 derivation: from an unused root meaning to push aside;
-extended_definition:
-  gloss: scorn
-  definition: despite, contempt
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: despite, contempt {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2151
-    proximity: 0.8231
+    lemma: זָלַל
+    gloss: to shake {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: H5358
-    proximity: 0.7634
+    lemma: נָקַם
+    gloss: to grudge {openscriptures-strongs}
+    proximity: 0.7634 {macula-proximity}
   - strongs: H1163
-    proximity: 0.758
+    lemma: בָּעַט
+    gloss: to trample down {openscriptures-strongs}
+    proximity: 0.758 {macula-proximity}
   - strongs: H5359
-    proximity: 0.745
+    lemma: נָקָם
+    gloss: revenge {openscriptures-strongs}
+    proximity: 0.745 {macula-proximity}
   - strongs: H342
-    proximity: 0.7425
+    proximity: 0.7425 {macula-proximity}
   - strongs: H8130
-    proximity: 0.7376
+    lemma: שָׂנֵא
+    gloss: to hate {openscriptures-strongs}
+    proximity: 0.7376 {macula-proximity}
   - strongs: A8131
-    proximity: 0.73
+    proximity: 0.73 {macula-proximity}
   - strongs: H5360
-    proximity: 0.7142
+    lemma: נְקָמָה
+    gloss: avengement {openscriptures-strongs}
+    proximity: 0.7142 {macula-proximity}
   cross_language:
   - strongs: G4065
-    proximity: 0.8223
+    lemma: περιφρονέω
+    gloss: to think beyond {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: greek
   - strongs: G2189
-    proximity: 0.8057
+    lemma: ἔχθρα
+    gloss: hostility {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
     language: greek
   - strongs: G2549
-    proximity: 0.8022
+    lemma: κακία
+    gloss: badness {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
     language: greek
   - strongs: G1847
-    proximity: 0.7602
+    lemma: ἐξουδενόω
+    gloss: to make utterly nothing of {openscriptures-strongs}
+    proximity: 0.7602 {macula-proximity}
     language: greek
   - strongs: G557
-    proximity: 0.7361
+    proximity: 0.7361 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,47 +5,56 @@ transliteration: Galilaîos
 definition: Galilean or belonging to Galilea
 kjv_usage: Galilean, of Galilee
 derivation: from G1056 (Γαλιλαία);
-extended_definition:
-  gloss: Galilean
-  definition: '<b>Γαλιλαῖος</b>, -αία, -αῖον, <BR /> <b>Galilæan</b>: <ref=''Mat.26.69''>Mat.26:69</ref>,
-    <ref=''Mrk.14.70''>Mrk.14:70</ref>, <ref=''Luk.13.1, 2; 22.59; 23.6''>Luk.13:1,
-    2 22:59, 23:6</ref>, <ref=''Jhn.4.45''>Jhn.4:45</ref>, <ref=''Act.1.11; 2.7; 5.37''>Act.1:11
-    2:7 5:37</ref>.†<BR /> (AS)'
-  morphology: N:N--LG
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Γαλιλαῖος</b>, -αία, -αῖον, <BR /> <b>Galilæan</b>: <ref=''Mat.26.69''>Mat.26:69</ref>,
-    <ref=''Mrk.14.70''>Mrk.14:70</ref>, <ref=''Luk.13.1, 2; 22.59; 23.6''>Luk.13:1,
-    2 22:59, 23:6</ref>, <ref=''Jhn.4.45''>Jhn.4:45</ref>, <ref=''Act.1.11; 2.7; 5.37''>Act.1:11
-    2:7 5:37</ref>.†<BR />  (From Abbott-Smith. LSJ has no entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Γαλιλαῖος, -αία, -αῖον,
+
+  Galilæan: Mat.26:69, Mrk.14:70, Luk.13:1, 2 22:59, 23:6, Jhn.4:45, Act.1:11 2:7
+  5:37.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Γαλιλαῖος, -αία, -αῖον,
+
+  Galilæan: Mat.26:69, Mrk.14:70, Luk.13:1, 2 22:59, 23:6, Jhn.4:45, Act.1:11 2:7
+  5:37.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4541
-    proximity: 0.824
+    lemma: Σαμαρείτης
+    gloss: a Samarite {openscriptures-strongs}
+    proximity: 0.824 {macula-proximity}
   - strongs: G1052
-    proximity: 0.8231
+    lemma: Γαλάτης
+    gloss: a Galatian or inhabitant of Galatia {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
   - strongs: G1179
-    proximity: 0.8174
+    lemma: Δεκάπολις
+    gloss: the ten-city region {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
   cross_language:
   - strongs: H1663
-    proximity: 0.8296
+    lemma: גִּתִּי
+    gloss: a Gittite or inhabitant of Gath {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: hebrew
   - strongs: H7497
-    proximity: 0.8275
+    lemma: רָפָא
+    gloss: a giant {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
     language: hebrew
   - strongs: H1905
-    proximity: 0.8253
+    lemma: הַגְרִי
+    gloss: a Hagrite or member of a certain Arabian clan {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
     language: hebrew
   - strongs: H3774
-    proximity: 0.8231
+    lemma: כְּרֵתִי
+    gloss: a Kerethite or life-guardsman {openscriptures-strongs}
+    proximity: 0.8231 {macula-proximity}
     language: hebrew
   - strongs: H7344
-    proximity: 0.8223
+    lemma: רְחֹבוֹת
+    gloss: Rechoboth {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

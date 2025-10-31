@@ -6,40 +6,44 @@ pronunciation: shaw-nee'
 definition: crimson, properly, the insect or its color, also stuff dyed with it
 kjv_usage: crimson, scarlet (thread).
 derivation: of uncertain derivation;
-extended_definition:
-  gloss: scarlet
-  definition: 1) scarlet, crimson<br>1a) properly, the insect 'coccus ilicis', the
-    dried body of the female yielding colouring matter from which is made the dye
-    used for cloth to colour it scarlet or crimson
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) scarlet, crimson
+
+  1a) properly, the insect ''coccus ilicis'', the dried body of the female yielding
+  colouring matter from which is made the dye used for cloth to colour it scarlet
+  or crimson {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H923
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
   - strongs: H122
-    proximity: 0.8244
+    proximity: 0.8244 {macula-proximity}
   - strongs: H6785
-    proximity: 0.8165
+    lemma: צֶמֶר
+    gloss: wool {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.8061
+    proximity: 0.8061 {macula-proximity}
   - strongs: H2556c
-    proximity: 0.7916
+    proximity: 0.7916 {macula-proximity}
   - strongs: H8350
-    proximity: 0.7885
+    lemma: שָׁשַׁר
+    gloss: red ochre {openscriptures-strongs}
+    proximity: 0.7885 {macula-proximity}
   - strongs: A6015
-    proximity: 0.7814
+    proximity: 0.7814 {macula-proximity}
   - strongs: H1492
-    proximity: 0.7444
+    lemma: גָּזַּה
+    gloss: a fleece {openscriptures-strongs}
+    proximity: 0.7444 {macula-proximity}
   cross_language:
   - strongs: G2053
-    proximity: 0.7804
+    lemma: ἔριον
+    gloss: wool {openscriptures-strongs}
+    proximity: 0.7804 {macula-proximity}
     language: greek
   - strongs: G4450
-    proximity: 0.7789
+    lemma: πυῤῥός
+    gloss: fire-like {openscriptures-strongs}
+    proximity: 0.7789 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

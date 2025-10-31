@@ -5,52 +5,54 @@ transliteration: ekphobéō
 definition: to frighten utterly
 kjv_usage: terrify
 derivation: from G1537 (ἐκ) and G5399 (φοβέω);
-extended_definition:
-  gloss: to terrify
-  definition: '<b>ἐκ-φοβέω</b>, -ῶ <BR /> [in LXX chiefly for חָרֵד hi. ;] <BR /><b>to
-    frighten away, terrify</b>: with accusative of person(s), <ref=''2Co.10.9.''>2Co.10:9.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ἐκφοβ-έω</b>, <br /> <b>alarm</b>, φρένας [<a href="javascript:void(0)"
-    title=" 4th-5th c.BC: Aeschylus Tragicus “Persae” 606, compare 5th-6th c.BC: Plato
-    Philosophus “Gorgias” 483c, etc.">Refs 5th c.BC+</a>]; τὸ ἐκφοβῆσαι so as <b>to
-    cause alarm</b>, [<a href="javascript:void(0)" title=" 5th c.BC: Thucydides Historicus
-    2.87; ἐ. τινὰ ἐκ δεμνίων 5th c.BC: Euripides Tragicus “Orestes” 312 ">Refs 5th
-    c.BC+</a>]; ἐ. τινά τι <b>fright</b> one <b>with</b> a thing, [<a href="javascript:void(0)"
-    title=" 5th c.BC: Thucydides Historicus 6.11 ">Refs 5th c.BC+</a>]:—<i>passive</i>,
-    <b>fear greatly</b>, with <i>accusative</i>, [<a href="javascript:void(0)" title="
-    5th c.BC: Sophocles Tragicus “Electra” 276 ">Refs 5th c.BC+</a>]; ὡς[<a href="javascript:void(0)"
-    title=".. [prev. work] 1426; ὑπέρ τινος [prev. author] “OT” 989. ">Refs</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ἐκ-φοβέω, -ῶ
+
+  [in LXX chiefly for חָרֵד hi. ;]
+
+  to frighten away, terrify: with accusative of person(s), 2Co.10:9.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ἐκφοβ-έω,
+
+  alarm, φρένας [Refs 5th c.BC+]; τὸ ἐκφοβῆσαι so as to cause alarm, [Refs 5th c.BC+];
+  ἐ. τινά τι fright one with a thing, [Refs 5th c.BC+]:—passive, fear greatly, with
+  accusative, [Refs 5th c.BC+]; ὡς[Refs] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G5398
-    proximity: 0.8082
+    lemma: φοβερός
+    gloss: frightful {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
   - strongs: G5400
-    proximity: 0.8016
+    lemma: φόβητρον
+    gloss: a frightening thing {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
   - strongs: G1630
-    proximity: 0.7784
+    lemma: ἔκφοβος
+    gloss: frightened out of one's wits {openscriptures-strongs}
+    proximity: 0.7784 {macula-proximity}
   cross_language:
   - strongs: H4637
-    proximity: 0.8269
+    lemma: מַעֲרָצָה
+    gloss: violence {openscriptures-strongs}
+    proximity: 0.8269 {macula-proximity}
     language: hebrew
   - strongs: H926
-    proximity: 0.8162
+    proximity: 0.8162 {macula-proximity}
     language: hebrew
   - strongs: H1091
-    proximity: 0.8129
+    lemma: בַּלָּהָה
+    gloss: alarm {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
     language: hebrew
   - strongs: H4172
-    proximity: 0.8092
+    lemma: מוֹרָא
+    gloss: fear {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
     language: hebrew
   - strongs: H3372
-    proximity: 0.809
+    lemma: יָרֵא
+    gloss: to fear {openscriptures-strongs}
+    proximity: 0.809 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

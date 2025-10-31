@@ -5,61 +5,73 @@ transliteration: ópsios
 definition: late; feminine (as noun) afternoon (early eve) or nightfall (later eve)
 kjv_usage: even(-ing, (-tide))
 derivation: from G3796 (ὀψέ);
-extended_definition:
-  gloss: evening
-  definition: '<b>ὄψιος</b>, -α, -ον<BR /> (ὀψέ), <BR /><b>late</b>: ἡ ὥρα, <ref=''Mrk.11.11''>Mrk.11:11</ref>
-    (Rec., WH, mg.). In late writers, ἡ ὀψία (sc. ὥρα), as subst., evening <BR />
-    [in LXX: <ref=''Jdt.13.1''>Jdth.13:1</ref>*]: <BR /> <ref=''Mat.8.16; 14.15, 23;
-    16.2; 20.8; 26.20; 27.57''>Mat.8:16 14:15, 23 16:2 20:8 26:20 27:57</ref>, <ref=''Mrk.1.32;
-    4.35; 6.47; 14.17; 15.42''>Mrk.1:32 4:35 6:47 14:17 15:42</ref>, <ref=''Jhn.6.16;
-    20.10''>Jhn.6:16 20:10</ref>.†<BR /> (AS)'
-  morphology: G:A
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ὀψία</b>, <br /> <i>Ionic dialect</i> -ιη (i.e. ὥρα), ἡ, <b>the
-    latter part of day, evening</b>, opposed to ὄρθρος, frequently joined with δείλη
-    (which see), μέχρι δείλης ὀψίης [<a href="javascript:void(0)" title=" 5th c.BC:
-    Herodotus Historicus 7.167; περὶ δείλην ὀ. 5th c.BC: Thucydides Historicus 8.26
-    ">Refs 5th c.BC+</a>]; δείλης ὀ. <b>late</b> in the evening, [<a href="javascript:void(0)"
-    title=" 4th c.BC: Demosthenes Orator 57.9 ">Refs 4th c.BC+</a>]; ὀψίας alone,
-    [<a href="javascript:void(0)" title=" “POxy.” 528.5 (2nd c.AD).">Refs 2nd c.AD+</a>]
-    —Cf. ὄψιος.'
-  source: STEPBible/LSJ
+extended_definition: 'ὄψιος, -α, -ον
+
+  (ὀψέ),
+
+  late: ἡ ὥρα, Mrk.11:11 (Rec., WH, mg.). In late writers, ἡ ὀψία (sc. ὥρα), as subst.,
+  evening
+
+  [in LXX: Jdth.13:1*]:
+
+  Mat.8:16 14:15, 23 16:2 20:8 26:20 27:57, Mrk.1:32 4:35 6:47 14:17 15:42, Jhn.6:16
+  20:10.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ὀψία,
+
+  Ionic dialect -ιη (i.e. ὥρα), ἡ, the latter part of day, evening, opposed to ὄρθρος,
+  frequently joined with δείλη (which see), μέχρι δείλης ὀψίης [Refs 5th c.BC+]; δείλης
+  ὀ. late in the evening, [Refs 4th c.BC+]; ὀψίας alone, [Refs 2nd c.AD+] —Cf. ὄψιος.
+  {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: A4606
-    proximity: 0.8227
+    proximity: 0.8227 {macula-proximity}
   - strongs: A8122
-    proximity: 0.8227
+    proximity: 0.8227 {macula-proximity}
   - strongs: G2539
-    proximity: 0.8212
+    lemma: καίπερ
+    gloss: and indeed {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   - strongs: G3797
-    proximity: 0.82
+    lemma: ὄψιμος
+    gloss: later {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
   - strongs: G4057
-    proximity: 0.8176
+    lemma: περισσῶς
+    gloss: superabundantly {openscriptures-strongs}
+    proximity: 0.8176 {macula-proximity}
   - strongs: G4050
-    proximity: 0.8135
+    lemma: περισσεία
+    gloss: surplusage {openscriptures-strongs}
+    proximity: 0.8135 {macula-proximity}
   - strongs: G5248
-    proximity: 0.8125
+    lemma: ὑπερπερισσεύω
+    gloss: to super-abound {openscriptures-strongs}
+    proximity: 0.8125 {macula-proximity}
   - strongs: G3304
-    proximity: 0.7978
+    lemma: μενοῦνγε
+    gloss: so then at least {openscriptures-strongs}
+    proximity: 0.7978 {macula-proximity}
   - strongs: G3676
-    proximity: 0.7914
+    lemma: ὅμως
+    gloss: at the same time {openscriptures-strongs}
+    proximity: 0.7914 {macula-proximity}
   - strongs: G3571
-    proximity: 0.7903
+    lemma: νύξ
+    gloss: '"night" {openscriptures-strongs}'
+    proximity: 0.7903 {macula-proximity}
   cross_language:
   - strongs: H3807a
-    proximity: 0.8151
+    proximity: 0.8151 {macula-proximity}
     language: hebrew
   - strongs: H1886a
-    proximity: 0.8112
+    proximity: 0.8112 {macula-proximity}
     language: hebrew
   - strongs: H6256
-    proximity: 0.8028
+    lemma: עֵת
+    gloss: time {openscriptures-strongs}
+    proximity: 0.8028 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

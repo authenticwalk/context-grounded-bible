@@ -6,48 +6,66 @@ pronunciation: goo-faw'
 definition: a corpse (as closed to sense)
 kjv_usage: body.
 derivation: from H1479 (גּוּף);
-extended_definition:
-  gloss: body
-  definition: body, corpse
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: body, corpse {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1460
-    proximity: 0.8299
+    lemma: גֵּו
+    gloss: the back {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
   - strongs: H990
-    proximity: 0.8267
+    proximity: 0.8267 {macula-proximity}
   - strongs: H8473
-    proximity: 0.8214
+    lemma: תַּחֲרָא
+    gloss: a linen corslet {openscriptures-strongs}
+    proximity: 0.8214 {macula-proximity}
   - strongs: H4191
-    proximity: 0.7824
+    lemma: מוּת
+    gloss: to die {openscriptures-strongs}
+    proximity: 0.7824 {macula-proximity}
   - strongs: H5315
-    proximity: 0.781
+    lemma: נֶפֶשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.781 {macula-proximity}
   - strongs: H7607
-    proximity: 0.7783
+    lemma: שְׁאֵר
+    gloss: flesh {openscriptures-strongs}
+    proximity: 0.7783 {macula-proximity}
   - strongs: H6896
-    proximity: 0.773
+    lemma: קֵבָה
+    gloss: the paunch  or first stomach of ruminants {openscriptures-strongs}
+    proximity: 0.773 {macula-proximity}
   - strongs: H1320
-    proximity: 0.7609
+    lemma: בָּשָׂר
+    gloss: flesh {openscriptures-strongs}
+    proximity: 0.7609 {macula-proximity}
   - strongs: H6106
-    proximity: 0.7545
+    lemma: עֶצֶם
+    gloss: a bone {openscriptures-strongs}
+    proximity: 0.7545 {macula-proximity}
   - strongs: H5845
-    proximity: 0.7431
+    lemma: עֲטִין
+    gloss: a receptacle (for milk {openscriptures-strongs}
+    proximity: 0.7431 {macula-proximity}
   cross_language:
   - strongs: G4632
-    proximity: 0.8074
+    lemma: σκεῦος
+    gloss: a vessel {openscriptures-strongs}
+    proximity: 0.8074 {macula-proximity}
     language: greek
   - strongs: G4561
-    proximity: 0.7632
+    lemma: σάρξ
+    gloss: flesh {openscriptures-strongs}
+    proximity: 0.7632 {macula-proximity}
     language: greek
   - strongs: G3196
-    proximity: 0.726
+    lemma: μέλος
+    gloss: a limb or part of the body {openscriptures-strongs}
+    proximity: 0.726 {macula-proximity}
     language: greek
   - strongs: G4954
-    proximity: 0.7001
+    lemma: σύσσωμος
+    gloss: of a joint body {openscriptures-strongs}
+    proximity: 0.7001 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,36 +6,43 @@ pronunciation: map-pawl'
 definition: a falling off, i.e. chaff; also something pendulous, i.e. a flap
 kjv_usage: flake, refuse.
 derivation: from H5307 (נָפַל);
-extended_definition:
-  gloss: refuse
-  definition: 1) refuse, hanging parts<br>1a) fallings, refuse<br>1b) hanging parts
-    (of a crocodile)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) refuse, hanging parts
+
+  1a) fallings, refuse
+
+  1b) hanging parts (of a crocodile) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3985
-    proximity: 0.8049
+    lemma: מָאֵן
+    gloss: to refuse {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H5409
-    proximity: 0.7915
+    lemma: נֵתַח
+    gloss: a fragment {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
   - strongs: H3986
-    proximity: 0.7778
+    lemma: מָאֵן
+    gloss: unwilling {openscriptures-strongs}
+    proximity: 0.7778 {macula-proximity}
   - strongs: H1506
-    proximity: 0.7748
+    lemma: גֶּזֶר
+    gloss: something cut off {openscriptures-strongs}
+    proximity: 0.7748 {macula-proximity}
   - strongs: A5784
-    proximity: 0.7512
+    proximity: 0.7512 {macula-proximity}
   cross_language:
   - strongs: G5501
-    proximity: 0.7611
+    lemma: χείρων
+    gloss: from an obsolete equivalent {openscriptures-strongs}
+    proximity: 0.7611 {macula-proximity}
     language: greek
   - strongs: G3935
-    proximity: 0.754
+    lemma: παρίημι
+    gloss: to let by {openscriptures-strongs}
+    proximity: 0.754 {macula-proximity}
     language: greek
   - strongs: G892
-    proximity: 0.7158
+    proximity: 0.7158 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

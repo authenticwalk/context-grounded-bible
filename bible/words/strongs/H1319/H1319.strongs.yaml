@@ -8,43 +8,51 @@ definition: properly, to be fresh, i.e. full (rosy, (figuratively) cheerful); to
 kjv_usage: messenger, preach, publish, shew forth, (bear, bring, carry, preach, good,
   tell good) tidings.
 derivation: a primitive root;
-extended_definition:
-  gloss: to bear tidings
-  definition: 1) to bear news, bear tidings, publish, preach, show forth<br>1a) (Piel)<br>1a1)
-    to gladden with good news<br>1a2) to bear news<br>1a3) to announce (salvation)
-    as good news, preach<br>1b) (Hithpael) to receive good news
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to bear news, bear tidings, publish, preach, show forth
+
+  1a) (Piel)
+
+  1a1) to gladden with good news
+
+  1a2) to bear news
+
+  1a3) to announce (salvation) as good news, preach
+
+  1b) (Hithpael) to receive good news {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A1b
-    proximity: 0.83
+    proximity: 0.83 {macula-proximity}
   - strongs: H6735a
-    proximity: 0.7893
+    proximity: 0.7893 {macula-proximity}
   - strongs: H5046
-    proximity: 0.786
+    lemma: נָגַד
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.786 {macula-proximity}
   - strongs: H2896
-    proximity: 0.7841
+    lemma: טוֹב
+    gloss: good  in the widest sense {openscriptures-strongs}
+    proximity: 0.7841 {macula-proximity}
   - strongs: H1886a
-    proximity: 0.7818
+    proximity: 0.7818 {macula-proximity}
   cross_language:
   - strongs: G71
-    proximity: 0.8245
+    proximity: 0.8245 {macula-proximity}
     language: greek
   - strongs: G312
-    proximity: 0.8244
+    proximity: 0.8244 {macula-proximity}
     language: greek
   - strongs: G18
-    proximity: 0.8242
+    proximity: 0.8242 {macula-proximity}
     language: greek
   - strongs: G2099
-    proximity: 0.8136
+    lemma: εὐαγγελιστής
+    gloss: a preacher of the gospel {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
     language: greek
   - strongs: G5345
-    proximity: 0.7955
+    lemma: φήμη
+    gloss: a saying {openscriptures-strongs}
+    proximity: 0.7955 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

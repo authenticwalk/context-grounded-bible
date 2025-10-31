@@ -6,45 +6,53 @@ pronunciation: taw
 definition: a room (as circumscribed)
 kjv_usage: (little) chamber.
 derivation: and (feminine) תָּאָה; (Ezekiel 40:12), from (the base of) H8376 (תָּאָה);
-extended_definition:
-  gloss: chamber
-  definition: chamber, guardroom
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: chamber, guardroom {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H2315
-    proximity: 0.8145
+    lemma: חֶדֶר
+    gloss: an apartment {openscriptures-strongs}
+    proximity: 0.8145 {macula-proximity}
   - strongs: H5393
-    proximity: 0.8075
+    lemma: נִשְׁכָּה
+    gloss: a cell {openscriptures-strongs}
+    proximity: 0.8075 {macula-proximity}
   - strongs: A479
-    proximity: 0.7914
+    proximity: 0.7914 {macula-proximity}
   - strongs: A429
-    proximity: 0.7868
+    proximity: 0.7868 {macula-proximity}
   - strongs: H411
-    proximity: 0.7836
+    proximity: 0.7836 {macula-proximity}
   - strongs: A412
-    proximity: 0.7723
+    proximity: 0.7723 {macula-proximity}
   - strongs: H3957
-    proximity: 0.7589
+    lemma: לִשְׁכָּה
+    gloss: a room in a building (whether for storage {openscriptures-strongs}
+    proximity: 0.7589 {macula-proximity}
   cross_language:
   - strongs: G3778
-    proximity: 0.8295
+    lemma: οὗτος
+    gloss: the he {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G3612
-    proximity: 0.8109
+    lemma: οἴκημα
+    gloss: a tenement {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
     language: greek
   - strongs: G5125
-    proximity: 0.8023
+    lemma: τούτοις
+    gloss: to (for {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
     language: greek
   - strongs: G5025
-    proximity: 0.7987
+    lemma: ταύταις
+    gloss: (to or with or by {openscriptures-strongs}
+    proximity: 0.7987 {macula-proximity}
     language: greek
   - strongs: G5128
-    proximity: 0.7965
+    lemma: τούτους
+    gloss: these (persons {openscriptures-strongs}
+    proximity: 0.7965 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

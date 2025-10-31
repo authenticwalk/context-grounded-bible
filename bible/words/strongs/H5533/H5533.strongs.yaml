@@ -9,32 +9,41 @@ derivation: probably a denominative from H7915 (שַׂכִּין);
 related_words:
   synonyms:
   - strongs: H2849
-    proximity: 0.8014
+    lemma: חַתְחַת
+    gloss: terror {openscriptures-strongs}
+    proximity: 0.8014 {macula-proximity}
   - strongs: H611
-    proximity: 0.7647
+    proximity: 0.7647 {macula-proximity}
   - strongs: H6481
-    proximity: 0.7584
+    lemma: פָּצַע
+    gloss: to split {openscriptures-strongs}
+    proximity: 0.7584 {macula-proximity}
   - strongs: H2325
-    proximity: 0.7556
+    lemma: חוּב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7556 {macula-proximity}
   - strongs: A2257
-    proximity: 0.7121
+    proximity: 0.7121 {macula-proximity}
   cross_language:
   - strongs: G5196
-    proximity: 0.8282
+    lemma: ὕβρις
+    gloss: insolence {openscriptures-strongs}
+    proximity: 0.8282 {macula-proximity}
     language: greek
   - strongs: G2775
-    proximity: 0.8096
+    lemma: κεφαλαιόω
+    gloss: to strike on the head {openscriptures-strongs}
+    proximity: 0.8096 {macula-proximity}
     language: greek
   - strongs: G3851a
-    proximity: 0.8087
+    proximity: 0.8087 {macula-proximity}
     language: greek
   - strongs: G984
-    proximity: 0.7944
+    proximity: 0.7944 {macula-proximity}
     language: greek
   - strongs: G5135
-    proximity: 0.7528
+    lemma: τραυματίζω
+    gloss: to inflict a wound {openscriptures-strongs}
+    proximity: 0.7528 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

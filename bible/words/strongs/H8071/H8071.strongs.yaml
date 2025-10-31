@@ -7,48 +7,65 @@ definition: a dress, especially a mantle
 kjv_usage: apparel, cloth(-es, -ing), garment, raiment. Compare H8008 (שַׂלְמָה).
 derivation: perhaps by permutation for the feminine of H5566 (סֶמֶל) (through the
   idea of a cover assuming the shape of the object beneath);
-extended_definition:
-  gloss: mantle
-  definition: wrapper, mantle, covering garment, garments, clothes, raiment, a cloth
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: wrapper, mantle, covering garment, garments, clothes, raiment,
+  a cloth {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7196
-    proximity: 0.8287
+    lemma: קִשֻּׁר
+    gloss: an  girdle {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H7168
-    proximity: 0.8169
+    lemma: קֶרַע
+    gloss: a rag {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: H8302a
-    proximity: 0.8115
+    proximity: 0.8115 {macula-proximity}
   - strongs: H145
-    proximity: 0.8006
+    proximity: 0.8006 {macula-proximity}
   - strongs: H6648
-    proximity: 0.799
+    lemma: צֶבַע
+    gloss: a dye {openscriptures-strongs}
+    proximity: 0.799 {macula-proximity}
   - strongs: H4458
-    proximity: 0.7941
+    lemma: מֶלְתָּחָה
+    gloss: a wardrobe {openscriptures-strongs}
+    proximity: 0.7941 {macula-proximity}
   - strongs: H4595
-    proximity: 0.7851
+    lemma: מַעֲטָפָה
+    gloss: a cloak {openscriptures-strongs}
+    proximity: 0.7851 {macula-proximity}
   - strongs: H1545
-    proximity: 0.7663
+    lemma: גְּלוֹם
+    gloss: clothing {openscriptures-strongs}
+    proximity: 0.7663 {macula-proximity}
   - strongs: H7289
-    proximity: 0.7657
+    lemma: רָדִיד
+    gloss: a veil {openscriptures-strongs}
+    proximity: 0.7657 {macula-proximity}
   - strongs: H4304
-    proximity: 0.7414
+    lemma: מִטְפַּחַת
+    gloss: a wide cloak {openscriptures-strongs}
+    proximity: 0.7414 {macula-proximity}
   cross_language:
   - strongs: G1463
-    proximity: 0.823
+    lemma: ἐγκομβόομαι
+    gloss: to engirdle oneself {openscriptures-strongs}
+    proximity: 0.823 {macula-proximity}
     language: greek
   - strongs: G1902
-    proximity: 0.82
+    lemma: ἐπενδύομαι
+    gloss: to invest upon oneself {openscriptures-strongs}
+    proximity: 0.82 {macula-proximity}
     language: greek
   - strongs: G2439
-    proximity: 0.7968
+    lemma: ἱματίζω
+    gloss: to dress {openscriptures-strongs}
+    proximity: 0.7968 {macula-proximity}
     language: greek
   - strongs: G1746
-    proximity: 0.7626
+    lemma: ἐνδύω
+    gloss: to invest with clothing {openscriptures-strongs}
+    proximity: 0.7626 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -5,51 +5,55 @@ transliteration: pseúdomai
 definition: to utter an untruth or attempt to deceive by falsehood
 kjv_usage: falsely, lie
 derivation: middle voice of an apparently primary verb;
-extended_definition:
-  gloss: to lie
-  definition: '<b>ψεύδω </b> to deceive by lies; more frequently in the depon. mid,
-    form ψεύδομαι (so always in NT), <BR /> [in LXX chiefly for כָּחַשׁ pi. ;] <BR
-    />__1. absol., <b>to lie</b>: <ref=''Heb.6.18''>Heb.6:18</ref>, <ref=''1Jn.1.6''>1Jn.1:6</ref>,
-    <ref=''Rev.3.9''>Rev.3:9</ref>; οὐ ψεύδομαι, <ref=''Rom.9.1''>Rom.9:1</ref>, <ref=''2Co.11.31''>2Co.11:31</ref>,
-    <ref=''Gal.1.20''>Gal.1:20</ref>, <ref=''1Ti.2.7''>1Ti.2:7</ref> with dative of
-    person(s) (<ref=''Psa.18.45''>Psa.18:45</ref>, <ref=''Jhn.5.12''>Jhn.5:12</ref>,
-    al.), <ref=''Act.5.4''>Act.5:4</ref>; before εἰς, <ref=''Col.3.9''>Col.3:9;</ref>
-    κατά, <ref=''Jas.3.14''>Jas.3:14</ref> (Hort, in l). <BR /> __2. Like act., with
-    accusative, <b>to deceive by lies </b>(Æsch., al.): <ref=''Act.5.3.''>Act.5:3.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> ψεύδομαι</b>, <br /> see at {ψεύδω} [<a href="javascript:void(0)"
-    title=" 5th c.BC: Bacchylides Lyricus ">Refs 5th c.BC+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'ψεύδω  to deceive by lies; more frequently in the depon. mid,
+  form ψεύδομαι (so always in NT),
+
+  [in LXX chiefly for כָּחַשׁ pi. ;]
+
+  __1. absol., to lie: Heb.6:18, 1Jn.1:6, Rev.3:9; οὐ ψεύδομαι, Rom.9:1, 2Co.11:31,
+  Gal.1:20, 1Ti.2:7 with dative of person(s) (Psa.18:45, Jhn.5:12, al.), Act.5:4;
+  before εἰς, Col.3:9; κατά, Jas.3:14 (Hort, in l).
+
+  __2. Like act., with accusative, to deceive by lies (Æsch., al.): Act.5:3.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'ψεύδομαι,
+
+  see at {ψεύδω} [Refs 5th c.BC+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1748
-    proximity: 0.8247
+    lemma: ἐνεδρεύω
+    gloss: to lurk {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
   - strongs: A7844
-    proximity: 0.8212
+    proximity: 0.8212 {macula-proximity}
   - strongs: G1945
-    proximity: 0.8186
+    lemma: ἐπίκειμαι
+    gloss: to rest upon {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   cross_language:
   - strongs: H7903
-    proximity: 0.8292
+    lemma: שְׁכֹבֶת
+    gloss: a  lying with {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
     language: hebrew
   - strongs: H1697
-    proximity: 0.8289
+    lemma: דָּבָר
+    gloss: a word {openscriptures-strongs}
+    proximity: 0.8289 {macula-proximity}
     language: hebrew
   - strongs: H6808
-    proximity: 0.8281
+    lemma: צָעָה
+    gloss: to tip over {openscriptures-strongs}
+    proximity: 0.8281 {macula-proximity}
     language: hebrew
   - strongs: H1933a
-    proximity: 0.8278
+    proximity: 0.8278 {macula-proximity}
     language: hebrew
   - strongs: H4769
-    proximity: 0.8253
+    lemma: מַרְבֵּץ
+    gloss: a reclining place {openscriptures-strongs}
+    proximity: 0.8253 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

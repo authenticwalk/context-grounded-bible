@@ -6,23 +6,21 @@ pronunciation: mah-af-eh'
 definition: something baked, i.e. a batch
 kjv_usage: baken.
 derivation: from H644 (אָפָה);
-extended_definition:
-  gloss: baked (food)
-  definition: baked, thing baked
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: baked, thing baked {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7529
-    proximity: 0.8153
+    lemma: רֶצֶף
+    gloss: a red-hot stone {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
   - strongs: H8601
-    proximity: 0.8
+    lemma: תֻּפִין
+    gloss: cookery {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   cross_language:
   - strongs: G5451
-    proximity: 0.8222
+    lemma: φυτεία
+    gloss: trans-planting {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

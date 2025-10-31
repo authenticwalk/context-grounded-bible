@@ -6,52 +6,81 @@ pronunciation: raw-ad'
 definition: to shudder (more or less violently)
 kjv_usage: tremble.
 derivation: a primitive root;
-extended_definition:
-  gloss: to tremble
-  definition: 1) to tremble, quake<br>1a) (Qal)<br>1a1) to tremble<br>1a2) (earth)quake<br>1b)
-    (Hiphil) trembling (participle)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to tremble, quake
+
+  1a) (Qal)
+
+  1a1) to tremble
+
+  1a2) (earth)quake
+
+  1b) (Hiphil) trembling (participle) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4691
-    proximity: 0.8218
+    lemma: מְצוּקָה
+    gloss: narrowness {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
   - strongs: H4128
-    proximity: 0.8152
+    lemma: מוּד
+    gloss: to shake {openscriptures-strongs}
+    proximity: 0.8152 {macula-proximity}
   - strongs: H2648
-    proximity: 0.7915
+    lemma: חָפַז
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7915 {macula-proximity}
   - strongs: H4571
-    proximity: 0.7797
+    lemma: מָעַד
+    gloss: to waver {openscriptures-strongs}
+    proximity: 0.7797 {macula-proximity}
   - strongs: H6342
-    proximity: 0.7773
+    lemma: פָּחַד
+    gloss: to be startled {openscriptures-strongs}
+    proximity: 0.7773 {macula-proximity}
   - strongs: H7374
-    proximity: 0.7672
+    lemma: רֶטֶט
+    gloss: terror {openscriptures-strongs}
+    proximity: 0.7672 {macula-proximity}
   - strongs: H4575
-    proximity: 0.7618
+    lemma: מַעֲדַנָּה
+    gloss: a bond {openscriptures-strongs}
+    proximity: 0.7618 {macula-proximity}
   - strongs: H8175
-    proximity: 0.7548
+    lemma: שָׂעַר
+    gloss: to storm {openscriptures-strongs}
+    proximity: 0.7548 {macula-proximity}
   - strongs: H5128
-    proximity: 0.7478
+    lemma: נוּעַ
+    gloss: to waver {openscriptures-strongs}
+    proximity: 0.7478 {macula-proximity}
   - strongs: H7363
-    proximity: 0.7408
+    lemma: רָחַף
+    gloss: to brood {openscriptures-strongs}
+    proximity: 0.7408 {macula-proximity}
   cross_language:
   - strongs: G4578
-    proximity: 0.8009
+    lemma: σεισμός
+    gloss: a commotion {openscriptures-strongs}
+    proximity: 0.8009 {macula-proximity}
     language: greek
   - strongs: G5398
-    proximity: 0.7837
+    lemma: φοβερός
+    gloss: frightful {openscriptures-strongs}
+    proximity: 0.7837 {macula-proximity}
     language: greek
   - strongs: G5425
-    proximity: 0.7647
+    lemma: φρίσσω
+    gloss: to "bristle" or chill {openscriptures-strongs}
+    proximity: 0.7647 {macula-proximity}
     language: greek
   - strongs: G4531
-    proximity: 0.7646
+    lemma: σαλεύω
+    gloss: to waver {openscriptures-strongs}
+    proximity: 0.7646 {macula-proximity}
     language: greek
   - strongs: G4579
-    proximity: 0.7447
+    lemma: σείω
+    gloss: to rock (vibrate {openscriptures-strongs}
+    proximity: 0.7447 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

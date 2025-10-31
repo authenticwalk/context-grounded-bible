@@ -8,43 +8,56 @@ definition: properly, to incline; by implication, to decline (of the slanting ra
 kjv_usage: abide (in tents), camp, dwell, encamp, grow to an end, lie, pitch (tent),
   rest in tent.
 derivation: a primitive root (compare H2603 (חָנַן));
-extended_definition:
-  gloss: to camp
-  definition: 1) to decline, incline, encamp, bend down, lay siege against<br>1a)
-    (Qal)<br>1a1) to decline<br>1a2) to encamp
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to decline, incline, encamp, bend down, lay siege against
+
+  1a) (Qal)
+
+  1a1) to decline
+
+  1a2) to encamp {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1752a
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
   - strongs: H6696
-    proximity: 0.8166
+    lemma: צוּר
+    gloss: to cramp {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
   - strongs: H4692
-    proximity: 0.8053
+    lemma: מָצוֹר
+    gloss: something hemming in {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H168
-    proximity: 0.7999
+    proximity: 0.7999 {macula-proximity}
   - strongs: H4265
-    proximity: 0.7839
+    lemma: מַחֲנֵה־דָן
+    gloss: Machaneh-Dan {openscriptures-strongs}
+    proximity: 0.7839 {macula-proximity}
   - strongs: H4570
-    proximity: 0.7759
+    lemma: מַעְגָּל
+    gloss: a track {openscriptures-strongs}
+    proximity: 0.7759 {macula-proximity}
   - strongs: H3427
-    proximity: 0.7708
+    lemma: יָשַׁב
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7708 {macula-proximity}
   - strongs: H341
-    proximity: 0.7663
+    proximity: 0.7663 {macula-proximity}
   - strongs: H167
-    proximity: 0.7252
+    proximity: 0.7252 {macula-proximity}
   - strongs: H8628
-    proximity: 0.7046
+    lemma: תָּקַע
+    gloss: to clatter {openscriptures-strongs}
+    proximity: 0.7046 {macula-proximity}
   cross_language:
   - strongs: G4078
-    proximity: 0.8197
+    lemma: πήγνυμι
+    gloss: to fix {openscriptures-strongs}
+    proximity: 0.8197 {macula-proximity}
     language: greek
   - strongs: G3925
-    proximity: 0.714
+    lemma: παρεμβολή
+    gloss: a throwing in beside {openscriptures-strongs}
+    proximity: 0.714 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

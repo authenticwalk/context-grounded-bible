@@ -6,47 +6,61 @@ pronunciation: mim-kawr'
 definition: merchandise; abstractly, a selling
 kjv_usage: '[idiom] ought, (that which cometh of) sale, that which...sold, ware.'
 derivation: from H4376 (מָכַר);
-extended_definition:
-  gloss: sale
-  definition: sale, ware, thing sold
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: sale, ware, thing sold {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H7399
-    proximity: 0.817
+    lemma: רְכוּשׁ
+    gloss: property {openscriptures-strongs}
+    proximity: 0.817 {macula-proximity}
   - strongs: H4360
-    proximity: 0.8153
+    lemma: מִכְלֻל
+    gloss: something perfect {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
   - strongs: H7666
-    proximity: 0.8089
+    lemma: שָׁבַר
+    gloss: to deal in grain {openscriptures-strongs}
+    proximity: 0.8089 {macula-proximity}
   - strongs: H3724c
-    proximity: 0.7776
+    proximity: 0.7776 {macula-proximity}
   - strongs: H4376
-    proximity: 0.7396
+    lemma: מָכַר
+    gloss: to sell {openscriptures-strongs}
+    proximity: 0.7396 {macula-proximity}
   - strongs: H4377
-    proximity: 0.7223
+    lemma: מֶכֶר
+    gloss: merchandise {openscriptures-strongs}
+    proximity: 0.7223 {macula-proximity}
   - strongs: H5801
-    proximity: 0.7183
+    lemma: עִזָּבוֹן
+    gloss: trade {openscriptures-strongs}
+    proximity: 0.7183 {macula-proximity}
   - strongs: H4728
-    proximity: 0.7127
+    lemma: מַקָּחָה
+    gloss: something received {openscriptures-strongs}
+    proximity: 0.7127 {macula-proximity}
   cross_language:
   - strongs: G2192
-    proximity: 0.8285
+    lemma: ἔχω
+    gloss: to hold (used in very various applications {openscriptures-strongs}
+    proximity: 0.8285 {macula-proximity}
     language: greek
   - strongs: G5413
-    proximity: 0.8212
+    lemma: φορτίον
+    gloss: an invoice {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
     language: greek
   - strongs: G3083
-    proximity: 0.776
+    lemma: λύτρον
+    gloss: something to loosen with {openscriptures-strongs}
+    proximity: 0.776 {macula-proximity}
     language: greek
   - strongs: G487
-    proximity: 0.7679
+    proximity: 0.7679 {macula-proximity}
     language: greek
   - strongs: G1546
-    proximity: 0.7629
+    lemma: ἐκβολή
+    gloss: ejection {openscriptures-strongs}
+    proximity: 0.7629 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

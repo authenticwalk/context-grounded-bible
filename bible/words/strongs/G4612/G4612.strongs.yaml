@@ -5,32 +5,29 @@ transliteration: simikínthion
 definition: a semicinctium or half-girding, i.e. narrow covering (apron)
 kjv_usage: apron
 derivation: of Latin origin;
-extended_definition:
-  gloss: apron
-  definition: '<b>σιμικίνθιον</b> (also written σημι-), -ου, τό (Lat. semicinctium),
-    <BR /> <b>a work­man''s apron</b>: <ref=''Act.19.12.''>Act.19:12.</ref>†<BR />
-    (AS)'
-  morphology: G:N-N
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> σημῐκίνθιον</b> <br /> (written σιμικίνθιον), τό, Latin <i>semicinctium</i>,
-    <b>apron</b> or <b>kerchief,</b> [<a href="javascript:void(0)" title=" NT.Acts.19.12.
-    ">NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'σιμικίνθιον (also written σημι-), -ου, τό (Lat. semicinctium),
+
+  a work­man''s apron: Act.19:12.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'σημῐκίνθιον
+
+  (written σιμικίνθιον), τό, Latin semicinctium, apron or kerchief, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1754
-    proximity: 0.8298
+    lemma: ἐνεργέω
+    gloss: to be active {openscriptures-strongs}
+    proximity: 0.8298 {macula-proximity}
   cross_language:
   - strongs: H4659
-    proximity: 0.8278
+    lemma: מִפְעָל
+    gloss: a performance {openscriptures-strongs}
+    proximity: 0.8278 {macula-proximity}
     language: hebrew
   - strongs: H6809
-    proximity: 0.8153
+    lemma: צָעִיף
+    gloss: a veil {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

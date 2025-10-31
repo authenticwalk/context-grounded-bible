@@ -9,33 +9,50 @@ derivation: a collaterally form of H2719 (חֶרֶב);
 related_words:
   synonyms:
   - strongs: H2552
-    proximity: 0.8287
+    lemma: חָמַם
+    gloss: to be hot {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H2788
-    proximity: 0.8224
+    lemma: חָרֵר
+    gloss: arid {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
   - strongs: H3456
-    proximity: 0.8184
+    lemma: יָשַׁם
+    gloss: to lie waste {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   - strongs: H3001
-    proximity: 0.8115
+    lemma: יָבֵשׁ
+    gloss: to be ashamed {openscriptures-strongs}
+    proximity: 0.8115 {macula-proximity}
   - strongs: H7722a
-    proximity: 0.8094
+    proximity: 0.8094 {macula-proximity}
   - strongs: H7957
-    proximity: 0.8073
+    lemma: שַׁלְהֶבֶת
+    gloss: a flare of fire {openscriptures-strongs}
+    proximity: 0.8073 {macula-proximity}
   - strongs: H6920
-    proximity: 0.8023
+    lemma: קַדַּחַת
+    gloss: inflammation {openscriptures-strongs}
+    proximity: 0.8023 {macula-proximity}
   - strongs: H6724
-    proximity: 0.8016
+    lemma: צִיוֹן
+    gloss: a desert {openscriptures-strongs}
+    proximity: 0.8016 {macula-proximity}
   - strongs: H6710
-    proximity: 0.7912
+    lemma: צַחְצָחָה
+    gloss: a dry place {openscriptures-strongs}
+    proximity: 0.7912 {macula-proximity}
   - strongs: H4876
-    proximity: 0.7884
+    lemma: מַשּׁוּאָה
+    gloss: ruin {openscriptures-strongs}
+    proximity: 0.7884 {macula-proximity}
   cross_language:
   - strongs: G504
-    proximity: 0.7961
+    proximity: 0.7961 {macula-proximity}
     language: greek
   - strongs: G4446
-    proximity: 0.7855
+    lemma: πυρετός
+    gloss: inflamed {openscriptures-strongs}
+    proximity: 0.7855 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

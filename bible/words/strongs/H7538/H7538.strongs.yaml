@@ -6,26 +6,26 @@ pronunciation: raw-kawb'
 definition: decay (by caries)
 kjv_usage: rottenness (thing).
 derivation: from H7537 (רָקַב);
-extended_definition:
-  gloss: rottenness
-  definition: rottenness, decay (always fig)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: rottenness, decay (always fig) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4743
-    proximity: 0.7937
+    lemma: מָקַק
+    gloss: to melt {openscriptures-strongs}
+    proximity: 0.7937 {macula-proximity}
   - strongs: H8182
-    proximity: 0.7204
+    lemma: שֹׁעָר
+    gloss: harsh or horrid {openscriptures-strongs}
+    proximity: 0.7204 {macula-proximity}
   cross_language:
   - strongs: G1044
-    proximity: 0.8265
+    lemma: γάγγραινα
+    gloss: an ulcer {openscriptures-strongs}
+    proximity: 0.8265 {macula-proximity}
     language: greek
   - strongs: G1312
-    proximity: 0.7291
+    lemma: διαφθορά
+    gloss: decay {openscriptures-strongs}
+    proximity: 0.7291 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

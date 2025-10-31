@@ -7,42 +7,53 @@ definition: to enclose; hence (in a friendly sense) to crown, (in a hostile one)
   besiege; also to wait (as restraining oneself)
 kjv_usage: beset round, compass about, be crowned inclose round, suffer.
 derivation: a primitive root;
-extended_definition:
-  gloss: to surround
-  definition: 1) to surround<br>1a) (Piel) to surround<br>1b) (Hiphil) to surround,
-    encircle
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to surround
+
+  1a) (Piel) to surround
+
+  1b) (Hiphil) to surround, encircle {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2442
-    proximity: 0.8275
+    lemma: חָכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8275 {macula-proximity}
   - strongs: H5906
-    proximity: 0.8139
+    lemma: עַיִשׁ
+    gloss: the constellation of the Great Bear {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
   - strongs: H6211b
-    proximity: 0.7593
+    proximity: 0.7593 {macula-proximity}
   - strongs: H1677
-    proximity: 0.7266
+    lemma: דֹּב
+    gloss: the bear {openscriptures-strongs}
+    proximity: 0.7266 {macula-proximity}
   - strongs: H2413
-    proximity: 0.7208
+    lemma: חָטַם
+    gloss: to stop {openscriptures-strongs}
+    proximity: 0.7208 {macula-proximity}
   cross_language:
   - strongs: G4343
-    proximity: 0.8167
+    lemma: προσκαρτέρησις
+    gloss: persistancy {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G5297
-    proximity: 0.813
+    lemma: ὑποφέρω
+    gloss: to bear from underneath {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
     language: greek
   - strongs: G1439
-    proximity: 0.7853
+    lemma: ἐάω
+    gloss: to let be {openscriptures-strongs}
+    proximity: 0.7853 {macula-proximity}
     language: greek
   - strongs: G5278
-    proximity: 0.7796
+    lemma: ὑπομένω
+    gloss: to stay under {openscriptures-strongs}
+    proximity: 0.7796 {macula-proximity}
     language: greek
   - strongs: G941
-    proximity: 0.7773
+    proximity: 0.7773 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

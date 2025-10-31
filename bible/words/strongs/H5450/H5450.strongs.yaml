@@ -6,47 +6,61 @@ pronunciation: seb-aw-law'
 definition: porterage
 kjv_usage: burden.
 derivation: from H5447 (סֵבֶל);
-extended_definition:
-  gloss: burden
-  definition: burden, forced labour, compulsory service, burden bearing
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: burden, forced labour, compulsory service, burden bearing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5999
-    proximity: 0.8276
+    lemma: עָמָל
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: H4639
-    proximity: 0.8241
+    lemma: מַעֲשֶׂה
+    gloss: an action {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H6089a
-    proximity: 0.821
+    proximity: 0.821 {macula-proximity}
   - strongs: H5647
-    proximity: 0.8142
+    lemma: עָבַד
+    gloss: to work {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   - strongs: H3018
-    proximity: 0.8079
+    lemma: יְגִיעַ
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8079 {macula-proximity}
   - strongs: H5998
-    proximity: 0.7898
+    lemma: עָמַל
+    gloss: to toil {openscriptures-strongs}
+    proximity: 0.7898 {macula-proximity}
   - strongs: H5656
-    proximity: 0.7876
+    lemma: עֲבֹדָה
+    gloss: work of any kind {openscriptures-strongs}
+    proximity: 0.7876 {macula-proximity}
   - strongs: H4399
-    proximity: 0.7814
+    lemma: מְלָאכָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7814 {macula-proximity}
   cross_language:
   - strongs: G926
-    proximity: 0.8179
+    proximity: 0.8179 {macula-proximity}
     language: greek
   - strongs: G1912
-    proximity: 0.8167
+    lemma: ἐπιβαρέω
+    gloss: to be heavy upon {openscriptures-strongs}
+    proximity: 0.8167 {macula-proximity}
     language: greek
   - strongs: G2873
-    proximity: 0.8166
+    lemma: κόπος
+    gloss: a cut {openscriptures-strongs}
+    proximity: 0.8166 {macula-proximity}
     language: greek
   - strongs: G2558
-    proximity: 0.8139
+    lemma: κακουχέω
+    gloss: to maltreat {openscriptures-strongs}
+    proximity: 0.8139 {macula-proximity}
     language: greek
   - strongs: G2041
-    proximity: 0.8074
+    lemma: ἔργον
+    gloss: toil {openscriptures-strongs}
+    proximity: 0.8074 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

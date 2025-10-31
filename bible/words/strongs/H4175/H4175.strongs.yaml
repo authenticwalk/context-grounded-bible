@@ -6,38 +6,46 @@ pronunciation: mo-reh'
 definition: an archer; also teacher or teaching; also the early rain
 kjv_usage: (early) rain.
 derivation: from H3384 (יָרָה); (see H3138 (יוֹרֶה))
-extended_definition:
-  gloss: rain/teacher
-  definition: 1) (early) rain<br>2) (TWOT) teacher
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) (early) rain
+
+  2) (TWOT) teacher {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A412
-    proximity: 0.8181
+    proximity: 0.8181 {macula-proximity}
   - strongs: A479
-    proximity: 0.8159
+    proximity: 0.8159 {macula-proximity}
   - strongs: H411
-    proximity: 0.7986
+    proximity: 0.7986 {macula-proximity}
   - strongs: H1869
-    proximity: 0.7878
+    lemma: דָּרַךְ
+    gloss: to tread {openscriptures-strongs}
+    proximity: 0.7878 {macula-proximity}
   - strongs: H7232
-    proximity: 0.7842
+    lemma: רָבַב
+    gloss: to shoot an arrow {openscriptures-strongs}
+    proximity: 0.7842 {macula-proximity}
   - strongs: H2909
-    proximity: 0.7366
+    lemma: טָחָה
+    gloss: to stretch a bow {openscriptures-strongs}
+    proximity: 0.7366 {macula-proximity}
   - strongs: H7198
-    proximity: 0.7224
+    lemma: קֶשֶׁת
+    gloss: a bow {openscriptures-strongs}
+    proximity: 0.7224 {macula-proximity}
   - strongs: H2671
-    proximity: 0.7041
+    lemma: חֵץ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7041 {macula-proximity}
   cross_language:
   - strongs: G5025
-    proximity: 0.8272
+    lemma: ταύταις
+    gloss: (to or with or by {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G5130
-    proximity: 0.821
+    lemma: τούτων
+    gloss: of  these {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

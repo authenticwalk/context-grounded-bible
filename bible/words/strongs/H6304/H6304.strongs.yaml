@@ -7,51 +7,61 @@ definition: distinction; also deliverance
 kjv_usage: division, redeem, redemption.
 derivation: or פְּדֻת; from H6929 (קֵדְמָה)lemma קדְמָה missing vowel, corrected to
   קֵדְמָה;
-extended_definition:
-  gloss: redemption
-  definition: ransom
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: ransom {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H4256
-    proximity: 0.8169
+    lemma: מַחֲלֹקֶת
+    gloss: a section (of Levites {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: A6392
-    proximity: 0.8156
+    proximity: 0.8156 {macula-proximity}
   - strongs: H8668
-    proximity: 0.8049
+    lemma: תְּשׁוּעָה
+    gloss: rescue (literal or figurative {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H914
-    proximity: 0.7643
+    proximity: 0.7643 {macula-proximity}
   - strongs: H1353
-    proximity: 0.7608
+    lemma: גְּאֻלָּה
+    gloss: redemption {openscriptures-strongs}
+    proximity: 0.7608 {macula-proximity}
   - strongs: H3724c
-    proximity: 0.7549
+    proximity: 0.7549 {macula-proximity}
   - strongs: H6306a
-    proximity: 0.7452
+    proximity: 0.7452 {macula-proximity}
   - strongs: H3468
-    proximity: 0.7444
+    lemma: יֶשַׁע
+    gloss: liberty {openscriptures-strongs}
+    proximity: 0.7444 {macula-proximity}
   - strongs: H6302
-    proximity: 0.7386
+    lemma: פָּדוּי
+    gloss: as abstractly  a ransom {openscriptures-strongs}
+    proximity: 0.7386 {macula-proximity}
   - strongs: H4190
-    proximity: 0.7179
+    lemma: מוֹשָׁעָה
+    gloss: deliverance {openscriptures-strongs}
+    proximity: 0.7179 {macula-proximity}
   cross_language:
   - strongs: G1267
-    proximity: 0.801
+    lemma: διαμερισμός
+    gloss: disunion {openscriptures-strongs}
+    proximity: 0.801 {macula-proximity}
     language: greek
   - strongs: G4978
-    proximity: 0.7673
+    lemma: σχίσμα
+    gloss: a split or gap {openscriptures-strongs}
+    proximity: 0.7673 {macula-proximity}
     language: greek
   - strongs: G487
-    proximity: 0.7551
+    proximity: 0.7551 {macula-proximity}
     language: greek
   - strongs: G873
-    proximity: 0.7522
+    proximity: 0.7522 {macula-proximity}
     language: greek
   - strongs: G3083
-    proximity: 0.7424
+    lemma: λύτρον
+    gloss: something to loosen with {openscriptures-strongs}
+    proximity: 0.7424 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

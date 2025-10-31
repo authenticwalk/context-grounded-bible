@@ -5,58 +5,70 @@ transliteration: phanérōsis
 definition: exhibition, i.e. (figuratively) expression, (by extension) a bestowment
 kjv_usage: manifestation
 derivation: from G5319 (φανερόω);
-extended_definition:
-  gloss: revelation
-  definition: '<b>φανέρωσις</b>, -εως, ἡ<BR /> (φανερόω), [in LXX as seel. for δήλωσις
-    אוּרִים), <ref=''Lev.8.8''>Lev.8:8</ref>, Cod. Ven. (Thayer, see word) * ;] <BR
-    /><b>manifestation</b>: <ref=''1Co.12.7''>1Co.12:7</ref>, <ref=''2Co.4.2''>2Co.4:2</ref>.†<BR
-    /> (AS)'
-  morphology: G:N-F
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> φᾰνέρ-ωσις</b>, εως, ἡ, <br /> ={σημασία}[<a href="javascript:void(0)"
-    title=" 1, 5th c.AD(?): Hesychius Legal icographus (φ. διὰ σάλπιγγος 9th c.AD:
-    Photius Legal icographus, etc., 10th c.AD: Suidas Legal icographus). ">Refs 5th
-    c.AD+</a>]<br /><Level3><b>__2</b></Level3> <b>disclosure,</b> ἡ ἀπὸ τοῦ οἴνου
-    φ. τοῦ λογισμοῦ [<a href="javascript:void(0)" title=" Anonymus “Incred.” 17. ">Refs</a>]<br
-    /><Level2><b>__II</b></Level2> <b>manifestation,</b> τοῦ πνεύματος [<a href="javascript:void(0)"
-    title=" NT.1Cor.12.7, cf. NT.2Cor.4.2. ">NT</a>]<br /><Level3><b>__II.2</b></Level3>
-    Astron., <b>becoming visible,</b> [<a href="javascript:void(0)" title=" 5th-6th
-    c.AD: Julianus Laodicensis Astrologus (?) in “Catalogus Codicum Astrologorum”
-    5(1).189(_plural_). ">Refs 5th c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'φανέρωσις, -εως, ἡ
+
+  (φανερόω), [in LXX as seel. for δήλωσις אוּרִים), Lev.8:8, Cod. Ven. (Thayer, see
+  word) * ;]
+
+  manifestation: 1Co.12:7, 2Co.4:2.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'φᾰνέρ-ωσις, εως, ἡ,
+
+  ={σημασία}[Refs 5th c.AD+]
+
+  __2 disclosure, ἡ ἀπὸ τοῦ οἴνου φ. τοῦ λογισμοῦ [Refs]
+
+  __II manifestation, τοῦ πνεύματος [NT]
+
+  __II.2 Astron., becoming visible, [Refs 5th c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G1834
-    proximity: 0.827
+    lemma: ἐξηγέομαι
+    gloss: to consider out {openscriptures-strongs}
+    proximity: 0.827 {macula-proximity}
   - strongs: G1272
-    proximity: 0.8252
+    lemma: διανοίγω
+    gloss: to open thoroughly {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
   - strongs: G455
-    proximity: 0.8142
+    proximity: 0.8142 {macula-proximity}
   - strongs: A6606
-    proximity: 0.8125
+    proximity: 0.8125 {macula-proximity}
   - strongs: G1165
-    proximity: 0.8082
+    lemma: δειγματίζω
+    gloss: to exhibit {openscriptures-strongs}
+    proximity: 0.8082 {macula-proximity}
   - strongs: G3701
-    proximity: 0.8068
+    lemma: ὀπτασία
+    gloss: visuality {openscriptures-strongs}
+    proximity: 0.8068 {macula-proximity}
   - strongs: G4271
-    proximity: 0.8062
+    lemma: πρόδηλος
+    gloss: plain before all men {openscriptures-strongs}
+    proximity: 0.8062 {macula-proximity}
   - strongs: G4921
-    proximity: 0.7973
+    lemma: συνιστάω
+    gloss: to set together {openscriptures-strongs}
+    proximity: 0.7973 {macula-proximity}
   - strongs: G5324
-    proximity: 0.7861
+    lemma: φαντάζω
+    gloss: to make apparent {openscriptures-strongs}
+    proximity: 0.7861 {macula-proximity}
   - strongs: G5316
-    proximity: 0.7831
+    lemma: φαίνω
+    gloss: to lighten {openscriptures-strongs}
+    proximity: 0.7831 {macula-proximity}
   cross_language:
   - strongs: H1540
-    proximity: 0.8266
+    lemma: גָּלָה
+    gloss: to denude {openscriptures-strongs}
+    proximity: 0.8266 {macula-proximity}
     language: hebrew
   - strongs: H3045
-    proximity: 0.8262
+    lemma: יָדַע
+    gloss: to know (properly {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,45 +6,55 @@ pronunciation: gaw-zaw'
 definition: to cut off, i.e. portion out
 kjv_usage: take.
 derivation: a primitive root (akin to H1468 (גּוּז));
-extended_definition:
-  gloss: to cut
-  definition: 1) to cut, cut off, sever<br>1a) (Qal) he that severed (participle)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to cut, cut off, sever
+
+  1a) (Qal) he that severed (participle) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A5954
-    proximity: 0.8214
+    proximity: 0.8214 {macula-proximity}
   - strongs: H3920
-    proximity: 0.8143
+    lemma: לָכַד
+    gloss: to catch (in a net {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
   - strongs: H5927
-    proximity: 0.8084
+    lemma: עָלָה
+    gloss: to ascend {openscriptures-strongs}
+    proximity: 0.8084 {macula-proximity}
   - strongs: H5066
-    proximity: 0.8005
+    lemma: נָגַשׁ
+    gloss: to be or come (causatively {openscriptures-strongs}
+    proximity: 0.8005 {macula-proximity}
   - strongs: H7997a
-    proximity: 0.7736
+    proximity: 0.7736 {macula-proximity}
   - strongs: H7061
-    proximity: 0.7639
+    lemma: קָמַץ
+    gloss: to grasp with the hand {openscriptures-strongs}
+    proximity: 0.7639 {macula-proximity}
   - strongs: H6718b
-    proximity: 0.7488
+    proximity: 0.7488 {macula-proximity}
   cross_language:
   - strongs: G616
-    proximity: 0.8288
+    proximity: 0.8288 {macula-proximity}
     language: greek
   - strongs: G4355
-    proximity: 0.8241
+    lemma: προσλαμβάνω
+    gloss: to take to oneself {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
   - strongs: G2240
-    proximity: 0.8173
+    lemma: ἥκω
+    gloss: to arrive {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
     language: greek
   - strongs: G2983
-    proximity: 0.8076
+    lemma: λαμβάνω
+    gloss: while G138  is more violent {openscriptures-strongs}
+    proximity: 0.8076 {macula-proximity}
     language: greek
   - strongs: G5453
-    proximity: 0.803
+    lemma: φύω
+    gloss: probably originally {openscriptures-strongs}
+    proximity: 0.803 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

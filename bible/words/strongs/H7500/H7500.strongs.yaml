@@ -6,34 +6,36 @@ pronunciation: rif-ooth'
 definition: a cure
 kjv_usage: health.
 derivation: from H7495 (רָפָא);
-extended_definition:
-  gloss: healing
-  definition: healing
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: healing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H605a
-    proximity: 0.7935
+    proximity: 0.7935 {macula-proximity}
   - strongs: H8644
-    proximity: 0.7222
+    lemma: תְּרוּפָה
+    gloss: a remedy {openscriptures-strongs}
+    proximity: 0.7222 {macula-proximity}
   - strongs: H1456
-    proximity: 0.7157
+    lemma: גֵּהָה
+    gloss: a cure {openscriptures-strongs}
+    proximity: 0.7157 {macula-proximity}
   cross_language:
   - strongs: G573
-    proximity: 0.8114
+    proximity: 0.8114 {macula-proximity}
     language: greek
   - strongs: G5198
-    proximity: 0.7756
+    lemma: ὑγιαίνω
+    gloss: to have sound health {openscriptures-strongs}
+    proximity: 0.7756 {macula-proximity}
     language: greek
   - strongs: G2386
-    proximity: 0.7216
+    lemma: ἴαμα
+    gloss: a cure {openscriptures-strongs}
+    proximity: 0.7216 {macula-proximity}
     language: greek
   - strongs: G5199
-    proximity: 0.712
+    lemma: ὑγιής
+    gloss: healthy {openscriptures-strongs}
+    proximity: 0.712 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

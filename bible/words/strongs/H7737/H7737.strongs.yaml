@@ -11,32 +11,43 @@ derivation: a primitive root;
 related_words:
   synonyms:
   - strongs: H3509a
-    proximity: 0.8263
+    proximity: 0.8263 {macula-proximity}
   - strongs: A1821
-    proximity: 0.8153
+    proximity: 0.8153 {macula-proximity}
   - strongs: H5541a
-    proximity: 0.8146
+    proximity: 0.8146 {macula-proximity}
   - strongs: H4911
-    proximity: 0.7217
+    lemma: מָשַׁל
+    gloss: to liken {openscriptures-strongs}
+    proximity: 0.7217 {macula-proximity}
   - strongs: H3644
-    proximity: 0.7161
+    lemma: כְּמוֹ
+    gloss: a form of the prefix 'k-' {openscriptures-strongs}
+    proximity: 0.7161 {macula-proximity}
   cross_language:
   - strongs: G3665
-    proximity: 0.8222
+    lemma: ὁμοιότης
+    gloss: resemblance {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
     language: greek
   - strongs: G2272
-    proximity: 0.8177
+    lemma: ἡσύχιος
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
     language: greek
   - strongs: G2470
-    proximity: 0.7602
+    lemma: ἴσος
+    gloss: similar {openscriptures-strongs}
+    proximity: 0.7602 {macula-proximity}
     language: greek
   - strongs: G1055
-    proximity: 0.7514
+    lemma: γαλήνη
+    gloss: tranquillity {openscriptures-strongs}
+    proximity: 0.7514 {macula-proximity}
     language: greek
   - strongs: G3666
-    proximity: 0.7355
+    lemma: ὁμοιόω
+    gloss: to assimilate {openscriptures-strongs}
+    proximity: 0.7355 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

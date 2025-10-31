@@ -6,51 +6,67 @@ pronunciation: rak-kawkh'
 definition: a male perfumer
 kjv_usage: apothecary.
 derivation: from H7543 (רָקַח);
-extended_definition:
-  gloss: perfumer
-  definition: ointment-maker, perfumer
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ointment-maker, perfumer {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H259
-    proximity: 0.8186
+    proximity: 0.8186 {macula-proximity}
   - strongs: H6885
-    proximity: 0.8173
+    lemma: צֹרְפִי
+    gloss: Tsorephi {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
   - strongs: A1b
-    proximity: 0.8054
+    proximity: 0.8054 {macula-proximity}
   - strongs: H3828
-    proximity: 0.8049
+    lemma: לְבוֹנָה
+    gloss: frankincense {openscriptures-strongs}
+    proximity: 0.8049 {macula-proximity}
   - strongs: H7004
-    proximity: 0.7847
+    lemma: קְטֹרֶת
+    gloss: a fumigation {openscriptures-strongs}
+    proximity: 0.7847 {macula-proximity}
   - strongs: H6875
-    proximity: 0.7813
+    lemma: צְרִי
+    gloss: distillation {openscriptures-strongs}
+    proximity: 0.7813 {macula-proximity}
   - strongs: H5561
-    proximity: 0.7787
+    lemma: סַם
+    gloss: an aroma {openscriptures-strongs}
+    proximity: 0.7787 {macula-proximity}
   - strongs: H4842
-    proximity: 0.7654
+    lemma: מִרְקַחַת
+    gloss: an aromatic unguent {openscriptures-strongs}
+    proximity: 0.7654 {macula-proximity}
   - strongs: H4841
-    proximity: 0.7549
+    lemma: מֶרְקָחָה
+    gloss: abstractly {openscriptures-strongs}
+    proximity: 0.7549 {macula-proximity}
   - strongs: H7545
-    proximity: 0.7494
+    lemma: רֹקַח
+    gloss: an aromatic {openscriptures-strongs}
+    proximity: 0.7494 {macula-proximity}
   cross_language:
   - strongs: G2369
-    proximity: 0.8296
+    lemma: θυμιαστήριον
+    gloss: a place of fumigation {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G298a
-    proximity: 0.8119
+    proximity: 0.8119 {macula-proximity}
     language: greek
   - strongs: G1520
-    proximity: 0.8021
+    lemma: εἷς
+    gloss: one {openscriptures-strongs}
+    proximity: 0.8021 {macula-proximity}
     language: greek
   - strongs: G3588
-    proximity: 0.7575
+    lemma: ὁ
+    gloss: the (sometimes to be supplied {openscriptures-strongs}
+    proximity: 0.7575 {macula-proximity}
     language: greek
   - strongs: G3395
-    proximity: 0.7493
+    lemma: μίγμα
+    gloss: a compound {openscriptures-strongs}
+    proximity: 0.7493 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

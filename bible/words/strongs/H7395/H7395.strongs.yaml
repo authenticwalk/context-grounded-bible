@@ -6,33 +6,45 @@ pronunciation: rak-kawb'
 definition: a charioteer
 kjv_usage: chariot man, driver of a chariot, horseman.
 derivation: from H7392 (רָכַב);
-extended_definition:
-  gloss: charioteer
-  definition: 1) driver, charioteer, horseman<br>1a) charioteer<br>1b) horseman
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) driver, charioteer, horseman
+
+  1a) charioteer
+
+  1b) horseman {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1536
-    proximity: 0.8153
+    lemma: גִּלְגָּל
+    gloss: '{a wheel {openscriptures-strongs}'
+    proximity: 0.8153 {macula-proximity}
   - strongs: H5699
-    proximity: 0.8112
+    lemma: עֲגָלָה
+    gloss: something revolving {openscriptures-strongs}
+    proximity: 0.8112 {macula-proximity}
   - strongs: H7573
-    proximity: 0.8056
+    lemma: רָתַם
+    gloss: to yoke up {openscriptures-strongs}
+    proximity: 0.8056 {macula-proximity}
   - strongs: H5483
-    proximity: 0.8037
+    lemma: סוּס
+    gloss: a horse {openscriptures-strongs}
+    proximity: 0.8037 {macula-proximity}
   - strongs: H7396
-    proximity: 0.7767
+    lemma: רִכְבָּה
+    gloss: a chariot {openscriptures-strongs}
+    proximity: 0.7767 {macula-proximity}
   - strongs: H4491
-    proximity: 0.7691
+    lemma: מִנְהָג
+    gloss: the driving {openscriptures-strongs}
+    proximity: 0.7691 {macula-proximity}
   - strongs: H7398
-    proximity: 0.7431
+    lemma: רְכוּב
+    gloss: a vehicle {openscriptures-strongs}
+    proximity: 0.7431 {macula-proximity}
   cross_language:
   - strongs: G4480
-    proximity: 0.7671
+    lemma: ῥέδα
+    gloss: a rheda {openscriptures-strongs}
+    proximity: 0.7671 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

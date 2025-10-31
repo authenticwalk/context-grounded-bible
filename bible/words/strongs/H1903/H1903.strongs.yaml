@@ -6,23 +6,21 @@ pronunciation: haw-gheen'
 definition: perhaps suitable or turning
 kjv_usage: directly.
 derivation: of uncertain derivation;
-extended_definition:
-  gloss: suitable
-  definition: 1) appropriate, suitable<br>2) (CLBL) directly ahead of
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: '1) appropriate, suitable
+
+  2) (CLBL) directly ahead of {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: A5049
-    proximity: 0.8056
+    proximity: 0.8056 {macula-proximity}
   - strongs: H6921
-    proximity: 0.7218
+    lemma: קָדִים
+    gloss: the fore or front part {openscriptures-strongs}
+    proximity: 0.7218 {macula-proximity}
   cross_language:
   - strongs: G4960
-    proximity: 0.7722
+    lemma: συστοιχέω
+    gloss: to file together {openscriptures-strongs}
+    proximity: 0.7722 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

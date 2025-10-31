@@ -6,24 +6,20 @@ pronunciation: peh'-rek
 definition: fracture, i.e. severity
 kjv_usage: cruelty, rigour.
 derivation: from an unused root meaning to break apart;
-extended_definition:
-  gloss: severity
-  definition: harshness, severity, cruelty
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: harshness, severity, cruelty {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1970
-    proximity: 0.8031
+    lemma: הָכַר
+    gloss: to injure {openscriptures-strongs}
+    proximity: 0.8031 {macula-proximity}
   cross_language:
   - strongs: G2558
-    proximity: 0.8218
+    lemma: κακουχέω
+    gloss: to maltreat {openscriptures-strongs}
+    proximity: 0.8218 {macula-proximity}
     language: greek
   - strongs: G663
-    proximity: 0.7336
+    proximity: 0.7336 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

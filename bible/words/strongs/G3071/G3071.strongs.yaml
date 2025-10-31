@@ -5,48 +5,49 @@ transliteration: Lykaonía
 definition: Lycaonia, a region of Asia Minor
 kjv_usage: Lycaonia
 derivation: perhaps remotely from G3074 (λύκος);
-extended_definition:
-  gloss: Lycaonia
-  definition: '<b>Λυκαονία</b>, -ας, ἡ <BR /> <b>Lycaonia, a region in Asia Minor</b>:
-    <ref=''Act.14.6.''>Act.14:6.</ref>†<BR /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> Λῠκᾱονία</b>, ἡ, <br /> district in the [<a href="javascript:void(0)"
-    title=" 5th c.BC: Sophocles Tragicus ">Refs 5th c.BC+</a>] of Asia Minor, [<a
-    href="javascript:void(0)" title=" 5th-6th c.BC: Xenophon Historicus “Anabasis”
-    1.2.19, etc.">Refs 5th c.BC+</a>]:— the people were <b>Λυκάονες</b>, οἱ,[<a href="javascript:void(0)"
-    title=" [prev. work] 3.2.23, 4th c.BC: Aristoteles Philosophus “Fragmenta” 151
-    ">Refs 4th c.BC+</a>]. <i>adverb</i> <b>λῠκανθρωπ-ιστί</b>, <b>in Lycaonian,</b>
-    [<a href="javascript:void(0)" title=" NT.Acts.14.11. ">NT</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'Λυκαονία, -ας, ἡ
+
+  Lycaonia, a region in Asia Minor: Act.14:6.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Λῠκᾱονία, ἡ,
+
+  district in the [Refs 5th c.BC+] of Asia Minor, [Refs 5th c.BC+]:— the people were
+  Λυκάονες, οἱ,[Refs 4th c.BC+]. adverb λῠκανθρωπ-ιστί, in Lycaonian, [NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G367
-    proximity: 0.8261
+    proximity: 0.8261 {macula-proximity}
   - strongs: G3033
-    proximity: 0.8223
+    lemma: Λιβύη
+    gloss: Libye {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
   - strongs: G4947
-    proximity: 0.8164
+    lemma: Συρία
+    gloss: Syria {openscriptures-strongs}
+    proximity: 0.8164 {macula-proximity}
   - strongs: G9
-    proximity: 0.8111
+    proximity: 0.8111 {macula-proximity}
   - strongs: G3518
-    proximity: 0.7863
+    lemma: Νηρί
+    gloss: Neri {openscriptures-strongs}
+    proximity: 0.7863 {macula-proximity}
   - strongs: G3517
-    proximity: 0.7567
+    lemma: Νηρεύς
+    gloss: Nereus {openscriptures-strongs}
+    proximity: 0.7567 {macula-proximity}
   cross_language:
   - strongs: H3812
-    proximity: 0.8169
+    lemma: לֵאָה
+    gloss: Leah {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
     language: hebrew
   - strongs: H5374a
-    proximity: 0.7992
+    proximity: 0.7992 {macula-proximity}
     language: hebrew
   - strongs: H5374
-    proximity: 0.7868
+    lemma: נֵרִיָּה
+    gloss: Nerijah {openscriptures-strongs}
+    proximity: 0.7868 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

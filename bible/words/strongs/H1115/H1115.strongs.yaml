@@ -9,52 +9,81 @@ definition: properly, a failure of, i.e. (used only as a negative particle, usua
 kjv_usage: because un(satiable), beside, but, [phrase] continual, except, from, lest,
   neither, no more, none, not, nothing, save, that no, without.
 derivation: constructive feminine of H1086 (בָּלָה) (equivalent to H1097 (בְּלִי));
-extended_definition:
-  gloss: lest
-  definition: subst<br>1) not, except<br>adv<br>2) not<br>3) except (after preceding
-    negation)<br>conj<br>4) except (after an implied or expressed negation)<br>with
-    prep<br>5) so as not, in order not<br>6) an account of not, because...not<br>7)
-    until not
-  morphology: H:Cond
-  source: STEPBible/BDB
+extended_definition: 'subst
+
+  1) not, except
+
+  adv
+
+  2) not
+
+  3) except (after preceding negation)
+
+  conj
+
+  4) except (after an implied or expressed negation)
+
+  with prep
+
+  5) so as not, in order not
+
+  6) an account of not, because...not
+
+  7) until not {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2931
-    proximity: 0.8292
+    lemma: טָמֵא
+    gloss: foul in a religious sense {openscriptures-strongs}
+    proximity: 0.8292 {macula-proximity}
   - strongs: H3818
-    proximity: 0.8267
+    lemma: לֹא עַמִּי
+    gloss: Lo-Ammi {openscriptures-strongs}
+    proximity: 0.8267 {macula-proximity}
   - strongs: H336
-    proximity: 0.8215
+    proximity: 0.8215 {macula-proximity}
   - strongs: H3807a
-    proximity: 0.8193
+    proximity: 0.8193 {macula-proximity}
   - strongs: H2050b
-    proximity: 0.8192
+    proximity: 0.8192 {macula-proximity}
   - strongs: H1504
-    proximity: 0.8169
+    lemma: גָּזַר
+    gloss: to cut down or off {openscriptures-strongs}
+    proximity: 0.8169 {macula-proximity}
   - strongs: H3985
-    proximity: 0.8154
+    lemma: מָאֵן
+    gloss: to refuse {openscriptures-strongs}
+    proximity: 0.8154 {macula-proximity}
   - strongs: H2638
-    proximity: 0.8141
+    lemma: חָסֵר
+    gloss: lacking {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: H6461
-    proximity: 0.8132
+    lemma: פָּסַס
+    gloss: probably to disperse {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
   cross_language:
   - strongs: G1511
-    proximity: 0.8272
+    lemma: εἶναι
+    gloss: to exist {openscriptures-strongs}
+    proximity: 0.8272 {macula-proximity}
     language: greek
   - strongs: G422
-    proximity: 0.8268
+    proximity: 0.8268 {macula-proximity}
     language: greek
   - strongs: G1576
-    proximity: 0.8252
+    lemma: ἐκκλείω
+    gloss: to shut out {openscriptures-strongs}
+    proximity: 0.8252 {macula-proximity}
     language: greek
   - strongs: G1161
-    proximity: 0.8215
+    lemma: δέ
+    gloss: but {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
     language: greek
   - strongs: G1410
-    proximity: 0.8129
+    lemma: δύναμαι
+    gloss: to be able or possible {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

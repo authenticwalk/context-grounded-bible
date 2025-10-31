@@ -6,21 +6,17 @@ pronunciation: zaw-noon'
 definition: adultery; figuratively, idolatry
 kjv_usage: whoredom.
 derivation: from H2181 (זָנָה);
-extended_definition:
-  gloss: fornication
-  definition: adultery, fornication, prostitution
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: adultery, fornication, prostitution {STEPBible-TBESH}
 related_words:
   cross_language:
   - strongs: G3429
-    proximity: 0.8116
+    lemma: μοιχάω
+    gloss: to commit adultery {openscriptures-strongs}
+    proximity: 0.8116 {macula-proximity}
     language: greek
   - strongs: G1608
-    proximity: 0.7008
+    lemma: ἐκπορνεύω
+    gloss: to be utterly unchaste {openscriptures-strongs}
+    proximity: 0.7008 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

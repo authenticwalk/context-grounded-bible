@@ -7,29 +7,37 @@ definition: Chatsor, the name (thus simply) of two places in Palestine and of on
   in Arabia
 kjv_usage: Hazor.
 derivation: a collective form of H2691 (חָצֵר); village;
-extended_definition:
-  gloss: Hazor
-  definition: <BR> § Hazor = "castle"<br>  a site in Arabia
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: '§ Hazor = "castle"
+
+  a site in Arabia {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2375
-    proximity: 0.8297
+    lemma: חֲזוֹ
+    gloss: Chazo {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
   - strongs: H1904
-    proximity: 0.8108
+    lemma: הָגָר
+    gloss: Hagar {openscriptures-strongs}
+    proximity: 0.8108 {macula-proximity}
   - strongs: H6820
-    proximity: 0.8107
+    lemma: צֹעַר
+    gloss: Tsoar {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
   - strongs: H6714
-    proximity: 0.7653
+    lemma: צֹחַר
+    gloss: Tsochar {openscriptures-strongs}
+    proximity: 0.7653 {macula-proximity}
   - strongs: H2675
-    proximity: 0.7186
+    lemma: חָצוֹר חֲדַתָּה
+    gloss: new Chatsor {openscriptures-strongs}
+    proximity: 0.7186 {macula-proximity}
   - strongs: H1178
-    proximity: 0.7162
+    lemma: בַּעַל חָצוֹר
+    gloss: Baal-Chatsor {openscriptures-strongs}
+    proximity: 0.7162 {macula-proximity}
   - strongs: H5877
-    proximity: 0.7103
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+    lemma: עֵין חָצוֹר
+    gloss: En-Chatsor {openscriptures-strongs}
+    proximity: 0.7103 {macula-proximity}
+source: openscriptures/strongs {CC-BY-SA}

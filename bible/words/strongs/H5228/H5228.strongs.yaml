@@ -7,48 +7,60 @@ definition: straightforward, i.e. (figuratively), equitable, correct, or (abstra
   integrity
 kjv_usage: plain, right, uprightness.
 derivation: from the same as H5226 (נֵכַח);
-extended_definition:
-  gloss: straightforward
-  definition: straight, right, straightness, be in front of
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: straight, right, straightness, be in front of {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6143
-    proximity: 0.8299
+    lemma: עִקְּשׁוּת
+    gloss: perversity {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
   - strongs: H6666
-    proximity: 0.8131
+    lemma: צְדָקָה
+    gloss: rightness {openscriptures-strongs}
+    proximity: 0.8131 {macula-proximity}
   - strongs: H8626
-    proximity: 0.8066
+    lemma: תָּקַן
+    gloss: to equalize {openscriptures-strongs}
+    proximity: 0.8066 {macula-proximity}
   - strongs: H530
-    proximity: 0.803
+    proximity: 0.803 {macula-proximity}
   - strongs: H6662
-    proximity: 0.8012
+    lemma: צַדִּיק
+    gloss: just {openscriptures-strongs}
+    proximity: 0.8012 {macula-proximity}
   - strongs: H8538
-    proximity: 0.8005
+    lemma: תֻּמָּה
+    gloss: innocence {openscriptures-strongs}
+    proximity: 0.8005 {macula-proximity}
   - strongs: H4941
-    proximity: 0.7926
+    lemma: מִשְׁפָּט
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7926 {macula-proximity}
   - strongs: H3474
-    proximity: 0.7896
+    lemma: יָשַׁר
+    gloss: to be straight or even {openscriptures-strongs}
+    proximity: 0.7896 {macula-proximity}
   - strongs: H4334
-    proximity: 0.7875
+    lemma: מִישׁוֹר
+    gloss: a level {openscriptures-strongs}
+    proximity: 0.7875 {macula-proximity}
   - strongs: H1305b
-    proximity: 0.7869
+    proximity: 0.7869 {macula-proximity}
   cross_language:
   - strongs: G1222
-    proximity: 0.8261
+    lemma: δήπου
+    gloss: a particle of asseveration {openscriptures-strongs}
+    proximity: 0.8261 {macula-proximity}
     language: greek
   - strongs: G572
-    proximity: 0.8052
+    proximity: 0.8052 {macula-proximity}
     language: greek
   - strongs: G225
-    proximity: 0.7901
+    proximity: 0.7901 {macula-proximity}
     language: greek
   - strongs: G1346
-    proximity: 0.7876
+    lemma: δικαίως
+    gloss: equitably {openscriptures-strongs}
+    proximity: 0.7876 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

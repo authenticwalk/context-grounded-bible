@@ -6,39 +6,45 @@ pronunciation: rag-gawz'
 definition: timid
 kjv_usage: trembling.
 derivation: intensive from H7264 (רָגַז);
-extended_definition:
-  gloss: quivering
-  definition: trembling, quivering, quaking
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: trembling, quivering, quaking {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H926
-    proximity: 0.8297
+    proximity: 0.8297 {macula-proximity}
   - strongs: H4171a
-    proximity: 0.8289
+    proximity: 0.8289 {macula-proximity}
   - strongs: H4816
-    proximity: 0.8223
+    lemma: מֹרֶךְ
+    gloss: softness {openscriptures-strongs}
+    proximity: 0.8223 {macula-proximity}
   - strongs: H1750
-    proximity: 0.8184
+    lemma: דּוּץ
+    gloss: to leap {openscriptures-strongs}
+    proximity: 0.8184 {macula-proximity}
   - strongs: H2731
-    proximity: 0.8136
+    lemma: חֲרָדָה
+    gloss: fear {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   - strongs: H8312
-    proximity: 0.7998
+    lemma: שַׂרְעַף
+    gloss: cogitation {openscriptures-strongs}
+    proximity: 0.7998 {macula-proximity}
   - strongs: H6427
-    proximity: 0.7909
+    lemma: פַּלָּצוּת
+    gloss: affright {openscriptures-strongs}
+    proximity: 0.7909 {macula-proximity}
   - strongs: H6750
-    proximity: 0.7818
+    lemma: צָלַל
+    gloss: to tinkle {openscriptures-strongs}
+    proximity: 0.7818 {macula-proximity}
   - strongs: A2112
-    proximity: 0.7777
+    proximity: 0.7777 {macula-proximity}
   - strongs: H2151a
-    proximity: 0.7707
+    proximity: 0.7707 {macula-proximity}
   cross_language:
   - strongs: G3309
-    proximity: 0.8246
+    lemma: μεριμνάω
+    gloss: to be anxious about {openscriptures-strongs}
+    proximity: 0.8246 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

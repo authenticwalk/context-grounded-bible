@@ -7,27 +7,25 @@ definition: a monumental or guiding pillar
 kjv_usage: sign, title, waymark.
 derivation: from the same as H6723 (צִיָּה) in the sense of conspicuousness (compare
   H5329 (נָצַח));
-extended_definition:
-  gloss: signpost
-  definition: signpost, monument, market
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: signpost, monument, market {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H226
-    proximity: 0.813
+    proximity: 0.813 {macula-proximity}
   - strongs: H6731a
-    proximity: 0.803
+    proximity: 0.803 {macula-proximity}
   - strongs: H8420
-    proximity: 0.7806
+    lemma: תָּו
+    gloss: a mark {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
   - strongs: H8564
-    proximity: 0.7403
+    lemma: תַּמְרוּר
+    gloss: an erection {openscriptures-strongs}
+    proximity: 0.7403 {macula-proximity}
   cross_language:
   - strongs: G5480
-    proximity: 0.8041
+    lemma: χάραγμα
+    gloss: a scratch or etching {openscriptures-strongs}
+    proximity: 0.8041 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

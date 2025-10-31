@@ -6,45 +6,51 @@ pronunciation: mish-bawth'
 definition: cessation, i.e. destruction
 kjv_usage: sabbath.
 derivation: from H7673 (שָׁבַת);
-extended_definition:
-  gloss: annihilation
-  definition: cessation, annihilation
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: cessation, annihilation {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H10
-    proximity: 0.8299
+    proximity: 0.8299 {macula-proximity}
   - strongs: A7
-    proximity: 0.8291
+    proximity: 0.8291 {macula-proximity}
   - strongs: H4654a
-    proximity: 0.8262
+    proximity: 0.8262 {macula-proximity}
   - strongs: H988
-    proximity: 0.8228
+    proximity: 0.8228 {macula-proximity}
   - strongs: H4875
-    proximity: 0.8213
+    lemma: מְשׁוֹאָה
+    gloss: ruin {openscriptures-strongs}
+    proximity: 0.8213 {macula-proximity}
   - strongs: H1327
-    proximity: 0.8204
+    lemma: בַּתָּה
+    gloss: desolation {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
   - strongs: H2014
-    proximity: 0.8204
+    lemma: הֲפֻגָה
+    gloss: relaxation {openscriptures-strongs}
+    proximity: 0.8204 {macula-proximity}
   - strongs: H4658
-    proximity: 0.8203
+    lemma: מַפֶּלֶת
+    gloss: fall {openscriptures-strongs}
+    proximity: 0.8203 {macula-proximity}
   - strongs: H7825
-    proximity: 0.8174
+    lemma: שְׁחִית
+    gloss: a pit-fall {openscriptures-strongs}
+    proximity: 0.8174 {macula-proximity}
   - strongs: H7673
-    proximity: 0.8136
+    lemma: שָׁבַת
+    gloss: to repose {openscriptures-strongs}
+    proximity: 0.8136 {macula-proximity}
   cross_language:
   - strongs: G1311
-    proximity: 0.8241
+    lemma: διαφθείρω
+    gloss: to rot thoroughly {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
     language: greek
   - strongs: G853
-    proximity: 0.8231
+    proximity: 0.8231 {macula-proximity}
     language: greek
   - strongs: G854
-    proximity: 0.8215
+    proximity: 0.8215 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

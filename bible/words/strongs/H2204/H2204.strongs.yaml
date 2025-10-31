@@ -6,48 +6,65 @@ pronunciation: zaw-kane'
 definition: to be old
 kjv_usage: aged man, be (wax) old (man).
 derivation: a primitive root;
-extended_definition:
-  gloss: be old
-  definition: 1) to be old, become old<br>1a) (Qal) to be old, become old<br>1b) (Hiphil)
-    to grow old, show age
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to be old, become old
+
+  1a) (Qal) to be old, become old
+
+  1b) (Hiphil) to grow old, show age {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1067
-    proximity: 0.8225
+    lemma: בְּכִירָה
+    gloss: the eldest daughter {openscriptures-strongs}
+    proximity: 0.8225 {macula-proximity}
   - strongs: H8027
-    proximity: 0.818
+    lemma: שָׁלַשׁ
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.818 {macula-proximity}
   - strongs: H1094
-    proximity: 0.8109
+    lemma: בְּלוֹא
+    gloss: rags {openscriptures-strongs}
+    proximity: 0.8109 {macula-proximity}
   - strongs: H1524a
-    proximity: 0.8101
+    proximity: 0.8101 {macula-proximity}
   - strongs: H3465
-    proximity: 0.7607
+    lemma: יָשָׁן
+    gloss: old {openscriptures-strongs}
+    proximity: 0.7607 {macula-proximity}
   - strongs: H1086
-    proximity: 0.7588
+    lemma: בָּלָה
+    gloss: to fail {openscriptures-strongs}
+    proximity: 0.7588 {macula-proximity}
   - strongs: H6275
-    proximity: 0.7214
+    lemma: עָתַק
+    gloss: to remove  figuratively {openscriptures-strongs}
+    proximity: 0.7214 {macula-proximity}
   - strongs: H2205
-    proximity: 0.7039
+    lemma: זָקֵן
+    gloss: old {openscriptures-strongs}
+    proximity: 0.7039 {macula-proximity}
   cross_language:
   - strongs: G3821
-    proximity: 0.8224
+    lemma: παλαιότης
+    gloss: antiquatedness {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
     language: greek
   - strongs: G744
-    proximity: 0.8219
+    proximity: 0.8219 {macula-proximity}
     language: greek
   - strongs: G3820
-    proximity: 0.7549
+    lemma: παλαιός
+    gloss: antique {openscriptures-strongs}
+    proximity: 0.7549 {macula-proximity}
     language: greek
   - strongs: G4245
-    proximity: 0.7209
+    lemma: πρεσβύτερος
+    gloss: older {openscriptures-strongs}
+    proximity: 0.7209 {macula-proximity}
     language: greek
   - strongs: G1126
-    proximity: 0.7173
+    lemma: γραώδης
+    gloss: crone-like {openscriptures-strongs}
+    proximity: 0.7173 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

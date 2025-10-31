@@ -7,44 +7,57 @@ definition: to pace, i.e. step regularly; (upward) to mount; (along) to march; (
   and causatively) to hurl
 kjv_usage: bring, go, march (through), run over.
 derivation: a primitive root;
-extended_definition:
-  gloss: to march
-  definition: 1) to step, march, stride<br>1a) (Qal) to step, march<br>1b) (Hiphil)
-    to cause to march
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to step, march, stride
+
+  1a) (Qal) to step, march
+
+  1b) (Hiphil) to cause to march {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H5265
-    proximity: 0.8295
+    lemma: נָסַע
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
   - strongs: H4109
-    proximity: 0.828
+    lemma: מַהֲלָךְ
+    gloss: a walk {openscriptures-strongs}
+    proximity: 0.828 {macula-proximity}
   - strongs: H6581
-    proximity: 0.808
+    lemma: פָּשָׂה
+    gloss: to spread {openscriptures-strongs}
+    proximity: 0.808 {macula-proximity}
   - strongs: H3381
-    proximity: 0.8044
+    lemma: יָרַד
+    gloss: to descend (literally {openscriptures-strongs}
+    proximity: 0.8044 {macula-proximity}
   - strongs: H7323
-    proximity: 0.8001
+    lemma: רוּץ
+    gloss: to run (for whatever reason {openscriptures-strongs}
+    proximity: 0.8001 {macula-proximity}
   - strongs: H1870
-    proximity: 0.7986
+    lemma: דֶּרֶךְ
+    gloss: a road {openscriptures-strongs}
+    proximity: 0.7986 {macula-proximity}
   cross_language:
   - strongs: G589
-    proximity: 0.8273
+    proximity: 0.8273 {macula-proximity}
     language: greek
   - strongs: G4311
-    proximity: 0.8222
+    lemma: προπέμπω
+    gloss: to send forward {openscriptures-strongs}
+    proximity: 0.8222 {macula-proximity}
     language: greek
   - strongs: G424
-    proximity: 0.8161
+    proximity: 0.8161 {macula-proximity}
     language: greek
   - strongs: G1856
-    proximity: 0.814
+    lemma: ἐξωθέω
+    gloss: to expel {openscriptures-strongs}
+    proximity: 0.814 {macula-proximity}
     language: greek
   - strongs: G4334
-    proximity: 0.8129
+    lemma: προσέρχομαι
+    gloss: to approach {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

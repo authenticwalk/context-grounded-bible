@@ -7,49 +7,65 @@ definition: properly, a headpiece, i.e. (plural for adverbial) at (or as) the he
   (or pillow)
 kjv_usage: bolster, head, pillow. Compare H4772 (מַרְגְלָה).
 derivation: formed like H4761 (מַרְאָשָׁה);
-extended_definition:
-  gloss: head
-  definition: 1) place at the head, dominion, head place<br>adv<br>2) at head place
-  morphology: H:N-F
-  source: STEPBible/BDB
+extended_definition: '1) place at the head, dominion, head place
+
+  adv
+
+  2) at head place {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H871a
-    proximity: 0.8275
+    proximity: 0.8275 {macula-proximity}
   - strongs: H7218
-    proximity: 0.8262
+    lemma: רֹאשׁ
+    gloss: the head {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: A7217
-    proximity: 0.8144
+    proximity: 0.8144 {macula-proximity}
   - strongs: H7146
-    proximity: 0.8127
+    lemma: קָרַחַת
+    gloss: a bald spot {openscriptures-strongs}
+    proximity: 0.8127 {macula-proximity}
   - strongs: H3523
-    proximity: 0.8114
+    lemma: כְּבִיר
+    gloss: a matrass {openscriptures-strongs}
+    proximity: 0.8114 {macula-proximity}
   - strongs: A8460
-    proximity: 0.7979
+    proximity: 0.7979 {macula-proximity}
   - strongs: H8478
-    proximity: 0.7912
+    lemma: תַּחַת
+    gloss: the bottom {openscriptures-strongs}
+    proximity: 0.7912 {macula-proximity}
   - strongs: H5921
-    proximity: 0.7852
+    lemma: עַל
+    gloss: above {openscriptures-strongs}
+    proximity: 0.7852 {macula-proximity}
   - strongs: H4480
-    proximity: 0.7794
+    lemma: מִן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7794 {macula-proximity}
   cross_language:
   - strongs: G2619
-    proximity: 0.8295
+    lemma: κατακαλύπτω
+    gloss: to cover wholly {openscriptures-strongs}
+    proximity: 0.8295 {macula-proximity}
     language: greek
   - strongs: G3844
-    proximity: 0.8211
+    lemma: παρά
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
     language: greek
   - strongs: G2775
-    proximity: 0.8132
+    lemma: κεφαλαιόω
+    gloss: to strike on the head {openscriptures-strongs}
+    proximity: 0.8132 {macula-proximity}
     language: greek
   - strongs: G575
-    proximity: 0.7979
+    proximity: 0.7979 {macula-proximity}
     language: greek
   - strongs: G1883
-    proximity: 0.7735
+    lemma: ἐπάνω
+    gloss: up above {openscriptures-strongs}
+    proximity: 0.7735 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

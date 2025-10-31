@@ -5,44 +5,48 @@ transliteration: prosapeiléō
 definition: to menace additionally
 kjv_usage: i
 derivation: from G4314 (πρός) and G546 (ἀπειλέω);
-extended_definition:
-  gloss: to threaten further
-  definition: '<b>προσ-απειλέω</b>, -ῶ <BR /> [in LXX: <ref=''Sir.13.3''>Sir.13:3</ref>
-    א * ;] <BR /><b>to threaten further</b>: <ref=''Act.4.21.''>Act.4:21.</ref>†<BR
-    /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> προσαπ-ειλέω</b>, τινι <br /> <b>threaten besides</b>, Test.
-    cited in [<a href="javascript:void(0)" title=" 4th c.BC: Demosthenes Orator 21.93
-    ">Refs 4th c.BC+</a>]:—<i>passive</i>, variant in [<a href="javascript:void(0)"
-    title=" LXX.Sir.13.3. ">LXX</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'προσ-απειλέω, -ῶ
+
+  [in LXX: Sir.13:3 א * ;]
+
+  to threaten further: Act.4:21.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'προσαπ-ειλέω, τινι
+
+  threaten besides, Test. cited in [Refs 4th c.BC+]:—passive, variant in [LXX] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4768
-    proximity: 0.8235
+    lemma: στυγνάζω
+    gloss: to render gloomy {openscriptures-strongs}
+    proximity: 0.8235 {macula-proximity}
   - strongs: G1286
-    proximity: 0.8168
+    lemma: διασείω
+    gloss: to shake thoroughly {openscriptures-strongs}
+    proximity: 0.8168 {macula-proximity}
   cross_language:
   - strongs: H2851
-    proximity: 0.8242
+    lemma: חִתִּית
+    gloss: fear {openscriptures-strongs}
+    proximity: 0.8242 {macula-proximity}
     language: hebrew
   - strongs: H1089
-    proximity: 0.8211
+    lemma: בָּלַהּ
+    gloss: to palpitate {openscriptures-strongs}
+    proximity: 0.8211 {macula-proximity}
     language: hebrew
   - strongs: H367
-    proximity: 0.8158
+    proximity: 0.8158 {macula-proximity}
     language: hebrew
   - strongs: H4032
-    proximity: 0.813
+    lemma: מָגוֹר
+    gloss: a fright {openscriptures-strongs}
+    proximity: 0.813 {macula-proximity}
     language: hebrew
   - strongs: H1204
-    proximity: 0.806
+    lemma: בָּעַת
+    gloss: to fear {openscriptures-strongs}
+    proximity: 0.806 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

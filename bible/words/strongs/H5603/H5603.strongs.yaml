@@ -7,46 +7,61 @@ definition: to hide by covering; specifically, to roof (passive participle as no
   a roof) or wainscot; figuratively, to reserve
 kjv_usage: cieled, cover, seated.
 derivation: a primitive root;
-extended_definition:
-  gloss: to cover
-  definition: 1) to cover, cover in, wainscotted, covered with boards or panelling<br>1a)
-    (Qal)<br>1a1) to cover in, panel<br>1a2) covered, panelled (participle)
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to cover, cover in, wainscotted, covered with boards or panelling
+
+  1a) (Qal)
+
+  1a1) to cover in, panel
+
+  1a2) covered, panelled (participle) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6781a
-    proximity: 0.8252
+    proximity: 0.8252 {macula-proximity}
   - strongs: A5202
-    proximity: 0.8159
+    proximity: 0.8159 {macula-proximity}
   - strongs: H7049a
-    proximity: 0.8136
+    proximity: 0.8136 {macula-proximity}
   - strongs: H2646
-    proximity: 0.8034
+    lemma: חֻפָּה
+    gloss: a canopy {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
   - strongs: H4526
-    proximity: 0.8
+    lemma: מִסְגֶּרֶת
+    gloss: something enclosing {openscriptures-strongs}
+    proximity: 0.8 {macula-proximity}
   - strongs: H6823
-    proximity: 0.7991
+    lemma: צָפָה
+    gloss: to sheet over {openscriptures-strongs}
+    proximity: 0.7991 {macula-proximity}
   - strongs: H5743
-    proximity: 0.798
+    lemma: עוּב
+    gloss: to be dense or dark {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
   - strongs: H7351
-    proximity: 0.7908
+    lemma: רְחִיט
+    gloss: a panel {openscriptures-strongs}
+    proximity: 0.7908 {macula-proximity}
   - strongs: H5526
-    proximity: 0.7878
+    lemma: סָכַךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7878 {macula-proximity}
   - strongs: H3681
-    proximity: 0.7612
+    lemma: כָּסוּי
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7612 {macula-proximity}
   cross_language:
   - strongs: G1265
-    proximity: 0.83
+    lemma: διαμένω
+    gloss: to stay constantly {openscriptures-strongs}
+    proximity: 0.83 {macula-proximity}
     language: greek
   - strongs: G1982
-    proximity: 0.821
+    lemma: ἐπισκιάζω
+    gloss: to cast a shade upon {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: greek
   - strongs: G606
-    proximity: 0.8035
+    proximity: 0.8035 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

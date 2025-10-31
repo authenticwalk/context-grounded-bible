@@ -7,47 +7,63 @@ definition: remote, literally or figuratively, of place or time; specifically, p
   often used adverbially (with preposition)
 kjv_usage: (a-) far (abroad, off), long ago, of old, space, great while to come.
 derivation: or רָחֹק; from H7368 (רָחַק);
-extended_definition:
-  gloss: distant
-  definition: 'adj<br>1) remote, far, distant, distant lands, distant ones<br>1a)
-    of distance, time<br>n m<br>2) distance<br>2a) from a distance (with prep)<BR>Aramaic
-    equivalent: <i>ra.chiq</i> (רְחִיק "far" H7352)'
-  morphology: H:A
-  source: STEPBible/BDB
+extended_definition: 'adj
+
+  1) remote, far, distant, distant lands, distant ones
+
+  1a) of distance, time
+
+  n m
+
+  2) distance
+
+  2a) from a distance (with prep)
+
+  Aramaic equivalent: ra.chiq (רְחִיק "far" H7352) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H4224a
-    proximity: 0.8197
+    proximity: 0.8197 {macula-proximity}
   - strongs: H5048
-    proximity: 0.8143
+    lemma: נֶגֶד
+    gloss: a front {openscriptures-strongs}
+    proximity: 0.8143 {macula-proximity}
   - strongs: H7305
-    proximity: 0.8064
+    lemma: רֶוַח
+    gloss: room {openscriptures-strongs}
+    proximity: 0.8064 {macula-proximity}
   - strongs: H752
-    proximity: 0.7968
+    proximity: 0.7968 {macula-proximity}
   - strongs: H5769
-    proximity: 0.7871
+    lemma: עוֹלָם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7871 {macula-proximity}
   - strongs: H3249
-    proximity: 0.7837
+    lemma: יָסוּר
+    gloss: departing {openscriptures-strongs}
+    proximity: 0.7837 {macula-proximity}
   - strongs: H1972
-    proximity: 0.7623
+    lemma: הָלָא
+    gloss: to remove or be remote {openscriptures-strongs}
+    proximity: 0.7623 {macula-proximity}
   cross_language:
   - strongs: G4724
-    proximity: 0.8297
+    lemma: στέλλω
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8297 {macula-proximity}
     language: greek
   - strongs: G1578
-    proximity: 0.8257
+    lemma: ἐκκλίνω
+    gloss: to deviate {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
     language: greek
   - strongs: G589
-    proximity: 0.8149
+    proximity: 0.8149 {macula-proximity}
     language: greek
   - strongs: G575
-    proximity: 0.8067
+    proximity: 0.8067 {macula-proximity}
     language: greek
   - strongs: G568
-    proximity: 0.7933
+    proximity: 0.7933 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

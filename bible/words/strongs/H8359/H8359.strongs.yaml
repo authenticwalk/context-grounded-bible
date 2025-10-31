@@ -6,32 +6,36 @@ pronunciation: sheth-ee'
 definition: a fixture, i.e. the warp in weaving
 kjv_usage: warp.
 derivation: from H7896 (שִׁית);
-extended_definition:
-  gloss: warp
-  definition: warp, woven material
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: warp, woven material {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H8278
-    proximity: 0.7853
+    lemma: שְׂרָד
+    gloss: stitching {openscriptures-strongs}
+    proximity: 0.7853 {macula-proximity}
   - strongs: H2901
-    proximity: 0.7618
+    lemma: טָוָה
+    gloss: to spin {openscriptures-strongs}
+    proximity: 0.7618 {macula-proximity}
   - strongs: H6154
-    proximity: 0.7482
+    lemma: עֵרֶב
+    gloss: the web {openscriptures-strongs}
+    proximity: 0.7482 {macula-proximity}
   - strongs: H707
-    proximity: 0.7288
+    proximity: 0.7288 {macula-proximity}
   - strongs: H4545
-    proximity: 0.7129
+    lemma: מַסֶּכֶת
+    gloss: something expanded {openscriptures-strongs}
+    proximity: 0.7129 {macula-proximity}
   cross_language:
   - strongs: G5307
-    proximity: 0.7424
+    lemma: ὑφαντός
+    gloss: woven {openscriptures-strongs}
+    proximity: 0.7424 {macula-proximity}
     language: greek
   - strongs: G3514
-    proximity: 0.7247
+    lemma: νήθω
+    gloss: to spin {openscriptures-strongs}
+    proximity: 0.7247 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

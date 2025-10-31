@@ -5,52 +5,59 @@ transliteration: parapikrasmós
 definition: irritation
 kjv_usage: provocation
 derivation: from G3893 (παραπικραίνω);
-extended_definition:
-  gloss: rebellion
-  definition: '<b>παρα-πικρασμός</b>, -οῦ, ἁ<BR /> (παραπικραίνω) [in LXX: <ref=''Psa.95.8''>Psa.95:8</ref>
-    (מְרִיבָה elsewhere rendered Λοιδόρησις, <ref=''Exo.17.7''>Exo.17:7;</ref> ἀντιλογία,
-    <ref=''Deu.33.8''>Deu.33:8</ref>, al.; λοιδορία, <ref=''Num.20.24''>Num.20:24</ref>)*
-    ;] <BR /><b>provocation</b>: ἐν τῷ π. (Heb. at Meribah), <ref=''Heb.3.8, 15''>Heb.3:8,
-    15</ref>" (LXX) .†<BR /> (AS)'
-  morphology: G:N-M
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: <b> παραπικρ-ασμός</b>, ὁ, <br /> <b>provocation</b>, [<a href="javascript:void(0)"
-    title=" LXX.Psa.94(95).8, NT.Heb.3.8, 15. ">LXX+NT</a>]
-  source: STEPBible/LSJ
+extended_definition: 'παρα-πικρασμός, -οῦ, ἁ
+
+  (παραπικραίνω) [in LXX: Psa.95:8 (מְרִיבָה elsewhere rendered Λοιδόρησις, Exo.17:7;
+  ἀντιλογία, Deu.33:8, al.; λοιδορία, Num.20:24)* ;]
+
+  provocation: ἐν τῷ π. (Heb. at Meribah), Heb.3:8, 15" (LXX) .†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'παραπικρ-ασμός, ὁ,
+
+  provocation, [LXX+NT] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G543
-    proximity: 0.8162
+    proximity: 0.8162 {macula-proximity}
   - strongs: G3876
-    proximity: 0.798
+    lemma: παρακοή
+    gloss: inattention {openscriptures-strongs}
+    proximity: 0.798 {macula-proximity}
   - strongs: G3949
-    proximity: 0.7868
+    lemma: παροργίζω
+    gloss: to anger alongside {openscriptures-strongs}
+    proximity: 0.7868 {macula-proximity}
   - strongs: A7265
-    proximity: 0.7823
+    proximity: 0.7823 {macula-proximity}
   - strongs: G4360
-    proximity: 0.7608
+    lemma: προσοχθίζω
+    gloss: to feel indignant at {openscriptures-strongs}
+    proximity: 0.7608 {macula-proximity}
   - strongs: G3947
-    proximity: 0.7568
+    lemma: παροξύνω
+    gloss: to sharpen alongside {openscriptures-strongs}
+    proximity: 0.7568 {macula-proximity}
   cross_language:
   - strongs: H4808
-    proximity: 0.8155
+    lemma: מְרִיבָה
+    gloss: quarrel {openscriptures-strongs}
+    proximity: 0.8155 {macula-proximity}
     language: hebrew
   - strongs: H599
-    proximity: 0.8142
+    proximity: 0.8142 {macula-proximity}
     language: hebrew
   - strongs: H5674a
-    proximity: 0.8116
+    proximity: 0.8116 {macula-proximity}
     language: hebrew
   - strongs: H8428
-    proximity: 0.7913
+    lemma: תָּוָה
+    gloss: to grieve {openscriptures-strongs}
+    proximity: 0.7913 {macula-proximity}
     language: hebrew
   - strongs: H7195
-    proximity: 0.786
+    lemma: קֶשֶׁר
+    gloss: an  alliance {openscriptures-strongs}
+    proximity: 0.786 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

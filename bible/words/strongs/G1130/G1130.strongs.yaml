@@ -5,54 +5,59 @@ transliteration: gymnēteúō
 definition: to strip, i.e. (reflexively) go poorly clad
 kjv_usage: be naked
 derivation: from a derivative of G1131 (γυμνός);
-extended_definition:
-  gloss: be naked
-  definition: '<b>γυμνιτεύω</b> (Rec. γυμνητ-, V. Tdf ., <i>Pr.</i>, 81), <BR /> <b>to
-    be naked</b> or <b>scantily clad</b>: <ref=''1Co.4.11''>1Co.4:11</ref> (cf. ἐν
-    ψύχει κ. γυμνότητι), <ref=''2Co.11.27''>2Co.11:27;</ref> γυμνοί, <ref=''Jas.2.15.''>Jas.2:15.</ref>
-    In κοινή writers, γ. also means <b>to go light-armed</b>.†<BR /> (AS)'
-  morphology: G:V
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b> γυμνητ-εύω</b>, <br /> <b>to be naked,</b> [<a href="javascript:void(0)"
-    title=" NT.1Cor.4.11, Demophilus Gnomologus “Sententiae - Opuscula Graecorum Veterum
-    Sententiosa” 8. ">NT</a>]<br /><Level3><b>__2</b></Level3> <b>to be lightly clad,</b>
-    [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Dio Chrysostomus Sophista
-    25.3. ">Refs 1st c.AD+</a>]<br /><Level3><b>__3</b></Level3> <b>to be light-armed,</b>
-    [<a href="javascript:void(0)" title=" 1st-2nd c.AD: Plutarchus Biographus et Philosophus
-    “Aemilius Paulus” 16. ">Refs 1st c.AD+</a>]'
-  source: STEPBible/LSJ
+extended_definition: 'γυμνιτεύω (Rec. γυμνητ-, V. Tdf ., Pr., 81),
+
+  to be naked or scantily clad: 1Co.4:11 (cf. ἐν ψύχει κ. γυμνότητι), 2Co.11:27; γυμνοί,
+  Jas.2:15. In κοινή writers, γ. also means to go light-armed.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'γυμνητ-εύω,
+
+  to be naked, [NT]
+
+  __2 to be lightly clad, [Refs 1st c.AD+]
+
+  __3 to be light-armed, [Refs 1st c.AD+] {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G4983
-    proximity: 0.8284
+    lemma: σῶμα
+    gloss: the body {openscriptures-strongs}
+    proximity: 0.8284 {macula-proximity}
   - strongs: G1902
-    proximity: 0.8283
+    lemma: ἐπενδύομαι
+    gloss: to invest upon oneself {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: G4016
-    proximity: 0.8107
+    lemma: περιβάλλω
+    gloss: to throw all around {openscriptures-strongs}
+    proximity: 0.8107 {macula-proximity}
   - strongs: A1655
-    proximity: 0.7999
+    proximity: 0.7999 {macula-proximity}
   - strongs: A3848
-    proximity: 0.7591
+    proximity: 0.7591 {macula-proximity}
   cross_language:
   - strongs: H6168
-    proximity: 0.7903
+    lemma: עָרָה
+    gloss: to be (causatively {openscriptures-strongs}
+    proximity: 0.7903 {macula-proximity}
     language: hebrew
   - strongs: H8357
-    proximity: 0.7806
+    lemma: שֵׁתָה
+    gloss: the seat {openscriptures-strongs}
+    proximity: 0.7806 {macula-proximity}
     language: hebrew
   - strongs: H6172
-    proximity: 0.7803
+    lemma: עֶרְוָה
+    gloss: nudity {openscriptures-strongs}
+    proximity: 0.7803 {macula-proximity}
     language: hebrew
   - strongs: H4626
-    proximity: 0.7297
+    lemma: מַעַר
+    gloss: a nude place {openscriptures-strongs}
+    proximity: 0.7297 {macula-proximity}
     language: hebrew
   - strongs: H3830a
-    proximity: 0.7123
+    proximity: 0.7123 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

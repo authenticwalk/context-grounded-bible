@@ -7,37 +7,53 @@ definition: to tumble about
 kjv_usage: shake (off, out, self), overthrow, toss up and down.
 derivation: a primitive root (probably identical with H5286 (נָעַר), through the idea
   of the rustling of mane, which usually accompanies the lion's roar);
-extended_definition:
-  gloss: to shake
-  definition: 1) to shake, shake out or off<br>1a) (Qal) to shake out, show emptiness<br>1b)
-    (Niphal)<br>1b1) to be shaken<br>1b2) to shake oneself<br>1c) (Piel) to shake
-    off or out<br>1d) (Hithpael) to shake oneself
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to shake, shake out or off
+
+  1a) (Qal) to shake out, show emptiness
+
+  1b) (Niphal)
+
+  1b1) to be shaken
+
+  1b2) to shake oneself
+
+  1c) (Piel) to shake off or out
+
+  1d) (Hithpael) to shake oneself {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H6687
-    proximity: 0.8283
+    lemma: צוּף
+    gloss: to overflow {openscriptures-strongs}
+    proximity: 0.8283 {macula-proximity}
   - strongs: H5557
-    proximity: 0.8153
+    lemma: סָלַף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8153 {macula-proximity}
   - strongs: H5394
-    proximity: 0.8141
+    lemma: נָשַׁל
+    gloss: to pluck off {openscriptures-strongs}
+    proximity: 0.8141 {macula-proximity}
   - strongs: A5426
-    proximity: 0.8054
+    proximity: 0.8054 {macula-proximity}
   - strongs: H3318
-    proximity: 0.7981
+    lemma: יָצָא
+    gloss: to go (causatively {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
   cross_language:
   - strongs: G1614
-    proximity: 0.8146
+    lemma: ἐκτείνω
+    gloss: to extend {openscriptures-strongs}
+    proximity: 0.8146 {macula-proximity}
     language: greek
   - strongs: G1831
-    proximity: 0.8092
+    lemma: ἐξέρχομαι
+    gloss: to issue {openscriptures-strongs}
+    proximity: 0.8092 {macula-proximity}
     language: greek
   - strongs: G2626
-    proximity: 0.7621
+    lemma: κατακλύζω
+    gloss: to dash  down {openscriptures-strongs}
+    proximity: 0.7621 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

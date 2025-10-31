@@ -6,45 +6,57 @@ pronunciation: paw-shakh'
 definition: to tear in pieces
 kjv_usage: pull in pieces.
 derivation: a primitive root;
-extended_definition:
-  gloss: to tear
-  definition: 1) to tear, rip, tear in pieces<br>1a) (Piel) to tear in pieces
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to tear, rip, tear in pieces
+
+  1a) (Piel) to tear in pieces {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H95
-    proximity: 0.8139
+    proximity: 0.8139 {macula-proximity}
   - strongs: H915
-    proximity: 0.8139
+    proximity: 0.8139 {macula-proximity}
   - strongs: A1917
-    proximity: 0.813
+    proximity: 0.813 {macula-proximity}
   - strongs: H7376
-    proximity: 0.8053
+    lemma: רָטָשׁ
+    gloss: to dash down {openscriptures-strongs}
+    proximity: 0.8053 {macula-proximity}
   - strongs: H5423
-    proximity: 0.7928
+    lemma: נָתַק
+    gloss: to tear off {openscriptures-strongs}
+    proximity: 0.7928 {macula-proximity}
   - strongs: H7665
-    proximity: 0.7819
+    lemma: שָׁבַר
+    gloss: to burst {openscriptures-strongs}
+    proximity: 0.7819 {macula-proximity}
   - strongs: H4386
-    proximity: 0.7792
+    lemma: מְכִתָּה
+    gloss: a fracture {openscriptures-strongs}
+    proximity: 0.7792 {macula-proximity}
   - strongs: H6284
-    proximity: 0.779
+    lemma: פָּאָה
+    gloss: to puff {openscriptures-strongs}
+    proximity: 0.779 {macula-proximity}
   - strongs: H8158
-    proximity: 0.7688
+    lemma: שָׁסַף
+    gloss: to cut in pieces {openscriptures-strongs}
+    proximity: 0.7688 {macula-proximity}
   - strongs: H7447a
-    proximity: 0.7638
+    proximity: 0.7638 {macula-proximity}
   cross_language:
   - strongs: G4048
-    proximity: 0.8296
+    lemma: περιῤῥήγνυμι
+    gloss: to tear all around {openscriptures-strongs}
+    proximity: 0.8296 {macula-proximity}
     language: greek
   - strongs: G2801
-    proximity: 0.7635
+    lemma: κλάσμα
+    gloss: a piece {openscriptures-strongs}
+    proximity: 0.7635 {macula-proximity}
     language: greek
   - strongs: G4917
-    proximity: 0.7533
+    lemma: συνθλάω
+    gloss: to dash together {openscriptures-strongs}
+    proximity: 0.7533 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

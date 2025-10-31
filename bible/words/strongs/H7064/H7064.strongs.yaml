@@ -7,28 +7,32 @@ definition: a nest (as fixed), sometimes including the nestlings; figuratively, 
   chamber or dwelling
 kjv_usage: nest, room.
 derivation: contracted from H7077 (קָנַן);
-extended_definition:
-  gloss: nest
-  definition: 1) nest<br>1a) nest (of bird)<br>1b) cells (like nests in Noah's ark)
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: '1) nest
+
+  1a) nest (of bird)
+
+  1b) cells (like nests in Noah''s ark) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3957
-    proximity: 0.781
+    lemma: לִשְׁכָּה
+    gloss: a room in a building (whether for storage {openscriptures-strongs}
+    proximity: 0.781 {macula-proximity}
   - strongs: H1004
-    proximity: 0.7444
+    lemma: בַּיִת
+    gloss: a house (in the greatest variation of applications {openscriptures-strongs}
+    proximity: 0.7444 {macula-proximity}
   - strongs: A7932
-    proximity: 0.7161
+    proximity: 0.7161 {macula-proximity}
   cross_language:
   - strongs: G4693
-    proximity: 0.7969
+    lemma: σπήλαιον
+    gloss: a cavern {openscriptures-strongs}
+    proximity: 0.7969 {macula-proximity}
     language: greek
   - strongs: G3614
-    proximity: 0.7698
+    lemma: οἰκία
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7698 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

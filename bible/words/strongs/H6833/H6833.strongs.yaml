@@ -6,26 +6,29 @@ pronunciation: tsip-pore'
 definition: a little bird (as hopping)
 kjv_usage: bird, fowl, sparrow.
 derivation: or צִפֹּר; from H6852 (צָפַר);
-extended_definition:
-  gloss: bird
-  definition: '1) bird, fowl<br>1a) bird (singular)<br>1b) birds (coll)<BR>Aramaic
-    equivalent: <i>tse.phar</i> (צְפַר "bird" H6853)'
-  morphology: H:N
-  source: STEPBible/BDB
+extended_definition: '1) bird, fowl
+
+  1a) bird (singular)
+
+  1b) birds (coll)
+
+  Aramaic equivalent: tse.phar (צְפַר "bird" H6853) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H1257
-    proximity: 0.8288
+    lemma: בַּרְבֻּר
+    gloss: a fowl {openscriptures-strongs}
+    proximity: 0.8288 {macula-proximity}
   - strongs: H3671
-    proximity: 0.8262
+    lemma: כָּנָף
+    gloss: an edge or extremity {openscriptures-strongs}
+    proximity: 0.8262 {macula-proximity}
   - strongs: H667
-    proximity: 0.7632
+    proximity: 0.7632 {macula-proximity}
   cross_language:
   - strongs: G4072
-    proximity: 0.7733
+    lemma: πέτομαι
+    gloss: to fly {openscriptures-strongs}
+    proximity: 0.7733 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

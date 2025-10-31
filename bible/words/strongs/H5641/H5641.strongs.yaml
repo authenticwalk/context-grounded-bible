@@ -6,52 +6,74 @@ pronunciation: saw-thar'
 definition: to hide (by covering), literally or figuratively
 kjv_usage: be absent, keep close, conceal, hide (self), (keep) secret, [idiom] surely.
 derivation: a primitive root;
-extended_definition:
-  gloss: to hide
-  definition: '1) to hide, conceal<br>1a) (Niphal)<br>1a1) to hide oneself<br>1a2)
-    to be hidden, be concealed<br>1b) (Piel) to hide carefully<br>1c) (Pual) to be
-    hidden carefully, be concealed<br>1d) (Hiphil) to conceal, hide<br>1e) (Hithpael)
-    to hide oneself carefully<BR>Aramaic equivalent: <i>se.tar</i> (סְתַר "to hide"
-    H5642A)'
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to hide, conceal
+
+  1a) (Niphal)
+
+  1a1) to hide oneself
+
+  1a2) to be hidden, be concealed
+
+  1b) (Piel) to hide carefully
+
+  1c) (Pual) to be hidden carefully, be concealed
+
+  1d) (Hiphil) to conceal, hide
+
+  1e) (Hithpael) to hide oneself carefully
+
+  Aramaic equivalent: se.tar (סְתַר "to hide" H5642A) {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H2822
-    proximity: 0.8257
+    lemma: חֹשֶׁךְ
+    gloss: the dark {openscriptures-strongs}
+    proximity: 0.8257 {macula-proximity}
   - strongs: H7779
-    proximity: 0.8241
+    lemma: שׁוּף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8241 {macula-proximity}
   - strongs: H5526
-    proximity: 0.8212
+    lemma: סָכַךְ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8212 {macula-proximity}
   - strongs: A7328
-    proximity: 0.8129
+    proximity: 0.8129 {macula-proximity}
   - strongs: H2664
-    proximity: 0.8122
+    lemma: חָפַשׂ
+    gloss: to seek {openscriptures-strongs}
+    proximity: 0.8122 {macula-proximity}
   - strongs: H2791
-    proximity: 0.8104
+    lemma: חֶרֶשׁ
+    gloss: magical craft {openscriptures-strongs}
+    proximity: 0.8104 {macula-proximity}
   - strongs: H4565
-    proximity: 0.7982
+    lemma: מִסְתָּר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7982 {macula-proximity}
   - strongs: H6004a
-    proximity: 0.7937
+    proximity: 0.7937 {macula-proximity}
   - strongs: H693
-    proximity: 0.7937
+    proximity: 0.7937 {macula-proximity}
   - strongs: H4563
-    proximity: 0.791
+    lemma: מִסְתּוֹר
+    gloss: a refuge {openscriptures-strongs}
+    proximity: 0.791 {macula-proximity}
   cross_language:
   - strongs: G642
-    proximity: 0.8171
+    proximity: 0.8171 {macula-proximity}
     language: greek
   - strongs: G4601
-    proximity: 0.8156
+    lemma: σιγάω
+    gloss: to keep silent {openscriptures-strongs}
+    proximity: 0.8156 {macula-proximity}
     language: greek
   - strongs: G665
-    proximity: 0.795
+    proximity: 0.795 {macula-proximity}
     language: greek
   - strongs: G2572
-    proximity: 0.7715
+    lemma: καλύπτω
+    gloss: to cover up {openscriptures-strongs}
+    proximity: 0.7715 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

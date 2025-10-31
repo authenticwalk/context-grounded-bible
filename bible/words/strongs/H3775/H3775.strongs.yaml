@@ -6,34 +6,40 @@ pronunciation: keh'-seb
 definition: a young sheep
 kjv_usage: lamb.
 derivation: apparently by transposition for H3532 (כֶּבֶשׂ);
-extended_definition:
-  gloss: sheep
-  definition: lamb, young ram, sheep
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: lamb, young ram, sheep {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H352
-    proximity: 0.8003
+    proximity: 0.8003 {macula-proximity}
   - strongs: H4220
-    proximity: 0.7865
+    lemma: מֵחַ
+    gloss: fat {openscriptures-strongs}
+    proximity: 0.7865 {macula-proximity}
   - strongs: H5349
-    proximity: 0.7809
+    lemma: נֹקֵד
+    gloss: a spotter {openscriptures-strongs}
+    proximity: 0.7809 {macula-proximity}
   - strongs: H1429
-    proximity: 0.7785
+    lemma: גְּדִיָּה
+    gloss: a young female goat {openscriptures-strongs}
+    proximity: 0.7785 {macula-proximity}
   - strongs: H1423
-    proximity: 0.7477
+    lemma: גְּדִי
+    gloss: a young goat {openscriptures-strongs}
+    proximity: 0.7477 {macula-proximity}
   - strongs: H6792
-    proximity: 0.7123
+    lemma: צֹנֵא
+    gloss: a flock {openscriptures-strongs}
+    proximity: 0.7123 {macula-proximity}
   cross_language:
   - strongs: G2056
-    proximity: 0.7804
+    lemma: ἔριφος
+    gloss: a kid or  goat {openscriptures-strongs}
+    proximity: 0.7804 {macula-proximity}
     language: greek
   - strongs: G4262
-    proximity: 0.7003
+    lemma: προβατικός
+    gloss: relating to sheep {openscriptures-strongs}
+    proximity: 0.7003 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

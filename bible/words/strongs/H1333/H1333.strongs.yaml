@@ -6,45 +6,55 @@ pronunciation: baw-thak'
 definition: to cut in pieces
 kjv_usage: thrust through.
 derivation: a primitive root;
-extended_definition:
-  gloss: to cut up
-  definition: (Piel) to cut, cut up, cut off, cut down
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: (Piel) to cut, cut up, cut off, cut down {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H6327a
-    proximity: 0.8282
+    proximity: 0.8282 {macula-proximity}
   - strongs: H7376
-    proximity: 0.8186
+    lemma: רָטָשׁ
+    gloss: to dash down {openscriptures-strongs}
+    proximity: 0.8186 {macula-proximity}
   - strongs: H1438
-    proximity: 0.8121
+    lemma: גָּדַע
+    gloss: to fell a tree {openscriptures-strongs}
+    proximity: 0.8121 {macula-proximity}
   - strongs: H5408
-    proximity: 0.8057
+    lemma: נָתַח
+    gloss: to dismember {openscriptures-strongs}
+    proximity: 0.8057 {macula-proximity}
   - strongs: H95
-    proximity: 0.8048
+    proximity: 0.8048 {macula-proximity}
   - strongs: H915
-    proximity: 0.8048
+    proximity: 0.8048 {macula-proximity}
   - strongs: H2672
-    proximity: 0.8034
+    lemma: חָצַב
+    gloss: to cut or carve (wood {openscriptures-strongs}
+    proximity: 0.8034 {macula-proximity}
   - strongs: H7112
-    proximity: 0.7987
+    lemma: קָצַץ
+    gloss: to chop off {openscriptures-strongs}
+    proximity: 0.7987 {macula-proximity}
   - strongs: H3683
-    proximity: 0.7985
+    lemma: כָּסַח
+    gloss: to cut off {openscriptures-strongs}
+    proximity: 0.7985 {macula-proximity}
   - strongs: H4386
-    proximity: 0.7981
+    lemma: מְכִתָּה
+    gloss: a fracture {openscriptures-strongs}
+    proximity: 0.7981 {macula-proximity}
   cross_language:
   - strongs: G1288
-    proximity: 0.8247
+    lemma: διασπάω
+    gloss: to draw apart {openscriptures-strongs}
+    proximity: 0.8247 {macula-proximity}
     language: greek
   - strongs: G609
-    proximity: 0.8142
+    proximity: 0.8142 {macula-proximity}
     language: greek
   - strongs: G2801
-    proximity: 0.7783
+    lemma: κλάσμα
+    gloss: a piece {openscriptures-strongs}
+    proximity: 0.7783 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

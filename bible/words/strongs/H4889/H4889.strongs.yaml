@@ -7,48 +7,64 @@ definition: destructive, i.e. (as noun) destruction, literally (specifically a s
   or figuratively (corruption)
 kjv_usage: corruption, (to) destroy(-ing), destruction, trap, [idiom] utterly.
 derivation: from H7843 (שָׁחַת);
-extended_definition:
-  gloss: destruction
-  definition: ruin, destruction
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: ruin, destruction {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H3582
-    proximity: 0.8293
+    lemma: כָּחַד
+    gloss: to secrete {openscriptures-strongs}
+    proximity: 0.8293 {macula-proximity}
   - strongs: H3238
-    proximity: 0.8287
+    lemma: יָנָה
+    gloss: to rage or be violent {openscriptures-strongs}
+    proximity: 0.8287 {macula-proximity}
   - strongs: H5221
-    proximity: 0.8263
+    lemma: נָכָה
+    gloss: to strike (lightly or severely {openscriptures-strongs}
+    proximity: 0.8263 {macula-proximity}
   - strongs: H7489a
-    proximity: 0.8236
+    proximity: 0.8236 {macula-proximity}
   - strongs: H4229
-    proximity: 0.8215
+    lemma: מָחָה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8215 {macula-proximity}
   - strongs: H7612
-    proximity: 0.8199
+    lemma: שֵׁאת
+    gloss: devastation {openscriptures-strongs}
+    proximity: 0.8199 {macula-proximity}
   - strongs: H3615
-    proximity: 0.8191
+    lemma: כָּלָה
+    gloss: to end {openscriptures-strongs}
+    proximity: 0.8191 {macula-proximity}
   - strongs: H4204
-    proximity: 0.8165
+    lemma: מָזוֹר
+    gloss: treachery {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: H5557
-    proximity: 0.8165
+    lemma: סָלַף
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8165 {macula-proximity}
   - strongs: H1100
-    proximity: 0.8142
+    lemma: בְּלִיַּעַל
+    gloss: without profit {openscriptures-strongs}
+    proximity: 0.8142 {macula-proximity}
   cross_language:
   - strongs: G3089
-    proximity: 0.821
+    lemma: λύω
+    gloss: to "loosen" {openscriptures-strongs}
+    proximity: 0.821 {macula-proximity}
     language: greek
   - strongs: G1312
-    proximity: 0.8173
+    lemma: διαφθορά
+    gloss: decay {openscriptures-strongs}
+    proximity: 0.8173 {macula-proximity}
     language: greek
   - strongs: G396
-    proximity: 0.8163
+    proximity: 0.8163 {macula-proximity}
     language: greek
   - strongs: G3803
-    proximity: 0.8077
+    lemma: παγίς
+    gloss: a trap {openscriptures-strongs}
+    proximity: 0.8077 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

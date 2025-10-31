@@ -7,47 +7,53 @@ definition: a form of the prefix 'k-', but used separately  as, thus, so
 kjv_usage: according to, (such) as (it were, well as), in comparison of, like (as,
   to, unto), thus, when, worth.
 derivation: or כָּמוֹ; (compare H3651 (כֵּן));
-extended_definition:
-  gloss: (Geruth) Chimham
-  definition: <BR>Combined with <i>ge.rut</i> (גֵּרוּת "Geruth" H1628)<BR>
-  morphology: N:N--L
-  source: STEPBible/BDB
+extended_definition: Combined with ge.rut (גֵּרוּת "Geruth" H1628) {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H1571
-    proximity: 0.8276
+    lemma: גַּם
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8276 {macula-proximity}
   - strongs: A871b
-    proximity: 0.8227
+    proximity: 0.8227 {macula-proximity}
   - strongs: A2050d
-    proximity: 0.8165
+    proximity: 0.8165 {macula-proximity}
   - strongs: H2229
-    proximity: 0.8162
+    lemma: זָרַם
+    gloss: to gush {openscriptures-strongs}
+    proximity: 0.8162 {macula-proximity}
   - strongs: H3162a
-    proximity: 0.8133
+    proximity: 0.8133 {macula-proximity}
   - strongs: H4616
-    proximity: 0.81
+    lemma: מַעַן
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.81 {macula-proximity}
   - strongs: A1836
-    proximity: 0.8077
+    proximity: 0.8077 {macula-proximity}
   - strongs: H176
-    proximity: 0.8064
+    proximity: 0.8064 {macula-proximity}
   cross_language:
   - strongs: G5118
-    proximity: 0.8259
+    lemma: τοσοῦτος
+    gloss: apparently from G3588  and G3739 ) and G3778 {openscriptures-strongs}
+    proximity: 0.8259 {macula-proximity}
     language: greek
   - strongs: G4364
-    proximity: 0.8224
+    lemma: προσποιέομαι
+    gloss: to do forward for oneself {openscriptures-strongs}
+    proximity: 0.8224 {macula-proximity}
     language: greek
   - strongs: G302
-    proximity: 0.8218
+    proximity: 0.8218 {macula-proximity}
     language: greek
   - strongs: G2530
-    proximity: 0.8178
+    lemma: καθότι
+    gloss: and G3739  and G5100 {openscriptures-strongs}
+    proximity: 0.8178 {macula-proximity}
     language: greek
   - strongs: G2228
-    proximity: 0.8177
+    lemma: ἤ
+    gloss: disjunctive {openscriptures-strongs}
+    proximity: 0.8177 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

@@ -6,44 +6,61 @@ pronunciation: khaw-kar'
 definition: properly, to penetrate; hence, to examine intimately
 kjv_usage: find out, (make) search (out), seek (out), sound, try.
 derivation: a primitive root;
-extended_definition:
-  gloss: to search
-  definition: 1) to search, search for, search out, examine, investigate<br>1a) (Qal)<br>1a1)
-    to search (for)<br>1a2) to search through, explore<br>1a3) to examine thoroughly<br>1b)
-    (Niphal)<br>1b1) to be searched out, be found out, be ascertained, be examined<br>1c)
-    (Piel) to search out, seek out
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to search, search for, search out, examine, investigate
+
+  1a) (Qal)
+
+  1a1) to search (for)
+
+  1a2) to search through, explore
+
+  1a3) to examine thoroughly
+
+  1b) (Niphal)
+
+  1b1) to be searched out, be found out, be ascertained, be examined
+
+  1c) (Piel) to search out, seek out {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H7836
-    proximity: 0.8221
+    lemma: שָׁחַר
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8221 {macula-proximity}
   - strongs: H7663a
-    proximity: 0.7902
+    proximity: 0.7902 {macula-proximity}
   - strongs: H1875
-    proximity: 0.7694
+    lemma: דָּרַשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7694 {macula-proximity}
   - strongs: H4672
-    proximity: 0.7636
+    lemma: מָצָא
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.7636 {macula-proximity}
   - strongs: H974
-    proximity: 0.7624
+    proximity: 0.7624 {macula-proximity}
   cross_language:
   - strongs: G3708
-    proximity: 0.8299
+    lemma: ὁράω
+    gloss: by extension {openscriptures-strongs}
+    proximity: 0.8299 {macula-proximity}
     language: greek
   - strongs: G991
-    proximity: 0.8161
+    proximity: 0.8161 {macula-proximity}
     language: greek
   - strongs: G2685
-    proximity: 0.8129
+    lemma: κατάσκοπος
+    gloss: a reconnoiterer {openscriptures-strongs}
+    proximity: 0.8129 {macula-proximity}
     language: greek
   - strongs: G2614
-    proximity: 0.8022
+    lemma: καταδιώκω
+    gloss: to hunt down {openscriptures-strongs}
+    proximity: 0.8022 {macula-proximity}
     language: greek
   - strongs: G1231
-    proximity: 0.8008
+    lemma: διαγινώσκω
+    gloss: to know thoroughly {openscriptures-strongs}
+    proximity: 0.8008 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

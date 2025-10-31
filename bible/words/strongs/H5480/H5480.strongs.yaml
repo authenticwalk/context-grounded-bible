@@ -6,30 +6,41 @@ pronunciation: sook
 definition: properly, to smear over (with oil), i.e. anoint
 kjv_usage: anoint (self), [idiom] at all.
 derivation: a primitive root;
-extended_definition:
-  gloss: to anoint
-  definition: 1) to anoint, pour in anointing<br>1a) (Qal) to anoint<br>1a1) to anoint
-    oneself<br>1a2) to anoint (another)<br>1a3) to be poured<br>1b) (Hiphil) to anoint
-  morphology: H:V
-  source: STEPBible/BDB
+extended_definition: '1) to anoint, pour in anointing
+
+  1a) (Qal) to anoint
+
+  1a1) to anoint oneself
+
+  1a2) to anoint (another)
+
+  1a3) to be poured
+
+  1b) (Hiphil) to anoint {STEPBible-TBESH}'
 related_words:
   synonyms:
   - strongs: H3847
-    proximity: 0.8207
+    lemma: לָבַשׁ
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8207 {macula-proximity}
   - strongs: A4887
-    proximity: 0.7946
+    proximity: 0.7946 {macula-proximity}
   - strongs: H4899
-    proximity: 0.7699
+    lemma: מָשִׁיחַ
+    gloss: anointed {openscriptures-strongs}
+    proximity: 0.7699 {macula-proximity}
   - strongs: H4473
-    proximity: 0.7685
+    lemma: מִמְשַׁח
+    gloss: outspread {openscriptures-strongs}
+    proximity: 0.7685 {macula-proximity}
   - strongs: H3323
-    proximity: 0.7325
+    lemma: יִצְהָר
+    gloss: oil {openscriptures-strongs}
+    proximity: 0.7325 {macula-proximity}
   cross_language:
   - strongs: G1746
-    proximity: 0.7651
+    lemma: ἐνδύω
+    gloss: to invest with clothing {openscriptures-strongs}
+    proximity: 0.7651 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

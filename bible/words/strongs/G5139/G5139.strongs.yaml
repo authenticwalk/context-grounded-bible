@@ -5,36 +5,40 @@ transliteration: Trachōnîtis
 definition: rough district; Trachonitis, a region of Syria
 kjv_usage: Trachonitis
 derivation: from a derivative of G5138 (τραχύς);
-extended_definition:
-  gloss: Trachonitis
-  definition: '<b>Τραχωνῖτις</b>, -ιδος, ἡ<BR /> (τραχύς) <BR />Trachonitis, a rough
-    region S. of Damascus (in FlJ, sometimes ἡ Τ., sometimes ό Τράχων): ἡ Τ. χώρα,
-    <ref=''Luk.3.1.''>Luk.3:1.</ref>†<BR /> (AS)'
-  morphology: N:N-F-L
-  source: STEPBible/Abbott-Smith
-etymology:
-  lsj_definition: '<b>Τραχωνῖτις</b>, -ιδος, ἡ<BR /> (τραχύς) <BR />Trachonitis, a
-    rough region S. of Damascus (in FlJ, sometimes ἡ Τ., sometimes ό Τράχων): ἡ Τ.
-    χώρα, <ref=''Luk.3.1.''>Luk.3:1.</ref>†<BR />  (From Abbott-Smith. LSJ has no
-    entry)'
-  source: STEPBible/LSJ
+extended_definition: 'Τραχωνῖτις, -ιδος, ἡ
+
+  (τραχύς)
+
+  Trachonitis, a rough region S. of Damascus (in FlJ, sometimes ἡ Τ., sometimes ό
+  Τράχων): ἡ Τ. χώρα, Luk.3:1.†
+
+  (AS) {STEPBible-TBESG}'
+etymology: 'Τραχωνῖτις, -ιδος, ἡ
+
+  (τραχύς)
+
+  Trachonitis, a rough region S. of Damascus (in FlJ, sometimes ἡ Τ., sometimes ό
+  Τράχων): ἡ Τ. χώρα, Luk.3:1.†
+
+  (From Abbott-Smith. LSJ has no entry) {STEPBible-TFLSJ}'
 related_words:
   synonyms:
   - strongs: G2879
-    proximity: 0.8111
+    lemma: Κορέ
+    gloss: Core {openscriptures-strongs}
+    proximity: 0.8111 {macula-proximity}
   cross_language:
   - strongs: H867
-    proximity: 0.8285
+    proximity: 0.8285 {macula-proximity}
     language: hebrew
   - strongs: H7141
-    proximity: 0.8161
+    lemma: קֹרַח
+    gloss: Korach {openscriptures-strongs}
+    proximity: 0.8161 {macula-proximity}
     language: hebrew
   - strongs: H5041
-    proximity: 0.7929
+    lemma: נְבַלָּט
+    gloss: Neballat {openscriptures-strongs}
+    proximity: 0.7929 {macula-proximity}
     language: hebrew
-source: openscriptures/strongs
-enhancements:
-- STEPBible/Abbott-Smith
-- STEPBible/LSJ
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}

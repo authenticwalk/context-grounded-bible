@@ -6,51 +6,65 @@ pronunciation: zaw-raw'
 definition: disgust
 kjv_usage: loathsome.
 derivation: from H2114 (זוּר) (in the sense of estrangement) (compare H2219 (זָרָה));
-extended_definition:
-  gloss: loathsome
-  definition: nausea, loathing, loathsome thing
-  morphology: H:N-M
-  source: STEPBible/BDB
+extended_definition: nausea, loathing, loathsome thing {STEPBible-TBESH}
 related_words:
   synonyms:
   - strongs: H5010
-    proximity: 0.8179
+    lemma: נָאַר
+    gloss: to reject {openscriptures-strongs}
+    proximity: 0.8179 {macula-proximity}
   - strongs: H1500
-    proximity: 0.815
+    lemma: גְּזֵלָה
+    gloss: '{robbery {openscriptures-strongs}'
+    proximity: 0.815 {macula-proximity}
   - strongs: H8441
-    proximity: 0.8007
+    lemma: תּוֹעֵבַה
+    gloss: properly {openscriptures-strongs}
+    proximity: 0.8007 {macula-proximity}
   - strongs: H3387
-    proximity: 0.7982
+    lemma: יָרוֹק
+    gloss: green {openscriptures-strongs}
+    proximity: 0.7982 {macula-proximity}
   - strongs: H8581
-    proximity: 0.7864
+    lemma: תַּעָב
+    gloss: to loathe {openscriptures-strongs}
+    proximity: 0.7864 {macula-proximity}
   - strongs: H973
-    proximity: 0.7748
+    proximity: 0.7748 {macula-proximity}
   - strongs: H5361
-    proximity: 0.7661
+    lemma: נָקַע
+    gloss: to feel aversion {openscriptures-strongs}
+    proximity: 0.7661 {macula-proximity}
   - strongs: H2603a
-    proximity: 0.7624
+    proximity: 0.7624 {macula-proximity}
   - strongs: H9
-    proximity: 0.751
+    proximity: 0.751 {macula-proximity}
   - strongs: H1279
-    proximity: 0.7502
+    lemma: בִּרְיָה
+    gloss: food {openscriptures-strongs}
+    proximity: 0.7502 {macula-proximity}
   cross_language:
   - strongs: G3404
-    proximity: 0.8245
+    lemma: μισέω
+    gloss: to detest {openscriptures-strongs}
+    proximity: 0.8245 {macula-proximity}
     language: greek
   - strongs: G1390
-    proximity: 0.8144
+    lemma: δόμα
+    gloss: a present {openscriptures-strongs}
+    proximity: 0.8144 {macula-proximity}
     language: greek
   - strongs: G948
-    proximity: 0.7762
+    proximity: 0.7762 {macula-proximity}
     language: greek
   - strongs: G1693
-    proximity: 0.7737
+    lemma: ἐμμαίνομαι
+    gloss: to rave on {openscriptures-strongs}
+    proximity: 0.7737 {macula-proximity}
     language: greek
   - strongs: G4360
-    proximity: 0.7637
+    lemma: προσοχθίζω
+    gloss: to feel indignant at {openscriptures-strongs}
+    proximity: 0.7637 {macula-proximity}
     language: greek
-source: openscriptures/strongs
-enhancements:
-- STEPBible/BDB
-- Clear-Bible/proximity
-license: CC-BY-SA + CC BY 4.0
+source: openscriptures/strongs {CC-BY-SA}
