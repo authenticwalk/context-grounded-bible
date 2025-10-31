@@ -1,11 +1,10 @@
-# Overview
+# MyBibleToolbox - Code Repository
 
-We are attempting to create the largest AI readable commentary on the entire Bible to empower 
-Bible translators, pastors and students to use AI effectively and accurately.  The problem with AI
-(more specifically text prediction models like chatGPT) is they are more poet than academic. Their
-goal is to make the next word sound correct in light of all the data that came before it.  It 
-doesn't want to leave any of your questions unanswered so like the friend who always has an answer it
-answers confidently but not always grounded in truth.
+This repository contains tools, scripts, and skills for AI-powered Bible study. The actual Bible data (commentary and lexicons) is stored in separate repositories for better performance.
+
+## Overview
+
+We are creating the largest AI-readable commentary on the entire Bible to empower Bible translators, pastors and students to use AI effectively and accurately. The problem with AI (more specifically text prediction models like chatGPT) is they are more poet than academic. Their goal is to make the next word sound correct in light of all the data that came before it. It doesn't want to leave any of your questions unanswered so like the friend who always has an answer it answers confidently but not always grounded in truth.
 
 # Solution
 
@@ -21,80 +20,173 @@ So if you ask AI about something common like John 3:16 it has seen a lot and app
 
 So we fix this by providing extensive context so it is grounded in truth.
 
-# Repository Size and Setup
+# Repository Structure
 
-**Important:** This repository contains extensive Bible commentary data (currently 2.6GB, 63,000+ files). Full clones can take several minutes and consume significant disk space.
+This project is split into 3 repositories for better performance:
 
-## Recommended Setup: Sparse Checkout
+## 1. **mybibletoolbox-code** (this repo - ~10MB)
 
-For most users, we recommend using **sparse checkout** to download only what you need:
-
-### Quick Start (Recommended)
-
-```bash
-# Clone with minimal data (fastest)
-git clone --filter=blob:none --sparse https://github.com/authenticwalk/context-grounded-bible
-cd context-grounded-bible
-
-# Setup default working files (tools, scripts, docs)
-./setup-sparse-checkout.sh
-```
-
-This reduces your working directory from **2.6GB → ~100MB** (97% reduction).
-
-### What Gets Included by Default
-
-The sparse checkout includes:
-- `.claude/` - Claude Code configuration
+Tools, scripts, and skills for Bible study:
+- `.claude/` - Claude Code skills and configuration
 - `bible-study-tools/` - Bible study tool scripts
 - `src/` - Source code
-- All documentation files (README, CLAUDE.md, SCHEMA.md, etc.)
-- Core scripts (strongs-fetcher.py, main.py, etc.)
+- `agents/` - Agent configurations
+- Documentation
 
-### Adding Specific Bible Books
-
+**Clone this repo:**
 ```bash
-# Add individual books as needed
-git sparse-checkout add bible/MAT    # Matthew
-git sparse-checkout add bible/JHN    # John
-git sparse-checkout add bible/PHP    # Philippians
-
-# Add all lexicon/word data
-git sparse-checkout add bible/words
+git clone https://github.com/authenticwalk/mybibletoolbox-code
 ```
 
-### For Claude Code Web Users
+## 2. **mybibletoolbox-lexicon** (~63MB)
 
-**Note:** Claude Code web (claude.ai/code) performs full clones automatically. After the repository loads, you can manually run the sparse checkout setup to reduce disk usage:
+Static reference data (Strong's Greek/Hebrew dictionaries):
+- 14,197 word entries
+- Rarely updated
 
+**Clone lexicon data:**
 ```bash
-# In the Claude Code terminal
-./setup-sparse-checkout.sh
+git clone https://github.com/authenticwalk/mybibletoolbox-lexicon data/lexicon
 ```
 
-This won't speed up the initial clone but will reduce working directory size and improve Git operations.
-
-### Full Clone (Not Recommended)
-
-Only use a full clone if you need all Bible commentary data at once:
-
+**Or use sparse checkout for just Greek or Hebrew:**
 ```bash
-git clone https://github.com/authenticwalk/context-grounded-bible
+git clone --filter=blob:none --sparse https://github.com/authenticwalk/mybibletoolbox-lexicon data/lexicon
+cd data/lexicon
+git sparse-checkout set words/strongs/greek  # Or hebrew
 ```
 
-**Warning:** Full clone downloads 2.6GB and takes several minutes.
+## 3. **mybibletoolbox-commentary** (~2.5GB)
 
-### Managing Your Checkout
+AI-generated verse commentary:
+- 49,508+ commentary files
+- Actively growing
+
+**⚠️ IMPORTANT:** Use sparse checkout to get only specific books!
 
 ```bash
-# See what you have checked out
+# Clone with sparse checkout for specific books
+git clone --filter=blob:none --sparse https://github.com/authenticwalk/mybibletoolbox-commentary data/commentary
+cd data/commentary
+git sparse-checkout set commentary/MAT commentary/JHN  # Matthew and John
+```
+
+**See [mybibletoolbox-commentary README](https://github.com/authenticwalk/mybibletoolbox-commentary) for more patterns**
+
+# Quick Start
+
+## For Tool Developers
+
+Just clone this repo - that's it!
+
+```bash
+git clone https://github.com/authenticwalk/mybibletoolbox-code
+cd mybibletoolbox-code
+```
+
+The tools will automatically clone data repositories when needed.
+
+## For Bible Study Users
+
+Clone the code repo and add data as needed:
+
+```bash
+# 1. Clone code/tools
+git clone https://github.com/authenticwalk/mybibletoolbox-code
+cd mybibletoolbox-code
+
+# 2. Clone lexicon data (if studying Greek/Hebrew words)
+git clone https://github.com/authenticwalk/mybibletoolbox-lexicon data/lexicon
+
+# 3. Clone commentary for specific books (if needed)
+git clone --filter=blob:none --sparse https://github.com/authenticwalk/mybibletoolbox-commentary data/commentary
+cd data/commentary
+git sparse-checkout set commentary/MAT  # Add books as needed
+cd ../..
+
+# 4. Use the tools!
+```
+
+## Automatic Data Loading
+
+The Claude Code skills automatically handle data repository cloning:
+- **get-source-languages** - Auto-clones lexicon if needed
+- **quote-bible** - Auto-clones commentary if needed
+- **scripture-study** - Auto-clones commentary if needed
+
+You can just start using the skills, and they'll download required data on first use.
+
+# Working with Data Repositories
+
+## Data Repository Locations
+
+After cloning, the expected directory structure is:
+
+```
+mybibletoolbox-code/          # This repo (code/tools)
+├── .claude/
+├── bible-study-tools/
+├── src/
+└── data/                     # Data repos (auto-created)
+    ├── lexicon/              # mybibletoolbox-lexicon
+    │   └── words/strongs/
+    └── commentary/           # mybibletoolbox-commentary
+        ├── commentary/
+        └── commentaries/
+```
+
+The `data/` directory is in `.gitignore` - you manage data repos separately.
+
+## Repository Size Comparison
+
+**Before split (legacy):**
+- Single repo: 2.6GB, 63,000+ files
+- Clone time: 3-5 minutes
+- Disk usage: 2.6GB minimum
+
+**After split:**
+- Code repo: ~10MB (~100 files)
+- Clone time: 5-10 seconds
+- Disk usage: 10MB (+ data repos as needed)
+
+**Result:** 97% faster clones for developers!
+
+## Managing Commentary Data Size
+
+The commentary repository is large (2.5GB). Best practices:
+
+### Use Sparse Checkout
+
+**Always use sparse checkout for commentary:**
+```bash
+git clone --filter=blob:none --sparse https://github.com/authenticwalk/mybibletoolbox-commentary data/commentary
+cd data/commentary
+
+# Add only books you need
+git sparse-checkout set commentary/MAT commentary/JHN
+
+# Add more books later
+git sparse-checkout add commentary/ROM
+
+# List what you have
 git sparse-checkout list
+```
 
-# Add more directories
-git sparse-checkout add bible/ROM bible/GAL
+### Common Patterns
 
-# Reset to full repository
-git sparse-checkout disable
+**New Testament only:**
+```bash
+git sparse-checkout set commentary/{MAT,MRK,LUK,JHN,ACT,ROM,1CO,2CO,GAL,EPH,PHP,COL}
+```
+
+**Gospels only:**
+```bash
+git sparse-checkout set commentary/{MAT,MRK,LUK,JHN}
+```
+
+**Single book:**
+```bash
+git sparse-checkout set commentary/PHP
 ```
 
 # Structure

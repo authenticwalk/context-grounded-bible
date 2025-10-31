@@ -11,6 +11,40 @@ Retrieve detailed source language (Greek/Hebrew) data for Bible verses, includin
 
 **New:** Also supports direct Strong's number lookups and searching for English words to find all Greek and Hebrew variants (e.g., search "love" to find G0025, G5368, H0157).
 
+## Data Repository Setup
+
+This skill requires the **mybibletoolbox-lexicon** repository for Strong's dictionary data.
+
+### Auto-Clone Lexicon Data
+
+Before using this skill, check if lexicon data exists. If not, auto-clone it:
+
+```bash
+# Check if lexicon exists
+if [ ! -d "data/lexicon" ]; then
+  echo "Lexicon data not found. Cloning mybibletoolbox-lexicon..."
+  git clone https://github.com/authenticwalk/mybibletoolbox-lexicon data/lexicon
+  echo "✓ Lexicon data ready"
+fi
+```
+
+**Expected location:** `data/lexicon/words/strongs/`
+
+**What it contains:**
+- 14,197 Strong's dictionary entries (Greek + Hebrew)
+- 63MB total size
+- Rarely updated (static reference data)
+
+**Note:** The script paths reference the old location (`./bible/words/strongs/`). After the repository split, these paths will need updating OR you can create a symlink:
+
+```bash
+# Create symlink for backward compatibility (temporary solution)
+mkdir -p bible
+ln -s ../data/lexicon/words bible/words
+```
+
+This allows existing scripts to continue working until they're updated to use the new `data/lexicon/` location.
+
 ## When to Use
 
 Use this skill when:

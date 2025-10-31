@@ -3,4 +3,10 @@
 */cache/*
 
 # IMPORTANT: you must keep this exclusion as this may have copyrighted works and we don't want that in source
-*.cache.* 
+*.cache.*
+
+# Data repositories (cloned separately)
+data/
+
+# Split repositories directory (created by split-repository.sh)
+split-repos/ 

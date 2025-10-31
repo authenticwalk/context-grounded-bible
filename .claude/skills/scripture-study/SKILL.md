@@ -9,6 +9,67 @@ description: Study scripture by retrieving and merging all available commentary 
 
 Retrieve and merge all available commentary data for Bible verses to enable comprehensive scripture study. This skill aggregates YAML commentary files from various Bible study tools, providing a unified view of lexical, theological, historical, and practical insights.
 
+## Data Repository Setup
+
+This skill requires the **mybibletoolbox-commentary** repository for verse commentary data.
+
+### Auto-Clone Commentary Data
+
+Before using this skill, check if commentary data exists for the requested book(s). If not, auto-clone with sparse checkout:
+
+```bash
+# Function to ensure commentary book is available
+ensure_commentary_book() {
+  local BOOK=$1  # e.g., "MAT", "JHN", "ROM"
+
+  # Check if commentary repo exists
+  if [ ! -d "data/commentary" ]; then
+    echo "Commentary data not found. Cloning mybibletoolbox-commentary with sparse checkout..."
+    git clone --filter=blob:none --sparse https://github.com/authenticwalk/mybibletoolbox-commentary data/commentary
+    cd data/commentary
+    git sparse-checkout init --cone
+    git sparse-checkout set commentary/${BOOK} commentaries/${BOOK}
+    cd ../..
+    echo "✓ Commentary data ready for ${BOOK}"
+  else
+    # Check if specific book is available
+    if [ ! -d "data/commentary/commentary/${BOOK}" ]; then
+      echo "Adding ${BOOK} to sparse checkout..."
+      cd data/commentary
+      git sparse-checkout add commentary/${BOOK} commentaries/${BOOK}
+      cd ../..
+      echo "✓ ${BOOK} added"
+    fi
+  fi
+}
+
+# Example: For studying Matthew 5:3-10
+ensure_commentary_book "MAT"
+```
+
+**Expected location:**
+- `data/commentary/commentary/{BOOK}/` - Verse commentary
+- `data/commentary/commentaries/{BOOK}/` - Additional commentary data
+
+**What it contains:**
+- ~2.5GB total (all books)
+- Sparse checkout downloads only requested books (~35MB per book average)
+- Multiple commentary types per verse (greek-words, interpretations, context, etc.)
+
+**Sparse checkout strategy:**
+- **Single book study**: Clone only that book
+- **Multiple books**: Add books as needed with `git sparse-checkout add`
+- **Sermon series**: Clone all needed books upfront
+
+**Note:** The script paths may reference old locations (`./bible/commentary/`). After the repository split, create symlinks for backward compatibility:
+
+```bash
+# Create symlink for backward compatibility (temporary solution)
+mkdir -p bible
+ln -s ../data/commentary/commentary bible/commentary
+ln -s ../data/commentary/commentaries bible/commentaries
+```
+
 ## When to Use
 
 Use this skill when:

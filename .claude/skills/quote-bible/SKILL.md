@@ -9,6 +9,64 @@ description: Fetch and display Bible verses in multiple translations when users 
 
 Retrieve and display Bible verses in all available translations using an external fetch script. The skill executes a Python script that fetches verse data and presents it in a clear, formatted output.
 
+## Data Repository Setup
+
+This skill may require the **mybibletoolbox-commentary** repository for verse data.
+
+### Auto-Clone Commentary Data
+
+Before using this skill, check if commentary data exists for the requested book. If not, auto-clone it with sparse checkout:
+
+```bash
+# Function to ensure commentary book is available
+ensure_commentary_book() {
+  local BOOK=$1  # e.g., "MAT", "JHN", "ROM"
+
+  # Check if commentary repo exists
+  if [ ! -d "data/commentary" ]; then
+    echo "Commentary data not found. Cloning mybibletoolbox-commentary with sparse checkout..."
+    git clone --filter=blob:none --sparse https://github.com/authenticwalk/mybibletoolbox-commentary data/commentary
+    cd data/commentary
+    git sparse-checkout init --cone
+    git sparse-checkout set commentary/${BOOK}
+    cd ../..
+    echo "✓ Commentary data ready for ${BOOK}"
+  else
+    # Check if specific book is available
+    if [ ! -d "data/commentary/commentary/${BOOK}" ]; then
+      echo "Adding ${BOOK} to sparse checkout..."
+      cd data/commentary
+      git sparse-checkout add commentary/${BOOK}
+      cd ../..
+      echo "✓ ${BOOK} added"
+    fi
+  fi
+}
+
+# Example: Ensure Matthew is available
+ensure_commentary_book "MAT"
+```
+
+**Expected location:** `data/commentary/commentary/{BOOK}/`
+
+**What it contains:**
+- Generated verse commentary (~2.5GB total, but sparse checkout only gets what you need)
+- Use sparse checkout to download only specific books
+
+**Sparse checkout benefits:**
+- Download only books you need (e.g., just Matthew = ~35MB vs 2.5GB)
+- Faster initial clone
+- Less disk usage
+
+**Note:** The script paths may reference old locations. After the repository split, you can create a symlink for backward compatibility:
+
+```bash
+# Create symlink for backward compatibility (temporary solution)
+mkdir -p bible
+ln -s ../data/commentary/commentary bible/commentary
+ln -s ../data/commentary/commentaries bible/commentaries
+```
+
 ## When to Use
 
 Use this skill when:
